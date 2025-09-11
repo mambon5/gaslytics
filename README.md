@@ -1,0 +1,1 @@
+app de python per calcular el preu del gas (si puja o baixa) basat en tweets diaris
