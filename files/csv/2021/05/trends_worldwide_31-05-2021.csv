@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,AnadoluEfes,97.004
+00:10,2,EuroLeague,67.142
+00:10,3,F4Glory,73.889
+00:10,4,Flamengo,216.497
+00:10,5,Bruno Henrique,40.565
+00:10,6,Camacho,
+00:10,7,Ergin Ataman,49.381
+00:10,8,Diego Alves,40.320
+00:10,9,Kuzma,15.950
+00:10,10,الهلال_بطل_الدوري_2021,51.507
+00:41,1,AnadoluEfes,100.601
+00:41,2,EuroLeague,69.975
+00:41,3,F4Glory,76.650
+00:41,4,Flamengo,226.527
+00:41,5,Camacho,12.268
+00:41,6,Bruno Henrique,41.698
+00:41,7,الهلال_بطل_الدوري_2021,57.421
+00:41,8,Ergin Ataman,51.932
+00:41,9,Diego Alves,41.606
+00:41,10,Kuzma,16.893
+01:10,1,AnadoluEfes,102.577
+01:10,2,EuroLeague,71.412
+01:10,3,F4Glory,77.828
+01:10,4,Camacho,12.869
+01:10,5,Flamengo,230.901
+01:10,6,الهلال_بطل_الدوري_2021,61.242
+01:10,7,Bruno Henrique,42.481
+01:10,8,Ergin Ataman,53.064
+01:10,9,Diego Alves,42.540
+01:10,10,Kuzma,17.492
+01:41,1,AnadoluEfes,103.818
+01:41,2,EuroLeague,72.273
+01:41,3,Corinthians,89.444
+01:41,4,Camacho,14.305
+01:41,5,Flamengo,238.074
+01:41,6,F4Glory,78.568
+01:41,7,الهلال_بطل_الدوري_2021,64.950
+01:41,8,Bruno Henrique,43.248
+01:41,9,AEWDoN,13.239
+01:41,10,Ergin Ataman,53.814
+02:10,1,AnadoluEfes,104.472
+02:10,2,AEWDoN,19.025
+02:10,3,Corinthians,90.616
+02:10,4,DoubleOrNothing,18.425
+02:10,5,EuroLeague,72.766
+02:10,6,Camacho,14.541
+02:10,7,DebatePresidencialJNE,
+02:10,8,Kyrie,13.689
+02:10,9,Flamengo,240.569
+02:10,10,Riho,
+02:41,1,DebatePresidencialJNE,28.747
+02:41,2,AEWDoN,28.806
+02:41,3,AnadoluEfes,105.026
+02:41,4,Lindoso,
+02:41,5,VERZUZ,
+02:41,6,DoubleOrNothing,25.352
+02:41,7,Lomba,10.276
+02:41,8,Corinthians,92.631
+02:41,9,Castillo,155.907
+02:41,10,Keiko,156.752
+03:10,1,DebatePresidencialJNE,57.269
+03:10,2,AEWDoN,37.796
+03:10,3,VERZUZ,12.860
+03:10,4,Castillo,176.991
+03:10,5,Keiko,182.483
+03:10,6,DoubleOrNothing,31.197
+03:10,7,Kyrie,22.825
+03:10,8,AnadoluEfes,105.490
+03:10,9,Lindoso,
+03:10,10,Lomba,11.582
+03:41,1,DebatePresidencialJNE,89.332
+03:41,2,AEWDoN,51.374
+03:41,3,Keiko,226.121
+03:41,4,Castillo,216.246
+03:41,5,VERZUZ,17.843
+03:41,6,DoubleOrNothing,39.219
+03:41,7,Cruz Azul,52.039
+03:41,8,Kyrie,28.661
+03:41,9,Lindoso,
+03:41,10,Jungle Boy,
+04:10,1,DebatePresidencialJNE,112.675
+04:10,2,AEWDoN,60.724
+04:10,3,Cruz Azul,63.800
+04:10,4,VERZUZ,23.697
+04:10,5,Keiko,248.424
+04:10,6,Castillo,236.496
+04:10,7,Copa América,58.596
+04:10,8,Kyrie,41.884
+04:10,9,DoubleOrNothing,44.663
+04:10,10,Swizz,10.162
+04:41,1,Cruz Azul,80.292
+04:41,2,DebatePresidencialJNE,136.285
+04:41,3,Copa América,83.142
+04:41,4,AEWDoN,74.691
+04:41,5,MareOfEasttown,
+04:41,6,Keiko,284.169
+04:41,7,Castillo,272.678
+04:41,8,VERZUZ,25.699
+04:41,9,Kyrie,54.527
+04:41,10,DoubleOrNothing,53.883
+05:10,1,Cruz Azul,91.343
+05:10,2,DebatePresidencialJNE,155.866
+05:10,3,Copa América,95.740
+05:10,4,MareOfEasttown,12.980
+05:10,5,AEWDoN,82.151
+05:10,6,Keiko,304.818
+05:10,7,Castillo,289.800
+05:10,8,Kyrie,66.902
+05:10,9,VERZUZ,26.411
+05:10,10,Conmebol,74.953
+05:41,1,Cruz Azul,183.017
+05:41,2,MareOfEasttown,16.621
+05:41,3,DebatePresidencialJNE,164.833
+05:41,4,Copa América,104.837
+05:41,5,FinalLigaMX,11.981
+05:41,6,AEWDoN,93.445
+05:41,7,Kyrie,75.894
+05:41,8,Keiko,323.135
+05:41,9,PoseFX,13.435
+05:41,10,Castillo,305.531
+06:10,1,Cruz Azul,244.947
+06:10,2,MareOfEasttown,18.948
+06:10,3,AEWDoN,103.620
+06:10,4,DebatePresidencialJNE,170.738
+06:10,5,Copa América,109.942
+06:10,6,FinalLigaMX,13.466
+06:10,7,Kyrie,81.969
+06:10,8,AEWDoubleOrNothing,21.208
+06:10,9,Keiko,328.051
+06:10,10,Castillo,311.004
+06:41,1,Cruz Azul,284.198
+06:41,2,MareOfEasttown,20.568
+06:41,3,AEWDoN,107.738
+06:41,4,Copa América,114.389
+06:41,5,DebatePresidencialJNE,174.982
+06:41,6,FinalLigaMX,14.235
+06:41,7,Kyrie,86.901
+06:41,8,AEWDoubleOrNothing,22.111
+06:41,9,Keiko,337.746
+06:41,10,Castillo,320.581
+07:10,1,Cruz Azul,308.880
+07:10,2,MareOfEasttown,21.748
+07:10,3,700KFORFREEZE,43.103
+07:10,4,FREEZE700K,43.255
+07:10,5,AEWDoN,109.026
+07:10,6,Copa América,116.866
+07:10,7,DebatePresidencialJNE,177.396
+07:10,8,Kyrie,90.264
+07:10,9,TwitterGeriT Açıldıı,
+07:10,10,Keiko,340.184
+07:41,1,Cruz Azul,327.097
+07:41,2,MareOfEasttown,22.668
+07:41,3,700KFORFREEZE,60.027
+07:41,4,FREEZE700K,60.208
+07:41,5,もらえる15種のお菓子,10.933
+07:41,6,WorldNoTobaccoDay,42.416
+07:41,7,Copa América,118.857
+07:41,8,BilenKazzanır GooglePlayde,
+07:41,9,Kyrie,93.268
+07:41,10,TwitterGeriT Açıldıı,
+08:10,1,Cruz Azul,338.386
+08:10,2,MareOfEasttown,23.450
+08:10,3,700KFORFREEZE,64.598
+08:10,4,FREEZE700K,64.774
+08:10,5,WorldNoTobaccoDay,45.212
+08:10,6,もらえる15種のお菓子,11.675
+08:10,7,bilenkazzanır googleplayde,
+08:10,8,Copa América,120.163
+08:10,9,進撃かちいかわかクイズ,
+08:10,10,私のクマのプーさん病理テスト,
+08:41,1,Cruz Azul,347.688
+08:41,2,あんスタSSスタンプラリー,
+08:41,3,SS沖縄予選,
+08:41,4,MareOfEasttown,24.018
+08:41,5,700KFORFREEZE,66.416
+08:41,6,FREEZE700K,66.511
+08:41,7,勝負の行方,
+08:41,8,私のクマのプーさん病理テスト,
+08:41,9,進撃かちいかわかクイズ,
+08:41,10,bilenkazzanır googleplayde,
+09:10,1,Cruz Azul,353.289
+09:10,2,あんスタSSスタンプラリー,10.136
+09:10,3,SS沖縄予選,
+09:10,4,勝負の行方,
+09:10,5,pazartesi,
+09:10,6,MondayMotivation,24.191
+09:10,7,MareOfEasttown,24.338
+09:10,8,私のクマのプーさん病理テスト,
+09:10,9,進撃かちいかわかクイズ,
+09:10,10,応援メッセージ,14.727
+09:41,1,Cruz Azul,357.699
+09:41,2,あんスタSSスタンプラリー,13.272
+09:41,3,SS沖縄予選,12.076
+09:41,4,勝負の行方,10.338
+09:41,5,MondayMotivation,26.992
+09:41,6,pazartesi,10.013
+09:41,7,育成キャラで実装してほしいウマ娘,
+09:41,8,私のクマのプーさん病理テスト,
+09:41,9,進撃かちいかわかクイズ,
+09:41,10,応援メッセージ,17.045
+10:10,1,あんスタSSスタンプラリー,15.263
+10:10,2,SS沖縄予選,13.904
+10:10,3,Cruz Azul,360.293
+10:10,4,TheFREEZINGpoint,56.483
+10:10,5,WeKnowWeLoveTXT,56.502
+10:10,6,FREEZE OUT NOW,57.880
+10:10,7,勝負の行方,11.771
+10:10,8,MondayMotivation,29.461
+10:10,9,私のクマのプーさん病理テスト,
+10:10,10,進撃かちいかわかクイズ,
+10:41,1,TheFREEZINGpoint,146.908
+10:41,2,WeKnowWeLoveTXT,146.672
+10:41,3,FREEZE OUT NOW,144.558
+10:41,4,0X1LOVESONG,282.725
+10:41,5,あんスタSSスタンプラリー,17.168
+10:41,6,SS沖縄予選,15.664
+10:41,7,勝負の行方,13.209
+10:41,8,HELLO SOLOIST JOY,32.272
+10:41,9,Cruz Azul,362.607
+10:41,10,私のクマのプーさん病理テスト,
+11:10,1,WeKnowWeLoveTXT,227.368
+11:10,2,TheFREEZINGpoint,228.075
+11:10,3,0X1LOVESONG,389.284
+11:10,4,FREEZE OUT NOW,215.275
+11:10,5,Hello_JoySolo,62.022
+11:10,6,안녕_조이_솔로데뷔,61.234
+11:10,7,HELLO SOLOIST JOY,52.423
+11:10,8,ゴスマリ,
+11:10,9,勝負の行方,14.371
+11:10,10,私のクマのプーさん病理テスト,
+11:41,1,0X1LOVESONG,514.615
+11:41,2,WeKnowWeLoveTXT,276.609
+11:41,3,TheFREEZINGpoint,283.997
+11:41,4,FREEZE OUT NOW,248.256
+11:41,5,TXT_FREEZE,364.807
+11:41,6,Hello_JoySolo,85.668
+11:41,7,ゴスマリ,11.778
+11:41,8,HELLO SOLOIST JOY,64.916
+11:41,9,yeonjun,106.267
+11:41,10,FROST,40.403
+12:10,1,0X1LOVESONG,563.541
+12:10,2,WeKnowWeLoveTXT,298.554
+12:10,3,TheFREEZINGpoint,309.791
+12:10,4,FREEZE OUT NOW,261.229
+12:10,5,TXT_FREEZE,405.542
+12:10,6,Hello_JoySolo,97.360
+12:10,7,ゴスマリ,16.970
+12:10,8,Frost,56.768
+12:10,9,yeonjun,116.958
+12:10,10,HELLO SOLOIST JOY,70.294
+12:41,1,0X1LOVESONG,612.993
+12:41,2,WeKnowWeLoveTXT,309.267
+12:41,3,TheFREEZINGpoint,322.002
+12:41,4,FREEZE OUT NOW,267.774
+12:41,5,TXT_FREEZE,454.160
+12:41,6,ゴスマリ,21.730
+12:41,7,Hello_JoySolo,105.743
+12:41,8,Frost,66.780
+12:41,9,yeonjun,125.097
+12:41,10,HELLO SOLOIST JOY,74.154
+13:10,1,0X1LOVESONG,650.657
+13:10,2,WeKnowWeLoveTXT,315.007
+13:10,3,TheFREEZINGpoint,327.792
+13:10,4,TXT_FREEZE,487.723
+13:10,5,FREEZE OUT NOW,270.508
+13:10,6,スカッとカラオケ,13.986
+13:10,7,ゴスマリ,26.266
+13:10,8,私のクマのプーさん病理テスト,
+13:10,9,FROST,70.299
+13:10,10,yeonjun,130.128
+13:41,1,0X1LOVESONG,666.379
+13:41,2,WeKnowWeLoveTXT,318.102
+13:41,3,TheFREEZINGpoint,330.810
+13:41,4,スカッとカラオケ,21.266
+13:41,5,น้องอาซาร์ของพี่กลัฟ,91.324
+13:41,6,FREEZE OUT NOW,271.967
+13:41,7,ゴスマリ,30.410
+13:41,8,私のクマのプーさん病理テスト,
+13:41,9,フィガロ,21.503
+13:41,10,Bunu NiyeGizlediniz,
+14:10,1,0X1LOVESONG,679.332
+14:10,2,スカッとカラオケ,25.623
+14:10,3,WeKnowWeLoveTXT,320.680
+14:10,4,TheFREEZINGpoint,333.549
+14:10,5,น้องอาซาร์ของพี่กลัฟ,148.654
+14:10,6,フィガロ,29.427
+14:10,7,ゴスマリ,33.485
+14:10,8,FREEZE OUT NOW,273.358
+14:10,9,私のクマのプーさん病理テスト,
+14:10,10,Bunu NiyeGizlediniz,
+14:41,1,女王の法医学,30.583
+14:41,2,0X1LOVESONG,695.226
+14:41,3,MemorialDay,64.352
+14:41,4,ARSD,86.970
+14:41,5,スカッとカラオケ,26.522
+14:41,6,フィガロ,33.978
+14:41,7,私のクマのプーさん病理テスト,10.385
+14:41,8,ゴスマリ,36.125
+14:41,9,夏のボーナス査定,
+14:41,10,FREEZE OUT NOW,275.070
+15:10,1,MemorialDay,79.006
+15:10,2,女王の法医学,39.836
+15:10,3,ARSD,126.847
+15:10,4,ARMYSelcaDay,105.518
+15:10,5,あなたのボーナス,
+15:10,6,夏のボーナス査定,
+15:10,7,私のクマのプーさん病理テスト,11.330
+15:10,8,フィガロ,36.310
+15:10,9,ゴスマリ,38.338
+15:10,10,Cergy,88.062
+15:41,1,MemorialDay,99.676
+15:41,2,ARSD,163.599
+15:41,3,ARMYSelcaDay,137.508
+15:41,4,あなたのボーナス,
+15:41,5,女王の法医学,40.241
+15:41,6,夏のボーナス査定,
+15:41,7,私のクマのプーさん病理テスト,12.347
+15:41,8,フィガロ,38.688
+15:41,9,Cergy,100.503
+15:41,10,ゴスマリ,40.375
+16:10,1,SixTONES1ヶ月ありがとう,21.042
+16:10,2,MemorialDay,120.191
+16:10,3,ARSD,193.593
+16:10,4,ARMYSelcaDay,163.717
+16:10,5,teamSixTONES,
+16:10,6,夏のボーナス査定,
+16:10,7,星のHIKARI,
+16:10,8,私のクマのプーさん病理テスト,13.239
+16:10,9,Cergy,111.419
+16:10,10,フィガロ,39.826
+16:41,1,MemorialDay,143.854
+16:41,2,whindersson,72.786
+16:41,3,SixTONES1ヶ月ありがとう,25.191
+16:41,4,ARSD,222.013
+16:41,5,ARMYSelcaDay,188.088
+16:41,6,Copa América,190.713
+16:41,7,teamSixTONES,
+16:41,8,Conmebol,167.175
+16:41,9,夏のボーナス査定,
+16:41,10,星のHIKARI,
+17:10,1,whindersson,116.146
+17:10,2,MemorialDay,167.418
+17:10,3,Copa América,231.424
+17:10,4,ARSD,250.857
+17:10,5,ARMYSelcaDay,212.738
+17:10,6,SixTONES1ヶ月ありがとう,27.384
+17:10,7,Conmebol,204.778
+17:10,8,xxxx_SixTONES,20.519
+17:10,9,BigG Patron,
+17:10,10,João Miguel,26.589
+17:41,1,Whindersson,150.308
+17:41,2,MemorialDay,191.590
+17:41,3,Copa América,271.862
+17:41,4,ARMYSelcaDay,244.645
+17:41,5,ARSD,283.709
+17:41,6,SixTONES1ヶ月ありがとう,28.691
+17:41,7,Conmebol,234.125
+17:41,8,xxxx_SixTONES,23.416
+17:41,9,João Miguel,35.468
+17:41,10,bigg patron,
+18:10,1,Whindersson,178.620
+18:10,2,MemorialDay,213.030
+18:10,3,Copa América,307.758
+18:10,4,ARMYSelcaDay,266.752
+18:10,5,ARSD,305.980
+18:10,6,Conmebol,256.483
+18:10,7,João Miguel,41.158
+18:10,8,SixTONES1ヶ月ありがとう,29.379
+18:10,9,EXO_ScreeningActivated,267.540
+18:10,10,BigG Patron,
+18:41,1,Whindersson,216.437
+18:41,2,Copa América,342.723
+18:41,3,MemorialDay,235.958
+18:41,4,ARMYSelcaDay,286.653
+18:41,5,Profiline KimBaktı,
+18:41,6,ARSD,325.693
+18:41,7,Conmebol,275.220
+18:41,8,João Miguel,44.935
+18:41,9,EXO_ScreeningActivated,287.008
+18:41,10,HAPPY PRIDE MONTH,38.217
+19:10,1,Whindersson,244.396
+19:10,2,MemorialDay,254.230
+19:10,3,Copa América,373.289
+19:10,4,ARMYSelcaDay,301.321
+19:10,5,ARSD,339.476
+19:10,6,Profiline KimBaktı,
+19:10,7,kabinetoplantısı,
+19:10,8,Conmebol,289.858
+19:10,9,HAPPY PRIDE MONTH,46.460
+19:10,10,João Miguel,47.412
+19:41,1,kabinetoplantısı,16.851
+19:41,2,Whindersson,265.238
+19:41,3,MemorialDay,273.273
+19:41,4,Copa América,402.553
+19:41,5,ARMYSelcaDay,314.408
+19:41,6,ARSD,352.822
+19:41,7,1Hazirandanİtibaren,20.090
+19:41,8,Profiline KimBaktı,
+19:41,9,HAPPY PRIDE MONTH,53.877
+19:41,10,Conmebol,302.242
+20:10,1,kabinetoplantısı,21.338
+20:10,2,Copa América,426.823
+20:10,3,MemorialDay,288.679
+20:10,4,Whindersson,268.810
+20:10,5,1Hazirandanİtibaren,23.349
+20:10,6,ARMYSelcaDay,325.159
+20:10,7,yasaklar,
+20:10,8,Profiline KimBaktı,
+20:10,9,HAPPY PRIDE MONTH,59.447
+20:10,10,Conmebol,311.043
+20:41,1,kabinetoplantısı,25.333
+20:41,2,NBAnoGaules,18.357
+20:41,3,Copa América,444.786
+20:41,4,MemorialDay,304.702
+20:41,5,yasaklar,11.108
+20:41,6,1Hazirandanİtibaren,26.311
+20:41,7,Whindersson,283.410
+20:41,8,Luísa,53.405
+20:41,9,13 Eylül,10.292
+20:41,10,HAPPY PRIDE MONTH,76.948
+21:10,1,kabinetoplantısı,28.086
+21:10,2,NBAnoGaules,22.009
+21:10,3,yasaklar,16.556
+21:10,4,Copa América,474.813
+21:10,5,MemorialDay,317.931
+21:10,6,1Hazirandanİtibaren,28.307
+21:10,7,Whindersson,283.266
+21:10,8,Luísa,65.837
+21:10,9,Naomi Osaka,50.312
+21:10,10,Maria,359.596
+21:41,1,yasaklar,22.702
+21:41,2,kabinetoplantısı,30.520
+21:41,3,NBAnoGaules,23.994
+21:41,4,Copa América,498.030
+21:41,5,MemorialDay,330.341
+21:41,6,1Hazirandanitibaren,29.650
+21:41,7,Luísa,76.940
+21:41,8,Whindersson,294.150
+21:41,9,Naomi Osaka,62.200
+21:41,10,13 Eylül,14.280
+22:10,1,yasaklar,28.812
+22:10,2,Copa América,519.126
+22:10,3,Luísa,84.511
+22:10,4,NBAnoGaules,25.275
+22:10,5,kabinetoplantısı,32.562
+22:10,6,MemorialDay,340.050
+22:10,7,1Hazirandanİtibaren,30.742
+22:10,8,Whindersson,296.050
+22:10,9,Naomi Osaka,71.997
+22:10,10,Fabra,
+22:41,1,yasaklar,34.090
+22:41,2,Copa América,541.324
+22:41,3,Luísa,93.012
+22:41,4,NBAnoGaules,26.118
+22:41,5,MemorialDay,351.966
+22:41,6,kabinetoplantısı,34.132
+22:41,7,tommy,110.220
+22:41,8,Naomi Osaka,83.480
+22:41,9,1Hazirandanİtibaren,31.436
+22:41,10,Whindersson,303.846
+23:10,1,yasaklar,38.501
+23:10,2,Copa América,560.433
+23:10,3,kabinetoplantısı,35.283
+23:10,4,NBAnoGaules,26.903
+23:10,5,MemorialDay,360.600
+23:10,6,Luísa,98.770
+23:10,7,SendenNefretEdiyoruz,21.018
+23:10,8,Russo,27.151
+23:10,9,Whindersson,306.134
+23:10,10,Naomi Osaka,92.718
+23:41,1,MaskSinger2,11.282
+23:41,2,SendenNefretEdiyoruz,26.423
+23:41,3,yasaklar,42.358
+23:41,4,isola,19.069
+23:41,5,Copa América,582.270
+23:41,6,Luísa,105.188
+23:41,7,Lulagenocida,28.162
+23:41,8,Naomi Osaka,103.542
+23:41,9,Russo,28.801
+23:41,10,tommy,109.923

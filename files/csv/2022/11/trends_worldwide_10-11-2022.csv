@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,ImACeleb,67.589
+00:10,2,10Kasım,149.171
+00:10,3,Matt Hancock,39.827
+00:10,4,Pepi,
+00:10,5,Kelleher,19.431
+00:10,6,USMNT,
+00:10,7,BudLightCountry,
+00:10,8,Lewis Hall,22.106
+00:10,9,Twitter Blue,408.021
+00:10,10,Pulisic,16.460
+00:40,1,ImACeleb,69.725
+00:40,2,10Kasım,151.649
+00:40,3,Matt Hancock,41.959
+00:40,4,Pepi,10.487
+00:40,5,BudLightCountry,
+00:40,6,Twitter Blue,428.519
+00:40,7,Kelleher,20.854
+00:40,8,USMNT,
+00:40,9,VamosColoColo,
+00:40,10,Pulisic,17.117
+01:10,1,10Kasım,153.305
+01:10,2,ImACeleb,70.426
+01:10,3,Pepi,11.281
+01:10,4,Matt Hancock,42.907
+01:10,5,Twitter Blue,428.145
+01:10,6,BudLightCountry,
+01:10,7,Ceará,12.051
+01:10,8,VamosColoColo,
+01:10,9,AUXÍLIO 600,72.902
+01:10,10,LoveisBlindS3,26.415
+01:40,1,Ceará,15.734
+01:40,2,10Kasım,154.606
+01:40,3,ImACeleb,71.320
+01:40,4,LoveisBlindS3,28.337
+01:40,5,VamosColoColo,
+01:40,6,Twitter Blue,440.362
+01:40,7,Pepi,11.941
+01:40,8,BudLightCountry,
+01:40,9,Matt Hancock,43.844
+01:40,10,AUXÍLIO 600,82.329
+02:10,1,Ceará,17.099
+02:10,2,LoveisBlindS3,30.248
+02:10,3,Hugo,64.688
+02:10,4,Twitter Blue,441.753
+02:10,5,BudLightCountry,10.874
+02:10,6,Fortaleza,18.515
+02:10,7,VamosColoColo,
+02:10,8,Pepi,12.419
+02:10,9,10Kasım,155.508
+02:10,10,AUXÍLIO 600,90.898
+02:40,1,Hugo,76.365
+02:40,2,Marcos,119.253
+02:40,3,AEWDynamite,14.683
+02:40,4,Juliana,31.175
+02:40,5,Juventude,13.357
+02:40,6,Fortaleza,21.870
+02:40,7,LoveisBlindS3,32.088
+02:40,8,CMAawards,11.712
+02:40,9,Ceará,18.521
+02:40,10,Bragantino,
+03:10,1,Julieta,43.754
+03:10,2,AEWDynamite,25.027
+03:10,3,Marcos,121.380
+03:10,4,Juliana,37.201
+03:10,5,Hugo,77.744
+03:10,6,GH2002,41.996
+03:10,7,GranHermano2022,14.716
+03:10,8,Juventude,15.291
+03:10,9,CMAawards,14.629
+03:10,10,Survivor,
+03:40,1,GH22,139.230
+03:40,2,AEWDynamite,32.761
+03:40,3,Julieta,50.170
+03:40,4,Juliana,42.724
+03:40,5,GH2022,168.052
+03:40,6,Marcos,128.508
+03:40,7,GranHermano2022,20.985
+03:40,8,Nacho,47.767
+03:40,9,Hugo,80.062
+03:40,10,Scarpa,14.476
+04:10,1,GH22,150.398
+04:10,2,Juliana,47.243
+04:10,3,AEWDynamite,38.886
+04:10,4,GH2022,181.390
+04:10,5,Julieta,53.195
+04:10,6,GranHermano2022,26.060
+04:10,7,ProvaDoFazendeiro,17.824
+04:10,8,Marcos,128.413
+04:10,9,Nacho,55.790
+04:10,10,Tora,116.524
+04:40,1,GH22,158.772
+04:40,2,ProvaDoFazendeiro,27.803
+04:40,3,Juliana,49.469
+04:40,4,AEWDynamite,40.769
+04:40,5,GH2002,68.955
+04:40,6,Julieta,55.689
+04:40,7,GranHermano2022,28.036
+04:40,8,Nacho,61.518
+04:40,9,Marcos,132.204
+04:40,10,Tora,124.695
+05:10,1,ProvaDoFazendeiro,30.003
+05:10,2,GH22,160.250
+05:10,3,Juliana,50.223
+05:10,4,AEWDynamite,41.771
+05:10,5,CMAawards,26.588
+05:10,6,GH2002,70.063
+05:10,7,Nacho,63.470
+05:10,8,Julieta,56.441
+05:10,9,Marcos,131.876
+05:10,10,Tora,126.091
+05:40,1,ProvaDoFazendeiro,31.216
+05:40,2,GH22,163.662
+05:40,3,AEWDynamite,42.642
+05:40,4,CMAawards,28.339
+05:40,5,Juliana,51.314
+05:40,6,GH2002,71.756
+05:40,7,Nacho,65.927
+05:40,8,Julieta,57.698
+05:40,9,Marcos,134.205
+05:40,10,Selamat Hari Pahlawan,17.903
+06:10,1,ProvaDoFazendeiro,31.750
+06:10,2,CMAawards,29.337
+06:10,3,AEWDynamite,43.242
+06:10,4,GH22,161.617
+06:10,5,Juliana,51.634
+06:10,6,WYATonKumuUSA,48.535
+06:10,7,Nacho,66.659
+06:10,8,D-3 WYATTourLosAngeles,58.072
+06:10,9,Selamat Hari Pahlawan,19.259
+06:10,10,Julieta,57.961
+06:40,1,10Kasım,189.397
+06:40,2,OnKasım,
+06:40,3,VenmoMe,
+06:40,4,Clippers,13.740
+06:40,5,CMAawards,30.163
+06:40,6,WYATonKumuUSA,58.130
+06:40,7,Juliana,52.229
+06:40,8,D-3 WYATTourLosAngeles,65.913
+06:40,9,Selamat Hari Pahlawan,20.629
+06:40,10,Mustafa Kemal Atatürk,112.738
+07:10,1,OnKasım,
+07:10,2,10Kasım,206.617
+07:10,3,NgopiDaring Bela Negara,
+07:10,4,Pahlawan DiEra Digital,
+07:10,5,Indonesia Kuat Maju,
+07:10,6,Mustafa Kemal Atatürk,125.329
+07:10,7,VenmoMe,
+07:10,8,INDvsENG,46.599
+07:10,9,Saygı,169.244
+07:10,10,Atam,45.908
+07:40,1,OnKasım,12.611
+07:40,2,10Kasım,234.157
+07:40,3,Atam,53.604
+07:40,4,Mustafa Kemal Atatürk,143.149
+07:40,5,NgopiDaring Bela Negara,
+07:40,6,Pahlawan DiEra Digital,
+07:40,7,Indonesia Kuat Maju,
+07:40,8,Saygı,190.972
+07:40,9,INDvsENG,50.126
+07:40,10,VenmoMe,
+08:10,1,10Kasım,255.277
+08:10,2,OnKasım,15.221
+08:10,3,Atam,57.767
+08:10,4,Mustafa Kemal Atatürk,154.956
+08:10,5,INDvsENG,54.303
+08:10,6,Saygı,203.160
+08:10,7,VenmoMe,
+08:10,8,NgopiDaring Bela Negara,
+08:10,9,Pahlawan DiEra Digital,
+08:10,10,Indonesia Kuat Maju,
+08:40,1,10Kasım,270.329
+08:40,2,OnKasım,17.973
+08:40,3,INDvsENG,62.133
+08:40,4,Mustafa Kemal Atatürk,166.443
+08:40,5,Atam,61.704
+08:40,6,Saygı,215.426
+08:40,7,あなたの地雷ちゃん度,
+08:40,8,에스엠_물량없는_예판을_왜받나요,24.592
+08:40,9,NgopiDaring Bela Negara,
+08:40,10,Pahlawan DiEra Digital,
+09:10,1,INDvsENG,77.295
+09:10,2,10Kasim1938,93.265
+09:10,3,OnKasım,19.895
+09:10,4,Mustafa Kemal Atatürk,175.295
+09:10,5,Atam,64.587
+09:10,6,あなたの地雷ちゃん度,
+09:10,7,TeamIndia,25.735
+09:10,8,Saygı,223.707
+09:10,9,フルロナ,
+09:10,10,NgopiDaring Bela Negara,
+09:40,1,INDvsENG,100.612
+09:40,2,10Kasim1938,99.146
+09:40,3,OnKasım,21.435
+09:40,4,KL Rahul,12.916
+09:40,5,あなたの地雷ちゃん度,
+09:40,6,Mustafa Kemal Atatürk,185.261
+09:40,7,LINEMUSICでキスマイ,
+09:40,8,UygunnFiyatlıı TTVerilir,
+09:40,9,Atam,68.056
+09:40,10,Rohit,49.388
+10:10,1,INDvsENG,120.245
+10:10,2,10Kasim1938,103.832
+10:10,3,あなたの地雷ちゃん度,
+10:10,4,OnKasım,22.674
+10:10,5,KL Rahul,
+10:10,6,Mustafa Kemal Atatürk,192.376
+10:10,7,Rohit,53.906
+10:10,8,UygunnFiyatlıı TTVerilir,
+10:10,9,LINEMUSICでキスマイ,
+10:10,10,Atam,70.489
+10:40,1,INDvsENG,140.597
+10:40,2,10Kasim1938,108.313
+10:40,3,あなたの地雷ちゃん度,
+10:40,4,Hardik,19.987
+10:40,5,OnKasım,23.664
+10:40,6,KL Rahul,
+10:40,7,Mustafa Kemal Atatürk,200.434
+10:40,8,Rohit,56.700
+10:40,9,T20worldcup22,14.204
+10:40,10,UygunnFiyatlıı TTVerilir,
+11:10,1,INDvsENG,169.035
+11:10,2,HardikPandya,
+11:10,3,あなたの地雷ちゃん度,
+11:10,4,ベストヒット歌謡祭,124.321
+11:10,5,10Kasim1938,112.557
+11:10,6,KL Rahul,
+11:10,7,Rohit,59.568
+11:10,8,Mustafa Kemal Atatürk,205.739
+11:10,9,UygunnFiyatlıı TTVerilir,
+11:10,10,地雷ちゃん度80,
+11:40,1,INDvsENG,205.041
+11:40,2,ベストヒット歌謡祭,162.798
+11:40,3,BEFIRST,44.292
+11:40,4,HardikPandya,
+11:40,5,あなたの地雷ちゃん度,
+11:40,6,Rohit,67.661
+11:40,7,Hales,
+11:40,8,KL Rahul,
+11:40,9,England,205.770
+11:40,10,Buttler,11.697
+12:10,1,INDvsENG,279.333
+12:10,2,ベストヒット歌謡祭,204.929
+12:10,3,England,243.431
+12:10,4,T20Iworldcup2022,92.604
+12:10,5,Hales,20.130
+12:10,6,TeamIndia,52.704
+12:10,7,BEFIRST,50.738
+12:10,8,Rohit,81.977
+12:10,9,KL Rahul,33.644
+12:10,10,Kohli,96.603
+12:40,1,INDvsENG,360.004
+12:40,2,ベストヒット歌謡祭,269.738
+12:40,3,T20Iworldcup2022,112.805
+12:40,4,England,287.926
+12:40,5,TeamIndia,73.325
+12:40,6,Hales,27.118
+12:40,7,キスマイ想花初披露,16.834
+12:40,8,Rohit,103.401
+12:40,9,KL Rahul,40.652
+12:40,10,Grace,203.064
+13:10,1,INDvsENG,400.639
+13:10,2,ベストヒット歌謡祭,397.998
+13:10,3,T20Iworldcup2022,111.988
+13:10,4,England,301.783
+13:10,5,TeamIndia,84.020
+13:10,6,Hales,30.024
+13:10,7,キスマイ想花初披露,24.029
+13:10,8,Rohit,115.584
+13:10,9,Grace,210.317
+13:10,10,KL Rahul,44.790
+13:40,1,INDvsENG,429.152
+13:40,2,ベストヒット歌謡祭,464.097
+13:40,3,T20Iworldcup2022,119.281
+13:40,4,England,320.112
+13:40,5,BazaarSGXApo,379.757
+13:40,6,TeamIndia,91.470
+13:40,7,Hales,32.440
+13:40,8,Rohit,126.452
+13:40,9,Grace,221.178
+13:40,10,KL Rahul,48.097
+14:10,1,INDvsENG,452.181
+14:10,2,ベストヒット歌謡祭,489.373
+14:10,3,BazaarSGXApo,638.315
+14:10,4,T20Iworldcup2022,118.315
+14:10,5,England,327.279
+14:10,6,TeamIndia,97.117
+14:10,7,Hales,34.565
+14:10,8,Rohit,134.430
+14:10,9,Buttler,33.601
+14:10,10,Grace,220.080
+14:40,1,INDvsENG,475.191
+14:40,2,silent,65.020
+14:40,3,ベストヒット歌謡祭,507.766
+14:40,4,BazaarSGXApo,837.169
+14:40,5,England,344.217
+14:40,6,T20Iworldcup2022,123.982
+14:40,7,Hales,36.339
+14:40,8,Rohit,141.962
+14:40,9,Buttler,35.647
+14:40,10,Grace,227.355
+15:10,1,silent,121.856
+15:10,2,INDvsENG,493.116
+15:10,3,BazaarSGXApo,1.013.628
+15:10,4,ベストヒット歌謡祭,517.967
+15:10,5,England,375.030
+15:10,6,奈々ちゃん,13.401
+15:10,7,TeamIndia,107.930
+15:10,8,Tomori,17.199
+15:10,9,Maddison,24.264
+15:10,10,Southgate,25.586
+15:40,1,silent,139.927
+15:40,2,INDvsENG,511.205
+15:40,3,Tomori,28.965
+15:40,4,Maguire,26.183
+15:40,5,England,420.035
+15:40,6,BazaarSGXApo,1.144.642
+15:40,7,Southgate,34.460
+15:40,8,奈々ちゃん,16.930
+15:40,9,Coady,10.134
+15:40,10,ベストヒット歌謡祭,526.953
+16:10,1,silent,148.255
+16:10,2,らっだぁ三十路,23.224
+16:10,3,Tomori,36.871
+16:10,4,Maguire,34.080
+16:10,5,INDvsENG,523.971
+16:10,6,永瀬廉のRadioGARDEN,39.097
+16:10,7,庭ラジ,49.426
+16:10,8,England,439.990
+16:10,9,Southgate,41.105
+16:10,10,Coady,11.982
+16:40,1,silent,153.381
+16:40,2,NAMJOON,139.855
+16:40,3,らっだぁ三十路,34.666
+16:40,4,Maguire,40.078
+16:40,5,Tomori,42.505
+16:40,6,Indigo,143.759
+16:40,7,永瀬廉のRadioGARDEN,48.634
+16:40,8,庭ラジ,61.186
+16:40,9,Southgate,
+16:40,10,England,461.126
+17:10,1,silent,156.369
+17:10,2,NAMJOON,167.349
+17:10,3,Maguire,44.367
+17:10,4,Indigo,178.474
+17:10,5,らっだぁ三十路,38.197
+17:10,6,Tomori,46.970
+17:10,7,永瀬廉のRadioGARDEN,54.147
+17:10,8,RM IS COMING,65.526
+17:10,9,Southgate,49.660
+17:10,10,庭ラジ,68.441
+17:40,1,NAMJOON,187.437
+17:40,2,silent,158.605
+17:40,3,Maguire,48.293
+17:40,4,Indigo,203.873
+17:40,5,Tomori,50.700
+17:40,6,らっだぁ三十路,40.120
+17:40,7,RM IS COMING,78.182
+17:40,8,LoveinTheAirFinale,119.520
+17:40,9,Southgate,53.073
+17:40,10,永瀬廉のRadioGARDEN,57.278
+18:10,1,NAMJOON,198.244
+18:10,2,silent,159.885
+18:10,3,Maguire,50.966
+18:10,4,Indigo,221.179
+18:10,5,Tomori,53.608
+18:10,6,LoveinTheAirFinale,179.529
+18:10,7,らっだぁ三十路,41.078
+18:10,8,RM IS COMING,85.932
+18:10,9,Southgate,
+18:10,10,빼빼로데이,37.881
+18:40,1,NAMJOON,210.216
+18:40,2,Maguire,53.718
+18:40,3,LoveinTheAirFinale,218.627
+18:40,4,Indigo,235.699
+18:40,5,Tomori,56.323
+18:40,6,silent,161.107
+18:40,7,RM IS COMING,91.907
+18:40,8,Southgate,56.897
+18:40,9,らっだぁ三十路,41.555
+18:40,10,빼빼로데이,39.068
+19:10,1,NAMJOON,216.353
+19:10,2,LoveinTheAirFinale,238.208
+19:10,3,Maguire,55.466
+19:10,4,Tomori,58.373
+19:10,5,Indigo,246.309
+19:10,6,silent,161.780
+19:10,7,Southgate,57.190
+19:10,8,RM IS COMING,97.035
+19:10,9,らっだぁ三十路,41.979
+19:10,10,John Wick,20.798
+19:40,1,LoveinTheAirFinale,263.152
+19:40,2,NAMJOON,225.658
+19:40,3,Maguire,57.624
+19:40,4,Akar Yapı,
+19:40,5,Tomori,60.209
+19:40,6,Indigo,255.014
+19:40,7,Southgate,58.921
+19:40,8,John Wick,23.877
+19:40,9,RM IS COMING,101.062
+19:40,10,silent,162.286
+20:10,1,LoveinTheAirFinale,274.590
+20:10,2,namjoon,231.338
+20:10,3,Maguire,59.681
+20:10,4,Akar Yapı,
+20:10,5,موعد_مع_الحريه,21.878
+20:10,6,Tomori,61.718
+20:10,7,John Wick,26.470
+20:10,8,Indigo,262.085
+20:10,9,silent,162.666
+20:10,10,VeronaJuve,
+20:40,1,veronajuventus,
+20:40,2,LoveinTheAirFinale,281.186
+20:40,3,Maguire,62.059
+20:40,4,namjoon,237.565
+20:40,5,John Wick,28.759
+20:40,6,Akar Yapı,
+20:40,7,موعد_مع_الحريه,32.793
+20:40,8,RenunciaCerrutti,19.086
+20:40,9,Tomori,63.072
+20:40,10,乐鱼体育,86.672
+21:10,1,TPMP,20.697
+21:10,2,veronajuventus,
+21:10,3,LoveinTheAirFinale,285.389
+21:10,4,Maguire,63.503
+21:10,5,乐鱼体育,86.358
+21:10,6,英雄联盟,34.345
+21:10,7,John Wick,30.306
+21:10,8,namjoon,241.059
+21:10,9,Rafael Cadenas,
+21:10,10,Bolloré,
+21:40,1,TPMP,32.838
+21:40,2,veronajuventus,
+21:40,3,موعد_مع_الحريه,56.387
+21:40,4,Bolloré,19.306
+21:40,5,Hanouna,25.899
+21:40,6,Maguire,64.991
+21:40,7,KingsLeague,
+21:40,8,LoveinTheAirFinale,288.927
+21:40,9,Louis Boyard,11.832
+21:40,10,John Wick,32.206
+22:10,1,TPMP,44.116
+22:10,2,XF2022,
+22:10,3,MUNAVL,15.522
+22:10,4,McTominay,
+22:10,5,Hanouna,39.998
+22:10,6,Bolloré,31.128
+22:10,7,VeronaJuve,10.137
+22:10,8,موعد_مع_الحريه,69.096
+22:10,9,Maguire,66.610
+22:10,10,Louis Boyard,19.056
+22:40,1,Santaboy,
+22:40,2,LaIslaDeLasTentaciones8,
+22:40,3,MUNAVL,21.304
+22:40,4,Rashford,26.311
+22:40,5,Maguire,70.941
+22:40,6,XF2022,
+22:40,7,Vinicius,29.167
+22:40,8,TPMP,53.778
+22:40,9,Hanouna,54.378
+22:40,10,Bolloré,42.331
+23:10,1,Garnacho,49.213
+23:10,2,MUNAVL,25.335
+23:10,3,Santaboy,
+23:10,4,Kroos,15.982
+23:10,5,LaIslaDeLasTentaciones8,10.138
+23:10,6,McTominay,10.197
+23:10,7,Rashford,29.035
+23:10,8,XF2022,10.079
+23:10,9,كروس,
+23:10,10,ImACeleb,61.115
+23:40,1,Garnacho,68.469
+23:40,2,LaIslaDeLasTentaciones8,16.377
+23:40,3,MUNAVL,26.010
+23:40,4,MUFC,79.501
+23:40,5,Kroos,22.574
+23:40,6,Santaboy,
+23:40,7,McTominay,13.194
+23:40,8,ImACeleb,66.503
+23:40,9,Rashford,33.152
+23:40,10,كروس,

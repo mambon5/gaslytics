@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Barça,176.699
+00:10,2,Barcelona,209.805
+00:10,3,Xavi,81.168
+00:10,4,Dembele,56.779
+00:10,5,Overwatch2,79.012
+00:10,6,Napoli,88.670
+00:10,7,ajanap,29.330
+00:10,8,Europa League,33.220
+00:10,9,Champions,228.834
+00:10,10,Dumfries,16.491
+00:40,1,Barça,185.396
+00:40,2,Barcelona,215.108
+00:40,3,Xavi,86.083
+00:40,4,Overwatch2,84.980
+00:40,5,Dembele,59.043
+00:40,6,Napoli,90.679
+00:40,7,ajanap,29.560
+00:40,8,Europa League,35.892
+00:40,9,Champions,236.498
+00:40,10,Dumfries,18.874
+01:10,1,Barça,190.221
+01:10,2,Barcelona,217.188
+01:10,3,Overwatch2,88.369
+01:10,4,Xavi,87.876
+01:10,5,Dembele,60.143
+01:10,6,Napoli,91.582
+01:10,7,Raniel,
+01:10,8,ajanap,29.668
+01:10,9,Europa League,37.681
+01:10,10,Champions,239.340
+01:40,1,Overwatch2,94.499
+01:40,2,あさイチ,
+01:40,3,Barça,194.653
+01:40,4,Barcelona,220.240
+01:40,5,Xavi,90.078
+01:40,6,舞いあがれ,37.172
+01:40,7,AskNotorious,
+01:40,8,Raniel,10.047
+01:40,9,Dembele,61.116
+01:40,10,O Vasco,24.540
+02:10,1,O Vasco,39.130
+02:10,2,Alex Teixeira,10.423
+02:10,3,あさイチ,14.501
+02:10,4,Overwatch2,98.215
+02:10,5,VASCO DA GAMA,
+02:10,6,Raniel,11.599
+02:10,7,VamosColoColo,
+02:10,8,舞いあがれ,39.079
+02:10,9,Barça,196.660
+02:10,10,Barcelona,221.060
+02:40,1,Aaron Judge,60.624
+02:40,2,あさイチ,20.450
+02:40,3,O Vasco,48.361
+02:40,4,Alex Teixeira,14.080
+02:40,5,AllRise,19.275
+02:40,6,Overwatch2,102.922
+02:40,7,VASCO DA GAMA,
+02:40,8,Raniel,12.246
+02:40,9,VamosColoColo,
+02:40,10,教えて推しライフ,11.332
+03:10,1,Pantanal,22.142
+03:10,2,Aaron Judge,78.281
+03:10,3,Tenório,16.307
+03:10,4,あさイチ,25.151
+03:10,5,AllRise,25.315
+03:10,6,O Vasco,51.701
+03:10,7,Alex Teixeira,15.202
+03:10,8,Overwatch2,105.829
+03:10,9,Alcides,
+03:10,10,VASCO DA GAMA,
+03:40,1,Pantanal,28.275
+03:40,2,Aaron Judge,91.972
+03:40,3,Tenório,19.708
+03:40,4,AllRise,28.987
+03:40,5,あさイチ,27.859
+03:40,6,HipHopAwards,
+03:40,7,O Vasco,55.040
+03:40,8,Alex Teixeira,15.775
+03:40,9,Overwatch2,109.905
+03:40,10,Alcides,
+04:10,1,Aaron Judge,100.350
+04:10,2,RoçaAFazenda,16.911
+04:10,3,Pantanal,28.911
+04:10,4,ForTheA,21.164
+04:10,5,Tenório,20.344
+04:10,6,HipHopAwards,13.520
+04:10,7,Raul Gustavo,
+04:10,8,AllRise,31.028
+04:10,9,Yuri Alberto,
+04:10,10,Braves,60.414
+04:40,1,RoçaAFazenda,42.396
+04:40,2,Corinthians,68.814
+04:40,3,Aaron Judge,107.838
+04:40,4,ForTheA,27.856
+04:40,5,HipHopAwards,19.032
+04:40,6,Raul Gustavo,
+04:40,7,pantanal,29.721
+04:40,8,LMD5,
+04:40,9,Tenório,20.910
+04:40,10,Shay,48.953
+05:10,1,RoçaAFazenda,66.303
+05:10,2,HipHopAwards,26.779
+05:10,3,Corinthians,69.323
+05:10,4,LMD5,
+05:10,5,NCT127_LAPopUp,
+05:10,6,Aaron Judge,114.215
+05:10,7,ForTheA,30.907
+05:10,8,Shay,55.902
+05:10,9,Raul Gustavo,
+05:10,10,Tenório,21.208
+05:40,1,RoçaAFazenda,83.232
+05:40,2,LMD5,16.966
+05:40,3,HipHopAwards,32.716
+05:40,4,NCT127_LAPopUp,
+05:40,5,Corinthians,70.431
+05:40,6,Aaron Judge,119.202
+05:40,7,Dussehra,25.793
+05:40,8,Shay,58.380
+05:40,9,Raul Gustavo,
+05:40,10,Scoot,14.753
+06:10,1,RoçaAFazenda,87.571
+06:10,2,LMD5,22.754
+06:10,3,HappyDussehra,25.871
+06:10,4,MidnightsMayhemWithMe,
+06:10,5,HipHopAwards,36.047
+06:10,6,Corinthians,70.553
+06:10,7,Aaron Judge,122.881
+06:10,8,Scoot,17.153
+06:10,9,Shay,59.671
+06:10,10,Bonds,34.509
+06:40,1,HappyDussehra,32.866
+06:40,2,RoçaAFazenda,89.673
+06:40,3,LMD5,25.029
+06:40,4,MidnightsMayhemWithMe,17.300
+06:40,5,Scoot,21.512
+06:40,6,HipHopAwards,38.618
+06:40,7,Corinthians,71.087
+06:40,8,Aaron Judge,125.341
+06:40,9,Bejeweled,13.755
+06:40,10,Victor,93.516
+07:10,1,HappyDussehra,39.823
+07:10,2,LMD5,26.407
+07:10,3,RoçaAFazenda,90.777
+07:10,4,MidnightsMayhemWithMe,19.391
+07:10,5,Vijayadashami,34.251
+07:10,6,Scoot,23.492
+07:10,7,Corinthians,70.958
+07:10,8,Victor Wembanyama,17.720
+07:10,9,Aaron Judge,126.979
+07:10,10,Bejeweled,15.962
+07:40,1,HappyDussehra,46.357
+07:40,2,LMD5,27.424
+07:40,3,RoçaAFazenda,91.614
+07:40,4,Vijayadashami,38.509
+07:40,5,MidnightsMayhemWithMe,20.110
+07:40,6,Scoot,24.652
+07:40,7,Victor Wembanyama,19.984
+07:40,8,Bejeweled,17.119
+07:40,9,श्री राम,108.918
+07:40,10,Aaron Judge,128.406
+08:10,1,HappyDussehra,53.058
+08:10,2,LMD5,28.155
+08:10,3,Vijayadashami,42.311
+08:10,4,RoçaAFazenda,92.155
+08:10,5,MidnightsMayhemWithMe,20.481
+08:10,6,Scoot,25.513
+08:10,7,Victor Wembanyama,21.589
+08:10,8,श्री राम,112.466
+08:10,9,Bejeweled,17.864
+08:10,10,Deseos,23.753
+08:40,1,HappyDussehra,59.886
+08:40,2,اليوم_العالمي_للمعلم,178.710
+08:40,3,Vijayadashami,45.761
+08:40,4,LMD5,28.581
+08:40,5,दशहरा,27.641
+08:40,6,Scoot,26.151
+08:40,7,श्री राम,118.825
+08:40,8,Victor Wembanyama,22.971
+08:40,9,アーティストメイド,
+08:40,10,声出しOK,
+09:10,1,HappyDussehra,66.380
+09:10,2,اليوم_العالمي_للمعلم,185.452
+09:10,3,Vijayadashami,48.897
+09:10,4,दशहरा,29.738
+09:10,5,語彙力の無い言葉責め,
+09:10,6,श्री राम,121.910
+09:10,7,声出しOK,
+09:10,8,Scoot,26.556
+09:10,9,Victor Wembanyama,23.930
+09:10,10,アーティストメイド,
+09:40,1,HappyDussehra,72.111
+09:40,2,اليوم_العالمي_للمعلم,196.296
+09:40,3,SmileyofCharlotte,14.170
+09:40,4,実際に言われた理不尽なクレーム,
+09:40,5,Vijayadashami,52.378
+09:40,6,श्री राम,127.891
+09:40,7,声出しOK,
+09:40,8,私のコミュ力,
+09:40,9,アーティストメイド,
+09:40,10,Scoot,26.981
+10:10,1,HappyDussehra,77.527
+10:10,2,SmileyofCharlotte,39.656
+10:10,3,اليوم_العالمي_للمعلم,203.442
+10:10,4,実際に言われた理不尽なクレーム,
+10:10,5,語彙力の無い言葉責め,
+10:10,6,声出しOK,
+10:10,7,श्री राम,131.331
+10:10,8,私のコミュ力,
+10:10,9,時の担当教科診断,
+10:10,10,イザーク,12.142
+10:40,1,HappyDussehra,81.960
+10:40,2,اليوم_العالمي_للمعلم,214.437
+10:40,3,SmileyofCharlotte,54.380
+10:40,4,WorldTeachersDay,
+10:40,5,実際に言われた理不尽なクレーム,
+10:40,6,생일 아이돌,
+10:40,7,声出しOK,
+10:40,8,私のコミュ力,
+10:40,9,時の担当教科診断,
+10:40,10,BELLA THE BIG DEAL,11.744
+11:10,1,HappyDussehra,85.769
+11:10,2,WorldTeachersDay,11.140
+11:10,3,اليوم_العالمي_للمعلم,220.654
+11:10,4,SmileyofCharlotte,64.349
+11:10,5,tannie,
+11:10,6,実際に言われた理不尽なクレーム,11.196
+11:10,7,Harta Nusantara,
+11:10,8,Kim Jung Gi,
+11:10,9,생일 아이돌,
+11:10,10,声出しOK,
+11:40,1,HappyDussehra,90.088
+11:40,2,WorldTeachersDay,12.326
+11:40,3,Kim Jung Gi,
+11:40,4,tannie,
+11:40,5,اليوم_العالمي_للمعلم,231.402
+11:40,6,Misbehave,
+11:40,7,実際に言われた理不尽なクレーム,12.539
+11:40,8,語彙力の無い言葉責め,
+11:40,9,Harta Nusantara,
+11:40,10,생일 아이돌,
+12:10,1,Misbehave,
+12:10,2,Kim Jung Gi,
+12:10,3,WorldTeachersDay,13.564
+12:10,4,tannie,
+12:10,5,HappyDussehra,93.574
+12:10,6,اليوم_العالمي_للمعلم,237.873
+12:10,7,アンダーライブ大阪Day3,
+12:10,8,実際に言われた理不尽なクレーム,14.115
+12:10,9,デメテル,
+12:10,10,고인의 명복,
+12:40,1,Misbehave,19.529
+12:40,2,ConservativePartyconference,
+12:40,3,Kim Jung Gi,10.169
+12:40,4,Greenpeace,11.375
+12:40,5,ToryConference,14.509
+12:40,6,WorldTeachersDay,14.960
+12:40,7,アンダーライブ大阪Day3,
+12:40,8,天皇杯,
+12:40,9,ドリフェス,
+12:40,10,tannie,10.059
+13:10,1,インスタ開設,24.619
+13:10,2,ConservativePartyconference,13.328
+13:10,3,ToryConference,16.742
+13:10,4,Misbehave,24.679
+13:10,5,Greenpeace,16.113
+13:10,6,すのぐらむ,25.323
+13:10,7,インライ,
+13:10,8,Kim Jung Gi,12.927
+13:10,9,インスタライブ,18.803
+13:10,10,WorldTeachersDay,16.392
+13:40,1,インスタ開設,32.209
+13:40,2,ConservativePartyconference,15.125
+13:40,3,すのぐらむ,34.452
+13:40,4,インスタライブ,22.388
+13:40,5,インライ,
+13:40,6,ToryConference,18.365
+13:40,7,bayındırhastanesi,
+13:40,8,Misbehave,27.774
+13:40,9,Greenpeace,19.198
+13:40,10,Kim Jung Gi,15.635
+14:10,1,インスタ開設,36.323
+14:10,2,bayındırhastanesi,
+14:10,3,すのぐらむ,40.033
+14:10,4,すこんなばらえてぃ,12.177
+14:10,5,インライ,
+14:10,6,インスタライブ,24.138
+14:10,7,WorldTeachersDay,19.271
+14:10,8,ConservativePartyconference,16.137
+14:10,9,Kim Jung Gi,18.257
+14:10,10,Misbehave,30.088
+14:40,1,すのぐらむ,47.642
+14:40,2,すこんなばらえてぃ,22.353
+14:40,3,bayındırhastanesi,
+14:40,4,インライ,13.128
+14:40,5,インスタライブ,27.738
+14:40,6,インスタ開設,38.310
+14:40,7,DragRacePH,
+14:40,8,WorldTeachersDay,20.782
+14:40,9,Kim Jung Gi,21.347
+14:40,10,Liz Truss,148.928
+15:10,1,すのぐらむ,68.321
+15:10,2,すこんなばらえてぃ,34.215
+15:10,3,インライ,17.876
+15:10,4,インスタライブ,32.618
+15:10,5,bayındırhastanesi,
+15:10,6,DragRacePH,
+15:10,7,SnowMan,84.364
+15:10,8,Kim Jung Gi,24.249
+15:10,9,Liz Truss,148.336
+15:10,10,YAGOO,
+15:40,1,すのぐらむ,73.493
+15:40,2,親愛なる僕へ殺意をこめて,59.324
+15:40,3,すこんなばらえてぃ,39.215
+15:40,4,DragRacePH,
+15:40,5,インライ,19.392
+15:40,6,bayındırhastanesi,
+15:40,7,インスタライブ,34.711
+15:40,8,Kim Jung Gi,27.075
+15:40,9,インスタ開設,43.647
+15:40,10,yagoo,
+16:10,1,親愛なる僕へ殺意をこめて,71.281
+16:10,2,すのぐらむ,76.552
+16:10,3,ファーストペンギン,44.482
+16:10,4,すこんなばらえてぃ,41.087
+16:10,5,DragRacePH,10.205
+16:10,6,インライ,20.184
+16:10,7,インスタライブ,35.337
+16:10,8,Kim Jung Gi,29.986
+16:10,9,Benn,14.870
+16:10,10,インスタ開設,44.923
+16:40,1,親愛なる僕へ殺意をこめて,80.352
+16:40,2,MiniFootballToken,
+16:40,3,すのぐらむ,78.826
+16:40,4,ファーストペンギン,46.548
+16:40,5,DragRacePH,11.925
+16:40,6,山田くん,15.093
+16:40,7,インライ,21.070
+16:40,8,Kim Jung Gi,32.777
+16:40,9,OPEC,50.047
+16:40,10,インスタライブ,36.497
+17:10,1,親愛なる僕へ殺意をこめて,81.857
+17:10,2,HBDtoJOOHONEY,
+17:10,3,JO1ANNX,15.758
+17:10,4,MiniFootballToken,
+17:10,5,すのぐらむ,80.574
+17:10,6,OPEC,57.649
+17:10,7,Nubank,12.326
+17:10,8,山田くん,15.536
+17:10,9,Kim Jung Gi,35.541
+17:10,10,サイスタ1周年,
+17:40,1,HBDtoJOOHONEY,17.594
+17:40,2,JO1ANNX,51.788
+17:40,3,親愛なる僕へ殺意をこめて,83.414
+17:40,4,なにわ男子結成4周年,
+17:40,5,MiniFootballToken,
+17:40,6,Nubank,19.337
+17:40,7,OPEC,68.408
+17:40,8,第258回,
+17:40,9,Kim Jung Gi,38.036
+17:40,10,D5 to MIC ON,
+18:10,1,HBDtoJOOHONEY,22.259
+18:10,2,JO1ANNX,79.819
+18:10,3,なにわ男子結成4周年,
+18:10,4,親愛なる僕へ殺意をこめて,84.042
+18:10,5,Nubank,26.369
+18:10,6,OPEC,79.083
+18:10,7,MiniFootballToken,
+18:10,8,第258回,
+18:10,9,Gonzalo de la Carrera,
+18:10,10,Kim Jung Gi,40.279
+18:40,1,HBDtoJOOHONEY,25.638
+18:40,2,Nubank,35.848
+18:40,3,JO1ANNX,87.419
+18:40,4,หุบหน่อยโบร,42.926
+18:40,5,PresenteProfessor,
+18:40,6,なにわ男子結成4周年,
+18:40,7,OPEC,89.865
+18:40,8,Gonzalo de la Carrera,
+18:40,9,第258回,
+18:40,10,Kim Jung Gi,42.180
+19:10,1,Nubank,43.376
+19:10,2,HBDtoJOOHONEY,28.077
+19:10,3,หุบหน่อยโบร,42.461
+19:10,4,OPEC,101.556
+19:10,5,JO1ANNX,89.320
+19:10,6,FileninSultanları,15.532
+19:10,7,なにわ男子結成4周年,
+19:10,8,İlacınSahibi KamuEczacısı,
+19:10,9,Gonzalo de la Carrera,11.070
+19:10,10,Blockchain Diyarbakır,
+19:40,1,Nubank,48.801
+19:40,2,HBDtoJOOHONEY,29.749
+19:40,3,OPEC,113.709
+19:40,4,หุบหน่อยโบร,42.797
+19:40,5,FileninSultanları,16.958
+19:40,6,JO1ANNX,90.154
+19:40,7,MiniFootballToken,
+19:40,8,Gonzalo de la Carrera,13.966
+19:40,9,İlacınSahibi KamuEczacısı,
+19:40,10,Nkunku,10.386
+20:10,1,Nubank,52.568
+20:10,2,OPEC,123.798
+20:10,3,HBDtoJOOHONEY,31.022
+20:10,4,หุบหน่อยโบร,43.597
+20:10,5,FileninSultanları,14.572
+20:10,6,okuloncesittk9davasi,46.041
+20:10,7,Gonzalo de la Carrera,16.788
+20:10,8,bayındırhastanesi,19.171
+20:10,9,İlacınSahibi KamuEczacısı,
+20:10,10,Nkunku,11.625
+20:40,1,ZorunluEmeklilikKaldırılsın,39.460
+20:40,2,Nubank,55.546
+20:40,3,Joe Hart,
+20:40,4,OPEC,134.438
+20:40,5,HBDtoJOOHONEY,32.620
+20:40,6,الاهلي_جده,14.236
+20:40,7,okuloncesittk9davasi,59.562
+20:40,8,Gonzalo de la Carrera,19.543
+20:40,9,WorldTeachersDay,65.223
+20:40,10,Daredevil,15.598
+21:10,1,ZorunluEmeklilikKaldırılsın,66.769
+21:10,2,Nubank,57.945
+21:10,3,Joe Hart,
+21:10,4,OPEC,143.984
+21:10,5,Benfica,55.957
+21:10,6,الاهلي_جده,15.539
+21:10,7,Koulibaly,
+21:10,8,okuloncesittk9davasi,69.881
+21:10,9,Gonzalo de la Carrera,22.208
+21:10,10,polislerintiharediyor,18.183
+21:40,1,Haaland,182.442
+21:40,2,BENPSG,
+21:40,3,Benfica,82.431
+21:40,4,Messi,192.765
+21:40,5,Rodrygo,12.354
+21:40,6,Chelsea,142.966
+21:40,7,ZorunluEmeklilikKaldırılsın,80.726
+21:40,8,Thiago Silva,
+21:40,9,الاهلي_جده,18.082
+21:40,10,OPEC,153.842
+22:10,1,Messi,234.712
+22:10,2,Haaland,233.433
+22:10,3,Benfica,103.517
+22:10,4,Leao,33.969
+22:10,5,BENPSG,12.002
+22:10,6,Sterling,30.169
+22:10,7,Chelsea,155.994
+22:10,8,Rodrygo,15.721
+22:10,9,midnighTSmemoirs,
+22:10,10,Sevilla,45.761
+22:40,1,Messi,256.198
+22:40,2,Haaland,254.418
+22:40,3,Reece James,21.558
+22:40,4,Benfica,118.453
+22:40,5,Chelsea,178.826
+22:40,6,Leao,38.605
+22:40,7,BENPSG,15.146
+22:40,8,Sterling,33.381
+22:40,9,AddAWordRuinAHorrorMovie,
+22:40,10,midnighTSmemoirs,
+23:10,1,Messi,279.871
+23:10,2,Reece James,36.502
+23:10,3,Haaland,266.726
+23:10,4,Benfica,132.743
+23:10,5,ChelseaMilan,27.031
+23:10,6,BENPSG,17.730
+23:10,7,Leao,42.298
+23:10,8,JuveMaccabi,
+23:10,9,AddAWordRuinAHorrorMovie,
+23:10,10,Sterling,33.870
+23:40,1,Messi,301.477
+23:40,2,Reece James,52.217
+23:40,3,Haaland,279.605
+23:40,4,Benfica,140.153
+23:40,5,Chelsea,203.364
+23:40,6,BENPSG,18.272
+23:40,7,Leao,47.001
+23:40,8,AddAWordRuinAHorrorMovie,
+23:40,9,Sevilla,57.890
+23:40,10,JuveMaccabi,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Thanksgiving,2.388.420
+00:10,2,Cowboys,60.659
+00:10,3,SecretGala11,69.961
+00:10,4,Raiders,47.856
+00:10,5,Lions,140.014
+00:10,6,OLYvFB,14.268
+00:10,7,XF2021,13.107
+00:10,8,DragRaceUK,10.888
+00:10,9,ImACeleb,15.020
+00:10,10,DeSean Jackson,
+00:41,1,Thanksgiving,2.089.345
+00:41,2,SecretGala11,92.454
+00:41,3,Cowboys,64.883
+00:41,4,Luke Combs,
+00:41,5,Raiders,52.084
+00:41,6,AdaraGala11,22.658
+00:41,7,Lions,142.259
+00:41,8,OLYvFB,14.303
+00:41,9,HaveASafeFlightARMY,13.141
+00:41,10,DragRaceUK,11.554
+01:10,1,Thanksgiving,2.465.335
+01:10,2,Cowboys,72.563
+01:10,3,SecretGala11,106.804
+01:10,4,Luke Combs,
+01:10,5,HaveASafeFlightARMY,18.347
+01:10,6,AdaraGala11,27.799
+01:10,7,Marcos Leonardo,
+01:10,8,LVvsDAL,18.842
+01:10,9,Cássio,
+01:10,10,Zeke,10.564
+01:41,1,Thanksgiving,2.308.297
+01:41,2,Cowboys,81.461
+01:41,3,SecretGala11,113.497
+01:41,4,HaveASafeFlightARMY,24.925
+01:41,5,Luke Combs,
+01:41,6,River,122.967
+01:41,7,Marcos Leonardo,
+01:41,8,LVvsDAL,21.285
+01:41,9,ShowDaBlackFriday,10.854
+01:41,10,AdaraGala11,29.618
+02:10,1,Thanksgiving,3.141.899
+02:10,2,Cowboys,90.521
+02:10,3,Cássio,13.600
+02:10,4,Roger Guedes,
+02:10,5,SecretGala11,122.958
+02:10,6,HaveASafeFlightARMY,36.542
+02:10,7,River,124.805
+02:10,8,ShowDaBlackFriday,17.170
+02:10,9,LVvsDAL,24.193
+02:10,10,Luke Combs,
+02:41,1,Cowboys,123.523
+02:41,2,Thanksgiving,2.447.048
+02:41,3,Anthony Brown,16.471
+02:41,4,Cássio,20.317
+02:41,5,River,135.401
+02:41,6,HaveASafeFlightARMY,46.221
+02:41,7,Roger Guedes,
+02:41,8,SecretGala11,126.316
+02:41,9,ShowDaBlackFriday,25.435
+02:41,10,LVvsDAL,28.611
+03:10,1,Cowboys,135.732
+03:10,2,Thanksgiving,3.979.862
+03:10,3,River,150.315
+03:10,4,Anthony Brown,19.333
+03:10,5,Cássio,21.643
+03:10,6,HaveASafeFlightARMY,54.602
+03:10,7,Roger Guedes,
+03:10,8,SecretGala11,127.871
+03:10,9,ShowDaBlackFriday,29.691
+03:10,10,Racing,67.392
+03:41,1,River,216.665
+03:41,2,River,216.665
+03:41,3,Thanksgiving,4.055.530
+03:41,4,Cowboys,143.665
+03:41,5,Anthony Brown,20.571
+03:41,6,Racing,79.837
+03:41,7,HaveASafeFlightARMY,62.816
+03:41,8,Cássio,22.340
+03:41,9,Gago,49.809
+03:41,10,Ponzio,11.345
+04:10,1,River,244.581
+04:10,2,River,244.581
+04:10,3,Thanksgiving,2.504.578
+04:10,4,Cowboys,147.823
+04:10,5,嵐ライビュ中,15.314
+04:10,6,EliminaçãoAFazenda,30.806
+04:10,7,Anthony Brown,21.286
+04:10,8,Ponzio,14.680
+04:10,9,Racing,83.061
+04:10,10,HaveASafeFlightARMY,69.374
+04:41,1,River,267.195
+04:41,2,River,267.195
+04:41,3,Thanksgiving,4.247.985
+04:41,4,EliminaçãoAFazenda,56.751
+04:41,5,Cowboys,152.097
+04:41,6,嵐ライビュ中,15.216
+04:41,7,MeaCulpaEnTVN,
+04:41,8,Ponzio,17.166
+04:41,9,HaveASafeFlightARMY,76.866
+04:41,10,Racing,86.817
+05:10,1,River,276.282
+05:10,2,Thanksgiving,4.119.102
+05:10,3,EliminaçãoAFazenda,60.329
+05:10,4,Cowboys,154.721
+05:10,5,嵐ライビュ中,15.315
+05:10,6,異性にモテない原因ランキング,
+05:10,7,HaveASafeFlightARMY,84.545
+05:10,8,MeaCulpaEnTVN,
+05:10,9,Ponzio,18.306
+05:10,10,Saints,55.787
+05:41,1,River,287.135
+05:41,2,Thanksgiving,4.404.782
+05:41,3,EliminaçãoAFazenda,62.667
+05:41,4,Cowboys,157.666
+05:41,5,異性にモテない原因ランキング,
+05:41,6,MumbaiTerrorAttack,30.586
+05:41,7,HaveASafeFlightARMY,91.632
+05:41,8,嵐ライビュ中,15.478
+05:41,9,Saints,60.277
+05:41,10,Josh Allen,10.745
+06:10,1,River,291.321
+06:10,2,Thanksgiving,3.973.067
+06:10,3,EliminaçãoAFazenda,63.512
+06:10,4,Cowboys,159.225
+06:10,5,異性にモテない原因ランキング,
+06:10,6,MumbaiTerrorAttack,38.935
+06:10,7,HaveASafeFlightARMY,98.155
+06:10,8,ConstitutionDay,24.397
+06:10,9,Gignac,
+06:10,10,Raiders,128.320
+06:41,1,River,296.640
+06:41,2,Gallardo,65.609
+06:41,3,MumbaiTerrorAttack,48.469
+06:41,4,EliminaçãoAFazenda,64.071
+06:41,5,異性にモテない原因ランキング,
+06:41,6,Cowboys,160.824
+06:41,7,ConstitutionDay,29.293
+06:41,8,HaveASafeFlightARMY,104.286
+06:41,9,Gignac,
+06:41,10,ブラックフライデー,116.438
+07:10,1,River,297.614
+07:10,2,MumbaiTerrorAttack,58.522
+07:10,3,Gallardo,66.455
+07:10,4,ConstitutionDay,34.697
+07:10,5,異性にモテない原因ランキング,
+07:10,6,EliminaçãoAFazenda,64.373
+07:10,7,ไม่รักไม่ฟัด,43.930
+07:10,8,Cowboys,161.548
+07:10,9,ブラックフライデー,121.654
+07:10,10,Gignac,
+07:41,1,River,300.686
+07:41,2,MumbaiTerrorAttack,70.366
+07:41,3,ConstitutionDay,40.206
+07:41,4,異性にモテない原因ランキング,
+07:41,5,Gallardo,67.188
+07:41,6,EliminaçãoAFazenda,64.621
+07:41,7,ไม่รักไม่ฟัด,52.766
+07:41,8,ブラックフライデー,128.642
+07:41,9,Black Friday,630.927
+07:41,10,Cowboys,162.510
+08:10,1,müslüme,
+08:10,2,MumbaiTerrorAttack,79.878
+08:10,3,River,300.453
+08:10,4,ConstitutionDay,44.796
+08:10,5,異性にモテない原因ランキング,
+08:10,6,HayırlıCumalar,11.815
+08:10,7,Gallardo,67.569
+08:10,8,ブラックフライデー,132.878
+08:10,9,Black Friday,631.760
+08:10,10,ホロライブ6期生,54.015
+08:41,1,müslüme,
+08:41,2,ConstitutionDay,49.968
+08:41,3,MumbaiTerrorAttack,89.636
+08:41,4,MCBAMBAMonStageW,36.523
+08:41,5,異性にモテない原因ランキング,
+08:41,6,River,302.799
+08:41,7,ブラックフライデー,139.605
+08:41,8,ホロライブ6期生,59.254
+08:41,9,Gallardo,68.051
+08:41,10,BLOOMING MC SUNGHOON,49.007
+09:10,1,müslüme,14.516
+09:10,2,ConstitutionDay,54.373
+09:10,3,MumbaiTerrorAttack,97.517
+09:10,4,MCBAMBAMonStageW,58.869
+09:10,5,異性にモテない原因ランキング,
+09:10,6,River,302.902
+09:10,7,BLOOMING MC SUNGHOON,61.490
+09:10,8,ブラックフライデー,143.471
+09:10,9,ホロライブ6期生,62.958
+09:10,10,South Africa,121.400
+09:41,1,müslüme,20.416
+09:41,2,BlackFriday,201.099
+09:41,3,ConstitutionDay,58.815
+09:41,4,LaPS5surDealabs,
+09:41,5,wannaone,
+09:41,6,BLOOMING MC SUNGHOON,70.088
+09:41,7,Ngambang,
+09:41,8,ブラックフライデー,151.052
+09:41,9,South Africa,127.633
+09:41,10,River,305.089
+10:10,1,müslüme,26.910
+10:10,2,LaPS5surDealabs,
+10:10,3,BlackFriday,207.865
+10:10,4,PinkFridayWithPLT,
+10:10,5,wannaone,19.742
+10:10,6,BLOOMING MC SUNGHOON,73.178
+10:10,7,ブラックフライデー,156.355
+10:10,8,jaehwan,
+10:10,9,South Africa,130.646
+10:10,10,Ngambang,
+10:41,1,müslüme,35.580
+10:41,2,LaPS5surDealabs,
+10:41,3,RushHour3rdWin,25.880
+10:41,4,BlackFriday,221.310
+10:41,5,PinkFridayWithPLT,10.862
+10:41,6,ブラックフライデー,164.440
+10:41,7,محمد,423.499
+10:41,8,South Africa,135.964
+10:41,9,BLOOMING MC SUNGHOON,77.708
+10:41,10,jaehwan,
+11:10,1,müslüme,42.204
+11:10,2,LaPS5surDealabs,12.294
+11:10,3,RushHour3rdWin,43.889
+11:10,4,BlackFriday,226.821
+11:10,5,جمعه_تيسرت,
+11:10,6,محمد,428.761
+11:10,7,ブラックフライデー,169.657
+11:10,8,South Africa,138.427
+11:10,9,KUNDIMAN MUSIC VIDEO,15.633
+11:10,10,iniの投稿動画,
+11:41,1,müslüme,50.296
+11:41,2,LaPS5surDealabs,14.078
+11:41,3,RushHour3rdWin,60.114
+11:41,4,BlackFriday,238.295
+11:41,5,BlackEnPcComponentesIntel,
+11:41,6,LICB PosterTeaserREVEAL,22.649
+11:41,7,新刀剣男士,
+11:41,8,محمد,446.856
+11:41,9,ブラックフライデー,177.372
+11:41,10,KUNDIMAN MUSIC VIDEO,22.093
+12:10,1,müslüme,57.632
+12:10,2,BlackFriday,245.357
+12:10,3,LaPS5surDealabs,15.825
+12:10,4,RushHour3rdWin,68.701
+12:10,5,BlackEnPcComponentesIntel,
+12:10,6,LICB PosterTeaserREVEAL,64.986
+12:10,7,新刀剣男士,
+12:10,8,محمد,449.548
+12:10,9,Cübbelinin Gizlediği,
+12:10,10,ブラックフライデー,182.594
+12:41,1,müslüme,64.097
+12:41,2,BlackFriday,259.603
+12:41,3,LaPS5surDealabs,17.245
+12:41,4,RushHour3rdWin,74.651
+12:41,5,LICB PosterTeaserREVEAL,104.278
+12:41,6,ClubBoohoo,
+12:41,7,BTS THE WORLDWIDE ICON,74.743
+12:41,8,Pablo TILI,17.551
+12:41,9,ONE DAY TO OUR ZONE,27.638
+12:41,10,Voucher Belanja di LazLive,
+13:10,1,müslüme,70.005
+13:10,2,BlackFriday,266.972
+13:10,3,laplus_great,
+13:10,4,ClubBoohoo,14.737
+13:10,5,LaPS5surDealabs,18.373
+13:10,6,LICB PosterTeaserREVEAL,132.257
+13:10,7,BTS THE WORLDWIDE ICON,118.282
+13:10,8,ハリポタ,16.950
+13:10,9,エデンの星,
+13:10,10,ラプラス・ダークネス/ホロライブ,
+13:41,1,laplus_great,72.182
+13:41,2,müslüme,75.491
+13:41,3,BlackFriday,285.859
+13:41,4,ClubBoohoo,18.512
+13:41,5,LaPS5surDealabs,19.314
+13:41,6,エデンの星,
+13:41,7,LICB PosterTeaserREVEAL,150.913
+13:41,8,ラプラス・ダークネス/ホロライブ,11.234
+13:41,9,ハリポタ,22.408
+13:41,10,BTS THE WORLDWIDE ICON,144.391
+14:10,1,laplus_great,86.788
+14:10,2,müslüme,79.885
+14:10,3,Black Friday,344.324
+14:10,4,ClubBoohoo,21.567
+14:10,5,まひまひ3D,18.988
+14:10,6,LICB PosterTeaserREVEAL,168.815
+14:10,7,EntraEnChollometro,
+14:10,8,ハリポタ,26.233
+14:10,9,BTS THE WORLDWIDE ICON,158.942
+14:10,10,エデンの星,
+14:41,1,laplus_great,93.789
+14:41,2,Black Friday,855.938
+14:41,3,müslüme,84.584
+14:41,4,ClubBoohoo,26.971
+14:41,5,EntraEnChollometro,
+14:41,6,ラブライブANN,10.878
+14:41,7,ハリポタ,30.920
+14:41,8,LICB PosterTeaserREVEAL,187.393
+14:41,9,Haruto,65.015
+14:41,10,BTS THE WORLDWIDE ICON,173.728
+15:10,1,laplus_great,97.578
+15:10,2,Black Friday,371.702
+15:10,3,müslüme,88.113
+15:10,4,最愛ドラマ,33.921
+15:10,5,ClubBoohoo,31.103
+15:10,6,BadBuddySeriesEP5,70.954
+15:10,7,セドリック,13.527
+15:10,8,Haruto,82.689
+15:10,9,ハリポタ,36.300
+15:10,10,LICB PosterTeaserREVEAL,197.786
+15:41,1,Black Friday,389.601
+15:41,2,laplus_great,103.394
+15:41,3,BadBuddySeriesEP5,120.140
+15:41,4,müslüme,92.420
+15:41,5,ClubBoohoo,35.552
+15:41,6,最愛ドラマ,37.803
+15:41,7,セドリック,18.823
+15:41,8,ハリポタ,44.291
+15:41,9,Haruto,100.773
+15:41,10,Jadue,21.644
+16:10,1,OurMeissaChanyeolDay,89.745
+16:10,2,찬열아생일축하해,82.407
+16:10,3,Black Friday,921.303
+16:10,4,BadBuddySeriesEP5,169.767
+16:10,5,MUSICBLOOD,26.240
+16:10,6,laplus_great,108.280
+16:10,7,Jadue,25.386
+16:10,8,セドリック,19.912
+16:10,9,ハリポタ,46.834
+16:10,10,Haruto,128.948
+16:41,1,OurMeissaChanyeolDay,291.914
+16:41,2,찬열아생일축하해,275.766
+16:41,3,Black Friday,964.140
+16:41,4,BadBuddySeriesEP5,210.366
+16:41,5,阿部亮平誕生祭,21.603
+16:41,6,1000DaysWithTXT,100.892
+16:41,7,Jadue,29.258
+16:41,8,阿部ちゃん,12.491
+16:41,9,1000 DAYS TOGETHER WITH TXT,14.227
+16:41,10,聡ちゃん,14.067
+17:10,1,OurMeissaChanyeolDay,375.941
+17:10,2,찬열아생일축하해,353.359
+17:10,3,Black Friday,980.888
+17:10,4,BadBuddySeriesEP5,234.996
+17:10,5,JinDayConEntel,60.882
+17:10,6,阿部亮平誕生祭,25.452
+17:10,7,Jadue,32.589
+17:10,8,1000 DAYS TOGETHER WITH TXT,17.591
+17:10,9,阿部ちゃん,14.261
+17:10,10,聡ちゃん,16.907
+17:41,1,OurMeissaChanyeolDay,417.139
+17:41,2,찬열아생일축하해,391.542
+17:41,3,Black Friday,1.026.508
+17:41,4,Portugal,93.447
+17:41,5,BadBuddySeriesEP5,262.855
+17:41,6,JinDayConEntel,92.407
+17:41,7,1000DaysWithTXT,118.853
+17:41,8,Jadue,36.967
+17:41,9,ايطاليا,
+17:41,10,Portekiz,
+18:10,1,Portugal,109.578
+18:10,2,OurMeissaChanyeolDay,439.440
+18:10,3,Black Friday,1.042.113
+18:10,4,찬열아생일축하해,412.076
+18:10,5,BadBuddySeriesEP5,293.474
+18:10,6,JinDayConEntel,106.356
+18:10,7,Qatar2022,
+18:10,8,Jadue,40.536
+18:10,9,ايطاليا,
+18:10,10,Portekiz,
+18:41,1,Portugal,121.269
+18:41,2,Black Friday,1.089.791
+18:41,3,OurMeissaChanyeolDay,455.165
+18:41,4,찬열아생일축하해,427.278
+18:41,5,BadBuddySeriesEP5,319.403
+18:41,6,JinDayConEntel,113.453
+18:41,7,Qatar2022,
+18:41,8,Jadue,44.610
+18:41,9,ايطاليا,11.084
+18:41,10,Portekiz,11.808
+19:10,1,Portugal,122.627
+19:10,2,Black Friday,1.104.063
+19:10,3,OurMeissaChanyeolDay,466.170
+19:10,4,찬열아생일축하해,437.352
+19:10,5,BadBuddySeriesEP5,337.903
+19:10,6,JinDayConEntel,117.416
+19:10,7,NSMQFinals,34.452
+19:10,8,Jadue,48.034
+19:10,9,Omicron,
+19:10,10,Portekiz,12.886
+19:41,1,Black Friday,1.148.093
+19:41,2,Portugal,129.264
+19:41,3,Omicron,24.643
+19:41,4,persconferentie,24.353
+19:41,5,الاهلي_النصر,56.190
+19:41,6,OurMeissaChanyeolDay,473.921
+19:41,7,찬열아생일축하해,444.874
+19:41,8,BadBuddySeriesEP5,352.914
+19:41,9,تاليسكا,14.739
+19:41,10,Jadue,51.242
+20:10,1,Black Friday,1.151.220
+20:10,2,Omicron,43.079
+20:10,3,Portugal,129.349
+20:10,4,persconferentie,27.571
+20:10,5,الاهلي_النصر,62.251
+20:10,6,OurMeissaChanyeolDay,478.975
+20:10,7,BadBuddySeriesEP5,363.905
+20:10,8,찬열아생일축하해,449.313
+20:10,9,World Cup,53.590
+20:10,10,تاليسكا,21.016
+20:41,1,Omicron,64.570
+20:41,2,Black Friday,1.196.506
+20:41,3,Portugal,134.144
+20:41,4,persconferentie,30.857
+20:41,5,NSMQFinals,50.548
+20:41,6,الاهلي_النصر,67.229
+20:41,7,BadBuddySeriesEP5,372.099
+20:41,8,OurMeissaChanyeolDay,483.523
+20:41,9,World Cup,55.930
+20:41,10,Paula Daza,18.673
+21:10,1,Omicron,81.796
+21:10,2,Black Friday,1.206.150
+21:10,3,Portugal,132.352
+21:10,4,NSMQFinals,55.960
+21:10,5,persconferentie,31.874
+21:10,6,الاهلي_النصر,70.854
+21:10,7,ليله_اسير_الشوق,
+21:10,8,BadBuddySeriesEP5,377.895
+21:10,9,Paula Daza,20.674
+21:10,10,Presec,27.970
+21:41,1,BringBackCLAMONAISE,
+21:41,2,Omicron,98.441
+21:41,3,Black Friday,1.242.760
+21:41,4,DALS,
+21:41,5,Portugal,136.096
+21:41,6,NSMQFinals,59.407
+21:41,7,Dayton,
+21:41,8,persconferentie,33.625
+21:41,9,الاهلي_النصر,74.364
+21:41,10,Iowa,16.192
+22:10,1,BringBackCLAMONAISE,
+22:10,2,Omicron,113.729
+22:10,3,DALS,17.361
+22:10,4,Black Friday,1.236.325
+22:10,5,ليله_اسير_الشوق,13.237
+22:10,6,Michou,
+22:10,7,Portugal,134.557
+22:10,8,Dayton,
+22:10,9,NSMQFinals,61.374
+22:10,10,Nebraska,12.812
+22:41,1,DALS,27.964
+22:41,2,BringBackCLAMONAISE,
+22:41,3,Omicron,128.604
+22:41,4,Black Friday,1.265.395
+22:41,5,ليله_اسير_الشوق,18.480
+22:41,6,Michou,14.791
+22:41,7,LateLateToyShow,
+22:41,8,Nebraska,16.453
+22:41,9,Iowa,20.321
+22:41,10,Tayc,
+23:10,1,DALS,36.303
+23:10,2,LateLateToyShow,15.860
+23:10,3,Omicron,142.843
+23:10,4,BringBackCLAMONAISE,
+23:10,5,ليله_اسير_الشوق,24.031
+23:10,6,Black Friday,536.877
+23:10,7,Nebraska,22.638
+23:10,8,Tayc,11.951
+23:10,9,Michou,16.867
+23:10,10,Iowa,22.810
+23:41,1,LateLateToyShow,27.854
+23:41,2,DALS,48.230
+23:41,3,Omicron,159.891
+23:41,4,BringBackCLAMONAISE,
+23:41,5,Stephen Sondheim,16.804
+23:41,6,Tayc,19.435
+23:41,7,Black Friday,1.323.331
+23:41,8,ليله_اسير_الشوق,27.319
+23:41,9,Nebraska,24.848
+23:41,10,Bahia,32.448

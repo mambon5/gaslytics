@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Lionesses,16.315
+00:10,2,ENGESP,
+00:10,3,WEURO2022,43.694
+00:10,4,ENGvSPA,
+00:10,5,DECRETOS REAIS,32.174
+00:10,6,Inglaterra,23.380
+00:10,7,luisa mell,11.616
+00:10,8,Spain,80.230
+00:10,9,Stanway,10.181
+00:10,10,PkkMassacreInZaho,
+00:40,1,Lionesses,17.288
+00:40,2,WEURO2022,47.211
+00:40,3,ENGESP,
+00:40,4,DECRETOS REAIS,36.938
+00:40,5,ENGvSPA,
+00:40,6,PkkMassacreInZaho,10.363
+00:40,7,luisa mell,13.316
+00:40,8,Inglaterra,25.067
+00:40,9,Spain,82.032
+00:40,10,Stanway,10.891
+01:10,1,Lionesses,17.774
+01:10,2,WEURO2022,49.173
+01:10,3,engesp,
+01:10,4,Pezzolano,
+01:10,5,DECRETOS REAIS,41.639
+01:10,6,engvspa,
+01:10,7,PkkMassacreInZaho,12.304
+01:10,8,luisa mell,15.265
+01:10,9,Duque,95.646
+01:10,10,Inglaterra,25.540
+01:40,1,Lionesses,18.136
+01:40,2,Pezzolano,
+01:40,3,Duque,111.764
+01:40,4,WEURO2022,50.290
+01:40,5,ENGESP,
+01:40,6,DECRETOS REAIS,46.010
+01:40,7,PkkMassacreInZaho,13.827
+01:40,8,luisa mell,17.385
+01:40,9,ENGvSPA,
+01:40,10,Inglaterra,26.244
+02:10,1,Lionesses,18.269
+02:10,2,Duque,122.420
+02:10,3,Dorival,
+02:10,4,Pezzolano,
+02:10,5,DECRETOS REAIS,49.240
+02:10,6,Juventude,16.567
+02:10,7,Thiago Couto,
+02:10,8,Goiás,11.780
+02:10,9,WEURO2022,50.955
+02:10,10,ENGESP,
+02:40,1,Gabigol,18.883
+02:40,2,AEWDynamite,17.283
+02:40,3,Thiago Couto,
+02:40,4,Juma,18.902
+02:40,5,Dorival,10.197
+02:40,6,Pantanal,24.487
+02:40,7,Duque,135.031
+02:40,8,Cebolinha,13.783
+02:40,9,ESPYS,
+02:40,10,Juventude,18.829
+03:10,1,AEWDynamite,27.289
+03:10,2,Gabigol,20.489
+03:10,3,Vitinho,10.517
+03:10,4,Cebolinha,16.003
+03:10,5,RHOBH,
+03:10,6,Thiago Couto,
+03:10,7,ESPYS,
+03:10,8,Dorival,11.363
+03:10,9,Luciano,15.949
+03:10,10,Duque,142.373
+03:40,1,Vitinho,19.048
+03:40,2,AEWDynamite,37.624
+03:40,3,Cebolinha,22.113
+03:40,4,Gabigol,22.725
+03:40,5,Roger Guedes,11.649
+03:40,6,Yuri Alberto,19.906
+03:40,7,ESPYS,
+03:40,8,Dorival,14.751
+03:40,9,RHOBH,10.336
+03:40,10,Thiago Couto,
+04:10,1,AEWDynamite,49.019
+04:10,2,Vitinho,20.257
+04:10,3,Kanu,12.349
+04:10,4,Cebolinha,23.356
+04:10,5,Gabigol,23.872
+04:10,6,Roger Guedes,12.867
+04:10,7,Yuri Alberto,21.095
+04:10,8,ESPYS,10.647
+04:10,9,Marcos Leonardo,
+04:10,10,RHOBH,11.075
+04:40,1,AEWDynamite,52.036
+04:40,2,Vitinho,21.086
+04:40,3,Teams,130.880
+04:40,4,Botafogo,40.204
+04:40,5,Kanu,17.273
+04:40,6,Yuri Alberto,25.470
+04:40,7,Marcos Leonardo,
+04:40,8,Cebolinha,24.256
+04:40,9,ESPYS,11.962
+04:40,10,Gabigol,25.270
+05:10,1,Teams,147.228
+05:10,2,AEWDynamite,53.647
+05:10,3,Corinthians,118.560
+05:10,4,Botafogo,42.460
+05:10,5,Vitinho,21.400
+05:10,6,Kanu,18.302
+05:10,7,Yuri Alberto,27.070
+05:10,8,Marcos Leonardo,
+05:10,9,VotaçãoNaIlha,
+05:10,10,ESPYS,13.182
+05:40,1,Teams,167.506
+05:40,2,AEWDynamite,55.192
+05:40,3,Corinthians,123.157
+05:40,4,Botafogo,44.137
+05:40,5,Vitinho,21.733
+05:40,6,Kanu,18.731
+05:40,7,Outlook,24.506
+05:40,8,Yuri Alberto,27.852
+05:40,9,FLU120,15.140
+05:40,10,DODジャンボ,
+06:10,1,Teams,182.051
+06:10,2,AEWDynamite,56.298
+06:10,3,Corinthians,126.091
+06:10,4,Botafogo,44.595
+06:10,5,Outlook,25.792
+06:10,6,DODジャンボ,
+06:10,7,Vitinho,21.833
+06:10,8,Kanu,18.830
+06:10,9,FLU120,16.346
+06:10,10,Yuri Alberto,28.495
+06:40,1,Teams,195.441
+06:40,2,最高が何なのか証明しよう,
+06:40,3,TheVoiceCHV,13.810
+06:40,4,DODジャンボ,
+06:40,5,AEWDynamite,57.223
+06:40,6,Outlook,26.834
+06:40,7,Corinthians,128.258
+06:40,8,Botafogo,45.091
+06:40,9,Kanu,19.044
+06:40,10,Vitinho,21.987
+07:10,1,Teams,201.637
+07:10,2,最高が何なのか証明しよう,
+07:10,3,TheVoiceCHV,16.018
+07:10,4,DODジャンボ,
+07:10,5,AEWDynamite,58.065
+07:10,6,Corinthians,129.118
+07:10,7,ACTOR JIN,39.301
+07:10,8,Outlook,26.596
+07:10,9,GetWellSoonJay,46.394
+07:10,10,HEEJIN,12.253
+07:40,1,Teams,208.413
+07:40,2,最高が何なのか証明しよう,
+07:40,3,TheVoiceCHV,16.817
+07:40,4,HEEJIN,18.452
+07:40,5,DODジャンボ,
+07:40,6,ACTOR JIN,47.579
+07:40,7,LigerTrailer,54.226
+07:40,8,Corinthians,129.801
+07:40,9,ポケモンユナイト1周年,
+07:40,10,Outlook,27.190
+08:10,1,Teams,211.778
+08:10,2,最高が何なのか証明しよう,
+08:10,3,DODジャンボ,11.030
+08:10,4,HEEJIN,21.989
+08:10,5,tniad utamakan rakyat,
+08:10,6,Pastikan Kedaulatan NKRI,
+08:10,7,LigerTrailer,57.487
+08:10,8,TheVoiceCHV,16.884
+08:10,9,Actor Jin,53.740
+08:10,10,ポケモンユナイト1周年,
+08:40,1,Teams,217.538
+08:40,2,最高が何なのか証明しよう,
+08:40,3,いつもありがとう櫻坂46,
+08:40,4,ShamsheraReleasingTomorrow,
+08:40,5,HEEJIN,24.566
+08:40,6,DODジャンボ,11.262
+08:40,7,ThankYouSKZ,
+08:40,8,Pastikan Kedaulatan NKRI,
+08:40,9,TNIAD Utamakan Rakyat,
+08:40,10,ACTOR JIN,58.650
+09:10,1,Teams,219.448
+09:10,2,いつもありがとう櫻坂46,
+09:10,3,最高が何なのか証明しよう,
+09:10,4,TrailerOfTheYear,
+09:10,5,heejin,26.506
+09:10,6,ShamsheraReleasingTomorrow,
+09:10,7,ThankYouSKZ,
+09:10,8,TNIAD Utamakan Rakyat,
+09:10,9,Pastikan Kedaulatan NKRI,
+09:10,10,ACTOR JIN,63.440
+09:40,1,Teams,224.036
+09:40,2,いつもありがとう櫻坂46,
+09:40,3,最高が何なのか証明しよう,10.618
+09:40,4,TrailerOfTheYear,
+09:40,5,heejin,28.212
+09:40,6,ShamsheraReleasingTomorrow,
+09:40,7,SoniaGandhi,
+09:40,8,TNIAD Utamakan Rakyat,
+09:40,9,Pastikan Kedaulatan NKRI,
+09:40,10,ACTOR JIN,67.109
+10:10,1,いつもありがとう櫻坂46,
+10:10,2,Teams,225.708
+10:10,3,最高が何なのか証明しよう,11.319
+10:10,4,भाजपामय_मध्यप्रदेश,
+10:10,5,TrailerOfTheYear,
+10:10,6,SoniaGandhi,11.792
+10:10,7,heejin,29.364
+10:10,8,ACTOR JIN,70.508
+10:10,9,ポプマス,27.029
+10:10,10,TNIAD Utamakan Rakyat,
+10:40,1,いつもありがとう櫻坂46,
+10:40,2,Teams,230.586
+10:40,3,最高が何なのか証明しよう,12.024
+10:40,4,ポプマス,33.847
+10:40,5,ShamsheraReleasingTomorrow,
+10:40,6,SoniaGandhi,13.636
+10:40,7,भाजपामय_मध्यप्रदेश,
+10:40,8,heejin,30.632
+10:40,9,ACTOR JIN,73.828
+10:40,10,東京3万人,30.848
+11:10,1,いつもありがとう櫻坂46,
+11:10,2,KAZZAWARDS2022,153.988
+11:10,3,Teams,231.490
+11:10,4,유앤아이버스_별둥이와로하의공간,
+11:10,5,KazzAwardsXCutiePie,12.209
+11:10,6,最高が何なのか証明しよう,12.803
+11:10,7,SIAMMakroViolates FDI GST,
+11:10,8,ポプマス,32.927
+11:10,9,heejin,32.551
+11:10,10,ENGLOT x KAZZ AWARDS,91.451
+11:40,1,KAZZAWARDS2022,226.210
+11:40,2,いつもありがとう櫻坂46,
+11:40,3,KazzAwardsXCutiePie,34.771
+11:40,4,유앤아이버스_별둥이와로하의공간,11.735
+11:40,5,Teams,236.598
+11:40,6,最高が何なのか証明しよう,14.013
+11:40,7,SIAMMakroViolates FDI GST,
+11:40,8,ポプマス,35.750
+11:40,9,水着アルトリア,
+11:40,10,GAPgirls x KAZZAWARDS,
+12:10,1,KAZZAWARDS2022,310.100
+12:10,2,VS魂,17.420
+12:10,3,KazzAwardsXCutiePie,77.222
+12:10,4,いつもありがとう櫻坂46,10.676
+12:10,5,CalliSolo,16.982
+12:10,6,CutiePie x DG,49.390
+12:10,7,水着アルトリア,
+12:10,8,Teams,238.112
+12:10,9,ポプマス,36.024
+12:10,10,Nilamsari Founder Babarafi,
+12:40,1,KAZZAWARDS2022,426.111
+12:40,2,VS魂,27.593
+12:40,3,CalliSolo,27.638
+12:40,4,KazzAwardsXCutiePie,141.346
+12:40,5,いつもありがとう櫻坂46,11.306
+12:40,6,水着アルトリア,
+12:40,7,CutiePie x DG,102.227
+12:40,8,DONNY FOR MEN WHO MATTER,71.542
+12:40,9,Kim Taehyung,36.352
+12:40,10,Teams,243.054
+13:10,1,KAZZAWARDS2022,595.388
+13:10,2,LOVELOVEあいしてる,39.803
+13:10,3,namjoon,138.595
+13:10,4,VS魂,34.126
+13:10,5,ชอบตัวเองตอนอยู่กับเธอMV,51.010
+13:10,6,CalliSolo,33.952
+13:10,7,水着アルトリア,
+13:10,8,DONNY FOR MEN WHO MATTER,80.794
+13:10,9,Weverse Live,35.741
+13:10,10,CutiePie x DG,148.157
+13:40,1,LOVELOVEあいしてる,67.609
+13:40,2,namjoon,187.846
+13:40,3,KAZZAWARDS2022,727.628
+13:40,4,硝子の少年,11.557
+13:40,5,ジャニーズシニア,
+13:40,6,VS魂,36.519
+13:40,7,ชอบตัวเองตอนอยู่กับเธอMV,94.904
+13:40,8,キムタク,
+13:40,9,風間くん,
+13:40,10,CalliSolo,42.306
+14:10,1,LOVELOVEあいしてる,87.923
+14:10,2,namjoon,214.341
+14:10,3,KAZZAWARDS2022,861.260
+14:10,4,硝子の少年,12.610
+14:10,5,CalliSolo,49.920
+14:10,6,常闇トワ新衣装,14.048
+14:10,7,素のまんま,13.313
+14:10,8,ジャニーズシニア,10.527
+14:10,9,キムタク,
+14:10,10,拓郎さん,19.818
+14:40,1,LOVELOVEあいしてる,102.631
+14:40,2,namjoon,237.870
+14:40,3,KAZZAWARDS2022,1.027.799
+14:40,4,素のまんま,43.173
+14:40,5,CalliSolo,53.240
+14:40,6,拓郎さん,23.176
+14:40,7,常闇トワ新衣装,19.828
+14:40,8,硝子の少年,13.595
+14:40,9,ジャニーズシニア,11.679
+14:40,10,キムタク,
+15:10,1,LOVELOVEあいしてる,124.465
+15:10,2,KAZZAWARDS2022,1.270.197
+15:10,3,namjoon,254.085
+15:10,4,拓郎さん,30.739
+15:10,5,素のまんま,46.817
+15:10,6,六本木クラス,16.231
+15:10,7,プレバト,13.171
+15:10,8,硝子の少年,14.760
+15:10,9,ジャニーズシニア,12.723
+15:10,10,プリンセスチュチュ,11.207
+15:40,1,LOVELOVEあいしてる,133.000
+15:40,2,KAZZAWARDS2022,1.483.476
+15:40,3,namjoon,278.579
+15:40,4,拓郎さん,36.011
+15:40,5,素のまんま,48.655
+15:40,6,六本木クラス,18.379
+15:40,7,つよしひかり,18.120
+15:40,8,プリンセスチュチュ,13.349
+15:40,9,硝子の少年,16.486
+15:40,10,BUBBLIES X HEY ROOMIE,22.702
+16:10,1,LOVELOVEあいしてる,137.286
+16:10,2,KAZZAWARDS2022,1.725.477
+16:10,3,純愛ディソナンス,26.981
+16:10,4,namjoon,294.976
+16:10,5,JiminxKisstheRadio,69.245
+16:10,6,つよしひかり,28.947
+16:10,7,拓郎さん,38.142
+16:10,8,Perfume,29.250
+16:10,9,プリンセスチュチュ,15.239
+16:10,10,jake,204.173
+16:40,1,LOVELOVEあいしてる,140.384
+16:40,2,KAZZAWARDS2022,1.950.895
+16:40,3,純愛ディソナンス,28.914
+16:40,4,JiminxKisstheRadio,93.961
+16:40,5,namjoon,309.380
+16:40,6,DroupadiMurmu,33.674
+16:40,7,SNKRS,11.245
+16:40,8,拓郎さん,39.663
+16:40,9,P'Jack,56.504
+16:40,10,RED VELVET IN MANILA,
+17:10,1,KAZZAWARDS2022,2.131.623
+17:10,2,LOVELOVEあいしてる,142.621
+17:10,3,DroupadiMurmu,44.374
+17:10,4,PresidentofIndia,20.507
+17:10,5,JiminxKisstheRadio,109.409
+17:10,6,Vingegaard,16.992
+17:10,7,namjoon,316.358
+17:10,8,Pogacar,15.776
+17:10,9,SNKRS,11.769
+17:10,10,拓郎さん,40.587
+17:40,1,TDF2022,53.657
+17:40,2,DroupadiMurmu,55.820
+17:40,3,Van Aert,
+17:40,4,PresidentofIndia,25.701
+17:40,5,KAZZAWARDS2022,2.109.946
+17:40,6,Pogacar,19.994
+17:40,7,Vingegaard,21.809
+17:40,8,DiaMundialDelPerro,14.793
+17:40,9,namjoon,327.866
+17:40,10,第182回,
+18:10,1,TDF2022,58.328
+18:10,2,DroupadiMurmu,64.814
+18:10,3,PresidentofIndia,31.167
+18:10,4,Van Aert,10.069
+18:10,5,DiaMundialDelPerro,17.076
+18:10,6,Vingegaard,25.782
+18:10,7,Pogacar,22.719
+18:10,8,deprem,14.148
+18:10,9,Ruhe in Frieden,
+18:10,10,namjoon,333.093
+18:40,1,DroupadiMurmu,75.379
+18:40,2,billie,41.016
+18:40,3,TDF2022,61.739
+18:40,4,PresidentofIndia,36.240
+18:40,5,DiaMundialDelPerro,19.669
+18:40,6,Van Aert,10.843
+18:40,7,deprem,15.780
+18:40,8,Pogacar,24.344
+18:40,9,Vingegaard,28.078
+18:40,10,Kyler Murray,
+19:10,1,billie,47.503
+19:10,2,DroupadiMurmu,84.106
+19:10,3,DiaMundialDelPerro,22.072
+19:10,4,TDF2022,61.792
+19:10,5,Kyler Murray,12.705
+19:10,6,Van Aert,11.269
+19:10,7,deprem,16.769
+19:10,8,UweSeeler,
+19:10,9,Pogacar,24.868
+19:10,10,Vingegaard,29.063
+19:40,1,billie,52.256
+19:40,2,DroupadiMurmu,90.848
+19:40,3,DiaMundialDelPerro,24.377
+19:40,4,florence,22.740
+19:40,5,Kyler Murray,15.461
+19:40,6,TDF2022,64.015
+19:40,7,แผ่นดินไหว,12.829
+19:40,8,deprem,17.648
+19:40,9,Van Aert,11.656
+19:40,10,Pogacar,25.850
+20:10,1,billie,55.118
+20:10,2,florence,25.796
+20:10,3,DroupadiMurmu,95.740
+20:10,4,DiaMundialDelPerro,26.529
+20:10,5,PresidentofIndia,46.287
+20:10,6,Kyler Murray,17.403
+20:10,7,แผ่นดินไหว,20.818
+20:10,8,TDF2022,63.897
+20:10,9,Lamar,21.430
+20:10,10,Van Aert,11.973
+20:40,1,billie,58.035
+20:40,2,florence,27.868
+20:40,3,DiaMundialDelPerro,28.774
+20:40,4,Nunez,30.164
+20:40,5,DroupadiMurmu,99.028
+20:40,6,Lingard,22.106
+20:40,7,Kyler Murray,18.935
+20:40,8,PresidentofIndia,47.881
+20:40,9,Forest,83.237
+20:40,10,แผ่นดินไหว,24.514
+21:10,1,Nunez,60.024
+21:10,2,billie,59.890
+21:10,3,florence,29.742
+21:10,4,DiaMundialDelPerro,30.887
+21:10,5,Lingard,23.847
+21:10,6,DroupadiMurmu,101.068
+21:10,7,Kyler Murray,20.078
+21:10,8,Forest,84.496
+21:10,9,PresidentofIndia,48.898
+21:10,10,GERAUT,
+21:40,1,Nunez,80.090
+21:40,2,GERAUT,
+21:40,3,ONEPIECE1054,13.689
+21:40,4,florence,31.843
+21:40,5,DiaMundialDelPerro,32.933
+21:40,6,billie,62.069
+21:40,7,الزمالك,36.359
+21:40,8,Lingard,25.707
+21:40,9,Carvalho,16.264
+21:40,10,الشناوي,
+22:10,1,Nunez,88.231
+22:10,2,ONEPIECE1054,16.592
+22:10,3,الزمالك,41.121
+22:10,4,GERAUT,
+22:10,5,DiaMundialDelPerro,34.861
+22:10,6,florence,33.147
+22:10,7,YaramazKız Ceyda,
+22:10,8,DuyBeni,54.682
+22:10,9,billie,63.263
+22:10,10,Lingard,26.613
+22:40,1,Nunez,93.996
+22:40,2,ONEPIECE1054,19.349
+22:40,3,GERAUT,
+22:40,4,CAFAwards2022,26.151
+22:40,5,الزمالك,44.194
+22:40,6,DiaMundialDelPerro,36.889
+22:40,7,florence,34.437
+22:40,8,DuyBeni,61.300
+22:40,9,Astros,19.292
+22:40,10,YaramazKız Ceyda,
+23:10,1,GERAUT,
+23:10,2,الزمالك,49.755
+23:10,3,CAFAwards2022,38.037
+23:10,4,ONEPIECE1054,21.272
+23:10,5,Nunez,97.241
+23:10,6,SVGala14,
+23:10,7,gangłysego,10.589
+23:10,8,Nathalia,
+23:10,9,Lacey,
+23:10,10,Astros,21.542
+23:40,1,Paige,27.873
+23:40,2,الزمالك,61.645
+23:40,3,GERAUT,
+23:40,4,ONEPIECE1054,23.317
+23:40,5,CAFAwards2022,43.369
+23:40,6,Nathalia,11.416
+23:40,7,SVGala14,
+23:40,8,Nunez,100.729
+23:40,9,gangłysego,13.559
+23:40,10,Reece,11.997

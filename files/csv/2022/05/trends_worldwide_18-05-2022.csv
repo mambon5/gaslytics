@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosa,121.834
+00:10,2,Forest,112.348
+00:10,3,Samba,24.898
+00:10,4,NFFC,20.747
+00:10,5,DerryGirls,
+00:10,6,SOULIV,51.505
+00:10,7,SheHulk,14.338
+00:10,8,Southampton,72.772
+00:10,9,Martin Tyler,
+00:10,10,Matip,17.365
+00:40,1,SheHulk,33.640
+00:40,2,SalarioRosa,125.054
+00:40,3,Forest,118.127
+00:40,4,NFFC,24.036
+00:40,5,Samba,26.705
+00:40,6,DerryGirls,
+00:40,7,LaNocheDChanel,
+00:40,8,Billy Sharp,
+00:40,9,Tatiana Maslany,
+00:40,10,Martin Tyler,
+01:10,1,SheHulk,46.613
+01:10,2,SalarioRosa,128.071
+01:10,3,Forest,120.629
+01:10,4,NFFC,26.109
+01:10,5,LaNocheDChanel,
+01:10,6,Billy Sharp,
+01:10,7,Tatiana Maslany,
+01:10,8,Samba,27.952
+01:10,9,DerryGirls,
+01:10,10,Wanderson,
+01:40,1,SheHulk,55.827
+01:40,2,SalarioRosa,131.056
+01:40,3,Forest,124.548
+01:40,4,NFFC,27.376
+01:40,5,Wanderson,
+01:40,6,Tatiana Maslany,
+01:40,7,LaNocheDChanel,
+01:40,8,Billy Sharp,
+01:40,9,Samba,28.984
+01:40,10,Fiona,11.845
+02:10,1,SheHulk,64.116
+02:10,2,SalarioRosa,133.843
+02:10,3,Forest,125.091
+02:10,4,Wanderson,
+02:10,5,Tatiana Maslany,10.349
+02:10,6,nffc,28.109
+02:10,7,Astros,18.389
+02:10,8,Fiona,12.446
+02:10,9,Billy Sharp,
+02:10,10,LaNocheDChanel,
+02:40,1,Arão,
+02:40,2,SheHulk,70.864
+02:40,3,Chet,12.815
+02:40,4,gabigol,
+02:40,5,NBADraftLottery,
+02:40,6,Pistons,10.071
+02:40,7,Corinthians,85.123
+02:40,8,Paolo,18.918
+02:40,9,SalarioRosa,136.303
+02:40,10,Jabari,
+03:10,1,Arão,15.887
+03:10,2,SheHulk,76.771
+03:10,3,Corinthians,97.793
+03:10,4,Chet,15.052
+03:10,5,QUEIROZ,10.930
+03:10,6,Gabigol,
+03:10,7,NBADraftLottery,
+03:10,8,Pistons,10.862
+03:10,9,Paolo,20.229
+03:10,10,Jabari,
+03:40,1,Gabigol,17.263
+03:40,2,Arão,17.564
+03:40,3,Hugo,62.187
+03:40,4,ThisIsUs,13.985
+03:40,5,Corinthians,107.602
+03:40,6,SheHulk,81.964
+03:40,7,Chet,16.104
+03:40,8,QUEIROZ,11.991
+03:40,9,Robert Williams,
+03:40,10,Benedetto,
+04:10,1,Gabigol,21.317
+04:10,2,ThisIsUs,22.598
+04:10,3,Corinthians,116.979
+04:10,4,Arão,17.910
+04:10,5,MasterChefBr,
+04:10,6,Hugo,62.208
+04:10,7,SheHulk,87.019
+04:10,8,Benedetto,10.372
+04:10,9,SalarioRosa,152.557
+04:10,10,فوز الميريا,
+04:40,1,Gabigol,24.305
+04:40,2,Corinthians,137.405
+04:40,3,ThisIsUs,27.694
+04:40,4,Salvio,
+04:40,5,MasterChefBr,
+04:40,6,SalarioRosa,165.860
+04:40,7,Arão,20.796
+04:40,8,Hugo,64.999
+04:40,9,Madison Cawthorn,75.614
+04:40,10,فوز الميريا,
+05:10,1,Corinthians,143.888
+05:10,2,Gabigol,25.443
+05:10,3,ThisIsUs,30.027
+05:10,4,SalarioRosa,176.289
+05:10,5,Salvio,11.875
+05:10,6,Tatum,49.706
+05:10,7,MasterChefBr,11.051
+05:10,8,Celtics,112.084
+05:10,9,Celtics,112.084
+05:10,10,Madison Cawthorn,96.062
+05:40,1,Jimmy Butler,35.512
+05:40,2,SalarioRosa,183.786
+05:40,3,Corinthians,149.051
+05:40,4,Tatum,56.598
+05:40,5,Gabigol,25.980
+05:40,6,ThisIsUs,31.848
+05:40,7,Celtics,123.271
+05:40,8,Celtics,123.271
+05:40,9,MasterChefBr,12.748
+05:40,10,Salvio,12.486
+06:10,1,Jimmy Butler,43.294
+06:10,2,SalarioRosa,188.279
+06:10,3,Tatum,58.080
+06:10,4,Corinthians,151.076
+06:10,5,ThisIsUs,33.182
+06:10,6,Gabigol,26.356
+06:10,7,Madison Cawthorn,118.447
+06:10,8,فوز الميريا,16.643
+06:10,9,Celtics,126.663
+06:10,10,Celtics,126.663
+06:40,1,Jimmy Butler,46.863
+06:40,2,SalarioRosa,190.645
+06:40,3,فوز الميريا,18.752
+06:40,4,ThisIsUs,34.212
+06:40,5,Tatum,59.272
+06:40,6,Madison Cawthorn,125.291
+06:40,7,dek65,1.166.941
+06:40,8,Corinthians,152.837
+06:40,9,MasterChefBr,13.014
+06:40,10,Gabigol,26.532
+07:10,1,Jimmy Butler,49.003
+07:10,2,فوز الميريا,21.043
+07:10,3,dek65,1.257.605
+07:10,4,GoAvsGo,10.471
+07:10,5,SalarioRosa,191.882
+07:10,6,Madison Cawthorn,130.132
+07:10,7,ThisIsUs,35.047
+07:10,8,プロセカご意見箱,
+07:10,9,Tatum,59.747
+07:10,10,Corinthians,153.164
+07:40,1,Jimmy Butler,50.526
+07:40,2,فوز الميريا,23.103
+07:40,3,dek65,1.349.495
+07:40,4,プロセカご意見箱,
+07:40,5,GoAvsGo,10.984
+07:40,6,ThisIsUs,36.042
+07:40,7,Madison Cawthorn,134.274
+07:40,8,SalarioRosa,192.443
+07:40,9,Tatum,60.409
+07:40,10,Gabigol,26.679
+08:10,1,فوز الميريا,24.848
+08:10,2,Jimmy Butler,51.805
+08:10,3,dek65,1.418.055
+08:10,4,プロセカご意見箱,
+08:10,5,ThisIsUs,36.805
+08:10,6,Madison Cawthorn,137.246
+08:10,7,GoAvsGo,11.205
+08:10,8,Perarivalan,
+08:10,9,Salvio,13.187
+08:10,10,Tatum,60.783
+08:40,1,فوز الميريا,26.720
+08:40,2,dek65,1.495.783
+08:40,3,プロセカご意見箱,
+08:40,4,Jimmy Butler,52.830
+08:40,5,Perarivalan,
+08:40,6,HardikPatel,
+08:40,7,Madison Cawthorn,139.980
+08:40,8,ThisIsUs,37.216
+08:40,9,Binnington,
+08:40,10,Gabigol,26.754
+09:10,1,فوز الميريا,28.519
+09:10,2,プロセカご意見箱,10.368
+09:10,3,dek65,1.484.435
+09:10,4,Perarivalan,
+09:10,5,Jimmy Butler,53.630
+09:10,6,HardikPatel,
+09:10,7,PPNewEyesOfMaybelline,90.298
+09:10,8,Madison Cawthorn,142.029
+09:10,9,Nathi Mthethwa,
+09:10,10,Daily Quordle 114,
+09:40,1,فوز الميريا,30.061
+09:40,2,プロセカご意見箱,11.371
+09:40,3,dek65,1.345.555
+09:40,4,Perarivalan,10.050
+09:40,5,HardikPatel,
+09:40,6,Jimmy Butler,54.451
+09:40,7,嫁募集ツイートメーカー,
+09:40,8,Nathi Mthethwa,
+09:40,9,Madison Cawthorn,143.925
+09:40,10,Daily Quordle 114,
+10:10,1,فوز الميريا,31.499
+10:10,2,プロセカご意見箱,12.514
+10:10,3,嫁募集ツイートメーカー,
+10:10,4,İlkAdımRuhu,
+10:10,5,dek65,1.334.060
+10:10,6,Perarivalan,11.749
+10:10,7,Nathi Mthethwa,10.564
+10:10,8,Jimmy Butler,55.065
+10:10,9,WHO'S YOUR BIAS IN 4TH GEN,
+10:10,10,Daily Quordle 114,
+10:40,1,فوز الميريا,33.239
+10:40,2,プロセカご意見箱,13.565
+10:40,3,嫁募集ツイートメーカー,
+10:40,4,AskViceG,
+10:40,5,İlkAdımRuhu,
+10:40,6,PerarivalanRelease,11.462
+10:40,7,Nathi Mthethwa,12.120
+10:40,8,SOLOIST YERIN IS HERE,
+10:40,9,WHO'S YOUR BIAS IN 4TH GEN,
+10:40,10,視認可能フレーム計測ツール,
+11:10,1,فوز الميريا,34.831
+11:10,2,嫁募集ツイートメーカー,
+11:10,3,プロセカご意見箱,14.698
+11:10,4,예린_아리아로_데뷔란_말이아,16.494
+11:10,5,YERIN_SOLO_DEBUT,17.007
+11:10,6,オイスティー,
+11:10,7,SOLOIST YERIN IS HERE,16.072
+11:10,8,デブNG,
+11:10,9,WHO'S YOUR BIAS IN 4TH GEN,
+11:10,10,Nathi Mthethwa,13.352
+11:40,1,マイケル,12.954
+11:40,2,嫁募集ツイートメーカー,
+11:40,3,فوز الميريا,36.344
+11:40,4,YERIN_SOLO_DEBUT,20.191
+11:40,5,예린_아리아로_데뷔란_말이아,19.596
+11:40,6,プロセカご意見箱,15.585
+11:40,7,オイスティー,
+11:40,8,コンスタンティノス,16.514
+11:40,9,デブNG,
+11:40,10,HIH2 CRIME AND PUNISHMENT,26.872
+12:10,1,マイケル,17.005
+12:10,2,嫁募集ツイートメーカー,
+12:10,3,فوز الميريا,37.852
+12:10,4,ปัญเจนนิษฐ์xมายาอวอร์ด,16.842
+12:10,5,プロセカご意見箱,16.565
+12:10,6,YERIN_SOLO_DEBUT,21.680
+12:10,7,예린_아리아로_데뷔란_말이아,20.968
+12:10,8,HIH2 CRIME AND PUNISHMENT,55.565
+12:10,9,デブNG,
+12:10,10,コンスタンティノス,23.904
+12:40,1,マイケル,20.502
+12:40,2,THEDANCEDAY,14.556
+12:40,3,ปัญเจนนิษฐ์xมายาอวอร์ด,40.813
+12:40,4,嫁募集ツイートメーカー,
+12:40,5,MayaEntertainAwards2022,31.389
+12:40,6,มิวมามายาอวอร์ด,58.846
+12:40,7,فوز الميريا,39.246
+12:40,8,コンスタンティノス,30.213
+12:40,9,HIH2 CRIME AND PUNISHMENT,83.194
+12:40,10,MAYA AWARDS 2022 x MSS,58.617
+13:10,1,THEDANCEDAY,17.411
+13:10,2,マイケル,23.274
+13:10,3,AskMalavika,
+13:10,4,MayaEntertainAwards2022,59.707
+13:10,5,推しを一発で出せたらあなたの愛は本物,
+13:10,6,PMQs,
+13:10,7,HIH2 CRIME AND PUNISHMENT,115.387
+13:10,8,コンスタンティノス,34.698
+13:10,9,MAYA AWARDS 2022 x MSS,81.907
+13:10,10,KoRocK,
+13:40,1,THEDANCEDAY,20.632
+13:40,2,PMQs,10.209
+13:40,3,WeareallIdrissa,
+13:40,4,AskMalavika,
+13:40,5,マイケル,25.755
+13:40,6,推しを一発で出せたらあなたの愛は本物,
+13:40,7,三角関数,10.864
+13:40,8,MAYA AWARDS 2022 x MSS,104.766
+13:40,9,HIH2 CRIME AND PUNISHMENT,140.613
+13:40,10,デブNG,
+14:10,1,WeareallIdrissa,32.508
+14:10,2,THEDANCEDAY,24.431
+14:10,3,PMQs,14.291
+14:10,4,MayaEntertainAwards2022,149.920
+14:10,5,AskMalavika,
+14:10,6,マイケル,27.716
+14:10,7,三角関数,14.514
+14:10,8,ホームラン,38.880
+14:10,9,MAYA AWARDS 2022 x MSS,132.876
+14:10,10,パワーパフボーイズ,
+14:40,1,WeareallIdrissa,61.009
+14:40,2,THEDANCEDAY,28.994
+14:40,3,マーティン,
+14:40,4,GetWellSoonTaeil,17.808
+14:40,5,MayaEntertainAwards2022,227.963
+14:40,6,推しを一発で出せたらあなたの愛は本物,
+14:40,7,ユンカー,
+14:40,8,マイケル,29.641
+14:40,9,横浜優勝,
+14:40,10,ホームラン,43.328
+15:10,1,WeareallIdrissa,91.887
+15:10,2,THEDANCEDAY,34.087
+15:10,3,GetWellSoonTaeil,33.096
+15:10,4,マーティン,12.188
+15:10,5,MayaEntertainAwards2022,292.241
+15:10,6,推しを一発で出せたらあなたの愛は本物,
+15:10,7,KUROKO,
+15:10,8,ユンカー,
+15:10,9,マイケル,31.012
+15:10,10,三角関数,21.439
+15:40,1,WeareallIdrissa,123.368
+15:40,2,THEDANCEDAY,35.752
+15:40,3,GetWellSoonTaeil,40.803
+15:40,4,MELOGAPPA50万人いけよ,11.757
+15:40,5,推しを一発で出せたらあなたの愛は本物,
+15:40,6,マーティン,13.554
+15:40,7,三角関数,25.510
+15:40,8,howard stern,
+15:40,9,KUROKO,
+15:40,10,ユンカー,
+16:10,1,WeareallIdrissa,157.172
+16:10,2,THEDANCEDAY,35.957
+16:10,3,ナンバMG5,31.447
+16:10,4,CensoNacional2022,
+16:10,5,GetWellSoonTaeil,45.327
+16:10,6,howard,46.273
+16:10,7,山口県警,14.980
+16:10,8,電子計算機使用詐欺,10.273
+16:10,9,三角関数,29.355
+16:10,10,マーティン,14.374
+16:40,1,WeareallIdrissa,199.685
+16:40,2,howard,56.650
+16:40,3,CensoNacional2022,
+16:40,4,22GraduatesVersion,19.179
+16:40,5,tenpo,
+16:40,6,THEDANCEDAY,36.836
+16:40,7,mitch,37.861
+16:40,8,電子計算機使用詐欺,15.117
+16:40,9,山口県警,20.153
+16:40,10,三角関数,33.065
+17:10,1,WeareallIdrissa,243.137
+17:10,2,ProofOfInspiration3,92.067
+17:10,3,Proof_of_Jimin,104.370
+17:10,4,NAYEON,82.019
+17:10,5,22GraduatesVersion,28.292
+17:10,6,howard,69.311
+17:10,7,JO1ANNX,18.894
+17:10,8,Egan,
+17:10,9,GOT7 IS COMING,34.809
+17:10,10,三角関数,36.267
+17:40,1,WeareallIdrissa,288.674
+17:40,2,NAYEON,197.026
+17:40,3,Proof_of_Jimin,185.927
+17:40,4,ProofOfInspiration3,107.772
+17:40,5,JO1ANNX,56.245
+17:40,6,GOT7_HighlightMedley,75.897
+17:40,7,Egan,18.983
+17:40,8,howard,78.105
+17:40,9,GOT7 IS COMING,67.539
+17:40,10,Eagles,41.709
+18:10,1,WeareallIdrissa,334.271
+18:10,2,NAYEON,254.341
+18:10,3,Proof_of_Jimin,227.663
+18:10,4,22GraduatesVersion,55.218
+18:10,5,Egan,28.388
+18:10,6,JO1ANNX,87.735
+18:10,7,ProofOfInspiration3,116.338
+18:10,8,howard,83.761
+18:10,9,GOT7 IS COMING,80.306
+18:10,10,第118回,
+18:40,1,WeareallIdrissa,383.736
+18:40,2,NAYEON,286.514
+18:40,3,22GraduatesVersion,77.917
+18:40,4,Proof_of_Jimin,251.504
+18:40,5,Egan,37.271
+18:40,6,taylor swift,137.744
+18:40,7,JO1ANNX,97.711
+18:40,8,ProofOfInspiration3,120.966
+18:40,9,第118回,
+18:40,10,howard,89.219
+19:10,1,WeareallIdrissa,419.743
+19:10,2,22GraduatesVersion,105.964
+19:10,3,taylor,341.753
+19:10,4,NAYEON,305.043
+19:10,5,Egan,45.621
+19:10,6,Proof_of_Jimin,267.090
+19:10,7,JO1ANNX,100.678
+19:10,8,ProofOfInspiration3,123.856
+19:10,9,第118回,
+19:10,10,Miguel Merentiel,
+19:40,1,WeareallIdrissa,454.068
+19:40,2,22GraduatesVersion,122.056
+19:40,3,taylor,380.226
+19:40,4,NAYEON,318.187
+19:40,5,Egan,54.118
+19:40,6,Proof_of_Jimin,278.189
+19:40,7,CensoNacional2022,11.245
+19:40,8,mitch,48.834
+19:40,9,NYU2022,36.808
+19:40,10,Nodal,11.218
+20:10,1,WeareallIdrissa,486.258
+20:10,2,22GraduatesVersion,133.916
+20:10,3,taylor,403.337
+20:10,4,KKRvsLSG,
+20:10,5,Egan,62.989
+20:10,6,NAYEON,326.355
+20:10,7,Rinku Singh,
+20:10,8,Proof_of_Jimin,286.680
+20:10,9,CensoNacional2022,12.076
+20:10,10,Mitch,50.350
+20:40,1,WeareallIdrissa,512.232
+20:40,2,Taylor,424.937
+20:40,3,22GraduatesVersion,140.917
+20:40,4,KKRvsLSG,10.803
+20:40,5,Egan,71.922
+20:40,6,NAYEON,334.486
+20:40,7,Rinku Singh,14.187
+20:40,8,UELfinal,38.933
+20:40,9,Proof_of_Jimin,293.849
+20:40,10,Frankfurt,72.797
+21:10,1,WeareallIdrissa,537.547
+21:10,2,UELfinal,48.897
+21:10,3,taylor,437.277
+21:10,4,22GraduatesVersion,145.779
+21:10,5,Egan,79.384
+21:10,6,Rangers,139.008
+21:10,7,KKRvsLSG,11.694
+21:10,8,Bustamante,
+21:10,9,EuropaLeagueFinal,
+21:10,10,Frankfurt,86.330
+21:40,1,UELfinal,60.438
+21:40,2,WeareallIdrissa,561.851
+21:40,3,Rangers,154.237
+21:40,4,Frankfurt,99.502
+21:40,5,EuropaLeagueFinal,11.235
+21:40,6,Taylor,454.432
+21:40,7,TPMP,12.187
+21:40,8,Egan,86.457
+21:40,9,Bustamante,11.530
+21:40,10,SGERFC,16.083
+22:10,1,UELfinal,65.706
+22:10,2,WeareallIdrissa,585.363
+22:10,3,Rangers,159.856
+22:10,4,Frankfurt,105.329
+22:10,5,EuropaLeagueFinal,12.554
+22:10,6,Bustamante,13.646
+22:10,7,Egan,92.837
+22:10,8,Taylor,463.127
+22:10,9,SGERFC,17.956
+22:10,10,TPMP,13.169
+22:40,1,UELfinal,79.519
+22:40,2,Rangers,185.060
+22:40,3,Frankfurt,121.611
+22:40,4,EuropaLeagueFinal,15.429
+22:40,5,WeareallIdrissa,607.812
+22:40,6,SGERFC,21.795
+22:40,7,FRARAN,
+22:40,8,Aribo,12.274
+22:40,9,Borré,15.992
+22:40,10,Bustamante,15.093
+23:10,1,UELfinal,89.765
+23:10,2,Rangers,195.334
+23:10,3,Frankfurt,131.918
+23:10,4,DerryGirls,14.279
+23:10,5,EuropaLeagueFinal,16.369
+23:10,6,FRARAN,
+23:10,7,SGERFC,26.000
+23:10,8,Borré,21.151
+23:10,9,Kostic,12.572
+23:10,10,Aribo,13.935
+23:40,1,UELfinal,97.628
+23:40,2,DerryGirls,19.646
+23:40,3,Rangers,206.607
+23:40,4,Frankfurt,139.199
+23:40,5,EuropaLeagueFinal,17.629
+23:40,6,Bassey,
+23:40,7,Fahrettin Altun,
+23:40,8,FRARAN,
+23:40,9,Trapp,
+23:40,10,19Mayıs,22.616

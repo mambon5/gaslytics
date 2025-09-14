@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:03,1,Sevilla,143.841
+00:03,2,JBChanceHoly,40.683
+00:03,3,Ocampos,19.841
+00:03,4,VoteHimOut,161.731
+00:03,5,GSvHAJ,19.252
+00:03,6,loveorhost,20.781
+00:03,7,Tory,71.923
+00:03,8,Curtis Jones,
+00:03,9,Diego Carlos,
+00:03,10,XF2020,15.333
+00:33,1,Sevilla,150.314
+00:33,2,JBChanceHoly,43.999
+00:33,3,Ocampos,20.491
+00:33,4,VoteHimOut,167.501
+00:33,5,Diego Carlos,
+00:33,6,Tory,80.838
+00:33,7,Ameri,43.244
+00:33,8,loveorhost,24.779
+00:33,9,GSvHAJ,19.424
+00:33,10,DVICIO & LALI,42.389
+01:03,1,Sevilla,153.839
+01:03,2,JBChanceHoly,46.561
+01:03,3,Ameri,71.295
+01:03,4,VoteHimOut2020,61.658
+01:03,5,Tory,88.550
+01:03,6,DVICIO & LALI,52.668
+01:03,7,loveorhost,29.252
+01:03,8,FCBSEV,12.385
+01:03,9,Baysev,
+01:03,10,DUELE OUT NOW,34.635
+01:33,1,Ameri,
+01:33,2,Sevilla,
+01:33,3,JBChanceHoly,
+01:33,4,VoteHimOut2020,
+01:33,5,DVICIO & LALI,
+01:33,6,Tory,
+01:33,7,Wejdene,
+01:33,8,loveorhost,
+01:33,9,TwoMonthsOffolklore,
+01:33,10,DUELE OUT NOW,
+02:03,1,Ameri,124.200
+02:03,2,Sevilla,157.857
+02:03,3,Muriel,10.071
+02:03,4,JBChanceHoly,52.958
+02:03,5,VoteHimOut2020,67.295
+02:03,6,Wejdene,74.568
+02:03,7,DVICIO & LALI,62.005
+02:03,8,Tory,103.859
+02:03,9,KACEY,14.076
+02:03,10,TwoMonthsOfFolklore,24.657
+02:33,1,Ameri,145.389
+02:33,2,Muriel,10.489
+02:33,3,Sevilla,159.179
+02:33,4,JBChanceHoly,56.053
+02:33,5,VoteHimOut,189.910
+02:33,6,KACEY,16.755
+02:33,7,Wejdene,77.098
+02:33,8,VerguenzaNacional,13.347
+02:33,9,DVICIO & LALI,64.198
+02:33,10,めざまし茶づけ,
+03:03,1,Ameri,165.664
+03:03,2,Muriel,19.147
+03:03,3,ROSÉ,303.431
+03:03,4,Sevilla,159.668
+03:03,5,MissVenezuela2020,
+03:03,6,JBChanceHoly,59.425
+03:03,7,Odair,16.614
+03:03,8,KACEY,19.011
+03:03,9,VerguenzaNacional,15.995
+03:03,10,VoteHimOut,194.626
+03:33,1,Muriel,22.150
+03:33,2,MTVMIAW2020,53.136
+03:33,3,Ameri,183.121
+03:33,4,ROSÉ,344.227
+03:33,5,MissVenezuela2020,13.918
+03:33,6,KACEY,29.158
+03:33,7,Dolphins,31.997
+03:33,8,tetagate,
+03:33,9,JBChanceHoly,62.497
+03:33,10,Ganso,
+04:08,1,MTVMIAW2020,99.333
+04:08,2,Muriel,23.062
+04:08,3,Ameri,201.879
+04:08,4,MissVenezuela2020,18.524
+04:08,5,ROSÉ,374.598
+04:08,6,KACEY,30.152
+04:08,7,Dolphins,33.948
+04:08,8,Ganso,
+04:08,9,tetagate,10.658
+04:08,10,FinsUp,11.780
+04:33,1,MTVMIAW2020,131.362
+04:33,2,Muriel,
+04:33,3,EliminacaoAFazenda,
+04:33,4,Ameri,
+04:33,5,MissVenezuela2020,
+04:33,6,BB22,
+04:33,7,ROSÉ,
+04:33,8,Dwight,
+04:33,9,Murray,
+04:33,10,Dolphins,
+05:03,1,MTVMIAW2020,171.184
+05:03,2,EliminacaoAFazenda,141.290
+05:03,3,Muriel,24.397
+05:03,4,BETTER BY ZAYN,244.948
+05:03,5,Murray,105.216
+05:03,6,Ameri,228.048
+05:03,7,MissVenezuela2020,26.800
+05:03,8,BB22,64.157
+05:03,9,Dwight,33.589
+05:03,10,Dolphins,37.784
+05:33,1,EliminacaoAFazenda,190.073
+05:33,2,MTVMIAW2020,189.189
+05:33,3,Murray,146.039
+05:33,4,BETTER BY ZAYN,325.674
+05:33,5,Kuzma,22.345
+05:33,6,Muriel,24.798
+05:33,7,MissVenezuela2020,28.698
+05:33,8,Ameri,238.544
+05:33,9,Odair,25.651
+05:33,10,Dwight,36.556
+06:03,1,EliminacaoAFazenda,206.396
+06:03,2,MTVMIAW2020,197.895
+06:03,3,BETTER BY ZAYN,415.097
+06:03,4,Murray,167.703
+06:03,5,Kuzma,24.333
+06:03,6,MissVenezuela2020,29.552
+06:03,7,Rondo,30.214
+06:03,8,Dwight,38.937
+06:03,9,Muriel,24.983
+06:03,10,Ameri,247.289
+06:38,1,EliminacaoAFazenda,212.498
+06:38,2,BETTER BY ZAYN,529.479
+06:38,3,MTVMIAW2020,204.172
+06:38,4,Murray,178.076
+06:38,5,Kuzma,25.286
+06:38,6,Rondo,31.856
+06:38,7,Tory,207.400
+06:38,8,MissVenezuela2020,30.199
+06:38,9,Ameri,256.023
+06:38,10,اخوات_طيف,10.595
+07:03,1,EliminacaoAFazenda,214.965
+07:03,2,BETTER BY ZAYN,571.588
+07:03,3,Lebron,158.760
+07:03,4,MTVMIAW2020,207.261
+07:03,5,Tory,233.953
+07:03,6,LakeShow,30.349
+07:03,7,Kuzma,25.616
+07:03,8,SuperM,508.216
+07:03,9,BharatBandh,152.622
+07:03,10,melanie,81.794
+07:33,1,BETTER BY ZAYN,598.146
+07:33,2,EliminacaoAFazenda,216.894
+07:33,3,Tory,261.987
+07:33,4,Lakers,217.350
+07:33,5,Lebron,163.502
+07:33,6,MTVMIAW2020,210.093
+07:33,7,SuperM,540.637
+07:33,8,BharatBandh,186.262
+07:33,9,melanie,88.023
+07:33,10,Kuzma,26.060
+08:08,1,BETTER BY ZAYN,615.078
+08:08,2,Tory,284.083
+08:08,3,EliminacaoAFazenda,218.151
+08:08,4,Lakers,221.856
+08:08,5,Murray,189.466
+08:08,6,MTVMIAW2020,212.111
+08:08,7,SuperM,547.439
+08:08,8,BharatBandh,222.931
+08:08,9,Joji,39.513
+08:08,10,melanie,93.285
+08:33,1,Tory,298.543
+08:33,2,BETTER BY ZAYN,623.264
+08:33,3,EliminacaoAFazenda,218.855
+08:33,4,Lakers,224.909
+08:33,5,BharatBandh,248.548
+08:33,6,SuperM,561.128
+08:33,7,Murray,192.293
+08:33,8,Joji,41.908
+08:33,9,MTVMIAW2020,213.342
+08:33,10,TWICETOBER,18.020
+09:08,1,Tory,311.850
+09:08,2,BETTER BY ZAYN,630.804
+09:08,3,namjoon,286.842
+09:08,4,EliminacaoAFazenda,219.565
+09:08,5,BharatBandh,281.460
+09:08,6,Lakers,227.763
+09:08,7,SuperM,551.053
+09:08,8,Joji,44.209
+09:08,9,TWICETOBER,23.834
+09:08,10,Murray,194.943
+09:33,1,Tory,321.428
+09:33,2,BETTER BY ZAYN,635.143
+09:33,3,namjoon,296.674
+09:33,4,BharatBandh,302.448
+09:33,5,EliminacaoAFazenda,219.844
+09:33,6,SuperM,560.815
+09:33,7,Joji,45.645
+09:33,8,TWICETOBER,26.218
+09:33,9,あなたがポケモンになると何タイプ,12.882
+09:33,10,Lakers,229.908
+10:03,1,RIPSPB,27.668
+10:03,2,Tory,328.921
+10:03,3,BETTER BY ZAYN,639.216
+10:03,4,namjoon,301.273
+10:03,5,BharatBandh,328.102
+10:03,6,あなたがポケモンになると何タイプ,17.218
+10:03,7,TWICETOBER,28.774
+10:03,8,Worlds2020,17.660
+10:03,9,Joji,46.867
+10:03,10,Lakers,231.533
+10:38,1,RIPSPB,111.404
+10:38,2,Worlds2020,24.037
+10:38,3,Tory,339.178
+10:38,4,GoINTZ,
+10:38,5,あなたがポケモンになると何タイプ,24.212
+10:38,6,BETTER BY ZAYN,644.039
+10:38,7,BharatBandh,357.333
+10:38,8,TAEKOOK,123.951
+10:38,9,namjoon,311.635
+10:38,10,Joji,48.307
+11:03,1,RIPSPB,157.834
+11:03,2,Worlds2020,27.895
+11:03,3,GoINTZ,
+11:03,4,Tory,343.153
+11:03,5,あなたがポケモンになると何タイプ,29.012
+11:03,6,NesetErtas,36.436
+11:03,7,TAEKOOK,132.251
+11:03,8,BETTER BY ZAYN,647.036
+11:03,9,namjoon,313.133
+11:03,10,予備費,20.028
+11:33,1,RIPSPB,199.637
+11:33,2,Worlds2020,30.877
+11:33,3,あなたがポケモンになると何タイプ,33.845
+11:33,4,GoINTZ,
+11:33,5,NesetErtas,43.728
+11:33,6,Tory,350.838
+11:33,7,TAEKOOK,142.109
+11:33,8,BETTER BY ZAYN,650.770
+11:33,9,予備費,23.357
+11:33,10,namjoon,319.228
+12:03,1,RIPSPB,230.026
+12:03,2,Worlds2020,32.551
+12:03,3,あなたがポケモンになると何タイプ,39.617
+12:03,4,NesetErtas,49.435
+12:03,5,HDPsusturulamaz,17.499
+12:03,6,Tory,355.520
+12:03,7,TAEKOOK,144.826
+12:03,8,予備費,27.039
+12:03,9,taeyong,344.771
+12:03,10,BETTER BY ZAYN,654.451
+12:33,1,RIPSPB,255.785
+12:33,2,Worlds2020,34.909
+12:33,3,あなたがポケモンになると何タイプ,45.200
+12:33,4,HDPSusturulamaz,20.971
+12:33,5,NesetErtas,54.437
+12:33,6,Tory,363.611
+12:33,7,taekook,152.165
+12:33,8,予備費,30.502
+12:33,9,taeyong,367.247
+12:33,10,前編2,20.046
+13:03,1,RIPSPB,277.330
+13:03,2,Worlds2020,35.918
+13:03,3,あなたがポケモンになると何タイプ,50.747
+13:03,4,HDPSusturulamaz,23.945
+13:03,5,NesetErtas,59.298
+13:03,6,Om Shanti,48.119
+13:03,7,Tory,369.493
+13:03,8,taekook,155.033
+13:03,9,予備費,33.992
+13:03,10,taeyong,372.174
+13:33,1,RIPSPB,296.580
+13:33,2,Worlds2020,39.256
+13:33,3,あなたがポケモンになると何タイプ,55.734
+13:33,4,HDPSusturulamaz,26.807
+13:33,5,NesetErtas,63.598
+13:33,6,Charlie Hebdo,24.920
+13:33,7,Tory,380.283
+13:33,8,taekook,163.515
+13:33,9,予備費,37.313
+13:33,10,taeyong,391.605
+14:03,1,SPBalasubrahmanyam,154.375
+14:03,2,Worlds2020,39.958
+14:03,3,あなたがポケモンになると何タイプ,60.510
+14:03,4,HDPSusturulamaz,29.672
+14:03,5,NesetErtas,67.550
+14:03,6,Charlie Hebdo,32.266
+14:03,7,Tory,389.649
+14:03,8,Om Shanti,52.585
+14:03,9,予備費,41.091
+14:03,10,GROUP 2LOY ANG TAWANAN,
+14:33,1,SPBalasubrahmanyam,165.811
+14:33,2,Worlds2020,43.097
+14:33,3,あなたがポケモンになると何タイプ,65.174
+14:33,4,HDPSusturulamaz,32.033
+14:33,5,NesetErtas,71.091
+14:33,6,INTZ,32.971
+14:33,7,Charlie Hebdo,38.568
+14:33,8,GROUP 2LOY ANG TAWANAN,12.111
+14:33,9,Tory,406.860
+14:33,10,予備費,45.062
+15:03,1,SPBalasubrahmanyam,177.606
+15:03,2,あなたがポケモンになると何タイプ,69.425
+15:03,3,ぴったんこカンカン,23.536
+15:03,4,Worlds2020,44.452
+15:03,5,영디달디_고마워_131일의_아돌라,48.142
+15:03,6,Charlie Hebdo,42.903
+15:03,7,INTZ,33.479
+15:03,8,Mステ,23.999
+15:03,9,GROUP 2LOY ANG TAWANAN,15.645
+15:03,10,Tory,424.684
+15:33,1,SPBalasubrahmanyam,187.457
+15:33,2,ぴったんこカンカン,32.466
+15:33,3,あなたがポケモンになると何タイプ,72.813
+15:33,4,Worlds2020,47.325
+15:33,5,영디달디_고마워_131일의_아돌라,51.720
+15:33,6,Charlie Hebdo,46.617
+15:33,7,GROUP 2LOY ANG TAWANAN,17.327
+15:33,8,まりほー,
+15:33,9,すわほー,
+15:33,10,Mステ,24.857
+16:08,1,SPBalasubrahmanyam,195.292
+16:08,2,ぴったんこカンカン,36.051
+16:08,3,GayaSaPelikulaEp01,12.353
+16:08,4,あなたがポケモンになると何タイプ,76.528
+16:08,5,YouJustStartedaBook,19.229
+16:08,6,Charlie Hebdo,50.307
+16:08,7,Tory,478.821
+16:08,8,GROUP 2LOY ANG TAWANAN,17.975
+16:08,9,まりほー,
+16:08,10,すわほー,
+16:33,1,SPBalasubrahmanyam,200.301
+16:33,2,ぴったんこカンカン,37.739
+16:33,3,YouJustStartedaBook,22.698
+16:33,4,GayaSaPelikulaEp01,13.556
+16:33,5,あなたがポケモンになると何タイプ,78.770
+16:33,6,逃げ恥,38.510
+16:33,7,Charlie Hebdo,52.654
+16:33,8,Tory,504.494
+16:33,9,GROUP 2LOY ANG TAWANAN,18.229
+16:33,10,裏血液型,21.547
+17:03,1,YouJustStartedaBook,27.399
+17:03,2,逃げ恥,52.016
+17:03,3,GayaSaPelikulaEp01,14.561
+17:03,4,SPBalasubrahmanyam,205.425
+17:03,5,คนละทีเดียวกันEP2,115.388
+17:03,6,Tory,533.517
+17:03,7,GROUP 2LOY ANG TAWANAN,18.450
+17:03,8,INTZ,36.061
+17:03,9,Dear JNT,
+17:03,10,まりほー,
+17:33,1,YouJustStartedaBook,32.058
+17:33,2,คนละทีเดียวกันEP2,222.933
+17:33,3,ぴったんこカンカン,39.811
+17:33,4,GayaSaPelikulaEp01,15.313
+17:33,5,TOKOPEDIAXTREASURE,120.739
+17:33,6,Tory,566.050
+17:33,7,Dear JNT,
+17:33,8,裏血液型,24.031
+17:33,9,GROUP 2LOY ANG TAWANAN,18.603
+17:33,10,まりほー,
+18:03,1,YouJustStartedaBook,36.812
+18:03,2,คนละทีเดียวกันEP2,272.805
+18:03,3,ぴったんこカンカン,40.484
+18:03,4,GayaSaPelikulaEp01,15.830
+18:03,5,TokopediaxTreasure,123.172
+18:03,6,Tory,594.891
+18:03,7,Messi,178.289
+18:03,8,Dear JNT,
+18:03,9,裏血液型,24.988
+18:03,10,GROUP 2LOY ANG TAWANAN,18.738
+18:33,1,YouJustStartedaBook,41.631
+18:33,2,คนละทีเดียวกันEP2,300.038
+18:33,3,Seventeen1BillionOnSpotify,50.653
+18:33,4,ぴったんこカンカン,40.885
+18:33,5,GayaSaPelikulaEp01,16.287
+18:33,6,Tory,626.028
+18:33,7,Messi,185.432
+18:33,8,Dear JNT,
+18:33,9,タイプの人,107.873
+18:33,10,裏血液型,25.693
+19:03,1,YouJustStartedaBook,45.821
+19:03,2,คนละทีเดียวกันEP2,315.642
+19:03,3,Seventeen1BillionOnSpotify,57.394
+19:03,4,CSKvDC,45.730
+19:03,5,CactusJackSweepstakes,21.119
+19:03,6,Tory,655.323
+19:03,7,逃げ恥,44.006
+19:03,8,Messi,187.910
+19:03,9,Dear JNT,
+19:03,10,裏血液型,26.131
+19:33,1,CSKvDC,53.578
+19:33,2,EdomexEnSemaforoNaranja,
+19:33,3,YouJustStartedaBook,49.948
+19:33,4,คนละทีเดียวกันEP2,324.968
+19:33,5,CactusJackSweepstakes,23.728
+19:33,6,Tory,687.011
+19:33,7,OBRIGADO POR TUDO IKE,
+19:33,8,逃げ恥,44.338
+19:33,9,Messi,194.147
+19:33,10,Dear JNT,
+20:03,1,EdomexEnSemaforoNaranja,11.889
+20:03,2,CSKvDC,66.394
+20:03,3,YouJustStartedaBook,53.763
+20:03,4,HerKademedeBedenEğitimi,42.448
+20:03,5,MaiaEAlcolumbreNuncaMais,10.241
+20:03,6,Ron Paul,21.289
+20:03,7,Tory,713.849
+20:03,8,OBRIGADO POR TUDO IKE,
+20:03,9,Vin Diesel,
+20:03,10,Nick Fury,
+20:33,1,EdomexEnSemaforoNaranja,17.205
+20:33,2,CSKvDC,71.171
+20:33,3,Ron Paul,36.069
+20:33,4,YouJustStartedaBook,57.050
+20:33,5,Öğretmene60BinAtamaMüjdesi,100.620
+20:33,6,HerKademedeBedenEğitimi,56.057
+20:33,7,Tory,742.487
+20:33,8,OBRIGADO POR TUDO IKE,
+20:33,9,Lily Collins,
+20:33,10,Murat Kocaardıç,
+21:04,1,EdomexEnSemaforoNaranja,21.114
+21:04,2,CSKvDC,73.369
+21:04,3,Ron Paul,50.579
+21:04,4,YouJustStartedaBook,60.435
+21:04,5,STREAM WALLS 10M,41.673
+21:04,6,Öğretmene60BinAtamaMüjdesi,118.239
+21:04,7,MaiaEAlcolumbreNuncaMais,18.577
+21:04,8,Tory,767.021
+21:04,9,Lily Collins,
+21:04,10,OBRIGADO POR TUDO IKE,
+21:34,1,EdomexEnSemaforoNaranja,23.836
+21:34,2,STREAM WALLS 10M,76.671
+21:34,3,Ron Paul,63.782
+21:34,4,CSKvDC,74.541
+21:34,5,YouJustStartedaBook,63.330
+21:34,6,Öğretmene60BinAtamaMüjdesi,130.488
+21:34,7,FreeCodeFridayContest,
+21:34,8,Lily Collins,11.555
+21:34,9,Tory,790.816
+21:34,10,ÇareSensin KurtarAllahım,22.428
+21:59,1,EdomexEnSemaforoNaranja,25.963
+21:59,2,STREAM WALLS 10M,95.428
+21:59,3,FreeCodeFridayContest,
+21:59,4,KohLanta,16.661
+21:59,5,Ron Paul,70.329
+21:59,6,YouJustStartedaBook,65.763
+21:59,7,CSKvDC,74.950
+21:59,8,Tory,809.785
+21:59,9,Lily Collins,13.056
+21:59,10,ÇareSensin KurtarAllahım,29.029
+22:29,1,EdomexEnSemaforoNaranja,27.757
+22:29,2,KohLanta,31.766
+22:29,3,STREAM WALLS 10M,108.367
+22:29,4,FreeCodeFridayContest,
+22:29,5,Ron Paul,76.022
+22:29,6,YouJustStartedaBook,68.532
+22:29,7,NoQueremosABarbosa,177.889
+22:29,8,EM CAMPO COM GUI,30.359
+22:29,9,Tory,823.192
+22:29,10,Lily Collins,14.387
+23:04,1,EdomexEnSemaforoNaranja,29.150
+23:04,2,KohLanta,42.331
+23:04,3,STREAM WALLS 10M,115.870
+23:04,4,KirmiziOda,21.741
+23:04,5,FreeCodeFridayContest,
+23:04,6,GFVIP,96.792
+23:04,7,Ron Paul,81.459
+23:04,8,EM CAMPO COM GUI,52.116
+23:04,9,SELFIES FOR CHARLIE,
+23:04,10,Tory,827.961
+23:29,1,KohLanta,53.901
+23:29,2,EdomexEnSemaforoNaranja,30.042
+23:29,3,KirmiziOda,24.065
+23:29,4,STREAM WALLS 10M,119.690
+23:29,5,GFVIP,105.696
+23:29,6,FreeCodeFridayContest,
+23:29,7,EM CAMPO COM GUI,59.731
+23:29,8,Ron Paul,84.422
+23:29,9,SELFIES FOR CHARLIE,10.165
+23:29,10,Garko,13.711

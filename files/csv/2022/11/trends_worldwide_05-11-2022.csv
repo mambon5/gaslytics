@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LOS40MusicAwards,49.292
+00:10,2,Drake,1.029.988
+00:10,3,taleequaleshow,11.157
+00:10,4,DALS,17.734
+00:10,5,BrasilWasStolen,52.262
+00:10,6,fraude,91.939
+00:10,7,キンプリ,590.992
+00:10,8,UygunFiyatlıı TTReklamıVerilir,
+00:10,9,Westworld,14.923
+00:10,10,RESPEITE MEU VOTO,15.705
+00:40,1,LOS40MusicAwards,58.144
+00:40,2,Drake,1.047.284
+00:40,3,BrasilWasStolen,66.932
+00:40,4,fraude,106.596
+00:40,5,taleequaleshow,11.561
+00:40,6,キンプリ,608.862
+00:40,7,DALS,18.227
+00:40,8,RESPEITE MEU VOTO,23.478
+00:40,9,UygunFiyatlıı TTReklamıVerilir,
+00:40,10,Westworld,16.059
+01:10,1,LOS40MusicAwards,63.520
+01:10,2,BrasilWasStolen,83.739
+01:10,3,Drake,1.056.514
+01:10,4,fraude,116.913
+01:10,5,BWDNtoKualaLumpur,37.413
+01:10,6,キンプリ,624.510
+01:10,7,RESPEITE MEU VOTO,30.554
+01:10,8,taleequaleshow,11.729
+01:10,9,Westworld,17.271
+01:10,10,ジャニーズ,260.865
+01:40,1,BWDNtoKualaLumpur,77.427
+01:40,2,BrasilWasStolen,98.327
+01:40,3,LOS40MusicAwards,67.396
+01:40,4,Drake,1.072.364
+01:40,5,ウルトラマンデッカー,10.144
+01:40,6,RESPEITE MEU VOTO,37.551
+01:40,7,fraude,126.677
+01:40,8,キンプリ,640.316
+01:40,9,Westworld,18.526
+01:40,10,CPI DA COMPRA DE VOTOS,
+02:10,1,SmackDown,17.974
+02:10,2,BWDNtoKualaLumpur,113.592
+02:10,3,BrasilWasStolen,112.511
+02:10,4,Drake,1.054.987
+02:10,5,RESPEITE MEU VOTO,44.372
+02:10,6,ウルトラマンデッカー,11.669
+02:10,7,LOS40MusicAwards,70.101
+02:10,8,LA Knight,
+02:10,9,キンプリ,635.679
+02:10,10,Nike,61.506
+02:40,1,SmackDown,23.869
+02:40,2,Teleton2022,
+02:40,3,BWDNtoKualaLumpur,140.844
+02:40,4,BrasilWasStolen,127.632
+02:40,5,RESPEITE MEU VOTO,50.296
+02:40,6,Nike,68.775
+02:40,7,OWLGrandFinals,12.204
+02:40,8,キンプリ,668.409
+02:40,9,LA Knight,
+02:40,10,Jalen Rose,
+03:10,1,Teleton2022,14.191
+03:10,2,SmackDown,28.898
+03:10,3,AEWRampage,
+03:10,4,BWDNtoKualaLumpur,165.769
+03:10,5,Nike,73.372
+03:10,6,kindnesswithmarcus,
+03:10,7,DeRozan,
+03:10,8,RESPEITE MEU VOTO,56.600
+03:10,9,Gunther,12.035
+03:10,10,Brogdon,
+03:40,1,Teleton2022,20.805
+03:40,2,AEWRampage,13.282
+03:40,3,SmackDown,31.028
+03:40,4,DeRozan,
+03:40,5,OWLGrandFinals,13.449
+03:40,6,Patrick Williams,
+03:40,7,BWDNtoKualaLumpur,188.335
+03:40,8,Nike,78.854
+03:40,9,Shibata,
+03:40,10,Don Francisco,11.566
+04:10,1,Teleton2022,25.726
+04:10,2,AEWRampage,17.221
+04:10,3,SmackDown,31.996
+04:10,4,HappyBirthdayViratKohli,161.841
+04:10,5,OWLGrandFinals,13.959
+04:10,6,Patrick Williams,
+04:10,7,DeRozan,
+04:10,8,Nike,80.837
+04:10,9,Shibata,
+04:10,10,Don Francisco,12.994
+04:40,1,Teleton2022,30.208
+04:40,2,HappyBirthdayViratKohli,175.323
+04:40,3,OWLGrandFinals,16.293
+04:40,4,AEWRampage,18.375
+04:40,5,ポケカ四天王決定戦,
+04:40,6,Marília Mendonça,27.644
+04:40,7,Nike,84.463
+04:40,8,Patrick Williams,
+04:40,9,DeRozan,
+04:40,10,Don Francisco,14.198
+05:10,1,Teleton2022,32.916
+05:10,2,HappyBirthdayViratKohli,189.593
+05:10,3,OWLGrandFinals,17.491
+05:10,4,AEWRampage,19.032
+05:10,5,ポケカ四天王決定戦,
+05:10,6,Marília Mendonça,33.588
+05:10,7,Zane Smith,
+05:10,8,Nike,85.503
+05:10,9,Bishop Sycamore,
+05:10,10,Don Francisco,14.913
+05:40,1,OWLGrandFinals,21.798
+05:40,2,Teleton2022,35.102
+05:40,3,HappyBirthdayViratKohli,203.534
+05:40,4,OWL2022,10.266
+05:40,5,キャスターな会,15.288
+05:40,6,Jerami Grant,
+05:40,7,Blazers,
+05:40,8,Marília Mendonça,37.255
+05:40,9,Zane Smith,
+05:40,10,Edison,22.510
+06:10,1,OWLGrandFinals,23.398
+06:10,2,Teleton2022,36.813
+06:10,3,HappyBirthdayViratKohli,217.127
+06:10,4,侍ジャパン,16.287
+06:10,5,OWL2022,10.589
+06:10,6,Blazers,
+06:10,7,Jerami Grant,
+06:10,8,ターシャ,
+06:10,9,Marília Mendonça,39.281
+06:10,10,スタメン,13.585
+06:40,1,侍ジャパン,19.712
+06:40,2,HappyBirthdayViratKohli,229.929
+06:40,3,HappyBirthdayViratKohli,229.929
+06:40,4,Teleton2022,38.175
+06:40,5,OWLGrandFinals,24.109
+06:40,6,ÇokUcuzFiyatlıı TTVerilir,
+06:40,7,マリノス,
+06:40,8,Blazers,
+06:40,9,ターシャ,
+06:40,10,オフサイド,
+07:10,1,侍ジャパン,22.789
+07:10,2,HappyBirthdayViratKohli,242.566
+07:10,3,HappyBirthdayViratKohli,242.566
+07:10,4,Teleton2022,39.091
+07:10,5,OWLGrandFinals,24.259
+07:10,6,ÇokUcuzFiyatlıı TTVerilir,
+07:10,7,マリノス,11.322
+07:10,8,オフサイド,
+07:10,9,Blazers,
+07:10,10,ターシャ,
+07:40,1,侍ジャパン,26.956
+07:40,2,HappyBirthdayViratKohli,254.428
+07:40,3,HappyBirthdayViratKohli,254.428
+07:40,4,ウマ娘4th,29.880
+07:40,5,Teleton2022,39.668
+07:40,6,ÇokUcuzFiyatlıı TTVerilir,
+07:40,7,マリノス,13.977
+07:40,8,杉谷選手,12.830
+07:40,9,フロンターレ,
+07:40,10,オフサイド,
+08:10,1,マリノス,25.002
+08:10,2,侍ジャパン,30.095
+08:10,3,HappyBirthdayViratKohli,265.634
+08:10,4,ウマ娘4th,32.468
+08:10,5,トリプルプレー,
+08:10,6,オオバンブルマイ,
+08:10,7,fmarinos,14.278
+08:10,8,SUPERGT,26.576
+08:10,9,ÇokUcuzFiyatlıı TTVerilir,
+08:10,10,ファンタジーS,28.237
+08:40,1,マリノス,33.122
+08:40,2,侍ジャパン,33.469
+08:40,3,HappyBirthdayViratKohli,274.823
+08:40,4,ウマ娘4th,37.156
+08:40,5,トリプルプレー,
+08:40,6,fmarinos,20.698
+08:40,7,杉谷拳士,17.801
+08:40,8,ラクシエム,
+08:40,9,オオバンブルマイ,
+08:40,10,ルクシム,
+09:10,1,AskSRK,12.206
+09:10,2,マリノス,36.975
+09:10,3,侍ジャパン,35.979
+09:10,4,ラクシエム,
+09:10,5,HappyBirthdayViratKohli,283.411
+09:10,6,ウマ娘4th,40.190
+09:10,7,fmarinos,24.400
+09:10,8,トリプルプレー,
+09:10,9,オオバンブルマイ,
+09:10,10,杉谷選手,19.594
+09:40,1,AskSRK,34.027
+09:40,2,マリノス,40.416
+09:40,3,侍ジャパン,39.088
+09:40,4,ラクシエム,
+09:40,5,NZLvFRA,
+09:40,6,HappyBirthdayViratKohli,285.529
+09:40,7,RWC2021,
+09:40,8,トリプルプレー,
+09:40,9,杉谷選手,21.098
+09:40,10,オオバンブルマイ,
+10:10,1,AskSRK,40.823
+10:10,2,マリノス,42.711
+10:10,3,ラクシエム,
+10:10,4,ルクシム,16.621
+10:10,5,ヒロアカMVP,
+10:10,6,侍ジャパン,42.400
+10:10,7,njautumn,
+10:10,8,NZLvFRA,
+10:10,9,トリプルプレー,
+10:10,10,杉谷選手,22.347
+10:40,1,AskSRK,42.245
+10:40,2,njautumn,13.732
+10:40,3,マリノス,44.656
+10:40,4,taehyun,26.039
+10:40,5,ENGvSL,
+10:40,6,ヒロアカMVP,
+10:40,7,ラクシエム,
+10:40,8,ルクシム,18.197
+10:40,9,ポケカ四天王決定戦,
+10:40,10,CUTEPRESS X GULF,15.092
+11:10,1,AskSRK,43.649
+11:10,2,AzamSwati,16.964
+11:10,3,njautumn,16.214
+11:10,4,taehyun,28.913
+11:10,5,マリノス,46.125
+11:10,6,ENGvSL,
+11:10,7,CilabSensitiv,55.827
+11:10,8,CUTEPRESS X GULF,52.047
+11:10,9,ラクシエム,
+11:10,10,ルクシム,19.354
+11:40,1,AskSRK,44.838
+11:40,2,AzamSwati,31.697
+11:40,3,乃木坂配信中,
+11:40,4,体育会TV,
+11:40,5,njautumn,18.307
+11:40,6,taehyun,31.911
+11:40,7,マリノス,47.463
+11:40,8,CUTEPRESS X GULF,79.504
+11:40,9,ルクシム,20.242
+11:40,10,ラクシエム,
+12:10,1,乃木坂配信中,19.771
+12:10,2,AzamSwati,46.990
+12:10,3,ここにはないもの,
+12:10,4,AskSRK,45.854
+12:10,5,体育会TV,11.334
+12:10,6,taehyun,33.177
+12:10,7,CUTEPRESS X GULF,99.975
+12:10,8,メジロラモーヌ,
+12:10,9,マリノス,48.775
+12:10,10,シュヴァルグラン,
+12:40,1,DQMJイベント,
+12:40,2,乃木坂配信中,23.284
+12:40,3,AzamSwati,61.833
+12:40,4,ENGvSL,
+12:40,5,ここにはないもの,
+12:40,6,シュヴァルグラン,17.018
+12:40,7,メジロラモーヌ,14.956
+12:40,8,taehyun,35.171
+12:40,9,Ben Stokes,
+12:40,10,England,128.469
+13:10,1,DQMJイベント,12.219
+13:10,2,乃木坂配信中,25.109
+13:10,3,AzamSwati,79.850
+13:10,4,TarowithBuild,147.277
+13:10,5,ENGvSL,
+13:10,6,シュヴァルグラン,23.748
+13:10,7,メジロラモーヌ,21.521
+13:10,8,taehyun,36.241
+13:10,9,England,125.485
+13:10,10,Ben Stokes,
+13:40,1,DQMJイベント,12.709
+13:40,2,AzamSwati,94.119
+13:40,3,TarowithBuild,261.883
+13:40,4,乃木坂配信中,26.526
+13:40,5,ティアラはキンプリを救いたい,120.656
+13:40,6,シュヴァルグラン,27.484
+13:40,7,メジロラモーヌ,24.955
+13:40,8,taehyun,38.446
+13:40,9,England,130.034
+13:40,10,SHEIN BELLEboard,18.524
+14:10,1,AzamSwati,106.452
+14:10,2,DQMJイベント,12.991
+14:10,3,TarowithBuild,353.666
+14:10,4,ティアラはキンプリを救いたい,160.808
+14:10,5,Ranjithame,341.634
+14:10,6,シュヴァルグラン,29.978
+14:10,7,メジロラモーヌ,28.387
+14:10,8,インライ,25.728
+14:10,9,Marília Mendonça,65.016
+14:10,10,taehyun,39.457
+14:40,1,AzamSwati,118.200
+14:40,2,DQMJイベント,13.198
+14:40,3,Ranjithame,378.134
+14:40,4,ティアラはキンプリを救いたい,186.458
+14:40,5,TarowithBuild,431.873
+14:40,6,インライ,28.202
+14:40,7,シュヴァルグラン,32.089
+14:40,8,メジロラモーヌ,31.400
+14:40,9,Marília Mendonça,69.170
+14:40,10,İlker Kaleli,
+15:10,1,AzamSwati,130.382
+15:10,2,祈りのカルテ餃子食べたい,37.726
+15:10,3,Venue101,
+15:10,4,ティアラはキンプリを救いたい,204.893
+15:10,5,Ranjithame,398.051
+15:10,6,Burnley,
+15:10,7,Marília Mendonça,72.932
+15:10,8,諏訪野先生,
+15:10,9,インライ,29.378
+15:10,10,シュヴァルグラン,33.665
+15:40,1,SixTONESANN,20.313
+15:40,2,中居正広_ON_and_ON_AIR,13.782
+15:40,3,Venue101,14.083
+15:40,4,ปิดกล้องนิ่งเฮียพิเศษสุด,48.888
+15:40,5,슈주_17주년_순간이_아닌_영원,24.584
+15:40,6,17 TO INFINITY WITH SUJU,
+15:40,7,Last Q Of CutiePie,37.813
+15:40,8,Burnley,
+15:40,9,Foden,11.449
+15:40,10,Marília Mendonça,76.645
+16:10,1,SixTONESANN,64.247
+16:10,2,슈주_17주년_순간이_아닌_영원,45.388
+16:10,3,ปิดกล้องนิ่งเฮียพิเศษสุด,77.423
+16:10,4,17Years_With_SUPERJUNIOR,21.711
+16:10,5,中居正広_ON_and_ON_AIR,16.133
+16:10,6,リンクスタート,
+16:10,7,17 TO INFINITY WITH SUJU,17.966
+16:10,8,Last Q Of CutiePie,58.546
+16:10,9,Foden,12.110
+16:10,10,Marília Mendonça,79.448
+16:40,1,SixTONESANN,107.082
+16:40,2,슈주_17주년_순간이_아닌_영원,66.136
+16:40,3,Cancelo,15.821
+16:40,4,17Years_With_SUPERJUNIOR,36.830
+16:40,5,ぼっち・ざ・ろっく,77.385
+16:40,6,17 TO INFINITY WITH SUJU,27.144
+16:40,7,ปิดกล้องนิ่งเฮียพิเศษสุด,94.720
+16:40,8,リンクスタート,
+16:40,9,Fulham,42.280
+16:40,10,Alvarez,24.247
+17:10,1,슈주_17주년_순간이_아닌_영원,81.865
+17:10,2,Cancelo,21.194
+17:10,3,SixTONESANN,131.256
+17:10,4,17Years_With_SUPERJUNIOR,49.754
+17:10,5,WWECrownJewel,32.009
+17:10,6,ぼっち・ざ・ろっく,89.273
+17:10,7,17 TO INFINITY WITH SUJU,35.070
+17:10,8,Fulham,50.752
+17:10,9,リンクスタート,
+17:10,10,Grealish,
+17:40,1,WWECrownJewel,50.778
+17:40,2,슈주_17주년_순간이_아닌_영원,92.928
+17:40,3,Cancelo,23.943
+17:40,4,17Years_With_SUPERJUNIOR,59.244
+17:40,5,SixTONESANN,132.643
+17:40,6,Fulham,57.446
+17:40,7,Haaland,49.618
+17:40,8,ぼっち・ざ・ろっく,94.673
+17:40,9,Brock,14.858
+17:40,10,17 TO INFINITY WITH SUJU,40.052
+18:10,1,WWECrownJewel,64.543
+18:10,2,Fulham,67.971
+18:10,3,Haaland,71.426
+18:10,4,슈주_17주년_순간이_아닌_영원,99.984
+18:10,5,MCIFUL,25.913
+18:10,6,17Years_With_SUPERJUNIOR,65.341
+18:10,7,Cancelo,26.297
+18:10,8,Leno,
+18:10,9,ポプテピピック,22.666
+18:10,10,Northwestern,
+18:40,1,WWECrownJewel,81.683
+18:40,2,Fulham,73.151
+18:40,3,GSvBJK,70.764
+18:40,4,Haaland,84.984
+18:40,5,슈주_17주년_순간이_아닌_영원,105.130
+18:40,6,MCIFUL,27.465
+18:40,7,Northwestern,10.483
+18:40,8,17Years_With_SUPERJUNIOR,69.854
+18:40,9,Cancelo,28.523
+18:40,10,Leno,
+19:10,1,WWECrownJewel,94.294
+19:10,2,GSvBJK,82.994
+19:10,3,Fulham,75.733
+19:10,4,Northwestern,11.858
+19:10,5,Haaland,91.655
+19:10,6,슈주_17주년_순간이_아닌_영원,109.162
+19:10,7,MCIFUL,28.085
+19:10,8,17Years_With_SUPERJUNIOR,73.458
+19:10,9,Cancelo,30.052
+19:10,10,Leno,
+19:40,1,WWECrownJewel,109.747
+19:40,2,GSvBJK,93.597
+19:40,3,Tielemans,
+19:40,4,Fulham,77.555
+19:40,5,Northwestern,12.911
+19:40,6,Ohio State,20.038
+19:40,7,Haaland,96.259
+19:40,8,슈주_17주년_순간이_아닌_영원,112.738
+19:40,9,IREvRSA,
+19:40,10,MCIFUL,28.387
+20:10,1,GSvBJK,114.634
+20:10,2,WWECrownJewel,130.643
+20:10,3,Tielemans,12.770
+20:10,4,Northwestern,14.407
+20:10,5,Ohio State,21.371
+20:10,6,Icardi,
+20:10,7,IREvRSA,10.080
+20:10,8,AtalantaNapoli,12.088
+20:10,9,Bayley,10.968
+20:10,10,Fulham,78.662
+20:40,1,WWECrownJewel,165.862
+20:40,2,GSvBJK,132.593
+20:40,3,Logan Paul,37.937
+20:40,4,Icardi,13.093
+20:40,5,IREvRSA,12.869
+20:40,6,Northwestern,15.663
+20:40,7,Tielemans,14.668
+20:40,8,Ohio State,23.066
+20:40,9,AtalantaNapoli,13.432
+20:40,10,Strictly,
+21:10,1,WWECrownJewel,188.627
+21:10,2,GSvBJK,140.867
+21:10,3,Logan Paul,47.497
+21:10,4,Aaron Carter,
+21:10,5,Icardi,14.913
+21:10,6,IREvRSA,13.739
+21:10,7,Strictly,
+21:10,8,Northwestern,16.121
+21:10,9,Tielemans,16.248
+21:10,10,Roman,114.374
+21:40,1,Aaron Carter,37.555
+21:40,2,WWECrownJewel,197.430
+21:40,3,GSvBJK,146.935
+21:40,4,Logan Paul,51.678
+21:40,5,Tennessee,53.157
+21:40,6,Strictly,11.702
+21:40,7,Icardi,16.191
+21:40,8,IREvRSA,14.052
+21:40,9,GoDawgs,14.163
+21:40,10,Stetson Bennett,
+22:10,1,Aaron Carter,62.375
+22:10,2,Cano,29.933
+22:10,3,WWECrownJewel,202.608
+22:10,4,Tennessee,58.762
+22:10,5,GSvBJK,145.736
+22:10,6,Logan Paul,54.539
+22:10,7,Strictly,12.971
+22:10,8,Dembele,11.291
+22:10,9,Ferran,10.920
+22:10,10,GoDawgs,15.720
+22:40,1,Aaron Carter,83.502
+22:40,2,Cano,36.169
+22:40,3,Dembele,24.425
+22:40,4,Tennessee,63.499
+22:40,5,WWECrownJewel,206.970
+22:40,6,Logan Paul,56.460
+22:40,7,GSvBJK,148.151
+22:40,8,Giroud,
+22:40,9,MLSCup,
+22:40,10,Strictly,13.508
+23:10,1,Aaron Carter,98.474
+23:10,2,Cano,39.810
+23:10,3,Tennessee,65.282
+23:10,4,Dembele,26.612
+23:10,5,MLSCup,12.388
+23:10,6,Giroud,17.494
+23:10,7,WWECrownJewel,209.499
+23:10,8,StarAcademy,54.840
+23:10,9,Logan Paul,57.713
+23:10,10,GSvBJK,148.755
+23:40,1,Aaron Carter,111.358
+23:40,2,Tennessee,73.261
+23:40,3,Cano,42.512
+23:40,4,MLSCup,14.789
+23:40,5,Dembele,28.142
+23:40,6,StarAcademy,66.349
+23:40,7,Giroud,21.470
+23:40,8,Sempr3,64.221
+23:40,9,Bivol,55.768
+23:40,10,WWECrownJewel,212.964

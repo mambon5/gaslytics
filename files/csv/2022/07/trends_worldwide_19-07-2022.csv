@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Dami,93.361
+00:10,2,Deji,35.470
+00:10,3,MasterChef10,
+00:10,4,DünyaFenerbahçelilerGünü,
+00:10,5,WAFCON2022,
+00:10,6,Tasha,43.856
+00:10,7,AskSabrinaEICS,
+00:10,8,معلول_اسطوره_اهلاويه,148.449
+00:10,9,Super Falcons,
+00:10,10,AtGibi Kişnerim,
+00:40,1,MasterChef10,11.808
+00:40,2,Dami,95.401
+00:40,3,WAFCON2022,13.391
+00:40,4,Super Falcons,16.910
+00:40,5,Deji,36.247
+00:40,6,DünyaFenerbahçelilerGünü,
+00:40,7,SuarezANacional,140.468
+00:40,8,AskSabrinaEICS,
+00:40,9,Debinha,
+00:40,10,Tasha,44.976
+01:10,1,Super Falcons,29.207
+01:10,2,WAFCON2022,17.917
+01:10,3,MasterChef10,14.861
+01:10,4,Dami,93.910
+01:10,5,Deji,36.241
+01:10,6,SuarezANacional,150.967
+01:10,7,DünyaFenerbahçelilerGünü,
+01:10,8,Morocco,23.968
+01:10,9,Danica,25.050
+01:10,10,AskSabrinaEICS,
+01:40,1,Super Falcons,33.825
+01:40,2,MasterChef10,16.457
+01:40,3,WAFCON2022,19.442
+01:40,4,Lisca,
+01:40,5,SuarezANacional,163.346
+01:40,6,Dami,95.231
+01:40,7,連休明け,50.444
+01:40,8,DünyaFenerbahçelilerGünü,10.377
+01:40,9,Morocco,25.867
+01:40,10,Deji,36.676
+02:10,1,Lisca,
+02:10,2,HomeRunDerby,
+02:10,3,Super Falcons,35.643
+02:10,4,MasterChef10,16.675
+02:10,5,WAFCON2022,19.933
+02:10,6,WWERaw,
+02:10,7,SuarezANacional,163.988
+02:10,8,連休明け,56.450
+02:10,9,Desus,23.200
+02:10,10,Dami,94.208
+02:40,1,HomeRunDerby,12.825
+02:40,2,Julio Rodriguez,
+02:40,3,Lisca,10.827
+02:40,4,WWERaw,15.861
+02:40,5,luisa,44.765
+02:40,6,cachorrinhas,12.945
+02:40,7,Seager,
+02:40,8,TheBachelorette,
+02:40,9,MasterChef10,16.870
+02:40,10,Super Falcons,36.676
+03:10,1,HomeRunDerby,15.627
+03:10,2,TheBachelorette,13.175
+03:10,3,luisa,49.576
+03:10,4,Julio Rodriguez,11.720
+03:10,5,Lisca,12.889
+03:10,6,WWERaw,22.410
+03:10,7,Pete Alonso,12.058
+03:10,8,cachorrinhas,15.750
+03:10,9,Seager,
+03:10,10,Acuna,32.341
+03:40,1,HomeRunDerby,19.363
+03:40,2,Pujols,30.460
+03:40,3,Schwarber,20.126
+03:40,4,TheBachelorette,17.448
+03:40,5,luisa,53.880
+03:40,6,Lisca,15.079
+03:40,7,WWERaw,27.567
+03:40,8,Julio Rodriguez,12.741
+03:40,9,cachorrinhas,17.176
+03:40,10,Pete Alonso,13.356
+04:10,1,HomeRunDerby,22.520
+04:10,2,Pujols,41.295
+04:10,3,Pete Alonso,21.965
+04:10,4,Schwarber,24.685
+04:10,5,Julio Rodriguez,19.805
+04:10,6,TheBachelorette,21.630
+04:10,7,Lisca,18.105
+04:10,8,luisa,55.840
+04:10,9,WWERaw,33.004
+04:10,10,LaVozArgentina,10.430
+04:40,1,HomeRunDerby,24.184
+04:40,2,Pujols,47.272
+04:40,3,Pete Alonso,25.076
+04:40,4,Julio Rodriguez,24.962
+04:40,5,Schwarber,26.505
+04:40,6,EstreiaIlha,
+04:40,7,TheBachelorette,22.382
+04:40,8,luisa,58.589
+04:40,9,Lisca,19.536
+04:40,10,Soto,54.724
+05:10,1,HomeRunDerby,25.061
+05:10,2,Pujols,49.116
+05:10,3,Soto,76.326
+05:10,4,Pete Alonso,26.500
+05:10,5,Julio Rodriguez,28.462
+05:10,6,WWERaw,45.284
+05:10,7,EstreiaIlha,11.786
+05:10,8,Schwarber,27.602
+05:10,9,luisa,58.907
+05:10,10,BetterCallSaul,13.912
+05:40,1,HomeRunDerby,25.395
+05:40,2,Pujols,50.106
+05:40,3,Soto,81.234
+05:40,4,Pete Alonso,27.251
+05:40,5,Julio Rodriguez,29.774
+05:40,6,ElHotelDeLosFamosos,20.989
+05:40,7,WWERaw,47.399
+05:40,8,EstreiaIlha,12.538
+05:40,9,BetterCallSaul,15.000
+05:40,10,Schwarber,28.170
+06:10,1,HomeRunDerby,25.688
+06:10,2,Pujols,50.675
+06:10,3,TheCaptain,
+06:10,4,Soto,83.466
+06:10,5,Pete Alonso,27.809
+06:10,6,Garland,81.502
+06:10,7,ElHotelDeLosFamosos,22.819
+06:10,8,BetterCallSaul,16.032
+06:10,9,Julio Rodriguez,30.525
+06:10,10,ミャクミャク様,116.585
+06:40,1,HomeRunDerby,25.928
+06:40,2,TheCaptain,10.270
+06:40,3,Pujols,51.204
+06:40,4,Soto,85.455
+06:40,5,Garland,88.705
+06:40,6,ミャクミャク様,127.965
+06:40,7,BetterCallSaul,17.049
+06:40,8,USWNT,
+06:40,9,VenmoMe,
+06:40,10,Pete Alonso,28.190
+07:10,1,TheCaptain,10.680
+07:10,2,ミャクミャク様,137.363
+07:10,3,HomeRunDerby,26.070
+07:10,4,VenmoMe,
+07:10,5,Garland,93.424
+07:10,6,Soto,86.311
+07:10,7,BetterCallSaul,17.735
+07:10,8,Pujols,51.491
+07:10,9,TheVoiceCHV,
+07:10,10,Pete Alonso,28.416
+07:40,1,ミャクミャク様,146.186
+07:40,2,VenmoMe,
+07:40,3,TheVoiceCHV,
+07:40,4,TheCaptain,10.947
+07:40,5,Garland,97.559
+07:40,6,BetterCallSaul,18.579
+07:40,7,HomeRunDerby,26.215
+07:40,8,Soto,87.231
+07:40,9,Pujols,51.776
+07:40,10,半年ROM,
+08:10,1,UygunFiyattda TTVerilir,
+08:10,2,ミャクミャク様,155.455
+08:10,3,めめ朝ドラ,
+08:10,4,VenmoMe,
+08:10,5,TheVoiceCHV,
+08:10,6,一番搾り,
+08:10,7,ชอบตัวเองตอนอยู่กับเธอ,34.377
+08:10,8,Garland,100.308
+08:10,9,BetterCallSaul,19.182
+08:10,10,半年ROM,10.098
+08:40,1,めめ朝ドラ,
+08:40,2,UygunFiyattda TTVerilir,
+08:40,3,ミャクミャク様,164.566
+08:40,4,PeterObiAt61,18.448
+08:40,5,一番搾り,10.202
+08:40,6,VenmoMe,
+08:40,7,ビールがおいしいってしあわせだ,39.501
+08:40,8,ชอบตัวเองตอนอยู่กับเธอ,40.129
+08:40,9,Garland,102.670
+08:40,10,半年ROM,11.662
+09:10,1,PeterObiAt61,22.607
+09:10,2,めめ朝ドラ,
+09:10,3,UygunFiyattda TTVerilir,
+09:10,4,ミャクミャク様,173.289
+09:10,5,一番搾り,10.888
+09:10,6,ビールがおいしいってしあわせだ,40.075
+09:10,7,salı,
+09:10,8,VenmoMe,
+09:10,9,Garland,104.492
+09:10,10,Stray,164.059
+09:40,1,PeterObiAt61,27.244
+09:40,2,めめ朝ドラ,10.440
+09:40,3,3DaysToShamshera,
+09:40,4,ミャクミャク様,182.676
+09:40,5,نتايج_التحصيلي,
+09:40,6,一番搾り,11.626
+09:40,7,केजरीवाल_से_मोदी_डरता_है,
+09:40,8,Stray,169.663
+09:40,9,国民の認識,22.115
+09:40,10,半年ROM,14.358
+10:10,1,PeterObiAt61,32.274
+10:10,2,نتايج_التحصيلي,
+10:10,3,KromanCelik İsyanEttirdi,
+10:10,4,めめ朝ドラ,11.725
+10:10,5,ミャクミャク様,191.363
+10:10,6,3DaysToShamshera,
+10:10,7,一番搾り,12.453
+10:10,8,DünyaFenerbahçelilerGünü,23.243
+10:10,9,BTS HONORARY AMBASSADOR,37.784
+10:10,10,WE ARE PROUD OF YOU BTS,
+10:40,1,PeterObiAt61,37.483
+10:40,2,BTS_WORLDEXPO_AMBASSADORS,24.086
+10:40,3,羽生結弦,42.584
+10:40,4,BTS HONORARY AMBASSADOR,61.669
+10:40,5,نتايج_التحصيلي,
+10:40,6,WE ARE PROUD OF YOU BTS,18.731
+10:40,7,羽生くん,22.552
+10:40,8,EXPO2030BUSAN,77.850
+10:40,9,モグコレ,
+10:40,10,KromanCelik İsyanEttirdi,
+11:10,1,TodayIsRAINDAY,26.345
+11:10,2,PeterObiAt61,41.800
+11:10,3,羽生くん,26.223
+11:10,4,羽生結弦,52.182
+11:10,5,BTS_WORLDEXPO_AMBASSADORS,36.118
+11:10,6,نتايج_التحصيلي,
+11:10,7,BTS HONORARY AMBASSADOR,74.166
+11:10,8,WE ARE PROUD OF YOU BTS,26.331
+11:10,9,モグコレ,
+11:10,10,BEAUTIFUL MONSTER OUT NOW,12.555
+11:40,1,TodayIsRAINDAY,40.282
+11:40,2,羽生くん,31.276
+11:40,3,TAEIL_KUN_YANGYANG,49.724
+11:40,4,PeterObiAt61,45.437
+11:40,5,羽生結弦,71.466
+11:40,6,نتايج_التحصيلي,12.051
+11:40,7,モグコレ,
+11:40,8,BTS HONORARY AMBASSADOR,80.051
+11:40,9,WE ARE PROUD OF YOU BTS,29.114
+11:40,10,BEAUTIFUL MONSTER OUT NOW,13.651
+12:10,1,TodayIsRAINDAY,47.475
+12:10,2,羽生くん,34.334
+12:10,3,TAEIL_KUN_YANGYANG,56.576
+12:10,4,PeterObiAt61,48.420
+12:10,5,NewWorldStarKAI,30.822
+12:10,6,نتايج_التحصيلي,14.482
+12:10,7,モグコレ,
+12:10,8,BTS HONORARY AMBASSADOR,83.972
+12:10,9,WE ARE PROUD OF YOU BTS,31.158
+12:10,10,Stray,200.050
+12:40,1,NewWorldStarKAI,65.427
+12:40,2,Martial,21.846
+12:40,3,TodayIsRAINDAY,52.095
+12:40,4,サッカー日本代表,
+12:40,5,نتايج_التحصيلي,17.740
+12:40,6,羽生くん,37.085
+12:40,7,TAEIL_KUN_YANGYANG,61.036
+12:40,8,モグコレ,
+12:40,9,Dolores Delgado,
+12:40,10,Stray,208.101
+13:10,1,Martial,29.537
+13:10,2,NewWorldStarKAI,91.773
+13:10,3,サッカー日本代表,10.355
+13:10,4,TodayIsRAINDAY,55.624
+13:10,5,Malacia,
+13:10,6,نتايج_التحصيلي,19.382
+13:10,7,オモウマい店,14.767
+13:10,8,羽生くん,38.649
+13:10,9,モグコレ,
+13:10,10,Dolores Delgado,
+13:40,1,Martial,38.077
+13:40,2,NewWorldStarKAI,108.593
+13:40,3,Sancho,14.609
+13:40,4,Rashford,11.032
+13:40,5,MUNCRY,16.498
+13:40,6,サッカー日本代表,12.874
+13:40,7,Malacia,12.040
+13:40,8,アメトーーク,
+13:40,9,TodayIsRAINDAY,57.750
+13:40,10,Ayew,
+14:10,1,Martial,43.682
+14:10,2,NewWorldStarKAI,120.602
+14:10,3,MUNCRY,20.563
+14:10,4,Sancho,19.633
+14:10,5,Rashford,14.814
+14:10,6,アメトーーク,
+14:10,7,サッカー日本代表,14.576
+14:10,8,国民的アニメ・漫画の主人公,
+14:10,9,主人公キャラ診断,
+14:10,10,あなたの性格,
+14:40,1,Martial,50.652
+14:40,2,すわほー,
+14:40,3,主人公キャラ診断,
+14:40,4,国民的アニメ・漫画の主人公,
+14:40,5,心理学的,
+14:40,6,あなたの性格,
+14:40,7,アメトーーク,10.627
+14:40,8,MUNCRY,21.010
+14:40,9,Sancho,24.092
+14:40,10,Rashford,18.706
+15:10,1,Martial,54.422
+15:10,2,すわほー,
+15:10,3,主人公キャラ診断,
+15:10,4,国民的アニメ・漫画の主人公,
+15:10,5,あなたの性格,
+15:10,6,心理学的,
+15:10,7,マツコの知らない世界,
+15:10,8,アメトーーク,12.526
+15:10,9,MUNCRY,22.304
+15:10,10,Sancho,26.303
+15:40,1,主人公キャラ診断,
+15:40,2,国民的アニメ・漫画の主人公,
+15:40,3,あなたの性格,
+15:40,4,心理学的,
+15:40,5,Martial,56.865
+15:40,6,すわほー,
+15:40,7,マツコの知らない世界,
+15:40,8,アメトーーク,12.883
+15:40,9,แมตต์นี้ไบเบิ้ลใช้แป้งshu,24.562
+15:40,10,DONBELLE KUMAIN NG KANIN,19.961
+16:10,1,主人公キャラ診断,
+16:10,2,国民的アニメ・漫画の主人公,
+16:10,3,あなたの性格,
+16:10,4,心理学的,
+16:10,5,Ece Seçkin,
+16:10,6,Martial,58.631
+16:10,7,すわほー,
+16:10,8,ユニコーンに乗って,
+16:10,9,大河オタクにしか通じないフレーズ選手権,
+16:10,10,マツコの知らない世界,
+16:40,1,主人公キャラ診断,10.218
+16:40,2,国民的アニメ・漫画の主人公,
+16:40,3,あなたの性格,
+16:40,4,心理学的,
+16:40,5,Ece Seçkin,
+16:40,6,大河オタクにしか通じないフレーズ選手権,
+16:40,7,Martial,59.875
+16:40,8,Stray,264.307
+16:40,9,すわほー,
+16:40,10,heatwave,93.868
+17:10,1,主人公キャラ診断,11.407
+17:10,2,あなたの性格,10.172
+17:10,3,国民的アニメ・漫画の主人公,
+17:10,4,心理学的,10.622
+17:10,5,メンテの日なのでssを貼る,21.711
+17:10,6,GUERRILLA_PERF_PREVIEW,24.927
+17:10,7,タルタリヤ生誕祭2022,10.049
+17:10,8,Stray,270.118
+17:10,9,大河オタクにしか通じないフレーズ選手権,
+17:10,10,Ece Seçkin,
+17:40,1,主人公キャラ診断,12.206
+17:40,2,あなたの性格,10.913
+17:40,3,国民的アニメ・漫画の主人公,10.212
+17:40,4,心理学的,11.337
+17:40,5,Guerrilla,101.239
+17:40,6,メンテの日なのでssを貼る,28.306
+17:40,7,MOVEMENT,104.192
+17:40,8,吉田ヒロフミ,
+17:40,9,寧々ちゃん,
+17:40,10,タルタリヤ生誕祭2022,34.442
+18:10,1,Justina Wamae,12.868
+18:10,2,Guerrilla,108.747
+18:10,3,主人公キャラ診断,12.842
+18:10,4,あなたの性格,11.474
+18:10,5,国民的アニメ・漫画の主人公,10.787
+18:10,6,心理学的,11.932
+18:10,7,吉田ヒロフミ,10.581
+18:10,8,メンテの日なのでssを貼る,32.051
+18:10,9,PresidentialDebatesKe2022,
+18:10,10,MOVEMENT,109.524
+18:40,1,Justina Wamae,18.475
+18:40,2,吉田ヒロフミ,12.858
+18:40,3,Fortaleza,21.670
+18:40,4,PresidentialDebatesKe2022,
+18:40,5,Stray,295.258
+18:40,6,Guerrilla,115.532
+18:40,7,Filipe Ret,30.514
+18:40,8,あなたの性格,11.867
+18:40,9,主人公キャラ診断,13.243
+18:40,10,国民的アニメ・漫画の主人公,11.190
+19:10,1,Athletico,11.731
+19:10,2,Copa do Brasil,20.492
+19:10,3,Fortaleza,25.142
+19:10,4,PresidentialDebatesKe2022,10.230
+19:10,5,Stray,299.075
+19:10,6,Justina Wamae,22.491
+19:10,7,Filipe Ret,36.272
+19:10,8,吉田ヒロフミ,14.087
+19:10,9,Gallardo,26.247
+19:10,10,Guerrilla,118.013
+19:40,1,PresidentialDebatesKe2022,14.992
+19:40,2,Copa do Brasil,23.835
+19:40,3,Athletico,13.870
+19:40,4,Fortaleza,26.427
+19:40,5,DeputyPresidentialDebate2022,27.592
+19:40,6,Stray,312.474
+19:40,7,Gachagua,29.721
+19:40,8,Filipe Ret,41.099
+19:40,9,Justina Wamae,25.107
+19:40,10,Gallardo,29.127
+20:10,1,PresidentialDebatesKe2022,21.349
+20:10,2,Gachagua,46.737
+20:10,3,DeputyPresidentialDebate2022,32.795
+20:10,4,Copa do Brasil,25.576
+20:10,5,Athletico,14.797
+20:10,6,Stray,316.240
+20:10,7,Fortaleza,26.450
+20:10,8,Hoover Dam,12.553
+20:10,9,Martha Karua,18.550
+20:10,10,Filipe Ret,45.826
+20:40,1,PresidentialDebatesKe2022,29.506
+20:40,2,Gachagua,74.030
+20:40,3,DeputyPresidentialDebate2022,38.237
+20:40,4,Hoover Dam,19.027
+20:40,5,Copa do Brasil,27.158
+20:40,6,Martha Karua,25.472
+20:40,7,Stray,325.560
+20:40,8,Πυρκαγια,12.327
+20:40,9,Gareca,15.880
+20:40,10,Lozano,27.650
+21:10,1,PresidentialDebatesKe2022,38.828
+21:10,2,Gachagua,104.580
+21:10,3,DeputyPresidentialDebate2022,44.521
+21:10,4,Hoover Dam,23.383
+21:10,5,Martha Karua,33.988
+21:10,6,Stray,329.039
+21:10,7,Πυρκαγια,16.672
+21:10,8,Gareca,18.987
+21:10,9,Copa do Brasil,28.164
+21:10,10,Lozano,29.715
+21:40,1,PresidentialDebatesKe2022,44.080
+21:40,2,Gachagua,125.949
+21:40,3,DeputyPresidentialDebate2022,48.664
+21:40,4,Hoover Dam,26.119
+21:40,5,Πυρκαγια,21.189
+21:40,6,Martha Karua,39.888
+21:40,7,Stray,336.967
+21:40,8,Gareca,21.456
+21:40,9,Lozano,31.459
+21:40,10,Copa do Brasil,29.324
+22:10,1,PresidentialDebatesKe2022,47.373
+22:10,2,Gachagua,140.671
+22:10,3,Nate,33.864
+22:10,4,DeputyPresidentialDebate2022,51.482
+22:10,5,Πυρκαγια,26.021
+22:10,6,Hoover Dam,28.139
+22:10,7,Stray,341.035
+22:10,8,Martha,87.104
+22:10,9,Gareca,23.310
+22:10,10,MDR2022,
+22:40,1,Danica,42.714
+22:40,2,Tasha,55.919
+22:40,3,Dami,91.509
+22:40,4,RonaldOM,
+22:40,5,PresidentialDebatesKe2022,48.194
+22:40,6,Gachagua,148.279
+22:40,7,Nate,37.414
+22:40,8,Πυρκαγια,30.379
+22:40,9,TierraDeNadie12,
+22:40,10,DeputyPresidentialDebate2022,53.354
+23:10,1,Danica,51.314
+23:10,2,Dami,85.840
+23:10,3,RonaldOM,10.529
+23:10,4,Tasha,51.164
+23:10,5,TierraDeNadie12,
+23:10,6,Nate,39.219
+23:10,7,MarrakechDuRire,
+23:10,8,Πυρκαγια,34.387
+23:10,9,Gachagua,152.834
+23:10,10,PresidentialDebatesKe2022,49.310
+23:40,1,Danica,61.370
+23:40,2,Danica,61.370
+23:40,3,RonaldOM,17.485
+23:40,4,Tasha,54.835
+23:40,5,TierraDeNadie12,10.585
+23:40,6,AskSabrinaEICS,19.274
+23:40,7,CalmaKounde,
+23:40,8,Nate,41.632
+23:40,9,MarrakechDuRire,
+23:40,10,Gachagua,156.093

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MUNARS,172.558
+00:10,2,Bahia,87.563
+00:10,3,Arsenal,315.131
+00:10,4,Atlético,133.005
+00:10,5,Lula,108.996
+00:10,6,Auba,31.913
+00:10,7,Carrick,90.560
+00:10,8,Ronaldo,305.020
+00:10,9,De Gea,46.702
+00:10,10,MUFC,195.381
+00:40,1,Lula,134.537
+00:40,2,Bahia,93.582
+00:40,3,MUNARS,178.662
+00:40,4,Atlético,162.315
+00:40,5,Arsenal,324.139
+00:40,6,Auba,33.076
+00:40,7,Carrick,98.932
+00:40,8,Ronaldo,326.678
+00:40,9,MUFC,208.799
+00:40,10,Keno,
+01:10,1,Lula,154.307
+01:10,2,Bahia,95.595
+01:10,3,Atlético,182.135
+01:10,4,MUNARS,181.967
+01:10,5,Arsenal,328.768
+01:10,6,Auba,33.841
+01:10,7,Carrick,104.177
+01:10,8,Ronaldo,337.062
+01:10,9,SecretGala12,45.920
+01:10,10,Keno,10.687
+01:40,1,Lula,182.453
+01:40,2,震度5弱,53.238
+01:40,3,Atlético,198.536
+01:40,4,Bahia,97.939
+01:40,5,MUNARS,185.658
+01:40,6,Arsenal,333.554
+01:40,7,緊急地震速報,31.978
+01:40,8,Auba,34.421
+01:40,9,Carrick,107.696
+01:40,10,Diogo Barbosa,
+02:10,1,Lula,197.085
+02:10,2,震度5弱,67.504
+02:10,3,Atlético,209.614
+02:10,4,Bahia,99.773
+02:10,5,gremio,94.152
+02:10,6,緊急地震速報,34.915
+02:10,7,地震大丈夫,57.791
+02:10,8,南海トラフ,
+02:10,9,MUNARS,187.658
+02:10,10,Volpi,
+02:40,1,Lula,212.547
+02:40,2,震度5弱,74.441
+02:40,3,AnnieLive,
+02:40,4,Atlético,222.770
+02:40,5,Bahia,101.942
+02:40,6,gremio,102.150
+02:40,7,緊急地震速報,35.743
+02:40,8,地震大丈夫,62.078
+02:40,9,南海トラフ,10.471
+02:40,10,Volpi,
+03:10,1,Lula,223.759
+03:10,2,震度5弱,78.242
+03:10,3,AnnieLive,12.917
+03:10,4,Gallup,15.857
+03:10,5,Atlético,231.347
+03:10,6,gremio,105.279
+03:10,7,南海トラフ,11.327
+03:10,8,Bahia,102.769
+03:10,9,地震大丈夫,64.472
+03:10,10,緊急地震速報,36.171
+03:40,1,Lula,236.053
+03:40,2,AnnieLive,17.815
+03:40,3,震度5弱,81.085
+03:40,4,Gallup,17.795
+03:40,5,EliminaçãoAFazenda,12.425
+03:40,6,Taysom Hill,
+03:40,7,TheVoiceBrasil,
+03:40,8,Knicks,18.364
+03:40,9,南海トラフ,12.030
+03:40,10,LosVotosDeParisiMV,
+04:10,1,AnnieLive,21.597
+04:10,2,Lula,244.268
+04:10,3,EliminaçãoAFazenda,26.094
+04:10,4,Bulls,46.402
+04:10,5,震度5弱,84.134
+04:10,6,Knicks,22.196
+04:10,7,VERZUZ,
+04:10,8,Grizzlies,
+04:10,9,Gallup,20.758
+04:10,10,LosVotosDeParisiMV,
+04:40,1,EliminaçãoAFazenda,79.545
+04:40,2,VERZUZ,15.976
+04:40,3,AnnieLive,24.786
+04:40,4,Grizzlies,19.982
+04:40,5,Lula,252.129
+04:40,6,PTD_ON_STAGE_LA_Day4,59.229
+04:40,7,Bulls,49.344
+04:40,8,震度5弱,88.605
+04:40,9,Knicks,23.573
+04:40,10,Taysom Hill,
+05:10,1,Verzuz,36.484
+05:10,2,EliminaçãoAFazenda,89.477
+05:10,3,AnnieLive,28.522
+05:10,4,Bizzy,16.433
+05:10,5,Cowboys,54.673
+05:10,6,Zeke,14.340
+05:10,7,Taysom Hill,12.962
+05:10,8,Grizzlies,23.547
+05:10,9,PTD_ON_STAGE_LA_Day4,88.883
+05:10,10,Lula,256.346
+05:40,1,VERZUZ,59.378
+05:40,2,Taysom Hill,23.595
+05:40,3,Cowboys,66.692
+05:40,4,EliminaçãoAFazenda,93.086
+05:40,5,Bizzy,25.485
+05:40,6,Diggs,15.208
+05:40,7,AnnieLive,30.003
+05:40,8,PTD_ON_STAGE_LA_Day4,122.667
+05:40,9,Zeke,16.000
+05:40,10,Grizzlies,26.131
+06:10,1,VERZUZ,76.635
+06:10,2,Taysom Hill,25.388
+06:10,3,Cowboys,72.142
+06:10,4,EliminaçãoAFazenda,94.699
+06:10,5,Bizzy,30.156
+06:10,6,PTD_ON_STAGE_LA_Day4,155.216
+06:10,7,AnnieLive,30.734
+06:10,8,Diggs,16.296
+06:10,9,Zeke,16.577
+06:10,10,Three 6,25.865
+06:40,1,VERZUZ,96.030
+06:40,2,Taysom Hill,26.173
+06:40,3,Cowboys,74.311
+06:40,4,EliminaçãoAFazenda,95.454
+06:40,5,Bizzy,32.918
+06:40,6,PTD_ON_STAGE_LA_Day4,191.970
+06:40,7,5sos2011,34.474
+06:40,8,Saints,76.514
+06:40,9,Terrance Howard,
+06:40,10,AnnieLive,31.279
+07:10,1,VERZUZ,102.289
+07:10,2,Taysom Hill,26.712
+07:10,3,NAMJOON,419.197
+07:10,4,Cowboys,75.357
+07:10,5,PTD_ON_STAGE_LA_Day4,230.911
+07:10,6,COLDPLAY,42.997
+07:10,7,Bizzy,34.883
+07:10,8,5sos2011,42.440
+07:10,9,EliminaçãoAFazenda,96.068
+07:10,10,MY UNIVERSE,112.409
+07:40,1,SEOUL,329.430
+07:40,2,VERZUZ,105.615
+07:40,3,PTD_ON_STAGE_LA_Day4,289.690
+07:40,4,NAMJOON,465.434
+07:40,5,MY UNIVERSE,199.098
+07:40,6,Taysom Hill,27.081
+07:40,7,COLDPLAY,86.453
+07:40,8,5sos2011,47.809
+07:40,9,Cowboys,76.253
+07:40,10,Bizzy,36.099
+08:10,1,SEOUL,367.484
+08:10,2,VERZUZ,107.688
+08:10,3,PTD_ON_STAGE_LA_Day4,318.647
+08:10,4,namjoon,478.568
+08:10,5,MY UNIVERSE,221.802
+08:10,6,5sos2011,50.137
+08:10,7,Taysom Hill,27.361
+08:10,8,Coldplay,98.067
+08:10,9,3AralıkDünyaEngellilerGünü,12.701
+08:10,10,Cowboys,76.645
+08:40,1,SEOUL,388.002
+08:40,2,VERZUZ,109.132
+08:40,3,namjoon,515.371
+08:40,4,PTD_ON_STAGE_LA,1.099.754
+08:40,5,3AralıkDünyaEngellilerGünü,16.631
+08:40,6,MY UNIVERSE,235.432
+08:40,7,5sos2011,51.370
+08:40,8,Coldplay,104.629
+08:40,9,Taysom Hill,27.566
+08:40,10,MoneyHeist5,
+09:10,1,SEOUL,395.246
+09:10,2,3AralıkDünyaEngellilerGünü,20.948
+09:10,3,namjoon,535.768
+09:10,4,VERZUZ,110.227
+09:10,5,PTD_ON_STAGE_LA_Day4,348.097
+09:10,6,enflasyon,
+09:10,7,MoneyHeist5,
+09:10,8,MY UNIVERSE,241.882
+09:10,9,Coldplay,107.783
+09:10,10,Taysom Hill,27.709
+09:40,1,SEOUL,404.828
+09:40,2,3AralıkDünyaEngellilerGünü,25.172
+09:40,3,enflasyon,
+09:40,4,MoneyHeist5,
+09:40,5,PTD_ON_STAGE_LA_Day4,357.784
+09:40,6,風真いろはFF14アーリーチャレンジ,
+09:40,7,namjoon,558.271
+09:40,8,TÜİK,
+09:40,9,MY UNIVERSE,248.684
+09:40,10,TURBULENCE MV IS COMING,36.598
+10:10,1,SEOUL,408.698
+10:10,2,3AralıkDünyaEngellilerGünü,29.147
+10:10,3,ログイン戦争,10.893
+10:10,4,IndvsNZtest,
+10:10,5,TÜİK,
+10:10,6,enflasyon,11.589
+10:10,7,風真いろはFF14アーリーチャレンジ,
+10:10,8,ランチャー,
+10:10,9,TURBULENCE MV IS COMING,60.808
+10:10,10,MoneyHeist5,10.404
+10:40,1,ログイン戦争,14.802
+10:40,2,Trauma1stwin,13.391
+10:40,3,Turbulence,255.773
+10:40,4,FEVER_EPILOGUE,256.858
+10:40,5,3AralıkDünyaEngellilerGünü,33.241
+10:40,6,IndvsNZtest,
+10:40,7,TÜİK,
+10:40,8,Seoul,415.336
+10:40,9,ランチャー,
+10:40,10,ロビーサーバー,
+11:10,1,Trauma1stwin,33.478
+11:10,2,ログイン,86.008
+11:10,3,少クラ,
+11:10,4,Turbulence,267.418
+11:10,5,FEVER_EPILOGUE,266.704
+11:10,6,3AralıkDünyaEngellilerGünü,37.026
+11:10,7,TÜİK,
+11:10,8,ランチャー,
+11:10,9,Seoul,416.998
+11:10,10,Mekan,10.922
+11:40,1,Trauma1stwin,42.084
+11:40,2,ログイン,89.470
+11:40,3,Sialkot,10.448
+11:40,4,Turbulence,280.905
+11:40,5,少クラ,10.520
+11:40,6,3AralıkDünyaEngellilerGünü,40.877
+11:40,7,TÜİK,
+11:40,8,ランチャー,
+11:40,9,Seoul,422.929
+11:40,10,Mekan,13.115
+12:10,1,Sialkot,14.722
+12:10,2,Trauma1stwin,47.044
+12:10,3,オオカミ少年,19.390
+12:10,4,ログイン,88.692
+12:10,5,3AralıkDünyaEngellilerGünü,44.368
+12:10,6,Turbulence,285.936
+12:10,7,TÜİK,
+12:10,8,ランチャー,
+12:10,9,Mekan,15.193
+12:10,10,バイキング,10.511
+12:40,1,Sialkot,19.810
+12:40,2,ホロの試練3,17.138
+12:40,3,ものまね王座決定戦,
+12:40,4,3AralıkDünyaEngellilerGünü,47.696
+12:40,5,Trauma1stwin,49.925
+12:40,6,ログイン,91.236
+12:40,7,TÜİK,
+12:40,8,SB19xAcer HolidayJam,
+12:40,9,バイキング,11.737
+12:40,10,Mekan,16.939
+13:10,1,ホロの試練3,24.505
+13:10,2,Sialkot,25.702
+13:10,3,エリコニ3D,12.241
+13:10,4,つながるホロライブ,13.702
+13:10,5,Mステ,15.244
+13:10,6,ログイン,91.971
+13:10,7,TÜİK,
+13:10,8,ハリポタ,
+13:10,9,SB19xAcer HolidayJam,16.802
+13:10,10,土・休日,
+13:40,1,Mステ,31.476
+13:40,2,エリコニ3D,27.106
+13:40,3,Sialkot,31.807
+13:40,4,ホロの試練3,27.899
+13:40,5,つながるホロライブ,22.766
+13:40,6,ハリポタ,13.460
+13:40,7,みなみちゃん,
+13:40,8,SB19xAcer HolidayJam,30.716
+13:40,9,Daisuke,
+13:40,10,ログイン,95.424
+14:10,1,Mステ,48.415
+14:10,2,エリコニ3D,40.869
+14:10,3,Sialkot,38.223
+14:10,4,29YrsOfVIJAYSupremacy,269.196
+14:10,5,ホロの試練3,29.322
+14:10,6,ハリポタ,17.115
+14:10,7,みなみちゃん,
+14:10,8,SB19xAcer HolidayJam,47.442
+14:10,9,Daisuke,10.375
+14:10,10,土・休日,
+14:40,1,Mステ,63.252
+14:40,2,エリコニ3D,44.422
+14:40,3,LISAXCELINE,120.239
+14:40,4,最愛ドラマ,23.902
+14:40,5,Sialkot,45.205
+14:40,6,LISA RUNWAY DEBUT,30.175
+14:40,7,ハリポタ,21.180
+14:40,8,みなみちゃん,10.160
+14:40,9,SB19xAcer HolidayJam,57.306
+14:40,10,契約義務,
+15:10,1,最愛ドラマ,35.515
+15:10,2,LISAXCELINE,231.877
+15:10,3,Mステ,75.935
+15:10,4,加瀬さん,
+15:10,5,LISA RUNWAY DEBUT,98.173
+15:10,6,BadBuddySeriesEP6,146.627
+15:10,7,エリコニ3D,45.589
+15:10,8,シリウス,14.079
+15:10,9,ハリポタ,24.877
+15:10,10,みなみちゃん,11.118
+15:40,1,LISAXCELINE,306.116
+15:40,2,最愛ドラマ,38.420
+15:40,3,BadBuddySeriesEP6,214.526
+15:40,4,LISA RUNWAY DEBUT,144.894
+15:40,5,도영이_벌스데이_햅삐햅삐로통통,162.431
+15:40,6,PrinceDoyoungDay,148.369
+15:40,7,シリウス,22.106
+15:40,8,加瀬さん,
+15:40,9,TREASURE DOYOUNG DAY,157.318
+15:40,10,ハリポタ,30.965
+16:10,1,HappyBirthdayJin,109.101
+16:10,2,HappyBirthdayJin,109.101
+16:10,3,BrightestMoonJin,226.397
+16:10,4,ForeverYoursJin,237.295
+16:10,5,LightToOurAbyss,219.736
+16:10,6,TREASURE DOYOUNG DAY,262.956
+16:10,7,LISA RUNWAY DEBUT,174.483
+16:10,8,加瀬さん,
+16:10,9,シリウス,23.357
+16:10,10,ハリポタ,32.672
+16:40,1,HappyBirthdayJin,222.985
+16:40,2,BrightestMoonJin,341.785
+16:40,3,ForeverYoursJin,353.554
+16:40,4,LightToOurAbyss,314.783
+16:40,5,PrinceDoyoungDay,354.103
+16:40,6,LISA RUNWAY DEBUT,191.638
+16:40,7,加瀬さん,10.053
+16:40,8,シリウス,24.019
+16:40,9,ジンくん,36.343
+16:40,10,ハリポタ,33.695
+17:10,1,HappyBirthdayJin,293.016
+17:10,2,HappyBirthdayJin,293.016
+17:10,3,BrightestMoonJin,389.962
+17:10,4,ForeverYoursJin,401.938
+17:10,5,LightToOurAbyss,350.683
+17:10,6,LISA RUNWAY DEBUT,203.489
+17:10,7,ジンくん,39.704
+17:10,8,加瀬さん,10.336
+17:10,9,シリウス,24.313
+17:10,10,ハリポタ,34.273
+17:40,1,HappyBirthdayJin,343.401
+17:40,2,HappyBirthdayJin,343.401
+17:40,3,BrightestMoonJin,418.743
+17:40,4,ForeverYoursJin,430.237
+17:40,5,LightToOurAbyss,373.249
+17:40,6,TREASURE DOYOUNG DAY,406.054
+17:40,7,LISA RUNWAY DEBUT,215.543
+17:40,8,ジンくん,41.789
+17:40,9,加瀬さん,10.564
+17:40,10,シリウス,24.551
+18:10,1,HappyBirthdayJin,378.518
+18:10,2,HappyBirthdayJin,378.518
+18:10,3,BrightestMoonJin,438.067
+18:10,4,ForeverYoursJin,448.496
+18:10,5,LightToOurAbyss,387.642
+18:10,6,TREASURE DOYOUNG DAY,424.548
+18:10,7,LISA RUNWAY DEBUT,224.565
+18:10,8,TE AMAMOS DAYANE MELLO,38.429
+18:10,9,Happy Birthday GULF,21.784
+18:10,10,ジンくん,42.867
+18:40,1,HappyBirthdayJin,408.395
+18:40,2,HappyBirthdayJin,408.395
+18:40,3,BrightestMoonJin,451.440
+18:40,4,ForeverYoursJin,461.811
+18:40,5,LightToOurAbyss,397.967
+18:40,6,TREASURE DOYOUNG DAY,436.798
+18:40,7,Can Bozdoğan,
+18:40,8,Happy Birthday GULF,51.339
+18:40,9,TE AMAMOS DAYANE MELLO,48.061
+18:40,10,LISA RUNWAY DEBUT,230.591
+19:10,1,HappyBirthdayJin,431.701
+19:10,2,HappyBirthdayJin,431.701
+19:10,3,BrightestMoonJin,462.076
+19:10,4,ForeverYoursJin,470.802
+19:10,5,LightToOurAbyss,405.305
+19:10,6,Leclerc,11.965
+19:10,7,TREASURE DOYOUNG DAY,444.469
+19:10,8,Can Bozdoğan,
+19:10,9,Happy Birthday GULF,66.852
+19:10,10,TE AMAMOS DAYANE MELLO,59.794
+19:40,1,HappyBirthdayJin,450.494
+19:40,2,HappyBirthdayJin,450.494
+19:40,3,HappyBirthdayJin,450.494
+19:40,4,BrightestMoonJin,469.914
+19:40,5,ForeverYoursJin,478.375
+19:40,6,Leclerc,15.209
+19:40,7,Nafter Token,
+19:40,8,Larin,
+19:40,9,TREASURE DOYOUNG DAY,449.156
+19:40,10,Can Bozdoğan,
+20:10,1,HappyBirthdayJin,465.546
+20:10,2,HappyBirthdayJin,465.546
+20:10,3,HappyBirthdayJin,465.546
+20:10,4,BrightestMoonJin,476.205
+20:10,5,ForeverYoursJin,484.718
+20:10,6,Ghezzal,
+20:10,7,Leclerc,17.237
+20:10,8,Nafter Token,
+20:10,9,Larin,
+20:10,10,Batshuayi,
+20:40,1,HappyBirthdayJin,478.652
+20:40,2,HappyBirthdayJin,478.652
+20:40,3,BrightestMoonJin,481.350
+20:40,4,ForeverYoursJin,489.563
+20:40,5,CashAppInWild,
+20:40,6,Sergen,17.912
+20:40,7,Ghezzal,
+20:40,8,BalıkesirBem BirSenEngelsiz,
+20:40,9,Leclerc,18.607
+20:40,10,Atiba,
+21:10,1,HappyBirthdayJin,490.706
+21:10,2,JINDAY,289.850
+21:10,3,JINDAY,289.850
+21:10,4,BrightestMoonJin,485.881
+21:10,5,ForeverYoursJin,493.618
+21:10,6,Sergen,19.367
+21:10,7,Ghezzal,
+21:10,8,BalıkesirBem BirSenEngelsiz,
+21:10,9,Leclerc,19.356
+21:10,10,Khloe,28.606
+21:40,1,HappyBirthdayJin,503.762
+21:40,2,JINDAY,295.857
+21:40,3,BrightestMoonJin,490.784
+21:40,4,CashAppInWild,
+21:40,5,FreeCodeFridayContest,
+21:40,6,Sergen,20.581
+21:40,7,Ghezzal,
+21:40,8,suga hyung,11.641
+21:40,9,سوريا,18.523
+21:40,10,Steve Cook,
+22:10,1,HappyBirthdayJin,516.134
+22:10,2,JINDAY,301.249
+22:10,3,FreeCodeFridayContest,
+22:10,4,BrightestMoonJin,495.148
+22:10,5,cashappinwild,
+22:10,6,سوريا,21.717
+22:10,7,Sergen,21.448
+22:10,8,suga hyung,14.005
+22:10,9,Steve Cook,
+22:10,10,BalıkesirBem BirSenEngelsiz,
+22:40,1,HappyBirthdayJin,532.086
+22:40,2,JINDAY,306.607
+22:40,3,FreeCodeFridayContest,
+22:40,4,João Mário,
+22:40,5,BrightestMoonJin,499.487
+22:40,6,CashAppInWild,
+22:40,7,سوريا,24.132
+22:40,8,suga hyung,15.366
+22:40,9,Sergen,22.148
+22:40,10,Sporting,38.571
+23:10,1,HappyBirthdayJin,680.668
+23:10,2,WorldwideHandsomeDay,191.709
+23:10,3,JINDAY,312.403
+23:10,4,Paulinho,
+23:10,5,5SOSThe10YearCelebrationShow,17.700
+23:10,6,FreeCodeFridayContest,
+23:10,7,Sporting,39.540
+23:10,8,João Mário,
+23:10,9,سوريا,25.762
+23:10,10,suga hyung,16.423
+23:40,1,5SOSThe10YearCelebrationShow,39.412
+23:40,2,HappyBirthdayJin,732.724
+23:40,3,WorldwideHandsomeDay,234.871
+23:40,4,TCMS5,
+23:40,5,OurDecemberAngel,466.511
+23:40,6,Paulinho,
+23:40,7,Sporting,43.118
+23:40,8,CALUM,13.510
+23:40,9,João Mário,
+23:40,10,Crumbleys,14.755

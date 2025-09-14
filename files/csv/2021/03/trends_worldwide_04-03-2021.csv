@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Sevilla,119.932
+00:09,2,CRYMUN,38.999
+00:09,3,Sanrem2021,107.357
+00:09,4,Lucas Lima,12.896
+00:09,5,Piqué,77.106
+00:09,6,CopaDelRey,24.063
+00:09,7,Barcelona,131.443
+00:09,8,Lenglet,19.555
+00:09,9,Ocampos,16.420
+00:09,10,Lopetegui,13.417
+00:39,1,Sevilla,131.477
+00:39,2,Sanrem2021,120.275
+00:39,3,SN10,15.942
+00:39,4,CRYMUN,39.727
+00:39,5,Lucas Lima,13.333
+00:39,6,Piqué,84.216
+00:39,7,CopaDelRey,25.770
+00:39,8,Barcelona,139.026
+00:39,9,Lenglet,21.275
+00:39,10,SpaceX,13.226
+01:09,1,Sevilla,135.879
+01:09,2,SN10,22.812
+01:09,3,Sanrem2021,129.293
+01:09,4,CRYMUN,40.243
+01:09,5,SpaceX,16.715
+01:09,6,Lucas Lima,14.072
+01:09,7,Piqué,87.375
+01:09,8,CopaDelRey,26.736
+01:09,9,Barcelona,141.719
+01:09,10,Lenglet,22.593
+01:39,1,Sevilla,139.102
+01:39,2,Sanrem2021,140.418
+01:39,3,SN10,25.636
+01:39,4,SpaceX,18.398
+01:39,5,CRYMUN,40.259
+01:39,6,Lisca,15.532
+01:39,7,Lucas Lima,14.529
+01:39,8,Piqué,90.124
+01:39,9,Barcelona,144.569
+01:39,10,Lenglet,23.530
+02:09,1,Claypole,14.840
+02:09,2,Sevilla,140.405
+02:09,3,Sanrem2021,143.529
+02:09,4,SN10,27.794
+02:09,5,Lisca,18.555
+02:09,6,jisoo,118.982
+02:09,7,SpaceX,19.268
+02:09,8,AEWDynamite,
+02:09,9,BBCAN9,11.885
+02:09,10,Lucas Lima,14.842
+02:39,1,Claypole,20.085
+02:39,2,AEWDynamite,23.994
+02:39,3,Shaq,60.411
+02:39,4,MarriedAtFirstSight,
+02:39,5,Sevilla,142.045
+02:39,6,Sanrem2021,144.178
+02:39,7,SN10,29.525
+02:39,8,jisoo,125.461
+02:39,9,Lisca,22.118
+02:39,10,TheChallenge36,
+03:09,1,Claypole,22.791
+03:09,2,AEWDynamite,34.733
+03:09,3,Shaq,66.646
+03:09,4,MarriedAtFirstSight,10.637
+03:09,5,TheChallenge36,
+03:09,6,jisoo,126.907
+03:09,7,Lisca,25.322
+03:09,8,MAFS,12.213
+03:09,9,SN10,30.887
+03:09,10,Cruzeiro,25.190
+03:39,1,Claypole,32.361
+03:39,2,AEWDynamite,42.257
+03:39,3,Shaq,70.084
+03:39,4,MarriedAtFirstSight,13.454
+03:39,5,Cruzeiro,31.808
+03:39,6,TheChallenge36,10.046
+03:39,7,Now United,53.338
+03:39,8,Pottker,
+03:39,9,jisoo,132.795
+03:39,10,João de Deus,
+04:09,1,Claypole,36.489
+04:09,2,João de Deus,
+04:09,3,MarriedAtFirstSight,22.881
+04:09,4,MAFS,23.231
+04:09,5,Embiid,27.785
+04:09,6,AEWDynamite,47.132
+04:09,7,Shaq,72.546
+04:09,8,Cruzeiro,34.253
+04:09,9,Sixers,22.106
+04:09,10,Paige,17.393
+04:39,1,João de Deus,13.852
+04:39,2,Claypole,38.246
+04:39,3,MarriedAtFirstSight,24.596
+04:39,4,Embiid,31.485
+04:39,5,MAFS,24.660
+04:39,6,AEWDynamite,48.986
+04:39,7,StayStrongWithMew,169.500
+04:39,8,Shaq,74.706
+04:39,9,Cruzeiro,35.542
+04:39,10,Sixers,24.501
+05:09,1,João de Deus,14.951
+05:09,2,SnowfallFX,15.044
+05:09,3,Claypole,39.190
+05:09,4,StayStrongWithMew,228.572
+05:09,5,MarriedAtFirstSight,25.361
+05:09,6,忘れられないPS2タイトル,
+05:09,7,Embiid,33.572
+05:09,8,MAFS,25.339
+05:09,9,jisoo,142.362
+05:09,10,Shaq,75.049
+05:39,1,João de Deus,15.413
+05:39,2,SnowfallFX,16.634
+05:39,3,StayStrongWithMew,285.983
+05:39,4,ProudOfYouJimin,72.165
+05:39,5,CongratulationsTaehyung,71.377
+05:39,6,CongratulationsJimin,70.785
+05:39,7,Claypole,39.978
+05:39,8,vmin,42.977
+05:39,9,Embiid,35.302
+05:39,10,Franklin,25.878
+06:09,1,ProudOfYouJimin,103.332
+06:09,2,CongratulationsTaehyung,104.171
+06:09,3,CongratulationsJimin,101.767
+06:09,4,ProudOfYouTaehyung,104.993
+06:09,5,StayStrongWithMew,331.963
+06:09,6,João de Deus,15.612
+06:09,7,Claypole,40.476
+06:09,8,第2のBTS,
+06:09,9,Franklin,25.958
+06:09,10,Embiid,36.194
+06:39,1,ProudOfYouJimin,131.376
+06:39,2,CongratulationsTaehyung,135.329
+06:39,3,ProudOfYouTaehyung,134.876
+06:39,4,CongratulationsJimin,128.288
+06:39,5,JiminTaehyungGraduation,61.744
+06:39,6,Dame,75.047
+06:39,7,Lillard,21.839
+06:39,8,João de Deus,15.792
+06:39,9,第2のBTS,
+06:39,10,Steph,38.304
+07:09,1,ProudOfYouJimin,152.914
+07:09,2,ProudOfYouTaehyung,160.725
+07:09,3,CongratulationsTaehyung,160.096
+07:09,4,CongratulationsJimin,149.087
+07:09,5,JiminTaehyungGraduation,70.437
+07:09,6,Dame,78.637
+07:09,7,Lillard,23.956
+07:09,8,João de Deus,15.854
+07:09,9,第2のBTS,
+07:09,10,Steph,41.518
+07:39,1,ProudOfYouJimin,167.112
+07:39,2,ProudOfYouTaehyung,178.837
+07:39,3,CongratulationsTaehyung,178.312
+07:39,4,CongratulationsJimin,162.497
+07:39,5,JiminTaehyungGraduation,76.372
+07:39,6,Dame,81.025
+07:39,7,第2のBTS,
+07:39,8,Lillard,24.953
+07:39,9,João de Deus,15.928
+07:39,10,TwitteerGt Açııldı,
+08:09,1,ProudOfYouTaehyung,192.247
+08:09,2,ProudOfYouJimin,178.585
+08:09,3,CongratulationsTaehyung,190.608
+08:09,4,CongratulationsJimin,172.265
+08:09,5,JiminTaehyungGraduation,82.513
+08:09,6,Dame,81.738
+08:09,7,第2のBTS,
+08:09,8,Lillard,25.504
+08:09,9,TwitteerGt Açııldı,
+08:09,10,七海ちゃん,
+08:39,1,ProudOfYouTaehyung,206.826
+08:39,2,ProudOfYouJimin,190.118
+08:39,3,CongratulationsTaehyung,203.200
+08:39,4,CongratulationsJimin,181.838
+08:39,5,JiminTaehyungGraduation,89.170
+08:39,6,Dame,83.540
+08:39,7,第2のBTS,10.242
+08:39,8,オニャンコポン,
+08:39,9,ステーキ丼,
+08:39,10,TwitteerGt Açııldı,
+09:09,1,ProudOfYouTaehyung,218.918
+09:09,2,ProudOfYouJimin,201.443
+09:09,3,CongratulationsTaehyung,213.318
+09:09,4,CongratulationsJimin,190.750
+09:09,5,JiminTaehyungGraduation,95.865
+09:09,6,Dame,83.873
+09:09,7,第2のBTS,11.148
+09:09,8,オニャンコポン,
+09:09,9,Karima Brown,
+09:09,10,ステーキ丼,
+09:39,1,ProudOfYouTaehyung,229.388
+09:39,2,ProudOfYouJimin,211.377
+09:39,3,CongratulationsTaehyung,222.114
+09:39,4,CongratulationsJimin,198.454
+09:39,5,MewPlsApologizeTo_재현,114.399
+09:39,6,Haas,
+09:39,7,Karima Brown,
+09:39,8,オニャンコポン,
+09:39,9,Ümit Özdağ,
+09:39,10,第2のBTS,12.116
+10:09,1,WorldBookDay,28.137
+10:09,2,MewPlsApologizeTo_재현,263.352
+10:09,3,ProudOfYouTaehyung,238.598
+10:09,4,ProudOfYouJimin,220.492
+10:09,5,CongratulationsTaehyung,229.109
+10:09,6,Haas,
+10:09,7,Ümit Özdağ,
+10:09,8,Mazepin,
+10:09,9,Karima Brown,
+10:09,10,オニャンコポン,
+10:39,1,WorldBookDay,34.981
+10:39,2,MewPlsApologizeTo_재현,389.023
+10:39,3,StayStrongWithMew,747.940
+10:39,4,ProudOfYouTaehyung,247.062
+10:39,5,ProudOfYouJimin,228.193
+10:39,6,Haas,
+10:39,7,Ümit Özdağ,
+10:39,8,Mazepin,
+10:39,9,Karima Brown,
+10:39,10,オニャンコポン,
+11:09,1,WorldBookDay,41.666
+11:09,2,MewPlsApologizeTo_재현,474.604
+11:09,3,StayStrongWithMew,778.227
+11:09,4,StandbyMSS,116.461
+11:09,5,ProudOfYouTaehyung,254.532
+11:09,6,Haas,10.266
+11:09,7,Ümit Özdağ,10.808
+11:09,8,Mazepin,
+11:09,9,SENDING TBZ ENERGY,18.948
+11:09,10,Karima Brown,
+11:39,1,WorldBookDay,49.642
+11:39,2,VS魂,22.385
+11:39,3,MewPlsApologizeTo_재현,558.073
+11:39,4,njpw49th,16.429
+11:39,5,StandbyMSS,159.922
+11:39,6,Haas,11.356
+11:39,7,Ümit Özdağ,13.082
+11:39,8,SENDING TBZ ENERGY,38.616
+11:39,9,Mazepin,
+11:39,10,vmin,182.253
+12:09,1,WorldBookDay,56.693
+12:09,2,VS魂,31.132
+12:09,3,DontCallMe2ndWin,19.424
+12:09,4,突破ファイル,12.629
+12:09,5,MewPlsApologizeTo_재현,604.147
+12:09,6,Tecavüzün DeliliYok,
+12:09,7,SENDING TBZ ENERGY,52.088
+12:09,8,Haas,12.453
+12:09,9,Ümit Özdağ,15.506
+12:09,10,Mazepin,
+12:39,1,WorldBookDay,63.502
+12:39,2,DontCallMe2ndWin,38.634
+12:39,3,VS魂,33.201
+12:39,4,directed_by_Jin,84.429
+12:39,5,FIFAcancelCuneytsLicence,23.011
+12:39,6,Captain Jin,17.551
+12:39,7,Tecavüzün DeliliYok,
+12:39,8,SENDING TBZ ENERGY,57.223
+12:39,9,Haas,13.633
+12:39,10,Ümit Özdağ,17.330
+13:09,1,WorldBookDay,70.587
+13:09,2,まっすー,
+13:09,3,FIFAcancelCuneytsLicence,41.952
+13:09,4,DontCallMe2ndWin,52.734
+13:09,5,ぐるナイ,
+13:09,6,素のまんま,13.183
+13:09,7,Captain Jin,25.721
+13:09,8,Haas,14.779
+13:09,9,SENDING TBZ ENERGY,60.729
+13:09,10,サトシVSシンジ,
+13:39,1,WorldBookDay,78.488
+13:39,2,FIFAcancelCuneytsLicence,55.775
+13:39,3,素のまんま,44.696
+13:39,4,モニタリング大賞,24.956
+13:39,5,まっすー,
+13:39,6,DontCallMe2ndWin,68.271
+13:39,7,Captain Jin,31.305
+13:39,8,SELFISH LOVE OUT NOW,12.802
+13:39,9,サトシvsシンジ,
+13:39,10,BAD HABITS CONCEPT PHOTO,47.594
+14:09,1,WorldBookDay,84.979
+14:09,2,FIFAcancelCuneytsLicence,67.903
+14:09,3,モニタリング大賞,30.093
+14:09,4,素のまんま,47.774
+14:09,5,SELFISH LOVE OUT NOW,49.582
+14:09,6,まっすー,
+14:09,7,DontCallMe2ndWin,77.865
+14:09,8,Captain Jin,34.901
+14:09,9,BAD HABITS CONCEPT PHOTO,77.960
+14:09,10,サトシVSシンジ,
+14:39,1,WorldBookDay,91.863
+14:39,2,FIFAcancelCuneytsLicence,77.936
+14:39,3,知ってるワイフ,28.965
+14:39,4,SELFISH LOVE OUT NOW,66.412
+14:39,5,モニタリング大賞,30.859
+14:39,6,PitMad,34.630
+14:39,7,まっすー,
+14:39,8,津山主任,
+14:39,9,BAD HABITS CONCEPT PHOTO,91.596
+14:39,10,Captain Jin,37.430
+15:09,1,WorldBookDay,98.745
+15:09,2,知ってるワイフ,42.492
+15:09,3,FIFAcancelCuneytsLicence,86.595
+15:09,4,PitMad,59.855
+15:09,5,SELFISH LOVE OUT NOW,78.812
+15:09,6,モニタリング大賞,31.372
+15:09,7,まっすー,
+15:09,8,ホムラ/ヒカリ,16.751
+15:09,9,津山主任,
+15:09,10,UM MILHÃO DA SARAH,19.736
+15:39,1,WorldBookDay,105.571
+15:39,2,知ってるワイフ,45.126
+15:39,3,PitMad,85.284
+15:39,4,FIFAcancelCuneytsLicence,92.621
+15:39,5,예림아_해피벌뚜뚜데이,48.386
+15:39,6,SELFISH LOVE OUT NOW,89.298
+15:39,7,ニュージーランド,18.140
+15:39,8,Sakurai,19.240
+15:39,9,HaddiniBil MaraşlıKukabo,
+15:39,10,ホムラ/ヒカリ,20.459
+16:09,1,BTSNo1GlobalArtist,90.394
+16:09,2,BTSNo1GlobalArtist,90.394
+16:09,3,BTS WORLD DOMINATION,88.486
+16:09,4,WorldBookDay,111.185
+16:09,5,ITSYERIDAY,90.324
+16:09,6,BTS PAVED THE WAY,42.925
+16:09,7,예림아_해피벌뚜뚜데이,91.414
+16:09,8,Sakurai,28.170
+16:09,9,SELFISH LOVE OUT NOW,96.490
+16:09,10,ニュージーランド,23.136
+16:39,1,BTSNo1GlobalArtist,321.392
+16:39,2,BTS WORLD DOMINATION,191.572
+16:39,3,BTS PAVED THE WAY,128.602
+16:39,4,ITSYERIDAY,121.520
+16:39,5,예림아_해피벌뚜뚜데이,122.659
+16:39,6,MJ_28번째생일에_시선고정,94.606
+16:39,7,WorldBookDay,118.026
+16:39,8,ON THE GROUND,281.361
+16:39,9,Sakurai,31.998
+16:39,10,SELFISH LOVE OUT NOW,101.496
+17:09,1,BTSNo1GlobalArtist,410.334
+17:09,2,BTS WORLD DOMINATION,226.767
+17:09,3,BTS PAVED THE WAY,168.505
+17:09,4,Bitlis,19.504
+17:09,5,ITSYERIDAY,137.369
+17:09,6,예림아_해피벌뚜뚜데이,137.774
+17:09,7,WorldBookDay,123.318
+17:09,8,ON THE GROUND,354.731
+17:09,9,Sakurai,34.091
+17:09,10,PROUD OF NIALL,24.674
+17:39,1,BTSNo1GlobalArtist,464.534
+17:39,2,Bitlis,41.059
+17:39,3,BTS WORLD DOMINATION,257.169
+17:39,4,BTS PAVED THE WAY,188.914
+17:39,5,ITSYERIDAY,147.178
+17:39,6,예림아_해피벌뚜뚜데이,146.954
+17:39,7,WorldBookDay,129.396
+17:39,8,ON THE GROUND,389.849
+17:39,9,PROUD OF NIALL,30.118
+17:39,10,Şehitlerimize Allah'tan,13.830
+18:09,1,Bitlis,64.597
+18:09,2,BTSNo1GlobalArtist,502.903
+18:09,3,BTS WORLD DOMINATION,272.827
+18:09,4,BTS PAVED THE WAY,202.250
+18:09,5,FBvANT,18.432
+18:09,6,ITSYERIDAY,154.373
+18:09,7,WorldBookDay,134.343
+18:09,8,Tisserand,
+18:09,9,Ozan,15.497
+18:09,10,Mesut,20.255
+18:39,1,Bitlis,86.932
+18:39,2,BTSNo1GlobalArtist,531.939
+18:39,3,BTS WORLD DOMINATION,282.947
+18:39,4,BTS PAVED THE WAY,213.491
+18:39,5,FBvANT,23.025
+18:39,6,PitMad,211.691
+18:39,7,Mesut,26.323
+18:39,8,WandaVisionFinale,33.692
+18:39,9,Allah'tan,129.151
+18:39,10,Tisserand,
+19:09,1,Bitlis,107.127
+19:09,2,BTSNo1GlobalArtist,552.143
+19:09,3,FBvANT,33.461
+19:09,4,BTS WORLD DOMINATION,289.764
+19:09,5,BTS PAVED THE WAY,218.301
+19:09,6,PitMad,232.418
+19:09,7,erolbulutistifa,
+19:09,8,Mesut,28.928
+19:09,9,Allah'tan,148.059
+19:09,10,Samatta,13.804
+19:39,1,Bitlis,129.073
+19:39,2,BTSNo1GlobalArtist,568.789
+19:39,3,FBvANT,40.420
+19:39,4,erolbulutistifa,13.807
+19:39,5,askASHE,14.351
+19:39,6,BTS WORLD DOMINATION,295.432
+19:39,7,BTS PAVED THE WAY,223.902
+19:39,8,Mesut,36.851
+19:39,9,Allah'tan,170.080
+19:39,10,Samatta,17.272
+20:09,1,Bitlis,149.372
+20:09,2,FBvANT,41.694
+20:09,3,BTSNo1GlobalArtist,582.333
+20:09,4,erolbulutistifa,16.213
+20:09,5,askASHE,17.267
+20:09,6,BTS WORLD DOMINATION,301.028
+20:09,7,BTS PAVED THE WAY,228.674
+20:09,8,Allah'tan,188.369
+20:09,9,Mesut,39.353
+20:09,10,Doherty,
+20:39,1,Bitlis,169.072
+20:39,2,SalarioRosa,18.583
+20:39,3,BTSNo1GlobalArtist,593.962
+20:39,4,FBvANT,42.551
+20:39,5,erolbulutistifa,17.458
+20:39,6,Fulham,16.539
+20:39,7,BTS WORLD DOMINATION,305.228
+20:39,8,Allah'tan,204.504
+20:39,9,BTS PAVED THE WAY,232.198
+20:39,10,Mesut,41.877
+21:09,1,SalarioRosa,28.441
+21:09,2,Bitlis,191.119
+21:09,3,Bitlis,191.119
+21:09,4,FULTOT,
+21:09,5,gntm,10.943
+21:09,6,Fulham,20.513
+21:09,7,Booba,78.173
+21:09,8,BTS WORLD DOMINATION,308.421
+21:09,9,Doherty,
+21:09,10,BTS PAVED THE WAY,234.692
+21:39,1,SalarioRosa,36.425
+21:39,2,Bitlis,211.370
+21:39,3,LIVCHE,54.553
+21:39,4,gntm,16.700
+21:39,5,DragRaceUK,
+21:39,6,Werner,17.830
+21:39,7,Fulham,22.087
+21:39,8,Booba,94.698
+21:39,9,Neffa,
+21:39,10,Neanderthals,41.018
+22:09,1,LIVCHE,84.221
+22:09,2,SalarioRosa,43.032
+22:09,3,Bitlis,226.136
+22:09,4,Sanremo2021,391.680
+22:09,5,Mason Mount,21.851
+22:09,6,Werner,30.922
+22:09,7,Liverpool,129.051
+22:09,8,DragRaceUK,10.123
+22:09,9,Mane,53.059
+22:09,10,Fulham,23.053
+22:39,1,LIVCHE,100.831
+22:39,2,SalarioRosa,48.318
+22:39,3,Sanremo2021,489.360
+22:39,4,LaIslaDeLasTentaciones8,30.883
+22:39,5,Bitlis,238.166
+22:39,6,Mason Mount,31.449
+22:39,7,Werner,35.778
+22:39,8,Liverpool,144.689
+22:39,9,Chelsea,157.332
+22:39,10,Mane,58.606
+23:09,1,LIVCHE,114.701
+23:09,2,LaIslaDeLasTentaciones8,67.513
+23:09,3,SalarioRosa,52.553
+23:09,4,Sanremo2021,468.871
+23:09,5,Liverpool,160.014
+23:09,6,Mason Mount,34.694
+23:09,7,Bitlis,246.639
+23:09,8,Werner,38.508
+23:09,9,Chelsea,165.856
+23:09,10,Klopp,29.675
+23:39,1,LaIslaDeLasTentaciones8,121.067
+23:39,2,LIVCHE,133.996
+23:39,3,Liverpool,202.946
+23:39,4,Sanremo2021,521.730
+23:39,5,Lola,117.850
+23:39,6,SalarioRosa,55.569
+23:39,7,Chelsea,201.364
+23:39,8,Klopp,42.924
+23:39,9,Mason Mount,44.918
+23:39,10,Anfield,46.462

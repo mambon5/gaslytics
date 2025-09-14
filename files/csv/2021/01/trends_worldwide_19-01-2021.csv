@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Corinthians,79.413
+00:09,2,gfvip,101.337
+00:09,3,ARSNEW,65.409
+00:09,4,MLKDay,559.941
+00:09,5,Auba,29.447
+00:09,6,Willian,18.724
+00:09,7,NUFC,19.443
+00:09,8,Gustavo Henrique,
+00:09,9,tzvip,161.422
+00:09,10,Saka,57.322
+00:39,1,Corinthians,127.507
+00:39,2,gfvip,116.513
+00:39,3,askASHE,
+00:39,4,ARSNEW,67.619
+00:39,5,MLKDay,575.441
+00:39,6,QueroBolsonaroAte2026,31.472
+00:39,7,Auba,29.840
+00:39,8,Mancini,
+00:39,9,Gustavo Henrique,
+00:39,10,Cássio,
+01:09,1,Corinthians,165.328
+01:09,2,gfvip,133.578
+01:09,3,askASHE,14.385
+01:09,4,Gabriel,96.031
+01:09,5,Arrascaeta,
+01:09,6,QueroBolsonaroAte2026,43.864
+01:09,7,Mancini,12.828
+01:09,8,tzvip,197.565
+01:09,9,MLKDay,589.418
+01:09,10,Gabigol,14.107
+01:39,1,Corinthians,183.102
+01:39,2,Gabigol,21.628
+01:39,3,gfvip,145.469
+01:39,4,askASHE,18.105
+01:39,5,Everton Ribeiro,10.264
+01:39,6,QueroBolsonaroAte2026,57.468
+01:39,7,Gabriel,100.857
+01:39,8,Arrascaeta,
+01:39,9,Mancini,14.661
+01:39,10,tzvip,213.786
+02:09,1,Corinthians,190.284
+02:09,2,Flamengo,155.347
+02:09,3,Vitinho,11.016
+02:09,4,Gabigol,25.968
+02:09,5,QueroBolsonaroAte2026,76.084
+02:09,6,gfvip,149.183
+02:09,7,askASHE,20.772
+02:09,8,Everton Ribeiro,11.482
+02:09,9,Arrascaeta,14.476
+02:09,10,Gabriel,100.212
+02:39,1,Corinthians,196.447
+02:39,2,Flamengo,169.497
+02:39,3,TheBachelor,19.878
+02:39,4,QueroBolsonaroAte2026,97.816
+02:39,5,Vitinho,12.033
+02:39,6,Gabigol,29.810
+02:39,7,WWERaw,15.042
+02:39,8,Claudia,52.798
+02:39,9,askASHE,21.690
+02:39,10,gfvip,152.762
+03:09,1,TheBachelor,37.053
+03:09,2,Corinthians,199.956
+03:09,3,Claudia,68.098
+03:09,4,Flamengo,175.568
+03:09,5,QueroBolsonaroAte2026,121.856
+03:09,6,MasterChefArgentina,21.002
+03:09,7,Dalma,
+03:09,8,WWERaw,22.465
+03:09,9,AllAmerican,17.380
+03:09,10,Vitinho,12.309
+03:39,1,Claudia,103.695
+03:39,2,TheBachelor,52.234
+03:39,3,MasterChefArgentina,41.387
+03:39,4,Corinthians,203.725
+03:39,5,Flamengo,182.174
+03:39,6,QueroBolsonaroAte2026,142.627
+03:39,7,Dalma,13.168
+03:39,8,Dalma,13.168
+03:39,9,WWERaw,29.586
+03:39,10,Analía,25.176
+04:09,1,Claudia,150.177
+04:09,2,TheBachelor,72.537
+04:09,3,MasterChefArgentina,63.446
+04:09,4,Temblor,13.950
+04:09,5,QueroBolsonaroAte2026,161.534
+04:09,6,WWERaw,38.927
+04:09,7,Corinthians,202.936
+04:09,8,Flamengo,178.059
+04:09,9,San Juan,27.349
+04:09,10,Giannis,22.037
+04:39,1,Claudia,161.212
+04:39,2,TheBachelor,75.376
+04:39,3,Temblor,21.732
+04:39,4,San Juan,41.639
+04:39,5,MasterChefArgentina,67.234
+04:39,6,sismo,21.247
+04:39,7,QueroBolsonaroAte2026,174.530
+04:39,8,Giannis,25.747
+04:39,9,Flamengo,180.570
+04:39,10,Corinthians,204.835
+05:09,1,Claudia,166.028
+05:09,2,TheBachelor,77.158
+05:09,3,San Juan,50.493
+05:09,4,Temblor,25.654
+05:09,5,MasterChefArgentina,69.026
+05:09,6,sismo,25.746
+05:09,7,WWERaw,53.705
+05:09,8,モルカー,410.987
+05:09,9,Giannis,27.001
+05:09,10,Pujara,20.218
+05:39,1,Claudia,169.152
+05:39,2,TheBachelor,78.871
+05:39,3,San Juan,57.634
+05:39,4,Temblor,27.617
+05:39,5,sismo,28.554
+05:39,6,MasterChefArgentina,70.048
+05:39,7,Terremoto,17.874
+05:39,8,モルカー,434.404
+05:39,9,Pujara,24.476
+05:39,10,Giannis,27.974
+06:09,1,Claudia,170.996
+06:09,2,San Juan,61.874
+06:09,3,TheBachelor,80.231
+06:09,4,Temblor,28.981
+06:09,5,モルカー,445.122
+06:09,6,sismo,30.377
+06:09,7,Terremoto,20.442
+06:09,8,MasterChefArgentina,70.798
+06:09,9,ブルーピリオドアニメ化,
+06:09,10,Pujara,28.503
+06:39,1,Claudia,172.799
+06:39,2,San Juan,64.879
+06:39,3,TheBachelor,81.337
+06:39,4,Temblor,29.842
+06:39,5,Jhope5MSpotify,44.698
+06:39,6,Warriors,85.619
+06:39,7,honktwtselfieday,16.729
+06:39,8,モルカー,460.615
+06:39,9,Oubre,11.243
+06:39,10,Terremoto,22.044
+07:09,1,Lakers,88.489
+07:09,2,Warriors,119.101
+07:09,3,Curry,57.713
+07:09,4,Claudia,173.514
+07:09,5,DubNation,
+07:09,6,TheBachelor,82.732
+07:09,7,San Juan,66.550
+07:09,8,AUSvsIND,29.016
+07:09,9,Jhope5MSpotify,62.085
+07:09,10,honktwtselfieday,24.199
+07:39,1,Lakers,95.739
+07:39,2,AUSvsIND,35.564
+07:39,3,Warriors,128.756
+07:39,4,Curry,62.033
+07:39,5,Jhope5MSpotify,69.095
+07:39,6,DubNation,
+07:39,7,honktwtselfieday,28.344
+07:39,8,San Juan,67.887
+07:39,9,一律10万円の再給付,21.036
+07:39,10,TheBachelor,83.348
+08:09,1,Lakers,99.242
+08:09,2,AUSvsIND,39.622
+08:09,3,Warriors,132.228
+08:09,4,Curry,63.719
+08:09,5,Jhope5MSpotify,77.056
+08:09,6,一律10万円の再給付,26.754
+08:09,7,honktwtselfieday,30.773
+08:09,8,DubNation,
+08:09,9,noah beck,
+08:09,10,IndiavsAustralia,
+08:39,1,AUSvsIND,51.461
+08:39,2,Lakers,102.022
+08:39,3,GabbaTest,14.506
+08:39,4,Warriors,136.398
+08:39,5,Pant,58.084
+08:39,6,一律10万円の再給付,32.147
+08:39,7,Jhope5MSpotify,84.527
+08:39,8,Curry,66.501
+08:39,9,noah beck,11.100
+08:39,10,honktwtselfieday,32.253
+09:09,1,INDvsAUS,111.529
+09:09,2,TeamIndia,70.929
+09:09,3,Gabba,123.470
+09:09,4,RishabhPant,14.574
+09:09,5,IndiavsAustralia,12.829
+09:09,6,IndianCricketTeam,
+09:09,7,Lakers,103.763
+09:09,8,Tim Paine,13.442
+09:09,9,一律10万円の再給付,37.633
+09:09,10,Aussies,16.530
+09:39,1,INDvsAUS,160.395
+09:39,2,TeamIndia,122.543
+09:39,3,Gabba,178.771
+09:39,4,RishabhPant,20.507
+09:39,5,IndianCricketTeam,13.025
+09:39,6,BorderGavaskarTrophy,17.002
+09:39,7,Tim Paine,19.876
+09:39,8,Lakers,105.305
+09:39,9,大河ドラマ,61.904
+09:39,10,Aussies,22.455
+10:09,1,INDvsAUS,188.276
+10:09,2,INDvsAUS,188.276
+10:09,3,TeamIndia,152.052
+10:09,4,Gabba,210.910
+10:09,5,IndianCricketTeam,16.034
+10:09,6,RishabhPant,23.219
+10:09,7,Tim Paine,23.708
+10:09,8,大河ドラマ,74.062
+10:09,9,TIME FOR MY TURN,69.379
+10:09,10,Aussies,25.488
+10:39,1,INDvsAUS,207.724
+10:39,2,INDvsAUS,207.724
+10:39,3,TeamIndia,177.266
+10:39,4,Gabba,238.365
+10:39,5,IndianCricketTeam,19.043
+10:39,6,BorderGavaskarTrophy,23.396
+10:39,7,大河ドラマ,85.451
+10:39,8,Tim Paine,26.373
+10:39,9,TIME FOR MY TURN,76.517
+10:39,10,特命調査,56.689
+11:09,1,INDvsAUS,226.037
+11:09,2,INDvsAUS,226.037
+11:09,3,TeamIndia,196.377
+11:09,4,Gabba,256.069
+11:09,5,IndianCricketTeam,21.442
+11:09,6,BorderGavaskarTrophy,25.379
+11:09,7,大河ドラマ,94.303
+11:09,8,TIME FOR MY TURN,81.258
+11:09,9,Tim Paine,28.043
+11:09,10,特命調査,48.890
+11:39,1,INDvsAUS,240.794
+11:39,2,TeamIndia,211.548
+11:39,3,Gabba,272.278
+11:39,4,IndiavsAustralia,42.572
+11:39,5,IndianCricketTeam,23.479
+11:39,6,ONEUS_DEVIL_NoDiggity,107.905
+11:39,7,大河ドラマ,103.343
+11:39,8,特命調査,52.304
+11:39,9,オルタニキ,
+11:39,10,RPGの世界,
+12:09,1,INDvsAUS,254.426
+12:09,2,TeamIndia,222.565
+12:09,3,IndiavsAustralia,45.443
+12:09,4,IndianCricketTeam,25.226
+12:09,5,Gabba,283.649
+12:09,6,ONEUS_DEVIL_NoDiggity,111.680
+12:09,7,特命調査,51.614
+12:09,8,大河ドラマ,112.380
+12:09,9,オルタニキ,
+12:09,10,RPGの世界,
+12:39,1,INDvsAUS,265.869
+12:39,2,TeamIndia,233.510
+12:39,3,IndianCricketTeam,26.919
+12:39,4,IndiavsAustralia,47.953
+12:39,5,Gabba,295.663
+12:39,6,どうする家康,69.381
+12:39,7,特命調査,55.451
+12:39,8,オルタニキ,
+12:39,9,RPGの世界,
+12:39,10,本格心理学,
+13:09,1,INDvsAUS,275.531
+13:09,2,TeamIndia,241.951
+13:09,3,XIAOZHAN_DOUYIN2021,51.164
+13:09,4,うたコン,
+13:09,5,潜在能力テスト,
+13:09,6,Gabba,305.648
+13:09,7,joon,100.826
+13:09,8,特命調査,57.282
+13:09,9,Stray dogs,19.330
+13:09,10,あなたのタイプ,10.282
+13:39,1,INDvsAUS,284.723
+13:39,2,XIAOZHAN_DOUYIN2021,84.894
+13:39,3,TeamIndia,251.690
+13:39,4,青のSP,
+13:39,5,仰天ニュース,
+13:39,6,特命調査,60.641
+13:39,7,joon,106.680
+13:39,8,Stray dogs,21.187
+13:39,9,Andorra,149.411
+13:39,10,Gabba,314.709
+14:09,1,青のSP,13.360
+14:09,2,XIAOZHAN_DOUYIN2021,109.843
+14:09,3,INDvsAUS,292.287
+14:09,4,仰天ニュース,
+14:09,5,マツコの知らない世界,
+14:09,6,JUNGKOOKS,17.400
+14:09,7,namjoon,417.540
+14:09,8,特命調査,61.384
+14:09,9,Andorra,152.343
+14:09,10,Run BTS,130.854
+14:39,1,ボス恋,42.732
+14:39,2,青のSP,14.007
+14:39,3,テッパンいただきます,
+14:39,4,XIAOZHAN_DOUYIN2021,132.029
+14:39,5,namjoon,448.590
+14:39,6,الاتحاد_lلعين,
+14:39,7,JUNGKOOKS,26.011
+14:39,8,花江さん,
+14:39,9,花江くん,
+14:39,10,Andorra,161.942
+15:09,1,namjoon,531.205
+15:09,2,ボス恋,67.116
+15:09,3,テッパンいただきます,11.759
+15:09,4,XIAOZHAN_DOUYIN2021,152.775
+15:09,5,الاتحاد_lلعين,11.620
+15:09,6,青のSP,14.314
+15:09,7,JUNGKOOKS,38.538
+15:09,8,CIELO ROJO,18.061
+15:09,9,花江さん,
+15:09,10,Andorra,163.586
+15:39,1,namjoon,699.180
+15:39,2,ボス恋,78.890
+15:39,3,StillDreamingOutNow,51.227
+15:39,4,وش_بديل_الواتساب,
+15:39,5,StillDreamingWithTXT,51.243
+15:39,6,الاتحاد_lلعين,14.396
+15:39,7,CIELO ROJO,23.178
+15:39,8,Jungkooks,50.199
+15:39,9,Andorra,172.723
+15:39,10,俺のこと好き,
+16:09,1,namjoon,759.475
+16:09,2,ボス恋,83.807
+16:09,3,StillDreamingOutNow,81.861
+16:09,4,StillDreamingWithTXT,81.373
+16:09,5,الاتحاد_lلعين,18.849
+16:09,6,투바투_일본_첫정규_모아가_응원해,43.122
+16:09,7,CIELO ROJO,25.611
+16:09,8,Andorra,174.234
+16:09,9,俺のこと好き,
+16:09,10,Jungkooks,58.037
+16:39,1,namjoon,805.962
+16:39,2,StillDreamingOutNow,124.926
+16:39,3,StillDreamingWithTXT,127.296
+16:39,4,ボス恋,86.699
+16:39,5,투바투_일본_첫정규_모아가_응원해,80.217
+16:39,6,HappyJunkiDay,50.730
+16:39,7,Andorra,182.052
+16:39,8,CIELO ROJO,27.052
+16:39,9,Lali,22.240
+16:39,10,俺のこと好き,
+17:09,1,namjoon,818.226
+17:09,2,StillDreamingWithTXT,162.577
+17:09,3,StillDreamingOutNow,159.154
+17:09,4,투바투_일본_첫정규_모아가_응원해,110.736
+17:09,5,STILL_DREAMING,77.630
+17:09,6,ボス恋,88.315
+17:09,7,فابيو,
+17:09,8,Andorra,183.320
+17:09,9,CIELO ROJO,27.787
+17:09,10,Lali,24.430
+17:39,1,namjoon,845.650
+17:39,2,StillDreamingWithTXT,167.872
+17:39,3,StillDreamingOutNow,163.497
+17:39,4,STILL_DREAMING,83.897
+17:39,5,투바투_일본_첫정규_모아가_응원해,113.722
+17:39,6,HappyJunkiDay,67.022
+17:39,7,فابيو,
+17:39,8,Andorra,189.510
+17:39,9,lali,27.560
+17:39,10,Saglıga2Bin Psikolog,
+18:09,1,namjoon,850.521
+18:09,2,StillDreamingWithTXT,169.877
+18:09,3,StillDreamingOutNow,164.896
+18:09,4,STILL_DREAMING,86.573
+18:09,5,BBB21,48.590
+18:09,6,투바투_일본_첫정규_모아가_응원해,114.446
+18:09,7,Mac Miller,131.499
+18:09,8,Andorra,190.680
+18:09,9,فابيو,
+18:09,10,Multiculturalism,28.429
+18:39,1,HappyTumcialDay2021,34.225
+18:39,2,ทัมเชียล30ยังแจ๋ว,33.058
+18:39,3,namjoon,869.098
+18:39,4,BBB21,53.427
+18:39,5,StillDreamingWithTXT,171.559
+18:39,6,StillDreamingOutNow,166.163
+18:39,7,Mac Miller,143.541
+18:39,8,Andorra,196.444
+18:39,9,Multiculturalism,32.839
+18:39,10,noah beck,44.774
+19:09,1,HappyTumcialDay2021,56.801
+19:09,2,ทัมเชียล30ยังแจ๋ว,53.494
+19:09,3,BBB21,57.327
+19:09,4,Senato,32.473
+19:09,5,星野源ANN,14.762
+19:09,6,Namjoon,870.164
+19:09,7,MuhammetEşkin AysunKozal,
+19:09,8,Mac Miller,154.942
+19:09,9,Pompeo,57.613
+19:09,10,Multiculturalism,40.086
+19:39,1,HappyTumcialDay2021,68.510
+19:39,2,BBB21,62.954
+19:39,3,edho,
+19:39,4,Senato,36.289
+19:39,5,ทัมเชียล30ยังแจ๋ว,63.339
+19:39,6,Abdülkadir Ömür,
+19:39,7,MuhammetEşkin AysunKozal,
+19:39,8,FNCS,17.527
+19:39,9,Pompeo,65.857
+19:39,10,namjoon,873.115
+20:09,1,BBB21,69.387
+20:09,2,YanındayızÖMÜR,
+20:09,3,Senato,40.344
+20:09,4,HappyTumcialDay2021,73.145
+20:09,5,edho,
+20:09,6,FNCS,24.810
+20:09,7,Abdülkadir Ömür,
+20:09,8,Swarm,
+20:09,9,Dolly,53.418
+20:09,10,Pompeo,71.738
+20:39,1,BBB21,79.693
+20:39,2,MasumlarApartmanı,
+20:39,3,YanındayızÖMÜR,
+20:39,4,edho,
+20:39,5,Senato,43.967
+20:39,6,BILLIE,48.561
+20:39,7,nate,24.896
+20:39,8,FNCS,29.320
+20:39,9,Abdülkadir Ömür,
+20:39,10,Dolly,57.938
+21:09,1,BBB21,173.519
+21:09,2,Karol,103.055
+21:09,3,Carla Diaz,21.046
+21:09,4,RedeBBB,24.745
+21:09,5,WeGotThat_BOOM100M,31.540
+21:09,6,Senato,52.109
+21:09,7,MasumlarApartmanı,
+21:09,8,nate,27.608
+21:09,9,BILLIE,65.129
+21:09,10,LO VAS A OLVIDAR,41.572
+21:39,1,BBB21,268.612
+21:39,2,Camilla,61.424
+21:39,3,Karol,131.438
+21:39,4,Carla Diaz,51.770
+21:39,5,RedeBBB,41.905
+21:39,6,LEICHE,26.197
+21:39,7,Caio,43.138
+21:39,8,Chelsea,106.058
+21:39,9,MasumlarApartmanı,11.494
+21:39,10,AslanGibiSponsor,20.883
+22:09,1,BBB21,326.493
+22:09,2,Camilla,82.393
+22:09,3,Karol,145.208
+22:09,4,Carla Diaz,62.197
+22:09,5,LEICHE,37.754
+22:09,6,Chelsea,132.128
+22:09,7,Lampard,44.030
+22:09,8,RedeBBB,53.191
+22:09,9,Senato,69.351
+22:09,10,AslanGibiSponsor,30.435
+22:39,1,BBB21,424.412
+22:39,2,Camilla,94.835
+22:39,3,Karol,157.186
+22:39,4,Chelsea,163.239
+22:39,5,Pocah,143.326
+22:39,6,Lampard,65.116
+22:39,7,LEICHE,47.512
+22:39,8,Carla Diaz,69.107
+22:39,9,Senato,83.404
+22:39,10,RedeBBB,73.665
+23:09,1,BBB21,484.945
+23:09,2,Camilla,100.947
+23:09,3,Chelsea,184.102
+23:09,4,Lampard,79.804
+23:09,5,Karol,163.323
+23:09,6,LEICHE,55.357
+23:09,7,Pocah,168.396
+23:09,8,Carla Diaz,73.442
+23:09,9,Senato,92.242
+23:09,10,Leicester,70.830
+23:39,1,BBB21,520.185
+23:39,2,Camilla,105.833
+23:39,3,Chelsea,218.146
+23:39,4,Lampard,105.091
+23:39,5,LEICHE,62.636
+23:39,6,Pocah,189.859
+23:39,7,Karol,168.517
+23:39,8,Carla Diaz,76.601
+23:39,9,Leicester,82.330
+23:39,10,Senato,96.345

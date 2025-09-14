@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Meta,411.077
+00:10,2,29Ekim,63.567
+00:10,3,SecretGala7,45.707
+00:10,4,yolanda,88.443
+00:10,5,XF2021,22.650
+00:10,6,Mark Zuckerberg,54.579
+00:10,7,ZEVENT2021,26.891
+00:10,8,gigi,67.906
+00:10,9,DragRaceUK,
+00:10,10,Levante,28.799
+00:41,1,Meta,433.916
+00:41,2,29Ekim,68.603
+00:41,3,SecretGala7,55.961
+00:41,4,yolanda,93.688
+00:41,5,ZEVENT2021,29.803
+00:41,6,bbcqt,
+00:41,7,Mark Zuckerberg,57.615
+00:41,8,gigi,72.707
+00:41,9,XF2021,22.993
+00:41,10,PETA,37.459
+01:10,1,Meta,449.181
+01:10,2,29Ekim,71.624
+01:10,3,SecretGala7,61.495
+01:10,4,VamosColoColoCTM,
+01:10,5,yolanda,97.345
+01:10,6,Mark Zuckerberg,59.543
+01:10,7,gigi,74.851
+01:10,8,ZEVENT2021,30.484
+01:10,9,bbcqt,
+01:10,10,Katie Porter,14.167
+01:41,1,Meta,469.353
+01:41,2,29Ekim,73.677
+01:41,3,SecretGala7,71.496
+01:41,4,おかえりモネ,64.671
+01:41,5,yolanda,100.946
+01:41,6,VamosColoColoCTM,
+01:41,7,Mark Zuckerberg,62.173
+01:41,8,gigi,78.769
+01:41,9,Katie Porter,16.529
+01:41,10,bbcqt,
+02:10,1,Meta,482.877
+02:10,2,29Ekim,74.810
+02:10,3,おかえりモネ,69.942
+02:10,4,SecretGala7,75.948
+02:10,5,yolanda,104.781
+02:10,6,gigi,81.755
+02:10,7,VamosColoColoCTM,
+02:10,8,Mark Zuckerberg,63.753
+02:10,9,manifoldspace,
+02:10,10,Katie Porter,18.335
+02:41,1,Meta,501.729
+02:41,2,gigi,92.919
+02:41,3,yolanda,112.160
+02:41,4,zigi,
+02:41,5,29Ekim,75.649
+02:41,6,GoPackGo,14.594
+02:41,7,おかえりモネ,75.163
+02:41,8,MissVenezuela2021,
+02:41,9,Packers,41.602
+02:41,10,SecretGala7,78.083
+03:10,1,gigi,101.699
+03:10,2,Meta,512.807
+03:10,3,yolanda,118.069
+03:10,4,zigi,
+03:10,5,MissVenezuela2021,
+03:10,6,Packers,43.922
+03:10,7,gabi brandt,
+03:10,8,GoPackGo,15.534
+03:10,9,Cardinals,33.077
+03:10,10,GBvsAZ,11.221
+03:41,1,gigi,112.222
+03:41,2,Meta,532.558
+03:41,3,Packers,53.375
+03:41,4,GoPackGo,19.386
+03:41,5,yolanda,124.141
+03:41,6,zigi,11.509
+03:41,7,GBvsAZ,14.447
+03:41,8,Aaron Jones,
+03:41,9,MissVenezuela2021,10.639
+03:41,10,gabi brandt,
+04:10,1,gigi,119.931
+04:10,2,Packers,58.212
+04:10,3,Meta,544.181
+04:10,4,GoPackGo,20.966
+04:10,5,GBvsAZ,15.821
+04:10,6,yolanda,129.856
+04:10,7,zigi,13.090
+04:10,8,MissVenezuela2021,12.996
+04:10,9,gabi brandt,
+04:10,10,Aaron Jones,
+04:41,1,Knicks,37.505
+04:41,2,gigi,129.401
+04:41,3,Packers,65.825
+04:41,4,Randle,
+04:41,5,Cruzeiro,30.458
+04:41,6,GBvsAZ,19.441
+04:41,7,EliminaçãoAFazenda,17.810
+04:41,8,Meta,561.284
+04:41,9,TheVoiceBrasil,
+04:41,10,MeaCulpaElRegresoEnTVN,
+05:10,1,EliminaçãoAFazenda,46.601
+05:10,2,Knicks,42.422
+05:10,3,Packers,72.283
+05:10,4,gigi,135.749
+05:10,5,Cruzeiro,33.665
+05:10,6,Bulls,62.168
+05:10,7,MeaCulpaElRegresoEnTVN,
+05:10,8,Randle,
+05:10,9,GBvsAZ,22.489
+05:10,10,GoPackGo,28.053
+05:41,1,Packers,106.554
+05:41,2,AJ Green,16.944
+05:41,3,EliminaçãoAFazenda,99.705
+05:41,4,GoPackGo,46.116
+05:41,5,Tati,81.721
+05:41,6,Aaron Rodgers,18.133
+05:41,7,Kyler,20.807
+05:41,8,Knicks,44.369
+05:41,9,gigi,143.944
+05:41,10,Green Bay,16.277
+06:10,1,AJ Green,29.845
+06:10,2,Packers,131.787
+06:10,3,GoPackGo,59.078
+06:10,4,EliminaçãoAFazenda,107.092
+06:10,5,Tati,83.615
+06:10,6,Aaron Rodgers,21.652
+06:10,7,Kyler,27.290
+06:10,8,Green Bay,19.352
+06:10,9,gigi,148.993
+06:10,10,GBvsARI,
+06:41,1,AJ Green,32.547
+06:41,2,Packers,142.190
+06:41,3,GoPackGo,64.339
+06:41,4,EliminaçãoAFazenda,110.692
+06:41,5,Tati,85.796
+06:41,6,América,423.529
+06:41,7,Aaron Rodgers,23.521
+06:41,8,Kyler,29.407
+06:41,9,Rayados,57.245
+06:41,10,Monterrey,29.830
+07:10,1,AJ Green,33.802
+07:10,2,Packers,146.725
+07:10,3,GoPackGo,66.304
+07:10,4,EliminaçãoAFazenda,112.235
+07:10,5,América,425.083
+07:10,6,Aaron Rodgers,24.322
+07:10,7,Tati,85.010
+07:10,8,Rayados,65.484
+07:10,9,Monterrey,31.795
+07:10,10,Solari,11.674
+07:41,1,AJ Green,34.658
+07:41,2,Packers,149.952
+07:41,3,GoPackGo,67.528
+07:41,4,EliminaçãoAFazenda,113.253
+07:41,5,ActressJISOOinterview,47.814
+07:41,6,América,432.447
+07:41,7,Yung Miami,12.060
+07:41,8,Rayados,71.842
+07:41,9,Monterrey,33.821
+07:41,10,Aaron Rodgers,25.017
+08:10,1,AJ Green,35.244
+08:10,2,Packers,151.678
+08:10,3,29Ekim,98.308
+08:10,4,GoPackGo,68.272
+08:10,5,EliminaçãoAFazenda,113.854
+08:10,6,ActressJISOOinterview,76.926
+08:10,7,Cardinals,66.626
+08:10,8,Yung Miami,13.888
+08:10,9,América,430.919
+08:10,10,Rayados,75.697
+08:41,1,29Ekim,109.821
+08:41,2,AJ Green,35.732
+08:41,3,Packers,153.261
+08:41,4,ActressJISOOinterview,94.357
+08:41,5,GoPackGo,69.039
+08:41,6,EliminaçãoAFazenda,114.208
+08:41,7,超熱いぜプロスピ,19.914
+08:41,8,Yung Miami,15.013
+08:41,9,Cardinals,67.138
+08:41,10,América,435.443
+09:10,1,29Ekim,122.044
+09:10,2,AJ Green,36.016
+09:10,3,ActressJISOOinterview,103.925
+09:10,4,超熱いぜプロスピ,21.338
+09:10,5,Packers,153.978
+09:10,6,GoPackGo,69.300
+09:10,7,Yung Miami,15.895
+09:10,8,Tu Yaheen Hai Sidharth,113.498
+09:10,9,新庄監督,54.280
+09:10,10,EliminaçãoAFazenda,114.496
+09:41,1,29Ekim,136.313
+09:41,2,超熱いぜプロスピ,22.404
+09:41,3,ActressJISOOinterview,114.288
+09:41,4,Tu Yaheen Hai Sidharth,133.003
+09:41,5,AJ Green,36.284
+09:41,6,Packers,154.801
+09:41,7,SB19GroupTeaser,31.594
+09:41,8,Mustafa Kemal Atatürk,138.895
+09:41,9,SB19Bazinga GroupPhoto,24.480
+09:41,10,新庄監督,58.803
+10:10,1,29Ekim,148.819
+10:10,2,PuneethRajkumar,
+10:10,3,超熱いぜプロスピ,22.957
+10:10,4,ActressJISOOinterview,122.159
+10:10,5,Tu Yaheen Hai Sidharth,140.183
+10:10,6,Mustafa Kemal Atatürk,144.165
+10:10,7,PaiPai_巴尔曼Shanghai,116.096
+10:10,8,PATRICK VISITS BALMAIN,120.957
+10:10,9,HOONLLOWEEN WITH MC SUNGHOON,55.098
+10:10,10,SB19Bazinga GroupPhoto,28.664
+10:41,1,29Ekim,164.518
+10:41,2,PuneethRajkumar,22.377
+10:41,3,超熱いぜプロスピ,23.944
+10:41,4,Mustafa Kemal Atatürk,152.949
+10:41,5,성훈왕박엠씨,63.029
+10:41,6,ActressJISOOinterview,127.579
+10:41,7,HOONLLOWEEN WITH MC SUNGHOON,63.173
+10:41,8,Tu Yaheen Hai Sidharth,151.612
+10:41,9,JISOO AT DISNEY PLUS,128.169
+10:41,10,PATRICK VISITS BALMAIN,213.938
+11:10,1,PuneethRajkumar,55.464
+11:10,2,29Ekim,177.243
+11:10,3,BeDeep_WENDYxSONTJ,12.076
+11:10,4,BE DEEP OUT NOW,12.409
+11:10,5,超熱いぜプロスピ,24.421
+11:10,6,Mustafa Kemal Atatürk,156.732
+11:10,7,少クラ,
+11:10,8,SB19Bazinga GroupPhoto,39.387
+11:10,9,Tu Yaheen Hai Sidharth,155.573
+11:10,10,HOONLLOWEEN WITH MC SUNGHOON,67.940
+11:41,1,PuneethRajkumar,112.654
+11:41,2,29Ekim,190.406
+11:41,3,RockWithYou2ndWin,67.149
+11:41,4,少クラ,18.125
+11:41,5,AKMyeniden,
+11:41,6,BE DEEP OUT NOW,18.427
+11:41,7,Mustafa Kemal Atatürk,164.155
+11:41,8,Om Shanti,14.271
+11:41,9,SB19Bazinga GroupPhoto,44.027
+11:41,10,太陽フレア,31.714
+12:10,1,PuneethRajkumar,155.835
+12:10,2,29Ekim,200.386
+12:10,3,RockWithYou2ndWin,109.432
+12:10,4,少クラ,32.303
+12:10,5,AKMyeniden,
+12:10,6,somi,59.067
+12:10,7,BE DEEP OUT NOW,20.986
+12:10,8,Om Shanti,19.694
+12:10,9,太陽フレア,34.546
+12:10,10,SB19Bazinga GroupPhoto,49.454
+12:41,1,PuneethRajkumar,191.243
+12:41,2,29Ekim,210.763
+12:41,3,RockWithYou2ndWin,127.866
+12:41,4,少クラ,35.205
+12:41,5,somi,66.850
+12:41,6,AKMyeniden,
+12:41,7,Om Shanti,24.808
+12:41,8,SB19Bazinga GroupPhoto,57.410
+12:41,9,BE DEEP OUT NOW,22.443
+12:41,10,ヴァイオレットエヴァーガーデン,20.835
+13:10,1,PuneethRajkumar,219.175
+13:10,2,29Ekim,219.060
+13:10,3,SB19BazingaMVOutNow,42.217
+13:10,4,RockWithYou2ndWin,136.650
+13:10,5,少クラ,37.226
+13:10,6,somi,71.202
+13:10,7,ヴァイオレットエヴァーガーデン,23.480
+13:10,8,Om Shanti,29.126
+13:10,9,私の集結コード,
+13:10,10,最大1500限定金券,
+13:41,1,SB19BazingaMVOutNow,128.631
+13:41,2,PuneethRajkumar,244.791
+13:41,3,29Ekim,227.212
+13:41,4,RockWithYou2ndWin,143.511
+13:41,5,少クラ,38.893
+13:41,6,ヴァイオレットエヴァーガーデン,27.625
+13:41,7,somi,76.144
+13:41,8,LazLive Banjir Hadiah,
+13:41,9,Om Shanti,39.010
+13:41,10,私の集結コード,
+14:10,1,ヴァイオレット・エヴァーガーデン,83.677
+14:10,2,SB19BazingaMVOutNow,182.430
+14:10,3,PuneethRajkumar,267.932
+14:10,4,29Ekim,232.798
+14:10,5,RockWithYou2ndWin,148.392
+14:10,6,somi,76.416
+14:10,7,LazLive Banjir Hadiah,
+14:10,8,Om Shanti,45.322
+14:10,9,私の集結コード,
+14:10,10,最大1500限定金券,
+14:41,1,ヴァイオレット・エヴァーガーデン,130.332
+14:41,2,SB19BazingaMVOutNow,221.097
+14:41,3,PuneethRajkumar,289.366
+14:41,4,29Ekim,237.794
+14:41,5,rockwithyou2ndwin,152.179
+14:41,6,somi,80.594
+14:41,7,LazLive Banjir Hadiah,
+14:41,8,ハロウィン,853.238
+14:41,9,Om Shanti,50.622
+14:41,10,私の集結コード,
+15:10,1,ヴァイオレット・エヴァーガーデン,172.883
+15:10,2,SB19BazingaMVOutNow,250.917
+15:10,3,PuneethRajkumar,308.148
+15:10,4,TaniHubAdaUntukMu,13.298
+15:10,5,KonserTaniversary,13.189
+15:10,6,somi,82.565
+15:10,7,LazLive Banjir Hadiah,10.217
+15:10,8,ハロウィン,834.166
+15:10,9,リドルくん,
+15:10,10,Happy Halloween,172.141
+15:41,1,ヴァイオレット・エヴァーガーデン,233.488
+15:41,2,SB19BazingaMVOutNow,277.467
+15:41,3,PuneethRajkumar,328.830
+15:41,4,SB19BAZINGA MVRelease,235.483
+15:41,5,SKZTheFirstTake_MixtapeOH,24.577
+15:41,6,MixtapeOHOnTheFirstTake,23.745
+15:41,7,SKZ 2ND THE FIRST TAKE,23.938
+15:41,8,ハロウィン,875.149
+15:41,9,somi,86.251
+15:41,10,Happy Halloween,181.244
+16:10,1,ヴァイオレット・エヴァーガーデン,329.470
+16:10,2,金曜ロードショー,152.112
+16:10,3,PakvsAfg,19.594
+16:10,4,BadBuddySeriesEP1,43.812
+16:10,5,SB19BazingaMVOutNow,299.404
+16:10,6,SB19BAZINGA MVRelease,254.432
+16:10,7,涙腺崩壊,11.531
+16:10,8,SKZ 2ND THE FIRST TAKE,27.085
+16:10,9,ネトフリ,13.570
+16:10,10,Happy Halloween,182.684
+16:41,1,ヴァイオレット・エヴァーガーデン,364.947
+16:41,2,Coutinho,16.442
+16:41,3,OneDaywithJOOHONEY,46.908
+16:41,4,PakvsAfg,30.323
+16:41,5,BadBuddySeriesEP1,63.484
+16:41,6,金曜ロードショー,171.035
+16:41,7,Vini Jr,
+16:41,8,涙腺崩壊,14.533
+16:41,9,ネトフリ,16.905
+16:41,10,SB19BAZINGA MVRelease,274.814
+17:10,1,ヴァイオレット・エヴァーガーデン,377.699
+17:10,2,Coutinho,23.507
+17:10,3,PakvsAfg,38.266
+17:10,4,OneDaywithJOOHONEY,49.795
+17:10,5,OneDaywithHYUNGWON,50.613
+17:10,6,BadBuddySeriesEP1,81.403
+17:10,7,Vini Jr,
+17:10,8,Happy Halloween,194.751
+17:10,9,涙腺崩壊,15.292
+17:10,10,ONE YEAR WITH GISELLE,35.328
+17:41,1,Coutinho,28.538
+17:41,2,PakvsAfg,47.453
+17:41,3,ヴァイオレット・エヴァーガーデン,384.984
+17:41,4,riyadh_expo2030,10.030
+17:41,5,OneDaywithJOOHONEY,49.875
+17:41,6,에브리바디_룩앳미_지젤_생일이잖니,64.216
+17:41,7,Vini Jr,
+17:41,8,Happy Halloween,203.315
+17:41,9,yeri,32.442
+17:41,10,HAPPY 11 MONTHS,59.551
+18:10,1,PakvsAfg,57.126
+18:10,2,Coutinho,31.999
+18:10,3,riyadh_expo2030,16.759
+18:10,4,ヴァイオレット・エヴァーガーデン,389.367
+18:10,5,에브리바디_룩앳미_지젤_생일이잖니,72.298
+18:10,6,ToTheMoonWithGiselle,74.056
+18:10,7,Vini Jr,
+18:10,8,Happy Halloween,206.516
+18:10,9,Hassan Ali,
+18:10,10,yeri,35.177
+18:41,1,PakvsAfg,63.318
+18:41,2,Coutinho,35.154
+18:41,3,riyadh_expo2030,19.665
+18:41,4,ヴァイオレット・エヴァーガーデン,392.317
+18:41,5,ToTheMoonWithGiselle,78.311
+18:41,6,에브리바디_룩앳미_지젤_생일이잖니,76.323
+18:41,7,Happy Halloween,215.538
+18:41,8,Vini Jr,10.574
+18:41,9,Hassan Ali,
+18:41,10,yeri,38.082
+19:10,1,CashAppTreats,
+19:10,2,PakvsAfg,71.176
+19:10,3,Coutinho,37.249
+19:10,4,الهلال_الاهلي,69.096
+19:10,5,riyadh_expo2030,21.581
+19:10,6,freecodefridaycontest,
+19:10,7,سالم,22.464
+19:10,8,Happy Halloween,219.306
+19:10,9,Vini Jr,11.330
+19:10,10,Pope,79.037
+19:41,1,PakvsAfg,105.582
+19:41,2,Asif Ali,29.005
+19:41,3,CashAppTreats,18.133
+19:41,4,freecodefridaycontest,
+19:41,5,الهلال_الاهلي,87.188
+19:41,6,Coutinho,39.060
+19:41,7,Halloween,2.030.974
+19:41,8,سالم,26.195
+19:41,9,riyadh_expo2030,22.637
+19:41,10,Rashid Khan,
+20:10,1,PakvsAfg,152.171
+20:10,2,Asif Ali,91.908
+20:10,3,CashAppTreats,21.967
+20:10,4,freecodefridaycontest,
+20:10,5,الهلال_الاهلي,105.951
+20:10,6,Halloween,1.986.747
+20:10,7,ZEVENT2021,64.667
+20:10,8,Coutinho,40.203
+20:10,9,Congratulations Pakistan,22.242
+20:10,10,سالم,30.348
+20:41,1,PakvsAfg,178.019
+20:41,2,Asif Ali,124.599
+20:41,3,الهلال_الاهلي,124.286
+20:41,4,CashAppTreats,24.847
+20:41,5,freecodefridaycontest,
+20:41,6,Halloween,2.043.927
+20:41,7,ZEVENT2021,72.837
+20:41,8,Coutinho,41.557
+20:41,9,Congratulations Pakistan,30.689
+20:41,10,سالم,32.471
+21:10,1,PakvsAfg,191.510
+21:10,2,Asif Ali,143.802
+21:10,3,الهلال_الاهلي,132.549
+21:10,4,CashAppTreats,27.092
+21:10,5,freecodefridaycontest,
+21:10,6,Halloween,2.095.029
+21:10,7,ZEVENT2021,73.763
+21:10,8,Coutinho,42.462
+21:10,9,Congratulations Pakistan,35.195
+21:10,10,سالم,34.119
+21:41,1,PakvsAfg,202.274
+21:41,2,Asif Ali,157.121
+21:41,3,الهلال_الاهلي,141.195
+21:41,4,CashAppTreats,29.043
+21:41,5,freecodefridaycontest,
+21:41,6,Halloween,2.100.792
+21:41,7,طرد_سفير_لبنان_من_السعوديه,29.042
+21:41,8,Coutinho,43.528
+21:41,9,Congratulations Pakistan,38.343
+21:41,10,Lille,25.335
+22:10,1,PakvsAfg,208.928
+22:10,2,Asif Ali,165.612
+22:10,3,الهلال_الاهلي,150.258
+22:10,4,PSGLOSC,20.113
+22:10,5,CashAppTreats,30.595
+22:10,6,Halloween,1.843.747
+22:10,7,FreeCodeFridayContest,
+22:10,8,Messi,130.982
+22:10,9,Pochettino,14.076
+22:10,10,Lille,28.480
+22:41,1,PSGLOSC,25.592
+22:41,2,PakvsAfg,213.643
+22:41,3,Asif Ali,171.480
+22:41,4,Halloween,1.657.623
+22:41,5,TeamSeas,22.048
+22:41,6,الهلال_الاهلي,156.285
+22:41,7,CashAppTreats,31.761
+22:41,8,Pochettino,18.410
+22:41,9,Messi,155.117
+22:41,10,Lille,33.286
+23:10,1,PSGLOSC,33.076
+23:10,2,Di Maria,19.913
+23:10,3,TeamSeas,28.828
+23:10,4,Halloween,1.332.887
+23:10,5,PakvsAfg,216.852
+23:10,6,DALS,10.895
+23:10,7,Asif Ali,175.475
+23:10,8,taleequaleshow,12.411
+23:10,9,Pochettino,21.859
+23:10,10,Neymar,52.633
+23:41,1,PSGLOSC,34.935
+23:41,2,Halloween,1.423.713
+23:41,3,TeamSeas,34.054
+23:41,4,Di Maria,22.856
+23:41,5,taleequaleshow,15.154
+23:41,6,DALS,12.591
+23:41,7,FreeCodeFridayContest,
+23:41,8,Asif Ali,178.216
+23:41,9,Pochettino,23.458
+23:41,10,Neymar,56.300

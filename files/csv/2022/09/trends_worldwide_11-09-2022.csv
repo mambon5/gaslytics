@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Notre Dame,42.466
+00:10,2,Marshall,44.847
+00:10,3,Bama,111.495
+00:10,4,Djavan,
+00:10,5,Bryce Young,26.946
+00:10,6,Marcus Freeman,
+00:10,7,Bucky,29.891
+00:10,8,Yelena,28.288
+00:10,9,Lorenzo Brown,
+00:10,10,Assassin's Creed,53.914
+00:40,1,Notre Dame,49.777
+00:40,2,Marshall,50.239
+00:40,3,Bama,113.193
+00:40,4,Texas,327.896
+00:40,5,Maria Rita,
+00:40,6,Djavan,10.198
+00:40,7,App State,10.051
+00:40,8,Marcus Freeman,
+00:40,9,Bucky,31.088
+00:40,10,Bryce Young,27.298
+01:10,1,Notre Dame,56.049
+01:10,2,App State,23.601
+01:10,3,Marshall,54.431
+01:10,4,Texas,337.535
+01:10,5,Maria Rita,
+01:10,6,Bama,114.692
+01:10,7,Jimbo,
+01:10,8,Djavan,10.479
+01:10,9,Appalachian State,
+01:10,10,Iowa,29.303
+01:40,1,Notre Dame,61.073
+01:40,2,App State,29.833
+01:40,3,Marshall,58.919
+01:40,4,Texas A&M,32.562
+01:40,5,Maria Rita,
+01:40,6,Bama,116.261
+01:40,7,Iowa,34.631
+01:40,8,Jimbo,12.618
+01:40,9,precure,16.247
+01:40,10,Appalachian State,
+02:10,1,Notre Dame,63.805
+02:10,2,App State,32.603
+02:10,3,PERCY JACKSON,37.969
+02:10,4,Marshall,60.429
+02:10,5,Texas A&M,36.867
+02:10,6,Maria Rita,
+02:10,7,precure,38.685
+02:10,8,BastilleNoMultishow,
+02:10,9,Iowa,35.603
+02:10,10,Jimbo,14.315
+02:40,1,PERCY JACKSON,54.038
+02:40,2,仮面ライダーギーツ,37.515
+02:40,3,UFC279,113.278
+02:40,4,Chris Barnett,
+02:40,5,App State,35.266
+02:40,6,Notre Dame,66.200
+02:40,7,Marshall,62.597
+02:40,8,Texas A&M,39.985
+02:40,9,Maria Rita,
+02:40,10,precure,41.465
+03:10,1,PERCY JACKSON,65.672
+03:10,2,仮面ライダーギーツ,42.267
+03:10,3,UFC279,127.144
+03:10,4,App State,39.264
+03:10,5,Chris Barnett,
+03:10,6,Notre Dame,67.623
+03:10,7,ドンブラザーズ,33.982
+03:10,8,Marshall,63.278
+03:10,9,Texas A&M,42.691
+03:10,10,シューイチ,14.603
+03:40,1,Percy Jackson,75.464
+03:40,2,Camila,160.514
+03:40,3,UFC279,147.601
+03:40,4,仮面ライダーギーツ,45.980
+03:40,5,App State,42.191
+03:40,6,Chris Barnett,
+03:40,7,Notre Dame,69.145
+03:40,8,ドンブラザーズ,39.583
+03:40,9,Juventude,
+03:40,10,シューイチ,16.332
+04:10,1,Camila,192.011
+04:10,2,Percy Jackson,82.892
+04:10,3,UFC279,166.877
+04:10,4,仮面ライダーギーツ,48.117
+04:10,5,App State,44.033
+04:10,6,ドンブラザーズ,41.799
+04:10,7,Chris Barnett,10.335
+04:10,8,Notre Dame,70.202
+04:10,9,Juventude,
+04:10,10,Kentucky,32.480
+04:40,1,Camila,243.426
+04:40,2,UFC279,201.793
+04:40,3,Percy Jackson,89.152
+04:40,4,Kentucky,39.944
+04:40,5,Johnny Walker,
+04:40,6,仮面ライダーギーツ,50.177
+04:40,7,Anthony Richardson,
+04:40,8,Coldplay,85.554
+04:40,9,App State,45.507
+04:40,10,Chris Barnett,10.686
+05:10,1,Camila,286.826
+05:10,2,UFC279,227.298
+05:10,3,Percy Jackson,94.238
+05:10,4,Kentucky,44.127
+05:10,5,Aldana,10.203
+05:10,6,Johnny Walker,
+05:10,7,Anthony Richardson,
+05:10,8,仮面ライダーギーツ,51.652
+05:10,9,KrishnamRaju,15.872
+05:10,10,App State,46.824
+05:40,1,ColdplayNoMultishow,30.013
+05:40,2,coldplay,152.891
+05:40,3,UFC279,264.752
+05:40,4,Scott Frost,
+05:40,5,Nebraska,26.915
+05:40,6,Chris Martin,
+05:40,7,Percy Jackson,98.489
+05:40,8,Temblor,
+05:40,9,Kentucky,46.536
+05:40,10,ユキノビジン,17.001
+06:10,1,coldplay,239.615
+06:10,2,UFC279,330.696
+06:10,3,Chris Martin,24.465
+06:10,4,Scott Frost,10.437
+06:10,5,Khamzat,66.568
+06:10,6,Nebraska,32.308
+06:10,7,The Scientist,35.599
+06:10,8,Holland,55.168
+06:10,9,Viva La Vida,22.383
+06:10,10,Temblor,
+06:40,1,coldplay,348.471
+06:40,2,UFC279,400.393
+06:40,3,Chris Martin,49.817
+06:40,4,Nate Diaz,174.783
+06:40,5,Khamzat,74.598
+06:40,6,Scott Frost,11.135
+06:40,7,Nebraska,34.625
+06:40,8,The Scientist,40.205
+06:40,9,dreamspace,
+06:40,10,KinnPorscheSendOff,135.869
+07:10,1,coldplay,469.234
+07:10,2,UFC279,421.220
+07:10,3,Chris Martin,74.152
+07:10,4,RockInRio,258.090
+07:10,5,Nate Diaz,179.265
+07:10,6,dreamspace,13.184
+07:10,7,HAVE A SAFE FLIGHT JIN,52.139
+07:10,8,Diaz,341.043
+07:10,9,Fix You,62.420
+07:10,10,Khamzat,79.562
+07:40,1,Coldplay,523.185
+07:40,2,UFC279,432.575
+07:40,3,Chris Martin,84.294
+07:40,4,RockInRio,271.796
+07:40,5,Nate Diaz,184.179
+07:40,6,HAVE A SAFE FLIGHT JIN,77.287
+07:40,7,dreamspace,18.637
+07:40,8,Diaz,347.419
+07:40,9,Fix You,68.578
+07:40,10,KinnPorscheSendOff,183.256
+08:10,1,Coldplay,
+08:10,2,UFC279,436.359
+08:10,3,Chris Martin,87.859
+08:10,4,RockInRio,275.701
+08:10,5,HAVE A SAFE FLIGHT JIN,91.585
+08:10,6,Nate Diaz,185.284
+08:10,7,dreamspace,20.112
+08:10,8,被害妄想の酷さ,
+08:10,9,後悔の多さ,
+08:10,10,あなたのネガティブ思考レベル診断,
+08:40,1,Coldplay,547.909
+08:40,2,UFC279,435.164
+08:40,3,メイケイエール,33.071
+08:40,4,Chris Martin,89.492
+08:40,5,HAVE A SAFE FLIGHT JIN,101.196
+08:40,6,Nate Diaz,185.315
+08:40,7,Baylor,16.736
+08:40,8,dreamspace,20.312
+08:40,9,KinnPorscheSendOff,242.937
+08:40,10,被害妄想の酷さ,
+09:10,1,Coldplay,552.946
+09:10,2,メイケイエール,60.293
+09:10,3,UFC279,434.926
+09:10,4,Chris Martin,90.393
+09:10,5,虹5th_day2,17.138
+09:10,6,GiffarineXMileApo3Zaaap,212.951
+09:10,7,HAVE A SAFE FLIGHT JIN,108.854
+09:10,8,ソングライン,20.062
+09:10,9,KinnPorscheSendOff,291.938
+09:10,10,被害妄想の酷さ,
+09:40,1,Coldplay,556.861
+09:40,2,メイケイエール,69.857
+09:40,3,UFC279,437.165
+09:40,4,虹5th_day2,25.107
+09:40,5,GiffarineXMileApo3Zaaap,320.755
+09:40,6,KinnPorscheSendOff,339.523
+09:40,7,被害妄想の酷さ,
+09:40,8,あなたのネガティブ思考レベル診断,
+09:40,9,後悔の多さ,
+09:40,10,ネガティブ人間,
+10:10,1,Coldplay,559.881
+10:10,2,メイケイエール,75.221
+10:10,3,虹5th_day2,36.946
+10:10,4,GiffarineXMileApo3Zaaap,400.284
+10:10,5,NRLRoostersSouths,
+10:10,6,KinnPorscheSendOff,372.642
+10:10,7,あなたのネガティブ思考レベル診断,
+10:10,8,被害妄想の酷さ,
+10:10,9,後悔の多さ,
+10:10,10,ネガティブ人間,
+10:40,1,メイケイエール,79.961
+10:40,2,Coldplay,
+10:40,3,あなたのネガティブ思考レベル診断,
+10:40,4,被害妄想の酷さ,
+10:40,5,後悔の多さ,
+10:40,6,れおほー,
+10:40,7,ネガティブ人間,
+10:40,8,KinnPorscheSendOff,409.731
+10:40,9,虹5th_day2,45.735
+10:40,10,NRLRoostersSouths,
+11:10,1,すわほー,
+11:10,2,メイケイエール,83.085
+11:10,3,Coldplay,564.592
+11:10,4,虹5th_day2,57.136
+11:10,5,予定数終了,10.014
+11:10,6,たかほー,
+11:10,7,あなたのネガティブ思考レベル診断,
+11:10,8,後悔の多さ,
+11:10,9,被害妄想の酷さ,
+11:10,10,SHEHNAAZ BOLLYWOOD DEBUT,188.650
+11:40,1,すわほー,
+11:40,2,メイケイエール,86.161
+11:40,3,予定数終了,11.427
+11:40,4,SHEHNAAZ BOLLYWOOD DEBUT,231.329
+11:40,5,あなたのネガティブ思考レベル診断,
+11:40,6,後悔の多さ,
+11:40,7,被害妄想の酷さ,
+11:40,8,ネガティブ人間,
+11:40,9,虹5th_day2,64.115
+11:40,10,US VLOG WITH DONNY,46.421
+12:10,1,Liella,22.743
+12:10,2,虹5th_day2,72.531
+12:10,3,US VLOG WITH DONNY,61.255
+12:10,4,すわほー,
+12:10,5,あなたのネガティブ思考レベル診断,
+12:10,6,予定数終了,12.667
+12:10,7,SHEHNAAZ BOLLYWOOD DEBUT,271.124
+12:10,8,後悔の多さ,
+12:10,9,被害妄想の酷さ,
+12:10,10,ネガティブ人間,
+12:40,1,Liella,41.004
+12:40,2,虹5th_day2,75.263
+12:40,3,lovelive,74.702
+12:40,4,US VLOG WITH DONNY,77.848
+12:40,5,BLEACH,71.382
+12:40,6,鉄腕DASH,
+12:40,7,予定数終了,14.176
+12:40,8,ラフアンドミュージック,138.475
+12:40,9,SHEHNAAZ BOLLYWOOD DEBUT,306.801
+12:40,10,被害妄想の酷さ,
+13:10,1,鎌倉殿の13人,28.177
+13:10,2,Liella,45.833
+13:10,3,BLEACH,89.220
+13:10,4,虹5th_day2,76.865
+13:10,5,あなたの本名を翻訳する,
+13:10,6,鉄腕DASH,
+13:10,7,US VLOG WITH DONNY,93.889
+13:10,8,予定数終了,15.220
+13:10,9,後悔の多さ,
+13:10,10,被害妄想の酷さ,
+13:40,1,鎌倉殿の13人,80.869
+13:40,2,BLEACH,105.616
+13:40,3,あなたの本名を翻訳する,
+13:40,4,Liella,48.625
+13:40,5,大竹しのぶ,
+13:40,6,ラフアンドミュージック,131.866
+13:40,7,沖縄県知事選,33.497
+13:40,8,PraewCharity2022,136.497
+13:40,9,予定数終了,16.685
+13:40,10,玉城デニー,48.471
+14:10,1,鎌倉殿の13人,131.342
+14:10,2,BLEACH,119.188
+14:10,3,ASKA,21.538
+14:10,4,ラフアンドミュージック,101.023
+14:10,5,あなたの本名を翻訳する,
+14:10,6,NeverForget,35.302
+14:10,7,PraewCharity2022,213.552
+14:10,8,太陽と埃の中,
+14:10,9,大竹しのぶ,10.054
+14:10,10,沖縄県知事選,36.962
+14:40,1,鎌倉殿の13人,148.872
+14:40,2,うら生,23.482
+14:40,3,BLEACH,132.252
+14:40,4,NeverForget,42.805
+14:40,5,ASKA,25.828
+14:40,6,ラフアンドミュージック,117.667
+14:40,7,あなたの本名を翻訳する,
+14:40,8,太陽と埃の中,
+14:40,9,沖縄県知事選,40.882
+14:40,10,大竹しのぶ,11.292
+15:10,1,Valverde,45.347
+15:10,2,鎌倉殿の13人,159.616
+15:10,3,NeverForget,54.743
+15:10,4,ラフアンドミュージック,126.941
+15:10,5,فالفيردي,
+15:10,6,ItalianGP,166.656
+15:10,7,BLEACH,142.600
+15:10,8,うら生,30.391
+15:10,9,Mallorca,41.762
+15:10,10,ASKA,26.377
+15:40,1,Valverde,48.924
+15:40,2,ItalianGP,197.102
+15:40,3,ラフアンドミュージック,171.184
+15:40,4,NeverForget,66.470
+15:40,5,鎌倉殿の13人,167.227
+15:40,6,Sainz,24.362
+15:40,7,初出演INI_歌と笑いの祭典,27.848
+15:40,8,Verstappen,31.846
+15:40,9,فالفيردي,
+15:40,10,BLEACH,152.124
+16:10,1,ItalianGP,201.207
+16:10,2,Rodrygo,37.459
+16:10,3,NeverForget,78.599
+16:10,4,Valverde,54.572
+16:10,5,AsiaCup2022Final,39.920
+16:10,6,ラフアンドミュージック,211.892
+16:10,7,Sainz,26.929
+16:10,8,鎌倉殿の13人,173.071
+16:10,9,Vini,35.298
+16:10,10,Mallorca,60.133
+16:40,1,ItalianGP,259.579
+16:40,2,MonzaGP,22.427
+16:40,3,AsiaCup2022Final,53.129
+16:40,4,NeverForget,90.531
+16:40,5,Ferrari,86.450
+16:40,6,Verstappen,58.836
+16:40,7,Rodrygo,44.807
+16:40,8,Safety Car,40.928
+16:40,9,Valverde,60.399
+16:40,10,ラフアンドミュージック,229.359
+17:10,1,ItalianGP,251.781
+17:10,2,HappyBirthdayNamjoon,107.704
+17:10,3,AsiaCup2022Final,67.584
+17:10,4,MonzaGP,23.189
+17:10,5,NeverForget,102.138
+17:10,6,Ferrari,82.656
+17:10,7,Verstappen,66.669
+17:10,8,Abu Dhabi,80.422
+17:10,9,Rodrygo,48.737
+17:10,10,Safety Car,50.308
+17:40,1,HappyBirthdayNamjoon,191.649
+17:40,2,ItalianGP,262.920
+17:40,3,RMyEntirety,175.560
+17:40,4,HappyRMDay,345.675
+17:40,5,OurEternalLeader,161.628
+17:40,6,Ferrari,85.977
+17:40,7,Verstappen,71.644
+17:40,8,Abu Dhabi,83.986
+17:40,9,Rodrygo,51.645
+17:40,10,Safety Car,55.926
+18:10,1,HappyBirthdayNamjoon,237.936
+18:10,2,AsiaCup2022Final,96.103
+18:10,3,RMyEntirety,197.505
+18:10,4,HappyRMDay,399.064
+18:10,5,ItalianGP,256.230
+18:10,6,Ferrari,84.800
+18:10,7,Verstappen,73.249
+18:10,8,Javier Marías,15.510
+18:10,9,Abu Dhabi,72.784
+18:10,10,Rodrygo,54.191
+18:40,1,HappyBirthdayNamjoon,269.684
+18:40,2,AsiaCup2022Final,112.762
+18:40,3,RMyEntirety,211.625
+18:40,4,HappyRMDay,435.813
+18:40,5,PAKvsSL,60.182
+18:40,6,Babar,40.012
+18:40,7,Javier Marías,18.798
+18:40,8,Ferrari,87.013
+18:40,9,Verstappen,75.506
+18:40,10,Abu Dhabi,74.769
+19:10,1,HappyBirthdayNamjoon,293.909
+19:10,2,AsiaCup2022Final,122.693
+19:10,3,PAKvsSL,67.848
+19:10,4,RMyEntirety,220.691
+19:10,5,HappyRMDay,461.967
+19:10,6,Babar,43.487
+19:10,7,Javier Marías,21.493
+19:10,8,Rizwan,27.564
+19:10,9,Browns,36.238
+19:10,10,Abu Dhabi,67.681
+19:40,1,HappyBirthdayNamjoon,313.612
+19:40,2,AsiaCup2022Final,144.778
+19:40,3,PAKvsSL,81.294
+19:40,4,RMyEntirety,226.940
+19:40,5,HappyRMDay,481.794
+19:40,6,Rizwan,42.097
+19:40,7,Steelers,66.798
+19:40,8,Taysom Hill,
+19:40,9,Bengals,36.478
+19:40,10,Sri Lanka,21.753
+20:10,1,AsiaCup2022Final,205.752
+20:10,2,HappyBirthdayNamjoon,326.667
+20:10,3,PAKvsSL,103.302
+20:10,4,Sri Lanka,92.668
+20:10,5,Steelers,85.705
+20:10,6,Joe Burrow,14.860
+20:10,7,Bengals,47.480
+20:10,8,HereWeGo,19.503
+20:10,9,Rizwan,56.001
+20:10,10,Baker,34.669
+20:40,1,AsiaCup2022Final,238.335
+20:40,2,HappyBirthdayNamjoon,340.202
+20:40,3,Sri Lanka,113.655
+20:40,4,SLvsPAK,31.791
+20:40,5,Steelers,96.570
+20:40,6,joe burrow,20.322
+20:40,7,Bengals,55.291
+20:40,8,Rizwan,67.812
+20:40,9,HereWeGo,21.018
+20:40,10,Baker,38.430
+21:10,1,AsiaCup2022Final,254.837
+21:10,2,HappyBirthdayNamjoon,352.072
+21:10,3,Sri Lanka,126.032
+21:10,4,Steelers,105.201
+21:10,5,SLvsPAK,36.523
+21:10,6,Bengals,60.134
+21:10,7,Joe Burrow,22.338
+21:10,8,Colts,42.776
+21:10,9,KASvGS,27.370
+21:10,10,Rizwan,73.426
+21:40,1,AsiaCup2022Final,264.560
+21:40,2,HappyBirthdayNamjoon,361.845
+21:40,3,Colts,49.794
+21:40,4,Steelers,114.906
+21:40,5,Sri Lanka,134.476
+21:40,6,Joe Burrow,25.973
+21:40,7,Yuri Alberto,
+21:40,8,SLvsPAK,39.549
+21:40,9,Bengals,63.877
+21:40,10,JuveSalernitana,13.312
+22:10,1,AsiaCup2022Final,269.592
+22:10,2,Steelers,129.847
+22:10,3,Bengals,76.035
+22:10,4,Falcons,49.076
+22:10,5,Bears,108.237
+22:10,6,HappyBirthdayNamjoon,370.679
+22:10,7,Colts,53.586
+22:10,8,Joe Burrow,29.283
+22:10,9,JuveSalernitana,17.495
+22:10,10,49ers,64.126
+22:40,1,Bengals,99.919
+22:40,2,Steelers,158.669
+22:40,3,Falcons,63.426
+22:40,4,AsiaCup2022Final,273.043
+22:40,5,Colts,60.388
+22:40,6,Bears,118.312
+22:40,7,Cade York,12.059
+22:40,8,Browns,95.553
+22:40,9,Saints,121.144
+22:40,10,HappyBirthdayNamjoon,379.571
+23:10,1,Bengals,113.517
+23:10,2,Steelers,193.919
+23:10,3,JuveSalernitana,28.965
+23:10,4,Falcons,66.641
+23:10,5,ComplementDenquete,28.655
+23:10,6,italvolley,18.532
+23:10,7,HereWeGo,38.197
+23:10,8,gangłysego,68.643
+23:10,9,Corinthians,85.896
+23:10,10,Colts,65.414
+23:40,1,Steelers,207.230
+23:40,2,Bengals,122.153
+23:40,3,ComplementDenquete,59.179
+23:40,4,italvolley,29.675
+23:40,5,JuveSalernitana,32.651
+23:40,6,Falcons,68.812
+23:40,7,gangłysego,79.505
+23:40,8,ItaliaPolonia,29.651
+23:40,9,Corinthians,92.454
+23:40,10,Colts,66.909

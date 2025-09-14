@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Savic,70.351
+00:10,2,Simeone,71.401
+00:10,3,Atletico,289.845
+00:10,4,ATMMCI,64.477
+00:10,5,Foden,52.621
+00:10,6,Guardiola,63.993
+00:10,7,Benfica,167.595
+00:10,8,Kershaw,48.221
+00:10,9,Grealish,38.398
+00:10,10,Dave Roberts,12.022
+00:40,1,Savic,75.495
+00:40,2,Simeone,77.636
+00:40,3,Atletico,298.689
+00:40,4,ATMMCI,63.888
+00:40,5,Guardiola,71.494
+00:40,6,Foden,55.409
+00:40,7,Benfica,170.561
+00:40,8,Kershaw,50.245
+00:40,9,Grealish,42.152
+00:40,10,Dave Roberts,12.512
+01:10,1,ZETAWIN,106.969
+01:10,2,Savic,78.837
+01:10,3,Simeone,82.004
+01:10,4,Atletico,303.115
+01:10,5,ATMMCI,63.361
+01:10,6,Guardiola,74.934
+01:10,7,Foden,57.069
+01:10,8,Cholo,30.519
+01:10,9,Benfica,171.247
+01:10,10,Kershaw,52.079
+01:40,1,ZETAWIN,125.349
+01:40,2,Savic,80.900
+01:40,3,Simeone,85.059
+01:40,4,Atletico,308.773
+01:40,5,ATMMCI,63.146
+01:40,6,Guardiola,78.784
+01:40,7,Foden,58.540
+01:40,8,VamosColoColo,
+01:40,9,Cholo,31.631
+01:40,10,ベスト8,11.997
+02:10,1,ZETAWIN,123.401
+02:10,2,Savic,82.422
+02:10,3,Simeone,87.007
+02:10,4,Atletico,309.160
+02:10,5,VamosColoColo,
+02:10,6,AEWDynamite,13.251
+02:10,7,Guardiola,80.697
+02:10,8,ATMMCI,62.632
+02:10,9,O PRIMEIRO LUGAR É SEU PA,71.996
+02:10,10,Foden,59.510
+02:40,1,ZETAWIN,127.864
+02:40,2,AEWDynamite,22.426
+02:40,3,Simeone,88.676
+02:40,4,Savic,83.587
+02:40,5,O PRIMEIRO LUGAR É SEU PA,94.478
+02:40,6,VamosColoColo,
+02:40,7,Atleti,122.187
+02:40,8,Guardiola,82.658
+02:40,9,Moskva,63.003
+02:40,10,Hornets,23.974
+03:10,1,AEWDynamite,34.363
+03:10,2,ZETAWIN,128.323
+03:10,3,Hornets,29.895
+03:10,4,O PRIMEIRO LUGAR É SEU PA,130.035
+03:10,5,Hawks,30.393
+03:10,6,ARTHUR AGUIAR NO YOUTUBE,140.457
+03:10,7,Survivor,21.385
+03:10,8,Moskva,73.883
+03:10,9,Simeone,89.874
+03:10,10,Savic,84.445
+03:40,1,AEWDynamite,45.251
+03:40,2,Hornets,36.357
+03:40,3,ZETAWIN,130.445
+03:40,4,Godin,
+03:40,5,Hawks,34.174
+03:40,6,Survivor,25.136
+03:40,7,Pantanal,30.615
+03:40,8,O PRIMEIRO LUGAR É SEU PA,158.702
+03:40,9,ARTHUR AGUIAR NO YOUTUBE,187.922
+03:40,10,MAFS,
+04:10,1,AEWDynamite,61.712
+04:10,2,Godin,10.229
+04:10,3,Hornets,40.048
+04:10,4,Survivor,28.452
+04:10,5,ZETAWIN,130.307
+04:10,6,River,159.786
+04:10,7,Hawks,36.280
+04:10,8,ARTHUR AGUIAR NO YOUTUBE,215.533
+04:10,9,O PRIMEIRO LUGAR É SEU PA,171.424
+04:10,10,Pantanal,30.198
+04:40,1,AEWDynamite,65.983
+04:40,2,Godin,11.406
+04:40,3,San Lorenzo,13.271
+04:40,4,Hornets,41.791
+04:40,5,LUAN CITY NO BBB,14.664
+04:40,6,River,166.737
+04:40,7,ARTHUR AGUIAR NO YOUTUBE,
+04:40,8,Survivor,28.939
+04:40,9,Hawks,37.533
+04:40,10,ZETAWIN,131.697
+05:10,1,AEWDynamite,67.766
+05:10,2,San Lorenzo,15.987
+05:10,3,Godin,11.811
+05:10,4,SnowfallFX,
+05:10,5,LUAN CITY NO BBB,18.621
+05:10,6,Hornets,42.950
+05:10,7,ARTHUR AGUIAR NO YOUTUBE,241.951
+05:10,8,استشوار_ريبون,80.369
+05:10,9,River,165.173
+05:10,10,AmbedkarJayanti,48.173
+05:40,1,AEWDynamite,69.449
+05:40,2,San Lorenzo,17.596
+05:40,3,AmbedkarJayanti,58.382
+05:40,4,Godin,12.058
+05:40,5,SnowfallFX,
+05:40,6,Chivas,31.609
+05:40,7,ARTHUR AGUIAR NO YOUTUBE,249.960
+05:40,8,LUAN CITY NO BBB,19.151
+05:40,9,Pelicans,19.499
+05:40,10,Hornets,43.926
+06:10,1,AEWDynamite,70.517
+06:10,2,AmbedkarJayanti,69.615
+06:10,3,San Lorenzo,18.373
+06:10,4,Pelicans,21.872
+06:10,5,Darling_Countdown,12.264
+06:10,6,SnowfallFX,10.212
+06:10,7,Chivas,34.747
+06:10,8,Godin,12.139
+06:10,9,じゅじゅステ,
+06:10,10,Filipe Ret,13.140
+06:40,1,AmbedkarJayanti,82.999
+06:40,2,AEWDynamite,71.627
+06:40,3,Pelicans,24.517
+06:40,4,Darling_Countdown,15.153
+06:40,5,San Lorenzo,18.965
+06:40,6,じゅじゅステ,
+06:40,7,Filipe Ret,15.954
+06:40,8,Chivas,37.523
+06:40,9,SnowfallFX,10.453
+06:40,10,letmedowneasy,
+07:10,1,AmbedkarJayanti,95.889
+07:10,2,Freddy Rincón,37.741
+07:10,3,AEWDynamite,72.424
+07:10,4,じゅじゅステ,
+07:10,5,Filipe Ret,18.395
+07:10,6,Pelicans,25.298
+07:10,7,Darling_Countdown,16.752
+07:10,8,BamBamxโหนกระแส,49.230
+07:10,9,Ret e L7,26.774
+07:10,10,TheKardashians,14.131
+07:40,1,AmbedkarJayanti,107.933
+07:40,2,Freddy Rincón,52.152
+07:40,3,BamBamxโหนกระแส,138.543
+07:40,4,じゅじゅステ,
+07:40,5,Filipe Ret,20.463
+07:40,6,AEWDynamite,73.223
+07:40,7,TheKardashians,14.786
+07:40,8,Ret e L7,29.678
+07:40,9,Baisakhi,
+07:40,10,Pelicans,26.093
+08:10,1,BamBamxโหนกระแส,227.234
+08:10,2,AmbedkarJayanti,120.155
+08:10,3,Freddy Rincón,59.697
+08:10,4,Ret e L7,35.617
+08:10,5,Filipe Ret,24.288
+08:10,6,じゅじゅステ,
+08:10,7,Baisakhi,
+08:10,8,TheKardashians,15.177
+08:10,9,KGFChapter2,303.450
+08:10,10,三浦涼介,32.736
+08:40,1,BamBamxโหนกระแส,364.273
+08:40,2,AmbedkarJayanti,132.163
+08:40,3,Ret e L7,43.009
+08:40,4,Freddy Rincón,63.640
+08:40,5,Filipe Ret,28.446
+08:40,6,Rwanda,49.376
+08:40,7,HalodocRamadan,
+08:40,8,PA e Scooby,26.497
+08:40,9,Baisakhi,10.698
+08:40,10,L7nnon,17.857
+09:10,1,BamBamxโหนกระแส,446.850
+09:10,2,AmbedkarJayanti,143.203
+09:10,3,Rwanda,57.523
+09:10,4,Ret e L7,46.263
+09:10,5,Freddy Rincón,66.680
+09:10,6,Filipe Ret,30.389
+09:10,7,インターネット老人音楽祭,
+09:10,8,インターネットのヲタク,
+09:10,9,HalodocRamadan,
+09:10,10,NipponHijauKlepon,
+09:40,1,Rwanda,67.476
+09:40,2,AmbedkarJayanti,153.674
+09:40,3,BamBamxโหนกระแส,508.757
+09:40,4,インターネット老人音楽祭,
+09:40,5,Ret e L7,47.337
+09:40,6,インターネットのヲタク,
+09:40,7,LetTheEarthBreath,28.323
+09:40,8,HalodocRamadan,
+09:40,9,Freddy Rincón,69.480
+09:40,10,Filipe Ret,31.100
+10:10,1,Rwanda,78.845
+10:10,2,AmbedkarJayanti,162.624
+10:10,3,LetTheEarthBreath,59.477
+10:10,4,BamBamxโหนกระแส,561.959
+10:10,5,インターネット老人音楽祭,
+10:10,6,インターネットのヲタク,
+10:10,7,scientistprotest,41.477
+10:10,8,Ret e L7,47.680
+10:10,9,Freddy Rincón,71.663
+10:10,10,磯丸水産,
+10:40,1,Rwanda,91.077
+10:40,2,AmbedkarJayanti,170.742
+10:40,3,LetTheEarthBreath,122.234
+10:40,4,インターネット老人音楽祭,
+10:40,5,scientistprotest,60.257
+10:40,6,インターネットのヲタク,
+10:40,7,BamBamxโหนกระแส,602.837
+10:40,8,Jueves Santo,13.214
+10:40,9,磯丸水産,
+10:40,10,Ret e L7,48.069
+11:10,1,Rwanda,103.633
+11:10,2,TAEYONGxLOVETHEORY,80.482
+11:10,3,LetTheEarthBreath,183.253
+11:10,4,새로운_사랑이론_툥띠어리,79.525
+11:10,5,インターネット老人音楽祭,
+11:10,6,AmbedkarJayanti,178.992
+11:10,7,インターネットのヲタク,
+11:10,8,Jueves Santo,14.589
+11:10,9,TAEYONG NEEDS A LOVE THEORY,65.085
+11:10,10,磯丸水産,10.019
+11:40,1,Rwanda,115.987
+11:40,2,TAEYONGxLOVETHEORY,103.621
+11:40,3,새로운_사랑이론_툥띠어리,100.096
+11:40,4,LetTheEarthBreath,235.722
+11:40,5,インターネット老人音楽祭,
+11:40,6,scientistprotest,99.279
+11:40,7,インターネットのヲタク,
+11:40,8,Jueves Santo,16.008
+11:40,9,ロシア語案内,
+11:40,10,Salud y República,
+12:10,1,Rwanda,131.287
+12:10,2,TAEYONGxLOVETHEORY,117.320
+12:10,3,LetTheEarthBreathe,34.166
+12:10,4,새로운_사랑이론_툥띠어리,112.991
+12:10,5,scientistprotest,122.907
+12:10,6,インターネット老人音楽祭,
+12:10,7,インターネットのヲタク,
+12:10,8,Jueves Santo,17.445
+12:10,9,ロシア語案内,13.741
+12:10,10,Salud y República,
+12:40,1,Rwanda,149.226
+12:40,2,LetTheEarthBreathe,48.178
+12:40,3,TAEYONGxLOVETHEORY,125.294
+12:40,4,scientistprotest,150.181
+12:40,5,VS魂,18.258
+12:40,6,새로운_사랑이론_툥띠어리,119.899
+12:40,7,インターネットのヲタク,
+12:40,8,Jueves Santo,19.124
+12:40,9,ロシア語案内,17.625
+12:40,10,Salud y República,10.067
+13:10,1,Rwanda,166.018
+13:10,2,LetTheEarthBreath,358.060
+13:10,3,scientistprotest,180.434
+13:10,4,VS魂,25.411
+13:10,5,TAEYONGxLOVETHEORY,131.027
+13:10,6,インターネット老人音楽祭,
+13:10,7,Jueves Santo,20.846
+13:10,8,インターネットのヲタク,
+13:10,9,ロシア語案内,21.402
+13:10,10,Salud y República,10.882
+13:40,1,Rwanda,182.301
+13:40,2,LetTheEarthBreath,399.395
+13:40,3,scientistprotest,211.566
+13:40,4,VS魂,28.866
+13:40,5,捜査一課長,12.165
+13:40,6,TheRiseofLOONA,16.616
+13:40,7,LOONA SHAKE THE STAGE,13.251
+13:40,8,Jueves Santo,23.150
+13:40,9,インターネットのヲタク,
+13:40,10,ロシア語案内,24.301
+14:10,1,Rwanda,197.465
+14:10,2,LetTheEarthBreath,440.999
+14:10,3,捜査一課長,19.089
+14:10,4,TheRiseofLOONA,26.874
+14:10,5,素のまんま,
+14:10,6,이달소가_퀸덤을_쉐킷,26.126
+14:10,7,LOONA SHAKE THE STAGE,21.596
+14:10,8,どらほー,
+14:10,9,たかほー,
+14:10,10,Jueves Santo,25.794
+14:40,1,Elon Musk,194.906
+14:40,2,Rwanda,213.437
+14:40,3,素のまんま,29.821
+14:40,4,LetTheEarthBreath,479.970
+14:40,5,未来への10カウント,39.612
+14:40,6,TheRiseofLOONA,31.981
+14:40,7,이달소가_퀸덤을_쉐킷,31.027
+14:40,8,LOONA SHAKE THE STAGE,26.111
+14:40,9,どらほー,
+14:40,10,Jueves Santo,28.897
+15:10,1,Elon Musk,227.089
+15:10,2,Rwanda,228.457
+15:10,3,未来への10カウント,49.974
+15:10,4,LetTheEarthBreath,522.002
+15:10,5,素のまんま,32.770
+15:10,6,TheRiseofLOONA,34.435
+15:10,7,이달소가_퀸덤을_쉐킷,33.348
+15:10,8,LOONA SHAKE THE STAGE,27.865
+15:10,9,Jueves Santo,31.867
+15:10,10,Salvio,11.901
+15:40,1,Elon Musk,263.478
+15:40,2,未来への10カウント,64.867
+15:40,3,Rwanda,242.027
+15:40,4,LetTheEarthBreath,566.771
+15:40,5,素のまんま,33.910
+15:40,6,浪川細谷と夜あそび,35.033
+15:40,7,TheRiseofLOONA,36.186
+15:40,8,Salvio,15.187
+15:40,9,LOONA SHAKE THE STAGE,29.071
+15:40,10,WJSN,31.023
+16:40,1,Elon Musk,331.397
+16:40,2,LetTheEarthBreath,682.378
+16:40,3,Rwanda,265.886
+16:40,4,未来への10カウント,81.176
+16:40,5,トークィーンズ,22.915
+16:40,6,VoxPopuLIVE,12.751
+16:40,7,浪川細谷と夜あそび,72.132
+16:40,8,Salvio,21.357
+16:40,9,hyolyn,21.195
+16:40,10,Let's Drive BrightWin,135.147
+17:10,1,Elon Musk,363.680
+17:10,2,トークィーンズ,34.549
+17:10,3,LetTheEarthBreath,747.857
+17:10,4,Rwanda,278.188
+17:10,5,VoxPopuLIVE,22.674
+17:10,6,未来への10カウント,83.291
+17:10,7,RanbirAliaWedding,34.376
+17:10,8,Salvio,24.142
+17:10,9,hyolyn,24.162
+17:10,10,Jueves Santo,45.470
+17:40,1,Elon Musk,402.882
+17:40,2,LetTheEarthBreath,835.850
+17:40,3,トークィーンズ,36.411
+17:40,4,Rwanda,291.005
+17:40,5,VoxPopuLIVE,27.564
+17:40,6,有岡大貴誕生祭,
+17:40,7,第84回,
+17:40,8,Wordle 300,
+17:40,9,Revale記念日2022,29.434
+17:40,10,Salvio,27.159
+18:10,1,Elon Musk,437.701
+18:10,2,LetTheEarthBreath,935.987
+18:10,3,Rwanda,302.776
+18:10,4,トークィーンズ,37.232
+18:10,5,第84回,
+18:10,6,VoxPopuLIVE,29.956
+18:10,7,Wordle 300,
+18:10,8,有岡大貴誕生祭,
+18:10,9,Revale記念日2022,34.331
+18:10,10,Salvio,30.113
+18:40,1,Elon,638.941
+18:40,2,selfiesforchan,
+18:40,3,selcaforchan,
+18:40,4,LetTheEarthBreath,1.041.008
+18:40,5,Rwanda,316.375
+18:40,6,第84回,
+18:40,7,Wordle 300,
+18:40,8,VoxPopuLIVE,32.489
+18:40,9,トークィーンズ,37.636
+18:40,10,Salvio,33.055
+19:10,1,Elon,678.006
+19:10,2,selfiesforchan,
+19:10,3,selcaforchan,
+19:10,4,Rwanda,329.253
+19:10,5,LetTheEarthBreath,1.126.238
+19:10,6,第84回,
+19:10,7,SoundCheckXWanarat,61.614
+19:10,8,Salvio,36.009
+19:10,9,Wordle 300,
+19:10,10,VoxPopuLIVE,34.443
+19:40,1,Elon,725.049
+19:40,2,selfiesforchan,13.340
+19:40,3,selcaforchan,
+19:40,4,Rwanda,342.667
+19:40,5,LetTheEarthBreath,1.208.118
+19:40,6,SoundCheckXWanarat,118.079
+19:40,7,第84回,
+19:40,8,Don Naza,
+19:40,9,Salvio,38.648
+19:40,10,Tesla,144.985
+20:10,1,Elon,766.366
+20:10,2,selfiesforchan,17.050
+20:10,3,selcaforchan,
+20:10,4,Rwanda,355.144
+20:10,5,Don Naza,13.419
+20:10,6,LetTheEarthBreath,1.274.933
+20:10,7,SoundCheckXWanarat,141.195
+20:10,8,Tesla,148.337
+20:10,9,第84回,
+20:10,10,Mingueza,
+20:40,1,selfiesforchan,21.994
+20:40,2,Elon,817.744
+20:40,3,PsvLei,
+20:40,4,Rwanda,366.827
+20:40,5,gntm,
+20:40,6,Don Naza,16.109
+20:40,7,Mingueza,
+20:40,8,Tesla,155.749
+20:40,9,LetTheEarthBreath,1.330.092
+20:40,10,SoundCheckXWanarat,150.670
+21:10,1,selfiesforchan,25.667
+21:10,2,Elon,855.399
+21:10,3,Eric Garcia,
+21:10,4,PsvLei,
+21:10,5,ThePassion,
+21:10,6,Camp Nou,17.856
+21:10,7,Rwanda,378.148
+21:10,8,gntm,
+21:10,9,FCBSGE,
+21:10,10,Don Naza,18.709
+21:40,1,selfiesforchan,28.357
+21:40,2,Elon,897.771
+21:40,3,Borré,11.358
+21:40,4,FCBSGE,15.447
+21:40,5,Frankfurt,63.267
+21:40,6,Camp Nou,23.333
+21:40,7,PAOKOM,10.580
+21:40,8,ThePassion,
+21:40,9,Mingueza,11.556
+21:40,10,Eric Garcia,
+22:10,1,Elon,936.566
+22:10,2,selfiesforchan,30.518
+22:10,3,Mingueza,22.769
+22:10,4,Frankfurt,85.562
+22:10,5,West Ham,36.297
+22:10,6,Camp Nou,34.874
+22:10,7,Borré,26.769
+22:10,8,FCBSGE,22.482
+22:10,9,ThePassion,
+22:10,10,PAOKOM,13.199
+22:40,1,Barcelona,178.660
+22:40,2,Barca,152.892
+22:40,3,Camp Nou,50.735
+22:40,4,FCBSGE,33.444
+22:40,5,West Ham,45.526
+22:40,6,Xavi,62.284
+22:40,7,Mingueza,25.938
+22:40,8,selfiesforchan,32.189
+22:40,9,Europa League,60.321
+22:40,10,Borré,30.371
+23:10,1,Barcelona,221.907
+23:10,2,Barca,207.659
+23:10,3,Camp Nou,75.761
+23:10,4,West Ham,56.341
+23:10,5,Xavi,83.488
+23:10,6,FCBSGE,44.807
+23:10,7,Rihanna,86.879
+23:10,8,Europa League,86.454
+23:10,9,Mingueza,28.602
+23:10,10,selfiesforchan,33.574
+23:40,1,Barcelona,252.654
+23:40,2,Barca,246.961
+23:40,3,Rihanna,117.720
+23:40,4,Camp Nou,96.998
+23:40,5,Xavi,104.640
+23:40,6,West Ham,63.656
+23:40,7,Europa League,105.601
+23:40,8,FCBSGE,50.680
+23:40,9,PekinExpress,15.163
+23:40,10,Mingueza,30.972

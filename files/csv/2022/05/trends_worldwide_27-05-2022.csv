@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosaVePorMas,77.382
+00:10,2,Ray Liotta,342.974
+00:10,3,Depeche Mode,44.767
+00:10,4,Andy Fletcher,39.794
+00:10,5,LiberenACoco,115.163
+00:10,6,SVGala6,13.786
+00:10,7,Datafolha,23.360
+00:10,8,Sivasspor,14.322
+00:10,9,Goodfellas,147.104
+00:10,10,DonMatteo13,20.738
+00:40,1,SalarioRosaVePorMas,83.844
+00:40,2,Ray Liotta,352.544
+00:40,3,Depeche Mode,49.644
+00:40,4,Andy Fletcher,43.646
+00:40,5,Datafolha,33.723
+00:40,6,SVGala6,16.797
+00:40,7,LiberenACoco,119.481
+00:40,8,bbcqt,
+00:40,9,Goodfellas,150.733
+00:40,10,Sivasspor,14.730
+01:10,1,SalarioRosaVePorMas,89.160
+01:10,2,depeche mode,53.313
+01:10,3,Ray Liotta,361.354
+01:10,4,SVGala6,22.358
+01:10,5,Andy Fletcher,46.668
+01:10,6,Datafolha,42.308
+01:10,7,LiberenACoco,122.886
+01:10,8,bbcqt,
+01:10,9,OUÇA NEM NAMORADO NEM FICANTE,31.533
+01:10,10,LulaNoPrimeiroTurno,12.654
+01:40,1,SalarioRosaVePorMas,95.590
+01:40,2,Depeche Mode,56.449
+01:40,3,Ray Liotta,369.318
+01:40,4,Datafolha,50.115
+01:40,5,SVGala6,23.497
+01:40,6,Andy Fletcher,49.012
+01:40,7,Nenê,115.419
+01:40,8,OUÇA NEM NAMORADO NEM FICANTE,55.383
+01:40,9,Roni,11.036
+01:40,10,QuantoMaisVidaMelhor,22.298
+02:10,1,SalarioRosaVePorMas,105.157
+02:10,2,Depeche Mode,59.001
+02:10,3,Datafolha,57.052
+02:10,4,Ray Liotta,376.373
+02:10,5,Andy Fletcher,51.054
+02:10,6,SVGala6,23.951
+02:10,7,Nenê,115.988
+02:10,8,Roni,11.822
+02:10,9,stranger things,144.266
+02:10,10,OUÇA NEM NAMORADO NEM FICANTE,60.087
+02:40,1,SalarioRosaVePorMas,113.916
+02:40,2,Racing,58.757
+02:40,3,Melgar,15.315
+02:40,4,Datafolha,63.214
+02:40,5,VERZUZ,
+02:40,6,Depeche Mode,61.649
+02:40,7,Roni,12.941
+02:40,8,stranger things,150.255
+02:40,9,Giuliano,
+02:40,10,Ray Liotta,382.850
+03:10,1,SalarioRosaVePorMas,121.438
+03:10,2,Salvio,
+03:10,3,VERZUZ,
+03:10,4,Racing,61.154
+03:10,5,GreysAnatomy,13.113
+03:10,6,Melgar,17.799
+03:10,7,Roni,13.975
+03:10,8,stranger things,152.392
+03:10,9,Datafolha,
+03:10,10,Depeche Mode,63.939
+03:40,1,SalarioRosaVePorMas,127.063
+03:40,2,Varela,15.914
+03:40,3,Salvio,
+03:40,4,VERZUZ,13.208
+03:40,5,GreysAnatomy,21.662
+03:40,6,Racing,63.657
+03:40,7,Roger Guedes,
+03:40,8,stranger things,160.881
+03:40,9,WinGraduationDay,30.278
+03:40,10,Giuliano,
+04:40,1,Corinthians,105.633
+04:40,2,Klay,34.777
+04:40,3,Varela,29.642
+04:40,4,SalarioRosaVePorMas,136.920
+04:40,5,NoLimite,
+04:40,6,GreysAnatomy,37.421
+04:40,7,EliminaçãoPowerCouple,12.994
+04:40,8,Always Ready,29.885
+04:40,9,Pantanal,49.929
+04:40,10,Salvio,
+05:10,1,Corinthians,108.988
+05:10,2,Klay,38.372
+05:10,3,EliminaçãoPowerCouple,31.356
+05:10,4,SalarioRosaVePorMas,147.246
+05:10,5,Varela,31.529
+05:10,6,NoLimite,11.874
+05:10,7,WinGraduationDay,140.378
+05:10,8,GreysAnatomy,39.856
+05:10,9,stranger things,183.223
+05:10,10,Always Ready,29.975
+05:40,1,Warriors,265.497
+05:40,2,Klay,57.073
+05:40,3,DubNation,20.036
+05:40,4,EliminaçãoPowerCouple,56.000
+05:40,5,Corinthians,111.714
+05:40,6,SVT_DropItLikeHOT,105.356
+05:40,7,SEVENTEEN HOT MV RELEASE,102.816
+05:40,8,Curry,97.424
+05:40,9,거짓말없어_세븐틴은_HOT,87.030
+05:40,10,Looney,17.992
+06:10,1,Warriors,318.427
+06:10,2,SVT_DropItLikeHOT,163.146
+06:10,3,Klay,66.315
+06:10,4,SEVENTEEN HOT MV RELEASE,158.725
+06:10,5,DubNation,29.410
+06:10,6,거짓말없어_세븐틴은_HOT,119.182
+06:10,7,SVT_HOT,256.870
+06:10,8,EliminaçãoPowerCouple,72.951
+06:10,9,Corinthians,112.895
+06:10,10,Steph,81.960
+06:40,1,SVT_DropItLikeHOT,188.671
+06:40,2,SVT_HOT,337.025
+06:40,3,Warriors,346.025
+06:40,4,SEVENTEEN HOT MV RELEASE,174.988
+06:40,5,Klay,71.676
+06:40,6,거짓말없어_세븐틴은_HOT,130.353
+06:40,7,DubNation,33.955
+06:40,8,EliminaçãoPowerCouple,82.357
+06:40,9,Steph,89.714
+06:40,10,Atlas,58.164
+07:10,1,SVT_DropItLikeHOT,199.437
+07:10,2,SVT_HOT,372.493
+07:10,3,Warriors,359.844
+07:10,4,SEVENTEEN HOT MV RELEASE,182.071
+07:10,5,거짓말없어_세븐틴은_HOT,135.368
+07:10,6,Klay,76.859
+07:10,7,DubNation,36.912
+07:10,8,McDavid,13.171
+07:10,9,ObiWan,26.245
+07:10,10,MINGHAO,33.111
+07:40,1,SVT_DropItLikeHOT,205.496
+07:40,2,SVT_HOT,395.854
+07:40,3,ObiWan,30.994
+07:40,4,Warriors,372.891
+07:40,5,SEVENTEEN HOT MV RELEASE,185.582
+07:40,6,거짓말없어_세븐틴은_HOT,137.615
+07:40,7,Klay,80.083
+07:40,8,DubNation,39.164
+07:40,9,McDavid,14.949
+07:40,10,MINGHAO,36.977
+08:10,1,ObiWan,37.669
+08:10,2,SVT_DropItLikeHOT,209.520
+08:10,3,SVT_HOT,420.441
+08:10,4,SEVENTEEN HOT MV RELEASE,187.760
+08:10,5,Warriors,379.277
+08:10,6,거짓말없어_세븐틴은_HOT,139.069
+08:10,7,Klay,82.240
+08:10,8,FacetheSun,279.212
+08:10,9,McDavid,15.717
+08:10,10,minghao,38.451
+08:40,1,ObiWan,43.480
+08:40,2,SVT_HOT,451.094
+08:40,3,SVT_DropItLikeHOT,212.733
+08:40,4,SEVENTEEN HOT MV RELEASE,189.729
+08:40,5,Warriors,387.379
+08:40,6,거짓말없어_세븐틴은_HOT,140.174
+08:40,7,StrangerThings4,61.365
+08:40,8,Klay,84.291
+08:40,9,minghao,40.068
+08:40,10,McDavid,16.229
+09:10,1,ObiWan,46.930
+09:10,2,StrangerThings4,73.188
+09:10,3,SVT_HOT,469.440
+09:10,4,SVT_DropItLikeHOT,215.326
+09:10,5,ZamGeldi,
+09:10,6,SEVENTEEN HOT MV RELEASE,191.172
+09:10,7,Warriors,387.965
+09:10,8,minghao,40.930
+09:10,9,Klay,85.660
+09:10,10,McDavid,16.480
+09:40,1,StrangerThings4,81.808
+09:40,2,ObiWan,49.747
+09:40,3,ZamGeldi,
+09:40,4,SVT_HOT,484.459
+09:40,5,SVT_DropItLikeHOT,217.788
+09:40,6,SEVENTEEN HOT MV RELEASE,192.514
+09:40,7,Warriors,394.177
+09:40,8,minghao,43.913
+09:40,9,Yedam,12.999
+09:40,10,McDavid,16.724
+10:10,1,StrangerThings4,87.242
+10:10,2,ObiWan,51.619
+10:10,3,Yedam,34.870
+10:10,4,ZamGeldi,
+10:10,5,WinGraduationDay,498.701
+10:10,6,SVT_HOT,507.508
+10:10,7,SEVENTEEN HOT MV RELEASE,194.035
+10:10,8,minghao,45.917
+10:10,9,사전투표,38.612
+10:10,10,Warriors,396.708
+10:40,1,StrangerThings4,93.482
+10:40,2,ObiWan,53.842
+10:40,3,Yedam,56.885
+10:40,4,WinGraduationDay,607.348
+10:40,5,ZamGeldi,
+10:40,6,ไบร์ทวิน,146.349
+10:40,7,chrissy,
+10:40,8,OT12,13.347
+10:40,9,사전투표,39.661
+10:40,10,TREASURE IS 12,
+11:10,1,StrangerThings4,99.560
+11:10,2,ObiWan,55.437
+11:10,3,Yedam,72.219
+11:10,4,WinGraduationDay,721.947
+11:10,5,ZamGeldi,11.241
+11:10,6,ไบร์ทวิน,226.205
+11:10,7,TREASURE IS 12,25.681
+11:10,8,chrissy,
+11:10,9,Hakan Ural,
+11:10,10,OT12,16.853
+11:40,1,StrangerThings4,104.993
+11:40,2,ObiWan,57.504
+11:40,3,CandySugarPop4thWin,25.218
+11:40,4,Yedam,86.099
+11:40,5,ZamGeldi,13.197
+11:40,6,WinGraduationDay,805.084
+11:40,7,TREASURE IS 12,39.762
+11:40,8,Hakan Ural,
+11:40,9,chrissy,
+11:40,10,LET BLACKPINK COMEBACK,20.366
+12:10,1,StrangerThings4,110.406
+12:10,2,CandySugarPop4thWin,38.547
+12:10,3,ObiWan,59.020
+12:10,4,Yedam,98.149
+12:10,5,ZamGeldi,14.704
+12:10,6,WinGraduationDay,887.030
+12:10,7,TREASURE IS 12,43.031
+12:10,8,Hakan Ural,
+12:10,9,乱舞レベル7,
+12:10,10,LET BLACKPINK COMEBACK,24.513
+12:40,1,StrangerThings4,116.046
+12:40,2,CandySugarPop4thWin,42.925
+12:40,3,Yedam,108.620
+12:40,4,ObiWan,60.774
+12:40,5,乱舞レベル7,
+12:40,6,ZamGeldi,16.215
+12:40,7,WinGraduationDay,921.699
+12:40,8,Hakan Ural,
+12:40,9,TREASURE IS 12,45.512
+12:40,10,愛言葉IV,10.583
+13:10,1,StrangerThings4,120.866
+13:10,2,愛言葉IV,18.360
+13:10,3,CandySugarPop4thWin,48.196
+13:10,4,ObiWan,62.369
+13:10,5,Yedam,116.625
+13:10,6,AFLSwansTigers,
+13:10,7,乱舞レベル7,
+13:10,8,Hakan Ural,
+13:10,9,ビッグマックからの挑戦状,
+13:10,10,TREASURE IS 12,47.458
+13:40,1,StrangerThings4,127.091
+13:40,2,愛言葉IV,24.952
+13:40,3,ObiWan,64.735
+13:40,4,CandySugarPop4thWin,50.976
+13:40,5,Yedam,123.825
+13:40,6,AFLSwansTigers,
+13:40,7,ビッグマックからの挑戦状,11.959
+13:40,8,Hakan Ural,10.495
+13:40,9,乱舞レベル7,
+13:40,10,ハリポタ,11.252
+14:10,1,StrangerThings4,131.435
+14:10,2,JISOO FOR ROLLING STONE,84.989
+14:10,3,Mステ,16.790
+14:10,4,PcCustomEnPcComponentes,
+14:10,5,ウィルカーソン,12.403
+14:10,6,愛言葉IV,29.453
+14:10,7,星之所向,
+14:10,8,AFLSwansTigers,
+14:10,9,横浜優勝,
+14:10,10,サトテル,
+14:40,1,StrangerThings4,136.109
+14:40,2,Mステ,33.348
+14:40,3,JISOO FOR ROLLING STONE,155.424
+14:40,4,PcCustomEnPcComponentes,
+14:40,5,星之所向,16.549
+14:40,6,AFLSwansTigers,
+14:40,7,ウィルカーソン,13.706
+14:40,8,愛言葉IV,32.948
+14:40,9,横浜優勝,
+14:40,10,PULLUPwithMarkTuan_Day1,199.118
+15:10,1,Mステ,46.232
+15:10,2,StrangerThings4,139.462
+15:10,3,JISOO FOR ROLLING STONE,200.159
+15:10,4,AFLSwansTigers,
+15:10,5,PcCustomEnPcComponentes,
+15:10,6,星之所向,22.753
+15:10,7,ホロファイター,28.645
+15:10,8,愛言葉IV,35.796
+15:10,9,ウィルカーソン,14.276
+15:10,10,横浜優勝,
+15:40,1,Mステ,54.079
+15:40,2,StrangerThings4,146.099
+15:40,3,JISOO FOR ROLLING STONE,228.712
+15:40,4,AFLSwansTigers,
+15:40,5,PcCustomEnPcComponentes,
+15:40,6,星之所向,28.393
+15:40,7,ホロファイター,33.657
+15:40,8,愛言葉IV,38.201
+15:40,9,ウィルカーソン,14.727
+15:40,10,ハリポタ,17.257
+16:10,1,Mステ,57.980
+16:10,2,StrangerThings4,150.918
+16:10,3,PcCustomEnPcComponentes,
+16:10,4,星之所向,33.755
+16:10,5,JISOO FOR ROLLING STONE,247.785
+16:10,6,AFLSwansTigers,
+16:10,7,ホロファイター,35.652
+16:10,8,愛言葉IV,40.381
+16:10,9,横浜優勝,
+16:10,10,ウィルカーソン,15.065
+16:40,1,-,
+16:40,2,-,
+16:40,3,-,
+16:40,4,-,
+16:40,5,-,
+16:40,6,-,
+16:40,7,-,
+16:40,8,-,
+16:40,9,-,
+16:40,10,-,
+17:10,1,StrangerThings4,163.980
+17:10,2,Mステ,62.352
+17:10,3,星之所向,42.079
+17:10,4,PcCustomEnPcComponentes,
+17:10,5,AFLSwansTigers,
+17:10,6,JISOO FOR ROLLING STONE,274.131
+17:10,7,StarInMyMindFinalEP,110.135
+17:10,8,David Coimbra,
+17:10,9,愛言葉IV,43.453
+17:10,10,ウィルカーソン,15.519
+17:40,1,StrangerThings4,171.415
+17:40,2,Mステ,63.664
+17:40,3,GotACrushOnDub,98.059
+17:40,4,星之所向,44.503
+17:40,5,PcCustomEnPcComponentes,
+17:40,6,StarInMyMindFinalEP,123.800
+17:40,7,JISOO FOR ROLLING STONE,282.703
+17:40,8,David Coimbra,
+17:40,9,FIRST PROOF CONCEPT PHOTO,228.865
+17:40,10,あんスタ,86.195
+18:10,1,StrangerThings4,178.310
+18:10,2,GotACrushOnDub,107.175
+18:10,3,星之所向,46.620
+18:10,4,Mステ,64.548
+18:10,5,StarInMyMindFinalEP,134.890
+18:10,6,PcCustomEnPcComponentes,10.699
+18:10,7,FIRST PROOF CONCEPT PHOTO,241.299
+18:10,8,David Coimbra,
+18:10,9,JUNG HOSEOK,32.453
+18:10,10,JISOO FOR ROLLING STONE,290.252
+18:40,1,StrangerThings4,187.005
+18:40,2,GotACrushOnDub,112.344
+18:40,3,RRvsRCB,14.526
+18:40,4,genckulturkart,
+18:40,5,Siraj,
+18:40,6,星之所向,47.848
+18:40,7,SUHOinDubai,66.856
+18:40,8,FIRST PROOF CONCEPT PHOTO,247.773
+18:40,9,David Coimbra,
+18:40,10,JUNG HOSEOK,34.743
+19:10,1,RRvsRCB,17.978
+19:10,2,Tolima,26.846
+19:10,3,StrangerThings4,194.586
+19:10,4,Corinthians,150.456
+19:10,5,GotACrushOnDub,115.581
+19:10,6,フロイニ,32.198
+19:10,7,genckulturkart,
+19:10,8,Siraj,
+19:10,9,Emelec,16.335
+19:10,10,星之所向,48.575
+19:40,1,RCBvsRR,21.771
+19:40,2,Tolima,28.971
+19:40,3,StrangerThings4,203.296
+19:40,4,Elaine,41.171
+19:40,5,Corinthians,155.560
+19:40,6,フロイニ,45.774
+19:40,7,GotACrushOnDub,117.898
+19:40,8,KeremLiptonIceTea,77.684
+19:40,9,River,149.844
+19:40,10,Labour Party,54.762
+20:10,1,RCBvsRR,30.154
+20:10,2,StrangerThings4,210.587
+20:10,3,Tolima,29.837
+20:10,4,Elaine,42.748
+20:10,5,フロイニ,56.085
+20:10,6,Corinthians,157.980
+20:10,7,Jos Buttler,11.742
+20:10,8,GotACrushOnDub,119.635
+20:10,9,KeremLiptonIceTea,86.610
+20:10,10,River,148.089
+20:40,1,RCBvsRR,33.255
+20:40,2,StrangerThings4,218.850
+20:40,3,Tolima,30.836
+20:40,4,Elaine,44.657
+20:40,5,フロイニ,58.195
+20:40,6,Jos Buttler,13.465
+20:40,7,Corinthians,160.251
+20:40,8,KeremLiptonIceTea,94.407
+20:40,9,UvaldePolice,19.379
+20:40,10,Labour Party,73.500
+21:10,1,RCBvsRR,34.816
+21:10,2,StrangerThings4,225.146
+21:10,3,GalatasarayNEF,
+21:10,4,Tolima,31.171
+21:10,5,UvaldePolice,21.358
+21:10,6,Elaine,45.580
+21:10,7,ArrestNupurSharma,31.325
+21:10,8,Labour Party,82.437
+21:10,9,Memorial Day,84.393
+21:10,10,Corinthians,160.493
+21:40,1,RCBvsRR,35.570
+21:40,2,stranger things,431.292
+21:40,3,GalatasarayNEF,
+21:40,4,PMSLoveYewGump,
+21:40,5,ArrestNupurSharma,37.577
+21:40,6,BirFidandaBenim,
+21:40,7,Labour Party,91.848
+21:40,8,Tolima,31.813
+21:40,9,Memorial Day,87.823
+21:40,10,Elaine,46.826
+22:10,1,stranger things,434.919
+22:10,2,RCBvsRR,35.974
+22:10,3,GalatasarayNEF,
+22:10,4,BirFidandaBenim,
+22:10,5,PMSLoveYewGump,
+22:10,6,ObiWan,108.692
+22:10,7,Memorial Day,88.380
+22:10,8,Labour Party,99.507
+22:10,9,João Guilherme,
+22:10,10,Tolima,32.033
+22:40,1,stranger things,448.183
+22:40,2,BirFidandaBenim,
+22:40,3,EnesKanter,
+22:40,4,ObiWan,111.689
+22:40,5,SurvivorAllStar2022,47.709
+22:40,6,RCBvsRR,36.216
+22:40,7,Memorial Day,91.924
+22:40,8,Labour Party,106.503
+22:40,9,João Guilherme,
+22:40,10,Arise TV,
+23:10,1,stranger things,452.567
+23:10,2,LaVozKidsEstreno,
+23:10,3,EnesKanter,
+23:10,4,BirFidandaBenim,
+23:10,5,SurvivorAllStar2022,49.908
+23:10,6,ObiWan,113.860
+23:10,7,Memorial Day,92.108
+23:10,8,Labour Party,112.638
+23:10,9,João Guilherme,
+23:10,10,Arise TV,13.533
+23:40,1,stranger things,466.119
+23:40,2,LaVozKidsEstreno,
+23:40,3,EnesKanter,
+23:40,4,BirFidandaBenim,11.914
+23:40,5,ObiWan,116.671
+23:40,6,SurvivorAllStar2022,54.580
+23:40,7,Memorial Day,95.417
+23:40,8,Fallen Order,
+23:40,9,Korda,
+23:40,10,Labour Party,118.917

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,brits2021,170.815
+00:10,2,taylor,512.166
+00:10,3,Koeman,60.562
+00:10,4,Sergi Roberto,30.500
+00:10,5,Sporting,120.745
+00:10,6,TierraDeNadie5,42.991
+00:10,7,Levante,66.914
+00:10,8,Galatasaray,28.232
+00:10,9,مسابقه_ابوناصر٢٩,265.708
+00:10,10,IsraeliTerrorism,85.468
+00:41,1,brits2021,179.900
+00:41,2,taylor,537.080
+00:41,3,Koeman,74.239
+00:41,4,Sporting,135.508
+00:41,5,Sergi Roberto,34.673
+00:41,6,Levante,74.134
+00:41,7,IsraeliTerrorism,106.289
+00:41,8,TierraDeNadie5,49.342
+00:41,9,TelAviv,55.017
+00:41,10,Galatasaray,30.146
+01:10,1,brits2021,185.422
+01:10,2,taylor,547.694
+01:10,3,IsraeliTerrorism,135.057
+01:10,4,Koeman,79.355
+01:10,5,Sporting,143.571
+01:10,6,TierraDeNadie5,56.529
+01:10,7,Sergi Roberto,36.230
+01:10,8,TelAviv,72.100
+01:10,9,Levante,76.989
+01:10,10,GazaUnderAttack,905.974
+01:41,1,IsraeliTerrorism,168.191
+01:41,2,GazaUnderAttack,1.070.431
+01:41,3,taylor,567.555
+01:41,4,brits2021,190.317
+01:41,5,TelAviv,90.645
+01:41,6,Koeman,83.124
+01:41,7,Sporting,152.310
+01:41,8,TierraDeNadie5,66.147
+01:41,9,Sergi Roberto,37.278
+01:41,10,Fabra,
+02:10,1,IsraeliTerrorism,195.371
+02:10,2,GazaUnderAttack,1.151.523
+02:10,3,taylor,582.581
+02:10,4,TelAviv,105.530
+02:10,5,brits2021,194.066
+02:10,6,Russo,15.384
+02:10,7,Koeman,84.752
+02:10,8,Zé Gabriel,
+02:10,9,Sporting,156.975
+02:10,10,Fabra,
+02:41,1,IsraeliTerrorism,227.992
+02:41,2,GazaUnderAttack,1.252.441
+02:41,3,Bruno Viana,
+02:41,4,TelAviv,125.213
+02:41,5,taylor,598.492
+02:41,6,Russo,18.469
+02:41,7,Zé Gabriel,
+02:41,8,brits2021,197.346
+02:41,9,Lomba,
+02:41,10,Fabra,
+03:10,1,Flamengo,160.646
+03:10,2,Bruno Viana,17.094
+03:10,3,Gabigol,31.933
+03:10,4,IsraeliTerrorism,262.761
+03:10,5,GazaUnderAttack,1.319.751
+03:10,6,TelAviv,149.260
+03:10,7,Russo,19.158
+03:10,8,João Gomes,
+03:10,9,taylor,601.375
+03:10,10,Zé Gabriel,
+03:41,1,NoLimite,42.722
+03:41,2,Ariadna,17.859
+03:41,3,Flamengo,178.179
+03:41,4,Gabigol,43.055
+03:41,5,Bruno Viana,20.132
+03:41,6,GazaUnderAttack,1.441.342
+03:41,7,IsraeliTerrorism,294.995
+03:41,8,TelAviv,170.282
+03:41,9,João Gomes,
+03:41,10,Veiga,
+04:10,1,NoLimite,125.397
+04:10,2,Ariadna,26.974
+04:10,3,Flamengo,186.185
+04:10,4,Arão,16.404
+04:10,5,GazaUnderAttack,1.405.772
+04:10,6,Gabigol,44.996
+04:10,7,Bruno Viana,23.116
+04:10,8,Viegas,
+04:10,9,IsraeliTerrorism,315.097
+04:10,10,Vitinho,10.877
+04:41,1,NoLimite,203.131
+04:41,2,Flamengo,208.636
+04:41,3,Ariadna,35.358
+04:41,4,Arão,21.702
+04:41,5,Bruno Viana,29.002
+04:41,6,Angélica,41.313
+04:41,7,Vitinho,22.624
+04:41,8,GazaUnderAttack,1.333.887
+04:41,9,Viegas,12.024
+04:41,10,Gabigol,48.416
+05:10,1,NoLimite,288.913
+05:10,2,Angélica,71.218
+05:10,3,Mahmoud,72.077
+05:10,4,Flamengo,210.213
+05:10,5,Ariadna,38.181
+05:10,6,Bruno Viana,30.311
+05:10,7,Arão,23.053
+05:10,8,Vitinho,25.204
+05:10,9,GazaUnderAttack,1.325.837
+05:10,10,Viegas,13.090
+05:41,1,NoLimite,304.992
+05:41,2,Angélica,77.031
+05:41,3,Mahmoud,79.148
+05:41,4,Flamengo,216.287
+05:41,5,Ariadna,40.132
+05:41,6,Bruno Viana,30.842
+05:41,7,Arão,23.831
+05:41,8,GazaUnderAttack,1.719.532
+05:41,9,Vitinho,25.989
+05:41,10,Viegas,13.658
+06:10,1,NoLimite,310.405
+06:10,2,Angélica,78.596
+06:10,3,Mahmoud,81.210
+06:10,4,GazaUnderAttack,1.791.854
+06:10,5,Ariadna,41.112
+06:10,6,Flamengo,216.019
+06:10,7,Bruno Viana,31.079
+06:10,8,Arão,24.185
+06:10,9,クソデカ林製薬,
+06:10,10,お前らの2次元初恋って誰だったの,15.441
+06:41,1,NoLimite,313.190
+06:41,2,GazaUnderAttack,1.915.330
+06:41,3,Angélica,79.457
+06:41,4,クソデカ林製薬,
+06:41,5,大林製薬,
+06:41,6,小林製薬,
+06:41,7,Mahmoud,82.421
+06:41,8,Ariadna,41.761
+06:41,9,Flamengo,217.643
+06:41,10,お前らの2次元初恋って誰だったの,16.911
+07:10,1,NoLimite,314.631
+07:10,2,Lakers,64.260
+07:10,3,Knicks,42.031
+07:10,4,Randle,18.383
+07:10,5,クソデカ林製薬,
+07:10,6,大林製薬,
+07:10,7,小林製薬,
+07:10,8,GazaUnderAttack,1.982.413
+07:10,9,Lakeshow,
+07:10,10,Angélica,79.767
+07:41,1,NoLimite,316.027
+07:41,2,Lakers,77.835
+07:41,3,Knicks,47.289
+07:41,4,クソデカ林製薬,
+07:41,5,大林製薬,
+07:41,6,小林製薬,
+07:41,7,Randle,20.272
+07:41,8,GazaUnderAttack,2.041.293
+07:41,9,Lakeshow,10.151
+07:41,10,InternationalNursesDay,32.713
+08:10,1,NoLimite,317.016
+08:10,2,Lakers,80.783
+08:10,3,クソデカ林製薬,
+08:10,4,Knicks,48.444
+08:10,5,小林製薬,
+08:10,6,大林製薬,
+08:10,7,InternationalNursesDay,40.159
+08:10,8,GazaUnderAttack,2.076.748
+08:10,9,Randle,20.665
+08:10,10,Lakeshow,10.625
+08:41,1,NoLimite,317.776
+08:41,2,InternationalNursesDay,47.921
+08:41,3,Lakers,82.894
+08:41,4,クソデカ林製薬,
+08:41,5,大林製薬,
+08:41,6,小林製薬,
+08:41,7,GazaUnderAttack,1.965.705
+08:41,8,Knicks,49.161
+08:41,9,お前らの2次元初恋って誰だったの,21.836
+08:41,10,Randle,20.886
+09:10,1,InternationalNursesDay,55.928
+09:10,2,NoLimite,318.296
+09:10,3,クソデカ林製薬,
+09:10,4,GazaUnderAttack,1.645.536
+09:10,5,小林製薬,
+09:10,6,大林製薬,
+09:10,7,Lakers,83.814
+09:10,8,お前らの2次元初恋って誰だったの,22.990
+09:10,9,Knicks,49.549
+09:10,10,ブシTCG大盛,15.662
+09:41,1,InternationalNursesDay,63.670
+09:41,2,GazaUnderAttack,1.676.545
+09:41,3,クソデカ林製薬,
+09:41,4,WeStandWithGaza,13.690
+09:41,5,小林製薬,
+09:41,6,大林製薬,
+09:41,7,NoLimite,318.668
+09:41,8,お前らの2次元初恋って誰だったの,24.685
+09:41,9,Lakers,85.074
+09:41,10,Knicks,49.897
+10:10,1,InternationalNursesDay,71.108
+10:10,2,WeStandWithGaza,22.282
+10:10,3,WeStandWithPalestine,29.251
+10:10,4,クソデカ林製薬,
+10:10,5,お前らの2次元初恋って誰だったの,26.017
+10:10,6,小林製薬,
+10:10,7,大林製薬,
+10:10,8,Mingi,84.572
+10:10,9,SA BTS ANG BOTO KO,27.630
+10:10,10,TvittrrGt Açııldı,
+10:41,1,InternationalNursesDay,79.587
+10:41,2,WeStandWithGaza,32.930
+10:41,3,WeStandWithPalestine,39.113
+10:41,4,お前らの2次元初恋って誰だったの,27.728
+10:41,5,SA BTS ANG BOTO KO,47.575
+10:41,6,クソデカ林製薬,
+10:41,7,小林製薬,
+10:41,8,大林製薬,
+10:41,9,Mingi,110.585
+10:41,10,HemşirelerGünü,
+11:10,1,InternationalNursesDay,86.845
+11:10,2,WeStandWithGaza,41.338
+11:10,3,WeStandWithPalestine,47.807
+11:10,4,sa bts ang boto ko,74.949
+11:10,5,お前らの2次元初恋って誰だったの,29.383
+11:10,6,すのちゅーぶ,
+11:10,7,クソデカ林製薬,10.503
+11:10,8,小林製薬,
+11:10,9,Mingi,127.262
+11:10,10,大林製薬,
+11:41,1,InternationalNursesDay,96.815
+11:41,2,聖杯戦線,13.368
+11:41,3,WeStandWithPalestine,57.927
+11:41,4,WeStandWithGaza,50.510
+11:41,5,SA BTS ANG BOTO KO,102.257
+11:41,6,マーリン,
+11:41,7,お前らの2次元初恋って誰だったの,31.476
+11:41,8,入国原則拒否,
+11:41,9,HemşirelerGünü,10.569
+11:41,10,Mingi,145.984
+12:10,1,InternationalNursesDay,103.546
+12:10,2,聖杯戦線,17.557
+12:10,3,WeStandWithPalestine,68.595
+12:10,4,マーリン,13.689
+12:10,5,WeStandWithGaza,59.737
+12:10,6,SA BTS ANG BOTO KO,126.989
+12:10,7,お前らの2次元初恋って誰だったの,33.307
+12:10,8,入国原則拒否,
+12:10,9,誤BAN,
+12:10,10,HemşirelerGünü,12.324
+12:41,1,InternationalNursesDay,110.139
+12:41,2,WeStandWithPalestine,82.526
+12:41,3,聖杯戦線,20.358
+12:41,4,誤BAN,11.410
+12:41,5,WeStandWithGaza,70.318
+12:41,6,マーリン,16.933
+12:41,7,SA BTS ANG BOTO KO,150.272
+12:41,8,お前らの2次元初恋って誰だったの,35.325
+12:41,9,HemşirelerGünü,14.632
+12:41,10,入国原則拒否,
+13:10,1,InternationalNursesDay,116.311
+13:10,2,誤BAN,14.124
+13:10,3,WeStandWithPalestine,99.384
+13:10,4,WeStandWithGaza,81.665
+13:10,5,聖杯戦線,22.069
+13:10,6,マーリン,19.112
+13:10,7,あいつ今何してる,11.853
+13:10,8,SA BTS ANG BOTO KO,167.243
+13:10,9,お前らの2次元初恋って誰だったの,37.095
+13:10,10,京急油壺マリンパーク,14.282
+13:41,1,InternationalNursesDay,122.659
+13:41,2,WeStandWithPalestine,117.473
+13:41,3,誤BAN,16.184
+13:41,4,WeStandWithGaza,92.661
+13:41,5,lovelive,31.212
+13:41,6,あいつ今何してる,14.516
+13:41,7,聖杯戦線,23.891
+13:41,8,マーリン,21.156
+13:41,9,SA BTS ANG BOTO KO,183.540
+13:41,10,Minal,55.005
+14:10,1,Minal,96.022
+14:10,2,TWICEにKuraKura,
+14:10,3,WeStandWithPalestine,135.316
+14:10,4,InternationalNursesDay,128.036
+14:10,5,Mohon,144.917
+14:10,6,lovelive,42.795
+14:10,7,誤BAN,17.669
+14:10,8,WeStandWithGaza,102.068
+14:10,9,SA BTS ANG BOTO KO,197.929
+14:10,10,聖杯戦線,25.238
+14:41,1,Minal,135.611
+14:41,2,Mohon,183.018
+14:41,3,EidMubarak,26.401
+14:41,4,TWICEにKuraKura,
+14:41,5,WeStandWithPalestine,155.387
+14:41,6,lovelive,48.758
+14:41,7,InternationalNursesDay,133.536
+14:41,8,誤BAN,18.491
+14:41,9,モイネロ,
+14:41,10,SA BTS ANG BOTO KO,214.011
+15:10,1,EidMubarak,32.617
+15:10,2,Minal,162.428
+15:10,3,Mohon,206.880
+15:10,4,TWICEにKuraKura,10.835
+15:10,5,WeStandWithPalestine,174.839
+15:10,6,特捜9,
+15:10,7,引き分け,12.991
+15:10,8,InternationalNursesDay,138.982
+15:10,9,モイネロ,
+15:10,10,わけほー,
+15:41,1,EidMubarak,39.622
+15:41,2,Minal,184.669
+15:41,3,Mohon,232.433
+15:41,4,突然ですが占ってもいいですか,
+15:41,5,水曜日のダウンタウン,
+15:41,6,WeStandWithPalestine,193.939
+15:41,7,TWICEにKuraKura,11.876
+15:41,8,Joe Budden,
+15:41,9,引き分け,14.150
+15:41,10,モイネロ,
+16:10,1,EidMubarak,46.838
+16:10,2,Minal,198.063
+16:10,3,Mohon,246.761
+16:10,4,突然ですが占ってもいいですか,12.198
+16:10,5,水曜日のダウンタウン,11.401
+16:10,6,Liz Cheney,373.435
+16:10,7,WeStandWithPalestine,208.999
+16:10,8,恋ぷに,13.122
+16:10,9,Joe Budden,11.384
+16:10,10,Rory,17.255
+16:41,1,EidMubarak,53.478
+16:41,2,ButterTeaser3,158.699
+16:41,3,Liz Cheney,418.332
+16:41,4,Minal,209.515
+16:41,5,Mohon,262.147
+16:41,6,突然ですが占ってもいいですか,14.670
+16:41,7,水曜日のダウンタウン,11.721
+16:41,8,Douglas Costa,
+16:41,9,WeStandWithPalestine,228.313
+16:41,10,jongin,35.967
+17:10,1,ButterTeaser3,303.230
+17:10,2,EidMubarak,59.145
+17:10,3,Liz Cheney,447.675
+17:10,4,Douglas Costa,
+17:10,5,Mohon,272.275
+17:10,6,Minal,217.832
+17:10,7,突然ですが占ってもいいですか,15.778
+17:10,8,Wajngarten,27.020
+17:10,9,jongin,43.304
+17:10,10,CPIdaCovid,12.454
+17:41,1,ButterTeaser3,356.896
+17:41,2,EidMubarak,65.380
+17:41,3,Liz Cheney,480.853
+17:41,4,Douglas Costa,
+17:41,5,Aint_About_You,31.413
+17:41,6,Wajngarten,38.109
+17:41,7,Mohon,286.024
+17:41,8,CPIdaCovid,15.471
+17:41,9,末ズCM,
+17:41,10,Renan Calheiros,26.261
+18:10,1,ButterTeaser3,370.495
+18:10,2,EidMubarak,70.952
+18:10,3,Liz Cheney,504.944
+18:10,4,Douglas Costa,10.352
+18:10,5,CPIdaCovid,18.020
+18:10,6,Renan Calheiros,31.292
+18:10,7,Aint_About_You,37.734
+18:10,8,Wajngarten,49.144
+18:10,9,末ズCM,
+18:10,10,Mohon,293.222
+18:41,1,ButterTeaser3,378.692
+18:41,2,EidMubarak,78.523
+18:41,3,Liz Cheney,532.402
+18:41,4,Douglas Costa,11.736
+18:41,5,NubsibTheEnd,83.737
+18:41,6,عيد_الفطر,87.805
+18:41,7,Gal Gadot,23.762
+18:41,8,Renan Calheiros,37.094
+18:41,9,CPIdaCovid,20.384
+18:41,10,Wajngarten,60.538
+19:10,1,ButterTeaser3,382.723
+19:10,2,EidMubarak,85.044
+19:10,3,NubsibTheEnd,142.020
+19:10,4,عيد_الفطر,99.302
+19:10,5,Liz Cheney,551.293
+19:10,6,Gal Gadot,32.744
+19:10,7,Douglas Costa,12.880
+19:10,8,乃木坂46ANN,11.054
+19:10,9,Renan Calheiros,40.701
+19:10,10,Wajngarten,69.856
+19:41,1,EidMubarak,93.402
+19:41,2,ButterTeaser3,386.548
+19:41,3,NubsibTheEnd,180.811
+19:41,4,Gal Gadot,41.313
+19:41,5,عيد_مبارك,45.518
+19:41,6,عيد_الفطر,111.731
+19:41,7,Liz Cheney,577.512
+19:41,8,Douglas Costa,13.790
+19:41,9,Renan Calheiros,45.118
+19:41,10,Wajngarten,81.754
+20:10,1,EidMubarak,99.673
+20:10,2,عيد_مبارك,54.665
+20:10,3,Gal Gadot,50.059
+20:10,4,عيد_الفطر,117.726
+20:10,5,NubsibTheEnd,198.036
+20:10,6,AileYineAsgarininAltında,
+20:10,7,Liz Cheney,593.465
+20:10,8,Douglas Costa,14.492
+20:10,9,Renan Calheiros,48.400
+20:10,10,Wajngarten,92.446
+20:41,1,EidMubarak,114.127
+20:41,2,عيد_مبارك,64.431
+20:41,3,Gal Gadot,58.450
+20:41,4,عيد_الفطر,131.029
+20:41,5,CPIdaCovid,32.502
+20:41,6,OsmanBey,
+20:41,7,Liz Cheney,614.489
+20:41,8,Wajngarten,110.965
+20:41,9,عيد سعيد,47.506
+20:41,10,EğitimHer EngeliAşar,
+21:10,1,EidMubarak,131.017
+21:10,2,EidUlFitr,26.717
+21:10,3,CPIdaCovid,37.762
+21:10,4,عيد_مبارك,72.880
+21:10,5,عيد_الفطر,139.675
+21:10,6,Gal Gadot,65.061
+21:10,7,Wajngarten,127.496
+21:10,8,Filistine TekÇözüm,
+21:10,9,Liz Cheney,627.573
+21:10,10,Vitalik,15.229
+21:41,1,CHEARS,46.963
+21:41,2,EidMubarak,145.578
+21:41,3,CPIdaCovid,47.300
+21:41,4,Kepa,
+21:41,5,Wajngarten,152.852
+21:41,6,EidUlFitr,31.006
+21:41,7,Katilİsrail,19.949
+21:41,8,Renan Calheiros,65.182
+21:41,9,Gal Gadot,71.773
+21:41,10,خالد بن عبدالعزيز,45.585
+22:10,1,CHEARS,52.902
+22:10,2,EidMubarak,157.526
+22:10,3,CPIdaCovid,57.686
+22:10,4,Kepa,11.512
+22:10,5,Wajngarten,171.563
+22:10,6,Katilİsrail,23.775
+22:10,7,Renan Calheiros,74.167
+22:10,8,مسابقه_ابوناصر٣٠,97.856
+22:10,9,Omar,131.026
+22:10,10,Kajuru,10.887
+22:41,1,CHEARS,58.712
+22:41,2,CPIdaCovid,66.563
+22:41,3,EidMubarak,170.259
+22:41,4,Renan Calheiros,95.630
+22:41,5,Flávio Bolsonaro,27.879
+22:41,6,Kepa,12.621
+22:41,7,CPIdaVergonha,21.444
+22:41,8,Katilİsrail,28.077
+22:41,9,Wajngarten,187.653
+22:41,10,Omar,140.850
+23:10,1,CHEARS,63.107
+23:10,2,Eid Mubarak,224.226
+23:10,3,CPIdaCovid,70.576
+23:10,4,Renan Calheiros,108.628
+23:10,5,MHSCPSG,16.975
+23:10,6,Flávio Bolsonaro,40.788
+23:10,7,TorinoMilan,14.387
+23:10,8,CPIdaVergonha,27.638
+23:10,9,Giroud,
+23:10,10,Kepa,13.086
+23:41,1,Arsenal,211.629
+23:41,2,CHEARS,75.627
+23:41,3,Eid Mubarak,236.397
+23:41,4,ramazanbayramı,44.862
+23:41,5,Renan Calheiros,120.012
+23:41,6,RocioVerdad10,43.874
+23:41,7,CPIdaCovid,72.929
+23:41,8,CPIdaVergonha,33.483
+23:41,9,Flávio Bolsonaro,49.973
+23:41,10,Giroud,

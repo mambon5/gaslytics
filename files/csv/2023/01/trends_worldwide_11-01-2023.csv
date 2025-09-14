@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Coachella,243.177
+00:10,2,Rashford,71.216
+00:10,3,Elanga,30.658
+00:10,4,FinalCorridaDasBlogueiras,
+00:10,5,Pellistri,36.994
+00:10,6,frank ocean,30.875
+00:10,7,Shakira,83.475
+00:10,8,PortfolioDay,130.149
+00:10,9,Boomerissima,12.063
+00:10,10,Antony,48.112
+00:40,1,Coachella,270.438
+00:40,2,FinalCorridaDasBlogueiras,10.008
+00:40,3,Rashford,74.917
+00:40,4,Elanga,31.641
+00:40,5,frank ocean,33.301
+00:40,6,Pellistri,38.853
+00:40,7,Shakira,89.182
+00:40,8,PortfolioDay,138.204
+00:40,9,Boomerissima,12.800
+00:40,10,Emerson Jake,15.342
+01:10,1,Coachella,298.202
+01:10,2,FinalCorridaDasBlogueiras,11.572
+01:10,3,Rashford,77.030
+01:10,4,Elanga,32.243
+01:10,5,GoldenGlobes,37.992
+01:10,6,frank ocean,35.741
+01:10,7,Shakira,93.762
+01:10,8,Pellistri,40.042
+01:10,9,PortfolioDay,145.701
+01:10,10,Emerson Jake,16.961
+01:40,1,GoldenGlobes,70.264
+01:40,2,FinalCorridaDasBlogueiras,16.368
+01:40,3,Coachella,332.981
+01:40,4,Elay,
+01:40,5,Rashford,78.959
+01:40,6,Elanga,32.716
+01:40,7,frank ocean,38.688
+01:40,8,Shakira,98.984
+01:40,9,YetToComeInCinemas,49.803
+01:40,10,PortfolioDay,154.013
+02:10,1,GoldenGlobes,120.764
+02:10,2,FinalCorridaDasBlogueiras,20.366
+02:10,3,Coachella,363.350
+02:10,4,Elay,11.793
+02:10,5,YetToComeInCinemas,58.984
+02:10,6,Vince,36.865
+02:10,7,frank ocean,41.283
+02:10,8,Shakira,102.989
+02:10,9,Rashford,80.444
+02:10,10,Emerson Jake,20.467
+02:40,1,GoldenGlobes,195.661
+02:40,2,FinalCorridaDasBlogueiras,20.816
+02:40,3,Angela Bassett,23.137
+02:40,4,Coachella,392.756
+02:40,5,Ke Huy Quan,16.843
+02:40,6,YetToComeInCinemas,48.592
+02:40,7,Elay,12.445
+02:40,8,Jennifer Coolidge,
+02:40,9,jenna,48.370
+02:40,10,Emerson Jake,23.013
+03:10,1,GoldenGlobes,271.890
+03:10,2,Angela Bassett,34.193
+03:10,3,Coachella,433.351
+03:10,4,FinalCorridaDasBlogueiras,21.138
+03:10,5,YetToComeInCinemas,56.064
+03:10,6,Ke Huy Quan,23.688
+03:10,7,jenna,54.200
+03:10,8,Michelle Yeoh,13.581
+03:10,9,Emerson Jake,24.982
+03:10,10,Jennifer Coolidge,
+03:40,1,GoldenGlobes,379.293
+03:40,2,Austin Butler,17.493
+03:40,3,Michelle Yeoh,35.004
+03:40,4,Zendaya,17.249
+03:40,5,Angela Bassett,41.223
+03:40,6,Coachella,465.916
+03:40,7,YetToComeInCinemas,62.082
+03:40,8,Emerson Jake,28.685
+03:40,9,Ke Huy Quan,30.055
+03:40,10,jenna,58.526
+04:10,1,GoldenGlobes,458.749
+04:10,2,maxi,43.370
+04:10,3,Ryan Murphy,
+04:10,4,Austin Butler,20.887
+04:10,5,Zendaya,23.525
+04:10,6,Michelle Yeoh,45.923
+04:10,7,GranHermano,90.268
+04:10,8,Emerson Jake,31.482
+04:10,9,YetToComeInCinemas,66.132
+04:10,10,Coachella,492.068
+04:40,1,GoldenGlobes,539.906
+04:40,2,Jennifer Coolidge,14.580
+04:40,3,maxi,47.250
+04:40,4,Ryan Murphy,
+04:40,5,Zendaya,26.870
+04:40,6,Austin Butler,23.102
+04:40,7,Michelle Yeoh,54.152
+04:40,8,NaatuNaatu,53.975
+04:40,9,Emerson Jake,33.802
+04:40,10,YetToComeInCinemas,70.608
+05:10,1,GoldenGlobes,612.128
+05:10,2,Jennifer Coolidge,18.798
+05:10,3,maxi,47.642
+05:10,4,Eddie Murphy,
+05:10,5,Twitter Blue,198.338
+05:10,6,Vince,53.374
+05:10,7,NaatuNaatu,67.388
+05:10,8,Zendaya,29.336
+05:10,9,Ryan Murphy,
+05:10,10,広告半分,
+05:40,1,GoldenGlobes,678.589
+05:40,2,Twitter Blue,208.221
+05:40,3,Jennifer Coolidge,22.248
+05:40,4,Eddie Murphy,12.717
+05:40,5,maxi,49.133
+05:40,6,NaatuNaatu,80.732
+05:40,7,Vince,57.926
+05:40,8,広告半分,
+05:40,9,Zendaya,31.178
+05:40,10,Emerson Jake,38.310
+06:10,1,GoldenGlobes,720.085
+06:10,2,Twitter Blue,207.875
+06:10,3,Jennifer Coolidge,24.722
+06:10,4,NaatuNaatu,90.242
+06:10,5,Eddie Murphy,14.425
+06:10,6,Vince,60.458
+06:10,7,Warriors,58.237
+06:10,8,maxi,49.067
+06:10,9,広告半分,11.486
+06:10,10,RRRMovie,125.193
+06:40,1,GoldenGlobes2023,164.199
+06:40,2,Twitter Blue,215.682
+06:40,3,Warriors,62.247
+06:40,4,NaatuNaatu,104.063
+06:40,5,Jennifer Coolidge,26.951
+06:40,6,Vince,63.379
+06:40,7,Eddie Murphy,15.766
+06:40,8,RRRMovie,135.378
+06:40,9,広告半分,13.286
+06:40,10,maxi,49.771
+07:10,1,GoldenGlobes2023,178.730
+07:10,2,Twitter Blue,216.345
+07:10,3,Warriors,65.921
+07:10,4,NaatuNaatu,117.426
+07:10,5,PPTM2023,
+07:10,6,RRRMovie,140.289
+07:10,7,Jennifer Coolidge,28.955
+07:10,8,Vince,64.598
+07:10,9,広告半分,14.947
+07:10,10,Eddie Murphy,17.039
+07:40,1,GoldenGlobes2023,190.533
+07:40,2,Twitter Blue,220.265
+07:40,3,NaatuNaatu,128.971
+07:40,4,Warriors,67.857
+07:40,5,PPTM2023,
+07:40,6,RRRMovie,149.568
+07:40,7,広告半分,16.287
+07:40,8,Vince,65.793
+07:40,9,Jennifer Coolidge,30.596
+07:40,10,Ini Diplomasi,
+08:10,1,GoldenGlobes2023,202.584
+08:10,2,Twitter Blue,219.410
+08:10,3,NaatuNaatu,141.557
+08:10,4,ParaKazanmak ÇokKolay,
+08:10,5,RRRMovie,154.019
+08:10,6,Warriors,68.491
+08:10,7,PPTM2023,
+08:10,8,PRABOWO GIGIH,
+08:10,9,広告半分,17.448
+08:10,10,Vince,66.679
+08:40,1,GoldenGlobes2023,212.984
+08:40,2,Twitter Blue,225.470
+08:40,3,NaatuNaatu,152.301
+08:40,4,KiaConceptEV9,
+08:40,5,RRRMovie,162.353
+08:40,6,ParaKazanmak ÇokKolay,
+08:40,7,広告半分,18.558
+08:40,8,PRABOWO GIGIH,
+08:40,9,PPTM2023,
+08:40,10,Warriors,69.799
+09:10,1,小さい頃勘違いしてたやつ選手権,
+09:10,2,GoldenGlobes2023,223.289
+09:10,3,Twitter Blue,224.408
+09:10,4,NaatuNaatu,162.162
+09:10,5,ILoveHyundai,
+09:10,6,BlockbusterPathaanTrailer,17.602
+09:10,7,ParaKazanmak ÇokKolay,
+09:10,8,広告半分,19.728
+09:10,9,PRABOWO GIGIH,
+09:10,10,Pokémon fit,
+09:40,1,小さい頃勘違いしてたやつ選手権,
+09:40,2,GoldenGlobes2023,231.999
+09:40,3,Twitter Blue,230.817
+09:40,4,NaatuNaatu,171.989
+09:40,5,はま寿司冬の旬ねた祭り,
+09:40,6,LesSoldesSurCdiscount,
+09:40,7,ParaKazanmak ÇokKolay,
+09:40,8,chenle,35.181
+09:40,9,広告半分,20.906
+09:40,10,Pokémon fit,
+10:10,1,小さい頃勘違いしてたやつ選手権,
+10:10,2,Twitter Blue,230.767
+10:10,3,GoldenGlobes2023,239.745
+10:10,4,はま寿司冬の旬ねた祭り,
+10:10,5,NaatuNaatu,180.810
+10:10,6,EYTyiMecliseGetirin,53.109
+10:10,7,GANDHI GODSE TRAILER,
+10:10,8,chenle,38.170
+10:10,9,広告半分,22.142
+10:10,10,Pokémon fit,
+10:40,1,小さい頃勘違いしてたやつ選手権,
+10:40,2,Twitter Blue,229.626
+10:40,3,GoldenGlobes2023,247.750
+10:40,4,はま寿司冬の旬ねた祭り,10.156
+10:40,5,EYTyiMecliseGetirin,73.116
+10:40,6,NaatuNaatu,190.753
+10:40,7,GANDHI GODSE TRAILER,
+10:40,8,初任給30万,13.197
+10:40,9,Pokémon fit,
+10:40,10,Gare du Nord,
+11:10,1,小さい頃勘違いしてたやつ選手権,10.589
+11:10,2,Twitter Blue,238.190
+11:10,3,はま寿司冬の旬ねた祭り,12.078
+11:10,4,GoldenGlobes2023,255.729
+11:10,5,EYTyiMecliseGetirin,92.173
+11:10,6,因習村診断,
+11:10,7,京都記念,
+11:10,8,Pokémon fit,
+11:10,9,初任給30万,15.038
+11:10,10,GANDHI GODSE TRAILER,
+11:40,1,小さい頃勘違いしてたやつ選手権,12.487
+11:40,2,Twitter Blue,241.661
+11:40,3,はま寿司冬の旬ねた祭り,13.676
+11:40,4,EYTyiMecliseGetirin,111.214
+11:40,5,有吉の壁,
+11:40,6,因習村診断,
+11:40,7,京都記念,
+11:40,8,Pokémon fit,
+11:40,9,初任給30万,16.866
+11:40,10,ポケモンセンターオンライン,
+12:10,1,小さい頃勘違いしてたやつ選手権,15.141
+12:10,2,BataEventXZeeNunew,28.712
+12:10,3,有吉の壁,
+12:10,4,Twitter Blue,245.266
+12:10,5,はま寿司冬の旬ねた祭り,15.320
+12:10,6,EYTyiMecliseGetirin,128.102
+12:10,7,Ömer Çelik,
+12:10,8,京都記念,
+12:10,9,千葉LOOK,
+12:10,10,Pokémon fit,10.547
+12:40,1,小さい頃勘違いしてたやつ選手権,17.384
+12:40,2,有吉の壁,13.267
+12:40,3,BataEventXZeeNunew,56.029
+12:40,4,NCTDREAM_THEDREAMSHOW2_in_BKK,48.550
+12:40,5,かまいガチ,12.544
+12:40,6,Twitter Blue,252.331
+12:40,7,Ömer Çelik,
+12:40,8,京都記念,
+12:40,9,الدينار الكويتي,
+12:40,10,初任給30万,21.082
+13:10,1,小さい頃勘違いしてたやつ選手権,20.327
+13:10,2,BataEventXZeeNunew,109.677
+13:10,3,NCTDREAM_THEDREAMSHOW2_in_BKK,74.936
+13:10,4,有吉の壁,15.504
+13:10,5,あなたのオタクタイプ診断,
+13:10,6,Twitter Blue,251.032
+13:10,7,Andrew Bridgen,
+13:10,8,三色チーズ牛丼の特盛,
+13:10,9,見守り型,
+13:10,10,チー牛型,
+13:40,1,小さい頃勘違いしてたやつ選手権,22.846
+13:40,2,PMQs,
+13:40,3,BataEventXZeeNunew,174.489
+13:40,4,NCTDREAM_THEDREAMSHOW2_in_BKK,92.597
+13:40,5,あなたのオタクタイプ診断,
+13:40,6,Nawaz,
+13:40,7,The FAA,16.638
+13:40,8,Twitter Blue,258.174
+13:40,9,Andrew Bridgen,
+13:40,10,NHS GP,
+14:10,1,小さい頃勘違いしてたやつ選手権,25.668
+14:10,2,PMQs,
+14:10,3,NCTDREAM_THEDREAMSHOW2_in_BKK,108.396
+14:10,4,BataEventXZeeNunew,229.165
+14:10,5,あなたのオタクタイプ診断,
+14:10,6,The FAA,25.272
+14:10,7,初見PUC,
+14:10,8,Nawaz,
+14:10,9,Andrew Bridgen,10.701
+14:10,10,NOTAM,
+14:40,1,小さい頃勘違いしてたやつ選手権,28.516
+14:40,2,リバーサルオーケストラ,14.825
+14:40,3,水曜日のダウンタウン,
+14:40,4,NCTDREAM_THEDREAMSHOW2_in_BKK,120.143
+14:40,5,PMQs,11.875
+14:40,6,The FAA,32.695
+14:40,7,NOTAM,
+14:40,8,初見PUC,
+14:40,9,Andrew Bridgen,12.224
+14:40,10,熱愛報道,
+15:10,1,リバーサルオーケストラ,20.889
+15:10,2,小さい頃勘違いしてたやつ選手権,31.293
+15:10,3,水曜日のダウンタウン,10.399
+15:10,4,NCTDREAM_THEDREAMSHOW2_in_BKK,129.397
+15:10,5,Aぇヤンタン,18.552
+15:10,6,The FAA,43.793
+15:10,7,Mayor Pete,
+15:10,8,NOTAM,
+15:10,9,熱愛報道,
+15:10,10,見守り型,
+15:40,1,リバーサルオーケストラ,22.913
+15:40,2,TOKIOカケル,10.167
+15:40,3,小さい頃勘違いしてたやつ選手権,33.561
+15:40,4,水曜日のダウンタウン,10.607
+15:40,5,해피됴데이_2023,20.890
+15:40,6,The FAA,51.582
+15:40,7,Mayor Pete,
+15:40,8,NOTAM,
+15:40,9,NIGHTMARE CONCEPT CLIP,11.070
+15:40,10,ジェルくん,
+16:10,1,TopExcellenceDOday,58.296
+16:10,2,해피됴데이_2023,55.185
+16:10,3,iHeartAwards,86.533
+16:10,4,BestMusicVideo,47.098
+16:10,5,HappyDODay,66.693
+16:10,6,NIGHTMARE CONCEPT CLIP,37.310
+16:10,7,The FAA,57.674
+16:10,8,Mayor Pete,10.514
+16:10,9,NOTAM,
+16:10,10,MOONLIGHT SUNRISE CONCEPTPHOTO,
+16:40,1,iHeartAwards,197.990
+16:40,2,TopExcellenceDOday,97.457
+16:40,3,해피됴데이_2023,95.187
+16:40,4,BestMusicVideo,115.038
+16:40,5,BestFanArmy,52.503
+16:40,6,NIGHTMARE CONCEPT CLIP,49.854
+16:40,7,Mayor Pete,13.598
+16:40,8,MOONLIGHT SUNRISE CONCEPTPHOTO,13.185
+16:40,9,第356回,
+16:40,10,The FAA,63.908
+17:10,1,iHeartAwards,309.309
+17:10,2,TopExcellenceDOday,118.357
+17:10,3,해피됴데이_2023,116.304
+17:10,4,BestMusicVideo,167.885
+17:10,5,BestFanArmy,85.672
+17:10,6,FELiPLAY LEVEL26,
+17:10,7,NIGHTMARE CONCEPT CLIP,54.995
+17:10,8,Mayor Pete,16.073
+17:10,9,FOREVER WITH JIMIN,17.823
+17:10,10,第356回,
+17:40,1,iHeartAwards,397.278
+17:40,2,TopExcellenceDOday,130.960
+17:40,3,해피됴데이_2023,127.765
+17:40,4,BestMusicVideo,218.339
+17:40,5,BestFanArmy,114.019
+17:40,6,FELiPLAY LEVEL26,10.532
+17:40,7,NIGHTMARE CONCEPT CLIP,57.406
+17:40,8,Mayor Pete,18.518
+17:40,9,Sara Manuela,
+17:40,10,FOREVER WITH JIMIN,22.975
+18:10,1,iHeartAwards,478.077
+18:10,2,TopExcellenceDOday,138.763
+18:10,3,BestMusicVideo,258.334
+18:10,4,해피됴데이_2023,135.413
+18:10,5,BestFanArmy,138.465
+18:10,6,FELiPLAY LEVEL26,13.661
+18:10,7,Sara Manuela,
+18:10,8,FOREVER WITH JIMIN,27.345
+18:10,9,Mayor Pete,21.129
+18:10,10,NIGHTMARE CONCEPT CLIP,59.066
+18:40,1,iHeartAwards,551.226
+18:40,2,BecasEdomex,14.988
+18:40,3,BestMusicVideo,289.699
+18:40,4,TopExcellenceDOday,144.801
+18:40,5,BestFanArmy,161.379
+18:40,6,FELiPLAY LEVEL26,15.293
+18:40,7,Kamuda35 YaşMeclise,
+18:40,8,LOVE YOU ALBA,20.438
+18:40,9,Sara Manuela,
+18:40,10,Babar,26.759
+19:10,1,iHeartAwards,614.988
+19:10,2,BecasEdomex,26.938
+19:10,3,BestMusicVideo,316.633
+19:10,4,BestFanArmy,177.385
+19:10,5,TopExcellenceDOday,148.300
+19:10,6,FELiPLAY LEVEL26,16.194
+19:10,7,LOVE YOU ALBA,36.253
+19:10,8,Kamuda35 YaşMeclise,
+19:10,9,Sara Manuela,
+19:10,10,FOREVER WITH JIMIN,32.928
+19:40,1,BecasEdomex,36.923
+19:40,2,iHeartAwards,670.188
+19:40,3,BestMusicVideo,339.469
+19:40,4,BestFanArmy,193.326
+19:40,5,TopExcellenceDOday,151.234
+19:40,6,FELiPLAY LEVEL26,16.755
+19:40,7,LOVE YOU ALBA,47.687
+19:40,8,Sara Manuela,
+19:40,9,Kamuda35 YaşMeclise,
+19:40,10,Naomi,18.288
+20:10,1,BecasEdomex,44.139
+20:10,2,iHeartAwards,715.229
+20:10,3,BestMusicVideo,360.642
+20:10,4,BestFanArmy,207.110
+20:10,5,TopExcellenceDOday,153.551
+20:10,6,LOVE YOU ALBA,58.458
+20:10,7,FELiPLAY LEVEL26,17.152
+20:10,8,Sara Manuela,
+20:10,9,Naomi Osaka,
+20:10,10,SeniSeviyoruz SedatPolat,36.642
+20:40,1,BecasEdomex,51.734
+20:40,2,iHeartAwards,757.390
+20:40,3,BestFanArmy,219.279
+20:40,4,BestMusicVideo,380.450
+20:40,5,LOVE YOU ALBA,70.838
+20:40,6,SatmıyorumUlan,
+20:40,7,Sara Manuela,
+20:40,8,FELiPLAY LEVEL26,17.510
+20:40,9,Naomi Osaka,
+20:40,10,Shakira,213.386
+21:10,1,BecasEdomex,65.176
+21:10,2,iHeartAwards,774.574
+21:10,3,SatmıyorumUlan,10.682
+21:10,4,BestFanArmy,231.352
+21:10,5,BestMusicVideo,397.372
+21:10,6,LOVE YOU ALBA,80.398
+21:10,7,Camavinga,
+21:10,8,Valencia,53.513
+21:10,9,Turpin,
+21:10,10,Lucas Vázquez,
+21:40,1,BecasEdomex,77.211
+21:40,2,Southampton,35.214
+21:40,3,iHeartAwards,829.058
+21:40,4,SatmıyorumUlan,14.349
+21:40,5,PunjabAssembly,41.516
+21:40,6,BestMusicVideo,413.587
+21:40,7,LOVE YOU ALBA,88.741
+21:40,8,Lucas Vázquez,
+21:40,9,Valencia,57.976
+21:40,10,Camavinga,
+22:10,1,BecasEdomex,86.210
+22:10,2,Southampton,42.014
+22:10,3,iHeartAwards,834.179
+22:10,4,Palmer,14.988
+22:10,5,SatmıyorumUlan,16.555
+22:10,6,PunjabAssembly,47.533
+22:10,7,Valencia,59.993
+22:10,8,BestFanArmy,254.024
+22:10,9,Gomez,98.881
+22:10,10,LOVE YOU ALBA,96.167
+22:40,1,BecasEdomex,93.300
+22:40,2,Southampton,46.688
+22:40,3,iHeartAwards,892.610
+22:40,4,SatmıyorumUlan,18.540
+22:40,5,Valencia,64.575
+22:40,6,chilhavisto,
+22:40,7,Palmer,15.489
+22:40,8,PunjabAssembly,51.063
+22:40,9,Courtois,
+22:40,10,Vinicius,17.855
+23:10,1,Southampton,57.478
+23:10,2,BecasEdomex,99.280
+23:10,3,Madrid,226.248
+23:10,4,Courtois,13.976
+23:10,5,iHeartAwards,941.815
+23:10,6,كورتوا,
+23:10,7,SOUMCI,
+23:10,8,Man City,29.796
+23:10,9,Asensio,
+23:10,10,chilhavisto,
+23:40,1,Jeff Beck,22.279
+23:40,2,Southampton,65.697
+23:40,3,BecasEdomex,104.525
+23:40,4,MilanTorino,
+23:40,5,Madrid,236.186
+23:40,6,iHeartAwards,976.117
+23:40,7,Courtois,15.798
+23:40,8,كورتوا,
+23:40,9,SOUMCI,
+23:40,10,CarabaoCup,29.458

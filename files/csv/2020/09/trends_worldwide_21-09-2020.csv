@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:04,1,Falcons,166.392
+00:04,2,Cowboys,207.343
+00:04,3,Herbert,32.193
+00:04,4,Chargers,35.453
+00:04,5,Atlanta,58.928
+00:04,6,Pikachu,34.086
+00:04,7,acunilicali,
+00:04,8,Josh Allen,27.130
+00:04,9,Chiefs,42.228
+00:04,10,Eagles,97.857
+00:34,1,Falcons,174.435
+00:34,2,Cowboys,213.887
+00:34,3,Herbert,37.652
+00:34,4,Bad Bunny,105.782
+00:34,5,Chargers,40.631
+00:34,6,Chiefs,47.918
+00:34,7,Dan Quinn,18.290
+00:34,8,acunilicali,
+00:34,9,Pikachu,34.901
+00:34,10,Josh Allen,29.097
+01:04,1,Bad Bunny,185.081
+01:04,2,Falcons,182.187
+01:04,3,Herbert,42.768
+01:04,4,Chiefs,56.759
+01:04,5,Benito,23.551
+01:04,6,Mahomes,23.400
+01:04,7,Kyler Murray,
+01:04,8,acunilicali,
+01:04,9,Emmys,46.561
+01:04,10,Texans,22.097
+01:34,1,Bad Bunny,312.627
+01:34,2,Falcons,193.655
+01:34,3,Chargers,52.663
+01:34,4,Mahomes,33.184
+01:34,5,Herbert,46.451
+01:34,6,Emmys,52.982
+01:34,7,Texans,24.797
+01:34,8,Kyler Murray,
+01:34,9,Ravens,48.332
+01:34,10,KCvsLAC,12.787
+02:04,1,Bad Bunny,471.402
+02:04,2,Chargers,61.775
+02:04,3,Falcons,200.373
+02:04,4,Benito,43.883
+02:04,5,Egídio,11.936
+02:04,6,Emmys,63.713
+02:04,7,Butker,19.776
+02:04,8,Herbert,50.460
+02:04,9,Mahomes,37.825
+02:04,10,Fantastico,
+02:34,1,Bad Bunny,640.473
+02:34,2,Emmys,113.720
+02:34,3,Benito,54.449
+02:34,4,Chargers,65.245
+02:34,5,Egídio,15.453
+02:34,6,Falcons,205.953
+02:34,7,Caruso,16.277
+02:34,8,Herbert,53.033
+02:34,9,Butker,22.621
+02:34,10,Schitt's Creek,
+03:04,1,Emmys,186.691
+03:04,2,Bad Bunny,726.051
+03:04,3,Benito,57.997
+03:04,4,Caruso,29.507
+03:04,5,Chargers,67.307
+03:04,6,Egídio,16.633
+03:04,7,Falcons,210.166
+03:04,8,Cam Newton,11.797
+03:04,9,CalaABocaBotafogo,24.435
+03:04,10,Cowboys,231.769
+03:29,1,Emmys,245.400
+03:29,2,Bad Bunny,777.915
+03:29,3,zendaya,70.827
+03:29,4,WandaVision,47.276
+03:29,5,Egídio,21.125
+03:29,6,Caruso,33.720
+03:29,7,Benito,60.023
+03:29,8,RHOP,
+03:29,9,Chargers,68.977
+03:29,10,CalaABocaBotafogo,29.669
+04:04,1,Emmys,314.811
+04:04,2,Bad Bunny,839.394
+04:04,3,WandaVision,78.923
+04:04,4,RHOP,17.072
+04:04,5,Egídio,23.544
+04:04,6,Caruso,37.112
+04:04,7,Lisa,378.472
+04:04,8,Benito,61.866
+04:04,9,Shotaro,74.316
+04:04,10,CalaABocaBotafogo,36.561
+04:29,1,Emmys,366.140
+04:29,2,Anthony Davis,113.817
+04:29,3,LakeShow,43.616
+04:29,4,Bad Bunny,876.861
+04:29,5,Jokic,37.929
+04:29,6,SchittsCreek,34.413
+04:29,7,WandaVision,93.379
+04:29,8,Plumlee,11.703
+04:29,9,Russell Wilson,16.885
+04:29,10,RHOP,19.849
+05:04,1,Zendaya,299.782
+05:04,2,Anthony Davis,143.914
+05:04,3,Bad Bunny,919.513
+05:04,4,Jokic,42.378
+05:04,5,Schitt's Creek,61.801
+05:04,6,WandaVision,108.630
+05:04,7,Plumlee,17.990
+05:04,8,Russell Wilson,23.020
+05:04,9,RHOP,21.285
+05:04,10,Lisa,406.669
+05:34,1,Zendaya,381.416
+05:34,2,Anthony Davis,159.445
+05:34,3,Russell Wilson,31.496
+05:34,4,Seahawks,92.929
+05:34,5,Cam Newton,31.074
+05:34,6,Bad Bunny,951.380
+05:34,7,Schitt's Creek,65.567
+05:34,8,Jokic,44.242
+05:34,9,Patriots,207.192
+05:34,10,WandaVision,117.803
+06:04,1,Zendaya,435.414
+06:04,2,Emmys,574.114
+06:04,3,Anthony Davis,168.846
+06:04,4,Seahawks,112.649
+06:04,5,Russell Wilson,39.502
+06:04,6,Cam Newton,42.124
+06:04,7,Bad Bunny,978.004
+06:04,8,Pats,32.501
+06:04,9,SchittsCreek,38.943
+06:04,10,WandaVision,125.178
+06:34,1,Zendaya,476.756
+06:34,2,Emmys,597.425
+06:34,3,Anthony Davis,175.577
+06:34,4,Seahawks,117.909
+06:34,5,Cam Newton,45.126
+06:34,6,Russell Wilson,42.526
+06:34,7,Bad Bunny,1.002.347
+06:34,8,WandaVision,131.081
+06:34,9,SchittsCreek,39.798
+06:34,10,Plumlee,21.369
+07:04,1,Zendaya,506.768
+07:04,2,Emmys,614.077
+07:04,3,Anthony Davis,180.914
+07:04,4,Seahawks,120.692
+07:04,5,Cam Newton,47.091
+07:04,6,Russell Wilson,44.023
+07:04,7,Bad Bunny,1.021.202
+07:04,8,WandaVision,136.244
+07:04,9,SchittsCreek,40.766
+07:04,10,prfmPOPFes,23.249
+07:34,1,Zendaya,533.320
+07:34,2,Emmys,629.092
+07:34,3,Anthony Davis,185.595
+07:34,4,Seahawks,122.862
+07:34,5,Lakers,302.231
+07:34,6,Cam Newton,48.969
+07:34,7,Russell Wilson,45.081
+07:34,8,prfmPOPFes,31.049
+07:34,9,คนนั้นต้องเป็นเธอ2M,75.305
+07:34,10,Bad Bunny,1.039.514
+08:04,1,Zendaya,554.534
+08:04,2,Emmys,641.602
+08:04,3,Anthony Davis,189.444
+08:04,4,prfmPOPFes,37.172
+08:04,5,Russell Wilson,45.842
+08:04,6,Seahawks,124.288
+08:04,7,Cam Newton,50.119
+08:04,8,pazartesi,
+08:04,9,คนนั้นต้องเป็นเธอ2M,93.844
+08:04,10,LakeShow,54.039
+08:29,1,Zendaya,569.341
+08:29,2,Emmys,650.740
+08:29,3,prfmPOPFes,43.674
+08:29,4,Lakers,310.067
+08:29,5,pazartesi,
+08:29,6,คนนั้นต้องเป็นเธอ2M,103.358
+08:29,7,Seahawks,125.320
+08:29,8,Cam Newton,50.722
+08:29,9,実際に言われた衝撃的なクレーム,27.628
+08:29,10,Schitt's Creek,75.054
+09:04,1,Zendaya,587.002
+09:04,2,prfmPOPFes,50.907
+09:04,3,pazartesi,
+09:04,4,คนนั้นต้องเป็นเธอ2M,121.936
+09:04,5,Lakers,314.030
+09:04,6,実際に言われた衝撃的なクレーム,32.573
+09:04,7,厨二病のための漢字クイズ2,
+09:04,8,バビット,
+09:04,9,Seahawks,126.156
+09:04,10,Russell Wilson,46.758
+09:34,1,Zendaya,600.507
+09:34,2,MondayMotivation,33.107
+09:34,3,prfmPOPFes,60.757
+09:34,4,pazartesi,11.100
+09:34,5,チェン,12.735
+09:34,6,คนนั้นต้องเป็นเธอ2M,131.296
+09:34,7,実際に言われた衝撃的なクレーム,36.700
+09:34,8,Lakers,317.498
+09:34,9,バビット,
+09:34,10,Anthony Davis,198.361
+10:04,1,Zendaya,612.035
+10:04,2,MondayMotivation,37.287
+10:04,3,チェン,18.269
+10:04,4,pazartesi,13.089
+10:04,5,prfmPOPFes,67.229
+10:04,6,WeWantPopulationControlLaw,64.345
+10:04,7,実際に言われた衝撃的なクレーム,44.489
+10:04,8,バビット,
+10:04,9,ボーア,
+10:04,10,空気感染,15.216
+10:34,1,MondayMotivation,41.973
+10:34,2,チェン,21.303
+10:34,3,Zendaya,623.092
+10:34,4,pazartesi,15.073
+10:34,5,THEBOYZ_THESTEALER,26.866
+10:34,6,実際に言われた衝撃的なクレーム,50.809
+10:34,7,WeWantPopulationControlLaw,74.512
+10:34,8,ボーア,10.967
+10:34,9,バビット,
+10:34,10,空気感染,17.973
+11:04,1,THEBOYZ_THESTEALER,61.672
+11:04,2,MondayMotivation,46.649
+11:04,3,チェン,23.189
+11:04,4,pazartesi,16.861
+11:04,5,IamSelectorOfPMIK,11.157
+11:04,6,実際に言われた衝撃的なクレーム,58.400
+11:04,7,Zendaya,633.832
+11:04,8,空気感染,15.774
+11:04,9,ボーア,11.737
+11:04,10,Perugia,28.346
+11:34,1,THEBOYZ_THESTEALER,88.455
+11:34,2,MondayMotivation,51.086
+11:34,3,キスマイ10年,11.411
+11:34,4,あなた役の声優オーディション,
+11:34,5,EVERGLOW_LADIDA,
+11:34,6,チェン,24.604
+11:34,7,Zendaya,644.469
+11:34,8,政権奪取,
+11:34,9,Perugia,31.537
+11:34,10,空気感染,17.577
+12:04,1,キスマイ10年,72.653
+12:04,2,THEBOYZ_THESTEALER,106.037
+12:04,3,MondayMotivation,55.564
+12:04,4,あなた役の声優オーディション,
+12:04,5,ゴルフマッチプレー対決,31.815
+12:04,6,EVERGLOW_LADIDA,14.528
+12:04,7,チェン,25.570
+12:04,8,世界3位,
+12:04,9,Dear D,
+12:04,10,Zendaya,654.773
+12:34,1,キスマイ10年,127.758
+12:34,2,CDTVライブライブ,41.127
+12:34,3,THEBOYZ_THESTEALER,126.226
+12:34,4,あなた役の声優オーディション,
+12:34,5,MondayMotivation,59.751
+12:34,6,ゴルフマッチプレー対決,52.213
+12:34,7,チェン,26.456
+12:34,8,Whitty,22.054
+12:34,9,Dear D,
+12:34,10,ペニス認証,
+13:04,1,キスマイ10年,163.114
+13:04,2,CDTVライブライブ,54.194
+13:04,3,THEBOYZ_THESTEALER,137.326
+13:04,4,あなた役の声優オーディション,
+13:04,5,レジェンド青木功,78.613
+13:04,6,MondayMotivation,63.610
+13:04,7,Whitty,29.883
+13:04,8,Dear D,
+13:04,9,ペニス認証,13.853
+13:04,10,チェン,26.973
+13:34,1,キスマイ10年,208.936
+13:34,2,CDTVライブライブ,65.864
+13:34,3,あなた役の声優オーディション,
+13:34,4,THEBOYZ_THESTEALER,142.204
+13:34,5,レジェンド青木功,93.287
+13:34,6,MondayMotivation,67.437
+13:34,7,Dear D,
+13:34,8,ネプリーグ,13.919
+13:34,9,Morata,11.408
+13:34,10,ペニス認証,17.234
+14:04,1,CDTVライブライブ,85.152
+14:04,2,キスマイ10年,250.332
+14:04,3,あなた役の声優オーディション,
+14:04,4,レジェンド青木功,106.243
+14:04,5,MondayMotivation,71.769
+14:04,6,WearAMask,20.826
+14:04,7,Morata,16.351
+14:04,8,Dear D,
+14:04,9,ネプリーグ,16.293
+14:04,10,ペニス認証,20.301
+14:35,1,CDTVライブライブ,95.823
+14:35,2,キスマイ10年,299.224
+14:35,3,WearAMask,29.147
+14:35,4,あなた役の声優オーディション,10.858
+14:35,5,MondayMotivation,76.789
+14:35,6,レジェンド青木功,117.318
+14:35,7,Morata,20.701
+14:35,8,Dear D,
+14:35,9,ネプリーグ,18.097
+14:35,10,Dolar 7.60,
+15:00,1,CDTVライブライブ,110.879
+15:00,2,キスマイ10年,351.663
+15:00,3,WearAMask,36.649
+15:00,4,あなた役の声優オーディション,11.955
+15:00,5,MondayMotivation,80.960
+15:00,6,レジェンド青木功,125.145
+15:00,7,Morata,23.678
+15:00,8,everglow,120.990
+15:00,9,Dear D,
+15:00,10,ペニス認証,24.819
+15:35,1,BTSxTinyDesk,144.199
+15:35,2,CDTVライブライブ,140.269
+15:35,3,WearAMask,46.543
+15:35,4,Bethesda,50.562
+15:35,5,キスマイ10年,369.432
+15:35,6,あなた役の声優オーディション,13.199
+15:35,7,レジェンド青木功,134.983
+15:35,8,前澤友作,325.510
+15:35,9,Morata,28.610
+15:35,10,三代目,25.575
+16:05,1,BTSxTinyDesk,222.099
+16:05,2,Bethesda,88.161
+16:05,3,CDTVライブライブ,163.287
+16:05,4,WearAMask,56.096
+16:05,5,リアルパイナポV6,48.371
+16:05,6,キスマイ10年,375.917
+16:05,7,三代目,31.344
+16:05,8,Morata,33.570
+16:05,9,レジェンド青木功,142.574
+16:05,10,前澤友作,286.422
+16:30,1,BTSxTinyDesk,260.672
+16:30,2,Bethesda,112.545
+16:30,3,WearAMask,65.563
+16:30,4,CDTVライブライブ,171.884
+16:30,5,リアルパイナポV6,54.403
+16:30,6,Spring Day,167.255
+16:30,7,あなた役の声優オーディション,14.876
+16:30,8,三代目,38.924
+16:30,9,Morata,37.508
+16:30,10,レジェンド青木功,148.308
+17:05,1,BTSxTinyDesk,293.861
+17:05,2,Bethesda,141.210
+17:05,3,WearAMask,78.344
+17:05,4,OurRainbowNayeonDay,89.144
+17:05,5,CDTVライブライブ,178.672
+17:05,6,リアルパイナポV6,57.931
+17:05,7,Elder Scrolls,23.123
+17:05,8,Morata,41.413
+17:05,9,三代目,42.902
+17:05,10,レジェンド青木功,155.689
+17:35,1,Bethesda,163.130
+17:35,2,BTSxTinyDesk,315.600
+17:35,3,OurBrightestStarJinyoungDay,232.443
+17:35,4,OurRainbowNayeonDay,139.964
+17:35,5,ShiningStarSeungmin,184.652
+17:35,6,WearAMask,91.119
+17:35,7,Fallout,45.859
+17:35,8,Morata,47.119
+17:35,9,everglow,152.501
+17:35,10,三代目,44.424
+18:05,1,Bethesda,182.685
+18:05,2,OurBrightestStarJinyoungDay,334.835
+18:05,3,OurRainbowNayeonDay,168.845
+18:05,4,ShiningStarSeungmin,220.575
+18:05,5,WearAMask,103.986
+18:05,6,BTSxTinyDesk,332.588
+18:05,7,Elder Scrolls,29.545
+18:05,8,Morata,53.020
+18:05,9,Zenimax,37.297
+18:05,10,Obsidian,20.979
+18:30,1,OurBrightestStarJinyoungDay,389.552
+18:30,2,Bethesda,196.323
+18:30,3,ShiningStarSeungmin,236.556
+18:30,4,OurRainbowNayeonDay,181.396
+18:30,5,WearAMask,114.142
+18:30,6,BTSxTinyDesk,343.399
+18:30,7,Morata,56.991
+18:30,8,Doom,58.415
+18:30,9,everglow,159.633
+18:30,10,Michael Lonsdale,
+19:05,1,OurBrightestStarJinyoungDay,439.067
+19:05,2,Bethesda,213.253
+19:05,3,WearAMask,127.394
+19:05,4,ShiningStarSeungmin,251.042
+19:05,5,OurRainbowNayeonDay,191.686
+19:05,6,BTSxTinyDesk,356.425
+19:05,7,Morata,61.567
+19:05,8,Elder Scrolls,34.541
+19:05,9,Michael Lonsdale,10.655
+19:05,10,بيدرو,
+19:30,1,OurBrightestStarJinyoungDay,462.068
+19:30,2,Bethesda,223.379
+19:30,3,WearAMask,136.208
+19:30,4,ShiningStarSeungmin,258.657
+19:30,5,OurRainbowNayeonDay,196.853
+19:30,6,النصر_السد,128.998
+19:30,7,Morata,66.581
+19:30,8,Doom,63.508
+19:30,9,TwitStalk Açıldı,
+19:30,10,Daniel Alves,
+20:05,1,OurBrightestStarJinyoungDay,483.673
+20:05,2,Bethesda,236.439
+20:05,3,WearAMask,147.791
+20:05,4,ShiningStarSeungmin,266.854
+20:05,5,OurRainbowNayeonDay,202.170
+20:05,6,SRHvRCB,53.572
+20:05,7,Martinez,54.654
+20:05,8,Tolga,12.112
+20:05,9,Morata,71.251
+20:05,10,Ricardo Anaya,
+20:35,1,WearAMask,158.091
+20:35,2,Bethesda,246.740
+20:35,3,OurBrightestStarJinyoungDay,497.201
+20:35,4,Wesh1500euros,30.409
+20:35,5,ShiningStarSeungmin,272.444
+20:35,6,RCBvSRH,29.013
+20:35,7,Morata,74.534
+20:35,8,Ricardo Anaya,
+20:35,9,BABITAN OUR STARS,
+20:35,10,Robertito,
+21:05,1,FBvHAT,15.278
+21:05,2,WearAMask,168.655
+21:05,3,Bethesda,255.651
+21:05,4,OurBrightestStarJinyoungDay,508.024
+21:05,5,Wesh1500euros,29.649
+21:05,6,ShiningStarSeungmin,276.705
+21:05,7,Ümit Öztürk,
+21:05,8,Erol,15.143
+21:05,9,Tolga,14.923
+21:05,10,Hatay,11.586
+21:30,1,FBvHAT,18.006
+21:30,2,العربي_الكويت,21.282
+21:30,3,WearAMask,177.328
+21:30,4,Bethesda,262.151
+21:30,5,OurBrightestStarJinyoungDay,514.026
+21:30,6,Erol,21.455
+21:30,7,WOLMCI,
+21:30,8,Fenerbahçe,102.215
+21:30,9,Hatay,14.194
+21:30,10,Ümit Öztürk,
+22:02,1,العربي_الكويت,26.106
+22:02,2,FBvHAT,18.956
+22:02,3,WOLMCI,13.347
+22:02,4,WearAMask,190.283
+22:02,5,Bethesda,269.430
+22:02,6,التعاون_الشارقه,11.558
+22:02,7,Rıdvan Dilmen,20.705
+22:02,8,Erol,23.481
+22:02,9,Fenerbahçe,107.276
+22:02,10,Foden,
+22:32,1,SagliktaSiddet,14.879
+22:32,2,العربي_الكويت,29.027
+22:32,3,Rıdvan Dilmen,37.388
+22:32,4,WOLMCI,16.248
+22:32,5,WearAMask,203.970
+22:32,6,FBvHAT,19.527
+22:32,7,Bethesda,275.842
+22:32,8,Foden,10.923
+22:32,9,Fenerbahçe,112.360
+22:32,10,Erol,24.402
+23:02,1,SagliktaSiddet,25.598
+23:02,2,WOLMCI,19.888
+23:02,3,Rıdvan Dilmen,46.305
+23:02,4,العربي_الكويت,31.156
+23:02,5,WearAMask,215.366
+23:02,6,GFVIP,66.123
+23:02,7,Wolves,78.300
+23:02,8,Podence,
+23:02,9,Bethesda,281.796
+23:02,10,De Bruyne,14.376
+23:37,1,SagliktaSiddet,37.063
+23:37,2,WOLMCI,23.411
+23:37,3,Rıdvan Dilmen,54.715
+23:37,4,GFVIP,78.308
+23:37,5,WearAMask,228.558
+23:37,6,العربي_الكويت,33.119
+23:37,7,Podence,10.420
+23:37,8,Bethesda,288.230
+23:37,9,Jimenez,26.771
+23:37,10,Ercan Taner,

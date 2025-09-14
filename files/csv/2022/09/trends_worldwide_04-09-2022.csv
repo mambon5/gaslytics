@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,UFCParis,92.151
+00:10,2,taylorhawkinstribute,79.060
+00:10,3,WWECastle,283.304
+00:10,4,Bo Nix,16.336
+00:10,5,Oregon,46.478
+00:10,6,Utah,50.390
+00:10,7,WelcomeToBrazilJB,
+00:10,8,Whittaker,17.612
+00:10,9,Alok,13.526
+00:10,10,Sevilla,115.179
+00:40,1,UFCParis,129.068
+00:40,2,taylorhawkinstribute,84.958
+00:40,3,Oregon,51.670
+00:40,4,Bo Nix,17.426
+00:40,5,Gane,97.195
+00:40,6,WWECastle,287.923
+00:40,7,WelcomeToBrazilJB,12.332
+00:40,8,Utah,54.511
+00:40,9,Bragantino,
+00:40,10,Alok,14.189
+01:10,1,UFCParis,138.746
+01:10,2,Oregon,55.508
+01:10,3,taylorhawkinstribute,90.495
+01:10,4,Bragantino,10.590
+01:10,5,Bo Nix,18.487
+01:10,6,Gane,103.922
+01:10,7,WelcomeToBrazilJB,14.919
+01:10,8,WWECastle,291.400
+01:10,9,Utah,56.448
+01:10,10,Cleiton,
+01:40,1,UFCParis,143.940
+01:40,2,Bragantino,12.836
+01:40,3,Oregon,57.844
+01:40,4,Jason Derulo,
+01:40,5,taylorhawkinstribute,95.587
+01:40,6,Bo Nix,18.929
+01:40,7,Gane,108.688
+01:40,8,UTSA,
+01:40,9,WelcomeToBrazilJB,16.477
+01:40,10,Utah,60.410
+02:10,1,UFCParis,146.096
+02:10,2,Jason Derulo,
+02:10,3,Bragantino,15.409
+02:10,4,仮面ライダーギーツ,24.310
+02:10,5,precure,44.538
+02:10,6,Oregon,58.428
+02:10,7,taylorhawkinstribute,100.237
+02:10,8,UTSA,10.555
+02:10,9,ピーマン,31.907
+02:10,10,Gane,109.677
+02:40,1,仮面ライダーギーツ,65.654
+02:40,2,Jason Derulo,12.226
+02:40,3,ufcparis,148.930
+02:40,4,Bragantino,16.213
+02:40,5,RacionaisNoMultishow,
+02:40,6,nitiasa,41.429
+02:40,7,precure,47.909
+02:40,8,Oregon,60.019
+02:40,9,UTSA,11.114
+02:40,10,Utah,67.052
+03:10,1,仮面ライダーギーツ,78.503
+03:10,2,RacionaisNoMultishow,
+03:10,3,ドンブラザーズ,49.107
+03:10,4,Jason Derulo,12.966
+03:10,5,UFCParis,150.700
+03:10,6,nitiasa,67.724
+03:10,7,Bragantino,16.601
+03:10,8,ムラサメ,
+03:10,9,Oregon,60.619
+03:10,10,Utah,69.085
+03:40,1,仮面ライダーギーツ,87.559
+03:40,2,RacionaisNoMultishow,10.062
+03:40,3,ドンブラザーズ,61.698
+03:40,4,Jason Derulo,13.514
+03:40,5,nitiasa,74.827
+03:40,6,UFCParis,152.242
+03:40,7,Bragantino,16.871
+03:40,8,Notre Dame,28.029
+03:40,9,Ohio State,40.918
+03:40,10,ムラサメ,11.629
+04:10,1,仮面ライダーギーツ,92.363
+04:10,2,RacionaisNoMultishow,11.168
+04:10,3,ドンブラザーズ,66.581
+04:10,4,anthony richardson,
+04:10,5,Jason Derulo,13.934
+04:10,6,設営完了,
+04:10,7,WelcomebackHomeTEN,91.820
+04:10,8,Ohio State,42.928
+04:10,9,ワイドナショー,
+04:10,10,Dylan Cease,
+04:40,1,仮面ライダーギーツ,96.224
+04:40,2,Gators,21.957
+04:40,3,RacionaisNoMultishow,11.766
+04:40,4,Anthony Richardson,11.209
+04:40,5,Utah,88.070
+04:40,6,WelcomebackHomeTEN,142.885
+04:40,7,Notre Dame,30.927
+04:40,8,Ohio State,45.778
+04:40,9,ドンブラザーズ,69.515
+04:40,10,LONG TIME NO TEN,139.797
+05:10,1,Gators,25.953
+05:10,2,Notre Dame,34.490
+05:10,3,仮面ライダーギーツ,99.400
+05:10,4,Utah,94.393
+05:10,5,Ohio State,49.496
+05:10,6,RacionaisNoMultishow,12.188
+05:10,7,Anthony Richardson,13.732
+05:10,8,Zendejas,
+05:10,9,WelcomebackHomeTEN,188.437
+05:10,10,Diego Reyes,
+05:40,1,Post Malone,37.077
+05:40,2,Gators,28.851
+05:40,3,Notre Dame,36.411
+05:40,4,WelcomebackHomeTEN,230.040
+05:40,5,Zendejas,
+05:40,6,仮面ライダーギーツ,102.794
+05:40,7,Utah,98.073
+05:40,8,Ohio State,51.580
+05:40,9,Anthony Richardson,14.939
+05:40,10,LONG TIME NO TEN,226.378
+06:10,1,Post Malone,53.021
+06:10,2,WelcomebackHomeTEN,269.185
+06:10,3,RockInRio,68.313
+06:10,4,Gators,30.226
+06:10,5,楽天モバイル,13.742
+06:10,6,SB19WYATonASAP,34.415
+06:10,7,Notre Dame,37.107
+06:10,8,Zendejas,
+06:10,9,ASAPBerMonthsNa withSB19,34.168
+06:10,10,LONG TIME NO TEN,262.243
+06:40,1,Post Malone,73.864
+06:40,2,Post Malone,73.864
+06:40,3,Post Malone,73.864
+06:40,4,SB19WYATonASAP,74.853
+06:40,5,ASAPBerMonthsNa withSB19,69.532
+06:40,6,WelcomebackHomeTEN,310.530
+06:40,7,楽天モバイル,16.227
+06:40,8,Zendejas,
+06:40,9,それスノ,20.949
+06:40,10,Tigres,17.006
+07:10,1,Post Malone,82.967
+07:10,2,SB19WYATonASAP,133.315
+07:10,3,ASAPBerMonthsNa withSB19,122.676
+07:10,4,RockInRio,81.899
+07:10,5,WelcomebackHomeTEN,351.150
+07:10,6,リア突WEST,
+07:10,7,楽天モバイル,17.856
+07:10,8,それスノ,23.365
+07:10,9,Tigres,18.545
+07:10,10,Zendejas,
+07:40,1,Post Malone,86.626
+07:40,2,SB19WYATonASAP,188.569
+07:40,3,ASAPBerMonthsNa withSB19,171.844
+07:40,4,WelcomebackHomeTEN,383.471
+07:40,5,RockInRio,83.852
+07:40,6,楽天モバイル,19.290
+07:40,7,リア突WEST,
+07:40,8,LONG TIME NO TEN,366.922
+07:40,9,それスノ,25.194
+07:40,10,Tigres,19.526
+08:10,1,Post Malone,88.511
+08:10,2,稲垣草彅香取が大竹しのぶと再会,
+08:10,3,ななにー,12.750
+08:10,4,SB19WYATonASAP,228.272
+08:10,5,ASAPBerMonthsNa withSB19,204.533
+08:10,6,WelcomebackHomeTEN,412.942
+08:10,7,楽天モバイル,20.316
+08:10,8,BSフジ秋のトラジャ応援祭り,
+08:10,9,LONG TIME NO TEN,394.631
+08:10,10,Zendejas,10.887
+08:40,1,Post Malone,90.038
+08:40,2,稲垣草彅香取が大竹しのぶと再会,
+08:40,3,ななにー,19.214
+08:40,4,SB19WYATonASAP,254.175
+08:40,5,ASAPBerMonthsNa withSB19,224.325
+08:40,6,新潟記念,66.040
+08:40,7,WelcomebackHomeTEN,444.606
+08:40,8,महंगाई_पर_हल्ला_बोल_रैली,45.947
+08:40,9,LONG TIME NO TEN,424.695
+08:40,10,楽天モバイル,21.177
+09:10,1,ロンドンプラン,11.787
+09:10,2,Post Malone,91.029
+09:10,3,稲垣草彅香取が大竹しのぶと再会,
+09:10,4,新潟記念,70.898
+09:10,5,ななにー,22.582
+09:10,6,SB19WYATonASAP,272.601
+09:10,7,cg_ootd_day2,17.410
+09:10,8,ユーキャンスマイル,
+09:10,9,ASAPBerMonthsNa withSB19,238.990
+09:10,10,NRLTigersRaiders,
+09:40,1,ロンドンプラン,13.949
+09:40,2,ななにー,27.952
+09:40,3,稲垣草彅香取が大竹しのぶと再会,
+09:40,4,Post Malone,91.949
+09:40,5,新潟記念,71.707
+09:40,6,cg_ootd_day2,30.132
+09:40,7,ユーキャンスマイル,
+09:40,8,SB19WYATonASAP,285.386
+09:40,9,ASAPBerMonthsNa withSB19,249.392
+09:40,10,SENKAxNunew,46.544
+10:10,1,ななにー,32.446
+10:10,2,ロンドンプラン,15.017
+10:10,3,cg_ootd_day2,47.658
+10:10,4,稲垣草彅香取が大竹しのぶと再会,
+10:10,5,れおほー,
+10:10,6,新潟記念,70.577
+10:10,7,Post Malone,92.620
+10:10,8,ユーキャンスマイル,
+10:10,9,pazar,
+10:10,10,SB19WYATonASAP,295.877
+10:40,1,cg_ootd_day2,72.947
+10:40,2,ななにー,36.730
+10:40,3,れおほー,
+10:40,4,ロンドンプラン,15.757
+10:40,5,WelcomebackHomeTEN,708.072
+10:40,6,BBCLauraK,
+10:40,7,pazar,
+10:40,8,新潟記念,71.209
+10:40,9,Ömer Tuğrul İnançer,
+10:40,10,Post Malone,93.288
+11:10,1,cg_ootd_day2,90.160
+11:10,2,Ömer Tuğrul İnançer,
+11:10,3,ななにー,40.648
+11:10,4,BBCLauraK,
+11:10,5,WelcomebackHomeTEN,817.006
+11:10,6,YOASOBI,30.776
+11:10,7,pazar,
+11:10,8,れおほー,
+11:10,9,ロンドンプラン,16.345
+11:10,10,新潟記念,70.336
+11:40,1,広背筋Tバック,
+11:40,2,Ömer Tuğrul İnançer,
+11:40,3,Entlastungspaket,
+11:40,4,cg_ootd_day2,109.404
+11:40,5,ななにー,48.318
+11:40,6,YOASOBI,36.806
+11:40,7,サザエさん,
+11:40,8,水星の魔女,29.940
+11:40,9,れおほー,
+11:40,10,Joe Lycett,
+12:10,1,Entlastungspaket,10.430
+12:10,2,広背筋Tバック,
+12:10,3,cg_ootd_day2,145.861
+12:10,4,Ömer Tuğrul İnançer,
+12:10,5,サザエさん,
+12:10,6,ななにー,56.385
+12:10,7,水星の魔女,36.855
+12:10,8,YOASOBI,40.991
+12:10,9,Joe Lycett,
+12:10,10,ノリスケ,10.436
+12:40,1,Entlastungspaket,13.564
+12:40,2,広背筋Tバック,
+12:40,3,cg_ootd_day2,159.922
+12:40,4,Ömer Tuğrul İnançer,
+12:40,5,ななにー,63.992
+12:40,6,水星の魔女,41.804
+12:40,7,サザエさん,
+12:40,8,YOASOBI,44.109
+12:40,9,Joe Lycett,
+12:40,10,U149,18.531
+13:10,1,鎌倉殿の13人,37.240
+13:10,2,Entlastungspaket,16.440
+13:10,3,ガルステハーフアニバ直前SP,
+13:10,4,広背筋Tバック,
+13:10,5,cg_ootd_day2,168.511
+13:10,6,Ömer Tuğrul İnançer,
+13:10,7,水星の魔女,46.197
+13:10,8,トキューサ,
+13:10,9,Joe Lycett,
+13:10,10,YOASOBI,45.964
+13:40,1,鎌倉殿の13人,89.280
+13:40,2,イケメンアイドル大集結,
+13:40,3,Entlastungspaket,19.169
+13:40,4,ガルステハーフアニバ直前SP,25.098
+13:40,5,CyrusMistry,
+13:40,6,Ömer Tuğrul İnançer,
+13:40,7,水星の魔女,49.876
+13:40,8,おりほー,
+13:40,9,Joe Lycett,
+13:40,10,トキューサ,
+14:10,1,鎌倉殿の13人,143.972
+14:10,2,ガルステハーフアニバ直前SP,40.830
+14:10,3,Entlastungspaket,21.822
+14:10,4,CyrusMistry,
+14:10,5,癒月ちょこ4周年LIVE,24.990
+14:10,6,Ömer Tuğrul İnançer,
+14:10,7,Joe Lycett,
+14:10,8,水星の魔女,52.947
+14:10,9,うさほー,
+14:10,10,おりほー,
+14:40,1,鎌倉殿の13人,166.455
+14:40,2,オールドルーキー,21.412
+14:40,3,ZETAWIN,19.281
+14:40,4,ガルステハーフアニバ直前SP,55.800
+14:40,5,CyrusMistry,
+14:40,6,LISA YOU ARE LOVED,59.642
+14:40,7,Joe Lycett,
+14:40,8,どらほー,
+14:40,9,Ömer Tuğrul İnançer,
+14:40,10,水星の魔女,55.575
+15:10,1,鎌倉殿の13人,180.516
+15:10,2,オールドルーキー,33.974
+15:10,3,不破湊新衣装,23.076
+15:10,4,DutchGP,114.451
+15:10,5,ZETAWIN,21.999
+15:10,6,どらほー,
+15:10,7,LISA YOU ARE LOVED,102.385
+15:10,8,Joe Lycett,
+15:10,9,伊達双騎,11.347
+15:10,10,終ヴィルFD,
+15:40,1,Ferrari,86.718
+15:40,2,DutchGP,146.435
+15:40,3,鎌倉殿の13人,189.913
+15:40,4,Sainz,23.597
+15:40,5,オールドルーキー,37.101
+15:40,6,不破湊新衣装,49.766
+15:40,7,BadBuddyRerunEP1,34.969
+15:40,8,LISA YOU ARE LOVED,136.464
+15:40,9,どらほー,
+15:40,10,Joe Lycett,11.651
+16:10,1,Ferrari,100.374
+16:10,2,DutchGP,145.798
+16:10,3,Vettel,12.417
+16:10,4,鎌倉殿の13人,196.462
+16:10,5,Sainz,24.516
+16:10,6,Tsunoda,11.452
+16:10,7,ZandvoortGP,
+16:10,8,オールドルーキー,38.497
+16:10,9,BadBuddyRerunEP1,92.387
+16:10,10,Alpha Tauri,
+16:40,1,Ferrari,117.645
+16:40,2,DutchGP,181.799
+16:40,3,Hamilton,78.779
+16:40,4,INDvsPAK2022,35.981
+16:40,5,ZETAWIN,39.925
+16:40,6,Lazさん,13.009
+16:40,7,Sainz,33.960
+16:40,8,BHALEI,14.309
+16:40,9,Leicester,44.255
+16:40,10,Verstappen,44.387
+17:10,1,DutchGP,216.131
+17:10,2,Ferrari,132.266
+17:10,3,ZETAWlN,22.066
+17:10,4,Hamilton,94.495
+17:10,5,INDvsPAK2022,47.067
+17:10,6,Lazさん,19.162
+17:10,7,Leicester,52.324
+17:10,8,Marinho,10.836
+17:10,9,BHALEI,16.986
+17:10,10,Verstappen,65.558
+17:40,1,DutchGP,228.749
+17:40,2,Ferrari,139.937
+17:40,3,INDvsPAK,60.510
+17:40,4,ZETAWlN,25.921
+17:40,5,MUNARS,144.717
+17:40,6,Lewis,120.233
+17:40,7,Lazさん,23.144
+17:40,8,Casemiro,56.508
+17:40,9,Arsenal,426.600
+17:40,10,Leicester,55.921
+18:10,1,Antony,124.834
+18:10,2,MUNARS,190.901
+18:10,3,INDvsPAK,83.744
+18:10,4,Arsenal,482.558
+18:10,5,Dorival,29.399
+18:10,6,Gabigol,30.734
+18:10,7,Ferrari,143.350
+18:10,8,DutchGP,232.466
+18:10,9,ZETAWlN,26.349
+18:10,10,Ceará,42.010
+18:40,1,Antony,216.008
+18:40,2,MUNARS,242.085
+18:40,3,Arsenal,546.110
+18:40,4,INDvsPAK2022,81.803
+18:40,5,Dorival,37.946
+18:40,6,Gabigol,33.979
+18:40,7,Ferrari,146.563
+18:40,8,DutchGP,238.366
+18:40,9,Ceará,45.456
+18:40,10,Eriksen,25.270
+19:10,1,MUNARS,287.299
+19:10,2,Antony,229.461
+19:10,3,Arsenal,618.791
+19:10,4,Rashford,75.083
+19:10,5,INDvsPAK2022,93.262
+19:10,6,Dorival,41.413
+19:10,7,Casemiro,75.246
+19:10,8,Eriksen,37.922
+19:10,9,McTominay,31.494
+19:10,10,Gabigol,33.432
+19:40,1,Arsenal,739.295
+19:40,2,MUNARS,343.197
+19:40,3,Antony,250.319
+19:40,4,Rashford,104.139
+19:40,5,Maguire,65.011
+19:40,6,INDvsPAK2022,105.359
+19:40,7,MUFC,242.874
+19:40,8,Eriksen,60.231
+19:40,9,GGMU,16.597
+19:40,10,McTominay,38.162
+20:10,1,Arsenal,810.497
+20:10,2,MUNARS,380.501
+20:10,3,INDvsPAK2022,155.408
+20:10,4,Antony,271.629
+20:10,5,Rashford,123.077
+20:10,6,Maguire,70.501
+20:10,7,MUFC,272.831
+20:10,8,Eriksen,78.225
+20:10,9,GGMU,20.413
+20:10,10,Manchester United,272.140
+20:40,1,Arsenal,853.207
+20:40,2,Arsenal,853.207
+20:40,3,INDvsPAK2022,193.467
+20:40,4,MUNARS,398.551
+20:40,5,Antony,288.738
+20:40,6,Rashford,132.043
+20:40,7,Maguire,73.842
+20:40,8,MUFC,304.519
+20:40,9,AsiaCupT20,47.600
+20:40,10,Eriksen,89.176
+21:10,1,INDvsPAK2022,211.268
+21:10,2,Arsenal,881.225
+21:10,3,Arsenal,881.225
+21:10,4,MUNARS,406.326
+21:10,5,Antony,298.004
+21:10,6,Rashford,137.738
+21:10,7,Maguire,75.738
+21:10,8,MUFC,320.855
+21:10,9,AsiaCupT20,52.582
+21:10,10,arshdeepsingh,13.987
+21:40,1,INDvsPAK2022,221.481
+21:40,2,Arsenal,905.691
+21:40,3,Arsenal,905.691
+21:40,4,MUNARS,414.526
+21:40,5,Antony,305.355
+21:40,6,Rashford,142.004
+21:40,7,Maguire,77.725
+21:40,8,arshdeepsingh,17.506
+21:40,9,Yuri Alberto,11.298
+21:40,10,MUFC,335.165
+22:10,1,INDvsPAK2022,228.305
+22:10,2,Arsenal,919.355
+22:10,3,MUNARS,419.915
+22:10,4,arshdeepsingh,20.217
+22:10,5,Antony,311.075
+22:10,6,Rashford,145.843
+22:10,7,Yuri Alberto,14.003
+22:10,8,Uyajola99,
+22:10,9,Maguire,79.346
+22:10,10,ANKvBJK,25.201
+22:40,1,LuisaSonzaNoMultishow,13.381
+22:40,2,INDvsPAK2022,232.763
+22:40,3,Arsenal,939.866
+22:40,4,Corinthians,68.780
+22:40,5,MUNARS,424.918
+22:40,6,UdineseRoma,
+22:40,7,NXTWorldsCollide,16.660
+22:40,8,Botafogo,23.050
+22:40,9,Yuri Alberto,14.788
+22:40,10,Rashford,148.902
+23:10,1,LuisaSonzaNoMultishow,28.649
+23:10,2,ANKvBJK,35.032
+23:10,3,Corinthians,77.663
+23:10,4,INDvsPAK2022,235.998
+23:10,5,Arsenal,945.231
+23:10,6,UdineseRoma,
+23:10,7,NXTWorldsCollide,24.449
+23:10,8,Cruzeiro,38.175
+23:10,9,Botafogo,28.840
+23:10,10,Sue Bird,
+23:40,1,luisa,76.484
+23:40,2,ANKvBJK,38.965
+23:40,3,NXTWorldsCollide,32.362
+23:40,4,Corinthians,80.988
+23:40,5,Josef,31.003
+23:40,6,RockInRio,155.545
+23:40,7,IzaNoMultishow,
+23:40,8,INDvsPAK2022,238.318
+23:40,9,Arsenal,954.521
+23:40,10,Cruzeiro,42.084

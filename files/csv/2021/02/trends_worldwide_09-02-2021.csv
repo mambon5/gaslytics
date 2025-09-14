@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,gfvip,114.998
+00:09,2,TentacionesDBT3,
+00:09,3,survivorGR,39.520
+00:09,4,AddAWordRuinALoveSong,
+00:09,5,LigdeHırsızVAR,52.573
+00:09,6,ESNY TO 100M,39.212
+00:09,7,Team Cruz,
+00:09,8,Suárez,52.798
+00:09,9,Tommaso,54.334
+00:09,10,Gorilla Glue,133.266
+00:39,1,gfvip,132.727
+00:39,2,TentacionesDBT3,14.766
+00:39,3,AddAWordRuinALoveSong,
+00:39,4,survivorGR,42.856
+00:39,5,Team Cruz,
+00:39,6,MaestrosDeLaCostura,
+00:39,7,シロモちゃん,
+00:39,8,ESNY TO 100M,41.825
+00:39,9,Gorilla Glue,140.685
+00:39,10,Tommaso,57.891
+01:09,1,gfvip,145.949
+01:09,2,TentacionesDBT3,19.018
+01:09,3,AddAWordRuinALoveSong,
+01:09,4,Team Cruz,13.188
+01:09,5,survivorGR,43.262
+01:09,6,MaestrosDeLaCostura,
+01:09,7,シロモちゃん,
+01:09,8,david dobrik,
+01:09,9,Gorilla Glue,139.860
+01:09,10,ESNY TO 100M,42.934
+01:39,1,TentacionesDBT3,25.550
+01:39,2,gfvip,154.836
+01:39,3,AddAWordRuinALoveSong,
+01:39,4,Team Cruz,16.442
+01:39,5,シロモちゃん,10.862
+01:39,6,david dobrik,
+01:39,7,David Braz,
+01:39,8,MaestrosDeLaCostura,
+01:39,9,survivorGR,43.518
+01:39,10,Gorilla Glue,146.203
+02:09,1,TentacionesDBT3,27.460
+02:09,2,gfvip,158.825
+02:09,3,Team Cruz,20.324
+02:09,4,AddAWordRuinALoveSong,
+02:09,5,シロモちゃん,13.298
+02:09,6,david dobrik,
+02:09,7,David Braz,
+02:09,8,モルカー6話,21.466
+02:09,9,MaestrosDeLaCostura,
+02:09,10,Gorilla Glue,145.045
+02:39,1,TheBachelorABC,
+02:39,2,TentacionesDBT3,27.925
+02:39,3,Botafogo,51.027
+02:39,4,gfvip,162.556
+02:39,5,Team Cruz,23.638
+02:39,6,WWERaw,12.794
+02:39,7,AddAWordRuinALoveSong,
+02:39,8,David Dobrik,
+02:39,9,シロモちゃん,15.356
+02:39,10,Saliba,17.349
+03:09,1,TheBachelor,32.723
+03:09,2,WWERaw,19.341
+03:09,3,Serena C,
+03:09,4,Botafogo,51.472
+03:09,5,TentacionesDBT3,28.363
+03:09,6,Team Cruz,26.205
+03:09,7,Saliba,25.611
+03:09,8,911onFOX,10.928
+03:09,9,AddAWordRuinALoveSong,
+03:09,10,David Dobrik,
+03:39,1,Sarah,1.194.444
+03:39,2,Gilberto,470.068
+03:39,3,Projota,908.112
+03:39,4,TheBachelor,42.974
+03:39,5,jogodadiscordia,39.042
+03:39,6,Artur,22.272
+03:39,7,BBB2021,43.272
+03:39,8,BBBB21,158.987
+03:39,9,WWERaw,25.341
+03:39,10,Neymar,153.054
+04:09,1,Sarah,1.132.341
+04:09,2,Pocah,425.107
+04:09,3,Lumena,1.177.311
+04:09,4,Gilberto,478.945
+04:09,5,Projota,990.609
+04:09,6,Karol,1.826.115
+04:09,7,TheBachelor,58.026
+04:09,8,jogodadiscordia,65.732
+04:09,9,Neymar,147.083
+04:09,10,FORAJULIETTE,153.339
+04:39,1,Sarah,1.244.828
+04:39,2,Lumena,1.338.240
+04:39,3,Pocah,485.761
+04:39,4,Karol,1.972.923
+04:39,5,Projota,1.065.091
+04:39,6,Gilberto,515.984
+04:39,7,TheBachelor,60.121
+04:39,8,Neymar,165.719
+04:39,9,jogodadiscordia,72.686
+04:39,10,FORAJULIETTE,180.193
+05:09,1,Sarah,1.141.284
+05:09,2,Lumena,1.349.793
+05:09,3,Pocah,497.500
+05:09,4,Karol,1.858.882
+05:09,5,Projota,1.063.321
+05:09,6,Gilberto,497.249
+05:09,7,Neymar,159.255
+05:09,8,FORAJULIETTE,186.200
+05:09,9,TheBachelor,61.576
+05:09,10,jogodadiscordia,74.970
+05:39,1,Sarah,1.164.957
+05:39,2,Lumena,1.382.813
+05:39,3,Pocah,507.563
+05:39,4,Karol,1.876.108
+05:39,5,Projota,1.083.766
+05:39,6,FORAJULIETTE,194.958
+05:39,7,Draymond,17.262
+05:39,8,Neymar,162.421
+05:39,9,TheBachelor,62.909
+05:39,10,Gilberto,507.845
+06:09,1,Sarah,1.123.611
+06:09,2,Lumena,1.384.825
+06:09,3,Karol,1.771.444
+06:09,4,Pocah,509.780
+06:09,5,FORAJULIETTE,188.960
+06:09,6,Draymond,19.112
+06:09,7,Projota,1.086.771
+06:09,8,TheBachelor,64.106
+06:09,9,Neymar,161.634
+06:09,10,Gilberto,504.335
+06:39,1,Karol,1.459.010
+06:39,2,Sarah,1.133.122
+06:39,3,Lumena,1.400.268
+06:39,4,Pocah,515.100
+06:39,5,Draymond,20.708
+06:39,6,FORAJULIETTE,190.662
+06:39,7,TheBachelor,65.136
+06:39,8,Projota,1.097.837
+06:39,9,Neymar,162.779
+06:39,10,INDvENG,61.833
+07:09,1,Karol,1.523.820
+07:09,2,Sarah,1.127.152
+07:09,3,Lumena,1.400.376
+07:09,4,Pocah,516.988
+07:09,5,Draymond,21.720
+07:09,6,INDvENG,62.339
+07:09,7,TheBachelor,66.306
+07:09,8,FORAJULIETTE,189.575
+07:09,9,Projota,1.095.025
+07:09,10,Neymar,162.136
+07:39,1,Karol,1.378.633
+07:39,2,HappyGraduationOurTheHanlimz,30.918
+07:39,3,Sarah,1.135.222
+07:39,4,Pocah,519.045
+07:39,5,INDvENG,65.666
+07:39,6,Lumena,1.405.538
+07:39,7,Draymond,22.407
+07:39,8,TheBachelor,67.006
+07:39,9,FORAJULIETTE,190.332
+07:39,10,투모로우바이투게더,67.276
+08:09,1,HappyGraduationOurTheHanlimz,39.497
+08:09,2,Karol,1.424.372
+08:09,3,Sarah,1.130.811
+08:09,4,INDvENG,64.132
+08:09,5,투모로우바이투게더,75.216
+08:09,6,Lumena,1.404.552
+08:09,7,Pocah,519.454
+08:09,8,Draymond,23.046
+08:09,9,超生ブラ食べたい,10.640
+08:09,10,EsnafKanAğlıyor,
+08:39,1,HappyGraduationOurTheHanlimz,45.749
+08:39,2,Karol,1.500.221
+08:39,3,Sarah,1.134.241
+08:39,4,투모로우바이투게더,81.576
+08:39,5,EsnafKanAğlıyor,
+08:39,6,INDvENG,67.468
+08:39,7,超生ブラ食べたい,11.892
+08:39,8,Lumena,1.406.947
+08:39,9,A'TIN NGARAG NA,174.046
+08:39,10,A'TIN PRANING NA,148.449
+09:09,1,INDvENG,71.783
+09:09,2,SadMovieTeaser,26.681
+09:09,3,HappyGraduationOurTheHanlimz,49.251
+09:09,4,Karol,1.368.881
+09:09,5,EsnafKanAğlıyor,
+09:09,6,超生ブラ食べたい,13.341
+09:09,7,Sarah,1.131.102
+09:09,8,A'TIN PRANING NA,178.823
+09:09,9,A'TIN NGARAG NA,205.379
+09:09,10,Lumena,1.406.074
+09:39,1,INDvENG,82.102
+09:39,2,SadMovieTeaser,76.469
+09:39,3,HappyGraduationOurTheHanlimz,51.737
+09:39,4,超生ブラ食べたい,14.700
+09:39,5,EsnafKanAğlıyor,
+09:39,6,Sarah,1.133.271
+09:39,7,A'TIN PRANING NA,202.683
+09:39,8,A'TIN NGARAG NA,228.285
+09:39,9,Mary Wilson,
+09:39,10,Lumena,1.407.487
+10:09,1,INDvENG,84.175
+10:09,2,SadMovieTeaser,108.609
+10:09,3,祝平成33年,10.469
+10:09,4,HappyGraduationOurTheHanlimz,53.806
+10:09,5,KudaXErica,43.636
+10:09,6,Mary Wilson,10.029
+10:09,7,森山周一郎さん,
+10:09,8,A'TIN PRANING NA,225.573
+10:09,9,A'TIN NGARAG NA,251.784
+10:09,10,しゅごキャラ,11.976
+10:39,1,INDvENG,87.254
+10:39,2,祝平成33年,13.464
+10:39,3,SadMovieTeaser,129.633
+10:39,4,しゅごキャラ,19.976
+10:39,5,SaferInternetDay,17.500
+10:39,6,KudaXErica,71.123
+10:39,7,森山周一郎さん,
+10:39,8,Mary Wilson,12.637
+10:39,9,森山さん,13.547
+10:39,10,紅の豚ポルコ役,
+11:09,1,しゅごキャラ,26.684
+11:09,2,祝平成33年,18.512
+11:09,3,SaferInternetDay,20.140
+11:09,4,KudaXErica,96.731
+11:09,5,SadMovieTeaser,144.289
+11:09,6,INDvENG,80.737
+11:09,7,森山周一郎さん,16.373
+11:09,8,森山さん,19.263
+11:09,9,紅の豚ポルコ役,
+11:09,10,Mary Wilson,14.872
+11:39,1,しゅごキャラ,32.806
+11:39,2,SaferInternetDay,22.850
+11:39,3,祝平成33年,22.305
+11:39,4,森山周一郎さん,20.761
+11:39,5,KudaXErica,116.186
+11:39,6,森山さん,24.839
+11:39,7,SadMovieTeaser,157.416
+11:39,8,INDvENG,82.556
+11:39,9,紅の豚ポルコ役,
+11:39,10,ポルコ・ロッソ役,11.186
+12:09,1,MCBamBam_BDARedCarpet,50.251
+12:09,2,しゅごキャラ,38.764
+12:09,3,SaferInternetDay,26.003
+12:09,4,祝平成33年,23.919
+12:09,5,森山周一郎さん,24.168
+12:09,6,KudaXErica,130.554
+12:09,7,森山さん,29.042
+12:09,8,SB19xATINKabadoNa,281.043
+12:09,9,Mary Wilson,19.767
+12:09,10,A'TIN PRANING NA,358.091
+12:39,1,MCBamBam_BDARedCarpet,155.268
+12:39,2,しゅごキャラ,44.675
+12:39,3,SaferInternetDay,28.848
+12:39,4,SB19WhatIsComing,78.361
+12:39,5,SB19IkalawangYugto,77.787
+12:39,6,LIKEY500M,31.208
+12:39,7,森山周一郎さん,27.034
+12:39,8,WE LIKEY TWICE,25.706
+12:39,9,Mary Wilson,22.170
+12:39,10,森山さん,32.729
+13:09,1,MCBamBam_BDARedCarpet,263.019
+13:09,2,しゅごキャラ,49.644
+13:09,3,SaferInternetDay,31.102
+13:09,4,SB19IkalawangYugto,129.373
+13:09,5,SB19WhatIsComing,131.285
+13:09,6,LIKEY500M,38.570
+13:09,7,森山周一郎さん,29.320
+13:09,8,Mary Wilson,25.332
+13:09,9,WE LIKEY TWICE,32.312
+13:09,10,ノスタル爺,28.029
+13:39,1,MCBamBam_BDARedCarpet,333.510
+13:39,2,しゅごキャラ,53.988
+13:39,3,SaferInternetDay,34.871
+13:39,4,nhk_jsclub,11.449
+13:39,5,SB19WhatIsComing,170.571
+13:39,6,SB19IkalawangYugto,169.615
+13:39,7,Mary Wilson,28.723
+13:39,8,森山周一郎さん,31.244
+13:39,9,ノスタル爺,31.183
+13:39,10,WE LIKEY TWICE,34.196
+14:09,1,MCBamBam_BDARedCarpet,387.609
+14:09,2,青のSP,13.062
+14:09,3,ボス恋,37.871
+14:09,4,しゅごキャラ,57.843
+14:09,5,MonstaXAtBDFA,33.697
+14:09,6,SaferInternetDay,39.104
+14:09,7,Mary Wilson,32.449
+14:09,8,森山周一郎さん,33.282
+14:09,9,ノスタル爺,33.997
+14:09,10,Run BTS,89.173
+14:39,1,ボス恋,57.413
+14:39,2,MCBamBam_BDARedCarpet,433.479
+14:39,3,青のSP,14.066
+14:39,4,MonstaXAtBDFA,49.830
+14:39,5,ホイミー,11.994
+14:39,6,しゅごキャラ,61.321
+14:39,7,Mary Wilson,36.636
+14:39,8,Run BTS,106.764
+14:39,9,ノスタル爺,36.772
+14:39,10,森山周一郎さん,34.876
+15:09,1,ボス恋,88.985
+15:09,2,الهلال_العين,30.942
+15:09,3,ホイミー,15.207
+15:09,4,NCTzenSelcaDay,265.497
+15:09,5,あなたを花に例えると診断,12.752
+15:09,6,しゅごキャラ,64.185
+15:09,7,中沢さん,
+15:09,8,Mary Wilson,41.001
+15:09,9,Run BTS,121.075
+15:09,10,ノスタル爺,38.930
+15:39,1,ボス恋,98.532
+15:39,2,الهلال_العين,43.420
+15:39,3,Encontro,32.412
+15:39,4,NCTzenSelcaDay,319.352
+15:39,5,ホイミー,18.408
+15:39,6,Mary Wilson,45.329
+15:39,7,しゅごキャラ,66.813
+15:39,8,Run BTS,134.633
+15:39,9,中沢さん,
+15:39,10,قوميز,13.143
+16:09,1,الهلال_العين,58.985
+16:09,2,ボス恋,102.838
+16:09,3,Encontro,44.016
+16:09,4,NCTzenSelcaDay,381.333
+16:09,5,松浦果南生誕祭2021,13.712
+16:09,6,果南ちゃん,11.039
+16:09,7,Mary Wilson,49.113
+16:09,8,قوميز,16.769
+16:09,9,Run BTS,145.736
+16:09,10,안경 유무,
+16:39,1,الهلال_العين,80.024
+16:39,2,松浦果南生誕祭2021,32.515
+16:39,3,NCTzenSelcaDay,580.301
+16:39,4,ボス恋,105.310
+16:39,5,Encontro,50.913
+16:39,6,果南ちゃん,23.701
+16:39,7,seulgi,153.535
+16:39,8,Marty Schottenheimer,10.843
+16:39,9,Mary Wilson,52.809
+16:39,10,Curated for ARMY,126.543
+17:09,1,الهلال_العين,95.372
+17:09,2,NCTzenSelcaDay,715.581
+17:09,3,松浦果南生誕祭2021,42.521
+17:09,4,seulgi,182.297
+17:09,5,ボス恋,106.472
+17:09,6,NationalPizzaDay,22.369
+17:09,7,果南ちゃん,29.596
+17:09,8,Marty Schottenheimer,13.639
+17:09,9,焼肉の部位,
+17:09,10,안경 유무,
+17:39,1,مسبار_الامل,63.165
+17:39,2,NCTzenSelcaDay,799.973
+17:39,3,الهلال_العين,105.458
+17:39,4,松浦果南生誕祭2021,47.659
+17:39,5,NationalPizzaDay,25.435
+17:39,6,seulgi,199.585
+17:39,7,果南ちゃん,32.699
+17:39,8,Marty Schottenheimer,15.754
+17:39,9,焼肉の部位,
+17:39,10,안경 유무,
+18:09,1,مسبار_الامل,76.659
+18:09,2,النصر_الفتح,38.898
+18:09,3,NCTzenSelcaDay,848.382
+18:09,4,NationalPizzaDay,28.574
+18:09,5,الهلال_العين,105.936
+18:09,6,seulgi,209.975
+18:09,7,SMAHastası AliyeIşıkOl,
+18:09,8,果南ちゃん,34.645
+18:09,9,Marty Schottenheimer,17.564
+18:09,10,금발vs흑발,
+18:39,1,النصر_الفتح,51.749
+18:39,2,مسبار_الامل,86.222
+18:39,3,NationalPizzaDay,32.727
+18:39,4,MilliUzayProgramı,17.299
+18:39,5,NCTzenSelcaDay,876.571
+18:39,6,Gallardo,23.806
+18:39,7,seulgi,218.176
+18:39,8,Jared Leto,18.136
+18:39,9,Cracker Barrel,
+18:39,10,SMAHastası AliyeIşıkOl,
+19:09,1,MilliUzayProgramı,39.560
+19:09,2,مسبار_الامل,94.326
+19:09,3,النصر_الفتح,57.331
+19:09,4,NationalPizzaDay,36.433
+19:09,5,GökyüzüneBakAyıGör,29.333
+19:09,6,Gallardo,27.804
+19:09,7,Joker,71.026
+19:09,8,seulgi,223.098
+19:09,9,Cracker Barrel,11.141
+19:09,10,Jared Leto,22.473
+19:39,1,MilliUzayProgramı,63.940
+19:39,2,ImpeachmentTrial,37.670
+19:39,3,GökyüzüneBakAyıGör,54.043
+19:39,4,DükkanSenin,
+19:39,5,NationalPizzaDay,40.270
+19:39,6,Gallardo,30.794
+19:39,7,Lemos,
+19:39,8,Joker,77.531
+19:39,9,TOO TIRED TO BE TOUGH,17.003
+19:39,10,Cracker Barrel,12.706
+20:09,1,MilliUzayProgramı,86.397
+20:09,2,ImpeachmentTrial,49.926
+20:09,3,GökyüzüneBakAyıGör,76.551
+20:09,4,inanıyoruz,
+20:09,5,FBvIBFK,
+20:09,6,Lemos,12.594
+20:09,7,TOO TIRED TO BE TOUGH,24.471
+20:09,8,Cisse,11.319
+20:09,9,Joker,81.371
+20:09,10,Gallardo,31.461
+20:39,1,MilliUzayProgramı,105.579
+20:39,2,GökyüzüneBakAyıGör,99.828
+20:39,3,ImpeachmentTrial,61.519
+20:39,4,FBvIBFK,
+20:39,5,inanıyoruz,
+20:39,6,İliçiÖzre AynıİlAyrıEv,
+20:39,7,TOO TIRED TO BE TOUGH,28.295
+20:39,8,Cisse,13.039
+20:39,9,Lemos,13.438
+20:39,10,Joker,85.805
+21:09,1,inanıyoruz,
+21:09,2,MilliUzayProgramı,128.358
+21:09,3,DükkanSenin,
+21:09,4,ImpeachmentTrial,73.669
+21:09,5,GökyüzüneBakAyıGör,123.088
+21:09,6,Harun,39.026
+21:09,7,Raskin,77.496
+21:09,8,iliçiözre aynıilayrıev,
+21:09,9,TOO TIRED TO BE TOUGH,30.697
+21:09,10,Cisse,13.417
+21:39,1,ImpeachmentTrial,100.696
+21:39,2,DefolErol,25.599
+21:39,3,Bruce Castor,47.557
+21:39,4,FBvIBFK,
+21:39,5,MilliUzayProgramı,144.452
+21:39,6,GökyüzüneBakAyıGör,139.731
+21:39,7,Harun,42.993
+21:39,8,Mesut,41.573
+21:39,9,Senators,191.870
+21:39,10,Raskin,96.149
+22:09,1,DefolErol,50.667
+22:09,2,ImpeachmentTrial,129.592
+22:09,3,Bruce Castor,96.529
+22:09,4,FBvIBFK,
+22:09,5,MasumlarApartmanı,17.385
+22:09,6,MilliUzayProgramı,158.813
+22:09,7,Schoen,46.475
+22:09,8,Harun,46.086
+22:09,9,Mesut,50.345
+22:09,10,Senators,204.429
+22:39,1,ImpeachmentTrial,152.116
+22:39,2,DefolErol,58.308
+22:39,3,Bruce Castor,110.337
+22:39,4,MasumlarApartmanı,23.121
+22:39,5,Schoen,93.198
+22:39,6,MUNWHU,18.031
+22:39,7,FBvIBFK,
+22:39,8,Harun,47.236
+22:39,9,Fenerbahçe,231.499
+22:39,10,Mesut,55.709
+23:09,1,ImpeachmentTrial,169.711
+23:09,2,DefolErol,61.885
+23:09,3,Schoen,130.456
+23:09,4,Bruce Castor,118.857
+23:09,5,MUNWHU,22.076
+23:09,6,MasumlarApartmanı,24.780
+23:09,7,JuveInter,29.091
+23:09,8,Martial,30.111
+23:09,9,McTominay,16.185
+23:09,10,Senate,486.676
+23:39,1,ImpeachmentTrial,180.316
+23:39,2,DefolErol,63.865
+23:39,3,Schoen,145.514
+23:39,4,MUNWHU,21.814
+23:39,5,Bruce Castor,124.283
+23:39,6,MasumlarApartmanı,25.679
+23:39,7,Martial,33.382
+23:39,8,JuveInter,32.429
+23:39,9,McTominay,21.808
+23:39,10,Rashford,25.070

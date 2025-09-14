@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Scotland,153.044
+00:09,2,EURO2020,21.926
+00:09,3,SRBSCO,14.608
+00:09,4,HarryPotter,51.688
+00:09,5,Lali,46.718
+00:09,6,ABetterTime,115.126
+00:09,7,David Marshall,
+00:09,8,Dearra,42.873
+00:09,9,XF2020,25.330
+00:09,10,McBurnie,
+00:39,1,Scotland,164.448
+00:39,2,ABetterTime,140.156
+00:39,3,EURO2020,24.973
+00:39,4,HarryPotter,55.709
+00:39,5,Walmart,173.988
+00:39,6,Lali,52.123
+00:39,7,Dearra,46.547
+00:39,8,bbcqt,
+00:39,9,LaCasaFuerte4,12.697
+00:39,10,McBurnie,
+01:09,1,ABetterTime,174.062
+01:09,2,Scotland,170.767
+01:09,3,EURO2020,26.402
+01:09,4,ABT_THEALBUM,15.667
+01:09,5,HarryPotter,58.265
+01:09,6,Walmart,175.969
+01:09,7,Lali,55.244
+01:09,8,Friday the 13th,77.014
+01:09,9,bbcqt,
+01:09,10,Dearra,50.430
+01:39,1,ABetterTime,198.914
+01:39,2,Scotland,177.087
+01:39,3,ABT_THEALBUM,20.997
+01:39,4,Friday the 13th,81.585
+01:39,5,MVFree,14.833
+01:39,6,ResilientRemix,12.238
+01:39,7,Lali,57.869
+01:39,8,Romero,21.225
+01:39,9,Dearra,54.295
+01:39,10,Walmart,180.897
+02:09,1,ABetterTime,215.608
+02:09,2,Scotland,180.466
+02:09,3,Friday the 13th,83.951
+02:09,4,Romero,24.621
+02:09,5,paraguay,45.283
+02:09,6,ResilientRemix,25.920
+02:09,7,Nico González,
+02:09,8,FreePS5,23.159
+02:09,9,Otamendi,
+02:09,10,Scaloni,
+02:39,1,ABetterTime,226.850
+02:39,2,Lo Celso,
+02:39,3,Paraguay,51.462
+02:39,4,El VAR,20.823
+02:39,5,Supernatural,28.974
+02:39,6,Scotland,183.078
+02:39,7,Friday the 13th,88.823
+02:39,8,Romero,27.367
+02:39,9,Otamendi,
+02:39,10,Davido,324.300
+03:09,1,Messi,99.268
+03:09,2,ABetterTime,233.676
+03:09,3,Supernatural,49.174
+03:09,4,Paraguay,58.650
+03:09,5,Celso,17.177
+03:09,6,El VAR,26.961
+03:09,7,GreysAnatomy,35.485
+03:09,8,debatenacultura,
+03:09,9,Friday the 13th,91.901
+03:09,10,Colts,27.323
+03:39,1,GreysAnatomy,62.450
+03:39,2,EliminacaoAFazenda,59.075
+03:39,3,Supernatural,60.079
+03:39,4,Messi,107.505
+03:39,5,ABetterTime,238.709
+03:39,6,Lo Celso,10.815
+03:39,7,debatenacultura,11.766
+03:39,8,El VAR,31.233
+03:39,9,Walmart,222.842
+03:39,10,Colts,30.779
+04:09,1,GreysAnatomy,83.828
+04:09,2,EliminacaoAFazenda,95.495
+04:09,3,Supernatural,65.539
+04:09,4,Messi,109.982
+04:09,5,debatenacultura,16.409
+04:09,6,ABetterTime,241.816
+04:09,7,Celso,20.201
+04:09,8,El VAR,33.172
+04:09,9,Chet,
+04:09,10,Colts,33.230
+04:39,1,EliminacaoAFazenda,212.302
+04:39,2,GreysAnatomy,100.752
+04:39,3,Colts,42.445
+04:39,4,Supernatural,69.848
+04:39,5,debatenacultura,19.068
+04:39,6,Messi,112.729
+04:39,7,ABetterTime,245.158
+04:39,8,BEIJO DE JUDAS,53.080
+04:39,9,Friday the 13th,105.763
+04:39,10,Lo Celso,11.729
+05:09,1,EliminacaoAFazenda,241.230
+05:09,2,GreysAnatomy,138.605
+05:09,3,Colts,50.410
+05:09,4,Titans,74.304
+05:09,5,Supernatural,72.760
+05:09,6,debatenacultura,20.009
+05:09,7,BEIJO DE JUDAS,58.354
+05:09,8,Friday the 13th,110.537
+05:09,9,Paraguay,70.555
+05:09,10,Messi,113.358
+05:39,1,GreysAnatomy,171.013
+05:39,2,EliminacaoAFazenda,248.437
+05:39,3,Colts,59.489
+05:39,4,Supernatural,75.556
+05:39,5,Titans,16.558
+05:39,6,Friday the 13th,115.726
+05:39,7,BEIJO DE JUDAS,64.695
+05:39,8,Hines,
+05:39,9,debatenacultura,20.763
+05:39,10,Paraguay,71.541
+06:09,1,GreysAnatomy,189.152
+06:09,2,EliminacaoAFazenda,252.728
+06:09,3,Colts,62.303
+06:09,4,Meredith,29.463
+06:09,5,Friday the 13th,120.450
+06:09,6,Supernatural,78.518
+06:09,7,Titans,16.850
+06:09,8,BEIJO DE JUDAS,67.138
+06:09,9,SavePapuaForest,320.691
+06:09,10,FF15,
+06:39,1,GreysAnatomy,200.900
+06:39,2,EliminacaoAFazenda,255.734
+06:39,3,Meredith,32.109
+06:39,4,Colts,63.987
+06:39,5,Titans,85.396
+06:39,6,Friday the 13th,126.161
+06:39,7,Cold War,106.298
+06:39,8,Supernatural,80.857
+06:39,9,FF15,
+06:39,10,SavePapuaForest,329.696
+07:09,1,GreysAnatomy,209.130
+07:09,2,EliminacaoAFazenda,257.394
+07:09,3,Meredith,33.692
+07:09,4,Colts,65.090
+07:09,5,Friday the 13th,130.603
+07:09,6,Titans,85.585
+07:09,7,Cold War,108.799
+07:09,8,FF15,10.304
+07:09,9,SavePapuaForest,336.853
+07:09,10,Supernatural,82.398
+07:39,1,GreysAnatomy,215.790
+07:39,2,EliminacaoAFazenda,258.246
+07:39,3,Friday the 13th,135.826
+07:39,4,MerinoAsesino,
+07:39,5,Colts,65.959
+07:39,6,Cold War,112.107
+07:39,7,FF15,11.650
+07:39,8,ABT_THEALBUM,38.321
+07:39,9,711x702,97.333
+07:39,10,Titans,86.354
+08:09,1,GreysAnatomy,221.888
+08:09,2,eliminacaoafazenda,258.905
+08:09,3,MerinoAsesino,13.022
+08:09,4,Friday the 13th,139.916
+08:09,5,ABT_THEALBUM,44.193
+08:09,6,711x702,112.090
+08:09,7,Cold War,113.614
+08:09,8,FF15,12.749
+08:09,9,Colts,66.419
+08:09,10,Viernes 13,69.105
+08:39,1,GreysAnatomy,227.693
+08:39,2,ABT_THEALBUM,51.854
+08:39,3,Friday the 13th,144.506
+08:39,4,MerinoAsesino,15.360
+08:39,5,711x702,129.660
+08:39,6,EliminacaoAFazenda,259.330
+08:39,7,Meredith,36.814
+08:39,8,FF15,14.661
+08:39,9,Jiminie,11.404
+08:39,10,Cold War,115.883
+09:09,1,GreysAnatomy,231.026
+09:09,2,ABT_THEALBUM,58.451
+09:09,3,Jiminie,18.429
+09:09,4,Friday the 13th,148.651
+09:09,5,711x702,148.861
+09:09,6,MerinoAsesino,16.728
+09:09,7,FF15,18.160
+09:09,8,HayırlıCumalar,21.344
+09:09,9,Peter Sutcliffe,
+09:09,10,Cold War,117.128
+09:39,1,グラブル,70.952
+09:39,2,ABT_THEALBUM,68.593
+09:39,3,GreysAnatomy,233.835
+09:39,4,Jiminie,23.222
+09:39,5,Friday the 13th,154.847
+09:39,6,Peter Sutcliffe,
+09:39,7,johnlewischristmasadvert,
+09:39,8,711x702,167.995
+09:39,9,WorldKindnessDay,27.653
+09:39,10,FF15,22.380
+10:09,1,グラブル,104.126
+10:09,2,ABT_THEALBUM,76.680
+10:09,3,WorldKindnessDay,29.935
+10:09,4,Peter Sutcliffe,
+10:09,5,Friday the 13th,161.327
+10:09,6,GreysAnatomy,236.774
+10:09,7,Jiminie,26.161
+10:09,8,johnlewischristmasadvert,
+10:09,9,711x702,189.104
+10:09,10,FF15,25.391
+10:39,1,グラブル,127.362
+10:39,2,WorldKindnessDay,33.143
+10:39,3,ABT_THEALBUM,84.236
+10:39,4,Dynamite22ndWin,22.398
+10:39,5,Peter Sutcliffe,
+10:39,6,Friday the 13th,167.248
+10:39,7,johnlewischristmasadvert,
+10:39,8,国家非常事態宣言,13.211
+10:39,9,13Novembre2015,16.089
+10:39,10,taehyun,56.055
+11:09,1,グラブル,142.608
+11:09,2,Dynamite22ndWin,42.875
+11:09,3,WorldKindnessDay,36.500
+11:09,4,少クラ,11.353
+11:09,5,鬼滅コラボ,56.866
+11:09,6,ABT_THEALBUM,88.842
+11:09,7,Peter Sutcliffe,10.331
+11:09,8,TAEHYUN,73.703
+11:09,9,Friday the 13th,171.816
+11:09,10,johnlewischristmasadvert,
+11:39,1,グラブル,155.726
+11:39,2,WorldKindnessDay,39.650
+11:39,3,Dynamite22ndWin,52.621
+11:39,4,少クラ,13.161
+11:39,5,鬼滅コラボ,62.799
+11:39,6,小学5年生より賢いの,
+11:39,7,アニポケ,45.635
+11:39,8,Peter Sutcliffe,11.697
+11:39,9,taehyun,85.727
+11:39,10,jikook,40.949
+12:09,1,グラブル,166.284
+12:09,2,ファンタビ,30.482
+12:09,3,WorldKindnessDay,43.340
+12:09,4,みんなでおかわりV6,
+12:09,5,سوال_حمدي_مع_مسك_الامارات,14.339
+12:09,6,Dynamite22ndWin,60.474
+12:09,7,少クラ,14.345
+12:09,8,Friday the 13th,180.977
+12:09,9,jikook,46.315
+12:09,10,Peter Sutcliffe,13.022
+12:39,1,ファンタビ,44.654
+12:39,2,グラブル,176.386
+12:39,3,みんなでおかわりV6,
+12:39,4,WorldKindnessDay,47.545
+12:39,5,سوال_حمدي_مع_مسك_الامارات,23.966
+12:39,6,اليوم_العالمي_للاسماء_الحلوه,
+12:39,7,JUNGWON LEADER,55.634
+12:39,8,Dynamite22ndWin,67.289
+12:39,9,雪風改二,
+12:39,10,Friday the 13th,186.891
+13:09,1,みんなでおかわりV6,16.668
+13:09,2,ファンタビ,53.505
+13:09,3,Mステ,31.448
+13:09,4,グラブル,182.607
+13:09,5,سوال_حمدي_مع_مسك_الامارات,33.908
+13:09,6,WorldKindnessDay,50.892
+13:09,7,JUNGWON LEADER,98.210
+13:09,8,雪風改二,11.127
+13:09,9,身長を晒す見た人も晒す,14.888
+13:09,10,Friday the 13th,194.637
+13:39,1,Mステ,45.361
+13:39,2,みんなでおかわりV6,23.659
+13:39,3,ファンタビ,62.543
+13:39,4,WorldKindnessDay,55.097
+13:39,5,سوال_حمدي_مع_مسك_الامارات,38.767
+13:39,6,グラブル,188.374
+13:39,7,雪風改二,14.043
+13:39,8,Friday the 13th,205.562
+13:39,9,JUNGWON LEADER,110.098
+13:39,10,身長を晒す見た人も晒す,15.791
+14:09,1,Mステ,52.041
+14:09,2,みんなでおかわりV6,30.986
+14:09,3,ファンタビ,70.268
+14:09,4,WorldKindnessDay,59.015
+14:09,5,金スマ,10.232
+14:09,6,Friday the 13th,214.508
+14:09,7,身長を晒す見た人も晒す,16.609
+14:09,8,雪風改二,16.002
+14:09,9,JUNGWON LEADER,119.891
+14:09,10,グラブル,193.127
+14:39,1,Mステ,60.900
+14:39,2,ファンタビ,77.757
+14:39,3,みんなでおかわりV6,35.771
+14:39,4,AskRicci,
+14:39,5,Friday the 13th,228.297
+14:39,6,WorldKindnessDay,63.160
+14:39,7,CagayanNeedsHelp,62.060
+14:39,8,雪風改二,17.582
+14:39,9,Sexta-feira 13,144.533
+14:39,10,JUNGWON LEADER,126.402
+15:09,1,harry styles,279.491
+15:09,2,ファンタビ,92.773
+15:09,3,みんなでおかわりV6,43.072
+15:09,4,Mステ,64.375
+15:09,5,Friday the 13th,239.116
+15:09,6,CagayanNeedsHelp,99.069
+15:09,7,WorldKindnessDay,68.072
+15:09,8,AskRicci,
+15:09,9,Sexta-feira 13,153.904
+15:09,10,Viernes 13,113.821
+15:39,1,harry styles,334.762
+15:39,2,みんなでおかわりV6,52.354
+15:39,3,Friday the 13th,262.471
+15:39,4,ファンタビ,99.279
+15:39,5,CagayanNeedsHelp,142.211
+15:39,6,WorldKindnessDay,75.316
+15:39,7,D4DJ_03,25.823
+15:39,8,WeThankYouTaehyung,38.943
+15:39,9,Viernes 13,121.099
+15:39,10,Sexta-feira 13,163.021
+16:09,1,WeThankYouTaehyung,80.766
+16:09,2,harry styles,378.744
+16:09,3,CagayanNeedsHelp,195.575
+16:09,4,Friday the 13th,277.993
+16:09,5,6DaysBEforeBE,27.523
+16:09,6,みんなでおかわりV6,56.460
+16:09,7,WorldKindnessDay,81.797
+16:09,8,ファンタビ,102.078
+16:09,9,Viernes 13,127.361
+16:09,10,Sexta-feira 13,171.297
+16:39,1,WeThankYouTaehyung,117.459
+16:39,2,CagayanNeedsHelp,258.885
+16:39,3,6DaysBEforeBE,85.955
+16:39,4,harry styles,423.649
+16:39,5,Friday the 13th,295.842
+16:39,6,WorldKindnessDay,87.932
+16:39,7,SEVENTEEN2000DAYS,33.599
+16:39,8,ファンタビ,103.998
+16:39,9,Viernes 13,134.288
+16:39,10,Derek,117.324
+17:09,1,WeThankYouTaehyung,139.662
+17:09,2,CagayanNeedsHelp,334.577
+17:09,3,Harry Styles,459.635
+17:09,4,Friday the 13th,307.732
+17:09,5,6DaysBEforeBE,97.434
+17:09,6,WorldKindnessDay,94.797
+17:09,7,SEVENTEEN2000DAYS,41.812
+17:09,8,Vogue,393.541
+17:09,9,Viernes 13,139.708
+17:09,10,ファンタビ,105.200
+17:39,1,CagayanNeedsHelp,431.104
+17:39,2,WeThankYouTaehyung,155.188
+17:39,3,Friday the 13th,323.600
+17:39,4,harry styles,493.979
+17:39,5,TharnTypeSS2EP2,249.692
+17:39,6,WorldKindnessDay,102.912
+17:39,7,6DaysBEforeBE,102.223
+17:39,8,Kim Ng,20.395
+17:39,9,Viernes 13,146.535
+17:39,10,窪寺さん,
+18:09,1,CagayanNeedsHelp,570.122
+18:09,2,呪術廻戦,80.584
+18:09,3,WeThankYouTaehyung,166.977
+18:09,4,Friday the 13th,333.326
+18:09,5,TharnTypeSS2EP2,346.706
+18:09,6,harry styles,523.771
+18:09,7,WorldKindnessDay,108.080
+18:09,8,Kim Ng,27.134
+18:09,9,窪寺さん,
+18:09,10,Viernes 13,151.289
+18:39,1,CagayanNeedsHelp,737.394
+18:39,2,呪術廻戦,94.400
+18:39,3,WeThankYouTaehyung,176.085
+18:39,4,Friday the 13th,347.963
+18:39,5,TharnTypeSS2EP2,393.763
+18:39,6,harry styles,550.500
+18:39,7,WorldKindnessDay,113.195
+18:39,8,Kim Ng,33.299
+18:39,9,JOAN JETT,
+18:39,10,窪寺さん,10.821
+19:09,1,CagayanNeedsHelp,910.752
+19:09,2,Friday the 13th,356.556
+19:09,3,WeThankYouTaehyung,183.596
+19:09,4,呪術廻戦,98.828
+19:09,5,NGASLE,
+19:09,6,DominicGoing,
+19:09,7,Harry Styles,569.256
+19:09,8,Kim Ng,41.022
+19:09,9,Joan Jett,
+19:09,10,窪寺さん,11.910
+19:39,1,CagayanNeedsHelp,1.066.352
+19:39,2,Friday the 13th,370.137
+19:39,3,FreeCodeFridayContest,
+19:39,4,DominicGoing,
+19:39,5,NGASLE,11.953
+19:39,6,WeThankYouTaehyung,189.918
+19:39,7,harry styles,591.437
+19:39,8,Kim Ng,46.415
+19:39,9,Joan Jett,
+19:39,10,五条先生,41.266
+20:09,1,CagayanNeedsHelp,1.190.468
+20:09,2,FreeCodeFridayContest,
+20:09,3,Friday the 13th,378.170
+20:09,4,BOLSORINGA,24.288
+20:09,5,NGASLE,13.810
+20:09,6,DominicGoing,
+20:09,7,harry styles,607.521
+20:09,8,Kim Ng,50.308
+20:09,9,Joan Jett,
+20:09,10,Happy Diwali,165.954
+20:39,1,CagayanNeedsHelp,1.264.114
+20:39,2,SalarioRosa,15.883
+20:39,3,FreeCodeFridayContest,
+20:39,4,Friday the 13th,389.849
+20:39,5,BOLSORINGA,30.319
+20:39,6,TugegaraoNeedsHelp,40.332
+20:39,7,harry styles,625.523
+20:39,8,Ubisoft Montreal,
+20:39,9,Kim Ng,53.317
+20:39,10,Happy Diwali,174.405
+21:09,1,SalarioRosa,24.143
+21:09,2,CagayanNeedsHelp,1.271.817
+21:09,3,UnusAnnusisoverparty,11.009
+21:09,4,FreeCodeFridayContest,
+21:09,5,Friday the 13th,395.284
+21:09,6,BOLSORINGA,36.730
+21:09,7,Ubisoft Montreal,21.656
+21:09,8,harry styles,636.104
+21:09,9,Happy Diwali,179.539
+21:09,10,Kim Ng,55.998
+21:39,1,UnusAnnusisoverparty,56.857
+21:39,2,SalarioRosa,30.881
+21:39,3,CagayanNeedsHelp,1.343.908
+21:39,4,Ubisoft Montreal,32.558
+21:39,5,Friday the 13th,395.469
+21:39,6,BOLSORINGA,43.332
+21:39,7,FreeCodeFridayContest,
+21:39,8,harry styles,648.872
+21:39,9,PEMDAS,
+21:39,10,Happy Diwali,183.264
+22:09,1,UnusAnnusisoverparty,101.052
+22:09,2,SalarioRosa,36.314
+22:09,3,CagayanNeedsHelp,1.404.327
+22:09,4,KohLanta,12.746
+22:09,5,Ubisoft Montreal,37.797
+22:09,6,BOLSORINGA,49.951
+22:09,7,Friday the 13th,410.573
+22:09,8,Uruguay,42.253
+22:09,9,Ospina,
+22:09,10,PEMDAS,10.309
+22:39,1,UnusAnnusisoverparty,124.623
+22:39,2,SalarioRosa,45.210
+22:39,3,KohLanta,22.557
+22:39,4,CagayanNeedsHelp,1.455.217
+22:39,5,FandomsNoMTVHits,70.603
+22:39,6,Ubisoft Montreal,41.816
+22:39,7,Friday the 13th,420.242
+22:39,8,Muriel,
+22:39,9,Selvaggia,10.884
+22:39,10,Julio Videla,
+23:09,1,UnusAnnusisoverparty,138.859
+23:09,2,SalarioRosa,54.623
+23:09,3,KohLanta,36.049
+23:09,4,CagayanNeedsHelp,1.487.992
+23:09,5,CantoraLaHerenciaEnvenenada,
+23:09,6,Uruguay,52.837
+23:09,7,Muriel,
+23:09,8,Ubisoft Montreal,44.199
+23:09,9,Friday the 13th,421.591
+23:09,10,Fabrice,
+23:39,1,UnusAnnusisoverparty,151.343
+23:39,2,SalarioRosa,62.227
+23:39,3,KohLanta,41.427
+23:39,4,Uruguay,67.868
+23:39,5,CagayanNeedsHelp,1.537.338
+23:39,6,CantoraLaHerenciaEnvenenada,10.556
+23:39,7,Queiroz,13.045
+23:39,8,Muriel,
+23:39,9,Cuomo,88.977
+23:39,10,Friday the 13th,430.140

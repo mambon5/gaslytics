@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosaVePorMas,104.543
+00:10,2,NyQuil,22.921
+00:10,3,Maischberger,
+00:10,4,Kevin Bacon,
+00:10,5,GBBO,
+00:10,6,IranProtests,75.175
+00:10,7,خلك_نبيه,
+00:10,8,Petro,238.788
+00:10,9,Poesia 13,68.237
+00:10,10,Judge Dearie,138.955
+00:40,1,SalarioRosaVePorMas,108.914
+00:40,2,NyQuil,24.685
+00:40,3,Kevin Bacon,
+00:40,4,Maischberger,
+00:40,5,ローソンもちもちどらもっち,
+00:40,6,IranProtests,78.005
+00:40,7,Lanz,
+00:40,8,Petro,249.681
+00:40,9,Poesia 13,71.760
+00:40,10,Iñaki,20.894
+01:10,1,NyQuil,26.603
+01:10,2,SalarioRosaVePorMas,112.592
+01:10,3,Kevin Bacon,
+01:10,4,ローソンもちもちどらもっち,19.268
+01:10,5,Maischberger,
+01:10,6,IranProtests,78.663
+01:10,7,Lanz,
+01:10,8,Petro,253.772
+01:10,9,Edilson,
+01:10,10,客の宿泊拒否,
+01:40,1,NyQuil,28.730
+01:40,2,Kevin Bacon,
+01:40,3,SalarioRosaVePorMas,115.502
+01:40,4,ローソンもちもちどらもっち,47.455
+01:40,5,IranProtests,80.813
+01:40,6,Lucas Leiva,
+01:40,7,HeySayJUMP結成15周年,
+01:40,8,Biel,17.449
+01:40,9,Petro,264.605
+01:40,10,Maischberger,
+02:10,1,Kevin Bacon,
+02:10,2,NyQuil,30.727
+02:10,3,SalarioRosaVePorMas,117.868
+02:10,4,ローソンもちもちどらもっち,65.602
+02:10,5,Biel,17.678
+02:10,6,Petro,268.451
+02:10,7,TSmidnighTS,17.496
+02:10,8,IranProtests,81.850
+02:10,9,HeySayJUMP結成15周年,
+02:10,10,Lucas Leiva,
+02:40,1,thebachelorette,10.804
+02:40,2,Kevin Bacon,
+02:40,3,NyQuil,32.991
+02:40,4,Tino,
+02:40,5,Bader,11.984
+02:40,6,WWENXT,
+02:40,7,ローソンもちもちどらもっち,78.453
+02:40,8,SalarioRosaVePorMas,121.048
+02:40,9,Petro,277.816
+02:40,10,焼身自殺,
+03:10,1,thebachelorette,24.057
+03:10,2,Tino,15.671
+03:10,3,Kevin Bacon,
+03:10,4,NyQuil,34.622
+03:10,5,WWENXT,10.498
+03:10,6,SalarioRosaVePorMas,131.001
+03:10,7,Gabby,
+03:10,8,Bader,13.766
+03:10,9,焼身自殺,
+03:10,10,DWCS,
+03:40,1,thebachelorette,39.944
+03:40,2,Tino,22.281
+03:40,3,Kevin Bacon,
+03:40,4,CashAppBoostWeek,34.546
+03:40,5,DWCS,
+03:40,6,Bader,16.009
+03:40,7,NyQuil,36.294
+03:40,8,Aven,
+03:40,9,WWENXT,12.774
+03:40,10,焼身自殺,
+04:10,1,thebachelorette,47.851
+04:10,2,Tino,23.887
+04:10,3,Kevin Bacon,
+04:10,4,CashAppBoostWeek,36.959
+04:10,5,DWCS,
+04:10,6,NyQuil,38.187
+04:10,7,Pantanal,11.903
+04:10,8,Aven,
+04:10,9,Bader,16.230
+04:10,10,Zaracho,
+04:40,1,TheBachelorette,57.174
+04:40,2,RoçaAFazenda,34.239
+04:40,3,Tino,25.099
+04:40,4,Kevin Bacon,
+04:40,5,Deborah,34.208
+04:40,6,DWCS,
+04:40,7,CashAppBoostWeek,38.912
+04:40,8,LAY_DropTheVEIL,18.052
+04:40,9,Rachel,58.780
+04:40,10,NyQuil,39.890
+05:10,1,RoçaAFazenda,78.356
+05:10,2,TheBachelorette,63.306
+05:10,3,Yankees,61.586
+05:10,4,Kerline,42.797
+05:10,5,Stanton,15.741
+05:10,6,Aaron Judge,27.335
+05:10,7,Tino,25.717
+05:10,8,Deborah,39.902
+05:10,9,RepBX,
+05:10,10,Deolane,48.881
+05:40,1,RoçaAFazenda,111.911
+05:40,2,TheBachelorette,64.906
+05:40,3,Kerline,54.672
+05:40,4,Yankees,72.397
+05:40,5,Aaron Judge,32.114
+05:40,6,Stanton,17.748
+05:40,7,Deolane,58.077
+05:40,8,日向坂4期生,
+05:40,9,Julia,56.944
+05:40,10,Deborah,42.862
+06:10,1,RoçaAFazenda,126.308
+06:10,2,taylor,280.106
+06:10,3,TheBachelorette,66.179
+06:10,4,Kerline,60.748
+06:10,5,日向坂4期生,
+06:10,6,Yankees,78.509
+06:10,7,Aaron Judge,34.485
+06:10,8,Tiago,49.509
+06:10,9,Stanton,18.990
+06:10,10,Deolane,62.807
+06:40,1,RocaAFazenda,130.660
+06:40,2,taylor,299.052
+06:40,3,thebachelorette,67.345
+06:40,4,日向坂4期生,
+06:40,5,Kerline,63.658
+06:40,6,Yankees,82.079
+06:40,7,Aaron Judge,36.168
+06:40,8,Tiago,53.000
+06:40,9,Deolane,67.462
+06:40,10,Stanton,19.782
+07:10,1,RoçaAFazenda,132.970
+07:10,2,taylor,301.394
+07:10,3,thebachelorette,68.138
+07:10,4,日向坂4期生,
+07:10,5,Kerline,66.361
+07:10,6,Yankees,83.943
+07:10,7,Aaron Judge,37.090
+07:10,8,Tiago,55.049
+07:10,9,Track 13,25.648
+07:10,10,Mastermind,35.204
+07:40,1,jungkook,348.216
+07:40,2,rajusrivastava,
+07:40,3,RocaAFazenda,134.507
+07:40,4,taylor,306.561
+07:40,5,TheBachelorette,68.972
+07:40,6,Om Shanti,
+07:40,7,日向坂4期生,
+07:40,8,राजू श्रीवास्तव,11.950
+07:40,9,あなたの繊細さん度,
+07:40,10,Kerline,67.883
+08:10,1,rajusrivastava,21.013
+08:10,2,jungkook,365.694
+08:10,3,Om Shanti,14.870
+08:10,4,RocaAFazenda,135.253
+08:10,5,taylor,305.717
+08:10,6,राजू श्रीवास्तव,25.482
+08:10,7,TheBachelorette,69.613
+08:10,8,日向坂4期生,
+08:10,9,TSmidnightTS,
+08:10,10,JISOO DESERVES BETTER,19.480
+08:40,1,rajusrivastava,28.246
+08:40,2,jungkook,383.396
+08:40,3,Om Shanti,19.077
+08:40,4,RocaAFazenda,135.679
+08:40,5,राजू श्रीवास्तव,36.255
+08:40,6,taylor,308.915
+08:40,7,あなたの繊細さん度,
+08:40,8,日向坂4期生,
+08:40,9,JISOO DESERVES BETTER,32.653
+08:40,10,TheBachelorette,69.951
+09:10,1,rajusrivastava,33.140
+09:10,2,jungkook,389.710
+09:10,3,Om Shanti,25.184
+09:10,4,RoçaAFazenda,135.929
+09:10,5,あなたの繊細さん度,
+09:10,6,Putin,36.781
+09:10,7,राजू श्रीवास्तव,46.706
+09:10,8,KarmYuddhTrailerOutNow,
+09:10,9,JISOO DESERVES BETTER,41.610
+09:10,10,ラスピリ,
+09:40,1,rajusrivastava,37.209
+09:40,2,jungkook,402.387
+09:40,3,Om Shanti,30.450
+09:40,4,Putin,40.474
+09:40,5,RoçaAFazenda,136.170
+09:40,6,あなたの繊細さん度,
+09:40,7,リリリエラ,
+09:40,8,राजू श्रीवास्तव,56.388
+09:40,9,ラスピリ,
+09:40,10,JISOO DESERVES BETTER,46.671
+10:10,1,rajusrivastava,40.880
+10:10,2,Om Shanti,34.512
+10:10,3,jungkook,406.566
+10:10,4,Putin,43.385
+10:10,5,リリリエラ,10.442
+10:10,6,あなたの繊細さん度,
+10:10,7,ラスピリ,10.587
+10:10,8,RoçaAFazenda,136.324
+10:10,9,राजू श्रीवास्तव,64.661
+10:10,10,JISOO DESERVES BETTER,51.283
+10:40,1,RajuSrivastav,21.075
+10:40,2,リリリエラ,12.057
+10:40,3,Om Shanti,38.200
+10:40,4,Putin,46.903
+10:40,5,BelleOutstandingAsianStar,10.933
+10:40,6,Belle24EverInSeoul,10.555
+10:40,7,jungkook,418.062
+10:40,8,ラスピリ,13.049
+10:40,9,Ekrem İmamoğlu,25.390
+10:40,10,राजू श्रीवास्तव,71.346
+11:10,1,rajusrivastava,46.300
+11:10,2,BelleOutstandingAsianStar,22.762
+11:10,3,Belle24EverInSeoul,21.626
+11:10,4,goUP_JAYB,11.747
+11:10,5,リリリエラ,12.831
+11:10,6,Om Shanti,41.260
+11:10,7,ラスピリ,15.613
+11:10,8,Ekrem İmamoğlu,27.703
+11:10,9,Jungkook,420.084
+11:10,10,卵かけご飯の完成,
+11:40,1,goUP_JAYB,25.405
+11:40,2,rajusrivastava,49.246
+11:40,3,BelleOutstandingAsianStar,32.051
+11:40,4,Belle24EverInSeoul,30.632
+11:40,5,あなたの繊細さん度,
+11:40,6,ラスピリ,17.821
+11:40,7,Om Shanti,43.871
+11:40,8,Ekrem İmamoğlu,29.890
+11:40,9,jungkook,431.507
+11:40,10,卵かけご飯の完成,
+12:10,1,goUP_JAYB,37.351
+12:10,2,ISSUETHAILANDxBeOnCloud,41.028
+12:10,3,BIFW2022xBeOnCloud,35.855
+12:10,4,rajusrivastava,51.493
+12:10,5,BelleOutstandingAsianStar,38.164
+12:10,6,ラスピリ,19.598
+12:10,7,Om Shanti,46.159
+12:10,8,Ekrem İmamoğlu,31.044
+12:10,9,卵かけご飯の完成,
+12:10,10,スノーピーク,13.979
+12:40,1,Voguegala2022XMileApo,85.899
+12:40,2,ISSUETHAILANDxBeOnCloud,85.805
+12:40,3,BIFW2022xBeOnCloud,79.694
+12:40,4,goUP_JAYB,45.841
+12:40,5,リリリエラ,17.426
+12:40,6,ラスピリ,21.253
+12:40,7,Om Shanti,48.084
+12:40,8,Ekrem İmamoğlu,32.751
+12:40,9,卵かけご飯の完成,
+12:40,10,スノーピーク,15.408
+13:10,1,Voguegala2022XMileApo,393.217
+13:10,2,ISSUETHAILANDxBeOnCloud,131.267
+13:10,3,BIFW2022xBeOnCloud,119.338
+13:10,4,goUP_JAYB,51.885
+13:10,5,リリリエラ,25.540
+13:10,6,糸井さん,10.906
+13:10,7,OSO18,
+13:10,8,ラスピリ,22.464
+13:10,9,裕翔くん,
+13:10,10,はいじま駅,
+13:40,1,Voguegala2022XMileApo,611.475
+13:40,2,ISSUETHAILANDxBeOnCloud,209.584
+13:40,3,BIFW2022xBeOnCloud,172.989
+13:40,4,ニュースそこだけファイル,20.899
+13:40,5,糸井さん,12.806
+13:40,6,MistineEveandboyXซีนุนิว,61.153
+13:40,7,裕翔くん,
+13:40,8,ラスピリ,23.555
+13:40,9,OSO18,
+13:40,10,SAFE SKIES BELLE,
+14:10,1,Voguegala2022XMileApo,793.699
+14:10,2,ISSUETHAILANDxBeOnCloud,271.502
+14:10,3,BIFW2022xBeOnCloud,212.234
+14:10,4,ニュースそこだけファイル,28.566
+14:10,5,リリリエラ,36.419
+14:10,6,チョコラタ,
+14:10,7,糸井さん,13.147
+14:10,8,SAFE SKIES BELLE,12.977
+14:10,9,裕翔くん,
+14:10,10,Feliz Primavera,20.442
+14:40,1,Voguegala2022XMileApo,957.557
+14:40,2,すわほー,
+14:40,3,ISSUETHAILANDxBeOnCloud,345.285
+14:40,4,チョコラタ,
+14:40,5,BIFW2022xBeOnCloud,256.055
+14:40,6,ニュースそこだけファイル,35.581
+14:40,7,マジック4,
+14:40,8,リリリエラ,39.477
+14:40,9,SAFE SKIES BELLE,18.124
+14:40,10,Feliz Primavera,23.987
+15:10,1,Voguegala2022XMileApo,1.104.428
+15:10,2,Thunivu,87.549
+15:10,3,ISSUETHAILANDxBeOnCloud,438.727
+15:10,4,すわほー,
+15:10,5,DragRacePH,
+15:10,6,チョコラタ,
+15:10,7,BIFW2022xBeOnCloud,318.050
+15:10,8,マジック4,
+15:10,9,Mustafa Güneş,
+15:10,10,Feliz Primavera,27.628
+15:40,1,Thunivu,301.361
+15:40,2,Voguegala2022XMileApo,1.222.538
+15:40,3,DragRacePH,
+15:40,4,ISSUETHAILANDxBeOnCloud,498.547
+15:40,5,水曜日のダウンタウン,
+15:40,6,すわほー,
+15:40,7,チョコラタ,10.535
+15:40,8,糸井さん,17.053
+15:40,9,ひろゆき参戦,
+15:40,10,ありの無茶苦茶ディベート対決開催,
+16:10,1,Thunivu,392.627
+16:10,2,Voguegala2022XMileApo,1.353.409
+16:10,3,DragRacePH,11.528
+16:10,4,水曜日のダウンタウン,
+16:10,5,糸井さん,21.042
+16:10,6,糸井さん,21.042
+16:10,7,こいほー,
+16:10,8,SelamatDatangWayV,40.251
+16:10,9,すわほー,
+16:10,10,チョコラタ,11.155
+16:40,1,Thunivu,452.007
+16:40,2,POPstar_NayeonDay,34.709
+16:40,3,원스의_노을이_나연이,34.711
+16:40,4,Voguegala2022XMileApo,1.479.646
+16:40,5,DragRacePH,13.535
+16:40,6,糸井さん,25.637
+16:40,7,ひろゆき参戦,13.937
+16:40,8,こいほー,
+16:40,9,ありの無茶苦茶ディベート対決開催,13.516
+16:40,10,糸井選手,17.007
+17:10,1,PerfectPitchSeungminDay,89.079
+17:10,2,POPstar_NayeonDay,66.397
+17:10,3,원스의_노을이_나연이,65.714
+17:10,4,승민아_영원을_믿게해줄게,66.522
+17:10,5,Thunivu,490.243
+17:10,6,糸井さん,27.945
+17:10,7,ひろゆき参戦,14.235
+17:10,8,ありの無茶苦茶ディベート対決開催,13.820
+17:10,9,糸井選手,19.509
+17:10,10,こいほー,
+17:40,1,PerfectPitchSeungminDay,127.381
+17:40,2,POPstar_NayeonDay,85.259
+17:40,3,원스의_노을이_나연이,83.915
+17:40,4,승민아_영원을_믿게해줄게,90.370
+17:40,5,ShiningOnJinyoungDay,49.473
+17:40,6,糸井さん,28.759
+17:40,7,BRAND NEW TEASER 5,30.359
+17:40,8,第244回,
+17:40,9,Putin,747.264
+17:40,10,糸井選手,20.706
+18:10,1,PerfectPitchSeungminDay,145.003
+18:10,2,POPstar_NayeonDay,95.252
+18:10,3,원스의_노을이_나연이,93.433
+18:10,4,승민아_영원을_믿게해줄게,101.656
+18:10,5,ShiningOnJinyoungDay,65.178
+18:10,6,Letitia James,79.701
+18:10,7,ありの無茶苦茶ディベート対決開催,20.569
+18:10,8,ひろゆき参戦,21.055
+18:10,9,糸井さん,29.137
+18:10,10,第244回,
+18:40,1,PerfectPitchSeungminDay,155.787
+18:40,2,POPstar_NayeonDay,101.420
+18:40,3,원스의_노을이_나연이,99.099
+18:40,4,승민아_영원을_믿게해줄게,108.227
+18:40,5,Letitia James,115.723
+18:40,6,ShiningOnJinyoungDay,74.319
+18:40,7,AG James,66.954
+18:40,8,Putin,778.866
+18:40,9,TREASURE IN TOWN,27.755
+18:40,10,第244回,
+19:10,1,PerfectPitchSeungminDay,163.722
+19:10,2,POPstar_NayeonDay,104.746
+19:10,3,Letitia James,139.523
+19:10,4,원스의_노을이_나연이,102.396
+19:10,5,승민아_영원을_믿게해줄게,112.828
+19:10,6,ShiningOnJinyoungDay,79.905
+19:10,7,Sarver,11.620
+19:10,8,AG James,79.489
+19:10,9,Putin,784.268
+19:10,10,Suns,18.025
+19:40,1,PerfectPitchSeungminDay,169.174
+19:40,2,Letitia James,159.170
+19:40,3,POPstar_NayeonDay,107.818
+19:40,4,승민아_영원을_믿게해줄게,115.759
+19:40,5,원스의_노을이_나연이,105.219
+19:40,6,ShiningOnJinyoungDay,83.769
+19:40,7,Putin,817.080
+19:40,8,Sarver,14.525
+19:40,9,AG James,88.769
+19:40,10,Suns,21.266
+20:10,1,PerfectPitchSeungminDay,173.835
+20:10,2,Letitia James,175.723
+20:10,3,POPstar_NayeonDay,110.223
+20:10,4,승민아_영원을_믿게해줄게,118.295
+20:10,5,원스의_노을이_나연이,107.431
+20:10,6,Putin,822.250
+20:10,7,ShiningOnJinyoungDay,86.182
+20:10,8,Sarver,16.166
+20:10,9,AG James,97.243
+20:10,10,Suns,22.713
+20:40,1,PerfectPitchSeungminDay,177.554
+20:40,2,Letitia James,190.496
+20:40,3,Putin,853.601
+20:40,4,POPstar_NayeonDay,112.246
+20:40,5,승민아_영원을_믿게해줄게,120.353
+20:40,6,TrumpCrimeFamily,
+20:40,7,원스의_노을이_나연이,109.294
+20:40,8,AG James,105.021
+20:40,9,Sarver,17.535
+20:40,10,Twitch,567.078
+21:10,1,Baudet,11.193
+21:10,2,Putin,853.290
+21:10,3,Letitia James,203.760
+21:10,4,PerfectPitchSeungminDay,180.399
+21:10,5,Powell,41.507
+21:10,6,TrumpCrimeFamily,
+21:10,7,POPstar_NayeonDay,113.972
+21:10,8,Andor,49.631
+21:10,9,AlgemeneBeschouwingen,25.712
+21:10,10,Twitch,563.189
+21:40,1,Baudet,18.075
+21:40,2,Putin,883.409
+21:40,3,Powell,48.625
+21:40,4,Letitia James,215.570
+21:40,5,TrumpCrimeFamily,10.428
+21:40,6,PerfectPitchSeungminDay,182.914
+21:40,7,chilhavisto,
+21:40,8,Andor,51.391
+21:40,9,AlgemeneBeschouwingen,28.639
+21:40,10,Twitch,578.923
+22:10,1,Baudet,23.596
+22:10,2,Putin,886.435
+22:10,3,chilhavisto,
+22:10,4,BlueIn22,
+22:10,5,Powell,51.284
+22:10,6,Andor,52.154
+22:10,7,TrumpCrimeFamily,11.507
+22:10,8,Letitia James,226.838
+22:10,9,AlgemeneBeschouwingen,30.717
+22:10,10,Twitch,576.357
+22:40,1,Baudet,28.344
+22:40,2,chilhavisto,
+22:40,3,BlueIn22,14.127
+22:40,4,Putin,913.358
+22:40,5,SCOUKR,
+22:40,6,Powell,54.225
+22:40,7,Andor,53.991
+22:40,8,TrumpCrimeFamily,12.821
+22:40,9,Twitch,592.915
+22:40,10,Letitia James,237.893
+23:10,1,LaIslaDeLasTentaciones,
+23:10,2,Baudet,32.333
+23:10,3,BlueIn22,17.193
+23:10,4,Putin,919.639
+23:10,5,chilhavisto,
+23:10,6,SCOUKR,
+23:10,7,MidnighTSBucketList,
+23:10,8,Twitch,590.692
+23:10,9,Powell,55.576
+23:10,10,Dahmer,32.793
+23:40,1,LaIslaDeLasTentaciones,29.857
+23:40,2,Baudet,35.708
+23:40,3,BlueIn22,19.652
+23:40,4,Putin,943.443
+23:40,5,Andreu,
+23:40,6,MidnighTSBucketList,
+23:40,7,Mayer,
+23:40,8,chilhavisto,
+23:40,9,MariaBelenBernal,46.720
+23:40,10,Twitch,607.101

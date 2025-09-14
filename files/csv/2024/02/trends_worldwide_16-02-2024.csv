@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Valentine's Day,3.219.999
+00:01,2,Happy Valentine,2.780.000
+00:01,3,Happy Valentine's Day,2.120.000
+00:01,4,Air Drop,1.339.999
+00:01,5,Valentines,1.299.999
+00:01,6,STRK,746.000
+00:01,7,Valentines Day,737.000
+00:01,8,Happy Valentines,657.000
+00:01,9,HappyENGFADays29th,589.000
+00:01,10,Hamas,539.000
+00:31,1,Valentine's Day,3.219.999
+00:31,2,Happy Valentine,2.780.000
+00:31,3,Happy Valentine's Day,1.900.000
+00:31,4,Air Drop,1.339.999
+00:31,5,Valentines,1.299.999
+00:31,6,STRK,746.000
+00:31,7,Valentines Day,737.000
+00:31,8,Happy Valentines,657.000
+00:31,9,HappyENGFADays29th,587.000
+00:31,10,Lali,569.000
+01:01,1,Valentine's Day,2.840.000
+01:01,2,Happy Valentine,2.500.000
+01:01,3,Happy Valentine's Day,1.900.000
+01:01,4,air drop,1.319.999
+01:01,5,Valentines,1.299.999
+01:01,6,Air Drop,1.279.999
+01:01,7,STRK,703.000
+01:01,8,Valentines Day,685.000
+01:01,9,Happy Valentines,609.000
+01:01,10,Lali,599.000
+01:31,1,Valentine's Day,2.840.000
+01:31,2,Happy Valentine,2.500.000
+01:31,3,Trump,2.240.000
+01:31,4,Happy Valentine's Day,1.900.000
+01:31,5,air drop,1.319.999
+01:31,6,Valentines,1.299.999
+01:31,7,Starknet,705.000
+01:31,8,STRK,703.000
+01:31,9,Valentines Day,685.000
+01:31,10,Lali,626.000
+02:01,1,Valentine's Day,2.480.000
+02:01,2,Trump,2.240.000
+02:01,3,Happy Valentine,2.200.000
+02:01,4,Happy Valentine's Day,1.640.000
+02:01,5,air drop,1.319.999
+02:01,6,Valentines,1.140.000
+02:01,7,Starknet,705.000
+02:01,8,América,696.000
+02:01,9,STRK,656.000
+02:01,10,Lali,655.000
+02:31,1,Valentine's Day,2.800.000
+02:31,2,Trump,2.280.000
+02:31,3,Happy Valentine,2.200.000
+02:31,4,air drop,1.319.999
+02:31,5,Valentines,1.140.000
+02:31,6,Starknet,705.000
+02:31,7,América,696.000
+02:31,8,STRK,656.000
+02:31,9,Lali,655.000
+02:31,10,Fani Willis,639.000
+03:01,1,Valentine's Day,2.840.000
+03:01,2,Trump,2.280.000
+03:01,3,Happy Valentine,1.940.000
+03:01,4,Valentines,992.000
+03:01,5,América,696.000
+03:01,6,Lali,684.000
+03:01,7,Fani Willis,670.000
+03:01,8,STRK,656.000
+03:01,9,Valentines Day,584.000
+03:01,10,HappyENGFADays29th,566.000
+03:31,1,Valentine's Day,2.840.000
+03:31,2,Trump,2.280.000
+03:31,3,Happy Valentine,1.940.000
+03:31,4,Valentines,992.000
+03:31,5,Fani Willis,702.000
+03:31,6,América,696.000
+03:31,7,Lali,684.000
+03:31,8,STRK,642.000
+03:31,9,HappyENGFADays29th,566.000
+03:31,10,Valentines Day,543.000
+04:01,1,Valentine's Day,2.840.000
+04:01,2,Trump,2.260.000
+04:01,3,Happy Valentine,1.700.000
+04:01,4,Valentines,922.000
+04:01,5,Fani Willis,731.000
+04:01,6,Lali,707.000
+04:01,7,América,696.000
+04:01,8,STRK,642.000
+04:01,9,Valentines Day,543.000
+04:01,10,NarcoPresidenteAMLO2,534.000
+04:31,1,Valentine's Day,2.840.000
+04:31,2,Trump,2.260.000
+04:31,3,Happy Valentine,1.700.000
+04:31,4,Valentines,922.000
+04:31,5,Fani Willis,756.000
+04:31,6,Lali,707.000
+04:31,7,América,696.000
+04:31,8,STRK,642.000
+04:31,9,Valentines Day,543.000
+04:31,10,NarcoPresidenteAMLO2,534.000
+05:01,1,Valentine's Day,2.540.000
+05:01,2,Trump,2.060.000
+05:01,3,Happy Valentine,1.460.000
+05:01,4,Valentines,855.000
+05:01,5,Fani Willis,779.000
+05:01,6,Lali,719.000
+05:01,7,América,695.000
+05:01,8,NarcoPresidenteAMLO2,534.000
+05:01,9,HappyENGFADays29th,501.000
+05:01,10,Valentines Day,439.000
+05:31,1,Valentine's Day,2.540.000
+05:31,2,Happy Valentine,1.460.000
+05:31,3,Valentines,855.000
+05:31,4,Fani Willis,800.000
+05:31,5,Lali,719.000
+05:31,6,América,695.000
+05:31,7,NarcoPresidenteAMLO2,534.000
+05:31,8,HappyENGFADays29th,501.000
+05:31,9,Valentines Day,439.000
+05:31,10,Mbappe,438.000
+06:01,1,Valentine's Day,2.260.000
+06:01,2,Happy Valentine,1.220.000
+06:01,3,Fani Willis,814.000
+06:01,4,Valentines,770.000
+06:01,5,Lali,731.000
+06:01,6,América,694.000
+06:01,7,NarcoPresidenteAMLO2,524.000
+06:01,8,HappyENGFADays29th,477.000
+06:01,9,Mbappe,442.000
+06:01,10,Valentines Day,439.000
+06:31,1,Valentine's Day,2.260.000
+06:31,2,Happy Valentine,1.120.000
+06:31,3,Fani Willis,834.000
+06:31,4,Valentines,770.000
+06:31,5,Lali,732.000
+06:31,6,América,694.000
+06:31,7,NarcoPresidenteAMLO2,524.000
+06:31,8,HappyENGFADays29th,477.000
+06:31,9,Mbappe,443.000
+06:31,10,Mbappé,439.000
+07:01,1,Valentine's Day,2.000.000
+07:01,2,Happy Valentine,1.040.000
+07:01,3,Fani Willis,847.000
+07:01,4,Lali,739.000
+07:01,5,Valentines,714.000
+07:01,6,América,692.000
+07:01,7,NarcoPresidenteAMLO2,501.000
+07:01,8,HappyENGFADays29th,466.000
+07:01,9,Mbappe,447.000
+07:01,10,Mbappé,439.000
+07:31,1,Valentine's Day,2.000.000
+07:31,2,Happy Valentine,1.040.000
+07:31,3,Fani Willis,859.000
+07:31,4,Lali,740.000
+07:31,5,Valentines,714.000
+07:31,6,América,692.000
+07:31,7,NarcoPresidenteAMLO2,499.000
+07:31,8,HappyENGFADays29th,466.000
+07:31,9,Mbappe,449.000
+07:31,10,Mbappé,445.000
+08:01,1,Valentine's Day,1.779.999
+08:01,2,Happy Valentine,937.000
+08:01,3,Presidente,888.000
+08:01,4,Fani Willis,869.000
+08:01,5,Lali,744.000
+08:01,6,América,687.000
+08:01,7,Valentines,655.000
+08:01,8,Russia,564.000
+08:01,9,NarcoPresidenteAMLO2,505.000
+08:01,10,Mbappe,454.000
+08:31,1,Valentine's Day,1.779.999
+08:31,2,Happy Valentine,937.000
+08:31,3,Presidente,888.000
+08:31,4,Fani Willis,878.000
+08:31,5,Lali,746.000
+08:31,6,América,687.000
+08:31,7,Russia,564.000
+08:31,8,NarcoPresidenteAMLO2,505.000
+08:31,9,Mbappé,457.000
+08:31,10,Mbappe,454.000
+09:01,1,Valentine's Day,1.600.000
+09:01,2,Presidente,888.000
+09:01,3,Fani Willis,885.000
+09:01,4,Happy Valentine,867.000
+09:01,5,Lali,749.000
+09:01,6,América,679.000
+09:01,7,Russia,564.000
+09:01,8,NarcoPresidenteAMLO2,505.000
+09:01,9,Mbappe,463.000
+09:01,10,HappyENGFADays29th,413.000
+09:31,1,Valentine's Day,1.600.000
+09:31,2,Fani Willis,891.000
+09:31,3,Presidente,888.000
+09:31,4,Happy Valentine,867.000
+09:31,5,Lali,749.000
+09:31,6,América,679.000
+09:31,7,Russia,564.000
+09:31,8,NarcoPresidenteAMLO2,505.000
+09:31,9,Mbappe,467.000
+09:31,10,Mbappé,460.000
+10:01,1,Valentine's Day,1.460.000
+10:01,2,Fani Willis,897.000
+10:01,3,Presidente,888.000
+10:01,4,Happy Valentine,808.000
+10:01,5,Lali,751.000
+10:01,6,América,679.000
+10:01,7,Russia,556.000
+10:01,8,NarcoPresidenteAMLO2,504.000
+10:01,9,Mbappe,474.000
+10:01,10,Mbappé,466.000
+10:31,1,Valentine's Day,1.460.000
+10:31,2,Fani Willis,902.000
+10:31,3,Presidente,888.000
+10:31,4,Happy Valentine,808.000
+10:31,5,Lali,751.000
+10:31,6,Russia,555.000
+10:31,7,NarcoPresidenteAMLO2,504.000
+10:31,8,Mbappe,479.000
+10:31,9,Mbappé,466.000
+10:31,10,محمد,412.000
+11:01,1,Valentine's Day,1.319.999
+11:01,2,Fani Willis,909.000
+11:01,3,Presidente,888.000
+11:01,4,Happy Valentine,757.000
+11:01,5,Lali,755.000
+11:01,6,Russia,555.000
+11:01,7,NarcoPresidenteAMLO2,503.000
+11:01,8,Mbappe,486.000
+11:01,9,Mbappé,466.000
+11:01,10,محمد,431.000
+11:31,1,Valentine's Day,1.319.999
+11:31,2,Fani,1.160.000
+11:31,3,Fani Willis,915.000
+11:31,4,Presidente,888.000
+11:31,5,Happy Valentine,757.000
+11:31,6,Lali,755.000
+11:31,7,Russia,554.000
+11:31,8,NarcoPresidenteAMLO2,503.000
+11:31,9,Mbappe,491.000
+11:31,10,MBappe,490.000
+12:01,1,Valentine's Day,1.220.000
+12:01,2,Fani,1.160.000
+12:01,3,Fani Willis,923.000
+12:01,4,Presidente,888.000
+12:01,5,Lali,759.000
+12:01,6,Happy Valentine,711.000
+12:01,7,Russia,554.000
+12:01,8,NarcoPresidenteAMLO2,503.000
+12:01,9,Mbappe,498.000
+12:01,10,MBappe,490.000
+12:31,1,Valentine's Day,1.220.000
+12:31,2,Fani,1.160.000
+12:31,3,Fani Willis,932.000
+12:31,4,Presidente,888.000
+12:31,5,Lali,759.000
+12:31,6,Happy Valentine,711.000
+12:31,7,Russia,544.000
+12:31,8,Mbappé,505.000
+12:31,9,NarcoPresidenteAMLO2,503.000
+12:31,10,Mbappe,498.000
+13:01,1,Fani,1.220.000
+13:01,2,Valentine's Day,1.100.000
+13:01,3,Fani Willis,945.000
+13:01,4,Presidente,888.000
+13:01,5,Lali,764.000
+13:01,6,Happy Valentine,668.000
+13:01,7,Russia,544.000
+13:01,8,Mbappe,515.000
+13:01,9,Mbappé,514.000
+13:01,10,NarcoPresidenteAMLO2,500.000
+13:31,1,Fani,1.279.999
+13:31,2,Valentine's Day,1.100.000
+13:31,3,Fani Willis,959.000
+13:31,4,Presidente,888.000
+13:31,5,Lali,764.000
+13:31,6,Happy Valentine,668.000
+13:31,7,Russia,544.000
+13:31,8,Mbappe,522.000
+13:31,9,Mbappé,514.000
+13:31,10,NarcoPresidenteAMLO2,500.000
+14:01,1,Fani,1.279.999
+14:01,2,Valentine's Day,994.000
+14:01,3,Fani Willis,974.000
+14:01,4,Lali,767.000
+14:01,5,Happy Valentine,624.000
+14:01,6,Russia,544.000
+14:01,7,Mbappe,530.000
+14:01,8,Mbappé,514.000
+14:01,9,NarcoPresidenteAMLO2,498.000
+14:01,10,محمد,475.000
+14:31,1,Fani,1.279.999
+14:31,2,Valentine's Day,994.000
+14:31,3,Fani Willis,993.000
+14:31,4,Lali,767.000
+14:31,5,Happy Valentine,624.000
+14:31,6,Mbappe,536.000
+14:31,7,Mbappé,535.000
+14:31,8,NarcoPresidenteAMLO2,498.000
+14:31,9,محمد,475.000
+14:31,10,Taylor,426.000
+15:01,1,Fani,1.279.999
+15:01,2,Fani Willis,1.020.000
+15:01,3,Valentine's Day,935.000
+15:01,4,Presidente,882.000
+15:01,5,Lali,771.000
+15:01,6,Happy Valentine,580.000
+15:01,7,Mbappe,544.000
+15:01,8,Mbappé,535.000
+15:01,9,NarcoPresidenteAMLO2,486.000
+15:01,10,محمد,482.000
+15:31,1,Fani,1.440.000
+15:31,2,Fani Willis,1.060.000
+15:31,3,Valentine's Day,935.000
+15:31,4,Presidente,882.000
+15:31,5,Lali,771.000
+15:31,6,Happy Valentine,580.000
+15:31,7,Mbappe,549.000
+15:31,8,Mbappé,541.000
+15:31,9,Jungkook,483.000
+15:31,10,محمد,482.000
+16:01,1,Fani,1.500.000
+16:01,2,Fani Willis,1.100.000
+16:01,3,Presidente,882.000
+16:01,4,Valentine's Day,873.000
+16:01,5,Lali,771.000
+16:01,6,jungkook,558.000
+16:01,7,Mbappé,557.000
+16:01,8,Mbappe,555.000
+16:01,9,Happy Valentine,536.000
+16:01,10,Navalny,520.000
+16:31,1,Fani,1.540.000
+16:31,2,Fani Willis,1.120.000
+16:31,3,Presidente,882.000
+16:31,4,Valentine's Day,873.000
+16:31,5,Lali,771.000
+16:31,6,Jungkook,598.000
+16:31,7,Navalny,596.000
+16:31,8,jungkook,592.000
+16:31,9,Mbappe,566.000
+16:31,10,Mbappé,557.000
+17:01,1,Fani,1.540.000
+17:01,2,Fani Willis,1.160.000
+17:01,3,Presidente,870.000
+17:01,4,Valentine's Day,812.000
+17:01,5,Putin,763.000
+17:01,6,Lali,762.000
+17:01,7,Navalny,668.000
+17:01,8,jungkook,653.000
+17:01,9,Jungkook,650.000
+17:01,10,Mbappe,576.000
+17:31,1,Fani,1.580.000
+17:31,2,Fani Willis,1.160.000
+17:31,3,Presidente,870.000
+17:31,4,Valentine's Day,812.000
+17:31,5,Putin,805.000
+17:31,6,Lali,762.000
+17:31,7,Navalny,738.000
+17:31,8,jungkook,678.000
+17:31,9,Jungkook,650.000
+17:31,10,Mbappé,576.000
+18:01,1,Fani,1.580.000
+18:01,2,Fani Willis,1.160.000
+18:01,3,Presidente,870.000
+18:01,4,Putin,863.000
+18:01,5,Navalny,802.000
+18:01,6,Lali,762.000
+18:01,7,Valentine's Day,746.000
+18:01,8,jungkook,706.000
+18:01,9,Jungkook,650.000
+18:01,10,Mbappé,576.000
+18:31,1,Fani,1.640.000
+18:31,2,Fani Willis,1.160.000
+18:31,3,Putin,889.000
+18:31,4,Navalny,871.000
+18:31,5,Presidente,870.000
+18:31,6,Lali,762.000
+18:31,7,jungkook,733.000
+18:31,8,Russia,695.000
+18:31,9,Jungkook,650.000
+18:31,10,Mbappé,576.000
+19:01,1,Fani,1.640.000
+19:01,2,Fani Willis,1.200.000
+19:01,3,Putin,965.000
+19:01,4,Navalny,941.000
+19:01,5,Presidente,858.000
+19:01,6,Russia,758.000
+19:01,7,jungkook,749.000
+19:01,8,Lali,745.000
+19:01,9,Mbappé,531.000
+19:01,10,Mbappe,530.000
+19:31,1,Fani,1.640.000
+19:31,2,Fani Willis,1.200.000
+19:31,3,Navalny,1.040.000
+19:31,4,Putin,1.020.000
+19:31,5,Presidente,858.000
+19:31,6,Russia,760.000
+19:31,7,jungkook,749.000
+19:31,8,Lali,729.000
+19:31,9,Mbappé,531.000
+19:31,10,Mbappe,530.000
+20:01,1,Navalny,1.220.000
+20:01,2,Fani Willis,1.160.000
+20:01,3,Putin,1.120.000
+20:01,4,Presidente,858.000
+20:01,5,Russia,798.000
+20:01,6,Rússia,797.000
+20:01,7,jungkook,793.000
+20:01,8,Lali,729.000
+20:01,9,Russian,533.000
+20:01,10,محمد,509.000
+20:31,1,Navalny,1.359.999
+20:31,2,Fani Willis,1.160.000
+20:31,3,Putin,1.140.000
+20:31,4,Presidente,858.000
+20:31,5,Russia,798.000
+20:31,6,Rússia,797.000
+20:31,7,jungkook,793.000
+20:31,8,Lali,729.000
+20:31,9,Russian,533.000
+20:31,10,TEN_FIRST_FANCON_IN_SEOUL,530.000
+21:01,1,Navalny,1.520.000
+21:01,2,Putin,1.319.999
+21:01,3,Fani Willis,1.160.000
+21:01,4,Presidente,854.000
+21:01,5,Russia,798.000
+21:01,6,Rússia,797.000
+21:01,7,jungkook,793.000
+21:01,8,Lali,713.000
+21:01,9,Russian,554.000
+21:01,10,TEN_FIRST_FANCON_IN_SEOUL,535.000
+21:31,1,Navalny,1.640.000
+21:31,2,Putin,1.380.000
+21:31,3,Presidente,854.000
+21:31,4,Russia,798.000
+21:31,5,Rússia,797.000
+21:31,6,jungkook,793.000
+21:31,7,Lali,713.000
+21:31,8,Russian,556.000
+21:31,9,Valentine's Day,536.000
+21:31,10,TEN_FIRST_FANCON_IN_SEOUL,535.000
+22:01,1,Navalny,1.759.999
+22:01,2,Putin,1.440.000
+22:01,3,Fani Willis,1.100.000
+22:01,4,Presidente,848.000
+22:01,5,Lali,688.000
+22:01,6,Russian,573.000
+22:01,7,Valentine's Day,542.000
+22:01,8,TEN_FIRST_FANCON_IN_SEOUL,536.000
+22:01,9,محمد,506.000
+22:01,10,Alexei Navalny,458.000
+22:31,1,Trump,2.900.000
+22:31,2,Navalny,1.900.000
+22:31,3,Putin,1.460.000
+22:31,4,Fani Willis,1.080.000
+22:31,5,Russia,884.000
+22:31,6,Presidente,848.000
+22:31,7,Lali,688.000
+22:31,8,Russian,574.000
+22:31,9,Valentine's Day,542.000
+22:31,10,TEN_FIRST_FANCON_IN_SEOUL,538.000
+23:01,1,Trump,2.900.000
+23:01,2,Navalny,2.000.000
+23:01,3,Putin,1.460.000
+23:01,4,Fani Willis,1.080.000
+23:01,5,Russia,913.000
+23:01,6,Presidente,839.000
+23:01,7,Lali,658.000
+23:01,8,Russian,592.000
+23:01,9,Valentine's Day,542.000
+23:01,10,TEN_FIRST_FANCON_IN_SEOUL,539.000
+23:31,1,Trump,2.900.000
+23:31,2,Navalny,2.100.000
+23:31,3,Putin,1.460.000
+23:31,4,Fani Willis,1.020.000
+23:31,5,Russia,917.000
+23:31,6,Presidente,839.000
+23:31,7,Lali,658.000
+23:31,8,Russian,592.000
+23:31,9,Valentine's Day,542.000
+23:31,10,TEN_FIRST_FANCON_IN_SEOUL,539.000

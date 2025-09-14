@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Davide,29.213
+00:10,2,Remi,34.057
+00:10,3,TopChef,
+00:10,4,Vince,28.167
+00:10,5,BBNaijaReunion,27.480
+00:10,6,Ryan Gosling,35.752
+00:10,7,Palau,
+00:10,8,chilhavisto,
+00:10,9,ObiWan,46.345
+00:10,10,Ekin Su,
+00:40,1,Davide,29.989
+00:40,2,Vince,33.472
+00:40,3,Remi,34.726
+00:40,4,Florentino,30.618
+00:40,5,TopChef,
+00:40,6,BBNaijaReunion,31.722
+00:40,7,MurgasSC3,
+00:40,8,Ryan Gosling,37.497
+00:40,9,Nick Khan,
+00:40,10,ObiWan,47.767
+01:10,1,Florentino,46.628
+01:10,2,Vince McMahon,17.882
+01:10,3,Davide,30.348
+01:10,4,Remi,34.636
+01:10,5,BBNaijaReunion,32.501
+01:10,6,WhyIChime,
+01:10,7,TopChef,
+01:10,8,MurgasSC3,
+01:10,9,Nick Khan,
+01:10,10,Muralha,
+01:40,1,Florentino,60.169
+01:40,2,Vince,42.131
+01:40,3,Wanchope,
+01:40,4,WhyIChime,
+01:40,5,Davide,30.813
+01:40,6,Remi,35.132
+01:40,7,Fauci,82.745
+01:40,8,Nick Khan,
+01:40,9,Ryan Gosling,40.951
+01:40,10,BBNaijaReunion,34.493
+02:10,1,River,108.366
+02:10,2,Vitinho,
+02:10,3,Florentino,67.141
+02:10,4,Wanchope,
+02:10,5,Vince,45.935
+02:10,6,WhyIChime,
+02:10,7,StanleyCup,15.619
+02:10,8,GoAvsGo,11.094
+02:10,9,Bruno Henrique,
+02:10,10,Zuculini,
+02:40,1,AEWDynamite,23.903
+02:40,2,StanleyCup,18.900
+02:40,3,River,114.495
+02:40,4,GoAvsGo,14.744
+02:40,5,Vitinho,
+02:40,6,Wanchope,
+02:40,7,Florentino,71.442
+02:40,8,Vince,49.078
+02:40,9,ranboospace,
+02:40,10,FileninSultanları,
+03:10,1,AEWDynamite,36.847
+03:10,2,Vitinho,12.079
+03:10,3,ROGER GUEDES,
+03:10,4,StanleyCup,20.791
+03:10,5,GoAvsGo,17.168
+03:10,6,River,113.749
+03:10,7,RHOBH,
+03:10,8,VoleiNoSportTV,
+03:10,9,Mavs,
+03:10,10,Ospreay,
+03:40,1,AEWDynamite,46.874
+03:40,2,Arrascaeta,15.998
+03:40,3,Mavs,11.484
+03:40,4,Vitinho,13.070
+03:40,5,Christian Wood,18.405
+03:40,6,Roger Guedes,11.820
+03:40,7,Gabigol,17.304
+03:40,8,Boban,14.014
+03:40,9,GoAvsGo,18.346
+03:40,10,StanleyCup,21.571
+04:10,1,AEWDynamite,60.386
+04:10,2,Roni,11.397
+04:10,3,Arrascaeta,18.009
+04:10,4,Mavs,13.836
+04:10,5,Vitinho,13.515
+04:10,6,Christian Wood,22.745
+04:10,7,VoleiNoSporTV,18.808
+04:10,8,Boban,16.600
+04:10,9,Roger Guedes,12.584
+04:10,10,StanleyCup,23.085
+04:40,1,Roni,16.972
+04:40,2,Roni,16.972
+04:40,3,AEWDynamite,64.751
+04:40,4,Corinthians,58.585
+04:40,5,Mavs,15.337
+04:40,6,VoleiNoSporTV,24.885
+04:40,7,Arrascaeta,18.967
+04:40,8,Figal,
+04:40,9,Christian Wood,25.248
+04:40,10,Vitinho,13.926
+05:10,1,bucciovertimechallenge,
+05:10,2,Roni,19.243
+05:10,3,AEWDynamite,66.588
+05:10,4,Corinthians,62.764
+05:10,5,DRPowerCouple,12.948
+05:10,6,Mavs,16.448
+05:10,7,Figal,
+05:10,8,Arrascaeta,19.693
+05:10,9,VoleiNoSporTV,25.896
+05:10,10,Christian Wood,27.060
+05:40,1,bucciovertimechallenge,
+05:40,2,Roni,19.861
+05:40,3,Raul Gustavo,13.665
+05:40,4,GoAvsGo,29.835
+05:40,5,DRPowerCouple,18.589
+05:40,6,AEWDynamite,68.180
+05:40,7,Corinthians,64.614
+05:40,8,Mavs,17.414
+05:40,9,StanleyCup,29.045
+05:40,10,Figal,
+06:10,1,bucciovertimechallenge,
+06:10,2,Roni,20.142
+06:10,3,Raul Gustavo,13.868
+06:10,4,GoAvsGo,31.363
+06:10,5,DRPowerCouple,20.075
+06:10,6,AEWDynamite,69.156
+06:10,7,filiperetlume,
+06:10,8,Corinthians,65.223
+06:10,9,Mavs,18.110
+06:10,10,Figal,
+06:40,1,bucciovertimechallenge,
+06:40,2,Roni,20.368
+06:40,3,filiperetlume,
+06:40,4,วอลเลย์บอลหญิง,128.534
+06:40,5,Raul Gustavo,13.964
+06:40,6,GoAvsGo,32.203
+06:40,7,DRPowerCouple,20.893
+06:40,8,Corinthians,65.823
+06:40,9,Mavs,18.738
+06:40,10,Christian Wood,30.261
+07:10,1,Tyler Anderson,
+07:10,2,วอลเลย์บอลหญิง,145.791
+07:10,3,bucciovertimechallenge,
+07:10,4,filiperetlume,10.409
+07:10,5,Roni,20.404
+07:10,6,Raul Gustavo,14.029
+07:10,7,GoAvsGo,32.661
+07:10,8,DRPowerCouple,21.455
+07:10,9,Corinthians,65.891
+07:10,10,Ohtani,
+07:40,1,วอลเลย์บอลหญิง,182.929
+07:40,2,Tyler Anderson,
+07:40,3,filiperetlume,10.896
+07:40,4,Roni,20.565
+07:40,5,bucciovertimechallenge,
+07:40,6,なにわ男子デビュー魂,
+07:40,7,Raul Gustavo,14.075
+07:40,8,GoAvsGo,33.067
+07:40,9,Corinthians,66.136
+07:40,10,Ohtani,
+08:10,1,Beyoncé,111.171
+08:10,2,วอลเลย์บอลหญิง,193.981
+08:10,3,Tyler Anderson,
+08:10,4,Renaissance,
+08:10,5,filiperetlume,11.133
+08:10,6,bucciovertimechallenge,
+08:10,7,なにわ男子デビュー魂,10.244
+08:10,8,Roni,20.596
+08:10,9,Corinthians,66.104
+08:10,10,Raul Gustavo,14.088
+08:40,1,Beyoncé,137.580
+08:40,2,Renaissance,14.641
+08:40,3,วอลเลย์บอลหญิง,202.783
+08:40,4,Tyler Anderson,
+08:40,5,bucciovertimechallenge,
+08:40,6,なにわ男子デビュー魂,10.949
+08:40,7,filiperetlume,11.330
+08:40,8,食べログ,
+08:40,9,Roni,20.666
+08:40,10,Raul Gustavo,14.103
+09:10,1,Beyoncé,154.350
+09:10,2,Renaissance,18.190
+09:10,3,วอลเลย์บอลหญิง,201.802
+09:10,4,Tyler Anderson,
+09:10,5,YouthDay,
+09:10,6,AgnipathRecruitmentScheme,37.152
+09:10,7,bucciovertimechallenge,
+09:10,8,食べログ,
+09:10,9,Feiertag,
+09:10,10,Raul Gustavo,14.108
+09:40,1,Beyoncé,168.921
+09:40,2,Renaissance,20.758
+09:40,3,YouthDay,
+09:40,4,วอลเลย์บอลหญิง,207.428
+09:40,5,June16,
+09:40,6,AgnipathRecruitmentScheme,44.689
+09:40,7,Tyler Anderson,
+09:40,8,Feiertag,
+09:40,9,Mbaka,35.265
+09:40,10,食べログ,
+10:10,1,Beyoncé,178.563
+10:10,2,Renaissance,22.748
+10:10,3,YouthDay,
+10:10,4,June16,
+10:10,5,AgnipathRecruitmentScheme,50.516
+10:10,6,กรุงไทยล่ม,
+10:10,7,Feiertag,
+10:10,8,Mbaka,41.052
+10:10,9,食べログ,
+10:10,10,Tyler Anderson,
+10:40,1,Beyoncé,188.264
+10:40,2,Renaissance,24.457
+10:40,3,YouthDay,
+10:40,4,AgnipathRecruitmentScheme,59.330
+10:40,5,June16,
+10:40,6,Mbaka,46.887
+10:40,7,DemoFireEmblem,
+10:40,8,Feiertag,
+10:40,9,Bournemouth,
+10:40,10,Fulham,
+11:10,1,Beyoncé,195.884
+11:10,2,Renaissance,25.903
+11:10,3,AgnipathRecruitmentScheme,66.442
+11:10,4,June16,
+11:10,5,YouthDay,
+11:10,6,DemoFireEmblem,
+11:10,7,Mbaka,53.048
+11:10,8,Feiertag,
+11:10,9,The Lock Screen Innovator,
+11:10,10,Bournemouth,
+11:40,1,Beyoncé,204.722
+11:40,2,AgnipathRecruitmentScheme,75.624
+11:40,3,Renaissance,27.395
+11:40,4,June16,
+11:40,5,DemoFireEmblem,
+11:40,6,CleanAirDay,
+11:40,7,Mbaka,59.325
+11:40,8,Feiertag,
+11:40,9,The Lock Screen Innovator,
+11:40,10,Bournemouth,
+12:10,1,Beyoncé,211.764
+12:10,2,AgnipathRecruitmentScheme,83.140
+12:10,3,AFLTigersBlues,
+12:10,4,VS魂,13.727
+12:10,5,June16,
+12:10,6,DemoFireEmblem,
+12:10,7,Mbaka,65.320
+12:10,8,mcountdown,108.519
+12:10,9,Feiertag,
+12:10,10,Mnet,219.482
+12:40,1,YetToCome2ndWin,31.011
+12:40,2,VS魂,21.268
+12:40,3,AgnipathRecruitmentScheme,93.396
+12:40,4,Beyoncé,223.747
+12:40,5,AFLTigersBlues,
+12:40,6,BreakTheCurseAteneo,
+12:40,7,mcountdown,140.784
+12:40,8,Mbaka,70.804
+12:40,9,Mnet,240.421
+12:40,10,The Lock Screen Innovator,
+13:10,1,YetToCome2ndWin,241.331
+13:10,2,博衣こより3D,25.707
+13:10,3,VS魂,26.990
+13:10,4,AgnipathRecruitmentScheme,102.015
+13:10,5,プレバト,
+13:10,6,Beyoncé,234.652
+13:10,7,Congratulations BTS,96.539
+13:10,8,mcountdown,177.094
+13:10,9,Mbaka,76.378
+13:10,10,Mnet,257.088
+13:40,1,YetToCome2ndWin,298.942
+13:40,2,博衣こより3D,68.275
+13:40,3,捜査一課長,13.312
+13:40,4,AFLTigersBlues,
+13:40,5,Beyoncé,250.661
+13:40,6,AgnipathRecruitmentScheme,110.690
+13:40,7,Congratulations BTS,107.417
+13:40,8,Okowa,
+13:40,9,mcountdown,194.885
+13:40,10,Mbaka,81.089
+14:10,1,博衣こより3D,97.265
+14:10,2,YetToCome2ndWin,332.988
+14:10,3,捜査一課長,20.498
+14:10,4,KIM TAEHYUNG,120.058
+14:10,5,Beyoncé,267.239
+14:10,6,AFLTigersBlues,
+14:10,7,素のまんま,10.872
+14:10,8,Okowa,11.244
+14:10,9,土門さん,
+14:10,10,La Salle,14.044
+14:40,1,博衣こより3D,108.370
+14:40,2,捜査一課長,27.373
+14:40,3,KIM TAEHYUNG,147.650
+14:40,4,YetToCome2ndWin,356.939
+14:40,5,素のまんま,35.160
+14:40,6,UAAPSeason84,23.825
+14:40,7,Beyoncé,288.061
+14:40,8,Okowa,15.380
+14:40,9,La Salle,19.316
+14:40,10,Ateneo,22.711
+15:10,1,捜査一課長,34.620
+15:10,2,博衣こより3D,113.045
+15:10,3,KIM TAEHYUNG,163.345
+15:10,4,Beyoncé,310.162
+15:10,5,YetToCome2ndWin,374.766
+15:10,6,素のまんま,37.804
+15:10,7,UAAPSeason84,28.540
+15:10,8,Okowa,19.445
+15:10,9,Wike,35.661
+15:10,10,La Salle,21.419
+15:40,1,Beyoncé,364.156
+15:40,2,報道ステーション,14.201
+15:40,3,KIM TAEHYUNG,179.872
+15:40,4,捜査一課長,36.111
+15:40,5,THE夜会,22.660
+15:40,6,博衣こより3D,116.313
+15:40,7,素のまんま,38.879
+15:40,8,Okowa,23.152
+15:40,9,Wike,38.414
+15:40,10,Mónica Oltra,17.033
+16:10,1,Beyoncé,399.175
+16:10,2,THE夜会,31.061
+16:10,3,報道ステーション,24.572
+16:10,4,KIM TAEHYUNG,188.918
+16:10,5,捜査一課長,36.775
+16:10,6,RENAISSANCE,65.009
+16:10,7,博衣こより3D,119.650
+16:10,8,Okowa,26.518
+16:10,9,Ana de Armas,11.589
+16:10,10,Wike,38.624
+16:40,1,Beyoncé,428.453
+16:40,2,THE夜会,32.845
+16:40,3,報道ステーション,29.910
+16:40,4,KIM TAEHYUNG,199.156
+16:40,5,RENAISSANCE,70.149
+16:40,6,Ana de Armas,15.359
+16:40,7,Okowa,29.877
+16:40,8,捜査一課長,37.225
+16:40,9,คืนนับดาวEP6,168.718
+16:40,10,Wike,40.643
+17:10,1,Beyoncé,451.975
+17:10,2,DISTRICT,118.813
+17:10,3,二宮和也誕生祭,
+17:10,4,報道ステーション,33.541
+17:10,5,THE夜会,32.816
+17:10,6,Ana de Armas,18.999
+17:10,7,庭ラジ,18.317
+17:10,8,KIM TAEHYUNG,201.305
+17:10,9,Okowa,32.879
+17:10,10,Fabio Vieira,10.226
+17:40,1,Beyoncé,476.926
+17:40,2,二宮和也誕生祭,11.978
+17:40,3,DISTRICT CONCEPT MOODBOARD,123.719
+17:40,4,Fabio Vieira,21.001
+17:40,5,Ana de Armas,22.344
+17:40,6,第147回,
+17:40,7,白いゲーミングPCがほしい,13.544
+17:40,8,ใต้หล้าEp9,35.354
+17:40,9,報道ステーション,36.668
+17:40,10,THE夜会,33.172
+18:10,1,Beyoncé,494.807
+18:10,2,二宮和也誕生祭,14.516
+18:10,3,Fabio Vieira,31.089
+18:10,4,第147回,
+18:10,5,DISTRICT,124.571
+18:10,6,Ana de Armas,25.083
+18:10,7,白いゲーミングPCがほしい,14.508
+18:10,8,Arsenal,115.439
+18:10,9,ใต้หล้าEp9,42.056
+18:10,10,CaratSelcaDay,48.720
+18:40,1,Beyoncé,515.456
+18:40,2,bacdefrancais,11.062
+18:40,3,Fabio Vieira,37.205
+18:40,4,二宮和也誕生祭,15.629
+18:40,5,第147回,
+18:40,6,Ana de Armas,27.598
+18:40,7,Arsenal,124.275
+18:40,8,DISTRICT,124.985
+18:40,9,白いゲーミングPCがほしい,15.149
+18:40,10,Tielemans,
+19:10,1,CampoMexiquense,17.977
+19:10,2,Beyoncé,530.987
+19:10,3,bacdefrancais,16.127
+19:10,4,Fabio Vieira,42.044
+19:10,5,二宮和也誕生祭,16.153
+19:10,6,Ana de Armas,29.868
+19:10,7,第147回,
+19:10,8,Arsenal,128.412
+19:10,9,Tielemans,10.246
+19:10,10,DISTRICT CONCEPT MOODBOARD,125.231
+19:40,1,CampoMexiquense,26.772
+19:40,2,Beyoncé,549.676
+19:40,3,quackitypregunta,
+19:40,4,bacdefrancais,20.173
+19:40,5,Luttig,30.014
+19:40,6,Fabio Vieira,46.614
+19:40,7,Ana de Armas,31.827
+19:40,8,Arsenal,135.594
+19:40,9,第147回,
+19:40,10,二宮和也誕生祭,16.509
+20:10,1,CampoMexiquense,33.209
+20:10,2,Judge Luttig,31.570
+20:10,3,Beyoncé,562.647
+20:10,4,quackitypregunta,
+20:10,5,Pence,111.675
+20:10,6,bacdefrancais,23.040
+20:10,7,January6thCommiteeHearings,
+20:10,8,Fabio Vieira,50.589
+20:10,9,KarneHediyem,13.198
+20:10,10,Arsenal,140.949
+20:40,1,CampoMexiquense,38.891
+20:40,2,Judge Luttig,39.126
+20:40,3,Pence,131.117
+20:40,4,Beyoncé,577.307
+20:40,5,Eastman,197.910
+20:40,6,quackitypregunta,
+20:40,7,bacdefrancais,25.491
+20:40,8,January6thCommiteeHearings,
+20:40,9,LastDanceHocam,
+20:40,10,Fabio Vieira,54.339
+21:10,1,CampoMexiquense,43.466
+21:10,2,Pence,153.586
+21:10,3,Judge Luttig,42.245
+21:10,4,Tim Sale,
+21:10,5,Eastman,215.794
+21:10,6,Beyoncé,589.075
+21:10,7,January6thCommiteeHearings,
+21:10,8,LastDanceHocam,
+21:10,9,bacdefrancais,27.536
+21:10,10,quackitypregunta,
+21:40,1,CampoMexiquense,47.414
+21:40,2,Pence,189.690
+21:40,3,Tim Sale,13.677
+21:40,4,Eastman,239.819
+21:40,5,January6thCommiteeHearings,
+21:40,6,Judge Luttig,45.093
+21:40,7,LastDanceHocam,
+21:40,8,Beyoncé,603.688
+21:40,9,bacdefrancais,29.291
+21:40,10,quackitypregunta,
+22:10,1,CampoMexiquense,50.747
+22:10,2,Pence,215.075
+22:10,3,Tim Sale,17.827
+22:10,4,January6thCommiteeHearings,11.796
+22:10,5,Eastman,265.293
+22:10,6,Judge Luttig,63.508
+22:10,7,LastDanceHocam,
+22:10,8,JISOOatDiorCruise2023,52.220
+22:10,9,Neto Moura,
+22:10,10,DIOR SEVILLE SHOW WITH JISOO,50.639
+22:40,1,CampoMexiquense,53.382
+22:40,2,Pence,238.081
+22:40,3,Tim Sale,21.783
+22:40,4,January6thCommiteeHearings,14.184
+22:40,5,Eastman,284.509
+22:40,6,Judge Luttig,77.240
+22:40,7,SVGala9,
+22:40,8,Dami,33.321
+22:40,9,Ekin-Su,25.316
+22:40,10,Real America,
+23:10,1,LoveIsland,175.548
+23:10,2,Davide,35.176
+23:10,3,CampoMexiquense,55.765
+23:10,4,Pence,256.667
+23:10,5,Ekin-Su,27.510
+23:10,6,Dami,47.786
+23:10,7,Botafogo,39.793
+23:10,8,Tim Sale,25.041
+23:10,9,Nestor,23.304
+23:10,10,SVGala9,
+23:40,1,LoveIsland,189.908
+23:40,2,Davide,39.844
+23:40,3,CampoMexiquense,57.980
+23:40,4,Pence,276.062
+23:40,5,Ekin-Su,30.668
+23:40,6,SVGala9,
+23:40,7,Botafogo,45.557
+23:40,8,Dami,49.556
+23:40,9,Tim Sale,27.689
+23:40,10,Nestor,24.825

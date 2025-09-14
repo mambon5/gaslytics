@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LoveIsland,157.010
+00:10,2,BELPOL,18.398
+00:10,3,KontakKapatTürkiye,27.078
+00:10,4,JADE COM YSL,21.386
+00:10,5,JusticeForActMan,13.219
+00:10,6,Luca,42.356
+00:10,7,Kavanaugh,215.338
+00:10,8,Kelly,167.889
+00:10,9,WALNED,
+00:10,10,Davide,34.861
+00:40,1,LoveIsland,159.456
+00:40,2,KontakKapatTürkiye,28.376
+00:40,3,JusticeForActMan,19.426
+00:40,4,BELPOL,18.690
+00:40,5,JADE COM YSL,42.993
+00:40,6,Kavanaugh,228.436
+00:40,7,Kelly,175.150
+00:40,8,Luca,43.183
+00:40,9,ロックの日,17.260
+00:40,10,WALNED,
+01:10,1,JusticeForActMan,24.192
+01:10,2,LoveIsland,157.895
+01:10,3,KontakKapatTürkiye,29.185
+01:10,4,ロックの日,20.948
+01:10,5,JADE COM YSL,49.334
+01:10,6,BELPOL,18.939
+01:10,7,Kavanaugh,240.868
+01:10,8,Cruzeiro,40.093
+01:10,9,Kelly,179.388
+01:10,10,SCOTUS,66.817
+01:40,1,JusticeForActMan,28.712
+01:40,2,ロックの日,24.691
+01:40,3,Kavanaugh,253.773
+01:40,4,JADE COM YSL,51.931
+01:40,5,KontakKapatTürkiye,29.722
+01:40,6,LoveIsland,159.578
+01:40,7,Cruzeiro,44.036
+01:40,8,Kelly,184.815
+01:40,9,BELPOL,19.129
+01:40,10,SCOTUS,70.449
+02:10,1,Flamengo,90.243
+02:10,2,Andreas,13.404
+02:10,3,ロックの日,27.633
+02:10,4,JusticeForActMan,32.082
+02:10,5,Bragantino,11.229
+02:10,6,Cruzeiro,51.510
+02:10,7,Paulo Sousa,15.332
+02:10,8,Rams,16.760
+02:10,9,Kavanaugh,266.462
+02:10,10,colunadofla,
+02:40,1,Flamengo,113.750
+02:40,2,AEWDynamite,25.660
+02:40,3,Vitinho,
+02:40,4,Andreas,17.820
+02:40,5,Paulo Sousa,21.406
+02:40,6,ロックの日,30.330
+02:40,7,Bragantino,12.933
+02:40,8,JusticeForActMan,35.704
+02:40,9,Cruzeiro,57.365
+02:40,10,Andrade,
+03:10,1,Flamengo,125.772
+03:10,2,AEWDynamite,39.692
+03:10,3,Andreas,21.786
+03:10,4,Vitinho,
+03:10,5,Fábio,22.239
+03:10,6,Paulo Sousa,23.901
+03:10,7,Racing,51.571
+03:10,8,Bragantino,14.473
+03:10,9,RHOBH,
+03:10,10,ロックの日,32.832
+03:40,1,Flamengo,166.022
+03:40,2,AEWDynamite,51.776
+03:40,3,Paulo Sousa,40.202
+03:40,4,Jaylen Brown,
+03:40,5,Andreas,24.062
+03:40,6,Vitinho,
+03:40,7,Racing,56.361
+03:40,8,Fábio,23.783
+03:40,9,Bragantino,19.640
+03:40,10,ロックの日,35.395
+04:10,1,Flamengo,187.121
+04:10,2,AEWDynamite,61.335
+04:10,3,Paulo Sousa,47.675
+04:10,4,Cano,16.715
+04:10,5,Jaylen Brown,13.440
+04:10,6,Klay,29.609
+04:10,7,Draymond,35.004
+04:10,8,Diniz,10.774
+04:10,9,Ademir,
+04:10,10,Atlético,61.550
+04:40,1,Flamengo,201.472
+04:40,2,Draymond,42.202
+04:40,3,Paulo Sousa,52.994
+04:40,4,Jaylen Brown,17.761
+04:40,5,AEWDynamite,64.100
+04:40,6,Cano,19.636
+04:40,7,Klay,31.847
+04:40,8,Hulk,21.736
+04:40,9,Diniz,13.906
+04:40,10,Atlético,71.223
+05:10,1,Curry,91.000
+05:10,2,Flamengo,208.627
+05:10,3,NBAFinals,37.904
+05:10,4,Draymond,47.435
+05:10,5,Klay,39.218
+05:10,6,Paulo Sousa,55.893
+05:10,7,Jaylen Brown,18.900
+05:10,8,Horford,16.004
+05:10,9,Cano,21.115
+05:10,10,AEWDynamite,65.775
+05:40,1,Celtics,175.814
+05:40,2,Draymond,78.863
+05:40,3,Curry,107.092
+05:40,4,Tatum,53.240
+05:40,5,NBAFinals,44.289
+05:40,6,Flamengo,216.858
+05:40,7,Klay,44.953
+05:40,8,Boston,102.871
+05:40,9,DRPowerCouple,23.658
+05:40,10,Jaylen Brown,24.672
+06:10,1,Celtics,199.539
+06:10,2,Draymond,97.701
+06:10,3,Curry,113.601
+06:10,4,Tatum,59.440
+06:10,5,NBAFinals,48.473
+06:10,6,Flamengo,222.040
+06:10,7,Boston,109.486
+06:10,8,Klay,47.506
+06:10,9,DRPowerCouple,32.240
+06:10,10,Jaylen Brown,28.119
+06:40,1,Celtics,209.801
+06:40,2,Draymond,107.057
+06:40,3,Curry,117.032
+06:40,4,Tatum,62.318
+06:40,5,NBAFinals,50.037
+06:40,6,Boston,113.003
+06:40,7,Klay,49.386
+06:40,8,Flamengo,225.418
+06:40,9,DRPowerCouple,39.306
+06:40,10,Jaylen Brown,29.907
+07:10,1,Celtics,215.356
+07:10,2,Draymond,111.948
+07:10,3,Curry,118.617
+07:10,4,Tatum,63.988
+07:10,5,NBAFinals,50.800
+07:10,6,Boston,115.492
+07:10,7,Klay,51.545
+07:10,8,Flamengo,226.696
+07:10,9,DRPowerCouple,42.920
+07:10,10,Jaylen Brown,31.020
+07:40,1,Celtics,220.251
+07:40,2,Draymond,115.653
+07:40,3,Curry,120.424
+07:40,4,Tatum,65.497
+07:40,5,Boston,118.063
+07:40,6,NBAFinals,51.765
+07:40,7,Klay,53.161
+07:40,8,DRPowerCouple,44.368
+07:40,9,Flamengo,227.781
+07:40,10,ロックの日,57.938
+08:10,1,Celtics,223.687
+08:10,2,Draymond,118.108
+08:10,3,Curry,120.689
+08:10,4,Tatum,66.463
+08:10,5,Boston,119.119
+08:10,6,NBAFinals,52.517
+08:10,7,Klay,53.819
+08:10,8,ロックの日,59.698
+08:10,9,DRPowerCouple,45.114
+08:10,10,イナリワン,39.573
+08:40,1,Celtics,226.884
+08:40,2,Draymond,120.574
+08:40,3,Curry,121.849
+08:40,4,Tatum,67.323
+08:40,5,ロックの日,61.792
+08:40,6,Boston,120.565
+08:40,7,NBAFinals,53.205
+08:40,8,Klay,54.630
+08:40,9,DRPowerCouple,45.494
+08:40,10,イナリワン,41.585
+09:10,1,Celtics,229.095
+09:10,2,Draymond,121.986
+09:10,3,Curry,121.799
+09:10,4,ロックの日,63.383
+09:10,5,AybükeYalçın,
+09:10,6,ニゴレン,
+09:10,7,Tatum,67.834
+09:10,8,Boston,120.931
+09:10,9,NBAFinals,53.689
+09:10,10,LutKavmiOlmayacağız,
+09:40,1,Celtics,231.316
+09:40,2,AybükeYalçın,
+09:40,3,Draymond,123.441
+09:40,4,UAAPSeason84,
+09:40,5,ロックの日,65.319
+09:40,6,ニゴレン,
+09:40,7,Warriors,239.951
+09:40,8,LutKavmiOlmayacağız,
+09:40,9,Adamson,
+09:40,10,Curry,122.853
+10:10,1,AybükeYalçın,
+10:10,2,NontonGatotkaca,
+10:10,3,UAAPSeason84,10.982
+10:10,4,Satria Dewa,
+10:10,5,SFxOhmPerthDunkForce,53.798
+10:10,6,ロックの日,67.149
+10:10,7,Draymond,124.238
+10:10,8,JacksonWang,60.963
+10:10,9,スシロー,21.520
+10:10,10,おとり広告,
+10:40,1,AybükeYalçın,10.720
+10:40,2,SFxOhmPerthDunkForce,79.068
+10:40,3,ロックの日,69.474
+10:40,4,NontonGatotkaca,
+10:40,5,UAAPSeason84,11.948
+10:40,6,スシロー,23.719
+10:40,7,おとり広告,
+10:40,8,Satria Dewa,
+10:40,9,JacksonWang,74.175
+10:40,10,ニゴレン,
+11:10,1,amirliaquat,
+11:10,2,AybükeYalçın,13.680
+11:10,3,ロックの日,71.556
+11:10,4,スシロー,25.067
+11:10,5,おとり広告,
+11:10,6,SFxOhmPerthDunkForce,97.912
+11:10,7,もにゅそでオールスターズ,
+11:10,8,UAAPSeason84,13.124
+11:10,9,岸田派ホープの吉川赳・衆議院議員,
+11:10,10,パパ活飲酒,
+11:40,1,amirliaquat,18.739
+11:40,2,AybükeYalçın,16.686
+11:40,3,もにゅそでオールスターズ,
+11:40,4,ロックの日,74.867
+11:40,5,モンバス,
+11:40,6,スシロー,27.221
+11:40,7,おとり広告,10.167
+11:40,8,Nayanthara,27.448
+11:40,9,SFxOhmPerthDunkForce,115.447
+11:40,10,パパ活飲酒,
+12:10,1,amirliaquat,25.896
+12:10,2,AybükeYalçın,20.081
+12:10,3,スシロー,28.530
+12:10,4,モンバス,
+12:10,5,ロックの日,77.806
+12:10,6,VS魂,
+12:10,7,もにゅそでオールスターズ,
+12:10,8,AFLTigersPower,
+12:10,9,パパ活飲酒,
+12:10,10,岸田派ホープの吉川赳・衆議院議員,
+12:40,1,amirliaquat,31.170
+12:40,2,AybükeYalçın,22.745
+12:40,3,VS魂,12.717
+12:40,4,スシロー,30.429
+12:40,5,ロックの日,81.149
+12:40,6,AFLTigersPower,
+12:40,7,モンバス,
+12:40,8,EFES2022,19.739
+12:40,9,Oxbridge,
+12:40,10,パパ活飲酒,
+13:10,1,風真いろは3D,27.282
+13:10,2,amirliaquat,35.876
+13:10,3,AybükeYalçın,24.957
+13:10,4,VS魂,16.433
+13:10,5,プレバト,
+13:10,6,スシロー,30.764
+13:10,7,THE BEAUTY OF SELF XPRESSION,44.967
+13:10,8,モンバス,
+13:10,9,YouTube倍速,
+13:10,10,Oxbridge,
+13:40,1,風真いろは3D,71.632
+13:40,2,Beatbox2ndWin,40.817
+13:40,3,amirliaquat,40.010
+13:40,4,LosPetroVideosSon,
+13:40,5,ぐるナイ,12.349
+13:40,6,まりほー,
+13:40,7,飼育難易度,
+13:40,8,THE BEAUTY OF SELF XPRESSION,89.479
+13:40,9,モンバス,
+13:40,10,スシロー,32.330
+14:10,1,風真いろは3D,99.622
+14:10,2,Beatbox2ndWin,73.132
+14:10,3,amirliaquat,43.985
+14:10,4,AromaFlat,
+14:10,5,飼育難易度,
+14:10,6,ペットとして売られた,
+14:10,7,ロックの日,93.076
+14:10,8,まりほー,
+14:10,9,THE BEAUTY OF SELF XPRESSION,118.204
+14:10,10,いろはちゃん,
+14:40,1,風真いろは3D,109.536
+14:40,2,AromaFlat,
+14:40,3,サマパラ,
+14:40,4,Beatbox2ndWin,89.153
+14:40,5,未来への10カウント,52.452
+14:40,6,飼育難易度,
+14:40,7,ペットとして売られた,
+14:40,8,すわほー,
+14:40,9,わしほー,
+14:40,10,ロックの日,97.656
+15:10,1,風真いろは3D,113.290
+15:10,2,AromaFlat,
+15:10,3,未来への10カウント,70.286
+15:10,4,サマパラ,11.057
+15:10,5,素のまんま,35.310
+15:10,6,Beatbox2ndWin,106.188
+15:10,7,飼育難易度,
+15:10,8,すわほー,
+15:10,9,ロックの日,101.291
+15:10,10,わしほー,
+15:40,1,未来への10カウント,91.746
+15:40,2,Eril,85.246
+15:40,3,サマパラ,15.965
+15:40,4,風真いろは3D,117.999
+15:40,5,AromaFlat,
+15:40,6,飼育難易度,
+15:40,7,ペットとして売られた,
+15:40,8,素のまんま,38.181
+15:40,9,ロックの日,105.865
+15:40,10,すわほー,
+16:10,1,Eril,107.339
+16:10,2,未来への10カウント,97.654
+16:10,3,サマパラ,19.510
+16:10,4,風真いろは3D,120.650
+16:10,5,飼育難易度,
+16:10,6,ペットとして売られた,
+16:10,7,香取慎吾,33.755
+16:10,8,AromaFlat,
+16:10,9,ロックの日,109.674
+16:10,10,BehzatÇ TekrarBaşlasın,
+16:40,1,Eril,121.385
+16:40,2,未来への10カウント,101.973
+16:40,3,サマパラ,21.546
+16:40,4,ペットとして売られた,
+16:40,5,飼育難易度,
+16:40,6,BrightestMoonJUNHUIDAY,29.519
+16:40,7,MOON에게_준휘생일축하가_닿기를,31.388
+16:40,8,香取慎吾,36.865
+16:40,9,BENTE NA SI BELLE,
+16:40,10,ロックの日,113.893
+17:10,1,MOON에게_준휘생일축하가_닿기를,62.346
+17:10,2,BrightestMoonJUNHUIDAY,60.990
+17:10,3,IDOLiSH7記念日2022,39.950
+17:10,4,Eril,130.224
+17:10,5,CIRCUSOutNow,28.128
+17:10,6,スキズCIRCUSが発売,27.289
+17:10,7,CIRCUS BY STRAY KIDS,28.324
+17:10,8,サマパラ,22.860
+17:10,9,飼育難易度,
+17:10,10,BENTE NA SI BELLE,98.235
+17:40,1,MOON에게_준휘생일축하가_닿기를,85.607
+17:40,2,BrightestMoonJUNHUIDAY,84.228
+17:40,3,SKZ_CIRCUS,112.755
+17:40,4,IDOLiSH7記念日2022,63.208
+17:40,5,推しの子アニメ化,24.715
+17:40,6,Eril,136.671
+17:40,7,BENTE NA SI BELLE,139.600
+17:40,8,INDvsSA,
+17:40,9,飼育難易度,
+17:40,10,サマパラ,23.664
+18:10,1,MOON에게_준휘생일축하가_닿기를,98.090
+18:10,2,BrightestMoonJUNHUIDAY,96.562
+18:10,3,SKZ_CIRCUS,121.094
+18:10,4,推しの子アニメ化,32.619
+18:10,5,IDOLiSH7記念日2022,70.886
+18:10,6,BENTE NA SI BELLE,180.012
+18:10,7,BrightestMoonBELLEDay,174.999
+18:10,8,飼育難易度,
+18:10,9,Eril,140.851
+18:10,10,第140回,
+18:40,1,MOON에게_준휘생일축하가_닿기를,105.454
+18:40,2,BrightestMoonJUNHUIDAY,104.267
+18:40,3,CampoMexiquense,
+18:40,4,SKZ_CIRCUS,128.034
+18:40,5,推しの子アニメ化,37.041
+18:40,6,IDOLiSH7記念日2022,74.822
+18:40,7,BENTE NA SI BELLE,200.219
+18:40,8,Dorival,10.621
+18:40,9,飼育難易度,
+18:40,10,第140回,
+19:10,1,CampoMexiquense,10.166
+19:10,2,MOON에게_준휘생일축하가_닿기를,111.048
+19:10,3,BrightestMoonJUNHUIDAY,110.008
+19:10,4,INDvSA,30.719
+19:10,5,SKZ_CIRCUS,130.656
+19:10,6,推しの子アニメ化,39.717
+19:10,7,Dorival,14.263
+19:10,8,The Last of Us,40.987
+19:10,9,BENTE NA SI BELLE,209.413
+19:10,10,TLOU,
+19:40,1,CampoMexiquense,16.756
+19:40,2,MOON에게_준휘생일축하가_닿기를,114.419
+19:40,3,BrightestMoonJUNHUIDAY,113.474
+19:40,4,INDvSA,34.257
+19:40,5,Dorival,21.455
+19:40,6,The Last of Us,46.326
+19:40,7,HBD BOSSBABE TEJASSWI,174.581
+19:40,8,SKZ_CIRCUS,134.367
+19:40,9,推しの子アニメ化,41.356
+19:40,10,TLOU,
+20:10,1,CampoMexiquense,24.101
+20:10,2,SummerGameFest,31.337
+20:10,3,Dorival,30.090
+20:10,4,MOON에게_준휘생일축하가_닿기를,116.741
+20:10,5,BrightestMoonJUNHUIDAY,115.967
+20:10,6,INDvSA,35.426
+20:10,7,HBD BOSSBABE TEJASSWI,264.804
+20:10,8,The Last of Us,49.301
+20:10,9,TLOU,
+20:10,10,ROSÉ AT TIFFANY EXHIBITION,73.501
+20:40,1,CampoMexiquense,30.787
+20:40,2,SummerGameFest,44.320
+20:40,3,Dorival,35.902
+20:40,4,HBD BOSSBABE TEJASSWI,323.469
+20:40,5,Dead Space,
+20:40,6,MOON에게_준휘생일축하가_닿기를,118.242
+20:40,7,BrightestMoonJUNHUIDAY,117.531
+20:40,8,Callisto Protocol,
+20:40,9,Guile,
+20:40,10,INDvSA,36.268
+21:10,1,SummerGameFest,60.282
+21:10,2,CampoMexiquense,37.222
+21:10,3,Dorival,39.519
+21:10,4,HBD BOSSBABE TEJASSWI,363.429
+21:10,5,Dead Space,
+21:10,6,Rodri,
+21:10,7,Dead Island 2,
+21:10,8,ROSÉxTIFFANYinLondon,125.916
+21:10,9,Goat Simulator 3,
+21:10,10,Guile,10.013
+21:40,1,CampoMexiquense,43.788
+21:40,2,SummerGameFest,75.509
+21:40,3,Dorival,42.774
+21:40,4,Cancelo,11.988
+21:40,5,Cancelo,11.988
+21:40,6,Rodri,
+21:40,7,ROSÉxTIFFANYinLondon,170.314
+21:40,8,HBD BOSSBABE TEJASSWI,395.425
+21:40,9,ROSÉ AT TIFFANY EXHIBITION,162.020
+21:40,10,Dead Space,
+22:10,1,SummerGameFest,92.850
+22:10,2,CampoMexiquense,49.276
+22:10,3,The Last of Us,71.075
+22:10,4,Dorival,45.632
+22:10,5,TLOU,14.300
+22:10,6,Rodri,10.818
+22:10,7,Cancelo,13.196
+22:10,8,ROSÉxTIFFANYinLondon,196.309
+22:10,9,France2022,11.624
+22:10,10,Thiago,29.972
+22:40,1,SummerGameFest,100.508
+22:40,2,CampoMexiquense,53.526
+22:40,3,LoveIsland,145.505
+22:40,4,Ekin-Su,14.850
+22:40,5,The Last of Us,81.189
+22:40,6,TLOU,16.305
+22:40,7,Davide,24.199
+22:40,8,Dorival,48.210
+22:40,9,radiozetaFHL22,
+22:40,10,Rodri,11.688
+23:10,1,LoveIsland,175.341
+23:10,2,SummerGameFest,104.335
+23:10,3,CampoMexiquense,57.181
+23:10,4,Ekin-Su,24.435
+23:10,5,Davide,27.660
+23:10,6,The Last of Us,86.584
+23:10,7,radiozetaFHL22,
+23:10,8,TLOU,17.417
+23:10,9,France2022,24.043
+23:10,10,Afia,11.710
+23:40,1,LoveIsland,203.397
+23:40,2,SummerGameFest,108.234
+23:40,3,CampoMexiquense,60.059
+23:40,4,coronacapital2022,45.623
+23:40,5,Davide,33.138
+23:40,6,Ekin-Su,26.996
+23:40,7,SVGala8,
+23:40,8,Luca,44.608
+23:40,9,The Last of Us,92.064
+23:40,10,TLOU,18.443

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,JuventusInter,31.670
+00:10,2,De Bruyne,114.850
+00:10,3,Frenkie,42.294
+00:10,4,CoppaItaliaFrecciarossa,29.135
+00:10,5,Perisic,15.567
+00:10,6,Manchin,123.754
+00:10,7,Leeds,84.952
+00:10,8,WOLMCI,18.490
+00:10,9,Allegri,15.969
+00:10,10,TierraDeNadie2,
+00:40,1,JuventusInter,33.652
+00:40,2,Frenkie,49.287
+00:40,3,De Bruyne,119.136
+00:40,4,Manchin,136.292
+00:40,5,Rony,
+00:40,6,TierraDeNadie2,
+00:40,7,CoppaItalia,13.440
+00:40,8,Perisic,17.278
+00:40,9,Allegri,18.073
+00:40,10,Leeds,86.562
+01:10,1,JuventusInter,34.600
+01:10,2,Marinho,
+01:10,3,Frenkie,53.315
+01:10,4,De Bruyne,121.802
+01:10,5,Rodrigo Caio,
+01:10,6,Manchin,147.439
+01:10,7,Rodinei,
+01:10,8,julietteresponde,
+01:10,9,Rony,
+01:10,10,TierraDeNadie2,10.042
+01:40,1,Marinho,
+01:40,2,Rodrigo Caio,11.515
+01:40,3,Rodinei,
+01:40,4,JuventusInter,35.178
+01:40,5,Frenkie,56.477
+01:40,6,Manchin,159.550
+01:40,7,Rony,11.218
+01:40,8,ちむどんどん,19.689
+01:40,9,De Bruyne,124.055
+01:40,10,julietteresponde,
+02:10,1,Rodinei,
+02:10,2,Marinho,
+02:10,3,Rodrigo Caio,13.225
+02:10,4,Frenkie,58.516
+02:10,5,Manchin,169.175
+02:10,6,JuventusInter,35.580
+02:10,7,Rony,11.705
+02:10,8,Altos,32.849
+02:10,9,Jrue,
+02:10,10,ちむどんどん,20.256
+02:40,1,AEWDynamite,19.822
+02:40,2,Rodinei,
+02:40,3,Marinho,
+02:40,4,RHOBH,10.062
+02:40,5,Rodrigo Caio,14.978
+02:40,6,MAFS,
+02:40,7,Altos,35.838
+02:40,8,MarriedAtFirstSight,
+02:40,9,Manchin,178.693
+02:40,10,Jasmina,
+03:10,1,AEWDynamite,33.635
+03:10,2,RHOBH,14.014
+03:10,3,MAFS,
+03:10,4,Jaylen Brown,
+03:10,5,Survivor,16.259
+03:10,6,Jrue,
+03:10,7,Giuliano,
+03:10,8,Rodinei,
+03:10,9,MarriedAtFirstSight,
+03:10,10,Marinho,
+03:40,1,Jrue,26.656
+03:40,2,Giannis,49.480
+03:40,3,Celtics,59.370
+03:40,4,AEWDynamite,43.519
+03:40,5,Bucks,66.844
+03:40,6,Marcus Smart,
+03:40,7,Corinthians,52.972
+03:40,8,Bobby Portis,
+03:40,9,Tatum,22.310
+03:40,10,Al Horford,16.283
+04:10,1,Jrue,76.717
+04:10,2,Celtics,86.059
+04:10,3,Celtics,86.059
+04:10,4,Celtics,86.059
+04:10,5,Marcus Smart,32.255
+04:10,6,Giannis,68.681
+04:10,7,AEWDynamite,57.783
+04:10,8,Tatum,29.186
+04:10,9,Tatum,29.186
+04:10,10,DPOY,14.763
+04:40,1,Jrue,84.577
+04:40,2,Celtics,92.258
+04:40,3,Marcus Smart,35.199
+04:40,4,Giannis,76.321
+04:40,5,River,160.216
+04:40,6,Bucks,109.356
+04:40,7,AEWDynamite,61.753
+04:40,8,Tigre,29.836
+04:40,9,Tatum,30.726
+04:40,10,Tatum,30.726
+05:10,1,Jrue,88.752
+05:10,2,Celtics,95.658
+05:10,3,River,171.649
+05:10,4,Marcus Smart,36.613
+05:10,5,Giannis,79.826
+05:10,6,Bucks,113.458
+05:10,7,Tigre,38.305
+05:10,8,AEWDynamite,63.224
+05:10,9,DRPowerCouple,15.537
+05:10,10,Tatum,31.618
+05:40,1,Warriors,151.773
+05:40,2,Jrue,91.529
+05:40,3,River,181.683
+05:40,4,Grizzlies,36.248
+05:40,5,Celtics,98.027
+05:40,6,DRPowerCouple,27.337
+05:40,7,Marcus Smart,37.560
+05:40,8,Giannis,82.713
+05:40,9,Bucks,117.319
+05:40,10,Memphis,42.805
+06:10,1,Warriors,162.391
+06:10,2,Jrue,93.544
+06:10,3,Grizzlies,44.136
+06:10,4,River,184.782
+06:10,5,Celtics,99.474
+06:10,6,Memphis,46.972
+06:10,7,DRPowerCouple,29.488
+06:10,8,Marcus Smart,38.256
+06:10,9,Bucks,119.182
+06:10,10,Giannis,84.293
+06:40,1,Warriors,169.823
+06:40,2,Jrue,95.298
+06:40,3,Grizzlies,47.904
+06:40,4,River,189.510
+06:40,5,Memphis,49.217
+06:40,6,Celtics,100.785
+06:40,7,DRPowerCouple,30.457
+06:40,8,Marcus Smart,38.930
+06:40,9,Bucks,121.401
+06:40,10,Mike Brown,10.226
+07:10,1,Warriors,169.292
+07:10,2,Grizzlies,49.641
+07:10,3,Jrue,96.248
+07:10,4,River,189.757
+07:10,5,Memphis,49.916
+07:10,6,Celtics,101.448
+07:10,7,drpowercouple,30.960
+07:10,8,Marcus Smart,39.261
+07:10,9,Draymond,21.050
+07:10,10,Mike Brown,10.462
+07:40,1,Warriors,172.243
+07:40,2,Grizzlies,50.955
+07:40,3,Jrue,97.250
+07:40,4,River,192.494
+07:40,5,Memphis,51.038
+07:40,6,drpowercouple,31.243
+07:40,7,Celtics,102.250
+07:40,8,InternationalNursesDay,13.601
+07:40,9,Marcus Smart,39.565
+07:40,10,Draymond,21.722
+08:10,1,Warriors,171.361
+08:10,2,Grizzlies,51.559
+08:10,3,Jrue,98.041
+08:10,4,InternationalNursesDay,16.379
+08:10,5,River,191.829
+08:10,6,Memphis,51.337
+08:10,7,DRPowerCouple,31.392
+08:10,8,ウマ娘キャラ診断,
+08:10,9,必要睡眠時間,
+08:10,10,Celtics,102.665
+08:40,1,Warriors,173.381
+08:40,2,InternationalNursesDay,19.305
+08:40,3,Grizzlies,52.299
+08:40,4,Jrue,98.758
+08:40,5,必要睡眠時間,
+08:40,6,ウマ娘キャラ診断,
+08:40,7,DRPowerCouple,31.493
+08:40,8,Memphis,52.091
+08:40,9,River,194.260
+08:40,10,睡眠クロノタイプ診断,
+09:10,1,InternationalNursesDay,22.247
+09:10,2,Warriors,172.446
+09:10,3,必要睡眠時間,
+09:10,4,Grizzlies,52.697
+09:10,5,ウマ娘キャラ診断,
+09:10,6,white_200,
+09:10,7,睡眠クロノタイプ診断,
+09:10,8,クリック回数,
+09:10,9,Be1stDigitalxGulf,
+09:10,10,Jrue,99.504
+09:40,1,InternationalNursesDay,25.096
+09:40,2,Be1stDigitalxGulf,51.528
+09:40,3,Warriors,173.858
+09:40,4,white_200,
+09:40,5,クリック回数,
+09:40,6,必要睡眠時間,
+09:40,7,ウマ娘キャラ診断,
+09:40,8,motorolaedge30,
+09:40,9,BangkokBank with KANAWUT,37.713
+09:40,10,トリスタ,
+10:10,1,InternationalNursesDay,28.293
+10:10,2,Be1stDigitalxGulf,87.055
+10:10,3,MelisSezen,
+10:10,4,white_200,
+10:10,5,クリック回数,
+10:10,6,麻雀の役,
+10:10,7,必要睡眠時間,
+10:10,8,IND2022,
+10:10,9,BangkokBank with KANAWUT,65.357
+10:10,10,K-14,12.893
+10:40,1,InternationalNursesDay,31.452
+10:40,2,MelisSezen,
+10:40,3,K-14,21.970
+10:40,4,麻雀の役,
+10:40,5,Be1stDigitalxGulf,113.516
+10:40,6,White 200,
+10:40,7,クリック回数,
+10:40,8,IND2022,
+10:40,9,必要睡眠時間,
+10:40,10,HemşirelerGünü,
+11:10,1,InternationalNursesDay,34.609
+11:10,2,麻雀の役,
+11:10,3,K-14,31.706
+11:10,4,MelisSezen,
+11:10,5,white_200,
+11:10,6,クリック回数,
+11:10,7,IND2022,
+11:10,8,Be1stDigitalxGulf,127.542
+11:10,9,必要睡眠時間,
+11:10,10,アカイトリノムスメ,17.739
+11:40,1,InternationalNursesDay,37.852
+11:40,2,麻雀の役,
+11:40,3,K-14,41.418
+11:40,4,MelisSezen,
+11:40,5,White 200,
+11:40,6,クリック回数,
+11:40,7,GetWellSoonDUNK,13.036
+11:40,8,IND2022,
+11:40,9,HemşirelerGünü,
+11:40,10,必要睡眠時間,
+12:10,1,InternationalNursesDay,40.764
+12:10,2,麻雀の役,
+12:10,3,K-14,49.680
+12:10,4,MelisSezen,
+12:10,5,white_200,
+12:10,6,クリック回数,
+12:10,7,プレバト,
+12:10,8,GetWellSoonDUNK,20.927
+12:10,9,Perfume,34.350
+12:10,10,必要睡眠時間,10.865
+12:40,1,麻雀の役,
+12:40,2,InternationalNursesDay,43.036
+12:40,3,MelisSezen,
+12:40,4,K-14,56.912
+12:40,5,VS魂,18.510
+12:40,6,プレバト,
+12:40,7,SamsungEnDiasNaranjas,
+12:40,8,クリック回数,
+12:40,9,Perfume,35.874
+12:40,10,スーパーゴッドフェス開催,
+13:10,1,麻雀の役,
+13:10,2,MelisSezen,10.768
+13:10,3,K-14,63.991
+13:10,4,VS魂,23.679
+13:10,5,プレバト,
+13:10,6,InternationalNursesDay,45.059
+13:10,7,white_200,10.468
+13:10,8,クリック回数,
+13:10,9,スーパーゴッドフェス開催,
+13:10,10,Perfume,35.916
+13:40,1,麻雀の役,
+13:40,2,MelisSezen,13.031
+13:40,3,K-14,70.599
+13:40,4,VS魂,25.705
+13:40,5,InternationalNursesDay2022,10.163
+13:40,6,プレバト,10.955
+13:40,7,qanda,
+13:40,8,クリック回数,
+13:40,9,スーパーゴッドフェス開催,
+13:40,10,QUEEN IS NA UNIT,
+14:10,1,麻雀の役,
+14:10,2,MelisSezen,15.058
+14:10,3,素のまんま,
+14:10,4,ぐるナイ,
+14:10,5,K-14,76.187
+14:10,6,LOONAxBG_TELLMENOW,
+14:10,7,이달의소녀_왕관이_탐이나,
+14:10,8,QUEEN IS NA UNIT,
+14:10,9,クリック回数,
+14:10,10,必要睡眠時間,17.286
+14:40,1,素のまんま,29.666
+14:40,2,ForeverGold_MV,18.384
+14:40,3,麻雀の役,10.511
+14:40,4,未来への10カウント,26.402
+14:40,5,MelisSezen,17.097
+14:40,6,sütyen,
+14:40,7,Starfield,
+14:40,8,K-14,80.802
+14:40,9,QUEEN IS NA UNIT,10.564
+14:40,10,うさほー,
+15:10,1,未来への10カウント,36.252
+15:10,2,ForeverGold_MV,25.499
+15:10,3,素のまんま,32.602
+15:10,4,麻雀の役,11.397
+15:10,5,Starfield,11.128
+15:10,6,MelisSezen,18.790
+15:10,7,sütyen,
+15:10,8,Canan Kaftancıoğlu,11.973
+15:10,9,K-14,84.565
+15:10,10,QUEEN IS NA UNIT,11.540
+15:40,1,Ginting,48.832
+15:40,2,未来への10カウント,39.854
+15:40,3,Starfield,13.858
+15:40,4,ForeverGold_MV,29.135
+15:40,5,Canan Kaftancıoğlu,23.259
+15:40,6,麻雀の役,12.055
+15:40,7,素のまんま,33.870
+15:40,8,sütyen,
+15:40,9,MelisSezen,20.224
+15:40,10,eunseo,
+16:10,1,Canan Kaftancıoğlu,34.300
+16:10,2,Starfield,15.793
+16:10,3,未来への10カウント,41.568
+16:10,4,Ginting,53.482
+16:10,5,QUEENDOM2,66.705
+16:10,6,ForeverGold_MV,31.665
+16:10,7,MahalAngMagmahal,11.583
+16:10,8,麻雀の役,12.639
+16:10,9,sütyen,
+16:10,10,hyolyn,
+16:40,1,MahalAngMagmahal,27.443
+16:40,2,CSKvsMI,
+16:40,3,Canan Kaftancıoğlu,45.883
+16:40,4,Starfield,17.688
+16:40,5,QUEENDOM2,85.453
+16:40,6,ForeverGold_MV,33.329
+16:40,7,麻雀の役,13.062
+16:40,8,未来への10カウント,42.978
+16:40,9,Ginting,57.473
+16:40,10,No DRS,
+17:10,1,MahalAngMagmahal,44.930
+17:10,2,DARARI_REMIX_OUTNOW,170.793
+17:10,3,CSKvsMI,12.402
+17:10,4,Canan Kaftancıoğlu,58.113
+17:10,5,กลรักรุ่นพี่,68.727
+17:10,6,Starfield,19.446
+17:10,7,GOT7_Tracklist,10.718
+17:10,8,MücadeleninAdı NisaBölükbaşı,39.182
+17:10,9,GOT7 IS THEIR NAME,13.994
+17:10,10,麻雀の役,13.411
+17:40,1,MahalAngMagmahal,56.859
+17:40,2,DARARI_REMIX_OUTNOW,234.545
+17:40,3,CSKvsMI,15.311
+17:40,4,GOT7_Tracklist,49.824
+17:40,5,MücadeleninAdı NisaBölükbaşı,219.072
+17:40,6,Canan Kaftancıoğlu,69.225
+17:40,7,กลรักรุ่นพี่,122.529
+17:40,8,GOT7 IS THEIR NAME,43.061
+17:40,9,Starfield,21.175
+17:40,10,第112回,
+18:10,1,MahalAngMagmahal,59.735
+18:10,2,DARARI_REMIX_OUTNOW,281.850
+18:10,3,TREASURE,361.853
+18:10,4,RosasTayoMagmahal,
+18:10,5,CSKvsMI,18.404
+18:10,6,MücadeleninAdı NisaBölükbaşı,362.409
+18:10,7,Canan Kaftancıoğlu,81.877
+18:10,8,Francisca Sandoval,
+18:10,9,第112回,
+18:10,10,GOT7 IS THEIR NAME,55.822
+18:40,1,MahalAngMagmahal,62.370
+18:40,2,RosasTayoMagmahal,13.622
+18:40,3,DARARI_REMIX_OUTNOW,307.589
+18:40,4,TREASURE,385.550
+18:40,5,Francisca Sandoval,17.156
+18:40,6,CSKvsMI,20.405
+18:40,7,Canan Kaftancıoğlu,94.562
+18:40,8,MücadeleninAdı NisaBölükbaşı,476.898
+18:40,9,第112回,
+18:40,10,Sokoto,50.264
+19:10,1,RosasTayoMagmahal,19.101
+19:10,2,MahalAngMagmahal,62.818
+19:10,3,DARARI_REMIX_OUTNOW,322.765
+19:10,4,Francisca Sandoval,23.935
+19:10,5,TREASURE,396.745
+19:10,6,CSKvsMI,22.004
+19:10,7,Canan Kaftancıoğlu,106.999
+19:10,8,MücadeleninAdı NisaBölükbaşı,577.680
+19:10,9,Sokoto,60.603
+19:10,10,第112回,
+19:40,1,RosasTayoMagmahal,21.083
+19:40,2,MahalAngMagmahal,61.617
+19:40,3,DARARI_REMIX_OUTNOW,331.089
+19:40,4,Francisca Sandoval,30.331
+19:40,5,CSKvsMI,24.545
+19:40,6,Canan Kaftancıoğlu,118.428
+19:40,7,TREASURE,404.804
+19:40,8,Sokoto,70.639
+19:40,9,MücadeleninAdı NisaBölükbaşı,668.731
+19:40,10,第112回,
+20:10,1,RosasTayoMagmahal,22.375
+20:10,2,Francisca Sandoval,35.479
+20:10,3,Romero,31.220
+20:10,4,DARARI_REMIX_OUTNOW,336.301
+20:10,5,MahalAngMagmahal,61.196
+20:10,6,Canan Kaftancıoğlu,129.382
+20:10,7,TOTARS,27.544
+20:10,8,CSKvsMI,25.849
+20:10,9,Sokoto,79.855
+20:10,10,MücadeleninAdı NisaBölükbaşı,
+20:40,1,GoIMP,11.094
+20:40,2,RosasTayoMagmahal,22.606
+20:40,3,TOTARS,32.620
+20:40,4,Romero,33.045
+20:40,5,Francisca Sandoval,39.694
+20:40,6,COYG,11.254
+20:40,7,Arsenal,175.012
+20:40,8,gntm,
+20:40,9,Canan Kaftancıoğlu,139.676
+20:40,10,Sokoto,89.043
+21:10,1,TOTARS,43.486
+21:10,2,COYG,13.498
+21:10,3,GoIMP,12.971
+21:10,4,Eurovision,89.463
+21:10,5,Arsenal,192.356
+21:10,6,RosasTayoMagmahal,22.695
+21:10,7,Cedric,10.763
+21:10,8,Francisca Sandoval,43.823
+21:10,9,Spurs,46.939
+21:10,10,Romero,33.246
+21:40,1,Eurovision,193.937
+21:40,2,Arsenal,242.719
+21:40,3,TOTARS,59.305
+21:40,4,Cedric,18.649
+21:40,5,Rob Holding,
+21:40,6,Serbia,33.344
+21:40,7,Spurs,59.770
+21:40,8,The Rasmus,
+21:40,9,ESC2022,32.915
+21:40,10,Paul Tierney,
+22:10,1,Eurovision,299.502
+22:10,2,Arsenal,275.648
+22:10,3,TOTARS,69.450
+22:10,4,Cedric,21.330
+22:10,5,Spurs,68.026
+22:10,6,ESC2022,52.614
+22:10,7,San Marino,17.244
+22:10,8,Rob Holding,10.976
+22:10,9,Serbia,34.392
+22:10,10,escita,31.622
+22:40,1,EUROVISION,401.119
+22:40,2,Arsenal,298.506
+22:40,3,TOTARS,75.508
+22:40,4,Spurs,76.589
+22:40,5,ESC2022,70.200
+22:40,6,Cedric,23.497
+22:40,7,San Marino,20.524
+22:40,8,Rob Holding,12.070
+22:40,9,Levante,39.327
+22:40,10,EuroSemi2,22.771
+23:10,1,EUROVISION,461.711
+23:10,2,Arsenal,321.694
+23:10,3,TOTARS,79.164
+23:10,4,ESC2022,82.726
+23:10,5,Spurs,83.328
+23:10,6,Cedric,24.732
+23:10,7,COYS,20.553
+23:10,8,Arteta,27.744
+23:10,9,San Marino,23.380
+23:10,10,Levante,42.047
+23:40,1,Eurovision,530.544
+23:40,2,Arsenal,333.802
+23:40,3,TOTARS,80.192
+23:40,4,San Marino,35.620
+23:40,5,ESC2022,94.942
+23:40,6,Levante,50.735
+23:40,7,Spurs,87.317
+23:40,8,Arteta,33.185
+23:40,9,Serbia,47.407
+23:40,10,SVGala4,12.449

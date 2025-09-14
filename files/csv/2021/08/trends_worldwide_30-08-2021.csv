@@ -1,0 +1,451 @@
+hora,posicio,trend,volum
+00:10,1,Messi,604.908
+00:10,2,Triell,125.101
+00:10,3,30AgustosZaferBayrami,59.001
+00:10,4,SuperDancaDosFamosos,13.117
+00:10,5,Pochettino,48.141
+00:10,6,ZaferYolumuz,13.086
+00:10,7,Dandara,
+00:10,8,calamidade,93.359
+00:10,9,Ed Asner,97.802
+00:10,10,Rulli,
+00:41,1,Messi,623.027
+00:41,2,SuperDancaDosFamosos,22.308
+00:41,3,Triell,127.393
+00:41,4,30AgustosZaferBayrami,65.449
+00:41,5,Dandara,16.235
+00:41,6,ZaferYolumuz,15.738
+00:41,7,Neymar,120.698
+00:41,8,Rulli,
+00:41,9,Pochettino,49.326
+00:41,10,Ed Asner,104.266
+01:10,1,SuperDancaDosFamosos,31.170
+01:10,2,Messi,630.567
+01:10,3,Dandara,21.313
+01:10,4,30AgustosZaferBayrami,69.222
+01:10,5,ZaferYolumuz,17.311
+01:10,6,Bryson,12.403
+01:10,7,Triell,128.836
+01:10,8,BMWChampionship,
+01:10,9,Neymar,121.448
+01:10,10,Ed Asner,109.766
+01:41,1,BMWChampionship,
+01:41,2,SuperDancaDosFamosos,33.068
+01:41,3,Bryson,15.310
+01:41,4,Messi,642.339
+01:41,5,Dandara,22.490
+01:41,6,30AgustosZaferBayrami,72.047
+01:41,7,Cantlay,16.238
+01:41,8,ZaferYolumuz,18.386
+01:41,9,Triell,129.936
+01:41,10,Ed Asner,114.753
+02:10,1,BMWChampionship,
+02:10,2,SuperDancaDosFamosos,33.771
+02:10,3,Bryson,15.840
+02:10,4,Messi,645.813
+02:10,5,30AgustosZaferBayrami,73.594
+02:10,6,Dandara,22.986
+02:10,7,Cantlay,17.454
+02:10,8,ZaferYolumuz,19.032
+02:10,9,Brusque,11.361
+02:10,10,Donda,846.543
+02:41,1,BMWChampionship,
+02:41,2,Brusque,14.178
+02:41,3,SuperDancaDosFamosos,34.353
+02:41,4,Bryson,16.347
+02:41,5,Rolon,10.018
+02:41,6,Dandara,23.317
+02:41,7,30AgustosZaferBayrami,74.852
+02:41,8,Messi,653.338
+02:41,9,ZaferYolumuz,19.565
+02:41,10,Donda,857.589
+03:10,1,RHOP,21.290
+03:10,2,Robyn,10.464
+03:10,3,Brusque,15.969
+03:10,4,BMWChampionship,
+03:10,5,Tommy Fury,
+03:10,6,PaulWoodley,23.463
+03:10,7,Rolon,11.083
+03:10,8,SuperDancaDosFamosos,34.850
+03:10,9,Bryson,16.461
+03:10,10,Fantastico,
+03:41,1,Diego Costa,17.619
+03:41,2,RHOP,23.153
+03:41,3,Mets,52.033
+03:41,4,PaulWoodley,28.889
+03:41,5,Brusque,17.570
+03:41,6,Robyn,11.279
+03:41,7,Bragantino,
+03:41,8,Rolon,12.206
+03:41,9,Tommy Fury,
+03:41,10,BMWChampionship,
+04:10,1,Diego Costa,20.144
+04:10,2,RHOP,24.706
+04:10,3,PaulWoodley,35.093
+04:10,4,Mets,54.327
+04:10,5,Dubois,
+04:10,6,Ezequiel,
+04:10,7,Montana Love,
+04:10,8,Brusque,18.072
+04:10,9,Bragantino,10.741
+04:10,10,ॐ_मंत्र_का_रहस्य,68.326
+04:41,1,Lali,34.967
+04:41,2,Diego Costa,21.358
+04:41,3,PaulWoodley,41.279
+04:41,4,LaVozAgentina,
+04:41,5,RHOP,26.857
+04:41,6,Mets,57.740
+04:41,7,Ignacio,15.184
+04:41,8,Jacinta,
+04:41,9,Ezequiel,
+04:41,10,Dubois,
+05:10,1,Jacinta,
+05:10,2,Lali,38.197
+05:10,3,PaulWoodley,49.233
+05:10,4,LaVozAgentina,
+05:10,5,Diego Costa,21.947
+05:10,6,Ignacio,16.413
+05:10,7,KrishnaJanmashtami,23.993
+05:10,8,RHOP,28.210
+05:10,9,Mets,59.231
+05:10,10,Serrano,
+05:41,1,Jake Paul,141.232
+05:41,2,Jacinta,
+05:41,3,Lali,40.091
+05:41,4,KrishnaJanmashtami,37.853
+05:41,5,Serrano,12.048
+05:41,6,マエストロ,12.400
+05:41,7,MasterChefColombia,
+05:41,8,LaVozAgentina,
+05:41,9,Diego Costa,22.370
+05:41,10,AvaniLekhara,
+06:10,1,Woodley,147.034
+06:10,2,KrishnaJanmashtami,50.176
+06:10,3,LaVozArgentina,36.195
+06:10,4,Jacinta,
+06:10,5,AvaniLekhara,11.446
+06:10,6,lali,40.613
+06:10,7,マエストロ,14.446
+06:10,8,श्री कृष्ण,164.534
+06:10,9,Serrano,12.188
+06:10,10,アオハル杯,27.185
+06:41,1,Woodley,209.861
+06:41,2,KrishnaJanmashtami,64.433
+06:41,3,LaVozArgentina,36.596
+06:41,4,アオハル杯,36.155
+06:41,5,AvaniLekhara,16.002
+06:41,6,श्री कृष्ण,187.110
+06:41,7,マエストロ,15.696
+06:41,8,Araçatuba,
+06:41,9,Jacinta,
+06:41,10,あなたの女子力はこのくらい,
+07:10,1,Woodley,219.250
+07:10,2,KrishnaJanmashtami,76.876
+07:10,3,アオハル杯,42.720
+07:10,4,AvaniLekhara,19.812
+07:10,5,Araçatuba,
+07:10,6,श्री कृष्ण,202.687
+07:10,7,あなたの女子力はこのくらい,
+07:10,8,あなたの女子力レベル,
+07:10,9,女子力高,
+07:10,10,ズボラ女子,
+07:41,1,Woodley,224.929
+07:41,2,KrishnaJanmashtami,88.366
+07:41,3,アオハル杯,49.142
+07:41,4,AvaniLekhara,24.053
+07:41,5,Araçatuba,
+07:41,6,あなたの女子力はこのくらい,
+07:41,7,श्री कृष्ण,221.598
+07:41,8,あなたの女子力レベル,
+07:41,9,女子力高,
+07:41,10,ズボラ女子,
+08:10,1,Woodley,227.366
+08:10,2,KrishnaJanmashtami,97.547
+08:10,3,アオハル杯,54.257
+08:10,4,AvaniLekhara,27.358
+08:10,5,Araçatuba,
+08:10,6,あなたの女子力はこのくらい,
+08:10,7,あなたの女子力レベル,
+08:10,8,女子力高,
+08:10,9,ズボラ女子,
+08:10,10,サン宝石,17.873
+08:41,1,Woodley,229.888
+08:41,2,KrishnaJanmashtami,106.987
+08:41,3,アオハル杯,59.068
+08:41,4,30AgustosZaferBayrami,112.490
+08:41,5,あなたの女子力はこのくらい,
+08:41,6,AvaniLekhara,30.292
+08:41,7,あなたの女子力レベル,
+08:41,8,女子力高,
+08:41,9,ズボラ女子,
+08:41,10,ZaferYolumuz,31.301
+09:10,1,Woodley,230.365
+09:10,2,30AgustosZaferBayrami,126.469
+09:10,3,KrishnaJanmashtami,114.900
+09:10,4,アオハル杯,62.917
+09:10,5,ZaferYolumuz,34.255
+09:10,6,あなたの女子力はこのくらい,
+09:10,7,あなたの女子力レベル,
+09:10,8,女子力高,
+09:10,9,ズボラ女子,
+09:10,10,GözünüzADAMgörsün,37.325
+09:41,1,Woodley,232.035
+09:41,2,30AgustosZaferBayrami,141.958
+09:41,3,ZaferYolumuz,38.539
+09:41,4,アオハル杯,66.827
+09:41,5,KrishnaJanmashtami,121.756
+09:41,6,GözünüzADAMgörsün,41.280
+09:41,7,Mustafa Kemal Atatürk,181.400
+09:41,8,あなたの女子力はこのくらい,
+09:41,9,あなたの女子力レベル,
+09:41,10,女子力高,
+10:10,1,30AgustosZaferBayrami,156.417
+10:10,2,Woodley,232.760
+10:10,3,Keyisback,29.007
+10:10,4,アオハル杯,70.146
+10:10,5,GözünüzADAMgörsün,45.308
+10:10,6,KrishnaJanmashtami,127.963
+10:10,7,Mustafa Kemal Atatürk,193.963
+10:10,8,あなたの女子力はこのくらい,
+10:10,9,あなたの女子力レベル,
+10:10,10,女子力高,
+10:41,1,30AgustosZaferBayrami,174.770
+10:41,2,夢のはじまりSO1000万回,11.680
+10:41,3,GözünüzADAMgörsün,49.684
+10:41,4,アオハル杯,74.067
+10:41,5,Keyisback,32.600
+10:41,6,Woodley,233.843
+10:41,7,앗싸_비투비_아웃사이더,49.713
+10:41,8,Mustafa Kemal Atatürk,209.288
+10:41,9,あなたの女子力レベル,
+10:41,10,女子力高,
+11:10,1,30AgustosZaferBayrami,188.383
+11:10,2,夢のはじまりSO1000万回,15.374
+11:10,3,앗싸_비투비_아웃사이더,77.239
+11:10,4,Keyisback,36.895
+11:10,5,GözünüzADAMgörsün,53.827
+11:10,6,アオハル杯,77.672
+11:10,7,Mustafa Kemal Atatürk,220.364
+11:10,8,LOUIS DAY,31.398
+11:10,9,I WANNA BE AN OUTSIDER,61.786
+11:10,10,あなたの女子力レベル,
+11:41,1,30AgustosZaferBayrami,203.143
+11:41,2,앗싸_비투비_아웃사이더,91.892
+11:41,3,BTOB_THE_OUTSIDER,74.431
+11:41,4,ZaferYolumuz,53.076
+11:41,5,Keyisback,42.208
+11:41,6,LOUIS DAY,44.570
+11:41,7,アオハル杯,82.368
+11:41,8,Mustafa Kemal Atatürk,233.114
+11:41,9,あなたの女子力レベル,
+11:41,10,女子力高,
+12:10,1,30AgustosZaferBayrami,214.604
+12:10,2,LOUIS DAY,53.854
+12:10,3,BTOB_THE_OUTSIDER,81.861
+12:10,4,ZaferYolumuz,55.982
+12:10,5,앗싸_비투비_아웃사이더,99.796
+12:10,6,Keyisback,44.882
+12:10,7,アオハル杯,85.998
+12:10,8,あなたの女子力レベル,
+12:10,9,女子力高,
+12:10,10,ズボラ女子,
+12:41,1,CDTVライブライブ,36.771
+12:41,2,blueな雨と月曜日には,
+12:41,3,Thoma,54.437
+12:41,4,恋降る月夜に君想ふ,11.751
+12:41,5,30AgustosZaferBayrami,225.941
+12:41,6,恋フルTV初披露,15.745
+12:41,7,LOUIS DAY,62.265
+12:41,8,アオハル杯,90.432
+12:41,9,女子力高,
+12:41,10,あなたの女子力レベル,
+13:10,1,CDTVライブライブ,48.326
+13:10,2,blueな雨と月曜日には,15.477
+13:10,3,Thoma,71.652
+13:10,4,恋降る月夜に君想ふ,20.706
+13:10,5,ネプリーグ,28.039
+13:10,6,恋フルTV初披露,27.178
+13:10,7,LOUIS DAY,68.896
+13:10,8,ファンモン,
+13:10,9,アオハル杯,94.743
+13:10,10,モンド出身,
+13:41,1,CDTVライブライブ,54.058
+13:41,2,踊踊ってみた_jo1,53.867
+13:41,3,ファンモン,13.674
+13:41,4,Thoma,85.491
+13:41,5,blueな雨と月曜日には,17.164
+13:41,6,LOUIS DAY,92.327
+13:41,7,恋降る月夜に君想ふ,25.032
+13:41,8,帰れマンデー,19.503
+13:41,9,アオハル杯,99.722
+13:41,10,Oガンダム,
+14:10,1,CDTVライブライブ,61.823
+14:10,2,ファンモン,18.981
+14:10,3,踊踊ってみた_JO1,87.136
+14:10,4,Thoma,96.229
+14:10,5,LOUIS DAY,116.373
+14:10,6,blueな雨と月曜日には,18.191
+14:10,7,SumitAntil,13.369
+14:10,8,恋降る月夜に君想ふ,27.442
+14:10,9,Oガンダム,
+14:10,10,Jiminie,17.621
+15:10,1,CDTVライブライブ,97.113
+15:10,2,blueな雨と月曜日には,34.215
+15:10,3,PARK JIMIN,75.079
+15:10,4,深イイ話,27.698
+15:10,5,LOUIS DAY,152.369
+15:10,6,TravisJapan,40.133
+15:10,7,Jiminie,28.065
+15:10,8,踊踊ってみた_JO1,118.445
+15:10,9,ファンモン,20.041
+15:10,10,Thoma,101.117
+15:41,1,CDTVライブライブ,102.954
+15:41,2,blueな雨と月曜日には,36.614
+15:41,3,Park Jimin,91.538
+15:41,4,LOUIS DAY,164.716
+15:41,5,深イイ話,28.935
+15:41,6,TravisJapan,45.296
+15:41,7,Jiminie,31.745
+15:41,8,踊踊ってみた_JO1,126.976
+15:41,9,Thoma,111.279
+15:41,10,ファンモン,20.474
+16:10,1,CDTVライブライブ,106.383
+16:10,2,LOUIS DAY,173.692
+16:10,3,ZafereOrtakOl,
+16:10,4,blueな雨と月曜日には,37.465
+16:10,5,Park Jimin,99.570
+16:10,6,アイプラ生放送,10.075
+16:10,7,TravisJapan,47.272
+16:10,8,Jiminie,33.967
+16:10,9,Thoma,119.238
+16:10,10,Carrasquilla,28.858
+17:41,1,初音ミク誕生祭2021,93.416
+17:41,2,ForeverWonyoungDay,100.145
+17:41,3,여름의끝자락이원영이로_물들어,98.057
+17:41,4,ミクちゃん,22.894
+17:41,5,LOUIS DAY,200.867
+17:41,6,ZafereOrtakOl,
+17:41,7,アイプラ生放送,22.675
+17:41,8,ミクさん,48.847
+17:41,9,田宮くん,12.414
+17:41,10,AUGUST IS FOR WONYOUNG,42.277
+18:10,1,初音ミク誕生祭2021,120.783
+18:10,2,ForeverWonyoungDay,106.112
+18:10,3,여름의끝자락이원영이로_물들어,104.231
+18:10,4,LOUIS DAY,213.782
+18:10,5,アイプラ生放送,23.047
+18:10,6,ZafereOrtakOl,
+18:10,7,ミクちゃん,26.739
+18:10,8,JUNGKOOK OUR INSPIRATION,43.245
+18:10,9,WHEEIN JOINED THEL1VE,18.184
+18:10,10,田宮くん,13.373
+18:41,1,初音ミク誕生祭2021,139.115
+18:41,2,ForeverWonyoungDay,109.924
+18:41,3,WeBeginWithJungkook,58.954
+18:41,4,여름의끝자락이원영이로_물들어,107.928
+18:41,5,JUNGKOOK OUR INSPIRATION,55.607
+18:41,6,ミクちゃん,29.411
+18:41,7,AwayFromHomeFestival,281.636
+18:41,8,LOUIS DAY,222.946
+18:41,9,ミクさん,63.719
+18:41,10,Carrasquilla,54.599
+19:10,1,初音ミク誕生祭2021,151.222
+19:10,2,ForeverWonyoungDay,111.967
+19:10,3,여름의끝자락이원영이로_물들어,109.837
+19:10,4,WeBeginWithJungkook,66.285
+19:10,5,JUNGKOOK OUR INSPIRATION,62.263
+19:10,6,アイプラ生放送,23.311
+19:10,7,LOUIS DAY,228.599
+19:10,8,ミクちゃん,31.019
+19:10,9,ミクさん,67.066
+19:10,10,Carrasquilla,59.566
+19:41,1,初音ミク誕生祭2021,161.026
+19:41,2,ForeverWonyoungDay,113.426
+19:41,3,WeBeginWithJungkook,71.704
+19:41,4,JUNGKOOK OUR INSPIRATION,67.270
+19:41,5,여름의끝자락이원영이로_물들어,111.281
+19:41,6,AwayFromHomeFestival,332.557
+19:41,7,LOUIS DAY,233.912
+19:41,8,ミクちゃん,32.504
+19:41,9,ミクさん,70.005
+19:41,10,DAWN OF CHROMATICA,43.889
+20:10,1,初音ミク誕生祭2021,168.042
+20:10,2,WeBeginWithJungkook,75.513
+20:10,3,ForeverWonyoungDay,114.526
+20:10,4,JUNGKOOK OUR INSPIRATION,70.294
+20:10,5,여름의끝자락이원영이로_물들어,112.289
+20:10,6,GölbaşındaZaferBirBaşka,
+20:10,7,DAWN OF CHROMATICA,51.195
+20:10,8,LOUIS DAY,238.193
+20:10,9,ミクちゃん,33.479
+20:10,10,ミクさん,71.667
+20:41,1,Dan James,34.650
+20:41,2,初音ミク誕生祭2021,173.824
+20:41,3,Tomiii 11,18.531
+20:41,4,WeBeginWithJungkook,78.315
+20:41,5,Mebİliçinde AileleriBirleştir,
+20:41,6,Leeds,64.847
+20:41,7,DAWN OF CHROMATICA,56.641
+20:41,8,GölbaşındaZaferBirBaşka,
+20:41,9,JUNGKOOK OUR INSPIRATION,72.710
+20:41,10,GalatasarayKirliDüzeneKarşı,
+21:10,1,初音ミク誕生祭2021,178.326
+21:10,2,WeBeginWithJungkook,80.644
+21:10,3,JUNGKOOK OUR INSPIRATION,74.636
+21:10,4,DAWN OF CHROMATICA,60.142
+21:10,5,AwayFromHomeFestival,390.674
+21:10,6,ForeverWonyoungDay,115.682
+21:10,7,GölbaşındaZaferBirBaşka,
+21:10,8,Tomiii 11,22.145
+21:10,9,LOUIS DAY,255.856
+21:10,10,Mebİliçinde AileleriBirleştir,
+21:41,1,Dan James,39.645
+21:41,2,SergenYalçınYüzdeYüzFutbolda,
+21:41,3,USOpen,20.406
+21:41,4,Leeds,72.216
+21:41,5,Tomiii 11,25.353
+21:41,6,GalatasarayKirliDüzeneKarşı,16.113
+21:41,7,PROUD OF LOUIS,47.288
+21:41,8,AwayFromHomeFestival,422.460
+21:41,9,WeBeginWithJungkook,83.032
+21:41,10,DAWN OF CHROMATICA,63.352
+22:10,1,Galata Kulesi,
+22:10,2,SergenYalçınYüzdeYüzFutbolda,
+22:10,3,AwayFromHomeFestival,511.479
+22:10,4,PROUD OF LOUIS,50.347
+22:10,5,NagehanAlçıHaddiniBil,
+22:10,6,USOpen,21.402
+22:10,7,adp2021,
+22:10,8,TWO OF US,46.029
+22:10,9,İşimiziGeri İstiyoruz,
+22:10,10,Tomiii 11,28.016
+22:41,1,AwayFromHomeFestival,630.434
+22:41,2,Galata Kulesi,
+22:41,3,SergenYalçınYüzdeYüzFutbolda,
+22:41,4,NagehanAlçıHaddiniBil,
+22:41,5,MAFSUK,
+22:41,6,USOpen,22.850
+22:41,7,TWO OF US,70.269
+22:41,8,PROUD OF LOUIS,54.827
+22:41,9,Willian,57.195
+22:41,10,İşimiziGeri İstiyoruz,
+23:10,1,AwayFromHomeFestival,731.047
+23:10,2,USOpen,24.261
+23:10,3,OSYMACIKLA,
+23:10,4,MAFSUK,
+23:10,5,NagehanAlçıHaddiniBil,
+23:10,6,Galata Kulesi,
+23:10,7,Willian,63.572
+23:10,8,Dan James,42.923
+23:10,9,PROUD OF LOUIS,56.729
+23:10,10,Murray,19.038
+23:41,1,Camavinga,40.489
+23:41,2,Willian,86.511
+23:41,3,AwayFromHomeFestival,846.423
+23:41,4,MAFSUK,
+23:41,5,HappyBirthdayEllie,
+23:41,6,OSYMACIKLA,
+23:41,7,PROUD OF LOUIS,74.346
+23:41,8,USOpen,25.847
+23:41,9,Corinthians,157.896
+23:41,10,Louis Tomlinson,587.347

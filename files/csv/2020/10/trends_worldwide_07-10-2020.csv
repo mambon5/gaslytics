@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:03,1,Eddie Van Halen,401.963
+00:03,2,SalarioRosa,83.876
+00:03,3,MasumlarApartmanı,18.742
+00:03,4,stimulus,48.420
+00:03,5,RIP EVH,
+00:03,6,MCCelebrity,10.353
+00:03,7,GBBO,21.858
+00:03,8,Eruption,26.749
+00:03,9,Gettysburg,76.319
+00:03,10,エディ・ヴァン・ヘイレンさん死去,13.203
+00:33,1,Eddie Van Halen,436.869
+00:33,2,SalarioRosa,91.353
+00:33,3,onlyhands,39.263
+00:33,4,stimulus,53.212
+00:33,5,MCCelebrity,12.781
+00:33,6,RIP EVH,
+00:33,7,RDCxBTS,155.352
+00:33,8,エディ・ヴァン・ヘイレンさん死去,19.709
+00:33,9,Gettysburg,88.807
+00:33,10,Nadal,32.059
+01:03,1,Eddie Van Halen,468.282
+01:03,2,SalarioRosa,97.378
+01:03,3,onlyhands,51.870
+01:03,4,RDCxBTS,182.603
+01:03,5,stimulus,58.197
+01:03,6,SCD2020,
+01:03,7,エディ,
+01:03,8,Stephen Miller,29.674
+01:03,9,RIP EVH,
+01:03,10,Nadal,34.492
+01:33,1,Eddie Van Halen,494.152
+01:33,2,Stephen Miller,90.953
+01:33,3,SalarioRosa,101.948
+01:33,4,onlyhands,60.894
+01:33,5,TotalmenteDemais,13.926
+01:33,6,エディ,10.090
+01:33,7,stimulus,63.001
+01:33,8,RDCxBTS,199.727
+01:33,9,Sinner,32.220
+01:33,10,RIP EVH,
+02:03,1,Eddie Van Halen,516.268
+02:03,2,Stephen Miller,135.662
+02:03,3,SalarioRosa,105.680
+02:03,4,onlyhands,65.280
+02:03,5,Alex Trebek,
+02:03,6,エディ,11.829
+02:03,7,stimulus,67.062
+02:03,8,TotalmenteDemais,15.637
+02:03,9,RDCxBTS,209.393
+02:03,10,Nadal,40.436
+02:33,1,Eddie Van Halen,535.586
+02:33,2,Stephen Miller,171.047
+02:33,3,SalarioRosa,109.369
+02:33,4,NHLDraft,25.543
+02:33,5,エディ,13.384
+02:33,6,onlyhands,68.163
+02:33,7,TrumpIsNotAmerica,37.098
+02:33,8,Rossi,15.697
+02:33,9,stimulus,70.299
+02:33,10,Jump,126.660
+03:03,1,Stephen Miller,197.604
+03:03,2,Eddie Van Halen,553.664
+03:03,3,SalarioRosa,112.042
+03:03,4,NHLDraft,29.700
+03:03,5,TrumpIsNotAmerica,51.879
+03:03,6,エディ,14.708
+03:03,7,Happ,
+03:03,8,onlyhands,70.529
+03:03,9,stimulus,73.365
+03:03,10,Rossi,16.065
+03:33,1,Stephen Miller,219.024
+03:33,2,Eddie Van Halen,570.359
+03:33,3,Happ,13.938
+03:33,4,TrumpIsNotAmerica,65.006
+03:33,5,SalarioRosa,114.878
+03:33,6,NHLDraft,32.471
+03:33,7,WNBA,
+03:33,8,エディ,15.880
+03:33,9,onlyhands,72.527
+03:33,10,Sue Bird,
+04:03,1,Danny Green,16.520
+04:03,2,Stanton,46.837
+04:03,3,Stephen Miller,241.058
+04:03,4,Eddie Van Halen,586.697
+04:03,5,Happ,15.832
+04:03,6,RoçaAFazenda,15.315
+04:03,7,SobPressaoPlantaoCovid,
+04:03,8,TrumpIsNotAmerica,77.681
+04:03,9,Herro,34.231
+04:03,10,SalarioRosa,117.113
+04:38,1,RoçaAFazenda,181.921
+04:38,2,Danny Green,27.929
+04:38,3,SobPressaoPlantaoCovid,23.767
+04:38,4,Stanton,49.114
+04:38,5,Stephen Miller,263.696
+04:38,6,Vicky,39.798
+04:38,7,Herro,45.165
+04:38,8,Eddie Van Halen,602.958
+04:38,9,Caruso,10.056
+04:38,10,Happ,16.229
+05:03,1,RoçaAFazenda,311.533
+05:03,2,SobPressaoPlantaoCovid,39.702
+05:03,3,Danny Green,29.327
+05:03,4,Bron,40.973
+05:03,5,Vicky,42.931
+05:03,6,Stephen Miller,274.920
+05:03,7,Stanton,35.870
+05:03,8,Herro,47.914
+05:03,9,Van Halen,731.828
+05:03,10,Happ,16.566
+05:33,1,Biel,267.750
+05:33,2,Lebron,157.584
+05:33,3,SobPressaoPlantaoCovid,43.150
+05:33,4,Danny Green,31.037
+05:33,5,Herro,60.733
+05:33,6,Caruso,16.244
+05:33,7,Stephen Miller,287.477
+05:33,8,Vicky,44.355
+05:33,9,Stanton,36.606
+05:33,10,Van Halen,747.170
+06:03,1,Biel,283.192
+06:03,2,Lebron,204.402
+06:03,3,LakeShow,57.327
+06:03,4,Anthony Davis,35.704
+06:03,5,SobPressaoPlantaoCovid,44.979
+06:03,6,Herro,71.218
+06:03,7,Danny Green,33.379
+06:03,8,Crowder,15.530
+06:03,9,Caruso,17.950
+06:03,10,LALvsMIA,
+06:33,1,Lebron,223.379
+06:33,2,Biel,291.428
+06:33,3,LakeShow,62.926
+06:33,4,KIM TAEHYUNG,73.957
+06:33,5,Anthony Davis,40.325
+06:33,6,SobPressaoPlantaoCovid,46.117
+06:33,7,Herro,74.952
+06:33,8,Danny Green,34.181
+06:33,9,Crowder,16.276
+06:33,10,SalarioRosa,143.521
+07:03,1,Lebron,233.637
+07:03,2,Biel,295.800
+07:03,3,LakeShow,65.610
+07:03,4,KIM TAEHYUNG,97.909
+07:03,5,YGDontDeleteTheScene,45.134
+07:03,6,Anthony Davis,43.734
+07:03,7,SobPressaoPlantaoCovid,46.965
+07:03,8,Herro,76.527
+07:03,9,Dodgers,50.359
+07:03,10,Mariano,64.880
+07:33,1,Lebron,241.824
+07:33,2,Biel,299.812
+07:33,3,LakeShow,67.589
+07:33,4,KIM TAEHYUNG,115.000
+07:33,5,YGDontDeleteTheScene,68.785
+07:33,6,Anthony Davis,45.577
+07:33,7,Dodgers,53.937
+07:33,8,Rondo,29.476
+07:33,9,Herro,78.204
+07:33,10,SobPressaoPlantaoCovid,47.422
+08:03,1,Lebron,246.450
+08:03,2,Biel,301.697
+08:03,3,LakeShow,69.287
+08:03,4,KIM TAEHYUNG,126.502
+08:03,5,YGDontDeleteTheScene,60.171
+08:03,6,Dodgers,63.996
+08:03,7,Anthony Davis,46.768
+08:03,8,DettolxBrightWinxLazLive,117.024
+08:03,9,Meteorito,16.175
+08:03,10,Rondo,29.843
+08:33,1,Lebron,250.840
+08:33,2,LakeShow,70.615
+08:33,3,Biel,303.109
+08:33,4,YGDontDeleteTheScene,64.162
+08:33,5,RoçaAFazenda,494.632
+08:33,6,KIM TAEHYUNG,137.865
+08:33,7,Dodgers,66.318
+08:33,8,DettolxBrightWinxLazLive,191.124
+08:33,9,20thYearOfNaMo,44.141
+08:33,10,Rondo,30.269
+09:03,1,YGDontDeleteTheScene,67.324
+09:03,2,Lebron,253.475
+09:03,3,Biel,303.740
+09:03,4,Protect Jennie,151.369
+09:03,5,Kim Taehyung,147.340
+09:03,6,DettolxBrightWinxLazLive,222.512
+09:03,7,Dodgers,67.573
+09:03,8,Cartolouco,160.515
+09:03,9,20thYearOfNaMo,51.800
+09:03,10,NBAFinals,102.601
+09:33,1,YGDontDeleteTheScene,69.311
+09:33,2,LakeShow,72.172
+09:33,3,Protect Jennie,155.544
+09:33,4,LeBron,256.755
+09:33,5,KIM TAEHYUNG,156.933
+09:33,6,Biel,304.323
+09:33,7,田中優太,
+09:33,8,DettolxBrightWinxLazLive,243.592
+09:33,9,20thYearOfNaMo,61.626
+09:33,10,Dodgers,68.467
+10:03,1,YGDontDeleteTheScene,71.415
+10:03,2,ハーフミリオン,
+10:03,3,Protect Jennie,158.918
+10:03,4,田中優太,
+10:03,5,KIM TAEHYUNG,164.873
+10:03,6,LakeShow,72.602
+10:03,7,20thYearOfNaMo,69.916
+10:03,8,GulfDancexVlive,33.800
+10:03,9,Biel,304.407
+10:03,10,과금유도,
+10:33,1,ハーフミリオン,10.768
+10:33,2,ハロニュ,
+10:33,3,田中優太,10.588
+10:33,4,YGDontDeleteTheScene,73.117
+10:33,5,GulfDancexVlive,66.203
+10:33,6,MahasiswaBergerak,33.284
+10:33,7,20thYearOfNaMo,76.852
+10:33,8,Protect Jennie,161.384
+10:33,9,KIM TAEHYUNG,174.150
+10:33,10,과금유도,11.603
+11:01,1,ハロニュ,
+11:01,2,ハーフミリオン,12.306
+11:01,3,dolar,
+11:01,4,MahasiswaBergerak,45.306
+11:01,5,田中優太,11.949
+11:01,6,청량맛집_골든차일드_펌피럽,30.743
+11:01,7,WYBTracer85xZIC2020,99.583
+11:01,8,Protect Jennie,163.301
+11:01,9,과금유도,13.405
+11:01,10,Kim Taehyung,180.095
+11:36,1,ハロニュ,12.234
+11:36,2,MahasiswaBergerak,62.091
+11:36,3,dolar,10.489
+11:36,4,ハーフミリオン,13.892
+11:36,5,청량맛집_골든차일드_펌피럽,37.996
+11:36,6,WYBTracer85xZIC2020,146.748
+11:36,7,田中優太,13.667
+11:36,8,과금유도,15.327
+11:36,9,Özeleğitimin Gücükalmadı,
+11:36,10,Lebron,264.413
+12:01,1,ハロニュ,13.935
+12:01,2,MahasiswaBergerak,74.987
+12:01,3,dolar,11.619
+12:01,4,WYBTracer85xZIC2020,193.021
+12:01,5,ハーフミリオン,14.710
+12:01,6,청량맛집_골든차일드_펌피럽,41.411
+12:01,7,田中優太,14.452
+12:01,8,Klang,12.113
+12:01,9,과금유도,16.599
+12:01,10,Hobi,143.620
+12:31,1,WYBTracer85xZIC2020,246.791
+12:31,2,MahasiswaBergerak,91.438
+12:31,3,ハロニュ,15.683
+12:31,4,dolar,12.960
+12:31,5,タイムショック,10.074
+12:31,6,ハーフミリオン,15.494
+12:31,7,SafarSidNaazKa,121.621
+12:31,8,CRISPR,
+12:31,9,Klang,13.984
+12:31,10,과금유도,17.941
+13:06,1,タイムショック,23.369
+13:06,2,MahasiswaBergerak,113.784
+13:06,3,ハロニュ,17.291
+13:06,4,dolar,14.525
+13:06,5,WYBTracer85xZIC2020,295.743
+13:06,6,골오나_끝나면,
+13:06,7,CRISPR,14.491
+13:06,8,ハーフミリオン,16.135
+13:06,9,Klang,15.210
+13:06,10,ノーベル化学賞,
+13:36,1,タイムショック,30.167
+13:36,2,PMQs,
+13:36,3,LYRADEBUT,88.775
+13:36,4,MahasiswaBergerak,135.673
+13:36,5,CRISPR,18.596
+13:36,6,dolar,15.955
+13:36,7,ハロニュ,18.572
+13:36,8,ハーフミリオン,16.808
+13:36,9,Klang,16.574
+13:36,10,東京盃,
+14:01,1,タイムショック,37.234
+14:01,2,PMQs,13.298
+14:01,3,LYRADEBUT,117.055
+14:01,4,MahasiswaBergerak,155.621
+14:01,5,CRISPR,21.778
+14:01,6,AlandXMew,69.994
+14:01,7,まりほー,
+14:01,8,ハロニュ,19.647
+14:01,9,如恵留くん,11.206
+14:01,10,ハーフミリオン,17.267
+14:36,1,タイムショック,41.276
+14:36,2,平田真吾初勝利チャレンジ,
+14:36,3,東京タラレバ娘2020,
+14:36,4,LYRADEBUT,142.807
+14:36,5,PMQs,17.147
+14:36,6,まりほー,
+14:36,7,CRISPR,26.226
+14:36,8,PROUD OF NIALL,16.669
+14:36,9,どらほー,
+14:36,10,Pablo Iglesias,34.609
+15:01,1,東京タラレバ娘2020,15.271
+15:01,2,タイムショック,43.151
+15:01,3,平田真吾初勝利チャレンジ,
+15:01,4,AlandXMew,176.003
+15:01,5,LYRADEBUT,170.127
+15:01,6,PROUD OF NIALL,23.880
+15:01,7,CRISPR,29.395
+15:01,8,まりほー,
+15:01,9,緊急避妊薬,18.907
+15:01,10,れおほー,
+15:36,1,東京タラレバ娘2020,23.399
+15:36,2,Kyle Allen,
+15:36,3,PROUD OF NIALL,29.215
+15:36,4,緊急避妊薬,31.603
+15:36,5,タイムショック,44.379
+15:36,6,平田真吾初勝利チャレンジ,
+15:36,7,AlandXMew,221.757
+15:36,8,LYRADEBUT,202.111
+15:36,9,CRISPR,33.805
+15:36,10,れおほー,
+16:06,1,東京タラレバ娘2020,29.788
+16:06,2,Haskins,15.370
+16:06,3,AChanceToLoveEP7,94.712
+16:06,4,水曜日のダウンタウン,
+16:06,5,鯖落ち,20.069
+16:06,6,緊急避妊薬,39.724
+16:06,7,PROUD OF NIALL,31.725
+16:06,8,ARMSHARE,139.428
+16:06,9,MahasiswaBergerak,243.584
+16:06,10,CRISPR,37.837
+16:31,1,Haskins,19.339
+16:31,2,東京タラレバ娘2020,30.910
+16:31,3,AChanceToLoveEP7,121.262
+16:31,4,NowUnitedChainedUp,49.109
+16:31,5,鯖落ち,21.981
+16:31,6,緊急避妊薬,44.714
+16:31,7,PROUD OF NIALL,33.703
+16:31,8,水曜日のダウンタウン,
+16:31,9,ARMSHARE,157.263
+16:31,10,CRISPR,40.908
+17:06,1,Haskins,24.466
+17:06,2,東京タラレバ娘2020,31.631
+17:06,3,NowUnitedChainedUp,86.720
+17:06,4,BlueHour_AR,13.416
+17:06,5,bambam,135.809
+17:06,6,MissUniverseThailand2020,49.389
+17:06,7,AChanceToLoveEP7,148.657
+17:06,8,Ken Bone,
+17:06,9,緊急避妊薬,49.816
+17:06,10,PROUD OF NIALL,35.525
+17:31,1,Haskins,27.679
+17:31,2,NowUnitedChainedUp,103.849
+17:31,3,BlueHour_AR,42.950
+17:31,4,bambam,160.293
+17:31,5,東京タラレバ娘2020,31.962
+17:31,6,MissUniverseThailand2020,62.759
+17:31,7,HOSHI,83.731
+17:31,8,KKRvsCSK,
+17:31,9,Ken Bone,
+17:31,10,緊急避妊薬,52.636
+18:01,1,Haskins,30.980
+18:01,2,bambam,182.911
+18:01,3,BlueHour_AR,59.794
+18:01,4,NowUnitedChainedUp,108.875
+18:01,5,メンズ校,68.764
+18:01,6,KKRvsCSK,
+18:01,7,MissUniverseThailand2020,80.316
+18:01,8,hoshi,90.100
+18:01,9,Ken Bone,
+18:01,10,Matt Murray,
+18:31,1,Haskins,33.972
+18:31,2,bambam,199.607
+18:31,3,BlueHour_AR,68.031
+18:31,4,NowUnitedChainedUp,111.019
+18:31,5,CSKvsKKR,17.352
+18:31,6,メンズ校,73.062
+18:31,7,Kyle Allen,11.936
+18:31,8,MissUniverseThailand2020,94.410
+18:31,9,Ken Bone,
+18:31,10,hoshi,95.234
+19:01,1,Haskins,36.177
+19:01,2,bambam,210.796
+19:01,3,OneOfMcAfeesMillion,
+19:01,4,CSKvsKKR,20.028
+19:01,5,BlueHour_AR,72.704
+19:01,6,Ken Bone,12.036
+19:01,7,NowUnitedChainedUp,112.398
+19:01,8,KarşıCinstenSoğumaSebepleri,
+19:01,9,TAEKOOK,137.318
+19:01,10,Rasmussen,26.040
+19:31,1,oneofmcafeesmillion,
+19:31,2,Haskins,38.180
+19:31,3,CSKvsKKR,23.526
+19:31,4,KarşıCinstenSoğumaSebepleri,
+19:31,5,Ken Bone,14.438
+19:31,6,bambam,219.721
+19:31,7,nefesnefese,71.419
+19:31,8,乃木坂46ANN,15.068
+19:31,9,taekook,155.409
+19:31,10,Rasmussen,30.129
+20:06,1,CSKvsKKR,31.555
+20:06,2,oneofmcafeesmillion,
+20:06,3,KarşıCinstenSoğumaSebepleri,
+20:06,4,Haskins,40.453
+20:06,5,TrumpDevastation,31.255
+20:06,6,nefesnefese,88.057
+20:06,7,Ken Bone,16.679
+20:06,8,Derek Chauvin,20.990
+20:06,9,bambam,226.026
+20:06,10,taekook,167.322
+20:31,1,KKRvCSK,74.286
+20:31,2,oneofmcafeesmillion,
+20:31,3,Sadakatsiz,
+20:31,4,TrumpDevastation,38.396
+20:31,5,nefesnefese,100.308
+20:31,6,Haskins,42.186
+20:31,7,Ken Bone,18.070
+20:31,8,Dhoni,47.825
+20:31,9,Derek Chauvin,30.591
+20:31,10,bambam,230.087
+21:02,1,KKRvCSK,81.177
+21:02,2,Sadakatsiz,12.663
+21:02,3,Jadhav,60.396
+21:02,4,oneofmcafeesmillion,
+21:02,5,AG6iscoming,18.277
+21:02,6,TrumpDevastation,45.706
+21:02,7,Derek Chauvin,40.669
+21:02,8,Ken Bone,19.621
+21:02,9,Haskins,43.655
+21:02,10,Kedar,26.432
+21:31,1,WhereIsTrump,33.518
+21:31,2,KKRvCSK,84.482
+21:31,3,Sadakatsiz,14.452
+21:31,4,FRAUKR,13.450
+21:31,5,oneofmcafeesmillion,
+21:31,6,Tecatito,
+21:31,7,Derek Chauvin,48.141
+21:31,8,Portugal,67.317
+21:31,9,Ken Bone,20.880
+21:31,10,Haskins,44.931
+22:02,1,WhereIsTrump,54.914
+22:02,2,FRAUKR,24.245
+22:02,3,Giroud,27.739
+22:02,4,Sadakatsiz,15.417
+22:02,5,KKRvCSK,86.357
+22:02,6,Travis,62.712
+22:02,7,AG6iscoming,26.984
+22:02,8,Tecatito,
+22:02,9,Ozan Tufan,
+22:02,10,Portugal,69.259
+22:31,1,WhereIsTrump,72.678
+22:31,2,LaIslaDeLasTentaciones5,23.134
+22:31,3,FRAUKR,28.532
+22:31,4,Giroud,34.322
+22:31,5,Travis,67.517
+22:31,6,Stormzy,16.986
+22:31,7,Tecatito,
+22:31,8,Sadakatsiz,16.372
+22:31,9,NoEraPenal,
+22:31,10,Portugal,74.285
+23:01,1,LaIslaDeLasTentaciones5,68.747
+23:01,2,WhereIsTrump,85.831
+23:01,3,Travis,73.901
+23:01,4,FRAUKR,33.668
+23:01,5,Stormzy,26.386
+23:01,6,GERTUR,10.153
+23:01,7,Giroud,39.101
+23:01,8,Tecatito,
+23:01,9,Ozan Tufan,
+23:01,10,nedmex,
+23:31,1,LaIslaDeLasTentaciones5,147.871
+23:31,2,WhereIsTrump,96.993
+23:31,3,Travis,78.485
+23:31,4,FRAUKR,37.334
+23:31,5,Stormzy,37.612
+23:31,6,LORDE,16.201
+23:31,7,GERTUR,11.481
+23:31,8,Ozan Tufan,11.466
+23:31,9,Tecatito,
+23:31,10,TemptationIsland,12.992

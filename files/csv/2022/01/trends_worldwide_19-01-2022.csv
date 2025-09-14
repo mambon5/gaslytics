@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaIslaDeLasTentaciones12,32.070
+00:10,2,Ghana,298.160
+00:10,3,Brighton,52.830
+00:10,4,NoirsEnFrance,39.902
+00:10,5,Lukaku,43.310
+00:10,6,Tuchel,50.750
+00:10,7,Comoros,83.838
+00:10,8,PaidInBitcoin,47.740
+00:10,9,BHACHE,29.290
+00:10,10,FCSPBVB,10.743
+00:40,1,LaIslaDeLasTentaciones12,42.849
+00:40,2,Ghana,307.034
+00:40,3,Brighton,53.830
+00:40,4,NoirsEnFrance,41.506
+00:40,5,Lukaku,44.879
+00:40,6,あさイチ,
+00:40,7,Tuchel,52.407
+00:40,8,Comoros,85.493
+00:40,9,PaidInBitcoin,49.288
+00:40,10,BHACHE,29.605
+01:10,1,LaIslaDeLasTentaciones12,49.798
+01:10,2,あさイチ,
+01:10,3,Ghana,309.410
+01:10,4,NoirsEnFrance,42.384
+01:10,5,Brighton,54.292
+01:10,6,Lukaku,45.677
+01:10,7,PaidInBitcoin,50.803
+01:10,8,Tuchel,51.931
+01:10,9,Comoros,86.622
+01:10,10,Tania,16.972
+01:40,1,LaIslaDeLasTentaciones12,51.521
+01:40,2,あさイチ,12.317
+01:40,3,Ghana,314.295
+01:40,4,教えて推しライフ,
+01:40,5,Brighton,54.862
+01:40,6,NoirsEnFrance,43.007
+01:40,7,PaidInBitcoin,52.181
+01:40,8,Lukaku,46.311
+01:40,9,Tuchel,52.637
+01:40,10,Microsoft,540.794
+02:10,1,LaIslaDeLasTentaciones12,52.276
+02:10,2,あさイチ,13.475
+02:10,3,Ghana,315.285
+02:10,4,The Departed,
+02:10,5,O BAHIA É O MUNDO,10.436
+02:10,6,教えて推しライフ,
+02:10,7,PaidInBitcoin,53.432
+02:10,8,NoirsEnFrance,43.431
+02:10,9,Brighton,55.139
+02:10,10,When We Were Young,34.641
+02:40,1,LaIslaDeLasTentaciones12,52.716
+02:40,2,あさイチ,14.434
+02:40,3,The Departed,
+02:40,4,Paulo André,25.357
+02:40,5,O BAHIA É O MUNDO,16.040
+02:40,6,Maria,349.296
+02:40,7,No Country for Old Men,
+02:40,8,Ghana,318.639
+02:40,9,教えて推しライフ,
+02:40,10,When We Were Young,37.124
+03:10,1,Tadeu,133.771
+03:10,2,Paulo André,28.937
+03:10,3,Maria,329.690
+03:10,4,Naiara,606.919
+03:10,5,The Departed,
+03:10,6,LaIslaDeLasTentaciones12,53.037
+03:10,7,あさイチ,15.051
+03:10,8,O BAHIA É O MUNDO,18.160
+03:10,9,No Country for Old Men,
+03:10,10,WWENXT,
+03:40,1,Tadeu,188.645
+03:40,2,BBB22,1.240.513
+03:40,3,Naiara,656.040
+03:40,4,Paulo André,31.526
+03:40,5,Maria,339.900
+03:40,6,pedro scooby,164.436
+03:40,7,AbbottElementary,
+03:40,8,The Departed,
+03:40,9,Beijo Luana,
+03:40,10,Rodrigo,225.602
+04:10,1,Tadeu,190.435
+04:10,2,BBB22,1.072.249
+04:10,3,Naiara,507.138
+04:10,4,Paulo André,30.088
+04:10,5,pedro scooby,149.197
+04:10,6,Maria,328.288
+04:10,7,ThisIsUs,
+04:10,8,Beijo Luana,14.277
+04:10,9,The Departed,
+04:10,10,AbbottElementary,
+04:40,1,Tadeu,198.075
+04:40,2,チヨノオー,
+04:40,3,BBB22,1.101.379
+04:40,4,Paulo André,31.098
+04:40,5,The Departed,
+04:40,6,WWENXT,18.544
+04:40,7,jessi,59.135
+04:40,8,pedro scooby,155.451
+04:40,9,チヨちゃん,
+04:40,10,Naiara,514.309
+05:10,1,Tadeu,194.451
+05:10,2,チヨノオー,
+05:10,3,BBB22,1.007.331
+05:10,4,Jessi,60.597
+05:10,5,The Departed,
+05:10,6,チヨちゃん,
+05:10,7,WWENXT,19.523
+05:10,8,マスターデュエル,11.112
+05:10,9,Maria,324.385
+05:10,10,Andre Leon Talley,17.881
+05:40,1,Tadeu,196.999
+05:40,2,チヨノオー,
+05:40,3,Andre Leon Talley,26.963
+05:40,4,BBB22,1.027.925
+05:40,5,Duke,35.450
+05:40,6,マスターデュエル,14.101
+05:40,7,Maria,341.577
+05:40,8,Jessi,64.646
+05:40,9,The Departed,
+05:40,10,チヨちゃん,
+06:10,1,Tadeu,194.760
+06:10,2,チヨノオー,
+06:10,3,Andre Leon Talley,34.126
+06:10,4,Duke,37.598
+06:10,5,マスターデュエル,16.077
+06:10,6,BBB22,974.201
+06:10,7,Bol Bol,136.323
+06:10,8,The Departed,
+06:10,9,Maria,340.262
+06:10,10,Jessi,63.726
+06:40,1,Tadeu,196.164
+06:40,2,Andre Leon Talley,39.419
+06:40,3,チヨノオー,
+06:40,4,マスターデュエル,17.818
+06:40,5,Duke,38.741
+06:40,6,Bol Bol,138.096
+06:40,7,BBB22,983.739
+06:40,8,The Departed,
+06:40,9,MaharanaPratap,52.184
+06:40,10,Walter,30.344
+07:10,1,マスターデュエル,19.704
+07:10,2,Andre Leon Talley,43.616
+07:10,3,jongdae,10.587
+07:10,4,チヨノオー,
+07:10,5,MaharanaPratap,60.159
+07:10,6,AparnaYadav,
+07:10,7,Bol Bol,135.919
+07:10,8,Tadeu,195.299
+07:10,9,TERA,49.317
+07:10,10,The Departed,
+07:40,1,jongdae,20.869
+07:40,2,Chen,54.186
+07:40,3,TERA,52.076
+07:40,4,マスターデュエル,21.510
+07:40,5,Andre Leon Talley,46.592
+07:40,6,MaharanaPratap,67.375
+07:40,7,AparnaYadav,10.844
+07:40,8,東京7000人,
+07:40,9,Gaziantep,51.861
+07:40,10,ChristmasTree29onJapanHot100,31.720
+08:10,1,jongdae,30.624
+08:10,2,Chen,70.032
+08:10,3,TERA,53.657
+08:10,4,マスターデュエル,22.993
+08:10,5,東京7000人,
+08:10,6,Gaziantep,55.984
+08:10,7,AparnaYadav,12.986
+08:10,8,MaharanaPratap,73.254
+08:10,9,Jessi,80.829
+08:10,10,Andre Leon Talley,49.287
+08:40,1,jongdae,38.564
+08:40,2,Chen,83.070
+08:40,3,TERA,55.968
+08:40,4,Gaziantep,59.812
+08:40,5,マスターデュエル,24.654
+08:40,6,HrantDink,10.927
+08:40,7,東京7000人,
+08:40,8,nurdagi,
+08:40,9,AparnaYadav,14.846
+08:40,10,MaharanaPratap,78.267
+09:10,1,jongdae,43.767
+09:10,2,Chen,92.413
+09:10,3,TERA,57.080
+09:10,4,HrantDink,12.360
+09:10,5,nurdagi,12.079
+09:10,6,過去最多,65.747
+09:10,7,東京7000人,10.536
+09:10,8,マスターデュエル,26.413
+09:10,9,Gaziantep,63.774
+09:10,10,SizBatırdınızBizÇözeceğiz,
+09:40,1,jongdae,48.394
+09:40,2,TERA,59.951
+09:40,3,Chen,100.145
+09:40,4,HrantDink,14.281
+09:40,5,マスターデュエル,29.522
+09:40,6,nurdagi,14.373
+09:40,7,過去最多,72.208
+09:40,8,hoshi,70.462
+09:40,9,MOONBYUL_LUNATIC,17.330
+09:40,10,6EQUENCE WORLD PREMIERE,17.052
+10:10,1,jongdae,51.965
+10:10,2,TERA,61.314
+10:10,3,MOONBYUL_LUNATIC,34.219
+10:10,4,マスターデュエル,33.871
+10:10,5,6EQUENCE WORLD PREMIERE,33.569
+10:10,6,Chen,105.513
+10:10,7,ライブルーティン,
+10:10,8,HrantDink,15.784
+10:10,9,過去最多,71.558
+10:10,10,nurdagi,16.695
+10:40,1,ピュアプリズム,10.831
+10:40,2,マスターデュエル,39.427
+10:40,3,MOONBYUL_LUNATIC,43.246
+10:40,4,jongdae,55.550
+10:40,5,TERA,64.021
+10:40,6,6EQUENCE WORLD PREMIERE,41.728
+10:40,7,NuevoCaminoPokémon,
+10:40,8,HrantDink,17.342
+10:40,9,エドモン,
+10:40,10,ライブルーティン,
+11:10,1,プロセカ生放送,
+11:10,2,マスターデュエル,48.442
+11:10,3,ピュアプリズム,15.237
+11:10,4,MOONBYUL_LUNATIC,49.686
+11:10,5,NuevoCaminoPokémon,
+11:10,6,TERA,64.784
+11:10,7,jongdae,57.998
+11:10,8,エドモン,
+11:10,9,6EQUENCE WORLD PREMIERE,46.907
+11:10,10,HrantDink,18.678
+11:40,1,プロセカ生放送,30.128
+11:40,2,BlessedCursed1stWin,148.428
+11:40,3,ENHYPEN7thWin,145.083
+11:40,4,マスターデュエル,55.581
+11:40,5,ピュアプリズム,17.572
+11:40,6,有吉の壁,
+11:40,7,ENHYPEN SEVENTH WIN,134.756
+11:40,8,NuevoCaminoPokémon,
+11:40,9,TERA,66.782
+11:40,10,CHENLE,59.839
+12:10,1,プロセカ生放送,78.811
+12:10,2,BlessedCursed1stWin,180.652
+12:10,3,ENHYPEN7thWin,172.212
+12:10,4,マスターデュエル,61.587
+12:10,5,有吉の壁,
+12:10,6,ピュアプリズム,19.199
+12:10,7,ENHYPEN SEVENTH WIN,154.926
+12:10,8,NuevoCaminoPokémon,10.963
+12:10,9,chenle,73.345
+12:10,10,JENO,129.938
+12:40,1,プロセカ生放送,126.275
+12:40,2,マスターデュエル,66.334
+12:40,3,BlessedCursed1stWin,191.184
+12:40,4,ENHYPEN7thWin,181.023
+12:40,5,ピュアプリズム,20.515
+12:40,6,有吉の壁,11.639
+12:40,7,chenle,85.047
+12:40,8,NuevoCaminoPokémon,12.734
+12:40,9,JENO,153.560
+12:40,10,RAMPA LANG BAZINGA,129.948
+13:10,1,PMQs,11.600
+13:10,2,マスターデュエル,71.041
+13:10,3,プロセカ生放送,144.656
+13:10,4,BlessedCursed1stWin,197.371
+13:10,5,ENHYPEN7thWin,186.310
+13:10,6,RAMPA LANG BAZINGA,177.523
+13:10,7,Christian Wakeford,
+13:10,8,chenle,92.637
+13:10,9,ピュアプリズム,21.564
+13:10,10,NuevoCaminoPokémon,14.243
+13:40,1,PMQs,40.071
+13:40,2,マスターデュエル,75.487
+13:40,3,プロセカ生放送,156.921
+13:40,4,Never_win_game,
+13:40,5,BlessedCursed1stWin,201.428
+13:40,6,ENHYPEN7thWin,189.930
+13:40,7,Christian Wakeford,15.641
+13:40,8,BAZINGA KEEP THE BUZZ,68.660
+13:40,9,ARMY POWERVOTE ON GAON,59.011
+13:40,10,RAMPA LANG BAZINGA,201.546
+14:10,1,PMQs,63.001
+14:10,2,David Davis,15.286
+14:10,3,BamBamSpaces,30.727
+14:10,4,マスターデュエル,79.466
+14:10,5,Aぇヤンタン,
+14:10,6,BAZINGA KEEP THE BUZZ,125.159
+14:10,7,ARMY POWERVOTE ON GAON,86.642
+14:10,8,水曜日のダウンタウン,
+14:10,9,never_win_game,
+14:10,10,Christian Wakeford,19.883
+14:40,1,PMQs,74.004
+14:40,2,BamBamSpaces,86.890
+14:40,3,David Davis,19.878
+14:40,4,水曜日のダウンタウン,10.937
+14:40,5,Aぇヤンタン,17.360
+14:40,6,マスターデュエル,82.971
+14:40,7,BAZINGA KEEP THE BUZZ,174.092
+14:40,8,ARMY POWERVOTE ON GAON,100.120
+14:40,9,ChollometroManda,
+14:40,10,Christian Wakeford,23.882
+15:10,1,PMQs,81.577
+15:10,2,BamBamSpaces,147.472
+15:10,3,水曜日のダウンタウン,14.808
+15:10,4,David Davis,22.293
+15:10,5,Labour,135.205
+15:10,6,Aぇヤンタン,24.503
+15:10,7,マスターデュエル,86.685
+15:10,8,BAZINGA KEEP THE BUZZ,221.052
+15:10,9,ARMY POWERVOTE ON GAON,111.045
+15:10,10,SlowMo,558.833
+15:40,1,BamBamSpaces,191.932
+15:40,2,PMQs,88.391
+15:40,3,David Davis,24.362
+15:40,4,Gaspard Ulliel,11.115
+15:40,5,水曜日のダウンタウン,15.470
+15:40,6,Labour,143.097
+15:40,7,Aぇヤンタン,30.863
+15:40,8,マスターデュエル,89.777
+15:40,9,Bárbara,120.854
+15:40,10,BAZINGA KEEP THE BUZZ,262.721
+16:10,1,河野純喜の歌声は宝物,56.287
+16:10,2,HAPPYJUNKIDAY,62.973
+16:10,3,Bárbara,152.559
+16:10,4,BamBamSpaces,208.992
+16:10,5,PMQs,94.345
+16:10,6,Gaspard Ulliel,22.912
+16:10,7,Labour,145.494
+16:10,8,David Davis,25.919
+16:10,9,水曜日のダウンタウン,16.091
+16:10,10,マスターデュエル,93.417
+16:40,1,harry styles,112.701
+16:40,2,HAPPYJUNKIDAY,113.699
+16:40,3,河野純喜の歌声は宝物,95.459
+16:40,4,CURITIBA,16.169
+16:40,5,Gaspard Ulliel,31.995
+16:40,6,Bárbara,184.823
+16:40,7,BamBamSpaces,220.351
+16:40,8,PMQs,100.030
+16:40,9,CONCEPT POSTER MAKNAE LINE,186.862
+16:40,10,Labour,152.837
+17:10,1,harry styles,135.318
+17:10,2,CURITIBA,19.720
+17:10,3,HAPPYJUNKIDAY,134.102
+17:10,4,河野純喜の歌声は宝物,112.722
+17:10,5,Gaspard Ulliel,39.753
+17:10,6,乃木坂46ANN,
+17:10,7,Bárbara,192.818
+17:10,8,BamBamSpaces,227.409
+17:10,9,PMQs,104.813
+17:10,10,CONCEPT POSTER MAKNAE LINE,225.228
+17:40,1,harry styles,152.989
+17:40,2,CURITIBA,22.108
+17:40,3,Gaspard Ulliel,46.117
+17:40,4,HAPPYJUNKIDAY,145.973
+17:40,5,河野純喜の歌声は宝物,120.696
+17:40,6,乃木坂46ANN,17.387
+17:40,7,Bárbara,197.605
+17:40,8,KeremBürsinBMW,74.515
+17:40,9,elektrik,
+17:40,10,Labour,161.553
+18:10,1,harry styles,163.368
+18:10,2,Curitiba,23.423
+18:10,3,Gaspard Ulliel,51.594
+18:10,4,乃木坂46ANN,23.442
+18:10,5,HAPPYJUNKIDAY,154.297
+18:10,6,河野純喜の歌声は宝物,124.954
+18:10,7,KeremBürsinBMW,92.753
+18:10,8,elektrik,
+18:10,9,Bárbara,197.084
+18:10,10,Labour,163.235
+18:40,1,harry styles,176.252
+18:40,2,Curitiba,24.708
+18:40,3,Gaspard Ulliel,56.716
+18:40,4,乃木坂46ANN,28.485
+18:40,5,HAPPYJUNKIDAY,157.010
+18:40,6,河野純喜の歌声は宝物,126.594
+18:40,7,HappyTumcialDay2022,13.501
+18:40,8,elektrik,11.260
+18:40,9,Labour,170.041
+18:40,10,The Rings of Power,30.483
+19:10,1,Harry Styles,184.423
+19:10,2,Curitiba,25.742
+19:10,3,Gaspard Ulliel,60.626
+19:10,4,乃木坂46ANN,33.227
+19:10,5,KeremBürsinBMW,130.820
+19:10,6,FBvALT,
+19:10,7,HappyTumcialDay2022,21.478
+19:10,8,HAPPYJUNKIDAY,159.018
+19:10,9,Hüseyin,
+19:10,10,Labour,171.558
+19:40,1,Harry Styles,193.983
+19:40,2,Curitiba,26.865
+19:40,3,Gaspard Ulliel,64.259
+19:40,4,乃木坂46ANN,33.459
+19:40,5,KeremBürsinBMW,142.232
+19:40,6,FBvALT,
+19:40,7,TraineeA,221.123
+19:40,8,HappyTumcialDay2022,24.419
+19:40,9,Hinestroza,
+19:40,10,Hüseyin,
+20:10,1,Harry Styles,200.818
+20:10,2,TSvGRS,
+20:10,3,Okan,13.631
+20:10,4,Gaspard Ulliel,67.728
+20:10,5,Curitiba,27.584
+20:10,6,H96BMG,
+20:10,7,FBvALT,
+20:10,8,Crespo,
+20:10,9,乃木坂46ANN,33.645
+20:10,10,KeremBürsinBMW,151.317
+20:40,1,Harry Styles,210.575
+20:40,2,TSvGRS,
+20:40,3,Okan,19.829
+20:40,4,Sadiq,11.828
+20:40,5,H96BMG,
+20:40,6,Gaspard Ulliel,70.811
+20:40,7,FBvALT,
+20:40,8,Curitiba,28.479
+20:40,9,Crespo,10.560
+20:40,10,LulaCanalha,
+21:10,1,Harry Styles,215.617
+21:10,2,Sadiq,19.708
+21:10,3,TSvGRS,
+21:10,4,Okan,21.992
+21:10,5,BREMUN,21.758
+21:10,6,LEITOT,
+21:10,7,H96BMG,
+21:10,8,PandemicGameOver,15.917
+21:10,9,Leicester,19.574
+21:10,10,Gaspard Ulliel,73.792
+21:40,1,Sadiq,29.791
+21:40,2,BREMUN,26.884
+21:40,3,De Gea,13.822
+21:40,4,Brentford,45.366
+21:40,5,Harry Styles,225.448
+21:40,6,Moses Simon,
+21:40,7,GNBNGA,
+21:40,8,Okan,23.471
+21:40,9,TSvGRS,
+21:40,10,LEITOT,
+22:10,1,BREMUN,32.216
+22:10,2,Moses Simon,25.603
+22:10,3,De Gea,20.641
+22:10,4,Sadiq,32.649
+22:10,5,Brentford,51.145
+22:10,6,TeamNigeria,28.111
+22:10,7,GNBNGA,11.805
+22:10,8,Harry Styles,230.770
+22:10,9,LEITOT,
+22:10,10,Leicester,26.116
+22:40,1,Leicester,48.388
+22:40,2,BREMUN,43.574
+22:40,3,LEITOT,16.613
+22:40,4,Tottenham,42.076
+22:40,5,COYS,10.267
+22:40,6,Spurs,51.236
+22:40,7,Moses Simon,36.964
+22:40,8,Ronaldo,88.831
+22:40,9,Brentford,59.277
+22:40,10,De Gea,22.354
+23:10,1,Leicester,56.318
+23:10,2,BREMUN,53.438
+23:10,3,COYS,13.306
+23:10,4,LEITOT,19.049
+23:10,5,Tottenham,49.278
+23:10,6,Spurs,56.946
+23:10,7,Maguire,39.907
+23:10,8,Rashford,18.996
+23:10,9,Ronaldo,98.764
+23:10,10,McTominay,13.036
+23:40,1,Leicester,61.438
+23:40,2,BREMUN,58.183
+23:40,3,COYS,14.997
+23:40,4,LEITOT,20.287
+23:40,5,Tottenham,53.328
+23:40,6,Spurs,60.588
+23:40,7,SecretGala1,21.110
+23:40,8,Maguire,42.455
+23:40,9,Rashford,20.701
+23:40,10,Ronaldo,105.989

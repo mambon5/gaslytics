@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,stranger things,469.844
+00:10,2,LaVozKidsEstreno,
+00:10,3,isola,
+00:10,4,EnesKanter,
+00:10,5,ObiWan,118.568
+00:10,6,BirFidandaBenim,13.009
+00:10,7,Fallen Order,
+00:10,8,Memorial Day,95.558
+00:10,9,Uvalde,1.166.428
+00:10,10,Bashir Ahmad,
+00:40,1,stranger things,484.526
+00:40,2,LaVozKidsEstreno,10.127
+00:40,3,isola,10.927
+00:40,4,EnesKanter,
+00:40,5,QuantoMaisVidaMelhor,26.026
+00:40,6,ObiWan,121.293
+00:40,7,Fallen Order,
+00:40,8,Memorial Day,98.726
+00:40,9,Bashir Ahmad,
+00:40,10,Uvalde,1.197.564
+01:10,1,QuantoMaisVidaMelhor,41.613
+01:10,2,stranger things,488.588
+01:10,3,AEWRampage,11.001
+01:10,4,isola,12.482
+01:10,5,LaVozKidsEstreno,11.743
+01:10,6,Neném,26.776
+01:10,7,ObiWan,123.090
+01:10,8,Fallen Order,
+01:10,9,Roni,14.569
+01:10,10,Memorial Day,99.004
+01:40,1,QuantoMaisVidaMelhor,64.227
+01:40,2,stranger things,503.425
+01:40,3,AEWRampage,16.160
+01:40,4,Paula,42.879
+01:40,5,isola,13.809
+01:40,6,LaVozKidsEstreno,12.610
+01:40,7,ObiWan,125.504
+01:40,8,Fallen Order,
+01:40,9,Gabe Kapler,10.050
+01:40,10,Roni,15.784
+02:10,1,QuantoMaisVidaMelhor,65.981
+02:10,2,stranger things,506.694
+02:10,3,AEWRampage,17.576
+02:10,4,Tombense,
+02:10,5,Paula,43.059
+02:10,6,Bahia,14.355
+02:10,7,ObiWan,126.877
+02:10,8,isola,14.069
+02:10,9,もうサントリーは飲めません,
+02:10,10,Gabe Kapler,12.559
+02:40,1,stranger things,522.063
+02:40,2,QuantoMaisVidaMelhor,67.620
+02:40,3,AEWRampage,18.494
+02:40,4,SmackDown,10.554
+02:40,5,Darvin Ham,
+02:40,6,Tombense,
+02:40,7,Bahia,15.441
+02:40,8,Paula,43.948
+02:40,9,ObiWan,129.369
+02:40,10,もうサントリーは飲めません,10.190
+03:10,1,stranger things,519.722
+03:10,2,QuantoMaisVidaMelhor,67.595
+03:10,3,SmackDown,15.953
+03:10,4,Darvin Ham,16.434
+03:10,5,DebateFinal,
+03:10,6,AEWRampage,18.943
+03:10,7,TheLastDriveIn,
+03:10,8,ヒュンケル,
+03:10,9,Tombense,
+03:10,10,Bahia,15.661
+03:40,1,DebateFinal,12.245
+03:40,2,stranger things,536.888
+03:40,3,SmackDown,19.898
+03:40,4,Juma,22.433
+03:40,5,Darvin Ham,20.729
+03:40,6,TheLastDriveIn,
+03:40,7,QuantoMaisVidaMelhor,68.385
+03:40,8,放送ないけどワルイコあつまれ,
+03:40,9,Criciúma,
+03:40,10,Néstor Morales,
+04:10,1,Ivete50,35.250
+04:10,2,DebateFinal,29.688
+04:10,3,stranger things,534.600
+04:10,4,SmackDown,22.990
+04:10,5,Darvin Ham,23.421
+04:10,6,TheLastDriveIn,
+04:10,7,Néstor Morales,11.212
+04:10,8,Juma,22.399
+04:10,9,YoVotoPetroPresidente,14.916
+04:10,10,Veveta,
+04:40,1,Ivete50,57.536
+04:40,2,DebateFinal,47.814
+04:40,3,Cruzeiro,54.541
+04:40,4,stranger things,551.503
+04:40,5,Fajardo,100.563
+04:40,6,Néstor Morales,18.453
+04:40,7,Veveta,10.270
+04:40,8,SmackDown,24.176
+04:40,9,Jimmy Butler,
+04:40,10,TheLastDriveIn,
+05:10,1,Ivete50,73.771
+05:10,2,DebateFinal,62.680
+05:10,3,Derrick White,
+05:10,4,Cruzeiro,64.387
+05:10,5,stranger things,552.916
+05:10,6,GoAvsGo,14.022
+05:10,7,Jimmy Butler,12.366
+05:10,8,Fajardo,115.449
+05:10,9,Lowry,17.659
+05:10,10,Néstor Morales,24.233
+05:40,1,Jimmy Butler,56.605
+05:40,2,Ivete50,84.222
+05:40,3,Celtics,136.364
+05:40,4,Celtics,136.364
+05:40,5,DebateFinal,72.506
+05:40,6,Derrick White,11.441
+05:40,7,Boston,87.471
+05:40,8,stranger things,568.864
+05:40,9,Cruzeiro,68.381
+05:40,10,Lowry,21.772
+06:10,1,Jimmy Butler,71.702
+06:10,2,Ivete50,89.150
+06:10,3,Celtics,144.231
+06:10,4,DebateFinal,78.910
+06:10,5,Boston,92.610
+06:10,6,stranger things,569.030
+06:10,7,Derrick White,11.903
+06:10,8,MIAvsBOS,
+06:10,9,Lowry,23.805
+06:10,10,Cruzeiro,69.575
+06:40,1,Jimmy Butler,78.219
+06:40,2,Ivete50,92.614
+06:40,3,Celtics,148.932
+06:40,4,Jungkook,839.160
+06:40,5,stranger things,585.872
+06:40,6,DebateFinal,83.062
+06:40,7,Boston,96.520
+06:40,8,ANNEditoNaSaShowtime,10.515
+06:40,9,Derrick White,12.114
+06:40,10,TOH SPOILERS,
+07:10,1,Jimmy Butler,82.557
+07:10,2,Ivete50,94.071
+07:10,3,Celtics,149.906
+07:10,4,Celtics,149.906
+07:10,5,jungkook,920.284
+07:10,6,stranger things,587.044
+07:10,7,TOH SPOILERS,23.217
+07:10,8,DebateFinal,85.476
+07:10,9,Boston,97.557
+07:10,10,ANNEditoNaSaShowtime,12.913
+07:40,1,Jimmy Butler,85.894
+07:40,2,Ivete50,94.581
+07:40,3,jungkook,980.715
+07:40,4,Game 7,76.888
+07:40,5,Celtics,152.225
+07:40,6,TOH SPOILERS,35.856
+07:40,7,stranger things,598.350
+07:40,8,カミオト2022,27.448
+07:40,9,Miami,116.116
+07:40,10,Heat,164.964
+08:10,1,Jimmy Butler,88.342
+08:10,2,jungkook,1.009.395
+08:10,3,Ivete50,94.853
+08:10,4,BEFIRSTTV,29.074
+08:10,5,TOH SPOILERS,50.054
+08:10,6,Game 7,78.090
+08:10,7,Celtics,152.320
+08:10,8,カミオト2022,32.081
+08:10,9,stranger things,592.814
+08:10,10,Heat,164.806
+08:40,1,jungkook,1.050.693
+08:40,2,Jimmy Butler,90.287
+08:40,3,BEFIRSTTV,34.525
+08:40,4,TOH SPOILERS,61.946
+08:40,5,カミオト2022,37.817
+08:40,6,Ivete50,95.125
+08:40,7,Game 7,79.454
+08:40,8,Celtics,153.476
+08:40,9,stranger things,601.323
+08:40,10,Miami,116.380
+09:10,1,jungkook,1.085.531
+09:10,2,BEFIRSTTV,38.416
+09:10,3,TOH SPOILERS,70.496
+09:10,4,Jimmy Butler,91.804
+09:10,5,カミオト2022,47.075
+09:10,6,Game 7,80.159
+09:10,7,Ivete50,95.320
+09:10,8,stranger things,587.480
+09:10,9,Celtics,153.443
+09:10,10,Cumartesi,
+09:40,1,jungkook,1.120.159
+09:40,2,BEFIRSTTV,40.857
+09:40,3,TOH SPOILERS,77.324
+09:40,4,カミオト2022,52.175
+09:40,5,Jimmy Butler,93.299
+09:40,6,UCLfinal,193.133
+09:40,7,SUPERGT,30.083
+09:40,8,Game 7,81.225
+09:40,9,Cumartesi,
+09:40,10,stranger things,594.484
+10:10,1,BEFIRSTTV,42.765
+10:10,2,Jungkook,1.133.872
+10:10,3,どらほー,
+10:10,4,カミオト2022,58.525
+10:10,5,TOH SPOILERS,83.361
+10:10,6,UCLfinal,199.634
+10:10,7,山本由伸,
+10:10,8,Jimmy Butler,94.576
+10:10,9,Cumartesi,
+10:10,10,Pororo,23.837
+10:40,1,どらほー,11.528
+10:40,2,UCLfinal,210.654
+10:40,3,BEFIRSTTV,44.757
+10:40,4,jungkook,1.165.549
+10:40,5,AFLDeesFreo,
+10:40,6,カミオト2022,61.833
+10:40,7,TOH SPOILERS,88.119
+10:40,8,山本由伸,
+10:40,9,Pororo,30.273
+10:40,10,Cumartesi,
+11:10,1,AFLDeesFreo,
+11:10,2,UCLfinal,214.223
+11:10,3,MUSICFAIR,14.204
+11:10,4,どらほー,12.063
+11:10,5,NEOCITY_THE_LINK_JAPAN,257.659
+11:10,6,BEFIRSTTV,46.313
+11:10,7,jungkook,1.172.501
+11:10,8,山本由伸,
+11:10,9,TOH SPOILERS,92.214
+11:10,10,Pororo,36.024
+11:40,1,MUSICFAIR,45.430
+11:40,2,UCLfinal,224.138
+11:40,3,ミュージックフェア,30.556
+11:40,4,AFLDeesFreo,
+11:40,5,祝_OUTSIDERS初披露,21.360
+11:40,6,どらほー,12.415
+11:40,7,Pororo,41.021
+11:40,8,すわほー,
+11:40,9,jungkook,1.200.181
+11:40,10,山本由伸,
+12:10,1,MUSICFAIR,57.548
+12:10,2,UCLfinal,225.843
+12:10,3,ミュージックフェア,38.754
+12:10,4,うい・おん・すてーじ,
+12:10,5,AFLDeesFreo,
+12:10,6,どらほー,12.627
+12:10,7,Pororo,45.442
+12:10,8,すわほー,
+12:10,9,TOH SPOILERS,99.466
+12:10,10,Real Madrid,212.936
+12:40,1,UCLfinal,236.594
+12:40,2,MUSICFAIR,63.030
+12:40,3,うい・おん・すてーじ,13.907
+12:40,4,T1WIN,
+12:40,5,ミュージックフェア,42.613
+12:40,6,Real Madrid,222.460
+12:40,7,Alman Fondaşları,
+12:40,8,Pororo,49.742
+12:40,9,どらほー,12.806
+12:40,10,Faker,12.568
+13:10,1,UCLfinal,240.890
+13:10,2,FELIP_Bulan,
+13:10,3,うい・おん・すてーじ,17.676
+13:10,4,ブラタモリ,
+13:10,5,MUSICFAIR,67.976
+13:10,6,花火の音,
+13:10,7,マクゴナガル先生,
+13:10,8,Real Madrid,224.115
+13:10,9,Pororo,53.780
+13:10,10,Kante,12.277
+13:40,1,FELIP_Bulan,40.090
+13:40,2,UCLfinal,251.211
+13:40,3,めいちゃんHUMOR,
+13:40,4,花火の音,
+13:40,5,待てムリ,17.964
+13:40,6,ブラタモリ,
+13:40,7,İbrahim Aktolon,
+13:40,8,Real Madrid,235.122
+13:40,9,スネイプ先生,
+13:40,10,マクゴナガル先生,
+14:10,1,FELIP_Bulan,82.679
+14:10,2,UCLfinal,253.678
+14:10,3,めいちゃんHUMOR,
+14:10,4,出川哲朗の充電させてもらえませんか,
+14:10,5,さくらみこ3D新衣装,
+14:10,6,スネイプ先生,
+14:10,7,花火の音,
+14:10,8,Real Madrid,236.166
+14:10,9,TENLEE FREESTYLE DANCE,31.377
+14:10,10,İbrahim Aktolon,
+14:40,1,FELIP_Bulan,170.806
+14:40,2,さくらみこ3D新衣装,21.031
+14:40,3,UCLfinal,264.242
+14:40,4,BEFIRSTワンマン配信,
+14:40,5,パラライアニメ化,
+14:40,6,つよしまみれ,
+14:40,7,taeyong,102.269
+14:40,8,Real Madrid,247.406
+14:40,9,スネイプ先生,
+14:40,10,TENLEE FREESTYLE DANCE,52.848
+15:10,1,FELIP_Bulan,221.348
+15:10,2,さくらみこ3D新衣装,37.151
+15:10,3,虹ヶ咲,60.590
+15:10,4,Wrexham,
+15:10,5,UCLfinal,268.864
+15:10,6,パラライアニメ化,
+15:10,7,ENGEIグランドスラム,
+15:10,8,taeyong,128.973
+15:10,9,Real Madrid,251.632
+15:10,10,TENLEE FREESTYLE DANCE,71.246
+15:40,1,FELIP_Bulan,258.659
+15:40,2,虹ヶ咲,106.952
+15:40,3,さくらみこ3D新衣装,43.914
+15:40,4,Wrexham,
+15:40,5,ENGEIグランドスラム,
+15:40,6,UCLfinal,279.579
+15:40,7,パラライアニメ化,
+15:40,8,ランジュ,12.681
+15:40,9,Real Madrid,264.691
+15:40,10,taeyong,144.798
+16:10,1,虹ヶ咲,123.501
+16:10,2,FELIP_Bulan,286.732
+16:10,3,Liverpool,369.697
+16:10,4,Wrexham,10.619
+16:10,5,BTSRadio,166.934
+16:10,6,さくらみこ3D新衣装,48.466
+16:10,7,MonacoGP,78.330
+16:10,8,パラライアニメ化,
+16:10,9,ランジュ,15.490
+16:10,10,Whalien 52,
+16:40,1,MonacoGP,93.938
+16:40,2,Liverpool,390.834
+16:40,3,虹ヶ咲,130.575
+16:40,4,FELIP_Bulan,307.637
+16:40,5,SixTONESANN,25.997
+16:40,6,Wrexham,13.249
+16:40,7,Venue101,27.449
+16:40,8,Gasly,
+16:40,9,ガスリー,
+16:40,10,パラライアニメ化,
+17:10,1,MonacoGP,105.133
+17:10,2,SixTONESANN,73.807
+17:10,3,Liverpool,399.913
+17:10,4,Venue101,36.144
+17:10,5,ころんくん,44.843
+17:10,6,Wrexham,14.096
+17:10,7,虹ヶ咲,133.296
+17:10,8,Leclerc,45.520
+17:10,9,Perez,55.885
+17:10,10,Jinyoung,374.027
+17:40,1,MonacoGP,131.993
+17:40,2,SixTONESANN,115.034
+17:40,3,Liverpool,410.219
+17:40,4,BTS_Proof,1.533.998
+17:40,5,Sainz,19.598
+17:40,6,Leclerc,63.027
+17:40,7,ころんくん,105.224
+17:40,8,KinnPorscheEP8,55.873
+17:40,9,Perez,62.952
+17:40,10,Checo,22.938
+18:10,1,KinnPorscheEP8,227.669
+18:10,2,MonacoGP,129.698
+18:10,3,Liverpool,439.474
+18:10,4,SixTONESANN,139.785
+18:10,5,BTS_Proof,1.527.324
+18:10,6,Sainz,20.525
+18:10,7,Leclerc,64.826
+18:10,8,ころんくん,127.024
+18:10,9,Checo,23.568
+18:10,10,Perez,62.990
+18:40,1,KinnPorscheEP8,503.743
+18:40,2,Liverpool,471.444
+18:40,3,MonacoGP,137.304
+18:40,4,SixTONESANN,141.313
+18:40,5,UCLfinal,359.139
+18:40,6,BTS_Proof,1.542.162
+18:40,7,Leclerc,67.846
+18:40,8,Champions,349.959
+18:40,9,Sainz,21.430
+18:40,10,Checo,24.739
+19:10,1,KinnPorscheEP8,760.821
+19:10,2,Liverpool,493.074
+19:10,3,UCLfinal,383.736
+19:10,4,MonacoGP,131.748
+19:10,5,SixTONESANN,142.353
+19:10,6,النصر_الاهلي,50.796
+19:10,7,Champions,361.139
+19:10,8,Leclerc,69.145
+19:10,9,Recife,32.264
+19:10,10,Sainz,21.754
+19:40,1,KinnPorscheEP8,884.500
+19:40,2,Liverpool,529.145
+19:40,3,UCLfinal,416.601
+19:40,4,ChampionsLeagueFinal,29.811
+19:40,5,MonacoGP,135.206
+19:40,6,النصر_الاهلي,58.395
+19:40,7,Benzema,156.996
+19:40,8,Recife,36.738
+19:40,9,JADRE É ABRAÇO,57.493
+19:40,10,Leclerc,71.067
+20:10,1,Liverpool,561.085
+20:10,2,KinnPorscheEP8,994.935
+20:10,3,UCLfinal,453.573
+20:10,4,النصر_الاهلي,67.274
+20:10,5,ChampionsLeagueFinal,34.093
+20:10,6,La Rochelle,
+20:10,7,ادواردو,
+20:10,8,LEIvSR,
+20:10,9,Benzema,160.870
+20:10,10,Leinster,
+20:40,1,Liverpool,618.150
+20:40,2,UCLfinal,501.184
+20:40,3,KinnPorscheEP8,1.105.814
+20:40,4,ChampionsLeagueFinal,41.540
+20:40,5,النصر_الاهلي,77.810
+20:40,6,Thiago,39.514
+20:40,7,La Rochelle,
+20:40,8,ادواردو,10.043
+20:40,9,YNWA,29.310
+20:40,10,Benzema,170.778
+21:10,1,Liverpool,726.320
+21:10,2,UCLfinal,591.030
+21:10,3,ChampionsLeagueFinal,64.784
+21:10,4,KinnPorscheEP8,1.154.764
+21:10,5,LIVRMA,60.447
+21:10,6,Thiago,51.222
+21:10,7,النصر_الاهلي,82.996
+21:10,8,Benzema,171.125
+21:10,9,Stade de France,46.568
+21:10,10,You'll Never Walk Alone,34.937
+21:40,1,ChampionsLeagueFinal,112.608
+21:40,2,UCLfinal,726.988
+21:40,3,Liverpool,867.864
+21:40,4,LIVRMA,103.483
+21:40,5,KinnPorscheEP8,1.188.522
+21:40,6,Paris,347.393
+21:40,7,YNWA,41.341
+21:40,8,Stade de France,85.711
+21:40,9,Thiago,56.265
+21:40,10,Benzema,183.820
+22:10,1,ChampionsLeagueFinal,147.004
+22:10,2,ChampionsLeagueFinal,147.004
+22:10,3,Liverpool,982.039
+22:10,4,UCLfinal,803.309
+22:10,5,Courtois,57.960
+22:10,6,LIVRMA,150.061
+22:10,7,Thiago,59.203
+22:10,8,Paris,352.167
+22:10,9,Benzema,183.115
+22:10,10,YNWA,42.724
+22:40,1,Liverpool,1.037.726
+22:40,2,ChampionsLeagueFinal,171.442
+22:40,3,UCLfinal,878.807
+22:40,4,Fabinho,86.145
+22:40,5,Benzema,258.422
+22:40,6,LIVRMA,173.570
+22:40,7,Courtois,70.870
+22:40,8,Champions,725.726
+22:40,9,Valverde,42.729
+22:40,10,Konate,35.977
+23:10,1,Liverpool,1.051.591
+23:10,2,ChampionsLeagueFinal,201.897
+23:10,3,UCLfinal,965.983
+23:10,4,Courtois,117.559
+23:10,5,Fabinho,110.576
+23:10,6,Benzema,288.396
+23:10,7,LIVRMA,211.679
+23:10,8,Valverde,77.957
+23:10,9,Vini,158.724
+23:10,10,Camila Cabello,107.756
+23:40,1,-,
+23:40,2,-,
+23:40,3,-,
+23:40,4,-,
+23:40,5,-,
+23:40,6,-,
+23:40,7,-,
+23:40,8,-,
+23:40,9,-,
+23:40,10,-,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Celtics,164.386
+00:10,2,Giannis,107.442
+00:10,3,Grant Williams,36.059
+00:10,4,Amici21,164.991
+00:10,5,Middleton,14.760
+00:10,6,Tatum,50.515
+00:10,7,Pritchard,11.649
+00:10,8,MILvsBOS,
+00:10,9,LouisnoLadyNight,47.529
+00:10,10,AliKoçYargılansın,19.662
+00:40,1,Celtics,232.484
+00:40,2,Giannis,133.482
+00:40,3,Grant Williams,44.778
+00:40,4,Amici21,181.275
+00:40,5,Middleton,19.605
+00:40,6,Tatum,59.006
+00:40,7,BleedGreen,14.243
+00:40,8,LouisnoLadyNight,55.111
+00:40,9,MILvsBOS,
+00:40,10,Pritchard,13.711
+01:10,1,Celtics,251.462
+01:10,2,Giannis,144.579
+01:10,3,Grant Williams,48.637
+01:10,4,Amici21,204.006
+01:10,5,Middleton,21.573
+01:10,6,Tatum,62.655
+01:10,7,Botafogo,36.271
+01:10,8,BleedGreen,15.621
+01:10,9,LouisnoLadyNight,58.468
+01:10,10,MILvsBOS,
+01:40,1,Celtics,263.108
+01:40,2,Giannis,152.306
+01:40,3,Grant Williams,50.955
+01:40,4,Amici21,213.321
+01:40,5,Middleton,22.832
+01:40,6,Botafogo,48.946
+01:40,7,Tatum,65.917
+01:40,8,BBMAs,442.940
+01:40,9,BleedGreen,16.449
+01:40,10,LouisnoLadyNight,59.674
+02:10,1,Celtics,270.493
+02:10,2,Giannis,157.179
+02:10,3,Grant Williams,52.528
+02:10,4,BBMAs,523.975
+02:10,5,Botafogo,55.014
+02:10,6,MartinFierro,
+02:10,7,Amici21,216.132
+02:10,8,Middleton,23.557
+02:10,9,SuperPoc,
+02:10,10,Tatum,67.309
+02:40,1,Celtics,277.749
+02:40,2,BBMAs,579.687
+02:40,3,MartinFierro,12.124
+02:40,4,Giannis,161.604
+02:40,5,Grant Williams,54.004
+02:40,6,Bucks,209.061
+02:40,7,BillboardMusicAwards,12.638
+02:40,8,Mavs,39.463
+02:40,9,Botafogo,60.773
+02:40,10,EclipseLunar,13.602
+03:10,1,Luka,171.299
+03:10,2,Luka,171.299
+03:10,3,Suns,149.146
+03:10,4,Mavs,57.788
+03:10,5,MartinFierro,21.515
+03:10,6,Booker,35.989
+03:10,7,Celtics,283.448
+03:10,8,BBMAs,627.416
+03:10,9,Chris Paul,19.540
+03:10,10,RHOA,12.536
+03:40,1,Luka,255.005
+03:40,2,Luka,255.005
+03:40,3,Suns,236.868
+03:40,4,Suns,236.868
+03:40,5,Booker,58.335
+03:40,6,Chris Paul,34.882
+03:40,7,MartinFierro,30.031
+03:40,8,BBMAs,670.216
+03:40,9,NBAPlayoffs,26.879
+03:40,10,Celtics,289.325
+04:10,1,Luka,329.104
+04:10,2,Suns,310.907
+04:10,3,Booker,82.730
+04:10,4,Chris Paul,57.490
+04:10,5,MartinFierro,40.279
+04:10,6,EclipseLunar,32.911
+04:10,7,BBMAs,712.037
+04:10,8,DALvsPHX,10.412
+04:10,9,NBAPlayoffs,30.352
+04:10,10,Dallas,82.739
+04:40,1,Luka,391.561
+04:40,2,Suns,362.815
+04:40,3,EclipseLunar,48.874
+04:40,4,Chris Paul,77.436
+04:40,5,Booker,101.126
+04:40,6,MartinFierro,48.765
+04:40,7,MFFL,33.076
+04:40,8,BBMAs,747.750
+04:40,9,Dallas,94.001
+04:40,10,Rangers,77.201
+05:10,1,Luka,419.794
+05:10,2,EclipseLunar,75.018
+05:10,3,Suns,384.130
+05:10,4,Chris Paul,88.219
+05:10,5,Booker,110.833
+05:10,6,MartinFierro,58.226
+05:10,7,BBMAs,781.522
+05:10,8,MFFL,36.328
+05:10,9,Dallas,97.253
+05:10,10,Rangers,81.577
+05:40,1,EclipseLunar,114.801
+05:40,2,Luka,439.882
+05:40,3,Suns,400.160
+05:40,4,Suns,400.160
+05:40,5,Chris Paul,95.738
+05:40,6,MartinFierro,65.227
+05:40,7,Booker,117.720
+05:40,8,BBMAs,812.100
+05:40,9,MFFL,38.678
+05:40,10,Dallas,101.045
+06:10,1,EclipseLunar,156.857
+06:10,2,EclipseLunar,156.857
+06:10,3,Luka,454.017
+06:10,4,Suns,410.787
+06:10,5,MartinFierro,71.889
+06:10,6,Chris Paul,101.319
+06:10,7,Booker,122.356
+06:10,8,BBMAs,836.393
+06:10,9,MFFL,40.216
+06:10,10,Dallas,102.626
+06:40,1,EclipseLunar,178.186
+06:40,2,Luka,465.677
+06:40,3,Suns,419.785
+06:40,4,Mavs,161.398
+06:40,5,MartinFierro,77.573
+06:40,6,Chris Paul,105.217
+06:40,7,Booker,125.918
+06:40,8,Dallas,105.569
+06:40,9,BBMAs,855.934
+06:40,10,MFFL,41.283
+07:10,1,EclipseLunar,188.688
+07:10,2,Luka,474.547
+07:10,3,Oettinger,16.747
+07:10,4,Suns,426.072
+07:10,5,Mavs,164.403
+07:10,6,Alberta,15.435
+07:10,7,Eclipse,14.559
+07:10,8,MartinFierro,79.302
+07:10,9,Flames,
+07:10,10,Chris Paul,108.067
+07:40,1,EclipseLunar,193.900
+07:40,2,EclipseLunar,193.900
+07:40,3,Luka,483.338
+07:40,4,Oettinger,20.753
+07:40,5,Suns,433.205
+07:40,6,Alberta,18.439
+07:40,7,Mavs,166.891
+07:40,8,Flames,
+07:40,9,IndomilkxAllobank,
+07:40,10,MartinFierro,80.125
+08:10,1,EclipseLunar,196.551
+08:10,2,Luka,489.896
+08:10,3,Oettinger,22.024
+08:10,4,Suns,439.701
+08:10,5,Alberta,19.027
+08:10,6,Mavs,168.760
+08:10,7,BloodMoon,11.641
+08:10,8,IndomilkxAllobank,
+08:10,9,Flames,
+08:10,10,IndomilkYourWay,
+08:40,1,EclipseLunar,198.382
+08:40,2,Luka,494.320
+08:40,3,Oettinger,22.552
+08:40,4,Suns,445.236
+08:40,5,Alberta,19.413
+08:40,6,BuddhaPurnima,34.256
+08:40,7,IndomilkxAllobank,
+08:40,8,IndomilkYourWay,
+08:40,9,YetToCome,194.603
+08:40,10,Mavs,170.300
+09:10,1,EclipseLunar,199.543
+09:10,2,Luka,501.197
+09:10,3,ブラックサンダー約35倍,
+09:10,4,MondayMotivation,41.902
+09:10,5,Oettinger,22.818
+09:10,6,BuddhaPurnima,37.345
+09:10,7,pazartesi,
+09:10,8,Alberta,19.534
+09:10,9,Suns,449.251
+09:10,10,बुद्ध पूर्णिमा,78.833
+09:40,1,EclipseLunar,200.411
+09:40,2,MondayMotivation,44.219
+09:40,3,ブラックサンダー約35倍,
+09:40,4,BuddhaPurnima,40.184
+09:40,5,pazartesi,
+09:40,6,Oettinger,23.008
+09:40,7,Luka,506.222
+09:40,8,Alberta,19.730
+09:40,9,बुद्ध पूर्णिमा,84.121
+09:40,10,Suns,453.135
+10:10,1,EclipseLunar,201.306
+10:10,2,MondayMotivation,46.746
+10:10,3,ブラックサンダー約35倍,
+10:10,4,pazartesi,
+10:10,5,あなたを商標登録しました,12.383
+10:10,6,Oettinger,23.185
+10:10,7,बुद्ध पूर्णिमा,89.023
+10:10,8,爆破予告,27.991
+10:10,9,Luka,509.779
+10:10,10,Alberta,19.718
+10:40,1,EclipseLunar,202.149
+10:40,2,MondayMotivation,48.980
+10:40,3,ブラックサンダー約35倍,
+10:40,4,ज्ञानवापी_मंदिर,14.936
+10:40,5,エビが病むボタン,
+10:40,6,Oettinger,23.275
+10:40,7,河村アナ,
+10:40,8,爆破予告,31.195
+10:40,9,बुद्ध पूर्णिमा,94.065
+10:40,10,Luka,513.958
+11:10,1,ASTRO_CandySugarPop,27.145
+11:10,2,MondayMotivation,51.245
+11:10,3,ज्ञानवापी_मंदिर,21.747
+11:10,4,ブラックサンダー約35倍,
+11:10,5,EclipseLunar,203.304
+11:10,6,河村アナ,13.589
+11:10,7,箱根駅伝の実況,
+11:10,8,DEEP OUT NOW,
+11:10,9,爆破予告,34.314
+11:10,10,बुद्ध पूर्णिमा,98.370
+11:40,1,ASTRO_CandySugarPop,33.537
+11:40,2,ज्ञानवापी_मंदिर,29.784
+11:40,3,MondayMotivation,53.404
+11:40,4,ブラックサンダー約35倍,11.009
+11:40,5,エビが病むボタン,
+11:40,6,河村アナ,18.608
+11:40,7,DEEP OUT NOW,10.285
+11:40,8,箱根駅伝の実況,
+11:40,9,音声合成ソフト,
+11:40,10,爆破予告,37.074
+12:10,1,abc730,10.026
+12:10,2,ASTRO_CandySugarPop,37.467
+12:10,3,ज्ञानवापी_मंदिर,35.838
+12:10,4,MondayMotivation,55.441
+12:10,5,ブラックサンダー約35倍,12.258
+12:10,6,河村アナ,22.522
+12:10,7,YOU DID GREAT ENHYPEN,33.082
+12:10,8,箱根駅伝の実況,
+12:10,9,DEEP OUT NOW,11.937
+12:10,10,Leigh Sales,
+12:40,1,RailasRunningMate,13.898
+12:40,2,abc730,14.275
+12:40,3,ज्ञानवापी_मंदिर,42.463
+12:40,4,ASTRO_CandySugarPop,38.979
+12:40,5,MondayMotivation,57.694
+12:40,6,河村アナ,25.619
+12:40,7,Heizou,27.743
+12:40,8,YOU DID GREAT ENHYPEN,46.016
+12:40,9,音声合成ソフト,
+12:40,10,箱根駅伝の実況,
+13:10,1,RailasRunningMate,20.131
+13:10,2,abc730,16.583
+13:10,3,ज्ञानवापी_मंदिर,49.032
+13:10,4,エビが病むボタン,
+13:10,5,MondayMotivation,60.266
+13:10,6,jaehyun,73.760
+13:10,7,Heizou,41.804
+13:10,8,河村アナ,28.662
+13:10,9,Martha Karua,27.720
+13:10,10,taeil,24.771
+13:40,1,RailasRunningMate,23.549
+13:40,2,jaehyun,93.056
+13:40,3,ज्ञानवापी_मंदिर,55.962
+13:40,4,JuackeandoFinetwork18,
+13:40,5,エビが病むボタン,
+13:40,6,機捜235,13.963
+13:40,7,Heizou,54.085
+13:40,8,taeil,33.108
+13:40,9,Martha Karua,33.720
+13:40,10,河村アナ,31.232
+14:10,1,花丸特番配信中,
+14:10,2,RailasRunningMate,25.932
+14:10,3,十万円でできるかな,11.539
+14:10,4,jaehyun,106.903
+14:10,5,ももクロ祝典発売前夜祭,
+14:10,6,機捜235,17.856
+14:10,7,Heizou,65.829
+14:10,8,taeil,36.647
+14:10,9,Martha Karua,36.978
+14:10,10,河村アナ,33.505
+14:40,1,花丸特番配信中,12.662
+14:40,2,CDTVライブライブ,12.244
+14:40,3,十万円でできるかな,21.392
+14:40,4,ももクロ祝典発売前夜祭,12.367
+14:40,5,ラニバ1曲目予想,
+14:40,6,jaehyun,118.146
+14:40,7,Heizou,76.675
+14:40,8,BRI Liga 1,
+14:40,9,Martha Karua,41.768
+14:40,10,taeil,40.159
+15:10,1,花丸特番配信中,23.106
+15:10,2,CDTVライブライブ,20.783
+15:10,3,ラニバ1曲目予想,
+15:10,4,ももクロ祝典発売前夜祭,17.312
+15:10,5,十万円でできるかな,26.053
+15:10,6,Heizou,86.664
+15:10,7,jaehyun,121.162
+15:10,8,BRI Liga 1,
+15:10,9,Benedict,18.932
+15:10,10,Martha Karua,44.617
+15:40,1,花丸特番配信中,24.254
+15:40,2,恋マジ,40.346
+15:40,3,ラニバ1曲目予想,
+15:40,4,CDTVライブライブ,32.350
+15:40,5,CaratSelcaDay,63.775
+15:40,6,CANSAR DE DANÇAR NO YTB,24.422
+15:40,7,Heizou,96.161
+15:40,8,BRI Liga 1,
+15:40,9,Benedict,20.465
+15:40,10,jaehyun,130.840
+16:10,1,恋マジ,58.721
+16:10,2,ラニバ1曲目予想,
+16:10,3,CaratSelcaDay,80.465
+16:10,4,花丸特番配信中,25.357
+16:10,5,CDTVライブライブ,37.838
+16:10,6,Pat Bev,
+16:10,7,CANSAR DE DANÇAR NO YTB,33.613
+16:10,8,Benedict,21.592
+16:10,9,Heizou,105.599
+16:10,10,ARTHUR NO ENCONTRO,135.696
+16:40,1,ProofOfInspiration1,126.142
+16:40,2,恋マジ,62.347
+16:40,3,Pat Bev,10.591
+16:40,4,CaratSelcaDay,94.290
+16:40,5,ラニバ1曲目予想,10.800
+16:40,6,花丸特番配信中,26.096
+16:40,7,CANSAR DE DANÇAR NO YTB,40.613
+16:40,8,Benedict,22.766
+16:40,9,ARTHUR NO ENCONTRO,145.990
+16:40,10,TE AMAMOS ARTHUR,15.830
+17:10,1,ProofOfInspiration1,192.822
+17:10,2,Pat Bev,15.941
+17:10,3,岩本照誕生祭,15.189
+17:10,4,Proof_of_V,135.248
+17:10,5,CaratSelcaDay,106.953
+17:10,6,恋マジ,64.111
+17:10,7,Kim Taehyung,42.179
+17:10,8,GOT7 COMEBACK,67.269
+17:10,9,CANSAR DE DANÇAR NO YTB,44.608
+17:10,10,Benedict,23.562
+17:40,1,ProofOfInspiration1,219.539
+17:40,2,Pat Bev,21.448
+17:40,3,Proof_of_V,216.627
+17:40,4,岩本照誕生祭,28.331
+17:40,5,Kim Taehyung,90.687
+17:40,6,天馬司誕生祭2022,35.593
+17:40,7,CaratSelcaDay,117.371
+17:40,8,GOT7 COMEBACK,107.281
+17:40,9,CANSAR DE DANÇAR NO YTB,50.264
+17:40,10,第116回,
+18:10,1,ProofOfInspiration1,231.803
+18:10,2,Pat Bev,26.760
+18:10,3,Proof_of_V,253.302
+18:10,4,岩本照誕生祭,33.157
+18:10,5,Kim Taehyung,108.939
+18:10,6,天馬司誕生祭2022,48.100
+18:10,7,CaratSelcaDay,125.339
+18:10,8,第116回,
+18:10,9,GOT7 COMEBACK,125.141
+18:10,10,CANSAR DE DANÇAR NO YTB,52.901
+18:40,1,ProofOfInspiration1,238.634
+18:40,2,Pat Bev,30.902
+18:40,3,proof_of_v,272.173
+18:40,4,岩本照誕生祭,35.367
+18:40,5,Kim Taehyung,120.036
+18:40,6,Elisabeth Borne,19.609
+18:40,7,ZamGeldi,
+18:40,8,Jake Daniels,
+18:40,9,CaratSelcaDay,129.944
+18:40,10,第116回,
+19:10,1,Pat Bev,34.504
+19:10,2,ProofOfInspiration1,242.657
+19:10,3,Jake Daniels,15.137
+19:10,4,Elisabeth Borne,33.878
+19:10,5,Proof_of_V,284.425
+19:10,6,ZamGeldi,
+19:10,7,岩本照誕生祭,36.527
+19:10,8,Kim Taehyung,125.867
+19:10,9,TheBoys,
+19:10,10,第116回,
+19:40,1,Pat Bev,37.610
+19:40,2,Jake Daniels,20.049
+19:40,3,ProofOfInspiration1,245.165
+19:40,4,Elisabeth Borne,47.461
+19:40,5,Fall Guys,20.666
+19:40,6,ZamGeldi,
+19:40,7,Proof_of_V,292.734
+19:40,8,TheBoys,
+19:40,9,Kim Taehyung,130.797
+19:40,10,岩本照誕生祭,37.353
+20:10,1,Pat Bev,40.529
+20:10,2,Jake Daniels,24.187
+20:10,3,Fall Guys,26.107
+20:10,4,Elisabeth Borne,59.593
+20:10,5,ZamGeldi,10.808
+20:10,6,ProofOfInspiration1,247.263
+20:10,7,JohnnyDeppvAmberHeard,13.377
+20:10,8,TheBoys,
+20:10,9,PremierMinistre,23.532
+20:10,10,Kim Taehyung,134.184
+20:40,1,Pat Bev,43.128
+20:40,2,Jake Daniels,27.393
+20:40,3,Fall Guys,29.639
+20:40,4,Elisabeth Borne,70.618
+20:40,5,ZamGeldi,13.028
+20:40,6,Samantha,29.223
+20:40,7,JohnnyDeppvAmberHeard,16.041
+20:40,8,KarachiBlast,10.060
+20:40,9,NEWARS,17.538
+20:40,10,AmberHeardIsALiar,36.915
+21:10,1,NEWARS,24.946
+21:10,2,Pat Bev,45.802
+21:10,3,Jake Daniels,29.898
+21:10,4,Samantha,32.487
+21:10,5,COAC2022P1,
+21:10,6,Fall Guys,32.064
+21:10,7,ZamGeldi,14.934
+21:10,8,KarachiBlast,13.716
+21:10,9,Elisabeth Borne,80.647
+21:10,10,AmberHeardIsALiar,41.577
+21:40,1,NEWARS,35.498
+21:40,2,Newcastle,66.067
+21:40,3,Pat Bev,
+21:40,4,Samantha,36.258
+21:40,5,COAC2022P1,
+21:40,6,JuveLazio,11.158
+21:40,7,Ramsdale,
+21:40,8,Jake Daniels,31.865
+21:40,9,ZamGeldi,16.964
+21:40,10,Fall Guys,34.264
+22:10,1,NEWARS,45.522
+22:10,2,Newcastle,81.357
+22:10,3,Tomiyasu,
+22:10,4,Samantha,39.989
+22:10,5,Cedric,15.679
+22:10,6,Camille,23.219
+22:10,7,Pat Bev,54.111
+22:10,8,JuveLazio,14.216
+22:10,9,GoIMP,11.398
+22:10,10,COAC2022P1,
+22:40,1,Arsenal,212.638
+22:40,2,GoIMP,29.964
+22:40,3,NEWARS,59.720
+22:40,4,Newcastle,102.401
+22:40,5,Camille,28.578
+22:40,6,Samantha,43.957
+22:40,7,Arteta,17.290
+22:40,8,AFavorita,
+22:40,9,JuveLazio,17.705
+22:40,10,Pat Bev,59.297
+23:10,1,Arsenal,325.186
+23:10,2,NEWARS,78.304
+23:10,3,Newcastle,130.534
+23:10,4,GoIMP,31.574
+23:10,5,Arteta,36.478
+23:10,6,Norwich,17.493
+23:10,7,NUFC,19.113
+23:10,8,Cedric,19.536
+23:10,9,Amber,217.800
+23:10,10,JuveLazio,21.135
+23:40,1,Arsenal,378.622
+23:40,2,NEWARS,83.664
+23:40,3,Newcastle,140.028
+23:40,4,Arteta,49.293
+23:40,5,GoIMP,33.583
+23:40,6,Norwich,24.103
+23:40,7,NUFC,22.324
+23:40,8,Camille,42.125
+23:40,9,Amber,235.068
+23:40,10,Champions League,82.165

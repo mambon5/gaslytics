@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:05,1,Falcons,145.323
+00:05,2,Flamengo,470.681
+00:05,3,LaIslaDeLasTentaciones2,155.985
+00:05,4,Eagles,119.390
+00:05,5,BBNaijaFinale,208.166
+00:05,6,Dan Quinn,27.330
+00:05,7,Felipe Melo,30.066
+00:05,8,Bengals,48.573
+00:05,9,Metcalf,21.245
+00:05,10,Ansu Fati,81.715
+00:35,1,Falcons,149.868
+00:35,2,LaIslaDeLasTentaciones2,205.534
+00:35,3,Flamengo,497.533
+00:35,4,TrumpTaxReturns,65.777
+00:35,5,Eagles,122.518
+00:35,6,BBNaijaFinale,215.525
+00:35,7,Dan Quinn,28.565
+00:35,8,Felipe Melo,32.096
+00:35,9,Bengals,49.764
+00:35,10,Metcalf,22.221
+01:04,1,TrumpTaxReturns,108.504
+01:04,2,LaIslaDeLasTentaciones2,240.498
+01:04,3,Falcons,152.645
+01:04,4,Cowboys,58.666
+01:04,5,Flamengo,506.437
+01:04,6,Eagles,123.808
+01:04,7,BBNaijaFinale,221.301
+01:04,8,Jets,50.676
+01:04,9,Dan Quinn,29.546
+01:04,10,MPN2020,31.341
+01:36,1,TrumpTaxReturns,154.160
+01:36,2,Cowboys,66.353
+01:36,3,LaIslaDeLasTentaciones2,252.724
+01:36,4,Falcons,155.766
+01:36,5,WWEClash,48.967
+01:36,6,Flamengo,527.429
+01:36,7,Eagles,126.078
+01:36,8,Seahawks,53.711
+01:36,9,MPN2020,48.172
+01:36,10,BBNaijaFinale,226.016
+02:01,1,TrumpTaxReturns,184.632
+02:01,2,Cowboys,79.872
+02:01,3,WWEClash,68.706
+02:01,4,Russell Wilson,22.738
+02:01,5,LaIslaDeLasTentaciones2,257.343
+02:01,6,Falcons,157.305
+02:01,7,Seahawks,70.037
+02:01,8,lechuga,21.166
+02:01,9,Flamengo,530.626
+02:01,10,DALvsSEA,28.666
+02:36,1,Cowboys,98.065
+02:36,2,TrumpTaxReturns,222.652
+02:36,3,WWEClash,85.849
+02:36,4,Russell Wilson,28.936
+02:36,5,lechuga,42.134
+02:36,6,Seahawks,84.492
+02:36,7,LaIslaDeLasTentaciones2,261.011
+02:36,8,90DayFiance,
+02:36,9,Flamengo,547.165
+02:36,10,Eagles,131.530
+03:01,1,TrumpTaxReturns,246.727
+03:01,2,Cowboys,102.165
+03:01,3,WWEClash,100.161
+03:01,4,lechuga,53.610
+03:01,5,Russell Wilson,30.467
+03:01,6,90DayFiance,12.314
+03:01,7,Falcons,161.581
+03:01,8,LaIslaDeLasTentaciones2,262.504
+03:01,9,Flamengo,551.835
+03:01,10,Dalmau,19.235
+03:31,1,TrumpTaxReturns,269.918
+03:31,2,WWEClash,122.902
+03:31,3,RHOP,21.726
+03:31,4,Cowboys,106.263
+03:31,5,Iggy,14.297
+03:31,6,lechuga,64.531
+03:31,7,90DayFiance,16.583
+03:31,8,Russell Wilson,32.294
+03:31,9,Seahawks,89.939
+03:31,10,Hayward,
+04:01,1,WWEClash,144.683
+04:01,2,TrumpTaxes,123.450
+04:01,3,RHOP,33.399
+04:01,4,Celtics,90.875
+04:01,5,Cowboys,108.778
+04:01,6,Iggy,15.542
+04:01,7,lechuga,72.612
+04:01,8,90DayFiance,20.145
+04:01,9,Russell Wilson,33.311
+04:01,10,Brees,13.755
+04:31,1,Celtics,133.650
+04:31,2,Heat,232.660
+04:31,3,TrumpTaxes,138.869
+04:31,4,WWEClash,156.934
+04:31,5,RHOP,38.956
+04:31,6,Iggy,19.803
+04:31,7,Jimmy Butler,19.073
+04:31,8,LovecraftCountry,19.770
+04:31,9,Cowboys,111.312
+04:31,10,Boston,68.167
+05:06,1,Celtics,142.005
+05:06,2,Heat,263.961
+05:06,3,Kamara,42.540
+05:06,4,TrumpIsBroke,104.943
+05:06,5,RHOP,42.004
+05:06,6,WWEClash,161.659
+05:06,7,Packers,64.801
+05:06,8,Iggy,21.460
+05:06,9,LovecraftCountry,23.215
+05:06,10,animeselcaday,49.402
+05:36,1,Heat,284.421
+05:36,2,Kamara,46.472
+05:36,3,TrumpIsBroke,116.807
+05:36,4,Packers,78.390
+05:36,5,RHOP,44.663
+05:36,6,Miami,171.249
+05:36,7,WWEClash,165.423
+05:36,8,animeselcaday,70.733
+05:36,9,LovecraftCountry,26.255
+05:36,10,Jimmy Butler,27.839
+06:01,1,Heat,293.335
+06:01,2,Packers,90.137
+06:01,3,TrumpIsBroke,125.303
+06:01,4,Kamara,48.617
+06:01,5,RHOP,46.267
+06:01,6,Miami,170.520
+06:01,7,animeselcaday,82.996
+06:01,8,LovecraftCountry,28.474
+06:01,9,WWEClash,167.305
+06:01,10,Iggy,22.706
+06:36,1,TrumpIsBroke,135.608
+06:36,2,Heat,310.494
+06:36,3,Packers,96.002
+06:36,4,GoPackGo,40.304
+06:36,5,Kamara,50.274
+06:36,6,Saints,116.971
+06:36,7,RHOP,48.592
+06:36,8,LovecraftCountry,31.298
+06:36,9,BhagatSingh,42.066
+06:36,10,Miami,177.956
+07:01,1,TrumpIsBroke,142.610
+07:01,2,Heat,317.449
+07:01,3,Packers,97.630
+07:01,4,GoPackGo,41.092
+07:01,5,Lakers,417.119
+07:01,6,BhagatSingh,49.817
+07:01,7,Kamara,50.976
+07:01,8,RHOP,49.822
+07:01,9,LovecraftCountry,33.075
+07:01,10,Brees,25.817
+07:31,1,TrumpIsBroke,148.937
+07:31,2,BhagatSingh,59.731
+07:31,3,Heat,327.734
+07:31,4,Packers,99.384
+07:31,5,GoPackGo,41.780
+07:31,6,Lakers,422.657
+07:31,7,Kamara,51.646
+07:31,8,LovecraftCountry,34.916
+07:31,9,RHOP,50.883
+07:31,10,Saints,119.064
+08:01,1,BhagatSingh,68.326
+08:01,2,TrumpIsBroke,154.778
+08:01,3,Heat,332.696
+08:01,4,Packers,100.524
+08:01,5,pazartesi,
+08:01,6,LovecraftCountry,36.238
+08:01,7,MeaCulpaTVN,
+08:01,8,Kamara,52.117
+08:01,9,Lakers,394.942
+08:01,10,Miami,183.306
+08:36,1,BhagatSingh,78.388
+08:36,2,TrumpIsBroke,160.187
+08:36,3,pazartesi,
+08:36,4,AIIMSBeFairWithSSRReport,122.911
+08:36,5,Heat,339.785
+08:36,6,LovecraftCountry,37.618
+08:36,7,Packers,101.527
+08:36,8,Lakers,399.119
+08:36,9,Kamara,52.572
+08:36,10,Spring Day is Queen,
+09:01,1,BhagatSingh,84.924
+09:01,2,pazartesi,
+09:01,3,TrumpIsBroke,163.583
+09:01,4,AIIMSBeFairWithSSRReport,148.602
+09:01,5,MondayMorning,
+09:01,6,Lakers,379.681
+09:01,7,Heat,341.833
+09:01,8,Packers,101.993
+09:01,9,Spring Day is Queen,
+09:01,10,Kamara,52.767
+09:31,1,BhagatSingh,91.954
+09:31,2,pazartesi,11.630
+09:31,3,AIIMSBeFairWithSSRReport,178.370
+09:31,4,MondayMorning,10.155
+09:31,5,TrumpIsBroke,166.883
+09:31,6,HOBI,155.496
+09:31,7,Lakers,382.607
+09:31,8,Spring Day is Queen,11.128
+09:31,9,ダイパ14周年,
+09:31,10,全国放送,23.529
+10:06,1,hobi,194.907
+10:06,2,MondayMotivation,51.126
+10:06,3,BhagatSingh,98.934
+10:06,4,pazartesi,13.431
+10:06,5,AIIMSBeFairWithSSRReport,212.232
+10:06,6,कृष्णलला_हम_आयेंगे,45.104
+10:06,7,Spring Day is Queen,12.421
+10:06,8,スパイウェア,16.803
+10:06,9,全国放送,27.270
+10:06,10,夏目くん,
+10:36,1,MondayMotivation,54.843
+10:36,2,قرعه_ابطال_اسيا,11.043
+10:36,3,hobi,210.362
+10:36,4,BhagatSingh,104.806
+10:36,5,pazartesi,14.901
+10:36,6,AIIMSBeFairWithSSRReport,239.809
+10:36,7,スパイウェア,24.813
+10:36,8,Spring Day is Queen,13.450
+10:36,9,全国放送,30.029
+10:36,10,ダイパ14周年,
+11:06,1,MondayMotivation,59.292
+11:06,2,قرعه_ابطال_اسيا,15.102
+11:06,3,hobi,206.047
+11:06,4,AIIMSBeFairWithSSRReport,270.706
+11:06,5,pazartesi,16.393
+11:06,6,BhagatSingh,109.704
+11:06,7,スパイウェア,33.352
+11:06,8,HDD破壊,
+11:06,9,朝ドラ,30.094
+11:06,10,Spring Day is Queen,14.465
+11:31,1,MondayMotivation,62.644
+11:31,2,قرعه_ابطال_اسيا,18.086
+11:31,3,Wheein_RecordOfYouth,36.718
+11:31,4,NCT2020_TeaserImage1,77.510
+11:31,5,AIIMSBeFairWithSSRReport,294.547
+11:31,6,スパイウェア,40.096
+11:31,7,hobi,212.262
+11:31,8,hdd破壊,
+11:31,9,朝ドラ,34.183
+11:31,10,新刀剣男士,
+12:06,1,MondayMotivation,67.386
+12:06,2,قرعه_ابطال_اسيا,22.075
+12:06,3,dolar,10.866
+12:06,4,スパイウェア,48.052
+12:06,5,NCT2020_TeaserImage1,95.534
+12:06,6,Mリーグ2020楽しみ,
+12:06,7,HDD破壊,12.940
+12:06,8,新刀剣男士,
+12:06,9,hobi,213.841
+12:06,10,JIN WORLDWIDE HANDSOME,27.917
+12:36,1,MondayMotivation,72.079
+12:36,2,冒険少年,23.605
+12:36,3,dolar,13.190
+12:36,4,HepimizErmeniyiz,
+12:36,5,قرعه_ابطال_اسيا,25.126
+12:36,6,スパイウェア,53.659
+12:36,7,JIN WORLDWIDE HANDSOME,34.820
+12:36,8,HDD破壊,15.254
+12:36,9,新刀剣男士,
+12:36,10,朝ドラ,41.598
+13:06,1,INTZ,24.270
+13:06,2,冒険少年,37.794
+13:06,3,MondayMotivation,76.627
+13:06,4,HepimizErmeniyiz,
+13:06,5,dolar,14.967
+13:06,6,Mリーグ2020楽しみ,14.542
+13:06,7,スパイウェア,58.862
+13:06,8,JIN WORLDWIDE HANDSOME,40.105
+13:06,9,新刀剣男士,
+13:06,10,HDD破壊,17.089
+13:31,1,INTZ,30.266
+13:31,2,冒険少年,52.764
+13:31,3,แฟนผมหาย,91.381
+13:31,4,MondayMotivation,80.290
+13:31,5,HepimizErmeniyiz,
+13:31,6,dolar,16.513
+13:31,7,スパイウェア,63.118
+13:31,8,Rema,15.231
+13:31,9,JIN WORLDWIDE HANDSOME,43.571
+13:31,10,Quim Torra,11.366
+14:07,1,แฟนผมหาย,211.801
+14:07,2,INTZ,35.261
+14:07,3,冒険少年,67.267
+14:07,4,HepimizErmeniyiz,
+14:07,5,MondayMotivation,84.436
+14:07,6,Rema,24.008
+14:07,7,dolar,18.732
+14:07,8,こいほー,
+14:07,9,Torra,62.379
+14:07,10,スパイウェア,66.244
+14:37,1,แฟนผมหาย,316.836
+14:37,2,INTZ,40.621
+14:37,3,冒険少年,79.221
+14:37,4,Rema,31.874
+14:37,5,HepimizErmeniyiz,
+14:37,6,MondayMotivation,88.115
+14:37,7,FelizLunes,15.298
+14:37,8,Torra,75.668
+14:37,9,こいほー,
+14:37,10,スパイウェア,69.471
+15:02,1,แฟนผมหาย,383.991
+15:02,2,INTZ,43.623
+15:02,3,Rema,38.580
+15:02,4,冒険少年,87.650
+15:02,5,FelizLunes,17.053
+15:02,6,HepimizErmeniyiz,
+15:02,7,OurPhoenixJay,69.128
+15:02,8,Torra,84.635
+15:02,9,こいほー,
+15:02,10,スパイウェア,71.798
+15:32,1,INTZ,52.901
+15:32,2,แฟนผมหาย,429.951
+15:32,3,Rema,48.055
+15:32,4,FelizLunes,19.218
+15:32,5,月曜から夜ふかし,
+15:32,6,冒険少年,98.911
+15:32,7,OurPhoenixJay,79.609
+15:32,8,フェフ姉さん,
+15:32,9,Torra,96.269
+15:32,10,ハレルヤ,13.252
+16:02,1,冒険少年,126.265
+16:02,2,INTZ,55.056
+16:02,3,Rema,56.011
+16:02,4,แฟนผมหาย,458.847
+16:02,5,FelizLunes,21.533
+16:02,6,月曜から夜ふかし,10.730
+16:02,7,OurPhoenixJay,86.679
+16:02,8,Torra,105.703
+16:02,9,桐谷さん,
+16:02,10,ハレルヤ,14.634
+16:32,1,冒険少年,
+16:32,2,Rema,
+16:32,3,FelizLunes,
+16:32,4,INTZ,
+16:32,5,แฟนผมหาย,
+16:32,6,MondayMotivation,
+16:32,7,OurPhoenixJay,
+16:32,8,Torra,
+16:32,9,ハレルヤ,15.695
+16:32,10,LOVESICK GIRLS OUT THIS FRIDAY,
+17:07,1,OurEnergyYenaDay,90.967
+17:07,2,FelizLunes,26.701
+17:07,3,LOVESICK GIRLS OUT THIS FRIDAY,89.590
+17:07,4,冒険少年,136.031
+17:07,5,Rema,70.651
+17:07,6,RCBvMI,45.087
+17:07,7,MondayMotivation,130.446
+17:07,8,INTZ,57.788
+17:07,9,Torra,125.386
+17:07,10,ハレルヤ,16.524
+17:32,1,OurEnergyYenaDay,108.738
+17:32,2,悪意の矢,34.943
+17:32,3,LOVESICK GIRLS OUT THIS FRIDAY,132.331
+17:32,4,FelizLunes,28.625
+17:32,5,RCBvMI,49.999
+17:32,6,SexyZone結成9周年,13.643
+17:32,7,Rema,76.383
+17:32,8,YEONJUN,100.730
+17:32,9,INTZ,58.685
+17:32,10,Torra,133.048
+18:02,1,悪意の矢,48.252
+18:02,2,OurEnergyYenaDay,118.602
+18:02,3,RCBvMI,61.293
+18:02,4,LOVESICK GIRLS OUT THIS FRIDAY,182.067
+18:02,5,YEONJUN,131.467
+18:02,6,SexyZone結成9周年,21.328
+18:02,7,OpiniaoNoAr,
+18:02,8,Rema,82.621
+18:02,9,LIAM IS HAPPY,16.607
+18:02,10,VIVI FROM LOONA,
+18:32,1,LOVESICK GIRLS OUT THIS FRIDAY,214.275
+18:32,2,RCBvMI,67.264
+18:32,3,悪意の矢,52.805
+18:32,4,OurEnergyYenaDay,123.656
+18:32,5,yeonjun,150.916
+18:32,6,SexyZone結成9周年,24.027
+18:32,7,AbortoLegalYa,12.001
+18:32,8,LIAM IS HAPPY,26.991
+18:32,9,Rema,88.711
+18:32,10,岸くん,37.244
+19:03,1,LOVESICK GIRLS OUT THIS FRIDAY,235.069
+19:03,2,RCBvMI,73.767
+19:03,3,yeonjun,164.329
+19:03,4,悪意の矢,54.246
+19:03,5,OurEnergyYenaDay,127.125
+19:03,6,AbortoLegalYa,15.049
+19:03,7,BlueHour,333.863
+19:03,8,LIAM IS HAPPY,32.384
+19:03,9,Rema,93.958
+19:03,10,Ece Üner,
+19:33,1,ShiningthroughHOT100,
+19:33,2,LifeisDynamite,
+19:33,3,JIMIM,
+19:33,4,Fulham,
+19:33,5,LOVESICK GIRLS OUT THIS FRIDAY,
+19:33,6,RCBvMI,79.600
+19:33,7,yeonjun,174.561
+19:33,8,AbortoLegalYa,
+19:33,9,Ece Üner,
+19:33,10,LIAM IS HAPPY,35.810
+20:03,1,ShiningthroughHOT100,354.485
+20:03,2,RCBvMI,96.101
+20:03,3,JIMIM,43.185
+20:03,4,Fulham,20.267
+20:03,5,MIvsRCB,16.815
+20:03,6,AbortoLegalYa,21.693
+20:03,7,lovesick girls out this friday,254.595
+20:03,8,Ece Üner,11.133
+20:03,9,yeonjun,180.992
+20:03,10,LIAM IS HAPPY,38.362
+20:33,1,ShiningthroughHOT100,
+20:33,2,RCBvMI,
+20:33,3,BTS WORLD DOMINATION,
+20:33,4,JIMIM,62.423
+20:33,5,Fulham,
+20:33,6,MIvsRCB,
+20:33,7,UyanışBüyükSelçuklu,17.515
+20:33,8,Ece Üner,
+20:33,9,LOVESICK GIRLS OUT THIS FRIDAY,
+20:33,10,Billboard,
+21:03,1,ShiningthroughHOT100,474.132
+21:03,2,RCBvMI,150.357
+21:03,3,BTS WORLD DOMINATION,89.977
+21:03,4,LIVARS,56.603
+21:03,5,JIMIM,74.601
+21:03,6,Fulham,26.883
+21:03,7,MIvsRCB,24.274
+21:03,8,Ece Üner,16.173
+21:03,9,LOVESICK GIRLS OUT THIS FRIDAY,263.205
+21:03,10,Billboard,1.060.487
+21:33,1,LIVARS,78.960
+21:33,2,ShiningthroughHOT100,503.812
+21:33,3,RCBvMI,
+21:33,4,Fulham,
+21:33,5,Robertson,
+21:33,6,UyanışBüyükSelçuklu,22.397
+21:33,7,MIvsRCB,
+21:33,8,Lacazette,10.502
+21:33,9,Leno,
+21:33,10,Tierney,
+22:03,1,LIVARS,97.512
+22:03,2,ShiningthroughHOT100,523.858
+22:03,3,Robertson,24.874
+22:03,4,Willian,19.509
+22:03,5,RCBvMI,164.846
+22:03,6,Tierney,15.583
+22:03,7,Robbo,10.382
+22:03,8,UyanışBüyükSelçuklu,25.081
+22:03,9,Leno,11.240
+22:03,10,Fulham,30.153
+22:38,1,LIVARS,111.342
+22:38,2,Lacazette,30.813
+22:38,3,ShiningthroughHOT100,541.914
+22:38,4,Willian,24.518
+22:38,5,Mane,81.043
+22:38,6,Robertson,26.571
+22:38,7,Ceballos,13.423
+22:38,8,RCBvMI,167.364
+22:38,9,Bellerin,
+22:38,10,UyanışBüyükSelçuklu,26.905
+23:03,1,LIVARS,133.982
+23:03,2,Lacazette,40.651
+23:03,3,Jota,46.757
+23:03,4,Mane,88.646
+23:03,5,Ceballos,18.801
+23:03,6,Willian,26.757
+23:03,7,ShiningthroughHOT100,553.873
+23:03,8,Bellerin,12.509
+23:03,9,Robertson,28.733
+23:03,10,David Luiz,
+23:33,1,LIVARS,142.515
+23:33,2,Arsenal,325.828
+23:33,3,Jota,58.888
+23:33,4,Mane,96.443
+23:33,5,Ceballos,21.910
+23:33,6,Doc Rivers,29.838
+23:33,7,ShiningthroughHOT100,568.401
+23:33,8,Bellerin,13.643
+23:33,9,Klopp,37.449
+23:33,10,GFVIP,95.345

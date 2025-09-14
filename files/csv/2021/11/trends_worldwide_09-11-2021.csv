@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MCCelebrity,11.783
+00:10,2,gfvip,67.189
+00:10,3,Naranjo,148.088
+00:10,4,TentaciónDBT8,10.000
+00:10,5,MasterChefCelebrity,
+00:10,6,مله_الك,10.517
+00:10,7,Verónica,23.126
+00:10,8,Robert Moses,
+00:10,9,Bruno Viana,
+00:10,10,Rittenhouse,152.711
+00:41,1,MCCelebrity,16.107
+00:41,2,gfvip,78.147
+00:41,3,chapecoense,19.062
+00:41,4,Gabriel Batista,
+00:41,5,Naranjo,163.699
+00:41,6,TentaciónDBT8,13.573
+00:41,7,saveviniccius13,
+00:41,8,MasterChefCelebrity,
+00:41,9,Matheusinho,
+00:41,10,Verónica,25.960
+01:10,1,chapecoense,22.614
+01:10,2,gfvip,87.938
+01:10,3,MCCelebrity,18.135
+01:10,4,TentaciónDBT8,20.878
+01:10,5,Gabriel Batista,
+01:10,6,SnowdropTeaserPoster,29.686
+01:10,7,Naranjo,178.190
+01:10,8,saveviniccius13,11.395
+01:10,9,Micha,
+01:10,10,Matheusinho,
+01:41,1,chapecoense,25.727
+01:41,2,UmLugarAoSol,
+01:41,3,SnowdropTeaserPoster,58.086
+01:41,4,gfvip,93.229
+01:41,5,Everton Ribeiro,
+01:41,6,Naranjo,195.318
+01:41,7,MCCelebrity,19.812
+01:41,8,Gabigol,29.892
+01:41,9,TentaciónDBT8,24.478
+01:41,10,Gabriel Batista,
+02:10,1,Flamengo,211.546
+02:10,2,Renato,59.807
+02:10,3,chapecoense,32.857
+02:10,4,UmLugarAoSol,16.841
+02:10,5,Michael,174.316
+02:10,6,Everton Ribeiro,11.602
+02:10,7,MasterChefArgentina,
+02:10,8,SnowdropTeaserPoster,78.367
+02:10,9,Gabriel Batista,
+02:10,10,Naranjo,211.525
+02:41,1,Flamengo,242.662
+02:41,2,Renato,79.185
+02:41,3,UmLugarAoSol,29.024
+02:41,4,chapecoense,36.790
+02:41,5,MasterChefArgentina,10.703
+02:41,6,Gabigol,37.125
+02:41,7,Michael,179.850
+02:41,8,Everton Ribeiro,12.670
+02:41,9,SnowdropTeaserPoster,92.386
+02:41,10,Steelers,49.533
+03:10,1,Flamengo,252.916
+03:10,2,Renato,87.771
+03:10,3,UmLugarAoSol,41.137
+03:10,4,chapecoense,37.959
+03:10,5,MasterChefCelebrity,14.927
+03:10,6,Gabigol,38.454
+03:10,7,Cardona,
+03:10,8,Bears,60.046
+03:10,9,Steelers,56.856
+03:10,10,WWERaw,16.115
+03:41,1,Flamengo,260.417
+03:41,2,Renato,92.449
+03:41,3,UmLugarAoSol,43.392
+03:41,4,Bears,67.834
+03:41,5,WWERaw,22.963
+03:41,6,Cardona,
+03:41,7,chapecoense,39.199
+03:41,8,MasterChefCelebrity,15.404
+03:41,9,Steelers,62.460
+03:41,10,Nagy,12.735
+04:10,1,Flamengo,259.358
+04:10,2,Renato,94.650
+04:10,3,UmLugarAoSol,44.201
+04:10,4,BakeOffArgentina,15.423
+04:10,5,WWERaw,30.018
+04:10,6,Bears,71.196
+04:10,7,DWTS,13.326
+04:10,8,ProvaDeFogo,
+04:10,9,Cardona,10.619
+04:10,10,Nagy,14.672
+04:41,1,Flamengo,262.581
+04:41,2,Bears,82.445
+04:41,3,Bulls,35.182
+04:41,4,Fields,57.591
+04:41,5,Renato,96.367
+04:41,6,Steelers,76.518
+04:41,7,UmLugarAoSol,44.719
+04:41,8,BakeOffArgentina,18.110
+04:41,9,WWERaw,39.123
+04:41,10,CHIvsPIT,11.675
+05:10,1,Steelers,88.620
+05:10,2,Bears,94.895
+05:10,3,Flamengo,262.581
+05:10,4,CHIvsPIT,15.117
+05:10,5,Fields,58.970
+05:10,6,Bulls,36.554
+05:10,7,WWERaw,44.062
+05:10,8,Renato,96.984
+05:10,9,UmLugarAoSol,45.012
+05:10,10,BakeOffArgentina,18.563
+05:41,1,Bears,120.043
+05:41,2,Bears,120.043
+05:41,3,Justin Fields,25.115
+05:41,4,Jokic,16.914
+05:41,5,CHIvsPIT,21.431
+05:41,6,Flamengo,263.846
+05:41,7,Morris,18.318
+05:41,8,Nagy,21.526
+05:41,9,Big Ben,
+05:41,10,HereWeGo,24.815
+06:10,1,Jokic,38.624
+06:10,2,Bears,132.078
+06:10,3,Steelers,128.715
+06:10,4,Morris,30.634
+06:10,5,Justin Fields,29.050
+06:10,6,CHIvsPIT,23.520
+06:10,7,Steph,34.984
+06:10,8,Nagy,23.863
+06:10,9,HereWeGo,27.332
+06:10,10,Big Ben,
+06:41,1,Jokic,50.317
+06:41,2,Morris,37.882
+06:41,3,Bears,137.206
+06:41,4,Steelers,134.117
+06:41,5,Steph,48.655
+06:41,6,Justin Fields,30.369
+06:41,7,Melo,27.704
+06:41,8,CHIvsPIT,24.138
+06:41,9,Rondo,
+06:41,10,Nagy,24.579
+07:10,1,Jokic,56.632
+07:10,2,Morris,41.527
+07:10,3,Melo,33.448
+07:10,4,Steelers,136.914
+07:10,5,Bears,139.388
+07:10,6,Steph,55.832
+07:10,7,Justin Fields,31.064
+07:10,8,Westbrook,13.517
+07:10,9,CHIvsPIT,24.533
+07:10,10,Santiago Nieto,51.364
+07:41,1,Jokic,61.117
+07:41,2,Melo,41.374
+07:41,3,Morris,44.701
+07:41,4,Steelers,138.841
+07:41,5,Bears,141.357
+07:41,6,Steph,60.115
+07:41,7,Justin Fields,31.397
+07:41,8,Westbrook,16.580
+07:41,9,LakeShow,
+07:41,10,Santiago Nieto,54.682
+08:10,1,Jokic,64.422
+08:10,2,Melo,43.328
+08:10,3,Morris,46.659
+08:10,4,Steelers,139.793
+08:10,5,Bears,141.469
+08:10,6,Steph,62.556
+08:10,7,Justin Fields,31.635
+08:10,8,Westbrook,17.283
+08:10,9,コミックLO,
+08:10,10,LakeShow,
+08:41,1,Jokic,67.364
+08:41,2,Melo,44.993
+08:41,3,Morris,48.777
+08:41,4,Steelers,140.585
+08:41,5,Steph,64.869
+08:41,6,Bears,142.623
+08:41,7,MilletYokluktaSarayHesapta,
+08:41,8,Westbrook,17.671
+08:41,9,コミックLO,
+08:41,10,Justin Fields,31.833
+09:10,1,Jokic,69.332
+09:10,2,Morris,49.988
+09:10,3,Melo,45.561
+09:10,4,Steph,66.062
+09:10,5,Steelers,141.017
+09:10,6,Bears,142.748
+09:10,7,붉은달아래_원어스_월하미인_피우리,25.952
+09:10,8,MilletYokluktaSarayHesapta,
+09:10,9,UtanİstifaEt,
+09:10,10,コミックLO,
+09:41,1,Jokic,71.130
+09:41,2,Morris,51.413
+09:41,3,Melo,46.480
+09:41,4,붉은달아래_원어스_월하미인_피우리,36.162
+09:41,5,Dean Stockwell,
+09:41,6,UtanİstilaEt,
+09:41,7,MJ_라키_숨은그놈찾기_웹드많관부,15.504
+09:41,8,Quantum Leap,
+09:41,9,Steph,67.726
+09:41,10,ONEUS_BLOOD_MOON_RISES,13.597
+10:10,1,Jokic,72.821
+10:10,2,石川界人,
+10:10,3,Morris,52.218
+10:10,4,붉은달아래_원어스_월하미인_피우리,45.595
+10:10,5,Melo,46.416
+10:10,6,Dean Stockwell,
+10:10,7,ONEUS_BLOOD_MOON_RISES,19.072
+10:10,8,MJ_라키_숨은그놈찾기_웹드많관부,21.281
+10:10,9,Quantum Leap,
+10:10,10,UtanİstilaEt,
+10:41,1,石川界人,19.534
+10:41,2,Türkkanİstifa,
+10:41,3,UtanİstilaEt,
+10:41,4,붉은달아래_원어스_월하미인_피우리,51.958
+10:41,5,ONEUS_BLOOD_MOON_RISES,23.689
+10:41,6,Dean Stockwell,
+10:41,7,Jokic,74.397
+10:41,8,Morris,53.458
+10:41,9,Quantum Leap,
+10:41,10,Melo,47.132
+11:10,1,石川界人,21.157
+11:10,2,Türkkanİstifa,
+11:10,3,붉은달아래_원어스_월하미인_피우리,55.836
+11:10,4,UtanİstilaEt,
+11:10,5,Dean Stockwell,
+11:10,6,ONEUS_BLOOD_MOON_RISES,26.719
+11:10,7,Quantum Leap,
+11:10,8,Morris,54.179
+11:10,9,Jokic,75.863
+11:10,10,こども園,
+11:41,1,MAVERICK1stWin,37.851
+11:41,2,Özür Yetmez,
+11:41,3,Türkkanİstifa,
+11:41,4,THEBOYZ11thWin,26.264
+11:41,5,石川界人,21.647
+11:41,6,PBBHanggangDitoLang,
+11:41,7,Dean Stockwell,10.583
+11:41,8,Quantum Leap,
+11:41,9,こども園,
+11:41,10,STOP SPEAKING ON JENNIE,23.132
+12:10,1,MAVERICK1stWin,55.617
+12:10,2,Türkkanİstifa,
+12:10,3,Özür Yetmez,
+12:10,4,THEBOYZ11thWin,36.563
+12:10,5,PBBHanggangDitoLang,12.561
+12:10,6,BrightWinLiveByColly,96.456
+12:10,7,STOP SPEAKING ON JENNIE,44.060
+12:10,8,Dean Stockwell,12.106
+12:10,9,CONGRATULATIONS LISA,20.008
+12:10,10,こども園,
+12:41,1,うたコン,10.411
+12:41,2,MAVERICK1stWin,72.494
+12:41,3,Money2ndHOT100,73.463
+12:41,4,İdoscan,
+12:41,5,CONGRATULATIONS LISA,71.604
+12:41,6,özür yetmez,
+12:41,7,BrightWinLiveByColly,129.403
+12:41,8,STOP SPEAKING ON JENNIE,62.070
+12:41,9,Dean Stockwell,13.741
+12:41,10,Quantum Leap,
+13:10,1,うたコン,11.969
+13:10,2,フォロワーアパート,
+13:10,3,MAVERICK1stWin,80.045
+13:10,4,Money2ndHOT100,110.983
+13:10,5,CONGRATULATIONS LISA,108.655
+13:10,6,BrightWinLiveByColly,178.634
+13:10,7,özür yetmez,
+13:10,8,STOP SPEAKING ON JENNIE,76.212
+13:10,9,Dean Stockwell,15.366
+13:10,10,Quantum Leap,
+13:41,1,フォロワーアパート,
+13:41,2,うたコン,13.228
+13:41,3,Money2ndHOT100,140.003
+13:41,4,MAVERICK1stWin,83.989
+13:41,5,クーポンやめろ現金配れ,23.158
+13:41,6,CONGRATULATIONS LISA,136.820
+13:41,7,Ratusan Juta Untuk Lazadians,
+13:41,8,STOP SPEAKING ON JENNIE,87.129
+13:41,9,Dean Stockwell,17.518
+13:41,10,Quantum Leap,
+14:10,1,フォロワーアパート,
+14:10,2,Money2ndHOT100,161.046
+14:10,3,クーポンやめろ現金配れ,26.851
+14:10,4,うたコン,13.854
+14:10,5,هند_القحطاني_اروي_عمر,
+14:10,6,CONGRATULATIONS LISA,156.473
+14:10,7,Ratusan Juta Untuk Lazadians,
+14:10,8,STOP SPEAKING ON JENNIE,95.405
+14:10,9,Dean Stockwell,19.500
+14:10,10,Quantum Leap,10.682
+14:41,1,フォロワーアパート,12.810
+14:41,2,مسابقه_قلب_العناء,
+14:41,3,छठ_पूजा_Reality,186.074
+14:41,4,クーポンやめろ現金配れ,30.170
+14:41,5,Money2ndHOT100,179.313
+14:41,6,CONGRATULATIONS LISA,173.695
+14:41,7,Ratusan Juta Untuk Lazadians,
+14:41,8,Dean Stockwell,21.882
+14:41,9,Quantum Leap,11.948
+14:41,10,あなたの友達,
+15:10,1,フォロワーアパート,15.169
+15:10,2,شهرتك_بين_يديك,
+15:10,3,छठ_पूजा_Reality,254.034
+15:10,4,あすかなと姫ピメはずっと一緒だよ,
+15:10,5,クーポンやめろ現金配れ,33.094
+15:10,6,Dean Stockwell,24.210
+15:10,7,CONGRATULATIONS LISA,188.243
+15:10,8,Quantum Leap,13.034
+15:10,9,あなたの友達,
+15:10,10,Ratusan Juta Untuk Lazadians,10.274
+15:41,1,フォロワーアパート,16.912
+15:41,2,صلو_علي_االنبي,
+15:41,3,سبحان_الله_وlلحمدالله,
+15:41,4,あすかなと姫ピメはずっと一緒だよ,16.948
+15:41,5,छठ_पूजा_Reality,312.534
+15:41,6,WelcomeTo ChaoticWonderland,20.493
+15:41,7,Dean Stockwell,26.452
+15:41,8,Quantum Leap,14.236
+15:41,9,Xfinity,16.040
+15:41,10,CONGRATULATIONS LISA,201.322
+16:10,1,フォロワーアパート,18.031
+16:10,2,MOAはTXTの半分のIto,36.526
+16:10,3,メンテの日なのでssを貼る,11.541
+16:10,4,0X1LOVESONG_JP,93.620
+16:10,5,葛葉誕生祭2021,
+16:10,6,WelcomeTo ChaoticWonderland,34.022
+16:10,7,melody,36.155
+16:10,8,Dean Stockwell,28.521
+16:10,9,Quantum Leap,15.260
+16:10,10,Comcast,10.653
+16:41,1,0X1LOVESONG_JP,123.340
+16:41,2,フォロワーアパート,18.923
+16:41,3,MOAはTXTの半分のIto,46.914
+16:41,4,TOMORROW_X_TOGETHER,151.545
+16:41,5,WelcomeTo ChaoticWonderland,42.918
+16:41,6,メンテの日なのでssを貼る,18.578
+16:41,7,HWASA,33.644
+16:41,8,melody,38.800
+16:41,9,0X1LOVESONG JP OUT NOW,
+16:41,10,Dean Stockwell,30.578
+17:10,1,0X1LOVESONG_JP,131.827
+17:10,2,フォロワーアパート,19.464
+17:10,3,TOMORROW_X_TOGETHER,159.922
+17:10,4,MOAはTXTの半分のIto,50.923
+17:10,5,Sponsee TokenÖnSatış,
+17:10,6,メンテの日なのでssを貼る,22.679
+17:10,7,WelcomeTo ChaoticWonderland,45.573
+17:10,8,HWASA,43.183
+17:10,9,Melody,39.014
+17:10,10,Jokic,116.233
+17:41,1,0X1LOVESONG_JP,137.942
+17:41,2,フォロワーアパート,19.832
+17:41,3,10Kasım,44.928
+17:41,4,TOMORROW_X_TOGETHER,166.083
+17:41,5,MOAはTXTの半分のIto,52.930
+17:41,6,Sponsee TokenÖnSatış,
+17:41,7,WelcomeTo ChaoticWonderland,46.882
+17:41,8,HWASA,49.414
+17:41,9,melody,40.777
+17:41,10,Jokic,125.304
+18:10,1,10Kasım,53.218
+18:10,2,CuartoRetiroDel10xCiento,13.652
+18:10,3,AiledekiEkdersliyeKadro,
+18:10,4,BaharBabacanÖldü,
+18:10,5,CemUzanCoin,
+18:10,6,Jokic,132.634
+18:10,7,Sponsee TokenÖnSatış,
+18:10,8,Morris,86.432
+18:10,9,WelcomeTo ChaoticWonderland,47.578
+18:10,10,HWASA,53.004
+18:41,1,10Kasım,64.851
+18:41,2,CuartoRetiroDel10xCiento,18.912
+18:41,3,AşklaÇarpanKalbimsin,
+18:41,4,AiledekiEkdersliyeKadro,13.996
+18:41,5,CemUzanCoin,
+18:41,6,Jokic,138.650
+18:41,7,Twitter Blue,183.425
+18:41,8,Morris,89.662
+18:41,9,Melody,42.257
+18:41,10,Atam,14.319
+19:10,1,10Kasım,78.499
+19:10,2,CuartoRetiroDel10xCiento,23.095
+19:10,3,AşklaÇarpanKalbimsin,
+19:10,4,Atam,16.237
+19:10,5,Twitter Blue,182.103
+19:10,6,cemuzancoin,
+19:10,7,AiledekiEkdersliyeKadro,17.549
+19:10,8,Jokic,143.666
+19:10,9,Morris,91.849
+19:10,10,Melody,42.487
+19:41,1,10Kasım,95.549
+19:41,2,CuartoRetiroDel10xCiento,26.775
+19:41,3,SasMagdurlarıAdaletiArıyor,
+19:41,4,Atam,19.220
+19:41,5,ÇocuğunuKemalizmdenKoru,31.642
+19:41,6,Twitter Blue,187.318
+19:41,7,Bütcede4DAsdep,15.392
+19:41,8,Jokic,148.824
+19:41,9,Morris,94.669
+19:41,10,Frank Gore,
+20:10,1,10Kasım,112.859
+20:10,2,Macron20h,38.757
+20:10,3,CuartoRetiroDel10xCiento,29.232
+20:10,4,Atam,21.636
+20:10,5,ÇocuğunuKemalizmdenKoru,36.805
+20:10,6,Twitter Blue,186.651
+20:10,7,MustafaKemalAtatürk,14.648
+20:10,8,Frank Gore,
+20:10,9,Saygı,53.409
+20:10,10,Wafa Coin,
+20:41,1,Macron20h,83.260
+20:41,2,10Kasım,133.784
+20:41,3,Atam,24.830
+20:41,4,ÇocuğunuKemalizmdenKoru,39.999
+20:41,5,Twitter Blue,193.064
+20:41,6,HouseOfGucci,28.996
+20:41,7,MustafaKemalAtatürk,17.826
+20:41,8,Atilla Halit,
+20:41,9,Saygı,62.213
+20:41,10,Frank Gore,
+21:10,1,Macron20h,104.900
+21:10,2,10Kasım,155.902
+21:10,3,Atam,27.656
+21:10,4,ÇocuğunuKemalizmdenKoru,41.997
+21:10,5,Twitter Blue,191.787
+21:10,6,HouseOfGucci,35.756
+21:10,7,MustafaKemalAtatürk,20.574
+21:10,8,Saygı,70.103
+21:10,9,Atilla Halit,
+21:10,10,Frank Gore,
+21:41,1,10Kasım,180.738
+21:41,2,Macron20h,120.339
+21:41,3,KohLanta2021,
+21:41,4,GBBO,
+21:41,5,Atam,31.685
+21:41,6,ÇocuğunuKemalizmdenKoru,43.579
+21:41,7,Saygı,80.591
+21:41,8,Twitter Blue,197.174
+21:41,9,Claude,13.345
+21:41,10,Denis,18.888
+22:10,1,10Kasım,212.942
+22:10,2,Macron20h,130.165
+22:10,3,GBBO,
+22:10,4,Atam,35.874
+22:10,5,KohLanta2021,
+22:10,6,ilcollegio,
+22:10,7,Saygı,96.323
+22:10,8,Twitter Blue,195.257
+22:10,9,Claude,14.632
+22:10,10,Özlemle,58.976
+22:41,1,10Kasım,246.234
+22:41,2,Macron20h,139.542
+22:41,3,KohLanta,12.653
+22:41,4,GBBO,
+22:41,5,Atam,40.954
+22:41,6,ilcollegio,10.977
+22:41,7,Saygı,114.186
+22:41,8,Claude,16.551
+22:41,9,Twitter Blue,200.497
+22:41,10,Sevgi,78.759
+23:10,1,10Kasım,267.422
+23:10,2,KohLanta,46.251
+23:10,3,Macron20h,146.156
+23:10,4,AyusoEH,10.112
+23:10,5,Teheiura,27.578
+23:10,6,Atam,43.984
+23:10,7,GBBO,
+23:10,8,Saygı,123.391
+23:10,9,Claude,19.170
+23:10,10,Laurent,13.867
+23:41,1,10Kasım,281.566
+23:41,2,KohLanta,64.310
+23:41,3,Teheiura,43.091
+23:41,4,AyusoEH,16.742
+23:41,5,Macron20h,152.348
+23:41,6,ilcollegio,19.556
+23:41,7,Atam,45.827
+23:41,8,Claude,21.741
+23:41,9,Saygı,129.504
+23:41,10,Laurent,15.308

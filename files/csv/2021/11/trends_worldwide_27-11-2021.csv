@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LateLateToyShow,36.903
+00:10,2,DALS,51.302
+00:10,3,Stephen Sondheim,32.655
+00:10,4,Omicron,174.562
+00:10,5,BringBackCLAMONAISE,
+00:10,6,CFKLadronaDeLaNacionArgentina,16.961
+00:10,7,Bahia,34.607
+00:10,8,Black Friday,1.323.853
+00:10,9,gfvip,53.073
+00:10,10,Tayc,21.305
+00:41,1,LateLateToyShow,46.241
+00:41,2,Stephen Sondheim,46.280
+00:41,3,DALS,53.223
+00:41,4,Omicron,188.789
+00:41,5,CFKLadronaDeLaNacionArgentina,24.631
+00:41,6,BringBackCLAMONAISE,10.368
+00:41,7,Bahia,37.526
+00:41,8,gfvip,58.846
+00:41,9,Black Friday,1.324.843
+00:41,10,gremio,70.676
+01:10,1,LateLateToyShow,54.483
+01:10,2,Stephen Sondheim,56.899
+01:10,3,Bahia,44.953
+01:10,4,DALS,53.982
+01:10,5,gremio,98.086
+01:10,6,Omicron,202.545
+01:10,7,gfvip,65.013
+01:10,8,CFKLadronaDeLaNacionArgentina,29.342
+01:10,9,BringBackCLAMONAISE,10.773
+01:10,10,Mancini,
+01:41,1,LateLateToyShow,57.875
+01:41,2,Stephen Sondheim,65.789
+01:41,3,Bahia,
+01:41,4,gremio,108.862
+01:41,5,WhatCAHWants,
+01:41,6,Omicron,216.807
+01:41,7,DALS,54.550
+01:41,8,gfvip,69.844
+01:41,9,CFKLadronaDeLaNacionArgentina,33.667
+01:41,10,Into the Woods,
+02:10,1,Stephen Sondheim,72.690
+02:10,2,LateLateToyShow,58.893
+02:10,3,Bahia,49.414
+02:10,4,gremio,113.545
+02:10,5,Omicron,230.153
+02:10,6,WhatCAHWants,
+02:10,7,DALS,54.960
+02:10,8,CFKLadronaDeLaNacionArgentina,36.931
+02:10,9,gfvip,71.632
+02:10,10,Into the Woods,
+02:41,1,Stephen Sondheim,79.057
+02:41,2,LateLateToyShow,59.402
+02:41,3,Omicron,243.842
+02:41,4,Bahia,51.679
+02:41,5,gremio,119.519
+02:41,6,WhatCAHWants,
+02:41,7,SmackDown,12.989
+02:41,8,CFKLadronaDeLaNacionArgentina,39.706
+02:41,9,Into the Woods,
+02:41,10,ウルトラマントリガー,18.553
+03:10,1,Stephen Sondheim,84.212
+03:10,2,LateLateToyShow,59.690
+03:10,3,SmackDown,19.190
+03:10,4,Omicron,257.066
+03:10,5,UmLugarAoSol,11.756
+03:10,6,Bahia,52.261
+03:10,7,gremio,122.383
+03:10,8,CFKLadronaDeLaNacionArgentina,41.744
+03:10,9,Into the Woods,
+03:10,10,WhatCAHWants,
+03:41,1,Stephen Sondheim,90.429
+03:41,2,SmackDown,26.800
+03:41,3,Omicron,270.865
+03:41,4,LateLateToyShow,59.919
+03:41,5,OUR ZONE CON MAMAYA NA,48.800
+03:41,6,Into the Woods,
+03:41,7,UmLugarAoSol,12.035
+03:41,8,Bahia,53.529
+03:41,9,CFKLadronaDeLaNacionArgentina,43.825
+03:41,10,gremio,124.974
+04:10,1,SmackDown,33.270
+04:10,2,Stephen Sondheim,95.222
+04:10,3,É HOJE,225.481
+04:10,4,Omicron,284.032
+04:10,5,VamosFlamengo,46.921
+04:10,6,OUR ZONE CON MAMAYA NA,59.894
+04:10,7,LateLateToyShow,60.120
+04:10,8,HOJE TEM FLAMENGO,10.664
+04:10,9,Into the Woods,
+04:10,10,UNES,14.619
+04:41,1,VamosFlamengo,60.687
+04:41,2,NC State,
+04:41,3,É HOJE,247.754
+04:41,4,SmackDown,35.418
+04:41,5,Stephen Sondheim,99.620
+04:41,6,AEWRampage,11.243
+04:41,7,PraCimaDeles,21.730
+04:41,8,Omicron,298.120
+04:41,9,OUR ZONE CON MAMAYA NA,71.532
+04:41,10,HOJE TEM FLAMENGO,19.289
+05:10,1,Flamengo,335.533
+05:10,2,NC State,
+05:10,3,É HOJE,253.210
+05:10,4,AEWRampage,14.845
+05:10,5,SmackDown,36.487
+05:10,6,Sondheim,150.421
+05:10,7,Celtics,12.008
+05:10,8,PraCimaDeles,24.017
+05:10,9,OUR ZONE CON MAMAYA NA,83.956
+05:10,10,ShowtimeMagpasikat2021,16.671
+05:41,1,Banchero,
+05:41,2,Flamengo,348.842
+05:41,3,Duke,35.121
+05:41,4,NC State,
+05:41,5,É HOJE,259.949
+05:41,6,ShowtimeMagpasikat2021,22.170
+05:41,7,AEWRampage,15.919
+05:41,8,Sondheim,155.881
+05:41,9,Celtics,13.287
+05:41,10,SmackDown,37.440
+06:10,1,Banchero,
+06:10,2,Flamengo,354.530
+06:10,3,Duke,37.203
+06:10,4,BEFIRST_Gifted_10M,23.767
+06:10,5,NC State,10.172
+06:10,6,ShowtimeMagpasikat2021,27.632
+06:10,7,Mets,29.881
+06:10,8,É HOJE,261.979
+06:10,9,Sondheim,160.642
+06:10,10,OUR ZONE CON MAMAYA NA,109.377
+06:41,1,Duke,40.762
+06:41,2,Banchero,
+06:41,3,Mets,34.592
+06:41,4,BEFIRST_Gifted_10M,42.149
+06:41,5,Flamengo,360.852
+06:41,6,ShowtimeMagpasikat2021,34.402
+06:41,7,Chet,
+06:41,8,JAKE BLONDE,24.229
+06:41,9,NC State,10.533
+06:41,10,OUR ZONE CON MAMAYA NA,121.635
+07:10,1,Duke,49.224
+07:10,2,Banchero,10.707
+07:10,3,BEFIRST_Gifted_10M,55.144
+07:10,4,Flamengo,363.727
+07:10,5,Mets,36.244
+07:10,6,ShowtimeMagpasikat2021,37.710
+07:10,7,Chet,
+07:10,8,OUR ZONE CON MAMAYA NA,133.270
+07:10,9,JAKE BLONDE,27.406
+07:10,10,Zags,
+07:41,1,Duke,51.316
+07:41,2,Triple OT,
+07:41,3,Kings,74.907
+07:41,4,Hield,
+07:41,5,Double OT,
+07:41,6,BEFIRST_Gifted_10M,63.352
+07:41,7,Flamengo,366.699
+07:41,8,Banchero,11.214
+07:41,9,Mets,37.312
+07:41,10,ShowtimeMagpasikat2021,40.843
+08:10,1,Lakers,73.071
+08:10,2,Kings,80.326
+08:10,3,Triple OT,
+08:10,4,Duke,51.707
+08:10,5,YOUNGJAE1stLiveCOLORSfromArs,36.958
+08:10,6,Vogel,13.705
+08:10,7,ShowtimeMagpasikat2021,45.752
+08:10,8,Hield,
+08:10,9,LakeShow,
+08:10,10,BEFIRST_Gifted_10M,68.531
+08:41,1,Lakers,78.156
+08:41,2,Kings,82.983
+08:41,3,YOUNGJAE1stLiveCOLORSfromArs,49.210
+08:41,4,Triple OT,
+08:41,5,Duke,52.520
+08:41,6,ShowtimeMagpasikat2021,50.435
+08:41,7,Vogel,15.269
+08:41,8,シンデレラ10周年_千葉day1,
+08:41,9,Cumartesi,
+08:41,10,BEFIRST_Gifted_10M,72.928
+09:10,1,Lakers,80.427
+09:10,2,シンデレラ10周年_千葉day1,18.790
+09:10,3,YOUNGJAE1stLiveCOLORSfromArs,61.742
+09:10,4,Kings,82.075
+09:10,5,神様仏様えちるさま,
+09:10,6,Triple OT,
+09:10,7,ShowtimeMagpasikat2021,52.898
+09:10,8,Cumartesi,
+09:10,9,Vogel,15.769
+09:10,10,Duke,52.427
+09:41,1,Lakers,82.630
+09:41,2,シンデレラ10周年_千葉day1,42.523
+09:41,3,YOUNGJAE1stLiveCOLORSfromArs,83.489
+09:41,4,Kings,83.742
+09:41,5,神様仏様えちるさま,
+09:41,6,Cumartesi,
+09:41,7,TARA SA ARANETA A'TIN,75.713
+09:41,8,横山由依卒コン,11.592
+09:41,9,triple ot,
+09:41,10,Vogel,16.238
+10:10,1,シンデレラ10周年_千葉day1,64.366
+10:10,2,Lakers,83.724
+10:10,3,YOUNGJAE1stLiveCOLORSfromArs,148.867
+10:10,4,照ノ富士,
+10:10,5,横山由依卒コン,15.090
+10:10,6,SB19Anniv3rsary,58.508
+10:10,7,SB19OZAnnivConcert,98.323
+10:10,8,TARA SA ARANETA A'TIN,81.770
+10:10,9,Kings,82.454
+10:10,10,Çok Tehlikeli,
+10:41,1,シンデレラ10周年_千葉day1,86.629
+10:41,2,YOUNGJAE1stLiveCOLORSfromArs,230.722
+10:41,3,Lakers,85.143
+10:41,4,SB19Anniv3rsary,87.664
+10:41,5,SB19OZAnnivConcert,130.016
+10:41,6,ももクロ桃鉄生配信,
+10:41,7,警察学校編,10.258
+10:41,8,照ノ富士,
+10:41,9,TARA SA ARANETA A'TIN,86.130
+10:41,10,うんこちゃん,
+11:10,1,シンデレラ10周年_千葉day1,111.506
+11:10,2,YOUNGJAE1stLiveCOLORSfromArs,283.611
+11:10,3,GOT7FOREVER,41.543
+11:10,4,SB19Anniv3rsary,119.639
+11:10,5,SB19OZAnnivConcert,164.863
+11:10,6,Lakers,85.075
+11:10,7,警察学校編,16.907
+11:10,8,莉犬くん,38.770
+11:10,9,照ノ富士,
+11:10,10,タアサイ,
+11:41,1,GOT7FOREVER,59.628
+11:41,2,シンデレラ10周年_千葉day1,133.372
+11:41,3,YOUNGJAE1stLiveCOLORSfromArs,325.859
+11:41,4,HJANNP,42.994
+11:41,5,SB19Anniv3rsary,164.902
+11:41,6,警察学校編,20.704
+11:41,7,Lakers,85.940
+11:41,8,莉犬くん,44.087
+11:41,9,山本由伸,
+11:41,10,照ノ富士,
+12:10,1,ドッキリGP,19.164
+12:10,2,GOT7FOREVER,74.732
+12:10,3,シンデレラ10周年_千葉day1,152.864
+12:10,4,SB19Anniv3rsary,209.925
+12:10,5,SB19OZAnnivConcert,257.349
+12:10,6,警察学校編,22.795
+12:10,7,糸井さん,
+12:10,8,莉犬くん,48.861
+12:10,9,ヤクルト先制,
+12:10,10,山本由伸,10.970
+12:41,1,ドッキリGP,21.476
+12:41,2,GOT7FOREVER,91.989
+12:41,3,シンデレラ10周年_千葉day1,185.316
+12:41,4,日本シリーズ,27.396
+12:41,5,SB19Anniv3rsary,258.954
+12:41,6,BTSARMY FOCUS ON DAESANG,72.585
+12:41,7,山本由伸,14.835
+12:41,8,Malming Nobar Lazlive,
+12:41,9,糸井さん,
+12:41,10,逢田さん,
+13:10,1,鷹嶺ルイ初配信,13.016
+13:10,2,山本由伸,24.512
+13:10,3,ドッキリGP,22.618
+13:10,4,GOT7FOREVER,110.117
+13:10,5,日本シリーズ,30.858
+13:10,6,シンデレラ10周年_千葉day1,201.568
+13:10,7,BTSARMY FOCUS ON DAESANG,106.393
+13:10,8,Flamengo,418.217
+13:10,9,三者連続三振,
+13:10,10,Malming Nobar Lazlive,
+13:41,1,鷹嶺ルイ初配信,50.209
+13:41,2,山本由伸,34.774
+13:41,3,GOT7FOREVER,128.665
+13:41,4,日本シリーズ,36.213
+13:41,5,Flamengo,439.581
+13:41,6,ドッキリGP,23.766
+13:41,7,PBB4thEvictionNight,22.977
+13:41,8,BTSARMY FOCUS ON DAESANG,126.959
+13:41,9,anderson paak,16.858
+13:41,10,三者連続三振,
+14:10,1,鷹嶺ルイ初配信,74.931
+14:10,2,ARSNEW,15.597
+14:10,3,山本由伸,37.187
+14:10,4,日本シリーズ,42.167
+14:10,5,Flamengo,449.031
+14:10,6,GOT7FOREVER,143.195
+14:10,7,ロマサガRS祝3周年,
+14:10,8,BTSARMY FOCUS ON DAESANG,139.880
+14:10,9,申告敬遠,
+14:10,10,Odegaard,
+14:41,1,Auba,12.206
+14:41,2,Tavares,12.280
+14:41,3,ARSNEW,20.469
+14:41,4,鷹嶺ルイ初配信,79.239
+14:41,5,能見さん,18.340
+14:41,6,日本シリーズ,52.861
+14:41,7,Flamengo,473.099
+14:41,8,山本由伸,38.673
+14:41,9,マクガフ,20.451
+14:41,10,ノウミサン,11.834
+15:10,1,ヤクルト,141.439
+15:10,2,日本シリーズ,81.959
+15:10,3,ARSNEW,27.786
+15:10,4,Auba,14.656
+15:10,5,Tavares,15.800
+15:10,6,Martinelli,15.404
+15:10,7,オリックス,99.653
+15:10,8,マクガフ,39.479
+15:10,9,Flamengo,480.756
+15:10,10,Saka,41.099
+15:41,1,ヤクルト,242.846
+15:41,2,日本シリーズ,163.067
+15:41,3,オリックス,156.959
+15:41,4,ARSNEW,34.070
+15:41,5,Tavares,19.219
+15:41,6,Flamengo,506.793
+15:41,7,Auba,15.827
+15:41,8,Martinelli,20.414
+15:41,9,マクガフ,45.662
+15:41,10,swallows,106.650
+16:10,1,ヤクルト,265.921
+16:10,2,日本シリーズ,176.759
+16:10,3,WINWIN,51.351
+16:10,4,オリックス,170.111
+16:10,5,Flamengo,517.049
+16:10,6,ARSNEW,36.855
+16:10,7,SixTONESANN,59.329
+16:10,8,消えた初恋,74.053
+16:10,9,Arsenal,102.225
+16:10,10,Auba,16.531
+16:41,1,WINWIN,122.724
+16:41,2,ヤクルト,278.233
+16:41,3,SixTONESANN,111.139
+16:41,4,Flamengo,540.748
+16:41,5,日本シリーズ,185.418
+16:41,6,オリックス,177.881
+16:41,7,ARSNEW,38.796
+16:41,8,消えた初恋,85.622
+16:41,9,SmallBusinessSaturday,16.171
+16:41,10,LIVSOU,17.893
+17:10,1,WINWIN,149.141
+17:10,2,ヤクルト,285.308
+17:10,3,Flamengo,551.222
+17:10,4,SixTONESANN,191.217
+17:10,5,日本シリーズ,189.272
+17:10,6,SmallBusinessSaturday,18.398
+17:10,7,LIVSOU,21.763
+17:10,8,Thiago,36.619
+17:10,9,オリックス,181.938
+17:10,10,消えた初恋,89.680
+17:41,1,WINWIN,161.330
+17:41,2,Flamengo,575.548
+17:41,3,ヤクルト,290.192
+17:41,4,SixTONESANN,203.432
+17:41,5,SmallBusinessSaturday,20.877
+17:41,6,LIVSOU,25.259
+17:41,7,日本シリーズ,193.443
+17:41,8,Thiago,38.879
+17:41,9,Jota,34.695
+17:41,10,BJKvGRS,
+18:10,1,Flamengo,585.902
+18:10,2,WINWIN,169.063
+18:10,3,BJKvGRS,12.530
+18:10,4,ヤクルト,292.785
+18:10,5,SmallBusinessSaturday,23.090
+18:10,6,SixTONESANN,206.349
+18:10,7,LIVSOU,27.408
+18:10,8,Michigan,48.442
+18:10,9,nationalsaladsernsday,
+18:10,10,Almudena Grandes,
+18:41,1,Flamengo,609.905
+18:41,2,BJKvGRS,16.438
+18:41,3,Michigan,61.564
+18:41,4,Almudena Grandes,14.209
+18:41,5,WINWIN,174.630
+18:41,6,GoBlue,15.303
+18:41,7,Ohio State,28.745
+18:41,8,SmallBusinessSaturday,25.656
+18:41,9,DowningStreetBriefing,
+18:41,10,ヤクルト,294.764
+19:10,1,BJKvGRS,22.504
+19:10,2,Flamengo,624.985
+19:10,3,Michigan,65.507
+19:10,4,Almudena Grandes,21.915
+19:10,5,Ohio State,30.930
+19:10,6,SmallBusinessSaturday,27.880
+19:10,7,GoBlue,16.743
+19:10,8,DowningStreetBriefing,
+19:10,9,Beşiktaş,64.259
+19:10,10,JuveAtalanta,
+19:41,1,BJKvGRS,25.922
+19:41,2,Flamengo,651.831
+19:41,3,Michigan,72.036
+19:41,4,Almudena Grandes,29.065
+19:41,5,Beşiktaş,75.671
+19:41,6,Ohio State,33.920
+19:41,7,SmallBusinessSaturday,30.491
+19:41,8,Sergen,27.943
+19:41,9,Garrett Wilson,
+19:41,10,JuveAtalanta,
+20:10,1,Flamengo,679.378
+20:10,2,BJKvGRS,27.378
+20:10,3,Michigan,78.474
+20:10,4,Almudena Grandes,35.300
+20:10,5,JuveAtalanta,10.659
+20:10,6,AtatürküSevmiyorum,
+20:10,7,Ohio State,38.229
+20:10,8,Beşiktaş,80.545
+20:10,9,الاتحاد_الطايي,51.297
+20:10,10,SmallBusinessSaturday,32.625
+20:41,1,Michigan,99.791
+20:41,2,Michigan,99.791
+20:41,3,Flamengo,721.845
+20:41,4,BJKvGRS,28.191
+20:41,5,AtatürküSevmiyorum,
+20:41,6,Strictly,
+20:41,7,Almudena Grandes,41.189
+20:41,8,GoBlue,24.191
+20:41,9,JuveAtalanta,11.572
+20:41,10,Beşiktaş,84.729
+21:10,1,Flamengo,761.112
+21:10,2,Michigan,111.829
+21:10,3,Anitta,89.614
+21:10,4,AtatürküSevmiyorum,13.388
+21:10,5,Strictly,10.919
+21:10,6,GoBlue,27.289
+21:10,7,Almudena Grandes,46.222
+21:10,8,BJKvGRS,28.799
+21:10,9,Veiga,11.237
+21:10,10,JuveAtalanta,12.059
+21:41,1,Flamengo,825.420
+21:41,2,Michigan,148.563
+21:41,3,Michigan,148.563
+21:41,4,GoBlue,38.316
+21:41,5,Renê,33.130
+21:41,6,Anitta,102.512
+21:41,7,OSUvsMich,10.607
+21:41,8,Harbaugh,17.781
+21:41,9,AtatürküSevmiyorum,16.754
+21:41,10,Veiga,18.922
+22:10,1,Flamengo,897.022
+22:10,2,Michigan,178.905
+22:10,3,Ohio State,98.387
+22:10,4,GoBlue,52.208
+22:10,5,Gabigol,165.458
+22:10,6,Renê,35.720
+22:10,7,Michael,200.500
+22:10,8,Everton Ribeiro,21.640
+22:10,9,Harbaugh,26.921
+22:10,10,Anitta,110.666
+22:41,1,Flamengo,994.429
+22:41,2,gabigol,196.438
+22:41,3,Michigan,193.754
+22:41,4,Michael,226.981
+22:41,5,Ohio State,108.531
+22:41,6,GoBlue,57.095
+22:41,7,Weverton,36.679
+22:41,8,Renato,70.129
+22:41,9,Renê,36.647
+22:41,10,Benfica,32.978
+23:10,1,Flamengo,1.059.328
+23:10,2,gabigol,
+23:10,3,Michael,233.884
+23:10,4,Michigan,200.705
+23:10,5,Deyverson,28.430
+23:10,6,Ohio State,113.558
+23:10,7,KARL,63.311
+23:10,8,GoBlue,59.676
+23:10,9,Andreas,31.543
+23:10,10,Weverton,38.292
+23:41,1,Flamengo,1.174.845
+23:41,2,Deyverson,65.990
+23:41,3,gabigol,211.304
+23:41,4,Andreas,66.189
+23:41,5,Renato,103.597
+23:41,6,Michael,239.748
+23:41,7,Michigan,208.103
+23:41,8,karl,72.950
+23:41,9,Ohio State,118.109
+23:41,10,GoBlue,61.606

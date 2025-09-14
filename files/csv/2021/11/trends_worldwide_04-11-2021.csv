@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaUltimaTentacion8,21.634
+00:10,2,Anuel,27.564
+00:10,3,Kimpembe,37.819
+00:10,4,LIVATM,41.951
+00:10,5,BJKSCP,10.339
+00:10,6,RBLPSG,43.935
+00:10,7,Ajax,51.471
+00:10,8,BVBAJA,17.627
+00:10,9,Antony,17.640
+00:10,10,Buster Posey,12.484
+00:41,1,LaUltimaTentacion8,28.345
+00:41,2,Anuel,31.451
+00:41,3,いい推しの日,21.214
+00:41,4,Kimpembe,39.983
+00:41,5,LIVATM,42.837
+00:41,6,BJKSCP,10.400
+00:41,7,RBLPSG,44.962
+00:41,8,Ajax,53.872
+00:41,9,Antony,18.548
+00:41,10,Buster Posey,14.659
+01:10,1,LaUltimaTentacion8,37.187
+01:10,2,Anuel,32.814
+01:10,3,いい推しの日,26.071
+01:10,4,Botafogo,18.974
+01:10,5,Kimpembe,41.188
+01:10,6,LIVATM,41.467
+01:10,7,Borja,
+01:10,8,BJKSCP,10.467
+01:10,9,Ajax,55.145
+01:10,10,Buster Posey,16.311
+01:41,1,Borja,11.696
+01:41,2,LaUltimaTentacion8,39.766
+01:41,3,AEWDynamite,21.033
+01:41,4,いい推しの日,31.248
+01:41,5,Anuel,34.782
+01:41,6,RHOBH,
+01:41,7,Botafogo,21.911
+01:41,8,Survivor,11.743
+01:41,9,gremio,63.009
+01:41,10,Kimpembe,42.257
+02:10,1,Borja,13.954
+02:10,2,AEWDynamite,29.515
+02:10,3,RHOBH,12.589
+02:10,4,いい推しの日,36.410
+02:10,5,LaUltimaTentacion8,40.703
+02:10,6,Survivor,15.970
+02:10,7,Anuel,35.705
+02:10,8,gremio,70.159
+02:10,9,Botafogo,23.117
+02:10,10,Zaracho,
+02:41,1,Borja,15.138
+02:41,2,AEWDynamite,37.070
+02:41,3,いい推しの日,42.114
+02:41,4,RHOBH,14.092
+02:41,5,gremio,86.748
+02:41,6,Survivor,16.898
+02:41,7,Vargas,13.683
+02:41,8,LaUltimaTentacion8,41.071
+02:41,9,Anuel,37.481
+02:41,10,Campaz,
+03:10,1,AEWDynamite,44.893
+03:10,2,Borja,15.642
+03:10,3,gremio,104.329
+03:10,4,いい推しの日,47.840
+03:10,5,RHOBH,15.236
+03:10,6,Vargas,15.716
+03:10,7,Vanguard,20.081
+03:10,8,HappyDeepavali,17.780
+03:10,9,Cuca,
+03:10,10,Hybe,202.944
+03:41,1,ProvaDoFazendeiro,17.140
+03:41,2,いい推しの日,53.720
+03:41,3,HappyDeepavali,26.265
+03:41,4,AEWDynamite,47.168
+03:41,5,Borja,16.013
+03:41,6,gremio,114.014
+03:41,7,Hybe,310.638
+03:41,8,Vanguard,22.710
+03:41,9,Vargas,16.832
+03:41,10,Cuca,
+04:10,1,ProvaDoFazendeiro,36.832
+04:10,2,いい推しの日,61.283
+04:10,3,HappyDeepavali,34.602
+04:10,4,Hybe,384.549
+04:10,5,Milito,
+04:10,6,Jordan Poole,
+04:10,7,AEWDynamite,48.332
+04:10,8,Miles Bridges,
+04:10,9,gremio,114.715
+04:10,10,Borja,16.119
+04:41,1,ProvaDoFazendeiro,51.776
+04:41,2,いい推しの日,73.618
+04:41,3,HappyDeepavali,43.536
+04:41,4,Happy Diwali,269.480
+04:41,5,Hybe,444.316
+04:41,6,Jordan Poole,
+04:41,7,Milito,
+04:41,8,Miles Bridges,
+04:41,9,森アプデ,
+04:41,10,AEWDynamite,49.380
+05:10,1,ProvaDoFazendeiro,54.840
+05:10,2,いい推しの日,84.519
+05:10,3,Happy Diwali,304.347
+05:10,4,HappyDeepavali,52.274
+05:10,5,Hybe,487.336
+05:10,6,Jordan Poole,
+05:10,7,森アプデ,11.607
+05:10,8,D8 FORMULA OF LOVE,43.298
+05:10,9,Milito,
+05:10,10,Miles Bridges,
+05:41,1,いい推しの日,93.442
+05:41,2,Happy Diwali,360.006
+05:41,3,ProvaDoFazendeiro,56.320
+05:41,4,HappyDeepavali,61.394
+05:41,5,Hybe,524.877
+05:41,6,Gary Payton,
+05:41,7,Jordan Poole,
+05:41,8,森アプデ,13.149
+05:41,9,D8 FORMULA OF LOVE,48.018
+05:41,10,दीपावली,41.861
+06:10,1,Happy Diwali,395.928
+06:10,2,いい推しの日,100.693
+06:10,3,HappyDeepavali,69.526
+06:10,4,ProvaDoFazendeiro,57.157
+06:10,5,Hybe,553.805
+06:10,6,森アプデ,14.429
+06:10,7,Gary Payton,11.338
+06:10,8,Jordan Poole,
+06:10,9,दीपावली,46.189
+06:10,10,D8 FORMULA OF LOVE,49.271
+06:41,1,Happy Diwali,441.572
+06:41,2,いい推しの日,108.485
+06:41,3,HappyDeepavali,76.575
+06:41,4,ProvaDoFazendeiro,57.677
+06:41,5,BAZINGA BILLBOARD HTS,15.268
+06:41,6,Hybe,581.092
+06:41,7,Bazinga_SB19,19.000
+06:41,8,森アプデ,15.928
+06:41,9,दीपावली,50.841
+06:41,10,Gary Payton,12.097
+07:10,1,Happy Diwali,473.874
+07:10,2,いい推しの日,115.623
+07:10,3,HappyDeepavali,82.367
+07:10,4,BAZINGA BILLBOARD HTS,38.261
+07:10,5,Bazinga_SB19,41.761
+07:10,6,ProvaDoFazendeiro,57.893
+07:10,7,Hybe,603.350
+07:10,8,森アプデ,17.358
+07:10,9,दीपावली,54.791
+07:10,10,ビッグボス,
+07:41,1,Happy Diwali,513.174
+07:41,2,いい推しの日,123.754
+07:41,3,HappyDeepavali,89.129
+07:41,4,BAZINGA BILLBOARD HTS,56.383
+07:41,5,Bazinga_SB19,60.542
+07:41,6,Hybe,626.219
+07:41,7,森アプデ,18.940
+07:41,8,दीपावली,58.701
+07:41,9,ShopeePH1111TVSPECIAL,
+07:41,10,ビッグボス,
+08:10,1,Happy Diwali,544.599
+08:10,2,いい推しの日,130.969
+08:10,3,HappyDeepavali,94.781
+08:10,4,BAZINGA BILLBOARD HTS,67.964
+08:10,5,Bazinga_SB19,72.719
+08:10,6,無罪判決,
+08:10,7,ShopeePH1111TVSPECIAL,
+08:10,8,森アプデ,20.171
+08:10,9,Hybe,643.698
+08:10,10,दीपावली,61.684
+08:41,1,Happy Diwali,578.725
+08:41,2,いい推しの日,139.308
+08:41,3,HappyDeepavali,100.307
+08:41,4,Vanessa Angel,13.239
+08:41,5,BAZINGA BILLBOARD HTS,78.936
+08:41,6,Bazinga_SB19,83.761
+08:41,7,無罪判決,
+08:41,8,神戸5人殺傷事件,
+08:41,9,神戸地裁,
+08:41,10,ShopeePH1111TVSPECIAL,
+09:10,1,Happy Diwali,605.547
+09:10,2,いい推しの日,149.445
+09:10,3,Vanessa Angel,28.036
+09:10,4,HappyDeepavali,105.058
+09:10,5,無罪判決,
+09:10,6,BAZINGA BILLBOARD HTS,87.483
+09:10,7,Bazinga_SB19,92.249
+09:10,8,神戸5人殺傷事件,
+09:10,9,Innalillahi,14.744
+09:10,10,ShopeePH1111TVSPECIAL,
+09:41,1,Happy Diwali,637.323
+09:41,2,いい推しの日,162.095
+09:41,3,Vanessa Angel,41.493
+09:41,4,HappyDeepavali,110.002
+09:41,5,johnlewisadvert,
+09:41,6,無罪判決,
+09:41,7,Bazinga_SB19,99.266
+09:41,8,BAZINGA BILLBOARD HTS,94.344
+09:41,9,Innalillahi,18.394
+09:41,10,神戸5人殺傷事件,
+10:10,1,いい推しの日,178.224
+10:10,2,Happy Diwali,661.454
+10:10,3,Vanessa Angel,51.707
+10:10,4,HappyDeepavali,114.461
+10:10,5,MOA RAID ON MAMA,17.084
+10:10,6,VoteTXTonMAMA,15.210
+10:10,7,johnlewisadvert,
+10:10,8,いいねかRTで気になった人フォローする,22.631
+10:10,9,無罪判決,10.605
+10:10,10,Innalillahi,20.444
+10:41,1,いい推しの日,195.804
+10:41,2,Happy Diwali,691.493
+10:41,3,Vanessa Angel,61.230
+10:41,4,MOA RAID ON MAMA,29.076
+10:41,5,VoteTXTonMAMA,25.196
+10:41,6,johnlewisadvert,
+10:41,7,いいねかRTで気になった人フォローする,32.327
+10:41,8,HappyDeepavali,118.864
+10:41,9,ATEEZ BEST PERFORMER,37.186
+10:41,10,清田元選手,
+11:10,1,いい推しの日,213.767
+11:10,2,Happy Diwali,714.121
+11:10,3,I VOTE,1.028.098
+11:10,4,STRAYKIDS,403.078
+11:10,5,Vanessa Angel,69.085
+11:10,6,MOA RAID ON MAMA,32.312
+11:10,7,ATEEZ BEST PERFORMER,72.495
+11:10,8,VoteTXTonMAMA,27.520
+11:10,9,いいねかRTで気になった人フォローする,38.752
+11:10,10,johnlewisadvert,
+11:41,1,いい推しの日,237.888
+11:41,2,straykids,545.596
+11:41,3,Favorite1stWin,36.434
+11:41,4,Happy Diwali,741.743
+11:41,5,DövizcilerKepenKapatıyor,
+11:41,6,MAMA2021,213.908
+11:41,7,ATEEZ BEST PERFORMER,109.085
+11:41,8,Vanessa Angel,75.635
+11:41,9,MOA RAID ON MAMA,34.282
+11:41,10,清田元選手,
+12:10,1,Favorite1stWin,220.134
+12:10,2,いい推しの日,264.387
+12:10,3,straykids,657.041
+12:10,4,Happy Diwali,753.261
+12:10,5,MAMA2021,238.074
+12:10,6,1stHelloWithKep1er,61.411
+12:10,7,ATEEZ BEST PERFORMER,142.189
+12:10,8,Vanessa Angel,81.141
+12:10,9,清田元選手,10.235
+12:10,10,契約解除,13.761
+12:41,1,Favorite1stWin,319.038
+12:41,2,いい推しの日,293.024
+12:41,3,straykids,806.372
+12:41,4,1stHelloWithKep1er,80.083
+12:41,5,MAMA2021,261.709
+12:41,6,Happy Diwali,786.458
+12:41,7,ATEEZ BEST PERFORMER,170.275
+12:41,8,清田元選手,11.223
+12:41,9,契約解除,14.867
+12:41,10,Shiryo Lnu,
+13:10,1,いい推しの日,322.242
+13:10,2,Favorite1stWin,379.795
+13:10,3,straykids,935.617
+13:10,4,MAMA2021,280.448
+13:10,5,1stHelloWithKep1er,96.877
+13:10,6,Happy Diwali,802.003
+13:10,7,ATEEZ BEST PERFORMER,194.664
+13:10,8,関西アイランド,
+13:10,9,清田元選手,11.836
+13:10,10,死刑執行,
+13:41,1,いい推しの日,357.133
+13:41,2,straykids,1.057.964
+13:41,3,Favorite1stWin,421.051
+13:41,4,素のまんま,51.815
+13:41,5,MAMA2021,299.522
+13:41,6,Happy Diwali,826.858
+13:41,7,僕の彼女,11.842
+13:41,8,ATEEZ BEST PERFORMER,212.951
+13:41,9,関西アイランド,10.227
+13:41,10,Ciro,40.981
+14:10,1,いい推しの日,391.223
+14:10,2,straykids,1.160.401
+14:10,3,I VOTE,1.823.346
+14:10,4,Favorite1stWin,446.601
+14:10,5,素のまんま,56.299
+14:10,6,MAMA2021,315.239
+14:10,7,Happy Diwali,840.035
+14:10,8,僕の彼女,17.121
+14:10,9,PatrickStars LOVE TBVSC,44.686
+14:10,10,関西アイランド,12.502
+14:41,1,いい推しの日,428.667
+14:41,2,straykids,1.251.669
+14:41,3,I VOTE,2.811.754
+14:41,4,Favorite1stWin,468.593
+14:41,5,MAMA2021,333.540
+14:41,6,lisa,566.990
+14:41,7,PatrickStars LOVE TBVSC,191.520
+14:41,8,Happy Diwali,867.454
+14:41,9,Ciro,50.232
+14:41,10,僕の彼女,19.830
+15:10,1,いい推しの日,460.678
+15:10,2,straykids,1.291.192
+15:10,3,I VOTE,2.010.236
+15:10,4,Favorite1stWin,552.250
+15:10,5,MAMA2021,292.099
+15:10,6,lisa,521.654
+15:10,7,Happy Diwali,874.397
+15:10,8,PatrickStars LOVE TBVSC,281.191
+15:10,9,Elden Ring,22.398
+15:10,10,Ciro,53.155
+15:41,1,いい推しの日,492.180
+15:41,2,Elden Ring,33.577
+15:41,3,straykids,1.356.661
+15:41,4,I VOTE,2.208.436
+15:41,5,Mings,
+15:41,6,MAMA2021,303.717
+15:41,7,lisa,571.050
+15:41,8,いいおしりの日,303.501
+15:41,9,エルデンリング,13.998
+15:41,10,Happy Diwali,906.454
+16:10,1,いい推しの日,518.148
+16:10,2,Elden Ring,37.291
+16:10,3,straykids,1.410.794
+16:10,4,I VOTE,1.792.385
+16:10,5,Mings,
+16:10,6,READYSET_QDAY,64.289
+16:10,7,いいおしりの日,318.052
+16:10,8,lisa,563.740
+16:10,9,エルデンリング,16.958
+16:10,10,Happy Diwali,924.711
+16:41,1,いい推しの日,532.858
+16:41,2,Elden Ring,42.578
+16:41,3,READYSET_QDAY,79.454
+16:41,4,渡辺翔太誕生祭,25.369
+16:41,5,straykids,1.529.947
+16:41,6,King Gnu,
+16:41,7,الهلال_ضمك,45.492
+16:41,8,Mings,
+16:41,9,I VOTE,1.674.207
+16:41,10,BRIGHTEST STAR Q DAY,43.107
+17:10,1,Elden Ring,45.102
+17:10,2,いい推しの日,541.220
+17:10,3,READYSET_QDAY,89.040
+17:10,4,الهلال_ضمك,53.786
+17:10,5,straykids,1.638.164
+17:10,6,渡辺翔太誕生祭,28.925
+17:10,7,King Gnu,84.021
+17:10,8,I VOTE,1.946.206
+17:10,9,Mings,
+17:10,10,changmin,45.263
+17:41,1,Elden Ring,48.056
+17:41,2,READYSET_QDAY,97.804
+17:41,3,الهلال_ضمك,61.667
+17:41,4,いい推しの日,548.765
+17:41,5,straykids,1.684.971
+17:41,6,渡辺翔太誕生祭,30.799
+17:41,7,Ferah Zeydan,
+17:41,8,King Gnu,92.269
+17:41,9,Mings,
+17:41,10,I VOTE,1.773.264
+18:10,1,الهلال_ضمك,85.614
+18:10,2,Elden Ring,49.908
+18:10,3,READYSET_QDAY,102.205
+18:10,4,straykids,1.792.121
+18:10,5,حزب_الله_مرض_لبنان,
+18:10,6,いい推しの日,553.497
+18:10,7,King Gnu,96.663
+18:10,8,Ferah Zeydan,
+18:10,9,I VOTE,1.850.423
+18:10,10,Mings,
+18:41,1,الهلال_ضمك,101.953
+18:41,2,Elden Ring,52.295
+18:41,3,حزب_الله_مرض_لبنان,
+18:41,4,الاتحاد_الفتح,24.740
+18:41,5,READYSET_QDAY,105.169
+18:41,6,straykids,1.851.456
+18:41,7,Sarver,13.365
+18:41,8,King Gnu,99.850
+18:41,9,Dave Portnoy,
+18:41,10,Ferah Zeydan,
+19:10,1,الهلال_ضمك,111.593
+19:10,2,Elden Ring,53.843
+19:10,3,İsmailÖzkan KıyımÇıktı,
+19:10,4,الاتحاد_الفتح,28.796
+19:10,5,حزب_الله_مرض_لبنان,
+19:10,6,مبروك_ترقيه_بندر_القرني,
+19:10,7,straykids,1.850.052
+19:10,8,Sarver,15.909
+19:10,9,Dave Portnoy,
+19:10,10,Happy Diwali,1.074.511
+19:41,1,GSvFCLM,26.499
+19:41,2,حزب_الله_مرض_لبنان,
+19:41,3,Elden Ring,55.679
+19:41,4,الهلال_ضمك,118.480
+19:41,5,الاتحاد_الفتح,33.647
+19:41,6,İsmailÖzkan KıyımÇıktı,
+19:41,7,مبروك_ترقيه_بندر_القرني,
+19:41,8,Dave Portnoy,
+19:41,9,Halil,
+19:41,10,Sarver,18.272
+20:10,1,GSvFCLM,31.849
+20:10,2,الاتحاد_الفتح,40.341
+20:10,3,Elden Ring,56.725
+20:10,4,HappyBirthdayViratKohli,104.541
+20:10,5,حزب_الله_مرض_لبنان,
+20:10,6,الهلال_ضمك,122.682
+20:10,7,Halil,11.154
+20:10,8,İsmailÖzkan KıyımÇıktı,
+20:10,9,Dave Portnoy,11.254
+20:10,10,Feghouli,
+20:41,1,GSvFCLM,34.366
+20:41,2,الاتحاد_الفتح,45.096
+20:41,3,CasamentoAsCegas,
+20:41,4,HappyBirthdayViratKohli,111.274
+20:41,5,سناب_يزيد_الراجحي,10.407
+20:41,6,Elden Ring,58.286
+20:41,7,Nanda,14.165
+20:41,8,Halil,12.340
+20:41,9,Lissio,
+20:41,10,Dave Portnoy,12.603
+21:10,1,GSvFCLM,39.244
+21:10,2,Halil,14.795
+21:10,3,SecretGala8,16.524
+21:10,4,الاتحاد_الفتح,48.599
+21:10,5,CasamentoAsCegas,
+21:10,6,HappyBirthdayViratKohli,114.504
+21:10,7,Nanda,14.327
+21:10,8,Elden Ring,59.396
+21:10,9,Muslera,
+21:10,10,Dave Portnoy,13.819
+21:41,1,GSvFCLM,40.889
+21:41,2,Berisha,
+21:41,3,OMLazio,
+21:41,4,SecretGala8,21.539
+21:41,5,XF2021,
+21:41,6,CasamentoAsCegas,
+21:41,7,Halil,16.273
+21:41,8,Nanda,14.856
+21:41,9,Mert Hakan,
+21:41,10,Elden Ring,60.976
+22:10,1,GSvFCLM,38.046
+22:10,2,OMLazio,12.525
+22:10,3,XF2021,
+22:10,4,Berisha,
+22:10,5,Lionel Blair,
+22:10,6,RAFCvFB,
+22:10,7,SecretGala8,24.980
+22:10,8,Gustavo,38.227
+22:10,9,Dier,
+22:10,10,Mert Hakan,
+22:41,1,SecretGala8,34.569
+22:41,2,XF2021,
+22:41,3,OMLazio,14.847
+22:41,4,Lionel Blair,
+22:41,5,GSvFCLM,38.523
+22:41,6,Berisha,10.315
+22:41,7,RAFCvFB,
+22:41,8,Joe Budden,
+22:41,9,Dier,
+22:41,10,Gustavo,39.828
+23:10,1,OMLazio,18.209
+23:10,2,SecretGala8,44.679
+23:10,3,XF2021,11.123
+23:10,4,Payet,12.290
+23:10,5,Lionel Blair,
+23:10,6,TOTVIT,
+23:10,7,chefinehafattobabyjane,
+23:10,8,Berisha,12.099
+23:10,9,Fenerbahçe,83.020
+23:10,10,Joe Budden,
+23:41,1,SecretGala8,64.119
+23:41,2,OMLazio,19.277
+23:41,3,XF2021,14.133
+23:41,4,Lionel Blair,
+23:41,5,Payet,13.670
+23:41,6,TOTVIT,
+23:41,7,chefinehafattobabyjane,
+23:41,8,Berisha,12.844
+23:41,9,Joe Budden,10.902
+23:41,10,Fekir,

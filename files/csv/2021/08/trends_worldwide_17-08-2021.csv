@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Marcao,156.844
+00:10,2,Priya,60.942
+00:10,3,Faye,61.210
+00:10,4,Biden,1.852.218
+00:10,5,Afghanistan,1.742.145
+00:10,6,PrimeVideoEvangelion,65.184
+00:10,7,GRSvGS,36.100
+00:10,8,Kerem,75.314
+00:10,9,17Ağustos1999,
+00:10,10,Galatasaray,68.371
+00:41,1,Marcao,162.965
+00:41,2,Priya,61.744
+00:41,3,Biden,2.262.361
+00:41,4,PrimeVideoEvangelion,69.065
+00:41,5,Afghanistan,4.008.322
+00:41,6,Faye,62.735
+00:41,7,17Ağustos1999,10.152
+00:41,8,GRSvGS,36.516
+00:41,9,Kerem,78.737
+00:41,10,Trump,2.028.727
+01:10,1,Marcao,165.275
+01:10,2,Biden,2.303.305
+01:10,3,Afghanistan,4.559.317
+01:10,4,PrimeVideoEvangelion,71.103
+01:10,5,Priya,61.805
+01:10,6,17Ağustos1999,11.472
+01:10,7,17an,32.142
+01:10,8,Faye,62.748
+01:10,9,GRSvGS,36.531
+01:10,10,Kerem,79.621
+01:41,1,17an,37.600
+01:41,2,Biden,2.891.611
+01:41,3,Afghanistan,4.443.139
+01:41,4,Marcao,167.066
+01:41,5,PrimeVideoEvangelion,73.594
+01:41,6,17Ağustos1999,12.483
+01:41,7,Priya,62.299
+01:41,8,MVR NA LOS GRANDES,71.292
+01:41,9,Faye,63.557
+01:41,10,San Lorenzo,
+02:10,1,17an,44.842
+02:10,2,Biden,2.984.132
+02:10,3,BachelorInParadise,
+02:10,4,Afghanistan,5.606.304
+02:10,5,HUTRI76,59.421
+02:10,6,17Ağustos1999,14.112
+02:10,7,PrimeVideoEvangelion,75.192
+02:10,8,Marcao,167.813
+02:10,9,MVR NA LOS GRANDES,94.762
+02:10,10,Dirgahayu Republik Indonesia,17.171
+02:41,1,17an,53.817
+02:41,2,BachelorInParadise,11.667
+02:41,3,HUTRI76,67.691
+02:41,4,Afeganistão,305.001
+02:41,5,Dirgahayu Republik Indonesia,21.831
+02:41,6,Biden,3.061.416
+02:41,7,17Ağustos1999,15.719
+02:41,8,MVR NA LOS GRANDES,110.761
+02:41,9,Cristiano,118.097
+02:41,10,PrimeVideoEvangelion,76.862
+03:10,1,17an,63.470
+03:10,2,BachelorInParadise,19.730
+03:10,3,HUTRI76,75.759
+03:10,4,Dirgahayu Republik Indonesia,26.398
+03:10,5,WWERaw,16.871
+03:10,6,ShangChiRedCarpet_MarkTuan,32.987
+03:10,7,Afeganistão,304.450
+03:10,8,Biden,3.013.851
+03:10,9,大阪桐蔭,15.188
+03:10,10,MVR NA LOS GRANDES,114.340
+03:41,1,17an,74.811
+03:41,2,HUTRI76,85.928
+03:41,3,BachelorInParadise,26.242
+03:41,4,WWERaw,23.818
+03:41,5,Dirgahayu Republik Indonesia,32.317
+03:41,6,ShangChiRedCarpet_MarkTuan,62.752
+03:41,7,Afeganistão,312.643
+03:41,8,Biden,3.088.372
+03:41,9,dominic,44.585
+03:41,10,試合成立,
+04:10,1,17an,86.518
+04:10,2,HUTRI76,96.005
+04:10,3,BachelorInParadise,30.520
+04:10,4,ProvaNaIlha,
+04:10,5,Dirgahayu Republik Indonesia,38.430
+04:10,6,WWERaw,29.149
+04:10,7,降雨コールド,
+04:10,8,東海大菅生,14.915
+04:10,9,Dinei,
+04:10,10,Afeganistão,313.629
+04:41,1,17an,98.912
+04:41,2,HUTRI76,107.947
+04:41,3,ProvaNaIlha,16.992
+04:41,4,BachelorInParadise,31.568
+04:41,5,Dirgahayu Republik Indonesia,45.651
+04:41,6,WWERaw,37.522
+04:41,7,降雨コールド,
+04:41,8,Pyong,16.996
+04:41,9,ドラクエの装備品,
+04:41,10,Antonella,10.171
+05:10,1,17an,109.598
+05:10,2,HUTRI76,117.340
+05:10,3,ProvaNaIlha,21.795
+05:10,4,Dirgahayu Republik Indonesia,50.667
+05:10,5,BachelorInParadise,32.354
+05:10,6,WWERaw,43.778
+05:10,7,ドラクエの装備品,
+05:10,8,降雨コールド,
+05:10,9,Pyong,18.862
+05:10,10,Antonella,10.962
+05:41,1,17an,119.720
+05:41,2,HUTRI76,127.538
+05:41,3,ProvaNaIlha,23.601
+05:41,4,Dirgahayu Republik Indonesia,55.869
+05:41,5,BachelorInParadise,33.297
+05:41,6,EuApoioTeAtualizei,19.364
+05:41,7,ドラクエの装備品,
+05:41,8,降雨コールド,
+05:41,9,Pyong,20.461
+05:41,10,画像付き,16.020
+06:10,1,17an,128.797
+06:10,2,HUTRI76,137.428
+06:10,3,Dirgahayu Republik Indonesia,60.463
+06:10,4,BeginNo1OnBillboard,53.330
+06:10,5,ProudOfJungkook,53.594
+06:10,6,ProvaNaIlha,24.012
+06:10,7,ドラクエの装備品,
+06:10,8,CONGRATULATIONS JUNGKOOK,47.109
+06:10,9,画像付き,16.478
+06:10,10,私の推しキャラ上位5人,
+06:41,1,HUTRI76,145.105
+06:41,2,17an,135.881
+06:41,3,BeginNo1OnBillboard,67.561
+06:41,4,ProudOfJungkook,67.214
+06:41,5,Dirgahayu Republik Indonesia,64.319
+06:41,6,ドラクエの装備品,
+06:41,7,CONGRATULATIONS JUNGKOOK,59.191
+06:41,8,EuApoioTeAtualizei,27.285
+06:41,9,TwitırdaGt Açıldı,
+06:41,10,画像付き,16.978
+07:10,1,HUTRI76,151.645
+07:10,2,17an,141.602
+07:10,3,BeginNo1OnBillboard,74.107
+07:10,4,ProudOfJungkook,73.700
+07:10,5,Dirgahayu Republik Indonesia,67.232
+07:10,6,ドラクエの装備品,
+07:10,7,CONGRATULATIONS JUNGKOOK,64.601
+07:10,8,EuApoioTeAtualizei,29.591
+07:10,9,T1解散,
+07:10,10,TwitırdaGt Açıldı,
+07:41,1,HUTRI76,157.814
+07:41,2,17an,146.640
+07:41,3,BeginNo1OnBillboard,78.765
+07:41,4,ProudOfJungkook,78.520
+07:41,5,Dirgahayu Republik Indonesia,70.392
+07:41,6,ドラクエの装備品,
+07:41,7,CONGRATULATIONS JUNGKOOK,68.791
+07:41,8,Juara 1,11.574
+07:41,9,EuApoioTeAtualizei,31.224
+07:41,10,T1解散,
+08:10,1,HUTRI76,162.693
+08:10,2,17an,150.773
+08:10,3,BeginNo1OnBillboard,82.320
+08:10,4,ProudOfJungkook,81.968
+08:10,5,17Agustos1999,29.902
+08:10,6,Dirgahayu Republik Indonesia,72.689
+08:10,7,Juara 1,13.456
+08:10,8,ドラクエの装備品,
+08:10,9,CONGRATULATIONS JUNGKOOK,71.668
+08:10,10,T1解散,
+08:41,1,HUTRI76,167.726
+08:41,2,17an,154.757
+08:41,3,17Agustos1999,34.660
+08:41,4,17Agustos1999,34.660
+08:41,5,あんスタ夏の自由研究,27.841
+08:41,6,Juara 1,15.232
+08:41,7,Dirgahayu Republik Indonesia,75.306
+08:41,8,ドラクエの装備品,
+08:41,9,CONGRATULATIONS JUNGKOOK,74.159
+08:41,10,T1解散,
+09:10,1,HUTRI76,171.713
+09:10,2,17Agustos1999,39.424
+09:10,3,あんスタ夏の自由研究,29.184
+09:10,4,17an,158.096
+09:10,5,ESの夏休み,30.240
+09:10,6,Juara 1,16.529
+09:10,7,ドラクエの装備品,
+09:10,8,Dirgahayu Republik Indonesia,76.796
+09:10,9,이지모드,
+09:10,10,CONGRATULATIONS JUNGKOOK,76.307
+09:41,1,17Agustos1999,44.940
+09:41,2,HUTRI76,175.691
+09:41,3,あんスタ夏の自由研究,30.395
+09:41,4,ESの夏休み,31.431
+09:41,5,EFMFandomLivexTheEarth,63.672
+09:41,6,Juara 1,18.113
+09:41,7,ドラクエの装備品,
+09:41,8,이지모드,
+09:41,9,小竜くん,
+09:41,10,Dirgahayu Republik Indonesia,78.402
+10:10,1,joon,43.660
+10:10,2,17Agustos1999,50.509
+10:10,3,あんスタ夏の自由研究,31.342
+10:10,4,HUTRI76,178.822
+10:10,5,石10万配れテンニンカ,
+10:10,6,ESの夏休み,32.361
+10:10,7,コロナ救急搬送,
+10:10,8,立憲民主党・石川大我参院議員,
+10:10,9,強要の疑い,
+10:10,10,Juara 1,19.187
+10:41,1,LoserLover_MVOutNow,127.101
+10:41,2,FIGHTorESCAPE_OutNow,127.986
+10:41,3,TXT FOE COMEBACK,125.536
+10:41,4,メリーさん,26.696
+10:41,5,joon,46.645
+10:41,6,17Agustos1999,56.182
+10:41,7,石10万配れテンニンカ,
+10:41,8,コロナ救急搬送,
+10:41,9,立憲民主党・石川大我参院議員,
+10:41,10,強要の疑い,
+11:10,1,LoserLover_MVOutNow,200.736
+11:10,2,FIGHTorESCAPE_OutNow,199.043
+11:10,3,TXT FOE COMEBACK,198.613
+11:10,4,メリーさん,39.318
+11:10,5,17Agustos1999,61.408
+11:10,6,LOSER_LOVER,112.502
+11:10,7,joon,47.411
+11:10,8,コロナ救急搬送,12.993
+11:10,9,立憲民主党・石川大我参院議員,
+11:10,10,強要の疑い,
+11:41,1,LoserLover_MVOutNow,228.134
+11:41,2,FIGHTorESCAPE_OutNow,225.303
+11:41,3,LOSER_LOVER,186.075
+11:41,4,TXT FOE COMEBACK,216.724
+11:41,5,メリーさん,47.789
+11:41,6,TOMORROW_X_TOGETHER,312.132
+11:41,7,LowLow,324.576
+11:41,8,yeonjun,181.491
+11:41,9,コロナ救急搬送,16.325
+11:41,10,立憲民主党・石川大我参院議員,11.259
+12:10,1,LoserLover_MVOutNow,238.077
+12:10,2,LOSER_LOVER,217.837
+12:10,3,FIGHTorESCAPE_OutNow,232.980
+12:10,4,TXT FOE COMEBACK,222.299
+12:10,5,メリーさん,53.768
+12:10,6,TOMORROW_X_TOGETHER,336.076
+12:10,7,LowLow,366.185
+12:10,8,yeonjun,198.525
+12:10,9,コロナ救急搬送,19.290
+12:10,10,強要の疑い,14.127
+12:41,1,ThrillRide1stwin,70.163
+12:41,2,LoserLover_MVOutNow,244.072
+12:41,3,LOSER_LOVER,239.973
+12:41,4,FIGHTorESCAPE_OutNow,236.948
+12:41,5,TXT FOE COMEBACK,225.275
+12:41,6,メリーさん,58.254
+12:41,7,THEBOYZ6THWIN,59.644
+12:41,8,コロナ救急搬送,22.278
+12:41,9,強要の疑い,16.772
+12:41,10,立憲民主党・石川大我参院議員,16.597
+13:10,1,THRILLRIDE1STWIN,112.466
+13:10,2,LOSER_LOVER,255.630
+13:10,3,LoserLover_MVOutNow,247.930
+13:10,4,FIGHTorESCAPE_OutNow,239.105
+13:10,5,THEBOYZ6THWIN,83.750
+13:10,6,メリーさん,61.482
+13:10,7,TXT FOE COMEBACK,226.966
+13:10,8,コロナ救急搬送,24.557
+13:10,9,強要の疑い,18.908
+13:10,10,立憲民主党・石川大我参院議員,18.710
+13:41,1,THRILLRIDE1STWIN,133.111
+13:41,2,バナナサンド,38.543
+13:41,3,LOSER_LOVER,268.417
+13:41,4,LoserLover_MVOutNow,250.764
+13:41,5,HudutNamustur,23.806
+13:41,6,メリーさん,64.182
+13:41,7,どらほー,
+13:41,8,TXT FOE COMEBACK,228.395
+13:41,9,東北学院,13.583
+13:41,10,コロナ救急搬送,26.707
+14:10,1,THRILLRIDE1STWIN,146.329
+14:10,2,彼女はキレイだった,38.716
+14:10,3,バナナサンド,41.007
+14:10,4,LOSER_LOVER,282.339
+14:10,5,HudutNamustur,29.357
+14:10,6,東北学院,
+14:10,7,どらほー,
+14:10,8,メリーさん,66.624
+14:10,9,TXT FOE COMEBACK,229.344
+14:10,10,コロナ救急搬送,28.387
+14:41,1,彼女はキレイだった,73.244
+14:41,2,紫咲シオン3周年記念,48.636
+14:41,3,アメトーーク,16.306
+14:41,4,THRILLRIDE1STWIN,155.417
+14:41,5,HudutNamustur,34.713
+14:41,6,東北学院,19.178
+14:41,7,どらほー,
+14:41,8,メリーさん,68.887
+14:41,9,れおほー,
+14:41,10,コロナ救急搬送,30.395
+15:10,1,彼女はキレイだった,105.942
+15:10,2,アメトーーク,27.106
+15:10,3,紫咲シオン3周年記念,58.514
+15:10,4,SNOWDROP COMING SOON,99.540
+15:10,5,BTSdiTokopediaWIB,71.580
+15:10,6,マツコの知らない世界,
+15:10,7,フジモン,10.412
+15:10,8,すわほー,
+15:10,9,ベリアル,18.878
+15:10,10,MahmutÖzer FormasynaYeter,
+15:41,1,彼女はキレイだった,113.327
+15:41,2,アメトーーク,31.458
+15:41,3,BTSdiTokopediaWIB,111.527
+15:41,4,SNOWDROP COMING SOON,156.048
+15:41,5,紫咲シオン3周年記念,61.641
+15:41,6,HudutNamustur,45.736
+15:41,7,ベリアル,23.853
+15:41,8,すわほー,
+15:41,9,フジモン,13.174
+15:41,10,東北学院,22.455
+16:10,1,彼女はキレイだった,116.209
+16:10,2,BTSdiTokopediaWIB,145.993
+16:10,3,アメトーーク,34.445
+16:10,4,SNOWDROP COMING SOON,208.803
+16:10,5,紫咲シオン3周年記念,63.098
+16:10,6,HudutNamustur,49.893
+16:10,7,ベリアル,26.233
+16:10,8,すわほー,
+16:10,9,フジモン,15.290
+16:10,10,東北学院,23.629
+16:41,1,BTSdiTokopediaWIB,172.407
+16:41,2,彼女はキレイだった,119.087
+16:41,3,SNOWDROP COMING SOON,252.983
+16:41,4,アメトーーク,37.969
+16:41,5,プロミスシンデレラ,21.929
+16:41,6,ThankyouMinto,185.101
+16:41,7,ベリアル,28.821
+16:41,8,Tim Tebow,15.290
+16:41,9,すわほー,
+16:41,10,フジモン,17.385
+17:10,1,BTSdiTokopediaWIB,182.733
+17:10,2,Thunderous_D5,99.248
+17:10,3,SNOWDROP COMING SOON,297.409
+17:10,4,KingGDragonDay,28.799
+17:10,5,STRANGER発売おめでとう,24.739
+17:10,6,JO1をもっと高い場所へ,24.749
+17:10,7,Tebow,29.828
+17:10,8,ベリアル,30.080
+17:10,9,The View,207.187
+17:10,10,感染急拡大の原因,
+17:41,1,KingGDragonDay,47.615
+17:41,2,Thunderous_D5,192.670
+17:41,3,STRANGER発売おめでとう,50.589
+17:41,4,JO1をもっと高い場所へ,50.665
+17:41,5,BTSdiTokopediaWIB,189.481
+17:41,6,SNOWDROP COMING SOON,333.539
+17:41,7,The View,373.232
+17:41,8,Tebow,33.560
+17:41,9,jisoo,274.566
+17:41,10,BTOB SILENT SIDE,19.576
+18:10,1,KingGDragonDay,60.068
+18:10,2,Thunderous_D5,205.789
+18:10,3,STRANGER発売おめでとう,59.987
+18:10,4,JO1をもっと高い場所へ,59.791
+18:10,5,メンテの日なのでssを貼る,21.375
+18:10,6,SNOWDROP COMING SOON,358.613
+18:10,7,The View,405.881
+18:10,8,Tebow,35.929
+18:10,9,jisoo,284.287
+18:10,10,ヘルレイザー,
+18:41,1,KingGDragonDay,68.701
+18:41,2,Thunderous_D5,209.398
+18:41,3,STRANGER発売おめでとう,63.970
+18:41,4,メンテの日なのでssを貼る,24.307
+18:41,5,BozkurtYardımTırı,
+18:41,6,SNOWDROP COMING SOON,379.891
+18:41,7,The View,422.093
+18:41,8,Tebow,39.112
+18:41,9,Star Wars,42.268
+18:41,10,Christmas Day,15.031
+19:10,1,KingGDragonDay,74.067
+19:10,2,セットアップおにいさん,11.073
+19:10,3,Thunderous_D5,210.915
+19:10,4,メンテの日なのでssを貼る,26.277
+19:10,5,우리의_슈퍼스타_권지용_생일축하해,92.347
+19:10,6,Tebow,41.398
+19:10,7,SNOWDROP COMING SOON,394.541
+19:10,8,I LOVE YOU 3000 TAEHYUNG,16.346
+19:10,9,Star Wars,43.724
+19:10,10,The View,431.892
+19:41,1,KingGDragonDay,78.265
+19:41,2,セットアップおにいさん,12.190
+19:41,3,星野源ANN,10.961
+19:41,4,I LOVE YOU 3000 TAEHYUNG,22.871
+19:41,5,علي_الاكبر,23.300
+19:41,6,speakeasy,21.918
+19:41,7,Star Wars,46.319
+19:41,8,Tebow,44.140
+19:41,9,Vegeta,34.697
+19:41,10,SNOWDROP COMING SOON,407.208
+20:10,1,lorde,26.601
+20:10,2,KingGDragonDay,80.988
+20:10,3,I LOVE YOU 3000 TAEHYUNG,28.803
+20:10,4,YÖKeksüreistiyoruz,
+20:10,5,星野源ANN,12.621
+20:10,6,علي_الاكبر,26.578
+20:10,7,Madden22,10.317
+20:10,8,Star Wars,47.828
+20:10,9,Vegeta,36.847
+20:10,10,Tebow,46.160
+20:41,1,lorde,40.521
+20:41,2,SalarioRosa,13.743
+20:41,3,Madden22,12.953
+20:41,4,I LOVE YOU 3000 TAEHYUNG,33.159
+20:41,5,BVBFCB,
+20:41,6,MOODRING,
+20:41,7,علي_الاكبر,30.205
+20:41,8,İkinciildisi Gelsin,
+20:41,9,alec,11.511
+20:41,10,Star Wars,50.573
+21:10,1,lorde,44.610
+21:10,2,SalarioRosa,17.642
+21:10,3,BVBFCB,11.612
+21:10,4,Madden22,14.883
+21:10,5,Neuer,11.017
+21:10,6,alec,13.199
+21:10,7,Bayern,46.821
+21:10,8,Mood Ring,19.437
+21:10,9,Dortmund,30.598
+21:10,10,علي_الاكبر,32.623
+21:41,1,SalarioRosa,21.831
+21:41,2,lorde,49.545
+21:41,3,BVBFCB,16.479
+21:41,4,Lewandowski,19.142
+21:41,5,Bayern,54.904
+21:41,6,Neuer,13.876
+21:41,7,Dortmund,37.103
+21:41,8,Madden22,16.339
+21:41,9,Caizcoin,
+21:41,10,EvladınıAşıdanKoru,24.552
+22:10,1,SalarioRosa,25.008
+22:10,2,lorde,51.594
+22:10,3,Reus,23.633
+22:10,4,BVBFCB,20.605
+22:10,5,Dortmund,43.652
+22:10,6,Lewandowski,23.657
+22:10,7,Neuer,15.087
+22:10,8,EvladınıAşıdanKoru,31.469
+22:10,9,Madden22,17.712
+22:10,10,Liam Livingstone,
+22:41,1,Faye,128.332
+22:41,2,SalarioRosa,27.574
+22:41,3,lorde,54.298
+22:41,4,BVBFCB,26.081
+22:41,5,Reus,26.590
+22:41,6,Bayern,70.615
+22:41,7,Lewandowski,29.697
+22:41,8,EvladınıAşıdanKoru,40.309
+22:41,9,Aaron and Mary,12.263
+22:41,10,minarepakistan,
+23:10,1,LoveIsland,254.360
+23:10,2,Faye,144.256
+23:10,3,SalarioRosa,29.681
+23:10,4,lorde,55.554
+23:10,5,BVBFCB,26.831
+23:10,6,Millie,21.279
+23:10,7,Reus,27.795
+23:10,8,Dortmund,52.433
+23:10,9,EvladınıAşıdanKoru,48.851
+23:10,10,Lewandowski,32.470
+23:41,1,LoveIsland,269.273
+23:41,2,Faye,150.644
+23:41,3,SalarioRosa,31.895
+23:41,4,lorde,57.783
+23:41,5,BVBFCB,27.651
+23:41,6,minarepakistan,10.797
+23:41,7,Bayern,77.262
+23:41,8,Millie,22.773
+23:41,9,EvladınıAşıdanKoru,55.896
+23:41,10,Greg Abbott,45.498

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Amici20,314.008
+00:10,2,ARSLIV,76.536
+00:10,3,Baylor,24.701
+00:10,4,Arsenal,204.903
+00:10,5,Jota,70.426
+00:10,6,Frampton,13.178
+00:10,7,Athletic,52.399
+00:10,8,Liverpool,135.631
+00:10,9,Arteta,30.907
+00:10,10,CopaDelRey,16.478
+00:41,1,Amici20,364.266
+00:41,2,Baylor,28.749
+00:41,3,HodriMeydan,20.923
+00:41,4,Arsenal,210.695
+00:41,5,ARSLIV,78.136
+00:41,6,Desconjuracao,40.903
+00:41,7,Jota,72.452
+00:41,8,Athletic,55.372
+00:41,9,Frampton,13.748
+00:41,10,Survivor2021,115.644
+01:10,1,Amici20,412.929
+01:10,2,HodriMeydan,59.409
+01:10,3,Baylor,30.618
+01:10,4,Desconjuracao,53.383
+01:10,5,Arsenal,212.729
+01:10,6,ARSLIV,79.004
+01:10,7,HaddiniziBilin,18.051
+01:10,8,Jota,73.500
+01:10,9,Athletic,56.271
+01:10,10,Frampton,14.026
+01:41,1,HodriMeydan,93.413
+01:41,2,Amici20,425.915
+01:41,3,Baylor,37.282
+01:41,4,HaddiniziBilin,32.734
+01:41,5,Desconjuracao,68.727
+01:41,6,LiveCachacaCabare,
+01:41,7,Arsenal,215.824
+01:41,8,JOÃO LUIZ,46.222
+01:41,9,Jota,74.762
+01:41,10,Athletic,57.412
+02:10,1,HodriMeydan,116.536
+02:10,2,Amici20,430.094
+02:10,3,HaddiniziBilin,43.968
+02:10,4,Miley Cyrus,16.666
+02:10,5,LiveCachacaCabare,12.247
+02:10,6,Baylor,38.781
+02:10,7,precure,43.041
+02:10,8,Arsenal,216.763
+02:10,9,JOÃO LUIZ,54.211
+02:10,10,Happy Easter,218.250
+02:41,1,HodriMeydan,132.739
+02:41,2,LiveCachacaCabare,18.085
+02:41,3,HaddiniziBilin,52.306
+02:41,4,Miley Cyrus,22.438
+02:41,5,MostRequestedLive,39.314
+02:41,6,Baylor,40.359
+02:41,7,Amici20,432.634
+02:41,8,João Guilherme,
+02:41,9,Leonardo,29.413
+02:41,10,Happy Easter,230.793
+03:10,1,HodriMeydan,142.258
+03:10,2,LiveCachacaCabare,24.727
+03:10,3,João Guilherme,17.662
+03:10,4,ゼンカイジャー,31.847
+03:10,5,HaddiniziBilin,57.608
+03:10,6,MostRequestedLive,45.882
+03:10,7,Miley Cyrus,25.378
+03:10,8,Baylor,41.217
+03:10,9,Leonardo,31.733
+03:10,10,Happy Easter,238.966
+03:41,1,UCLA,32.636
+03:41,2,LiveCachacaCabare,29.825
+03:41,3,HodriMeydan,150.048
+03:41,4,João Guilherme,23.758
+03:41,5,MostRequestedLive,53.943
+03:41,6,Desconjuracao,120.089
+03:41,7,Gonzaga,29.198
+03:41,8,HaddiniziBilin,62.293
+03:41,9,Miley Cyrus,28.017
+03:41,10,Tiago Reis,
+04:10,1,UCLA,37.486
+04:10,2,LiveCachacaCabare,34.295
+04:10,3,João,336.331
+04:10,4,HodriMeydan,155.213
+04:10,5,Tiago Reis,11.514
+04:10,6,MostRequestedLive,58.974
+04:10,7,Gonzaga,32.625
+04:10,8,Alisson,16.262
+04:10,9,Desconjuracao,130.916
+04:10,10,HaddiniziBilin,65.075
+04:41,1,Ludmilla,222.910
+04:41,2,UCLA,46.504
+04:41,3,Pocah,174.113
+04:41,4,João,396.343
+04:41,5,LiveCachacaCabare,40.483
+04:41,6,Alisson,20.801
+04:41,7,Gonzaga,37.305
+04:41,8,MostRequestedLive,66.447
+04:41,9,HodriMeydan,160.356
+04:41,10,Tiago Reis,13.369
+05:10,1,Ludmilla,298.992
+05:10,2,UCLA,63.368
+05:10,3,João,427.551
+05:10,4,Pocah,184.947
+05:10,5,Gonzaga,47.919
+05:10,6,Timme,15.841
+05:10,7,Suggs,14.960
+05:10,8,FinalFour,44.614
+05:10,9,LiveCachacaCabare,46.048
+05:10,10,Alisson,23.947
+05:41,1,Ludmilla,360.006
+05:41,2,UCLA,115.019
+05:41,3,Suggs,125.073
+05:41,4,MarchMadness,42.029
+05:41,5,FinalFour,77.888
+05:41,6,Zags,28.512
+05:41,7,João,455.523
+05:41,8,Pocah,192.114
+05:41,9,Timme,18.459
+05:41,10,Baylor,56.614
+06:10,1,UCLA,124.424
+06:10,2,Ludmilla,381.878
+06:10,3,Suggs,140.925
+06:10,4,MarchMadness,44.107
+06:10,5,FinalFour,83.160
+06:10,6,Zags,30.569
+06:10,7,João,464.448
+06:10,8,Pocah,192.690
+06:10,9,Timme,19.086
+06:10,10,Baylor,58.770
+06:41,1,UCLA,130.634
+06:41,2,Ludmilla,395.695
+06:41,3,Suggs,151.851
+06:41,4,MarchMadness,45.260
+06:41,5,FinalFour,87.247
+06:41,6,Zags,31.696
+06:41,7,João,474.565
+06:41,8,Pocah,196.723
+06:41,9,Timme,19.459
+06:41,10,Feliz Páscoa,43.771
+07:10,1,UCLA,133.885
+07:10,2,Ludmilla,404.052
+07:10,3,Suggs,158.018
+07:10,4,MarchMadness,45.817
+07:10,5,FinalFour,89.177
+07:10,6,Zags,32.290
+07:10,7,Happy Easter,369.263
+07:10,8,João,478.605
+07:10,9,Feliz Páscoa,47.081
+07:10,10,Pocah,199.391
+07:41,1,UCLA,136.527
+07:41,2,Ludmilla,410.064
+07:41,3,Suggs,162.833
+07:41,4,Gonzaga,125.443
+07:41,5,marchmadness,46.296
+07:41,6,FinalFour,90.786
+07:41,7,Happy Easter,389.630
+07:41,8,Zags,32.805
+07:41,9,Feliz Páscoa,49.785
+07:41,10,HaddiniziBilin,94.685
+08:10,1,UCLA,138.131
+08:10,2,Ludmilla,413.680
+08:10,3,Suggs,166.140
+08:10,4,ななにー新学期,
+08:10,5,Happy Easter,405.328
+08:10,6,Gonzaga,127.080
+08:10,7,SHINee_BeyondLIVE,10.006
+08:10,8,MarchMadness,46.516
+08:10,9,FinalFour,91.554
+08:10,10,HodriMeydan,217.591
+08:41,1,SHINee_BeyondLIVE,20.347
+08:41,2,ななにー新学期,11.784
+08:41,3,Happy Easter,429.040
+08:41,4,コントレイル,66.780
+08:41,5,UCLA,139.557
+08:41,6,Ludmilla,416.286
+08:41,7,Suggs,169.037
+08:41,8,グランアレグリア,37.082
+08:41,9,大阪杯,28.055
+08:41,10,サリオス,27.972
+09:10,1,レイパパレ,76.817
+09:10,2,コントレイル,104.800
+09:10,3,Happy Easter,448.672
+09:10,4,SHINee_BeyondLIVE,32.401
+09:10,5,大阪杯,46.135
+09:10,6,モズベッロ,20.070
+09:10,7,ななにー,35.051
+09:10,8,グランアレグリア,46.502
+09:10,9,HodriMeydan,250.912
+09:10,10,サリオス,32.300
+09:41,1,レイパパレ,97.347
+09:41,2,Happy Easter,481.008
+09:41,3,コントレイル,121.211
+09:41,4,SHINee_BeyondLIVE,45.669
+09:41,5,大阪杯,61.044
+09:41,6,ななにー,42.600
+09:41,7,HodriMeydan,277.259
+09:41,8,モズベッロ,24.568
+09:41,9,HaddiniziBilin,137.011
+09:41,10,グランアレグリア,50.488
+10:10,1,Happy Easter,507.878
+10:10,2,レイパパレ,105.729
+10:10,3,HodriMeydan,303.761
+10:10,4,HaddiniziBilin,154.735
+10:10,5,コントレイル,127.939
+10:10,6,ななにー,51.772
+10:10,7,SHINee_BeyondLIVE,55.298
+10:10,8,jojo_0404,25.291
+10:10,9,Buona Pasqua,50.802
+10:10,10,モズベッロ,26.868
+10:41,1,Happy Easter,546.624
+10:41,2,横浜優勝,
+10:41,3,レイパパレ,111.762
+10:41,4,HodriMeydan,334.888
+10:41,5,HaddiniziBilin,175.514
+10:41,6,Buona Pasqua,58.937
+10:41,7,AmirallerimizOnurumuzdur,25.193
+10:41,8,jojo_0404,34.143
+10:41,9,SHINee_BeyondLIVE,67.243
+10:41,10,コントレイル,133.062
+11:10,1,Happy Easter,577.421
+11:10,2,HodriMeydan,365.736
+11:10,3,横浜優勝,10.561
+11:10,4,HaddiniziBilin,197.150
+11:10,5,AmirallerimizOnurumuzdur,31.664
+11:10,6,Buona Pasqua,65.157
+11:10,7,レイパパレ,115.194
+11:10,8,jojo_0404,41.754
+11:10,9,池江璃花,21.036
+11:10,10,SHINee_BeyondLIVE,78.850
+11:41,1,Happy Easter,620.146
+11:41,2,HodriMeydan,403.105
+11:41,3,HaddiniziBilin,221.148
+11:41,4,AmirallerimizOnurumuzdur,39.948
+11:41,5,横浜優勝,11.729
+11:41,6,Buona Pasqua,72.739
+11:41,7,jojo_0404,50.353
+11:41,8,レイパパレ,118.926
+11:41,9,池江璃花,25.764
+11:41,10,njSG,16.526
+12:10,1,Happy Easter,656.422
+12:10,2,HodriMeydan,436.100
+12:10,3,HaddiniziBilin,242.440
+12:10,4,AmirallerimizOnurumuzdur,48.455
+12:10,5,Buona Pasqua,78.359
+12:10,6,横浜優勝,12.291
+12:10,7,jojo_0404,58.090
+12:10,8,MSU2021,
+12:10,9,池江璃花,29.370
+12:10,10,Frohe Ostern,30.743
+12:41,1,Happy Easter,699.190
+12:41,2,HodriMeydan,469.171
+12:41,3,AmirallerimizOnurumuzdur,58.455
+12:41,4,jojo_0404,92.121
+12:41,5,逃走中,23.390
+12:41,6,HaddiniziBilin,265.275
+12:41,7,Buona Pasqua,84.043
+12:41,8,ジョジョ6部アニメ化,
+12:41,9,横浜優勝,12.758
+12:41,10,Frohe Ostern,33.112
+13:10,1,Happy Easter,733.877
+13:10,2,逃走中,37.448
+13:10,3,ジョジョ6部アニメ化,29.759
+13:10,4,MSU2021,16.432
+13:10,5,HodriMeydan,496.391
+13:10,6,AmirallerimizOnurumuzdur,67.421
+13:10,7,jojo_0404,120.310
+13:10,8,Buona Pasqua,87.723
+13:10,9,ファイルーズあいさん,
+13:10,10,浪川さん,23.589
+13:41,1,Happy Easter,780.072
+13:41,2,逃走中,57.036
+13:41,3,ジョジョ6部アニメ化,47.148
+13:41,4,MSU2021,20.571
+13:41,5,AmirallerimizOnurumuzdur,75.599
+13:41,6,青天を衝け,43.475
+13:41,7,HodriMeydan,524.296
+13:41,8,Feliz Páscoa,80.451
+13:41,9,ファイルーズあいさん,
+13:41,10,Buona Pasqua,91.974
+14:10,1,Happy Easter,822.464
+14:10,2,逃走中,79.573
+14:10,3,ジョジョ6部アニメ化,59.123
+14:10,4,青天を衝け,63.931
+14:10,5,MSU2021,23.093
+14:10,6,Feliz Páscoa,91.397
+14:10,7,AmirallerimizOnurumuzdur,83.074
+14:10,8,HodriMeydan,546.887
+14:10,9,浪川さん,38.468
+14:10,10,ファイルーズあいさん,
+14:41,1,Happy Easter,879.910
+14:41,2,逃走中,96.370
+14:41,3,Feliz Páscoa,108.573
+14:41,4,ジョジョ6部アニメ化,68.875
+14:41,5,BTSdiWIBTVSHOWApril,124.869
+14:41,6,ほんとうのとこ,
+14:41,7,TokopediaXBTS,117.450
+14:41,8,青天を衝け,71.244
+14:41,9,浪川さん,40.375
+14:41,10,ファイルーズあいさん,
+15:10,1,Happy Easter,933.333
+15:10,2,Feliz Páscoa,127.480
+15:10,3,逃走中,115.407
+15:10,4,BTSdiWIBTVSHOWApril,163.102
+15:10,5,ほんとうのとこ,10.819
+15:10,6,ジョジョ6部アニメ化,76.195
+15:10,7,TokopediaXBTS,150.890
+15:10,8,青天を衝け,75.640
+15:10,9,浪川さん,41.879
+15:10,10,Stone Ocean,173.907
+15:41,1,Happy Easter,1.003.130
+15:41,2,Feliz Páscoa,153.650
+15:41,3,ほんとうのとこ,17.381
+15:41,4,逃走中,120.167
+15:41,5,歌が上手い歌手最新ベスト50,
+15:41,6,BTSdiWIBTVSHOWApril,183.460
+15:41,7,ジョジョ6部アニメ化,82.935
+15:41,8,TokopediaXBTS,170.049
+15:41,9,Felices Pascuas,31.327
+15:41,10,MISIA,
+16:10,1,Happy Easter,1.069.364
+16:10,2,Feliz Páscoa,183.644
+16:10,3,歌が上手い歌手最新ベスト50,
+16:10,4,ほんとうのとこ,19.059
+16:10,5,逃走中,122.259
+16:10,6,MISIA,11.955
+16:10,7,BTSdiWIBTVSHOWApril,200.674
+16:10,8,TokopediaXBTS,184.950
+16:10,9,ジョジョ6部アニメ化,88.387
+16:10,10,Harry Kane,12.727
+16:41,1,Happy Easter,919.569
+16:41,2,Feliz Páscoa,218.081
+16:41,3,ハルト愛しと〜よ,208.984
+16:41,4,CharmingRapperHarutoDay,206.100
+16:41,5,歌が上手い歌手最新ベスト50,
+16:41,6,ほんとうのとこ,19.445
+16:41,7,逃走中,123.659
+16:41,8,MISIA,12.448
+16:41,9,Harry Kane,15.473
+16:41,10,ジョジョ6部アニメ化,93.656
+17:10,1,Happy Easter,870.168
+17:10,2,Feliz Páscoa,250.550
+17:10,3,ハルト愛しと〜よ,374.179
+17:10,4,CharmingRapperHarutoDay,375.530
+17:10,5,GoneMVRelease,161.258
+17:10,6,아스트로_ONE없이_빛날_준비완료,149.776
+17:10,7,ROSÉ GONE MV OUT NOW,152.623
+17:10,8,NEWTOT,12.458
+17:10,9,Spurs,37.479
+17:10,10,Kane,61.011
+17:41,1,Happy Easter,1.223.573
+17:41,2,Feliz Páscoa,285.993
+17:41,3,ハルト愛しと〜よ,501.841
+17:41,4,CharmingRapperHarutoDay,506.747
+17:41,5,GoneMVRelease,267.222
+17:41,6,BORDER_CARNIVAL,181.447
+17:41,7,ENHYPEN_LiftTheBorder,134.058
+17:41,8,ROSÉ GONE MV OUT NOW,239.677
+17:41,9,ENHYPEN FIRST COMEBACK,132.875
+17:41,10,Spurs,41.793
+18:10,1,Happy Easter,1.216.391
+18:10,2,Feliz Páscoa,315.128
+18:10,3,CharmingRapperHarutoDay,621.250
+18:10,4,ハルト愛しと〜よ,607.427
+18:10,5,GoneMVRelease,313.642
+18:10,6,BORDER_CARNIVAL,219.867
+18:10,7,ENHYPEN_LiftTheBorder,167.236
+18:10,8,ROSÉ GONE MV OUT NOW,277.608
+18:10,9,ENHYPEN FIRST COMEBACK,162.914
+18:10,10,3racha,116.765
+18:41,1,Happy Easter,1.393.963
+18:41,2,Feliz Páscoa,344.429
+18:41,3,CharmingRapperHarutoDay,706.582
+18:41,4,ハルト愛しと〜よ,692.138
+18:41,5,GoneMVRelease,339.464
+18:41,6,BORDER_CARNIVAL,236.795
+18:41,7,ENHYPEN_LiftTheBorder,180.093
+18:41,8,ENHYPEN FIRST COMEBACK,174.281
+18:41,9,ROSÉ GONE MV OUT NOW,299.087
+18:41,10,Fakhar Zaman,18.644
+19:10,1,Happy Easter,1.415.358
+19:10,2,Feliz Páscoa,370.549
+19:10,3,CharmingRapperHarutoDay,759.173
+19:10,4,ハルト愛しと〜よ,743.985
+19:10,5,GoneMVRelease,353.395
+19:10,6,BORDER_CARNIVAL,244.937
+19:10,7,ENHYPEN_LiftTheBorder,185.985
+19:10,8,ENHYPEN FIRST COMEBACK,179.492
+19:10,9,ROSÉ GONE MV OUT NOW,310.132
+19:10,10,Fakhar Zaman,25.540
+19:41,1,Happy Easter,1.617.700
+19:41,2,Feliz Páscoa,395.795
+19:41,3,CharmingRapperHarutoDay,799.580
+19:41,4,ハルト愛しと〜よ,783.337
+19:41,5,GoneMVRelease,363.661
+19:41,6,Diakhaby,22.732
+19:41,7,KASvBJK,24.621
+19:41,8,BORDER_CARNIVAL,250.172
+19:41,9,ENHYPEN FIRST COMEBACK,182.588
+19:41,10,Jesus,978.186
+20:10,1,Happy Easter,1.677.338
+20:10,2,Feliz Páscoa,414.968
+20:10,3,KASvBJK,27.965
+20:10,4,Diakhaby,37.566
+20:10,5,CharmingRapperHarutoDay,829.647
+20:10,6,ハルト愛しと〜よ,812.555
+20:10,7,GoneMVRelease,369.997
+20:10,8,Valencia,54.992
+20:10,9,TheVoiceMais,
+20:10,10,Cala,49.402
+20:41,1,Happy Easter,1.755.601
+20:41,2,Feliz Páscoa,433.394
+20:41,3,KASvBJK,32.151
+20:41,4,TheVoiceMais,11.178
+20:41,5,Diakhaby,45.886
+20:41,6,النصر_الفيصلي,64.726
+20:41,7,CharmingRapperHarutoDay,855.673
+20:41,8,Valencia,61.346
+20:41,9,ハルト愛しと〜よ,838.419
+20:41,10,Jesus,1.021.580
+21:10,1,Happy Easter,1.807.778
+21:10,2,Feliz Páscoa,447.128
+21:10,3,TheVoiceMais,14.269
+21:10,4,KASvBJK,33.009
+21:10,5,النصر_الفيصلي,75.860
+21:10,6,MUNBHA,27.093
+21:10,7,Diakhaby,52.651
+21:10,8,Valencia,65.951
+21:10,9,Top50BTS,568.906
+21:10,10,Welbeck,
+21:41,1,Happy Easter,1.827.351
+21:41,2,MUNBHA,33.126
+21:41,3,Feliz Páscoa,461.786
+21:41,4,النصر_الفيصلي,84.924
+21:41,5,TheVoiceMais,14.793
+21:41,6,KASvBJK,33.802
+21:41,7,VurGeçFenerbahçem,
+21:41,8,Valencia,71.085
+21:41,9,Oblak,
+21:41,10,Brighton,52.629
+22:10,1,Happy Easter,1.843.178
+22:10,2,النصر_الفيصلي,109.028
+22:10,3,MUNBHA,39.667
+22:10,4,Páscoa,864.743
+22:10,5,Rashford,19.752
+22:10,6,Brighton,57.359
+22:10,7,MUFC,50.072
+22:10,8,VurGeçFenerbahçem,11.453
+22:10,9,TheVoiceMais,15.107
+22:10,10,Valencia,73.586
+22:41,1,Happy Easter,1.738.518
+22:41,2,النصر_الفيصلي,136.988
+22:41,3,MUNBHA,51.683
+22:41,4,LineOfDuty,10.417
+22:41,5,RocioVerdad3,13.327
+22:41,6,MUFC,61.084
+22:41,7,Nacho,26.222
+22:41,8,Páscoa,889.800
+22:41,9,Rashford,23.969
+22:41,10,Brighton,65.533
+23:10,1,Happy Easter,1.764.977
+23:10,2,LineOfDuty,18.228
+23:10,3,النصر_الفيصلي,150.035
+23:10,4,MUNBHA,55.907
+23:10,5,RocioVerdad3,21.135
+23:10,6,Sevilla,55.093
+23:10,7,Nacho,29.248
+23:10,8,MUFC,65.694
+23:10,9,Páscoa,896.463
+23:10,10,Brighton,68.009
+23:41,1,Happy Easter,1.452.336
+23:41,2,LineOfDuty,23.160
+23:41,3,RocioVerdad3,34.564
+23:41,4,النصر_الفيصلي,159.582
+23:41,5,DateRush,21.699
+23:41,6,MUNBHA,57.869
+23:41,7,Sevilla,60.994
+23:41,8,Nacho,31.825
+23:41,9,Páscoa,921.619
+23:41,10,Brighton,69.739

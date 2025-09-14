@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosaEdomex,77.062
+00:10,2,ENGSWE,22.137
+00:10,3,Lionessess,
+00:10,4,WEURO2022,56.974
+00:10,5,Luca,70.186
+00:10,6,Russo,48.907
+00:10,7,Julio Jones,20.768
+00:10,8,England,115.241
+00:10,9,Bucs,
+00:10,10,Wembley,16.012
+00:40,1,SalarioRosaEdomex,81.010
+00:40,2,ENGSWE,22.533
+00:40,3,lionessess,
+00:40,4,WEURO2022,59.238
+00:40,5,Luca,71.897
+00:40,6,Russo,50.166
+00:40,7,Julio Jones,22.462
+00:40,8,سكربت69,51.000
+00:40,9,England,118.230
+00:40,10,Bucs,
+01:10,1,SalarioRosaEdomex,83.947
+01:10,2,ENGSWE,22.751
+01:10,3,Lionessess,
+01:10,4,WEURO2022,60.593
+01:10,5,Luca,70.958
+01:10,6,Russo,50.744
+01:10,7,سكربت69,61.800
+01:10,8,Julio Jones,23.902
+01:10,9,Bucs,
+01:10,10,England,118.638
+01:40,1,SalarioRosaEdomex,86.732
+01:40,2,ENGSWE,22.944
+01:40,3,Lionessess,
+01:40,4,WEURO2022,61.607
+01:40,5,Luca,72.040
+01:40,6,سكربت69,67.510
+01:40,7,Russo,51.441
+01:40,8,Rizzo,
+01:40,9,Julio Jones,25.050
+01:40,10,Monty,
+02:10,1,SalarioRosaEdomex,88.972
+02:10,2,Lionessess,
+02:10,3,ENGSWE,23.095
+02:10,4,WEURO2022,62.148
+02:10,5,SubwaySeries,
+02:10,6,Monty,
+02:10,7,Luca,71.195
+02:10,8,Russo,51.846
+02:10,9,Rizzo,
+02:10,10,Julio Jones,25.867
+02:40,1,SalarioRosaEdomex,91.146
+02:40,2,Monty,10.116
+02:40,3,ENGSWE,23.209
+02:40,4,Lionessess,
+02:40,5,SubwaySeries,
+02:40,6,Montgomery,
+02:40,7,なにわ男子デビュー魂,
+02:40,8,Luca,72.097
+02:40,9,Rizzo,
+02:40,10,Julio Jones,26.695
+03:10,1,EarthquakePH,
+03:10,2,SalarioRosaEdomex,93.102
+03:10,3,Patronato,
+03:10,4,Barracas,
+03:10,5,Rizzo,
+03:10,6,lindol,
+03:10,7,SueTheView,22.470
+03:10,8,Lionessess,
+03:10,9,Monty,10.004
+03:10,10,Mets,42.393
+03:40,1,Dembele,46.797
+03:40,2,EarthquakePH,17.031
+03:40,3,SalarioRosaEdomex,95.139
+03:40,4,Patronato,11.646
+03:40,5,Barracas,
+03:40,6,Cuadrado,
+03:40,7,BarcaJuve,17.043
+03:40,8,Sergi Roberto,
+03:40,9,lindol,
+03:40,10,Alex Sandro,
+04:10,1,Dembele,52.202
+04:10,2,SalarioRosaEdomex,105.407
+04:10,3,EarthquakePH,21.136
+04:10,4,Darío Gómez,
+04:10,5,Patronato,15.911
+04:10,6,MasterChefBR,
+04:10,7,Barracas,11.831
+04:10,8,Cuadrado,
+04:10,9,BarcaJuve,19.635
+04:10,10,DWCS,
+04:40,1,Darío Gómez,22.944
+04:40,2,Dembele,55.971
+04:40,3,SalarioRosaEdomex,116.328
+04:40,4,EarthquakePH,23.680
+04:40,5,MasterChefBR,
+04:40,6,Patronato,19.460
+04:40,7,Barracas,15.012
+04:40,8,LaVozArgentina,11.653
+04:40,9,Gallo,13.346
+04:40,10,Pjanic,
+05:10,1,Darío Gómez,35.810
+05:10,2,Dembele,58.680
+05:10,3,SalarioRosaEdomex,125.767
+05:10,4,MasterChefBR,
+05:10,5,EarthquakePH,25.457
+05:10,6,Benzema,33.099
+05:10,7,Patronato,22.480
+05:10,8,Barracas,17.688
+05:10,9,Mets,55.641
+05:10,10,LaVozArgentina,12.765
+05:40,1,Darío Gómez,44.100
+05:40,2,SalarioRosaEdomex,131.997
+05:40,3,Dembele,60.549
+05:40,4,MasterChefBR,
+05:40,5,Benzema,40.525
+05:40,6,EarthquakePH,26.915
+05:40,7,つば九郎,
+05:40,8,Patronato,24.801
+05:40,9,Barracas,19.863
+05:40,10,横浜高校,
+06:10,1,Darío Gómez,49.639
+06:10,2,SalarioRosaEdomex,135.432
+06:10,3,Dembele,61.875
+06:10,4,MasterChefBR,
+06:10,5,つば九郎,
+06:10,6,Benzema,41.864
+06:10,7,EarthquakePH,27.972
+06:10,8,Patronato,26.753
+06:10,9,Barracas,21.346
+06:10,10,横浜高校,
+06:40,1,Darío Gómez,53.291
+06:40,2,SalarioRosaEdomex,137.404
+06:40,3,Dembele,63.415
+06:40,4,つば九郎,
+06:40,5,Ceballos,
+06:40,6,Benzema,44.883
+06:40,7,MasterChefBR,
+06:40,8,DonBelle4Ever,27.700
+06:40,9,EarthquakePH,28.986
+06:40,10,Patronato,28.137
+07:10,1,Darío Gómez,55.871
+07:10,2,SalarioRosaEdomex,138.378
+07:10,3,つば九郎,
+07:10,4,DonBelle4Ever,64.946
+07:10,5,Dembele,64.980
+07:10,6,Ceballos,
+07:10,7,Benzema,46.467
+07:10,8,APJAbdulKalam,15.183
+07:10,9,MasterChefBR,
+07:10,10,BCSpoilers,14.435
+07:40,1,Darío Gómez,57.238
+07:40,2,つば九郎,10.258
+07:40,3,DonBelle4Ever,85.365
+07:40,4,APJAbdulKalam,17.971
+07:40,5,Dembele,66.802
+07:40,6,SalarioRosaEdomex,138.835
+07:40,7,Ceballos,10.082
+07:40,8,StarCinemaIsBackInCinemas,51.752
+07:40,9,Benzema,47.799
+07:40,10,BCSpoilers,15.270
+08:10,1,Darío Gómez,58.077
+08:10,2,TNIAD Bersama Rakyat,
+08:10,3,Antisipasi Krisis Pangan,
+08:10,4,つば九郎,10.897
+08:10,5,APJAbdulKalam,20.733
+08:10,6,DonBelle4Ever,95.671
+08:10,7,Dembele,68.617
+08:10,8,SalarioRosaEdomex,139.087
+08:10,9,阿部ちゃん,
+08:10,10,Ceballos,10.240
+08:40,1,Darío Gómez,58.722
+08:40,2,APJAbdulKalam,23.499
+08:40,3,つば九郎,11.463
+08:40,4,TNIAD Bersama Rakyat,
+08:40,5,Antisipasi Krisis Pangan,
+08:40,6,DonBelle4Ever,101.900
+08:40,7,ラジャー,
+08:40,8,阿部ちゃん,
+08:40,9,SalarioRosaEdomex,139.275
+08:40,10,10YearsofFifthHarmony,17.179
+09:10,1,Darío Gómez,59.154
+09:10,2,APJAbdulKalam,25.887
+09:10,3,ラジャー,
+09:10,4,EpicTogether,
+09:10,5,つば九郎,11.992
+09:10,6,DonBelle4Ever,105.604
+09:10,7,阿部ちゃん,
+09:10,8,Antisipasi Krisis Pangan,
+09:10,9,TNIAD Bersama Rakyat,
+09:10,10,GoBackModi,50.472
+09:40,1,APJAbdulKalam,28.261
+09:40,2,ラジャー,
+09:40,3,Darío Gómez,59.518
+09:40,4,HSMTMTS,
+09:40,5,つば九郎,12.572
+09:40,6,阿部ちゃん,
+09:40,7,EpicTogether,
+09:40,8,Antisipasi Krisis Pangan,
+09:40,9,TNIAD Bersama Rakyat,
+09:40,10,DonBelle4Ever,108.850
+10:10,1,阿部ちゃん,
+10:10,2,HSMTMTS,11.001
+10:10,3,ラジャー,
+10:10,4,APJAbdulKalam,30.678
+10:10,5,DutchMillFansign,36.076
+10:10,6,にこにこぷん,
+10:10,7,EpicTogether,
+10:10,8,フィルハー,
+10:10,9,つば九郎,13.049
+10:10,10,Darío Gómez,59.831
+10:40,1,阿部ちゃん,12.092
+10:40,2,すのちゅーぶ,
+10:40,3,DutchMillFansign,59.144
+10:40,4,HSMTMTS,12.423
+10:40,5,ラジャー,
+10:40,6,APJAbdulKalam,32.653
+10:40,7,にこにこぷん,
+10:40,8,フィルハー,
+10:40,9,リメンバーミー,
+10:40,10,つば九郎,13.562
+11:10,1,阿部ちゃん,14.227
+11:10,2,AimHigher,58.270
+11:10,3,すのちゅーぶ,
+11:10,4,DutchMillFansign,96.056
+11:10,5,レアード,
+11:10,6,ラジャー,
+11:10,7,HSMTMTS,13.267
+11:10,8,にこにこぷん,
+11:10,9,フィルハー,
+11:10,10,MONOCHROME OUT NOW,
+11:40,1,AimHigher,76.474
+11:40,2,阿部ちゃん,15.969
+11:40,3,LiyakatlıMulakat Meb,
+11:40,4,江おんすていじ,37.166
+11:40,5,すのちゅーぶ,
+11:40,6,レアード,11.276
+11:40,7,DutchMillFansign,129.635
+11:40,8,ラジャー,
+11:40,9,ATBO_DEBUT_DDAY,
+11:40,10,MONOCHROME OUT NOW,10.096
+12:10,1,AimHigher,93.879
+12:10,2,阿部ちゃん,17.513
+12:10,3,江おんすていじ,48.680
+12:10,4,LiyakatlıMulakat Meb,
+12:10,5,すのちゅーぶ,
+12:10,6,DutchMillFansign,161.750
+12:10,7,レアード,12.537
+12:10,8,ロマサガ生放送,
+12:10,9,佐々木朗希,19.300
+12:10,10,ラジャー,
+12:40,1,_WORLD1stWin,19.818
+12:40,2,AimHigher,110.901
+12:40,3,阿部ちゃん,18.934
+12:40,4,江おんすていじ,56.286
+12:40,5,ロマサガ生放送,
+12:40,6,マイナビオールスター,59.468
+12:40,7,すのちゅーぶ,
+12:40,8,LiyakatlıMulakat Meb,
+12:40,9,佐々木朗希,20.971
+12:40,10,ウォーカー,17.739
+13:10,1,_WORLD1stWin,38.432
+13:10,2,AimHigher,132.832
+13:10,3,ロマサガ生放送,
+13:10,4,マイナビオールスター,52.967
+13:10,5,阿部ちゃん,20.241
+13:10,6,江おんすていじ,61.323
+13:10,7,TKNxZeeNunew,31.863
+13:10,8,WORLD FIRST WIN,11.464
+13:10,9,ウォーカー,17.907
+13:10,10,LiyakatlıMulakat Meb,10.467
+13:40,1,_WORLD1stWin,45.193
+13:40,2,AimHigher,153.377
+13:40,3,マイナビオールスター,60.554
+13:40,4,ロマサガ生放送,
+13:40,5,サッカー日本代表,
+13:40,6,阿部ちゃん,21.485
+13:40,7,江おんすていじ,66.403
+13:40,8,WORLD FIRST WIN,12.780
+13:40,9,Congratulations SEVENTEEN,18.851
+13:40,10,佐々木朗希,22.504
+14:10,1,AimHigher,204.995
+14:10,2,_WORLD1stWin,49.200
+14:10,3,ぱかライブTV,27.061
+14:10,4,マイナビオールスター,46.364
+14:10,5,サッカー日本代表,13.331
+14:10,6,renjun,50.756
+14:10,7,マリノス,
+14:10,8,阿部ちゃん,22.515
+14:10,9,江おんすていじ,70.101
+14:10,10,スローボール,
+14:40,1,renjun,124.460
+14:40,2,デアリングタクト,31.193
+14:40,3,AimHigher,223.182
+14:40,4,ぱかライブTV,53.067
+14:40,5,_WORLD1stWin,51.330
+14:40,6,ホッコータルマエ,10.280
+14:40,7,マイナビオールスター,53.672
+14:40,8,サッカー日本代表,19.393
+14:40,9,ワンダーアキュート,
+14:40,10,水着ゴルシ,
+15:10,1,renjun,160.367
+15:10,2,デアリングタクト,61.886
+15:10,3,BOC1stOriginalFilm,84.848
+15:10,4,AimHigher,240.702
+15:10,5,ぱかライブTV,73.041
+15:10,6,ホッコータルマエ,17.251
+15:10,7,_WORLD1stWin,53.305
+15:10,8,ワンダーアキュート,17.258
+15:10,9,マイナビオールスター,52.312
+15:10,10,水着ゴルシ,12.339
+15:40,1,renjun,180.634
+15:40,2,デアリングタクト,78.337
+15:40,3,BOC1stOriginalFilm,142.739
+15:40,4,AimHigher,254.523
+15:40,5,ホッコータルマエ,24.154
+15:40,6,ぱかライブTV,80.718
+15:40,7,BPLS2,17.837
+15:40,8,Aぇヤンタン,21.155
+15:40,9,ワンダーアキュート,24.129
+15:40,10,水着ゴルシ,15.309
+16:10,1,renjun,190.114
+16:10,2,デアリングタクト,92.346
+16:10,3,BOC1stOriginalFilm,179.157
+16:10,4,水曜日のダウンタウン,
+16:10,5,テッパチ,17.905
+16:10,6,ホッコータルマエ,32.454
+16:10,7,AimHigher,262.673
+16:10,8,Aぇヤンタン,28.885
+16:10,9,ワンダーアキュート,33.161
+16:10,10,水着ゴルシ,17.284
+16:40,1,renjun,199.140
+16:40,2,デアリングタクト,99.277
+16:40,3,BOC1stOriginalFilm,199.684
+16:40,4,MissUniverseThailand2022,115.923
+16:40,5,Aぇヤンタン,35.700
+16:40,6,テッパチ,21.679
+16:40,7,水曜日のダウンタウン,
+16:40,8,shawn,22.919
+16:40,9,ホッコータルマエ,35.580
+16:40,10,ワンダーアキュート,36.810
+17:10,1,renjun,205.625
+17:10,2,ジェルくん誕生祭2022,33.107
+17:10,3,デアリングタクト,104.037
+17:10,4,MissUniverseThailand2022,144.379
+17:10,5,JO1ANNX,18.831
+17:10,6,BOC1stOriginalFilm,212.048
+17:10,7,shawn,25.170
+17:10,8,バスラットレオン,10.609
+17:10,9,Aぇヤンタン,37.263
+17:10,10,バーイード,
+17:40,1,ジェルくん誕生祭2022,84.817
+17:40,2,JO1ANNX,55.603
+17:40,3,renjun,211.430
+17:40,4,MissUniverseThailand2022,172.238
+17:40,5,デアリングタクト,107.251
+17:40,6,shawn,27.683
+17:40,7,ExtraordinaryAttorneyWooEp9,23.476
+17:40,8,BOC1stOriginalFilm,220.633
+17:40,9,バスラットレオン,11.417
+17:40,10,クンチキタ,
+18:10,1,ジェルくん誕生祭2022,102.891
+18:10,2,JO1ANNX,88.131
+18:10,3,renjun,214.359
+18:10,4,MissUniverseThailand2022,189.984
+18:10,5,ExtraordinaryAttorneyWooEp9,31.015
+18:10,6,デアリングタクト,109.572
+18:10,7,shawn,29.100
+18:10,8,Renderbet HappyHours,
+18:10,9,RENAISSANCE,23.559
+18:10,10,Caio Castro,17.283
+18:40,1,ジェルくん誕生祭2022,108.881
+18:40,2,JO1ANNX,96.121
+18:40,3,ExtraordinaryAttorneyWooEp9,37.923
+18:40,4,MissUniverseThailand2022,202.101
+18:40,5,renjun,218.271
+18:40,6,shawn,31.050
+18:40,7,Pulgar,
+18:40,8,RENAISSANCE,24.586
+18:40,9,Caio Castro,19.213
+18:40,10,デアリングタクト,111.353
+19:10,1,Pulgar,15.099
+19:10,2,JO1ANNX,98.579
+19:10,3,ジェルくん誕生祭2022,111.544
+19:10,4,ExtraordinaryAttorneyWooEp9,43.792
+19:10,5,乃木坂46ANN,21.259
+19:10,6,RENAISSANCE,25.613
+19:10,7,Caio Castro,21.008
+19:10,8,shawn,31.785
+19:10,9,renjun,220.754
+19:10,10,beyonce,109.729
+19:40,1,FBvDK,11.543
+19:40,2,Pulgar,19.609
+19:40,3,ElbistanFestivali Buray,
+19:40,4,乃木坂46ANN,25.819
+19:40,5,RENAISSANCE,27.101
+19:40,6,Caio Castro,22.932
+19:40,7,ExtraordinaryAttorneyWooEp9,48.401
+19:40,8,ジェルくん誕生祭2022,112.780
+19:40,9,shawn,33.352
+19:40,10,Labour Party,44.807
+20:10,1,FBvDK,14.769
+20:10,2,PulgarNao,19.242
+20:10,3,乃木坂46ANN,30.431
+20:10,4,Caio Castro,24.556
+20:10,5,ElbistanFestivali Buray,
+20:10,6,RENAISSANCE,28.038
+20:10,7,Ertem Şener,
+20:10,8,ExtraordinaryAttorneyWooEp9,52.237
+20:10,9,Labour Party,47.533
+20:10,10,Rossi,16.328
+20:40,1,FBvDK,19.424
+20:40,2,PulgarNao,20.851
+20:40,3,Valencia,35.697
+20:40,4,Ertem Şener,
+20:40,5,TürkStandardları Enstitüsü,
+20:40,6,Caio Castro,26.306
+20:40,7,Rossi,17.656
+20:40,8,Labour Party,51.996
+20:40,9,RENAISSANCE,29.576
+20:40,10,Starmer,99.720
+21:10,1,FBvDK,24.221
+21:10,2,ENGvSA,
+21:10,3,Ertem Şener,
+21:10,4,GERFRA,
+21:10,5,Valencia,36.412
+21:10,6,Powell,29.161
+21:10,7,PulgarNao,22.143
+21:10,8,Bairstow,
+21:10,9,Fenerbahçe,116.054
+21:10,10,Labour Party,54.408
+21:40,1,FBvDK,28.226
+21:40,2,GERFRA,
+21:40,3,ENGvSA,
+21:40,4,Ertem Şener,
+21:40,5,Powell,35.480
+21:40,6,Fenerbahçe,130.286
+21:40,7,Valencia,37.624
+21:40,8,Arão,
+21:40,9,Caio Castro,29.389
+21:40,10,Bairstow,
+22:10,1,FBvDK,36.024
+22:10,2,GERFRA,10.360
+22:10,3,Ali Koç,15.097
+22:10,4,Fenerbahçe,171.890
+22:10,5,Putin,159.780
+22:10,6,İsmail,13.100
+22:10,7,ENGvSA,
+22:10,8,Arão,
+22:10,9,Valencia,40.213
+22:10,10,Ertem Şener,
+22:40,1,FBvDK,38.185
+22:40,2,GERFRA,14.976
+22:40,3,Fenerbahçe,191.840
+22:40,4,Ali Koç,18.101
+22:40,5,Putin,173.795
+22:40,6,Popp,
+22:40,7,İsmail,13.909
+22:40,8,Labour,211.536
+22:40,9,Arão,10.688
+22:40,10,ENGvSA,
+23:10,1,GERFRA,22.127
+23:10,2,FBvDK,39.254
+23:10,3,Fenerbahçe,203.655
+23:10,4,Ali Koç,19.696
+23:10,5,Popp,11.558
+23:10,6,Putin,180.746
+23:10,7,WEURO2022,48.711
+23:10,8,OlympiacosFC,
+23:10,9,Labour,213.854
+23:10,10,İsmail,13.990
+23:40,1,GERFRA,24.300
+23:40,2,FBvDK,40.183
+23:40,3,Fenerbahçe,214.991
+23:40,4,Ali Koç,21.018
+23:40,5,Putin,191.339
+23:40,6,Popp,12.888
+23:40,7,WEURO2022,52.633
+23:40,8,PekinExpress,
+23:40,9,OlympiacosFC,
+23:40,10,Labour,222.568

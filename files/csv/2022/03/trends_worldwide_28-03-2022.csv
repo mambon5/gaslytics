@@ -1,0 +1,461 @@
+hora,posicio,trend,volum
+00:10,1,Botafogo,94.820
+00:10,2,Corinthians,176.182
+00:10,3,CANMNT,35.101
+00:10,4,Oscars,154.809
+00:10,5,Djonga,32.179
+00:10,6,SecretRectaFinal,18.829
+00:10,7,Abel,67.599
+00:10,8,Jandrei,12.792
+00:10,9,Paulinho,13.248
+00:10,10,GOpaiN,37.116
+00:40,1,Botafogo,102.431
+00:40,2,Corinthians,180.434
+00:40,3,Oscar,55.418
+00:40,4,CANMNT,43.762
+00:40,5,Djonga,43.866
+00:40,6,SecretRectaFinal,22.372
+00:40,7,解決KingandPrince,39.539
+00:40,8,World Cup,93.999
+00:40,9,AGS2,
+00:40,10,Abel,68.961
+01:10,1,Oscar,84.222
+01:10,2,Botafogo,105.686
+01:10,3,Corinthians,181.253
+01:10,4,Zendaya,59.724
+01:10,5,CANMNT,48.933
+01:10,6,Djonga,52.591
+01:10,7,解決KingandPrince,50.793
+01:10,8,AGS2,
+01:10,9,Andrew,120.653
+01:10,10,SecretRectaFinal,24.473
+01:40,1,Oscar,121.633
+01:40,2,Zendaya,78.316
+01:40,3,Botafogo,109.272
+01:40,4,Corinthians,183.969
+01:40,5,USMNT,
+01:40,6,USAvPAN,
+01:40,7,AGS2,10.504
+01:40,8,CANMNT,52.099
+01:40,9,Duke,120.783
+01:40,10,billie,49.491
+02:10,1,Oscars,509.485
+02:10,2,Beyoncé,112.692
+02:10,3,Zendaya,93.534
+02:10,4,Botafogo,111.611
+02:10,5,USMNT,
+02:10,6,GloriaGrooveNoCanalBis,
+02:10,7,USAvPAN,
+02:10,8,Dune,76.584
+02:10,9,billie,57.208
+02:10,10,Corinthians,183.659
+02:40,1,Oscars,684.666
+02:40,2,Beyoncé,168.325
+02:40,3,Pulisic,17.419
+02:40,4,Ariana DeBose,38.596
+02:40,5,Amy Schumer,16.467
+02:40,6,Zendaya,104.219
+02:40,7,GloriaGrooveNoCanalBis,20.058
+02:40,8,Dune,93.913
+02:40,9,USMNT,11.364
+02:40,10,USAvPAN,
+03:10,1,Oscars,856.117
+03:10,2,Dune,144.260
+03:10,3,Beyoncé,193.649
+03:10,4,Encanto,89.055
+03:10,5,Zendaya,113.336
+03:10,6,Ariana DeBose,51.152
+03:10,7,Pulisic,20.848
+03:10,8,Amy Schumer,19.692
+03:10,9,GloriaGrooveNoCanalBis,24.967
+03:10,10,AcademyAwards,27.335
+03:40,1,Oscars,1.044.820
+03:40,2,Dune,155.269
+03:40,3,Lakers,54.224
+03:40,4,Encanto,135.948
+03:40,5,Beyoncé,211.014
+03:40,6,Troy Kotsur,36.791
+03:40,7,AcademyAwards,33.020
+03:40,8,Zendaya,120.633
+03:40,9,Ariana DeBose,56.927
+03:40,10,Amy Schumer,22.424
+04:10,1,Oscars,1.263.904
+04:10,2,Gabriel Monteiro,44.180
+04:10,3,Encanto,170.712
+04:10,4,Lakers,60.570
+04:10,5,Dune,165.451
+04:10,6,Megan,60.645
+04:10,7,Beyoncé,223.342
+04:10,8,Troy Kotsur,46.714
+04:10,9,We Don't Talk About Bruno,32.921
+04:10,10,CODA,80.104
+04:40,1,Oscars,1.484.169
+04:40,2,Will Smith,228.383
+04:40,3,Gabriel Monteiro,52.716
+04:40,4,Natália,124.754
+04:40,5,Encanto,196.137
+04:40,6,Jada,43.573
+04:40,7,Dune,179.729
+04:40,8,Lakers,64.738
+04:40,9,Megan,69.707
+04:40,10,Beyoncé,245.705
+05:10,1,Will Smith,879.550
+05:10,2,Oscars,1.926.369
+05:10,3,Jada,196.509
+05:10,4,Billie,148.909
+05:10,5,Lupita,64.558
+05:10,6,Gabriel Monteiro,56.252
+05:10,7,GI Jane,25.049
+05:10,8,Natália,128.261
+05:10,9,Encanto,210.115
+05:10,10,Beyoncé,279.566
+05:40,1,Will Smith,1.539.265
+05:40,2,Oscars,2.393.704
+05:40,3,Jada,315.605
+05:40,4,Lucas,182.991
+05:40,5,Andrew,343.309
+05:40,6,GI Jane,36.105
+05:40,7,Lupita,82.899
+05:40,8,Billie,163.553
+05:40,9,Gabriel Monteiro,58.996
+05:40,10,AcademyAwards,74.206
+06:10,1,Will Smith,1.998.715
+06:10,2,Oscars,2.685.519
+06:10,3,Jada,412.677
+06:10,4,Lucas,193.772
+06:10,5,CODA,183.535
+06:10,6,GI Jane,44.010
+06:10,7,Andrew,371.943
+06:10,8,Lupita,95.924
+06:10,9,Billie,170.343
+06:10,10,AcademyAwards,88.025
+06:40,1,Will Smith,2.313.162
+06:40,2,Oscars,2.682.293
+06:40,3,Jada,489.155
+06:40,4,GI Jane,50.254
+06:40,5,CODA,199.181
+06:40,6,Lucas,202.184
+06:40,7,Andrew,390.724
+06:40,8,Lupita,104.494
+06:40,9,AcademyAwards,96.752
+06:40,10,Hollywood,151.963
+07:10,1,Will Smith,68.450
+07:10,2,Will Smith,68.450
+07:10,3,Jada,548.982
+07:10,4,GI Jane,54.657
+07:10,5,CODA,209.865
+07:10,6,Lucas,204.086
+07:10,7,AcademyAwards,103.360
+07:10,8,Lupita,111.173
+07:10,9,Hollywood,161.135
+07:10,10,Andrew,402.490
+07:40,1,Will Smith,2.649.016
+07:40,2,Jada,599.418
+07:40,3,GI Jane,58.309
+07:40,4,CODA,217.699
+07:40,5,Hollywood,170.559
+07:40,6,AcademyAwards,108.924
+07:40,7,Lupita,117.068
+07:40,8,めざせジャンプチ識王,18.210
+07:40,9,ジャンプチヒーローズ,18.520
+07:40,10,whatjusthappened,38.462
+08:10,1,Will Smith,2.071.548
+08:10,2,Jada,647.810
+08:10,3,GI Jane,62.014
+08:10,4,Hollywood,176.239
+08:10,5,CODA,223.796
+08:10,6,AcademyAwards,114.555
+08:10,7,めざせジャンプチ識王,20.381
+08:10,8,ジャンプチヒーローズ,20.768
+08:10,9,ジャンプチ4周年,29.524
+08:10,10,whatjusthappened,40.810
+08:40,1,Will Smith,2.705.230
+08:40,2,Jada,690.088
+08:40,3,GI Jane,65.555
+08:40,4,Hollywood,183.388
+08:40,5,めざせジャンプチ識王,22.506
+08:40,6,ジャンプチヒーローズ,22.818
+08:40,7,ジャンプチ4周年,31.704
+08:40,8,AcademyAwards,119.375
+08:40,9,CODA,228.891
+08:40,10,whatjusthappened,43.290
+09:10,1,Will Smith,43.798
+09:10,2,Will Smith,43.798
+09:10,3,Jada,729.305
+09:10,4,GI Jane,68.697
+09:10,5,Hollywood,188.149
+09:10,6,ジャンプチヒーローズ,24.607
+09:10,7,めざせジャンプチ識王,24.288
+09:10,8,ジャンプチ4周年,33.656
+09:10,9,AcademyAwards,124.391
+09:10,10,whatjusthappened,45.415
+09:40,1,Will Smith,2.577.847
+09:40,2,Will Smith,2.577.847
+09:40,3,Jada,765.339
+09:40,4,GI Jane,71.670
+09:40,5,Hollywood,194.366
+09:40,6,ジャンプチヒーローズ,26.333
+09:40,7,めざせジャンプチ識王,25.968
+09:40,8,ジャンプチ4周年,35.445
+09:40,9,Ricky Gervais,24.898
+09:40,10,WillAndChris,
+10:10,1,Will Smith,2.603.685
+10:10,2,Will Smith,2.603.685
+10:10,3,Jada,797.566
+10:10,4,시즈니_글리치모드_스위치온,157.051
+10:10,5,WillAndChris,
+10:10,6,7DREAMonGlitchMode,159.232
+10:10,7,GI Jane,74.472
+10:10,8,Hollywood,195.354
+10:10,9,Ricky Gervais,26.539
+10:10,10,ジャンプチヒーローズ,27.911
+10:40,1,Will Smith,1.631.081
+10:40,2,Jada,829.496
+10:40,3,WillAndChris,12.755
+10:40,4,시즈니_글리치모드_스위치온,169.846
+10:40,5,7DREAMonGlitchMode,174.004
+10:40,6,Ricky Gervais,28.081
+10:40,7,GI Jane,77.324
+10:40,8,ジャンプチヒーローズ,29.593
+10:40,9,めざせジャンプチ識王,29.195
+10:40,10,Hollywood,202.935
+11:10,1,Will Smith,2.165.793
+11:10,2,Jada,860.085
+11:10,3,7DREAMonGlitchMode,232.492
+11:10,4,시즈니_글리치모드_스위치온,226.754
+11:10,5,WillAndChris,16.396
+11:10,6,大阪桐蔭,15.029
+11:10,7,Ricky Gervais,29.533
+11:10,8,MondayMotivation,52.377
+11:10,9,ジャンプチヒーローズ,31.273
+11:10,10,HAVE A SAFE FLIGHT JUNGKOOK,82.353
+11:40,1,Will Smith,2.998.412
+11:40,2,7DREAMonGlitchMode,310.283
+11:40,3,Jada,891.234
+11:40,4,시즈니_글리치모드_스위치온,284.913
+11:40,5,Oscars,3.929.002
+11:40,6,WillAndChris,20.075
+11:40,7,大阪桐蔭,18.818
+11:40,8,MondayMotivation,54.973
+11:40,9,Ricky Gervais,31.189
+11:40,10,唐橋さん,
+12:10,1,Will Smith,3.235.785
+12:10,2,7DREAMonGlitchMode,360.694
+12:10,3,Jada,922.485
+12:10,4,시즈니_글리치모드_스위치온,323.043
+12:10,5,WillAndChris,24.617
+12:10,6,Oscars,5.055.900
+12:10,7,CDTVライブライブ,29.582
+12:10,8,HaveASafeFlightBTS,
+12:10,9,唐橋さん,
+12:10,10,大阪桐蔭,20.458
+12:40,1,Will Smith,3.877.356
+12:40,2,7DREAMonGlitchMode,391.797
+12:40,3,CDTVライブライブ,42.695
+12:40,4,Jada,953.207
+12:40,5,WillAndChris,28.647
+12:40,6,HaveASafeFlightBTS,26.710
+12:40,7,시즈니_글리치모드_스위치온,350.521
+12:40,8,唐橋さん,
+12:40,9,Ricky Gervais,34.665
+12:40,10,マイナ保険証,
+13:10,1,Will Smith,3.832.285
+13:10,2,CDTVライブライブ,70.130
+13:10,3,HaveASafeFlightBTS,45.284
+13:10,4,WillAndChris,33.206
+13:10,5,7DREAMonGlitchMode,419.160
+13:10,6,Jada,985.033
+13:10,7,시즈니_글리치모드_스위치온,372.642
+13:10,8,マイナ保険証,
+13:10,9,唐橋さん,
+13:10,10,イェラン,41.256
+13:40,1,Will Smith,2.577.987
+13:40,2,CDTVライブライブ,110.110
+13:40,3,HaveASafeFlightBTS,58.425
+13:40,4,WillAndChris,37.647
+13:40,5,Jada,1.020.442
+13:40,6,7DREAMonGlitchMode,443.749
+13:40,7,タイムリミットバトルボカーン,21.504
+13:40,8,トラジャ,57.273
+13:40,9,マイナ保険証,
+13:40,10,映像の世紀,
+15:10,1,Will Smith,1.353.196
+15:10,2,CDTVライブライブ,159.850
+15:10,3,ミステリと言う勿れ,30.062
+15:10,4,WillAndChris,48.895
+15:10,5,Jada,1.139.402
+15:10,6,HaveASafeFlightBTS,84.075
+15:10,7,AKBの元カレです,27.065
+15:10,8,Wordle 282 X,16.348
+15:10,9,Oscars,3.765.227
+15:10,10,マイナ保険証,
+15:40,1,Will Smith,1.541.315
+15:40,2,ミステリと言う勿れ,42.261
+15:40,3,CDTVライブライブ,176.980
+15:40,4,WillAndChris,52.266
+15:40,5,Jada,1.182.864
+15:40,6,HaveASafeFlightBTS,92.789
+15:40,7,AKBの元カレです,32.325
+15:40,8,Wordle 282 X,17.170
+15:40,9,終わり方,
+15:40,10,Hollywood,266.876
+16:10,1,Will Smith,1.719.393
+16:10,2,ミステリと言う勿れ,45.173
+16:10,3,CDTVライブライブ,193.156
+16:10,4,WillAndChris,55.588
+16:10,5,Jada,1.223.791
+16:10,6,しらんけど,22.622
+16:10,7,ジャニーズWEST,55.733
+16:10,8,Wordle 282 X,17.915
+16:10,9,Hard Knocks,
+16:10,10,Hollywood,272.978
+16:40,1,Will Smith,1.663.725
+16:40,2,ミステリと言う勿れ,47.238
+16:40,3,CDTVライブライブ,199.611
+16:40,4,WillAndChris,59.266
+16:40,5,Jada,1.262.565
+16:40,6,しらんけど,25.604
+16:40,7,HaveASafeFlightBTS,105.021
+16:40,8,Wordle 282 X,18.648
+16:40,9,Hollywood,283.540
+16:40,10,Hard Knocks,
+17:10,1,Will Smith,1.812.217
+17:10,2,ミステリと言う勿れ,48.563
+17:10,3,Jada,1.267.542
+17:10,4,WillAndChris,62.355
+17:10,5,ReneDayDay,83.216
+17:10,6,CDTVライブライブ,203.358
+17:10,7,しらんけど,27.135
+17:10,8,BORN TO DAZZLE IRENE,48.886
+17:10,9,Wordle 282 X,18.385
+17:10,10,Hollywood,289.848
+17:40,1,Will Smith,1.969.802
+17:40,2,ReneDayDay,119.100
+17:40,3,Jada,1.345.941
+17:40,4,ミステリと言う勿れ,49.651
+17:40,5,WillAndChris,65.212
+17:40,6,アニメプリコネR,30.129
+17:40,7,CDTVライブライブ,205.880
+17:40,8,BORN TO DAZZLE IRENE,60.309
+17:40,9,Wordle 283,
+17:40,10,第67回,
+18:10,1,Will Smith,1.700.660
+18:10,2,ReneDayDay,139.019
+18:10,3,Jada,1.348.912
+18:10,4,WillAndChris,68.274
+18:10,5,ミステリと言う勿れ,50.341
+18:10,6,BusinessProposalEp9,56.448
+18:10,7,ENHYPENANNX,34.630
+18:10,8,第67回,
+18:10,9,Wordle 283,
+18:10,10,BORN TO DAZZLE IRENE,66.874
+18:40,1,Will Smith,1.497.955
+18:40,2,ReneDayDay,149.669
+18:40,3,Jada,1.426.075
+18:40,4,WillAndChris,71.310
+18:40,5,AS IT WAS,359.076
+18:40,6,BusinessProposalEp9,69.742
+18:40,7,ENHYPENANNX,44.622
+18:40,8,第67回,
+18:40,9,ミステリと言う勿れ,50.935
+18:40,10,Wordle 283,
+19:10,1,Will Smith,1.956.896
+19:10,2,Jada,1.463.456
+19:10,3,WillAndChris,74.457
+19:10,4,ReneDayDay,156.418
+19:10,5,AS IT WAS,394.738
+19:10,6,BusinessProposalEp9,80.441
+19:10,7,ENHYPENANNX,48.288
+19:10,8,第67回,
+19:10,9,松坂桃李ANN,10.695
+19:10,10,Wordle 283,10.014
+19:40,1,Will Smith,2.716.615
+19:40,2,Jada,1.452.711
+19:40,3,WillAndChris,77.444
+19:40,4,As It Was,414.283
+19:40,5,ReneDayDay,161.092
+19:40,6,BusinessProposalEp9,88.774
+19:40,7,HandeErçelXAtasay,49.369
+19:40,8,松坂桃李ANN,13.554
+19:40,9,第67回,
+19:40,10,Wordle 283,11.095
+20:10,1,Will Smith,4.890.921
+20:10,2,Jada,1.535.393
+20:10,3,WillAndChris,80.296
+20:10,4,As It Was,430.037
+20:10,5,BusinessProposalEp9,94.267
+20:10,6,ReneDayDay,164.512
+20:10,7,松坂桃李ANN,15.342
+20:10,8,HandeErçelXAtasay,55.172
+20:10,9,第67回,
+20:10,10,Roman Abramovich,62.633
+20:40,1,Will Smith,4.236.414
+20:40,2,Jada,1.568.336
+20:40,3,WillAndChris,83.405
+20:40,4,As It Was,451.163
+20:40,5,BusinessProposalEp9,97.873
+20:40,6,Copa do Brasil,13.712
+20:40,7,ReneDayDay,166.914
+20:40,8,HandeErçelXAtasay,58.682
+20:40,9,LSGvsGT,11.915
+20:40,10,Roman Abramovich,67.472
+21:10,1,Will Smith,3.130.525
+21:10,2,Jada,1.599.453
+21:10,3,WillAndChris,85.896
+21:10,4,As It Was,461.713
+21:10,5,Cancún,34.666
+21:10,6,Copa do Brasil,15.328
+21:10,7,BusinessProposalEp9,100.978
+21:10,8,HandeErçelXAtasay,62.040
+21:10,9,⃢BTS,13.319
+21:10,10,VisibleWomen,14.032
+21:40,1,Will Smith,3.502.494
+21:40,2,Jada,1.628.655
+21:40,3,WillAndChris,88.289
+21:40,4,MAPR,
+21:40,5,Cancún,40.432
+21:40,6,Survivor2022alltar,
+21:40,7,Copa do Brasil,16.235
+21:40,8,As It Was,474.627
+21:40,9,Umudu BirlikteBüyütelim,21.972
+21:40,10,⃢BTS,15.090
+22:10,1,Will Smith,
+22:10,2,Chris Rock,4.436.581
+22:10,3,MAPR,
+22:10,4,Jada,1.656.554
+22:10,5,WillAndChris,90.384
+22:10,6,Survivor2022alltar,
+22:10,7,Fashion Nova,
+22:10,8,PMSWrestleManiaMonday,
+22:10,9,Cancún,44.366
+22:10,10,UniversityChallenge,
+22:40,1,Will Smith,1.714.110
+22:40,2,MAPR,
+22:40,3,Survivor2022alltar,12.130
+22:40,4,MariesAu1erRegard,
+22:40,5,MourinhoShow,
+22:40,6,Fashion Nova,
+22:40,7,Jada,1.682.807
+22:40,8,WillAndChris,92.208
+22:40,9,Cancún,47.425
+22:40,10,Milton Ribeiro,17.712
+23:10,1,isola,
+23:10,2,MAPR,
+23:10,3,MariesAu1erRegard,
+23:10,4,Survivor2022alltar,15.873
+23:10,5,MourinhoShow,
+23:10,6,Fashion Nova,
+23:10,7,Doocy,16.116
+23:10,8,Jada,1.707.839
+23:10,9,Milton Ribeiro,20.229
+23:10,10,Cancún,49.615
+23:40,1,isola,
+23:40,2,MariesAu1erRegard,
+23:40,3,MAPR,
+23:40,4,Survivor2022alltar,17.734
+23:40,5,WillSmithAssault,20.164
+23:40,6,Doocy,20.521
+23:40,7,Fashion Nova,
+23:40,8,Milton Ribeiro,22.289
+23:40,9,RATIO IS OUT NOW,
+23:40,10,Cancún,51.929

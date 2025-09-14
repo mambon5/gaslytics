@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,ARSLIV,102.912
+00:10,2,Liverpool,252.002
+00:10,3,Arsenal,287.036
+00:10,4,Villarreal,88.916
+00:10,5,Martinelli,45.987
+00:10,6,Von Miller,26.783
+00:10,7,Jota,43.308
+00:10,8,Rockies,17.119
+00:10,9,Andreas,16.274
+00:10,10,Firmino,24.072
+00:40,1,ARSLIV,104.101
+00:40,2,Liverpool,259.175
+00:40,3,Arsenal,292.226
+00:40,4,Villarreal,92.644
+00:40,5,Martinelli,47.185
+00:40,6,Von Miller,33.657
+00:40,7,Andreas,20.150
+00:40,8,Rockies,19.112
+00:40,9,FaceABaba,68.470
+00:40,10,Jota,44.366
+01:10,1,Gabigol,22.853
+01:10,2,Liverpool,260.450
+01:10,3,ARSLIV,104.555
+01:10,4,Flamengo,132.054
+01:10,5,Villarreal,94.734
+01:10,6,Arsenal,292.757
+01:10,7,Von Miller,36.727
+01:10,8,Andreas,21.094
+01:10,9,Martinelli,48.020
+01:10,10,Bills,124.383
+01:40,1,Flamengo,139.799
+01:40,2,AEWDynamite,21.495
+01:40,3,Gabigol,24.227
+01:40,4,Andreas,23.987
+01:40,5,Liverpool,263.896
+01:40,6,Von Miller,38.974
+01:40,7,Villarreal,96.373
+01:40,8,ARSLIV,104.999
+01:40,9,Arsenal,294.909
+01:40,10,Martinelli,48.668
+02:10,1,AEWDynamite,35.848
+02:10,2,Flamengo,157.513
+02:10,3,Gabigol,28.600
+02:10,4,Andreas,24.128
+02:10,5,Von Miller,40.419
+02:10,6,Zé Ricardo,
+02:10,7,Liverpool,264.518
+02:10,8,Jericho,
+02:10,9,Villarreal,97.299
+02:10,10,ARSLIV,105.539
+02:40,1,AEWDynamite,48.028
+02:40,2,Flamengo,173.971
+02:40,3,Gabigol,32.327
+02:40,4,UmLugarAoSol,10.722
+02:40,5,Zé Ricardo,
+02:40,6,Von Miller,41.670
+02:40,7,Andreas,24.829
+02:40,8,SistasOnBET,
+02:40,9,Jericho,
+02:40,10,Cruzeiro,68.472
+03:10,1,AEWDynamite,68.032
+03:10,2,Flamengo,179.495
+03:10,3,Mavs,11.109
+03:10,4,Luka,33.855
+03:10,5,Thunder Rosa,
+03:10,6,Spencer Dinwiddie,
+03:10,7,Gabriel Teixeira,
+03:10,8,MissWorld2021,
+03:10,9,MFFL,
+03:10,10,SistasOnBET,
+03:40,1,Felipe Melo,15.475
+03:40,2,AEWDynamite,73.911
+03:40,3,Olimpia,43.197
+03:40,4,Gabriel Teixeira,
+03:40,5,Mavs,13.524
+03:40,6,Flamengo,185.204
+03:40,7,Luka,37.131
+03:40,8,Fábio,23.299
+03:40,9,MissWorld2021,12.385
+03:40,10,Abel,33.614
+04:10,1,Olimpia,83.049
+04:10,2,Felipe Melo,27.572
+04:10,3,AEWDynamite,75.940
+04:10,4,Gabriel Teixeira,
+04:10,5,Abel,38.725
+04:10,6,SnowfallFX,
+04:10,7,Flamengo,184.319
+04:10,8,Mavs,14.167
+04:10,9,Fábio,24.981
+04:10,10,Paraguai,
+04:40,1,Olimpia,102.648
+04:40,2,Felipe Melo,30.380
+04:40,3,AEWDynamite,77.528
+04:40,4,Gabriel Teixeira,
+04:40,5,SnowfallFX,10.170
+04:40,6,Abel,40.300
+04:40,7,ブライト,10.588
+04:40,8,Flamengo,188.051
+04:40,9,Mavs,14.722
+04:40,10,Marcus Smart,
+05:10,1,Rutgers,18.306
+05:10,2,Olimpia,113.606
+05:10,3,Felipe Melo,32.055
+05:10,4,AEWDynamite,78.981
+05:10,5,ブライト,13.364
+05:10,6,Gabriel Teixeira,
+05:10,7,SnowfallFX,10.496
+05:10,8,Double OT,
+05:10,9,Abel,40.627
+05:10,10,MarchMadness,32.161
+05:40,1,Rutgers,20.804
+05:40,2,Dodgers,56.387
+05:40,3,Olimpia,121.945
+05:40,4,Felipe Melo,33.103
+05:40,5,Pumas,15.960
+05:40,6,AEWDynamite,80.436
+05:40,7,Notre Dame,23.352
+05:40,8,ブライト,15.002
+05:40,9,Celtics,22.193
+05:40,10,Marcus Smart,
+06:10,1,Natália,88.282
+06:10,2,Dodgers,64.011
+06:10,3,Rutgers,21.264
+06:10,4,Olimpia,127.703
+06:10,5,Pumas,18.955
+06:10,6,Felipe Melo,33.680
+06:10,7,AEWDynamite,81.615
+06:10,8,Notre Dame,23.476
+06:10,9,ブライト,16.041
+06:10,10,Celtics,23.731
+06:40,1,Natália,100.854
+06:40,2,Dodgers,67.830
+06:40,3,Rutgers,21.548
+06:40,4,Olimpia,131.149
+06:40,5,Pumas,20.462
+06:40,6,BeratKandili,18.333
+06:40,7,Felipe Melo,34.127
+06:40,8,KinnPorscheLaForte,27.496
+06:40,9,Happy Holi,50.532
+06:40,10,AEWDynamite,82.363
+07:10,1,Natália,105.595
+07:10,2,Dodgers,69.969
+07:10,3,BeratKandili,21.863
+07:10,4,Rutgers,21.675
+07:10,5,Olimpia,132.986
+07:10,6,Happy Holi,54.968
+07:10,7,Pumas,21.415
+07:10,8,KinnPorscheLaForte,36.880
+07:10,9,Felipe Melo,34.396
+07:10,10,ファミマペイントアート,
+07:40,1,StrayKidsComeback,242.446
+07:40,2,MANIAC_SKZ,256.288
+07:40,3,BeratKandili,26.582
+07:40,4,Natália,108.350
+07:40,5,Dodgers,71.486
+07:40,6,스트레이키즈,237.185
+07:40,7,HappyHoli,33.174
+07:40,8,Rutgers,21.827
+07:40,9,Olimpia,134.107
+07:40,10,Pumas,21.861
+08:10,1,StrayKidsComeback,441.034
+08:10,2,MANIAC_SKZ,292.895
+08:10,3,BeratKandili,32.069
+08:10,4,Felix,102.062
+08:10,5,Natália,109.679
+08:10,6,1ΞX0,
+08:10,7,스트레이키즈,243.659
+08:10,8,Dodgers,72.434
+08:10,9,Happy Holi,65.814
+08:10,10,愛子さま,
+08:40,1,StrayKidsComeback,597.695
+08:40,2,BeratKandili,37.801
+08:40,3,MANIAC_SKZ,321.240
+08:40,4,1ΞX0,21.874
+08:40,5,Felix,105.278
+08:40,6,Natália,111.131
+08:40,7,HappyHoli,39.290
+08:40,8,St Patrick,73.224
+08:40,9,Dodgers,73.232
+08:40,10,愛子さま,
+09:10,1,StrayKidsComeback,769.838
+09:10,2,BeratKandili,43.934
+09:10,3,1ΞX0,42.145
+09:10,4,MANIAC_SKZ,340.186
+09:10,5,St Patrick,77.312
+09:10,6,HappyHoli,42.119
+09:10,7,felix,104.730
+09:10,8,Natália,111.980
+09:10,9,愛子さま,
+09:10,10,Ramazan,29.219
+10:10,1,StrayKidsComeback,1.035.487
+10:10,2,BeratKandili,56.310
+10:10,3,1ΞX0,57.336
+10:10,4,St Patrick,88.077
+10:10,5,MANIAC_SKZ,383.803
+10:10,6,PPgraduation,432.389
+10:10,7,sehun,99.962
+10:10,8,Felix,106.931
+10:10,9,愛子さま,13.518
+10:10,10,Ramazan,31.114
+10:40,1,StrayKidsComeback,1.041.347
+10:40,2,BeratKandili,62.269
+10:40,3,St Patrick,95.041
+10:40,4,1ΞX0,62.678
+10:40,5,MANIAC_SKZ,385.609
+10:40,6,AFLBluesTigers,
+10:40,7,sehun,111.286
+10:40,8,愛子さま,15.499
+10:40,9,Ramazan,32.900
+10:40,10,Felix,109.860
+11:10,1,StrayKidsComeback,1.051.121
+11:10,2,St Patrick,102.212
+11:10,3,BeratKandili,67.367
+11:10,4,1ΞX0,66.696
+11:10,5,Bundestag,
+11:10,6,MANIAC_SKZ,383.753
+11:10,7,sehun,114.947
+11:10,8,Hushpuppi,13.489
+11:10,9,Tagesordnung,
+11:10,10,Ramazan,33.009
+11:40,1,StrayKidsComeback,1.059.891
+11:40,2,St Patrick,110.958
+11:40,3,BeratKandili,71.932
+11:40,4,1ΞX0,69.988
+11:40,5,VS魂,12.299
+11:40,6,Bundestag,10.910
+11:40,7,Hushpuppi,21.630
+11:40,8,Sehun,119.664
+11:40,9,京都国際,
+11:40,10,ちんこ勝負,12.753
+12:10,1,St Patrick,120.380
+12:10,2,StrayKidsComeback,1.064.403
+12:10,3,BeratKandili,75.948
+12:10,4,AFLBluesTigers,
+12:10,5,VS魂,17.831
+12:10,6,1ΞX0,72.927
+12:10,7,Hushpuppi,29.062
+12:10,8,京都国際,
+12:10,9,ちんこ勝負,16.578
+12:10,10,sehun,120.040
+12:40,1,StPatricksDay,75.946
+12:40,2,BeratKandili,80.212
+12:40,3,straykidscomeback,1.072.653
+12:40,4,AFLBluesTigers,
+12:40,5,13MSmileWithBright,42.330
+12:40,6,花の名前,
+12:40,7,Hushpuppi,36.068
+12:40,8,京都国際,
+12:40,9,ちんこ勝負,19.857
+12:40,10,Natália,131.736
+13:10,1,StPatricksDay,83.097
+13:10,2,ジャにのちゃんねる,12.883
+13:10,3,13MSmileWithBright,104.585
+13:10,4,素のまんま,
+13:10,5,MVHowYouFeel,62.679
+13:10,6,花の名前,
+13:10,7,Hushpuppi,41.013
+13:10,8,京都国際,
+13:10,9,ちんこ勝負,23.202
+13:10,10,Natália,135.671
+13:40,1,St. Patrick,160.927
+13:40,2,MVHowYouFeel,168.919
+13:40,3,素のまんま,31.750
+13:40,4,花の名前,
+13:40,5,13MSmileWithBright,155.967
+13:40,6,ジャにのちゃんねる,13.992
+13:40,7,OPPOReno7Z_th,47.855
+13:40,8,ベトコンラーメン,
+13:40,9,Hushpuppi,45.431
+13:40,10,ちんこ勝負,26.450
+14:10,1,St. Patrick,181.537
+14:10,2,MVHowYouFeel,265.828
+14:10,3,花の名前,
+14:10,4,素のまんま,34.621
+14:10,5,13MSmileWithBright,193.178
+14:10,6,ジャにのちゃんねる,13.895
+14:10,7,となりのチカラ,21.502
+14:10,8,Vitinha,
+14:10,9,ベトコンラーメン,
+14:10,10,幻覚作用,
+14:40,1,St. Patrick,202.732
+14:40,2,花の名前,11.023
+14:40,3,13MSmileWithBright,227.653
+14:40,4,MVHowYouFeel,329.938
+14:40,5,素のまんま,35.832
+14:40,6,Vitinha,
+14:40,7,OPPOReno7Z_th,117.750
+14:40,8,ジャックジャンヌ1周年を楽しもう,16.578
+14:40,9,DOIS MESES COM PA,38.957
+14:40,10,St. Paddy,14.373
+15:10,1,St. Patrick,223.604
+15:10,2,13MSmileWithBright,269.479
+15:10,3,花の名前,11.647
+15:10,4,MVHowYouFeel,380.316
+15:10,5,ダウンタウンDX,
+15:10,6,素のまんま,36.510
+15:10,7,ガルパ5周年アニメ02,
+15:10,8,Vitinha,
+15:10,9,DOIS MESES COM PA,49.864
+15:10,10,St. Paddy,15.824
+15:40,1,St. Patrick,246.048
+15:40,2,ガルパ5周年アニメ02,13.091
+15:40,3,13MSmileWithBright,296.488
+15:40,4,花の名前,12.604
+15:40,5,Mings,
+15:40,6,MVHowYouFeel,413.743
+15:40,7,Tomori,
+15:40,8,Southgate,
+15:40,9,SerieXiaomi12,17.132
+15:40,10,ダウンタウンDX,
+16:10,1,St. Patrick,270.227
+16:10,2,ガルパ5周年アニメ02,14.831
+16:10,3,花の名前,13.077
+16:10,4,13MSmileWithBright,316.735
+16:10,5,Mings,
+16:10,6,Southgate,
+16:10,7,Tomori,10.305
+16:10,8,RVF2022_D3,23.899
+16:10,9,ツイステ2周年,
+16:10,10,FEEL MY RHYTHM TEASER,123.077
+16:40,1,St. Patrick,292.817
+16:40,2,タコピー,65.803
+16:40,3,ツイステ2周年,
+16:40,4,ガルパ5周年アニメ02,15.309
+16:40,5,RVF2022_D3,41.971
+16:40,6,Southgate,11.175
+16:40,7,Mings,
+16:40,8,Wordle 272,
+16:40,9,Tomori,12.020
+16:40,10,花の名前,13.539
+17:10,1,St. Patrick,314.636
+17:10,2,タコピー,83.403
+17:10,3,第56回,
+17:10,4,ツイステ2周年,
+17:10,5,Wordle 272,
+17:10,6,RVF2022_D3,49.050
+17:10,7,しずかちゃん,11.771
+17:10,8,真夜中にハロー,20.463
+17:10,9,Southgate,12.411
+17:10,10,Tomori,13.295
+17:40,1,St. Patrick,335.722
+17:40,2,タコピー,92.574
+17:40,3,MarchMadness,51.082
+17:40,4,第56回,
+17:40,5,ツイステ2周年,
+17:40,6,Wordle 272,10.378
+17:40,7,しずかちゃん,13.573
+17:40,8,moadisband,10.393
+17:40,9,Southgate,13.487
+17:40,10,Tomori,14.597
+18:10,1,St. Patrick,354.767
+18:10,2,タコピー,97.344
+18:10,3,MarchMadness,52.932
+18:10,4,Michigan,34.218
+18:10,5,Fedez,
+18:10,6,第56回,
+18:10,7,GSVSBARCA,
+18:10,8,Colorado State,
+18:10,9,moadisband,12.079
+18:10,10,ツイステ2周年,
+18:40,1,St. Patrick,371.534
+18:40,2,タコピー,100.646
+18:40,3,MarchMadness,55.636
+18:40,4,GSVSBARCA,
+18:40,5,Michigan,36.844
+18:40,6,Fedez,
+18:40,7,FLCL,
+18:40,8,第56回,
+18:40,9,Colorado State,
+18:40,10,DALAMPASIGAN OUT NOW,134.620
+19:10,1,St. Patrick,391.230
+19:10,2,GSVSBARCA,
+19:10,3,タコピー,102.679
+19:10,4,MarchMadness,56.982
+19:10,5,Michigan,39.629
+19:10,6,Fedez,11.224
+19:10,7,Colorado State,
+19:10,8,FLCL,
+19:10,9,GalatasarayBarcelona,
+19:10,10,DALAMPASIGAN OUT NOW,160.911
+19:40,1,Pedri,69.967
+19:40,2,GSVSBARCA,15.359
+19:40,3,St. Patrick,408.984
+19:40,4,Michigan,47.022
+19:40,5,MarchMadness,61.336
+19:40,6,GalatasarayBarcelona,
+19:40,7,Gomis,10.130
+19:40,8,Colorado State,11.316
+19:40,9,タコピー,104.435
+19:40,10,Marcao,17.310
+20:10,1,Pedri,89.326
+20:10,2,GSVSBARCA,19.938
+20:10,3,St. Patrick,424.206
+20:10,4,Michigan,47.701
+20:10,5,Gomis,14.091
+20:10,6,MarchMadness,63.218
+20:10,7,GalatasarayBarcelona,10.735
+20:10,8,النصر_الفيحاء,30.810
+20:10,9,Colorado State,11.655
+20:10,10,Auba,12.135
+20:40,1,GSVSBARCA,24.038
+20:40,2,Pedri,97.816
+20:40,3,St. Patrick,440.832
+20:40,4,النصر_الفيحاء,40.162
+20:40,5,Jordi Alba,
+20:40,6,Michigan,49.420
+20:40,7,Galatasaray,152.260
+20:40,8,MarchMadness,65.636
+20:40,9,Fujimori,89.291
+20:40,10,Gomis,14.520
+21:10,1,GSVSBARCA,34.703
+21:10,2,Pedri,123.561
+21:10,3,St. Patrick,453.227
+21:10,4,Galatasaray,168.751
+21:10,5,النصر_الفيحاء,48.623
+21:10,6,Browns,93.042
+21:10,7,Jordi Alba,
+21:10,8,Fujimori,103.781
+21:10,9,Baker,102.651
+21:10,10,Ertem Şener,
+21:40,1,GSVSBARCA,36.753
+21:40,2,Pedri,136.239
+21:40,3,St. Patrick,468.597
+21:40,4,Galatasaray,179.734
+21:40,5,Browns,102.770
+21:40,6,النصر_الفيحاء,55.375
+21:40,7,Baker,112.715
+21:40,8,Fujimori,116.849
+21:40,9,Jordi Alba,
+21:40,10,Rams,30.017
+22:10,1,EVENEW,13.723
+22:10,2,GSVSBARCA,37.615
+22:10,3,Pedri,146.219
+22:10,4,St. Patrick,480.252
+22:10,5,Galatasaray,183.249
+22:10,6,Browns,104.270
+22:10,7,Iowa,27.494
+22:10,8,Fujimori,126.408
+22:10,9,GNTM,
+22:10,10,النصر_الفيحاء,59.990
+22:40,1,Iowa,51.163
+22:40,2,EVENEW,22.146
+22:40,3,HogwartsLegacy,13.768
+22:40,4,TheApprentice,
+22:40,5,GSVSBARCA,37.880
+22:40,6,Richmond,26.546
+22:40,7,Everton,54.058
+22:40,8,St. Patrick,494.725
+22:40,9,Pedri,150.950
+22:40,10,MarchMadness,77.623
+23:10,1,Iowa,56.817
+23:10,2,EVENEW,28.943
+23:10,3,HogwartsLegacy,18.672
+23:10,4,TheApprentice,12.485
+23:10,5,Everton,68.728
+23:10,6,Richmond,28.957
+23:10,7,GSVSBARCA,38.077
+23:10,8,Gonzaga,19.153
+23:10,9,DocNelleTueMani2,17.531
+23:10,10,St. Patrick,507.205
+23:40,1,Iowa,59.688
+23:40,2,EVENEW,31.353
+23:40,3,HogwartsLegacy,21.607
+23:40,4,DocNelleTueMani2,28.873
+23:40,5,TheApprentice,13.269
+23:40,6,Everton,75.743
+23:40,7,SecretGala9,24.719
+23:40,8,West Ham,28.777
+23:40,9,Gonzaga,22.612
+23:40,10,Betis,21.114

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Jeff Beck,48.200
+00:10,2,Southampton,68.718
+00:10,3,BecasEdomex,114.262
+00:10,4,MilanTorino,
+00:10,5,Madrid,235.469
+00:10,6,iHeartAwards,1.021.424
+00:10,7,Courtois,16.597
+00:10,8,セクゾInstagram,
+00:10,9,كورتوا,
+00:10,10,SOUMCI,
+00:40,1,Jeff Beck,73.132
+00:40,2,BecasEdomex,123.139
+00:40,3,Southampton,70.687
+00:40,4,MilanTorino,
+00:40,5,iHeartAwards,1.061.707
+00:40,6,ジェフ・ベック,
+00:40,7,Madrid,240.581
+00:40,8,セクゾInstagram,
+00:40,9,Courtois,17.288
+00:40,10,ApoFlyToTaipei,15.855
+01:10,1,Shakira,202.821
+01:10,2,Shakira,202.821
+01:10,3,Jeff Beck,93.728
+01:10,4,BecasEdomex,131.384
+01:10,5,Southampton,71.836
+01:10,6,ジェフ・ベック,
+01:10,7,ApoFlyToTaipei,88.062
+01:10,8,iHeartAwards,1.102.097
+01:10,9,MilanTorino,
+01:10,10,セクゾInstagram,
+01:40,1,Shakira,397.531
+01:40,2,Shakira,397.531
+01:40,3,Jeff Beck,108.666
+01:40,4,Twingo,
+01:40,5,BecasEdomex,139.224
+01:40,6,ジェフ・ベック,10.997
+01:40,7,ApoFlyToTaipei,151.615
+01:40,8,Casio,
+01:40,9,Southampton,73.014
+01:40,10,Ferrari,21.872
+02:10,1,Shakira,544.361
+02:10,2,Jeff Beck,120.826
+02:10,3,Twingo,23.927
+02:10,4,Casio,11.215
+02:10,5,BecasEdomex,145.274
+02:10,6,Ferrari,26.454
+02:10,7,ジェフ・ベック,13.797
+02:10,8,AEWDynamite,12.734
+02:10,9,ApoFlyToTaipei,200.425
+02:10,10,LAS MUJERES FACTURAN,38.906
+02:40,1,Shakira,658.184
+02:40,2,Shakira,658.184
+02:40,3,AEWDynamite,29.773
+02:40,4,Twingo,34.860
+02:40,5,Casio,17.255
+02:40,6,Adam Cole,
+02:40,7,BecasEdomex,155.127
+02:40,8,Ferrari,29.953
+02:40,9,ジェフ・ベック,16.020
+02:40,10,ApoFlyToTaipei,237.066
+03:10,1,Shakira,743.131
+03:10,2,Shakira,743.131
+03:10,3,AEWDynamite,41.852
+03:10,4,Twingo,45.624
+03:10,5,Casio,23.084
+03:10,6,BecasEdomex,167.334
+03:10,7,Thiago,66.855
+03:10,8,Adam Cole,10.431
+03:10,9,Ferrari,32.654
+03:10,10,MissUniverse,32.172
+03:40,1,Shakira,825.962
+03:40,2,Shakira,825.962
+03:40,3,AEWDynamite,55.149
+03:40,4,Twingo,54.116
+03:40,5,Jeff Beck,152.464
+03:40,6,Thiago,79.108
+03:40,7,Casio,27.894
+03:40,8,BecasEdomex,176.783
+03:40,9,MissUniverse,42.358
+03:40,10,GranHermano,109.490
+04:10,1,Shakira,883.742
+04:10,2,Shakira,883.742
+04:10,3,AEWDynamite,66.451
+04:10,4,Thiago,89.405
+04:10,5,Twingo,61.678
+04:10,6,Casio,32.216
+04:10,7,Jeff Beck,159.735
+04:10,8,MissUniverse,66.128
+04:10,9,BecasEdomex,184.557
+04:10,10,Maxi,74.829
+04:40,1,Shakira,953.770
+04:40,2,AEWDynamite,71.360
+04:40,3,Thiago,98.035
+04:40,4,Twingo,68.741
+04:40,5,Casio,36.526
+04:40,6,Jeff Beck,168.888
+04:40,7,MissUniverse,83.197
+04:40,8,BecasEdomex,190.713
+04:40,9,Maxi,79.260
+04:40,10,GranHermano,119.121
+05:10,1,Shakira,1.010.643
+05:10,2,AEWDynamite,73.320
+05:10,3,Twingo,74.152
+05:10,4,Thiago,100.193
+05:10,5,Casio,39.861
+05:10,6,MissUniverse,97.474
+05:10,7,Jeff Beck,176.450
+05:10,8,NationalYouthDay,54.864
+05:10,9,BecasEdomex,195.428
+05:10,10,Maxi,78.787
+05:40,1,Shakira,1.059.462
+05:40,2,MissUniverse,115.910
+05:40,3,Twingo,78.526
+05:40,4,AEWDynamite,75.071
+05:40,5,Casio,42.609
+05:40,6,Thiago,103.436
+05:40,7,Jeff Beck,183.037
+05:40,8,NationalYouthDay,63.418
+05:40,9,BecasEdomex,198.053
+05:40,10,tama954,
+06:10,1,Shakira,1.093.797
+06:10,2,Shakira,1.093.797
+06:10,3,MissUniverse,127.545
+06:10,4,Twingo,82.162
+06:10,5,Casio,45.033
+06:10,6,NationalYouthDay,71.336
+06:10,7,AEWDynamite,76.358
+06:10,8,Thiago,104.620
+06:10,9,Jeff Beck,188.514
+06:10,10,SwamiVivekananda,11.314
+06:40,1,Shakira,1.134.588
+06:40,2,Shakira,1.134.588
+06:40,3,NationalYouthDay,82.608
+06:40,4,MissUniverse,137.140
+06:40,5,Casio,46.934
+06:40,6,Twingo,84.606
+06:40,7,AEWDynamite,77.529
+06:40,8,Jeff Beck,193.495
+06:40,9,Thiago,107.660
+06:40,10,SwamiVivekananda,13.841
+07:10,1,Shakira,1.159.700
+07:10,2,Shakira,1.159.700
+07:10,3,NationalYouthDay,96.499
+07:10,4,MissUniverse,144.964
+07:10,5,Casio,48.283
+07:10,6,Twingo,86.714
+07:10,7,SwamiVivekananda,16.595
+07:10,8,らっだぁ100万人,
+07:10,9,DAZN,15.085
+07:10,10,Jeff Beck,198.030
+07:40,1,Shakira,1.145.005
+07:40,2,NationalYouthDay,107.439
+07:40,3,DAZN,18.897
+07:40,4,SwamiVivekananda,19.389
+07:40,5,MissUniverse,151.411
+07:40,6,らっだぁ100万人,
+07:40,7,Casio,49.435
+07:40,8,Twingo,88.372
+07:40,9,Jeff Beck,202.927
+07:40,10,Jリーグ,
+08:10,1,Shakira,1.203.643
+08:10,2,DAZN,21.959
+08:10,3,NationalYouthDay,116.339
+08:10,4,SwamiVivekananda,21.517
+08:10,5,らっだぁ100万人,
+08:10,6,MissUniverse,156.046
+08:10,7,Jリーグ,
+08:10,8,Casio,50.349
+08:10,9,Jeff Beck,207.836
+08:10,10,Twingo,89.915
+08:40,1,Shakira,1.195.504
+08:40,2,DAZN,24.659
+08:40,3,NationalYouthDay,125.309
+08:40,4,SwamiVivekananda,23.582
+08:40,5,らっだぁ100万人,
+08:40,6,Jリーグ,
+08:40,7,Jeff Beck,212.093
+08:40,8,MissUniverse,160.627
+08:40,9,Casio,51.249
+08:40,10,Twingo,91.343
+09:10,1,Shakira,1.223.369
+09:10,2,DAZN,27.016
+09:10,3,NationalYouthDay,129.730
+09:10,4,SwamiVivekananda,25.143
+09:10,5,らっだぁ100万人,
+09:10,6,Jリーグ,
+09:10,7,realme10At_12999,
+09:10,8,あなたを恋に落とす難易度,
+09:10,9,Jeff Beck,216.071
+09:10,10,モンストニュース,
+09:40,1,Shakira,1.244.529
+09:40,2,DAZN,29.121
+09:40,3,NationalYouthDay,134.792
+09:40,4,SwamiVivekananda,26.562
+09:40,5,Jリーグ,
+09:40,6,BuBekletmeNeden,28.321
+09:40,7,らっだぁ100万人,
+09:40,8,あなたを恋に落とす難易度,
+09:40,9,いいねかRTで気になった人フォローする,
+09:40,10,Jeff Beck,212.785
+10:10,1,Shakira,1.252.995
+10:10,2,DAZN,31.331
+10:10,3,BuBekletmeNeden,50.441
+10:10,4,NationalYouthDay,139.329
+10:10,5,らっだぁ100万人,
+10:10,6,SwamiVivekananda,28.000
+10:10,7,Jリーグ,10.193
+10:10,8,MemurlarAlanda,16.198
+10:10,9,全世帯対象,
+10:10,10,Jeff Beck,217.948
+10:40,1,Shakira,1.330.730
+10:40,2,DAZN,33.359
+10:40,3,BuBekletmeNeden,74.387
+10:40,4,MemurlarAlanda,21.113
+10:40,5,NationalYouthDay,143.592
+10:40,6,Shehzada,
+10:40,7,らっだぁ100万人,
+10:40,8,Jリーグ,10.877
+10:40,9,全世帯対象,
+10:40,10,Ijtima Ulama PKB,
+11:10,1,Shakira,1.296.144
+11:10,2,DAZN,35.382
+11:10,3,BuBekletmeNeden,97.476
+11:10,4,MemurlarAlanda,25.914
+11:10,5,Shehzada,
+11:10,6,vernon,25.483
+11:10,7,らっだぁを知ったきっかけはこれ,
+11:10,8,NationalYouthDay,147.024
+11:10,9,Jリーグ,11.328
+11:10,10,Ijtima Ulama PKB,
+11:40,1,Shakira,1.393.410
+11:40,2,DAZN,37.215
+11:40,3,BuBekletmeNeden,119.274
+11:40,4,GentlemonsterXBamBam,65.107
+11:40,5,らっだぁを知ったきっかけはこれ,
+11:40,6,VS魂,12.713
+11:40,7,BAMBAM BOLD COLLECTION,46.129
+11:40,8,MemurlarAlanda,30.898
+11:40,9,vernon,29.024
+11:40,10,Ijtima Ulama PKB,10.292
+12:10,1,Shakira,1.431.086
+12:10,2,GentlemonsterXBamBam,148.558
+12:10,3,DAZN,38.774
+12:10,4,VS魂,16.836
+12:10,5,BuBekletmeNeden,134.678
+12:10,6,らっだぁを知ったきっかけはこれ,
+12:10,7,BAMBAM BOLD COLLECTION,100.831
+12:10,8,プレバト,
+12:10,9,vernon,31.417
+12:10,10,Ijtima Ulama PKB,12.071
+12:40,1,Shakira,1.466.145
+12:40,2,らっだぁを知ったきっかけはこれ,
+12:40,3,GentlemonsterXBamBam,217.409
+12:40,4,DAZN,40.751
+12:40,5,BuBekletmeNeden,150.498
+12:40,6,VS魂,19.004
+12:40,7,BAMBAM BOLD COLLECTION,143.725
+12:40,8,プレバト,
+12:40,9,Özgür Özel,67.947
+12:40,10,vernon,34.035
+13:10,1,Shakira,1.505.087
+13:10,2,らっだぁを知ったきっかけはこれ,
+13:10,3,プレバト,
+13:10,4,素のまんま,
+13:10,5,GentlemonsterXBamBam,280.739
+13:10,6,Mリーグ,
+13:10,7,DAZN,42.010
+13:10,8,Özgür Özel,73.106
+13:10,9,Emin Şen,13.145
+13:10,10,BELLE MARIANO NYLON FANZINE,13.254
+13:40,1,AskSRK,17.543
+13:40,2,兎田ぺこら生誕祭2023,26.681
+13:40,3,素のまんま,23.529
+13:40,4,Shakira,1.546.349
+13:40,5,プレバト,10.676
+13:40,6,유노위갓댓_배민_바이브,57.782
+13:40,7,Emin Şenel,
+13:40,8,Özgür Özel,82.632
+13:40,9,DAZN,43.126
+13:40,10,Jengkol,
+14:10,1,AskSRK,22.768
+14:10,2,兎田ぺこら生誕祭2023,43.991
+14:10,3,Shakira,1.589.954
+14:10,4,素のまんま,26.515
+14:10,5,プレバト,15.643
+14:10,6,兎田ぺこら生誕祭LIVE2023,14.498
+14:10,7,Emin Şenel,
+14:10,8,Özgür Özel,79.873
+14:10,9,Burhan Çaçan,
+14:10,10,Playstore,78.668
+14:40,1,Gabriel,130.931
+14:40,2,AskSRK,23.988
+14:40,3,BigDay,
+14:40,4,兎田ぺこら生誕祭2023,48.646
+14:40,5,Shakira,1.644.658
+14:40,6,BBB23,130.078
+14:40,7,素のまんま,27.894
+14:40,8,Manoel,46.625
+14:40,9,Aline,12.533
+14:40,10,Burhan Çaçan,
+15:10,1,Gabriel,136.994
+15:10,2,BBB23,145.939
+15:10,3,BigDay,13.379
+15:10,4,Shakira,1.639.047
+15:10,5,AskSRK,25.136
+15:10,6,Aline,19.924
+15:10,7,兎田ぺこら生誕祭2023,52.762
+15:10,8,Manoel,50.225
+15:10,9,Cezar,
+15:10,10,カニさんが運んでるよ,
+15:40,1,Gabriel,143.666
+15:40,2,BBB23,162.510
+15:40,3,Shakira,1.765.098
+15:40,4,BigDay,18.593
+15:40,5,Bruna,27.776
+15:40,6,Aline,22.743
+15:40,7,AskSRK,25.990
+15:40,8,サーフゴー,
+15:40,9,Manoel,53.066
+15:40,10,Cezar,
+16:10,1,BBB23,171.941
+16:10,2,Shakira,1.820.321
+16:10,3,Gabriel,142.950
+16:10,4,BigDay,23.376
+16:10,5,TXT_Farewell,51.825
+16:10,6,FAREWELL CONCEPT PHOTO,135.511
+16:10,7,Bruna,32.768
+16:10,8,Aline,24.068
+16:10,9,サーフゴー,12.134
+16:10,10,Manoel,53.531
+16:40,1,Shakira,1.883.893
+16:40,2,BBB23,182.207
+16:40,3,TXT_Farewell,61.104
+16:40,4,Gabriel,147.216
+16:40,5,BigDay,25.910
+16:40,6,Bruna,36.044
+16:40,7,Aline,25.982
+16:40,8,サーフゴー,13.935
+16:40,9,アメトーーク,10.626
+16:40,10,PRADAxWINinMilan,51.679
+17:10,1,Shakira,1.938.192
+17:10,2,BBB23,186.772
+17:10,3,TXT_Farewell,64.628
+17:10,4,BigDay,29.172
+17:10,5,Bruna,37.943
+17:10,6,Gabriel,144.020
+17:10,7,fred desimpedidos,
+17:10,8,PRADAxWINinMilan,105.068
+17:10,9,Casio,102.967
+17:10,10,Aline,27.141
+17:40,1,Shakira,1.939.480
+17:40,2,BBB23,201.713
+17:40,3,fred desimpedidos,23.138
+17:40,4,TeamFred,
+17:40,5,BigDay,32.685
+17:40,6,Bruna,40.768
+17:40,7,TXT_Farewell,66.726
+17:40,8,Gabriel,148.221
+17:40,9,PRADAxWINinMilan,170.227
+17:40,10,Casio,109.687
+18:10,1,Shakira,2.045.884
+18:10,2,fred desimpedidos,31.033
+18:10,3,BBB23,198.866
+18:10,4,TeamFred,12.138
+18:10,5,Casio,117.872
+18:10,6,Bruna,42.693
+18:10,7,BigDay,34.818
+18:10,8,TXT_Farewell,67.873
+18:10,9,PRADAxWINinMilan,207.540
+18:10,10,Gabriel,143.239
+18:40,1,Shakira,2.038.564
+18:40,2,fred desimpedidos,36.596
+18:40,3,BBB23,209.594
+18:40,4,TeamFred,14.599
+18:40,5,Casio,124.377
+18:40,6,Bruna,44.705
+18:40,7,عمان_السعوديه,
+18:40,8,BigDay,36.555
+18:40,9,Guardia Nacional,42.490
+18:40,10,PRADAxWINinMilan,227.685
+19:10,1,Shakira,2.014.655
+19:10,2,fred desimpedidos,40.352
+19:10,3,BBB23,210.073
+19:10,4,TeamFred,16.673
+19:10,5,Casio,131.477
+19:10,6,Bruna,45.775
+19:10,7,BigDay,39.138
+19:10,8,Guardia Nacional,46.974
+19:10,9,عمان_السعوديه,
+19:10,10,Larissa,10.845
+19:40,1,Shakira,2.186.865
+19:40,2,Tosa,
+19:40,3,BBB23,221.221
+19:40,4,fred desimpedidos,43.468
+19:40,5,atmoscollectorsclub,
+19:40,6,TeamFred,19.378
+19:40,7,Casio,137.836
+19:40,8,Biden,1.239.108
+19:40,9,Larissa,13.440
+19:40,10,BigDay,42.636
+20:10,1,Shakira,2.075.535
+20:10,2,Biden,1.225.465
+20:10,3,atmoscollectorsclub,
+20:10,4,BBB23,222.876
+20:10,5,Casio,141.517
+20:10,6,fred desimpedidos,45.734
+20:10,7,Tosa,
+20:10,8,TeamFred,20.758
+20:10,9,Larissa,14.712
+20:10,10,Garland,84.651
+20:40,1,Shakira,1.925.777
+20:40,2,Biden,1.318.897
+20:40,3,SalarioRosaNoSeDetiene,
+20:40,4,BBB23,234.081
+20:40,5,atmoscollectorsclub,
+20:40,6,Casio,150.768
+20:40,7,MeralAkşener,
+20:40,8,TeamFred,21.760
+20:40,9,fred desimpedidos,47.724
+20:40,10,Garland,94.368
+21:10,1,SalarioRosaNoSeDetiene,
+21:10,2,Shakira,1.934.370
+21:10,3,Ter Stegen,11.535
+21:10,4,Biden,1.300.436
+21:10,5,BBB23,237.957
+21:10,6,atmoscollectorsclub,
+21:10,7,MeralAkşener,
+21:10,8,Casio,157.211
+21:10,9,FulChe,19.974
+21:10,10,Garland,102.038
+21:40,1,SalarioRosaNoSeDetiene,11.640
+21:40,2,Willian,14.270
+21:40,3,Chalobah,
+21:40,4,FulChe,30.779
+21:40,5,Felix,156.139
+21:40,6,Shakira,2.097.002
+21:40,7,Koulibaly,
+21:40,8,Biden,1.323.190
+21:40,9,BBB23,253.586
+21:40,10,Ter Stegen,12.254
+22:10,1,SalarioRosaNoSeDetiene,17.332
+22:10,2,Chalobah,13.991
+22:10,3,Willian,18.181
+22:10,4,FulChe,38.358
+22:10,5,Felix,168.670
+22:10,6,Xavi,36.479
+22:10,7,Ferran,22.494
+22:10,8,Shakira,2.349.112
+22:10,9,Azpi,
+22:10,10,Fulham,54.534
+22:40,1,Felix,227.312
+22:40,2,SalarioRosaNoSeDetiene,22.962
+22:40,3,FulChe,50.150
+22:40,4,Chalobah,16.058
+22:40,5,Willian,19.618
+22:40,6,Koulibaly,14.217
+22:40,7,Xavi,42.845
+22:40,8,Fulham,65.593
+22:40,9,Havertz,
+22:40,10,Ferran,28.272
+23:10,1,Chelsea,263.283
+23:10,2,FulChe,49.484
+23:10,3,SalarioRosaNoSeDetiene,27.541
+23:10,4,Felix,245.634
+23:10,5,Potter,87.532
+23:10,6,Chalobah,17.213
+23:10,7,Xavi,50.029
+23:10,8,Ter Stegen,32.420
+23:10,9,Fulham,69.312
+23:10,10,Betis,74.759
+23:40,1,Chelsea,299.455
+23:40,2,SalarioRosaNoSeDetiene,32.422
+23:40,3,FulChe,52.374
+23:40,4,Potter,101.908
+23:40,5,Felix,264.727
+23:40,6,Xavi,54.537
+23:40,7,Fulham,76.277
+23:40,8,Chalobah,17.920
+23:40,9,Ter Stegen,35.761
+23:40,10,Betis,79.059

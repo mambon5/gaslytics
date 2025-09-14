@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,luisa,81.522
+00:10,2,IzaNoMultishow,10.763
+00:10,3,Punta Arenas,40.134
+00:10,4,ANKvBJK,40.266
+00:10,5,RockInRio,164.069
+00:10,6,NXTWorldsCollide,38.222
+00:10,7,Josef,40.617
+00:10,8,Corinthians,81.575
+00:10,9,headiesaward2022,14.360
+00:10,10,Cruzeiro,42.987
+00:40,1,luisa,86.406
+00:40,2,IzaNoMultishow,20.030
+00:40,3,RockInRio,180.339
+00:40,4,Punta Arenas,45.543
+00:40,5,Elecciones2022,40.830
+00:40,6,ANKvBJK,41.353
+00:40,7,NXTWorldsCollide,43.853
+00:40,8,Josef,46.240
+00:40,9,Corinthians,83.131
+00:40,10,Emicida,
+01:10,1,luisa,88.620
+01:10,2,IzaNoMultishow,21.358
+01:10,3,Elecciones2022,49.541
+01:10,4,Emicida,12.149
+01:10,5,RockInRio,187.658
+01:10,6,Deyverson,
+01:10,7,Punta Arenas,46.985
+01:10,8,headiesaward2022,20.924
+01:10,9,NXTWorldsCollide,45.612
+01:10,10,Chile,472.401
+01:40,1,Elecciones2022,66.400
+01:40,2,Emicida,25.465
+01:40,3,Chile,536.659
+01:40,4,luisa,91.685
+01:40,5,IzaNoMultishow,21.976
+01:40,6,AEWAllOut,26.698
+01:40,7,PlebiscitoConstitucional,62.826
+01:40,8,Deyverson,10.929
+01:40,9,headiesaward2022,24.260
+01:40,10,Punta Arenas,48.123
+02:10,1,Chile,605.702
+02:10,2,DemiLovatoNoMultishow,19.310
+02:10,3,Elecciones2022,78.631
+02:10,4,AEWAllOut,37.550
+02:10,5,headiesaward2022,29.995
+02:10,6,luisa,93.269
+02:10,7,PlebiscitoConstitucional,67.126
+02:10,8,Deyverson,12.114
+02:10,9,Boric,95.560
+02:10,10,Brendan Fraser,33.825
+02:40,1,Chile,702.526
+02:40,2,Chile,702.526
+02:40,3,DemiLovatoNoMultishow,41.568
+02:40,4,AEWAllOut,53.122
+02:40,5,Elecciones2022,87.213
+02:40,6,RockInRio,246.923
+02:40,7,headiesaward2022,34.776
+02:40,8,Constitución,261.434
+02:40,9,Boric,112.324
+02:40,10,heart attack,39.802
+03:10,1,Chile,752.019
+03:10,2,Chile,752.019
+03:10,3,DemiLovatoNoMultishow,60.184
+03:10,4,AEWAllOut,71.063
+03:10,5,Elecciones2022,93.173
+03:10,6,headiesaward2022,41.631
+03:10,7,Boric,129.297
+03:10,8,Emicida,33.124
+03:10,9,RHOA,16.507
+03:10,10,Constitución,288.571
+03:40,1,Chile,836.620
+03:40,2,Chile,836.620
+03:40,3,DemiLovatoNoMultishow,64.845
+03:40,4,AEWAllOut,84.116
+03:40,5,Gilberto Gil,
+03:40,6,Elecciones2022,97.891
+03:40,7,headiesaward2022,47.162
+03:40,8,Boric,148.837
+03:40,9,RHOA,19.948
+03:40,10,Constitución,319.792
+04:10,1,Chile,878.472
+04:10,2,RockInRio,296.796
+04:10,3,Gilberto Gil,14.049
+04:10,4,AEWAllOut,97.880
+04:10,5,Brian Kelly,11.665
+04:10,6,headiesaward2022,53.613
+04:10,7,Kyrgios,18.710
+04:10,8,Elecciones2022,101.257
+04:10,9,Boric,160.448
+04:10,10,Pinochet,84.076
+04:40,1,JustinBieberNoMultishow,34.795
+04:40,2,Chile,940.464
+04:40,3,HouseOfTheDragonHBO,32.845
+04:40,4,Brian Kelly,15.097
+04:40,5,AEWAllOut,113.943
+04:40,6,Gilberto Gil,15.534
+04:40,7,HOTD,31.766
+04:40,8,Kyrgios,27.798
+04:40,9,headiesaward2022,57.160
+04:40,10,Daemon,31.212
+05:10,1,JustinBieberNoMultishow,68.765
+05:10,2,Chile,975.026
+05:10,3,HouseOfTheDragonHBO,42.181
+05:10,4,Brian Kelly,18.157
+05:10,5,AEWAllOut,124.767
+05:10,6,HOTD,39.035
+05:10,7,Gilberto Gil,16.327
+05:10,8,Daemon,41.652
+05:10,9,Kyrgios,30.157
+05:10,10,FSUvsLSU,
+05:40,1,JustinBieberNoMultishow,108.424
+05:40,2,HouseoftheDragon,99.681
+05:40,3,Brian Kelly,26.470
+05:40,4,Chile,1.009.022
+05:40,5,FSUvsLSU,13.414
+05:40,6,AEWAllOut,136.932
+05:40,7,武内くん,13.312
+05:40,8,HOTD,44.356
+05:40,9,Daemon,48.882
+05:40,10,Florida State,30.067
+06:10,1,JustinBieberNoMultishow,126.285
+06:10,2,HouseoftheDragon,111.264
+06:10,3,Brian Kelly,29.825
+06:10,4,Chile,1.040.818
+06:10,5,FSUvsLSU,14.139
+06:10,6,AEWAllOut,158.041
+06:10,7,武内くん,22.409
+06:10,8,RockInRio,399.712
+06:10,9,Daemon,54.766
+06:10,10,Florida State,31.478
+06:40,1,JustinBieberNoMultishow,131.767
+06:40,2,HouseoftheDragon,121.091
+06:40,3,Brian Kelly,31.318
+06:40,4,Chile,1.059.729
+06:40,5,FSUvsLSU,14.535
+06:40,6,AEWAllOut,164.934
+06:40,7,武内くん,26.948
+06:40,8,TeachersDay,75.085
+06:40,9,Daemon,59.219
+06:40,10,武内P結婚,12.262
+07:10,1,JustinBieberNoMultishow,134.276
+07:10,2,HouseoftheDragon,128.157
+07:10,3,Brian Kelly,32.165
+07:10,4,TeachersDay,84.572
+07:10,5,Chile,1.081.412
+07:10,6,武内くん,29.889
+07:10,7,FSUvsLSU,14.795
+07:10,8,AEWAllOut,168.823
+07:10,9,Daemon,62.325
+07:10,10,武内P結婚,14.312
+07:40,1,JustinBieberNoMultishow,135.902
+07:40,2,HouseoftheDragon,134.539
+07:40,3,TeachersDay,94.207
+07:40,4,Brian Kelly,32.782
+07:40,5,武内くん,31.874
+07:40,6,Chile,1.056.671
+07:40,7,FSUvsLSU,15.013
+07:40,8,AEWAllOut,171.488
+07:40,9,Daemon,65.105
+07:40,10,武内P結婚,15.805
+08:10,1,TeachersDay,104.531
+08:10,2,JustinBieberNoMultishow,136.910
+08:10,3,HouseoftheDragon,139.190
+08:10,4,武内くん,33.534
+08:10,5,Brian Kelly,33.204
+08:10,6,Chile,1.072.919
+08:10,7,FSUvsLSU,15.167
+08:10,8,AEWAllOut,173.472
+08:10,9,武内P結婚,17.192
+08:10,10,Daemon,67.189
+08:40,1,TeachersDay,114.623
+08:40,2,HouseoftheDragon,143.941
+08:40,3,JustinBieberNoMultishow,137.768
+08:40,4,武内くん,34.889
+08:40,5,Brian Kelly,33.507
+08:40,6,pazartesi,
+08:40,7,Chile,1.096.055
+08:40,8,SupremeCourtruling,
+08:40,9,Punk,68.820
+08:40,10,武内P結婚,18.259
+09:10,1,TeachersDay,124.073
+09:10,2,HouseoftheDragon,147.357
+09:10,3,JustinBieberNoMultishow,138.220
+09:10,4,武内くん,36.073
+09:10,5,SupremeCourtruling,10.583
+09:10,6,pazartesi,
+09:10,7,Punk,70.648
+09:10,8,Brian Kelly,33.687
+09:10,9,Chile,1.100.714
+09:10,10,武内P結婚,19.256
+09:40,1,TeachersDay,133.951
+09:40,2,HouseoftheDragon,150.671
+09:40,3,MondayMotivation,12.599
+09:40,4,JustinBieberNoMultishow,138.657
+09:40,5,enflasyon,
+09:40,6,武内くん,37.017
+09:40,7,Punk,72.719
+09:40,8,Chile,1.109.221
+09:40,9,Brian Kelly,33.851
+09:40,10,武内P結婚,19.906
+10:10,1,TeachersDay,141.934
+10:10,2,enflasyon,
+10:10,3,MondayMotivation,15.120
+10:10,4,おしゃべりひろゆきメーカー,
+10:10,5,HouseoftheDragon,153.146
+10:10,6,武内くん,37.921
+10:10,7,Chile,1.132.716
+10:10,8,Punk,73.616
+10:10,9,武内P結婚,20.529
+10:10,10,協調性レベル0,
+10:40,1,TeachersDay,149.268
+10:40,2,enflasyon,
+10:40,3,MondayMotivation,17.269
+10:40,4,おしゃべりひろゆきメーカー,
+10:40,5,あなたの協調性レベル,
+10:40,6,武内くん,38.928
+10:40,7,Chile,1.132.269
+10:40,8,LEE JIHOON,
+10:40,9,協調性レベル0,
+10:40,10,Punk,75.232
+11:10,1,TeachersDay,155.791
+11:10,2,おしゃべりひろゆきメーカー,
+11:10,3,enflasyon,
+11:10,4,Implementasi Solusi TNIAD,
+11:10,5,Kunjungan Kerja KSAD,
+11:10,6,MondayMotivation,19.031
+11:10,7,あなたの協調性レベル,
+11:10,8,Jenderal Dudung AR,
+11:10,9,協調性レベル0,
+11:10,10,武内くん,40.137
+11:40,1,SupremeCourtruling,19.708
+11:40,2,おしゃべりひろゆきメーカー,11.884
+11:40,3,TeachersDay,162.123
+11:40,4,enflasyon,10.983
+11:40,5,あなたの協調性レベル,
+11:40,6,Kunjungan Kerja KSAD,
+11:40,7,implementasi solusi tniad,
+11:40,8,Jenderal Dudung AR,
+11:40,9,協調性レベル0,
+11:40,10,牧之原市,
+12:10,1,SupremeCourtruling,28.135
+12:10,2,njburning,
+12:10,3,おしゃべりひろゆきメーカー,14.116
+12:10,4,あなたの協調性レベル,
+12:10,5,TeachersDay,168.172
+12:10,6,Martha Koome,17.376
+12:10,7,Kunjungan Kerja KSAD,
+12:10,8,Implementasi Solusi TNIAD,
+12:10,9,ブーイング,
+12:10,10,牧之原市,
+12:40,1,SupremeCourtruling,35.592
+12:40,2,njburning,10.891
+12:40,3,おしゃべりひろゆきメーカー,16.223
+12:40,4,あなたの協調性レベル,
+12:40,5,Martha Koome,26.004
+12:40,6,KazanmayaDevam,
+12:40,7,Congratulations WSR,
+12:40,8,Ruto,64.585
+12:40,9,Kunjungan Kerja KSAD,
+12:40,10,Implementasi Solusi TNIAD,
+13:10,1,SupremeCourtruling,42.570
+13:10,2,GMMTVSafeHouseSS4D1,24.971
+13:10,3,おしゃべりひろゆきメーカー,18.934
+13:10,4,njburning,12.944
+13:10,5,Congratulations WSR,
+13:10,6,Kenya,107.705
+13:10,7,あなたの協調性レベル,
+13:10,8,サプライズ,42.307
+13:10,9,Ruto,88.128
+13:10,10,Martha Koome,29.475
+13:40,1,GMMTVSafeHouseSS4D1,43.473
+13:40,2,SupremeCourtruling,47.544
+13:40,3,njburning,15.754
+13:40,4,おしゃべりひろゆきメーカー,22.318
+13:40,5,Kenya,121.821
+13:40,6,Congratulations WSR,12.545
+13:40,7,あなたの協調性レベル,
+13:40,8,サプライズ,47.795
+13:40,9,Ruto,105.772
+13:40,10,Liz Truss,96.235
+14:10,1,Liz Truss,152.527
+14:10,2,PrimeMinister,
+14:10,3,初トレ,15.835
+14:10,4,GMMTVSafeHouseSS4D1,67.922
+14:10,5,夜空のセクゾ,
+14:10,6,ichiban,11.859
+14:10,7,Carlisle,
+14:10,8,Kenya,133.872
+14:10,9,Rishi Sunak,20.934
+14:10,10,Labor Day,126.323
+14:40,1,Liz Truss,189.177
+14:40,2,夜空のセクゾ,41.140
+14:40,3,CDTVライブライブ,64.394
+14:40,4,初トレ,32.012
+14:40,5,ichiban,27.008
+14:40,6,Prime Minister,138.595
+14:40,7,KingandPrince,125.352
+14:40,8,Labor Day,137.349
+14:40,9,Carlisle,
+14:40,10,Rishi Sunak,24.391
+15:10,1,Liz Truss,208.762
+15:10,2,CDTVライブライブ,79.765
+15:10,3,夜空のセクゾ,50.688
+15:10,4,初トレ,40.292
+15:10,5,Labor Day,154.232
+15:10,6,GMMTVSafeHouseSS4D1,107.296
+15:10,7,Prime Minister,149.708
+15:10,8,ichiban,35.089
+15:10,9,Carlisle,
+15:10,10,Rishi Sunak,25.914
+15:40,1,Liz Truss,228.821
+15:40,2,CDTVライブライブ,106.463
+15:40,3,初トレ,67.119
+15:40,4,Labor Day,173.652
+15:40,5,KingandPrince,165.340
+15:40,6,夜空のセクゾ,56.956
+15:40,7,GMMTVSafeHouseSS4D1,130.531
+15:40,8,Prime Minister,160.875
+15:40,9,サウダージ,
+15:40,10,トレトレ,27.115
+16:10,1,初トレ,88.122
+16:10,2,Liz Truss,240.727
+16:10,3,CDTVライブライブ,126.142
+16:10,4,Labor Day,195.487
+16:10,5,KingandPrince,198.839
+16:10,6,夜空のセクゾ,58.796
+16:10,7,おしゃべりひろゆきメーカー,46.285
+16:10,8,Prime Minister,167.377
+16:10,9,サウダージ,
+16:10,10,トレトレ,31.436
+16:40,1,Liz Truss,256.142
+16:40,2,Labor Day,219.225
+16:40,3,初トレ,92.824
+16:40,4,CDTVライブライブ,130.844
+16:40,5,KingandPrince,208.269
+16:40,6,おしゃべりひろゆきメーカー,52.014
+16:40,7,夜空のセクゾ,59.480
+16:40,8,Prime Minister,176.416
+16:40,9,サウダージ,
+16:40,10,トレトレ,32.768
+17:10,1,Labor Day,242.303
+17:10,2,Liz Truss,266.989
+17:10,3,初トレ,96.583
+17:10,4,CDTVライブライブ,133.389
+17:10,5,おしゃべりひろゆきメーカー,57.589
+17:10,6,KingandPrince,209.456
+17:10,7,GMMTVSafeHouseSS4D1,189.284
+17:10,8,Prime Minister,182.551
+17:10,9,サウダージ,
+17:10,10,トレトレ,33.312
+17:40,1,Labor Day,268.077
+17:40,2,StrayKidsComeback,90.201
+17:40,3,MAXIDENT,90.518
+17:40,4,Liz Truss,279.896
+17:40,5,おしゃべりひろゆきメーカー,63.378
+17:40,6,初トレ,105.633
+17:40,7,BORNPINK,451.482
+17:40,8,FELIX,187.082
+17:40,9,第228回,
+17:40,10,Prime Minister,191.654
+18:10,1,Labor Day,291.707
+18:10,2,StrayKidsComeback,123.252
+18:10,3,MAXIDENT,122.771
+18:10,4,Liz Truss,290.854
+18:10,5,おしゃべりひろゆきメーカー,69.158
+18:10,6,Day11ToBORNPINK,85.282
+18:10,7,初トレ,109.300
+18:10,8,FELIX,199.782
+18:10,9,第228回,
+18:10,10,Prime Minister,197.283
+18:40,1,Labor Day,316.259
+18:40,2,StrayKidsComeback,140.015
+18:40,3,MAXIDENT,140.519
+18:40,4,おしゃべりひろゆきメーカー,73.975
+18:40,5,SeguimosDandoResultados,21.894
+18:40,6,Liz Truss,305.199
+18:40,7,Day11ToBORNPINK,92.437
+18:40,8,FELIX,207.962
+18:40,9,第228回,
+18:40,10,Florence,68.105
+19:10,1,Labor Day,335.169
+19:10,2,SeguimosDandoResultados,35.697
+19:10,3,StrayKidsComeback,149.030
+19:10,4,MAXIDENT,150.115
+19:10,5,おしゃべりひろゆきメーカー,77.768
+19:10,6,Florence,83.429
+19:10,7,Liz Truss,314.754
+19:10,8,5toInformeEdomex,31.017
+19:10,9,Special Master,55.545
+19:10,10,FELIX,211.865
+19:40,1,Labor Day,357.381
+19:40,2,SeguimosDandoResultados,45.888
+19:40,3,Florence,103.573
+19:40,4,StrayKidsComeback,155.263
+19:40,5,MAXIDENT,156.129
+19:40,6,おしゃべりひろゆきメーカー,81.117
+19:40,7,5toInformeEdomex,39.850
+19:40,8,Liz Truss,328.496
+19:40,9,Special Master,76.099
+19:40,10,Priti Patel,12.334
+20:10,1,Labor Day,375.667
+20:10,2,SeguimosDandoResultados,52.941
+20:10,3,Florence,115.104
+20:10,4,StrayKidsComeback,160.025
+20:10,5,MAXIDENT,161.109
+20:10,6,5toInformeEdomex,46.006
+20:10,7,おしゃべりひろゆきメーカー,83.796
+20:10,8,Liz Truss,336.934
+20:10,9,Special Master,92.405
+20:10,10,Priti Patel,15.910
+20:40,1,Labor Day,396.147
+20:40,2,SeguimosDandoResultados,59.011
+20:40,3,Florence,126.919
+20:40,4,GSvGFK,13.357
+20:40,5,Kerem,16.086
+20:40,6,5toInformeEdomex,51.124
+20:40,7,StrayKidsComeback,163.491
+20:40,8,MAXIDENT,164.771
+20:40,9,Special Master,107.297
+20:40,10,Priti Patel,18.846
+21:10,1,GSvGFK,23.598
+21:10,2,Yaşar Kemal Uğurlu,20.300
+21:10,3,Kerem,24.686
+21:10,4,Labor Day,411.684
+21:10,5,SeguimosDandoResultados,64.191
+21:10,6,Florence,134.562
+21:10,7,Hermes,28.813
+21:10,8,Special Master,121.266
+21:10,9,5toInformeEdomex,55.415
+21:10,10,StrayKidsComeback,167.102
+21:40,1,GSvGFK,27.804
+21:40,2,Yaşar Kemal Uğurlu,25.983
+21:40,3,Kerem,27.694
+21:40,4,Labor Day,430.508
+21:40,5,SeguimosDandoResultados,68.551
+21:40,6,الاهلي_الخلود,44.564
+21:40,7,Hermes,33.471
+21:40,8,Florence,143.579
+21:40,9,BakanÖzer,
+21:40,10,Special Master,134.593
+22:10,1,GSvGFK,37.402
+22:10,2,Yaşar Kemal Uğurlu,29.189
+22:10,3,Labor Day,444.400
+22:10,4,Sacha Boey,
+22:10,5,Kerem,28.546
+22:10,6,SeguimosDandoResultados,72.224
+22:10,7,الاهلي_الخلود,51.697
+22:10,8,Galatasaray,76.758
+22:10,9,Gomis,12.402
+22:10,10,Hermes,35.502
+22:40,1,GSvGFK,44.616
+22:40,2,Sacha Boey,
+22:40,3,Yaşar Kemal Uğurlu,36.202
+22:40,4,Labor Day,461.515
+22:40,5,Galatasaray,96.389
+22:40,6,askyungblud,
+22:40,7,Kerem,31.856
+22:40,8,SeguimosDandoResultados,75.314
+22:40,9,الاهلي_الخلود,57.582
+22:40,10,Gomis,15.537
+23:10,1,GSvGFK,47.354
+23:10,2,Sacha Boey,20.709
+23:10,3,Labor Day,472.213
+23:10,4,Yaşar Kemal Uğurlu,39.575
+23:10,5,Galatasaray,102.601
+23:10,6,askyungblud,
+23:10,7,Kerem,32.791
+23:10,8,Tiafoe,14.175
+23:10,9,SeguimosDandoResultados,77.741
+23:10,10,nick kroll,26.870
+23:40,1,GSvGFK,48.905
+23:40,2,Tiafoe,18.000
+23:40,3,Labor Day,489.650
+23:40,4,Sacha Boey,22.468
+23:40,5,Yaşar Kemal Uğurlu,41.412
+23:40,6,Galatasaray,108.207
+23:40,7,Nadal,33.595
+23:40,8,nick kroll,30.361
+23:40,9,Kerem,33.842
+23:40,10,askyungblud,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,gfvip,79.473
+00:10,2,Angelo Badalamenti,23.465
+00:10,3,Twin Peaks,13.210
+00:10,4,MalatyaExpo2028,
+00:10,5,Lula,513.276
+00:10,6,Skip,77.491
+00:10,7,Ben Simmons,
+00:10,8,Contreras,13.346
+00:10,9,Murphy,42.191
+00:10,10,タペストリー,23.437
+00:40,1,gfvip,87.161
+00:40,2,Angelo Badalamenti,26.648
+00:40,3,Twin Peaks,15.022
+00:40,4,Ben Simmons,
+00:40,5,タペストリー,18.007
+00:40,6,Skip,80.974
+00:40,7,Lula,531.153
+00:40,8,Tory,103.872
+00:40,9,わたしの幸せな結婚,21.202
+00:40,10,MalatyaExpo2028,
+01:10,1,gfvip,96.567
+01:10,2,SafeFlightOurAstronaut,208.965
+01:10,3,WeLoveYouJin,42.347
+01:10,4,Bahamas,22.320
+01:10,5,Angelo Badalamenti,29.353
+01:10,6,Sam Bankman,39.549
+01:10,7,ジンくん,41.292
+01:10,8,Twin Peaks,16.489
+01:10,9,Ben Simmons,
+01:10,10,ラヴィット,15.325
+01:40,1,SafeFlightOurAstronaut,271.057
+01:40,2,UntilWeMeetAgainJin,20.991
+01:40,3,gfvip,104.009
+01:40,4,Bahamas,37.283
+01:40,5,Sam Bankman,56.765
+01:40,6,ジンくん,45.236
+01:40,7,Angelo Badalamenti,31.418
+01:40,8,ラヴィット,16.763
+01:40,9,Ben Simmons,
+01:40,10,Twin Peaks,17.723
+02:10,1,SafeFlightOurAstronaut,312.977
+02:10,2,UntilWeMeetAgainJin,31.906
+02:10,3,Bahamas,46.370
+02:10,4,Sam Bankman,68.510
+02:10,5,GH2022,172.391
+02:10,6,agustin,147.612
+02:10,7,Brasília,261.640
+02:10,8,gfvip,106.821
+02:10,9,ジンくん,46.962
+02:10,10,ラヴィット,18.582
+02:40,1,SafeFlightOurAstronaut,334.097
+02:40,2,UntilWeMeetAgainJin,37.554
+02:40,3,GH2022,192.668
+02:40,4,agustin,176.309
+02:40,5,Brasília,306.650
+02:40,6,Kyler,15.565
+02:40,7,WWERaw,14.212
+02:40,8,Bahamas,53.101
+02:40,9,Sam Bankman,78.975
+02:40,10,GranHermano,123.022
+03:10,1,SafeFlightOurAstronaut,361.096
+03:10,2,Brasília,339.896
+03:10,3,GH2022,159.840
+03:10,4,Agustín,138.831
+03:10,5,UntilWeMeetAgainJin,43.324
+03:10,6,Kyler,19.943
+03:10,7,WWERaw,19.126
+03:10,8,GranHermano,97.069
+03:10,9,Bahamas,58.556
+03:10,10,Sam Bankman,88.007
+03:40,1,Brasília,370.772
+03:40,2,SafeFlightOurAstronaut,376.937
+03:40,3,GH2022,170.739
+03:40,4,Agustín,150.853
+03:40,5,WWERaw,25.229
+03:40,6,UntilWeMeetAgainJin,47.175
+03:40,7,Kyler,22.255
+03:40,8,GranHermano,104.164
+03:40,9,flamengo,54.214
+03:40,10,Sam Bankman,94.371
+04:10,1,Brasília,398.949
+04:10,2,SafeFlightOurAstronaut,389.779
+04:10,3,WWERaw,31.471
+04:10,4,12deDezembro,
+04:10,5,GH2022,147.949
+04:10,6,UntilWeMeetAgainJin,50.729
+04:10,7,Agustín,131.815
+04:10,8,Kyler,23.717
+04:10,9,flamengo,52.141
+04:10,10,rodinei,10.501
+04:40,1,Brasília,422.189
+04:40,2,WWERaw,37.382
+04:40,3,SafeFlightOurAstronaut,401.308
+04:40,4,12deDezembro,10.255
+04:40,5,UntilWeMeetAgainJin,53.834
+04:40,6,GH2022,152.003
+04:40,7,とうらぶGO,
+04:40,8,Agustín,136.039
+04:40,9,Matt Patricia,
+04:40,10,Mac Jones,
+05:10,1,Brasília,433.859
+05:10,2,WWERaw,42.784
+05:10,3,SafeFlightOurAstronaut,412.607
+05:10,4,UntilWeMeetAgainJin,57.355
+05:10,5,とうらぶGO,
+05:10,6,12deDezembro,10.607
+05:10,7,Mac Jones,
+05:10,8,Matt Patricia,
+05:10,9,taylor,355.735
+05:10,10,Patriots,94.271
+05:40,1,Brasília,444.901
+05:40,2,WWERaw,45.704
+05:40,3,SafeFlightOurAstronaut,424.104
+05:40,4,とうらぶGO,
+05:40,5,WelcomeMarkTuanToThailand,89.923
+05:40,6,UntilWeMeetAgainJin,60.981
+05:40,7,taylor,367.786
+05:40,8,Patriots,99.372
+05:40,9,Cardinals,23.849
+05:40,10,12deDezembro,10.839
+06:10,1,Brasília,450.355
+06:10,2,WelcomeMarkTuanToThailand,138.627
+06:10,3,WWERaw,46.846
+06:10,4,taylor,373.418
+06:10,5,とうらぶGO,10.149
+06:10,6,SafeFlightOurAstronaut,434.333
+06:10,7,Dame,46.514
+06:10,8,UntilWeMeetAgainJin,63.705
+06:10,9,防衛費増額巡り,
+06:10,10,Patriots,101.918
+06:40,1,WelcomeMarkTuanToThailand,163.926
+06:40,2,祝_WeAre_MV1000万回,23.267
+06:40,3,taylor,387.895
+06:40,4,SafeFlightOurAstronaut,452.556
+06:40,5,Congrats_10M_views,22.784
+06:40,6,Brasília,454.272
+06:40,7,とうらぶGO,11.136
+06:40,8,UntilWeMeetAgainJin,67.926
+06:40,9,Dame,48.767
+06:40,10,防衛費増額巡り,
+07:10,1,祝_WeAre_MV1000万回,32.666
+07:10,2,WelcomeMarkTuanToThailand,191.360
+07:10,3,SafeFlightOurAstronaut,470.532
+07:10,4,taylor,393.318
+07:10,5,Congrats_10M_views,31.618
+07:10,6,UntilWeMeetAgainJin,72.514
+07:10,7,Kawhi,
+07:10,8,とうらぶGO,12.117
+07:10,9,Clippers,
+07:10,10,防衛費増額巡り,
+07:40,1,AAA2022,72.791
+07:40,2,祝_WeAre_MV1000万回,37.084
+07:40,3,SafeFlightOurAstronaut,485.463
+07:40,4,とうらぶGO,13.334
+07:40,5,WelcomeMarkTuanToThailand,208.212
+07:40,6,HappyBirthdayTaylor,
+07:40,7,Kawhi,
+07:40,8,防衛費増額巡り,
+07:40,9,Clippers,
+07:40,10,散歩機能,21.539
+08:10,1,AAA2022,93.281
+08:10,2,祝_WeAre_MV1000万回,39.986
+08:10,3,2022AsiaArtistAwards,213.613
+08:10,4,WeLoveYouJin,99.063
+08:10,5,HappyBirthdayTaylor,
+08:10,6,とうらぶGO,14.026
+08:10,7,防衛費増額巡り,
+08:10,8,散歩機能,26.430
+08:10,9,Kawhi,
+08:10,10,BHUVAN BAM KI TAAZA KHABAR,
+08:40,1,AAA2022,109.043
+08:40,2,2022AsiaArtistAwards,254.350
+08:40,3,WeLoveYouJin,106.316
+08:40,4,KimSeokjin,44.476
+08:40,5,祝_WeAre_MV1000万回,42.475
+08:40,6,ヌッパン,
+08:40,7,とうらぶGO,14.542
+08:40,8,散歩機能,29.693
+08:40,9,防衛費増額巡り,
+08:40,10,Kawhi,
+09:10,1,AAA2022,125.704
+09:10,2,WeLoveYouJin,115.348
+09:10,3,2022AsiaArtistAwards,288.108
+09:10,4,KimSeokjin,51.540
+09:10,5,JIMINS,
+09:10,6,Mick Lynch,
+09:10,7,あなたのえっち度,
+09:10,8,ヌッパン,
+09:10,9,散歩機能,32.490
+09:10,10,とうらぶGO,15.021
+09:40,1,AAA2022,138.668
+09:40,2,WeLoveYouJin,122.440
+09:40,3,あなたのえっち度,
+09:40,4,2022AsiaArtistAwards,316.207
+09:40,5,Mick Lynch,
+09:40,6,KimSeokjin,57.100
+09:40,7,JIMINS,
+09:40,8,ヌッパン,
+09:40,9,散歩機能,35.461
+09:40,10,えっちパワー,
+10:10,1,AAA2022,150.332
+10:10,2,あなたのえっち度,
+10:10,3,WeLoveYouJin,126.538
+10:10,4,Mick Lynch,10.445
+10:10,5,2022AsiaArtistAwards,345.438
+10:10,6,KimSeokjin,60.639
+10:10,7,JIMINS,
+10:10,8,えっちパワー,
+10:10,9,Madeley,
+10:10,10,散歩機能,38.315
+10:40,1,DMDLINEUP2023,56.282
+10:40,2,AAA2022,164.017
+10:40,3,あなたのえっち度,
+10:40,4,Mick Lynch,12.559
+10:40,5,WeLoveYouJin,131.025
+10:40,6,Madeley,
+10:40,7,2022AsiaArtistAwards,372.054
+10:40,8,えっちパワー,
+10:40,9,散歩機能,41.206
+10:40,10,JIMINS,
+11:10,1,DMDLINEUP2023,114.264
+11:10,2,AAA2022,199.495
+11:10,3,AAA2022,199.495
+11:10,4,あなたのえっち度,
+11:10,5,BEFIRST,41.207
+11:10,6,Mick Lynch,14.768
+11:10,7,Madeley,
+11:10,8,えっちパワー,
+11:10,9,井上尚弥,32.906
+11:10,10,散歩機能,44.091
+11:40,1,DMDLINEUP2023,171.042
+11:40,2,AAA2022,228.942
+11:40,3,AAA2022,228.942
+11:40,4,あなたのえっち度,
+11:40,5,BEFIRST,45.699
+11:40,6,井上尚弥,37.707
+11:40,7,Mick Lynch,17.223
+11:40,8,Madeley,
+11:40,9,えっちパワー,
+11:40,10,あなたのツイッター,
+12:10,1,DMDLINEUP2023,262.547
+12:10,2,AAA2022,249.349
+12:10,3,井上尚弥vsポールバトラー,
+12:10,4,あなたのえっち度,
+12:10,5,ものまねグランプリ,
+12:10,6,Madeley,
+12:10,7,Mick Lynch,19.674
+12:10,8,あなたのツイッター,
+12:10,9,えっちパワー,
+12:10,10,McLaren,10.538
+12:40,1,DMDLINEUP2023,404.878
+12:40,2,INI_Awakening前夜祭,35.916
+12:40,3,AAA2022,281.563
+12:40,4,井上尚弥vsポールバトラー,13.019
+12:40,5,あなたのえっち度,
+12:40,6,あなたのツイッター,
+12:40,7,Madeley,
+12:40,8,Mick Lynch,22.351
+12:40,9,えっちパワー,
+12:40,10,McLaren,11.916
+13:10,1,井上尚弥,90.565
+13:10,2,DMDLINEUP2023,523.005
+13:10,3,INI_Awakening前夜祭,54.196
+13:10,4,AAA2022,326.757
+13:10,5,ものまねグランプリ,
+13:10,6,あなたのえっち度,
+13:10,7,あなたのツイッター,
+13:10,8,Madeley,11.042
+13:10,9,Mick Lynch,24.819
+13:10,10,えっちパワー,
+13:40,1,井上尚弥,106.337
+13:40,2,DMDLINEUP2023,622.798
+13:40,3,AAA2022,358.821
+13:40,4,INI_Awakening前夜祭,58.619
+13:40,5,ものまねグランプリ,
+13:40,6,あなたのえっち度,
+13:40,7,あなたのツイッター,
+13:40,8,Madeley,12.671
+13:40,9,Mick Lynch,27.185
+13:40,10,Brasil x Argentina,12.062
+14:10,1,井上尚弥,113.332
+14:10,2,DMDLINEUP2023,719.120
+14:10,3,AAA2022,400.491
+14:10,4,INI_Awakening前夜祭,59.982
+14:10,5,SEVENTEEN,313.939
+14:10,6,ものまねグランプリ,11.655
+14:10,7,あなたのえっち度,
+14:10,8,あなたのツイッター,
+14:10,9,Brasil x Argentina,13.105
+14:10,10,Madeley,14.123
+14:40,1,井上尚弥,118.673
+14:40,2,DMDLINEUP2023,822.152
+14:40,3,SEVENTEEN,375.273
+14:40,4,AAA2022,431.481
+14:40,5,君の花になる,50.232
+14:40,6,実は最もあなたを見に来ている人,
+14:40,7,あなたのツイッター,
+14:40,8,あなたのえっち度,
+14:40,9,Brasil x Argentina,14.133
+14:40,10,Mick Lynch,31.930
+15:10,1,DMDLINEUP2023,964.767
+15:10,2,君の花になる,80.847
+15:10,3,井上尚弥,123.204
+15:10,4,SEVENTEEN,400.248
+15:10,5,AAA2022,455.613
+15:10,6,Vitor Pereira,14.005
+15:10,7,ChollometroIsOnFire,
+15:10,8,実は最もあなたを見に来ている人,
+15:10,9,あなたのツイッター,
+15:10,10,Brasil x Argentina,14.961
+15:40,1,Mike Leach,93.087
+15:40,2,DMDLINEUP2023,1.087.931
+15:40,3,君の花になる,93.024
+15:40,4,井上尚弥,126.517
+15:40,5,Vitor Pereira,18.753
+15:40,6,AAA2022,486.256
+15:40,7,SEVENTEEN,429.548
+15:40,8,NeverLetMeGoSeriesEP1,79.896
+15:40,9,実は最もあなたを見に来ている人,
+15:40,10,あなたのツイッター,
+16:10,1,Mike Leach,111.379
+16:10,2,DMDLINEUP2023,1.171.132
+16:10,3,Vitor Pereira,23.040
+16:10,4,君の花になる,102.751
+16:10,5,MyPSYear2022,
+16:10,6,井上尚弥,128.927
+16:10,7,メンテの日なのでssを貼る,19.777
+16:10,8,NeverLetMeGoSeriesEP1,98.345
+16:10,9,SEVENTEEN,443.910
+16:10,10,Mississippi State,27.494
+16:40,1,Mike Leach,127.095
+16:40,2,TwitchRecap,
+16:40,3,MyPSYear2022,
+16:40,4,Vitor Pereira,26.659
+16:40,5,DMDLINEUP2023,1.189.638
+16:40,6,君の花になる,107.271
+16:40,7,メンテの日なのでssを貼る,24.877
+16:40,8,井上尚弥,130.746
+16:40,9,Mississippi State,30.947
+16:40,10,あなたのツイッター,
+17:10,1,TwitchRecap,
+17:10,2,Mike Leach,135.076
+17:10,3,MyPSYear2022,
+17:10,4,Vitor Pereira,29.859
+17:10,5,GsbDiyetisyen Atamalı,
+17:10,6,メンテの日なのでssを貼る,28.397
+17:10,7,DMDLINEUP2023,1.264.992
+17:10,8,HappyOnewDay,53.664
+17:10,9,Mississippi State,32.184
+17:10,10,DONBELLE WinsAtRAWR,78.567
+17:40,1,TwitchRecap,11.694
+17:40,2,Mike Leach,146.323
+17:40,3,MyPSYear2022,
+17:40,4,Vitor Pereira,33.320
+17:40,5,ArgentinaVsCroatia,14.436
+17:40,6,GsbDiyetisyen Atamalı,13.843
+17:40,7,メンテの日なのでssを貼る,30.398
+17:40,8,HappyOnewDay,56.269
+17:40,9,Martes 13,83.191
+17:40,10,Brasil x Argentina,17.217
+18:10,1,TwitchRecap,16.420
+18:10,2,Mike Leach,151.385
+18:10,3,MyPSYear2022,
+18:10,4,TseincelemeElemanı,
+18:10,5,ArgentinaVsCroatia,16.804
+18:10,6,Vitor Pereira,35.935
+18:10,7,الارجنتين_كرواتيا,59.469
+18:10,8,GsbDiyetisyen Atamalı,18.376
+18:10,9,Martes 13,85.104
+18:10,10,Brasil x Argentina,17.421
+18:40,1,TwitchRecap,19.466
+18:40,2,SpiderManAcrossTheSpiderVerse,23.601
+18:40,3,Mike Leach,158.933
+18:40,4,ArgentinaVsCroatia,19.863
+18:40,5,MyPSYear2022,
+18:40,6,TseincelemeElemanı,
+18:40,7,Vitor Pereira,38.270
+18:40,8,GsbDiyetisyen Atamalı,21.028
+18:40,9,Martes 13,88.060
+18:40,10,Brasil x Argentina,18.234
+19:10,1,TwitchRecap,23.114
+19:10,2,SpiderManAcrossTheSpiderVerse,32.753
+19:10,3,ArgentinaVsCroatia,23.305
+19:10,4,Mike Leach,163.808
+19:10,5,MyPSYear2022,
+19:10,6,BiyologYasasıNerede,
+19:10,7,NedenProfilime BakıyorlarKi,
+19:10,8,Vitor Pereira,40.106
+19:10,9,Brasil x Argentina,18.819
+19:10,10,GsbDiyetisyen Atamalı,22.017
+19:40,1,TwitchRecap,27.142
+19:40,2,ArgentinaVsCroatia,27.422
+19:40,3,SpiderManAcrossTheSpiderVerse,39.665
+19:40,4,NintendoSwitch2022,
+19:40,5,KamuMühendisleri,30.093
+19:40,6,Mike Leach,170.381
+19:40,7,NedenProfilime BakıyorlarKi,
+19:40,8,Vitor Pereira,41.645
+19:40,9,Vince,19.181
+19:40,10,Brasil x Argentina,19.687
+20:10,1,TwitchRecap,30.378
+20:10,2,ArgentinaVsCroatia,43.094
+20:10,3,NintendoSwitch2022,
+20:10,4,الارجنتين_كرواتيا,101.604
+20:10,5,SpiderManAcrossTheSpiderVerse,44.387
+20:10,6,Mike Leach,173.063
+20:10,7,Brasil x Argentina,21.204
+20:10,8,Vamos Croacia,10.862
+20:10,9,مودريتش,16.401
+20:10,10,Türkçe,
+20:40,1,ArgentinaVsCroatia,66.203
+20:40,2,Julian,76.130
+20:40,3,TwitchRecap,33.552
+20:40,4,Modric,144.173
+20:40,5,Kovacic,18.686
+20:40,6,الارجنتين_كرواتيا,125.012
+20:40,7,ميسي,89.820
+20:40,8,NintendoSwitch2022,
+20:40,9,SalarioRosaEnLasMejoresManos,
+20:40,10,Vamos Argentina,83.352
+21:10,1,Messi,1.001.124
+21:10,2,Argentina,1.352.334
+21:10,3,JULIAN,405.397
+21:10,4,TwitchRecap,36.496
+21:10,5,Modric,155.641
+21:10,6,الارجنتين_كرواتيا,146.759
+21:10,7,ميسي,116.693
+21:10,8,Kovacic,21.635
+21:10,9,SalarioRosaEnLasMejoresManos,
+21:10,10,Peter Walton,
+21:40,1,Messi,1.514.127
+21:40,2,Argentina,1.501.472
+21:40,3,Dybala,75.494
+21:40,4,ميسي,163.830
+21:40,5,الارجنتين_كرواتيا,169.638
+21:40,6,Modric,168.263
+21:40,7,SalarioRosaEnLasMejoresManos,13.808
+21:40,8,Gvardiol,49.502
+21:40,9,TwitchRecap,39.171
+21:40,10,Kovacic,23.352
+22:10,1,Messi,1.857.899
+22:10,2,Messi,1.857.899
+22:10,3,Argentina,1.722.714
+22:10,4,Dybala,101.563
+22:10,5,ميسي,209.425
+22:10,6,Modric,229.220
+22:10,7,الارجنتين_كرواتيا,181.597
+22:10,8,SalarioRosaEnLasMejoresManos,19.562
+22:10,9,Gvardiol,74.365
+22:10,10,アルゼンチン,106.213
+22:40,1,Messi,2.142.261
+22:40,2,Messi,2.142.261
+22:40,3,Argentina,1.545.244
+22:40,4,ميسي,248.844
+22:40,5,Dybala,111.066
+22:40,6,Modric,272.442
+22:40,7,الارجنتين_كرواتيا,179.409
+22:40,8,SalarioRosaEnLasMejoresManos,23.659
+22:40,9,Gvardiol,95.399
+22:40,10,アルゼンチン,115.210
+23:10,1,Messi,2.297.042
+23:10,2,Messi,2.297.042
+23:10,3,Argentina,1.564.191
+23:10,4,ميسي,270.218
+23:10,5,Dybala,115.483
+23:10,6,Modric,292.548
+23:10,7,SalarioRosaEnLasMejoresManos,26.963
+23:10,8,الارجنتين_كرواتيا,183.084
+23:10,9,Francia,90.712
+23:10,10,TwitchRecap,45.893
+23:40,1,Messi,2.496.921
+23:40,2,Messi,2.496.921
+23:40,3,Argentina,1.918.886
+23:40,4,ميسي,285.233
+23:40,5,Dybala,119.175
+23:40,6,SalarioRosaEnLasMejoresManos,30.926
+23:40,7,Modric,313.062
+23:40,8,الارجنتين_كرواتيا,185.091
+23:40,9,Francia,96.278
+23:40,10,TwitchRecap,47.699

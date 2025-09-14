@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,BBNaijaReunion,25.744
+00:10,2,SalarioRosa,50.537
+00:10,3,NEDAUT,24.276
+00:10,4,Juneteenth,368.801
+00:10,5,DenizPoyraz,193.529
+00:10,6,Lázaro,159.748
+00:10,7,nedoos,10.258
+00:10,8,LIAM PAYNE,16.006
+00:10,9,Cardona,
+00:10,10,Rick Carlisle,22.143
+00:41,1,BBNaijaReunion,38.254
+00:41,2,Paulo Victor,
+00:41,3,SalarioRosa,52.738
+00:41,4,Juneteenth,389.670
+00:41,5,Lázaro,166.926
+00:41,6,NEDAUT,24.686
+00:41,7,DenizPoyraz,198.445
+00:41,8,Fariñez,
+00:41,9,Cortez,
+00:41,10,nedoos,10.320
+01:10,1,Fariñez,28.405
+01:10,2,Paulo Victor,13.029
+01:10,3,BBNaijaReunion,45.271
+01:10,4,SalarioRosa,54.403
+01:10,5,Cortez,11.434
+01:10,6,Juneteenth,387.760
+01:10,7,Lázaro,168.550
+01:10,8,Colombia,209.799
+01:10,9,NEDAUT,24.885
+01:10,10,DenizPoyraz,201.484
+01:41,1,Fariñez,42.372
+01:41,2,Paulo Victor,14.186
+01:41,3,BBNaijaReunion,49.570
+01:41,4,Juneteenth,407.844
+01:41,5,SalarioRosa,55.867
+01:41,6,Cortez,12.046
+01:41,7,Douglas Costa,10.061
+01:41,8,Lázaro,174.084
+01:41,9,Colombia,224.894
+01:41,10,Marinho,
+02:10,1,Fariñez,49.268
+02:10,2,Paulo Victor,15.779
+02:10,3,Douglas Costa,12.668
+02:10,4,CORRE OUVIR MORENA,
+02:10,5,Juneteenth,404.950
+02:10,6,Cortez,12.709
+02:10,7,BBNaijaReunion,51.780
+02:10,8,Lázaro,172.449
+02:10,9,Tiago Nunes,
+02:10,10,SalarioRosa,57.165
+02:41,1,Fariñez,54.207
+02:41,2,CORRE OUVIR MORENA,15.915
+02:41,3,Paulo Victor,16.873
+02:41,4,Douglas Costa,13.706
+02:41,5,Juneteenth,422.637
+02:41,6,Lázaro,178.925
+02:41,7,Tiago Nunes,
+02:41,8,Cortez,13.388
+02:41,9,bbnaijareunion,52.940
+02:41,10,SalarioRosa,58.376
+03:10,1,CORRE OUVIR MORENA,21.469
+03:10,2,Fariñez,57.685
+03:10,3,スッキリ,
+03:10,4,Paulo Victor,17.813
+03:10,5,Juneteenth,421.725
+03:10,6,Lázaro,177.096
+03:10,7,Tiago Nunes,
+03:10,8,Douglas Costa,14.094
+03:10,9,MAGANDANG BUHAY WithDONBELLE,75.692
+03:10,10,Cortez,13.252
+03:41,1,Neymar,66.781
+03:41,2,CORRE OUVIR MORENA,24.903
+03:41,3,Lapadula,13.669
+03:41,4,Fariñez,60.410
+03:41,5,Juneteenth,441.971
+03:41,6,Lázaro,182.857
+03:41,7,MAGANDANG BUHAY WithDONBELLE,100.769
+03:41,8,スッキリ,10.311
+03:41,9,Paulo Victor,18.600
+03:41,10,Tiago Nunes,
+04:10,1,Neymar,113.169
+04:10,2,Firmino,
+04:10,3,Everton Ribeiro,
+04:10,4,Richarlison,
+04:10,5,DesafioTheBox,11.486
+04:10,6,MAGANDANG BUHAY WithDONBELLE,128.678
+04:10,7,CORRE OUVIR MORENA,26.535
+04:10,8,Lapadula,15.494
+04:10,9,Juneteenth,444.428
+04:10,10,Lázaro,181.080
+04:41,1,Neymar,129.350
+04:41,2,Firmino,
+04:41,3,Everton Ribeiro,11.465
+04:41,4,EliminaçãoPowerCouple,11.845
+04:41,5,Middleton,12.279
+04:41,6,Richarlison,
+04:41,7,Joe Harris,14.476
+04:41,8,MAGANDANG BUHAY WithDONBELLE,148.552
+04:41,9,DesafioTheBox,13.085
+04:41,10,CORRE OUVIR MORENA,27.578
+05:10,1,Neymar,137.976
+05:10,2,EliminaçãoPowerCouple,40.802
+05:10,3,Giannis,71.066
+05:10,4,Middleton,19.666
+05:10,5,Firmino,
+05:10,6,Game 7,42.952
+05:10,7,Harden,47.441
+05:10,8,Joe Harris,17.284
+05:10,9,Everton Ribeiro,12.231
+05:10,10,TreasureMap_Ep51,65.407
+05:41,1,Neymar,143.929
+05:41,2,EliminaçãoPowerCouple,45.239
+05:41,3,Game 7,52.966
+05:41,4,Middleton,24.573
+05:41,5,Giannis,79.035
+05:41,6,Firmino,10.047
+05:41,7,Bucks,88.470
+05:41,8,Harden,50.673
+05:41,9,次にくるマンガ大賞,11.903
+05:41,10,ConLaRecompensa,11.187
+06:10,1,Neymar,147.352
+06:10,2,EliminaçãoPowerCouple,46.272
+06:10,3,Game 7,54.072
+06:10,4,Middleton,26.232
+06:10,5,Giannis,81.312
+06:10,6,Firmino,10.149
+06:10,7,次にくるマンガ大賞,15.476
+06:10,8,Bucks,91.084
+06:10,9,次マン,
+06:10,10,TreasureMap_Ep51,72.846
+06:41,1,Neymar,150.510
+06:41,2,eliminaçãopowercouple,47.023
+06:41,3,Game 7,55.889
+06:41,4,次にくるマンガ大賞,17.788
+06:41,5,seokjin,252.667
+06:41,6,Middleton,27.318
+06:41,7,Giannis,83.297
+06:41,8,次マン,
+06:41,9,Firmino,10.358
+06:41,10,Bucks,93.982
+07:10,1,Neymar,152.369
+07:10,2,seokjin,256.006
+07:10,3,Game 7,55.683
+07:10,4,次にくるマンガ大賞,19.305
+07:10,5,EliminaçãoPowerCouple,47.374
+07:10,6,次マン,
+07:10,7,Middleton,27.987
+07:10,8,Giannis,84.211
+07:10,9,callahan,
+07:10,10,Firmino,10.427
+07:41,1,Neymar,154.612
+07:41,2,SFmss,29.658
+07:41,3,seokjin,268.357
+07:41,4,次にくるマンガ大賞,21.112
+07:41,5,DAZN,15.363
+07:41,6,Game 7,56.996
+07:41,7,次マン,
+07:41,8,EliminaçãoPowerCouple,47.627
+07:41,9,Middleton,28.594
+07:41,10,MVหลอกกันทั้งนั้นBillkin,29.812
+08:10,1,SFmss,195.753
+08:10,2,Neymar,155.834
+08:10,3,DAZN,16.784
+08:10,4,次にくるマンガ大賞,22.820
+08:10,5,Seokjin,270.868
+08:10,6,次マン,
+08:10,7,EliminaçãoPowerCouple,47.837
+08:10,8,Game 7,57.255
+08:10,9,Boniperti,
+08:10,10,実刑判決,11.728
+08:41,1,SFmss,290.354
+08:41,2,DAZN,18.158
+08:41,3,Boniperti,
+08:41,4,Neymar,156.927
+08:41,5,次にくるマンガ大賞,24.277
+08:41,6,HayırlıCumalar,11.186
+08:41,7,Seokjin,279.642
+08:41,8,次マン,
+08:41,9,Amersham,22.154
+08:41,10,実刑判決,13.151
+09:10,1,SFmss,349.660
+09:10,2,Boniperti,
+09:10,3,HayırlıCumalar,13.527
+09:10,4,SoNotWorthIt_NetflixPremiere,37.569
+09:10,5,Chesham,25.926
+09:10,6,지구망_대박나자,36.597
+09:10,7,DAZN,19.086
+09:10,8,Lib Dems,12.208
+09:10,9,Neymar,157.981
+09:10,10,seokjin,279.979
+09:41,1,SFmss,402.175
+09:41,2,HayırlıCumalar,15.906
+09:41,3,Chesham,30.810
+09:41,4,SoNotWorthIt_NetflixPremiere,47.988
+09:41,5,Boniperti,
+09:41,6,지구망_대박나자,46.747
+09:41,7,Lib Dems,14.466
+09:41,8,DAZN,20.295
+09:41,9,Tories,45.097
+09:41,10,TXT MAGIC ON MuBank,
+10:10,1,SFmss,442.331
+10:10,2,세븐틴과캐럿은_늘_레디투러브,92.919
+10:10,3,AlwaysReadyToLove_SVT,89.323
+10:10,4,Chesham,34.555
+10:10,5,HayırlıCumalar,18.117
+10:10,6,Ready_to_love,176.697
+10:10,7,Lib Dems,16.292
+10:10,8,WE ARE READY TO LOVE,84.936
+10:10,9,Tories,47.177
+10:10,10,TXT MAGIC ON MuBank,17.160
+10:41,1,세븐틴과캐럿은_늘_레디투러브,228.921
+10:41,2,AlwaysReadyToLove_SVT,218.449
+10:41,3,SFmss,475.846
+10:41,4,WE ARE READY TO LOVE,198.441
+10:41,5,Amersham,39.411
+10:41,6,Ready_to_love,203.364
+10:41,7,Labour,73.994
+10:41,8,HayırlıCumalar,20.309
+10:41,9,Lib Dems,18.058
+10:41,10,Tories,51.402
+11:10,1,세븐틴과캐럿은_늘_레디투러브,324.899
+11:10,2,AlwaysReadyToLove_SVT,311.842
+11:10,3,Ready_to_love,250.774
+11:10,4,WE ARE READY TO LOVE,275.659
+11:10,5,BACKSLIVEDAY3,
+11:10,6,Your_Choice,301.568
+11:10,7,Labour,75.586
+11:10,8,Amersham,42.722
+11:10,9,Tories,53.002
+11:10,10,Lib Dems,19.463
+11:41,1,세븐틴과캐럿은_늘_레디투러브,359.325
+11:41,2,AlwaysReadyToLove_SVT,348.999
+11:41,3,DFTF_1stWin,91.251
+11:41,4,DontFightTheFeeling1stWin,68.072
+11:41,5,SEVENTEEN,604.768
+11:41,6,ホスト部,12.913
+11:41,7,Labour,80.685
+11:41,8,Tories,56.666
+11:41,9,Amersham,46.444
+11:41,10,加藤翔平,
+12:10,1,DFTF_1stWin,195.325
+12:10,2,DontFightTheFeeling1stWin,167.222
+12:10,3,AlwaysReadyToLove_SVT,373.512
+12:10,4,세븐틴과캐럿은_늘_레디투러브,384.081
+12:10,5,SEVENTEEN,680.288
+12:10,6,ホスト部,21.880
+12:10,7,قصر خزام,
+12:10,8,Labour,81.618
+12:10,9,Tories,58.050
+12:10,10,加藤翔平,11.342
+12:41,1,DFTF_1stWin,253.615
+12:41,2,DontFightTheFeeling1stWin,241.901
+12:41,3,مسابقه_ابوناصر,21.411
+12:41,4,AlwaysReadyToLove_SVT,389.632
+12:41,5,세븐틴과캐럿은_늘_레디투러브,397.381
+12:41,6,قصر خزام,16.399
+12:41,7,ホスト部,28.596
+12:41,8,削除依頼案件,
+12:41,9,レナさん,
+12:41,10,Labour,85.968
+13:10,1,DFTF_1stWin,282.973
+13:10,2,مسابقه_ابوناصر,31.247
+13:10,3,DontFightTheFeeling1stWin,283.747
+13:10,4,قصر خزام,24.271
+13:10,5,AlwaysReadyToLove_SVT,399.260
+13:10,6,세븐틴과캐럿은_늘_레디투러브,405.294
+13:10,7,ホスト部,33.644
+13:10,8,削除依頼案件,
+13:10,9,レナさん,
+13:10,10,Labour,86.125
+13:41,1,مسابقه_ابوناصر,40.581
+13:41,2,DFTF_1stWin,302.301
+13:41,3,قصر خزام,31.942
+13:41,4,DontFightTheFeeling1stWin,310.824
+13:41,5,さんまのまんま,14.071
+13:41,6,白夜極光リリース記念祭,22.776
+13:41,7,すわほー,
+13:41,8,ホスト部,38.141
+13:41,9,削除依頼案件,
+13:41,10,KASAMA ANG BLACKPINK,48.287
+14:10,1,مسابقه_ابوناصر,47.370
+14:10,2,DFTF_1stWin,315.043
+14:10,3,قصر خزام,38.209
+14:10,4,さんまのまんま,18.922
+14:10,5,Mステ,28.469
+14:10,6,DontFightTheFeeling1stWin,329.149
+14:10,7,すわほー,
+14:10,8,KASAMA ANG BLACKPINK,59.130
+14:10,9,ホスト部,41.588
+14:10,10,Eduardo Paes,10.416
+14:41,1,Mステ,51.081
+14:41,2,مسابقه_ابوناصر,55.711
+14:41,3,قصر خزام,44.366
+14:41,4,DFTF_1stWin,326.338
+14:41,5,さんまのまんま,20.662
+14:41,6,白夜極光リリース記念祭,26.676
+14:41,7,おりほー,
+14:41,8,KASAMA ANG BLACKPINK,71.121
+14:41,9,JULIETTE NO MAIS VOCÊ,17.255
+14:41,10,ファブル,15.039
+15:10,1,Mステ,65.910
+15:10,2,مسابقه_ابوناصر,62.084
+15:10,3,LArcenCiel,26.608
+15:10,4,قصر خزام,49.020
+15:10,5,JULIETTE NO MAIS VOCÊ,37.094
+15:10,6,DFTF_1stWin,336.403
+15:10,7,金スマ,16.487
+15:10,8,hydeさん,
+15:10,9,ファブル,17.131
+15:10,10,おりほー,
+15:41,1,Mステ,71.972
+15:41,2,Kemba,21.674
+15:41,3,مسابقه_ابوناصر,69.551
+15:41,4,قصر خزام,54.068
+15:41,5,LArcenCiel,31.161
+15:41,6,Moses Brown,12.460
+15:41,7,SSSS_DYNAZENON,32.555
+15:41,8,リコカツ,19.967
+15:41,9,Al Horford,12.777
+15:41,10,JULIETTE NO MAIS VOCÊ,44.058
+16:10,1,Kemba,31.201
+16:10,2,リコカツ,32.717
+16:10,3,mステ,74.696
+16:10,4,مسابقه_ابوناصر,75.606
+16:10,5,Moses Brown,16.566
+16:10,6,ファブル,24.944
+16:10,7,Celtics,35.977
+16:10,8,Horford,24.460
+16:10,9,قصر خزام,58.401
+16:10,10,LArcenCiel,32.607
+16:41,1,Kemba,37.462
+16:41,2,MUSICBLOOD,163.609
+16:41,3,リコカツ,36.740
+16:41,4,Mステ,76.583
+16:41,5,Isak,14.716
+16:41,6,مسابقه_ابوناصر,82.739
+16:41,7,SWESVK,
+16:41,8,Moses Brown,19.143
+16:41,9,Celtics,40.376
+16:41,10,Horford,28.679
+17:10,1,Kemba,41.840
+17:10,2,MUSICBLOOD,208.444
+17:10,3,Isak,21.362
+17:10,4,SSSS_DYNAZENON,60.823
+17:10,5,MooMoosAreHere,49.716
+17:10,6,リコカツ,38.752
+17:10,7,مسابقه_ابوناصر,89.647
+17:10,8,Celtics,
+17:10,9,Moses Brown,20.997
+17:10,10,Horford,31.686
+17:41,1,Kemba,46.281
+17:41,2,MUSICBLOOD,234.970
+17:41,3,MooMoosAreHere,69.473
+17:41,4,7YearsWithMamamoo,70.070
+17:41,5,마마무라는_가7_놓지않을게,69.122
+17:41,6,MORENALuanSantana,16.592
+17:41,7,Isak,26.555
+17:41,8,28 SEASONS WITH MAMAMOO,44.726
+17:41,9,Celtics,45.719
+17:41,10,قصر خزام,72.998
+18:10,1,Kemba,49.721
+18:10,2,MooMoosAreHere,79.760
+18:10,3,MUSICBLOOD,248.396
+18:10,4,7YearsWithMamamoo,80.666
+18:10,5,마마무라는_가7_놓지않을게,79.441
+18:10,6,MORENALuanSantana,20.683
+18:10,7,Isak,29.473
+18:10,8,Celtics,50.327
+18:10,9,28 SEASONS WITH MAMAMOO,50.534
+18:10,10,قصر خزام,79.220
+18:41,1,CROCZE,
+18:41,2,Kemba,53.079
+18:41,3,MooMoosAreHere,86.149
+18:41,4,7YearsWithMamamoo,87.307
+18:41,5,MUSICBLOOD,259.128
+18:41,6,마마무라는_가7_놓지않을게,85.619
+18:41,7,Lovren,
+18:41,8,Elite,299.791
+18:41,9,Isak,30.804
+18:41,10,قصر خزام,84.586
+19:10,1,CROCZE,
+19:10,2,Kemba,55.292
+19:10,3,Lovren,
+19:10,4,MooMoosAreHere,89.968
+19:10,5,مسابقه_ابوناصر,118.947
+19:10,6,7YearsWithMamamoo,91.279
+19:10,7,MORENALuanSantana,24.281
+19:10,8,Elite,304.640
+19:10,9,قصر خزام,89.833
+19:10,10,Juneteenth,667.934
+19:41,1,CROCZE,11.102
+19:41,2,VeyisAteseSoruyorum,13.312
+19:41,3,Kemba,57.209
+19:41,4,Perisic,
+19:41,5,مسابقه_ابوناصر,127.045
+19:41,6,Elite,317.882
+19:41,7,Lovren,
+19:41,8,ENGSCO,28.918
+19:41,9,MooMoosAreHere,92.641
+19:41,10,قصر خزام,96.165
+20:10,1,TAYLOR,223.554
+20:10,2,VeyisAteseSoruyorum,20.530
+20:10,3,All Too Well,42.359
+20:10,4,CROCZE,12.789
+20:10,5,30 SONGS,60.468
+20:10,6,ENGSCO,32.395
+20:10,7,مسابقه_ابوناصر,136.013
+20:10,8,jake gyllenhaal,
+20:10,9,gareth,21.826
+20:10,10,Elite,321.485
+20:41,1,TAYLOR,328.190
+20:41,2,VeyisAteseSoruyorum,29.972
+20:41,3,All Too Well,75.389
+20:41,4,ENGSCO,38.047
+20:41,5,jake gyllenhaal,15.996
+20:41,6,CROCZE,13.428
+20:41,7,30 SONGS,95.244
+20:41,8,gareth,30.106
+20:41,9,Scotland,196.870
+20:41,10,مسابقه_ابوناصر,146.217
+21:10,1,taylor,376.522
+21:10,2,ENGSCO,52.407
+21:10,3,VeyisAteseSoruyorum,33.922
+21:10,4,All Too Well,90.046
+21:10,5,Scotland,211.995
+21:10,6,jake gyllenhaal,21.958
+21:10,7,MilkhaSingh,
+21:10,8,30 SONGS,110.292
+21:10,9,CROCZE,13.683
+21:10,10,gareth,32.364
+21:41,1,ENGSCO,65.158
+21:41,2,taylor,416.851
+21:41,3,MilkhaSingh,17.546
+21:41,4,VeyisAteseSoruyorum,37.006
+21:41,5,Scotland,225.849
+21:41,6,All Too Well,100.074
+21:41,7,jake gyllenhaal,25.748
+21:41,8,Kane,66.916
+21:41,9,Foden,27.028
+21:41,10,Pickford,10.325
+22:10,1,ENGSCO,85.092
+22:10,2,taylor,436.784
+22:10,3,Grealish,48.677
+22:10,4,Grealish,48.677
+22:10,5,England,430.128
+22:10,6,MilkhaSingh,23.439
+22:10,7,Southgate,23.623
+22:10,8,VeyisAteseSoruyorum,38.920
+22:10,9,All Too Well,106.806
+22:10,10,Foden,33.305
+22:41,1,ENGSCO,105.783
+22:41,2,Kane,112.443
+22:41,3,Grealish,66.645
+22:41,4,England,463.558
+22:41,5,taylor,459.838
+22:41,6,Foden,49.854
+22:41,7,Southgate,43.219
+22:41,8,Rashford,19.225
+22:41,9,MilkhaSingh,26.232
+22:41,10,All Too Well,112.904
+23:10,1,ENGSCO,136.100
+23:10,2,England,536.158
+23:10,3,Southgate,92.776
+23:10,4,Kane,139.131
+23:10,5,Grealish,80.133
+23:10,6,Foden,61.737
+23:10,7,taylor,472.676
+23:10,8,Sancho,48.300
+23:10,9,Rashford,25.010
+23:10,10,MilkhaSingh,27.711
+23:41,1,ENGSCO,143.908
+23:41,2,England,572.786
+23:41,3,Southgate,108.724
+23:41,4,Kane,151.810
+23:41,5,Grealish,86.104
+23:41,6,Foden,68.847
+23:41,7,Sancho,57.087
+23:41,8,taylor,490.308
+23:41,9,Rashford,27.569
+23:41,10,Croatia,34.265

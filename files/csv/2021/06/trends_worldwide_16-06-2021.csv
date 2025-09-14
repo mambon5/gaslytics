@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,FRAGER,99.258
+00:10,2,Pogba,288.967
+00:10,3,FRAALL,170.210
+00:10,4,GERFRA,86.666
+00:10,5,Mbappe,200.585
+00:10,6,Germany,179.348
+00:10,7,Hummels,84.681
+00:10,8,EURO2020,505.707
+00:10,9,Benzema,121.307
+00:10,10,Francia,77.529
+00:41,1,Pogba,301.695
+00:41,2,FRAGER,100.491
+00:41,3,FRAALL,175.646
+00:41,4,GERFRA,88.471
+00:41,5,Mbappe,207.581
+00:41,6,Germany,183.056
+00:41,7,Hummels,86.229
+00:41,8,TierraDeNadie10,28.067
+00:41,9,Benzema,125.834
+00:41,10,Francia,79.602
+01:10,1,Pogba,309.185
+01:10,2,FRAGER,101.162
+01:10,3,FRAALL,178.866
+01:10,4,TierraDeNadie10,44.211
+01:10,5,GERFRA,88.850
+01:10,6,Mbappe,210.492
+01:10,7,Germany,183.606
+01:10,8,Hummels,87.342
+01:10,9,GazaUnderAttack,32.055
+01:10,10,Francia,80.009
+01:41,1,TierraDeNadie10,64.054
+01:41,2,Pogba,315.679
+01:41,3,FRAGER,101.704
+01:41,4,FRAALL,181.275
+01:41,5,GERFRA,89.436
+01:41,6,Mbappe,214.399
+01:41,7,GazaUnderAttack,42.848
+01:41,8,Germany,185.631
+01:41,9,Hummels,88.161
+01:41,10,Francia,81.439
+02:10,1,TierraDeNadie10,73.549
+02:10,2,Pogba,319.795
+02:10,3,FRAGER,102.073
+02:10,4,FRAALL,182.604
+02:10,5,GazaUnderAttack,51.034
+02:10,6,GERFRA,89.790
+02:10,7,Mbappe,216.404
+02:10,8,david dobrik,
+02:10,9,Hummels,88.712
+02:10,10,Germany,185.885
+02:41,1,Tatum,17.538
+02:41,2,TierraDeNadie10,78.292
+02:41,3,WWENXT,19.914
+02:41,4,Pogba,323.068
+02:41,5,david dobrik,
+02:41,6,All-NBA,21.106
+02:41,7,FRAGER,102.319
+02:41,8,GazaUnderAttack,57.826
+02:41,9,ローソン煉獄弁当うまいうまい,
+02:41,10,Harden,59.560
+03:10,1,Tatum,22.226
+03:10,2,Harden,64.712
+03:10,3,WWENXT,26.332
+03:10,4,All-NBA,29.341
+03:10,5,david dobrik,
+03:10,6,TierraDeNadie10,80.412
+03:10,7,ローソン煉獄弁当うまいうまい,
+03:10,8,BLACKPINK THE MOVIE,63.365
+03:10,9,GazaUnderAttack,63.294
+03:10,10,Pogba,325.861
+03:41,1,Harden,77.731
+03:41,2,Tatum,25.204
+03:41,3,WWENXT,32.723
+03:41,4,BLACKPINK THE MOVIE,108.657
+03:41,5,All-NBA,35.010
+03:41,6,david dobrik,
+03:41,7,ローソン煉獄弁当うまいうまい,
+03:41,8,Joe Harris,13.225
+03:41,9,SoberanoSomosTodos,
+03:41,10,GazaUnderAttack,69.025
+04:10,1,Harden,85.004
+04:10,2,NoLimite,11.249
+04:10,3,Jeff Green,
+04:10,4,Tatum,27.239
+04:10,5,BLACKPINK THE MOVIE,145.698
+04:10,6,WWENXT,37.997
+04:10,7,Joe Harris,14.836
+04:10,8,SoberanoSomosTodos,
+04:10,9,All-NBA,38.366
+04:10,10,david dobrik,
+04:41,1,NoLimite,24.739
+04:41,2,Harden,93.218
+04:41,3,Durant,60.143
+04:41,4,Bucks,84.106
+04:41,5,Joe Harris,19.880
+04:41,6,Jeff Green,10.548
+04:41,7,Tatum,28.757
+04:41,8,BLACKPINK THE MOVIE,174.785
+04:41,9,CruelSummer,10.371
+04:41,10,侍ジャパン,10.298
+05:10,1,Giannis,99.775
+05:10,2,Kevin Durant,77.172
+05:10,3,Harden,117.313
+05:10,4,Bucks,113.154
+05:10,5,NoLimite,37.508
+05:10,6,Jeff Green,18.497
+05:10,7,Joe Harris,21.115
+05:10,8,CruelSummer,18.910
+05:10,9,Gleici,13.784
+05:10,10,MILvsBKN,
+05:41,1,Giannis,124.848
+05:41,2,Kevin Durant,117.308
+05:41,3,Harden,130.996
+05:41,4,Bucks,132.639
+05:41,5,NoLimite,40.027
+05:41,6,Jeff Green,24.703
+05:41,7,Joe Harris,22.091
+05:41,8,CruelSummer,21.540
+05:41,9,MILvsBKN,
+05:41,10,侍ジャパン,17.942
+06:10,1,Giannis,135.275
+06:10,2,Kevin Durant,131.036
+06:10,3,Harden,135.344
+06:10,4,Bucks,137.654
+06:10,5,NoLimite,41.140
+06:10,6,Jeff Green,27.202
+06:10,7,Joe Harris,22.320
+06:10,8,CruelSummer,22.317
+06:10,9,侍ジャパン,19.863
+06:10,10,MILvsBKN,
+06:41,1,Giannis,141.924
+06:41,2,Kevin Durant,139.341
+06:41,3,Harden,138.437
+06:41,4,Bucks,141.248
+06:41,5,NoLimite,41.687
+06:41,6,Jeff Green,28.322
+06:41,7,CruelSummer,22.983
+06:41,8,Joe Harris,22.582
+06:41,9,侍ジャパン,21.165
+06:41,10,BLACKPINK THE MOVIE,284.128
+07:10,1,Giannis,145.335
+07:10,2,Kevin Durant,144.400
+07:10,3,Harden,139.881
+07:10,4,Bucks,142.862
+07:10,5,NoLimite,42.136
+07:10,6,Jeff Green,29.011
+07:10,7,CruelSummer,23.434
+07:10,8,侍ジャパン,21.985
+07:10,9,BLACKPINK THE MOVIE,310.529
+07:10,10,SZ10TH,10.264
+07:41,1,Giannis,148.193
+07:41,2,Kevin Durant,148.928
+07:41,3,Harden,141.244
+07:41,4,Bucks,144.658
+07:41,5,NoLimite,42.432
+07:41,6,Jeff Green,29.509
+07:41,7,CruelSummer,23.935
+07:41,8,BLACKPINK THE MOVIE,329.063
+07:41,9,DisculpateABCCOLOR,117.047
+07:41,10,DisculpateMikeSilvero,21.845
+08:10,1,Giannis,150.028
+08:10,2,Kevin Durant,152.477
+08:10,3,Bucks,145.382
+08:10,4,Harden,141.920
+08:10,5,NoLimite,42.615
+08:10,6,Jeff Green,29.912
+08:10,7,DisculpateMikeSilvero,26.193
+08:10,8,wednesdaythought,15.322
+08:10,9,DisculpateABCCOLOR,124.991
+08:10,10,ApologizeABCCOLOR,106.720
+08:41,1,Giannis,151.723
+08:41,2,Kevin Durant,156.211
+08:41,3,Bucks,146.612
+08:41,4,Harden,142.802
+08:41,5,DisculpateMikeSilvero,30.936
+08:41,6,wednesdaythought,16.895
+08:41,7,ApologizeMikeSilvero,26.221
+08:41,8,DisculpateABCCOLOR,133.379
+08:41,9,現役引退,
+08:41,10,ApologizeABCCOLOR,113.791
+09:10,1,Giannis,153.100
+09:10,2,Kevin Durant,159.410
+09:10,3,SFTS2,23.395
+09:10,4,DisculpateMikeSilvero,34.361
+09:10,5,現役引退,
+09:10,6,YouthDay2021,
+09:10,7,wednesdaythought,18.152
+09:10,8,白井健三,
+09:10,9,carsamba,
+09:10,10,Bucks,147.111
+09:41,1,SFTS2,108.933
+09:41,2,Giannis,154.618
+09:41,3,HamdolsunDostumBiden,
+09:41,4,Kevin Durant,162.271
+09:41,5,YouthDay2021,
+09:41,6,realme85GAffordable,
+09:41,7,嵐ジオ,
+09:41,8,現役引退,
+09:41,9,白井健三,
+09:41,10,逃亡期間,
+10:10,1,SFTS2,148.993
+10:10,2,HamdolsunDostumBiden,
+10:10,3,YouthDay2021,
+10:10,4,LADY LOKI,
+10:10,5,realme85GAffordable,12.126
+10:10,6,Giannis,155.558
+10:10,7,嵐ジオ,
+10:10,8,ベリアル,19.652
+10:10,9,Kevin Durant,164.345
+10:10,10,現役引退,10.792
+10:41,1,すのちゅーぶ,
+10:41,2,SFTS2,171.845
+10:41,3,HamdolsunDostumBiden,
+10:41,4,YouthDay,
+10:41,5,Lady Loki,
+10:41,6,PolislerİntiharEdiyor,
+10:41,7,ベリアル,28.559
+10:41,8,Dance Practice,82.447
+10:41,9,Brentford,
+10:41,10,現役引退,11.646
+11:10,1,BamBam_riBBon_10M,36.150
+11:10,2,BACKSLIVE,10.486
+11:10,3,すのちゅーぶ,
+11:10,4,PolislerİntiharEdiyor,
+11:10,5,KUNxXIAOJUN_Single,87.761
+11:10,6,lady loki,11.479
+11:10,7,ベリアル,32.637
+11:10,8,Dance Practice,76.314
+11:10,9,ファンミ,
+11:10,10,HELLO HELLO,1.160.011
+11:41,1,Butter9thWin,36.950
+11:41,2,BamBam_riBBon_10M,85.143
+11:41,3,KUNxXIAOJUN_Single,136.792
+11:41,4,BACKSLIVE,15.277
+11:41,5,すのちゅーぶ,
+11:41,6,ベリアル,36.128
+11:41,7,Lady Loki,12.445
+11:41,8,ファンミ,
+11:41,9,Dance Practice,78.984
+11:41,10,Norwich,10.709
+12:10,1,Butter9thWin,79.264
+12:10,2,WayV_KUN_XIAOJUN,263.922
+12:10,3,BACKSLIVE,19.827
+12:10,4,BamBam_riBBon_10M,99.627
+12:10,5,PolislerİntiharEdiyor,
+12:10,6,ベリアル,38.537
+12:10,7,ファンミ,
+12:10,8,Lady Loki,13.719
+12:10,9,Dance Practice,76.580
+12:10,10,サーフィン会場,
+12:41,1,Butter9thWin,95.125
+12:41,2,有吉の壁,
+12:41,3,WayV_KUN_XIAOJUN,276.867
+12:41,4,BACKSLIVE,24.550
+12:41,5,PolislerİntiharEdiyor,
+12:41,6,Necmettin Yılmaz,
+12:41,7,ファンミ,
+12:41,8,ベリアル,40.846
+12:41,9,サーフィン会場,
+12:41,10,特権扱い,
+13:10,1,有吉の壁,10.897
+13:10,2,Butter9thWin,103.322
+13:10,3,BACKSLIVE,28.820
+13:10,4,PolislerİntiharEdiyor,
+13:10,5,WayV_KUN_XIAOJUN,281.162
+13:10,6,Necmettin Yılmaz,
+13:10,7,ジャイキリ,
+13:10,8,横浜FC,
+13:10,9,Córdoba,32.955
+13:10,10,ファンミ,
+13:41,1,BACKSLIVE,32.644
+13:41,2,ラスバレ放送局,
+13:41,3,真・女神転生V特番,
+13:41,4,PMQs,
+13:41,5,有吉の壁,11.541
+13:41,6,Müsilaj NeyinHabercisi,
+13:41,7,関東オークス,12.561
+13:41,8,Córdoba,37.145
+13:41,9,ジャイキリ,
+13:41,10,緊急事態宣言解除,24.872
+14:10,1,LabanPilipinas,
+14:10,2,ラスバレ放送局,11.858
+14:10,3,BACKSLIVE,33.964
+14:10,4,真・女神転生V特番,
+14:10,5,PMQs,
+14:10,6,Córdoba,40.502
+14:10,7,Gilas,12.071
+14:10,8,緊急事態宣言解除,27.231
+14:10,9,ジャイキリ,
+14:10,10,DehaBilimler Azerbaycanda,
+14:41,1,ホンマでっかTV,10.121
+14:41,2,LabanPilipinas,
+14:41,3,真・女神転生V特番,11.170
+14:41,4,Córdoba,45.724
+14:41,5,特捜9,
+14:41,6,BACKSLIVE,34.782
+14:41,7,Gilas,14.296
+14:41,8,緊急事態宣言解除,29.516
+14:41,9,NCT DREAM DI WIB TV SHOW,79.681
+14:41,10,ジャイキリ,
+15:10,1,ホンマでっかTV,11.451
+15:10,2,Córdoba,49.392
+15:10,3,FINRUS,
+15:10,4,مدينه_مصدر,
+15:10,5,特捜9,11.475
+15:10,6,لمستقبل_مستدام,
+15:10,7,緊急事態宣言解除,31.076
+15:10,8,Putin,275.002
+15:10,9,NCT DREAM DI WIB TV SHOW,98.684
+15:10,10,Gilas,15.427
+15:41,1,FINRUS,
+15:41,2,Córdoba,54.603
+15:41,3,ホンマでっかTV,11.837
+15:41,4,水曜日のダウンタウン,
+15:41,5,突然ですが占ってもいいですか,
+15:41,6,がんばれころさん,
+15:41,7,Putin,296.568
+15:41,8,あなたの性欲,
+15:41,9,NCT DREAM DI WIB TV SHOW,104.228
+15:41,10,原発の燃料棒破損と発表,10.437
+16:10,1,FINRUS,
+16:10,2,Córdoba,57.836
+16:10,3,がんばれころさん,14.329
+16:10,4,恋ぷに,12.407
+16:10,5,Witzel,13.769
+16:10,6,突然ですが占ってもいいですか,
+16:10,7,水曜日のダウンタウン,
+16:10,8,Putin,303.982
+16:10,9,あなたの性欲,
+16:10,10,Miranchuk,
+16:41,1,Witzel,27.203
+16:41,2,TOKIOカケル,12.438
+16:41,3,Córdoba,62.313
+16:41,4,FINRUS,
+16:41,5,がんばれころさん,20.979
+16:41,6,恋ぷに,13.943
+16:41,7,CaratSelcaDay,69.050
+16:41,8,Putin,323.998
+16:41,9,あなたの性欲,
+16:41,10,Marielle,
+17:10,1,Witzel,40.562
+17:10,2,halaaşığım,44.190
+17:10,3,二宮和也誕生祭,
+17:10,4,Córdoba,65.934
+17:10,5,FINRUS,
+17:10,6,TOKIOカケル,13.605
+17:10,7,CaratSelcaDay,90.435
+17:10,8,Marielle,10.052
+17:10,9,Putin,329.470
+17:10,10,あなたの性欲,
+17:41,1,halaaşığım,248.299
+17:41,2,Witzel,57.366
+17:41,3,二宮和也誕生祭,14.374
+17:41,4,CPIdaCovid,26.557
+17:41,5,DisculpateMikeSilvero,122.927
+17:41,6,Córdoba,70.384
+17:41,7,CaratSelcaDay,110.373
+17:41,8,Flávio Bolsonaro,10.236
+17:41,9,Putin,351.404
+17:41,10,あなたの性欲,
+18:10,1,halaaşığım,386.146
+18:10,2,Witzel,70.147
+18:10,3,二宮和也誕生祭,17.407
+18:10,4,CPIdaCovid,31.034
+18:10,5,DisculpateMikeSilvero,143.786
+18:10,6,Flávio Bolsonaro,16.134
+18:10,7,Córdoba,73.580
+18:10,8,Putin,366.723
+18:10,9,200DaysWithENHYPEN,67.845
+18:10,10,あなたの性欲,
+18:41,1,TURWAL,14.348
+18:41,2,halaaşığım,520.928
+18:41,3,Ramsey,15.602
+18:41,4,Putin,416.806
+18:41,5,Witzel,81.290
+18:41,6,DisculpateMikeSilvero,163.297
+18:41,7,二宮和也誕生祭,18.971
+18:41,8,CPIdaCovid,33.933
+18:41,9,Ozan,14.922
+18:41,10,Córdoba,78.170
+19:10,1,TURWAL,24.106
+19:10,2,Ramsey,38.006
+19:10,3,Bale,34.467
+19:10,4,halaaşığım,618.157
+19:10,5,Şenol Güneş,13.303
+19:10,6,Putin,444.808
+19:10,7,Ozan,24.657
+19:10,8,Kenan,23.203
+19:10,9,Witzel,96.329
+19:10,10,Wales,61.960
+19:41,1,TURWAL,36.692
+19:41,2,Bale,72.414
+19:41,3,Ramsey,43.838
+19:41,4,Şenol Güneş,20.828
+19:41,5,Kenan,33.338
+19:41,6,Putin,487.052
+19:41,7,Burak,31.226
+19:41,8,halaaşığım,710.608
+19:41,9,Witzel,116.647
+19:41,10,Wales,68.542
+20:10,1,TURWAL,58.592
+20:10,2,Bale,98.755
+20:10,3,Şenol Güneş,54.323
+20:10,4,Wales,90.810
+20:10,5,BizimCocuklar,39.897
+20:10,6,Ramsey,50.068
+20:10,7,WALTUR,
+20:10,8,Kenan,40.367
+20:10,9,Burak,39.926
+20:10,10,Putin,518.237
+20:41,1,TURWAL,65.485
+20:41,2,Şenol Güneş,71.619
+20:41,3,Bale,109.523
+20:41,4,Wales,99.318
+20:41,5,BizimCocuklar,43.404
+20:41,6,Ramsey,53.911
+20:41,7,Putin,554.918
+20:41,8,WALTUR,
+20:41,9,Kenan,44.863
+20:41,10,Burak,46.472
+21:10,1,TURWAL,67.744
+21:10,2,Şenol Güneş,79.291
+21:10,3,Bale,113.983
+21:10,4,Wales,101.563
+21:10,5,BizimCocuklar,45.397
+21:10,6,Putin,571.288
+21:10,7,Ramsey,55.564
+21:10,8,WALTUR,
+21:10,9,Kenan,46.789
+21:10,10,Burak,49.326
+21:41,1,TURWAL,69.232
+21:41,2,Şenol Güneş,83.863
+21:41,3,ITASWI,
+21:41,4,Bale,117.339
+21:41,5,Wales,104.542
+21:41,6,ItaliaSvizzera,14.583
+21:41,7,BizimCocuklar,47.260
+21:41,8,Locatelli,19.708
+21:41,9,Putin,598.645
+21:41,10,Sergio Ramos,27.250
+22:10,1,Sergio Ramos,78.156
+22:10,2,TURWAL,70.178
+22:10,3,Şenol Güneş,86.679
+22:10,4,ItaliaSvizzera,19.333
+22:10,5,ITASWI,13.126
+22:10,6,Real Madrid,106.555
+22:10,7,Bale,119.361
+22:10,8,Wales,104.958
+22:10,9,BizimCocuklar,48.375
+22:10,10,Locatelli,24.834
+22:41,1,Sergio Ramos,107.621
+22:41,2,Locatelli,63.281
+22:41,3,ItaliaSvizzera,28.206
+22:41,4,ITASUI,22.799
+22:41,5,TURWAL,70.941
+22:41,6,Real Madrid,133.747
+22:41,7,Italy,119.065
+22:41,8,Şenol Güneş,89.181
+22:41,9,Wales,107.178
+22:41,10,Bale,121.238
+23:10,1,Sergio Ramos,126.744
+23:10,2,Locatelli,76.448
+23:10,3,ITASUI,31.110
+23:10,4,ItaliaSvizzera,41.622
+23:10,5,Italy,133.401
+23:10,6,Real Madrid,147.210
+23:10,7,TURWAL,71.558
+23:10,8,Şenol Güneş,90.918
+23:10,9,Wales,107.406
+23:10,10,Bale,122.165
+23:41,1,Sergio Ramos,140.726
+23:41,2,Locatelli,83.252
+23:41,3,ITASUI,33.449
+23:41,4,ItaliaSvizzera,46.858
+23:41,5,Italy,139.954
+23:41,6,Real Madrid,160.837
+23:41,7,TURWAL,71.997
+23:41,8,Şenol Güneş,92.374
+23:41,9,MaskSinger4,
+23:41,10,Putin,660.385

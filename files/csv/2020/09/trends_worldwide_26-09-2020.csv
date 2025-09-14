@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:04,1,KohLanta,66.497
+00:04,2,EdomexEnSemaforoNaranja,31.129
+00:04,3,KirmiziOda,25.609
+00:04,4,GFVIP,113.319
+00:04,5,STREAM WALLS 10M,123.034
+00:04,6,KırmızıOda,25.610
+00:04,7,EM CAMPO COM GUI,70.014
+00:04,8,Ron Paul,87.977
+00:04,9,SELFIES FOR CHARLIE,11.705
+00:04,10,DEMI IS LOVED PARTY,11.929
+00:34,1,KohLanta,67.884
+00:34,2,EdomexEnSemaforoNaranja,32.066
+00:34,3,KirmiziOda,26.422
+00:34,4,GFVIP,127.609
+00:34,5,STREAM WALLS 10M,124.441
+00:34,6,nationaldaughtersday,
+00:34,7,EM CAMPO COM GUI,77.378
+00:34,8,Amy Coney Barrett,73.912
+00:34,9,SELFIES FOR CHARLIE,12.195
+00:34,10,DEMI IS LOVED PARTY,18.947
+01:04,1,KohLanta,
+01:04,2,EdomexEnSemaforoNaranja,
+01:04,3,GFVIP,133.863
+01:04,4,KirmiziOda,
+01:04,5,nationaldaughtersday,
+01:04,6,STREAM WALLS 10M,125.877
+01:04,7,EM CAMPO COM GUI,83.591
+01:04,8,Amy Coney Barrett,95.295
+01:04,9,Landim,11.565
+01:04,10,DEMI IS LOVED PARTY,
+01:34,1,KohLanta,69.010
+01:34,2,EdomexEnSemaforoNaranja,33.697
+01:34,3,nationaldaughtersday,
+01:34,4,يالدبه_انحفي,13.033
+01:34,5,サタプラ,
+01:34,6,Amy Coney Barrett,115.461
+01:34,7,Landim,13.330
+01:34,8,EM CAMPO COM GUI,84.214
+01:34,9,STREAM WALLS 10M,126.649
+01:34,10,DEMI IS LOVED PARTY,29.307
+02:04,1,SalarioRosa,22.596
+02:04,2,DynaNite,103.648
+02:04,3,FranjaElectoral,27.151
+02:04,4,nationaldaughtersday,10.322
+02:04,5,liganfa,
+02:04,6,Amy Coney Barrett,132.535
+02:04,7,Landim,14.758
+02:04,8,DEMI IS LOVED PARTY,31.194
+02:04,9,STREAM WALLS 10M,127.367
+02:04,10,PREVISÕES COM NOMES,10.998
+02:34,1,DynaNite,190.122
+02:34,2,SalarioRosa,31.010
+02:34,3,FranjaElectoral,32.668
+02:34,4,ウルトラマンZ,25.749
+02:34,5,nationaldaughtersday,11.410
+02:34,6,Amy Coney Barrett,149.866
+02:34,7,Landim,15.854
+02:34,8,Paul Pierce,
+02:34,9,DEMI IS LOVED PARTY,32.781
+02:34,10,PREVISÕES COM NOMES,12.484
+03:04,1,DynaNite,238.204
+03:04,2,SalarioRosa,37.950
+03:04,3,FranjaElectoral,35.818
+03:04,4,ウルトラマンZ,32.133
+03:04,5,SmackDown,13.937
+03:04,6,Amy Coney Barrett,165.771
+03:04,7,Paul Pierce,
+03:04,8,Landim,16.694
+03:04,9,DEMI IS LOVED PARTY,34.083
+03:04,10,PREVISÕES COM NOMES,12.556
+03:34,1,SalarioRosa,50.179
+03:34,2,DynaNite,264.403
+03:34,3,Duncan Robinson,
+03:34,4,SmackDown,18.794
+03:34,5,FranjaElectoral,38.366
+03:34,6,ウルトラマンZ,36.541
+03:34,7,brayden point,
+03:34,8,Paul Pierce,
+03:34,9,Amy Coney Barrett,182.575
+03:34,10,Landim,17.570
+03:59,1,SalarioRosa,64.342
+03:59,2,DynaNite,278.920
+03:59,3,SmackDown,26.036
+03:59,4,Duncan Robinson,
+03:59,5,FranjaElectoral,40.127
+03:59,6,nationaldaughtersday,14.635
+03:59,7,Kanter,
+03:59,8,Brayden Point,
+03:59,9,Paul Pierce,
+03:59,10,グリーザ,
+04:34,1,SalarioRosa,84.001
+04:34,2,DynaNite,293.499
+04:34,3,FestaAFazenda,16.679
+04:34,4,Kemba,10.421
+04:34,5,SmackDown,31.565
+04:34,6,nationaldaughtersday,16.101
+04:34,7,Marlins,14.839
+04:34,8,Avaí,
+04:34,9,Kanter,
+04:34,10,Paul Pierce,
+05:04,1,SalarioRosa,98.071
+05:04,2,bucciovertimechallenge,
+05:04,3,Celtics,78.547
+05:04,4,DynaNite,303.206
+05:04,5,FestaAFazenda,22.213
+05:04,6,Marlins,23.414
+05:04,7,SmackDown,33.239
+05:04,8,Boston,62.411
+05:04,9,Avaí,11.627
+05:04,10,Dragic,
+05:34,1,SalarioRosa,106.675
+05:34,2,bucciovertimechallenge,
+05:34,3,Celtics,100.753
+05:34,4,FestaAFazenda,30.078
+05:34,5,Dragic,11.261
+05:34,6,Tatum,25.342
+05:34,7,Marlins,27.275
+05:34,8,DynaNite,312.651
+05:34,9,GoBolts,
+05:34,10,Boston,68.452
+06:04,1,SalarioRosa,112.981
+06:04,2,bucciovertimechallenge,
+06:04,3,Celtics,108.175
+06:04,4,FestaAFazenda,37.649
+06:04,5,โตแล้วเป็นคนทุกที่EP1,189.168
+06:04,6,HappyBirthdayDrMMSingh,36.921
+06:04,7,Marlins,28.751
+06:04,8,Dragic,11.642
+06:04,9,Tatum,27.931
+06:04,10,Game 6,11.795
+06:34,1,SalarioRosa,116.494
+06:34,2,bucciovertimechallenge,
+06:34,3,Celtics,112.254
+06:34,4,FestaAFazenda,45.077
+06:34,5,HappyBirthdayDrMMSingh,45.962
+06:34,6,โตแล้วเป็นคนทุกที่EP1,241.058
+06:34,7,Marlins,30.539
+06:34,8,Reds,55.457
+06:34,9,Dragic,11.855
+06:34,10,Boston,72.338
+07:04,1,SalarioRosa,118.700
+07:04,2,bucciovertimechallenge,
+07:04,3,Celtics,114.186
+07:04,4,HappyBirthdayDrMMSingh,56.120
+07:04,5,FestaAFazenda,49.288
+07:04,6,GetWellSoonMingyu,
+07:04,7,Reds,59.125
+07:04,8,Marlins,31.774
+07:04,9,CANCELEM O PLAYPLUS,23.951
+07:04,10,TwitterdaGt Açılldı,
+07:34,1,SalarioRosa,119.861
+07:34,2,お笑いの日,14.952
+07:34,3,HappyBirthdayDrMMSingh,66.442
+07:34,4,bucciovertimechallenge,
+07:34,5,GetWellSoonMingyu,
+07:34,6,Celtics,115.904
+07:34,7,CANCELEM O PLAYPLUS,28.063
+07:34,8,Reds,61.249
+07:34,9,Marlins,32.896
+07:34,10,TwitterdaGt Açılldı,
+08:04,1,お笑いの日,24.406
+08:04,2,SalarioRosa,120.520
+08:04,3,HappyBirthdayDrMMSingh,76.726
+08:04,4,GetWellSoonMingyu,12.575
+08:04,5,bucciovertimechallenge,
+08:04,6,Celtics,117.145
+08:04,7,CANCELEM O PLAYPLUS,32.454
+08:04,8,TwitterdaGt Açılldı,
+08:04,9,Reds,62.039
+08:04,10,LOOVANA PartySATURDAY,21.448
+08:34,1,お笑いの日,31.508
+08:34,2,HappyBirthdayDrMMSingh,85.985
+08:34,3,GetWellSoonMingyu,15.039
+08:34,4,SalarioRosa,120.864
+08:34,5,氣志團万博2020,
+08:34,6,Celtics,118.485
+08:34,7,CANCELEM O PLAYPLUS,35.295
+08:34,8,LOOVANA PartySATURDAY,29.538
+08:34,9,TwitterdaGt Açılldı,
+08:34,10,ガーランド,
+09:04,1,PROTECTENHYPEN,51.109
+09:04,2,お笑いの日,35.464
+09:04,3,HappyBirthdayDrMMSingh,94.297
+09:04,4,GetWellSoonMingyu,17.001
+09:04,5,ももクロ万博,
+09:04,6,CANCELEM O PLAYPLUS,36.274
+09:04,7,Celtics,119.283
+09:04,8,ガーランド,10.539
+09:04,9,フェス限,
+09:04,10,うんこちゃん,
+09:34,1,PROTECTENHYPEN,89.583
+09:34,2,お笑いの日,39.110
+09:34,3,HappyBirthdayDrMMSingh,101.028
+09:34,4,氣志團万博2020,19.658
+09:34,5,BP_WISHES,17.201
+09:34,6,フェス限,
+09:34,7,ガーランド,11.644
+09:34,8,うんこちゃん,
+09:34,9,CANCELEM O PLAYPLUS,36.589
+09:34,10,あんスタ,61.808
+10:04,1,PROTECTENHYPEN,127.673
+10:04,2,お笑いの日,42.811
+10:04,3,BP_WISHES,24.631
+10:04,4,氣志團万博2020,23.816
+10:04,5,HappyBirthdayDrMMSingh,106.609
+10:04,6,フェス限,
+10:04,7,ガーランド,12.677
+10:04,8,あんスタ,63.963
+10:04,9,うんこちゃん,
+10:04,10,İletişim Başkanı,
+10:29,1,PROTECTENHYPEN,151.277
+10:29,2,お笑いの日,45.267
+10:29,3,氣志團万博2020,28.911
+10:29,4,BP_WISHES,28.245
+10:29,5,Dynamite15thWin,31.989
+10:29,6,フェス限,
+10:29,7,ガーランド,13.595
+10:29,8,あんスタ,66.967
+10:29,9,キノタク,
+10:29,10,うんこちゃん,
+11:04,1,ProtectEnhypen,179.319
+11:04,2,氣志團万博2020,34.091
+11:04,3,お笑いの日,48.508
+11:04,4,TürkDilBayramı,
+11:04,5,BP_WISHES,32.034
+11:04,6,どらほー,
+11:04,7,横浜優勝,
+11:04,8,たかほー,
+11:04,9,あんスタ,69.693
+11:04,10,フェス限,
+11:34,1,ProtectEnhypen,199.778
+11:34,2,お笑いの日,51.782
+11:34,3,TürkDilBayramı,11.910
+11:34,4,氣志團万博2020,38.530
+11:34,5,男と女から見た可愛さ,
+11:34,6,どらほー,
+11:34,7,たかほー,
+11:34,8,横浜優勝,
+11:34,9,あんスタ,73.933
+11:34,10,キングオブコント,21.095
+12:04,1,PROTECTENHYPEN,215.946
+12:04,2,お笑いの日,55.007
+12:04,3,BNK48JankenTournament2020,90.061
+12:04,4,TürkDilBayramı,14.127
+12:04,5,男と女から見た可愛さ,
+12:04,6,DAZN,21.338
+12:04,7,どらほー,
+12:04,8,あんスタ,71.464
+12:04,9,たかほー,
+12:04,10,横浜優勝,
+12:34,1,PROTECTENHYPEN,229.023
+12:34,2,キングオブコント2020,
+12:34,3,BNK48JankenTournament2020,118.162
+12:34,4,TürkDilBayramı,16.268
+12:34,5,男と女から見た可愛さ,
+12:34,6,DAZN,23.542
+12:34,7,AWS障害,
+12:34,8,あんスタ,75.765
+12:34,9,シャンプーハット,
+12:34,10,お笑いの日,57.466
+12:59,1,Lindelof,14.018
+12:59,2,PROTECTENHYPEN,239.901
+12:59,3,キングオブコント,16.657
+12:59,4,SKYHI実家ワンマン,14.340
+12:59,5,男と女から見た可愛さ,
+12:59,6,BNK48JankenTournament2020,133.902
+12:59,7,DAZN,24.899
+12:59,8,通信障害,
+12:59,9,RETURN OF 1D,21.024
+12:59,10,AWS障害,
+13:34,1,Lindelof,17.849
+13:34,2,キングオブコント,25.818
+13:34,3,スクスタ1周年生放送,21.566
+13:34,4,PROTECTENHYPEN,253.732
+13:34,5,空気階段,15.795
+13:34,6,ヒゲダン配信ライブ,10.011
+13:34,7,BHAMUN,19.954
+13:34,8,わこりーぬ,
+13:34,9,DAZN,25.731
+13:34,10,通信障害,
+13:59,1,キングオブコント,34.897
+13:59,2,Lindelof,19.851
+13:59,3,BHAMUN,24.515
+13:59,4,志村どうぶつ園,22.612
+13:59,5,スクスタ1周年生放送,42.432
+13:59,6,ジャルジャル,28.610
+13:59,7,PROTECTENHYPEN,264.238
+13:59,8,ニッポン,19.089
+13:59,9,Brighton,41.431
+13:59,10,空気階段,21.152
+14:29,1,BHAMUN,39.362
+14:29,2,キングオブコント,48.301
+14:29,3,Brighton,58.542
+14:29,4,Lindelof,21.468
+14:29,5,ジャルジャル,38.096
+14:29,6,志村どうぶつ園,25.123
+14:29,7,Pogba,24.557
+14:29,8,スクスタ1周年生放送,46.724
+14:29,9,Maupay,13.738
+14:29,10,PROTECTENHYPEN,277.055
+15:05,1,ジャルジャル,108.781
+15:05,2,BHAMUN,55.167
+15:05,3,Rashford,44.132
+15:05,4,Pogba,36.927
+15:05,5,空気階段,51.174
+15:05,6,MUFC,62.194
+15:05,7,Lindelof,22.927
+15:05,8,RussianGP,51.066
+15:05,9,湊あくあ新衣装,20.175
+15:05,10,志村どうぶつ園,26.167
+15:30,1,ジャルジャル,120.827
+15:30,2,BHAMUN,72.573
+15:30,3,Rashford,48.576
+15:30,4,空気階段,54.302
+15:30,5,MUFC,72.960
+15:30,6,nhkらじらー,90.985
+15:30,7,BRIMUN,
+15:30,8,RussianGP,62.491
+15:30,9,Lindelof,24.215
+15:30,10,راشفورد,
+16:05,1,Brighton,150.778
+16:05,2,ジャルジャル,128.545
+16:05,3,Rashford,55.708
+16:05,4,Pogba,48.245
+16:05,5,Maupay,40.433
+16:05,6,Man U,16.111
+16:05,7,nhkらじらー,148.037
+16:05,8,RussianGP,65.407
+16:05,9,Bruno Fernandes,34.754
+16:05,10,ヒゲダン配信ライブ,32.118
+16:35,1,Brighton,161.099
+16:35,2,ジャルジャル,132.928
+16:35,3,Pogba,51.362
+16:35,4,Rashford,59.456
+16:35,5,キングオブコント,79.952
+16:35,6,nhkらじらー,153.448
+16:35,7,Maupay,43.611
+16:35,8,Man U,17.228
+16:35,9,RussianGP,68.311
+16:35,10,Bruno Fernandes,40.307
+17:05,1,Brighton,166.690
+17:05,2,MUFC,106.402
+17:05,3,BRIMUN,14.492
+17:05,4,ジャルジャル,135.984
+17:05,5,Pogba,53.053
+17:05,6,Rashford,61.380
+17:05,7,キングオブコント,81.017
+17:05,8,nhkらじらー,157.957
+17:05,9,Man U,17.750
+17:05,10,Maupay,45.817
+17:35,1,Brighton,171.002
+17:35,2,MUFC,110.208
+17:35,3,ジャルジャル,138.549
+17:35,4,SixTONESANN,116.638
+17:35,5,Rashford,63.732
+17:35,6,Pogba,55.038
+17:35,7,SMGOnパイナポ,44.058
+17:35,8,CRYEVE,13.449
+17:35,9,ヒプバラ,71.075
+17:35,10,Bruno Fernandes,44.284
+18:05,1,Brighton,174.104
+18:05,2,MUFC,110.723
+18:05,3,SixTONESANN,168.252
+18:05,4,BRIMUN,15.105
+18:05,5,SMGOnパイナポ,45.310
+18:05,6,ジャルジャル,140.435
+18:05,7,EunbiMakesMeBetter,113.664
+18:05,8,Everton,58.885
+18:05,9,Pogba,56.646
+18:05,10,Rashford,64.755
+18:30,1,Brighton,177.457
+18:30,2,SixTONESANN,169.928
+18:30,3,EunbiMakesMeBetter,118.946
+18:30,4,SMGOnパイナポ,46.239
+18:30,5,セで始まってスで終わるもの,16.529
+18:30,6,BRIMUN,15.350
+18:30,7,Everton,65.581
+18:30,8,ジャルジャル,141.829
+18:30,9,Manchester United,84.373
+18:30,10,Pogba,58.313
+19:05,1,Brighton,179.336
+19:05,2,SixTONESANN,170.597
+19:05,3,1YearWithCNS,87.264
+19:05,4,EunbiMakesMeBetter,123.373
+19:05,5,セで始まってスで終わるもの,18.112
+19:05,6,Everton,69.845
+19:05,7,BRIMUN,15.493
+19:05,8,Thiago Silva,29.114
+19:05,9,ジャルジャル,142.966
+19:05,10,Dortmund,39.440
+19:30,1,WBACHE,74.418
+19:30,2,Thiago Silva,51.164
+19:30,3,1YearWithCNS,101.954
+19:30,4,Brighton,182.043
+19:30,5,SixTONESANN,170.821
+19:30,6,Everton,73.911
+19:30,7,EunbiMakesMeBetter,125.633
+19:30,8,セで始まってスで終わるもの,19.069
+19:30,9,Alonso,36.538
+19:30,10,Auburn,15.072
+20:05,1,Chelsea,270.323
+20:05,2,Thiago Silva,66.286
+20:05,3,1YearWithCNS,120.505
+20:05,4,Auburn,17.513
+20:05,5,Kyle Pitts,
+20:05,6,Jovic,
+20:05,7,Alonso,38.506
+20:05,8,العويس,18.148
+20:05,9,Brighton,183.455
+20:05,10,Everton,76.467
+20:35,1,Chelsea,305.948
+20:35,2,Jovic,11.862
+20:35,3,Thiago Silva,72.287
+20:35,4,Werner,44.800
+20:35,5,العويس,29.435
+20:35,6,1YearWithCNS,132.062
+20:35,7,LittleMixTheSearch,22.431
+20:35,8,Auburn,19.064
+20:35,9,Kyle Pitts,
+20:35,10,Giroud,
+21:05,1,Chelsea,327.503
+21:05,2,WBACHE,112.984
+21:05,3,Jovic,15.144
+21:05,4,Thiago Silva,76.506
+21:05,5,LittleMixTheSearch,32.509
+21:05,6,Werner,50.735
+21:05,7,العويس,38.821
+21:05,8,Auburn,20.917
+21:05,9,1YearWithCNS,140.467
+21:05,10,Ole Miss,17.445
+21:35,1,Chelsea,340.608
+21:35,2,LittleMixTheSearch,47.345
+21:35,3,Jovic,17.487
+21:35,4,العويس,46.532
+21:35,5,Kyle Pitts,
+21:35,6,Thiago Silva,80.832
+21:35,7,Oklahoma,29.381
+21:35,8,AtatürkSözüYaz,30.704
+21:35,9,Auburn,22.543
+21:35,10,Valverde,10.214
+22:05,1,Chelsea,345.196
+22:05,2,Oklahoma,46.336
+22:05,3,Jovic,24.775
+22:05,4,Betis,35.228
+22:05,5,AtatürkSözüYaz,39.167
+22:05,6,LittleMixTheSearch,55.035
+22:05,7,Tiago,16.173
+22:05,8,العويس,54.078
+22:05,9,InterFiorentina,
+22:05,10,Big 12,
+22:35,1,Chelsea,351.575
+22:35,2,Jovic,31.850
+22:35,3,Oklahoma,52.032
+22:35,4,Betis,40.218
+22:35,5,Ribery,10.232
+22:35,6,AtatürkSözüYaz,47.568
+22:35,7,Benzema,23.589
+22:35,8,InterFiorentina,12.331
+22:35,9,FMSARGENTINA,
+22:35,10,SerieAxESPN,
+23:00,1,Jovic,35.570
+23:00,2,Betis,50.654
+23:00,3,InterFiorentina,18.669
+23:00,4,Chelsea,353.340
+23:00,5,OMFCM,13.518
+23:00,6,AtatürkSözüYaz,53.935
+23:00,7,Oklahoma,54.520
+23:00,8,FMSARGENTINA,
+23:00,9,Ribery,14.312
+23:00,10,SerieAxESPN,
+23:35,1,Betis,62.205
+23:35,2,Jovic,40.499
+23:35,3,FMSARGENTINA,12.446
+23:35,4,InterFiorentina,21.256
+23:35,5,AtatürkSözüYaz,60.954
+23:35,6,BugünGünlerdenGALATASARAY,12.459
+23:35,7,OMFCM,15.529
+23:35,8,Chelsea,359.231
+23:35,9,Benzema,32.633
+23:35,10,Oklahoma,57.938

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Ramos,62.787
+00:09,2,Desconjuracao,40.374
+00:09,3,PORFRA,37.263
+00:09,4,Boosie,13.501
+00:09,5,iboshow,44.464
+00:09,6,Strictly,26.017
+00:09,7,Cano,31.394
+00:09,8,Arana,10.399
+00:09,9,LootingLoeffler,101.144
+00:09,10,Martial,46.019
+00:39,1,Arana,15.807
+00:39,2,Katie Taylor,
+00:39,3,Desconjuracao,48.827
+00:39,4,TaylorGutierrez,
+00:39,5,Ramos,65.118
+00:39,6,Boosie,16.268
+00:39,7,PORFRA,37.738
+00:39,8,precure,
+00:39,9,UFCVegas14,10.090
+00:39,10,Cano,32.105
+01:09,1,Corinthians,65.769
+01:09,2,Arana,18.069
+01:09,3,Katie Taylor,
+01:09,4,Desconjuracao,56.919
+01:09,5,Luciano,21.033
+01:09,6,Boosie,18.915
+01:09,7,TaylorGutierrez,
+01:09,8,precure,27.165
+01:09,9,Ramos,65.344
+01:09,10,UFCVegas14,11.449
+01:39,1,Corinthians,73.797
+01:39,2,Arana,19.579
+01:39,3,仮面ライダーセイバー,23.357
+01:39,4,Katie Taylor,
+01:39,5,Desconjuracao,64.515
+01:39,6,Boosie,20.954
+01:39,7,Luciano,23.364
+01:39,8,nitiasa,27.901
+01:39,9,UFCVegas14,14.127
+01:39,10,TaylorGutierrez,
+02:09,1,Corinthians,75.864
+02:09,2,キラメイジャー,20.923
+02:09,3,UFCVegas14,16.428
+02:09,4,Desconjuracao,71.992
+02:09,5,nitiasa,46.164
+02:09,6,仮面ライダーセイバー,29.686
+02:09,7,Arana,20.079
+02:09,8,Boosie,22.662
+02:09,9,Katie Taylor,
+02:09,10,Luciano,23.925
+02:39,1,Thiago Maia,
+02:39,2,Desconjuracao,88.292
+02:39,3,Corinthians,78.286
+02:39,4,キラメイジャー,25.282
+02:39,5,RIPdrake,
+02:39,6,Kyle Trask,
+02:39,7,UFCVegas14,18.028
+02:39,8,仮面ライダーセイバー,33.167
+02:39,9,Boosie,24.451
+02:39,10,Bruno Henrique,
+03:09,1,Thiago Maia,12.114
+03:09,2,Michigan,286.968
+03:09,3,UFCVegas14,23.402
+03:09,4,Harbaugh,
+03:09,5,Desconjuracao,94.493
+03:09,6,Corinthians,78.145
+03:09,7,Veiga,
+03:09,8,RIPdrake,
+03:09,9,ワイドナショー,
+03:09,10,BodaColosal,
+03:39,1,Lincoln,78.204
+03:39,2,Michigan,298.131
+03:39,3,UFCVegas14,26.908
+03:39,4,Thiago Maia,13.142
+03:39,5,Harbaugh,11.671
+03:39,6,MerinoDictador,82.999
+03:39,7,FestaAFazenda,21.012
+03:39,8,FLAxACG,
+03:39,9,Veiga,
+03:39,10,Desconjuracao,98.430
+04:09,1,Lincoln,88.048
+04:09,2,MerinoDictador,115.649
+04:09,3,UFCVegas14,32.206
+04:09,4,Michigan,296.369
+04:09,5,Thiago Maia,14.495
+04:09,6,Harbaugh,13.013
+04:09,7,Felder,13.176
+04:09,8,Antifa,618.638
+04:09,9,FestaAFazenda,20.625
+04:09,10,Gucci,32.559
+04:39,1,Lincoln,92.177
+04:39,2,MerinoDictador,160.446
+04:39,3,Gucci,44.500
+04:39,4,UFCVegas14,33.280
+04:39,5,Michigan,303.946
+04:39,6,PeruLivesMatter,66.113
+04:39,7,Harbaugh,14.297
+04:39,8,Thiago Maia,15.029
+04:39,9,Antifa,672.430
+04:39,10,Felder,13.852
+05:09,1,Lincoln,92.946
+05:09,2,MerinoDictador,206.295
+05:09,3,Gucci,55.462
+05:09,4,PeruLivesMatter,102.367
+05:09,5,Michigan,304.066
+05:09,6,PoliciasAsesinos,61.261
+05:09,7,Harbaugh,15.972
+05:09,8,UFCVegas14,33.644
+05:09,9,WinFreePS5,21.669
+05:09,10,Antifa,733.577
+05:39,1,MerinoDictador,252.253
+05:39,2,Lincoln,94.787
+05:39,3,Gucci,63.181
+05:39,4,PeruLivesMatter,141.109
+05:39,5,CrawfordBrook,19.689
+05:39,6,WinFreePS5,27.685
+05:39,7,Michigan,310.319
+05:39,8,Antifa,796.995
+05:39,9,Luis Valdez,13.790
+05:39,10,Harbaugh,17.152
+06:09,1,PeruvianLivesMatter,280.010
+06:09,2,MerinoAsesino,122.660
+06:09,3,Gucci,68.175
+06:09,4,Lincoln,95.013
+06:09,5,CrawfordBrook,32.059
+06:09,6,Antifa,857.344
+06:09,7,WinFreePS5,31.213
+06:09,8,Michigan,300.248
+06:09,9,自民党に殺される,48.675
+06:09,10,Luis Valdez,17.757
+06:39,1,PeruvianLivesMatter,431.300
+06:39,2,Crawford,53.452
+06:39,3,Jeezy,38.607
+06:39,4,Lincoln,96.069
+06:39,5,Antero,67.916
+06:39,6,三大欲求の割合,
+06:39,7,Antifa,898.815
+06:39,8,WinFreePS5,34.580
+06:39,9,自民党に殺される,53.293
+06:39,10,VoteLGBTQ,
+07:09,1,PeruvianLivesMatter,560.041
+07:09,2,MerinoAsesino,190.005
+07:09,3,Crawford,56.245
+07:09,4,Jeezy,40.934
+07:09,5,Lincoln,95.965
+07:09,6,Spence,10.923
+07:09,7,三大欲求の割合,
+07:09,8,Sheput,10.028
+07:09,9,Antifa,934.034
+07:09,10,WinFreePS5,36.837
+07:39,1,PeruvianLivesMatter,635.038
+07:39,2,Merino,586.869
+07:39,3,Crawford,57.783
+07:39,4,Gucci,77.430
+07:39,5,Jeezy,42.589
+07:39,6,三大欲求の割合,
+07:39,7,Antero,95.511
+07:39,8,Lincoln,96.560
+07:39,9,Spence,11.433
+07:39,10,エリザベス女王杯,10.337
+08:09,1,PeruvianLivesMatter,689.296
+08:09,2,ラッキーライラック,17.571
+08:09,3,エリザベス女王杯,14.399
+08:09,4,Crawford,57.828
+08:09,5,三大欲求の割合,
+08:09,6,Gucci,78.446
+08:09,7,Jeezy,43.749
+08:09,8,ノームコア,15.272
+08:09,9,サラキア,
+08:09,10,PraewXBrightWin,91.279
+08:39,1,PeruvianLivesMatter,724.172
+08:39,2,MerinoAsesino,254.098
+08:39,3,ラッキーライラック,20.328
+08:39,4,三大欲求の割合,
+08:39,5,エリザベス女王杯,15.617
+08:39,6,Crawford,58.709
+08:39,7,PoliciasAsesinos,170.790
+08:39,8,SHINee,280.557
+08:39,9,Jeezy,44.713
+08:39,10,Gucci,80.100
+09:09,1,PeruvianLivesMatter,752.357
+09:09,2,MerinoAsesino,267.932
+09:09,3,三大欲求の割合,
+09:09,4,ラッキーライラック,21.637
+09:09,5,SHINee,288.631
+09:09,6,SoumitraChatterjee,
+09:09,7,PraewXBrightWin,174.449
+09:09,8,日本シリーズ,30.796
+09:09,9,Crawford,59.018
+09:09,10,ソフトバンク,25.133
+09:39,1,PeruvianLivesMatter,774.036
+09:39,2,MerinoAsesino,279.096
+09:39,3,三大欲求の割合,
+09:39,4,SHINee,306.600
+09:39,5,SoumitraChatterjee,
+09:39,6,PraewXBrightWin,231.056
+09:39,7,ラッキーライラック,22.533
+09:39,8,日本シリーズ,33.348
+09:39,9,ソフトバンク,27.111
+09:39,10,ホークス,19.656
+10:09,1,PeruvianLivesMatter,791.463
+10:09,2,三大欲求の割合,
+10:09,3,MerinoAsesino,287.511
+10:09,4,SHINee,313.435
+10:09,5,SoumitraChatterjee,
+10:09,6,WendyForStartUp,20.046
+10:09,7,簿記2級,
+10:09,8,日本シリーズ,33.901
+10:09,9,ラッキーライラック,23.384
+10:09,10,ソフトバンク,27.622
+10:39,1,三大欲求の割合,
+10:39,2,PeruvianLivesMatter,804.076
+10:39,3,OSTQueenWendyIsBack,30.878
+10:39,4,SHINee,325.096
+10:39,5,njwtl,
+10:39,6,SoumitraChatterjee,
+10:39,7,簿記2級,
+10:39,8,Des O'Connor,
+10:39,9,日本シリーズ,35.494
+10:39,10,ラッキーライラック,24.278
+11:09,1,GetWellSoonMingi,10.101
+11:09,2,三大欲求の割合,
+11:09,3,Des O'Connor,
+11:09,4,WendyForStartUp,35.804
+11:09,5,marr,
+11:09,6,PeruvianLivesMatter,812.282
+11:09,7,SHINee,330.020
+11:09,8,簿記2級,
+11:09,9,日本シリーズ,36.198
+11:09,10,ラッキーライラック,24.831
+11:39,1,TurkishGP,175.530
+11:39,2,GetWellSoonMingi,15.104
+11:39,3,鉄腕DASH,
+11:39,4,Vettel,19.478
+11:39,5,三大欲求の割合,
+11:39,6,Des O'Connor,
+11:39,7,WendyforStartUp,39.021
+11:39,8,SHINee,339.521
+11:39,9,簿記2級,
+11:39,10,Bottas,
+12:09,1,TurkishGP,186.410
+12:09,2,鉄腕DASH,14.375
+12:09,3,GetWellSoonMingi,19.526
+12:09,4,Vettel,25.867
+12:09,5,Des O'Connor,10.099
+12:09,6,三大欲求の割合,
+12:09,7,麒麟がくる,10.619
+12:09,8,Albon,13.657
+12:09,9,Verstappen,31.275
+12:09,10,Bottas,10.223
+12:39,1,TurkishGP,206.315
+12:39,2,麒麟がくる,32.903
+12:39,3,Vettel,32.111
+12:39,4,Hamilton,78.445
+12:39,5,GetWellSoonMingi,23.426
+12:39,6,Bottas,17.129
+12:39,7,鉄腕DASH,15.977
+12:39,8,TurkishGrandPrix,
+12:39,9,Albon,17.370
+12:39,10,Des O'Connor,11.447
+13:09,1,TurkishGP,232.567
+13:09,2,Hamilton,129.786
+13:09,3,Vettel,57.996
+13:09,4,TurkeyGP,11.768
+13:09,5,麒麟がくる,55.145
+13:09,6,f1istanbul,24.229
+13:09,7,Bottas,20.726
+13:09,8,GetWellSoonMingi,26.807
+13:09,9,Leclerc,26.174
+13:09,10,ハミルトン,
+13:39,1,TurkishGP,282.483
+13:39,2,Hamilton,167.620
+13:39,3,Vettel,76.590
+13:39,4,TurkeyGP,13.976
+13:39,5,f1istanbul,27.734
+13:39,6,麒麟がくる,60.221
+13:39,7,Formula1,14.320
+13:39,8,Bottas,23.363
+13:39,9,Leclerc,30.407
+13:39,10,Schumacher,16.717
+14:09,1,TurkishGP,264.365
+14:09,2,Lewis Hamilton,65.816
+14:09,3,Vettel,80.820
+14:09,4,TurkeyGP,14.397
+14:09,5,紫咲シオン新衣装,22.341
+14:09,6,f1istanbul,26.604
+14:09,7,스페셜한_블루아워를_들려줘서_고마워,136.123
+14:09,8,Bottas,23.447
+14:09,9,Schumacher,20.449
+14:09,10,Leclerc,29.625
+14:39,1,Lewis Hamilton,71.780
+14:39,2,TurkishGP,277.814
+14:39,3,Vettel,86.768
+14:39,4,TurkeyGP,15.094
+14:39,5,皆さん線画と塗った後を見せてください,11.657
+14:39,6,紫咲シオン新衣装,26.402
+14:39,7,스페셜한_블루아워를_들려줘서_고마워,173.273
+14:39,8,Schumacher,23.059
+14:39,9,Bottas,24.317
+14:39,10,Leclerc,32.511
+15:09,1,Lewis Hamilton,75.746
+15:09,2,皆さん線画と塗った後を見せてください,17.814
+15:09,3,TurkishGP,268.448
+15:09,4,Vettel,89.415
+15:09,5,MotoGP,19.689
+15:09,6,TurkeyGP,15.218
+15:09,7,스페셜한_블루아워를_들려줘서_고마워,197.619
+15:09,8,Joan Mir,
+15:09,9,Schumacher,24.901
+15:09,10,Suzuki,20.202
+15:39,1,皆さん線画と塗った後を見せてください,23.631
+15:39,2,Lewis Hamilton,80.254
+15:39,3,CreepyNuts情熱大陸,11.955
+15:39,4,TheGiftedGraduationEP11,49.046
+15:39,5,アニナナ,29.423
+15:39,6,TurkishGP,277.138
+15:39,7,Vettel,91.904
+15:39,8,変態度チェック,
+15:39,9,Joan Mir,
+15:39,10,Marcus,27.778
+16:09,1,皆さん線画と塗った後を見せてください,29.532
+16:09,2,TheGiftedGraduationEP11,75.425
+16:09,3,4DaysBEforeBE,26.841
+16:09,4,乃木坂工事中,10.849
+16:09,5,OurStarActorParkJinyoung,30.458
+16:09,6,Lewis Hamilton,83.513
+16:09,7,chan,262.566
+16:09,8,変態度チェック,
+16:09,9,Vettel,93.472
+16:09,10,Joan Mir,
+16:39,1,乃木坂工事中,48.936
+16:39,2,4DaysBEforeBE,106.479
+16:39,3,皆さん線画と塗った後を見せてください,34.057
+16:39,4,TheGiftedGraduationEP11,85.391
+16:39,5,SexyZoneデビュー9周年,17.989
+16:39,6,chan,285.498
+16:39,7,美月センター,10.785
+16:39,8,Ray Clemence,
+16:39,9,情熱大陸,28.545
+16:39,10,Lewis Hamilton,86.835
+17:09,1,乃木坂工事中,52.773
+17:09,2,4DaysBEforeBE,121.633
+17:09,3,IdolsSA,
+17:09,4,Ray Clemence,14.797
+17:09,5,皆さん線画と塗った後を見せてください,37.879
+17:09,6,StartUpEp10,33.068
+17:09,7,美月センター,14.849
+17:09,8,chan,290.388
+17:09,9,情熱大陸,32.513
+17:09,10,Lewis Hamilton,89.768
+17:39,1,乃木坂工事中,53.739
+17:39,2,4DaysBEforeBE,128.732
+17:39,3,Ray Clemence,19.881
+17:39,4,IdolsSA,
+17:39,5,StartUpEp10,42.837
+17:39,6,日向坂で会いましょう,26.707
+17:39,7,美月センター,16.240
+17:39,8,Chan,300.083
+17:39,9,Danny Green,
+17:39,10,情熱大陸,34.614
+18:09,1,乃木坂工事中,54.356
+18:09,2,IdolsSA,11.251
+18:09,3,Ray Clemence,24.395
+18:09,4,4DaysBEforeBE,133.549
+18:09,5,StartUpEp10,52.382
+18:09,6,日向坂で会いましょう,28.673
+18:09,7,Danny Green,11.037
+18:09,8,Lakers,42.181
+18:09,9,Schroder,17.231
+18:09,10,美月センター,17.049
+18:39,1,乃木坂工事中,54.709
+18:39,2,NeverAloneLGBTQIA,
+18:39,3,Ray Clemence,27.555
+18:39,4,StartUpEp10,59.811
+18:39,5,Lakers,51.022
+18:39,6,IdolsSA,11.635
+18:39,7,4DaysBEforeBE,137.345
+18:39,8,Danny Green,13.447
+18:39,9,Merino,835.043
+18:39,10,Perú,1.635.104
+19:09,1,NeverAloneLGBTQIA,10.288
+19:09,2,Lakers,56.641
+19:09,3,Perú,1.690.798
+19:09,4,Merino,878.162
+19:09,5,StartUpEp10,65.771
+19:09,6,Ray Clemence,29.969
+19:09,7,Danny Green,15.933
+19:09,8,乃木坂工事中,54.940
+19:09,9,FanDuelisSWEET,
+19:09,10,4DaysBEforeBE,140.144
+19:39,1,Daniel Jones,
+19:39,2,NeverAloneLGBTQIA,12.223
+19:39,3,Lakers,61.446
+19:39,4,Perú,1.740.940
+19:39,5,millitakım,
+19:39,6,Danny Green,17.675
+19:39,7,Merino,903.458
+19:39,8,StartUpEp10,70.410
+19:39,9,Ray Clemence,31.872
+19:39,10,TheCrown,26.344
+20:09,1,millitakım,
+20:09,2,Daniel Jones,
+20:09,3,NeverAloneLGBTQIA,13.839
+20:09,4,Lakers,65.095
+20:09,5,Perú,1.768.835
+20:09,6,Eagles,39.132
+20:09,7,LQvMS,10.019
+20:09,8,TheCrown,27.916
+20:09,9,RebornPagaLasDeudas,
+20:09,10,Danny Green,19.466
+20:39,1,millitakım,12.215
+20:39,2,Eagles,45.283
+20:39,3,NeverAloneLGBTQIA,15.134
+20:39,4,Lakers,68.896
+20:39,5,Daniel Jones,
+20:39,6,Giants,65.354
+20:39,7,Packers,24.349
+20:39,8,Perú,1.804.029
+20:39,9,TheCrown,29.656
+20:39,10,GoPackGo,
+21:09,1,Eagles,50.769
+21:09,2,Dustin Johnson,16.747
+21:09,3,millitakım,14.816
+21:09,4,themasters,38.461
+21:09,5,Giants,66.821
+21:09,6,BELENG,
+21:09,7,Packers,26.764
+21:09,8,Boston Scott,
+21:09,9,TheCrown,31.451
+21:09,10,Lakers,71.440
+21:39,1,BELENG,
+21:39,2,Packers,31.740
+21:39,3,Eagles,55.601
+21:39,4,Southgate,10.801
+21:39,5,Dustin Johnson,25.462
+21:39,6,Pickford,
+21:39,7,themasters,43.539
+21:39,8,ITAPOL,
+21:39,9,Giants,69.121
+21:39,10,Boulos,98.184
+22:09,1,BELENG,11.319
+22:09,2,Eagles,63.877
+22:09,3,imacelebrity,
+22:09,4,Southgate,14.497
+22:09,5,Giants,71.896
+22:09,6,Boulos,105.571
+22:09,7,Packers,35.981
+22:09,8,ITAPOL,
+22:09,9,Dustin Johnson,29.863
+22:09,10,Dier,
+22:39,1,imacelebrity,17.444
+22:39,2,BELENG,13.929
+22:39,3,Eagles,72.565
+22:39,4,Grealish,19.741
+22:39,5,Giants,85.420
+22:39,6,Nick Chubb,12.285
+22:39,7,Southgate,17.437
+22:39,8,Browns,48.941
+22:39,9,Boulos,117.024
+22:39,10,ITAPOL,
+23:09,1,ImACeleb,34.078
+23:09,2,Grealish,28.030
+23:09,3,BELENG,15.784
+23:09,4,Southgate,21.213
+23:09,5,Eagles,74.043
+23:09,6,Giants,86.516
+23:09,7,England,120.884
+23:09,8,Boulos,124.023
+23:09,9,Nick Chubb,14.363
+23:09,10,Browns,51.673
+23:39,1,ImACeleb,51.045
+23:39,2,Grealish,31.810
+23:39,3,BELENG,16.259
+23:39,4,Southgate,22.805
+23:39,5,Boulos,133.180
+23:39,6,AhmetKaya,
+23:39,7,England,125.797
+23:39,8,Eagles,75.780
+23:39,9,Giants,89.516
+23:39,10,Nick Chubb,15.740

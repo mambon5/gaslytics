@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,JWST,
+00:10,2,Paige,36.156
+00:10,3,ENGNOR,
+00:10,4,Lionesses,10.391
+00:10,5,MasterChef10,
+00:10,6,Anitta,143.111
+00:10,7,James Webb,37.599
+00:10,8,Danica,22.933
+00:10,9,Norway,30.819
+00:10,10,Ekin,24.652
+00:40,1,JWST,14.943
+00:40,2,James Webb,51.073
+00:40,3,Paige,36.898
+00:40,4,MasterChef10,
+00:40,5,ENGNOR,
+00:40,6,Anitta,158.010
+00:40,7,大妖怪,
+00:40,8,Lionesses,10.626
+00:40,9,Norway,31.458
+00:40,10,Danica,23.541
+01:10,1,JWST,19.054
+01:10,2,James Webb,69.211
+01:10,3,大妖怪,
+01:10,4,Anitta,167.193
+01:10,5,MasterChef10,
+01:10,6,Paige,36.636
+01:10,7,ENGNOR,
+01:10,8,Lionesses,10.830
+01:10,9,Noelia,20.568
+01:10,10,Hubble,16.668
+01:40,1,JWST,21.808
+01:40,2,James Webb,82.042
+01:40,3,大妖怪,
+01:40,4,Anitta,179.825
+01:40,5,ラヴィット,22.221
+01:40,6,Noelia,24.163
+01:40,7,MasterChef10,
+01:40,8,Hubble,20.861
+01:40,9,ENGNOR,
+01:40,10,Paige,37.172
+02:10,1,JWST,24.396
+02:10,2,James Webb,91.769
+02:10,3,TheBachelorette,
+02:10,4,大妖怪,
+02:10,5,ラヴィット,22.811
+02:10,6,Hubble,24.981
+02:10,7,Anitta,187.856
+02:10,8,Noelia,26.237
+02:10,9,BEYOND THE STAR,29.148
+02:10,10,MasterChef10,
+02:40,1,TheBachelorette,12.954
+02:40,2,WWERaw,14.564
+02:40,3,James Webb,100.693
+02:40,4,JWST,26.305
+02:40,5,Benedicto XVI,
+02:40,6,大妖怪,
+02:40,7,ラヴィット,24.258
+02:40,8,Hubble,29.327
+02:40,9,Matt Murray,
+02:40,10,Anitta,200.006
+03:10,1,TheBachelorette,19.831
+03:10,2,WWERaw,20.717
+03:10,3,Benedicto XVI,14.291
+03:10,4,Moisés,
+03:10,5,James Webb,107.951
+03:10,6,JWST,27.723
+03:10,7,大妖怪,
+03:10,8,Matt Murray,
+03:10,9,ラヴィット,25.207
+03:10,10,Hubble,33.390
+03:40,1,TheBachelorette,26.264
+03:40,2,WWERaw,25.809
+03:40,3,Benedicto XVI,16.808
+03:40,4,Moisés,10.393
+03:40,5,James Webb,114.632
+03:40,6,BetterCallSaul,21.509
+03:40,7,Tadeu,
+03:40,8,JWST,29.035
+03:40,9,ForeverWithTWICE,
+03:40,10,TWICE FOREVER,
+04:10,1,TheBachelorette,30.821
+04:10,2,ForeverWithTWICE,25.723
+04:10,3,ThankYouTWICE,25.419
+04:10,4,WWERaw,30.997
+04:10,5,BetterCallSaul,23.852
+04:10,6,TWICE FOREVER,26.306
+04:10,7,Benedicto XVI,18.730
+04:10,8,Moisés,11.030
+04:10,9,James Webb,120.337
+04:10,10,PATRICK BORN TO FLY,50.124
+04:40,1,ThankYouTWICE,38.160
+04:40,2,ForeverWithTWICE,38.597
+04:40,3,TheBachelorette,31.995
+04:40,4,BetterCallSaul,26.235
+04:40,5,WWERaw,36.266
+04:40,6,TWICE FOREVER,37.563
+04:40,7,Benedicto XVI,20.112
+04:40,8,TWICE再契約,
+04:40,9,Moisés,11.434
+04:40,10,James Webb,126.211
+05:10,1,ThankYouTWICE,48.191
+05:10,2,ForeverWithTWICE,48.466
+05:10,3,WWERaw,42.765
+05:10,4,BetterCallSaul,26.920
+05:10,5,TWICE FOREVER,45.983
+05:10,6,BeTheSunInMNLPRESALE,27.734
+05:10,7,TWICE再契約,12.521
+05:10,8,Benedicto XVI,21.224
+05:10,9,James Webb,131.161
+05:10,10,Moisés,11.646
+05:40,1,ThankYouTWICE,57.088
+05:40,2,ForeverWithTWICE,56.884
+05:40,3,BetterCallSaul,28.439
+05:40,4,WWERaw,45.415
+05:40,5,BeTheSunInMNLPRESALE,29.664
+05:40,6,TWICE FOREVER,52.983
+05:40,7,TWICE再契約,16.932
+05:40,8,Richard Jefferson,
+05:40,9,Benedicto XVI,21.777
+05:40,10,プライムデー,125.135
+06:10,1,ThankYouTWICE,63.532
+06:10,2,ForeverWithTWICE,63.288
+06:10,3,BetterCallSaul,28.867
+06:10,4,TWICE FOREVER,58.746
+06:10,5,BeTheSunInMNLPRESALE,30.510
+06:10,6,TWICE再契約,20.872
+06:10,7,WWERaw,46.943
+06:10,8,Richard Jefferson,
+06:10,9,プライムデー,128.117
+06:10,10,TWICE CONTRACT RENEWAL,25.272
+06:40,1,ThankYouTWICE,68.786
+06:40,2,ForeverWithTWICE,68.370
+06:40,3,BetterCallSaul,29.945
+06:40,4,TWICE FOREVER,63.164
+06:40,5,BeTheSunInMNLPRESALE,31.595
+06:40,6,TWICE再契約,23.650
+06:40,7,TheVoiceCHV,
+06:40,8,Richard Jefferson,
+06:40,9,プライムデー,131.727
+06:40,10,TWICE CONTRACT RENEWAL,28.216
+07:10,1,ThankYouTWICE,73.822
+07:10,2,ForeverWithTWICE,73.373
+07:10,3,TheVoiceCHV,
+07:10,4,TWICE再契約,25.968
+07:10,5,BetterCallSaul,30.422
+07:10,6,TWICE FOREVER,67.054
+07:10,7,BeTheSunInMNLPRESALE,32.066
+07:10,8,Richard Jefferson,
+07:10,9,プライムデー,133.004
+07:10,10,TWICE CONTRACT RENEWAL,30.933
+07:40,1,ThankYouTWICE,77.868
+07:40,2,ForeverWithTWICE,77.265
+07:40,3,TWICE再契約,28.092
+07:40,4,BetterCallSaul,31.222
+07:40,5,TheVoiceCHV,
+07:40,6,TWICE FOREVER,70.387
+07:40,7,BeTheSunInMNLPRESALE,32.802
+07:40,8,プライムデー,136.063
+07:40,9,Richard Jefferson,
+07:40,10,BAARISH AAYI HAI TEASER,47.834
+08:10,1,ThankYouTWICE,81.072
+08:10,2,ForeverWithTWICE,80.327
+08:10,3,TWICE再契約,29.703
+08:10,4,بخبخيات,
+08:10,5,BetterCallSaul,31.468
+08:10,6,thevoicechv,
+08:10,7,TWICE FOREVER,72.878
+08:10,8,BAARISH AAYI HAI TEASER,56.984
+08:10,9,プライムデー,137.652
+08:10,10,Richard Jefferson,
+08:40,1,ThankYouTWICE,83.515
+08:40,2,미챙의데이2,
+08:40,3,ForeverWithTWICE,82.733
+08:40,4,بخبخيات,10.567
+08:40,5,TWICE再契約,31.188
+08:40,6,BAARISH AAYI HAI TEASER,63.947
+08:40,7,BetterCallSaul,32.059
+08:40,8,TWICE FOREVER,74.859
+08:40,9,夏目くん,
+08:40,10,プライムデー,141.058
+09:10,1,미챙의데이2,
+09:10,2,ThankYouTWICE,85.689
+09:10,3,ForeverWithTWICE,84.787
+09:10,4,お前らたまにはアイコンらしいこと言えよ,10.698
+09:10,5,TWICE再契約,32.611
+09:10,6,بخبخيات,10.423
+09:10,7,BAARISH AAYI HAI TEASER,67.734
+09:10,8,夏目くん,
+09:10,9,Michaeng,18.923
+09:10,10,プライムデー,142.458
+09:40,1,미챙의데이2,
+09:40,2,お前らたまにはアイコンらしいこと言えよ,12.621
+09:40,3,ThankYouTWICE,87.867
+09:40,4,mayorofekiti,
+09:40,5,TWICE再契約,34.252
+09:40,6,ForeverWithTWICE,86.785
+09:40,7,BAARISH AAYI HAI TEASER,73.338
+09:40,8,夏目くん,
+09:40,9,FANZA,31.200
+09:40,10,プライムデー,145.123
+10:10,1,망고_먹지말고_들어보세요,
+10:10,2,미챙의데이2,
+10:10,3,お前らたまにはアイコンらしいこと言えよ,13.528
+10:10,4,Mango_By_SuperJunior,
+10:10,5,FANZA,33.804
+10:10,6,mayorofekiti,
+10:10,7,TWICE再契約,35.684
+10:10,8,BAARISH AAYI HAI TEASER,76.905
+10:10,9,夏目くん,
+10:10,10,緊急メンテ,
+10:40,1,망고_먹지말고_들어보세요,14.084
+10:40,2,Mango_By_SuperJunior,
+10:40,3,DemoMonsterHunterRise,
+10:40,4,お前らたまにはアイコンらしいこと言えよ,14.322
+10:40,5,藤井風instagram,
+10:40,6,ちいかわか米津玄師,
+10:40,7,Mo Farah,41.970
+10:40,8,FANZA,35.598
+10:40,9,夏目くん,
+10:40,10,TWICE再契約,37.141
+11:10,1,Mango_By_SuperJunior,12.415
+11:10,2,망고_먹지말고_들어보세요,19.350
+11:10,3,ちいかわか米津玄師,
+11:10,4,DemoMonsterHunterRise,
+11:10,5,お前らたまにはアイコンらしいこと言えよ,15.372
+11:10,6,藤井風Instagram,
+11:10,7,Mo Farah,44.532
+11:10,8,一眼レフカメラ開発,
+11:10,9,夏目くん,
+11:10,10,FANZA,36.224
+11:40,1,Mango_By_SuperJunior,20.988
+11:40,2,망고_먹지말고_들어보세요,27.855
+11:40,3,ちいかわか米津玄師,
+11:40,4,DemoMonsterHunterRise,
+11:40,5,一眼レフカメラ開発,
+11:40,6,お前らたまにはアイコンらしいこと言えよ,16.285
+11:40,7,藤井風Instagram,
+11:40,8,Mo Farah,47.276
+11:40,9,ミラーレス,
+11:40,10,夏目くん,
+12:10,1,Mango_By_SuperJunior,27.045
+12:10,2,ちいかわか米津玄師,
+12:10,3,망고_먹지말고_들어보세요,33.474
+12:10,4,一眼レフカメラ開発,10.582
+12:10,5,クイズメーカー,
+12:10,6,DemoMonsterHunterRise,
+12:10,7,ミラーレス,
+12:10,8,お前らたまにはアイコンらしいこと言えよ,16.968
+12:10,9,Mo Farah,49.932
+12:10,10,Nikon,
+12:40,1,FuturePerfect1stWin,111.375
+12:40,2,ENHYPEN9thWin,109.304
+12:40,3,ちいかわか米津玄師,
+12:40,4,Mango_By_SuperJunior,30.950
+12:40,5,망고_먹지말고_들어보세요,36.808
+12:40,6,クイズメーカー,
+12:40,7,一眼レフカメラ開発,14.578
+12:40,8,ミラーレス,
+12:40,9,Nikon,
+12:40,10,Mo Farah,52.157
+13:10,1,バナナサンド,24.031
+13:10,2,FuturePerfect1stWin,129.660
+13:10,3,ENHYPEN9thWin,124.102
+13:10,4,ちいかわか米津玄師,
+13:10,5,Mango_By_SuperJunior,33.186
+13:10,6,クイズメーカー,
+13:10,7,ミラーレス,
+13:10,8,一眼レフカメラ開発,17.787
+13:10,9,Nikon,
+13:10,10,Beklediğimize Değecek,
+13:40,1,バナナサンド,42.011
+13:40,2,FuturePerfect1stWin,137.001
+13:40,3,ちいかわか米津玄師,11.706
+13:40,4,ENHYPEN9thWin,129.812
+13:40,5,JacksonWangXTheMATCH,150.764
+13:40,6,クイズメーカー,11.360
+13:40,7,ミラーレス,
+13:40,8,日村さん,10.230
+13:40,9,一眼レフカメラ開発,20.340
+13:40,10,Nikon,11.842
+14:10,1,バナナサンド,54.451
+14:10,2,スノキュン生配信,31.507
+14:10,3,ちいかわか米津玄師,20.156
+14:10,4,JacksonWangXTheMATCH,250.679
+14:10,5,ミラーレス,
+14:10,6,クイズメーカー,19.984
+14:10,7,FuturePerfect1stWin,141.126
+14:10,8,McFred,
+14:10,9,Nikon,14.793
+14:10,10,うさほー,
+14:40,1,スノキュン生配信,80.125
+14:40,2,バナナサンド,55.162
+14:40,3,JacksonWangXTheMATCH,338.705
+14:40,4,ちいかわか米津玄師,23.416
+14:40,5,ミラーレス,11.586
+14:40,6,はっしーおめでとう,
+14:40,7,nhk_jsclub,11.106
+14:40,8,横浜優勝,
+14:40,9,McFred,
+14:40,10,Nikon,17.660
+15:10,1,スノキュン生配信,141.819
+15:10,2,バナナサンド,56.097
+15:10,3,PortfolioDay,18.891
+15:10,4,ちいかわか米津玄師,26.084
+15:10,5,ミラーレス,12.739
+15:10,6,横浜優勝,
+15:10,7,JacksonWangXTheMATCH,414.616
+15:10,8,ดูแดงเดือดที่AISPLAY,12.411
+15:10,9,まりほー,
+15:10,10,McFred,
+15:40,1,スノキュン生配信,160.869
+15:40,2,MUNLIV,11.459
+15:40,3,Liverpool,118.761
+15:40,4,Sancho,30.461
+15:40,5,Martial,31.010
+15:40,6,aisplay,13.308
+15:40,7,PortfolioDay,23.572
+15:40,8,Rashford,20.674
+15:40,9,ちいかわか米津玄師,27.687
+15:40,10,ミラーレス,13.675
+16:10,1,Liverpool,146.391
+16:10,2,MUNLIV,20.201
+16:10,3,スノキュン生配信,167.514
+16:10,4,Martial,39.976
+16:10,5,Sancho,35.126
+16:10,6,aisplay,25.548
+16:10,7,PortfolioDay,29.814
+16:10,8,ユニコーンに乗って,13.999
+16:10,9,Rashford,21.853
+16:10,10,ちいかわか米津玄師,29.388
+16:40,1,Liverpool,168.351
+16:40,2,MUNLIV,27.403
+16:40,3,スノキュン生配信,171.147
+16:40,4,PortfolioDay,36.778
+16:40,5,Bailly,
+16:40,6,Martial,41.779
+16:40,7,AISPLAY,23.888
+16:40,8,Sancho,36.491
+16:40,9,bumrah,
+16:40,10,Klopp,21.659
+17:10,1,Liverpool,196.822
+17:10,2,MUNLIV,33.953
+17:10,3,Bailly,19.734
+17:10,4,PortfolioDay,46.051
+17:10,5,Nunez,57.061
+17:10,6,スノキュン生配信,173.778
+17:10,7,津島善子生誕祭2022,13.853
+17:10,8,Martial,44.834
+17:10,9,MUFC,153.638
+17:10,10,Klopp,27.368
+17:40,1,Liverpool,214.706
+17:40,2,MUNLIV,36.985
+17:40,3,Bailly,24.291
+17:40,4,PortfolioDay,55.659
+17:40,5,Nunez,69.624
+17:40,6,チェンソーマン,103.547
+17:40,7,津島善子生誕祭2022,31.277
+17:40,8,スノキュン生配信,175.163
+17:40,9,MUFC,166.614
+17:40,10,Martial,48.830
+18:10,1,Liverpool,226.343
+18:10,2,MUNLIV,39.224
+18:10,3,PortfolioDay,67.265
+18:10,4,Bailly,26.507
+18:10,5,チェンソーマン,123.431
+18:10,6,Nunez,76.252
+18:10,7,津島善子生誕祭2022,39.912
+18:10,8,SalarioRosaEstaContigo,
+18:10,9,Emmys,27.935
+18:10,10,zendaya,30.479
+18:40,1,SalarioRosaEstaContigo,
+18:40,2,PortfolioDay,79.080
+18:40,3,Liverpool,236.844
+18:40,4,MUNLIV,41.199
+18:40,5,Emmy,106.424
+18:40,6,チェンソーマン,135.099
+18:40,7,Bailly,28.082
+18:40,8,zendaya,37.287
+18:40,9,Nunez,81.948
+18:40,10,津島善子生誕祭2022,44.178
+19:10,1,SalarioRosaEstaContigo,15.256
+19:10,2,PortfolioDay,91.987
+19:10,3,Emmy,130.949
+19:10,4,Liverpool,243.244
+19:10,5,GSBKitapKart,
+19:10,6,MUNLIV,43.125
+19:10,7,zendaya,42.185
+19:10,8,チェンソーマン,141.153
+19:10,9,Bailly,29.227
+19:10,10,DearNothing,128.281
+19:40,1,SalarioRosaEstaContigo,22.078
+19:40,2,PortfolioDay,105.330
+19:40,3,Emmy,152.481
+19:40,4,LateNightTalking,
+19:40,5,GSBKitapKart,
+19:40,6,Liverpool,251.548
+19:40,7,Zendaya,46.317
+19:40,8,Jan6thHearings,
+19:40,9,チェンソーマン,146.800
+19:40,10,sadie,72.831
+20:10,1,SalarioRosaEstaContigo,29.784
+20:10,2,PortfolioDay,118.738
+20:10,3,Emmy,168.897
+20:10,4,LateNightTalking,
+20:10,5,Jan6thHearings,14.673
+20:10,6,GSBKitapKart,
+20:10,7,Sidney Powell,
+20:10,8,Zendaya,46.680
+20:10,9,Liverpool,255.511
+20:10,10,Cuphead,24.707
+20:40,1,SalarioRosaEstaContigo,39.333
+20:40,2,PortfolioDay,132.038
+20:40,3,Emmy,186.439
+20:40,4,Jan6thHearings,21.718
+20:40,5,LateNightTalking,
+20:40,6,GSBKitapKart,
+20:40,7,Sidney Powell,16.194
+20:40,8,Cuphead,30.442
+20:40,9,Zendaya,49.614
+20:40,10,sadie,76.033
+21:10,1,SalarioRosaEstaContigo,47.785
+21:10,2,PortfolioDay,145.022
+21:10,3,Jan6thHearings,27.821
+21:10,4,Emmy,200.499
+21:10,5,LateNightTalking,10.670
+21:10,6,GSBKitapKart,
+21:10,7,Cuphead,35.197
+21:10,8,Sidney Powell,19.095
+21:10,9,Zendaya,51.004
+21:10,10,Hawley,32.240
+21:40,1,SalarioRosaEstaContigo,54.215
+21:40,2,PortfolioDay,158.594
+21:40,3,NthWIN,18.622
+21:40,4,Jan6thHearings,32.740
+21:40,5,Emmy,213.160
+21:40,6,January6thHearings,14.702
+21:40,7,Cuphead,39.518
+21:40,8,Sidney Powell,21.360
+21:40,9,Hawley,36.984
+21:40,10,Zendaya,53.062
+22:10,1,SalarioRosaEstaContigo,59.073
+22:10,2,PortfolioDay,171.458
+22:10,3,NthWIN,21.873
+22:10,4,Emmy,224.211
+22:10,5,Jan6thHearings,37.633
+22:10,6,January6thHearings,19.027
+22:10,7,Cuphead,42.410
+22:10,8,Hawley,41.498
+22:10,9,Zendaya,54.335
+22:10,10,Sidney Powell,23.304
+22:40,1,SalarioRosaEstaContigo,62.955
+22:40,2,Jacques,68.169
+22:40,3,PortfolioDay,184.707
+22:40,4,NthWIN,22.339
+22:40,5,Emmy,235.126
+22:40,6,January6thHearings,22.031
+22:40,7,Jan6thHearings,40.510
+22:40,8,Cuphead,45.545
+22:40,9,Hawley,45.489
+22:40,10,Pence,36.760
+23:10,1,Jacques,84.373
+23:10,2,SalarioRosaEstaContigo,66.439
+23:10,3,Paige,47.795
+23:10,4,PortfolioDay,197.977
+23:10,5,Emmy,244.580
+23:10,6,GERESP,
+23:10,7,NthWIN,22.603
+23:10,8,January6thHearings,23.973
+23:10,9,John Bolton,
+23:10,10,Cuphead,47.905
+23:40,1,Jacques,91.197
+23:40,2,SalarioRosaEstaContigo,69.390
+23:40,3,Paige,50.804
+23:40,4,PortfolioDay,210.497
+23:40,5,Emmy,254.296
+23:40,6,John Bolton,12.368
+23:40,7,GERESP,
+23:40,8,January6thHearings,25.510
+23:40,9,Jan6thHearings,44.771
+23:40,10,Keal Harry,

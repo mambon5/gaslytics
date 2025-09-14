@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,bbcqt,12.066
+00:10,2,Davide,47.342
+00:10,3,FomentoAlAutoempleoEdomex,27.465
+00:10,4,Kyrie,75.193
+00:10,5,Paige,33.792
+00:10,6,Jacques,28.904
+00:10,7,SVGala10,14.419
+00:10,8,Ekin,59.231
+00:10,9,Tasha,18.603
+00:10,10,Supreme Court,657.998
+00:40,1,bbcqt,28.151
+00:40,2,Davide,48.221
+00:40,3,FomentoAlAutoempleoEdomex,28.150
+00:40,4,Fiona Bruce,
+00:40,5,Kyrie,79.504
+00:40,6,Cruzeiro,44.599
+00:40,7,SVGala10,19.102
+00:40,8,Paige,34.527
+00:40,9,Jacques,29.662
+00:40,10,Ekin,60.670
+01:10,1,bbcqt,38.747
+01:10,2,Cruzeiro,59.587
+01:10,3,Fábio,30.901
+01:10,4,Fiona Bruce,
+01:10,5,Davide,47.461
+01:10,6,Kyrie,79.590
+01:10,7,SVGala10,22.534
+01:10,8,FomentoAlAutoempleoEdomex,28.670
+01:10,9,Paige,34.755
+01:10,10,Jacques,29.923
+01:40,1,Cruzeiro,64.511
+01:40,2,bbcqt,43.347
+01:40,3,Fábio,32.499
+01:40,4,Fiona Bruce,11.242
+01:40,5,Kyrie,82.569
+01:40,6,SVGala10,24.901
+01:40,7,Davide,47.924
+01:40,8,FomentoAlAutoempleoEdomex,29.154
+01:40,9,Cano,17.113
+01:40,10,VamosColoColo,
+02:10,1,Cruzeiro,70.879
+02:10,2,bbcqt,45.661
+02:10,3,NBADraft,39.019
+02:10,4,Fábio,32.947
+02:10,5,Kyrie,85.794
+02:10,6,SVGala10,27.043
+02:10,7,LisaAimeParis,20.525
+02:10,8,Fiona Bruce,11.920
+02:10,9,SAFE FLIGHT LALISA,19.372
+02:10,10,Adam Silver,
+02:40,1,NBADraft,64.418
+02:40,2,Chet,43.155
+02:40,3,Jabari,40.925
+02:40,4,Paolo,54.801
+02:40,5,Cruzeiro,76.693
+02:40,6,Ivey,36.793
+02:40,7,LisaAimeParis,134.539
+02:40,8,SAFE FLIGHT LALISA,129.763
+02:40,9,bbcqt,46.880
+02:40,10,Pistons,22.727
+03:10,1,NBADraft,81.295
+03:10,2,Chet,46.457
+03:10,3,Arboleda,
+03:10,4,LisaAimeParis,268.751
+03:10,5,Ivey,53.591
+03:10,6,Jabari,46.422
+03:10,7,Paolo,58.647
+03:10,8,SAFE FLIGHT LALISA,257.471
+03:10,9,Cruzeiro,77.884
+03:10,10,Pistons,30.713
+03:40,1,NBADraft,96.102
+03:40,2,Knicks,55.381
+03:40,3,HaveASafeFlightV,152.462
+03:40,4,Pistons,44.582
+03:40,5,LisaAimeParis,440.981
+03:40,6,SAFE FLIGHT LALISA,413.289
+03:40,7,Verzuz,
+03:40,8,Chet,51.015
+03:40,9,Ivey,65.072
+03:40,10,Arboleda,
+04:10,1,HaveASafeFlightV,310.558
+04:10,2,Verzuz,21.470
+04:10,3,Knicks,69.208
+04:10,4,Sammie,12.408
+04:10,5,NBADraft,105.904
+04:10,6,LisaAimeParis,763.554
+04:10,7,Pistons,54.251
+04:10,8,Ray J,
+04:10,9,SAFE FLIGHT LALISA,693.034
+04:10,10,BON VOYAGE KIM TAEHYUNG,254.448
+04:40,1,Verzuz,51.111
+04:40,2,Ray J,28.538
+04:40,3,Sammie,24.276
+04:40,4,HaveASafeFlightV,392.484
+04:40,5,Knicks,76.302
+04:40,6,NBADraft,116.008
+04:40,7,LisaAimeParis,979.944
+04:40,8,Bobby V,
+04:40,9,Pistons,57.890
+04:40,10,SAFE FLIGHT LALISA,861.646
+05:10,1,Verzuz,82.639
+05:10,2,Ray J,41.598
+05:10,3,Sammie,30.943
+05:10,4,HaveASafeFlightV,437.547
+05:10,5,Omarion,20.300
+05:10,6,Knicks,81.689
+05:10,7,NBADraft,124.446
+05:10,8,LisaAimeParis,1.136.146
+05:10,9,Pleasure P,15.321
+05:10,10,Bobby V,12.294
+05:40,1,Verzuz,111.985
+05:40,2,Ray J,46.038
+05:40,3,Sammie,32.607
+05:40,4,Omarion,33.160
+05:40,5,HaveASafeFlightV,470.203
+05:40,6,Knicks,85.428
+05:40,7,NBADraft,131.067
+05:40,8,LisaAimeParis,1.250.074
+05:40,9,Herogasm,35.334
+05:40,10,Pleasure P,17.067
+06:10,1,Omarion,71.892
+06:10,2,Verzuz,151.867
+06:10,3,Ray J,48.799
+06:10,4,Sammie,33.476
+06:10,5,HaveASafeFlightV,493.956
+06:10,6,Coming_up_NAYEON,93.369
+06:10,7,LeftandRight,428.356
+06:10,8,나연팝_솔로데뷔,93.133
+06:10,9,Knicks,88.019
+06:10,10,Pleasure P,17.870
+06:40,1,Omarion,102.801
+06:40,2,Verzuz,183.103
+06:40,3,nayeon,667.098
+06:40,4,LeftandRight,602.918
+06:40,5,Ray J,50.884
+06:40,6,나연팝_솔로데뷔,118.111
+06:40,7,Sammie,34.076
+06:40,8,HaveASafeFlightV,509.095
+06:40,9,Herogasm,41.687
+06:40,10,FELIX 1ST SOLO FEATURE,36.437
+07:10,1,Mario,236.461
+07:10,2,Verzuz,220.148
+07:10,3,jungkook,1.394.428
+07:10,4,jungkook,1.394.428
+07:10,5,nayeon,751.260
+07:10,6,나연팝_솔로데뷔,129.260
+07:10,7,Ray J,52.436
+07:10,8,Herogasm,44.293
+07:10,9,NoProblemFeat_FELIX,44.768
+07:10,10,Carolina,40.392
+07:40,1,Mario,272.311
+07:40,2,jungkook,1.730.308
+07:40,3,Verzuz,251.721
+07:40,4,nayeon,827.976
+07:40,5,Herogasm,46.962
+07:40,6,나연팝_솔로데뷔,133.420
+07:40,7,Ray J,53.688
+07:40,8,NoProblemFeat_FELIX,47.712
+07:40,9,Carolina,41.818
+07:40,10,Sammie,34.881
+08:10,1,Mario,283.308
+08:10,2,jungkook,1.756.610
+08:10,3,nayeon,863.451
+08:10,4,Verzuz,267.634
+08:10,5,Herogasm,49.138
+08:10,6,나연팝_솔로데뷔,136.224
+08:10,7,Ray J,
+08:10,8,NoProblemFeat_FELIX,49.754
+08:10,9,Carolina,42.761
+08:10,10,Sammie,35.281
+08:40,1,Mario,289.328
+08:40,2,jungkook,1.826.951
+08:40,3,jungkook,1.826.951
+08:40,4,nayeon,907.868
+08:40,5,Verzuz,274.788
+08:40,6,Herogasm,51.282
+08:40,7,나연팝_솔로데뷔,137.872
+08:40,8,Ray J,
+08:40,9,NoProblemFeat_FELIX,51.507
+08:40,10,Carolina,43.568
+09:10,1,jungkook,1.887.013
+09:10,2,jungkook,1.887.013
+09:10,3,Mario,291.216
+09:10,4,nayeon,925.603
+09:10,5,Verzuz,279.146
+09:10,6,Herogasm,53.258
+09:10,7,byelection2022,
+09:10,8,나연팝_솔로데뷔,139.267
+09:10,9,NoProblemFeat_FELIX,53.051
+09:10,10,Oliver Dowden,
+09:40,1,jungkook,1.996.981
+09:40,2,jungkook,1.996.981
+09:40,3,Mario,294.249
+09:40,4,nayeon,957.341
+09:40,5,Verzuz,282.087
+09:40,6,Herogasm,54.997
+09:40,7,byelection2022,
+09:40,8,夢ノ咲七不思議編スタート,
+09:40,9,夢ノ咲学生証メーカー,
+09:40,10,Oliver Dowden,11.875
+10:10,1,jungkook,2.007.531
+10:10,2,jungkook,2.007.531
+10:10,3,Mario,294.960
+10:10,4,nayeon,971.950
+10:10,5,Verzuz,284.442
+10:10,6,夢ノ咲七不思議編スタート,10.550
+10:10,7,夢ノ咲学生証メーカー,10.511
+10:10,8,ösym,
+10:10,9,Herogasm,56.570
+10:10,10,学生証発行完了,
+10:40,1,jungkook,2.051.648
+10:40,2,jungkook,2.051.648
+10:40,3,nayeon,991.056
+10:40,4,Mario,297.232
+10:40,5,ösym,
+10:40,6,夢ノ咲学生証メーカー,12.978
+10:40,7,夢ノ咲七不思議編スタート,13.083
+10:40,8,学生証発行完了,
+10:40,9,夢ノ咲学院プロデュース科の生徒,
+10:40,10,verzuz,286.187
+11:10,1,jungkook,2.049.991
+11:10,2,nayeon,1.004.189
+11:10,3,ösym,
+11:10,4,夢ノ咲七不思議編スタート,15.319
+11:10,5,夢ノ咲学生証メーカー,15.190
+11:10,6,SUMMER_X_TOGETHER,13.976
+11:10,7,Mario,296.996
+11:10,8,学生証発行完了,11.765
+11:10,9,夢ノ咲学院プロデュース科の生徒,11.713
+11:10,10,あんスタ,61.071
+11:40,1,ösym,
+11:40,2,SUMMER_X_TOGETHER,16.829
+11:40,3,nayeon,1.025.736
+11:40,4,LeftandRight,861.629
+11:40,5,夢ノ咲七不思議編スタート,17.305
+11:40,6,夢ノ咲学生証メーカー,17.170
+11:40,7,jungkook,2.087.668
+11:40,8,学生証発行完了,13.413
+11:40,9,夢ノ咲学院プロデュース科の生徒,13.315
+11:40,10,TXT FEELS LIKE SUMMER,28.441
+12:10,1,ösym,
+12:10,2,SUMMER_X_TOGETHER,18.162
+12:10,3,夢ノ咲七不思議編スタート,18.982
+12:10,4,夢ノ咲学生証メーカー,18.845
+12:10,5,nayeon,1.038.351
+12:10,6,学生証発行完了,14.691
+12:10,7,夢ノ咲学院プロデュース科の生徒,14.608
+12:10,8,あんスタ,64.765
+12:10,9,jungkook,2.081.197
+12:10,10,放題ガチャ開催,
+12:40,1,WaterbombwithKAI,22.902
+12:40,2,ösym,10.473
+12:40,3,新刀剣男士,
+12:40,4,nayeon,1.074.284
+12:40,5,SUMMER_X_TOGETHER,19.887
+12:40,6,夢ノ咲学生証メーカー,20.290
+12:40,7,夢ノ咲七不思議編スタート,20.426
+12:40,8,学生証発行完了,15.858
+12:40,9,夢ノ咲学院プロデュース科の生徒,15.790
+12:40,10,聚楽第復刻,
+13:10,1,プロセカ生放送,
+13:10,2,松本潤生配信,
+13:10,3,WaterbombwithKAI,58.392
+13:10,4,慎吾生配信,11.908
+13:10,5,新刀剣男士,
+13:10,6,WELCOMETENBACKKOREA,28.965
+13:10,7,nayeon,1.096.710
+13:10,8,学生証発行完了,16.924
+13:10,9,聚楽第復刻,
+13:10,10,夢ノ咲学院プロデュース科の生徒,16.824
+13:40,1,プロセカ生放送,67.859
+13:40,2,松本潤生配信,16.583
+13:40,3,慎吾生配信,19.037
+13:40,4,WaterbombwithKAI,78.257
+13:40,5,金スマ,13.608
+13:40,6,新刀剣男士,
+13:40,7,メリュー,
+13:40,8,学生証発行完了,17.978
+13:40,9,聚楽第復刻,
+13:40,10,jongin,32.745
+14:10,1,プロセカ生放送,111.758
+14:10,2,金スマ,23.043
+14:10,3,松本潤生配信,20.658
+14:10,4,トイストーリー4,15.830
+14:10,5,WaterbombwithKAI,92.505
+14:10,6,慎吾生配信,19.910
+14:10,7,おりほー,
+14:10,8,ヤクルト,64.075
+14:10,9,メリュー,
+14:10,10,新刀剣男士,10.358
+14:40,1,松本潤生配信,29.334
+14:40,2,トイストーリー4,20.511
+14:40,3,金スマ,33.394
+14:40,4,プロセカ生放送,136.476
+14:40,5,れおほー,
+14:40,6,WaterbombwithKAI,100.985
+14:40,7,swallows,35.206
+14:40,8,ヤクルト,71.235
+14:40,9,すわほー,
+14:40,10,フォーキー,
+15:10,1,松本潤生配信,34.405
+15:10,2,トイストーリー4,23.557
+15:10,3,金スマ,41.979
+15:10,4,れおほー,
+15:10,5,プロセカ生放送,146.761
+15:10,6,WaterbombwithKAI,108.550
+15:10,7,WELCOMETENBACKKOREA,117.430
+15:10,8,周央サンゴ,21.087
+15:10,9,すわほー,
+15:10,10,ヤクルト,72.170
+15:40,1,金スマ,51.236
+15:40,2,トイストーリー4,26.983
+15:40,3,松本潤生配信,37.487
+15:40,4,猫汰つな初配信,
+15:40,5,ラブライブANN,14.325
+15:40,6,stayselcaday,19.366
+15:40,7,Trent Boult,
+15:40,8,れおほー,
+15:40,9,周央サンゴ,24.053
+15:40,10,ウッディ,12.888
+16:10,1,トイストーリー4,40.080
+16:10,2,金スマ,57.520
+16:10,3,ウッディ,24.206
+16:10,4,猫汰つな初配信,10.560
+16:10,5,松本潤生配信,38.851
+16:10,6,stayselcaday,29.032
+16:10,7,ラブライブANN,22.054
+16:10,8,Trent Boult,
+16:10,9,れおほー,
+16:10,10,周央サンゴ,24.681
+16:40,1,RoeVsWade,24.262
+16:40,2,トイストーリー4,46.727
+16:40,3,Supreme Court,1.185.755
+16:40,4,SCOTUS,48.915
+16:40,5,ウッディ,29.631
+16:40,6,金スマ,60.227
+16:40,7,猫汰つな初配信,12.610
+16:40,8,AbortionRightsAreHumanRights,
+16:40,9,Praise God,12.485
+16:40,10,Roe and Casey,12.739
+17:10,1,RoeVsWade,60.815
+17:10,2,Supreme Court,1.356.895
+17:10,3,SCOTUS,56.197
+17:10,4,roeoverturned,
+17:10,5,AbortionRightsAreHumanRights,
+17:10,6,トイストーリー4,49.685
+17:10,7,Dobbs,14.160
+17:10,8,Clarence Thomas,140.876
+17:10,9,Praise God,17.377
+17:10,10,Susan Collins,15.601
+17:40,1,RoeVsWade,86.974
+17:40,2,Supreme Court,1.594.851
+17:40,3,America,653.149
+17:40,4,roeoverturned,14.260
+17:40,5,SCOTUS,559.302
+17:40,6,AbortionRightsAreHumanRights,10.607
+17:40,7,Clarence Thomas,168.451
+17:40,8,Dobbs,21.307
+17:40,9,Susan Collins,25.680
+17:40,10,トイストーリー4,51.496
+18:10,1,RoeVsWade,118.657
+18:10,2,Supreme Court,1.578.352
+18:10,3,America,710.897
+18:10,4,roeoverturned,21.174
+18:10,5,SCOTUS,573.223
+18:10,6,Clarence Thomas,185.459
+18:10,7,かぐや様,80.707
+18:10,8,AbortionRightsAreHumanRights,13.611
+18:10,9,WomensRights,
+18:10,10,Susan Collins,34.405
+18:40,1,RoeVsWade,152.657
+18:40,2,America,798.909
+18:40,3,Supreme Court,1.784.087
+18:40,4,roeoverturned,25.184
+18:40,5,SCOTUS,636.535
+18:40,6,Clarence Thomas,208.265
+18:40,7,AbortionRightsAreHumanRights,15.552
+18:40,8,かぐや様,94.891
+18:40,9,Susan Collins,42.091
+18:40,10,AbortionIsHealthcare,10.888
+19:10,1,RoeVsWade,191.492
+19:10,2,America,851.686
+19:10,3,Supreme Court,2.025.576
+19:10,4,SCOTUS,647.228
+19:10,5,roeoverturned,27.311
+19:10,6,Clarence Thomas,219.718
+19:10,7,Democrats,379.085
+19:10,8,AbortionRightsAreHumanRights,18.172
+19:10,9,Susan Collins,50.935
+19:10,10,かぐや様,98.955
+19:40,1,RoeVsWade,228.419
+19:40,2,America,928.425
+19:40,3,Supreme Court,2.091.079
+19:40,4,SCOTUS,697.567
+19:40,5,roeoverturned,30.495
+19:40,6,Clarence Thomas,239.008
+19:40,7,Democrats,414.232
+19:40,8,AbortionRightsAreHumanRights,21.187
+19:40,9,Susan Collins,58.332
+19:40,10,Dems,149.706
+20:10,1,RoeVsWade,261.459
+20:10,2,America,969.371
+20:10,3,Supreme Court,1.566.984
+20:10,4,SCOTUS,707.386
+20:10,5,RoeOverturned,33.911
+20:10,6,Clarence Thomas,249.627
+20:10,7,Democrats,432.611
+20:10,8,AbortionRightsAreHumanRights,23.984
+20:10,9,Republicans,424.451
+20:10,10,Dems,154.474
+20:40,1,RoeVsWade,293.288
+20:40,2,America,1.036.741
+20:40,3,Supreme Court,1.501.705
+20:40,4,SCOTUS,749.618
+20:40,5,RoeOverturned,38.447
+20:40,6,Democrats,463.955
+20:40,7,Clarence Thomas,266.252
+20:40,8,Republicans,449.929
+20:40,9,AbortionRightsAreHumanRights,26.491
+20:40,10,Dems,166.164
+21:10,1,RoeVsWade,321.862
+21:10,2,America,1.074.003
+21:10,3,Supreme Court,1.583.462
+21:10,4,SCOTUS,763.821
+21:10,5,Democrats,477.382
+21:10,6,RoeOverturned,41.420
+21:10,7,Clarence Thomas,273.820
+21:10,8,AbortionRightsAreHumanRights,29.126
+21:10,9,Republicans,457.620
+21:10,10,Debinha,
+21:40,1,RoeVsWade,348.007
+21:40,2,America,1.128.274
+21:40,3,Supreme Court,1.558.311
+21:40,4,SCOTUS,797.946
+21:40,5,Democrats,504.042
+21:40,6,Clarence Thomas,288.193
+21:40,7,RoeOverturned,44.027
+21:40,8,AbortionRightsAreHumanRights,31.922
+21:40,9,Republicans,481.025
+21:40,10,Dems,183.045
+22:10,1,RoeVsWade,370.151
+22:10,2,America,1.158.303
+22:10,3,Supreme Court,1.593.074
+22:10,4,SCOTUS,811.402
+22:10,5,Democrats,515.512
+22:10,6,Clarence Thomas,294.568
+22:10,7,AbortionRightsAreHumanRights,34.354
+22:10,8,RoeOverturned,46.422
+22:10,9,Republicans,488.962
+22:10,10,Dems,189.726
+22:40,1,RoeVsWade,388.575
+22:40,2,America,1.212.494
+22:40,3,Supreme Court,1.708.271
+22:40,4,SCOTUS,845.362
+22:40,5,Tasha,40.084
+22:40,6,Democrats,540.370
+22:40,7,Clarence Thomas,308.591
+22:40,8,AbortionRightsAreHumanRights,36.646
+22:40,9,Republicans,509.887
+22:40,10,RoeOverturned,49.023
+23:10,1,RoeVsWade,404.912
+23:10,2,America,1.238.101
+23:10,3,Supreme Court,1.823.173
+23:10,4,Tasha,45.686
+23:10,5,SCOTUS,860.753
+23:10,6,Andrew,90.650
+23:10,7,Democrats,541.253
+23:10,8,AbortionRightsAreHumanRights,38.837
+23:10,9,Clarence Thomas,314.495
+23:10,10,Republicans,513.742
+23:40,1,RoeVsWade,423.556
+23:40,2,America,1.288.715
+23:40,3,Supreme Court,1.910.682
+23:40,4,Tasha,47.134
+23:40,5,SCOTUS,891.550
+23:40,6,Andrew,92.993
+23:40,7,Democrats,573.013
+23:40,8,Glastonbury2022,
+23:40,9,AbortionRightsAreHumanRights,41.068
+23:40,10,Clarence Thomas,327.126

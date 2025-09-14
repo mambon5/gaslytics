@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Cowboys,41.823
+00:10,2,Browns,59.119
+00:10,3,WNBAFinals,26.422
+00:10,4,Baker,38.522
+00:10,5,Candace Parker,40.823
+00:10,6,JuventusRoma,13.694
+00:10,7,Vikings,43.854
+00:10,8,SecretNoche6,23.564
+00:10,9,Mac Jones,10.071
+00:10,10,Yargı,39.664
+00:41,1,Baker,46.484
+00:41,2,Cowboys,46.188
+00:41,3,Browns,66.349
+00:41,4,WNBAFinals,28.653
+00:41,5,Candace Parker,47.401
+00:41,6,SecretNoche6,29.674
+00:41,7,Fiuk,15.504
+00:41,8,JuventusRoma,14.102
+00:41,9,Patriots,64.541
+00:41,10,Mac Jones,10.645
+01:10,1,Cowboys,49.838
+01:10,2,Browns,75.243
+01:10,3,Baker,48.152
+01:10,4,SecretNoche6,34.524
+01:10,5,WNBAFinals,30.292
+01:10,6,Candace Parker,52.148
+01:10,7,Atlético,55.981
+01:10,8,Patriots,69.255
+01:10,9,Fiuk,18.996
+01:10,10,Mac Jones,11.441
+01:41,1,Diggs,67.324
+01:41,2,Cowboys,69.668
+01:41,3,Mac Jones,22.456
+01:41,4,DALvsNE,32.852
+01:41,5,Patriots,86.284
+01:41,6,Atlético,76.295
+01:41,7,Browns,78.800
+01:41,8,Baker,49.757
+01:41,9,Pats,20.845
+01:41,10,Mike McCarthy,
+02:10,1,Cowboys,105.578
+02:10,2,Diggs,74.565
+02:10,3,Patriots,101.336
+02:10,4,Mac Jones,24.829
+02:10,5,DALvsNE,47.896
+02:10,6,Pats,25.703
+02:10,7,Atlético,79.055
+02:10,8,Browns,80.925
+02:10,9,Baker,50.666
+02:10,10,Mike McCarthy,
+02:41,1,Cowboys,120.896
+02:41,2,Diggs,79.431
+02:41,3,Patriots,107.486
+02:41,4,Mac Jones,25.615
+02:41,5,DALvsNE,53.013
+02:41,6,Pats,27.222
+02:41,7,VERZUZ,
+02:41,8,Atlético,83.062
+02:41,9,Cuiabá,27.053
+02:41,10,Browns,82.667
+03:10,1,Cowboys,126.998
+03:10,2,Diggs,82.171
+03:10,3,Flamengo,153.158
+03:10,4,Julián Álvarez,18.411
+03:10,5,RHOP,21.428
+03:10,6,Patriots,109.903
+03:10,7,Cuiabá,29.316
+03:10,8,VERZUZ,13.548
+03:10,9,Mac Jones,26.199
+03:10,10,DALvsNE,55.503
+03:41,1,Flamengo,201.426
+03:41,2,Cowboys,131.960
+03:41,3,Cuiabá,42.318
+03:41,4,Diggs,84.888
+03:41,5,Julián Álvarez,28.446
+03:41,6,Renato,21.311
+03:41,7,Gabigol,25.555
+03:41,8,Vitor Gabriel,
+03:41,9,Gustavo Henrique,
+03:41,10,VERZUZ,18.622
+04:10,1,Flamengo,218.072
+04:10,2,Cuiabá,46.766
+04:10,3,Cowboys,135.142
+04:10,4,Julián Álvarez,31.824
+04:10,5,Diggs,86.773
+04:10,6,Renato,26.811
+04:10,7,Gabigol,28.185
+04:10,8,Gustavo Henrique,
+04:10,9,Vitor Gabriel,
+04:10,10,VERZUZ,21.385
+04:41,1,Flamengo,225.698
+04:41,2,Cuiabá,48.667
+04:41,3,Cowboys,138.531
+04:41,4,Julián Álvarez,33.845
+04:41,5,Diggs,88.635
+04:41,6,Renato,28.969
+04:41,7,Succession,17.949
+04:41,8,ACTOR_JUN_IsBack,46.042
+04:41,9,VERZUZ,23.388
+04:41,10,Gabigol,29.139
+05:10,1,Flamengo,222.125
+05:10,2,Cuiabá,47.438
+05:10,3,Cowboys,140.663
+05:10,4,Julián Álvarez,35.260
+05:10,5,BakeOffArgentina,
+05:10,6,ACTOR_JUN_IsBack,54.711
+05:10,7,Diggs,89.769
+05:10,8,Succession,19.175
+05:10,9,Steelers,59.263
+05:10,10,Kourtney,10.297
+05:41,1,Flamengo,224.640
+05:41,2,Cuiabá,48.116
+05:41,3,Braves,85.196
+05:41,4,Kourtney,14.908
+05:41,5,Cowboys,142.749
+05:41,6,QuienEsLaMascara,23.726
+05:41,7,ACTOR_JUN_IsBack,61.063
+05:41,8,Steelers,65.264
+05:41,9,Julián Álvarez,36.339
+05:41,10,BakeOffArgentina,
+06:10,1,TJ Watt,14.322
+06:10,2,Flamengo,223.479
+06:10,3,Steelers,85.826
+06:10,4,Braves,102.649
+06:10,5,Geno,27.430
+06:10,6,Seahawks,54.074
+06:10,7,QuienEsLaMascara,38.345
+06:10,8,HereWeGo,21.323
+06:10,9,Kourtney,18.307
+06:10,10,BattleATL,30.151
+06:41,1,TJ Watt,17.618
+06:41,2,Steelers,95.502
+06:41,3,Braves,109.869
+06:41,4,Flamengo,224.612
+06:41,5,Geno,29.769
+06:41,6,Seahawks,58.576
+06:41,7,HereWeGo,24.463
+06:41,8,Kourtney,21.301
+06:41,9,QuienEsLaMascara,41.444
+06:41,10,ACTOR_JUN_IsBack,69.509
+07:10,1,TJ Watt,18.405
+07:10,2,Steelers,97.658
+07:10,3,Braves,110.161
+07:10,4,Flamengo,223.776
+07:10,5,Geno,30.079
+07:10,6,Kourtney,23.722
+07:10,7,Seahawks,59.934
+07:10,8,HereWeGo,25.132
+07:10,9,QuienEsLaMascara,42.518
+07:10,10,ACTOR_JUN_IsBack,71.552
+07:41,1,TJ Watt,18.765
+07:41,2,Steelers,99.230
+07:41,3,Kourtney,26.039
+07:41,4,Braves,111.948
+07:41,5,Geno,30.443
+07:41,6,Flamengo,224.350
+07:41,7,Seahawks,61.140
+07:41,8,HereWeGo,25.617
+07:41,9,QuienEsLaMascara,43.041
+07:41,10,ACTOR_JUN_IsBack,73.131
+08:10,1,TJ Watt,18.961
+08:10,2,Kourtney,28.070
+08:10,3,Steelers,99.594
+08:10,4,Braves,111.883
+08:10,5,Pazartesi,
+08:10,6,Geno,30.497
+08:10,7,Seahawks,61.563
+08:10,8,HereWeGo,25.839
+08:10,9,Flamengo,223.687
+08:10,10,QuienEsLaMascara,43.351
+08:41,1,mondaymotivation,17.152
+08:41,2,Pazartesi,
+08:41,3,tj watt,19.110
+08:41,4,Kourtney,29.869
+08:41,5,Steelers,100.366
+08:41,6,Braves,112.630
+08:41,7,Geno,30.696
+08:41,8,山本文緒さん,
+08:41,9,Seahawks,62.056
+08:41,10,HereWeGo,26.042
+09:10,1,mondaymotivation,19.827
+09:10,2,Pazartesi,
+09:10,3,Kourtney,31.427
+09:10,4,TJ Watt,19.234
+09:10,5,山本文緒さん,
+09:10,6,Steelers,100.626
+09:10,7,実施中のキャンペーン,99.710
+09:10,8,応募受付,53.857
+09:10,9,Braves,112.511
+09:10,10,Geno,30.773
+09:41,1,mondaymotivation,22.732
+09:41,2,Pazartesi,
+09:41,3,SUGA'S REMIX,41.441
+09:41,4,Kourtney,33.228
+09:41,5,sungtaro,
+09:41,6,TJ Watt,19.303
+09:41,7,山本文緒さん,
+09:41,8,HabitFtSidNaaz,28.992
+09:41,9,WingsMVShoot,
+09:41,10,応募受付,55.319
+10:10,1,AskPoojaHegde,
+10:10,2,mondaymotivation,25.481
+10:10,3,SUGA'S REMIX,77.410
+10:10,4,Pazartesi,
+10:10,5,sungtaro,24.083
+10:10,6,Kourtney,34.613
+10:10,7,HabitFtSidNaaz,39.622
+10:10,8,山本文緒さん,
+10:10,9,中国の尊厳,
+10:10,10,罰金1700万円,
+10:41,1,AskPoojaHegde,10.960
+10:41,2,MondayMotivation,27.882
+10:41,3,SUGA'S REMIX,117.978
+10:41,4,Pazartesi,
+10:41,5,クラロワ復帰,
+10:41,6,sungtaro,32.101
+10:41,7,罰金1700万円,
+10:41,8,中国の尊厳,
+10:41,9,Kourtney,36.187
+10:41,10,山本文緒さん,
+11:10,1,AskPoojaHegde,14.463
+11:10,2,SUGA,342.011
+11:10,3,MondayMotivation,29.953
+11:10,4,クラロワ復帰,
+11:10,5,DefxFudasca_IsItADream,10.670
+11:10,6,Pazartesi,10.334
+11:10,7,罰金1700万円,
+11:10,8,直線一気,
+11:10,9,中国の尊厳,
+11:10,10,山本文緒さん,
+11:41,1,AskPoojaHegde,17.802
+11:41,2,SUGA,364.597
+11:41,3,クラロワ復帰,
+11:41,4,mondaymotivation,32.028
+11:41,5,Trieste,35.605
+11:41,6,DefxFudasca_IsItADream,17.322
+11:41,7,直線一気,
+11:41,8,罰金1700万円,
+11:41,9,中国の尊厳,
+11:41,10,TXT ONE CONCEPT CLIP 2,
+12:10,1,AskPoojaHegde,19.396
+12:10,2,クラロワ復帰,10.129
+12:10,3,超熱いぜプロスピ,
+12:10,4,SUGA,375.286
+12:10,5,mondaymotivation,33.893
+12:10,6,Trieste,41.275
+12:10,7,直線一気,
+12:10,8,TXT ONE CONCEPT CLIP 2,
+12:10,9,罰金1700万円,10.148
+12:10,10,中国の尊厳,10.777
+12:41,1,超熱いぜプロスピ,17.507
+12:41,2,クラロワ復帰,12.902
+12:41,3,AskPoojaHegde,20.629
+12:41,4,mondaymotivation,36.239
+12:41,5,Trieste,47.785
+12:41,6,SUGA,396.853
+12:41,7,Özdemir Bayraktar,
+12:41,8,Forum Denizi,
+12:41,9,直線一気,
+12:41,10,ラフルル,
+13:10,1,超熱いぜプロスピ,21.091
+13:10,2,クラロワ復帰,15.814
+13:10,3,لمين_تشكي_حزنك,
+13:10,4,つばき日本武道館スッペシャル,
+13:10,5,กินกันกับเตนิวxPEPSI,20.327
+13:10,6,Özdemir Bayraktar,10.429
+13:10,7,SUGA,411.117
+13:10,8,MV解禁,
+13:10,9,Curtis Campher,
+13:10,10,TVCM,
+13:41,1,超熱いぜプロスピ,22.946
+13:41,2,G131,13.123
+13:41,3,กินกันกับเตนิวxPEPSI,59.593
+13:41,4,クラロワ復帰,19.753
+13:41,5,mondaymotivation,40.609
+13:41,6,Özdemir Bayraktar,14.630
+13:41,7,MV解禁,
+13:41,8,TVCM,
+13:41,9,SUGA,432.451
+13:41,10,KENTA,10.640
+14:10,1,超熱いぜプロスピ,25.908
+14:10,2,まりほー,
+14:10,3,G131,14.126
+14:10,4,Colin Powell,
+14:10,5,Diwot Coin,
+14:10,6,กินกันกับเตนิวxPEPSI,94.932
+14:10,7,クラロワ復帰,23.721
+14:10,8,マジック6,
+14:10,9,帰れま10,
+14:10,10,MV解禁,
+14:41,1,Colin Powell,65.970
+14:41,2,スロットメーカー,
+14:41,3,超熱いぜプロスピ,28.193
+14:41,4,まりほー,
+14:41,5,帰れま10,12.358
+14:41,6,Diwot Coin,
+14:41,7,G131,14.993
+14:41,8,ブルアカ補習SP,23.444
+14:41,9,マジック6,
+14:41,10,MV解禁,
+15:10,1,Colin Powell,112.933
+15:10,2,リモしるライブ,
+15:10,3,スロットメーカー,
+15:10,4,アバランチ,11.730
+15:10,5,超熱いぜプロスピ,29.883
+15:10,6,しゃべくり007,
+15:10,7,まりほー,
+15:10,8,Iraq,21.676
+15:10,9,パウエル元米国務長官,
+15:10,10,MV解禁,
+15:41,1,Colin Powell,153.908
+15:41,2,しゃべくり007,26.452
+15:41,3,アバランチ,22.261
+15:41,4,なにわ男子,47.119
+15:41,5,スロットメーカー,
+15:41,6,リモしるライブ,
+15:41,7,Iraq,26.698
+15:41,8,なにわちゃん,
+15:41,9,PATRICK YOU'RE PERFECT,76.009
+15:41,10,Rest In Peace,27.334
+16:10,1,Colin Powell,188.046
+16:10,2,しゃべくり007,46.096
+16:10,3,アバランチ,33.247
+16:10,4,なにわ男子,59.322
+16:10,5,Iraq,30.367
+16:10,6,スロットメーカー,
+16:10,7,リモしるライブ,
+16:10,8,なにわちゃん,10.964
+16:10,9,PATRICK YOU'RE PERFECT,119.636
+16:10,10,SUGA'S REMIX,307.698
+16:41,1,Colin Powell,224.085
+16:41,2,アバランチ,42.917
+16:41,3,しゃべくり007,47.217
+16:41,4,MyYooniverseRemix,60.343
+16:41,5,ProudOfMinPD,57.212
+16:41,6,SHINING MIN PD,59.033
+16:41,7,자정에_뜨는_아이유의_딸기달,41.784
+16:41,8,Iraq,34.354
+16:41,9,Over the Moon with IU,28.014
+16:41,10,ATTACCA HIGHLIGHT MEDLEY,243.414
+17:10,1,Colin Powell,255.085
+17:10,2,MyYooniverseRemix,116.699
+17:10,3,ProudOfMinPD,113.780
+17:10,4,SHINING MIN PD,111.161
+17:10,5,アバランチ,45.081
+17:10,6,しゃべくり007,52.235
+17:10,7,자정에_뜨는_아이유의_딸기달,79.979
+17:10,8,ATTACCA HIGHLIGHT MEDLEY,176.133
+17:10,9,SUGA'S REMIX,390.197
+17:10,10,Iraq,37.512
+17:41,1,MyYooniverseRemix,157.750
+17:41,2,ProudOfMinPD,147.243
+17:41,3,Colin Powell,286.838
+17:41,4,MyUniverse,262.307
+17:41,5,StrawberryMoonWithIU,110.968
+17:41,6,자정에_뜨는_아이유의_딸기달,109.355
+17:41,7,ATTACCA HIGHLIGHT MEDLEY,210.765
+17:41,8,Over the Moon with IU,64.854
+17:41,9,Iraq,41.406
+17:41,10,Elden Ring,32.307
+18:10,1,MyYooniverseRemix,170.444
+18:10,2,ProudOfMinPD,157.144
+18:10,3,Colin Powell,314.356
+18:10,4,MyUniverse,280.728
+18:10,5,StrawberryMoonWithIU,126.761
+18:10,6,자정에_뜨는_아이유의_딸기달,123.676
+18:10,7,Iraq,44.083
+18:10,8,Over the Moon with IU,71.492
+18:10,9,ジャガーさん,
+18:10,10,Elden Ring,34.969
+18:41,1,MyYooniverseRemix,177.749
+18:41,2,Colin Powell,341.921
+18:41,3,ProudOfMinPD,162.922
+18:41,4,MyUniverse,296.417
+18:41,5,StrawberryMoonWithIU,135.280
+18:41,6,자정에_뜨는_아이유의_딸기달,131.376
+18:41,7,Iraq,47.620
+18:41,8,Wanda,146.381
+18:41,9,Over the Moon with IU,75.365
+18:41,10,ジャガーさん,
+19:10,1,AppleEvent,45.242
+19:10,2,Colin Powell,363.637
+19:10,3,MyYooniverseRemix,182.050
+19:10,4,ProudOfMinPD,166.183
+19:10,5,SHINING MIN PD,146.100
+19:10,6,MyUniverse,305.536
+19:10,7,StrawberryMoonWithIU,140.003
+19:10,8,Wanda,146.747
+19:10,9,Iraq,49.720
+19:10,10,Icardi,97.327
+19:41,1,AppleEvent,116.841
+19:41,2,Colin Powell,386.884
+19:41,3,MyYooniverseRemix,185.436
+19:41,4,M1 Max,17.479
+19:41,5,ProudOfMinPD,168.695
+19:41,6,MacBook Pro,30.367
+19:41,7,SHINING MIN PD,147.448
+19:41,8,MyUniverse,313.733
+19:41,9,Wanda,157.068
+19:41,10,Vuk359daAdaletYok,
+20:10,1,AppleEvent,167.014
+20:10,2,MacBook Pro,60.838
+20:10,3,Colin Powell,407.391
+20:10,4,M1 Max,31.178
+20:10,5,MyYooniverseRemix,187.589
+20:10,6,ProudOfMinPD,170.169
+20:10,7,Wanda,157.418
+20:10,8,MagSafe,28.302
+20:10,9,AirPods,83.676
+20:10,10,SHINING MIN PD,148.268
+20:41,1,AppleEvent,188.150
+20:41,2,MacBook Pro,73.901
+20:41,3,Colin Powell,426.832
+20:41,4,M1 Max,38.619
+20:41,5,MyYooniverseRemix,189.385
+20:41,6,SıfırAtık,
+20:41,7,Wanda,165.932
+20:41,8,ProudOfMinPD,171.421
+20:41,9,MagSafe,32.860
+20:41,10,AirPods,93.406
+21:10,1,AppleEvent,199.162
+21:10,2,MacBook Pro,81.320
+21:10,3,Colin Powell,443.429
+21:10,4,M1 Max,42.008
+21:10,5,MADWIN,
+21:10,6,Wanda,165.433
+21:10,7,MyYooniverseRemix,191.108
+21:10,8,MagSafe,35.234
+21:10,9,SıfırAtık,
+21:10,10,AirPods,97.391
+21:41,1,AppleEvent,207.632
+21:41,2,MacBook Pro,86.746
+21:41,3,Colin Powell,460.550
+21:41,4,ARSCRY,22.069
+21:41,5,PROUD OF HARRY,43.269
+21:41,6,M1 Max,44.669
+21:41,7,MADWIN,
+21:41,8,Arsenal,90.444
+21:41,9,Wanda,172.163
+21:41,10,Worlds2021,29.661
+22:10,1,AppleEvent,212.842
+22:10,2,ARSCRY,27.203
+22:10,3,MacBook Pro,90.539
+22:10,4,Colin Powell,476.058
+22:10,5,PROUD OF HARRY,61.226
+22:10,6,Saka,37.856
+22:10,7,Arsenal,99.319
+22:10,8,Mike Dean,
+22:10,9,M1 Max,46.461
+22:10,10,McArthur,
+22:41,1,Arsenal,115.595
+22:41,2,AppleEvent,217.085
+22:41,3,ARSCRY,31.179
+22:41,4,MacBook Pro,93.985
+22:41,5,PROUD OF HARRY,71.196
+22:41,6,Colin Powell,490.955
+22:41,7,Mike Dean,
+22:41,8,Palace,53.607
+22:41,9,Saka,40.007
+22:41,10,Arteta,13.749
+23:10,1,Arsenal,143.078
+23:10,2,ARSCRY,38.545
+23:10,3,Arteta,26.275
+23:10,4,Palace,66.977
+23:10,5,AppleEvent,219.973
+23:10,6,Lacazette,
+23:10,7,Mike Dean,
+23:10,8,MacBook Pro,96.694
+23:10,9,PROUD OF HARRY,77.691
+23:10,10,Saka,40.906
+23:41,1,Arsenal,156.007
+23:41,2,ARSCRY,40.691
+23:41,3,Arteta,32.433
+23:41,4,Palace,73.395
+23:41,5,AppleEvent,223.212
+23:41,6,Lacazette,13.080
+23:41,7,Mike Dean,
+23:41,8,MacBook Pro,99.574
+23:41,9,PROUD OF HARRY,80.678
+23:41,10,Saka,42.939

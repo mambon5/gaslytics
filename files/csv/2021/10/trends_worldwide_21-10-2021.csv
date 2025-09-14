@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Ronaldo,343.474
+00:10,2,MUNATA,46.457
+00:10,3,MUFC,127.585
+00:10,4,Bayern,86.915
+00:10,5,LaÚltimaTentación6,29.271
+00:10,6,Rashford,53.792
+00:10,7,OleOut,36.512
+00:10,8,Atalanta,146.294
+00:10,9,Benfica,66.993
+00:10,10,Manchester United,122.307
+00:41,1,Ronaldo,362.192
+00:41,2,MUNATA,47.621
+00:41,3,LaÚltimaTentación6,39.910
+00:41,4,MUFC,136.423
+00:41,5,Bayern,89.639
+00:41,6,Gonzalo,23.326
+00:41,7,Rashford,55.100
+00:41,8,OleOut,37.376
+00:41,9,Atalanta,150.694
+00:41,10,Benfica,68.872
+01:10,1,Ronaldo,371.443
+01:10,2,MUNATA,48.310
+01:10,3,LaÚltimaTentación6,44.353
+01:10,4,CoinbaseWalletSweepstakes,
+01:10,5,MUFC,142.117
+01:10,6,Gonzalo,23.727
+01:10,7,Bayern,90.988
+01:10,8,Tobar,
+01:10,9,Wanda,184.572
+01:10,10,Zé Rafael,
+01:41,1,CoinbaseWalletSweepstakes,
+01:41,2,Ronaldo,381.602
+01:41,3,MUNATA,48.712
+01:41,4,LaÚltimaTentación6,45.912
+01:41,5,Tobar,
+01:41,6,Wanda,193.713
+01:41,7,LosCruzados,
+01:41,8,Rony,
+01:41,9,Zé Rafael,
+01:41,10,Gonzalo,24.389
+02:10,1,CoinbaseWalletSweepstakes,11.131
+02:10,2,Tobar,
+02:10,3,LosCruzados,
+02:10,4,Ronaldo,386.205
+02:10,5,Wanda,191.639
+02:10,6,LaÚltimaTentación6,46.497
+02:10,7,MUNATA,48.978
+02:10,8,Weverton,
+02:10,9,Jaylen Brown,
+02:10,10,Rony,
+02:41,1,VerdadeSecretas2,
+02:41,2,Jaylen Brown,11.313
+02:41,3,CoinbaseWalletSweepstakes,13.194
+02:41,4,Tobar,10.188
+02:41,5,LosCruzados,
+02:41,6,Survivor,
+02:41,7,Wanda,199.032
+02:41,8,Knicks,25.439
+02:41,9,Cristiano Ronaldo,199.802
+02:41,10,MAFS,
+03:10,1,Arana,14.411
+03:10,2,VerdadeSecretas2,
+03:10,3,Jaylen Brown,12.234
+03:10,4,CoinbaseWalletSweepstakes,14.817
+03:10,5,RHOBH,11.539
+03:10,6,Almendra,
+03:10,7,Fabra,
+03:10,8,Thiago Maia,
+03:10,9,Survivor,
+03:10,10,Tobar,11.047
+03:41,1,VerdadeSecretas2,12.515
+03:41,2,DebateBuenosAires,18.427
+03:41,3,Arana,18.458
+03:41,4,Tolosa Paz,
+03:41,5,Botafogo,27.295
+03:41,6,Thiago Maia,
+03:41,7,ChicagoBoysXLaRed,
+03:41,8,MAFS,
+03:41,9,CoinbaseWalletSweepstakes,16.739
+03:41,10,Fortaleza,27.945
+04:10,1,Flamengo,174.491
+04:10,2,Léo Pereira,24.183
+04:10,3,Renato,32.308
+04:10,4,DebateBuenosAires,36.367
+04:10,5,Michael,183.558
+04:10,6,Gabigol,31.333
+04:10,7,Andreas,28.244
+04:10,8,Tolosa Paz,22.324
+04:10,9,VerdadeSecretas2,13.612
+04:10,10,Arana,19.521
+04:41,1,Flamengo,247.460
+04:41,2,Knicks,60.688
+04:41,3,Léo Pereira,36.655
+04:41,4,Renato,55.532
+04:41,5,Celtics,54.593
+04:41,6,DebateBuenosAires,52.210
+04:41,7,Gabigol,36.333
+04:41,8,Michael,191.617
+04:41,9,Tolosa Paz,35.057
+04:41,10,Everton Ribeiro,11.753
+05:10,1,Flamengo,263.591
+05:10,2,Knicks,80.469
+05:10,3,Léo Pereira,41.099
+05:10,4,Renato,63.717
+05:10,5,Celtics,64.836
+05:10,6,DebateBuenosAires,63.152
+05:10,7,Gabigol,38.177
+05:10,8,Espert,45.694
+05:10,9,Tatum,35.632
+05:10,10,Tolosa Paz,44.130
+05:41,1,Flamengo,275.242
+05:41,2,Knicks,84.090
+05:41,3,Léo Pereira,42.394
+05:41,4,Renato,66.942
+05:41,5,Celtics,67.161
+05:41,6,DebateBuenosAires,72.974
+05:41,7,Espert,57.017
+05:41,8,Gabigol,39.378
+05:41,9,Tatum,36.971
+05:41,10,Tolosa Paz,51.571
+06:10,1,Flamengo,277.769
+06:10,2,Knicks,85.394
+06:10,3,Léo Pereira,42.795
+06:10,4,Renato,67.918
+06:10,5,Celtics,68.067
+06:10,6,DebateBuenosAires,77.076
+06:10,7,Espert,61.454
+06:10,8,Gabigol,39.629
+06:10,9,Tolosa Paz,55.349
+06:10,10,Tatum,36.896
+06:41,1,Flamengo,280.243
+06:41,2,Knicks,86.576
+06:41,3,Léo Pereira,43.003
+06:41,4,Renato,68.624
+06:41,5,Celtics,69.013
+06:41,6,DebateBuenosAires,79.212
+06:41,7,Espert,64.174
+06:41,8,Gabigol,39.960
+06:41,9,VaccineCentury,12.134
+06:41,10,Tolosa Paz,57.158
+07:10,1,Flamengo,280.609
+07:10,2,Knicks,87.257
+07:10,3,VaccineCentury,27.536
+07:10,4,Léo Pereira,43.077
+07:10,5,Renato,68.850
+07:10,6,Celtics,69.334
+07:10,7,100CroreVaccination,
+07:10,8,DebateBuenosAires,80.346
+07:10,9,Espert,65.993
+07:10,10,Gabigol,39.979
+07:41,1,Flamengo,281.755
+07:41,2,VaccineCentury,53.663
+07:41,3,Knicks,88.050
+07:41,4,100CroreVaccination,12.089
+07:41,5,Léo Pereira,43.192
+07:41,6,Renato,69.227
+07:41,7,Celtics,69.915
+07:41,8,DebateBuenosAires,81.177
+07:41,9,Espert,67.274
+07:41,10,Gabigol,40.168
+08:10,1,VaccineCentury,72.236
+08:10,2,Flamengo,281.867
+08:10,3,Knicks,88.614
+08:10,4,100CroreVaccination,15.510
+08:10,5,Léo Pereira,43.226
+08:10,6,Renato,69.297
+08:10,7,Celtics,70.329
+08:10,8,Espert,68.107
+08:10,9,DebateBuenosAires,81.701
+08:10,10,Congratulations India,13.929
+08:41,1,VaccineCentury,92.349
+08:41,2,Flamengo,282.319
+08:41,3,100CroreVaccination,19.266
+08:41,4,Knicks,89.220
+08:41,5,Congratulations India,16.727
+08:41,6,Léo Pereira,43.256
+08:41,7,Truth Social,51.023
+08:41,8,Celtics,70.823
+08:41,9,Renato,69.431
+08:41,10,DebateBuenosAires,82.199
+09:10,1,VaccineCentury,111.318
+09:10,2,100CroreVaccination,22.782
+09:10,3,Flamengo,282.105
+09:10,4,Knicks,89.606
+09:10,5,Congratulations India,19.491
+09:10,6,TRUTH Social,53.131
+09:10,7,Persembe,
+09:10,8,Sturm,
+09:10,9,ตัวอย่างนิ่งเฮีย,83.664
+09:10,10,YVES,12.353
+09:41,1,VaccineCentury,130.629
+09:41,2,100CroreVaccination,26.079
+09:41,3,Flamengo,282.468
+09:41,4,Congratulations India,21.950
+09:41,5,TRUTH Social,55.415
+09:41,6,FelizJueves,
+09:41,7,ケルシー,12.903
+09:41,8,Sturm,
+09:41,9,あなたと書いて__と読みます,
+09:41,10,Knicks,90.078
+10:10,1,VaccineCentury,146.230
+10:10,2,100CroreVaccination,28.808
+10:10,3,ケルシー,14.658
+10:10,4,あなたと書いて__と読みます,
+10:10,5,AnanyaPanday,
+10:10,6,FelizJueves,
+10:10,7,Sturm,
+10:10,8,Truth Social,57.211
+10:10,9,Congratulations India,23.589
+10:10,10,Flamengo,282.002
+10:41,1,VaccineCentury,160.162
+10:41,2,แปลรักInSeoulDay3,119.978
+10:41,3,100CroreVaccination,31.349
+10:41,4,ただ待ってた訳じゃないSO1900万回,19.550
+10:41,5,ケルシー,16.747
+10:41,6,株のタイムセール,
+10:41,7,対象銘柄,
+10:41,8,누리호 발사,16.602
+10:41,9,キャンペーン詳細,306.602
+10:41,10,Sturm,
+11:10,1,かがやくほしまち,34.511
+11:10,2,VaccineCentury,171.837
+11:10,3,แปลรักInSeoulDay3,194.322
+11:10,4,100CroreVaccination,33.481
+11:10,5,ただ待ってた訳じゃないSO1900万回,27.697
+11:10,6,対象銘柄,
+11:10,7,キャンペーン詳細,291.574
+11:10,8,ケルシー,18.183
+11:10,9,누리호 발사,21.014
+11:10,10,Bunlar NedenKonuşulmuyor,
+11:41,1,かがやくほしまち,56.259
+11:41,2,VaccineCentury,184.598
+11:41,3,แปลรักInSeoulDay3,254.790
+11:41,4,100CroreVaccination,35.675
+11:41,5,いいねかRTで気になった人フォローする,19.700
+11:41,6,ケルシー,19.845
+11:41,7,対象銘柄,
+11:41,8,누리호 발사,25.734
+11:41,9,キャンペーン詳細,301.243
+11:41,10,異常震域,
+12:10,1,かがやくほしまち,75.040
+12:10,2,VaccineCentury,195.069
+12:10,3,G1FINAL,
+12:10,4,แปลรักInSeoulDay3,294.044
+12:10,5,QandA,
+12:10,6,ケルシー,21.069
+12:10,7,対象銘柄,
+12:10,8,キャンペーン詳細,290.697
+12:10,9,누리호 발사,28.774
+12:10,10,Truth Social,65.221
+12:41,1,かがやくほしまち,94.614
+12:41,2,G1FINAL,14.162
+12:41,3,QandA,
+12:41,4,VaccineCentury,206.265
+12:41,5,DikDurİstifaEtMHK,
+12:41,6,Shibata,
+12:41,7,ケルシー,22.612
+12:41,8,Tim Wilson,
+12:41,9,CERA WEEK AGORA,
+12:41,10,Truth Social,67.937
+13:10,1,かがやくほしまち,114.197
+13:10,2,VS魂,27.087
+13:10,3,faiz,
+13:10,4,G1FINAL,17.264
+13:10,5,QandA,10.647
+13:10,6,Serdar Tatlı,
+13:10,7,Shibata,
+13:10,8,CathyDoll X Gulf,32.320
+13:10,9,Merkez Bankası,
+13:10,10,ケルシー,23.480
+13:41,1,faiz,12.949
+13:41,2,かがやくほしまち,124.570
+13:41,3,G1FINAL,24.355
+13:41,4,VS魂,30.809
+13:41,5,だってうって大丈夫が出た人は疲れてる,
+13:41,6,Serdar Tatlı,
+13:41,7,Dolar 10,14.655
+13:41,8,Merkez Bankası,12.557
+13:41,9,Euro 11,
+13:41,10,おりほー,
+14:10,1,faiz,16.697
+14:10,2,だってうって大丈夫が出た人は疲れてる,
+14:10,3,G1FINAL,26.526
+14:10,4,かがやくほしまち,128.395
+14:10,5,Dolar 10,18.506
+14:10,6,VS魂,32.294
+14:10,7,Serdar Tatlı,10.071
+14:10,8,Merkez Bankası,15.629
+14:10,9,おりほー,
+14:10,10,Dolar 9.50,
+14:41,1,faiz,19.858
+14:41,2,だってうって大丈夫が出た人は疲れてる,
+14:41,3,Dolar 10,23.226
+14:41,4,素のまんま,38.514
+14:41,5,G1FINAL,28.194
+14:41,6,Sxygirl,25.355
+14:41,7,Serdar Tatlı,11.266
+14:41,8,Merkez Bankası,18.201
+14:41,9,おりほー,
+14:41,10,Dolar 9.50,
+15:10,1,faiz,22.152
+15:10,2,だってうって大丈夫が出た人は疲れてる,
+15:10,3,Sxygirl,62.922
+15:10,4,SOLM,72.677
+15:10,5,SnakeOzunaLisaMegan,53.707
+15:10,6,Dolar 10,26.618
+15:10,7,甲斐田3D,
+15:10,8,こいほー,
+15:10,9,Serdar Tatlı,12.206
+15:10,10,WRITTEN BY LISA,22.424
+15:41,1,Sxygirl,114.331
+15:41,2,SOLM,125.727
+15:41,3,SnakeOzunaLisaMegan,104.633
+15:41,4,faiz,24.115
+15:41,5,だってうって大丈夫が出た人は疲れてる,
+15:41,6,Dolar 10,30.134
+15:41,7,Uncharted,27.613
+15:41,8,甲斐田3D,15.491
+15:41,9,Nathan Drake,
+15:41,10,こいほー,
+16:10,1,SOLM,163.816
+16:10,2,Sxygirl,152.127
+16:10,3,SnakeOzunaLisaMegan,140.606
+16:10,4,Uncharted,37.111
+16:10,5,だってうって大丈夫が出た人は疲れてる,
+16:10,6,faiz,25.742
+16:10,7,Dolar 10,33.204
+16:10,8,Tom Holland,38.198
+16:10,9,Nathan Drake,
+16:10,10,甲斐田3D,20.032
+16:41,1,SOLM,187.354
+16:41,2,Sxygirl,175.528
+16:41,3,SnakeOzunaLisaMegan,163.300
+16:41,4,Uncharted,45.807
+16:41,5,V6_SongsForYou,14.473
+16:41,6,だってうって大丈夫が出た人は疲れてる,
+16:41,7,Tom Holland,44.870
+16:41,8,Nathan Drake,10.770
+16:41,9,Dolar 10,36.479
+16:41,10,Sully,
+17:10,1,HitmakerHanbinDay,82.491
+17:10,2,김한빈호_탑승완_생일축하해,82.009
+17:10,3,SOLM,212.359
+17:10,4,Uncharted,51.596
+17:10,5,SXYGIRL,199.511
+17:10,6,SnakeOzunaLisaMegan,186.262
+17:10,7,Tom Holland,48.756
+17:10,8,Nathan Drake,12.445
+17:10,9,Sully,
+17:10,10,TIME TO ROCK WITH YOU,61.029
+17:41,1,HitmakerHanbinDay,112.445
+17:41,2,김한빈호_탑승완_생일축하해,110.383
+17:41,3,Uncharted,59.036
+17:41,4,SOLM,232.950
+17:41,5,Sxygirl,220.581
+17:41,6,SnakeOzunaLisaMegan,206.081
+17:41,7,Tom Holland,54.894
+17:41,8,Nathan Drake,15.294
+17:41,9,Sully,10.799
+17:41,10,TIME TO ROCK WITH YOU,70.449
+18:10,1,HitmakerHanbinDay,128.030
+18:10,2,김한빈호_탑승완_생일축하해,125.016
+18:10,3,Uncharted,63.983
+18:10,4,SOLM,255.738
+18:10,5,Sxygirl,242.393
+18:10,6,SnakeOzunaLisaMegan,227.082
+18:10,7,Tom Holland,58.305
+18:10,8,olivia,70.640
+18:10,9,Nathan Drake,17.028
+18:10,10,Sully,12.179
+18:41,1,WWECrownJewel,39.496
+18:41,2,HitmakerHanbinDay,137.894
+18:41,3,김한빈호_탑승완_생일축하해,133.198
+18:41,4,Sxygirl,263.953
+18:41,5,SOLM,278.898
+18:41,6,Uncharted,68.286
+18:41,7,Tom Holland,62.122
+18:41,8,olivia,75.502
+18:41,9,Nathan Drake,18.561
+18:41,10,Sully,13.308
+19:10,1,WWECrownJewel,55.834
+19:10,2,HitmakerHanbinDay,143.725
+19:10,3,Sxygirl,284.639
+19:10,4,김한빈호_탑승완_생일축하해,138.011
+19:10,5,Samatta,
+19:10,6,SOLM,298.268
+19:10,7,Uncharted,71.613
+19:10,8,Tom Holland,64.560
+19:10,9,olivia,75.536
+19:10,10,Nathan Drake,19.822
+19:41,1,WWECrownJewel,71.133
+19:41,2,FBvRAFC,10.709
+19:41,3,Sxygirl,313.216
+19:41,4,SOLM,325.744
+19:41,5,HitmakerHanbinDay,147.418
+19:41,6,Samatta,
+19:41,7,Uncharted,75.275
+19:41,8,Valencia,39.466
+19:41,9,Tom Holland,68.108
+19:41,10,olivia,78.936
+20:10,1,WWECrownJewel,85.384
+20:10,2,FBvRAFC,12.173
+20:10,3,Türkiyeikileşecek,
+20:10,4,Sxygirl,330.178
+20:10,5,SOLM,341.299
+20:10,6,Uncharted,77.088
+20:10,7,Samatta,
+20:10,8,Valencia,40.512
+20:10,9,Tom Holland,70.828
+20:10,10,Mesut,
+20:41,1,WWECrownJewel,107.218
+20:41,2,FBvRAFC,14.037
+20:41,3,Roma,64.718
+20:41,4,Türkiyeikileşecek,
+20:41,5,Sxygirl,342.794
+20:41,6,SOLM,351.253
+20:41,7,Uncharted,80.432
+20:41,8,Allan dos Santos,
+20:41,9,Mesut,12.419
+20:41,10,Goldberg,21.848
+21:10,1,WWECrownJewel,120.567
+21:10,2,FBvRAFC,16.889
+21:10,3,Roma,72.501
+21:10,4,Mesut,17.466
+21:10,5,Allan dos Santos,14.967
+21:10,6,Mourinho,18.259
+21:10,7,الاهلي_الطايي,18.411
+21:10,8,Castex20h,
+21:10,9,Sxygirl,349.682
+21:10,10,Uncharted,81.639
+21:41,1,WWECrownJewel,137.050
+21:41,2,FBvRAFC,17.623
+21:41,3,Roma,79.452
+21:41,4,Allan dos Santos,22.058
+21:41,5,Mesut,19.591
+21:41,6,Mourinho,22.510
+21:41,7,Castex20h,
+21:41,8,الاهلي_الطايي,20.812
+21:41,9,SecretGala6,
+21:41,10,Uncharted,84.121
+22:10,1,WWECrownJewel,156.094
+22:10,2,FBvRAFC,17.936
+22:10,3,Allan dos Santos,29.161
+22:10,4,Roma,81.634
+22:10,5,FCLMvGS,22.029
+22:10,6,Mesut,20.843
+22:10,7,Mourinho,24.556
+22:10,8,Castex20h,
+22:10,9,سلامات_ضمير_الامه,
+22:10,10,Taylan,
+22:41,1,WWECrownJewel,164.526
+22:41,2,SecretGala6,21.288
+22:41,3,Allan dos Santos,36.082
+22:41,4,FBvRAFC,18.127
+22:41,5,XF2021,
+22:41,6,SPAOL,
+22:41,7,Paqueta,13.273
+22:41,8,Roma,85.790
+22:41,9,Mourinho,26.711
+22:41,10,Taylan,
+23:10,1,FCLMvGS,40.114
+23:10,2,WWECrownJewel,168.634
+23:10,3,SecretGala6,29.991
+23:10,4,XF2021,
+23:10,5,Galatasaray,
+23:10,6,Allan,65.517
+23:10,7,Paqueta,17.561
+23:10,8,Kerem,60.984
+23:10,9,Roma,86.560
+23:10,10,Morutan,12.738
+23:41,1,FCLMvGS,48.788
+23:41,2,SecretGala6,42.897
+23:41,3,WWECrownJewel,172.832
+23:41,4,Galatasaray,
+23:41,5,XF2021,10.258
+23:41,6,Allan,73.889
+23:41,7,Paqueta,19.954
+23:41,8,Kerem,66.970
+23:41,9,Morutan,16.574
+23:41,10,Bannon,146.716

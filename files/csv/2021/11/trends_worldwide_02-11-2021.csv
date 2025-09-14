@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,PaidInBitcoin,50.532
+00:10,2,Chris Pratt,35.466
+00:10,3,Garfield,29.678
+00:10,4,gfvip,77.248
+00:10,5,MCCelebrity,
+00:10,6,debateUchile,
+00:10,7,Christmas,458.362
+00:10,8,Everton,36.406
+00:10,9,TentaciónDBT7,
+00:10,10,MONEY HOT100 DEBUT,10.996
+00:41,1,PaidInBitcoin,55.444
+00:41,2,Chris Pratt,40.416
+00:41,3,debateUchile,10.664
+00:41,4,Garfield,32.795
+00:41,5,gfvip,83.671
+00:41,6,MCCelebrity,
+00:41,7,georgebakingstream,10.748
+00:41,8,Christmas,470.047
+00:41,9,Everton,37.216
+00:41,10,MONEY HOT100 DEBUT,92.504
+01:10,1,PaidInBitcoin,59.287
+01:10,2,Chris Pratt,44.708
+01:10,3,debateUchile,15.907
+01:10,4,Garfield,34.791
+01:10,5,gfvip,86.835
+01:10,6,MCCelebrity,10.501
+01:10,7,georgebakingstream,12.462
+01:10,8,Manchin,141.589
+01:10,9,Christmas,468.514
+01:10,10,MONEY HOT100 DEBUT,99.811
+01:41,1,PaidInBitcoin,63.607
+01:41,2,Chris Pratt,49.814
+01:41,3,Mahomes,16.240
+01:41,4,WWERaw,12.691
+01:41,5,debateUchile,19.632
+01:41,6,Chiefs,35.855
+01:41,7,KARL,49.412
+01:41,8,Garfield,37.257
+01:41,9,Daniel Jones,
+01:41,10,georgebakingstream,16.869
+02:10,1,PaidInBitcoin,66.735
+02:10,2,Chris Pratt,53.910
+02:10,3,Mahomes,19.659
+02:10,4,WWERaw,17.858
+02:10,5,Chiefs,40.308
+02:10,6,ラヴィット,44.172
+02:10,7,Giants,59.715
+02:10,8,karl,51.781
+02:10,9,debateUchile,22.519
+02:10,10,Cruzeiro,30.664
+02:41,1,PaidInBitcoin,69.866
+02:41,2,jaehyun,330.089
+02:41,3,Mahomes,22.731
+02:41,4,Chris Pratt,58.500
+02:41,5,WWERaw,24.993
+02:41,6,Chiefs,45.853
+02:41,7,Giants,63.899
+02:41,8,ラヴィット,45.941
+02:41,9,Derrick Gore,
+02:41,10,karl,55.068
+03:10,1,Celtics,33.615
+03:10,2,Bulls,52.017
+03:10,3,PaidInBitcoin,72.310
+03:10,4,jaehyun,359.664
+03:10,5,MasterChefColombia,
+03:10,6,WWERaw,30.653
+03:10,7,DWTS,10.687
+03:10,8,Mahomes,23.930
+03:10,9,Chris Pratt,62.158
+03:10,10,Giants,67.139
+03:41,1,Corinthians,99.894
+03:41,2,MasterChefColombia,23.856
+03:41,3,Roger Guedes,17.612
+03:41,4,Chiefs,57.062
+03:41,5,jaehyun,394.207
+03:41,6,Celtics,37.130
+03:41,7,Bulls,57.715
+03:41,8,PaidInBitcoin,74.260
+03:41,9,ProvaDeFogo,
+03:41,10,Giants,73.231
+04:10,1,Corinthians,116.182
+04:10,2,MasterChefColombia,25.646
+04:10,3,ProvaDeFogo,31.031
+04:10,4,Roger Guedes,23.767
+04:10,5,Chiefs,64.584
+04:10,6,jaehyun,402.125
+04:10,7,Mahomes,32.114
+04:10,8,Giants,77.644
+04:10,9,Celtics,38.948
+04:10,10,Bulls,59.468
+04:41,1,Corinthians,124.896
+04:41,2,Chiefs,78.160
+04:41,3,Giants,91.640
+04:41,4,ProvaDeFogo,45.286
+04:41,5,MasterChefColombia,26.434
+04:41,6,Roger Guedes,26.342
+04:41,7,Mahomes,37.063
+04:41,8,jaehyun,427.219
+04:41,9,LaMascaraCHV,
+04:41,10,Celtics,40.670
+05:10,1,Chiefs,80.770
+05:10,2,Corinthians,128.791
+05:10,3,Giants,93.515
+05:10,4,ProvaDeFogo,47.370
+05:10,5,MasterChefColombia,26.875
+05:10,6,Roger Guedes,27.614
+05:10,7,jaehyun,438.253
+05:10,8,Mahomes,38.699
+05:10,9,LaMascaraCHV,
+05:10,10,Celtics,41.735
+05:41,1,Chiefs,82.448
+05:41,2,Corinthians,131.818
+05:41,3,Giants,95.210
+05:41,4,ProvaDeFogo,48.272
+05:41,5,jaehyun,459.583
+05:41,6,Roger Guedes,28.399
+05:41,7,MasterChefColombia,27.206
+05:41,8,Dhanteras,26.581
+05:41,9,Mahomes,39.620
+05:41,10,LaMascaraCHV,
+06:10,1,Chiefs,83.183
+06:10,2,Corinthians,133.610
+06:10,3,Giants,95.340
+06:10,4,Dhanteras,31.178
+06:10,5,jaehyun,487.905
+06:10,6,ProvaDeFogo,48.730
+06:10,7,Roger Guedes,28.936
+06:10,8,MasterChefColombia,27.366
+06:10,9,Mahomes,40.075
+06:10,10,धनतेरस,44.137
+06:41,1,Dhanteras,36.127
+06:41,2,Corinthians,135.154
+06:41,3,jaehyun,512.681
+06:41,4,Chiefs,83.996
+06:41,5,Giants,96.220
+06:41,6,धनतेरस,48.814
+06:41,7,ProvaDeFogo,49.132
+06:41,8,Roger Guedes,29.285
+06:41,9,MasterChefColombia,27.511
+06:41,10,辞意表明,
+07:10,1,Dhanteras,40.184
+07:10,2,jaehyun,522.563
+07:10,3,धनतेरस,52.687
+07:10,4,Corinthians,135.779
+07:10,5,Chiefs,84.316
+07:10,6,btsdiscography,14.596
+07:10,7,btsdivine,14.767
+07:10,8,Giants,95.897
+07:10,9,btsdiamond,15.838
+07:10,10,辞意表明,
+07:41,1,Dhanteras,44.320
+07:41,2,धनतेरस,56.204
+07:41,3,jaehyun,538.497
+07:41,4,btsdiscography,17.054
+07:41,5,btsdivine,17.064
+07:41,6,الجو_ما_ينقصه_غير,
+07:41,7,Corinthians,136.339
+07:41,8,Chiefs,84.829
+07:41,9,Giants,96.847
+07:41,10,辞意表明,
+08:10,1,Dhanteras,47.878
+08:10,2,धनतेरस,59.203
+08:10,3,jaehyun,541.327
+08:10,4,枝野辞めるな,
+08:10,5,SamsunaYolculukVar,
+08:10,6,btsdiscography,17.758
+08:10,7,Chiefs,85.021
+08:10,8,Corinthians,136.607
+08:10,9,Giants,96.720
+08:10,10,辞意表明,
+08:41,1,Dhanteras,51.848
+08:41,2,枝野辞めるな,11.289
+08:41,3,धनतेरस,62.214
+08:41,4,salı,
+08:41,5,jaehyun,555.723
+08:41,6,SamsunaYolculukVar,
+08:41,7,가요대축제,
+08:41,8,グレタさん,
+08:41,9,StoreOpening with NNine,78.907
+08:41,10,辞意表明,
+09:10,1,Dhanteras,54.534
+09:10,2,Lazada1111xBrightWin,25.003
+09:10,3,DNE ZERO COUNTDOWN,
+09:10,4,枝野辞めるな,13.150
+09:10,5,LazadaTH,35.093
+09:10,6,धनतेरस,64.285
+09:10,7,jaehyun,556.290
+09:10,8,グレタさん,
+09:10,9,가요대축제,
+09:10,10,A'TIN DALAWANG TAON,67.052
+09:41,1,Lazada1111xBrightWin,67.892
+09:41,2,Dhanteras,57.320
+09:41,3,SuperJuniorDnE,58.437
+09:41,4,DNE ZERO COUNTDOWN,13.260
+09:41,5,LazadaTH,69.088
+09:41,6,枝野辞めるな,15.386
+09:41,7,グレタさん,
+09:41,8,強制調査,
+09:41,9,가요대축제,
+09:41,10,A'TIN DALAWANG TAON,73.139
+10:10,1,SuperJuniorDnE,66.008
+10:10,2,DNE ZERO COUNTDOWN,18.902
+10:10,3,Lazada1111xBrightWin,98.241
+10:10,4,Dhanteras,59.667
+10:10,5,枝野辞めるな,17.247
+10:10,6,LazadaTH,91.166
+10:10,7,A'TIN DALAWANG TAON,82.397
+10:10,8,グレタさん,
+10:10,9,Wholiz,
+10:10,10,HaysiyetsizSırtlanlar Diyarı,
+10:41,1,ATINAnnive2sary,169.744
+10:41,2,A'TIN DALAWANG TAON,167.511
+10:41,3,RAWRATIN,163.428
+10:41,4,RAWRAwards2021,220.167
+10:41,5,SuperJuniorDnE,81.627
+10:41,6,DNE ZERO COUNTDOWN,24.443
+10:41,7,あなたの名前を直訳すると,
+10:41,8,グレタさん,
+10:41,9,Ana Rosa,
+10:41,10,Wholiz,
+11:10,1,ATINAnnive2sary,247.127
+11:10,2,A'TIN DALAWANG TAON,243.500
+11:10,3,RAWRATIN,236.308
+11:10,4,RAWRAwards2021,294.131
+11:10,5,SuperJuniorDnE,89.612
+11:10,6,あなたの名前を直訳すると,
+11:10,7,DNE ZERO COUNTDOWN,27.439
+11:10,8,Ana Rosa,
+11:10,9,グレタさん,
+11:10,10,憲法改正の国民投票,
+11:41,1,ATINAnnive2sary,298.080
+11:41,2,A'TIN DALAWANG TAON,293.830
+11:41,3,RAWRATIN,284.776
+11:41,4,RAWRAwards2021,344.005
+11:41,5,あなたの名前を直訳すると,
+11:41,6,SuperJuniorDnE,95.718
+11:41,7,DNE ZERO COUNTDOWN,29.609
+11:41,8,憲法改正の国民投票,
+11:41,9,Ana Rosa,
+11:41,10,GET SET YO MV TEASER 2,
+12:10,1,ATINAnnive2sary,323.256
+12:10,2,A'TIN DALAWANG TAON,318.051
+12:10,3,RAWRATIN,305.494
+12:10,4,RAWRAwards2021,364.308
+12:10,5,あなたの名前を直訳すると,
+12:10,6,うたコン,27.222
+12:10,7,憲法改正の国民投票,
+12:10,8,胡桃1凸,
+12:10,9,DNE ZERO COUNTDOWN,31.449
+12:10,10,Thoma,70.075
+12:41,1,うたコン,37.700
+12:41,2,ATINAnnive2sary,341.778
+12:41,3,A'TIN DALAWANG TAON,336.374
+12:41,4,あなたの名前を直訳すると,
+12:41,5,RAWRATIN,318.240
+12:41,6,RAWRAwards2021,378.213
+12:41,7,胡桃1凸,
+12:41,8,憲法改正の国民投票,10.001
+12:41,9,武器ガチャ,10.878
+12:41,10,Thoma,74.743
+13:10,1,うたコン,53.289
+13:10,2,あなたの名前を直訳すると,
+13:10,3,ATINAnnive2sary,354.124
+13:10,4,A'TIN DALAWANG TAON,347.647
+13:10,5,NoviembreConPcComponentes,
+13:10,6,RAWRATIN,321.287
+13:10,7,ETERNALS X IKARIS X GULF,63.720
+13:10,8,ウマ娘のキャラ,
+13:10,9,胡桃1凸,11.097
+13:10,10,武器ガチャ,12.211
+13:41,1,うたコン,85.354
+13:41,2,あなたの名前を直訳すると,
+13:41,3,NoviembreConPcComponentes,
+13:41,4,EternalsTH,151.430
+13:41,5,あなたをウマ娘のキャラに例えるなら,
+13:41,6,A'TIN DALAWANG TAON,356.722
+13:41,7,ETERNALS X IKARIS X GULF,127.256
+13:41,8,Antonio Conte,123.583
+13:41,9,胡桃1凸,12.666
+13:41,10,Emery,16.397
+14:10,1,うたコン,101.191
+14:10,2,あなたの名前を直訳すると,
+14:10,3,あなたをウマ娘のキャラに例えるなら,
+14:10,4,マツコの知らない世界,
+14:10,5,NoviembreConPcComponentes,
+14:10,6,Antonio Conte,125.209
+14:10,7,ETERNALS X IKARIS X GULF,165.233
+14:10,8,A'TIN DALAWANG TAON,364.090
+14:10,9,焼きそば,14.836
+14:10,10,TOGETHER FOR OUR PLANET,13.936
+14:41,1,あなたをウマ娘のキャラに例えるなら,
+14:41,2,あなたの名前を直訳すると,
+14:41,3,うたコン,108.688
+14:41,4,NoviembreConPcComponentes,
+14:41,5,EternalsTH,238.544
+14:41,6,TOGETHER FOR OUR PLANET,34.414
+14:41,7,Antonio Conte,132.315
+14:41,8,ETERNALS X IKARIS X GULF,190.429
+14:41,9,Emery,17.954
+14:41,10,自分の信念,
+15:10,1,中島健人の2000回目リベンジ,24.444
+15:10,2,あなたをウマ娘のキャラに例えるなら,
+15:10,3,PAKvsNAM,11.708
+15:10,4,宇宙にTAKE_OFF_INI,53.056
+15:10,5,ハンオシ,
+15:10,6,TOGETHER FOR OUR PLANET,44.793
+15:10,7,自分の信念,
+15:10,8,ライスシャワー,
+15:10,9,メジロマックイーン,
+15:10,10,Antonio Conte,128.446
+15:41,1,宇宙にTAKE_OFF_INI,182.387
+15:41,2,TXT_Ito解禁,24.354
+15:41,3,PAKvsNAM,16.018
+15:41,4,あなたをウマ娘のキャラに例えるなら,
+15:41,5,ITO JPN TRACK OUT NOW,23.240
+15:41,6,中島健人の2000回目リベンジ,27.926
+15:41,7,TOGETHER FOR OUR PLANET,50.995
+15:41,8,yujin,74.097
+15:41,9,Rocketeer,633.180
+15:41,10,Brighter,627.166
+16:10,1,宇宙にTAKE_OFF_INI,299.786
+16:10,2,HBDtoMINHYUK,30.758
+16:10,3,BEFIRSTデビューおめでとう,26.277
+16:10,4,PAKvsNAM,21.635
+16:10,5,TXT_Ito解禁,47.041
+16:10,6,ITO JPN TRACK OUT NOW,47.632
+16:10,7,Joonie,17.655
+16:10,8,Rocketeer,722.846
+16:10,9,Brighter,717.303
+16:10,10,TOGETHER FOR OUR PLANET,56.067
+16:41,1,HBDtoMINHYUK,63.609
+16:41,2,宇宙にTAKE_OFF_INI,398.233
+16:41,3,BEFIRSTデビューおめでとう,84.276
+16:41,4,TXT_Ito解禁,59.265
+16:41,5,PAKvsNAM,27.799
+16:41,6,ITO JPN TRACK OUT NOW,59.425
+16:41,7,そらるさん,25.291
+16:41,8,場地さん,17.505
+16:41,9,Joonie,18.862
+16:41,10,jikook,45.297
+17:10,1,HBDtoMINHYUK,79.505
+17:10,2,PAKvsNAM,35.657
+17:10,3,宇宙にTAKE_OFF_INI,444.236
+17:10,4,BEFIRSTデビューおめでとう,103.781
+17:10,5,TXT_Ito解禁,64.314
+17:10,6,ITO JPN TRACK OUT NOW,63.606
+17:10,7,Rizwan,20.198
+17:10,8,そらるさん,31.136
+17:10,9,jikook,52.433
+17:10,10,場地さん,21.882
+17:41,1,HBDtoMINHYUK,90.630
+17:41,2,PAKvsNAM,40.092
+17:41,3,宇宙にTAKE_OFF_INI,471.426
+17:41,4,BEFIRSTデビューおめでとう,111.038
+17:41,5,TXT_Ito解禁,67.320
+17:41,6,ITO JPN TRACK OUT NOW,65.829
+17:41,7,Rizwan,23.336
+17:41,8,そらるさん,33.039
+17:41,9,jikook,59.167
+17:41,10,場地さん,24.553
+18:10,1,PAKvsNAM,45.105
+18:10,2,HBDtoMINHYUK,97.279
+18:10,3,1103우리에게달려온날_민혁데이,101.081
+18:10,4,宇宙にTAKE_OFF_INI,489.491
+18:10,5,TXT_Ito解禁,69.284
+18:10,6,ITO JPN TRACK OUT NOW,67.292
+18:10,7,Session 33,
+18:10,8,Rizwan,25.205
+18:10,9,そらるさん,33.918
+18:10,10,ALWAYS WITH YOONGI,
+18:41,1,PAKvsNAM,51.612
+18:41,2,HBDtoMINHYUK,102.185
+18:41,3,Beyoğlu Kültür,
+18:41,4,1103우리에게달려온날_민혁데이,105.852
+18:41,5,宇宙にTAKE_OFF_INI,504.703
+18:41,6,TXT_Ito解禁,70.903
+18:41,7,Session 33,
+18:41,8,ITO JPN TRACK OUT NOW,68.391
+18:41,9,Ruggs,
+18:41,10,Rizwan,26.923
+19:10,1,PAKvsNAM,68.243
+19:10,2,Ruggs,18.681
+19:10,3,HBDtoMINHYUK,105.774
+19:10,4,Beyoğlu Kültür,
+19:10,5,1103우리에게달려온날_민혁데이,109.296
+19:10,6,Daydream100M,12.994
+19:10,7,데이드림1억스밍축하해,11.587
+19:10,8,DAYDREAM WITH J-HOPE,11.190
+19:10,9,Session 33,
+19:10,10,Congratulations Pakistan,
+19:41,1,PAKvsNAM,74.526
+19:41,2,Ruggs,35.696
+19:41,3,persconferentie,15.151
+19:41,4,Aydın Ayaydın,
+19:41,5,askpunk,
+19:41,6,HBDtoMINHYUK,108.372
+19:41,7,Daydream100M,17.648
+19:41,8,Beyoğlu Kültür,
+19:41,9,Ziyech,
+19:41,10,DAYDREAM WITH J-HOPE,15.286
+20:10,1,Ruggs,43.217
+20:10,2,PAKvsNAM,78.333
+20:10,3,persconferentie,18.277
+20:10,4,Ziyech,14.868
+20:10,5,askpunk,
+20:10,6,MalChe,18.585
+20:10,7,Daydream100M,20.819
+20:10,8,Aydın Ayaydın,
+20:10,9,DAYDREAM WITH J-HOPE,18.170
+20:10,10,Malmo,21.997
+20:41,1,Gabigol,54.597
+20:41,2,Kayser,
+20:41,3,Ruggs,47.266
+20:41,4,PAKvsNAM,81.098
+20:41,5,persconferentie,21.198
+20:41,6,Pulisic,
+20:41,7,GABRIEL BARBOSA,
+20:41,8,Ziyech,18.819
+20:41,9,MalChe,23.462
+20:41,10,askpunk,
+21:10,1,Gabigol,69.963
+21:10,2,Kayser,11.602
+21:10,3,Ruggs,50.462
+21:10,4,Pulisic,11.178
+21:10,5,persconferentie,22.937
+21:10,6,PAKvsNAM,82.866
+21:10,7,Gabriel Barbosa,
+21:10,8,Ziyech,22.206
+21:10,9,JFK Jr.,43.008
+21:10,10,MalChe,25.860
+21:41,1,Gabigol,74.772
+21:41,2,Pogba,21.360
+21:41,3,KohLanta,
+21:41,4,Kayser,13.818
+21:41,5,De Gea,
+21:41,6,ATAMUN,
+21:41,7,GBBO,
+21:41,8,Isla,34.290
+21:41,9,HAPPY BIRTHDAY RANBOO,10.121
+21:41,10,Atalanta,65.171
+22:10,1,Pogba,31.275
+22:10,2,Gabigol,80.901
+22:10,3,Diego Alves,17.405
+22:10,4,Renato Gaúcho,23.737
+22:10,5,KohLanta,19.266
+22:10,6,ATAMUN,16.952
+22:10,7,Kayser,15.905
+22:10,8,Arão,10.153
+22:10,9,Everton Ribeiro,13.613
+22:10,10,Bailly,14.127
+22:41,1,Renato,99.761
+22:41,2,Renato,99.761
+22:41,3,Maguire,42.230
+22:41,4,Pogba,37.836
+22:41,5,KohLanta,38.088
+22:41,6,Gabigol,85.045
+22:41,7,Bailly,25.768
+22:41,8,Diego Alves,20.128
+22:41,9,ATAMUN,21.138
+22:41,10,Coumba,18.988
+23:10,1,Ronaldo,333.956
+23:10,2,Maguire,62.590
+23:10,3,Renato,108.868
+23:10,4,Bailly,41.292
+23:10,5,ATAMUN,30.323
+23:10,6,KohLanta,58.192
+23:10,7,Pogba,42.030
+23:10,8,MUFC,103.469
+23:10,9,Gabigol,85.683
+23:10,10,Diego Alves,20.497
+23:41,1,Ronaldo,427.506
+23:41,2,Maguire,79.108
+23:41,3,Bailly,56.299
+23:41,4,KohLanta,71.518
+23:41,5,ATAMUN,33.926
+23:41,6,Renato,113.257
+23:41,7,Pogba,47.999
+23:41,8,MUFC,121.546
+23:41,9,Atalanta,123.244
+23:41,10,Diego Alves,21.032

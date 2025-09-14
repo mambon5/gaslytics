@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Barcelona,466.618
+00:09,2,Messi,419.648
+00:09,3,Mbappe,796.150
+00:09,4,BarcaPsg,167.531
+00:09,5,FCBPSG,166.083
+00:09,6,Neymar,118.469
+00:09,7,ChampionsLeague,49.102
+00:09,8,Camp Nou,128.745
+00:09,9,Dembele,78.231
+00:09,10,BARPSG,27.657
+00:39,1,Barcelona,487.303
+00:39,2,Messi,439.544
+00:39,3,Mbappe,833.282
+00:39,4,Barça,433.839
+00:39,5,FCBPSG,170.821
+00:39,6,Neymar,123.005
+00:39,7,ChampionsLeague,50.513
+00:39,8,Camp Nou,136.202
+00:39,9,Dembele,80.350
+00:39,10,BARPSG,28.347
+01:09,1,Barcelona,498.508
+01:09,2,Messi,449.545
+01:09,3,Mbappe,856.011
+01:09,4,Barça,439.382
+01:09,5,FCBPSG,173.276
+01:09,6,Neymar,124.567
+01:09,7,ChampionsLeague,51.444
+01:09,8,Camp Nou,141.102
+01:09,9,Dembele,81.309
+01:09,10,Texas,1.257.953
+01:39,1,Barcelona,508.608
+01:39,2,Messi,459.233
+01:39,3,Mbappe,873.722
+01:39,4,Barça,446.181
+01:39,5,FCBPSG,174.947
+01:39,6,Neymar,130.893
+01:39,7,Texas,1.314.411
+01:39,8,3 SÉRIES,27.327
+01:39,9,3 FILMES,
+01:39,10,MEUS GOSTOS DEFINIDOS EM,
+02:09,1,Barcelona,515.416
+02:09,2,Messi,464.867
+02:09,3,Mbappe,886.436
+02:09,4,Barça,449.506
+02:09,5,Texas,1.328.659
+02:09,6,3 FILMES,
+02:09,7,3 SÉRIES,27.962
+02:09,8,Neymar,136.516
+02:09,9,MEUS GOSTOS DEFINIDOS EM,
+02:09,10,FCBPSG,176.230
+02:39,1,PROUDOFRANBOO,19.990
+02:39,2,YEONJUNatNYFW,90.415
+02:39,3,Barcelona,521.888
+02:39,4,Messi,471.006
+02:39,5,Mbappe,897.112
+02:39,6,TXT_연준,74.148
+02:39,7,Texas,1.390.346
+02:39,8,Barça,453.465
+02:39,9,3 FILMES,10.418
+02:39,10,3 SÉRIES,29.434
+03:09,1,Tiago,141.711
+03:09,2,YEONJUNatNYFW,142.186
+03:09,3,PROUDOFRANBOO,29.544
+03:09,4,Pocah,855.172
+03:09,5,Nego,662.200
+03:09,6,TXT_연준,101.813
+03:09,7,BBBAEliminacao,32.113
+03:09,8,Barcelona,526.119
+03:09,9,Messi,474.397
+03:09,10,Texas,1.414.229
+03:39,1,Rafael Portugal,149.640
+03:39,2,Tiago,170.175
+03:39,3,JHopeEnBBVA,83.695
+03:39,4,Pocah,931.811
+03:39,5,BBBAEliminacao,46.639
+03:39,6,Nego,756.643
+03:39,7,PROUDOFRANBOO,34.977
+03:39,8,YEONJUNatNYFW,159.149
+03:39,9,BBB2021,67.334
+03:39,10,Texas,1.479.073
+04:09,1,Tiago,298.738
+04:09,2,Nego,1.348.430
+04:09,3,Rafael Portugal,168.604
+04:09,4,BBBAEliminacao,113.225
+04:09,5,Fiuk,511.068
+04:09,6,BBB2021,117.463
+04:09,7,Globo,173.738
+04:09,8,Sarah,1.019.709
+04:09,9,Pocah,991.610
+04:09,10,JHopeEnBBVA,131.220
+04:39,1,BBB21,1.822.586
+04:39,2,Tiago,337.240
+04:39,3,Nego,1.473.660
+04:39,4,Rafael Portugal,175.068
+04:39,5,BBBAEliminacao,124.872
+04:39,6,Fiuk,551.947
+04:39,7,BBB2021,130.748
+04:39,8,Pocah,1.054.980
+04:39,9,Sarah,1.137.164
+04:39,10,JHopeEnBBVA,186.706
+05:09,1,BBB21,1.748.208
+05:09,2,Tiago,344.232
+05:09,3,Nego,1.415.561
+05:09,4,BBBAEliminacao,126.516
+05:09,5,Rafael Portugal,177.725
+05:09,6,Fiuk,564.704
+05:09,7,BBB2021,129.985
+05:09,8,JHopeEnBBVA,222.314
+05:09,9,Pocah,970.689
+05:09,10,Sarah,1.120.985
+05:39,1,BBB21,1.878.075
+05:39,2,Tiago,354.134
+05:39,3,Nego,1.496.519
+05:39,4,BBBAEliminacao,128.576
+05:39,5,Rafael Portugal,179.355
+05:39,6,Fiuk,578.257
+05:39,7,BBB2021,132.092
+05:39,8,JHopeEnBBVA,252.837
+05:39,9,teamkinokokingdom,29.125
+05:39,10,Pocah,986.941
+06:09,1,BBB21,1.979.015
+06:09,2,Tiago,353.296
+06:09,3,Nego,1.477.709
+06:09,4,BBBAEliminacao,128.039
+06:09,5,Rafael Portugal,180.273
+06:09,6,Fiuk,580.995
+06:09,7,BBB2021,130.810
+06:09,8,JHopeEnBBVA,267.830
+06:09,9,teamkinokokingdom,33.766
+06:09,10,hobi,428.052
+06:39,1,BBB21,1.867.271
+06:39,2,Tiago,357.968
+06:39,3,Nego,1.484.731
+06:39,4,findsai,76.526
+06:39,5,BBBAEliminacao,128.593
+06:39,6,Rafael Portugal,180.862
+06:39,7,JHopeEnBBVA,277.751
+06:39,8,Fiuk,586.111
+06:39,9,BBB2021,131.552
+06:39,10,hobi,441.410
+07:09,1,BBB21,1.972.929
+07:09,2,findsai,206.782
+07:09,3,Tiago,359.051
+07:09,4,Nego,1.495.262
+07:09,5,BBBAEliminacao,128.685
+07:09,6,JHopeEnBBVA,285.315
+07:09,7,Rafael Portugal,181.277
+07:09,8,feraltwtselfieday,23.755
+07:09,9,Fiuk,586.867
+07:09,10,hobi,447.610
+07:39,1,findsai,411.305
+07:39,2,Tiago,361.137
+07:39,3,Nego,1.530.797
+07:39,4,feraltwtselfieday,27.382
+07:39,5,JHopeEnBBVA,292.011
+07:39,6,Rafael Portugal,181.614
+07:39,7,BBBAEliminacao,128.964
+07:39,8,hobi,458.385
+07:39,9,Harden,39.690
+07:39,10,BBB2021,131.430
+08:09,1,findsai,658.824
+08:09,2,Tiago,362.007
+08:09,3,feraltwtselfieday,28.875
+08:09,4,Nego,1.514.135
+08:09,5,JHopeEnBBVA,301.431
+08:09,6,BBBAEliminacao,128.896
+08:09,7,rafael portugal,181.808
+08:09,8,hobi,463.037
+08:09,9,Sarah,1.124.867
+08:09,10,Texas,1.152.546
+08:39,1,findsai,804.269
+08:39,2,feraltwtselfieday,29.204
+08:39,3,Twitkep AçıIdıı,
+08:39,4,Tiago,363.032
+08:39,5,一番為になったアニメから学んだこと,13.840
+08:39,6,Nego,1.519.081
+08:39,7,JHopeEnBBVA,306.149
+08:39,8,hobi,472.253
+08:39,9,Texas,1.142.406
+08:39,10,MilletinSesiMecliste,
+09:09,1,findsai,931.139
+09:09,2,一番為になったアニメから学んだこと,15.551
+09:09,3,twitkep açıidıı,
+09:09,4,milletinsesimecliste,
+09:09,5,feraltwtselfieday,29.444
+09:09,6,อภิปรายไม่ไว้วางใจ64,140.958
+09:09,7,Nego,1.734.329
+09:09,8,hobi,475.761
+09:09,9,Tiago,363.369
+09:09,10,五輪組織委新会長,
+09:39,1,findsai,984.984
+09:39,2,一番為になったアニメから学んだこと,17.383
+09:39,3,MilletinSesiMecliste,
+09:39,4,twitkep açıidıı,
+09:39,5,BizDeğişmezsekİklimDeğişecek,
+09:39,6,5816SayılıKanunKaldırılsın,
+09:39,7,Nego,1.748.466
+09:39,8,橋本聖子五輪相,
+09:39,9,五輪組織委新会長,
+09:39,10,Tiago,363.969
+10:09,1,findsai,1.012.508
+10:09,2,JO1へ届け_1000万回の愛と感謝,15.423
+10:09,3,一番為になったアニメから学んだこと,19.410
+10:09,4,5816SayılıKanunKaldırılsın,
+10:09,5,桐生ココ100万人,
+10:09,6,twitkep açıidıı,
+10:09,7,橋本聖子五輪相,
+10:09,8,ハラスメント,27.453
+10:09,9,Nego,1.748.130
+10:09,10,コクハラ,
+10:39,1,findsai,1.027.159
+10:39,2,花咲くホロライブ,53.394
+10:39,3,JO1へ届け_1000万回の愛と感謝,22.140
+10:39,4,桐生ココ100万人,
+10:39,5,一番為になったアニメから学んだこと,21.414
+10:39,6,コクハラ,
+10:39,7,なぎこさん,
+10:39,8,ハラスメント,30.486
+10:39,9,橋本聖子五輪相,
+10:39,10,会長100万人,
+11:09,1,花咲くホロライブ,98.451
+11:09,2,TescilliYalancıGalatasaray,12.222
+11:09,3,findsai,1.044.993
+11:09,4,JO1へ届け_1000万回の愛と感謝,25.367
+11:09,5,Senato,
+11:09,6,なぎこさん,
+11:09,7,コクハラ,
+11:09,8,ハラスメント,33.350
+11:09,9,橋本聖子,20.263
+11:09,10,会長100万人,
+11:39,1,花咲くホロライブ,178.333
+11:39,2,TescilliYalancıGalatasaray,26.868
+11:39,3,findsai,1.058.972
+11:39,4,Senato,
+11:39,5,RandomActsofKindnessDay,
+11:39,6,なぎこさん,
+11:39,7,コクハラ,
+11:39,8,ハラスメント,36.024
+11:39,9,世界トレンド1位,
+11:39,10,橋本聖子,22.498
+12:09,1,花咲くホロライブ,257.757
+12:09,2,TescilliYalancıGalatasaray,39.775
+12:09,3,Senato,
+12:09,4,RandomActsofKindnessDay,
+12:09,5,PriyaRamani,13.141
+12:09,6,なぎこさん,
+12:09,7,BuDaMı Suç,
+12:09,8,コクハラ,
+12:09,9,ハラスメント,38.718
+12:09,10,急上昇1位,
+12:39,1,花咲くホロライブ,337.360
+12:39,2,TescilliYalancıGalatasaray,50.102
+12:39,3,実際に言われたクレーム晒す,18.308
+12:39,4,TescilliYalancıFenerbahce,17.922
+12:39,5,RandomActsofKindnessDay,11.892
+12:39,6,なぎこさん,
+12:39,7,コクハラ,11.324
+12:39,8,BuDaMı Suç,
+12:39,9,ハラスメント,41.556
+12:39,10,急上昇1位,
+13:09,1,花咲くホロライブ,414.475
+13:09,2,TescilliYalancıGalatasaray,56.536
+13:09,3,実際に言われたクレーム晒す,25.120
+13:09,4,TescilliYalancıFenerbahce,25.462
+13:09,5,YWY3WithLisa,37.014
+13:09,6,DANCE MENTOR LALISA,41.596
+13:09,7,なぎこさん,
+13:09,8,コクハラ,12.631
+13:09,9,Tsitsipas,11.892
+13:09,10,ハラスメント,43.706
+13:39,1,花咲くホロライブ,500.876
+13:39,2,YWY3WithLisa,248.338
+13:39,3,TescilliYalancıGalatasaray,62.375
+13:39,4,MentorLalisaIsBack,240.240
+13:39,5,実際に言われたクレーム晒す,30.990
+13:39,6,DANCE MENTOR LALISA,234.344
+13:39,7,Tsitsipas,14.192
+13:39,8,なぎこさん,11.054
+13:39,9,Nadal,36.042
+13:39,10,1 Year Of SidNaaz's Reunion,113.157
+14:09,1,花咲くホロライブ,553.449
+14:09,2,YWY3WithLisa,497.362
+14:09,3,MentorLalisaIsBack,474.839
+14:09,4,TescilliYalancıGalatasaray,66.654
+14:09,5,実際に言われたクレーム晒す,36.813
+14:09,6,DANCE MENTOR LALISA,456.887
+14:09,7,Tsitsipas,27.518
+14:09,8,Nadal,47.112
+14:09,9,Ana Maria,170.223
+14:09,10,1 Year Of SidNaaz's Reunion,157.201
+14:39,1,YWY3WithLisa,699.701
+14:39,2,花咲くホロライブ,580.840
+14:39,3,MentorLalisaIsBack,669.999
+14:39,4,MaisVoce,31.597
+14:39,5,実際に言われたクレーム晒す,42.299
+14:39,6,DANCE MENTOR LALISA,624.493
+14:39,7,Nadal,53.602
+14:39,8,Tsitsipas,32.306
+14:39,9,Ana Maria,180.302
+14:39,10,hobi,618.904
+15:09,1,hobi,694.567
+15:09,2,YWY3WithLisa,861.318
+15:09,3,MentorLalisaIsBack,820.845
+15:09,4,MaisVoce,39.514
+15:09,5,花咲くホロライブ,596.119
+15:09,6,実際に言われたクレーム晒す,48.066
+15:09,7,DANCE MENTOR LALISA,767.638
+15:09,8,Nadal,55.464
+15:09,9,Tsitsipas,34.710
+15:09,10,Ana Maria,186.786
+15:39,1,hobi,931.267
+15:39,2,Vlive,541.849
+15:39,3,보석처럼_빛나는_정환아_생일축하해,269.755
+15:39,4,SuperMaknaeJunghwanDay,246.055
+15:39,5,정환이의생일,239.869
+15:39,6,YWY3WithLisa,990.112
+15:39,7,hoseok,397.348
+15:39,8,도겸버논_생일이라_행복이_218배,124.268
+15:39,9,Cruella,101.555
+15:39,10,DANCE MENTOR LALISA,878.072
+16:09,1,hobi,1.152.091
+16:09,2,HappyBirthdayHoseok,163.922
+16:09,3,도겸버논_생일이라_행복이_218배,246.374
+16:09,4,SuperMaknaeJunghwanDay,462.914
+16:09,5,보석처럼_빛나는_정환아_생일축하해,486.885
+16:09,6,정환이의생일,451.452
+16:09,7,Vlive,574.818
+16:09,8,Cruella,110.119
+16:09,9,Emma Stone,37.594
+16:09,10,J2レギュラー,
+16:39,1,hobi,1.275.807
+16:39,2,HappyBirthdayHoseok,352.099
+16:39,3,도겸버논_생일이라_행복이_218배,342.301
+16:39,4,SuperMaknaeJunghwanDay,626.282
+16:39,5,보석처럼_빛나는_정환아_생일축하해,651.912
+16:39,6,218bro_DK_VERNON_DAY,297.232
+16:39,7,Vlive,681.809
+16:39,8,Cruella,124.690
+16:39,9,Emma Stone,42.149
+16:39,10,suga hyung,27.342
+17:09,1,hobi,1.611.815
+17:09,2,HappyBirthdayHoseok,485.373
+17:09,3,도겸버논_생일이라_행복이_218배,386.074
+17:09,4,SuperMaknaeJunghwanDay,735.683
+17:09,5,보석처럼_빛나는_정환아_생일축하해,752.296
+17:09,6,218bro_DK_VERNON_DAY,338.044
+17:09,7,Cruella,130.426
+17:09,8,Vlive,728.052
+17:09,9,Tiwitkep Açııldı,
+17:09,10,Emma Stone,43.318
+17:39,1,happybirthdayJHOPE,574.884
+17:39,2,HappyBirthdayHoseok,547.840
+17:39,3,도겸버논_생일이라_행복이_218배,407.825
+17:39,4,SuperMaknaeJunghwanDay,813.073
+17:39,5,보석처럼_빛나는_정환아_생일축하해,826.584
+17:39,6,Cruella,142.612
+17:39,7,Vlive,751.248
+17:39,8,Emma Stone,46.842
+17:39,9,tiwitkep açııldı,
+17:39,10,suga hyung,37.655
+18:09,1,happybirthdayJHOPE,620.774
+18:09,2,HappyBirthdayHoseok,593.378
+18:09,3,도겸버논_생일이라_행복이_218배,420.611
+18:09,4,SuperMaknaeJunghwanDay,865.707
+18:09,5,보석처럼_빛나는_정환아_생일축하해,876.550
+18:09,6,Cruella,148.593
+18:09,7,Emma Stone,47.619
+18:09,8,tiwitkep açııldı,
+18:09,9,Vlive,760.013
+18:09,10,suga hyung,39.492
+18:39,1,happybirthdayJHOPE,659.560
+18:39,2,HappyBirthdayHoseok,631.475
+18:39,3,Rush Limbaugh,100.152
+18:39,4,도겸버논_생일이라_행복이_218배,429.402
+18:39,5,SuperMaknaeJunghwanDay,901.599
+18:39,6,الشباب_الفتح,37.879
+18:39,7,Cruella,159.110
+18:39,8,Emma Stone,50.683
+18:39,9,tiwitkep açııldı,
+18:39,10,Vlive,770.369
+19:09,1,Rush Limbaugh,233.524
+19:09,2,happybirthdayJHOPE,690.423
+19:09,3,HappyBirthdayHoseok,661.587
+19:09,4,27YearsOfHope,216.641
+19:09,5,الشباب_الفتح,45.101
+19:09,6,도겸버논_생일이라_행복이_218배,435.566
+19:09,7,MebSırailEmri NeredeZiyaHoca,
+19:09,8,Cruella,164.573
+19:09,9,Emma Stone,51.525
+19:09,10,Rest in Piss,13.290
+19:39,1,Rush Limbaugh,344.462
+19:39,2,happybirthdayJHOPE,714.633
+19:39,3,HappyBirthdayHoseok,686.632
+19:39,4,27YearsOfHope,227.963
+19:39,5,Cruella,173.161
+19:39,6,الشباب_الفتح,50.199
+19:39,7,OhNoNoBein,27.816
+19:39,8,MebSırailEmri NeredeZiyaHoca,
+19:39,9,MebiliçiÖzrü Çözmüyor,
+19:39,10,Emma Stone,53.923
+20:09,1,Rush Limbaugh,430.630
+20:09,2,HappyBirthdayHoseok,708.152
+20:09,3,happybirthdayJHOPE,734.309
+20:09,4,OhNoNoBein,35.138
+20:09,5,27YearsOfHope,236.903
+20:09,6,الاهلي_العين,25.803
+20:09,7,Cruella,177.782
+20:09,8,MebiliçiÖzrü Çözmüyor,
+20:09,9,MebSırailEmri NeredeZiyaHoca,15.428
+20:09,10,ابو جبل,
+20:39,1,Rush Limbaugh,499.943
+20:39,2,HappyBirthdayHoseok,725.369
+20:39,3,happybirthdayJHOPE,751.288
+20:39,4,OhNoNoBein,42.220
+20:39,5,الاهلي_العين,33.293
+20:39,6,27YearsOfHope,244.139
+20:39,7,Cruella,185.265
+20:39,8,ابو جبل,
+20:39,9,MebSırailEmri NeredeZiyaHoca,21.380
+20:39,10,Rick Perry,37.677
+21:09,1,Rush Limbaugh,560.350
+21:09,2,HappyBirthdayHoseok,741.712
+21:09,3,happybirthdayJHOPE,766.439
+21:09,4,OhNoNoBein,48.908
+21:09,5,الاهلي_العين,36.471
+21:09,6,Sadakatsiz,
+21:09,7,Cruella,189.275
+21:09,8,Bentancur,
+21:09,9,AIDS,48.262
+21:09,10,ابو جبل,
+21:39,1,Rush Limbaugh,615.689
+21:39,2,HappyBirthdayHoseok,755.753
+21:39,3,happybirthdayJHOPE,784.564
+21:39,4,HainlerTemizlenecek,12.337
+21:39,5,DemiDWTD,42.988
+21:39,6,Haaland,63.847
+21:39,7,Sadakatsiz,10.004
+21:39,8,Bentancur,
+21:39,9,AIDS,55.974
+21:39,10,Cruella,195.792
+22:09,1,Rush Limbaugh,666.188
+22:09,2,Haaland,136.794
+22:09,3,Juventus,80.412
+22:09,4,DemiDWTD,55.228
+22:09,5,HappyBirthdayHoseok,770.429
+22:09,6,Sadakatsiz,11.827
+22:09,7,OhNoNoBein,56.716
+22:09,8,SEVBVB,16.503
+22:09,9,Sevilla,83.667
+22:09,10,Bentancur,11.576
+22:39,1,Rush Limbaugh,707.201
+22:39,2,Haaland,159.939
+22:39,3,Juventus,97.363
+22:39,4,DemiDWTD,60.917
+22:39,5,Ronaldo,188.397
+22:39,6,OMOGCN,18.310
+22:39,7,HappyBirthdayHoseok,783.923
+22:39,8,Sadakatsiz,12.840
+22:39,9,SEVBVB,18.002
+22:39,10,AIDS,68.639
+23:09,1,Rush Limbaugh,746.834
+23:09,2,NintendoDirect,63.639
+23:09,3,Haaland,175.333
+23:09,4,Porto,145.354
+23:09,5,Ronaldo,199.251
+23:09,6,OMOGCN,22.917
+23:09,7,DemiDWTD,65.750
+23:09,8,PartidoFinalxTNTSports,
+23:09,9,Smash,165.092
+23:09,10,SEVBVB,19.601
+23:39,1,NintendoDirect,105.792
+23:39,2,Rush Limbaugh,782.806
+23:39,3,Mario Golf,30.432
+23:39,4,Haaland,188.662
+23:39,5,Porto,159.132
+23:39,6,Ronaldo,225.515
+23:39,7,Smash,187.264
+23:39,8,Pyra,28.156
+23:39,9,PartidoFinalxTNTSports,
+23:39,10,Fall Guys,18.135

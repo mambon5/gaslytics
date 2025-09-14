@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,500MilSalariosRosas,87.470
+00:10,2,Rihanna,222.508
+00:10,3,KohLanta,33.392
+00:10,4,GivingTuesday,239.146
+00:10,5,SecretCuentaAtrás12,23.183
+00:10,6,كلنا_ابو_تريكه,34.804
+00:10,7,Phil,47.610
+00:10,8,Dolar 14,30.744
+00:10,9,Newcastle,30.828
+00:10,10,Claude,16.816
+00:40,1,500MilSalariosRosas,96.502
+00:40,2,Rihanna,231.982
+00:40,3,KohLanta,34.087
+00:40,4,كلنا_ابو_تريكه,50.440
+00:40,5,SecretCuentaAtrás12,33.288
+00:40,6,GivingTuesday,245.587
+00:40,7,Phil,49.452
+00:40,8,Salvio,
+00:40,9,Diego Alves,
+00:40,10,Dolar 14,31.386
+01:10,1,500MilSalariosRosas,104.568
+01:10,2,Rihanna,240.265
+01:10,3,KohLanta,34.455
+01:10,4,كلنا_ابو_تريكه,62.246
+01:10,5,SecretCuentaAtrás12,39.273
+01:10,6,Chris Cuomo,65.560
+01:10,7,Juventude,11.573
+01:10,8,GivingTuesday,249.514
+01:10,9,Ceará,28.753
+01:10,10,Cardona,
+01:40,1,500MilSalariosRosas,111.060
+01:40,2,Rihanna,250.709
+01:40,3,Ceará,34.398
+01:40,4,كلنا_ابو_تريكه,70.202
+01:40,5,Chris Cuomo,77.807
+01:40,6,KohLanta,34.672
+01:40,7,SecretCuentaAtrás12,46.320
+01:40,8,Juventude,12.777
+01:40,9,WhyIChime,
+01:40,10,Cardona,
+02:10,1,500MilSalariosRosas,116.809
+02:10,2,Ceará,42.949
+02:10,3,Rihanna,258.932
+02:10,4,Matheusinho,
+02:10,5,Chris Cuomo,82.798
+02:10,6,كلنا_ابو_تريكه,77.289
+02:10,7,Ramon,22.179
+02:10,8,SecretCuentaAtrás12,52.375
+02:10,9,Juventude,12.776
+02:10,10,WhyIChime,
+02:40,1,500MilSalariosRosas,122.157
+02:40,2,Ceará,45.909
+02:40,3,Rihanna,267.944
+02:40,4,TheBachelorette,
+02:40,5,Harden,14.259
+02:40,6,Chris Cuomo,90.698
+02:40,7,Matheusinho,
+02:40,8,كلنا_ابو_تريكه,84.391
+02:40,9,Ramon,23.099
+02:40,10,Maracanã,42.245
+03:10,1,500MilSalariosRosas,126.340
+03:10,2,Harden,19.379
+03:10,3,TheBachelorette,
+03:10,4,Ceará,46.244
+03:10,5,MasterChefBR,
+03:10,6,Chris Cuomo,93.699
+03:10,7,Rihanna,275.262
+03:10,8,RojoSenadorMV,
+03:10,9,Knicks,18.325
+03:10,10,Matheusinho,
+03:40,1,RoçaAFazenda,17.281
+03:40,2,TheBachelorette,11.815
+03:40,3,500MilSalariosRosas,129.744
+03:40,4,Harden,21.325
+03:40,5,Knicks,22.128
+03:40,6,MasterChefBR,
+03:40,7,RojoSenadorMV,
+03:40,8,Ceará,47.088
+03:40,9,Chris Cuomo,99.304
+03:40,10,Rihanna,283.706
+04:10,1,RoçaAFazenda,54.314
+04:10,2,Solange,25.443
+04:10,3,Knicks,28.516
+04:10,4,TheBachelorette,15.892
+04:10,5,Harden,24.246
+04:10,6,MasterChefBR,
+04:10,7,500MilSalariosRosas,132.882
+04:10,8,Randle,10.527
+04:10,9,Veron,
+04:10,10,Fournier,
+04:40,1,RoçaAFazenda,75.736
+04:40,2,Solange,29.989
+04:40,3,Knicks,30.858
+04:40,4,Jordan Poole,
+04:40,5,TheBachelorette,16.586
+04:40,6,MasterChefBR,
+04:40,7,Harden,25.710
+04:40,8,Warriors,75.604
+04:40,9,500MilSalariosRosas,135.844
+04:40,10,Veron,
+05:10,1,RoçaAFazenda,80.492
+05:10,2,Solange,32.206
+05:10,3,Knicks,31.712
+05:10,4,MasterChefBR,
+05:10,5,Jordan Poole,
+05:10,6,Warriors,79.983
+05:10,7,TheBachelorette,17.055
+05:10,8,Suns,42.651
+05:10,9,Harden,26.194
+05:10,10,Booker,10.185
+05:40,1,RoçaAFazenda,82.677
+05:40,2,Solange,33.310
+05:40,3,Warriors,84.226
+05:40,4,Knicks,32.482
+05:40,5,Jordan Poole,
+05:40,6,MasterChefBR,
+05:40,7,500MilSalariosRosas,145.773
+05:40,8,TheBachelorette,17.504
+05:40,9,Suns,47.236
+05:40,10,chucky,25.808
+06:10,1,taegi,23.286
+06:10,2,RoçaAFazenda,83.872
+06:10,3,Duke,40.686
+06:10,4,Warriors,87.790
+06:10,5,Jordan Poole,
+06:10,6,500MilSalariosRosas,150.553
+06:10,7,Solange,34.116
+06:10,8,Suns,50.569
+06:10,9,Curry,41.758
+06:10,10,Knicks,32.857
+06:40,1,Warriors,100.460
+06:40,2,Suns,73.123
+06:40,3,taegi,32.058
+06:40,4,Curry,50.490
+06:40,5,Steph,44.197
+06:40,6,RoçaAFazenda,84.706
+06:40,7,Duke,43.397
+06:40,8,Booker,15.109
+06:40,9,Poole,19.615
+06:40,10,500MilSalariosRosas,152.850
+07:10,1,Warriors,102.662
+07:10,2,Suns,79.664
+07:10,3,taegi,37.574
+07:10,4,Curry,52.027
+07:10,5,Steph,46.138
+07:10,6,Duke,44.258
+07:10,7,JusticeForRailwayStudents,1.883.350
+07:10,8,WorldAIDSDay,39.116
+07:10,9,RoçaAFazenda,85.248
+07:10,10,Booker,15.933
+07:40,1,WorldAIDSDay,42.795
+07:40,2,Warriors,104.675
+07:40,3,Suns,83.473
+07:40,4,taegi,41.007
+07:40,5,JusticeForRailwayStudents,2.571.750
+07:40,6,MSSGlobalCollab,59.060
+07:40,7,Curry,53.570
+07:40,8,Steph,47.727
+07:40,9,リアル二刀流,
+07:40,10,Duke,45.366
+08:10,1,WorldAIDSDay,46.732
+08:10,2,JusticeForRailwayStudents,3.165.764
+08:10,3,taegi,44.126
+08:10,4,MSSGlobalCollab,94.461
+08:10,5,Warriors,104.993
+08:10,6,Suns,85.538
+08:10,7,はじめてプレイしたポケモン言ってけ,
+08:10,8,Curry,53.635
+08:10,9,リアル二刀流,
+08:10,10,Steph,48.033
+08:40,1,中村吉右衛門さん死去,
+08:40,2,WorldAIDSDay,51.134
+08:40,3,歌舞伎俳優,
+08:40,4,文化功労者・人間国宝,
+08:40,5,عسل_تهامه_ليالي_عبير1,
+08:40,6,JusticeForRailwayStudents,3.595.261
+08:40,7,はじめてプレイしたポケモン言ってけ,
+08:40,8,MSSGlobalCollab,125.012
+08:40,9,Happy New Month,36.019
+08:40,10,taegi,47.003
+09:10,1,中村吉右衛門,17.484
+09:10,2,WorldAIDSDay,55.029
+09:10,3,歌舞伎俳優,11.855
+09:10,4,文化功労者・人間国宝,
+09:10,5,SpotifyWrapped,13.766
+09:10,6,はじめてプレイしたポケモン言ってけ,
+09:10,7,JusticeForRailwayStudents,3.937.789
+09:10,8,GMMTV2022,90.352
+09:10,9,鬼平犯科帳,
+09:10,10,Happy New Month,41.557
+09:40,1,中村吉右衛門,22.132
+09:40,2,WorldAIDSDay,59.473
+09:40,3,歌舞伎俳優,14.979
+09:40,4,文化功労者・人間国宝,
+09:40,5,ZETA,32.402
+09:40,6,SpotifyWrapped,15.771
+09:40,7,はじめてプレイしたポケモン言ってけ,
+09:40,8,GMMTV2022,115.877
+09:40,9,IveHasArrived,34.854
+09:40,10,鬼平犯科帳,
+10:10,1,WorldAIDSDay,64.133
+10:10,2,中村吉右衛門,25.818
+10:10,3,GMMTV2022,153.748
+10:10,4,ZETA,39.997
+10:10,5,IveHasArrived,57.718
+10:10,6,원투쓰리_아이브_데뷔축하해,58.871
+10:10,7,はじめてプレイしたポケモン言ってけ,
+10:10,8,歌舞伎俳優,17.233
+10:10,9,IVE IS BORN,56.280
+10:10,10,文化功労者・人間国宝,
+10:40,1,GMMTV2022,238.761
+10:40,2,RushHour5thWin,18.922
+10:40,3,WorldAIDSDay,69.181
+10:40,4,FNS歌謡祭,151.861
+10:40,5,IveHasArrived,69.163
+10:40,6,中村吉右衛門,28.768
+10:40,7,ZETA,44.821
+10:40,8,IVE IS BORN,65.986
+10:40,9,歌舞伎俳優,18.725
+10:40,10,IVE DEBUT DAY,45.895
+11:10,1,FNS歌謡祭,276.693
+11:10,2,カウコン,29.929
+11:10,3,祝_僕らの季節TV初披露,72.575
+11:10,4,GMMTV2022,296.031
+11:10,5,RushHour5thWin,29.652
+11:10,6,WorldAIDSDay,74.137
+11:10,7,中村吉右衛門,31.315
+11:10,8,ZETA,47.740
+11:10,9,IVE IS BORN,70.929
+11:10,10,KinKi,34.786
+11:40,1,FNS歌謡祭,370.978
+11:40,2,カウコン,50.004
+11:40,3,GMMTV2022,406.684
+11:40,4,祝_僕らの季節TV初披露,127.635
+11:40,5,RushHour5thWin,34.678
+11:40,6,WorldAIDSDay,78.938
+11:40,7,KinKi,48.261
+11:40,8,ZETA,51.175
+11:40,9,中村吉右衛門,33.456
+11:40,10,IVE IS BORN,74.071
+12:10,1,FNS歌謡祭,443.228
+12:10,2,カウコン,65.616
+12:10,3,GMMTV2022,503.277
+12:10,4,まんが王国お得爆発DAY,
+12:10,5,全マンガ最大80パーセント還元,
+12:10,6,まんが王国はお得感No1,
+12:10,7,一気読み,
+12:10,8,ユメヲカケル,41.254
+12:10,9,KinKi,55.744
+12:10,10,ZETA,53.853
+12:40,1,FNS歌謡祭,520.123
+12:40,2,カウコン,75.115
+12:40,3,GMMTV2022,613.951
+12:40,4,まんが王国はお得感No1,
+12:40,5,まんが王国お得爆発DAY,
+12:40,6,全マンガ最大80パーセント還元,
+12:40,7,一気読み,
+12:40,8,ユメヲカケル,46.593
+12:40,9,KinKi,61.337
+12:40,10,セクシー,43.153
+13:10,1,FNS歌謡祭,579.715
+13:10,2,カウコン,81.037
+13:10,3,GMMTV2022,707.977
+13:10,4,まんが王国はお得感No1,
+13:10,5,まんが王国お得爆発DAY,
+13:10,6,全マンガ最大80パーセント還元,
+13:10,7,一気読み,
+13:10,8,ユメヲカケル,49.763
+13:10,9,VOTE WITH LUV ARMY,67.592
+13:10,10,セクシー,47.650
+13:40,1,FNS歌謡祭,636.188
+13:40,2,カウコン,85.573
+13:40,3,GMMTV2022,830.268
+13:40,4,全マンガ最大80パーセント還元,
+13:40,5,まんが王国お得爆発DAY,
+13:40,6,まんが王国はお得感No1,
+13:40,7,一気読み,
+13:40,8,VOTE WITH LUV ARMY,82.472
+13:40,9,ユメヲカケル,51.810
+13:40,10,セクシー,52.221
+14:10,1,FNS歌謡祭,691.690
+14:10,2,GMMTV2022,981.507
+14:10,3,カウコン,89.153
+14:10,4,全マンガ最大80パーセント還元,
+14:10,5,まんが王国お得爆発DAY,
+14:10,6,まんが王国はお得感No1,
+14:10,7,一気読み,
+14:10,8,VOTE WITH LUV ARMY,91.736
+14:10,9,セクシー,54.776
+14:10,10,ユメヲカケル,53.218
+14:40,1,FNS歌謡祭,769.108
+14:40,2,GMMTV2022,1.134.638
+14:40,3,カウコン,92.002
+14:40,4,Öğretmene3BinTLZam,31.042
+14:40,5,VS魂,42.736
+14:40,6,SağlıkçınınOyuYok,57.799
+14:40,7,King Gnu,24.906
+14:40,8,一気読み,
+14:40,9,風間くん,
+14:40,10,VOTE WITH LUV ARMY,98.891
+15:10,1,FNS歌謡祭,896.485
+15:10,2,GMMTV2022,1.276.731
+15:10,3,和田アキ子さん_JO1,109.690
+15:10,4,カウコン,94.108
+15:10,5,Öğretmene3BinTLZam,41.646
+15:10,6,恋です,31.710
+15:10,7,King Gnu,28.232
+15:10,8,一気読み,
+15:10,9,André Mendonça,14.317
+15:10,10,VOTE WITH LUV ARMY,105.522
+15:40,1,SpotifyWrapped,81.019
+15:40,2,FNS歌謡祭2021,62.492
+15:40,3,GMMTV2022,1.444.482
+15:40,4,和田アキ子さん_JO1,140.619
+15:40,5,Öğretmene3BinTLZam,50.176
+15:40,6,カウコン,96.008
+15:40,7,KinKi,92.518
+15:40,8,愛のかたまり,21.371
+15:40,9,King Gnu,30.140
+15:40,10,André Mendonça,16.845
+16:10,1,SpotifyWrapped,168.433
+16:10,2,FNS歌謡祭2021,65.191
+16:10,3,GMMTV2022,1.585.504
+16:10,4,DreamingWithNCTDREAM,107.023
+16:10,5,Öğretmene3BinTLZam,57.553
+16:10,6,カウコン,97.229
+16:10,7,KinKi,96.238
+16:10,8,愛のかたまり,23.647
+16:10,9,André Mendonça,19.002
+16:10,10,King Gnu,30.352
+16:40,1,SpotifyWrapped,300.853
+16:40,2,DreamingWithNCTDREAM,138.998
+16:40,3,FNS歌謡祭2021,66.737
+16:40,4,GMMTV2022,1.753.765
+16:40,5,Öğretmene3BinTLZam,64.553
+16:40,6,Justice Sotomayor,
+16:40,7,Apple Music,305.202
+16:40,8,André Mendonça,21.438
+16:40,9,カウコン,98.047
+16:40,10,愛のかたまり,24.778
+17:10,1,SpotifyWrapped,437.188
+17:10,2,DreamingWithNCTDREAM,147.715
+17:10,3,Apple Music,295.616
+17:10,4,olivia rodrigo,14.688
+17:10,5,FNS歌謡祭2021,67.559
+17:10,6,GMMTV2022,1.829.460
+17:10,7,Öğretmene3BinTLZam,72.226
+17:10,8,Justice Sotomayor,11.301
+17:10,9,わたしのナンバーワン,
+17:10,10,Dick Pound,
+17:40,1,SpotifyWrapped,554.076
+17:40,2,we_support_abotreka,499.620
+17:40,3,Apple Music,308.548
+17:40,4,olivia rodrigo,17.321
+17:40,5,DreamingWithNCTDREAM,150.883
+17:40,6,yozgat,
+17:40,7,Öğretmene3BinTLZam,80.014
+17:40,8,わたしのナンバーワン,
+17:40,9,Dick Pound,
+17:40,10,Justice Sotomayor,15.911
+18:10,1,SpotifyWrapped,656.655
+18:10,2,we_support_abotreka,777.604
+18:10,3,Apple Music,303.623
+18:10,4,olivia rodrigo,19.125
+18:10,5,SCOTUS,21.052
+18:10,6,CRWIN,21.707
+18:10,7,yozgat,
+18:10,8,Supreme Court,116.714
+18:10,9,わたしのナンバーワン,
+18:10,10,Dick Pound,
+18:40,1,SpotifyWrapped,740.764
+18:40,2,we_support_abotreka,976.111
+18:40,3,Apple Music,313.840
+18:40,4,olivia rodrigo,21.202
+18:40,5,CRWIN,23.685
+18:40,6,SCOTUS,24.102
+18:40,7,乃木坂46ANN,21.540
+18:40,8,Supreme Court,130.955
+18:40,9,Dick Pound,
+18:40,10,わたしのナンバーワン,
+19:10,1,SpotifyWrapped,812.515
+19:10,2,we_support_abotreka,1.102.199
+19:10,3,Apple Music,309.395
+19:10,4,olivia rodrigo,22.369
+19:10,5,SCOTUS,27.390
+19:10,6,CRWIN,24.913
+19:10,7,Supreme Court,142.362
+19:10,8,乃木坂46ANN,26.336
+19:10,9,Wade,82.928
+19:10,10,Dick Pound,
+19:40,1,SpotifyWrapped,875.761
+19:40,2,we_support_abotreka,1.166.272
+19:40,3,Apple Music,318.052
+19:40,4,olivia rodrigo,23.866
+19:40,5,SCOTUS,91.739
+19:40,6,Supreme Court,155.953
+19:40,7,CRWIN,25.530
+19:40,8,yozgat,10.407
+19:40,9,乃木坂46ANN,26.812
+19:40,10,Wade,90.847
+20:10,1,SpotifyWrapped,928.684
+20:10,2,Apple Music,314.385
+20:10,3,we_support_abotreka,1.211.144
+20:10,4,Supreme Court,166.079
+20:10,5,SCOTUS,97.131
+20:10,6,olivia rodrigo,24.824
+20:10,7,CRWIN,26.283
+20:10,8,ElifAda,
+20:10,9,yozgat,11.717
+20:10,10,Drake,77.448
+20:40,1,SpotifyWrapped,969.297
+20:40,2,Apple Music,321.554
+20:40,3,we_support_abotreka,1.244.601
+20:40,4,JKLive,
+20:40,5,Supreme Court,178.960
+20:40,6,SCOTUS,103.887
+20:40,7,Olivia Rodrigo,26.152
+20:40,8,InterSpezia,
+20:40,9,ElifAda,
+20:40,10,Drake,79.961
+21:10,1,SpotifyWrapped,1.011.651
+21:10,2,Apple Music,317.557
+21:10,3,we_support_abotreka,1.266.637
+21:10,4,WATCHE,20.212
+21:10,5,Watford,27.906
+21:10,6,JKLive,
+21:10,7,السعوديه_الاردن,30.745
+21:10,8,Supreme Court,186.415
+21:10,9,SCOTUS,108.387
+21:10,10,Olivia Rodrigo,26.790
+21:40,1,Spotify,2.076.060
+21:40,2,EVELIV,20.903
+21:40,3,Everton,67.118
+21:40,4,Apple Music,323.767
+21:40,5,WATCHE,26.682
+21:40,6,Hendo,
+21:40,7,Saul,16.705
+21:40,8,Watford,33.041
+21:40,9,we_support_abotreka,1.286.556
+21:40,10,السعوديه_الاردن,38.645
+22:10,1,Spotify,2.431.939
+22:10,2,minecraftmanhunt,21.546
+22:10,3,Saul,26.412
+22:10,4,EVELIV,26.616
+22:10,5,Everton,75.499
+22:10,6,WATCHE,32.682
+22:10,7,Watford,39.311
+22:10,8,Apple Music,320.449
+22:10,9,السعوديه_الاردن,46.120
+22:10,10,Hendo,
+22:40,1,Spotify,2.199.319
+22:40,2,minecraftmanhunt,62.600
+22:40,3,Saul,29.959
+22:40,4,EVELIV,28.542
+22:40,5,Everton,79.152
+22:40,6,WATCHE,36.823
+22:40,7,Watford,42.908
+22:40,8,Apple Music,326.636
+22:40,9,السعوديه_الاردن,49.440
+22:40,10,Hendo,
+23:10,1,Spotify,1.958.359
+23:10,2,minecraftmanhunt,84.880
+23:10,3,EVELIV,35.498
+23:10,4,Everton,87.582
+23:10,5,Saul,30.844
+23:10,6,WatChe,42.524
+23:10,7,Liverpool,87.281
+23:10,8,Watford,46.465
+23:10,9,LaIslaDeLasTentaciones4,10.229
+23:10,10,Jota,24.182
+23:40,1,Spotify,2.333.166
+23:40,2,minecraftmanhunt,87.930
+23:40,3,EVELIV,39.800
+23:40,4,Everton,97.605
+23:40,5,Liverpool,99.948
+23:40,6,Saul,33.604
+23:40,7,LaIslaDeLasTentaciones4,17.532
+23:40,8,WatChe,45.271
+23:40,9,Jota,28.098
+23:40,10,Watford,49.727

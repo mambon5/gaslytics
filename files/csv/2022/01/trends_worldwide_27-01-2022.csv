@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,BenidormFest,172.843
+00:10,2,SecretGala2,28.372
+00:10,3,Blanca Paloma,13.141
+00:10,4,Chanel,64.526
+00:10,5,Tanxugueiras,45.575
+00:10,6,Discord,1.541.208
+00:10,7,Cruzeiro,71.069
+00:10,8,Azúcar Moreno,
+00:10,9,Varry Brava,
+00:10,10,Supreme Court,278.797
+00:40,1,BenidormFest,200.514
+00:40,2,SecretGala2,35.357
+00:40,3,Tanxugueiras,59.147
+00:40,4,Chanel,71.145
+00:40,5,Blanca Paloma,14.545
+00:40,6,Azúcar Moreno,11.132
+00:40,7,吉右衛門ちゃん,
+00:40,8,Discord,1.569.033
+00:40,9,Cruzeiro,73.362
+00:40,10,Supreme Court,293.590
+01:10,1,BenidormFest,210.505
+01:10,2,SecretGala2,44.450
+01:10,3,Tanxugueiras,65.058
+01:10,4,Spotify,840.723
+01:10,5,Chanel,72.747
+01:10,6,Blanca Paloma,15.152
+01:10,7,SecureTheTribe,15.760
+01:10,8,Neil Young,145.227
+01:10,9,吉右衛門ちゃん,
+01:10,10,Supreme Court,303.975
+01:40,1,BenidormFest,215.520
+01:40,2,SecretGala2,53.448
+01:40,3,Spotify,874.655
+01:40,4,numanice2,
+01:40,5,SecureTheTribe,20.320
+01:40,6,Neil Young,157.437
+01:40,7,Tanxugueiras,68.102
+01:40,8,Chanel,75.017
+01:40,9,Supreme Court,317.121
+01:40,10,Blanca Paloma,15.450
+02:10,1,BenidormFest,218.610
+02:10,2,Spotify,874.022
+02:10,3,André,63.569
+02:10,4,SecretGala2,63.119
+02:10,5,numanice2,
+02:10,6,SecureTheTribe,26.022
+02:10,7,Jeopardy,
+02:10,8,Neil Young,162.008
+02:10,9,Flamengo,98.872
+02:10,10,Baco,15.851
+02:40,1,AEWDynamite,26.577
+02:40,2,Paulo Vieira,10.275
+02:40,3,BenidormFest,220.287
+02:40,4,Spotify,904.609
+02:40,5,André,69.427
+02:40,6,numanice2,
+02:40,7,SecureTheTribe,31.194
+02:40,8,Neil Young,174.470
+02:40,9,AEWBeachBreak,
+02:40,10,Flamengo,105.879
+03:10,1,AEWDynamite,34.041
+03:10,2,Paulo Vieira,12.943
+03:10,3,Spotify,905.690
+03:10,4,BenidormFest,221.274
+03:10,5,SecureTheTribe,36.582
+03:10,6,Lázaro,14.183
+03:10,7,Neil Young,179.572
+03:10,8,André,66.755
+03:10,9,numanice2,
+03:10,10,Flamengo,113.089
+03:40,1,AEWDynamite,42.366
+03:40,2,Paulo Vieira,14.239
+03:40,3,Spotify,937.384
+03:40,4,SecureTheTribe,42.043
+03:40,5,Flamengo,122.684
+03:40,6,Neil Young,190.861
+03:40,7,Cavs,25.427
+03:40,8,MAFS,
+03:40,9,BenidormFest,221.951
+03:40,10,numanice2,
+04:10,1,AEWDynamite,63.692
+04:10,2,Spotify,915.882
+04:10,3,Paulo Vieira,14.884
+04:10,4,SecureTheTribe,47.028
+04:10,5,MAFS,11.627
+04:10,6,Neil Young,194.778
+04:10,7,MarriedAtFirstSight,10.700
+04:10,8,Flamengo,121.628
+04:10,9,Cavs,27.749
+04:10,10,AEWBeachBreak,
+04:40,1,AEWDynamite,68.765
+04:40,2,Spotify,967.612
+04:40,3,SecureTheTribe,52.674
+04:40,4,Paulo Vieira,15.370
+04:40,5,Neil Young,204.424
+04:40,6,MAFS,12.466
+04:40,7,Danhausen,
+04:40,8,MarriedAtFirstSight,11.335
+04:40,9,Baco,26.925
+04:40,10,Cavs,29.558
+05:10,1,AEWDynamite,71.386
+05:10,2,Spotify,962.104
+05:10,3,SecureTheTribe,56.516
+05:10,4,Neil Young,207.309
+05:10,5,Danhausen,10.703
+05:10,6,Paulo Vieira,15.714
+05:10,7,カプリコーン杯,
+05:10,8,マシュー,14.772
+05:10,9,MAFS,12.953
+05:10,10,MixedJuice,33.546
+05:40,1,AEWDynamite,73.343
+05:40,2,SecureTheTribe,61.694
+05:40,3,Spotify,989.039
+05:40,4,マシュー,17.864
+05:40,5,Neil Young,215.191
+05:40,6,MixedJuice,37.103
+05:40,7,25 X,17.449
+05:40,8,カプリコーン杯,
+05:40,9,Danhausen,11.508
+05:40,10,Ludmila Ferber,
+06:10,1,Eslo,115.516
+06:10,2,Natália,150.586
+06:10,3,SecureTheTribe,67.908
+06:10,4,AEWDynamite,74.788
+06:10,5,Spotify,982.700
+06:10,6,マシュー,20.069
+06:10,7,Neil Young,218.245
+06:10,8,festabbb,
+06:10,9,25 X,17.077
+06:10,10,MixedJuice,39.579
+06:40,1,Eslo,124.428
+06:40,2,natalia,177.599
+06:40,3,SecureTheTribe,74.995
+06:40,4,AEWDynamite,76.101
+06:40,5,Spotify,1.004.535
+06:40,6,メンテ恒例,
+06:40,7,festabbb,
+06:40,8,マシュー,21.640
+06:40,9,カイドウ降臨,80.764
+06:40,10,Neil Young,223.897
+07:10,1,Eslo,126.121
+07:10,2,natalia,187.935
+07:10,3,SecureTheTribe,81.675
+07:10,4,AEWDynamite,77.116
+07:10,5,Spotify,996.504
+07:10,6,festabbb,10.070
+07:10,7,メンテ恒例,
+07:10,8,カイドウ降臨,89.950
+07:10,9,マシュー,23.182
+07:10,10,Neil Young,225.994
+07:40,1,SecureTheTribe,89.415
+07:40,2,Eslo,129.130
+07:40,3,Natália,193.169
+07:40,4,GoAvsGo,
+07:40,5,カイドウ降臨,98.725
+07:40,6,Spotify,1.014.944
+07:40,7,festabbb,11.114
+07:40,8,メンテ恒例,
+07:40,9,マヨさん,
+07:40,10,マシュー,24.377
+08:10,1,SecureTheTribe,96.814
+08:10,2,Eslo,130.595
+08:10,3,Natália,194.301
+08:10,4,BTOBIsComing,
+08:10,5,GoAvsGo,
+08:10,6,マヨさん,
+08:10,7,ジブリパーク,13.761
+08:10,8,香川県警,
+08:10,9,カイドウ降臨,107.283
+08:10,10,Spotify,1.007.653
+08:40,1,SecureTheTribe,106.010
+08:40,2,Eslo,131.762
+08:40,3,ジブリパーク,19.280
+08:40,4,GEORGE SIMP,
+08:40,5,BTOBIsComing,
+08:40,6,Natália,196.683
+08:40,7,ホロポケカップ,
+08:40,8,岸田ショック,
+08:40,9,マヨさん,
+08:40,10,香川県警,
+09:10,1,SecureTheTribe,118.143
+09:10,2,Tariq,32.026
+09:10,3,ジブリパーク,24.560
+09:10,4,Giornatadellamemoria,15.118
+09:10,5,naotalk,
+09:10,6,ホロポケカップ,
+09:10,7,WeRemember,16.828
+09:10,8,Eslo,132.267
+09:10,9,Arin,
+09:10,10,GEORGE SIMP,
+09:40,1,SecureTheTribe,132.427
+09:40,2,Tariq,42.796
+09:40,3,ジブリパーク,31.873
+09:40,4,naotalk,
+09:40,5,HolocaustMemorialDay,16.668
+09:40,6,Giornatadellamemoria,17.363
+09:40,7,WeRemember,19.488
+09:40,8,Africans,50.292
+09:40,9,アルセウス,92.626
+09:40,10,緊急事態宣言,26.309
+10:10,1,SecureTheTribe,149.813
+10:10,2,Tariq,52.914
+10:10,3,HolocaustMemorialDay,20.580
+10:10,4,ホロポケカップ,
+10:10,5,WeRemember,22.050
+10:10,6,ジブリパーク,38.759
+10:10,7,Giornatadellamemoria,18.825
+10:10,8,taekook,98.455
+10:10,9,Odera,
+10:10,10,Africans,52.612
+10:40,1,SecureTheTribe,167.852
+10:40,2,Tariq,65.696
+10:40,3,ホロポケカップ,17.634
+10:40,4,HolocaustMemorialDay,25.782
+10:40,5,GetWellSoonTREASURE,116.643
+10:40,6,WeRemember,25.043
+10:40,7,ジブリパーク,46.317
+10:40,8,taekook,115.168
+10:40,9,エリザベート,12.604
+10:40,10,Africans,56.888
+11:10,1,SecureTheTribe,186.232
+11:10,2,Tariq,77.361
+11:10,3,ホロポケカップ,25.773
+11:10,4,HolocaustMemorialDay,30.899
+11:10,5,GetWellSoonTREASURE,140.903
+11:10,6,WeRemember,27.533
+11:10,7,ジブリパーク,53.585
+11:10,8,エリザベート,17.327
+11:10,9,taekook,127.104
+11:10,10,アルセウス,100.661
+11:40,1,SecureTheTribe,205.040
+11:40,2,Tariq,90.379
+11:40,3,ホロポケカップ,31.337
+11:40,4,HolocaustMemorialDay,35.935
+11:40,5,サッカー日本代表,12.421
+11:40,6,Barry Cryer,
+11:40,7,VS魂,19.022
+11:40,8,ジブリパーク,60.417
+11:40,9,エリザベート,20.952
+11:40,10,アルセウス,107.518
+12:10,1,SecureTheTribe,226.030
+12:10,2,Tariq,102.776
+12:10,3,Barry Cryer,
+12:10,4,ホロポケカップ,38.520
+12:10,5,サッカー日本代表,15.530
+12:10,6,HolocaustMemorialDay,40.201
+12:10,7,VS魂,26.304
+12:10,8,ジブリパーク,66.947
+12:10,9,エリザベート,24.490
+12:10,10,アルセウス,109.600
+12:40,1,SecureTheTribe,245.952
+12:40,2,Tariq,117.343
+12:40,3,Barry Cryer,12.691
+12:40,4,サッカー日本代表,21.039
+12:40,5,ホロポケカップ,51.620
+12:40,6,シャニマス生配信,11.501
+12:40,7,HolocaustMemorialDay,44.546
+12:40,8,アルセウス,116.614
+12:40,9,ジブリパーク,72.524
+12:40,10,エリザベート,26.877
+13:10,1,SecureTheTribe,260.929
+13:10,2,Tariq,128.689
+13:10,3,サッカー日本代表,25.829
+13:10,4,Barry Cryer,15.238
+13:10,5,シャニマス生配信,20.885
+13:10,6,ホロポケカップ,59.607
+13:10,7,ナリタトップロード,
+13:10,8,HolocaustMemorialDay,49.202
+13:10,9,アルセウス,119.535
+13:10,10,ブルボン,17.445
+13:40,1,SecureTheTribe,272.717
+13:40,2,ナリタトップロード,22.580
+13:40,3,素のまんま,35.079
+13:40,4,Tariq,137.626
+13:40,5,サッカー日本代表,27.009
+13:40,6,Barry Cryer,17.379
+13:40,7,HolocaustMemorialDay,54.767
+13:40,8,ブルボン,27.842
+13:40,9,ホロポケカップ,68.707
+13:40,10,アルセウス,125.902
+14:10,1,ナリタトップロード,30.647
+14:10,2,となりのチカラ,53.585
+14:10,3,SecureTheTribe,280.268
+14:10,4,素のまんま,38.222
+14:10,5,ブルボン,34.171
+14:10,6,ElEncuentro,
+14:10,7,ホロポケカップ,77.656
+14:10,8,Barry Cryer,19.250
+14:10,9,Tariq,144.297
+14:10,10,アルセウス,129.390
+14:40,1,ナリタトップロード,37.652
+14:40,2,となりのチカラ,60.141
+14:40,3,ElEncuentro,12.952
+14:40,4,ブルボン,37.717
+14:40,5,SoyChollometristaATope,
+14:40,6,SecureTheTribe,286.208
+14:40,7,ダンカグハーフアニバーサリー,26.840
+14:40,8,Barry Cryer,20.852
+14:40,9,アルセウス,137.816
+14:40,10,Tariq,150.790
+15:10,1,ナリタトップロード,43.460
+15:10,2,ElEncuentro,15.994
+15:10,3,SoyChollometristaATope,
+15:10,4,SecureRivers,
+15:10,5,となりのチカラ,63.074
+15:10,6,ブルボン,39.973
+15:10,7,アルセウス,144.355
+15:10,8,ダンカグハーフアニバーサリー,31.740
+15:10,9,Barry Cryer,22.238
+15:10,10,Tariq,156.114
+15:40,1,iHeartAwards,55.950
+15:40,2,アルセウス,153.700
+15:40,3,SoyChollometristaATope,
+15:40,4,ナリタトップロード,46.585
+15:40,5,SecureRivers,
+15:40,6,ElEncuentro,18.396
+15:40,7,HolocaustMemorialDay,73.689
+15:40,8,ブルボン,41.880
+15:40,9,Barry Cryer,23.179
+15:40,10,TXT NOMINATION ON NMEAwards,12.698
+16:10,1,iHeartAwards,250.228
+16:10,2,BestFanArmy,123.490
+16:10,3,アルセウス,176.173
+16:10,4,BestMusicVideo,97.384
+16:10,5,MARK LEE,60.763
+16:10,6,BestLyrics,17.236
+16:10,7,SoyChollometristaATope,
+16:10,8,ナリタトップロード,48.824
+16:10,9,ブルボン,43.016
+16:10,10,ヒスイ地方,12.427
+16:40,1,iHeartAwards,500.449
+16:40,2,BestFanArmy,268.704
+16:40,3,Louies,68.987
+16:40,4,アルセウス,198.427
+16:40,5,BestMusicVideo,180.209
+16:40,6,MARK LEE,137.674
+16:40,7,BTSARMY,195.528
+16:40,8,タコピー,18.879
+16:40,9,Wordle 223,
+16:40,10,しずかちゃん,
+17:10,1,iHeartAwards,741.295
+17:10,2,BestFanArmy,425.252
+17:10,3,Louies,139.586
+17:10,4,アルセウス,209.223
+17:10,5,BestMusicVideo,246.076
+17:10,6,MARK LEE,173.078
+17:10,7,BTSARMY,256.592
+17:10,8,タコピー,28.728
+17:10,9,Wordle 223,
+17:10,10,しずかちゃん,12.210
+17:40,1,iHeartAwards,957.434
+17:40,2,BestFanArmy,566.760
+17:40,3,Louies,203.533
+17:40,4,BestMusicVideo,299.458
+17:40,5,アルセウス,217.579
+17:40,6,BTSARMY,311.310
+17:40,7,MARK LEE,189.490
+17:40,8,タコピー,35.326
+17:40,9,Big Ben,12.782
+17:40,10,Wordle 223,12.116
+18:10,1,iHeartAwards,1.146.049
+18:10,2,BestFanArmy,689.631
+18:10,3,Louies,253.261
+18:10,4,BestMusicVideo,348.863
+18:10,5,アルセウス,222.694
+18:10,6,BTSARMY,359.943
+18:10,7,タコピー,39.340
+18:10,8,Big Ben,14.342
+18:10,9,MARK LEE,197.024
+18:10,10,Marinho,34.835
+18:40,1,iHeartAwards,1.305.670
+18:40,2,BestFanArmy,784.821
+18:40,3,Louies,289.725
+18:40,4,BestMusicVideo,392.764
+18:40,5,Marinho,45.762
+18:40,6,FastFoodiesCheatDay,10.923
+18:40,7,アルセウス,227.250
+18:40,8,Big Ben,15.830
+18:40,9,Donda 2,
+18:40,10,タコピー,41.832
+19:10,1,iHeartAwards,1.440.746
+19:10,2,BestFanArmy,867.749
+19:10,3,Louies,320.373
+19:10,4,Marinho,52.992
+19:10,5,BestMusicVideo,428.217
+19:10,6,FastFoodiesCheatDay,16.405
+19:10,7,Donda 2,15.316
+19:10,8,アルセウス,230.267
+19:10,9,Big Ben,16.856
+19:10,10,タコピー,43.295
+19:40,1,iHeartAwards,1.560.392
+19:40,2,BestFanArmy,940.859
+19:40,3,Louies,353.347
+19:40,4,Marinho,58.337
+19:40,5,BestMusicVideo,460.546
+19:40,6,FastFoodiesCheatDay,18.419
+19:40,7,Donda 2,19.072
+19:40,8,Big Ben,17.914
+19:40,9,アルセウス,233.113
+19:40,10,Dinky,10.830
+20:10,1,iHeartAwards,1.666.502
+20:10,2,BestFanArmy,1.007.450
+20:10,3,Louies,380.035
+20:10,4,Marinho,62.356
+20:10,5,BestMusicVideo,488.165
+20:10,6,FastFoodiesCheatDay,19.759
+20:10,7,Donda 2,21.944
+20:10,8,Dinky,12.583
+20:10,9,Big Ben,18.615
+20:10,10,Jeff Garcia,
+20:40,1,iHeartAwards,1.761.112
+20:40,2,BestFanArmy,1.065.538
+20:40,3,السعوديه_عمان,96.637
+20:40,4,Louies,404.448
+20:40,5,Marinho,65.708
+20:40,6,JoyAwards,30.329
+20:40,7,Donda 2,24.626
+20:40,8,Dinky,13.596
+20:40,9,Big Ben,19.487
+20:40,10,Jeff Garcia,
+21:10,1,iHeartAwards,1.826.933
+21:10,2,BestFanArmy,1.118.330
+21:10,3,السعوديه_عمان,109.413
+21:10,4,Louies,425.600
+21:10,5,JoyAwards,35.890
+21:10,6,Marinho,68.056
+21:10,7,Donda 2,26.727
+21:10,8,Chambers,21.210
+21:10,9,Dinky,14.475
+21:10,10,Jeff Garcia,
+21:40,1,iHeartAwards,1.919.548
+21:40,2,BestFanArmy,1.165.539
+21:40,3,السعوديه_عمان,118.358
+21:40,4,JoyAwards,42.642
+21:40,5,Louies,444.950
+21:40,6,Marinho,70.790
+21:40,7,Chambers,25.643
+21:40,8,Donda 2,28.884
+21:40,9,Cedric,12.086
+21:40,10,Jeff Garcia,
+22:10,1,FaceABaba,44.155
+22:10,2,iHeartAwards,1.986.854
+22:10,3,BestFanArmy,1.212.448
+22:10,4,JoyAwards,48.864
+22:10,5,DocNelleTueMani2,
+22:10,6,Chambers,28.626
+22:10,7,Marinho,72.606
+22:10,8,Cedric,12.591
+22:10,9,Donda 2,30.712
+22:10,10,DIVA OUT NOW,12.793
+22:40,1,Alisson,19.680
+22:40,2,Coutinho,14.371
+22:40,3,FaceABaba,69.938
+22:40,4,iHeartAwards,2.055.594
+22:40,5,Emerson,18.104
+22:40,6,Equador,12.071
+22:40,7,TheApprentice,
+22:40,8,BestFanArmy,1.255.547
+22:40,9,JoyAwards,56.565
+22:40,10,Matheus Cunha,
+23:10,1,Alisson,23.512
+23:10,2,FaceABaba,87.234
+23:10,3,Coutinho,16.684
+23:10,4,TheApprentice,
+23:10,5,iHeartAwards,2.112.107
+23:10,6,Equador,14.551
+23:10,7,Emerson,19.768
+23:10,8,DocNelleTueMani2,18.896
+23:10,9,JoyAwards,64.373
+23:10,10,Matheus Cunha,
+23:40,1,Alisson,26.212
+23:40,2,FaceABaba,101.878
+23:40,3,Coutinho,17.609
+23:40,4,Equador,17.521
+23:40,5,BenidormFest,202.688
+23:40,6,Rigoberta,34.957
+23:40,7,TheApprentice,
+23:40,8,iHeartAwards,2.172.760
+23:40,9,DocNelleTueMani2,25.289
+23:40,10,Daniel Alves,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Corinthians,168.182
+00:10,2,ROGER GUEDES,35.631
+00:10,3,Indy500,229.339
+00:10,4,Rony,27.969
+00:10,5,PSOE,187.546
+00:10,6,EleccionesMunicipales,24.116
+00:10,7,PumpToken,78.841
+00:10,8,CTCF,21.689
+00:10,9,Erdogan,1.208.022
+00:10,10,Renato Augusto,19.073
+00:40,1,Corinthians,176.087
+00:40,2,ROGER GUEDES,37.087
+00:40,3,Pavon,
+00:40,4,PSOE,199.853
+00:40,5,Rony,30.500
+00:40,6,Indy500,231.468
+00:40,7,EleccionesMunicipales,27.139
+00:40,8,ConexiónHonduras13,24.451
+00:40,9,CTCF,23.958
+00:40,10,Sandy,38.666
+01:10,1,Corinthians,177.467
+01:10,2,ROGER GUEDES,37.735
+01:10,3,genlossfinale,16.185
+01:10,4,PSOE,205.411
+01:10,5,Pavon,
+01:10,6,ConexiónHonduras13,29.581
+01:10,7,Rony,31.378
+01:10,8,EleccionesMunicipales,29.283
+01:10,9,PumpToken,78.659
+01:10,10,Sandy,38.934
+01:40,1,Corinthians,181.763
+01:40,2,LOUDWIN,12.330
+01:40,3,genlossfinale,23.080
+01:40,4,ROGER GUEDES,38.473
+01:40,5,PSOE,212.705
+01:40,6,Pavon,
+01:40,7,サマパラ,
+01:40,8,ConexiónHonduras13,32.091
+01:40,9,Rony,32.586
+01:40,10,Hulk,17.798
+02:10,1,Corinthians,183.701
+02:10,2,AEWDoN,20.894
+02:10,3,LOUDWIN,13.335
+02:10,4,genlossfinale,27.453
+02:10,5,Florence,25.320
+02:10,6,AEWDoubleOrNothing,
+02:10,7,サマパラ,
+02:10,8,Medina,22.716
+02:10,9,PSOE,216.270
+02:10,10,roger guedes,38.952
+02:40,1,AEWDoN,30.140
+02:40,2,Corinthians,188.203
+02:40,3,Florence,27.913
+02:40,4,NXTBattleground,12.259
+02:40,5,あさイチ,
+02:40,6,LOUDWIN,13.830
+02:40,7,genlossfinale,29.814
+02:40,8,Medina,25.554
+02:40,9,Succession,93.857
+02:40,10,サマパラ,
+03:10,1,AEWDoN,46.654
+03:10,2,SuccessionHBO,
+03:10,3,Corinthians,190.090
+03:10,4,NXTBattleground,17.084
+03:10,5,Florence,29.883
+03:10,6,あさイチ,
+03:10,7,Bustos,
+03:10,8,genlossfinale,31.999
+03:10,9,サマパラ,
+03:10,10,Medina,25.807
+03:40,1,AEWDoN,55.833
+03:40,2,SuccessionHBO,
+03:40,3,NXTBattleground,23.190
+03:40,4,Corinthians,193.301
+03:40,5,Florence,31.402
+03:40,6,RHOA,10.232
+03:40,7,NIKKEラッキー7,
+03:40,8,Greg,46.423
+03:40,9,Shiv,35.822
+03:40,10,Kendall,30.802
+04:10,1,Chivas,108.276
+04:10,2,AEWDoN,69.967
+04:10,3,SuccessionHBO,14.373
+04:10,4,NXTBattleground,29.999
+04:10,5,Gignac,
+04:10,6,AEWDoubleOrNothing,11.807
+04:10,7,Greg,47.534
+04:10,8,Kendall,34.533
+04:10,9,NIKKEラッキー7,
+04:10,10,Shiv,39.037
+04:40,1,chivas,129.242
+04:40,2,Succession,39.890
+04:40,3,AEWDoN,86.479
+04:40,4,梅雨入り,51.250
+04:40,5,Gignac,
+04:40,6,Shiv,49.732
+04:40,7,Kendall,42.283
+04:40,8,NXTBattleground,36.814
+04:40,9,YoRecuerdo,
+04:40,10,AEWDoubleOrNothing,14.156
+05:10,1,Succession,58.571
+05:10,2,chivas,142.505
+05:10,3,梅雨入り,61.836
+05:10,4,AEWDoN,100.808
+05:10,5,Shiv,64.157
+05:10,6,Kendall,54.317
+05:10,7,Gignac,
+05:10,8,YoRecuerdo,10.022
+05:10,9,NXTBattleground,39.775
+05:10,10,Greg,51.781
+05:40,1,梅雨入り,77.230
+05:40,2,chivas,157.322
+05:40,3,Succession,70.290
+05:40,4,AEWDoN,116.049
+05:40,5,Shiv,75.141
+05:40,6,Kendall,65.655
+05:40,7,Gignac,12.305
+05:40,8,YoRecuerdo,10.856
+05:40,9,AEWDoubleOrNothing,18.245
+05:40,10,Barry,41.358
+06:10,1,梅雨入り,86.174
+06:10,2,chivas,169.331
+06:10,3,Succession,79.147
+06:10,4,AEWDoN,130.356
+06:10,5,Shiv,81.426
+06:10,6,Kendall,72.361
+06:10,7,Gignac,15.009
+06:10,8,Barry,44.491
+06:10,9,AEWDoubleOrNothing,20.533
+06:10,10,YoRecuerdo,11.186
+06:40,1,Chivas,222.919
+06:40,2,梅雨入り,92.021
+06:40,3,Succession,85.003
+06:40,4,Shiv,87.365
+06:40,5,Kendall,78.170
+06:40,6,AEWDoN,134.536
+06:40,7,Gignac,16.576
+06:40,8,Barry,47.370
+06:40,9,Córdova,15.818
+06:40,10,Gonzalo,23.852
+07:10,1,Chivas,254.141
+07:10,2,梅雨入り,97.329
+07:10,3,Succession,90.271
+07:10,4,Shiv,90.596
+07:10,5,Kendall,82.319
+07:10,6,Gignac,20.677
+07:10,7,AEWDoN,137.178
+07:10,8,Gonzalo,27.707
+07:10,9,ShopeeMaszeh,
+07:10,10,Barry,48.925
+07:40,1,Chivas,271.307
+07:40,2,梅雨入り,101.399
+07:40,3,Succession,94.438
+07:40,4,Shiv,94.402
+07:40,5,Kendall,86.088
+07:40,6,Gonzalo,29.841
+07:40,7,Gignac,23.294
+07:40,8,ShopeeMaszeh,
+07:40,9,Barry,50.670
+07:40,10,AEWDoN,139.094
+08:10,1,Chivas,282.292
+08:10,2,梅雨入り,104.899
+08:10,3,Succession,98.139
+08:10,4,Shiv,96.140
+08:10,5,Kendall,88.734
+08:10,6,Gonzalo,30.910
+08:10,7,Gignac,25.100
+08:10,8,Freen2MLove,40.642
+08:10,9,Barry,51.369
+08:10,10,ShopeeMaszeh,
+08:40,1,Chivas,290.483
+08:40,2,梅雨入り,109.362
+08:40,3,Succession,100.989
+08:40,4,Shiv,99.110
+08:40,5,Kendall,91.501
+08:40,6,Gonzalo,31.660
+08:40,7,Freen2MLove,47.400
+08:40,8,Barry,52.507
+08:40,9,ShopeeMaszeh,
+08:40,10,Gignac,26.673
+09:10,1,Chivas,295.997
+09:10,2,梅雨入り,112.625
+09:10,3,Succession,103.032
+09:10,4,Shiv,99.715
+09:10,5,Kendall,93.214
+09:10,6,ShopeeMaszeh,
+09:10,7,Freen2MLove,55.048
+09:10,8,istanbulunfethi,
+09:10,9,Gonzalo,32.017
+09:10,10,PayPayポイントを運用する,13.292
+09:40,1,梅雨入り,117.368
+09:40,2,Chivas,300.633
+09:40,3,Succession,105.181
+09:40,4,istanbulunfethi,
+09:40,5,MondayMotivation,
+09:40,6,Shiv,102.006
+09:40,7,これ言ったらどこの県か一発でバレる,24.209
+09:40,8,FERRAGAMOxJENO,24.633
+09:40,9,Kendall,95.136
+09:40,10,Gonzalo,32.447
+10:10,1,梅雨入り,122.160
+10:10,2,MadeinChinaCoin,
+10:10,3,Chivas,302.441
+10:10,4,istanbulunfethi,
+10:10,5,Succession,107.141
+10:10,6,MondayMotivation,10.803
+10:10,7,FERRAGAMOxJENO,48.723
+10:10,8,Fethi'nin 570,
+10:10,9,Fatih Sultan Mehmet Han,12.118
+10:10,10,Shiv,102.986
+10:40,1,梅雨入り,127.666
+10:40,2,MadeinChinaCoin,
+10:40,3,Chivas,304.612
+10:40,4,istanbulunfethi,
+10:40,5,MondayMotivation,12.047
+10:40,6,FERRAGAMOxJENO,77.063
+10:40,7,Succession,108.862
+10:40,8,Fatih Sultan Mehmet Han,15.659
+10:40,9,Peter Gregory Obi,35.115
+10:40,10,Pfingstmontag,
+11:10,1,梅雨入り,132.967
+11:10,2,MadeinChinaCoin,
+11:10,3,istanbulunfethi,
+11:10,4,Chivas,303.318
+11:10,5,MondayMotivation,13.250
+11:10,6,FERRAGAMOxJENO,102.726
+11:10,7,IVotedForPeterObi,30.221
+11:10,8,Fatih Sultan Mehmet Han,18.905
+11:10,9,カエルの鳴き声,20.871
+11:10,10,AIグラビア,
+11:40,1,梅雨入り,140.026
+11:40,2,istanbulunfethi,10.398
+11:40,3,MadeinChinaCoin,
+11:40,4,Pedro Sánchez,74.392
+11:40,5,InaugurationDay,10.153
+11:40,6,MondayMotivation,14.390
+11:40,7,FERRAGAMOxJENO,123.093
+11:40,8,Elecciones Generales,27.819
+11:40,9,Fethi'nin 570,
+11:40,10,CDTV,
+12:10,1,梅雨入り,145.463
+12:10,2,Pedro Sánchez,83.628
+12:10,3,岸田首相,73.268
+12:10,4,istanbulunfethi,12.452
+12:10,5,InaugurationDay,14.256
+12:10,6,政府発表,
+12:10,7,山本高義,
+12:10,8,PSOE,243.080
+12:10,9,総理秘書官,16.546
+12:10,10,MadeinChinaCoin,
+12:40,1,梅雨入り,152.058
+12:40,2,Pedro Sánchez,96.471
+12:40,3,岸田首相,84.911
+12:40,4,InaugurationDay,17.956
+12:40,5,istanbulunfethi,14.258
+12:40,6,政府発表,
+12:40,7,PSOE,253.543
+12:40,8,山本高義,
+12:40,9,総理秘書官,20.042
+12:40,10,CDTV,15.728
+13:10,1,NrkListing,
+13:10,2,梅雨入り,157.564
+13:10,3,Pedro Sánchez,102.587
+13:10,4,岸田首相,91.690
+13:10,5,InaugurationDay,20.979
+13:10,6,祝INI_4作連続ハーフミリオン,20.787
+13:10,7,みそきん再販,
+13:10,8,istanbulunfethi,16.002
+13:10,9,PSOE,256.029
+13:10,10,Nigeria,404.893
+13:40,1,NrkListing,
+13:40,2,梅雨入り,162.357
+13:40,3,Pedro Sánchez,108.706
+13:40,4,岸田首相,100.765
+13:40,5,みそきん再販,11.856
+13:40,6,祝INI_4作連続ハーフミリオン,25.587
+13:40,7,ボーナス,43.942
+13:40,8,istanbulunfethi,17.585
+13:40,9,InaugurationDay,23.573
+13:40,10,PSOE,264.586
+14:10,1,NrkListing,
+14:10,2,梅雨入り,167.471
+14:10,3,Pedro Sánchez,116.372
+14:10,4,ボーナス,51.405
+14:10,5,LUNA SEA,32.559
+14:10,6,MemorialDay,43.170
+14:10,7,みそきん再販,14.602
+14:10,8,岸田首相,106.019
+14:10,9,祝INI_4作連続ハーフミリオン,28.007
+14:10,10,花の契約,
+14:40,1,MemorialDay,50.256
+14:40,2,Pedro Sánchez,120.949
+14:40,3,NrkListing,
+14:40,4,梅雨入り,174.860
+14:40,5,教場0,14.122
+14:40,6,ボーナス,62.692
+14:40,7,MineCocoaLivexFreenBecky,43.619
+14:40,8,花の契約,12.772
+14:40,9,みそきん再販,16.741
+14:40,10,LUNA SEA,36.086
+15:10,1,MemorialDay,61.595
+15:10,2,教場0,22.882
+15:10,3,Qさま,11.943
+15:10,4,ボーナス,71.368
+15:10,5,Pedro Sánchez,125.897
+15:10,6,花の契約,16.588
+15:10,7,梅雨入り,179.599
+15:10,8,MineCocoaLivexFreenBecky,68.584
+15:10,9,DontEverSayLoveMe,134.984
+15:10,10,みそきん再販,18.476
+15:40,1,MemorialDay,73.186
+15:40,2,教場0,25.418
+15:40,3,Qさま,12.790
+15:40,4,ボーナス,81.437
+15:40,5,花の契約,19.848
+15:40,6,MineCocoaLivexFreenBecky,103.399
+15:40,7,Pedro Sánchez,136.698
+15:40,8,DontEverSayLoveMe,148.875
+15:40,9,Semarak Hardiknas,
+15:40,10,梅雨入り,184.617
+16:10,1,MemorialDay,87.425
+16:10,2,ボーナス,89.895
+16:10,3,教場0,27.035
+16:10,4,花の契約,22.638
+16:10,5,Qさま,13.249
+16:10,6,MineCocoaLivexFreenBecky,136.983
+16:10,7,月曜から夜ふかし,
+16:10,8,あんスタ,39.322
+16:10,9,Pedro Sánchez,142.251
+16:10,10,箱庭のコラル,
+16:40,1,MemorialDay,100.860
+16:40,2,ボーナス,98.358
+16:40,3,CSKvsGT,35.364
+16:40,4,教場0,28.315
+16:40,5,花の契約,24.886
+16:40,6,ゴールデンカムイ,19.561
+16:40,7,IPLFinal2023,
+16:40,8,あんスタ,43.093
+16:40,9,Dhoni,95.151
+16:40,10,精子探偵,
+17:10,1,MemorialDay,112.911
+17:10,2,豆原一成21歳無限大の可能性,36.741
+17:10,3,HappyMameDay,38.318
+17:10,4,bull0x,
+17:10,5,CSKvsGT,41.168
+17:10,6,ボーナス,104.346
+17:10,7,豆ちゃん,33.398
+17:10,8,Dhoni,109.445
+17:10,9,精子探偵,
+17:10,10,花の契約,26.519
+17:40,1,MemorialDay,126.113
+17:40,2,豆原一成21歳無限大の可能性,60.323
+17:40,3,HappyMameDay,65.905
+17:40,4,CSKvsGT,46.723
+17:40,5,SWEET_JACOB_DAY,17.520
+17:40,6,Barnsley,
+17:40,7,S-CLASS MV TEASER 2,25.444
+17:40,8,絶望招来,
+17:40,9,豆ちゃん,47.998
+17:40,10,ボーナス,109.326
+18:10,1,MemorialDay,137.529
+18:10,2,豆原一成21歳無限大の可能性,69.027
+18:10,3,HappyMameDay,77.561
+18:10,4,IPL2023Finals,21.579
+18:10,5,CSKvGT,133.199
+18:10,6,Sai Sudarshan,
+18:10,7,Barnsley,
+18:10,8,絶望招来,
+18:10,9,S-CLASS MV TEASER 2,30.516
+18:10,10,Dhoni,124.085
+18:40,1,MemorialDay,148.595
+18:40,2,Aeterna,
+18:40,3,IPL2023Finals,28.276
+18:40,4,CSKvGT,148.726
+18:40,5,豆原一成21歳無限大の可能性,72.215
+18:40,6,Barnsley,10.892
+18:40,7,Sai Sudarshan,
+18:40,8,絶望招来,
+18:40,9,Marinho,
+18:40,10,S-CLASS MV TEASER 2,32.174
+19:10,1,MemorialDay,157.619
+19:10,2,IPL2023Finals,32.314
+19:10,3,Barnsley,14.352
+19:10,4,Aeterna,
+19:10,5,CSKvGT,149.761
+19:10,6,豆原一成21歳無限大の可能性,74.081
+19:10,7,Marinho,11.460
+19:10,8,Sheffield Wednesday,12.802
+19:10,9,Sai Sudarshan,10.161
+19:10,10,絶望招来,
+19:40,1,MemorialDay,166.794
+19:40,2,IPL2023Finals,39.645
+19:40,3,CSKvGT,165.112
+19:40,4,Barnsley,15.247
+19:40,5,Aeterna,
+19:40,6,Marinho,13.747
+19:40,7,ين_مف,
+19:40,8,Sheffield Wednesday,15.609
+19:40,9,Darren Moore,
+19:40,10,Dwight,13.954
+20:10,1,Memorial Day,440.206
+20:10,2,CSKvGT,175.233
+20:10,3,IPL2023Finals,45.699
+20:10,4,Barnsley,15.796
+20:10,5,Aeterna,
+20:10,6,Marinho,15.019
+20:10,7,HappyMameDay,86.678
+20:10,8,ين_مف,
+20:10,9,Sheffield Wednesday,17.151
+20:10,10,ŞiddeteDurDe YalıÇapkını,43.242
+20:40,1,Memorial Day,462.915
+20:40,2,MuratiAINextShib,
+20:40,3,CSKvGT,188.329
+20:40,4,IPL2023Final,140.449
+20:40,5,Barnsley,16.375
+20:40,6,Marinho,16.279
+20:40,7,IPLFinal2023,21.620
+20:40,8,Aeterna,
+20:40,9,ŞiddeteDurDe YalıÇapkını,60.099
+20:40,10,Uganda,59.798
+21:10,1,Memorial Day,476.846
+21:10,2,CSKvsGT,68.772
+21:10,3,MuratiAINextShib,
+21:10,4,IPL2023Final,145.878
+21:10,5,Barnsley,16.663
+21:10,6,IPLFinal2023,22.743
+21:10,7,Marinho,17.115
+21:10,8,Uganda,62.500
+21:10,9,Aeterna,
+21:10,10,ŞiddeteDurDe YalıÇapkını,71.971
+21:40,1,Memorial Day,497.066
+21:40,2,IPL2023Finals,55.016
+21:40,3,CSKvGT,201.036
+21:40,4,MuratiAINextShib,
+21:40,5,IPLFinal2023,23.913
+21:40,6,Uganda,65.582
+21:40,7,Barnsley,17.009
+21:40,8,Rahane,
+21:40,9,Kosovo,48.835
+21:40,10,Marinho,17.833
+22:10,1,IPL2023Finals,63.830
+22:10,2,DubaiCoin,
+22:10,3,Memorial Day,495.845
+22:10,4,CSKvsGT,75.464
+22:10,5,IPLFinal2023,26.550
+22:10,6,Dhoni,165.543
+22:10,7,MuratiAINextShib,
+22:10,8,Dube,13.547
+22:10,9,Jadeja,15.397
+22:10,10,Uganda,67.664
+22:40,1,IPL2023Finals,103.950
+22:40,2,MSDhoni,55.651
+22:40,3,IPLFinal2023,39.443
+22:40,4,Jadeja,10.750
+22:40,5,CSKvsGT,94.646
+22:40,6,Memorial Day,528.486
+22:40,7,Congratulations CSK,18.251
+22:40,8,Mohit Sharma,
+22:40,9,Dube,18.553
+22:40,10,Rahane,16.980
+23:10,1,IPL2023Finals,124.576
+23:10,2,MSDhoni,68.997
+23:10,3,ChinaCoin,
+23:10,4,Jadeja,18.231
+23:10,5,CSKvsGT,106.332
+23:10,6,Memorial Day,540.188
+23:10,7,Congratulations CSK,26.586
+23:10,8,Nick Nurse,
+23:10,9,Mohit Sharma,10.288
+23:10,10,Uganda,72.054
+23:40,1,IPL2023Finals,132.481
+23:40,2,MSDhoni,74.888
+23:40,3,ChinaCoin,
+23:40,4,Jadeja,21.899
+23:40,5,CSKvsGT,113.065
+23:40,6,Memorial Day,559.070
+23:40,7,Nick Nurse,13.502
+23:40,8,Congratulations CSK,31.911
+23:40,9,Venezuela,380.686
+23:40,10,Pirlo,12.141

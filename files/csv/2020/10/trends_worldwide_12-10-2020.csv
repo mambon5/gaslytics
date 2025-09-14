@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,LaIslaDeLasTentaciones6,210.139
+00:09,2,Cowboys,66.620
+00:09,3,Raiders,138.750
+00:09,4,SARSMUSTEND,1.076.716
+00:09,5,NationalComingOutDay,279.736
+00:09,6,Giants,80.083
+00:09,7,Lester,27.282
+00:09,8,49ers,37.518
+00:09,9,Chiefs,106.762
+00:09,10,Jimmy G,11.009
+00:39,1,LaIslaDeLasTentaciones6,240.624
+00:39,2,Cowboys,73.144
+00:39,3,Raiders,143.523
+00:39,4,SARSMUSTEND,1.220.378
+00:39,5,NationalComingOutDay,291.270
+00:39,6,Giants,84.693
+00:39,7,Lester,34.413
+00:39,8,49ers,42.080
+00:39,9,Jimmy G,12.258
+00:39,10,Chiefs,109.557
+01:09,1,Cowboys,114.266
+01:09,2,LaIslaDeLasTentaciones6,254.196
+01:09,3,Dak Prescott,59.842
+01:09,4,SARSMUSTEND,1.361.962
+01:09,5,Giants,89.365
+01:09,6,NationalComingOutDay,301.005
+01:09,7,Jerry Jones,18.800
+01:09,8,Raiders,146.826
+01:09,9,49ers,45.291
+01:09,10,NYGvsDAL,20.783
+01:39,1,Cowboys,137.039
+01:39,2,LaIslaDeLasTentaciones6,261.781
+01:39,3,Dak Prescott,80.082
+01:39,4,Browns,82.320
+01:39,5,SARSMUSTEND,1.471.696
+01:39,6,Giants,95.925
+01:39,7,Jerry Jones,24.576
+01:39,8,NationalComingOutDay,310.567
+01:39,9,49ers,50.186
+01:39,10,Andy Dalton,
+02:09,1,Cowboys,155.896
+02:09,2,Dak Prescott,92.289
+02:09,3,Giants,107.319
+02:09,4,Andy Dalton,14.462
+02:09,5,LaIslaDeLasTentaciones6,266.174
+02:09,6,Browns,94.484
+02:09,7,Dragic,19.363
+02:09,8,SARSMUSTEND,1.550.414
+02:09,9,NationalComingOutDay,319.253
+02:09,10,Jerry Jones,27.382
+02:39,1,Rondo,50.744
+02:39,2,Cowboys,166.662
+02:39,3,Dragic,25.468
+02:39,4,Dak Prescott,104.080
+02:39,5,Giants,110.914
+02:39,6,Browns,100.965
+02:39,7,Andy Dalton,15.532
+02:39,8,LaIslaDeLasTentaciones6,268.833
+02:39,9,SARSMUSTEND,1.606.430
+02:39,10,NationalComingOutDay,327.538
+03:09,1,Lakers,335.809
+03:09,2,Rondo,73.599
+03:09,3,LakeShow,60.074
+03:09,4,NBAFinals,93.489
+03:09,5,Cowboys,171.822
+03:09,6,Miami,251.638
+03:09,7,Dragic,27.680
+03:09,8,Dak Prescott,110.039
+03:09,9,Browns,105.715
+03:09,10,Andy Dalton,16.185
+03:39,1,Lakers,410.808
+03:39,2,LakeShow,75.340
+03:39,3,NBAFinals,117.047
+03:39,4,Rondo,94.812
+03:39,5,Corinthians,98.713
+03:39,6,Cowboys,175.849
+03:39,7,Miami,270.828
+03:39,8,Dragic,30.140
+03:39,9,Caruso,44.015
+03:39,10,Lomba,14.370
+04:09,1,Lakers,736.870
+04:09,2,LakeShow,144.069
+04:09,3,NBAFinals,190.857
+04:09,4,Lebron,349.856
+04:09,5,Kobe,161.724
+04:09,6,Rondo,114.092
+04:09,7,Corinthians,111.444
+04:09,8,Miami,276.862
+04:09,9,Cowboys,179.106
+04:09,10,LovecraftCountry,21.407
+04:39,1,Lakers,1.124.752
+04:39,2,Lebron,638.439
+04:39,3,LakeShow,220.009
+04:39,4,NBAFinals,303.261
+04:39,5,Kobe,297.354
+04:39,6,Rondo,132.441
+04:39,7,Corinthians,119.290
+04:39,8,JR Smith,32.929
+04:39,9,LovecraftCountry,28.462
+04:39,10,Miami,297.697
+05:09,1,Lakers,1.307.479
+05:09,2,Lebron,739.140
+05:09,3,LakeShow,256.092
+05:09,4,NBAFinals,346.841
+05:09,5,Kobe,352.472
+05:09,6,Rondo,142.447
+05:09,7,LovecraftCountry,33.862
+05:09,8,JR Smith,44.804
+05:09,9,Corinthians,122.989
+05:09,10,Dwight,74.765
+05:39,1,Lakers,1.380.657
+05:39,2,Lebron,802.748
+05:39,3,LakeShow,276.536
+05:39,4,Kobe,389.689
+05:39,5,NBAFinals,371.266
+05:39,6,Vikings,59.594
+05:39,7,Rondo,149.391
+05:39,8,Seahawks,83.905
+05:39,9,Russell Wilson,17.653
+05:39,10,LovecraftCountry,39.452
+06:09,1,Lakers,1.493.575
+06:09,2,Lebron,846.002
+06:09,3,LakeShow,292.262
+06:09,4,Kobe,421.044
+06:09,5,NBAFinals,389.952
+06:09,6,Vikings,66.987
+06:09,7,Seahawks,99.360
+06:09,8,Russell Wilson,22.568
+06:09,9,Rondo,161.358
+06:09,10,LovecraftCountry,45.202
+06:39,1,Lakers,1.511.677
+06:39,2,Lebron,884.266
+06:39,3,LakeShow,304.403
+06:39,4,Kobe,446.056
+06:39,5,NBAFinals,402.456
+06:39,6,Vikings,69.199
+06:39,7,LovecraftCountry,50.093
+06:39,8,Seahawks,104.609
+06:39,9,Russell Wilson,24.500
+06:39,10,Rondo,168.915
+07:09,1,Lakers,1.453.387
+07:09,2,Lebron,910.644
+07:09,3,LakeShow,313.623
+07:09,4,Kobe,464.965
+07:09,5,NBAFinals,411.512
+07:09,6,LovecraftCountry,53.907
+07:09,7,Vikings,70.183
+07:09,8,Seahawks,107.624
+07:09,9,Russell Wilson,25.629
+07:09,10,Rondo,174.000
+07:39,1,Lakers,1.436.689
+07:39,2,Lebron,933.256
+07:39,3,LakeShow,321.152
+07:39,4,Kobe,481.796
+07:39,5,NBAFinals,419.287
+07:39,6,powercut,
+07:39,7,LovecraftCountry,56.822
+07:39,8,Vikings,71.233
+07:39,9,Seahawks,110.050
+07:39,10,Russell Wilson,26.593
+08:09,1,Lakers,1.431.641
+08:09,2,Lebron,950.193
+08:09,3,LakeShow,327.493
+08:09,4,Kobe,494.059
+08:09,5,powercut,14.880
+08:09,6,NBAFinals,427.068
+08:09,7,ask_SKZ,16.159
+08:09,8,筒美京平さん,14.902
+08:09,9,LovecraftCountry,58.959
+08:09,10,Vikings,71.674
+08:39,1,Lakers,1.470.136
+08:39,2,powercut,23.052
+08:39,3,Lebron,966.381
+08:39,4,ask_SKZ,23.374
+08:39,5,LakeShow,334.868
+08:39,6,Kobe,506.025
+08:39,7,筒美京平さん,23.925
+08:39,8,SARSMUSTEND,2.576.452
+08:39,9,NBAFinals,434.303
+08:39,10,Raissa,104.914
+09:09,1,SARSMUSTEND,1.516.050
+09:09,2,powercut,30.628
+09:09,3,Lakers,1.504.692
+09:09,4,ask_SKZ,30.203
+09:09,5,筒美京平さん,29.911
+09:09,6,Lebron,977.740
+09:09,7,Kobe,514.402
+09:09,8,LakeShow,343.091
+09:09,9,pazartesi,
+09:09,10,Raissa,105.929
+09:39,1,SARSMUSTEND,2.016.922
+09:39,2,powercut,37.262
+09:39,3,ask_SKZ,36.365
+09:39,4,筒美京平さん,34.644
+09:39,5,Lakers,1.533.538
+09:39,6,MondayMotivation,25.625
+09:39,7,Lebron,990.053
+09:39,8,pazartesi,10.991
+09:39,9,Kobe,523.014
+09:39,10,Mumbai,135.429
+10:09,1,SARSMUSTEND,2.568.364
+10:09,2,powercut,42.847
+10:09,3,ask_SKZ,39.592
+10:09,4,筒美京平さん,38.569
+10:09,5,MondayMotivation,29.018
+10:09,6,12deOctubre,16.480
+10:09,7,Lakers,1.556.939
+10:09,8,Lebron,999.454
+10:09,9,Kobe,528.959
+10:09,10,Honey Bee,22.280
+10:39,1,SARSMUSTEND,2.834.104
+10:39,2,powercut,47.712
+10:39,3,MondayMotivation,32.581
+10:39,4,ask_SKZ,40.162
+10:39,5,12deOctubre,21.019
+10:39,6,筒美京平さん,42.049
+10:39,7,Lakers,1.576.869
+10:39,8,Lebron,1.008.453
+10:39,9,Mumbai,148.362
+10:39,10,SHOTARO,661.617
+11:09,1,SARSMUSTEND,2.558.459
+11:09,2,powercut,52.140
+11:09,3,MondayMotivation,36.398
+11:09,4,DiadelaHispanidad,17.725
+11:09,5,12deOctubre,25.831
+11:09,6,筒美京平さん,45.714
+11:09,7,Viva España,52.340
+11:09,8,Lakers,1.594.744
+11:09,9,Lebron,1.016.062
+11:09,10,Shotaro,647.743
+11:39,1,SARSMUSTEND,3.408.302
+11:39,2,NCT2020,1.960.607
+11:39,3,THELASTLIVE,15.449
+11:39,4,12deOctubre,31.453
+11:39,5,MondayMotivation,40.619
+11:39,6,Viva España,57.861
+11:39,7,筒美京平さん,48.834
+11:39,8,Lakers,1.611.092
+11:39,9,볼케이노,
+11:39,10,アルクトス,
+12:09,1,SARSMUSTEND,3.145.770
+12:09,2,NCT2020,2.076.948
+12:09,3,THELASTLIVE,21.974
+12:09,4,12deOctubre,37.421
+12:09,5,DiadelaHispanidad,26.904
+12:09,6,Viva España,62.523
+12:09,7,筒美京平さん,51.912
+12:09,8,Pilar,49.434
+12:09,9,From Home,208.757
+12:09,10,ジェイド,71.762
+12:39,1,SARSMUSTEND,3.140.409
+12:39,2,NCT2020,2.200.431
+12:39,3,THELASTLIVE,29.002
+12:39,4,ぐと打って最初に出てきた物が武器,
+12:39,5,12deOctubre,44.314
+12:39,6,Hispanidad,75.534
+12:39,7,ジェイド,81.047
+12:39,8,España,462.709
+12:39,9,Pilar,53.473
+12:39,10,筒美京平さん,54.752
+13:09,1,SARSMUSTEND,2.982.847
+13:09,2,ぐと打って最初に出てきた物が武器,
+13:09,3,NCT2020,2.267.709
+13:09,4,THELASTLIVE,36.298
+13:09,5,12deOctubre,51.325
+13:09,6,Hispanidad,83.394
+13:09,7,Viva España,73.600
+13:09,8,ジェイド,85.784
+13:09,9,Pilar,56.204
+13:09,10,筒美京平さん,57.599
+13:39,1,SARSMUSTEND,3.050.658
+13:39,2,THELASTLIVE,49.437
+13:39,3,ぐと打って最初に出てきた物が武器,
+13:39,4,欅坂46,69.149
+13:39,5,NCT2020,2.364.923
+13:39,6,Hispanidad,92.844
+13:39,7,España,487.295
+13:39,8,ジェイド,91.970
+13:39,9,Fatima,50.726
+13:39,10,筒美京平さん,60.424
+14:09,1,SARSMUSTEND,4.231.425
+14:09,2,THELASTLIVE,57.117
+14:09,3,ぐと打って最初に出てきた物が武器,
+14:09,4,ミリシタ色紙,
+14:09,5,ミリシタ感謝祭パンフレット,
+14:09,6,どらほー,
+14:09,7,Hispanidad,101.588
+14:09,8,España,491.998
+14:09,9,ジェイド,94.275
+14:09,10,筒美京平さん,62.968
+14:39,1,SARSMUSTEND,4.238.942
+14:39,2,ぐと打って最初に出てきた物が武器,
+14:39,3,THELASTLIVE,60.642
+14:39,4,ミリシタ色紙,
+14:39,5,十万円でできるかな,27.309
+14:39,6,どらほー,
+14:39,7,Hispanidad,111.604
+14:39,8,España,512.615
+14:39,9,ジェイド,98.722
+14:39,10,Pretender,
+15:09,1,SARSMUSTEND,1.768.972
+15:09,2,ぐと打って最初に出てきた物が武器,10.443
+15:09,3,THELASTLIVE,62.359
+15:09,4,SarsMustGo,877.061
+15:09,5,ミリシタ色紙,
+15:09,6,Hispanidad,120.759
+15:09,7,España,515.923
+15:09,8,どらほー,
+15:09,9,Pretender,
+15:09,10,ジェイド,100.257
+15:39,1,SARSMUSTEND,2.107.756
+15:39,2,ぐと打って最初に出てきた物が武器,11.946
+15:39,3,恋人に求める五大原則,
+15:39,4,RNPwithGULFDAY2,343.914
+15:39,5,BrightWinInboxEP6,133.264
+15:39,6,Hispanidad,130.599
+15:39,7,España,538.985
+15:39,8,Pretender,11.256
+15:39,9,どらほー,
+15:39,10,Nossa Senhora Aparecida,18.860
+16:09,1,SARSMUSTEND,2.572.193
+16:09,2,ぐと打って最初に出てきた物が武器,13.516
+16:09,3,JIMINDAY,54.049
+16:09,4,恋人に求める五大原則,
+16:09,5,IndigenousPeoplesDay,40.023
+16:09,6,Columbus,93.783
+16:09,7,España,542.076
+16:09,8,Pretender,11.911
+16:09,9,Vote Biden,244.400
+16:09,10,Nossa Senhora Aparecida,21.543
+16:39,1,JIMINDAY,91.033
+16:39,2,SARSMUSTEND,3.001.743
+16:39,3,HappyBirthdayJimin,99.169
+16:39,4,ぐと打って最初に出てきた物が武器,14.893
+16:39,5,恋人に求める五大原則,
+16:39,6,Columbus,107.063
+16:39,7,Mike Lee,25.588
+16:39,8,Vote Biden,258.890
+16:39,9,España,562.972
+16:39,10,Nossa Senhora Aparecida,23.946
+17:09,1,JIMINDAY,265.832
+17:09,2,HappyBirthdayJimin,297.492
+17:09,3,OurOctoberPrince,120.827
+17:09,4,jiminbirthday,63.472
+17:09,5,OurEternalSerendipity,98.746
+17:09,6,Columbus,120.615
+17:09,7,Joe Morgan,
+17:09,8,Mike Lee,39.254
+17:09,9,Ben Sasse,10.033
+17:09,10,Vote Biden,262.139
+17:39,1,HappyBirthdayJimin,902.063
+17:39,2,JIMINDAY,583.813
+17:39,3,OurOctoberPrince,373.386
+17:39,4,jiminbirthday,129.971
+17:39,5,OurEternalSerendipity,316.237
+17:39,6,Jiminie,124.496
+17:39,7,Park Jimin,266.622
+17:39,8,Joe Morgan,17.299
+17:39,9,NAYEON,151.837
+17:39,10,Columbus,138.480
+18:09,1,HappyBirthdayJimin,1.248.747
+18:09,2,JIMINDAY,776.094
+18:09,3,jiminbirthday,180.625
+18:09,4,OurOctoberPrince,491.573
+18:09,5,OurEternalSerendipity,415.505
+18:09,6,Jiminie,156.794
+18:09,7,Park Jimin,323.632
+18:09,8,Joe Morgan,25.293
+18:09,9,Columbus,160.825
+18:09,10,NAYEON,178.285
+18:39,1,HappyBirthdayJimin,1.433.442
+18:39,2,JIMINDAY,875.551
+18:39,3,jiminbirthday,210.360
+18:39,4,OurOctoberPrince,539.247
+18:39,5,OurEternalSerendipity,453.056
+18:39,6,Jiminie,180.298
+18:39,7,Park Jimin,360.220
+18:39,8,Joe Morgan,31.676
+18:39,9,Columbus,184.587
+18:39,10,하얀머리,31.265
+19:09,1,HappyBirthdayJimin,1.586.398
+19:09,2,JIMINDAY,948.821
+19:09,3,jiminbirthday,232.414
+19:09,4,OurOctoberPrince,569.574
+19:09,5,OurEternalSerendipity,476.694
+19:09,6,Jiminie,194.600
+19:09,7,Park Jimin,382.021
+19:09,8,Joe Morgan,36.484
+19:09,9,Columbus,206.290
+19:09,10,하얀머리,35.053
+19:39,1,HappyBirthdayJimin,1.692.143
+19:39,2,JIMINDAY,999.105
+19:39,3,jiminbirthday,248.062
+19:39,4,OurOctoberPrince,593.321
+19:39,5,OurEternalSerendipity,491.989
+19:39,6,Jiminie,203.685
+19:39,7,Park Jimin,402.058
+19:39,8,Columbus,234.040
+19:39,9,Joe Morgan,40.549
+19:39,10,Vote Biden,308.837
+20:09,1,HappyBirthdayJimin,1.768.023
+20:09,2,JIMINDAY,1.040.973
+20:09,3,jiminbirthday,259.572
+20:09,4,OurOctoberPrince,611.960
+20:09,5,OurEternalSerendipity,505.285
+20:09,6,Jiminie,210.357
+20:09,7,Columbus,264.528
+20:09,8,Park Jimin,412.107
+20:09,9,Joe Morgan,44.012
+20:09,10,Thanksgiving,149.742
+20:39,1,HappyBirthdayJimin,1.827.461
+20:39,2,JIMINDAY,1.075.875
+20:39,3,jiminbirthday,268.897
+20:39,4,OurOctoberPrince,626.253
+20:39,5,OurEternalSerendipity,513.079
+20:39,6,Jiminie,219.619
+20:39,7,Columbus,291.671
+20:39,8,PARK JIMIN,424.963
+20:39,9,Joe Morgan,46.891
+20:39,10,Thanksgiving,154.888
+21:09,1,HappyBirthdayJimin,1.878.941
+21:09,2,JIMINDAY,1.097.724
+21:09,3,jiminbirthday,275.297
+21:09,4,OurOctoberPrince,636.880
+21:09,5,OurEternalSerendipity,518.884
+21:09,6,Columbus,316.909
+21:09,7,Jiminie,224.673
+21:09,8,BTS PAVED THE WAY,37.358
+21:09,9,Joe Morgan,49.097
+21:09,10,Park Jimin,429.092
+21:39,1,HappyBirthdayJimin,1.911.546
+21:39,2,JIMINDAY,1.114.544
+21:39,3,jiminbirthday,279.712
+21:39,4,OurOctoberPrince,644.764
+21:39,5,AlbumoftheYear,251.322
+21:39,6,Columbus,339.730
+21:39,7,BTS PAVED THE WAY,52.997
+21:39,8,Jiminie,229.446
+21:39,9,Olivos,24.540
+21:39,10,Thanksgiving,159.278
+22:09,1,HappyBirthdayJimin,1.939.259
+22:09,2,JIMINDAY,1.128.828
+22:09,3,jiminbirthday,283.597
+22:09,4,OurOctoberPrince,651.406
+22:09,5,AlbumoftheYear,271.051
+22:09,6,Columbus,359.872
+22:09,7,BTS PAVED THE WAY,61.570
+22:09,8,Olivos,35.620
+22:09,9,jiminie,232.748
+22:09,10,NIALL IS COMING,33.909
+22:39,1,HappyBirthdayJimin,1.964.463
+22:39,2,JIMINDAY,1.141.703
+22:39,3,instagramdown,
+22:39,4,BTS WORLD DOMINATION,95.943
+22:39,5,AlbumoftheYear,285.560
+22:39,6,jiminbirthday,287.778
+22:39,7,Columbus,380.205
+22:39,8,Olivos,47.938
+22:39,9,NIALL IS COMING,38.779
+22:39,10,Thanksgiving,161.634
+23:09,1,HappyBirthdayJimin,1.986.476
+23:09,2,JIMINDAY,1.151.669
+23:09,3,instagramdown,
+23:09,4,AlbumoftheYear,297.139
+23:09,5,SARSMUSTEND,1.794.778
+23:09,6,Columbus,396.979
+23:09,7,Olivos,58.224
+23:09,8,BTS PAVED THE WAY,71.996
+23:09,9,NIALL IS COMING,42.631
+23:09,10,Margot,16.644
+23:39,1,HappyBirthdayJimin,2.010.986
+23:39,2,instagramdown,
+23:39,3,JIMINDAY,1.164.117
+23:39,4,SarsMustGoNow,600.367
+23:39,5,SARSMUSTEND,2.028.367
+23:39,6,Columbus,416.402
+23:39,7,Franceska,28.023
+23:39,8,Olivos,66.369
+23:39,9,BTS PAVED THE WAY,75.912
+23:39,10,NIALL IS COMING,45.313

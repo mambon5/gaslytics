@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaIslaDeLasTentaciones9,18.143
+00:10,2,Garnacho,34.680
+00:10,3,Ticketmaster,251.613
+00:10,4,LatinGRAMMY,53.637
+00:10,5,XF2022,13.235
+00:10,6,bbcqt,
+00:10,7,Detroit,30.701
+00:10,8,Thiago Almada,16.702
+00:10,9,Remy,12.130
+00:10,10,Nancy Pelosi,327.563
+00:40,1,LaIslaDeLasTentaciones9,22.528
+00:40,2,Garnacho,36.349
+00:40,3,Ticketmaster,265.111
+00:40,4,bbcqt,11.348
+00:40,5,LatinGRAMMY,63.669
+00:40,6,FanDuelisELECTRIC,
+00:40,7,Remy,13.429
+00:40,8,Hunter Biden,294.647
+00:40,9,Detroit,31.962
+00:40,10,XF2022,13.486
+01:10,1,LaIslaDeLasTentaciones9,28.964
+01:10,2,DolphDay,
+01:10,3,FanDuelisELECTRIC,
+01:10,4,LatinGRAMMY,72.246
+01:10,5,Ticketmaster,271.115
+01:10,6,bbcqt,13.977
+01:10,7,Garnacho,37.626
+01:10,8,Remy,14.243
+01:10,9,Hunter Biden,308.819
+01:10,10,Graphic B,
+01:40,1,LaIslaDeLasTentaciones9,32.915
+01:40,2,DolphDay,
+01:40,3,LatinGRAMMY,86.610
+01:40,4,FanDuelisELECTRIC,
+01:40,5,Ticketmaster,281.756
+01:40,6,Remy,15.286
+01:40,7,bbcqt,15.203
+01:40,8,Garnacho,38.922
+01:40,9,Hunter Biden,323.709
+01:40,10,Graphic B,
+02:10,1,RIPTwitter,
+02:10,2,LatinGRAMMY,113.116
+02:10,3,LaIslaDeLasTentaciones9,33.823
+02:10,4,FanDuelisELECTRIC,
+02:10,5,DolphDay,
+02:10,6,ポケモン,791.794
+02:10,7,Remy,15.791
+02:10,8,Ticketmaster,286.387
+02:10,9,Aaron Judge,27.715
+02:10,10,Ohtani,20.172
+02:40,1,RIPTwitter,23.253
+02:40,2,LatinGRAMMY,134.597
+02:40,3,Tumblr,102.033
+02:40,4,DolphDay,
+02:40,5,FanDuelisELECTRIC,
+02:40,6,LaIslaDeLasTentaciones9,34.264
+02:40,7,ポケモン,814.059
+02:40,8,Titans,36.405
+02:40,9,Ohtani,21.533
+02:40,10,Twitter HQ,86.071
+03:10,1,RIPTwitter,48.427
+03:10,2,Tumblr,135.976
+03:10,3,LatinGRAMMY,155.636
+03:10,4,Discord,707.022
+03:10,5,MySpace,
+03:10,6,TheVoiceBrasil,
+03:10,7,GoodByeTwitter,
+03:10,8,TwitterDown,
+03:10,9,ポケモン,818.739
+03:10,10,Twitter HQ,95.034
+03:40,1,RIPTwitter,91.102
+03:40,2,Tumblr,179.033
+03:40,3,Discord,732.295
+03:40,4,LatinGRAMMY,177.672
+03:40,5,MySpace,10.266
+03:40,6,TwitterDown,
+03:40,7,LUCILA AL 9009,20.062
+03:40,8,GoodByeTwitter,
+03:40,9,GranHermamo,26.510
+03:40,10,Mastodon,62.839
+04:10,1,RIPTwitter,162.722
+04:10,2,Tumblr,228.598
+04:10,3,Elon Musk,330.726
+04:10,4,Mastodon,76.912
+04:10,5,Discord,770.638
+04:10,6,LatinGRAMMY,192.589
+04:10,7,MySpace,13.270
+04:10,8,GoodByeTwitter,
+04:10,9,TwitterDown,13.544
+04:10,10,EliminacaoAFazenda,35.524
+04:40,1,RIPTwitter,241.128
+04:40,2,Tumblr,288.692
+04:40,3,Elon Musk,379.279
+04:40,4,Mastodon,92.081
+04:40,5,Discord,798.501
+04:40,6,TwitterDown,21.759
+04:40,7,GoodByeTwitter,12.859
+04:40,8,MySpace,16.809
+04:40,9,LatinGRAMMY,205.178
+04:40,10,Insta,189.620
+05:10,1,RIPTwitter,311.778
+05:10,2,Tumblr,352.833
+05:10,3,Elon Musk,417.137
+05:10,4,Mastodon,105.843
+05:10,5,Discord,821.245
+05:10,6,TwitterDown,29.783
+05:10,7,GoodByeTwitter,17.199
+05:10,8,MySpace,20.029
+05:10,9,LatinGRAMMY,222.777
+05:10,10,마스토돈,19.953
+05:40,1,RIPTwitter,373.118
+05:40,2,Tumblr,405.812
+05:40,3,Elon Musk,440.696
+05:40,4,Mastodon,118.670
+05:40,5,TwitterDown,37.400
+05:40,6,Discord,863.461
+05:40,7,Packers,68.089
+05:40,8,GoodByeTwitter,20.766
+05:40,9,MySpace,22.962
+05:40,10,마스토돈,26.848
+06:10,1,RIPTwitter,423.345
+06:10,2,Tumblr,447.491
+06:10,3,Elon,876.790
+06:10,4,Mastodon,130.136
+06:10,5,TwitterDown,44.730
+06:10,6,Discord,876.420
+06:10,7,GoodByeTwitter,25.157
+06:10,8,MySpace,25.628
+06:10,9,마스토돈,33.041
+06:10,10,Packers,70.657
+06:40,1,RIPTwitter,465.649
+06:40,2,Tumblr,484.625
+06:40,3,Elon,932.799
+06:40,4,Mastodon,141.781
+06:40,5,TwitterDown,51.436
+06:40,6,Discord,929.431
+06:40,7,GoodByeTwitter,29.522
+06:40,8,마스토돈,38.026
+06:40,9,MySpace,27.446
+06:40,10,Packers,72.388
+07:10,1,RIPTwitter,509.744
+07:10,2,Tumblr,512.693
+07:10,3,Elon,970.365
+07:10,4,Mastodon,151.960
+07:10,5,GoodByeTwitter,34.912
+07:10,6,TwitterDown,57.114
+07:10,7,Discord,938.249
+07:10,8,마스토돈,42.092
+07:10,9,MySpace,29.036
+07:10,10,Insta,241.987
+07:40,1,RIPTwitter,542.577
+07:40,2,Tumblr,545.657
+07:40,3,Elon,1.000.379
+07:40,4,Mastodon,166.129
+07:40,5,GoodByeTwitter,39.685
+07:40,6,TwitterDown,61.977
+07:40,7,Discord,967.325
+07:40,8,마스토돈,45.227
+07:40,9,MySpace,30.409
+07:40,10,Insta,250.879
+08:10,1,RIPTwitter,571.814
+08:10,2,Tumblr,570.886
+08:10,3,Elon,1.037.943
+08:10,4,Mastodon,179.042
+08:10,5,GoodByeTwitter,44.290
+08:10,6,TwitterDown,65.483
+08:10,7,Discord,972.317
+08:10,8,마스토돈,48.105
+08:10,9,MySpace,31.534
+08:10,10,Twitter終了,144.816
+08:40,1,RIPTwitter,600.267
+08:40,2,Tumblr,594.061
+08:40,3,Elon,1.073.575
+08:40,4,Mastodon,191.088
+08:40,5,GoodByeTwitter,49.416
+08:40,6,TwitterDown,69.192
+08:40,7,Discord,1.000.287
+08:40,8,마스토돈,50.633
+08:40,9,Twitter終了,152.669
+08:40,10,MySpace,32.642
+09:10,1,RIPTwitter,628.460
+09:10,2,Mastodon,203.080
+09:10,3,Tumblr,614.883
+09:10,4,Elon,1.089.749
+09:10,5,GoodByeTwitter,54.736
+09:10,6,TwitterDown,73.135
+09:10,7,Discord,1.000.879
+09:10,8,마스토돈,52.958
+09:10,9,Twitter終了,155.675
+09:10,10,MySpace,33.574
+09:40,1,RIPTwitter,647.280
+09:40,2,Mastodon,215.714
+09:40,3,Tumblr,634.594
+09:40,4,Elon,1.120.669
+09:40,5,TwitterDown,77.020
+09:40,6,GoodByeTwitter,60.428
+09:40,7,Discord,1.008.848
+09:40,8,Twitter終了,164.327
+09:40,9,마스토돈,55.032
+09:40,10,mixi,
+10:10,1,RIPTwitter,674.632
+10:10,2,Mastodon,228.306
+10:10,3,Tumblr,651.569
+10:10,4,Elon,1.142.529
+10:10,5,TwitterDown,80.560
+10:10,6,GoodByeTwitter,65.504
+10:10,7,Twitter終了,166.415
+10:10,8,Discord,1.005.755
+10:10,9,mixi,10.724
+10:10,10,마스토돈,57.120
+10:40,1,RIPTwitter,702.379
+10:40,2,Mastodon,241.404
+10:40,3,Tumblr,669.562
+10:40,4,Elon,1.176.374
+10:40,5,TwitterDown,84.441
+10:40,6,GoodByeTwitter,70.692
+10:40,7,ポケモン,926.757
+10:40,8,Twitter終了,177.057
+10:40,9,mixi,11.920
+10:40,10,Discord,1.024.353
+11:10,1,RIPTwitter,736.863
+11:10,2,Mastodon,253.969
+11:10,3,TwitterDown,85.648
+11:10,4,Tumblr,673.862
+11:10,5,Elon,1.199.612
+11:10,6,GoodByeTwitter,75.329
+11:10,7,ポケモン,944.808
+11:10,8,PokémonEspaña,15.780
+11:10,9,インスタ,83.815
+11:10,10,Twitter終了,180.334
+11:40,1,RIPTwitter,753.471
+11:40,2,Mastodon,266.489
+11:40,3,PokémonEspaña,23.271
+11:40,4,ポケモン,974.403
+11:40,5,TwitterDown,89.286
+11:40,6,GoodByeTwitter,81.100
+11:40,7,Elon Musk,669.230
+11:40,8,Tumblr,690.888
+11:40,9,インスタ,89.099
+11:40,10,Twitter終了,191.112
+12:10,1,RIPTwitter,793.660
+12:10,2,Mastodon,278.357
+12:10,3,PokémonEspaña,29.721
+12:10,4,ポケモン,965.268
+12:10,5,インスタ,90.852
+12:10,6,TwitterDown,92.590
+12:10,7,GoodByeTwitter,87.656
+12:10,8,Elon Musk,668.141
+12:10,9,Tumblr,714.222
+12:10,10,レイラちゃん,
+12:40,1,Mastodon,290.542
+12:40,2,RIPTwitter,825.145
+12:40,3,SHOWたいむ,
+12:40,4,PokémonEspaña,34.841
+12:40,5,ポケモン,994.102
+12:40,6,インスタ,96.275
+12:40,7,Elon Musk,702.150
+12:40,8,Budweiser,13.405
+12:40,9,GoodByeTwitter,94.609
+12:40,10,TwitterDown,96.034
+13:10,1,Mastodon,301.778
+13:10,2,RIPTwitter,845.833
+13:10,3,SHOWたいむ,17.329
+13:10,4,PokémonEspaña,38.651
+13:10,5,インスタ,98.682
+13:10,6,ポケモン,982.933
+13:10,7,Budweiser,16.241
+13:10,8,Elon Musk,716.195
+13:10,9,アズ生ライザコラボSP,18.596
+13:10,10,ONAKAMA,
+13:40,1,Mastodon,314.139
+13:40,2,RIPTwitter,884.954
+13:40,3,SHOWたいむ,25.613
+13:40,4,標準語だと思ってた方言選手権,
+13:40,5,インスタ,104.984
+13:40,6,Budweiser,18.956
+13:40,7,PokémonEspaña,42.294
+13:40,8,ポケモン,1.016.537
+13:40,9,ボドカの右WIN,13.560
+13:40,10,Elon Musk,738.382
+14:10,1,標準語だと思ってた方言選手権,
+14:10,2,Mastodon,325.334
+14:10,3,RIPTwitter,902.164
+14:10,4,SHOWたいむ,30.897
+14:10,5,インスタ,108.012
+14:10,6,Budweiser,21.727
+14:10,7,PokémonEspaña,46.199
+14:10,8,ボドカの右WIN,15.581
+14:10,9,FIFA,226.740
+14:10,10,ポケモン,999.582
+14:40,1,標準語だと思ってた方言選手権,
+14:40,2,Mastodon,336.901
+14:40,3,クロサギ,115.173
+14:40,4,RIPTwitter,926.503
+14:40,5,インスタ,113.671
+14:40,6,Budweiser,24.567
+14:40,7,BlackFridayEnChollometro,
+14:40,8,SHOWたいむ,33.301
+14:40,9,FIFA,238.829
+14:40,10,ポケモン,1.028.727
+15:10,1,標準語だと思ってた方言選手権,12.397
+15:10,2,クロサギ,170.109
+15:10,3,Mastodon,345.000
+15:10,4,BlackFridayEnChollometro,
+15:10,5,RIPTwitter,947.208
+15:10,6,baatuyilmaz,
+15:10,7,Balde,35.151
+15:10,8,インスタ,116.694
+15:10,9,FIFA,239.096
+15:10,10,Budweiser,26.990
+15:40,1,標準語だと思ってた方言選手権,14.782
+15:40,2,クロサギ,198.588
+15:40,3,Mastodon,359.863
+15:40,4,ボドカの右WIN,19.869
+15:40,5,Balde,41.240
+15:40,6,BlackFridayEnChollometro,
+15:40,7,あなたの番です劇場版,13.913
+15:40,8,FIFA,248.835
+15:40,9,Qatar,561.481
+15:40,10,Budweiser,29.489
+16:10,1,標準語だと思ってた方言選手権,16.842
+16:10,2,HAPPYRUKIDAY,60.298
+16:10,3,瑠姫がいないとできないよ何にも,51.587
+16:10,4,クロサギ,210.828
+16:10,5,Mastodon,370.727
+16:10,6,あなたの番です劇場版,17.526
+16:10,7,Koo App,
+16:10,8,Balde,45.382
+16:10,9,Qatar,555.325
+16:10,10,FIFA,247.031
+16:40,1,HAPPYRUKIDAY,115.755
+16:40,2,標準語だと思ってた方言選手権,18.571
+16:40,3,瑠姫がいないとできないよ何にも,89.631
+16:40,4,Koo App,
+16:40,5,TwitterTurkeyDrive,
+16:40,6,Mastodon,382.408
+16:40,7,クロサギ,211.535
+16:40,8,Qatar,575.524
+16:40,9,Balde,48.583
+16:40,10,FIFA,256.939
+17:10,1,Koo App,
+17:10,2,標準語だと思ってた方言選手権,19.775
+17:10,3,HAPPYRUKIDAY,134.162
+17:10,4,TwitterTurkeyDrive,
+17:10,5,瑠姫がいないとできないよ何にも,103.267
+17:10,6,Mastodon,392.795
+17:10,7,Twittershutdown,
+17:10,8,Qatar,566.771
+17:10,9,FIFA,255.596
+17:10,10,Balde,50.586
+17:40,1,Koo App,12.493
+17:40,2,標準語だと思ってた方言選手権,20.493
+17:40,3,TwitterTurkeyDrive,
+17:40,4,HAPPYRUKIDAY,141.365
+17:40,5,Mastodon,403.784
+17:40,6,瑠姫がいないとできないよ何にも,108.509
+17:40,7,Twittershutdown,11.598
+17:40,8,Qatar,587.993
+17:40,9,O Koo,67.627
+17:40,10,Balde,53.024
+18:10,1,Koo App,14.236
+18:10,2,TwitterTurkeyDrive,
+18:10,3,Twittershutdown,13.984
+18:10,4,Mastodon,413.823
+18:10,5,標準語だと思ってた方言選手権,21.098
+18:10,6,HAPPYRUKIDAY,144.660
+18:10,7,Qatar,577.771
+18:10,8,مصر_بلجيكا,
+18:10,9,O Koo,83.095
+18:10,10,KamuEczacısına StratejikReform,
+18:40,1,Koo App,15.839
+18:40,2,Twittershutdown,16.378
+18:40,3,Mastodon,423.818
+18:40,4,Qatar,597.853
+18:40,5,TwitterTurkeyDrive,
+18:40,6,مصر_بلجيكا,11.186
+18:40,7,標準語だと思ってた方言選手権,21.507
+18:40,8,O Koo,95.612
+18:40,9,HAPPYRUKIDAY,147.417
+18:40,10,KamuEczacısına StratejikReform,11.071
+19:10,1,Koo App,18.039
+19:10,2,Twittershutdown,18.616
+19:10,3,Qatar,586.226
+19:10,4,Mastodon,432.338
+19:10,5,TwitterTurkeyDrive,
+19:10,6,Hire,62.942
+19:10,7,O Koo,107.127
+19:10,8,مصر_بلجيكا,12.006
+19:10,9,標準語だと思ってた方言選手権,21.838
+19:10,10,フロイニ,41.940
+19:40,1,Koo App,20.601
+19:40,2,Twittershutdown,20.470
+19:40,3,Qatar,605.120
+19:40,4,Hire,65.930
+19:40,5,Mastodon,441.304
+19:40,6,TwitterTurkeyDrive,
+19:40,7,O Koo,120.632
+19:40,8,مصر_بلجيكا,13.136
+19:40,9,NEPA,
+19:40,10,フロイニ,42.958
+20:10,1,Koo App,23.323
+20:10,2,Twittershutdown,22.533
+20:10,3,Hire,65.503
+20:10,4,Qatar,589.554
+20:10,5,Mastodon,448.724
+20:10,6,O Koo,134.364
+20:10,7,TwitterTurkeyDrive,10.316
+20:10,8,NEPA,
+20:10,9,مصر_بلجيكا,14.076
+20:10,10,WeLoveYouTaylor,22.122
+20:40,1,Koo App,26.037
+20:40,2,onecube,
+20:40,3,Twittershutdown,24.553
+20:40,4,Garland,76.054
+20:40,5,Hire,67.451
+20:40,6,Qatar,607.292
+20:40,7,Jack Smith,
+20:40,8,Special Counsel,41.346
+20:40,9,Luis Enrique,28.961
+20:40,10,UcuzTT Whatsappta,
+21:10,1,Garland,104.858
+21:10,2,Koo App,28.695
+21:10,3,Jack Smith,14.686
+21:10,4,Luis Enrique,32.887
+21:10,5,onecube,
+21:10,6,Twittershutdown,26.472
+21:10,7,Special Counsel,67.031
+21:10,8,YalıÇapkını,73.393
+21:10,9,Qatar,594.099
+21:10,10,Hire,66.527
+21:40,1,Garland,131.718
+21:40,2,NMA2022,
+21:40,3,Koo App,31.091
+21:40,4,Jack Smith,23.470
+21:40,5,onecube,
+21:40,6,YalıÇapkını,81.174
+21:40,7,Luis Enrique,36.224
+21:40,8,Special Counsel,91.422
+21:40,9,Twittershutdown,28.045
+21:40,10,Qatar,595.016
+22:10,1,NMA2022,14.852
+22:10,2,Garland,152.123
+22:10,3,YalıÇapkını,86.415
+22:10,4,Koo App,33.658
+22:10,5,Jack Smith,30.397
+22:10,6,Special Counsel,111.526
+22:10,7,NRJMusicAwards,
+22:10,8,onecube,
+22:10,9,PromiBB,
+22:10,10,Luis Enrique,37.815
+22:40,1,NMA2022,22.896
+22:40,2,Garland,174.356
+22:40,3,Koo App,36.034
+22:40,4,Jack Smith,36.181
+22:40,5,YalıÇapkını,90.166
+22:40,6,RLWC2021,
+22:40,7,NRJMusicAwards,
+22:40,8,Special Counsel,132.229
+22:40,9,Charlene,
+22:40,10,taleequaleshow,
+23:10,1,NMA2022,29.164
+23:10,2,Garland,191.247
+23:10,3,Koo App,38.776
+23:10,4,NRJMusicAwards,
+23:10,5,Jack Smith,42.588
+23:10,6,taleequaleshow,11.219
+23:10,7,Charlene,
+23:10,8,RLWC2021,
+23:10,9,YalıÇapkını,90.582
+23:10,10,Special Counsel,150.936
+23:40,1,ImACeleb,31.270
+23:40,2,NMA2022,34.503
+23:40,3,Garland,208.789
+23:40,4,Koo App,42.161
+23:40,5,NRJMusicAwards,11.176
+23:40,6,Charlene,11.485
+23:40,7,taleequaleshow,12.891
+23:40,8,Elizabeth Holmes,31.368
+23:40,9,Jack Smith,48.193
+23:40,10,Alex Jones,22.308

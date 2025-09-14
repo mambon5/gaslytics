@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaUltimaTentacion1,62.494
+00:10,2,Icardi,36.960
+00:10,3,Liverpool,172.495
+00:10,4,LIVACM,33.718
+00:10,5,AskSonic,22.749
+00:10,6,Camavinga,57.992
+00:10,7,Brugge,85.565
+00:10,8,Bruges,39.298
+00:10,9,InterRealMadrid,13.958
+00:10,10,BRUPSG,19.243
+00:41,1,LaUltimaTentacion1,76.478
+00:41,2,Icardi,37.459
+00:41,3,Liverpool,175.280
+00:41,4,AskSonic,23.648
+00:41,5,LIVACM,34.072
+00:41,6,Camavinga,60.662
+00:41,7,Brugge,87.458
+00:41,8,InterRealMadrid,14.169
+00:41,9,Bruges,40.307
+00:41,10,BRUPSG,19.793
+01:10,1,LaUltimaTentacion1,83.400
+01:10,2,Icardi,37.821
+01:10,3,Liverpool,175.962
+01:10,4,Nicki,178.965
+01:10,5,AskSonic,24.455
+01:10,6,VoleiNoSporTV,
+01:10,7,LIVACM,34.347
+01:10,8,Camavinga,63.133
+01:10,9,WE MADE IT TO 10M,44.142
+01:10,10,Brugge,89.099
+01:41,1,LaUltimaTentacion1,85.691
+01:41,2,Icardi,38.159
+01:41,3,Nicki,192.416
+01:41,4,Liverpool,178.490
+01:41,5,AskSonic,25.291
+01:41,6,VoleiNoSporTV,
+01:41,7,WE MADE IT TO 10M,50.657
+01:41,8,LIVACM,34.713
+01:41,9,Danilo Barcelos,
+01:41,10,Camavinga,65.499
+02:10,1,Inspiration4,22.785
+02:10,2,LaUltimaTentacion1,86.504
+02:10,3,VoleiNoSporTV,13.143
+02:10,4,Nicki,197.571
+02:10,5,Danilo Barcelos,
+02:10,6,Icardi,38.363
+02:10,7,AskSonic,25.957
+02:10,8,WE MADE IT TO 10M,53.252
+02:10,9,Diego Costa,
+02:10,10,SpaceX,
+02:41,1,Inspiration4,28.690
+02:41,2,AEWDynamite,27.781
+02:41,3,Rodrigo Caio,
+02:41,4,SpaceX,12.692
+02:41,5,Nicki,214.913
+02:41,6,VoleiNoSporTV,15.680
+02:41,7,LaUltimaTentacion1,87.215
+02:41,8,Danilo Barcelos,
+02:41,9,Maracanã,44.023
+02:41,10,Scocco,
+03:10,1,Volpi,23.171
+03:10,2,AEWDynamite,40.885
+03:10,3,Vitinho,
+03:10,4,Inspiration4,32.070
+03:10,5,Scocco,
+03:10,6,Rodrigo Caio,
+03:10,7,Andreas,19.281
+03:10,8,Fortaleza,21.445
+03:10,9,Matheusinho,
+03:10,10,Nicki,222.689
+03:41,1,Volpi,30.725
+03:41,2,Rafinha,20.773
+03:41,3,Borja,14.438
+03:41,4,AEWDynamite,53.117
+03:41,5,Flamengo,202.333
+03:41,6,Vitinho,10.282
+03:41,7,Renê,23.950
+03:41,8,Rodrigo Caio,10.250
+03:41,9,Inspiration4,34.380
+03:41,10,Andreas,21.632
+04:10,1,Volpi,33.665
+04:10,2,Rafinha,25.418
+04:10,3,Gabigol,30.773
+04:10,4,AEWDynamite,67.289
+04:10,5,Flamengo,210.585
+04:10,6,Borja,15.153
+04:10,7,Vitinho,11.376
+04:10,8,Julián Álvarez,
+04:10,9,Renê,25.115
+04:10,10,River,102.309
+04:41,1,Volpi,47.264
+04:41,2,Flamengo,270.187
+04:41,3,Fortaleza,42.246
+04:41,4,Rafinha,29.859
+04:41,5,Gabigol,36.384
+04:41,6,AEWDynamite,71.073
+04:41,7,ProvaDoFazendeiro,24.175
+04:41,8,Borja,15.966
+04:41,9,Crespo,22.584
+04:41,10,Everton Ribeiro,10.490
+05:10,1,Flamengo,284.297
+05:10,2,Volpi,50.709
+05:10,3,ProvaDoFazendeiro,40.938
+05:10,4,Fortaleza,45.518
+05:10,5,Rafinha,31.527
+05:10,6,Gabigol,42.744
+05:10,7,AEWDynamite,72.782
+05:10,8,STICKER_2MillionPreOrders,89.599
+05:10,9,Borja,16.294
+05:10,10,Crespo,24.944
+05:41,1,Flamengo,299.162
+05:41,2,Volpi,52.248
+05:41,3,ProvaDoFazendeiro,47.203
+05:41,4,Fortaleza,47.834
+05:41,5,Rafinha,32.602
+05:41,6,アイネスフウジン,
+05:41,7,Gabigol,45.670
+05:41,8,AEWDynamite,74.491
+05:41,9,STICKER_2MillionPreOrders,102.986
+05:41,10,Deltarune,109.375
+06:10,1,Flamengo,304.143
+06:10,2,Volpi,53.011
+06:10,3,ProvaDoFazendeiro,47.962
+06:10,4,アイネスフウジン,
+06:10,5,México,546.634
+06:10,6,Fortaleza,48.599
+06:10,7,Rafinha,33.001
+06:10,8,Gabigol,46.886
+06:10,9,Deltarune,123.881
+06:10,10,Deltarune,123.881
+06:41,1,México,609.435
+06:41,2,アイネスフウジン,
+06:41,3,Volpi,53.591
+06:41,4,Flamengo,308.328
+06:41,5,ProvaDoFazendeiro,48.528
+06:41,6,Fortaleza,49.474
+06:41,7,Deltarune,136.942
+06:41,8,Deltarune,136.942
+06:41,9,Rafinha,33.386
+06:41,10,STICKER_2MillionPreOrders,114.076
+07:10,1,México,647.860
+07:10,2,アイネスフウジン,
+07:10,3,FiestaAzteca,
+07:10,4,Volpi,53.788
+07:10,5,ProvaDoFazendeiro,48.840
+07:10,6,Flamengo,309.782
+07:10,7,ENHYPEN,419.396
+07:10,8,Deltarune,145.713
+07:10,9,Deltarune,145.713
+07:10,10,Fortaleza,49.766
+07:41,1,México,683.603
+07:41,2,FiestaAzteca,15.743
+07:41,3,アイネスフウジン,
+07:41,4,ENHYPEN,462.698
+07:41,5,あなたを東京女子化,
+07:41,6,Volpi,53.947
+07:41,7,ProvaDoFazendeiro,49.067
+07:41,8,Flamengo,311.606
+07:41,9,Deltarune,154.169
+07:41,10,TwiterKuşu Açıldı,
+08:10,1,México,700.416
+08:10,2,FiestaAzteca,20.920
+08:10,3,アイネスフウジン,
+08:10,4,あなたを東京女子化,
+08:10,5,ENHYPEN,473.995
+08:10,6,provadofazendeiro,49.154
+08:10,7,Volpi,54.039
+08:10,8,Deltarune,160.452
+08:10,9,TwiterKuşu Açıldı,
+08:10,10,年上キラー,
+08:41,1,México,717.176
+08:41,2,FiestaAzteca,24.639
+08:41,3,あなたを東京女子化,
+08:41,4,アイネスフウジン,
+08:41,5,ENHYPEN,492.344
+08:41,6,年上キラー,
+08:41,7,あなたの妹っぽさを診断,
+08:41,8,癒し系レベル,
+08:41,9,雰囲気の幼さ,
+08:41,10,人懐っこさ,
+09:10,1,México,723.761
+09:10,2,あなたを東京女子化,
+09:10,3,FiestaAzteca,26.169
+09:10,4,アイネスフウジン,
+09:10,5,GetWellSoonPPKrit,10.374
+09:10,6,kpss2021,16.443
+09:10,7,年上キラー,
+09:10,8,癒し系レベル,
+09:10,9,雰囲気の幼さ,
+09:10,10,人懐っこさ,
+09:41,1,あなたを東京女子化,
+09:41,2,México,731.899
+09:41,3,kyksonucları,
+09:41,4,FiestaAzteca,26.003
+09:41,5,kpss2021,17.996
+09:41,6,アイネスフウジン,
+09:41,7,年上キラー,
+09:41,8,癒し系レベル,
+09:41,9,雰囲気の幼さ,
+09:41,10,あなたの妹レベル,
+10:10,1,kyksonucları,
+10:10,2,あなたを東京女子化,
+10:10,3,kpss2021,19.341
+10:10,4,México,734.534
+10:10,5,年上キラー,
+10:10,6,あなたの妹っぽさを診断,
+10:10,7,癒し系レベル,
+10:10,8,雰囲気の幼さ,
+10:10,9,あなたの妹レベル,
+10:10,10,人懐っこさ,
+10:41,1,kyksonucları,
+10:41,2,あなたを東京女子化,
+10:41,3,kpss2021,20.585
+10:41,4,hinatazakatalk,
+10:41,5,年上キラー,
+10:41,6,あなたの妹っぽさを診断,
+10:41,7,雰囲気の幼さ,
+10:41,8,癒し系レベル,
+10:41,9,あなたの妹レベル,
+10:41,10,人懐っこさ,
+11:10,1,kyksonucları,
+11:10,2,あなたを東京女子化,10.490
+11:10,3,いいねかRTで気になった人フォローする,19.780
+11:10,4,年上キラー,
+11:10,5,あなたの妹っぽさを診断,
+11:10,6,雰囲気の幼さ,
+11:10,7,癒し系レベル,
+11:10,8,あなたの妹レベル,
+11:10,9,人懐っこさ,
+11:10,10,JEONGHAN,48.218
+11:41,1,UcmsUlaştırmaSENbariFETÖleşme,
+11:41,2,kyksonucları,
+11:41,3,jeonghan,107.640
+11:41,4,あなたを東京女子化,11.811
+11:41,5,いいねかRTで気になった人フォローする,31.543
+11:41,6,年上キラー,
+11:41,7,あなたの妹っぽさを診断,
+11:41,8,人懐っこさ,
+11:41,9,癒し系レベル,
+11:41,10,あなたの妹レベル,
+12:10,1,震度5弱,20.491
+12:10,2,kyksonucları,
+12:10,3,緊急地震速報,17.823
+12:10,4,UcmsUlaştırmaSENbariFETÖleşme,
+12:10,5,JEONGHAN,132.650
+12:10,6,あなたを東京女子化,13.173
+12:10,7,地震大丈夫,11.407
+12:10,8,いいねかRTで気になった人フォローする,38.402
+12:10,9,年上キラー,
+12:10,10,あなたの妹っぽさを診断,
+12:41,1,震度5弱,24.891
+12:41,2,VS魂,17.623
+12:41,3,kyksonucları,
+12:41,4,ucmsulaştırmasenbarifetöleşme,
+12:41,5,jeonghan,145.278
+12:41,6,あなたを東京女子化,14.432
+12:41,7,緊急地震速報,19.046
+12:41,8,地震大丈夫,13.624
+12:41,9,突破ファイル,
+12:41,10,年上キラー,
+13:10,1,VS魂,25.796
+13:10,2,震度5弱,27.347
+13:10,3,kyksonucları,
+13:10,4,あなたを東京女子化,15.568
+13:10,5,プレバト,
+13:10,6,jeonghan,151.954
+13:10,7,緊急地震速報,19.636
+13:10,8,魂の絆,
+13:10,9,地震大丈夫,14.637
+13:10,10,年上キラー,
+13:41,1,VS魂,27.672
+13:41,2,震度5弱,29.042
+13:41,3,あなたを東京女子化,16.704
+13:41,4,kyksonucları,10.495
+13:41,5,魂の絆,
+13:41,6,ダイ検,
+13:41,7,jeonghan,158.774
+13:41,8,緊急地震速報,20.050
+13:41,9,地震大丈夫,15.332
+13:41,10,年上キラー,
+14:10,1,素のまんま,14.129
+14:10,2,VS魂,28.713
+14:10,3,あなたを東京女子化,17.861
+14:10,4,魂の絆,
+14:10,5,震度5弱,30.067
+14:10,6,ぐるナイ,
+14:10,7,JEONGHAN,161.792
+14:10,8,Başarılar Galatasaray,
+14:10,9,Lv.55,
+14:10,10,地震大丈夫,15.916
+14:41,1,素のまんま,44.927
+14:41,2,おりほー,
+14:41,3,モニタリング,
+14:41,4,魂の絆,
+14:41,5,ダイ検,
+14:41,6,あなたを東京女子化,18.800
+14:41,7,震度5弱,30.978
+14:41,8,Lv.55,
+14:41,9,jeonghan,167.482
+14:41,10,Başarılar Galatasaray,
+15:10,1,ViratKohli,10.968
+15:10,2,FilterByJimin200M,57.422
+15:10,3,素のまんま,48.109
+15:10,4,モニタリング,
+15:10,5,지민아_Filter_2억_축하해,54.256
+15:10,6,RECORD BREAKING FILTER,54.313
+15:10,7,おりほー,
+15:10,8,Esnaf Buluşması,
+15:10,9,Lv.55,
+15:10,10,TaraSaKUMU NiDONNY,41.181
+15:41,1,ViratKohli,16.430
+15:41,2,FilterByJimin200M,100.684
+15:41,3,지민아_Filter_2억_축하해,96.974
+15:41,4,RECORD BREAKING FILTER,95.911
+15:41,5,素のまんま,50.030
+15:41,6,魂の絆,
+15:41,7,おりほー,
+15:41,8,Congratulations Jimin,87.135
+15:41,9,Esnaf Buluşması,
+15:41,10,Lv.55,
+16:10,1,FilterByJimin200M,119.879
+16:10,2,ViratKohli,19.712
+16:10,3,지민아_Filter_2억_축하해,114.085
+16:10,4,RECORD BREAKING FILTER,112.482
+16:10,5,INIからLINEきた,
+16:10,6,THE夜会,10.653
+16:10,7,Congratulations Jimin,97.835
+16:10,8,おりほー,
+16:10,9,Lv.55,
+16:10,10,本文検索,
+16:41,1,FilterByJimin200M,132.267
+16:41,2,ViratKohli,23.370
+16:41,3,지민아_Filter_2억_축하해,124.434
+16:41,4,RECORD BREAKING FILTER,122.511
+16:41,5,アウトデラックス,
+16:41,6,HospitalPlaylist2Ep12,29.039
+16:41,7,Congratulations Jimin,105.227
+16:41,8,本文検索,
+16:41,9,かわむー,
+16:41,10,Nikita,12.282
+17:10,1,ARSunshineDay,26.699
+17:10,2,여전히_소중한영재_생일축하해,22.056
+17:10,3,FilterByJimin200M,141.997
+17:10,4,ViratKohli,25.989
+17:10,5,지민아_Filter_2억_축하해,132.683
+17:10,6,RECORD BREAKING FILTER,131.009
+17:10,7,DOWOON,17.978
+17:10,8,HoldexTo TheMoon,
+17:10,9,Congratulations Jimin,110.785
+17:10,10,FUN SWIPING WITH ITZY,20.710
+17:41,1,ARSunshineDay,110.254
+17:41,2,여전히_소중한영재_생일축하해,94.286
+17:41,3,DIMENSION_DILEMMA,250.313
+17:41,4,Intro_Whiteout,229.325
+17:41,5,XenonPAYroad1usd,
+17:41,6,DOWOON,34.215
+17:41,7,RECORD BREAKING FILTER,138.037
+17:41,8,DANCERACHA X ETRO,17.193
+17:41,9,holdexto themoon,
+17:41,10,FUN SWIPING WITH ITZY,27.614
+18:10,1,ARSunshineDay,165.732
+18:10,2,여전히_소중한영재_생일축하해,144.244
+18:10,3,DIMENSION_DILEMMA,281.880
+18:10,4,Intro_Whiteout,255.013
+18:10,5,XenonPAYroad1usd,
+18:10,6,DOWOON,42.190
+18:10,7,DANCERACHA X ETRO,51.563
+18:10,8,RECORD BREAKING FILTER,142.351
+18:10,9,Simit Swap,
+18:10,10,Arpa Chain,
+18:41,1,LilNasXGivesBirth,
+18:41,2,ARSunshineDay,205.380
+18:41,3,여전히_소중한영재_생일축하해,178.131
+18:41,4,DIMENSION_DILEMMA,293.720
+18:41,5,Intro_Whiteout,263.299
+18:41,6,Vallejos,13.194
+18:41,7,DOWOON,52.331
+18:41,8,DANCERACHA X ETRO,61.440
+18:41,9,FGOメンテ,
+18:41,10,RECORD BREAKING FILTER,146.173
+19:10,1,LilNasXGivesBirth,
+19:10,2,ARSunshineDay,229.167
+19:10,3,여전히_소중한영재_생일축하해,199.466
+19:10,4,DIMENSION_DILEMMA,300.116
+19:10,5,Vallejos,19.309
+19:10,6,HospitalPlaylist2Ep12,57.475
+19:10,7,THE ENHYPEN DIMENSION OPENS,218.126
+19:10,8,DANCERACHA X ETRO,64.898
+19:10,9,DOWOON,57.135
+19:10,10,Soro,
+19:41,1,LilNasXGivesBirth,10.646
+19:41,2,ARSunshineDay,247.305
+19:41,3,여전히_소중한영재_생일축하해,216.066
+19:41,4,HospitalPlaylist2Ep12,71.698
+19:41,5,Vallejos,24.705
+19:41,6,DIMENSION_DILEMMA,304.821
+19:41,7,Soro,
+19:41,8,THE ENHYPEN DIMENSION OPENS,219.699
+19:41,9,AGUST D RECORD SETTER,19.602
+19:41,10,DOWOON,59.457
+20:10,1,LilNasXGivesBirth,12.128
+20:10,2,XenonPAYroadTO1usd,
+20:10,3,ARSunshineDay,258.466
+20:10,4,GSvLazio,24.691
+20:10,5,HospitalPlaylist2Ep12,81.295
+20:10,6,Vallejos,29.238
+20:10,7,Kerem,50.999
+20:10,8,Soro,
+20:10,9,AGUST D RECORD SETTER,27.905
+20:10,10,Ferrão,
+20:41,1,LilNasXGivesBirth,13.259
+20:41,2,GSvLazio,33.863
+20:41,3,tiktokdown,
+20:41,4,CRWIN,30.717
+20:41,5,XenonPAYroadTO1usd,
+20:41,6,Vallejos,33.356
+20:41,7,Kerem,53.822
+20:41,8,AGUST D RECORD SETTER,32.783
+20:41,9,Ferrão,
+20:41,10,Betis,14.799
+21:10,1,GSvLazio,47.800
+21:10,2,LilNasXGivesBirth,14.283
+21:10,3,CRWIN,34.460
+21:10,4,HappyBdayModiji,34.117
+21:10,5,tiktokdown,10.121
+21:10,6,Vallejos,36.665
+21:10,7,Kerem,52.929
+21:10,8,AGUST D RECORD SETTER,35.853
+21:10,9,Betis,16.469
+21:10,10,Ferrão,
+21:41,1,GSvLazio,53.667
+21:41,2,LilNasXGivesBirth,15.304
+21:41,3,CRWIN,40.152
+21:41,4,HappyBdayModiji,50.129
+21:41,5,XF2021,
+21:41,6,Vallejos,39.814
+21:41,7,Sir Clive Sinclair,
+21:41,8,Kerem,55.588
+21:41,9,AGUST D RECORD SETTER,38.326
+21:41,10,Rossi,13.038
+22:10,1,GSvLazio,56.815
+22:10,2,LilNasXGivesBirth,16.106
+22:10,3,CRWIN,42.163
+22:10,4,Rossi,19.650
+22:10,5,XF2021,
+22:10,6,HappyBdayModiji,59.362
+22:10,7,Vallejos,42.768
+22:10,8,Sir Clive Sinclair,
+22:10,9,Valencia,30.330
+22:10,10,Mesut,14.913
+22:41,1,GSvLazio,59.128
+22:41,2,Rossi,21.705
+22:41,3,LilNasXGivesBirth,16.866
+22:41,4,SecretGala1,20.108
+22:41,5,XF2021,13.241
+22:41,6,xfactor2021,
+22:41,7,Sir Clive Sinclair,10.792
+22:41,8,Vallejos,45.968
+22:41,9,初心LOVE,
+22:41,10,Galatasaray,96.282
+23:10,1,SGEvFB,17.979
+23:10,2,SecretGala1,31.358
+23:10,3,Rossi,23.360
+23:10,4,xfactor2021,
+23:10,5,GençlerErdoğanıistiyor,24.391
+23:10,6,StarInTheStar,
+23:10,7,Pelkas,14.696
+23:10,8,初心LOVE,
+23:10,9,Sir Clive Sinclair,12.601
+23:10,10,Osimhen,
+23:41,1,SGEvFB,20.317
+23:41,2,SecretGala1,44.010
+23:41,3,GençlerErdoğanıistiyor,27.408
+23:41,4,Fenerbahce,
+23:41,5,Rossi,25.383
+23:41,6,StarInTheStar,
+23:41,7,Pelkas,18.772
+23:41,8,初心LOVE,
+23:41,9,Sir Clive Sinclair,14.045
+23:41,10,Berisha,

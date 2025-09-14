@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Madrid,738.806
+00:10,2,ElClasico,399.802
+00:10,3,Xavi,253.328
+00:10,4,Barcelona,406.731
+00:10,5,Ancelotti,86.314
+00:10,6,Auba,95.806
+00:10,7,Benzema,89.046
+00:10,8,Advincula,
+00:10,9,Bernabéu,132.757
+00:10,10,Dembele,83.100
+00:40,1,Madrid,762.278
+00:40,2,ElClasico,414.483
+00:40,3,Xavi,269.485
+00:40,4,Barcelona,419.927
+00:40,5,Ancelotti,90.156
+00:40,6,Daddy Yankee,19.989
+00:40,7,Auba,99.761
+00:40,8,Duke,58.080
+00:40,9,Benzema,92.007
+00:40,10,Advincula,
+01:10,1,Rossi,43.833
+01:10,2,Madrid,772.669
+01:10,3,River,169.467
+01:10,4,Xavi,278.685
+01:10,5,ElClasico,421.908
+01:10,6,Barcelona,426.622
+01:10,7,Daddy Yankee,27.078
+01:10,8,Duke,61.507
+01:10,9,Ancelotti,92.267
+01:10,10,Auba,101.965
+01:40,1,Rossi,54.138
+01:40,2,River,191.313
+01:40,3,Madrid,788.548
+01:40,4,Xavi,285.146
+01:40,5,Daddy Yankee,33.836
+01:40,6,ElClasico,427.580
+01:40,7,Barcelona,433.554
+01:40,8,Duke,63.403
+01:40,9,Ancelotti,93.832
+01:40,10,SecretNoche10,29.659
+02:10,1,Rossi,58.313
+02:10,2,River,199.061
+02:10,3,Madrid,788.392
+02:10,4,Daddy Yankee,40.046
+02:10,5,Xavi,289.682
+02:10,6,ElClasico,430.931
+02:10,7,Barcelona,436.369
+02:10,8,Gallardo,16.812
+02:10,9,Duke,63.866
+02:10,10,スッキリ,11.365
+02:40,1,Rossi,60.559
+02:40,2,River,208.202
+02:40,3,Daddy Yankee,46.282
+02:40,4,Madrid,803.287
+02:40,5,Xavi,293.947
+02:40,6,ElClasico,434.202
+02:40,7,90dayfiance,
+02:40,8,Barcelona,441.218
+02:40,9,Gallardo,19.121
+02:40,10,Fantastico,
+03:10,1,Rossi,62.032
+03:10,2,River,212.111
+03:10,3,Daddy Yankee,51.908
+03:10,4,Auburn,15.798
+03:10,5,Madrid,800.267
+03:10,6,90DayFiance,12.504
+03:10,7,レモラとJUMP,10.929
+03:10,8,Barça,499.805
+03:10,9,Fantastico,
+03:10,10,Xavi,296.705
+03:40,1,Auburn,25.778
+03:40,2,Rossi,63.150
+03:40,3,Daddy Yankee,57.277
+03:40,4,River,218.095
+03:40,5,foralais,24.319
+03:40,6,レモラとJUMP,13.852
+03:40,7,90DayFiance,13.106
+03:40,8,Celtics,21.983
+03:40,9,Madrid,810.425
+03:40,10,春分の日,68.335
+04:10,1,Laís,144.795
+04:10,2,Auburn,29.248
+04:10,3,Daddy Yankee,61.875
+04:10,4,Rossi,63.903
+04:10,5,River,216.001
+04:10,6,レモラとJUMP,16.435
+04:10,7,MasterChefArgentina,
+04:10,8,Celtics,24.961
+04:10,9,O Eli,40.168
+04:10,10,90DayFiance,13.585
+04:40,1,Laís,189.084
+04:40,2,Eliezer,47.178
+04:40,3,Auburn,31.311
+04:40,4,Daddy Yankee,66.653
+04:40,5,Purdue,17.936
+04:40,6,Jaden Ivey,
+04:40,7,MasterChefArgentina,
+04:40,8,River,220.625
+04:40,9,Rossi,64.741
+04:40,10,レモラとJUMP,18.820
+05:10,1,Laís,215.423
+05:10,2,Eliezer,53.593
+05:10,3,Auburn,32.401
+05:10,4,Daddy Yankee,70.605
+05:10,5,Purdue,19.776
+05:10,6,Jaden Ivey,
+05:10,7,レモラとJUMP,20.991
+05:10,8,MasterChefArgentina,
+05:10,9,ForaDG,
+05:10,10,FelizAniversarioBolsonaro,12.997
+05:40,1,Laís,225.973
+05:40,2,Eliezer,55.915
+05:40,3,Arizona,40.225
+05:40,4,Daddy Yankee,74.380
+05:40,5,Auburn,33.129
+05:40,6,Purdue,20.467
+05:40,7,レモラとJUMP,22.956
+05:40,8,Mathurin,
+05:40,9,FelizAniversarioBolsonaro,14.688
+05:40,10,Jaden Ivey,
+06:10,1,Laís,229.834
+06:10,2,Eliezer,56.772
+06:10,3,Arizona,44.520
+06:10,4,Daddy Yankee,77.320
+06:10,5,Mathurin,11.430
+06:10,6,Purdue,21.006
+06:10,7,レモラとJUMP,24.759
+06:10,8,Auburn,33.577
+06:10,9,FelizAniversarioBolsonaro,15.656
+06:10,10,どっさりおやつが届く,20.815
+06:40,1,Laís,233.502
+06:40,2,Eliezer,57.500
+06:40,3,Arizona,45.862
+06:40,4,アニサマ,31.772
+06:40,5,Daddy Yankee,79.800
+06:40,6,Pazartesi,
+06:40,7,レモラとJUMP,26.276
+06:40,8,anisama,27.834
+06:40,9,LAZ1,19.977
+06:40,10,Mathurin,12.196
+07:10,1,Laís,234.784
+07:10,2,アニサマ,45.606
+07:10,3,Arizona,46.185
+07:10,4,Eliezer,57.800
+07:10,5,Pazartesi,
+07:10,6,LAZ1,38.244
+07:10,7,anisama,40.497
+07:10,8,Daddy Yankee,81.716
+07:10,9,どっさりおやつが届く,25.919
+07:10,10,レモラとJUMP,27.578
+07:40,1,foralais,90.412
+07:40,2,アニサマ,52.833
+07:40,3,Pazartesi,
+07:40,4,Arizona,46.818
+07:40,5,Eliezer,58.101
+07:40,6,21mart,
+07:40,7,GenerasiKulitSehat,
+07:40,8,LAZ1,55.902
+07:40,9,Daddy Yankee,83.366
+07:40,10,참여완료,
+08:10,1,アニサマ,57.922
+08:10,2,foralais,90.831
+08:10,3,21mart,
+08:10,4,Pazartesi,
+08:10,5,GenerasiKulitSehat,
+08:10,6,マイナビTGC,26.499
+08:10,7,Arizona,46.772
+08:10,8,フラワーカップ,12.007
+08:10,9,Eliezer,58.199
+08:10,10,フラワーC,20.232
+08:40,1,21mart,
+08:40,2,アニサマ,62.042
+08:40,3,MondayMotivation,42.175
+08:40,4,Pazartesi,
+08:40,5,GenerasiKulitSehat,
+08:40,6,マイナビTGC,30.078
+08:40,7,フラワーカップ,12.440
+08:40,8,ちいかわの絵,
+08:40,9,フラワーC,20.975
+08:40,10,Arizona,47.102
+09:10,1,21mart,
+09:10,2,マイナビTGC,39.597
+09:10,3,アニサマ,65.533
+09:10,4,MondayMotivation,44.763
+09:10,5,RedVelvetComeBach,11.811
+09:10,6,WelcomeToRVF2022,12.432
+09:10,7,CAN YOU FEEL MY RHYTHM,14.080
+09:10,8,ちいかわの絵,
+09:10,9,ラウちゃん,
+09:10,10,フラワーカップ,12.400
+09:40,1,RedVelvetComeBach,33.132
+09:40,2,WelcomeToRVF2022,33.180
+09:40,3,CAN YOU FEEL MY RHYTHM,33.563
+09:40,4,21mart,10.103
+09:40,5,マイナビTGC,48.908
+09:40,6,MondayMotivation,47.202
+09:40,7,アニサマ,70.065
+09:40,8,ラウちゃん,
+09:40,9,ちいかわの絵,
+09:40,10,Laís,238.620
+10:10,1,RedVelvetComeBach,57.065
+10:10,2,WelcomeToRVF2022,56.527
+10:10,3,CAN YOU FEEL MY RHYTHM,54.083
+10:10,4,21mart,11.922
+10:10,5,TGC,39.361
+10:10,6,MondayMotivation,49.965
+10:10,7,アニサマ,72.886
+10:10,8,Boeing 737,12.928
+10:10,9,ちいかわの絵,
+10:10,10,ラウちゃん,
+10:40,1,RedVelvetComeBach,80.802
+10:40,2,Feel_My_Rhythm,220.389
+10:40,3,WelcomeToRVF2022,76.007
+10:40,4,TGC,51.385
+10:40,5,seulgi,95.358
+10:40,6,あ行でなぜモテないのか分かる,
+10:40,7,Boeing 737,20.154
+10:40,8,BEG FOR ME,22.106
+10:40,9,yeri,70.905
+10:40,10,人狼RPG,
+11:10,1,RedVelvetComeBach,98.613
+11:10,2,Feel_My_Rhythm,256.902
+11:10,3,WelcomeToRVF2022,89.830
+11:10,4,TGC,60.096
+11:10,5,seulgi,109.102
+11:10,6,あ行でなぜモテないのか分かる,
+11:10,7,Boeing 737,27.029
+11:10,8,BEG FOR ME,26.438
+11:10,9,人狼RPG,
+11:10,10,yeri,72.821
+11:40,1,RedVelvetComeBach,112.224
+11:40,2,Feel_My_Rhythm,281.585
+11:40,3,Qさま,57.358
+11:40,4,WelcomeToRVF2022,100.486
+11:40,5,TGC,67.796
+11:40,6,seulgi,125.804
+11:40,7,Boeing 737,34.243
+11:40,8,史上最大規模の謎解き全国大会,
+11:40,9,人狼RPG,
+11:40,10,Beg For Me,30.123
+12:10,1,Qさま,63.711
+12:10,2,Feel_My_Rhythm,302.188
+12:10,3,RedVelvetComeBach,120.132
+12:10,4,あ行でなぜモテないのか分かる,
+12:10,5,TGC,74.065
+12:10,6,seulgi,134.502
+12:10,7,Boeing 737,41.468
+12:10,8,史上最大規模の謎解き全国大会,
+12:10,9,人狼RPG,10.063
+12:10,10,Beg For Me,31.932
+12:40,1,Qさま,82.913
+12:40,2,GMMTVSafeHouseSS3D1,78.337
+12:40,3,バンドリFILMLIVE2配信中,
+12:40,4,Feel_My_Rhythm,317.943
+12:40,5,あ行でなぜモテないのか分かる,
+12:40,6,Boeing 737,47.652
+12:40,7,seulgi,146.427
+12:40,8,史上最大規模の謎解き全国大会,
+12:40,9,ハリポタ,12.978
+12:40,10,ランウェイ,41.634
+13:10,1,Qさま,92.355
+13:10,2,GMMTVSafeHouseSS3D1,121.111
+13:10,3,バンドリFILMLIVE2配信中,18.995
+13:10,4,あ行でなぜモテないのか分かる,
+13:10,5,FelizAniversarioBolsonaro,44.057
+13:10,6,遠藤エミ,
+13:10,7,音声50,
+13:10,8,Boeing 737,54.039
+13:10,9,ハリポタ,14.783
+13:10,10,勝利くん,
+13:40,1,Qさま,99.203
+13:40,2,ミステリと言う勿れ,18.379
+13:40,3,GMMTVSafeHouseSS3D1,162.786
+13:40,4,バンドリFILMLIVE2配信中,22.335
+13:40,5,あ行でなぜモテないのか分かる,
+13:40,6,遠藤エミ,10.471
+13:40,7,ハリポタ,16.833
+13:40,8,音声50,
+13:40,9,Boeing 737,59.646
+13:40,10,勝利くん,
+14:10,1,ミステリと言う勿れ,30.431
+14:10,2,Qさま,115.922
+14:10,3,あ行でなぜモテないのか分かる,
+14:10,4,GMMTVSafeHouseSS3D1,193.118
+14:10,5,WinxTaoKaeNoi,241.209
+14:10,6,ハリポタ,18.494
+14:10,7,北村匠海,
+14:10,8,遠藤エミ,11.200
+14:10,9,Boeing,79.248
+14:10,10,風呂光さん,
+14:40,1,ミステリと言う勿れ,33.484
+14:40,2,Qさま,116.378
+14:40,3,あ行でなぜモテないのか分かる,
+14:40,4,크래비티_아드레날린_전야제,13.370
+14:40,5,GMMTVSafeHouseSS3D1,226.823
+14:40,6,ハリポタ,20.422
+14:40,7,Boulos,
+14:40,8,Boeing,85.918
+14:40,9,北村匠海,
+14:40,10,風呂光さん,
+15:10,1,ミステリと言う勿れ,35.179
+15:10,2,関ジャニクロニクルF,13.116
+15:10,3,FelizAniversarioBolsonaro,66.896
+15:10,4,크래비티_아드레날린_전야제,48.871
+15:10,5,Qさま,116.538
+15:10,6,ハリポタ,22.892
+15:10,7,Boulos,
+15:10,8,Boeing,91.921
+15:10,9,需給ひっ迫警報,19.873
+15:10,10,ハリーポッター,20.540
+15:40,1,関ジャニクロニクルF,35.732
+15:40,2,FelizAniversarioBolsonaro,75.895
+15:40,3,ミステリと言う勿れ,36.326
+15:40,4,크래비티_아드레날린_전야제,68.929
+15:40,5,JourneyForSoil,41.560
+15:40,6,Boulos,
+15:40,7,Boeing,97.836
+15:40,8,ハリポタ,23.874
+15:40,9,Urban Meyer,
+15:40,10,需給ひっ迫警報,22.478
+16:10,1,関ジャニクロニクルF,49.148
+16:10,2,FelizAniversarioBolsonaro,84.350
+16:10,3,ミステリと言う勿れ,36.554
+16:10,4,BusinessProposalEp7,31.783
+16:10,5,JourneyForSoil,53.594
+16:10,6,Dybala,39.901
+16:10,7,Boulos,
+16:10,8,Urban Meyer,
+16:10,9,Boeing,102.733
+16:10,10,すいちゃん,14.449
+16:40,1,関ジャニクロニクルF,50.549
+16:40,2,FelizAniversarioBolsonaro,92.315
+16:40,3,BusinessProposalEp7,41.303
+16:40,4,ほしまちすたじお,
+16:40,5,AtinySelcaDay,28.456
+16:40,6,Dybala,43.899
+16:40,7,第60回,
+16:40,8,Wordle 276,
+16:40,9,Urban Meyer,
+16:40,10,Chuck Grassley,
+17:10,1,BusinessProposalEp7,62.931
+17:10,2,関ジャニクロニクルF,51.296
+17:10,3,FelizAniversarioBolsonaro,100.642
+17:10,4,WELCOME HOME LILI,54.727
+17:10,5,第60回,
+17:10,6,KetanjiBrownJackson,
+17:10,7,AtinySelcaDay,34.021
+17:10,8,Wordle 276,
+17:10,9,Dybala,45.696
+17:10,10,Urban Meyer,
+17:40,1,BusinessProposalEp7,86.391
+17:40,2,FelizAniversarioBolsonaro,108.929
+17:40,3,WELCOME HOME LILI,88.396
+17:40,4,関ジャニクロニクルF,51.757
+17:40,5,第60回,
+17:40,6,KetanjiBrownJackson,10.513
+17:40,7,祝_CALL119_MV100万回,21.170
+17:40,8,Wordle 276,
+17:40,9,Urban Meyer,
+17:40,10,Dybala,48.832
+18:10,1,BusinessProposalEp7,105.084
+18:10,2,FelizAniversarioBolsonaro,115.807
+18:10,3,WELCOME HOME LILI,110.317
+18:10,4,HappyOhmDay22,38.121
+18:10,5,KetanjiBrownJackson,13.070
+18:10,6,第60回,
+18:10,7,祝_CALL119_MV100万回,49.420
+18:10,8,Urban Meyer,10.101
+18:10,9,Dybala,50.681
+18:10,10,Wordle 276,10.093
+18:40,1,BusinessProposalEp7,119.178
+18:40,2,HappyOhmDay22,70.448
+18:40,3,FelizAniversarioBolsonaro,122.389
+18:40,4,菅田将暉ANN,18.990
+18:40,5,WELCOME HOME LILI,126.093
+18:40,6,KetanjiBrownJackson,15.538
+18:40,7,Witcher,19.302
+18:40,8,第60回,
+18:40,9,Cyberpunk,10.652
+18:40,10,Kavanaugh,68.370
+19:10,1,Matt Ryan,40.521
+19:10,2,Falcons,37.032
+19:10,3,BusinessProposalEp7,128.439
+19:10,4,BBMzansi,132.345
+19:10,5,HappyOhmDay22,90.016
+19:10,6,Matty Ice,
+19:10,7,菅田将暉ANN,22.254
+19:10,8,FelizAniversarioBolsonaro,127.903
+19:10,9,Themba,57.291
+19:10,10,Witcher,22.933
+19:40,1,Matt Ryan,51.605
+19:40,2,Falcons,46.206
+19:40,3,BusinessProposalEp7,135.788
+19:40,4,BBMzansi,139.872
+19:40,5,Matty Ice,
+19:40,6,HappyOhmDay22,99.190
+19:40,7,AIFA,74.467
+19:40,8,FelizAniversarioBolsonaro,133.621
+19:40,9,Witcher,25.860
+19:40,10,Themba,59.804
+20:10,1,Matt Ryan,58.043
+20:10,2,Falcons,51.129
+20:10,3,BusinessProposalEp7,140.906
+20:10,4,Matty Ice,
+20:10,5,BBMzansi,139.500
+20:10,6,HappyOhmDay22,103.482
+20:10,7,AIFA,79.508
+20:10,8,FelizAniversarioBolsonaro,139.026
+20:10,9,Witcher,28.002
+20:10,10,Mariota,
+20:40,1,Matt Ryan,62.756
+20:40,2,Falcons,55.496
+20:40,3,AIFA,86.437
+20:40,4,Matty Ice,
+20:40,5,BusinessProposalEp7,144.586
+20:40,6,KetanjiBrownJackson,23.931
+20:40,7,BBMzansi,143.639
+20:40,8,Judge Jackson,154.573
+20:40,9,Witcher,30.099
+20:40,10,Mariota,
+21:10,1,Matt Ryan,67.048
+21:10,2,Falcons,63.866
+21:10,3,Mariota,16.324
+21:10,4,TPMP,
+21:10,5,AIFA,91.471
+21:10,6,KetanjiBrownJackson,26.470
+21:10,7,Matty Ice,
+21:10,8,Judge Jackson,167.411
+21:10,9,BusinessProposalEp7,147.544
+21:10,10,Kylie,15.045
+21:40,1,Matt Ryan,71.918
+21:40,2,Falcons,68.229
+21:40,3,Colts,70.174
+21:40,4,TPMP,
+21:40,5,Mariota,19.171
+21:40,6,AIFA,97.796
+21:40,7,hartaberfair,
+21:40,8,HorribleBosses,
+21:40,9,KetanjiBrownJackson,28.794
+21:40,10,Matty Ice,
+22:10,1,Matt Ryan,75.195
+22:10,2,isola,
+22:10,3,Falcons,71.370
+22:10,4,Colts,73.025
+22:10,5,Mariota,20.966
+22:10,6,TPMP,10.368
+22:10,7,AIFA,103.611
+22:10,8,HorribleBosses,
+22:10,9,hartaberfair,
+22:10,10,Kavanaugh,98.763
+22:40,1,isola,15.496
+22:40,2,Matt Ryan,77.969
+22:40,3,Falcons,74.427
+22:40,4,Colts,75.510
+22:40,5,HorribleBosses,
+22:40,6,Mariota,22.182
+22:40,7,AIFA,112.501
+22:40,8,TPMP,11.131
+22:40,9,MAPR,
+22:40,10,Wii U,
+23:10,1,isola,21.770
+23:10,2,Matt Ryan,80.090
+23:10,3,HorribleBosses,
+23:10,4,Falcons,76.394
+23:10,5,AlertaDeFraudeUribista,13.675
+23:10,6,Colts,76.844
+23:10,7,AIFA,119.728
+23:10,8,MAPR,
+23:10,9,Mariota,23.288
+23:10,10,Wii U,
+23:40,1,isola,25.274
+23:40,2,HorribleBosses,
+23:40,3,Matt Ryan,82.095
+23:40,4,AlertaDeFraudeUribista,20.538
+23:40,5,mapr,
+23:40,6,AIFA,128.844
+23:40,7,Falcons,78.543
+23:40,8,Colts,78.598
+23:40,9,Wii U,
+23:40,10,Mariota,24.352

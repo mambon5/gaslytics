@@ -1,0 +1,461 @@
+hora,posicio,trend,volum
+01:09,1,isola,212.617
+01:09,2,BolsonaroGenocida,48.105
+01:09,3,Patriots,139.622
+01:09,4,MaestrosDeLaCostura,13.155
+01:09,5,モルカー,58.285
+01:09,6,TentacionesDBT8,19.245
+01:09,7,conquis9,
+01:09,8,Rui Patricio,30.812
+01:09,9,Felipe Neto,30.248
+01:09,10,Best Anime,13.141
+01:39,1,TheBachelor,16.225
+01:39,2,isola,225.487
+01:39,3,BolsonaroGenocida,55.355
+01:39,4,AmorDeMãe,
+01:39,5,モルカー,65.072
+01:39,6,Patriots,145.167
+01:39,7,WWERaw,12.336
+01:39,8,Best Anime,14.332
+01:39,9,Felipe Neto,34.192
+01:39,10,Last Anime,
+02:09,1,TheBachelor,29.192
+02:09,2,AmorDeMãe,27.290
+02:09,3,BolsonaroGenocida,61.874
+02:09,4,isola,228.465
+02:09,5,WWERaw,18.422
+02:09,6,モルカー,70.946
+02:09,7,Patriots,147.499
+02:09,8,Best Anime,15.509
+02:09,9,Last Anime,
+02:09,10,First Anime,
+02:39,1,TheBachelor,54.820
+02:39,2,AmorDeMae,49.923
+02:39,3,Thelma,18.410
+02:39,4,BolsonaroGenocida,67.956
+02:39,5,WWERaw,27.707
+02:39,6,Michelle,44.672
+02:39,7,isola,229.449
+02:39,8,モルカー,76.484
+02:39,9,Jane,65.294
+02:39,10,Adriana Esteves,
+03:09,1,TheBachelor,75.291
+03:09,2,AmorDeMae,65.699
+03:09,3,Thelma,26.860
+03:09,4,WWERaw,37.509
+03:09,5,Adriana Esteves,11.011
+03:09,6,BolsonaroGenocida,73.785
+03:09,7,Michelle,47.106
+03:09,8,DementeMega,
+03:09,9,モルカー,80.834
+03:09,10,Jane,67.474
+03:39,1,TheBachelor,96.011
+03:39,2,Thais,229.682
+03:39,3,Pocah,212.830
+03:39,4,AmorDeMae,67.738
+03:39,5,Thelma,28.009
+03:39,6,WWERaw,43.754
+03:39,7,Michelle,54.061
+03:39,8,BolsonaroGenocida,79.004
+03:39,9,Adriana Esteves,11.948
+03:39,10,DementeMega,
+04:09,1,TheBachelor,123.172
+04:09,2,Thais,236.680
+04:09,3,Pocah,208.886
+04:09,4,Knicks,33.369
+04:09,5,AmorDeMae,68.938
+04:09,6,Thelma,28.768
+04:09,7,jogodadiscordia,10.545
+04:09,8,Randle,13.526
+04:09,9,Michelle,57.360
+04:09,10,StanWorld,171.336
+04:39,1,TheBachelor,128.179
+04:39,2,Thais,253.954
+04:39,3,Pocah,230.744
+04:39,4,StanWorld,329.926
+04:39,5,Knicks,36.450
+04:39,6,jogodadiscordia,16.185
+04:39,7,Thelma,30.442
+04:39,8,AmorDeMae,69.588
+04:39,9,モルカー,104.745
+04:39,10,Michelle,59.486
+05:09,1,TheBachelor,131.286
+05:09,2,Thais,247.960
+05:09,3,Pocah,218.234
+05:09,4,StanWorld,490.492
+05:09,5,Knicks,38.249
+05:09,6,モルカー,113.689
+05:09,7,jogodadiscordia,17.656
+05:09,8,レジェンドレース,13.213
+05:09,9,Thelma,30.877
+05:09,10,AmorDeMae,70.076
+05:39,1,TheBachelor,133.622
+05:39,2,StanWorld,618.897
+05:39,3,Thais,251.351
+05:39,4,Pocah,221.499
+05:39,5,モルカー,119.846
+05:39,6,レジェンドレース,15.329
+05:39,7,Knicks,39.264
+05:39,8,jogodadiscordia,18.589
+05:39,9,TREASURE,405.576
+05:39,10,OurParallelUniverseContinues,129.043
+06:09,1,StanWorld,728.923
+06:09,2,TheBachelor,135.112
+06:09,3,Thais,247.825
+06:09,4,Pocah,216.765
+06:09,5,モルカー,124.434
+06:09,6,レジェンドレース,16.722
+06:09,7,TREASURE,453.674
+06:09,8,Knicks,39.928
+06:09,9,Best Anime,28.421
+06:09,10,OurParallelUniverseContinues,147.844
+06:39,1,StanWorld,848.729
+06:39,2,TheBachelor,136.602
+06:39,3,TREASURE,526.990
+06:39,4,Pocah,218.621
+06:39,5,Thais,249.843
+06:39,6,モルカー,128.494
+06:39,7,レジェンドレース,17.900
+06:39,8,Best Anime,29.927
+06:39,9,OurParallelUniverseContinues,164.703
+06:39,10,I Vote,759.674
+07:09,1,StanWorld,977.259
+07:09,2,TheBachelor,138.286
+07:09,3,TREASURE,605.901
+07:09,4,モルカー,131.573
+07:09,5,Pocah,220.074
+07:09,6,レジェンドレース,18.876
+07:09,7,수면시간,
+07:09,8,Thais,246.962
+07:09,9,Best Anime,31.293
+07:09,10,I Vote,862.607
+07:39,1,StanWorld,1.108.045
+07:39,2,TREASURE,683.954
+07:39,3,TheBachelor,139.361
+07:39,4,수면시간,
+07:39,5,Best Anime,32.822
+07:39,6,First Anime,21.216
+07:39,7,Last Anime,19.204
+07:39,8,モルカー,135.151
+07:39,9,I Vote,912.005
+07:39,10,手抜き上手,
+08:09,1,StanWorld,1.224.117
+08:09,2,JKT48CaraCerobohUntukMencinta,16.852
+08:09,3,TREASURE,746.129
+08:09,4,수면시간,
+08:09,5,Best Anime,34.192
+08:09,6,手抜き上手,
+08:09,7,あなたの適当レベルを診断,
+08:09,8,TheBachelor,139.941
+08:09,9,掃除下手,
+08:09,10,First Anime,22.216
+08:39,1,StanWorld,1.312.240
+08:39,2,TREASURE,822.007
+08:39,3,JKT48CaraCerobohUntukMencinta,19.868
+08:39,4,手抜き上手,
+08:39,5,あなたの適当レベルを診断,
+08:39,6,掃除下手,
+08:39,7,適当人間,
+08:39,8,HMdiZALORA,
+08:39,9,수면시간,
+08:39,10,Best Anime,35.653
+09:09,1,StanWorld,1.388.869
+09:09,2,TREASURE,873.855
+09:09,3,JKT48CaraCerobohUntukMencinta,21.950
+09:09,4,手抜き上手,
+09:09,5,あなたの適当レベルを診断,
+09:09,6,掃除下手,
+09:09,7,HalepceKatliamı,17.115
+09:09,8,適当人間,
+09:09,9,Best Anime,37.162
+09:09,10,수면시간,
+09:39,1,StanWorld,1.459.301
+09:39,2,슈주와_엘프의_하우스_파티,48.102
+09:39,3,TREASURE,923.575
+09:39,4,JKT48CaraCerobohUntukMencinta,24.184
+09:39,5,HalepceKatliamı,24.000
+09:39,6,jaemin,161.914
+09:39,7,手抜き上手,
+09:39,8,掃除下手,
+09:39,9,適当人間,
+09:39,10,SUPERJUNIOR HOUSE PARTY,121.781
+10:09,1,StanWorld,1.546.350
+10:09,2,슈주와_엘프의_하우스_파티,82.815
+10:09,3,HalepceKatliamı,30.879
+10:09,4,SUPERJUNIOR HOUSE PARTY,125.555
+10:09,5,TREASURE,957.793
+10:09,6,手抜き上手,
+10:09,7,jaemin,179.340
+10:09,8,掃除下手,
+10:09,9,あなたの適当レベルを診断,
+10:09,10,適当人間,
+10:39,1,슈주와_엘프의_하우스_파티,119.391
+10:39,2,HouseParty,231.247
+10:39,3,StanWorld,1.657.576
+10:39,4,JAEMIN,201.953
+10:39,5,HalepceKatliamı,36.000
+10:39,6,TREASURE,1.031.067
+10:39,7,手抜き上手,
+10:39,8,掃除下手,
+10:39,9,適当人間,
+10:39,10,First Anime,28.283
+11:09,1,슈주와_엘프의_하우스_파티,150.025
+11:09,2,HouseParty,271.970
+11:09,3,StanWorld,1.700.719
+11:09,4,JAEMIN,234.342
+11:09,5,HalepceKatliamı,40.720
+11:09,6,TREASURE,1.065.279
+11:09,7,手抜き上手,
+11:09,8,First Anime,29.849
+11:09,9,Best Anime,43.916
+11:09,10,掃除下手,
+11:39,1,슈주와_엘프의_하우스_파티,170.659
+11:39,2,HouseParty,301.317
+11:39,3,StanWorld,1.762.883
+11:39,4,アメトーーク,
+11:39,5,JAEMIN,266.906
+11:39,6,HalepceKatliamı,44.966
+11:39,7,リハーサル,41.885
+11:39,8,アイザック,11.585
+11:39,9,Best Anime,46.187
+11:39,10,First Anime,31.574
+12:09,1,슈주와_엘프의_하우스_파티,188.574
+12:09,2,アメトーーク,12.836
+12:09,3,HouseParty,322.826
+12:09,4,StanWorld,1.828.315
+12:09,5,jaemin,293.430
+12:09,6,HalepceKatliamı,49.693
+12:09,7,İnfazPlanı Devrede,
+12:09,8,リハーサル,50.305
+12:09,9,Best Anime,48.306
+12:09,10,First Anime,33.348
+12:39,1,アメトーーク,17.145
+12:39,2,슈주와_엘프의_하우스_파티,207.560
+12:39,3,HouseParty,347.636
+12:39,4,花京院ちえり生誕祭,40.272
+12:39,5,うたコン,
+12:39,6,jaemin,320.877
+12:39,7,First Anime,35.186
+12:39,8,Last Anime,32.817
+12:39,9,Best Anime,50.574
+12:39,10,リハーサル,55.773
+13:09,1,アメトーーク,19.522
+13:09,2,ガルパ4周年特番,43.139
+13:09,3,うたコン,
+13:09,4,HouseParty,380.228
+13:09,5,슈주와_엘프의_하우스_파티,220.878
+13:09,6,NiceSenelere ÇağlarAşık,
+13:09,7,First Anime,37.027
+13:09,8,Last Anime,34.623
+13:09,9,Best Anime,52.833
+13:09,10,アミューズ,23.058
+13:39,1,ガルパ4周年特番,55.168
+13:39,2,アメトーーク,21.432
+13:39,3,Muslera2024,12.712
+13:39,4,solリリイベ,18.725
+13:39,5,青のSP,11.524
+13:39,6,First Anime,39.128
+13:39,7,Last Anime,36.509
+13:39,8,Best Anime,55.403
+13:39,9,アミューズ,27.923
+13:39,10,jaemin,354.612
+14:09,1,青のSP,20.299
+14:09,2,ガルパ4周年特番,60.204
+14:09,3,アメトーーク,22.260
+14:09,4,Muslera2024,17.530
+14:09,5,SB19ReactsToWHAT,83.956
+14:09,6,First Anime,41.029
+14:09,7,Last Anime,38.289
+14:09,8,Best Anime,57.716
+14:09,9,アミューズ,31.892
+14:09,10,YouTubeくん,28.077
+14:39,1,ボス恋,85.825
+14:39,2,青のSP,22.457
+14:39,3,ガルパ4周年特番,63.193
+14:39,4,Muslera2024,20.328
+14:39,5,SB19ReactsToWHAT,109.582
+14:39,6,First Anime,43.191
+14:39,7,Last Anime,40.350
+14:39,8,Best Anime,60.435
+14:39,9,Appreciate It,66.805
+14:39,10,中沢さん,
+15:09,1,ボス恋,119.762
+15:09,2,青のSP,23.423
+15:09,3,SB19ReactsToWHAT,127.694
+15:09,4,Muslera2024,22.449
+15:09,5,jongin,31.833
+15:09,6,CaratSelcaDay,89.971
+15:09,7,First Anime,45.333
+15:09,8,Last Anime,42.482
+15:09,9,Best Anime,63.023
+15:09,10,マイデザ枠,
+15:39,1,ボス恋,158.780
+15:39,2,INDvENG,34.593
+15:39,3,SB19ReactsToWHAT,144.959
+15:39,4,CaratSelcaDay,125.818
+15:39,5,jongin,42.887
+15:39,6,青のSP,24.314
+15:39,7,Hunter Henry,16.298
+15:39,8,Worst Kdrama,
+15:39,9,First Anime,47.532
+15:39,10,Last Anime,44.597
+16:09,1,ボス恋,171.466
+16:09,2,INDvENG,41.688
+16:09,3,CaratSelcaDay,157.191
+16:09,4,SB19ReactsToWHAT,161.856
+16:09,5,jongin,48.034
+16:09,6,メンテの日なのでssを貼る,
+16:09,7,Worst Kdrama,
+16:09,8,Best Kdrama,
+16:09,9,Hunter Henry,19.515
+16:09,10,Vintage Clouds,
+16:39,1,ボス恋,179.511
+16:39,2,INDvENG,63.377
+16:39,3,CaratSelcaDay,186.227
+16:39,4,NowUnitedTurnItUp,22.681
+16:39,5,メンテの日なのでssを貼る,13.939
+16:39,6,Kohli,57.357
+16:39,7,jongin,52.979
+16:39,8,Worst Kdrama,
+16:39,9,Best Kdrama,
+16:39,10,Worst Anime,51.822
+17:09,1,INDvENG,73.806
+17:09,2,ボス恋,183.177
+17:09,3,BUY DEFENCELESS ON ITUNES,42.466
+17:09,4,CaratSelcaDay,208.520
+17:09,5,パパジャニWEST,15.200
+17:09,6,NowUnitedTurnItUp,27.198
+17:09,7,Worst Kdrama,
+17:09,8,Best Kdrama,
+17:09,9,Worst Anime,54.130
+17:09,10,Last Anime,50.815
+17:39,1,النصر_العين,42.717
+17:39,2,BUY DEFENCELESS ON ITUNES,79.979
+17:39,3,INDvENG,81.371
+17:39,4,ボス恋,185.422
+17:39,5,CaratSelcaDay,224.065
+17:39,6,パパジャニWEST,19.738
+17:39,7,Worst Kdrama,
+17:39,8,Best Kdrama,
+17:39,9,Worst Anime,56.366
+17:39,10,Last Anime,52.756
+18:09,1,BUY DEFENCELESS ON ITUNES,115.894
+18:09,2,النصر_العين,54.231
+18:09,3,INDvENG,86.271
+18:09,4,DevletARTImağdurlarınıGörsün,
+18:09,5,CaratSelcaDay,234.180
+18:09,6,ボス恋,186.644
+18:09,7,EvrimTeorisi Safsatadır,
+18:09,8,Worst Kdrama,
+18:09,9,Best Kdrama,
+18:09,10,Worst Anime,58.283
+18:39,1,النصر_العين,67.432
+18:39,2,BUY DEFENCELESS ON ITUNES,137.254
+18:39,3,INDvENG,93.100
+18:39,4,ToBeginAgain,26.674
+18:39,5,星野源ANN,
+18:39,6,CaratSelcaDay,240.816
+18:39,7,EvrimTeorisi Safsatadır,
+18:39,8,Worst Kdrama,10.426
+18:39,9,Best Kdrama,
+18:39,10,Abel Ferreira,
+19:09,1,النصر_العين,85.901
+19:09,2,BUY DEFENCELESS ON ITUNES,146.443
+19:09,3,ToBeginAgain,49.716
+19:09,4,MEBİlİçiÖzür PerişanOldu,
+19:09,5,INDvENG,95.605
+19:09,6,星野源ANN,10.748
+19:09,7,RIP_PDM,25.017
+19:09,8,Worst Kdrama,11.361
+19:09,9,Best Kdrama,10.244
+19:09,10,Abel Ferreira,
+19:39,1,SalarioRosaNoSeDetiene,
+19:39,2,النصر_العين,97.334
+19:39,3,BUY DEFENCELESS ON ITUNES,152.161
+19:39,4,ToBeginAgain,62.943
+19:39,5,귀여운_김태형_대회,11.121
+19:39,6,MEBİlİçiÖzür PerişanOldu,
+19:39,7,BJKvİBFK,
+19:39,8,McConnell,70.606
+19:39,9,Aboubakar,
+19:39,10,Best Kdrama,10.869
+20:09,1,SalarioRosaNoSeDetiene,10.719
+20:09,2,귀여운_김태형_대회,18.569
+20:09,3,النصر_العين,103.946
+20:09,4,ToBeginAgain,69.804
+20:09,5,BUY DEFENCELESS ON ITUNES,155.042
+20:09,6,Gençleriİntihara Sürüklediler,
+20:09,7,الاتحاد_الفتح,24.167
+20:09,8,Aboubakar,11.084
+20:09,9,MEBİlİçiÖzür PerişanOldu,
+20:09,10,McConnell,81.197
+20:39,1,SalarioRosaNoSeDetiene,15.934
+20:39,2,MasumlarApartmanı,
+20:39,3,الاتحاد_الفتح,30.769
+20:39,4,귀여운_김태형_대회,25.448
+20:39,5,ToBeginAgain,73.798
+20:39,6,BUY DEFENCELESS ON ITUNES,157.379
+20:39,7,Red Sox,11.970
+20:39,8,Gençleriİntihara Sürüklediler,
+20:39,9,Rodney Hudson,
+20:39,10,Gergerlioğluna Dokunmayın,55.651
+21:09,1,SalarioRosaNoSeDetiene,19.821
+21:09,2,MasumlarApartmanı,
+21:09,3,الاتحاد_الفتح,37.052
+21:09,4,귀여운_김태형_대회,31.510
+21:09,5,nederlandkiest,
+21:09,6,Atalanta,49.867
+21:09,7,BUY DEFENCELESS ON ITUNES,159.461
+21:09,8,Red Sox,15.556
+21:09,9,Rodney Hudson,
+21:09,10,Gülben,
+21:39,1,SalarioRosaNoSeDetiene,22.256
+21:39,2,الاتحاد_الفتح,50.965
+21:39,3,MasumlarApartmanı,11.418
+21:39,4,Atalanta,59.667
+21:39,5,Benzema,27.801
+21:39,6,BJKvİBFK,
+21:39,7,nederlandkiest,
+21:39,8,Modric,10.942
+21:39,9,De Bruyne,22.991
+21:39,10,Vinicius,19.949
+22:09,1,SalarioRosaNoSeDetiene,23.852
+22:09,2,Atalanta,70.905
+22:09,3,MasumlarApartmanı,15.026
+22:09,4,الاتحاد_الفتح,56.170
+22:09,5,Modric,20.579
+22:09,6,Benzema,46.604
+22:09,7,nederlandkiest,12.520
+22:09,8,BJKvİBFK,
+22:09,9,Bruyne,28.453
+22:09,10,الزمالك,22.064
+22:39,1,Vinicius,70.263
+22:39,2,SalarioRosaNoSeDetiene,25.470
+22:39,3,Atalanta,82.001
+22:39,4,Andy Dalton,23.668
+22:39,5,Benzema,57.333
+22:39,6,Bears,71.240
+22:39,7,MasumlarApartmanı,16.669
+22:39,8,Modric,24.739
+22:39,9,الاتحاد_الفتح,59.420
+22:39,10,PekinExpress,11.586
+23:09,1,Vinicius,80.380
+23:09,2,SalarioRosaNoSeDetiene,27.429
+23:09,3,Atalanta,100.025
+23:09,4,Andy Dalton,29.651
+23:09,5,Bears,81.469
+23:09,6,Asensio,14.734
+23:09,7,Modric,28.884
+23:09,8,Benzema,69.346
+23:09,9,PekinExpress,16.586
+23:09,10,MasumlarApartmanı,17.398
+23:39,1,Vinicius,86.826
+23:39,2,SalarioRosaNoSeDetiene,28.887
+23:39,3,Atalanta,107.993
+23:39,4,Andy Dalton,33.762
+23:39,5,Bears,89.107
+23:39,6,PekinExpress,20.333
+23:39,7,Modric,33.370
+23:39,8,Asensio,15.856
+23:39,9,Benzema,79.491
+23:39,10,MasumlarApartmanı,17.871

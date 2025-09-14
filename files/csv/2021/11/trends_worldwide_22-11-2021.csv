@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Elecciones2021CL,210.099
+00:10,2,OLOM,137.622
+00:10,3,Parisi,96.356
+00:10,4,Cowboys,47.846
+00:10,5,ImACeleb,27.884
+00:10,6,BTSxAMAs,470.446
+00:10,7,Kast,198.984
+00:10,8,Chiefs,54.179
+00:10,9,AnAudienceWithAdele,48.226
+00:10,10,Payet,72.330
+00:41,1,BTSxAMAs,672.954
+00:41,2,Elecciones2021CL,230.326
+00:41,3,Parisi,106.408
+00:41,4,Cowboys,53.948
+00:41,5,OLOM,141.704
+00:41,6,Chile,327.974
+00:41,7,Kast,222.684
+00:41,8,ImACeleb,28.379
+00:41,9,Chiefs,58.900
+00:41,10,Parsons,11.854
+01:10,1,BTSxAMAs,1.389.010
+01:10,2,Elecciones2021CL,244.149
+01:10,3,BECKY,79.612
+01:10,4,Cowboys,58.679
+01:10,5,Parisi,112.967
+01:10,6,Chile,341.785
+01:10,7,Kast,236.501
+01:10,8,OLOM,143.726
+01:10,9,Raiders,39.337
+01:10,10,CHLOE,42.724
+01:41,1,BTSxAMAs,1.869.342
+01:41,2,Cowboys,68.134
+01:41,3,Elecciones2021CL,258.860
+01:41,4,BECKY,125.778
+01:41,5,Chile,368.822
+01:41,6,Kast,256.078
+01:41,7,Parisi,120.286
+01:41,8,Chiefs,73.690
+01:41,9,CHLOE,70.595
+01:41,10,jungkook,618.333
+02:10,1,BTSxAMAs,3.094.858
+02:10,2,Lebron,98.437
+02:10,3,Cowboys,70.866
+02:10,4,Stewart,60.694
+02:10,5,Elecciones2021CL,271.087
+02:10,6,Chile,383.882
+02:10,7,Kast,271.092
+02:10,8,SurvivorSeries,52.863
+02:10,9,Becky,143.503
+02:10,10,Pistons,21.198
+02:41,1,BTSxAMAs,3.713.957
+02:41,2,Lebron,127.033
+02:41,3,SurvivorSeries,75.191
+02:41,4,Becky,182.669
+02:41,5,Lakers,71.241
+02:41,6,Stewart,78.092
+02:41,7,Kast,299.669
+02:41,8,Chile,415.277
+02:41,9,Coldplay,601.623
+02:41,10,Cowboys,73.128
+03:10,1,BTSxAMAs,4.082.896
+03:10,2,Lebron,145.297
+03:10,3,SurvivorSeries,90.146
+03:10,4,Becky,269.713
+03:10,5,RHOP,38.660
+03:10,6,Lakers,88.342
+03:10,7,Stewart,88.691
+03:10,8,Kast,315.952
+03:10,9,Chile,431.495
+03:10,10,Pistons,35.451
+03:41,1,AMAsTNT,4.714.703
+03:41,2,Lebron,162.574
+03:41,3,SurvivorSeries,111.168
+03:41,4,Chloe,116.474
+03:41,5,RHOP,47.326
+03:41,6,Becky,305.133
+03:41,7,Lakers,95.526
+03:41,8,Stewart,98.314
+03:41,9,Kast,334.228
+03:41,10,Waukesha,152.496
+04:10,1,AMAsTNT,4.874.655
+04:10,2,Lebron,173.923
+04:10,3,SurvivorSeries,125.071
+04:10,4,Chloe,131.272
+04:10,5,Becky,405.324
+04:10,6,fightspace,21.394
+04:10,7,RHOP,50.622
+04:10,8,Waukesha,173.676
+04:10,9,Stewart,105.205
+04:10,10,Lakers,99.146
+04:41,1,AMAsTNT,3.696.722
+04:41,2,ARTIST OF THE YEAR,1.156.336
+04:41,3,Lebron,187.765
+04:41,4,JUNGKOOK,1.238.791
+04:41,5,SurvivorSeries,143.152
+04:41,6,Becky,461.355
+04:41,7,Insecure,
+04:41,8,fightspace,25.582
+04:41,9,Waukesha,194.946
+04:41,10,Chloe,136.186
+05:10,1,BTSxAMAs,4.049.551
+05:10,2,ARTIST OF THE YEAR,1.617.398
+05:10,3,Lebron,197.658
+05:10,4,Jungkook,1.379.057
+05:10,5,SurvivorSeries,160.748
+05:10,6,Insecure,
+05:10,7,Becky,493.784
+05:10,8,fightspace,26.126
+05:10,9,Waukesha,210.714
+05:10,10,Steelers,52.844
+05:41,1,BTSxAMAs,3.552.710
+05:41,2,Chargers,48.413
+05:41,3,ARTIST OF THE YEAR,1.729.792
+05:41,4,Steelers,70.931
+05:41,5,SurvivorSeries,177.960
+05:41,6,Lebron,207.582
+05:41,7,jungkook,1.523.717
+05:41,8,Insecure,10.771
+05:41,9,Becky,563.562
+05:41,10,Waukesha,226.865
+06:10,1,BTSxAMAs,4.126.752
+06:10,2,Chargers,57.406
+06:10,3,ARTIST OF THE YEAR,1.873.037
+06:10,4,Steelers,77.173
+06:10,5,SurvivorSeries,183.918
+06:10,6,Lebron,214.203
+06:10,7,jungkook,1.585.338
+06:10,8,InsecureHBO,15.219
+06:10,9,Becky,605.222
+06:10,10,夫婦の日,96.625
+06:41,1,BTSxAMAs,3.497.870
+06:41,2,Chargers,59.897
+06:41,3,ARTIST OF THE YEAR,1.983.151
+06:41,4,Steelers,78.859
+06:41,5,SurvivorSeries,187.330
+06:41,6,Lebron,220.669
+06:41,7,jungkook,1.708.129
+06:41,8,Vlive,326.907
+06:41,9,InsecureHBO,16.238
+06:41,10,夫婦の日,101.526
+07:10,1,BTSxAMAs,3.201.270
+07:10,2,Chargers,61.351
+07:10,3,ARTIST OF THE YEAR,2.197.447
+07:10,4,Steelers,79.764
+07:10,5,SurvivorSeries,189.269
+07:10,6,Lebron,225.007
+07:10,7,Vlive,376.237
+07:10,8,jungkook,1.764.107
+07:10,9,夫婦の日,105.680
+07:10,10,InsecureHBO,16.955
+07:41,1,BTSxAMAs,3.482.275
+07:41,2,ARTIST OF THE YEAR,2.120.275
+07:41,3,Chargers,62.807
+07:41,4,Steelers,80.718
+07:41,5,夫婦の日,110.702
+07:41,6,Vlive,390.277
+07:41,7,InsecureHBO,17.710
+07:41,8,Lebron,230.012
+07:41,9,SurvivorSeries,191.450
+07:41,10,jungkook,1.824.201
+08:10,1,BTSxAMAs,3.103.384
+08:10,2,ARTIST OF THE YEAR,1.716.627
+08:10,3,Chargers,63.805
+08:10,4,JUNGKOOK,1.887.865
+08:10,5,夫婦の日,115.718
+08:10,6,Steelers,81.279
+08:10,7,Pazartesi,
+08:10,8,InsecureHBO,18.247
+08:10,9,Vlive,398.104
+08:10,10,Ayşegül,
+08:41,1,BTSxAMAs,3.541.742
+08:41,2,夫婦の日,121.437
+08:41,3,ARTIST OF THE YEAR,2.228.509
+08:41,4,MondayMotivation,19.549
+08:41,5,JUNGKOOK,1.967.895
+08:41,6,Pazartesi,
+08:41,7,Ayşegül,
+08:41,8,Chargers,64.528
+08:41,9,Steelers,81.918
+08:41,10,mondaythoughts,
+09:10,1,BTSxAMAs,3.504.173
+09:10,2,夫婦の日,126.620
+09:10,3,Ayşegül,
+09:10,4,MondayMotivation,21.299
+09:10,5,ARTIST OF THE YEAR,2.292.625
+09:10,6,Pazartesi,
+09:10,7,mondaythoughts,
+09:10,8,JUNGKOOK,1.951.080
+09:10,9,Chargers,65.003
+09:10,10,辞職の意向,
+09:41,1,夫婦の日,133.604
+09:41,2,BTSxAMAs,3.579.880
+09:41,3,Ayşegül,
+09:41,4,MondayMotivation,22.945
+09:41,5,mondaythoughts,
+09:41,6,いいツインテールの日,59.782
+09:41,7,ARTIST OF THE YEAR,2.310.968
+09:41,8,辞職の意向,
+09:41,9,SF9 TRAUMA OUT NOW,19.969
+09:41,10,木下富美子都議,
+10:10,1,夫婦の日,142.186
+10:10,2,MondayMotivation,24.914
+10:10,3,Ayşegül,
+10:10,4,BTSxAMAs,3.347.035
+10:10,5,いいツインテールの日,68.739
+10:10,6,SF9_RUMINATION_RELEASE,31.335
+10:10,7,SF9 TRAUMA OUT NOW,30.227
+10:10,8,辞職の意向,
+10:10,9,木下富美子都議,
+10:10,10,ARTIST OF THE YEAR,2.092.589
+10:41,1,夫婦の日,153.716
+10:41,2,MondayMotivation,26.782
+10:41,3,Ayşegül,11.210
+10:41,4,مبروك_الثانيه_ياهلال,
+10:41,5,SF9_RUMINATION_RELEASE,37.104
+10:41,6,いいツインテールの日,81.191
+10:41,7,SF9 TRAUMA OUT NOW,35.017
+10:41,8,木下富美子都議,
+10:41,9,辞職の意向,
+10:41,10,無免許運転,10.128
+11:10,1,夫婦の日,164.691
+11:10,2,いいツインテールの日,94.552
+11:10,3,Ayşegül,13.424
+11:10,4,MondayMotivation,28.846
+11:10,5,SF9_RUMINATION_RELEASE,40.258
+11:10,6,مبروك_الثانيه_ياهلال,
+11:10,7,SF9 TRAUMA OUT NOW,37.711
+11:10,8,木下富美子都議,
+11:10,9,辞職の意向,
+11:10,10,Shahrukh Khan,
+11:41,1,夫婦の日,179.408
+11:41,2,いいツインテールの日,108.232
+11:41,3,Ayşegül,15.531
+11:41,4,MondayMotivation,31.299
+11:41,5,Shenhe,43.222
+11:41,6,SyedMushtaqAliTrophy,
+11:41,7,SF9_RUMINATION_RELEASE,42.404
+11:41,8,Yun Jin,20.747
+11:41,9,Shahrukh Khan,
+11:41,10,木下富美子都議,
+12:10,1,夫婦の日,191.606
+12:10,2,プロセカ生放送,10.612
+12:10,3,いいツインテールの日,122.502
+12:10,4,Shenhe,54.846
+12:10,5,Ayşegül,17.266
+12:10,6,MondayMotivation,33.210
+12:10,7,ياهلال_عزك_عزنا,
+12:10,8,Yun Jin,16.314
+12:10,9,新キャラ,20.795
+12:10,10,沖田さん,
+12:41,1,プロセカ生放送,49.530
+12:41,2,夫婦の日,205.541
+12:41,3,いいツインテールの日,138.615
+12:41,4,Shenhe,63.487
+12:41,5,ماك_تدعم_ذوي_متلازمه_داون,
+12:41,6,MondayMotivation,35.343
+12:41,7,Ayşegül,18.826
+12:41,8,HIHMovieCut OnIWantTFC,18.839
+12:41,9,Stell MA NASAAN,18.480
+12:41,10,新キャラ,23.572
+13:10,1,夫婦の日,218.917
+13:10,2,プロセカ生放送,124.819
+13:10,3,いいツインテールの日,155.209
+13:10,4,Shenhe,70.130
+13:10,5,私の年末年始予定表,
+13:10,6,ماك_تدعم_ذوي_متلازمه_داون,
+13:10,7,HesIntoHerMovieCut,32.346
+13:10,8,HIHMovieCut OnIWantTFC,31.307
+13:10,9,Stell MA NASAAN,24.646
+13:10,10,Peppa Pig,
+13:41,1,夫婦の日,233.926
+13:41,2,いいツインテールの日,174.316
+13:41,3,プロセカ生放送,155.287
+13:41,4,CDTVライブライブ,20.920
+13:41,5,HIHMovieCut OnIWantTFC,42.064
+13:41,6,HesIntoHerMovieCut,43.819
+13:41,7,BlackWeekEnChollometro,
+13:41,8,Shenhe,77.753
+13:41,9,Peppa Pig,11.262
+13:41,10,Golden Boy,35.599
+14:10,1,夫婦の日,247.548
+14:10,2,いいツインテールの日,193.766
+14:10,3,CDTVライブライブ,29.789
+14:10,4,プロセカ生放送,166.520
+14:10,5,BlackWeekEnChollometro,
+14:10,6,私の年末年始予定表,
+14:10,7,HIHMovieCut OnIWantTFC,45.764
+14:10,8,Peppa Pig,14.182
+14:10,9,Shenhe,85.666
+14:10,10,Pedri,49.127
+14:41,1,夫婦の日,262.037
+14:41,2,いいツインテールの日,215.412
+14:41,3,CDTVライブライブ,38.485
+14:41,4,BlackWeekEnChollometro,
+14:41,5,プロセカ生放送,175.223
+14:41,6,Peppa Pig,17.516
+14:41,7,私の年末年始予定表,
+14:41,8,Shenhe,92.914
+14:41,9,HIHMovieCut OnIWantTFC,47.134
+14:41,10,MEW MEW SO HOT,57.453
+15:10,1,いいツインテールの日,234.189
+15:10,2,夫婦の日,274.429
+15:10,3,الكمين,
+15:10,4,BlackWeekEnChollometro,
+15:10,5,アバランチ,18.040
+15:10,6,CDTVライブライブ,43.152
+15:10,7,Peppa Pig,19.986
+15:10,8,Shenhe,99.813
+15:10,9,Christmas Tree Farm,10.189
+15:10,10,Pedri,60.716
+15:41,1,いいツインテールの日,254.437
+15:41,2,夫婦の日,286.788
+15:41,3,ايمج_نيشن_ابوظبي,
+15:41,4,الكمين,
+15:41,5,BlackWeekEnChollometro,
+15:41,6,アバランチ,19.020
+15:41,7,Peppa Pig,22.889
+15:41,8,Powell,19.513
+15:41,9,Pedri,65.723
+15:41,10,Christmas Tree Farm,13.843
+16:10,1,いいツインテールの日,271.532
+16:10,2,夫婦の日,293.607
+16:10,3,ايمج_نيشن_ابوظبي,
+16:10,4,BNSJejevility2021,
+16:10,5,الكمين,
+16:10,6,구름처럼_아름다운_영빈_생일,37.667
+16:10,7,Peppa Pig,25.640
+16:10,8,KAI PEACHES IN 7 DAYS,21.469
+16:10,9,Powell,22.895
+16:10,10,Pedri,69.576
+16:41,1,いいツインテールの日,282.019
+16:41,2,KaiComebackWeek,113.128
+16:41,3,夫婦の日,302.080
+16:41,4,BNSJejevility2021,10.461
+16:41,5,KAI PEACHES IN 7 DAYS,111.033
+16:41,6,ايمج_نيشن_ابوظبي,
+16:41,7,EarthMixxThePizzaCompany1112,53.448
+16:41,8,Peppa Pig,28.577
+16:41,9,Powell,26.156
+16:41,10,HWASA SOLO TOMORROW,28.671
+17:10,1,いいツインテールの日,290.487
+17:10,2,BNSJejevility2021,12.191
+17:10,3,KaiComebackWeek,142.645
+17:10,4,夫婦の日,306.133
+17:10,5,KAI PEACHES IN 7 DAYS,139.796
+17:10,6,EarthMixxThePizzaCompany1112,66.629
+17:10,7,اربح_مع_تشيكن_باشه,
+17:10,8,Peppa Pig,31.466
+17:10,9,Powell,28.364
+17:10,10,Poch,28.731
+17:41,1,BNSJejevility2021,13.892
+17:41,2,いいツインテールの日,297.838
+17:41,3,KaiComebackWeek,154.810
+17:41,4,MintClubBinance,
+17:41,5,KAI PEACHES IN 7 DAYS,151.382
+17:41,6,منجز7_فوتره_الكترونيه,
+17:41,7,夫婦の日,310.934
+17:41,8,Peppa Pig,34.584
+17:41,9,Thanksgiving,236.406
+17:41,10,Powell,30.702
+18:10,1,مختبرات_دلتا_فحص_كورونا,
+18:10,2,BNSJejevility2021,15.313
+18:10,3,EkonomikKurtuluşSavaşı,
+18:10,4,รีดอะไรท์ล่ม,
+18:10,5,JonaxxTSHKab40,
+18:10,6,Thanksgiving,236.112
+18:10,7,KAI PEACHES IN 7 DAYS,155.443
+18:10,8,Peppa Pig,37.404
+18:10,9,YANINDAYIZ SOYLU,
+18:10,10,Powell,32.151
+18:41,1,รีดอะไรท์ล่ม,
+18:41,2,EkonomikKurtuluşSavaşı,11.842
+18:41,3,Thanksgiving,247.255
+18:41,4,Zuluaga,15.464
+18:41,5,مختبرات_دلتا_فحص_كورونا,
+18:41,6,حمله_حظر_عايله_عدنان,
+18:41,7,BNSJejevility2021,16.707
+18:41,8,Peppa Pig,40.646
+18:41,9,Cabal,29.036
+18:41,10,YANINDAYIZ SOYLU,
+19:10,1,OBJBTC,12.093
+19:10,2,EkonomikKurtuluşSavaşı,17.334
+19:10,3,حمله_حظر_عايله_عدنان,
+19:10,4,TSvGFK,
+19:10,5,Zuluaga,20.930
+19:10,6,Thanksgiving,247.515
+19:10,7,Cabal,32.377
+19:10,8,รีดอะไรท์ล่ม,
+19:10,9,Suat Arslanboğa,
+19:10,10,Peppa Pig,43.760
+19:41,1,OBJBTC,25.454
+19:41,2,EkonomikKurtuluşSavaşı,23.679
+19:41,3,Zuluaga,26.086
+19:41,4,TSvGFK,
+19:41,5,حمله_حظر_عايله_عدنان,
+19:41,6,Thanksgiving,258.378
+19:41,7,Cabal,36.605
+19:41,8,مبره_شمر,
+19:41,9,Peppa Pig,47.179
+19:41,10,Suat Arslanboğa,
+20:10,1,OBJBTC,34.939
+20:10,2,EkonomikKurtuluşSavaşı,28.723
+20:10,3,TSvGFK,
+20:10,4,Zuluaga,29.774
+20:10,5,Thanksgiving,259.441
+20:10,6,Cabal,38.969
+20:10,7,محصول_حصاد_الريف_ينبع,
+20:10,8,حمله_حظر_عايله_عدنان,
+20:10,9,Peppa Pig,50.416
+20:10,10,UConn,
+20:41,1,OBJBTC,41.236
+20:41,2,EkonomikKurtuluşSavaşı,34.517
+20:41,3,Thanksgiving,270.204
+20:41,4,TSvGFK,
+20:41,5,Zuluaga,32.854
+20:41,6,skafanderos,
+20:41,7,المريسل_يثيير_التعصب_الرياضي,
+20:41,8,Cabal,42.000
+20:41,9,Peppa Pig,53.575
+20:41,10,UConn,
+21:10,1,OBJBTC,46.385
+21:10,2,EkonomikKurtuluşSavaşı,39.926
+21:10,3,Thanksgiving,270.245
+21:10,4,skafanderos,
+21:10,5,Profiline Bakanlar,
+21:10,6,Herkes Zengin,
+21:10,7,islamiüniversite,37.276
+21:10,8,Zuluaga,35.781
+21:10,9,singyourdialect,
+21:10,10,Cabal,43.832
+21:41,1,OBJBTC,50.544
+21:41,2,EkonomikKurtuluşSavaşı,45.658
+21:41,3,Thanksgiving,281.086
+21:41,4,singyourdialect,
+21:41,5,skafanderos,
+21:41,6,islamiüniversite,39.953
+21:41,7,Profiline Bakanlar,
+21:41,8,Zuluaga,38.502
+21:41,9,Herkes Zengin,
+21:41,10,Cabal,46.596
+22:10,1,OBJBTC,54.287
+22:10,2,singyourdialect,
+22:10,3,EkonomikKurtuluşSavaşı,51.023
+22:10,4,Thanksgiving,279.185
+22:10,5,skafanderos,
+22:10,6,islamiüniversite,42.643
+22:10,7,Profiline Bakanlar,
+22:10,8,Zuluaga,40.790
+22:10,9,Cabal,47.846
+22:10,10,Herkes Zengin,
+22:41,1,OBJBTC,57.749
+22:41,2,singyourdialect,
+22:41,3,MCCelebrity,
+22:41,4,Thanksgiving,290.767
+22:41,5,EkonomikKurtuluşSavaşı,54.700
+22:41,6,skafanderos,10.760
+22:41,7,Profiline Bakanlar,
+22:41,8,Zuluaga,43.105
+22:41,9,Taysom Hill,
+22:41,10,Ridley Scott,
+23:10,1,singyourdialect,13.604
+23:10,2,OBJBTC,60.644
+23:10,3,MCCelebrity,
+23:10,4,Thanksgiving,290.956
+23:10,5,EkonomikKurtuluşSavaşı,57.619
+23:10,6,Ridley Scott,
+23:10,7,skafanderos,11.328
+23:10,8,Rylan,
+23:10,9,Taysom Hill,
+23:10,10,Zuluaga,45.261
+23:41,1,singyourdialect,19.574
+23:41,2,MCCelebrity,
+23:41,3,OBJBTC,63.101
+23:41,4,Thanksgiving,301.747
+23:41,5,QuantoMaisVidaMelhor,
+23:41,6,勤労感謝の日,74.700
+23:41,7,Ridley Scott,10.557
+23:41,8,EkonomikKurtuluşSavaşı,59.698
+23:41,9,Rylan,
+23:41,10,Taysom Hill,

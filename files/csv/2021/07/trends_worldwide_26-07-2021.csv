@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Flamengo,385.318
+00:10,2,Bruno Henrique,96.988
+00:10,3,Hugo,132.017
+00:10,4,İhsanŞenocakYalnızDeğildir,14.661
+00:10,5,Renato,86.672
+00:10,6,Volpi,30.029
+00:10,7,EcemYalnızDeğilsin,58.525
+00:10,8,Gabigol,38.548
+00:10,9,Suárez,31.870
+00:10,10,Maracanã,46.396
+00:41,1,Flamengo,400.268
+00:41,2,Bruno Henrique,99.300
+00:41,3,Hugo,134.670
+00:41,4,İhsanŞenocakYalnızDeğildir,15.919
+00:41,5,Renato,91.417
+00:41,6,EcemYalnızDeğilsin,62.166
+00:41,7,Volpi,30.267
+00:41,8,Suárez,36.190
+00:41,9,Gabigol,40.505
+00:41,10,SuperDançaDosFamosos,
+01:10,1,Flamengo,409.120
+01:10,2,Bruno Henrique,100.895
+01:10,3,Hugo,134.675
+01:10,4,İhsanŞenocakYalnızDeğildir,16.642
+01:10,5,Renato,93.926
+01:10,6,Triathlon,
+01:10,7,EcemYalnızDeğilsin,64.393
+01:10,8,Suárez,38.436
+01:10,9,تونس,105.402
+01:10,10,Volpi,30.367
+01:41,1,Flamengo,417.689
+01:41,2,Bruno Henrique,102.222
+01:41,3,Triathlon,10.322
+01:41,4,İhsanŞenocakYalnızDeğildir,17.220
+01:41,5,Hugo,136.707
+01:41,6,Renato,96.695
+01:41,7,تونس,121.255
+01:41,8,VamosLaU,
+01:41,9,EcemYalnızDeğilsin,65.670
+01:41,10,ローソンFGOソロモン,
+02:10,1,Flamengo,422.467
+02:10,2,Triathlon,11.148
+02:10,3,Bruno Henrique,103.239
+02:10,4,İhsanŞenocakYalnızDeğildir,17.518
+02:10,5,Hugo,136.249
+02:10,6,連休明け,43.139
+02:10,7,ローソンFGOソロモン,
+02:10,8,تونس,133.265
+02:10,9,Fantastico,
+02:10,10,askgiveon,
+02:41,1,Flamengo,429.089
+02:41,2,Triathlon,11.706
+02:41,3,Bruno Henrique,104.310
+02:41,4,連休明け,46.898
+02:41,5,İhsanŞenocakYalnızDeğildir,17.737
+02:41,6,ローソンFGOソロモン,
+02:41,7,Fantastico,
+02:41,8,تونس,143.464
+02:41,9,Hugo,137.640
+02:41,10,rayssa,84.189
+03:10,1,Pamela,55.640
+03:10,2,RHOP,13.707
+03:10,3,Flamengo,432.168
+03:10,4,filipina,19.429
+03:10,5,Didal,10.512
+03:10,6,連休明け,49.733
+03:10,7,rayssa,87.598
+03:10,8,Triathlon,12.066
+03:10,9,skateboarding,100.247
+03:10,10,Bruno Henrique,105.059
+03:41,1,Pamela,123.738
+03:41,2,RHOP,14.866
+03:41,3,skateboarding,114.418
+03:41,4,filipina,21.420
+03:41,5,Flamengo,436.715
+03:41,6,Alana,14.177
+03:41,7,rayssa,91.424
+03:41,8,Didal,12.110
+03:41,9,Karen,86.516
+03:41,10,連休明け,52.738
+04:10,1,Pamela,178.633
+04:10,2,Rayssa,174.992
+04:10,3,skateboarding,129.646
+04:10,4,Alana,21.578
+04:10,5,RHOP,15.609
+04:10,6,filipina,22.023
+04:10,7,LaVozAgentina,
+04:10,8,Flamengo,438.203
+04:10,9,90DayFiance,
+04:10,10,Karen,86.637
+04:41,1,Rayssa,374.837
+04:41,2,Pamela,212.376
+04:41,3,skateboarding,152.058
+04:41,4,Ledecky,12.068
+04:41,5,Alana,22.518
+04:41,6,Titmus,10.738
+04:41,7,RHOP,16.396
+04:41,8,Karen,92.772
+04:41,9,Bélgica,11.059
+04:41,10,fadinhaemtokyo,19.536
+05:10,1,Rayssa,610.769
+05:10,2,Rayssa,610.769
+05:10,3,skateboarding,167.576
+05:10,4,MasterChefCelebrity,17.547
+05:10,5,EU ACREDITO EM FADAS,36.487
+05:10,6,Fadinha,197.990
+05:10,7,Ledecky,16.016
+05:10,8,Alana,23.029
+05:10,9,Titmus,16.616
+05:10,10,KargilVijayDiwas,24.281
+05:41,1,Rayssa,734.350
+05:41,2,Rayssa,734.350
+05:41,3,Rayssa,734.350
+05:41,4,skateboarding,178.558
+05:41,5,MasterChefCelebrity,20.263
+05:41,6,KargilVijayDiwas,33.947
+05:41,7,Fadinha,237.969
+05:41,8,ConcejoEnFusión,16.379
+05:41,9,EU ACREDITO EM FADAS,43.432
+05:41,10,Ledecky,17.907
+06:10,1,Rayssa,892.877
+06:10,2,Rayssa,892.877
+06:10,3,skateboarding,157.181
+06:10,4,ConcejoEnFusión,26.595
+06:10,5,KargilVijayDiwas,43.134
+06:10,6,MasterChefCelebrityEstreno,
+06:10,7,สามหกห้าTS,81.687
+06:10,8,Fadinha,274.351
+06:10,9,Hoppe,
+06:10,10,EU ACREDITO EM FADAS,46.873
+06:41,1,Rayssa,1.613.297
+06:41,2,skateboarding,216.055
+06:41,3,Pamela,252.836
+06:41,4,leticia,288.798
+06:41,5,filipina,62.766
+06:41,6,KargilVijayDiwas,55.978
+06:41,7,Fadinha,455.559
+06:41,8,olimpiadastokio2021,33.960
+06:41,9,Didal,75.725
+06:41,10,ConcejoEnFusión,31.529
+07:10,1,Rayssa,1.958.465
+07:10,2,skateboarding,233.150
+07:10,3,Pamela,251.727
+07:10,4,leticia,296.660
+07:10,5,KargilVijayDiwas,70.348
+07:10,6,filipina,76.721
+07:10,7,Fadinha,518.310
+07:10,8,Doncic,11.199
+07:10,9,Didal,106.192
+07:10,10,Com 13,562.698
+07:41,1,Rayssa,2.057.747
+07:41,2,Doncic,25.628
+07:41,3,skateboarding,241.531
+07:41,4,KargilVijayDiwas,84.404
+07:41,5,Pamela,252.475
+07:41,6,leticia,302.194
+07:41,7,Filipina,81.597
+07:41,8,Fadinha,535.693
+07:41,9,Com 13,509.276
+07:41,10,Didal,123.039
+08:10,1,Rayssa,2.086.276
+08:10,2,Doncic,31.853
+08:10,3,KargilVijayDiwas,96.069
+08:10,4,skateboarding,242.420
+08:10,5,Pamela,251.910
+08:10,6,leticia,301.793
+08:10,7,Filipina,82.824
+08:10,8,Fadinha,539.435
+08:10,9,Com 13,471.949
+08:10,10,Didal,127.223
+08:41,1,Rayssa,2.101.368
+08:41,2,Doncic,42.220
+08:41,3,KargilVijayDiwas,107.488
+08:41,4,skateboarding,244.773
+08:41,5,Medina,47.662
+08:41,6,Pamela,252.193
+08:41,7,pazartesi,
+08:41,8,leticia,302.612
+08:41,9,Fadinha,541.401
+08:41,10,filipina,83.563
+09:10,1,Rayssa,2.101.238
+09:10,2,Doncic,48.101
+09:10,3,KargilVijayDiwas,117.264
+09:10,4,Tom Daley,
+09:10,5,Medina,52.590
+09:10,6,Diving,
+09:10,7,skateboarding,244.429
+09:10,8,pazartesi,
+09:10,9,MondayMotivation,47.892
+09:10,10,Eslovenia,
+09:41,1,Rayssa,2.137.707
+09:41,2,Doncic,51.731
+09:41,3,KargilVijayDiwas,127.261
+09:41,4,Tom Daley,
+09:41,5,TeamGB,18.385
+09:41,6,Diving,10.506
+09:41,7,Medina,54.177
+09:41,8,MondayMotivation,50.841
+09:41,9,Tom Pidcock,
+09:41,10,pazartesi,
+10:10,1,Rayssa,2.146.294
+10:10,2,KargilVijayDiwas,135.157
+10:10,3,Tom Daley,11.343
+10:10,4,Doncic,54.751
+10:10,5,TeamGB,20.373
+10:10,6,MondayMotivation,53.606
+10:10,7,David Valero,
+10:10,8,Diving,11.136
+10:10,9,pazartesi,
+10:10,10,Tom Pidcock,
+10:41,1,Rayssa,2.128.229
+10:41,2,DO_RoseMVOutNow,43.048
+10:41,3,Empathy_ByDO,44.854
+10:41,4,디오_1st_solo_ROSE,46.246
+10:41,5,KargilVijayDiwas,142.826
+10:41,6,Tom Daley,13.473
+10:41,7,TeamGB,22.753
+10:41,8,Doncic,57.120
+10:41,9,健ちゃん,
+10:41,10,David Valero,
+11:10,1,디오_1st_solo_ROSE,333.140
+11:10,2,DO_RoseMVOutNow,327.284
+11:10,3,Empathy_ByDO,336.560
+11:10,4,Rayssa,2.160.286
+11:10,5,SONA2021,28.681
+11:10,6,KargilVijayDiwas,149.993
+11:10,7,Tom Daley,14.718
+11:10,8,退職処分,15.298
+11:10,9,健ちゃん,
+11:10,10,Doncic,59.073
+11:41,1,디오_1st_solo_ROSE,545.806
+11:41,2,Empathy_ByDO,553.051
+11:41,3,kyungsoo,447.919
+11:41,4,Rayssa,2.171.033
+11:41,5,SONA2021,35.262
+11:41,6,あなたがゲームの世界で使える魔法,
+11:41,7,The 1st Mini Album,394.683
+11:41,8,KargilVijayDiwas,157.144
+11:41,9,Tom Daley,16.057
+11:41,10,退職処分,19.623
+12:10,1,디오_1st_solo_ROSE,641.175
+12:10,2,Empathy_ByDO,645.738
+12:10,3,kyungsoo,491.701
+12:10,4,あなたがゲームの世界で使える魔法,
+12:10,5,SONA2021,41.633
+12:10,6,Rayssa,2.152.684
+12:10,7,The 1st Mini Album,136.215
+12:10,8,MondayMotivation,64.078
+12:10,9,退職処分,22.895
+12:10,10,Tom Daley,17.073
+12:41,1,디오_1st_solo_ROSE,701.924
+12:41,2,Empathy_ByDO,708.135
+12:41,3,あなたがゲームの世界で使える魔法,
+12:41,4,kyungsoo,534.855
+12:41,5,大野選手,24.161
+12:41,6,SONA2021,48.015
+12:41,7,Rayssa,2.167.615
+12:41,8,The 1st Mini Album,474.298
+12:41,9,AKMUxIU,31.570
+12:41,10,退職処分,26.037
+13:10,1,디오_1st_solo_ROSE,739.603
+13:10,2,Empathy_ByDO,745.725
+13:10,3,MicDrop1B,110.253
+13:10,4,あなたがゲームの世界で使える魔法,
+13:10,5,大野選手,33.901
+13:10,6,kyungsoo,558.938
+13:10,7,SONA2021,53.170
+13:10,8,Rayssa,2.213.131
+13:10,9,The 1st Mini Album,491.649
+13:10,10,大野将平,28.374
+13:41,1,MicDrop1B,185.095
+13:41,2,디오_1st_solo_ROSE,766.974
+13:41,3,Empathy_ByDO,772.326
+13:41,4,あなたがゲームの世界で使える魔法,
+13:41,5,大野選手,38.403
+13:41,6,kyungsoo,586.015
+13:41,7,SONA2021,57.298
+13:41,8,Rayssa,2.236.486
+13:41,9,男子バレー,10.665
+13:41,10,大野将平,32.650
+14:10,1,MicDrop1B,214.168
+14:10,2,SZ_夏のハイドレンジア,22.680
+14:10,3,디오_1st_solo_ROSE,789.412
+14:10,4,Empathy_ByDO,794.929
+14:10,5,あなたがゲームの世界で使える魔法,
+14:10,6,大野選手,41.100
+14:10,7,kyungsoo,601.508
+14:10,8,男子バレー,14.020
+14:10,9,大野将平,35.646
+14:10,10,ハイキューの曲,
+14:41,1,SZ_夏のハイドレンジア,60.245
+14:41,2,CDTVライブライブ,42.532
+14:41,3,MicDrop1B,234.709
+14:41,4,あなたがゲームの世界で使える魔法,
+14:41,5,디오_1st_solo_ROSE,813.283
+14:41,6,スペイン,28.079
+14:41,7,男子バレー,17.742
+14:41,8,大野選手,42.893
+14:41,9,kyungsoo,620.547
+14:41,10,Chano,
+15:10,1,あと1ゲーム,13.371
+15:10,2,SZ_夏のハイドレンジア,83.171
+15:10,3,CDTVライブライブ,56.973
+15:10,4,銀メダル,45.019
+15:10,5,バレーボール,28.429
+15:10,6,MicDrop1B,248.822
+15:10,7,Hidilyn Diaz,82.244
+15:10,8,卓球混合ダブルス,
+15:10,9,あと1セット,
+15:10,10,Varane,157.722
+15:41,1,金メダル,1.021.696
+15:41,2,水谷選手,89.094
+15:41,3,あと1ゲーム,14.482
+15:41,4,Hidilyn Diaz,150.894
+15:41,5,SZ_夏のハイドレンジア,86.235
+15:41,6,Varane,189.773
+15:41,7,美誠ちゃん,21.859
+15:41,8,CDTVライブライブ,63.862
+15:41,9,伊藤美誠,99.310
+15:41,10,男子バレー,32.240
+16:10,1,金メダル,1.089.977
+16:10,2,金メダル,1.089.977
+16:10,3,水谷選手,115.737
+16:10,4,Hidilyn Diaz,195.193
+16:10,5,スペイン,52.589
+16:10,6,Varane,204.099
+16:10,7,あと1ゲーム,14.391
+16:10,8,バスケットボール,30.755
+16:10,9,美誠ちゃん,26.104
+16:10,10,伊藤美誠,124.554
+16:41,1,金メダル,1.164.623
+16:41,2,水谷選手,128.477
+16:41,3,Hidilyn Diaz,226.960
+16:41,4,Varane,220.556
+16:41,5,あと1ゲーム,14.463
+16:41,6,スペイン,55.127
+16:41,7,バスケットボール,31.712
+16:41,8,美誠ちゃん,27.739
+16:41,9,伊藤美誠,136.211
+16:41,10,SZ_夏のハイドレンジア,88.245
+17:10,1,金メダル,1.181.868
+17:10,2,水谷選手,134.906
+17:10,3,Hidilyn Diaz,249.112
+17:10,4,Varane,225.848
+17:10,5,voleimasculino,15.637
+17:10,6,あと1ゲーム,14.320
+17:10,7,伊藤選手,123.432
+17:10,8,スペイン,55.736
+17:10,9,Wallace,25.915
+17:10,10,Chano,22.723
+17:41,1,Argentina,370.501
+17:41,2,金メダル,1.202.354
+17:41,3,voleimasculino,26.066
+17:41,4,Lucarelli,83.837
+17:41,5,Hidilyn Diaz,266.207
+17:41,6,Varane,237.542
+17:41,7,水谷選手,138.959
+17:41,8,あと1ゲーム,14.367
+17:41,9,Leal,742.840
+17:41,10,Chano,27.736
+18:10,1,Argentina,534.080
+18:10,2,Lucarelli,125.710
+18:10,3,voleimasculino,32.364
+18:10,4,volleyball,95.029
+18:10,5,金メダル,1.201.722
+18:10,6,Varane,242.131
+18:10,7,BRAxARG,
+18:10,8,Hidilyn Diaz,277.960
+18:10,9,Bruno Lima,10.418
+18:10,10,あと1ゲーム,14.298
+18:41,1,Argentina,619.576
+18:41,2,Lucarelli,146.282
+18:41,3,voleimasculino,33.247
+18:41,4,volleyball,102.439
+18:41,5,金メダル,1.212.011
+18:41,6,Varane,260.161
+18:41,7,Chano,38.380
+18:41,8,Hidilyn Diaz,288.206
+18:41,9,FGO6周年,14.521
+18:41,10,水谷選手,143.322
+19:10,1,Argentina,641.403
+19:10,2,Lucarelli,151.815
+19:10,3,voleimasculino,33.410
+19:10,4,Varane,271.777
+19:10,5,volleyball,103.581
+19:10,6,Chano,43.615
+19:10,7,金メダル,1.210.071
+19:10,8,FGO6周年,15.741
+19:10,9,Hidilyn Diaz,295.717
+19:10,10,Kendini Keşfet,
+19:41,1,Argentina,660.938
+19:41,2,Varane,286.165
+19:41,3,Lucarelli,156.393
+19:41,4,Leal,826.734
+19:41,5,Chano,48.154
+19:41,6,voleimasculino,33.751
+19:41,7,FGO6周年,16.669
+19:41,8,volleyball,104.873
+19:41,9,YangınıÖnle,
+19:41,10,金メダル,1.216.638
+20:10,1,Butter8thNo1OnHot100,202.023
+20:10,2,Argentina,666.353
+20:10,3,BTS PAVED THE WAY,37.596
+20:10,4,BTS WORLD DOMINATION,30.594
+20:10,5,Varane,300.653
+20:10,6,Chano,52.172
+20:10,7,BTS vs BTS,29.786
+20:10,8,Lucarelli,159.424
+20:10,9,Leal,831.363
+20:10,10,voleimasculino,34.144
+20:41,1,Butter8thNo1OnHot100,292.089
+20:41,2,Argentina,676.372
+20:41,3,BTS PAVED THE WAY,56.018
+20:41,4,BTS WORLD DOMINATION,47.847
+20:41,5,WeMissYouMoreNamjoon,17.014
+20:41,6,Varane,317.335
+20:41,7,BTS vs BTS,39.176
+20:41,8,Chano,56.040
+20:41,9,Got_ARMY_Behind_Us,133.824
+20:41,10,Yummy CakeToken,
+21:10,1,Butter8thNo1OnHot100,328.093
+21:10,2,WeMissYouMoreNamjoon,42.200
+21:10,3,Argentina,677.932
+21:10,4,BTS PAVED THE WAY,63.797
+21:10,5,BTS WORLD DOMINATION,55.421
+21:10,6,Varane,328.859
+21:10,7,YangınıÖnle,
+21:10,8,Chano,59.202
+21:10,9,BTS vs BTS,43.041
+21:10,10,CemAdrian Elbistanda,
+21:41,1,Butter8thNo1OnHot100,347.678
+21:41,2,WeMissYouMoreNamjoon,50.273
+21:41,3,Argentina,685.091
+21:41,4,BTS PAVED THE WAY,69.418
+21:41,5,BTS WORLD DOMINATION,60.059
+21:41,6,Varane,344.214
+21:41,7,Chano,62.559
+21:41,8,YangınıÖnle,
+21:41,9,BuMisafirlikFazlaUzadı,12.886
+21:41,10,BTS vs BTS,46.357
+22:10,1,Butter8thNo1OnHot100,359.333
+22:10,2,TemptationIsland,10.271
+22:10,3,WeMissYouMoreNamjoon,53.608
+22:10,4,BTS PAVED THE WAY,72.710
+22:10,5,BTS WORLD DOMINATION,63.009
+22:10,6,Floriana,
+22:10,7,Varane,354.378
+22:10,8,BuMisafirlikFazlaUzadı,15.462
+22:10,9,Chano,65.477
+22:10,10,KCORP,
+22:41,1,TemptationIsland,22.131
+22:41,2,Butter8thNo1OnHot100,368.035
+22:41,3,WeMissYouMoreNamjoon,55.670
+22:41,4,Salma,15.200
+22:41,5,Rodgers,42.835
+22:41,6,Clarisse,
+22:41,7,BuMisafirlikFazlaUzadı,18.916
+22:41,8,Varane,367.122
+22:41,9,BTS PAVED THE WAY,75.226
+22:41,10,BTS WORLD DOMINATION,64.904
+23:10,1,LoveIsland,178.186
+23:10,2,TemptationIsland,32.942
+23:10,3,Salma,27.410
+23:10,4,Butter8thNo1OnHot100,375.508
+23:10,5,Bledsoe,15.097
+23:10,6,Bledsoe,15.097
+23:10,7,WeMissYouMoreNamjoon,57.087
+23:10,8,Rodgers,46.830
+23:10,9,Memphis,31.454
+23:10,10,BuMisafirlikFazlaUzadı,22.257
+23:41,1,LoveIsland,190.589
+23:41,2,TemptationIsland,42.411
+23:41,3,Salma,31.495
+23:41,4,Butter8thNo1OnHot100,383.524
+23:41,5,SVDebateFinal,10.830
+23:41,6,ElTongoEsReal,37.280
+23:41,7,Bledsoe,18.923
+23:41,8,Bledsoe,18.923
+23:41,9,Memphis,35.075
+23:41,10,Rodgers,48.908

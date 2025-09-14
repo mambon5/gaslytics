@@ -1,0 +1,421 @@
+hora,posicio,trend,volum
+00:04,1,AppleEvent,806.026
+00:04,2,MCCelebrity,25.221
+00:04,3,Cardi,177.401
+00:04,4,Benfica,89.952
+00:04,5,النصر_سباهان,212.393
+00:04,6,iPad Air,113.252
+00:04,7,Viva México,89.641
+00:04,8,Bale,90.315
+00:04,9,MasumlarApartmanı,
+00:04,10,MHSCOL,12.095
+00:34,1,MCCelebrity,31.089
+00:34,2,Cardi,192.913
+00:34,3,AppleEvent,819.070
+00:34,4,Benfica,93.537
+00:34,5,iPad Air,118.246
+00:34,6,النصر_سباهان,223.343
+00:34,7,AStarIsBorn,14.533
+00:34,8,Viva México,94.898
+00:34,9,STREAM BETTY,44.555
+00:34,10,VersusEnMTVHits,26.496
+00:59,1,MCCelebrity,35.529
+00:59,2,Cardi,203.748
+00:59,3,AppleEvent,831.162
+00:59,4,Benfica,95.740
+00:59,5,JuntosSomos,44.996
+00:59,6,Viva México,99.431
+00:59,7,STREAM BETTY,51.762
+00:59,8,VersusEnMTVHits,38.722
+00:59,9,AStarIsBorn,15.304
+00:59,10,Peñarol,12.542
+01:34,1,MCCelebrity,39.670
+01:34,2,Cardi,208.877
+01:34,3,AppleEvent,850.854
+01:34,4,Benfica,96.976
+01:34,5,JuntosSomos,47.916
+01:34,6,Floribella,18.000
+01:34,7,Viva México,105.425
+01:34,8,Dragic,
+01:34,9,ローソンGODIVA,
+01:34,10,Peñarol,14.592
+02:04,1,FloribellaNaBand,10.039
+02:04,2,Cardi,211.106
+02:04,3,MCCelebrity,42.060
+02:04,4,Dragic,
+02:04,5,AppleEvent,868.957
+02:04,6,JuntosSomos,50.279
+02:04,7,Peñarol,16.715
+02:04,8,VamosColoColo,
+02:04,9,Viva México,110.728
+02:04,10,Benfica,98.292
+02:34,1,FloribellaNaBand,13.427
+02:34,2,Peñarol,21.534
+02:34,3,Cardi,220.978
+02:34,4,MCCelebrity,43.063
+02:34,5,Walter,26.320
+02:34,6,Dragic,
+02:34,7,JuntosSomos,52.745
+02:34,8,Viva México,117.044
+02:34,9,Cavani,73.762
+02:34,10,AppleEvent,889.702
+03:04,1,Kemba,19.675
+03:04,2,Tatum,37.560
+03:04,3,Marcus Smart,11.494
+03:04,4,Cavani,81.185
+03:04,5,Cortez,12.813
+03:04,6,FloribellaNaBand,14.236
+03:04,7,Peñarol,23.087
+03:04,8,Cardi,224.521
+03:04,9,Dragic,
+03:04,10,Walter,27.067
+03:34,1,Tatum,80.157
+03:34,2,Kemba,43.350
+03:34,3,Celtics,114.077
+03:34,4,Jimmy Butler,29.978
+03:34,5,Adebayo,33.461
+03:34,6,HeatTwitter,14.359
+03:34,7,MIAvsBOS,
+03:34,8,Tyler Herro,13.822
+03:34,9,Miami,141.234
+03:34,10,Marcus Smart,15.782
+04:04,1,Tatum,102.838
+04:04,2,Kemba,46.720
+04:04,3,Celtics,127.153
+04:04,4,Jimmy Butler,35.200
+04:04,5,Adebayo,52.634
+04:04,6,HeatTwitter,17.550
+04:04,7,MIAvsBOS,
+04:04,8,Tyler Herro,16.916
+04:04,9,Marcus Smart,16.665
+04:04,10,TrumpTownHall,22.686
+04:34,1,RocaAFazenda,91.887
+04:34,2,Tatum,110.269
+04:34,3,Kemba,47.875
+04:34,4,Jamal Murray,12.699
+04:34,5,Jimmy Butler,37.043
+04:34,6,TrumpTownHall,46.142
+04:34,7,Clippers,76.352
+04:34,8,Tyler Herro,19.567
+04:34,9,Marcus Smart,17.078
+04:34,10,Cavani,86.232
+05:04,1,RocaAFazenda,226.030
+05:04,2,Clippers,97.539
+05:04,3,Tatum,114.615
+05:04,4,Jokic,37.775
+05:04,5,bucciovertimechallenge,
+05:04,6,Jamal Murray,15.797
+05:04,7,Jimmy Butler,37.913
+05:04,8,TrumpTownHall,65.680
+05:04,9,Heat,201.539
+05:04,10,Kawhi,37.892
+05:34,1,Clippers,275.736
+05:34,2,Kawhi,121.883
+05:34,3,RocaAFazenda,279.033
+05:34,4,Paul George,44.509
+05:34,5,Murray,108.950
+05:34,6,NBAPlayoffs,48.936
+05:34,7,Doc Rivers,24.408
+05:34,8,Denver,78.842
+05:34,9,bucciovertimechallenge,
+05:34,10,Rodrigo,84.086
+06:04,1,Clippers,561.082
+06:04,2,Kawhi,270.788
+06:04,3,Paul George,104.950
+06:04,4,Jokic,93.698
+06:04,5,RocaAFazenda,298.920
+06:04,6,Lebron,194.261
+06:04,7,NBAPlayoffs,64.617
+06:04,8,Doc Rivers,46.000
+06:04,9,Jamal,113.636
+06:04,10,Dame,131.212
+06:34,1,Clippers,661.337
+06:34,2,Kawhi,339.326
+06:34,3,Jokic,108.139
+06:34,4,Raissa,161.133
+06:34,5,NBAPlayoffs,68.602
+06:34,6,Viva México,220.048
+06:34,7,Dame,151.428
+06:34,8,Pat Bev,42.192
+06:34,9,DENvsLAC,
+06:34,10,Cartolouco,66.481
+07:04,1,Clippers,716.163
+07:04,2,Kawhi,373.710
+07:04,3,Raissa,211.740
+07:04,4,Jokic,116.223
+07:04,5,Lebron,246.501
+07:04,6,NBAPlayoffs,71.525
+07:04,7,Viva México,244.260
+07:04,8,Dame,161.711
+07:04,9,Cartolouco,76.192
+07:04,10,DENvsLAC,10.128
+07:29,1,Clippers,748.932
+07:29,2,Kawhi,393.239
+07:29,3,Paul George,155.543
+07:29,4,Raissa,231.576
+07:29,5,Jokic,120.672
+07:29,6,Lebron,258.166
+07:29,7,NBAPlayoffs,73.541
+07:29,8,Viva México,261.223
+07:29,9,Dame,169.440
+07:29,10,Cartolouco,77.687
+08:04,1,Clippers,777.608
+08:04,2,Kawhi,411.725
+08:04,3,Lakers,306.898
+08:04,4,Raissa,245.612
+08:04,5,Lebron,265.745
+08:04,6,Jokic,124.643
+08:04,7,NBAPlayoffs,75.463
+08:04,8,Viva México,276.424
+08:04,9,Dame,173.790
+08:04,10,Undertale,326.523
+08:34,1,Clippers,796.837
+08:34,2,Kawhi,423.655
+08:34,3,Lakers,315.798
+08:34,4,Raissa,250.597
+08:34,5,Lebron,273.226
+08:34,6,Jokic,127.362
+08:34,7,10milliondreams,19.475
+08:34,8,Viva México,287.031
+08:34,9,NBAPlayoffs,76.891
+08:34,10,Denver,154.046
+09:04,1,Clippers,811.164
+09:04,2,Kawhi,432.753
+09:04,3,10milliondreams,38.718
+09:04,4,Raissa,253.474
+09:04,5,Lebron,277.398
+09:04,6,Jokic,129.349
+09:04,7,Viva México,293.880
+09:04,8,NBAPlayoffs,78.214
+09:04,9,Denver,155.954
+09:04,10,Pandemic P,46.463
+09:34,1,Clippers,823.350
+09:34,2,Lakers,327.304
+09:34,3,10milliondreams,46.745
+09:34,4,Raissa,255.366
+09:34,5,Lebron,282.422
+09:34,6,Jokic,131.065
+09:34,7,Viva México,299.429
+09:34,8,NBAPlayoffs,79.392
+09:34,9,Biel,248.106
+09:34,10,askofficial_ACE7,10.677
+10:04,1,Clippers,
+10:04,2,Lakers,
+10:04,3,10milliondreams,
+10:04,4,MewGulfxGojekThailand,
+10:04,5,askofficial_ACE7,15.440
+10:04,6,Raissa,256.464
+10:04,7,Lebron,
+10:04,8,Jokic,
+10:04,9,chenle,
+10:04,10,Viva México,
+10:34,1,Clippers,841.615
+10:34,2,10milliondreams,54.012
+10:34,3,Lakers,335.209
+10:34,4,MewGulfxGojekThailand,173.872
+10:34,5,askofficial_ACE7,16.193
+10:34,6,TarıkAkan,14.636
+10:34,7,chenle,81.119
+10:34,8,SOTEU,15.887
+10:34,9,Raissa,257.116
+10:34,10,Lebron,288.833
+11:04,1,Clippers,848.655
+11:04,2,Kawhi,456.277
+11:04,3,10milliondreams,56.225
+11:04,4,MewGulfxGojekThailand,227.792
+11:04,5,Lakers,337.991
+11:04,6,TarıkAkan,17.248
+11:04,7,SOTEU,20.380
+11:04,8,今年の秋あなたに必要なもの3つ,
+11:04,9,chenle,90.394
+11:04,10,Raissa,257.790
+11:29,1,Clippers,854.626
+11:29,2,MewGulfxGojekThailand,273.402
+11:29,3,10milliondreams,57.904
+11:29,4,FeelGood_With_Fromis_9,
+11:29,5,TarıkAkan,19.231
+11:29,6,今年の秋あなたに必要なもの3つ,
+11:29,7,Lakers,340.509
+11:29,8,chenle,100.301
+11:29,9,Paul George,183.903
+11:29,10,ÖzelEğitim Merkezleri,
+12:04,1,Clippers,862.299
+12:04,2,FeelGood_With_Fromis_9,12.855
+12:04,3,halilsezai,
+12:04,4,今年の秋あなたに必要なもの3つ,
+12:04,5,MewGulfxGojekThailand,328.512
+12:04,6,TarıkAkan,22.036
+12:04,7,Kawhi,464.455
+12:04,8,chenle,107.391
+12:04,9,トラッポラ,
+12:04,10,第二モテ期,
+12:34,1,halilsezai,
+12:34,2,東大王,
+12:34,3,Clippers,869.782
+12:34,4,FeelGood_With_Fromis_9,15.699
+12:34,5,恋ステ主題歌はランペ,45.081
+12:34,6,今年の秋あなたに必要なもの3つ,
+12:34,7,ディアンサ,11.437
+12:34,8,Kawhi,469.132
+12:34,9,Otedola,11.426
+12:34,10,スカサハ,
+13:04,1,halilsezai,14.278
+13:04,2,東大王,13.875
+13:04,3,有吉の壁,
+13:04,4,WeMissYouJennie,21.572
+13:04,5,Dynamite11thWin,34.008
+13:04,6,Clippers,877.079
+13:04,7,ディアンサ,15.313
+13:04,8,Otedola,20.609
+13:04,9,バニー,63.497
+13:04,10,主武装,
+13:34,1,halilsezai,23.939
+13:34,2,PMQs,14.320
+13:34,3,F4Thailand,64.106
+13:34,4,WeMissYouJennie,34.647
+13:34,5,東大王,17.788
+13:34,6,Clippers,886.045
+13:34,7,Otedola,31.831
+13:34,8,KOUGU維新,
+13:34,9,ディアンサ,17.159
+13:34,10,主武装,
+14:04,1,halilsezai,32.560
+14:04,2,F4Thailand,152.073
+14:04,3,PMQs,20.863
+14:04,4,WeMissYouJennie,48.148
+14:04,5,すわほー,
+14:04,6,Otedola,40.959
+14:04,7,SidNaazHits1MOnIG,157.894
+14:04,8,KOUGU維新,
+14:04,9,ディアンサ,18.534
+14:04,10,低レア,12.391
+14:31,1,halilsezai,40.759
+14:31,2,F4Thailand,204.316
+14:31,3,WeMissYouJennie,57.829
+14:31,4,PMQs,26.128
+14:31,5,すわほー,
+14:31,6,Otedola,48.019
+14:31,7,私のモテ期は,
+14:31,8,KOUGU維新,
+14:31,9,れおほー,
+14:31,10,低レア,14.033
+15:02,1,halilsezai,48.766
+15:02,2,F4Thailand,250.407
+15:02,3,あやねちゃんかわいい,
+15:02,4,WeMissYouJennie,65.574
+15:02,5,PMQs,30.631
+15:02,6,すわほー,
+15:02,7,Otedola,55.162
+15:02,8,さや香,
+15:02,9,SixTONES最新情報,10.327
+15:02,10,たかほー,
+15:37,1,halilsezai,57.332
+15:37,2,f4thailand,291.719
+15:37,3,AOTD40,26.039
+15:37,4,あやねちゃんかわいい,
+15:37,5,WeMissYouJennie,72.349
+15:37,6,SixTONES最新情報,14.414
+15:37,7,Otedola,63.239
+15:37,8,さや香,
+15:37,9,Big Ten,35.923
+15:37,10,すわほー,
+16:02,1,halilsezai,62.897
+16:02,2,F4Thailand,316.915
+16:02,3,AOTD40,31.743
+16:02,4,Big Ten,52.499
+16:02,5,あやねちゃんかわいい,
+16:02,6,WeMissYouJennie,76.428
+16:02,7,SixTONES最新情報,16.218
+16:02,8,O PANTANAL CHAMA,25.511
+16:02,9,Otedola,68.482
+16:02,10,さや香,
+16:37,1,halilsezai,70.770
+16:37,2,F4Thailand,343.522
+16:37,3,AOTD40,37.422
+16:37,4,Big Ten,67.507
+16:37,5,私たちはどうかしている,29.659
+16:37,6,caratselcaday,89.039
+16:37,7,O PANTANAL CHAMA,29.866
+16:37,8,Holocaust,42.859
+16:37,9,SixTONES最新情報,18.529
+16:37,10,BrightWin,74.718
+17:02,1,halilsezai,75.448
+17:02,2,F4Thailand,358.857
+17:02,3,AOTD40,40.262
+17:02,4,Big Ten,74.889
+17:02,5,CaratSelcaDay,113.632
+17:02,6,Happy_Minhee_Day,130.278
+17:02,7,Holocaust,46.403
+17:02,8,O PANTANAL CHAMA,32.654
+17:02,9,Maya Moore,
+17:02,10,SixTONES最新情報,19.668
+17:37,1,OurSoulmateYoungjae,173.596
+17:37,2,LOONAISCOMING,30.193
+17:37,3,halilsezai,82.034
+17:37,4,CaratSelcaDay,150.202
+17:37,5,Happy_Minhee_Day,167.490
+17:37,6,Big Ten,85.272
+17:37,7,Superman López,
+17:37,8,Miguel Ángel López,
+17:37,9,Holocaust,54.614
+17:37,10,Landa,
+18:07,1,OurSoulmateYoungjae,246.223
+18:07,2,LOONAISCOMING,49.421
+18:07,3,halilsezai,87.008
+18:07,4,サーターンサーターン,21.026
+18:07,5,CaratSelcaDay,174.541
+18:07,6,Big Ten,89.662
+18:07,7,Holocaust,62.766
+18:07,8,Superman López,
+18:07,9,Landa,
+18:07,10,Maya Moore,10.521
+18:07,1,OurSoulmateYoungjae,246.223
+18:07,2,LOONAISCOMING,49.421
+18:07,3,halilsezai,87.008
+18:07,4,サーターンサーターン,21.026
+18:07,5,CaratSelcaDay,174.541
+18:07,6,Big Ten,89.662
+18:07,7,Holocaust,62.766
+18:07,8,Superman López,
+18:07,9,Landa,
+18:07,10,Maya Moore,10.521
+18:07,1,OurSoulmateYoungjae,246.223
+18:07,2,LOONAISCOMING,49.421
+18:07,3,halilsezai,87.008
+18:07,4,サーターンサーターン,21.026
+18:07,5,CaratSelcaDay,174.541
+18:07,6,Big Ten,89.662
+18:07,7,Holocaust,62.766
+18:07,8,Superman López,
+18:07,9,Landa,
+18:07,10,Maya Moore,10.521
+18:12,1,OurSoulmateYoungjae,255.412
+18:12,2,LOONAISCOMING,51.409
+18:12,3,halilsezai,88.050
+18:12,4,サーターンサーターン,22.168
+18:12,5,CaratSelcaDay,177.684
+18:12,6,Big Ten,90.999
+18:12,7,Holocaust,64.884
+18:12,8,Superman López,
+18:12,9,Miguel Ángel López,
+18:12,10,Landa,
+23:02,1,PlayStation5,118.924
+23:02,2,サーターンサーターン,164.681
+23:02,3,PS5Showcase,54.139
+23:02,4,iOS14,108.141
+23:02,5,Kanye,398.515
+23:02,6,iyikiTTBvar,31.041
+23:02,7,FF16,55.217
+23:02,8,Deathloop,
+23:02,9,Resident Evil,16.472
+23:02,10,Maxwell,29.012
+23:32,1,PlayStation5,157.398
+23:32,2,サーターンサーターン,180.360
+23:32,3,Xbox,170.496
+23:32,4,iOS14,112.266
+23:32,5,Kanye,416.516
+23:32,6,iyikiTTBvar,36.809
+23:32,7,Harry Potter,119.520
+23:32,8,TemptationIsland,37.025
+23:32,9,FF16,71.612
+23:32,10,FFXVI,31.288

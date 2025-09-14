@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Dolph,991.953
+00:10,2,SalarioRosa,51.787
+00:10,3,LaIslaDeLasTentaciones2,31.553
+00:10,4,Memphis,194.561
+00:10,5,TwitterMaliciousDMCA,98.406
+00:10,6,VioliNation,14.780
+00:10,7,TwitterFakeCopyrights,37.901
+00:10,8,Stockport,
+00:10,9,Gosar,272.345
+00:10,10,Camila Queiroz,43.077
+00:41,1,Dolph,1.039.687
+00:41,2,SalarioRosa,55.342
+00:41,3,TwitterMaliciousDMCA,137.547
+00:41,4,LaIslaDeLasTentaciones2,39.004
+00:41,5,VioliNation,22.534
+00:41,6,Memphis,201.190
+00:41,7,TwitterFakeCopyrights,57.157
+00:41,8,Gosar,291.768
+00:41,9,Karina Oliva,40.082
+00:41,10,Stockport,
+01:10,1,Dolph,1.079.057
+01:10,2,SalarioRosa,58.193
+01:10,3,TwitterMaliciousDMCA,162.194
+01:10,4,LaIslaDeLasTentaciones2,42.697
+01:10,5,VioliNation,25.629
+01:10,6,Memphis,205.029
+01:10,7,TwitterFakeCopyrights,70.218
+01:10,8,Karina Oliva,47.556
+01:10,9,Lucca,
+01:10,10,Gosar,302.047
+01:41,1,Dolph,1.116.992
+01:41,2,SalarioRosa,60.797
+01:41,3,TwitterMaliciousDMCA,182.476
+01:41,4,VioliNation,26.670
+01:41,5,LaIslaDeLasTentaciones2,43.878
+01:41,6,Memphis,209.764
+01:41,7,Lucca,
+01:41,8,TwitterFakeCopyrights,81.246
+01:41,9,Igor Vinicius,
+01:41,10,Karina Oliva,55.781
+02:10,1,Dolph,1.146.281
+02:10,2,SalarioRosa,63.072
+02:10,3,Corinthians,87.230
+02:10,4,TwitterMaliciousDMCA,199.364
+02:10,5,Abel,26.574
+02:10,6,Lucca,11.004
+02:10,7,Luciano,29.118
+02:10,8,Kenedy,
+02:10,9,AEWDynamite,13.855
+02:10,10,Vitor Gabriel,14.799
+02:41,1,Vitor Gabriel,30.694
+02:41,2,Dolph,1.176.760
+02:41,3,AEWDynamite,29.106
+02:41,4,Abel,37.112
+02:41,5,Corinthians,97.876
+02:41,6,SalarioRosa,65.338
+02:41,7,Vitinho,
+02:41,8,shawn,28.830
+02:41,9,Lucca,13.128
+02:41,10,Camila,105.485
+03:10,1,shawn,80.172
+03:10,2,Vitor Gabriel,31.577
+03:10,3,Corinthians,104.576
+03:10,4,Dolph,1.202.531
+03:10,5,AEWDynamite,36.627
+03:10,6,Cássio,14.693
+03:10,7,Vitinho,11.984
+03:10,8,Kenedy,
+03:10,9,Giannis,17.869
+03:10,10,SalarioRosa,67.020
+03:41,1,shawn,126.919
+03:41,2,Rodinei,39.377
+03:41,3,Flamengo,245.840
+03:41,4,Corinthians,150.959
+03:41,5,Gabriel,157.055
+03:41,6,João Gomes,19.685
+03:41,7,Bruno Henrique,35.117
+03:41,8,Cássio,27.859
+03:41,9,AEWDynamite,49.885
+03:41,10,Sylvinho,30.185
+04:10,1,Shawn,155.657
+04:10,2,Flamengo,290.223
+04:10,3,Rodinei,50.853
+04:10,4,Corinthians,163.079
+04:10,5,Gabriel,162.389
+04:10,6,João Gomes,26.602
+04:10,7,Bruno Henrique,45.097
+04:10,8,Cássio,30.881
+04:10,9,Giannis,28.274
+04:10,10,AEWDynamite,57.242
+04:41,1,Shawn,179.139
+04:41,2,Flamengo,319.454
+04:41,3,Rodinei,54.342
+04:41,4,Corinthians,169.735
+04:41,5,ProvaDoFazendeiro,73.695
+04:41,6,Gabriel,166.721
+04:41,7,João Gomes,32.438
+04:41,8,Bruno Henrique,49.397
+04:41,9,Giannis,31.937
+04:41,10,Cássio,32.727
+05:10,1,Shawn,194.013
+05:10,2,Flamengo,333.484
+05:10,3,Rodinei,55.846
+05:10,4,Corinthians,171.140
+05:10,5,ProvaDoFazendeiro,78.331
+05:10,6,Gabriel,166.861
+05:10,7,João Gomes,34.764
+05:10,8,Bruno Henrique,51.005
+05:10,9,Giannis,33.184
+05:10,10,ドーベル,17.210
+05:41,1,Shawn,206.850
+05:41,2,Flamengo,343.738
+05:41,3,Rodinei,56.722
+05:41,4,Corinthians,172.867
+05:41,5,ProvaDoFazendeiro,80.563
+05:41,6,Gabriel,168.497
+05:41,7,João Gomes,36.304
+05:41,8,Bruno Henrique,51.886
+05:41,9,ドーベル,19.377
+05:41,10,Giannis,34.433
+06:10,1,Shawn,215.729
+06:10,2,Flamengo,348.388
+06:10,3,Rodinei,57.193
+06:10,4,ProvaDoFazendeiro,81.778
+06:10,5,Corinthians,173.167
+06:10,6,Gabriel,167.992
+06:10,7,João Gomes,37.193
+06:10,8,ドーベル,20.827
+06:10,9,Bruno Henrique,52.430
+06:10,10,Giannis,35.118
+06:41,1,Shawn,224.614
+06:41,2,Flamengo,351.978
+06:41,3,Rodinei,57.552
+06:41,4,ProvaDoFazendeiro,82.491
+06:41,5,Corinthians,173.787
+06:41,6,paytmlisting,
+06:41,7,ドーベル,22.122
+06:41,8,Gabriel,168.897
+06:41,9,Dolar11TL,11.277
+06:41,10,João Gomes,37.792
+07:10,1,Shawn,231.740
+07:10,2,Flamengo,353.477
+07:10,3,Rodinei,57.785
+07:10,4,Dolar11TL,13.284
+07:10,5,paytmlisting,
+07:10,6,ProvaDoFazendeiro,82.728
+07:10,7,Corinthians,173.842
+07:10,8,ドーベル,23.249
+07:10,9,Bruno Henrique,53.041
+07:10,10,Gabriel,168.382
+07:41,1,Shawn,238.787
+07:41,2,Dolar11TL,15.795
+07:41,3,Rodinei,57.947
+07:41,4,Flamengo,354.767
+07:41,5,paytmlisting,
+07:41,6,ProvaDoFazendeiro,83.032
+07:41,7,ドーベル,24.327
+07:41,8,Corinthians,174.119
+07:41,9,نوفمبر_المجيد,23.519
+07:41,10,Ser ETH,
+08:10,1,Shawn,244.354
+08:10,2,Dolar11TL,17.724
+08:10,3,paytmlisting,
+08:10,4,Rodinei,58.057
+08:10,5,Flamengo,355.107
+08:10,6,ドーベル,25.182
+08:10,7,ProvaDoFazendeiro,83.235
+08:10,8,نوفمبر_المجيد,24.729
+08:10,9,Corinthians,173.944
+08:10,10,Ser ETH,
+08:41,1,Shawn,250.076
+08:41,2,Dolar11TL,19.666
+08:41,3,paytmlisting,
+08:41,4,Rodinei,58.157
+08:41,5,نوفمبر_المجيد,26.018
+08:41,6,Flamengo,355.796
+08:41,7,ドーベル,26.101
+08:41,8,FelizJueves,
+08:41,9,VALORANTキャラ診断,
+08:41,10,Ser ETH,
+09:10,1,Shawn,254.296
+09:10,2,Dolar11TL,21.469
+09:10,3,paytmlisting,
+09:10,4,VALORANTキャラ診断,
+09:10,5,نوفمبر_المجيد,27.056
+09:10,6,FelizJueves,
+09:10,7,Rodinei,58.230
+09:10,8,Flamengo,355.495
+09:10,9,수능 보신,
+09:10,10,ドーベル,26.735
+09:41,1,Shawn,259.352
+09:41,2,Dolar11TL,23.442
+09:41,3,VALORANTキャラ診断,
+09:41,4,다음은_너야_04,
+09:41,5,수능 보신,
+09:41,6,paytmlisting,
+09:41,7,ShiryoInu P2E,
+09:41,8,Ali Haydar Kaytan,
+09:41,9,Bandırma Belediyesi,
+09:41,10,VenmoItForward,
+10:10,1,다음은_너야_04,
+10:10,2,Shawn,263.583
+10:10,3,Dolar11TL,25.028
+10:10,4,VALORANTキャラ診断,
+10:10,5,BlackFridayMediaMarkt,
+10:10,6,수능 보신,
+10:10,7,いいねかRTで気になった人フォローする,15.087
+10:10,8,Ali Haydar Kaytan,
+10:10,9,ShiryoInu P2E,
+10:10,10,POWER OF LOVE JAPAN CONCERT,19.449
+10:41,1,BlackFridayMediaMarkt,
+10:41,2,다음은_너야_04,
+10:41,3,IlustradosDeLaBruma,
+10:41,4,Shawn,268.665
+10:41,5,faizkararı,
+10:41,6,いいねかRTで気になった人フォローする,22.293
+10:41,7,ShiryoInu P2E,
+10:41,8,수능 보신,10.215
+10:41,9,Bandırma Belediyesi,
+10:41,10,Camila,329.331
+11:10,1,BlackFridayMediaMarkt,
+11:10,2,다음은_너야_04,
+11:10,3,faizkararı,
+11:10,4,IlustradosDeLaBruma,
+11:10,5,いいねかRTで気になった人フォローする,26.758
+11:10,6,Shawn,273.160
+11:10,7,ShiryoInu P2E,
+11:10,8,수능 보신,13.312
+11:10,9,Camila,333.042
+11:10,10,ポケモン,138.079
+11:41,1,BlackFridayMediaMarkt,
+11:41,2,BelleDaylightAlbum,21.463
+11:41,3,faizkararı,
+11:41,4,BelleMariano,24.163
+11:41,5,IlustradosDeLaBruma,
+11:41,6,ShiryoInu P2E,
+11:41,7,Shawn,278.296
+11:41,8,ポケモン,145.872
+11:41,9,ダイパリメイク,50.435
+11:41,10,수능 보신,15.467
+12:10,1,faizkararı,10.717
+12:10,2,VS魂,38.071
+12:10,3,BelleDaylightAlbum,44.581
+12:10,4,BlackFridayMediaMarkt,
+12:10,5,BelleMariano,45.269
+12:10,6,ポケモン,145.369
+12:10,7,ShiryoInu P2E,
+12:10,8,ダイパリメイク,52.738
+12:10,9,Shawn,281.928
+12:10,10,不快感露わ,
+12:41,1,faizkararı,18.977
+12:41,2,Dolar11TL,38.258
+12:41,3,はあちゃま生誕祭2021,
+12:41,4,VS魂,47.068
+12:41,5,BelleDaylightAlbum,63.481
+12:41,6,ポケモン,152.781
+12:41,7,yujin,75.584
+12:41,8,ダイパリメイク,56.289
+12:41,9,不快感露わ,
+12:41,10,Merkez Bankası,43.586
+13:10,1,faizkararı,22.983
+13:10,2,Dolar11TL,43.785
+13:10,3,はあちゃま生誕祭2021,12.463
+13:10,4,HemenSeçim,16.182
+13:10,5,BlackFridayPcComponentesASUS,
+13:10,6,ポケモン,151.883
+13:10,7,yujin,78.018
+13:10,8,Artık DUR Erdoğan,10.253
+13:10,9,ダイパリメイク,58.235
+13:10,10,不快感露わ,
+13:41,1,faizkararı,25.373
+13:41,2,Dolar11TL,48.270
+13:41,3,BlackFridayPcComponentesASUS,
+13:41,4,はあちゃま生誕祭2021,15.445
+13:41,5,素のまんま,39.958
+13:41,6,Artık DUR Erdoğan,13.967
+13:41,7,Karina Oliva,134.545
+13:41,8,ポケモン,159.481
+13:41,9,ダイパリメイク,61.968
+13:41,10,音ゲーマー,
+14:10,1,faizkararı,27.074
+14:10,2,Dolar11TL,51.852
+14:10,3,Taladro Nafile,
+14:10,4,BlackFridayPcComponentesASUS,
+14:10,5,ドクターX,15.237
+14:10,6,HemenSeçim,24.145
+14:10,7,Artık DUR Erdoğan,16.748
+14:10,8,Karina Oliva,141.101
+14:10,9,ポケモン,159.559
+14:10,10,音ゲーマー,10.261
+14:41,1,Dolar11TL,61.778
+14:41,2,faizkararı,28.884
+14:41,3,BlackFridayPcComponentesASUS,
+14:41,4,Taladro Nafile,
+14:41,5,10YearsOfUpAllNight,28.183
+14:41,6,HemenSeçim,28.961
+14:41,7,HÜKÜMET İSTİFA,
+14:41,8,ポケモン,168.175
+14:41,9,Artık DUR Erdoğan,20.351
+14:41,10,Karina Oliva,147.750
+15:10,1,Dolar11TL,73.343
+15:10,2,faizkararı,30.651
+15:10,3,HÜKÜMET İSTİFA,
+15:10,4,BlackFridayPcComponentesASUS,
+15:10,5,10YearsOfUpAllNight,35.335
+15:10,6,Taladro Nafile,
+15:10,7,HemenSecim,33.429
+15:10,8,DURMAK YOK YOLA DEVAM,11.307
+15:10,9,ポケモン,168.875
+15:10,10,Artık DUR Erdoğan,24.022
+15:41,1,Dolar11TL,82.573
+15:41,2,HÜKÜMET İSTİFA,
+15:41,3,10YearsOfUpAllNight,40.921
+15:41,4,BlackFridayPcComponentesASUS,10.017
+15:41,5,HemenSecim,37.575
+15:41,6,faizkararı,32.302
+15:41,7,Taladro Nafile,
+15:41,8,DURMAK YOK YOLA DEVAM,15.053
+15:41,9,Zac Stacy,16.070
+15:41,10,ポケモン,177.068
+16:10,1,Dolar11TL,88.270
+16:10,2,HAPPYRUKIDAY,51.259
+16:10,3,瑠姫王子24歳_たくさんの愛と祝福を,37.470
+16:10,4,카이복숭아_피치올려,33.683
+16:10,5,KAI MOOD SAMPLER 1,65.309
+16:10,6,HÜKÜMET İSTİFA,
+16:10,7,10YearsOfUpAllNight,44.889
+16:10,8,ポケモン,186.179
+16:10,9,ダイパリメイク,88.354
+16:10,10,Zac Stacy,19.033
+16:41,1,Dolar11TL,92.598
+16:41,2,HAPPYRUKIDAY,97.860
+16:41,3,瑠姫王子24歳_たくさんの愛と祝福を,68.099
+16:41,4,카이복숭아_피치올려,126.303
+16:41,5,KAI MOOD SAMPLER 1,171.965
+16:41,6,ポケモン,203.000
+16:41,7,ダイパリメイク,99.578
+16:41,8,GaladaYılbaşı500BinTL,
+16:41,9,Zac Stacy,23.190
+16:41,10,HÜKÜMET İSTİFA,
+17:10,1,Dolar11TL,95.972
+17:10,2,HAPPYRUKIDAY,122.106
+17:10,3,瑠姫王子24歳_たくさんの愛と祝福を,80.126
+17:10,4,카이복숭아_피치올려,150.729
+17:10,5,Zac Stacy,29.309
+17:10,6,ポケモン,209.616
+17:10,7,KAI MOOD SAMPLER 1,201.636
+17:10,8,ダイパリメイク,104.241
+17:10,9,GaladaYılbaşı500BinTL,
+17:10,10,HÜKÜMET İSTİFA,
+17:41,1,Dolar11TL,99.775
+17:41,2,Zac Stacy,36.960
+17:41,3,HAPPYRUKIDAY,131.711
+17:41,4,瑠姫王子24歳_たくさんの愛と祝福を,85.896
+17:41,5,ポケモン,216.397
+17:41,6,카이복숭아_피치올려,159.344
+17:41,7,ダイパリメイク,108.238
+17:41,8,KAI MOOD SAMPLER 1,213.738
+17:41,9,negünlerekaldık,
+17:41,10,Lolla,18.999
+18:10,1,Zac Stacy,44.583
+18:10,2,Dolar11TL,103.218
+18:10,3,KulaklarınÇınlıyormu,
+18:10,4,Fortune4Days,70.148
+18:10,5,PandaGirlToken,
+18:10,6,HAPPYRUKIDAY,135.339
+18:10,7,ポケモン,219.895
+18:10,8,ダイパリメイク,110.546
+18:10,9,Lolla,20.177
+18:10,10,KAI MOOD SAMPLER 1,218.982
+18:41,1,Zac Stacy,52.302
+18:41,2,Fortune4Days,87.225
+18:41,3,KulaklarınÇınlıyormu,
+18:41,4,Dolar11TL,106.446
+18:41,5,PandaGirlToken,
+18:41,6,لا_للمستحيل,
+18:41,7,Lolla,21.865
+18:41,8,ポケモン,223.705
+18:41,9,Velhalla Katlandı,
+18:41,10,Shaggy,17.092
+19:10,1,Zac Stacy,58.431
+19:10,2,Fortune4Days,82.840
+19:10,3,KulaklarınÇınlıyormu,
+19:10,4,Dolar11TL,108.978
+19:10,5,διαγγελμα,13.229
+19:10,6,لا_للستحيل,
+19:10,7,Lolla,22.959
+19:10,8,MSNBC,127.840
+19:10,9,Shaggy,18.720
+19:10,10,ポケモン,225.215
+19:41,1,Fortune4Days,91.112
+19:41,2,Zac Stacy,63.558
+19:41,3,KulaklarınÇınlıyormu,
+19:41,4,διαγγελμα,15.606
+19:41,5,MSNBC,158.899
+19:41,6,ابوظبي_للاعلام,
+19:41,7,Julius Jones,109.756
+19:41,8,AkpyeOyVermekDemek,20.556
+19:41,9,Lolla,24.117
+19:41,10,Shaggy,20.352
+20:10,1,Fortune4Days,89.863
+20:10,2,Zac Stacy,68.104
+20:10,3,بن_تركي_والمشاهير,
+20:10,4,Julius Jones,119.781
+20:10,5,اوليه_افطار_طوال_اليوم8,
+20:10,6,MSNBC,179.404
+20:10,7,اردوغان_يتودد_لاسراييل,
+20:10,8,διαγγελμα,17.167
+20:10,9,Lolla,24.614
+20:10,10,KHKlıKonuşuyor BasınSusuyor,12.961
+20:41,1,Zac Stacy,72.942
+20:41,2,Fortune4Days,93.982
+20:41,3,MSNBC,199.859
+20:41,4,Julius Jones,129.243
+20:41,5,رعش_يخطب_ملكه_جمال_الكويت,
+20:41,6,اردوغان_يتودد_لاسراييل,
+20:41,7,اوليه_افطار_طوال_اليوم8,
+20:41,8,AkpyeOyVermekDemek,27.601
+20:41,9,KHKlıKonuşuyor BasınSusuyor,17.966
+20:41,10,Lolla,25.411
+21:10,1,Zac Stacy,77.440
+21:10,2,Fortune4Days,92.900
+21:10,3,بن_تركي_والمشاهير,
+21:10,4,MSNBC,208.493
+21:10,5,Julius Jones,130.842
+21:10,6,رعش_يخطب_ملكه_جمال_الكويت,
+21:10,7,AkpyeOyVermekDemek,30.305
+21:10,8,اوليه_افطار_طوال_اليوم8,
+21:10,9,KHKlıKonuşuyor BasınSusuyor,21.921
+21:10,10,Brusque,
+21:41,1,Zac Stacy,81.654
+21:41,2,MSNBC,224.295
+21:41,3,Fortune4Days,95.616
+21:41,4,Julius Jones,135.295
+21:41,5,بن_تركي_والمشاهير,
+21:41,6,AkpyeOyVermekDemek,33.181
+21:41,7,XF2021,
+21:41,8,SPACEAFROOO,
+21:41,9,Brusque,
+21:41,10,KHKlıKonuşuyor BasınSusuyor,24.467
+22:10,1,SPACEAFROOO,
+22:10,2,XF2021,
+22:10,3,Zelig,
+22:10,4,Zac Stacy,85.414
+22:10,5,MSNBC,232.062
+22:10,6,احمد_فهمي,
+22:10,7,AkpyeOyVermekDemek,35.475
+22:10,8,Julius Jones,134.718
+22:10,9,Kennedy,52.164
+22:10,10,Brusque,
+22:41,1,SPACEAFROOO,12.121
+22:41,2,Zelig,
+22:41,3,XF2021,
+22:41,4,Zac Stacy,89.011
+22:41,5,SecretGala10,
+22:41,6,AdaraGala10,
+22:41,7,MSNBC,243.939
+22:41,8,Julius Jones,137.523
+22:41,9,Kennedy,56.196
+22:41,10,Bashir,14.314
+23:10,1,SPACEAFROOO,17.013
+23:10,2,Zelig,
+23:10,3,SecretGala10,11.381
+23:10,4,XF2021,
+23:10,5,AdaraGala10,16.777
+23:10,6,Zac Stacy,92.015
+23:10,7,MSNBC,247.307
+23:10,8,Antonio Brown,
+23:10,9,Julius Jones,135.769
+23:10,10,Kennedy,58.880
+23:41,1,SecretGala10,25.184
+23:41,2,SPACEAFROOO,19.520
+23:41,3,Zelig,
+23:41,4,Molina,39.993
+23:41,5,XF2021,12.039
+23:41,6,KingJamesBibleStudy,
+23:41,7,Antonio Brown,
+23:41,8,Zac Stacy,95.166
+23:41,9,MSNBC,256.084
+23:41,10,まふくん紅白,

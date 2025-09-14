@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Rodinei,67.699
+00:10,2,Flamengo,151.155
+00:10,3,Danica,20.671
+00:10,4,Roger Guedes,13.694
+00:10,5,Cássio,28.835
+00:10,6,Deji,24.096
+00:10,7,FRAITA,14.489
+00:10,8,Rodrigo Caio,19.853
+00:10,9,Vitinho,17.920
+00:10,10,Marinho,
+00:40,1,Rodinei,69.664
+00:40,2,Flamengo,155.262
+00:40,3,Danica,21.262
+00:40,4,Roger Guedes,13.873
+00:40,5,Cássio,30.006
+00:40,6,Deji,24.634
+00:40,7,daterush,
+00:40,8,FRAITA,14.639
+00:40,9,ConexiónHonduras12,11.524
+00:40,10,Marinho,
+01:10,1,Rodinei,71.187
+01:10,2,Flamengo,154.818
+01:10,3,Daronco,
+01:10,4,Hulk,24.235
+01:10,5,Danica,21.593
+01:10,6,Roger Guedes,13.938
+01:10,7,ConexiónHonduras12,13.809
+01:10,8,Miranda,21.109
+01:10,9,Cássio,30.409
+01:10,10,Deji,24.658
+01:40,1,Rodinei,72.681
+01:40,2,Flamengo,157.585
+01:40,3,Daronco,10.874
+01:40,4,Hulk,29.419
+01:40,5,Danica,21.928
+01:40,6,Miranda,23.666
+01:40,7,Roger Guedes,14.039
+01:40,8,Daterushreunion,
+01:40,9,ConexiónHonduras12,14.469
+01:40,10,Deji,25.080
+02:10,1,Rodinei,73.851
+02:10,2,Daronco,12.952
+02:10,3,Flamengo,156.853
+02:10,4,Hulk,31.933
+02:10,5,FNCWIN,12.743
+02:10,6,Miranda,23.857
+02:10,7,Danica,22.169
+02:10,8,Wiseman,
+02:10,9,Gatito,18.628
+02:10,10,Daterushreunion,
+02:40,1,Rodinei,74.842
+02:40,2,RHOA,
+02:40,3,Daronco,14.323
+02:40,4,Hulk,34.374
+02:40,5,Flamengo,159.313
+02:40,6,Godoy Cruz,
+02:40,7,Wiseman,11.048
+02:40,8,FNCWIN,13.862
+02:40,9,frank ocean,35.577
+02:40,10,Miranda,24.783
+03:10,1,RHOA,13.450
+03:10,2,Hulk,36.133
+03:10,3,Rodinei,75.521
+03:10,4,Daronco,15.466
+03:10,5,Godoy Cruz,
+03:10,6,Flamengo,158.696
+03:10,7,90DayFiance,
+03:10,8,Wiseman,12.042
+03:10,9,Fantastico,
+03:10,10,frank ocean,36.783
+03:40,1,RHOA,16.655
+03:40,2,Gallardo,10.143
+03:40,3,Godoy Cruz,
+03:40,4,Aliendro,
+03:40,5,Hulk,38.414
+03:40,6,Herrera,11.755
+03:40,7,90DayFiance,
+03:40,8,Daronco,16.347
+03:40,9,Rodinei,75.031
+03:40,10,Flamengo,159.646
+04:10,1,RHOA,17.595
+04:10,2,Chapman,
+04:10,3,Gallardo,11.684
+04:10,4,Godoy Cruz,
+04:10,5,MasterChefCelebritycolombia,
+04:10,6,90DayFiance,
+04:10,7,Aliendro,
+04:10,8,Carlos Cowboy,
+04:10,9,RegresoEnLaAcademia,
+04:10,10,Fantastico,
+04:40,1,RHOA,18.547
+04:40,2,Chapman,
+04:40,3,Gallardo,12.925
+04:40,4,RegresoEnLaAcademia,
+04:40,5,FNCWIN,19.019
+04:40,6,MasterChefCelebritycolombia,
+04:40,7,Godoy Cruz,
+04:40,8,Yankees,56.715
+04:40,9,90DayFiance,10.486
+04:40,10,Carlos Cowboy,
+05:10,1,RegresoEnLaAcademia,13.513
+05:10,2,RHOA,19.339
+05:10,3,ALGS,38.167
+05:10,4,Chapman,
+05:10,5,Gallardo,13.745
+05:10,6,FNCWIN,19.532
+05:10,7,Yankees,56.176
+05:10,8,Carlos Cowboy,
+05:10,9,MasterChefCelebritycolombia,
+05:10,10,Godoy Cruz,10.468
+05:40,1,RegresoEnLaAcademia,17.175
+05:40,2,TheVoiceCHV,
+05:40,3,RHOA,20.396
+05:40,4,ALGS,45.213
+05:40,5,ラーメンの日,25.514
+05:40,6,enacional,
+05:40,7,Chapman,
+05:40,8,Gallardo,14.515
+05:40,9,Paulo Gustavo,
+05:40,10,Yankees,57.804
+06:10,1,RegresoEnLaAcademia,22.600
+06:10,2,TheVoiceCHV,
+06:10,3,ラーメンの日,27.633
+06:10,4,RHOA,21.269
+06:10,5,enacional,
+06:10,6,ALGS,46.931
+06:10,7,Paulo Gustavo,
+06:10,8,Chapman,
+06:10,9,Gallardo,15.003
+06:10,10,賢さ30,
+06:40,1,RegresoEnLaAcademia,25.428
+06:40,2,TheVoiceCHV,
+06:40,3,ラーメンの日,29.488
+06:40,4,ファトゥス,92.311
+06:40,5,コレイちゃん,
+06:40,6,RHOA,21.901
+06:40,7,enacional,
+06:40,8,EstadoNacional,
+06:40,9,ファデュイ,10.553
+06:40,10,賢さ30,
+07:10,1,ファトゥス,127.742
+07:10,2,RegresoEnLaAcademia,25.916
+07:10,3,TheVoiceCHV,
+07:10,4,コレイちゃん,
+07:10,5,ラーメンの日,30.111
+07:10,6,Dottore,20.354
+07:10,7,ファデュイ,17.851
+07:10,8,原神くん,
+07:10,9,WorldPopulationDay,
+07:10,10,タルタリヤ,
+07:40,1,ファトゥス,147.812
+07:40,2,コレイちゃん,
+07:40,3,RegresoEnLaAcademia,26.146
+07:40,4,Dottore,30.107
+07:40,5,ラーメンの日,31.315
+07:40,6,WorldPopulationDay,
+07:40,7,Fatui,44.481
+07:40,8,TheVoiceCHV,
+07:40,9,ファデュイ,21.489
+07:40,10,原神くん,
+08:10,1,ファトゥス,163.224
+08:10,2,WorldPopulationDay,
+08:10,3,GharWaapsiOnHotstar,
+08:10,4,MondayMotivation,35.523
+08:10,5,Dottore,37.086
+08:10,6,Fatui,58.912
+08:10,7,ラーメンの日,32.260
+08:10,8,コレイちゃん,
+08:10,9,RegresoEnLaAcademia,26.340
+08:10,10,ファデュイ,24.090
+08:40,1,WorldPopulationDay,11.544
+08:40,2,MondayMotivation,38.129
+08:40,3,ファトゥス,174.070
+08:40,4,Fatui,73.645
+08:40,5,Dottore,42.414
+08:40,6,GharWaapsiOnHotstar,
+08:40,7,ラーメンの日,33.465
+08:40,8,コレイちゃん,
+08:40,9,Encierro5RTVE,
+08:40,10,mondaythoughts,
+09:10,1,MondayMotivation,40.712
+09:10,2,WorldPopulationDay,13.538
+09:10,3,Fatui,87.035
+09:10,4,ファトゥス,183.217
+09:10,5,RanbirKapoor,
+09:10,6,ラーメンの日,34.678
+09:10,7,dottore,46.864
+09:10,8,mondaythoughts,
+09:10,9,GharWaapsiOnHotstar,
+09:10,10,コレイちゃん,
+09:40,1,MondayMotivation,43.470
+09:40,2,WorldPopulationDay,15.464
+09:40,3,RanbirKapoor,
+09:40,4,Fatui,99.136
+09:40,5,mondaythoughts,
+09:40,6,ラーメンの日,36.478
+09:40,7,GharWaapsiOnHotstar,
+09:40,8,ファトゥス,191.813
+09:40,9,Dottore,51.217
+09:40,10,Arlecchino,43.314
+10:10,1,MondayMotivation,46.421
+10:10,2,WorldPopulationDay,17.108
+10:10,3,Srebrenitsa,
+10:10,4,ラーメンの日,38.073
+10:10,5,DONT TELL NATO,10.101
+10:10,6,mondaythoughts,
+10:10,7,RanbirKapoor,
+10:10,8,Fatui,111.358
+10:10,9,ファトゥス,198.868
+10:10,10,Chan,304.725
+10:40,1,Srebrenitsa,10.196
+10:40,2,MondayMotivation,50.019
+10:40,3,DONT TELL NATO,26.938
+10:40,4,WorldPopulationDay,20.753
+10:40,5,ラーメンの日,40.493
+10:40,6,AcilBaskını,14.468
+10:40,7,mondaythoughts,
+10:40,8,Chan,318.953
+10:40,9,Fatui,123.864
+10:40,10,José Guirao,
+11:10,1,Srebrenitsa,13.500
+11:10,2,WorldPopulationDay,26.387
+11:10,3,MondayMotivation,53.491
+11:10,4,ラーメンの日,42.726
+11:10,5,DONT TELL NATO,35.888
+11:10,6,AcilBaskını,16.010
+11:10,7,UberFiles,124.386
+11:10,8,Fatui,135.003
+11:10,9,Chan,315.490
+11:10,10,Karachi,56.291
+11:40,1,Srebrenitsa,17.906
+11:40,2,ラーメンの日,45.575
+11:40,3,WorldPopulationDay,30.100
+11:40,4,MondayMotivation,56.114
+11:40,5,DONT TELL NATO,39.563
+11:40,6,UberFiles,130.732
+11:40,7,AcilBaskını,17.175
+11:40,8,Karachi,64.226
+11:40,9,無料10連,
+11:40,10,Neco,22.297
+12:10,1,Srebrenitsa,22.199
+12:10,2,ラーメンの日,48.231
+12:10,3,WorldPopulationDay,32.925
+12:10,4,MondayMotivation,58.516
+12:10,5,DONT TELL NATO,42.375
+12:10,6,UberFiles,136.666
+12:10,7,mondaythoughts,10.663
+12:10,8,Karachi,71.980
+12:10,9,無料10連,
+12:10,10,Neco,22.655
+12:40,1,Srebrenitsa,26.038
+12:40,2,ラーメンの日,51.630
+12:40,3,心霊番組,
+12:40,4,口を揃えた怖い話,
+12:40,5,WorldPopulationDay,36.088
+12:40,6,MondayMotivation,60.891
+12:40,7,帰れマンデー,
+12:40,8,渋川さん,
+12:40,9,DONT TELL NATO,44.057
+12:40,10,パイレーツ,
+13:10,1,心霊番組,10.071
+13:10,2,Srebrenitsa,29.665
+13:10,3,口を揃えた怖い話,
+13:10,4,ラーメンの日,54.530
+13:10,5,Maguire,25.651
+13:10,6,帰れマンデー,10.292
+13:10,7,安倍晋三の国葬に反対します,13.706
+13:10,8,เลย์จับคู่ฟินกินคู่โอมนนน,11.710
+13:10,9,GOOD MORNING TXT,
+13:10,10,渋川さん,
+13:40,1,心霊番組,13.486
+13:40,2,口を揃えた怖い話,
+13:40,3,ラーメンの日,58.115
+13:40,4,Srebrenitsa,32.775
+13:40,5,安倍晋三の国葬に反対します,21.580
+13:40,6,เลย์จับคู่ฟินกินคู่โอมนนน,36.765
+13:40,7,Maguire,28.717
+13:40,8,帰れマンデー,13.595
+13:40,9,パソコンババア,
+13:40,10,SB19 WinYourHeart LyricVid,14.410
+14:10,1,CDTVライブライブ,33.180
+14:10,2,心霊番組,16.859
+14:10,3,口を揃えた怖い話,12.883
+14:10,4,安倍晋三の国葬に反対します,28.166
+14:10,5,ラーメンの日,61.203
+14:10,6,Maguire,30.786
+14:10,7,Srebrenitsa,35.951
+14:10,8,เลย์จับคู่ฟินกินคู่โอมนนน,73.120
+14:10,9,パソコンババア,
+14:10,10,SB19 WinYourHeart LyricVid,22.849
+14:40,1,CDTVライブライブ,82.353
+14:40,2,SnowMan,112.750
+14:40,3,心霊番組,19.064
+14:40,4,安倍晋三の国葬に反対します,35.723
+14:40,5,十万円でできるかな,15.392
+14:40,6,競争の番人,22.295
+14:40,7,ラーメンの日,64.877
+14:40,8,DONT TELL TINK,33.782
+14:40,9,SB19 WinYourHeart LyricVid,36.677
+14:40,10,Maguire,32.914
+15:10,1,CDTVライブライブ,100.768
+15:10,2,SnowMan,127.418
+15:10,3,競争の番人,25.578
+15:10,4,オレンジkiss,30.549
+15:10,5,安倍晋三の国葬に反対します,43.138
+15:10,6,ラーメンの日,68.065
+15:10,7,心霊番組,21.127
+15:10,8,DONT TELL TINK,57.894
+15:10,9,GOOD MORNING TXT,19.426
+15:10,10,SB19 WinYourHeart LyricVid,44.033
+15:40,1,CDTVライブライブ,107.527
+15:40,2,競争の番人,30.429
+15:40,3,SnowMan,135.248
+15:40,4,安倍晋三の国葬に反対します,50.059
+15:40,5,オレンジkiss,33.287
+15:40,6,ラーメンの日,71.273
+15:40,7,DONT TELL TINK,70.078
+15:40,8,心霊番組,22.695
+15:40,9,Maguire,35.951
+15:40,10,SB19 WinYourHeart LyricVid,49.113
+16:10,1,CDTVライブライブ,111.264
+16:10,2,競争の番人,31.015
+16:10,3,SnowMan,136.484
+16:10,4,安倍晋三の国葬に反対します,56.192
+16:10,5,SqueezieFAQ,
+16:10,6,ラーメンの日,74.027
+16:10,7,DONT TELL TINK,76.085
+16:10,8,RESPECT JISOO,24.068
+16:10,9,APOLOGIZE TO JISOO,23.231
+16:10,10,Mesut Özil,
+16:40,1,CDTVライブライブ,113.808
+16:40,2,赤ナス,21.340
+16:40,3,名前を一音ずつ下げるとカオス,
+16:40,4,競争の番人,31.855
+16:40,5,RESPECT JISOO,42.426
+16:40,6,安倍晋三の国葬に反対します,62.039
+16:40,7,ラーメンの日,76.655
+16:40,8,Mesut Özil,
+16:40,9,DONT TELL TINK,82.531
+16:40,10,Maguire,39.536
+17:10,1,赤ナス,29.991
+17:10,2,CDTVライブライブ,115.694
+17:10,3,RESPECT JISOO,63.898
+17:10,4,赤いナースコール,26.701
+17:10,5,名前を一音ずつ下げるとカオス,
+17:10,6,김인성_얼른_같이놀자_생일_축하해,22.838
+17:10,7,ラーメンの日,78.505
+17:10,8,Mesut Özil,
+17:10,9,SNEAKERS MV TEASER 1,24.738
+17:10,10,DONT TELL TINK,90.036
+17:40,1,赤ナス,32.287
+17:40,2,RESPECT JISOO,86.641
+17:40,3,ไบร์ทวิน,136.119
+17:40,4,CDTVライブライブ,116.891
+17:40,5,Amazonプライムデー,27.042
+17:40,6,名前を一音ずつ下げるとカオス,
+17:40,7,RESPECT LISA,53.737
+17:40,8,SNEAKERS MV TEASER 1,29.416
+17:40,9,Mesut Özil,
+17:40,10,ラーメンの日,79.877
+18:10,1,Ibarra,12.790
+18:10,2,プライムデー,61.485
+18:10,3,RESPECT JISOO,106.873
+18:10,4,ไบร์ทวิน,162.486
+18:10,5,赤ナス,32.950
+18:10,6,RESPECT LISA,87.463
+18:10,7,名前を一音ずつ下げるとカオス,
+18:10,8,百田夏菜子生誕祭,
+18:10,9,ITZY_CHECKMATE_D4,31.611
+18:10,10,SNEAKERS MV TEASER 1,31.911
+18:40,1,プライムデー,65.682
+18:40,2,Ibarra,14.740
+18:40,3,RESPECT JISOO,122.888
+18:40,4,RESPECT LISA,120.924
+18:40,5,ไบร์ทวิน,173.708
+18:40,6,名前を一音ずつ下げるとカオス,
+18:40,7,赤ナス,33.232
+18:40,8,RHOSLC,
+18:40,9,ทริอาชTheSeriesFinalEP,12.070
+18:40,10,Jen Shah,
+19:10,1,プライムデー,68.292
+19:10,2,Ibarra,15.755
+19:10,3,RESPECT LISA,151.441
+19:10,4,ทริอาชTheSeriesFinalEP,24.805
+19:10,5,Totti,
+19:10,6,RESPECT JISOO,135.618
+19:10,7,Lea Michele,11.409
+19:10,8,RHOSLC,
+19:10,9,ไบร์ทวิน,178.613
+19:10,10,名前を一音ずつ下げるとカオス,
+19:40,1,Lea Michele,17.830
+19:40,2,Totti,
+19:40,3,プライムデー,70.302
+19:40,4,NairobiGovDebate2022,
+19:40,5,Ibarra,16.671
+19:40,6,ทริอาชTheSeriesFinalEP,36.391
+19:40,7,RESPECT LISA,173.461
+19:40,8,Fanny Brice,
+19:40,9,Funny Girl,23.073
+19:40,10,APOLOGIZE TO LISA,168.593
+20:10,1,Lea Michele,22.952
+20:10,2,NairobiGovDebate2022,
+20:10,3,SakajaChallenge,13.783
+20:10,4,Igathe,17.700
+20:10,5,Totti,
+20:10,6,プライムデー,71.561
+20:10,7,BonoApruebo,
+20:10,8,Funny Girl,26.455
+20:10,9,ทริอาชTheSeriesFinalEP,44.771
+20:10,10,Ibarra,17.080
+20:40,1,NairobiGovDebate2022,15.476
+20:40,2,Lea Michele,28.125
+20:40,3,Igathe,29.616
+20:40,4,Sakaja,35.191
+20:40,5,Totti,
+20:40,6,BonoApruebo,
+20:40,7,Funny Girl,30.054
+20:40,8,Sanremo2023,
+20:40,9,Fanny Brice,
+20:40,10,Heinz Field,
+21:10,1,NairobiGovDebate2022,20.815
+21:10,2,Sakaja,46.188
+21:10,3,Igathe,39.038
+21:10,4,Lea Michele,32.251
+21:10,5,Totti,
+21:10,6,BonoApruebo,
+21:10,7,Funny Girl,32.791
+21:10,8,Sanremo2023,
+21:10,9,Hunter Biden,411.368
+21:10,10,Heinz Field,10.120
+21:40,1,ENGNOR,
+21:40,2,NairobiGovDebate2022,24.706
+21:40,3,Lionesses,
+21:40,4,Sakaja,54.283
+21:40,5,Igathe,45.781
+21:40,6,Lea Michele,35.705
+21:40,7,Totti,10.452
+21:40,8,BonoApruebo,10.834
+21:40,9,Norway,20.373
+21:40,10,Ellen White,
+22:10,1,ENGNOR,
+22:10,2,Lionesses,
+22:10,3,Norway,25.266
+22:10,4,EURO2022,
+22:10,5,Beth Mead,
+22:10,6,NairobiGovDebate2022,27.769
+22:10,7,Sakaja,60.001
+22:10,8,Igathe,50.258
+22:10,9,Totti,12.088
+22:10,10,Lea Michele,38.903
+22:40,1,ENGNOR,
+22:40,2,Lionesses,
+22:40,3,Norway,27.168
+22:40,4,WEURO2022,28.120
+22:40,5,Beth Mead,
+22:40,6,NairobiGovDebate2022,30.156
+22:40,7,Sakaja,64.202
+22:40,8,Totti,13.084
+22:40,9,Igathe,53.662
+22:40,10,Lea Michele,42.047
+23:10,1,Paige,35.011
+23:10,2,ENGNOR,
+23:10,3,Lionesses,
+23:10,4,Danica,22.335
+23:10,5,Norway,29.031
+23:10,6,Ekin,23.391
+23:10,7,EURO2022,
+23:10,8,Beth Mead,
+23:10,9,Anitta,105.858
+23:10,10,Jacques,28.861
+23:40,1,Paige,36.946
+23:40,2,ENGNOR,
+23:40,3,Lionesses,
+23:40,4,Danica,23.375
+23:40,5,Norway,30.486
+23:40,6,Anitta,125.858
+23:40,7,Ekin,25.321
+23:40,8,EURO2022,
+23:40,9,Beth Mead,
+23:40,10,Jacques,31.269

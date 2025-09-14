@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,CashAppFriday,12.347
+00:10,2,isola,14.659
+00:10,3,Neal Adams,31.818
+00:10,4,MaskSinger,
+00:10,5,من_شارع_الهرم_الي,
+00:10,6,Bauer,29.239
+00:10,7,Dakota Kai,
+00:10,8,Batwoman,
+00:10,9,Jon Watts,
+00:10,10,Strasbourg,23.874
+00:40,1,CashAppFriday,19.452
+00:40,2,isola,17.891
+00:40,3,Neal Adams,33.780
+00:40,4,Batwoman,
+00:40,5,من_شارع_الهرم_الي,
+00:40,6,MaskSinger,
+00:40,7,Bauer,30.473
+00:40,8,Dakota Kai,
+00:40,9,Jon Watts,
+00:40,10,Fantastic Four,
+01:10,1,CashAppFriday,23.167
+01:10,2,MitadaNoDiCaprio,
+01:10,3,isola,19.748
+01:10,4,Batwoman,
+01:10,5,letsconnect,
+01:10,6,Neal Adams,35.595
+01:10,7,Bauer,31.742
+01:10,8,Dakota Kai,
+01:10,9,Jon Watts,
+01:10,10,Fantastic Four,
+01:40,1,CashAppFriday,25.367
+01:40,2,MitadaNoDiCaprio,10.829
+01:40,3,isola,21.657
+01:40,4,Batwoman,
+01:40,5,letsconnect,
+01:40,6,Neal Adams,37.249
+01:40,7,Bauer,33.150
+01:40,8,Christian Watson,14.687
+01:40,9,Jets,130.477
+01:40,10,Jon Watts,
+02:10,1,CashAppFriday,26.861
+02:10,2,Ed Marinaro,
+02:10,3,MitadaNoDiCaprio,13.786
+02:10,4,JADE NO BAILE DA VOGUE,31.309
+02:10,5,letsconnect,
+02:10,6,Vikings,61.659
+02:10,7,Seahawks,42.155
+02:10,8,Batwoman,
+02:10,9,VoleiNoSporTV,
+02:10,10,TXT MILLION SELLERS,
+02:40,1,CashAppFriday,28.008
+02:40,2,HalkıKandıran BarışMuratYağcı,
+02:40,3,JADE NO BAILE DA VOGUE,52.895
+02:40,4,Ed Marinaro,
+02:40,5,MitadaNoDiCaprio,16.432
+02:40,6,Dean,75.530
+02:40,7,ARTHUR NA EXPOGRANDE,65.782
+02:40,8,MINISODE2 1dot44M PREORDERS,
+02:40,9,VoleiNoSporTV,
+02:40,10,TXT MILLION SELLERS,
+03:10,1,CashAppFriday,28.867
+03:10,2,Dean,84.551
+03:10,3,SmackDown,11.621
+03:10,4,Pickens,53.424
+03:10,5,JADE NO BAILE DA VOGUE,63.664
+03:10,6,MitadaNoDiCaprio,18.737
+03:10,7,TheLastDriveIn,
+03:10,8,MINISODE2 1dot44M PREORDERS,13.017
+03:10,9,ARTHUR NA EXPOGRANDE,90.351
+03:10,10,Ed Marinaro,
+03:40,1,Nakobe Dean,33.042
+03:40,2,TheLastDriveIn,
+03:40,3,SmackDown,17.374
+03:40,4,CashAppFriday,29.413
+03:40,5,JADE NO BAILE DA VOGUE,68.872
+03:40,6,Pickens,56.266
+03:40,7,VoleiNoSporTV,
+03:40,8,MitadaNoDiCaprio,20.445
+03:40,9,MINISODE2 1dot44M PREORDERS,15.823
+03:40,10,ARTHUR NA EXPOGRANDE,108.080
+04:10,1,Nakobe Dean,36.108
+04:10,2,SmackDown,21.706
+04:10,3,TheLastDriveIn,
+04:10,4,VoleiNoSporTV,
+04:10,5,jisung,182.677
+04:10,6,CashAppFriday,29.965
+04:10,7,ワルイコあつまれ,14.874
+04:10,8,JADE NO BAILE DA VOGUE,74.768
+04:10,9,ARTHUR NA EXPOGRANDE,120.794
+04:10,10,Malik Willis,29.928
+04:40,1,Nakobe Dean,47.920
+04:40,2,jisung,215.077
+04:40,3,TheLastDriveIn,12.028
+04:40,4,VoleiNoSporTV,
+04:40,5,Malik Willis,37.867
+04:40,6,AEWRampage,10.661
+04:40,7,SmackDown,23.002
+04:40,8,JADE NO BAILE DA VOGUE,87.416
+04:40,9,LFGM,
+04:40,10,ARTHUR NA EXPOGRANDE,131.579
+05:10,1,jisung,236.745
+05:10,2,Nakobe Dean,47.556
+05:10,3,Mets,54.607
+05:10,4,AEWRampage,14.811
+05:10,5,LFGM,
+05:10,6,Malik Willis,40.145
+05:10,7,TheLastDriveIn,14.036
+05:10,8,VoleiNoSporTV,10.824
+05:10,9,BaileDaVogue,
+05:10,10,Wayne Newton,
+05:40,1,jisung,253.113
+05:40,2,BaileDaVogue2022,39.253
+05:40,3,Mets,59.294
+05:40,4,Nakobe Dean,49.297
+05:40,5,TheLastDriveIn,16.102
+05:40,6,LFGM,
+05:40,7,voleinosportv,11.029
+05:40,8,AEWRampage,15.820
+05:40,9,Malik Willis,41.756
+05:40,10,Wayne Newton,
+06:10,1,Timberwolves,30.345
+06:10,2,Grizzlies,23.491
+06:10,3,jisung,260.839
+06:10,4,Minnesota,34.010
+06:10,5,BaileDaVogue2022,52.961
+06:10,6,Mets,61.696
+06:10,7,Nakobe Dean,49.724
+06:10,8,TheLastDriveIn,18.248
+06:10,9,Anthony Edwards,
+06:10,10,LFGM,
+06:40,1,Timberwolves,35.023
+06:40,2,Grizzlies,26.664
+06:40,3,jisung,270.395
+06:40,4,BaileDaVogue2022,61.830
+06:40,5,Minnesota,35.877
+06:40,6,ゼロイチ,
+06:40,7,TheLastDriveIn,20.465
+06:40,8,SideMニコ超出張版,
+06:40,9,Mets,63.448
+06:40,10,Nakobe Dean,50.739
+07:10,1,Timberwolves,37.442
+07:10,2,Grizzlies,28.274
+07:10,3,jisung,275.432
+07:10,4,BaileDaVogue2022,67.629
+07:10,5,キンプる,56.501
+07:10,6,Minnesota,36.441
+07:10,7,ゼロイチ,
+07:10,8,SizceAudimiBmwmi,
+07:10,9,VTuberFes2022DAY2,
+07:10,10,Wellbutrin,
+07:40,1,Grizzlies,29.518
+07:40,2,Timberwolves,38.940
+07:40,3,jisung,281.969
+07:40,4,キンプる,69.930
+07:40,5,BailedaVogue2022,71.665
+07:40,6,VTuberFes2022DAY2,12.958
+07:40,7,あなたをファンタジーRPGのNPC化,
+07:40,8,Minnesota,37.171
+07:40,9,プロ格三昧,
+07:40,10,Wellbutrin,
+08:10,1,キンプる,75.252
+08:10,2,jisung,285.152
+08:10,3,Grizzlies,30.399
+08:10,4,Timberwolves,40.094
+08:10,5,BailedaVogue2022,73.940
+08:10,6,プロ格三昧,
+08:10,7,あなたをファンタジーRPGのNPC化,
+08:10,8,ザレイズ,
+08:10,9,Wellbutrin,
+08:10,10,Minnesota,37.346
+08:40,1,RPGのNPC化,
+08:40,2,キンプる,77.541
+08:40,3,VTuberFes2022DAY2,20.646
+08:40,4,AFLCatsFreo,
+08:40,5,ザレイズ,
+08:40,6,プロ格三昧,
+08:40,7,jisung,289.925
+08:40,8,Grizzlies,31.240
+08:40,9,Timberwolves,41.098
+08:40,10,Wellbutrin,10.013
+09:10,1,あなたをファンタジーRPGのNPC化,
+09:10,2,ザレイズ,
+09:10,3,VTuberFes2022DAY2,24.690
+09:10,4,NRLWarriorsRaiders,
+09:10,5,青葉賞,
+09:10,6,プラダリア,
+09:10,7,Grizzlies,31.795
+09:10,8,Timberwolves,41.678
+09:10,9,️https,94.762
+09:10,10,レヴァンジル,
+09:40,1,VTuberFes2022DAY2,30.334
+09:40,2,あなたをファンタジーRPGのNPC化,
+09:40,3,ザレイズ,
+09:40,4,NRLWarriorsRaiders,
+09:40,5,青葉賞,
+09:40,6,jisung,296.490
+09:40,7,プラダリア,
+09:40,8,️https,96.348
+09:40,9,Grizzlies,32.363
+09:40,10,B.I 1ST FANMEETING,21.483
+10:10,1,どらほー,
+10:10,2,VTuberFes2022DAY2,33.158
+10:10,3,あなたをファンタジーRPGのNPC化,
+10:10,4,ミリシタシーズンエアー視聴チケット,
+10:10,5,ザレイズ,
+10:10,6,cumartesi,
+10:10,7,押し出し,
+10:10,8,jisung,298.834
+10:10,9,プラダリア,
+10:10,10,おりほー,
+10:40,1,どらほー,
+10:40,2,まりほー,
+10:40,3,モイネロ,
+10:40,4,VTuberFes2022DAY2,34.815
+10:40,5,あなたをファンタジーRPGのNPC化,
+10:40,6,cumartesi,
+10:40,7,ザレイズ,
+10:40,8,初心ラジ,10.000
+10:40,9,おりほー,
+10:40,10,押し出し,
+11:10,1,どらほー,
+11:10,2,JISOOxDiorFall22,68.367
+11:10,3,まりほー,
+11:10,4,디올x지수_이화여대패션쇼,47.523
+11:10,5,あなたをファンタジーRPGのNPC化,
+11:10,6,モイネロ,
+11:10,7,EWHA DIOR SHOW WITH JISOO,55.981
+11:10,8,VTuberFes2022DAY2,37.781
+11:10,9,阪神タイガース,44.133
+11:10,10,阪神5連勝,
+11:40,1,JISOOxDiorFall22,
+11:40,2,디올x지수_이화여대패션쇼,130.263
+11:40,3,どらほー,
+11:40,4,NRLBulldogsRoosters,
+11:40,5,わしほー,
+11:40,6,まりほー,
+11:40,7,MUSICFAIR,
+11:40,8,あなたをファンタジーRPGのNPC化,
+11:40,9,モイネロ,
+11:40,10,京都府南部,13.616
+12:10,1,JISOOxDiorFall22,242.861
+12:10,2,디올x지수_이화여대패션쇼,191.617
+12:10,3,ごはんジャパン,26.131
+12:10,4,どらほー,
+12:10,5,わしほー,
+12:10,6,NRLBulldogsRoosters,
+12:10,7,木全翔也,26.180
+12:10,8,まりほー,
+12:10,9,モイネロ,
+12:10,10,京都府南部,14.467
+12:40,1,JISOOxDiorFall22,309.263
+12:40,2,ドッキリGP,
+12:40,3,디올x지수_이화여대패션쇼,246.424
+12:40,4,Milner,
+12:40,5,ごはんジャパン,30.938
+12:40,6,あなたをファンタジーRPGのNPC化,
+12:40,7,どらほー,
+12:40,8,わしほー,
+12:40,9,まりほー,
+12:40,10,モイネロ,
+13:10,1,ドッキリGP,11.658
+13:10,2,JISOOxDiorFall22,360.838
+13:10,3,RCBvsGT,
+13:10,4,Milner,
+13:10,5,디올x지수_이화여대패션쇼,289.146
+13:10,6,NEWLIV,11.274
+13:10,7,ジョホール,
+13:10,8,Newcastle,26.476
+13:10,9,LET'S LOVE WITH iKON,13.492
+13:10,10,わしほー,
+13:40,1,まんが王国はお得感No1,
+13:40,2,まんが王国お得爆発DAY,
+13:40,3,全マンガ最大80パーセント還元,
+13:40,4,一気読み,
+13:40,5,ドッキリGP,13.347
+13:40,6,MissUniversePhilippines2022,
+13:40,7,Milner,
+13:40,8,Newcastle,35.495
+13:40,9,LET'S LOVE WITH iKON,20.704
+13:40,10,ジョホール,
+14:10,1,まんが王国お得爆発DAY,
+14:10,2,全マンガ最大80パーセント還元,
+14:10,3,まんが王国はお得感No1,
+14:10,4,MissUniversePhilippines2022,13.665
+14:10,5,一気読み,
+14:10,6,NEWLIV,28.303
+14:10,7,Milner,
+14:10,8,Newcastle,45.070
+14:10,9,Keita,11.657
+14:10,10,すわほー,
+14:40,1,MissUniversePhilippines2022,21.000
+14:40,2,NEWLIV,34.834
+14:40,3,まんが王国はお得感No1,
+14:40,4,まんが王国お得爆発DAY,
+14:40,5,全マンガ最大80パーセント還元,
+14:40,6,Milner,
+14:40,7,一気読み,
+14:40,8,Newcastle,51.605
+14:40,9,Keita,14.722
+14:40,10,すわほー,
+15:10,1,MissUniversePhilippines2022,31.170
+15:10,2,長尾景3D,69.294
+15:10,3,虹ヶ咲,68.525
+15:10,4,NEWLIV,40.824
+15:10,5,AIS5GVERSE,330.339
+15:10,6,Milner,10.893
+15:10,7,一気読み,
+15:10,8,Newcastle,57.381
+15:10,9,Keita,15.296
+15:10,10,明菜ちゃん,
+15:40,1,MissUniversePhilippines2022,40.262
+15:40,2,虹ヶ咲,123.753
+15:40,3,NEWLIV,44.197
+15:40,4,長尾景3D,86.806
+15:40,5,中森明菜,11.503
+15:40,6,Milner,13.359
+15:40,7,Newcastle,62.244
+15:40,8,明菜ちゃん,
+15:40,9,Keita,18.227
+15:40,10,一気読み,
+16:10,1,MissUniversePhilippines2022,48.168
+16:10,2,虹ヶ咲,132.668
+16:10,3,NEWLIV,44.876
+16:10,4,長尾景3D,97.798
+16:10,5,日奈子ちゃんありがとう,15.905
+16:10,6,Milner,14.643
+16:10,7,Newcastle,63.176
+16:10,8,明菜ちゃん,
+16:10,9,Keita,19.508
+16:10,10,脳漿炸裂ガール,14.139
+16:40,1,MissUniversePhilippines2022,61.503
+16:40,2,SixTONESANN,27.000
+16:40,3,missgrandthailand2022,147.361
+16:40,4,TXT TRACKLIST,51.009
+16:40,5,ThursdaysChild_Tracklist,45.368
+16:40,6,虹ヶ咲,137.694
+16:40,7,Mino Raiola,39.151
+16:40,8,Milner,15.242
+16:40,9,Misamis Oriental,
+16:40,10,Newcastle,64.949
+17:10,1,MissUniversePhilippines2022,85.522
+17:10,2,SixTONESANN,83.987
+17:10,3,SixTONES結成7周年,25.098
+17:10,4,ThursdaysChild_Tracklist,84.629
+17:10,5,TXT TRACKLIST,116.123
+17:10,6,missgrandthailand2022,198.126
+17:10,7,Rodrygo,18.319
+17:10,8,Mariano,61.602
+17:10,9,Mino Raiola,52.193
+17:10,10,Bohol,23.920
+17:40,1,MissUniversePhilippines2022,112.909
+17:40,2,SixTONESANN,133.982
+17:40,3,SixTONES結成7周年,38.500
+17:40,4,ThursdaysChild_Tracklist,92.622
+17:40,5,TXT TRACKLIST,135.260
+17:40,6,missgrandthailand2022,249.525
+17:40,7,Rodrygo,26.744
+17:40,8,Pasay,41.917
+17:40,9,Mariano,64.913
+17:40,10,Bohol,32.731
+18:10,1,MissUniversePhilippines2022,126.797
+18:10,2,SixTONESANN,177.552
+18:10,3,missgrandthailand2022,312.739
+18:10,4,Burnley,19.284
+18:10,5,KinnPorscheEP4,220.161
+18:10,6,SixTONES結成7周年,47.461
+18:10,7,Ceballos,17.408
+18:10,8,TXT TRACKLIST,142.039
+18:10,9,Isco,
+18:10,10,Rodrygo,30.047
+18:40,1,HalaMadrid,29.311
+18:40,2,MissUniversePhilippines2022,131.091
+18:40,3,KinnPorscheEP4,457.220
+18:40,4,missgrandthailand2022,438.024
+18:40,5,SixTONESANN,179.694
+18:40,6,Burnley,21.650
+18:40,7,Ceballos,20.450
+18:40,8,TXT TRACKLIST,146.351
+18:40,9,Leeds,43.697
+18:40,10,Rodrygo,33.246
+19:10,1,HalaMadrid,37.271
+19:10,2,KinnPorscheEP4,671.422
+19:10,3,missgrandthailand2022,491.339
+19:10,4,MissUniversePhilippines2022,133.210
+19:10,5,CutiePieEP10,994.740
+19:10,6,Burnley,22.547
+19:10,7,Ceballos,22.118
+19:10,8,Leeds,51.628
+19:10,9,TXT TRACKLIST,148.876
+19:10,10,Marcelo,75.864
+19:40,1,HalaMadrid,43.225
+19:40,2,KinnPorscheEP4,773.371
+19:40,3,CutiePieEP10,1.112.341
+19:40,4,missgrandthailand2022,525.568
+19:40,5,MissUniversePhilippines2022,134.428
+19:40,6,Leeds,56.396
+19:40,7,Burnley,23.327
+19:40,8,Ceballos,23.167
+19:40,9,Marcelo,82.365
+19:40,10,TXT TRACKLIST,150.849
+20:10,1,HalaMadrid,46.628
+20:10,2,KinnPorscheEP4,872.882
+20:10,3,CutiePieEP10,1.206.001
+20:10,4,missgrandthailand2022,548.048
+20:10,5,MissUniversePhilippines2022,135.285
+20:10,6,Leeds,63.008
+20:10,7,Burnley,23.861
+20:10,8,Ceballos,23.897
+20:10,9,Marcelo,86.014
+20:10,10,Cibeles,17.447
+20:40,1,KinnPorscheEP4,995.897
+20:40,2,HalaMadrid,49.674
+20:40,3,Leeds,70.301
+20:40,4,CutiePieEP10,1.263.680
+20:40,5,missgrandthailand2022,566.820
+20:40,6,LEEMCI,11.640
+20:40,7,Burnley,24.445
+20:40,8,Ceballos,24.525
+20:40,9,Cibeles,20.652
+20:40,10,Marcelo,90.145
+21:10,1,KinnPorscheEP4,1.081.165
+21:10,2,HalaMadrid,53.957
+21:10,3,Leeds,72.201
+21:10,4,CutiePieEP10,1.303.190
+21:10,5,LEEMCI,12.327
+21:10,6,Cibeles,23.667
+21:10,7,missgrandthailand2022,579.748
+21:10,8,Burnley,24.654
+21:10,9,Ceballos,24.965
+21:10,10,Marcelo,91.464
+21:40,1,KinnPorscheEP4,1.136.301
+21:40,2,HalaMadrid,59.296
+21:40,3,Leeds,74.051
+21:40,4,CutiePieEP10,1.328.536
+21:40,5,LEEMCI,12.619
+21:40,6,Cibeles,27.329
+21:40,7,HBDAjithKumar,596.319
+21:40,8,Burnley,25.064
+21:40,9,Ceballos,25.427
+21:40,10,Marcelo,96.009
+22:10,1,KinnPorscheEP4,1.171.013
+22:10,2,HalaMadrid,65.367
+22:10,3,Leeds,74.427
+22:10,4,CutiePieEP10,1.344.515
+22:10,5,LEEMCI,12.820
+22:10,6,Cibeles,30.185
+22:10,7,HBDAjithKumar,601.391
+22:10,8,Burnley,25.179
+22:10,9,Ceballos,25.631
+22:10,10,Marcelo,97.118
+22:40,1,KinnPorscheEP4,1.191.522
+22:40,2,HalaMadrid,70.372
+22:40,3,Leeds,75.592
+22:40,4,CutiePieEP10,1.358.997
+22:40,5,LEEMCI,12.920
+22:40,6,Cibeles,32.258
+22:40,7,HBDAjithKumar,615.887
+22:40,8,Burnley,25.483
+22:40,9,Ceballos,25.974
+22:40,10,Marcelo,99.625
+23:10,1,KinnPorscheEP4,1.207.097
+23:10,2,HalaMadrid,73.791
+23:10,3,Leeds,75.750
+23:10,4,CutiePieEP10,1.370.336
+23:10,5,LEEMCI,13.019
+23:10,6,Cibeles,33.485
+23:10,7,HBDAjithKumar,638.638
+23:10,8,Burnley,25.596
+23:10,9,Ceballos,26.172
+23:10,10,Marcelo,100.014
+23:40,1,KinnPorscheEP4,1.220.505
+23:40,2,HalaMadrid,76.629
+23:40,3,Leeds,76.547
+23:40,4,CutiePieEP10,1.381.621
+23:40,5,LEEMCI,13.023
+23:40,6,Cibeles,34.761
+23:40,7,HBDAjithKumar,664.179
+23:40,8,Burnley,25.862
+23:40,9,Ceballos,26.493
+23:40,10,Marcelo,102.274

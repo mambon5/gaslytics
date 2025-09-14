@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:06,1,LaIslaDeLasTentaciones5,
+00:06,2,lorde,
+00:06,3,WhereIsTrump,
+00:06,4,Travis,
+00:06,5,Stormzy,47.490
+00:06,6,FRAUKR,
+00:06,7,GERTUR,12.063
+00:06,8,phil,
+00:06,9,TemptationIsland,14.664
+00:06,10,Tecatito,
+00:31,1,LaIslaDeLasTentaciones5,246.228
+00:31,2,lorde,32.527
+00:31,3,WhereIsTrump,112.856
+00:31,4,Travis,80.582
+00:31,5,Stormzy,53.450
+00:31,6,FRAUKR,39.298
+00:31,7,GERTUR,12.338
+00:31,8,VPDebate,97.350
+00:31,9,phil,60.225
+00:31,10,Josh James,
+01:06,1,LaIslaDeLasTentaciones5,291.801
+01:06,2,lorde,37.026
+01:06,3,Corinthians,61.720
+01:06,4,Arão,12.948
+01:06,5,Regeneron,111.008
+01:06,6,Stormzy,59.907
+01:06,7,Travis,80.340
+01:06,8,Pikachu,19.262
+01:06,9,Mario Molina,19.215
+01:06,10,VPDebate,103.553
+01:31,1,LaIslaDeLasTentaciones5,305.670
+01:31,2,Arão,16.670
+01:31,3,lorde,39.838
+01:31,4,Corinthians,65.055
+01:31,5,Gustavo Henrique,12.293
+01:31,6,Pikachu,21.501
+01:31,7,Regeneron,127.974
+01:31,8,Bahia,22.312
+01:31,9,Mario Molina,26.164
+01:31,10,VPDebate,112.032
+02:06,1,LaIslaDeLasTentaciones5,312.971
+02:06,2,Gerson,15.585
+02:06,3,Arão,19.424
+02:06,4,Corinthians,71.108
+02:06,5,lorde,43.180
+02:06,6,Gustavo Henrique,14.114
+02:06,7,VPDebate,123.182
+02:06,8,Regeneron,147.030
+02:06,9,Bahia,24.551
+02:06,10,Mario Molina,34.337
+02:31,1,Gerson,19.177
+02:31,2,LaIslaDeLasTentaciones5,315.326
+02:31,3,Corinthians,74.328
+02:31,4,Arão,20.374
+02:31,5,VPDebate,139.460
+02:31,6,lorde,45.716
+02:31,7,AEWDynamite,11.744
+02:31,8,Marcelo Oliveira,
+02:31,9,Regeneron,161.062
+02:31,10,Bahia,27.678
+03:01,1,VPDebate,166.528
+03:01,2,Gerson,20.905
+03:01,3,LaIslaDeLasTentaciones5,317.107
+03:01,4,AEWDynamite,18.056
+03:01,5,Corinthians,74.984
+03:01,6,lorde,47.972
+03:01,7,Arão,20.791
+03:01,8,TheMaskedSinger,10.045
+03:01,9,Marcelo Oliveira,
+03:01,10,Pence,521.707
+03:31,1,Pence,1.126.041
+03:31,2,VicePresidentialDebate,30.988
+03:31,3,Susan,115.929
+03:31,4,AEWDynamite,25.883
+03:31,5,Gerson,22.282
+03:31,6,Hyoran,
+03:31,7,Brenner,10.744
+03:31,8,LaIslaDeLasTentaciones5,318.092
+03:31,9,Corinthians,76.720
+03:31,10,lorde,50.319
+04:01,1,Pence,2.222.317
+04:01,2,Kamala,1.318.737
+04:01,3,VicePresidentialDebate,55.799
+04:01,4,Botafogo,37.953
+04:01,5,Green New Deal,75.272
+04:01,6,AEWDynamite,30.900
+04:01,7,Hyoran,
+04:01,8,Brenner,12.158
+04:01,9,Gerson,23.267
+04:01,10,IM SPEAKING,34.800
+04:31,1,Pence,3.716.790
+04:31,2,Botafogo,53.638
+04:31,3,ProvaDoFazendeiro,55.239
+04:31,4,Green New Deal,99.426
+04:31,5,AEWDynamite,34.107
+04:31,6,Fortaleza,37.102
+04:31,7,hyoran,
+04:31,8,Moderator,524.082
+04:31,9,IM SPEAKING,54.587
+04:31,10,Brenner,12.753
+05:01,1,Pence,4.576.750
+05:01,2,Vice President,541.660
+05:01,3,ProvaDoFazendeiro,130.743
+05:01,4,Flies,281.248
+05:01,5,Botafogo,67.297
+05:01,6,Fortaleza,43.929
+05:01,7,Marquinhos,
+05:01,8,AEWDynamite,35.007
+05:01,9,Cavalieri,
+05:01,10,Sampaoli,15.129
+05:31,1,Pence,5.153.941
+05:31,2,ProvaDoFazendeiro,266.964
+05:31,3,Vice President,609.722
+05:31,4,Flies,347.727
+05:31,5,Botafogo,72.409
+05:31,6,TheFly,17.056
+05:31,7,Fortaleza,46.337
+05:31,8,Green New Deal,136.089
+05:31,9,Marquinhos,10.017
+05:31,10,FLY2020,
+06:06,1,Pence,5.597.432
+06:06,2,ProvaDoFazendeiro,298.091
+06:06,3,Luiza,216.492
+06:06,4,Flies,389.031
+06:06,5,The Fly,584.342
+06:06,6,Botafogo,75.370
+06:06,7,FLY2020,10.316
+06:06,8,Bellinger,20.583
+06:06,9,Machado,25.488
+06:06,10,りょうプレゼント企画,13.675
+06:36,1,Pence,5.904.721
+06:36,2,ProvaDoFazendeiro,305.480
+06:36,3,Luiza,220.073
+06:36,4,Flies,410.758
+06:36,5,The Fly,624.355
+06:36,6,Jansen,16.452
+06:36,7,FLY2020,11.971
+06:36,8,Botafogo,76.806
+06:36,9,Machado,28.221
+06:36,10,Joe Kelly,
+07:01,1,Pence,6.163.807
+07:01,2,ProvaDoFazendeiro,308.939
+07:01,3,Luiza,218.102
+07:01,4,Flies,423.545
+07:01,5,The Fly,648.350
+07:01,6,Jansen,16.755
+07:01,7,flygate,18.440
+07:01,8,Dodgers,21.868
+07:01,9,りょうプレゼント企画,21.841
+07:01,10,Machado,29.235
+07:31,1,Pence,6.364.683
+07:31,2,ProvaDoFazendeiro,311.546
+07:31,3,Flies,435.702
+07:31,4,Luiza,220.249
+07:31,5,JEON JUNGKOOK,75.594
+07:31,6,flygate,20.840
+07:31,7,The Fly,670.468
+07:31,8,Jansen,17.329
+07:31,9,りょうプレゼント企画,25.032
+07:31,10,IndianAirforceDay,26.425
+08:01,1,Pence,6.470.447
+08:01,2,Kamala,3.071.076
+08:01,3,ProvaDoFazendeiro,313.294
+08:01,4,Susan,489.719
+08:01,5,JEON JUNGKOOK,86.005
+08:01,6,flygate,22.635
+08:01,7,Flies,443.973
+08:01,8,IndianAirforceDay,33.651
+08:01,9,りょうプレゼント企画,27.199
+08:01,10,Luiza,220.040
+08:31,1,Pence,6.555.710
+08:31,2,Kamala,3.110.655
+08:31,3,ProvaDoFazendeiro,314.331
+08:31,4,JEON JUNGKOOK,94.290
+08:31,5,IndianAirforceDay,39.859
+08:31,6,flygate,24.415
+08:31,7,りょうプレゼント企画,29.133
+08:31,8,Flies,450.473
+08:31,9,TolakUUCiptaKerja,842.636
+08:31,10,Jansen,17.458
+09:06,1,Pence,6.625.539
+09:06,2,Kamala,3.142.989
+09:06,3,ProvaDoFazendeiro,315.214
+09:06,4,TolakUUCiptaKerja,963.978
+09:06,5,IndianAirforceDay,46.302
+09:06,6,JEON JUNGKOOK,99.601
+09:06,7,りょうプレゼント企画,31.332
+09:06,8,VicePresidentialDebate2020,87.577
+09:06,9,Flies,455.416
+09:06,10,無罪主張,47.454
+09:31,1,Pence,6.672.223
+09:31,2,Kamala,3.164.094
+09:31,3,TolakUUCiptaKerja,1.036.828
+09:31,4,ProvaDoFazendeiro,315.653
+09:31,5,IndianAirforceDay,50.100
+09:31,6,りょうプレゼント企画,32.784
+09:31,7,Ask_BLACKPINK,15.981
+09:31,8,JEON JUNGKOOK,104.827
+09:31,9,Flies,459.076
+09:31,10,Susan,499.223
+10:01,1,Pence,6.716.744
+10:01,2,VPDebate,2.424.514
+10:01,3,TolakUUCiptaKerja,1.106.239
+10:01,4,Kamala,3.183.887
+10:01,5,ProvaDoFazendeiro,316.050
+10:01,6,IndianAirforceDay,53.951
+10:01,7,BABAKADHABA,32.244
+10:01,8,JEON JUNGKOOK,108.270
+10:01,9,無罪主張,52.081
+10:01,10,Flies,462.036
+10:36,1,Pence,6.767.402
+10:36,2,TolakUUCiptaKerja,1.176.921
+10:36,3,BABAKADHABA,41.365
+10:36,4,Ask_BLACKPINK,24.399
+10:36,5,IndianAirforceDay,57.896
+10:36,6,7DREAM_DejaVu,31.863
+10:36,7,Kamala,3.208.556
+10:36,8,GS社員,
+10:36,9,Harris,3.290.384
+10:36,10,JEON JUNGKOOK,113.860
+11:06,1,7DREAM_DejaVu,89.931
+11:06,2,Pence,6.806.076
+11:06,3,TolakUUCiptaKerja,1.226.774
+11:06,4,BABAKADHABA,48.242
+11:06,5,Ask_BLACKPINK,27.233
+11:06,6,GS社員,
+11:06,7,IndianAirforceDay,60.751
+11:06,8,Dolar 7.94,
+11:06,9,Harris,3.310.266
+11:06,10,JEON JUNGKOOK,116.639
+11:36,1,7DREAM_DejaVu,151.881
+11:36,2,Pence,6.853.955
+11:36,3,TolakUUCiptaKerja,1.269.038
+11:36,4,BABAKADHABA,54.799
+11:36,5,VPDebate,2.454.329
+11:36,6,にじ種1期カレー集会,
+11:36,7,Dolar 7.94,
+11:36,8,GS社員,
+11:36,9,阿部サダ,
+11:36,10,無罪主張,61.207
+12:01,1,7DREAM_DejaVu,174.304
+12:01,2,Pence,6.893.832
+12:01,3,TolakUUCiptaKerja,1.319.087
+12:01,4,BABAKADHABA,60.081
+12:01,5,にじ種1期カレー集会,
+12:01,6,VPDebate,2.463.428
+12:01,7,Dolar 7.94,
+12:01,8,GS社員,
+12:01,9,Kamala,3.271.189
+12:01,10,El TSJM,
+12:36,1,7DREAM_DejaVu,190.752
+12:36,2,Pence,6.969.493
+12:36,3,TolakUUCiptaKerja,1.360.497
+12:36,4,BABAKADHABA,67.140
+12:36,5,にじ種1期カレー集会,
+12:36,6,Dolar 7.94,10.871
+12:36,7,GS社員,11.355
+12:36,8,TSJM,14.782
+12:36,9,VS嵐,
+12:36,10,Estado de Alarma,
+13:01,1,7DREAM_DejaVu,197.967
+13:01,2,TheStealer4thWin,22.952
+13:01,3,TolakUUCiptaKerja,1.379.683
+13:01,4,VS嵐,12.086
+13:01,5,BabaKaDhabha,32.026
+13:01,6,TSJM,22.971
+13:01,7,Dolar 7.94,12.918
+13:01,8,GS社員,12.761
+13:01,9,빛솔피,
+13:01,10,ゲリラ,691.760
+13:36,1,TheStealer4thWin,41.609
+13:36,2,7DREAM_DejaVu,206.464
+13:36,3,Louise Glück,13.011
+13:36,4,TolakUUCiptaKerja,1.403.241
+13:36,5,TSJM,33.053
+13:36,6,EndSARSProtest,77.901
+13:36,7,BabaKaDhabha,37.079
+13:36,8,Dolar 7.94,15.458
+13:36,9,GS社員,14.502
+13:36,10,Runtown,20.141
+14:01,1,TheStealer4thWin,50.958
+14:01,2,Louise Glück,17.765
+14:01,3,RepublicTV,25.013
+14:01,4,7DREAM_DejaVu,210.967
+14:01,5,EndSARSProtest,81.992
+14:01,6,CathyDollCCSpeedWhite,44.202
+14:01,7,TSJM,39.042
+14:01,8,Dolar 7.94,17.450
+14:01,9,GS社員,15.723
+14:01,10,Runtown,25.180
+14:36,1,RepublicTV,50.928
+14:36,2,Louise Glück,23.246
+14:36,3,TheStealer4thWin,58.892
+14:36,4,CathyDollCCSpeedWhite,78.606
+14:36,5,7DREAM_DejaVu,216.403
+14:36,6,ロンハー,13.731
+14:36,7,TSJM,46.256
+14:36,8,自分好みの遊園地,
+14:36,9,Dolar 7.94,19.887
+14:36,10,GS社員,17.408
+15:01,1,RepublicTV,70.328
+15:01,2,Louise Glück,26.839
+15:01,3,ロンハー,17.271
+15:01,4,TheStealer4thWin,63.148
+15:01,5,TRPSCAM,22.094
+15:01,6,EndSarsProtests,92.014
+15:01,7,TSJM,51.406
+15:01,8,自分好みの遊園地,
+15:01,9,日テレ,34.010
+15:01,10,FOREVER WITH SIDHARTH SHUKLA,94.782
+15:32,1,RepublicFightsBack,214.739
+15:32,2,Louise Glück,30.953
+15:32,3,ロンハー,18.165
+15:32,4,素のまんま,32.824
+15:32,5,歌のゴールデンヒット,10.910
+15:32,6,EndSarsProtests,105.367
+15:32,7,日テレ,38.932
+15:32,8,自分好みの遊園地,
+15:32,9,Rambo,11.335
+15:32,10,TSJM,57.491
+16:02,1,RepublicFightsBack,265.821
+16:02,2,Louise Glück,34.186
+16:02,3,歌のゴールデンヒット,13.996
+16:02,4,Rambo,14.713
+16:02,5,ロンハー,18.431
+16:02,6,ダウンタウンDX,13.620
+16:02,7,Mileena,16.506
+16:02,8,EndSarsProtests,116.862
+16:02,9,自分好みの遊園地,
+16:02,10,日テレ,42.199
+16:33,1,RepublicFightsBack,330.385
+16:33,2,Louise Glück,37.375
+16:33,3,Rambo,18.083
+16:33,4,歌のゴールデンヒット,14.564
+16:33,5,Mileena,20.860
+16:33,6,ダウンタウンDX,14.830
+16:33,7,CHPYalanları,11.293
+16:33,8,自分好みの遊園地,
+16:33,9,FelizJueves,21.990
+16:33,10,TSJM,67.583
+17:01,1,RepublicFightsBack,417.564
+17:01,2,Rambo,20.564
+17:01,3,Louise Glück,40.287
+17:01,4,鬱シロ,29.724
+17:01,5,CHPYalanları,15.691
+17:01,6,شجریان,22.657
+17:01,7,TRPScam,42.719
+17:01,8,自分好みの遊園地,
+17:01,9,Mike Lee,28.480
+17:01,10,FOREVER WITH SIDHARTH SHUKLA,190.880
+17:31,1,RepublicFightsBack,485.313
+17:31,2,JONGDAE,39.951
+17:31,3,CHEN,105.195
+17:31,4,Rambo,23.259
+17:31,5,Louise Glück,42.898
+17:31,6,CHPYalanları,19.528
+17:31,7,한글날,45.086
+17:31,8,ChickenTrump,18.325
+17:31,9,شجریان,29.170
+17:31,10,InternationalLesbianDay,17.031
+18:06,1,RepublicFightsBack,557.171
+18:06,2,jongdae,68.815
+18:06,3,RamVilasPaswan,11.688
+18:06,4,ChickenTrump,30.164
+18:06,5,한글날,48.422
+18:06,6,Rambo,25.548
+18:06,7,CHPYalanları,23.654
+18:06,8,InternationalLesbianDay,20.577
+18:06,9,Louise Glück,45.800
+18:06,10,Mileena,30.503
+18:31,1,RepublicFightsBack,609.932
+18:31,2,RamVilasPaswan,17.532
+18:31,3,jongdae,81.764
+18:31,4,ChickenTrump,39.516
+18:31,5,HelloCHEN,41.029
+18:31,6,InternationalLesbianDay,23.323
+18:31,7,한글날,50.379
+18:31,8,Rambo,27.120
+18:31,9,Louise Glück,47.736
+18:31,10,Mileena,32.393
+19:06,1,RepublicFightsBack,672.618
+19:06,2,RamVilasPaswan,22.930
+19:06,3,jongdae,93.524
+19:06,4,ChickenTrump,58.254
+19:06,5,NSMQFinals,31.832
+19:06,6,InternationalLesbianDay,27.222
+19:06,7,한글날,52.263
+19:06,8,Rambo,28.564
+19:06,9,Louise Glück,50.334
+19:06,10,Gretchen Whitmer,72.162
+19:33,1,RepublicFightsBack,709.112
+19:33,2,RamVilasPaswan,25.997
+19:33,3,NSMQFinals,37.241
+19:33,4,ChickenTrump,68.470
+19:33,5,Jongdae,99.384
+19:33,6,InternationalLesbianDay,30.434
+19:33,7,Michigan,243.223
+19:33,8,Arnab,594.072
+19:33,9,한글날,53.436
+19:33,10,Armani,12.123
+20:03,1,RepublicFightsBack,745.052
+20:03,2,RamVilasPaswan,28.422
+20:03,3,Michigan,288.160
+20:03,4,NSMQFinals,42.567
+20:03,5,التعليم_عن_بعد,32.761
+20:03,6,InternationalLesbianDay,33.980
+20:03,7,jongdae,103.919
+20:03,8,India Today,110.831
+20:03,9,Pete,247.240
+20:03,10,Armani,12.721
+20:33,1,RepublicFightsBack,778.099
+20:33,2,NSMQFinals,49.182
+20:33,3,Michigan,329.799
+20:33,4,RamVilasPaswan,30.429
+20:33,5,InternationalLesbianDay,37.705
+20:33,6,التعليم_عن_بعد,39.064
+20:33,7,jongdae,107.653
+20:33,8,India Today,130.186
+20:33,9,Pete,257.081
+20:33,10,Tom Herman,
+21:03,1,ENGWAL,
+21:03,2,NSMQFinals,
+21:03,3,RepublicFightsBack,
+21:03,4,Michigan,
+21:03,5,Bitsika,
+21:03,6,InternationalLesbianDay,
+21:03,7,Doctor Strange,
+21:03,8,jongdae,110.574
+21:03,9,Pete,
+21:03,10,Tom Herman,
+21:38,1,ENGWAL,
+21:38,2,Michigan,
+21:38,3,BitsikaDavido,
+21:38,4,NSMQFinals,
+21:38,5,Grealish,
+21:38,6,RepublicFightsBack,
+21:38,7,InternationalLesbianDay,
+21:38,8,Calvert Lewin,
+21:38,9,Doctor Strange,
+21:38,10,Southgate,
+22:03,1,ENGWAL,
+22:03,2,Bitsika,14.082
+22:03,3,Michigan,435.773
+22:03,4,NSMQFinals,
+22:03,5,InternationalLesbianDay,
+22:03,6,RepublicFightsBack,
+22:03,7,Calvert Lewin,
+22:03,8,Doctor Strange,
+22:03,9,Tom Herman,
+22:03,10,Fenerbahçe Beko,
+22:33,1,ENGWAL,12.376
+22:33,2,Bitsika,21.073
+22:33,3,Grealish,15.846
+22:33,4,Michigan,466.358
+22:33,5,Coady,
+22:33,6,InternationalLesbianDay,50.811
+22:33,7,televizierring,
+22:33,8,XF2020,
+22:33,9,GUI NO MAISNOVELA,20.745
+22:33,10,Lewin,11.962
+23:03,1,ENGWAL,14.038
+23:03,2,BitsikaDavido,28.292
+23:03,3,cashappthursday,
+23:03,4,Grealish,19.411
+23:03,5,CavadasEH,
+23:03,6,Michigan,491.300
+23:03,7,Coady,10.046
+23:03,8,Wendler,
+23:03,9,Ings,
+23:03,10,GUI NO MAISNOVELA,38.847
+23:38,1,bitsika,
+23:38,2,ENGWAL,14.758
+23:38,3,cashappthursday,
+23:38,4,Grealish,21.451
+23:38,5,Michigan,523.198
+23:38,6,SLOIRE,
+23:38,7,CavadasEH,
+23:38,8,Serbia,10.620
+23:38,9,Coady,12.045
+23:38,10,Justus,

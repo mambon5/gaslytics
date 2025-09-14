@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,isola,70.803
+00:10,2,Valladolid,60.217
+00:10,3,Dembele,58.858
+00:10,4,Darnold,52.759
+00:10,5,Lingard,59.057
+00:10,6,TheDancerEstreno,14.143
+00:10,7,West Ham,42.357
+00:10,8,celasun,60.949
+00:10,9,Jets,65.406
+00:10,10,Panthers,61.062
+00:41,1,isola,80.483
+00:41,2,Valladolid,69.944
+00:41,3,Darnold,55.752
+00:41,4,TheDancerEstreno,17.503
+00:41,5,Dembele,61.854
+00:41,6,Lingard,61.323
+00:41,7,West Ham,44.771
+00:41,8,celasun,62.319
+00:41,9,Jets,68.001
+00:41,10,Panthers,63.732
+01:10,1,isola,87.496
+01:10,2,Darnold,59.401
+01:10,3,Valladolid,73.940
+01:10,4,TheDancerEstreno,17.924
+01:10,5,Dembele,64.145
+01:10,6,Lingard,63.088
+01:10,7,Jets,70.435
+01:10,8,West Ham,20.307
+01:10,9,celasun,63.268
+01:10,10,Panthers,63.795
+01:41,1,isola,89.337
+01:41,2,Darnold,62.037
+01:41,3,Valladolid,76.582
+01:41,4,TheDancerEstreno,18.110
+01:41,5,Dembele,65.870
+01:41,6,Lingard,64.413
+01:41,7,Jets,72.776
+01:41,8,West Ham,47.593
+01:41,9,Panthers,65.786
+01:41,10,Paul Pierce,15.532
+02:10,1,Paul Pierce,24.498
+02:10,2,UnTECHOtpaga,14.209
+02:10,3,isola,89.702
+02:10,4,スッキリ,
+02:10,5,Darnold,64.023
+02:10,6,Valladolid,77.921
+02:10,7,deGrom,
+02:10,8,Jets,73.888
+02:10,9,モルカー14話,
+02:10,10,TheDancerEstreno,18.225
+02:41,1,Gabigol,34.341
+02:41,2,Paul Pierce,31.656
+02:41,3,UnTECHOtpaga,22.422
+02:41,4,deGrom,
+02:41,5,Gerson,
+02:41,6,WWERaw,12.736
+02:41,7,スッキリ,
+02:41,8,isola,89.883
+02:41,9,Stanton,
+02:41,10,Darnold,65.839
+03:10,1,Flamengo,106.135
+03:10,2,UnTECHOtpaga,28.629
+03:10,3,Paul Pierce,36.600
+03:10,4,Gabigol,42.519
+03:10,5,Madureira,17.985
+03:10,6,WWERaw,18.082
+03:10,7,deGrom,10.670
+03:10,8,Gerson,
+03:10,9,Kyrie,16.039
+03:10,10,スッキリ,10.383
+03:41,1,Baylor,62.330
+03:41,2,Flamengo,124.829
+03:41,3,NationalChampionship,14.955
+03:41,4,NCAAChampionship,
+03:41,5,Arrascaeta,12.320
+03:41,6,UnTECHOtpaga,32.882
+03:41,7,Kyrie,23.502
+03:41,8,Paul Pierce,41.111
+03:41,9,WWERaw,23.353
+03:41,10,deGrom,13.222
+04:10,1,Baylor,98.746
+04:10,2,AmordeMae,39.336
+04:10,3,Flamengo,138.069
+04:10,4,NationalChampionship,18.596
+04:10,5,NCAAChampionship,
+04:10,6,deGrom,18.103
+04:10,7,Zags,22.226
+04:10,8,Mets,59.501
+04:10,9,UnTECHOtpaga,35.319
+04:10,10,WWERaw,28.053
+04:41,1,João,573.358
+04:41,2,Tiago,124.339
+04:41,3,Baylor,116.265
+04:41,4,Rodolfo,258.036
+04:41,5,Pocah,238.106
+04:41,6,Lumena,48.559
+04:41,7,jogodadiscordia,12.409
+04:41,8,Zags,27.953
+04:41,9,NationalChampionship,21.562
+04:41,10,Flamengo,151.979
+05:10,1,João,910.590
+05:10,2,Rodolfo,321.709
+05:10,3,BBB21,1.204.791
+05:10,4,Tiago,141.011
+05:10,5,Baylor,143.249
+05:10,6,Fiuk,274.720
+05:10,7,Pocah,237.396
+05:10,8,jogodadiscordia,29.217
+05:10,9,NationalChampionship,24.564
+05:10,10,Lumena,60.954
+05:41,1,João,1.040.430
+05:41,2,Rodolfo,356.850
+05:41,3,Baylor,205.164
+05:41,4,BBB21,1.347.566
+05:41,5,Tiago,150.942
+05:41,6,Fiuk,329.090
+05:41,7,Pocah,261.822
+05:41,8,NationalChampionship,36.465
+05:41,9,jogodadiscordia,37.419
+05:41,10,NCAAChampionship,
+06:10,1,João,1.090.887
+06:10,2,Baylor,229.061
+06:10,3,Rodolfo,361.424
+06:10,4,BBB21,1.370.751
+06:10,5,Juliette,830.723
+06:10,6,Tiago,154.066
+06:10,7,Fiuk,356.226
+06:10,8,Pocah,259.659
+06:10,9,Caio,368.482
+06:10,10,NationalChampionship,41.752
+06:41,1,João,1.124.530
+06:41,2,João,1.124.530
+06:41,3,Baylor,239.628
+06:41,4,Rodolfo,370.455
+06:41,5,BBB21,1.402.168
+06:41,6,Juliette,862.239
+06:41,7,Tiago,157.298
+06:41,8,Fiuk,383.838
+06:41,9,Pocah,265.059
+06:41,10,NationalChampionship,44.049
+07:10,1,João,1.130.147
+07:10,2,Baylor,244.865
+07:10,3,Rodolfo,370.022
+07:10,4,BBB21,1.399.265
+07:10,5,Camilla,237.782
+07:10,6,Juliette,845.610
+07:10,7,Tiago,158.108
+07:10,8,Fiuk,394.812
+07:10,9,Pocah,258.651
+07:10,10,NationalChampionship,45.021
+07:41,1,João,1.151.789
+07:41,2,Baylor,248.906
+07:41,3,Rodolfo,374.167
+07:41,4,BBB21,1.403.688
+07:41,5,Camilla,241.404
+07:41,6,Juliette,860.479
+07:41,7,Tiago,159.554
+07:41,8,Fiuk,403.246
+07:41,9,DynamiteRecordBreaker,90.909
+07:41,10,Pocah,261.095
+08:10,1,João,1.157.589
+08:10,2,Baylor,251.289
+08:10,3,Rodolfo,374.628
+08:10,4,Camilla,242.113
+08:10,5,BBB21,1.427.559
+08:10,6,Tiago,159.765
+08:10,7,Gonzaga,160.777
+08:10,8,Fiuk,405.072
+08:10,9,DynamiteRecordBreaker,102.519
+08:10,10,최애와 당근마켓,
+08:41,1,João,1.164.056
+08:41,2,Baylor,253.328
+08:41,3,Rodolfo,376.653
+08:41,4,Camilla,244.137
+08:41,5,BBB21,1.437.782
+08:41,6,名前からひらがなを消すとかわいい,
+08:41,7,Tiago,160.387
+08:41,8,Gonzaga,161.810
+08:41,9,DynamiteRecordBreaker,110.319
+08:41,10,최애와 당근마켓,
+09:10,1,João,1.166.918
+09:10,2,Baylor,254.561
+09:10,3,Rodolfo,376.653
+09:10,4,Camilla,244.729
+09:10,5,名前からひらがなを消すとかわいい,
+09:10,6,BBB21,1.436.416
+09:10,7,boycottgenshin,47.150
+09:10,8,DynamiteRecordBreaker,115.078
+09:10,9,최애와 당근마켓,
+09:10,10,Tiago,160.398
+09:41,1,João,1.169.862
+09:41,2,名前からひらがなを消すとかわいい,
+09:41,3,Baylor,255.673
+09:41,4,BBB21,1.441.110
+09:41,5,Rodolfo,377.417
+09:41,6,Camilla,245.810
+09:41,7,SEHUN,113.191
+09:41,8,boycottgenshin,47.734
+09:41,9,최애와 당근마켓,
+09:41,10,DynamiteRecordBreaker,118.992
+10:10,1,名前からひらがなを消すとかわいい,
+10:10,2,João,1.170.887
+10:10,3,SEHUN,175.490
+10:10,4,BBB21,1.439.868
+10:10,5,boycottgenshin,49.354
+10:10,6,Baylor,256.513
+10:10,7,ローソンNiziUキャンペーン,
+10:10,8,Rodolfo,377.117
+10:10,9,최애와 당근마켓,
+10:10,10,AliKoç,
+10:41,1,名前からひらがなを消すとかわいい,
+10:41,2,Profiline Bakanlar,
+10:41,3,SEHUN,213.177
+10:41,4,João,1.172.910
+10:41,5,BBB21,1.442.475
+10:41,6,ローソンNiziUキャンペーン,
+10:41,7,boycottgenshin,50.342
+10:41,8,AliKoç,
+10:41,9,당근마켓 거래,
+10:41,10,Rodolfo,377.683
+11:10,1,TomorrowWithCHANYEOL,43.905
+11:10,2,TomorrowMVOutNow,39.678
+11:10,3,名前からひらがなを消すとかわいい,10.694
+11:10,4,SEHUN,232.062
+11:10,5,João,1.173.041
+11:10,6,Profiline Bakanlar,
+11:10,7,ローソンNiziUキャンペーン,
+11:10,8,AliKoç,
+11:10,9,過去最多,19.616
+11:10,10,당근마켓 거래,
+11:41,1,TomorrowWithCHANYEOL,164.680
+11:41,2,TomorrowMVOutNow,146.882
+11:41,3,名前からひらがなを消すとかわいい,12.138
+11:41,4,SEHUN,248.137
+11:41,5,João,1.176.702
+11:41,6,smadegilAYAZkazanacak,
+11:41,7,BorderCarnival_Hype,79.384
+11:41,8,BORDER CARNIVAL HYPE MOODBOARD,78.658
+11:41,9,ヴィル様,
+11:41,10,Profiline Bakanlar,
+12:10,1,TomorrowWithCHANYEOL,209.185
+12:10,2,TomorrowMVOutNow,185.428
+12:10,3,名前からひらがなを消すとかわいい,13.394
+12:10,4,BorderCarnival_Hype,115.004
+12:10,5,SEHUN,255.496
+12:10,6,Profiline KimBaktı,
+12:10,7,BORDER CARNIVAL HYPE MOODBOARD,115.067
+12:10,8,ヴィル様,
+12:10,9,João,1.177.392
+12:10,10,TeravihYasağınıKaldırın,
+12:41,1,TomorrowWithCHANYEOL,232.664
+12:41,2,TomorrowMVOutNow,205.489
+12:41,3,Paul Ritter,11.726
+12:41,4,Friday Night Dinner,
+12:41,5,TeravihYasağınıKaldırın,
+12:41,6,名前からひらがなを消すとかわいい,14.665
+12:41,7,aot139spoilers,10.898
+12:41,8,Profiline KimBaktı,
+12:41,9,BORDER CARNIVAL HYPE MOODBOARD,127.052
+12:41,10,ヴィル様,
+13:10,1,TomorrowWithCHANYEOL,246.814
+13:10,2,Paul Ritter,18.109
+13:10,3,TomorrowMVOutNow,217.238
+13:10,4,TeravihYasağınıKaldırın,11.919
+13:10,5,Friday Night Dinner,14.620
+13:10,6,aot139spoilers,14.644
+13:10,7,名前からひらがなを消すとかわいい,15.826
+13:10,8,Profiline KimBaktı,
+13:10,9,ヴィル様,
+13:10,10,BORDER CARNIVAL HYPE MOODBOARD,129.584
+13:41,1,Paul Ritter,23.272
+13:41,2,TeravihYasağınıKaldırın,16.049
+13:41,3,TomorrowWithCHANYEOL,258.740
+13:41,4,aot139spoilers,19.796
+13:41,5,Friday Night Dinner,18.351
+13:41,6,TomorrowMVOutNow,227.008
+13:41,7,うたコン,
+13:41,8,Varane,10.615
+13:41,9,こいほー,
+13:41,10,Müzelerde NeGizleniyor,
+14:10,1,Varane,19.730
+14:10,2,TeravihYasağınıKaldırın,19.704
+14:10,3,Paul Ritter,27.081
+14:10,4,aot139spoilers,24.610
+14:10,5,TomorrowWithCHANYEOL,268.543
+14:10,6,Friday Night Dinner,20.944
+14:10,7,TomorrowMVOutNow,234.929
+14:10,8,うたコン,10.619
+14:10,9,コールド,11.245
+14:10,10,こいほー,
+14:41,1,マツコの知らない世界,30.672
+14:41,2,ProfiIime KimlerBakmış,
+14:41,3,Varane,25.947
+14:41,4,TeravihYasağınıKaldırın,24.327
+14:41,5,aot139spoilers,30.239
+14:41,6,Paul Ritter,30.670
+14:41,7,ヴィジュアル系,15.802
+14:41,8,MALICE MIZER,
+14:41,9,TomorrowWithCHANYEOL,275.460
+14:41,10,Friday Night Dinner,23.000
+15:10,1,マツコの知らない世界,44.915
+15:10,2,ProfiIime KimlerBakmış,
+15:10,3,Varane,30.345
+15:10,4,TeravihYasağınıKaldırın,29.234
+15:10,5,ヴィジュアル系,22.332
+15:10,6,aot139spoilers,35.190
+15:10,7,アリス九號,
+15:10,8,Paul Ritter,33.554
+15:10,9,MALICE MIZER,
+15:10,10,横浜優勝,
+15:41,1,マツコの知らない世界,54.444
+15:41,2,せーのでパパジャニ,32.789
+15:41,3,profiiime kimlerbakmış,
+15:41,4,アリス九號,
+15:41,5,aot139spoilers,40.523
+15:41,6,Varane,34.792
+15:41,7,TeravihYasağınıKaldırın,32.959
+15:41,8,ヴィジュアル系,28.217
+15:41,9,InternationalAsexualityDay,26.565
+15:41,10,古戦場欠席,
+16:10,1,マツコの知らない世界,59.121
+16:10,2,せーのでパパジャニ,52.957
+16:10,3,profiiime kimlerbakmış,
+16:10,4,aot139spoilers,45.331
+16:10,5,古戦場欠席,
+16:10,6,TeravihYasağınıKaldırın,35.935
+16:10,7,Varane,38.284
+16:10,8,アリス九號,11.231
+16:10,9,ヴィジュアル系,31.479
+16:10,10,InternationalAsexualityDay,32.085
+16:41,1,マツコの知らない世界,62.713
+16:41,2,せーのでパパジャニ,58.145
+16:41,3,profiiime kimlerbakmış,
+16:41,4,InternationalAsexualityDay,38.300
+16:41,5,aot139spoilers,50.636
+16:41,6,TeravihYasağınıKaldırın,38.901
+16:41,7,古戦場欠席,
+16:41,8,Varane,42.050
+16:41,9,アリス九號,12.090
+16:41,10,ヴィジュアル系,34.147
+17:10,1,マツコの知らない世界,65.502
+17:10,2,tom nook,
+17:10,3,InternationalAsexualityDay,44.834
+17:10,4,TreasureMakerSelcaDay,85.285
+17:10,5,古戦場欠席,
+17:10,6,TMSD,90.833
+17:10,7,せーのでパパジャニ,61.466
+17:10,8,Varane,44.607
+17:10,9,당신의 포카 시세,
+17:10,10,アリス九號,12.673
+17:41,1,Isabelle,18.573
+17:41,2,TreasureMakerSelcaDay,135.822
+17:41,3,InternationalAsexualityDay,51.621
+17:41,4,マツコの知らない世界,67.397
+17:41,5,TMSD,145.256
+17:41,6,SosyalBilgilerKonuşuluyor,
+17:41,7,古戦場欠席,
+17:41,8,당신의 포카,
+17:41,9,Paul Rudd,23.630
+17:41,10,Varane,47.239
+18:10,1,Isabelle,20.185
+18:10,2,TreasureMakerSelcaDay,164.588
+18:10,3,InternationalAsexualityDay,57.382
+18:10,4,TMSD,176.675
+18:10,5,BORDER_CARNIVAL,950.474
+18:10,6,BorderCarnival_Hype,269.267
+18:10,7,古戦場欠席,
+18:10,8,당신의 포카,
+18:10,9,Paul Rudd,27.003
+18:10,10,niall horan,20.120
+18:41,1,DevletAna,
+18:41,2,Isabelle,21.975
+18:41,3,InternationalAsexualityDay,64.426
+18:41,4,TreasureMakerSelcaDay,182.078
+18:41,5,BorderCarnival_Hype,311.193
+18:41,6,BORDER_CARNIVAL,1.036.785
+18:41,7,paul rudd,30.478
+18:41,8,古戦場欠席,
+18:41,9,당신의 포카,
+18:41,10,niall horan,23.689
+19:10,1,DevletAna,
+19:10,2,InternationalAsexualityDay,69.814
+19:10,3,Isabelle,22.939
+19:10,4,BorderCarnival_Hype,321.028
+19:10,5,TreasureMakerSelcaDay,189.629
+19:10,6,BORDER_CARNIVAL,1.066.341
+19:10,7,Paul Rudd,32.949
+19:10,8,古戦場欠席,
+19:10,9,MarmaraKamera İstemiyor,
+19:10,10,niall horan,25.558
+19:41,1,DevletAna,10.079
+19:41,2,InternationalAsexualityDay,76.583
+19:41,3,Isabelle,25.173
+19:41,4,Montecitorio,16.940
+19:41,5,星野源ANN,10.395
+19:41,6,BizZiyanBakanZiya,
+19:41,7,NihatRüştü Yaygara,
+19:41,8,Paul Rudd,35.762
+19:41,9,Liverpool,138.790
+19:41,10,MarmaraKamera İstemiyor,
+20:10,1,InternationalAsexualityDay,81.855
+20:10,2,DevletAna,13.046
+20:10,3,Montecitorio,18.959
+20:10,4,Isabelle,26.605
+20:10,5,Liverpool,145.656
+20:10,6,internationalaceday,
+20:10,7,星野源ANN,11.638
+20:10,8,Tom Nook,11.688
+20:10,9,Babu,44.641
+20:10,10,İmarBarışı Yenilensin,
+20:41,1,Liverpool,163.454
+20:41,2,InternationalAsexualityDay,86.985
+20:41,3,Dortmund,53.933
+20:41,4,DevletAna,15.526
+20:41,5,ŞampiyonlukdaBizimKupada,12.321
+20:41,6,internationalaceday,
+20:41,7,TarafımızDemokrasi,16.557
+20:41,8,Isabelle,28.253
+20:41,9,Esnaf MahkumDeğildir,
+20:41,10,Babu,50.481
+21:10,1,Liverpool,189.164
+21:10,2,RMALIV,40.083
+21:10,3,Dortmund,62.954
+21:10,4,MasumlarApartmanı,
+21:10,5,ChampionsLeague,10.320
+21:10,6,ŞampiyonlukdaBizimKupada,16.895
+21:10,7,InternationalAsexualityDay,90.962
+21:10,8,SonYüzYıl Müjdesi,
+21:10,9,WALLS ON ITUNES,21.834
+21:10,10,Borussia,26.351
+21:41,1,Liverpool,245.469
+21:41,2,Kroos,56.353
+21:41,3,RMALIV,63.090
+21:41,4,Vinicius,60.712
+21:41,5,Asensio,21.597
+21:41,6,MCIBVB,27.963
+21:41,7,كروس,11.996
+21:41,8,Trent,49.702
+21:41,9,Dortmund,75.151
+21:41,10,Bruyne,19.932
+22:10,1,Liverpool,310.871
+22:10,2,Kroos,94.085
+22:10,3,RMALIV,81.403
+22:10,4,MCIBVB,35.763
+22:10,5,Trent,70.196
+22:10,6,Vinicius,84.017
+22:10,7,Asensio,36.910
+22:10,8,Dortmund,89.741
+22:10,9,كروس,23.688
+22:10,10,Keita,31.689
+22:41,1,Liverpool,360.114
+22:41,2,Kroos,104.435
+22:41,3,Vinicius,143.860
+22:41,4,RMALIV,98.952
+22:41,5,Asensio,46.513
+22:41,6,Trent,78.908
+22:41,7,MCIBVB,42.428
+22:41,8,Dortmund,96.821
+22:41,9,ChampionsLeague,19.513
+22:41,10,كروس,25.467
+23:10,1,Liverpool,395.686
+23:10,2,Kroos,124.447
+23:10,3,Vinicius,181.874
+23:10,4,RMALIV,103.414
+23:10,5,Asensio,50.910
+23:10,6,Foden,38.029
+23:10,7,Dortmund,116.050
+23:10,8,MCIBVB,48.698
+23:10,9,Trent,86.099
+23:10,10,Bruyne,38.903
+23:41,1,Liverpool,421.166
+23:41,2,Kroos,142.224
+23:41,3,Vinicius,207.069
+23:41,4,RMALIV,105.548
+23:41,5,Foden,43.166
+23:41,6,Dortmund,120.720
+23:41,7,Asensio,53.143
+23:41,8,Trent,92.814
+23:41,9,MCIBVB,49.542
+23:41,10,Bruyne,43.902

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LazioInter,22.285
+00:10,2,InternationalDogDay,83.027
+00:10,3,Luis Alberto,10.085
+00:10,4,twitchrespond,23.295
+00:10,5,famemma15,31.592
+00:10,6,Ajax,125.523
+00:10,7,Inzaghi,10.676
+00:10,8,FreeCodeFridayContest,
+00:10,9,Antony,139.487
+00:10,10,Resident Evil,11.586
+00:40,1,LazioInter,22.700
+00:40,2,InternationalDogDay,85.205
+00:40,3,famemma15,35.735
+00:40,4,twitchrespond,26.428
+00:40,5,Ajax,128.394
+00:40,6,Luis Alberto,10.661
+00:40,7,Resident Evil,13.134
+00:40,8,Inzaghi,11.078
+00:40,9,Antony,142.904
+00:40,10,FreeCodeFridayContest,
+01:10,1,InternationalDogDay,86.914
+01:10,2,famemma15,39.539
+01:10,3,LazioInter,23.000
+01:10,4,twitchrespond,28.650
+01:10,5,Resident Evil,14.161
+01:10,6,Ajax,129.224
+01:10,7,Luis Alberto,11.042
+01:10,8,TeamHYYH,31.197
+01:10,9,Inzaghi,11.295
+01:10,10,Antony,144.650
+01:40,1,NationalDogDay,61.440
+01:40,2,WE WANNA FOCUS ON BTS,31.916
+01:40,3,famemma15,43.282
+01:40,4,twitchrespond,31.052
+01:40,5,LazioInter,23.238
+01:40,6,TeamHYYH,37.699
+01:40,7,Resident Evil,15.373
+01:40,8,Ajax,131.039
+01:40,9,Luis Alberto,11.400
+01:40,10,Inzaghi,11.499
+02:10,1,WE WANNA FOCUS ON BTS,90.090
+02:10,2,TeamLY,57.100
+02:10,3,Ituano,
+02:10,4,TeamMOTS,45.310
+02:10,5,NationalDogDay,63.184
+02:10,6,ウルトラマンデッカー,
+02:10,7,famemma15,45.465
+02:10,8,Resident Evil,16.103
+02:10,9,Matt Barkley,
+02:10,10,O Grêmio,10.964
+02:40,1,WE WANNA FOCUS ON BTS,190.713
+02:40,2,SmackDown,13.036
+02:40,3,TeamLY,106.592
+02:40,4,Simone Tebet,13.450
+02:40,5,TeamMOTS,85.148
+02:40,6,ウルトラマンデッカー,16.895
+02:40,7,Ituano,
+02:40,8,SimonenoJN,
+02:40,9,Matt Barkley,
+02:40,10,O Grêmio,12.885
+03:10,1,WE WANNA FOCUS ON BTS,280.495
+03:10,2,SmackDown,20.859
+03:10,3,TeamLY,145.508
+03:10,4,TeamMOTS,116.851
+03:10,5,Simone Tebet,17.187
+03:10,6,ダイの大冒険,
+03:10,7,RoseAttire,12.199
+03:10,8,Sheamus,
+03:10,9,Ituano,
+03:10,10,Roger,48.845
+03:40,1,WE WANNA FOCUS ON BTS,346.682
+03:40,2,SmackDown,27.229
+03:40,3,TeamLY,174.291
+03:40,4,TeamMOTS,139.161
+03:40,5,Simone Tebet,19.441
+03:40,6,ダイの大冒険,10.125
+03:40,7,ウルトラマンデッカー,20.783
+03:40,8,Sheamus,
+03:40,9,Drew Lock,
+03:40,10,Ituano,
+04:10,1,WE WANNA FOCUS ON BTS,395.677
+04:10,2,SmackDown,34.168
+04:10,3,TeamLY,195.828
+04:10,4,TeamMOTS,156.134
+04:10,5,Simone Tebet,20.690
+04:10,6,OPLive,
+04:10,7,Givens,
+04:10,8,Mookie,
+04:10,9,Amazonタイムセール祭り,17.355
+04:10,10,Drew Lock,
+04:40,1,WE WANNA FOCUS ON BTS,436.591
+04:40,2,TeamLY,215.127
+04:40,3,Cruzeiro,51.606
+04:40,4,SmackDown,36.833
+04:40,5,TeamMOTS,172.299
+04:40,6,OPLive,
+04:40,7,AEWRampage,10.480
+04:40,8,Simone Tebet,21.799
+04:40,9,Givens,
+04:40,10,Mookie,
+05:10,1,WE WANNA FOCUS ON BTS,478.341
+05:10,2,TeamLY,232.574
+05:10,3,Cruzeiro,58.435
+05:10,4,SmackDown,38.645
+05:10,5,TeamMOTS,189.004
+05:10,6,AEWRampage,13.594
+05:10,7,OPLive,
+05:10,8,Mookie,
+05:10,9,Givens,
+05:10,10,Simone Tebet,22.455
+05:40,1,WE WANNA FOCUS ON BTS,513.975
+05:40,2,TeamLY,247.194
+05:40,3,Cruzeiro,63.350
+05:40,4,TeamMOTS,202.978
+05:40,5,夏のハガモバ,32.675
+05:40,6,SmackDown,40.010
+05:40,7,2022KPOPMASTERZep2_BKK,
+05:40,8,Mookie,
+05:40,9,Drew Lock,
+05:40,10,羅小黒戦記,
+06:10,1,WE WANNA FOCUS ON BTS,545.494
+06:10,2,夏のハガモバ,53.931
+06:10,3,TeamLY,259.927
+06:10,4,Cruzeiro,66.306
+06:10,5,TeamMOTS,213.596
+06:10,6,2022KPOPMASTERZep2_BKK,11.152
+06:10,7,SmackDown,41.004
+06:10,8,WE TRUST YOU JAKE,30.766
+06:10,9,RAGE,57.441
+06:10,10,Mookie,
+06:40,1,WE WANNA FOCUS ON BTS,570.206
+06:40,2,夏のハガモバ,69.541
+06:40,3,TeamLY,271.103
+06:40,4,2022KPOPMASTERZep2_BKK,12.877
+06:40,5,PABLO WYAT ConceptPhoto,16.771
+06:40,6,TeamMOTS,224.318
+06:40,7,Cruzeiro,68.054
+06:40,8,すとぷり西武ドーム,67.219
+06:40,9,WE TRUST YOU JAKE,44.739
+06:40,10,RAGE,59.853
+07:10,1,夏のハガモバ,81.109
+07:10,2,WE WANNA FOCUS ON BTS,589.758
+07:10,3,ONEonPrimeVideo1,
+07:10,4,ONEChampionship,
+07:10,5,キンプる,51.743
+07:10,6,TeamLY,279.283
+07:10,7,Mighty Mouse,
+07:10,8,PABLO WYAT ConceptPhoto,25.280
+07:10,9,WE TRUST YOU JAKE,52.021
+07:10,10,Cruzeiro,68.903
+07:40,1,夏のハガモバ,91.928
+07:40,2,キンプる,65.244
+07:40,3,CoinTTsi Yapılır,
+07:40,4,WE WANNA FOCUS ON BTS,602.322
+07:40,5,ONEonPrimeVideo1,
+07:40,6,TeamLY,287.799
+07:40,7,ONEChampionship,
+07:40,8,Mighty Mouse,
+07:40,9,PABLO WYAT ConceptPhoto,30.205
+07:40,10,BUMP,39.444
+08:10,1,筋肉シャッフル,
+08:10,2,夏のハガモバ,100.110
+08:10,3,AUSvRSA,
+08:10,4,CoinTTsi Yapılır,
+08:10,5,キンプる,68.663
+08:10,6,WE WANNA FOCUS ON BTS,621.907
+08:10,7,TeamLY,295.892
+08:10,8,すとぷり西武ドーム,75.565
+08:10,9,BUMP,39.673
+08:10,10,Mighty Mouse,
+08:40,1,筋肉シャッフル,
+08:40,2,AUSvRSA,
+08:40,3,夏のハガモバ,106.872
+08:40,4,CoinTTsi Yapılır,
+08:40,5,キンプる,70.531
+08:40,6,WE WANNA FOCUS ON BTS,634.208
+08:40,7,すとぷり西武ドーム,78.200
+08:40,8,ジュンくん,
+08:40,9,BUMP,40.622
+08:40,10,TeamLY,303.005
+09:10,1,AUSvRSA,11.365
+09:10,2,筋肉シャッフル,
+09:10,3,GMMTVFanFest2022JPD1,62.696
+09:10,4,夏のハガモバ,113.611
+09:10,5,cointtsi yapılır,
+09:10,6,キンプる,73.615
+09:10,7,ジュンくん,
+09:10,8,Nic White,
+09:10,9,すとぷり西武ドーム,80.113
+09:10,10,WE WANNA FOCUS ON BTS,644.684
+09:40,1,AUSvRSA,13.700
+09:40,2,WHISPER2ndWin,
+09:40,3,筋肉シャッフル,11.091
+09:40,4,GMMTVFanFest2022JPD1,116.864
+09:40,5,おりほー,
+09:40,6,宮城くん,
+09:40,7,ノーノー,
+09:40,8,THEBOYZ17thWin,
+09:40,9,DONNYnatingTheBigDome,15.968
+09:40,10,DONBELLE PHIHNOMENALConcert,16.551
+10:10,1,ノーノー,
+10:10,2,ノーノー,
+10:10,3,WHISPER2ndWin,19.666
+10:10,4,AUSvRSA,14.443
+10:10,5,lovefighters,38.507
+10:10,6,筋肉シャッフル,12.010
+10:10,7,GMMTVFanFest2022JPD1,170.683
+10:10,8,おりほー,
+10:10,9,BELLElazingTheBigDome,83.466
+10:10,10,DONBELLE PHIHNOMENALConcert,83.405
+10:40,1,ノーノー,
+10:40,2,ノーノー,
+10:40,3,WHISPER2ndWin,23.799
+10:40,4,lovefighters,43.577
+10:40,5,AUSvRSA,14.940
+10:40,6,GMMTVFanFest2022JPD1,219.354
+10:40,7,筋肉シャッフル,12.852
+10:40,8,StylipS,11.114
+10:40,9,BELLElazingTheBigDome,131.710
+10:40,10,DONBELLE PHIHNOMENALConcert,131.515
+11:10,1,ノーノー,
+11:10,2,ノーヒットノーラン,34.226
+11:10,3,WHISPER2ndWin,26.260
+11:10,4,StylipS,15.296
+11:10,5,GMMTVFanFest2022JPD1,278.699
+11:10,6,lovefighters,43.920
+11:10,7,BELLElazingTheBigDome,164.510
+11:10,8,DONNYnatingTheBigDome,163.406
+11:10,9,DONBELLE PHIHNOMENALConcert,164.287
+11:10,10,筋肉シャッフル,13.642
+11:40,1,寝るなジャにの,13.549
+11:40,2,ジャにの24,16.896
+11:40,3,ノーノー,
+11:40,4,StylipS,20.644
+11:40,5,MUSICFAIR,35.967
+11:40,6,NZLvARG,
+11:40,7,ノーヒットノーラン,35.992
+11:40,8,ジャにのちゃんねる,42.079
+11:40,9,DONBELLE PHIHNOMENALConcert,197.235
+11:40,10,筋肉シャッフル,14.316
+12:10,1,寝るなジャにの,24.315
+12:10,2,ジャにの24,20.990
+12:10,3,StylipS,25.354
+12:10,4,ノーノー,
+12:10,5,MUSICFAIR,41.366
+12:10,6,NZLvARG,
+12:10,7,ジャにのちゃんねる,42.842
+12:10,8,DONBELLE PHIHNOMENALConcert,226.783
+12:10,9,ノーヒットノーラン,37.394
+12:10,10,All Blacks,
+12:40,1,寝るなジャにの,30.499
+12:40,2,ジャにの24,23.412
+12:40,3,StylipS,27.394
+12:40,4,ノーノー,
+12:40,5,SideM真夏のSP生配信,
+12:40,6,MUSICFAIR,43.775
+12:40,7,NZLvARG,
+12:40,8,花火大会,69.436
+12:40,9,DONBELLE PHIHNOMENALConcert,259.289
+12:40,10,All Blacks,
+13:10,1,寝るなジャにの,37.185
+13:10,2,ドッキリGP,21.166
+13:10,3,ジャにの24,25.218
+13:10,4,SideM真夏のSP生配信,
+13:10,5,花火大会,76.395
+13:10,6,StylipS,28.894
+13:10,7,博士ちゃん,
+13:10,8,花火の音,
+13:10,9,ノーノー,
+13:10,10,DONBELLE PHIHNOMENALConcert,295.105
+13:40,1,ドッキリGP,35.918
+13:40,2,寝るなジャにの,40.466
+13:40,3,アモアスマリカ杯,10.425
+13:40,4,ジャにの24,26.379
+13:40,5,SOUMUN,44.188
+13:40,6,花火大会,85.136
+13:40,7,花火の音,
+13:40,8,StylipS,29.976
+13:40,9,風磨くん,12.709
+13:40,10,Southampton,58.122
+14:10,1,SOUMUN,64.164
+14:10,2,ドッキリGP,39.675
+14:10,3,寝るなジャにの,44.672
+14:10,4,アモアスマリカ杯,13.893
+14:10,5,Southampton,82.109
+14:10,6,花火大会,91.448
+14:10,7,博士ちゃん,
+14:10,8,Elanga,12.827
+14:10,9,Beit,
+14:10,10,花火の音,10.710
+14:40,1,SOUMUN,77.787
+14:40,2,Elanga,26.614
+14:40,3,ドッキリGP,41.723
+14:40,4,寝るなジャにの,50.185
+14:40,5,アモアスマリカ杯,16.486
+14:40,6,Southampton,96.379
+14:40,7,白銀ノエル3周年記念,21.426
+14:40,8,花火大会,98.490
+14:40,9,Beit,
+14:40,10,キブレハン,11.806
+15:10,1,SOUMUN,97.708
+15:10,2,Elanga,31.811
+15:10,3,白銀ノエル3周年記念,30.266
+15:10,4,Southampton,110.502
+15:10,5,ドッキリGP,43.752
+15:10,6,McTominay,15.516
+15:10,7,アモアスマリカ杯,18.229
+15:10,8,AVCCup2022,11.948
+15:10,9,Beit,14.113
+15:10,10,花火大会,102.250
+15:40,1,SOUMUN,113.048
+15:40,2,Southampton,125.008
+15:40,3,Elanga,33.592
+15:40,4,McTominay,20.958
+15:40,5,AVCCup2022,17.935
+15:40,6,白銀ノエル3周年記念,31.675
+15:40,7,Tell Your World,17.264
+15:40,8,アモアスマリカ杯,20.352
+15:40,9,ドッキリGP,45.473
+15:40,10,Dalot,13.380
+16:10,1,SOUMUN,118.652
+16:10,2,Venue101,20.068
+16:10,3,Southampton,131.501
+16:10,4,AVCCup2022,22.115
+16:10,5,アモアスマリカ杯,25.010
+16:10,6,McTominay,23.386
+16:10,7,Elanga,34.112
+16:10,8,Tell Your World,21.271
+16:10,9,วอลเลย์บอลหญิง,43.206
+16:10,10,Dalot,15.350
+16:40,1,Firmino,20.929
+16:40,2,Gallagher,19.755
+16:40,3,SOUMUN,122.103
+16:40,4,LIVBOU,34.370
+16:40,5,Venue101,60.840
+16:40,6,SixTONESANN,16.576
+16:40,7,Crystal Palace,46.409
+16:40,8,LetsGULFtoJAPAN,76.244
+16:40,9,Bournemouth,51.812
+16:40,10,ヒッパレ,11.506
+17:10,1,リコリコ,127.294
+17:10,2,Firmino,29.866
+17:10,3,LIVBOU,45.709
+17:10,4,Gallagher,27.180
+17:10,5,SixTONESANN,45.601
+17:10,6,Bournemouth,69.846
+17:10,7,寝るなジャにの,85.299
+17:10,8,ヒッパレ,16.507
+17:10,9,青春アミーゴ,14.547
+17:10,10,Crystal Palace,56.787
+17:40,1,Firmino,40.692
+17:40,2,LIVBOU,54.948
+17:40,3,Bournemouth,83.731
+17:40,4,Sterling,46.472
+17:40,5,リコリコ,147.733
+17:40,6,寝るなジャにの,101.304
+17:40,7,SixTONESANN,76.595
+17:40,8,ヒッパレ,23.444
+17:40,9,Gallagher,28.770
+17:40,10,CheLei,58.592
+18:10,1,Haaland,106.804
+18:10,2,Bournemouth,110.196
+18:10,3,LIVBOU,74.417
+18:10,4,Firmino,47.501
+18:10,5,Sterling,53.454
+18:10,6,リコリコ,155.309
+18:10,7,SixTONESANN,92.400
+18:10,8,寝るなジャにの,109.611
+18:10,9,MCICRY,31.623
+18:10,10,ヒッパレ,26.195
+18:40,1,Haaland,127.378
+18:40,2,Bournemouth,120.791
+18:40,3,LIVBOU,78.669
+18:40,4,寝るなジャにの,124.741
+18:40,5,ドライフラワー,26.076
+18:40,6,Sterling,60.993
+18:40,7,Firmino,50.733
+18:40,8,リコリコ,161.375
+18:40,9,SixTONESANN,94.081
+18:40,10,ヒッパレ,28.456
+19:10,1,Haaland,137.680
+19:10,2,Bournemouth,125.986
+19:10,3,寝るなジャにの,139.265
+19:10,4,LIVBOU,80.993
+19:10,5,ドライフラワー,36.389
+19:10,6,Sterling,63.550
+19:10,7,ヒッパレ,30.938
+19:10,8,Firmino,52.136
+19:10,9,リコリコ,165.244
+19:10,10,SixTONESANN,95.216
+19:40,1,Haaland,147.256
+19:40,2,Bournemouth,130.425
+19:40,3,寝るなジャにの,146.756
+19:40,4,LIVBOU,81.795
+19:40,5,ドライフラワー,38.913
+19:40,6,Nebraska,27.548
+19:40,7,ARSFUL,53.414
+19:40,8,Northwestern,13.099
+19:40,9,リコリコ,169.097
+19:40,10,Sterling,67.497
+20:10,1,Haaland,152.526
+20:10,2,ARSFUL,64.131
+20:10,3,Mitrovic,14.860
+20:10,4,Bournemouth,133.492
+20:10,5,Nebraska,30.423
+20:10,6,寝るなジャにの,151.588
+20:10,7,Northwestern,15.282
+20:10,8,Saka,55.545
+20:10,9,LIVBOU,82.620
+20:10,10,Odegaard,10.044
+20:40,1,ARSFUL,79.794
+20:40,2,COYG,13.924
+20:40,3,Haaland,157.320
+20:40,4,Odegaard,16.276
+20:40,5,Mitrovic,17.007
+20:40,6,Nebraska,33.849
+20:40,7,Leno,15.510
+20:40,8,Fulham,93.185
+20:40,9,Northwestern,17.019
+20:40,10,Bournemouth,136.439
+21:10,1,Arsenal,327.851
+21:10,2,ARSFUL,84.474
+21:10,3,COYG,16.365
+21:10,4,Nebraska,37.343
+21:10,5,KSISwarmz,55.966
+21:10,6,Odegaard,20.283
+21:10,7,Haaland,161.472
+21:10,8,Northwestern,18.477
+21:10,9,Mitrovic,18.108
+21:10,10,Fulham,97.705
+21:40,1,Arsenal,351.101
+21:40,2,ARSFUL,86.936
+21:40,3,Nebraska,41.142
+21:40,4,COYG,17.595
+21:40,5,Northwestern,20.869
+21:40,6,KSISwarmz,71.285
+21:40,7,Scott Frost,
+21:40,8,Odegaard,22.847
+21:40,9,Haaland,165.124
+21:40,10,SavcılarNEREDE,39.262
+22:10,1,Nebraska,46.961
+22:10,2,Arsenal,365.007
+22:10,3,Scott Frost,
+22:10,4,ARSFUL,88.256
+22:10,5,Northwestern,23.707
+22:10,6,النصر_الوحده,122.039
+22:10,7,COYG,18.249
+22:10,8,KSISwarmz,85.602
+22:10,9,SavcılarNEREDE,43.840
+22:10,10,Odegaard,24.207
+22:40,1,Nebraska,62.346
+22:40,2,Scott Frost,16.768
+22:40,3,Deji,46.673
+22:40,4,Kenny,44.148
+22:40,5,KSISwarmz,100.489
+22:40,6,Arsenal,379.238
+22:40,7,Sensei,63.968
+22:40,8,ARSFUL,89.344
+22:40,9,النصر_الوحده,134.063
+22:40,10,KSI2Fights1Night,75.466
+23:10,1,Deji,107.367
+23:10,2,Nebraska,65.473
+23:10,3,Scott Frost,18.974
+23:10,4,KSISwarmz,119.394
+23:10,5,Kenny,45.415
+23:10,6,Arsenal,388.922
+23:10,7,VamosLaU,
+23:10,8,KSI2Fights1Night,93.399
+23:10,9,Sensei,67.025
+23:10,10,النصر_الوحده,136.925
+23:40,1,Deji,124.803
+23:40,2,Nebraska,67.877
+23:40,3,Scott Frost,20.087
+23:40,4,KSISwarmz,137.021
+23:40,5,Kenny,47.203
+23:40,6,AwayFromHomeFestival,111.612
+23:40,7,Arsenal,398.419
+23:40,8,VamosLaU,
+23:40,9,KSI2Fights1Night,114.388
+23:40,10,Sensei,69.767

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Cavs,67.450
+00:10,2,LEIMUN,116.074
+00:10,3,Knicks,43.101
+00:10,4,Rashford,42.918
+00:10,5,Cleveland,83.573
+00:10,6,Mitchell,123.915
+00:10,7,Ronaldo,195.729
+00:10,8,MUFC,317.516
+00:10,9,Leicester,154.161
+00:10,10,Mobley,19.034
+00:40,1,Cavs,70.685
+00:40,2,LEIMUN,116.329
+00:40,3,Knicks,45.038
+00:40,4,Rashford,43.871
+00:40,5,Cleveland,86.164
+00:40,6,Mitchell,128.247
+00:40,7,Ronaldo,202.618
+00:40,8,MUFC,326.040
+00:40,9,Leicester,155.169
+00:40,10,Utah,62.643
+01:10,1,Cavs,73.412
+01:10,2,Renato,25.694
+01:10,3,Knicks,46.346
+01:10,4,LEIMUN,118.394
+01:10,5,Rashford,44.218
+01:10,6,Cleveland,87.681
+01:10,7,Mitchell,131.380
+01:10,8,iyikidoğdunSefaReis,
+01:10,9,今年もくるぞ月見バーガー,
+01:10,10,Utah,63.356
+01:40,1,Renato,34.159
+01:40,2,Cavs,75.829
+01:40,3,Knicks,48.010
+01:40,4,LEIMUN,120.418
+01:40,5,Cleveland,89.518
+01:40,6,Mitchell,134.358
+01:40,7,今年もくるぞ月見バーガー,
+01:40,8,Rashford,44.728
+01:40,9,CierredeCampaña,19.429
+01:40,10,BolsonaroNaRedeTV,32.477
+02:10,1,Renato,38.120
+02:10,2,Cavs,77.883
+02:10,3,CierredeCampaña,30.006
+02:10,4,Knicks,48.921
+02:10,5,今年もくるぞ月見バーガー,
+02:10,6,Kanye,29.409
+02:10,7,Cleveland,90.516
+02:10,8,Mitchell,136.652
+02:10,9,LEIMUN,121.339
+02:10,10,Rashford,44.858
+02:40,1,Renato,41.698
+02:40,2,bidenspeech,13.954
+02:40,3,Cavs,79.629
+02:40,4,Kanye,33.541
+02:40,5,CierredeCampaña,41.116
+02:40,6,今年もくるぞ月見バーガー,
+02:40,7,Knicks,49.982
+02:40,8,MAGA Republicans,82.443
+02:40,9,Cleveland,92.018
+02:40,10,BackyardBrawl,
+03:10,1,bidenspeech,28.547
+03:10,2,Renato,43.641
+03:10,3,Luciano,17.770
+03:10,4,Kanye,36.701
+03:10,5,CierredeCampaña,52.451
+03:10,6,Igor Gomes,
+03:10,7,Cavs,81.459
+03:10,8,MAGA Republicans,114.666
+03:10,9,MAGA American,22.591
+03:10,10,今年もくるぞ月見バーガー,10.266
+03:40,1,Igor Gomes,20.671
+03:40,2,AtentadoACFK,18.197
+03:40,3,bidenspeech,38.624
+03:40,4,MAGA,398.856
+03:40,5,Kanye,41.307
+03:40,6,Renato,45.647
+03:40,7,Cristina Kirchner,72.543
+03:40,8,Luciano,18.610
+03:40,9,CierredeCampaña,62.663
+03:40,10,Spencer Strider,
+04:10,1,Cristina,276.968
+04:10,2,Igor Gomes,23.714
+04:10,3,AtentadoACFK,35.585
+04:10,4,MAGA,439.344
+04:10,5,bidenspeech,47.438
+04:10,6,Kanye,45.793
+04:10,7,Jandrei,
+04:10,8,Marcos Guilherme,
+04:10,9,Renato,46.325
+04:10,10,Luciano,19.181
+04:40,1,Cristina,350.187
+04:40,2,Igor Gomes,31.518
+04:40,3,AtentadoACFK,46.123
+04:40,4,MAGA,481.948
+04:40,5,bidenspeech,54.245
+04:40,6,Kanye,50.263
+04:40,7,PedoHitler,41.468
+04:40,8,Rogério,19.204
+04:40,9,Marcos Guilherme,
+04:40,10,RingsOfPower,20.931
+05:10,1,Cristina,403.149
+05:10,2,Igor Gomes,34.594
+05:10,3,atentadoacfk,52.461
+05:10,4,MAGA,514.257
+05:10,5,Feriado Nacional,16.982
+05:10,6,Alberto,73.333
+05:10,7,PedoHitler,63.603
+05:10,8,Jandrei,15.454
+05:10,9,bidenspeech,59.365
+05:10,10,SpaceDos30Dias,12.136
+05:40,1,Cristina,471.724
+05:40,2,Alberto,97.488
+05:40,3,Feriado Nacional,62.025
+05:40,4,Igor Gomes,35.735
+05:40,5,atentadoacfk,56.979
+05:40,6,MAGA,549.936
+05:40,7,Purdue,21.700
+05:40,8,PedoHitler,80.010
+05:40,9,Sean Clifford,
+05:40,10,TheRingsOfPower,33.465
+06:10,1,Cristina,532.841
+06:10,2,Purdue,30.522
+06:10,3,Alberto,112.483
+06:10,4,Feriado Nacional,98.847
+06:10,5,Argentina,302.558
+06:10,6,AtentadoACFK,61.183
+06:10,7,MAGA,577.392
+06:10,8,Igor Gomes,35.640
+06:10,9,Penn State,23.774
+06:10,10,Sean Clifford,
+06:40,1,Cristina,575.672
+06:40,2,Purdue,32.567
+06:40,3,SB19 WYAT RELEASE TODAY,303.037
+06:40,4,Alberto,121.584
+06:40,5,Argentina,320.560
+06:40,6,Feriado Nacional,120.298
+06:40,7,MAGA,606.410
+06:40,8,AtentadoACFK,64.383
+06:40,9,Penn State,25.372
+06:40,10,Sean Clifford,
+07:10,1,Cristina,603.286
+07:10,2,SB19 WYAT RELEASE TODAY,347.009
+07:10,3,Purdue,33.056
+07:10,4,Argentina,330.131
+07:10,5,Alberto,125.668
+07:10,6,Feriado Nacional,131.825
+07:10,7,MAGA,625.408
+07:10,8,AtentadoACFK,66.149
+07:10,9,無料50連,102.559
+07:10,10,PedoHitler,110.371
+07:40,1,Cristina,622.453
+07:40,2,SB19 WYAT RELEASE TODAY,379.637
+07:40,3,Argentina,338.413
+07:40,4,Purdue,33.393
+07:40,5,Alberto,128.739
+07:40,6,MAGA,644.716
+07:40,7,Feriado Nacional,138.136
+07:40,8,無料50連,109.042
+07:40,9,INSVikrant,19.532
+07:40,10,PedoHitler,115.122
+08:10,1,Cristina,635.680
+08:10,2,SB19WYATMVOutNow,173.422
+08:10,3,Argentina,343.384
+08:10,4,Purdue,33.569
+08:10,5,INSVikrant,25.947
+08:10,6,Alberto,130.025
+08:10,7,MAGA,657.818
+08:10,8,無料50連,114.890
+08:10,9,Feriado Nacional,142.061
+08:10,10,RingsOfPower,29.672
+08:40,1,Cristina,646.441
+08:40,2,SB19WYATMVOutNow,201.999
+08:40,3,INSVikrant,31.889
+08:40,4,Argentina,348.824
+08:40,5,Purdue,33.709
+08:40,6,無料50連,120.564
+08:40,7,Gulf1stFMJP,80.559
+08:40,8,MAGA,671.244
+08:40,9,Alberto,131.598
+08:40,10,RingsOfPower,30.582
+09:10,1,Cristina,654.404
+09:10,2,SB19WYATMVOutNow,227.552
+09:10,3,INSVikrant,36.725
+09:10,4,Gulf1stFMJP,112.885
+09:10,5,無料50連,123.839
+09:10,6,RingsOfPower,31.032
+09:10,7,MAGA,679.128
+09:10,8,Argentina,352.303
+09:10,9,Purdue,33.784
+09:10,10,Alberto,131.824
+09:40,1,SB19WYATMVOutNow,251.188
+09:40,2,Cristina,663.602
+09:40,3,TviitterTTde UygunFiyat,
+09:40,4,INSVikrant,42.972
+09:40,5,Gulf1stFMJP,134.906
+09:40,6,YouDidWellSunghoon,34.056
+09:40,7,성훈왕박엠씨,37.262
+09:40,8,無料50連,130.483
+09:40,9,THANK YOU MC SUNGHOON,36.165
+09:40,10,Hayırlı Cumalar,30.328
+10:10,1,SB19WYATMVOutNow,271.852
+10:10,2,INSVikrant,47.936
+10:10,3,TviitterTTde UygunFiyat,
+10:10,4,Cristina,669.462
+10:10,5,YouDidWellSunghoon,43.113
+10:10,6,성훈왕박엠씨,46.002
+10:10,7,Gulf1stFMJP,154.751
+10:10,8,Hayırlı Cumalar,33.793
+10:10,9,無料50連,133.406
+10:10,10,Jose Camargo,
+10:40,1,YouDidWellSunghoon,52.867
+10:40,2,성훈왕박엠씨,55.848
+10:40,3,SB19WYATMVOutNow,290.481
+10:40,4,INSVikrant,52.620
+10:40,5,TviitterTTde UygunFiyat,
+10:40,6,Gulf1stFMJP,170.889
+10:40,7,Jose Camargo,
+10:40,8,Hayırlı Cumalar,37.171
+10:40,9,Cristina,678.283
+10:40,10,無料50連,139.305
+11:10,1,YouDidWellSunghoon,57.562
+11:10,2,성훈왕박엠씨,60.069
+11:10,3,Jose Camargo,10.314
+11:10,4,INSVikrant,56.907
+11:10,5,HarryStylesLoveOnTourWarszawa,16.038
+11:10,6,SB19WYATMVOutNow,309.473
+11:10,7,Hayırlı Cumalar,40.062
+11:10,8,TviitterTTde UygunFiyat,
+11:10,9,無料50連,143.508
+11:10,10,Cristina,686.076
+11:40,1,古谷一行さん,15.232
+11:40,2,少クラ,
+11:40,3,YouDidWellSunghoon,69.007
+11:40,4,성훈왕박엠씨,70.923
+11:40,5,Jose Camargo,12.697
+11:40,6,INSVikrant,61.589
+11:40,7,HarryStylesLoveOnTourWarszawa,17.395
+11:40,8,金田一耕助,
+11:40,9,Hayırlı Cumalar,42.868
+11:40,10,Ice Prince,
+12:10,1,少クラ,10.589
+12:10,2,古谷一行さん,23.334
+12:10,3,YouDidWellSunghoon,75.139
+12:10,4,金田一耕助,
+12:10,5,성훈왕박엠씨,76.468
+12:10,6,โปเตโต้เปิดตี้กับซีนุนิว,22.850
+12:10,7,村上50号,
+12:10,8,Jose Camargo,15.302
+12:10,9,あなたをハーゲンダッツに例えると,
+12:10,10,محمد,463.423
+12:40,1,古谷一行さん,28.055
+12:40,2,少クラ,14.102
+12:40,3,Batshuayi,42.529
+12:40,4,AFLDeesSwans,
+12:40,5,金田一耕助,
+12:40,6,村上50号,10.398
+12:40,7,アニポケ,13.831
+12:40,8,YouDidWellSunghoon,77.880
+12:40,9,โปเตโต้เปิดตี้กับซีนุนิว,47.121
+12:40,10,Jose Camargo,17.518
+13:10,1,古谷一行さん,32.050
+13:10,2,Batshuayi,48.010
+13:10,3,AFLDeesSwans,
+13:10,4,少クラ,20.196
+13:10,5,Rüşvetçi CHP,
+13:10,6,金田一耕助,
+13:10,7,村上50号,12.570
+13:10,8,あなたをハーゲンダッツに例えると,
+13:10,9,EsAbsurdo,
+13:10,10,YouDidWellSunghoon,82.087
+13:40,1,古谷一行さん,35.152
+13:40,2,Batshuayi,51.873
+13:40,3,AFLDeesSwans,
+13:40,4,おりほー,
+13:40,5,少クラ,23.386
+13:40,6,Rüşvetçi CHP,
+13:40,7,爆買いスター恩返し,23.560
+13:40,8,EsAbsurdo,
+13:40,9,あなたをハーゲンダッツに例えると,
+13:40,10,金田一耕助,
+14:10,1,美しき世界がセクゾを待ってる,15.850
+14:10,2,古谷一行さん,37.482
+14:10,3,AFLDeesSwans,
+14:10,4,Batshuayi,54.585
+14:10,5,おりほー,
+14:10,6,CentralRobinson99JeffBarcode,21.354
+14:10,7,Mステ,25.766
+14:10,8,爆買いスター恩返し,30.013
+14:10,9,Rüşvetçi CHP,
+14:10,10,ジェジュン,56.438
+14:40,1,美しき世界がセクゾを待ってる,39.308
+14:40,2,Mステ,38.972
+14:40,3,akım,
+14:40,4,AFLDeesSwans,
+14:40,5,CentralRobinson99JeffBarcode,57.004
+14:40,6,古谷一行さん,39.973
+14:40,7,Batshuayi,57.734
+14:40,8,たかほー,
+14:40,9,こいほー,
+14:40,10,おりほー,
+15:10,1,美しき世界がセクゾを待ってる,60.044
+15:10,2,Mステ,59.486
+15:10,3,akım,
+15:10,4,るろうに剣心京都大火編,11.035
+15:10,5,CentralRobinson99JeffBarcode,89.167
+15:10,6,古谷一行さん,42.211
+15:10,7,たかほー,
+15:10,8,Batshuayi,59.929
+15:10,9,工藤静香,
+15:10,10,こいほー,
+15:40,1,akım,12.186
+15:40,2,美しき世界がセクゾを待ってる,62.029
+15:40,3,Mステ,67.050
+15:40,4,るろうに剣心京都大火編,15.570
+15:40,5,石子と羽男,25.907
+15:40,6,古谷一行さん,43.873
+15:40,7,たかほー,
+15:40,8,Batshuayi,62.491
+15:40,9,わけほー,
+15:40,10,引き分け,
+16:10,1,akım,16.134
+16:10,2,美しき世界がセクゾを待ってる,63.447
+16:10,3,るろうに剣心京都大火編,20.695
+16:10,4,Mステ,70.594
+16:10,5,石子と羽男,33.635
+16:10,6,McLaren,14.865
+16:10,7,Piastri,15.287
+16:10,8,古谷一行さん,45.029
+16:10,9,大庭くん,
+16:10,10,SIDHARTH FOREVER IN OUR HEARTS,42.448
+16:40,1,akım,19.378
+16:40,2,MUSICBLOOD,24.623
+16:40,3,るろうに剣心京都大火編,22.209
+16:40,4,美しき世界がセクゾを待ってる,64.690
+16:40,5,石子と羽男,35.483
+16:40,6,McLaren,21.445
+16:40,7,Alpine,15.033
+16:40,8,Piastri,22.579
+16:40,9,JOYFUL JOY DAY,15.214
+16:40,10,MAGA,913.213
+17:10,1,akım,22.454
+17:10,2,OnceUponAJoyDay,39.104
+17:10,3,MUSICBLOOD,33.680
+17:10,4,꽃가루를_날려_조이의_생일폭죽을_터뜨려,38.008
+17:10,5,PAKvHK,15.170
+17:10,6,McLaren,24.835
+17:10,7,JOYFUL JOY DAY,27.803
+17:10,8,Alpine,16.120
+17:10,9,Piastri,25.992
+17:10,10,MAGA,924.482
+17:40,1,akım,25.197
+17:40,2,OnceUponAJoyDay,54.598
+17:40,3,꽃가루를_날려_조이의_생일폭죽을_터뜨려,52.898
+17:40,4,PAKvHK,19.263
+17:40,5,MUSICBLOOD,37.300
+17:40,6,JOYFUL JOY DAY,35.204
+17:40,7,McLaren,27.339
+17:40,8,デレステ7周年,29.342
+17:40,9,Alpine,17.354
+17:40,10,Piastri,28.482
+18:10,1,akım,27.675
+18:10,2,OnceUponAJoyDay,62.525
+18:10,3,PAKvHK,25.435
+18:10,4,꽃가루를_날려_조이의_생일폭죽을_터뜨려,60.371
+18:10,5,フロイニ,14.480
+18:10,6,JOYFUL JOY DAY,39.317
+18:10,7,デレステ7周年,33.180
+18:10,8,McLaren,29.174
+18:10,9,MAGA,1.013.865
+18:10,10,Alpine,17.867
+18:40,1,PAKvHK,29.247
+18:40,2,OnceUponAJoyDay,68.332
+18:40,3,akım,29.636
+18:40,4,フロイニ,50.158
+18:40,5,꽃가루를_날려_조이의_생일폭죽을_터뜨려,65.782
+18:40,6,JOYFUL JOY DAY,42.164
+18:40,7,McLaren,30.799
+18:40,8,デレステ7周年,35.289
+18:40,9,MAGA,1.045.019
+18:40,10,第225回,
+19:10,1,PAKvHK,35.547
+19:10,2,akım,31.461
+19:10,3,フロイニ,81.304
+19:10,4,OnceUponAJoyDay,71.456
+19:10,5,꽃가루를_날려_조이의_생일폭죽을_터뜨려,68.728
+19:10,6,MAGA,1.063.658
+19:10,7,JOYFUL JOY DAY,43.631
+19:10,8,McLaren,31.736
+19:10,9,デレステ7周年,36.236
+19:10,10,Labor Day,60.996
+19:40,1,PAKvHK,40.076
+19:40,2,フロイニ,103.108
+19:40,3,akım,33.312
+19:40,4,OnceUponAJoyDay,73.583
+19:40,5,꽃가루를_날려_조이의_생일폭죽을_터뜨려,70.729
+19:40,6,MAGA,1.092.963
+19:40,7,Labor Day,64.191
+19:40,8,JOYFUL JOY DAY,44.526
+19:40,9,McLaren,32.752
+19:40,10,デレステ7周年,37.028
+20:10,1,PAKvHK,41.900
+20:10,2,フロイニ,118.996
+20:10,3,akım,35.436
+20:10,4,OnceUponAJoyDay,75.068
+20:10,5,MAGA,1.107.990
+20:10,6,Labor Day,65.007
+20:10,7,꽃가루를_날려_조이의_생일폭죽을_터뜨려,72.121
+20:10,8,Alex Florez,33.904
+20:10,9,McLaren,33.480
+20:10,10,JOYFUL JOY DAY,45.146
+20:40,1,PAKvHK,43.054
+20:40,2,フロイニ,121.286
+20:40,3,MAGA,1.135.289
+20:40,4,akım,37.685
+20:40,5,Labor Day,68.248
+20:40,6,OnceUponAJoyDay,76.451
+20:40,7,NordStream1,
+20:40,8,Dimed,
+20:40,9,Alex Florez,38.244
+20:40,10,John Harwood,
+21:10,1,CashAppExtraCredit,18.315
+21:10,2,MAGA,1.151.318
+21:10,3,BVBTSG,
+21:10,4,PAKvHKG,11.573
+21:10,5,totp,
+21:10,6,Labor Day,69.084
+21:10,7,Bill Barr,17.808
+21:10,8,NordStream1,
+21:10,9,Dimed,
+21:10,10,Barbara Ehrenreich,
+21:40,1,CashAppExtraCredit,30.478
+21:40,2,goLOUD,
+21:40,3,FreeCodeFridayContest,
+21:40,4,Bill Barr,24.706
+21:40,5,MAGA,1.177.362
+21:40,6,Neres,
+21:40,7,BVBTSG,
+21:40,8,forutr,
+21:40,9,Labor Day,72.141
+21:40,10,Dimed,
+22:10,1,CashAppExtraCredit,36.466
+22:10,2,Benfica,31.563
+22:10,3,goLOUD,
+22:10,4,FreeCodeFridayContest,
+22:10,5,Bill Barr,29.744
+22:10,6,Vizela,
+22:10,7,Labor Day,74.643
+22:10,8,MAGA,1.193.167
+22:10,9,forutr,
+22:10,10,BakeOffItalia,
+22:40,1,CashAppExtraCredit,44.346
+22:40,2,Benfica,39.328
+22:40,3,FreeCodeFridayContest,
+22:40,4,goLOUD,
+22:40,5,Vizela,
+22:40,6,Bill Barr,35.426
+22:40,7,Iago Aspas,
+22:40,8,BakeOffItalia,
+22:40,9,BVBTSG,
+22:40,10,Labor Day,78.529
+23:10,1,CashAppExtraCredit,52.725
+23:10,2,Benfica,41.033
+23:10,3,FreeCodeFridayContest,
+23:10,4,علي_خالد_الثعلي,37.622
+23:10,5,Iago Aspas,
+23:10,6,goLOUD,
+23:10,7,Vizela,10.037
+23:10,8,Bill Barr,40.000
+23:10,9,BakeOffItalia,
+23:10,10,Labor Day,79.126
+23:40,1,CashAppExtraCredit,65.031
+23:40,2,علي_خالد_الثعلي,46.357
+23:40,3,Benfica,44.021
+23:40,4,BorisIsSoOutOfTouch,
+23:40,5,Iago Aspas,
+23:40,6,FreeCodeFridayContest,
+23:40,7,Bill Barr,44.170
+23:40,8,Sepultura,
+23:40,9,Vizela,10.485
+23:40,10,EnineBoyuna,

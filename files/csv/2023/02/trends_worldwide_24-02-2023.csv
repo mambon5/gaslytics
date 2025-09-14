@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MUNBAR,91.252
+00:10,2,Antony,98.399
+00:10,3,Barcelona,405.151
+00:10,4,Barca,261.710
+00:10,5,Xavi,113.804
+00:10,6,Europa League,146.443
+00:10,7,Manchester United,266.720
+00:10,8,Varane,41.982
+00:10,9,Ten Hag,122.817
+00:10,10,loveisland,127.330
+00:40,1,Barcelona,420.378
+00:40,2,MUNBAR,93.067
+00:40,3,Antony,104.574
+00:40,4,Barca,276.034
+00:40,5,Xavi,119.625
+00:40,6,Europa League,156.763
+00:40,7,Manchester United,277.549
+00:40,8,gfvip,175.890
+00:40,9,Varane,44.673
+00:40,10,Ten Hag,133.243
+01:10,1,Barcelona,426.771
+01:10,2,Barca,282.833
+01:10,3,Antony,107.856
+01:10,4,MUNBAR,94.191
+01:10,5,Xavi,122.224
+01:10,6,gfvip,190.672
+01:10,7,Europa League,163.201
+01:10,8,Manchester United,282.732
+01:10,9,Ten Hag,139.017
+01:10,10,Casemiro,162.820
+01:40,1,Barcelona,434.876
+01:40,2,Barca,289.893
+01:40,3,Antony,110.525
+01:40,4,gfvip,201.156
+01:40,5,MUNBAR,94.991
+01:40,6,Xavi,124.916
+01:40,7,Europa League,167.929
+01:40,8,MUFC,275.928
+01:40,9,Manchester United,287.639
+01:40,10,Bruna,81.931
+02:10,1,Barcelona,438.114
+02:10,2,Barca,292.834
+02:10,3,gfvip,205.412
+02:10,4,Antony,112.043
+02:10,5,MUNBAR,95.499
+02:10,6,Xavi,126.206
+02:10,7,Europa League,171.212
+02:10,8,Bruna,85.501
+02:10,9,MUFC,280.845
+02:10,10,RBDSHEA,11.936
+02:40,1,Pedro Raul,
+02:40,2,Christina Aguilera,15.041
+02:40,3,NATTAWINDAY2023,51.656
+02:40,4,Barcelona,442.882
+02:40,5,RBDSHEA,16.496
+02:40,6,Station19,15.026
+02:40,7,gfvip,210.503
+02:40,8,Barca,297.318
+02:40,9,Antony,113.570
+02:40,10,Bruna,90.602
+03:10,1,Tadeu,20.631
+03:10,2,Pedro Raul,
+03:10,3,Christina Aguilera,28.494
+03:10,4,VINA2023,59.090
+03:10,5,NATTAWINDAY2023,152.772
+03:10,6,Nenê,77.357
+03:10,7,Station19,26.524
+03:10,8,RBDSHEA,18.866
+03:10,9,Barcelona,444.260
+03:10,10,Bruna,90.100
+03:40,1,BBB23,367.370
+03:40,2,Gustavo,163.386
+03:40,3,Guimê,219.838
+03:40,4,Pedro Raul,15.882
+03:40,5,Christina Aguilera,45.289
+03:40,6,Tadeu,24.007
+03:40,7,Sarah,116.884
+03:40,8,Domitila,28.853
+03:40,9,VINA2023,72.531
+03:40,10,NATTAWINDAY2023,207.360
+04:10,1,BBB23,457.700
+04:10,2,Gustavo,226.084
+04:10,3,Guimê,276.567
+04:10,4,Pedro Raul,17.021
+04:10,5,VINA2023,78.945
+04:10,6,Christina Aguilera,50.626
+04:10,7,Sarah,118.601
+04:10,8,Domitila,38.915
+04:10,9,Copano,26.049
+04:10,10,Tadeu,24.549
+04:40,1,BBB23,489.945
+04:40,2,Gustavo,246.319
+04:40,3,Guimê,296.286
+04:40,4,VINA2023,92.638
+04:40,5,Copano,52.493
+04:40,6,Pedro Raul,17.455
+04:40,7,Grizzlies,10.973
+04:40,8,Christina Aguilera,53.030
+04:40,9,Sixers,20.929
+04:40,10,Sarah,122.292
+05:10,1,BBB23,498.114
+05:10,2,Gustavo,252.602
+05:10,3,Guimê,303.579
+05:10,4,Copano,90.786
+05:10,5,VINA2023,113.369
+05:10,6,シービー,17.625
+05:10,7,ウマ娘2周年,34.350
+05:10,8,Grizzlies,11.576
+05:10,9,Pedro Raul,17.738
+05:10,10,Christina Aguilera,55.429
+05:40,1,BBB23,505.360
+05:40,2,ForaGustavo,86.276
+05:40,3,Copano,101.634
+05:40,4,Guimê,308.461
+05:40,5,シービー,19.412
+05:40,6,VINA2023,121.064
+05:40,7,ウマ娘2周年,36.795
+05:40,8,Grizzlies,11.994
+05:40,9,Christina Aguilera,57.273
+05:40,10,Pedro Raul,17.927
+06:10,1,BBB23,506.937
+06:10,2,ForaGustavo,88.216
+06:10,3,Copano,106.518
+06:10,4,シービー,20.073
+06:10,5,Guimê,310.516
+06:10,6,VINA2023,123.884
+06:10,7,DieForYouRemix,33.827
+06:10,8,ウマ娘2周年,38.312
+06:10,9,Grizzlies,12.211
+06:10,10,Christina Aguilera,58.326
+06:40,1,ariana,131.802
+06:40,2,BBB23,513.418
+06:40,3,ForaGustavo,89.341
+06:40,4,Lakers,66.833
+06:40,5,DieForYouRemix,41.240
+06:40,6,シービー,21.139
+06:40,7,VINA2023,132.809
+06:40,8,Copano,108.967
+06:40,9,Guimê,312.242
+06:40,10,ウマ娘2周年,39.936
+07:10,1,ariana,144.575
+07:10,2,Lakers,72.605
+07:10,3,DieForYouRemix,44.067
+07:10,4,ForaGustavo,90.265
+07:10,5,BBB23,513.125
+07:10,6,シービー,21.435
+07:10,7,Shakira,54.297
+07:10,8,VINA2023,137.978
+07:10,9,Copano,110.297
+07:10,10,ウマ娘2周年,41.692
+07:40,1,ariana,151.967
+07:40,2,Lakers,75.914
+07:40,3,DieForYouRemix,45.630
+07:40,4,ForaGustavo,90.872
+07:40,5,シービー,22.367
+07:40,6,BBB23,512.194
+07:40,7,キンプリミリオンおめでとう,
+07:40,8,Shakira,58.924
+07:40,9,ウマ娘2周年,44.132
+07:40,10,新シナリオ,20.221
+08:10,1,ariana,155.608
+08:10,2,キンプリミリオンおめでとう,
+08:10,3,daeul,17.092
+08:10,4,Pak Prabowo Subianto,
+08:10,5,Mengabdi Tanpa Lelah,
+08:10,6,Prabowo Untuk Indonesia,
+08:10,7,LALISAatCelineKR,120.103
+08:10,8,Setujuuu Mending Prabowo,
+08:10,9,DieForYouRemix,46.367
+08:10,10,Lakers,77.359
+08:40,1,キンプリミリオンおめでとう,10.311
+08:40,2,ariana,159.159
+08:40,3,LALISAatCelineKR,195.378
+08:40,4,LISAXCELINE,213.059
+08:40,5,Pak Prabowo Subianto,
+08:40,6,TokocryptoforBLK2023,
+08:40,7,daeul,19.229
+08:40,8,Mengabdi Tanpa Lelah,
+08:40,9,Prabowo Untuk Indonesia,
+08:40,10,Setujuuu Mending Prabowo,
+09:10,1,カーヴェ,49.488
+09:10,2,キンプリミリオンおめでとう,12.637
+09:10,3,TokocryptoforBLK2023,
+09:10,4,LALISAatCelineKR,256.910
+09:10,5,BulanLiterasiKripto,
+09:10,6,LISAXCELINE,276.115
+09:10,7,ariana,160.497
+09:10,8,Kaveh,48.724
+09:10,9,Prabowo Untuk Indonesia,
+09:10,10,daeul,19.949
+09:40,1,カーヴェ,74.250
+09:40,2,キンプリミリオンおめでとう,
+09:40,3,Kaveh,65.944
+09:40,4,TokocryptoforBLK2023,
+09:40,5,BulanLiterasiKripto,
+09:40,6,LALISAatCelineKR,300.879
+09:40,7,XIAO ZHAN TODS MFW 2023,30.867
+09:40,8,LISAXCELINE,323.720
+09:40,9,Prabowo Untuk Indonesia,
+09:40,10,ariana,163.440
+10:10,1,カーヴェ,87.758
+10:10,2,Kaveh,75.140
+10:10,3,キンプリミリオンおめでとう,16.255
+10:10,4,XiaoZhanxTodsFW23,96.311
+10:10,5,TokocryptoforBLK2023,
+10:10,6,BulanLiterasiKripto,
+10:10,7,LALISAatCelineKR,329.424
+10:10,8,LISAXCELINE,354.957
+10:10,9,白朮さん,
+10:10,10,新シナリオ,27.919
+10:40,1,カーヴェ,100.785
+10:40,2,XiaoZhanxTodsFW23,141.031
+10:40,3,sumika,10.077
+10:40,4,Kaveh,84.883
+10:40,5,キンプリミリオンおめでとう,18.810
+10:40,6,يوم_الجمعه,27.845
+10:40,7,TokocryptoforBLK2023,
+10:40,8,جمعه_مباركه,11.771
+10:40,9,白朮さん,
+10:40,10,BulanLiterasiKripto,
+11:10,1,カーヴェ,110.532
+11:10,2,sumika,25.642
+11:10,3,XiaoZhanxTodsFW23,174.568
+11:10,4,Kaveh,92.703
+11:10,5,キンプリミリオンおめでとう,21.261
+11:10,6,يوم_الجمعه,30.868
+11:10,7,marttayuzyuze,42.608
+11:10,8,جمعه_مباركه,13.582
+11:10,9,新シナリオ,30.239
+11:10,10,白朮さん,
+11:40,1,カーヴェ,118.555
+11:40,2,sumika,38.046
+11:40,3,ラプラス,26.485
+11:40,4,白朮先生,10.742
+11:40,5,オウンゴール,
+11:40,6,アニポケ,16.075
+11:40,7,XiaoZhanxTodsFW23,200.592
+11:40,8,يوم_الجمعه,34.242
+11:40,9,marttayuzyuze,55.892
+11:40,10,Kaveh,100.665
+12:10,1,sumika,48.050
+12:10,2,カーヴェ,126.090
+12:10,3,ラプラス,27.843
+12:10,4,白朮先生,11.264
+12:10,5,オウンゴール,
+12:10,6,marttayuzyuze,67.533
+12:10,7,ハマダ歌謡祭,
+12:10,8,يوم_الجمعه,37.003
+12:10,9,アニポケ,21.112
+12:10,10,جمعه_مباركه,16.863
+12:40,1,sumika,55.492
+12:40,2,カーヴェ,132.299
+12:40,3,Liella,24.313
+12:40,4,WILD_TONIGHT_MV_RELEASE,27.557
+12:40,5,ラプラス,29.402
+12:40,6,JoshCullen OnWishBus,33.586
+12:40,7,marttayuzyuze,79.348
+12:40,8,UELdraw,12.362
+12:40,9,白朮先生,11.733
+12:40,10,オウンゴール,
+13:10,1,sumika,61.622
+13:10,2,カーヴェ,137.472
+13:10,3,WILD_TONIGHT_MV_RELEASE,46.137
+13:10,4,乃木坂11thバスラ4期生ライブ,19.599
+13:10,5,JoshCullen OnWishBus,50.440
+13:10,6,Liella,33.366
+13:10,7,ラプラス,30.646
+13:10,8,乃木坂バスラ4期生ライブ,34.042
+13:10,9,marttayuzyuze,92.786
+13:10,10,白朮先生,12.091
+13:40,1,sumika,67.088
+13:40,2,MCIEndingYarn,56.451
+13:40,3,Maurizio Costanzo,
+13:40,4,カーヴェ,142.309
+13:40,5,乃木坂11thバスラ4期生ライブ,21.302
+13:40,6,ひろがるホロライブ,14.317
+13:40,7,金スマ,12.094
+13:40,8,WILD_TONIGHT_MV_RELEASE,58.481
+13:40,9,JoshCullen OnWishBus,62.560
+13:40,10,ラプラス,32.054
+14:10,1,MCIEndingYarn,96.730
+14:10,2,sumika,71.588
+14:10,3,Maurizio Costanzo,14.262
+14:10,4,カーヴェ,146.299
+14:10,5,金スマ,15.330
+14:10,6,ひろがるホロライブ,20.045
+14:10,7,乃木坂11thバスラ4期生ライブ,22.785
+14:10,8,セブン参る,
+14:10,9,JoshCullen OnWishBus,72.865
+14:10,10,ミニオン,
+14:40,1,MCIEndingYarn,118.956
+14:40,2,sumika,75.900
+14:40,3,mauriziocostanzo,
+14:40,4,MySchoolPresidentFinalEP,117.671
+14:40,5,カーヴェ,149.719
+14:40,6,ひろがるホロライブ,24.166
+14:40,7,ساعه_استجابه,11.294
+14:40,8,ミニオン,
+14:40,9,JoshCullen OnWishBus,81.158
+14:40,10,ラプラス,33.828
+15:10,1,MySchoolPresidentFinalEP,220.812
+15:10,2,MCIEndingYarn,130.952
+15:10,3,sumika,78.916
+15:10,4,mauriziocostanzo,
+15:10,5,ساعه_استجابه,16.637
+15:10,6,金ドラ100よか,13.847
+15:10,7,ミニオン,
+15:10,8,カーヴェ,152.320
+15:10,9,Shakira,89.489
+15:10,10,魚住さん,
+15:40,1,MySchoolPresidentFinalEP,334.968
+15:40,2,ساعه_استجابه,24.203
+15:40,3,sumika,81.981
+15:40,4,MCIEndingYarn,140.009
+15:40,5,FreeTheChips,
+15:40,6,entry,
+15:40,7,ミニオン,
+15:40,8,アナザースカイ,
+15:40,9,Shakira,93.942
+15:40,10,カーヴェ,155.193
+16:10,1,MySchoolPresidentFinalEP,448.249
+16:10,2,ساعه_استجابه,30.675
+16:10,3,FreeTheChips,
+16:10,4,entry,
+16:10,5,sumika,84.206
+16:10,6,tipicospor,
+16:10,7,Marcelo,35.246
+16:10,8,Shakira,97.688
+16:10,9,ミニオン,10.014
+16:10,10,READY TO BE CAPTIVATED,
+16:40,1,Marcelo,49.985
+16:40,2,MySchoolPresidentFinalEP,530.145
+16:40,3,ساعه_استجابه,34.188
+16:40,4,FreeTheChips,
+16:40,5,entry,
+16:40,6,tipicospor,
+16:40,7,sumika,86.153
+16:40,8,Shakira,102.069
+16:40,9,Azam Khan,
+16:40,10,Karol G,82.214
+17:10,1,Marcelo,58.916
+17:10,2,MySchoolPresidentFinalEP,589.273
+17:10,3,ساعه_استجابه,35.599
+17:10,4,FreeTheChips,
+17:10,5,entry,
+17:10,6,Azam Khan,
+17:10,7,stayselcaday,19.532
+17:10,8,sumika,87.638
+17:10,9,Shakira,105.553
+17:10,10,第400回,
+17:40,1,Marcelo,66.031
+17:40,2,MySchoolPresidentFinalEP,643.675
+17:40,3,FreeTheChips,
+17:40,4,entry,
+17:40,5,ساعه_استجابه,37.128
+17:40,6,stayselcaday,23.355
+17:40,7,Azam Khan,
+17:40,8,Shakira,110.368
+17:40,9,sumika,88.745
+17:40,10,Yasmín Esquivel,58.502
+18:10,1,Marcelo,70.256
+18:10,2,MySchoolPresidentFinalEP,690.309
+18:10,3,FreeTheChips,11.276
+18:10,4,entry,10.745
+18:10,5,ساعه_استجابه,38.452
+18:10,6,StaySelcaDay,25.788
+18:10,7,Shakira,113.279
+18:10,8,Azam Khan,
+18:10,9,Rita Lee,
+18:10,10,宝石の国,
+18:40,1,Marcelo,74.764
+18:40,2,MySchoolPresidentFinalEP,755.330
+18:40,3,FreeTheChips,12.408
+18:40,4,entry,11.824
+18:40,5,Shakira,117.348
+18:40,6,StaySelcaDay,27.619
+18:40,7,CbYaralarıSarmaya100Bin,199.202
+18:40,8,Andy Murray,
+18:40,9,Azam Khan,10.259
+18:40,10,Rita Lee,
+19:10,1,Marcelo,76.599
+19:10,2,MySchoolPresidentFinalEP,803.502
+19:10,3,FreeTheChips,13.285
+19:10,4,entry,12.623
+19:10,5,GuardianGiveaways,
+19:10,6,Shakira,120.933
+19:10,7,DíaDeLaBandera,
+19:10,8,Andy Murray,
+19:10,9,Rita Lee,
+19:10,10,Fnatic,15.275
+19:40,1,Marcelo,79.954
+19:40,2,MySchoolPresidentFinalEP,832.632
+19:40,3,FreeTheChips,14.392
+19:40,4,entry,13.602
+19:40,5,GuardianGiveaways,
+19:40,6,Shakira,127.652
+19:40,7,DíaDeLaBandera,10.534
+19:40,8,Andy Murray,
+19:40,9,Rita Lee,
+19:40,10,宝石の国,
+20:10,1,ZombehNFT,
+20:10,2,Marcelo,80.875
+20:10,3,MySchoolPresidentFinalEP,864.988
+20:10,4,FreeTheChips,15.318
+20:10,5,entry,14.391
+20:10,6,GuardianGiveaways,
+20:10,7,Fnatic,23.859
+20:10,8,Shakira,131.696
+20:10,9,Sentinels,26.615
+20:10,10,Rita Lee,
+20:40,1,ZombehNFT,
+20:40,2,Marcelo,83.621
+20:40,3,GuardianGiveaways,
+20:40,4,MySchoolPresidentFinalEP,876.708
+20:40,5,FreeTheChips,15.968
+20:40,6,entry,15.009
+20:40,7,Shakira,137.044
+20:40,8,Fnatic,26.562
+20:40,9,Sentinels,30.205
+20:40,10,Rita Lee,
+21:10,1,ZombehNFT,
+21:10,2,Marcelo,84.059
+21:10,3,GuardianGiveaways,
+21:10,4,FreeTheChips,16.494
+21:10,5,MySchoolPresidentFinalEP,879.999
+21:10,6,entry,15.503
+21:10,7,Shakira,140.731
+21:10,8,Fnatic,27.479
+21:10,9,Sentinels,31.286
+21:10,10,Rita Lee,
+21:40,1,ZombehNFT,
+21:40,2,Cesar2023,
+21:40,3,XboxFreeCodeFriday,
+21:40,4,Marcelo,86.366
+21:40,5,GuardianGiveaways,
+21:40,6,totp,
+21:40,7,Shakira,143.035
+21:40,8,Fnatic,28.226
+21:40,9,Elche,
+21:40,10,Sentinels,32.477
+22:10,1,XboxFreeCodeFriday,
+22:10,2,Cesar2023,12.703
+22:10,3,ZombehNFT,
+22:10,4,Marcelo,86.546
+22:10,5,YalıÇapkını,56.723
+22:10,6,totp,
+22:10,7,Shakira,148.760
+22:10,8,Elche,
+22:10,9,Yahaya Bello,25.331
+22:10,10,Karol G,94.886
+22:40,1,XboxFreeCodeFriday,
+22:40,2,Cesar2023,16.140
+22:40,3,ZombehNFT,
+22:40,4,Marcelo,88.488
+22:40,5,YalıÇapkını,60.873
+22:40,6,Elche,10.364
+22:40,7,M05BMG,
+22:40,8,Shakira,152.855
+22:40,9,Fulham,15.720
+22:40,10,Manor Solomon,
+23:10,1,Cesar2023,20.702
+23:10,2,Elche,12.414
+23:10,3,XboxFreeCodeFriday,
+23:10,4,Marcelo,88.068
+23:10,5,Gogglebox,
+23:10,6,propagandalive,
+23:10,7,M05BMG,
+23:10,8,Fulham,16.188
+23:10,9,Brad Pitt,
+23:10,10,Shakira,155.404
+23:40,1,Elche,15.803
+23:40,2,Cesar2023,25.656
+23:40,3,XboxFreeCodeFriday,
+23:40,4,Marcelo,90.058
+23:40,5,propagandalive,
+23:40,6,Gogglebox,
+23:40,7,ZombehNFT,
+23:40,8,Fulham,16.830
+23:40,9,Rosario Robles,
+23:40,10,Brad Pitt,

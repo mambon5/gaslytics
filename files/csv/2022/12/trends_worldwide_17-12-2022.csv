@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SanremoGiovani,25.661
+00:10,2,LaVozFinal,
+00:10,3,NoelDeLocklear,
+00:10,4,UTSA,
+00:10,5,Barbie,261.935
+00:10,6,CristianRey,
+00:10,7,Troy,24.337
+00:10,8,As 10,80.412
+00:10,9,MundialPlaydoit,
+00:10,10,Hosmer,
+00:40,1,SanremoGiovani,29.449
+00:40,2,UTSA,
+00:40,3,LaVozFinal,
+00:40,4,Troy,25.699
+00:40,5,As 10,81.928
+00:40,6,Mediafest6,
+00:40,7,NoelDeLocklear,
+00:40,8,Barbie,267.167
+00:40,9,10palavras,
+00:40,10,Hosmer,
+01:10,1,SanremoGiovani,32.898
+01:10,2,UTSA,
+01:10,3,LaVozFinal,
+01:10,4,As 10,81.148
+01:10,5,10palavras,
+01:10,6,Troy,25.854
+01:10,7,Mediafest6,
+01:10,8,NoelDeLocklear,
+01:10,9,Barbie,270.045
+01:10,10,スペース復活,
+01:40,1,SanremoGiovani,33.555
+01:40,2,ジャンプチまちがい探し,
+01:40,3,As 10,82.843
+01:40,4,LaVozFinal,
+01:40,5,10palavras,
+01:40,6,グミスマス,
+01:40,7,UTSA,
+01:40,8,The FBI,268.316
+01:40,9,回答時間,13.222
+01:40,10,ジャンフェス,23.477
+02:10,1,ジャンプチまちがい探し,
+02:10,2,SmackDown,
+02:10,3,SanremoGiovani,33.748
+02:10,4,LaVozFinal,
+02:10,5,As 10,82.232
+02:10,6,グミスマス,
+02:10,7,回答時間,16.811
+02:10,8,ジャンフェス,25.933
+02:10,9,Donte,
+02:10,10,The FBI,290.912
+02:40,1,SmackDown,15.832
+02:40,2,ジャンプチまちがい探し,11.789
+02:40,3,As 10,84.155
+02:40,4,グミスマス,
+02:40,5,10palavras,
+02:40,6,SanremoGiovani,33.969
+02:40,7,ジャンフェス,28.768
+02:40,8,ファラクト,
+02:40,9,回答時間,19.666
+02:40,10,Donte,
+03:10,1,SmackDown,26.388
+03:10,2,ジャンプチまちがい探し,13.655
+03:10,3,As 10,83.749
+03:10,4,グミスマス,
+03:10,5,10palavras,
+03:10,6,TrueWorship_TrueHappiness,61.174
+03:10,7,Uncle Howdy,
+03:10,8,ジャンフェス,31.094
+03:10,9,ファラクト,11.171
+03:10,10,回答時間,21.879
+03:40,1,SmackDown,34.574
+03:40,2,As 10,86.015
+03:40,3,TheLastDriveIn,
+03:40,4,ジャンプチまちがい探し,15.192
+03:40,5,TrueWorship_TrueHappiness,122.833
+03:40,6,10palavras,
+03:40,7,ジャンフェス,33.896
+03:40,8,Gunther,11.128
+03:40,9,Sant Rampal Ji Maharaj,129.360
+03:40,10,ファラクト,12.285
+04:10,1,SmackDown,46.034
+04:10,2,Kyrie,22.963
+04:10,3,As 10,85.185
+04:10,4,TheLastDriveIn,
+04:10,5,TrueWorship_TrueHappiness,170.346
+04:10,6,10palavras,
+04:10,7,ジャンプチまちがい探し,16.834
+04:10,8,Sant Rampal Ji Maharaj,165.549
+04:10,9,ジャンフェス,36.339
+04:10,10,Top Dolla,
+04:40,1,SmackDown,50.430
+04:40,2,Kyrie,29.493
+04:40,3,As 10,86.922
+04:40,4,TheLastDriveIn,
+04:40,5,10palavras,
+04:40,6,TrueWorship_TrueHappiness,202.948
+04:40,7,ジャンプチまちがい探し,18.547
+04:40,8,Sant Rampal Ji Maharaj,190.670
+04:40,9,ジャンフェス,39.848
+04:40,10,Top Dolla,
+05:10,1,SmackDown,52.234
+05:10,2,Kyrie,31.287
+05:10,3,As 10,85.460
+05:10,4,10palavras,
+05:10,5,TheLastDriveIn,
+05:10,6,TrueWorship_TrueHappiness,230.710
+05:10,7,AEWRampage,
+05:10,8,ジャンフェス,42.448
+05:10,9,Sant Rampal Ji Maharaj,208.980
+05:10,10,NDSU,
+05:40,1,Kyrie,32.925
+05:40,2,SmackDown,53.969
+05:40,3,As 10,87.204
+05:40,4,10palavras,
+05:40,5,TheLastDriveIn,11.052
+05:40,6,ジャンプチまちがい探し,21.331
+05:40,7,TrueWorship_TrueHappiness,252.580
+05:40,8,ジャンフェス,45.631
+05:40,9,Sant Rampal Ji Maharaj,225.866
+05:40,10,渋谷事変,
+06:10,1,Kyrie,33.887
+06:10,2,SmackDown,55.168
+06:10,3,DüzelAmcık Twitter,
+06:10,4,As 10,86.492
+06:10,5,TheLastDriveIn,12.415
+06:10,6,10palavras,
+06:10,7,ジャンプフェスタ,84.620
+06:10,8,ジャンフェス,47.989
+06:10,9,TrueWorship_TrueHappiness,267.646
+06:10,10,渋谷事変,
+06:40,1,Thomas Bryant,
+06:40,2,Kyrie,34.710
+06:40,3,SmackDown,56.325
+06:40,4,LakeShow,
+06:40,5,DüzelAmcık Twitter,
+06:40,6,AUSvSA,
+06:40,7,As 10,87.612
+06:40,8,Westbrook,
+06:40,9,ジャンプフェスタ,92.241
+06:40,10,Max Christie,
+07:10,1,Thomas Bryant,
+07:10,2,AUSvSA,
+07:10,3,LakeShow,
+07:10,4,Kyrie,35.511
+07:10,5,DüzelAmcık Twitter,
+07:10,6,ジャンプフェスタ,98.120
+07:10,7,SmackDown,57.220
+07:10,8,As 10,86.638
+07:10,9,Westbrook,
+07:10,10,Max Christie,
+07:40,1,Thomas Bryant,
+07:40,2,AUSvSA,
+07:40,3,ミスニューヨーク,
+07:40,4,ターコイズS,20.848
+07:40,5,ジャンプフェスタ,104.401
+07:40,6,LakeShow,
+07:40,7,Kyrie,36.192
+07:40,8,cumartesi,
+07:40,9,ジャンフェス,55.994
+07:40,10,กสพท66,60.399
+08:10,1,DalySunScreenxENGLOT,71.739
+08:10,2,NARUTOP99,
+08:10,3,AUSvSA,
+08:10,4,ミスニューヨーク,
+08:10,5,Thomas Bryant,
+08:10,6,ターコイズS,21.462
+08:10,7,cumartesi,
+08:10,8,遊戯王JF2023,18.345
+08:10,9,A.R.E,75.719
+08:10,10,ジャンフェス,58.625
+08:40,1,DalySunScreenxENGLOT,134.546
+08:40,2,NARUTOP99,10.658
+08:40,3,遊戯王JF2023,22.044
+08:40,4,cumartesi,
+08:40,5,AUSvSA,
+08:40,6,ミスニューヨーク,
+08:40,7,DecemBELLE WithDONNY,
+08:40,8,ターコイズS,21.839
+08:40,9,Thomas Bryant,
+08:40,10,A.R.E,77.499
+09:10,1,NARUTOP99,14.189
+09:10,2,DecemBELLE WithDONNY,60.296
+09:10,3,DalySunScreenxENGLOT,154.866
+09:10,4,遊戯王JF2023,24.156
+09:10,5,UMKMBangkitdanMendunia,
+09:10,6,cumartesi,
+09:10,7,A.R.E,77.219
+09:10,8,ミスニューヨーク,
+09:10,9,ターコイズS,22.043
+09:10,10,テラナイト,
+09:40,1,DecemBELLE WithDONNY,108.533
+09:40,2,NARUTOP99,17.218
+09:40,3,DalySunScreenxENGLOT,173.231
+09:40,4,遊戯王JF2023,24.816
+09:40,5,UMKMBangkitdanMendunia,
+09:40,6,cumartesi,
+09:40,7,A.R.E,78.661
+09:40,8,ミスニューヨーク,
+09:40,9,テラナイト,
+09:40,10,Brilianpreneur 2022,
+10:10,1,DecemBELLE WithDONNY,148.560
+10:10,2,NARUTOP99,20.912
+10:10,3,ヒロアカMVP,
+10:10,4,ルミリオン,
+10:10,5,DalySunScreenxENGLOT,201.609
+10:10,6,UMKMBangkitdanMendunia,
+10:10,7,cumartesi,
+10:10,8,Sulwhasoo X Gulf,21.961
+10:10,9,A.R.E,77.652
+10:10,10,Brilianpreneur 2022,
+10:40,1,NARUTOP99,23.953
+10:40,2,DecemBELLE WithDONNY,181.701
+10:40,3,MelbDerby,
+10:40,4,ヒロアカMVP,
+10:40,5,MCYvMVC,
+10:40,6,ルミリオン,
+10:40,7,InvestorFriendlyUP,
+10:40,8,Sulwhasoo X Gulf,41.195
+10:40,9,A.R.E,79.054
+10:40,10,キラフェス,
+11:10,1,MelbDerby,
+11:10,2,NARUTOP99,27.033
+11:10,3,DecemBELLE WithDONNY,219.357
+11:10,4,MCYvMVC,
+11:10,5,ヒロアカMVP,
+11:10,6,ルミリオン,
+11:10,7,SWSRebloomintoYou,54.925
+11:10,8,Sulwhasoo X Gulf,53.082
+11:10,9,CHRISTMASaya WithKDLEX,
+11:10,10,Glover,11.982
+11:40,1,明石家紅白,23.240
+11:40,2,さんまさんと全力でWANT_IT,
+11:40,3,MelbDerby,
+11:40,4,DecemBELLE WithDONNY,258.637
+11:40,5,NARUTOP99,29.973
+11:40,6,JhukegaNahiSala,
+11:40,7,Flower Nahi Fire,
+11:40,8,CHRISTMASaya WithKDLEX,16.326
+11:40,9,Sulwhasoo X Gulf,73.385
+11:40,10,Glover,12.983
+12:10,1,明石家紅白,58.429
+12:10,2,さんまさんと全力でWANT_IT,36.365
+12:10,3,ドッキリGP,
+12:10,4,MelbDerby,
+12:10,5,DecemBELLE WithDONNY,303.915
+12:10,6,NARUTOP99,32.518
+12:10,7,CHRISTMASaya WithKDLEX,29.752
+12:10,8,Flower Nahi Fire,
+12:10,9,Sulwhasoo X Gulf,96.357
+12:10,10,Srivalli Allu Rashmika,
+12:40,1,明石家紅白,88.479
+12:40,2,さんまさんと全力でWANT_IT,63.594
+12:40,3,ドッキリGP,
+12:40,4,MelbDerby,
+12:40,5,DecemBELLE WithDONNY,348.298
+12:40,6,NARUTOP99,34.832
+12:40,7,CHRISTMASaya WithKDLEX,41.954
+12:40,8,ひな誕祭,
+12:40,9,Srivalli Allu Rashmika,
+12:40,10,Sulwhasoo X Gulf,115.606
+13:10,1,明石家紅白,133.918
+13:10,2,さんまさんと全力でWANT_IT,103.282
+13:10,3,ドッキリGP,
+13:10,4,細かすぎて伝わらないモノマネ,
+13:10,5,AromaFlat,
+13:10,6,DecemBELLE WithDONNY,391.646
+13:10,7,CHRISTMASaya WithKDLEX,53.311
+13:10,8,ひな誕祭,
+13:10,9,PaiPai Join Our Concert,25.469
+13:10,10,KATHNIEL DOSEmbest,10.632
+13:40,1,AskSRK,20.953
+13:40,2,細かすぎて伝わらないモノマネ,
+13:40,3,明石家紅白,157.408
+13:40,4,AromaFlat,
+13:40,5,さんまさんと全力でWANT_IT,121.214
+13:40,6,DecemBELLE WithDONNY,442.353
+13:40,7,グリーン希望,
+13:40,8,CHRISTMASaya WithKDLEX,63.017
+13:40,9,ひな誕祭,
+13:40,10,KATHNIEL DOSEmbest,18.016
+14:10,1,AskSRK,38.492
+14:10,2,細かすぎて伝わらないモノマネ,13.479
+14:10,3,AromaFlat,
+14:10,4,明石家紅白,166.403
+14:10,5,兎田ぺこら新衣装,13.843
+14:10,6,PRSSolo 2022,
+14:10,7,グリーン希望,
+14:10,8,DecemBELLE WithDONNY,501.051
+14:10,9,RADWIMPS,
+14:10,10,KATHNIEL DOSEmbest,26.907
+14:40,1,AskSRK,46.081
+14:40,2,細かすぎて伝わらないモノマネ,19.082
+14:40,3,祈りのカルテ桜の木,28.785
+14:40,4,兎田ぺこら新衣装,16.812
+14:40,5,AromaFlat,
+14:40,6,PRSSolo 2022,
+14:40,7,RADWIMPS,
+14:40,8,最強寒波,
+14:40,9,DecemBELLE WithDONNY,578.755
+14:40,10,グリーン希望,
+15:10,1,AskSRK,46.689
+15:10,2,細かすぎて伝わらないモノマネ,24.897
+15:10,3,祈りのカルテ桜の木,52.478
+15:10,4,兎田ぺこら新衣装,25.932
+15:10,5,AromaFlat,
+15:10,6,PRSSolo 2022,
+15:10,7,最強寒波,12.280
+15:10,8,諏訪野先生,
+15:10,9,캔디 1위,
+15:10,10,RADWIMPS,
+15:40,1,AskSRK,47.811
+15:40,2,細かすぎて伝わらないモノマネ,27.829
+15:40,3,ボーイフレンド降臨,69.837
+15:40,4,祈りのカルテ桜の木,59.956
+15:40,5,SixTONESANN,10.225
+15:40,6,Aberdeen,
+15:40,7,캔디 1위,18.926
+15:40,8,最強寒波,14.207
+15:40,9,PRSSolo 2022,
+15:40,10,諏訪野先生,
+16:10,1,AskSRK,48.949
+16:10,2,SixTONESANN,35.507
+16:10,3,ボーイフレンド降臨,89.730
+16:10,4,CROMAR,
+16:10,5,細かすぎて伝わらないモノマネ,28.815
+16:10,6,クロアチア先制,
+16:10,7,ダーウィン,
+16:10,8,最強寒波,15.719
+16:10,9,캔디 1위,30.838
+16:10,10,Aberdeen,
+16:40,1,CROMAR,14.006
+16:40,2,ぼっち・ざ・ろっく,187.147
+16:40,3,SixTONESANN,62.630
+16:40,4,AskSRK,49.764
+16:40,5,クロアチア先制,
+16:40,6,Rihanna,37.692
+16:40,7,المغرب_كرواتيا,57.628
+16:40,8,セットプレー,
+16:40,9,SNOWDROP BEST DRAMA,19.229
+16:40,10,グヴァルディオル,
+17:10,1,CROMAR,20.329
+17:10,2,モロッコ,56.193
+17:10,3,ぼっち・ざ・ろっく,203.654
+17:10,4,Orsic,14.076
+17:10,5,SixTONESANN,77.733
+17:10,6,Rihanna,46.187
+17:10,7,المغرب_كرواتيا,66.622
+17:10,8,AskSRK,50.572
+17:10,9,クロアチア先制,
+17:10,10,オルシッチ,
+17:40,1,CROMAR,24.630
+17:40,2,モロッコ,61.957
+17:40,3,ぼっち・ざ・ろっく,213.034
+17:40,4,Rihanna,53.215
+17:40,5,Orsic,15.366
+17:40,6,المغرب_كرواتيا,75.446
+17:40,7,SixTONESANN,79.427
+17:40,8,ポプテピピック,11.218
+17:40,9,クロアチア先制,
+17:40,10,TwitırGündem Bozuldu,
+18:10,1,クロアチア,113.044
+18:10,2,CROMAR,34.184
+18:10,3,المغرب_كرواتيا,82.071
+18:10,4,chookyinu,
+18:10,5,モドリッチ,24.485
+18:10,6,ポプテピピック,39.424
+18:10,7,Rihanna,59.030
+18:10,8,ぼっち・ざ・ろっく,217.193
+18:10,9,Orsic,17.702
+18:10,10,両チーム,
+18:40,1,クロアチア,120.091
+18:40,2,CROMAR,38.836
+18:40,3,chookyinu,
+18:40,4,المغرب_كرواتيا,79.737
+18:40,5,モドリッチ,28.117
+18:40,6,ポプテピピック,48.894
+18:40,7,Rihanna,64.704
+18:40,8,HappyTripleNDay2022,27.375
+18:40,9,Orsic,18.792
+18:40,10,中村優一,
+19:10,1,クロアチア,122.420
+19:10,2,CROMAR,39.911
+19:10,3,chookyinu,
+19:10,4,المغرب_كرواتيا,78.681
+19:10,5,モドリッチ,29.536
+19:10,6,Rihanna,68.498
+19:10,7,ポプテピピック,52.054
+19:10,8,البزنس11,
+19:10,9,Orsic,19.375
+19:10,10,As 10,91.857
+19:40,1,Vikings,30.496
+19:40,2,Colts,18.766
+19:40,3,クロアチア,123.946
+19:40,4,CROMAR,41.240
+19:40,5,chookyinu,
+19:40,6,SKOL,
+19:40,7,Jonathan Taylor,
+19:40,8,المغرب_كرواتيا,80.435
+19:40,9,Rihanna,72.866
+19:40,10,モドリッチ,30.498
+20:10,1,Vikings,49.509
+20:10,2,Colts,26.058
+20:10,3,クロアチア,125.077
+20:10,4,CROMAR,42.473
+20:10,5,SKOL,
+20:10,6,Jonathan Taylor,
+20:10,7,chookyinu,
+20:10,8,Jeff Saturday,
+20:10,9,Rihanna,75.673
+20:10,10,المغرب_كرواتيا,79.969
+20:40,1,Vikings,72.321
+20:40,2,Colts,36.014
+20:40,3,SKOL,
+20:40,4,Kirk Cousins,
+20:40,5,StrictlyFinal,
+20:40,6,Jeff Saturday,
+20:40,7,Jonathan Taylor,
+20:40,8,クロアチア,125.940
+20:40,9,CROMAR,43.418
+20:40,10,INDvsMIN,
+21:10,1,Vikings,85.645
+21:10,2,Colts,42.004
+21:10,3,StrictlyFinal,
+21:10,4,SKOL,
+21:10,5,Kirk Cousins,
+21:10,6,Jeff Saturday,
+21:10,7,Jonathan Taylor,
+21:10,8,Hamza,14.112
+21:10,9,Top G,17.901
+21:10,10,INDvsMIN,
+21:40,1,Vikings,93.016
+21:40,2,Colts,45.981
+21:40,3,MissFrance2023,17.108
+21:40,4,StrictlyFinal,
+21:40,5,Travis Hunter,
+21:40,6,SKOL,10.202
+21:40,7,Kirk Cousins,
+21:40,8,Jeff Saturday,
+21:40,9,Hamza,15.703
+21:40,10,Top G,20.948
+22:10,1,Vikings,106.440
+22:10,2,MissFrance2023,39.142
+22:10,3,StrictlyFinal,10.004
+22:10,4,Matt Ryan,10.610
+22:10,5,Travis Hunter,10.016
+22:10,6,Kirk Cousins,
+22:10,7,SKOL,11.678
+22:10,8,Miss Guadeloupe,
+22:10,9,Hamza,17.786
+22:10,10,Reagor,
+22:40,1,Colts,80.370
+22:40,2,MissFrance2023,63.726
+22:40,3,Matt Ryan,20.994
+22:40,4,StrictlyFinal,12.166
+22:40,5,SKOL,15.252
+22:40,6,Jeff Saturday,
+22:40,7,Hamza,21.147
+22:40,8,Miss Guadeloupe,17.401
+22:40,9,Kirk Cousins,11.039
+22:40,10,INDvsMIN,11.118
+23:10,1,Colts,102.396
+23:10,2,Matt Ryan,33.219
+23:10,3,MissFrance2023,84.250
+23:10,4,SKOL,18.791
+23:10,5,Jeff Saturday,11.508
+23:10,6,Strictly,21.959
+23:10,7,Miss Guadeloupe,25.888
+23:10,8,Hamza,24.727
+23:10,9,INDvsMIN,14.040
+23:10,10,Kirk Cousins,12.422
+23:40,1,Colts,123.173
+23:40,2,Matt Ryan,47.377
+23:40,3,MissFrance2023,108.322
+23:40,4,SKOL,26.649
+23:40,5,Jeff Saturday,14.898
+23:40,6,Strictly,23.173
+23:40,7,Miss Guadeloupe,32.650
+23:40,8,Hamza,26.236
+23:40,9,Kirk Cousins,15.008
+23:40,10,INDvsMIN,17.112

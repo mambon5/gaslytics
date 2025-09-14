@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Oscars,295.131
+00:10,2,Corinthians,171.497
+00:10,3,Ituano,55.464
+00:10,4,VamosColoColo,
+00:10,5,Volta Redonda,
+00:10,6,SuperclasicoxTNTSports,
+00:10,7,Ter Stegen,22.798
+00:10,8,Muniain,15.370
+00:10,9,Cássio,25.092
+00:10,10,Athletic,66.852
+00:40,1,Oscars,399.502
+00:40,2,Corinthians,176.383
+00:40,3,Ituano,56.881
+00:40,4,VamosColoColo,
+00:40,5,Volta Redonda,12.187
+00:40,6,マスク解禁,11.321
+00:40,7,Hugh Grant,
+00:40,8,SuperclasicoxTNTSports,
+00:40,9,Muniain,17.710
+00:40,10,VamosLaU,
+01:10,1,Oscars,516.478
+01:10,2,Corinthians,179.011
+01:10,3,Ituano,
+01:10,4,Hugh Grant,
+01:10,5,マスク解禁,13.344
+01:10,6,個人の判断,49.776
+01:10,7,あさイチ,
+01:10,8,Volta Redonda,12.930
+01:10,9,Beltran,38.003
+01:10,10,VamosColoColo,
+01:40,1,Oscars,717.372
+01:40,2,Ke Huy Quan,81.303
+01:40,3,Guillermo del Toro,41.626
+01:40,4,Corinthians,182.769
+01:40,5,Jimmy Kimmel,18.215
+01:40,6,マスク解禁,15.156
+01:40,7,Hugh Grant,
+01:40,8,pinocchiomovie,
+01:40,9,Ituano,59.451
+01:40,10,個人の判断,53.318
+02:10,1,Oscars,874.675
+02:10,2,Ke Huy Quan,153.278
+02:10,3,Jamie Lee Curtis,81.360
+02:10,4,Angela,165.620
+02:10,5,Stephanie,82.481
+02:10,6,Guillermo del Toro,59.063
+02:10,7,Jimmy Kimmel,22.174
+02:10,8,Corinthians,184.549
+02:10,9,マスク解禁,16.794
+02:10,10,AcademyAwards,39.757
+02:40,1,Oscars,1.063.705
+02:40,2,Jamie Lee Curtis,99.258
+02:40,3,Ke Huy Quan,180.028
+02:40,4,Angela,202.537
+02:40,5,Stephanie,99.378
+02:40,6,Guillermo del Toro,68.432
+02:40,7,AcademyAwards,46.660
+02:40,8,Jimmy Kimmel,24.794
+02:40,9,マスク解禁,18.489
+02:40,10,TheLittleMermaid,43.318
+03:10,1,Oscars,1.244.019
+03:10,2,Jamie Lee Curtis,112.296
+03:10,3,Ke Huy Quan,197.341
+03:10,4,Angela,219.411
+03:10,5,Argentina1985,24.184
+03:10,6,Stephanie,107.375
+03:10,7,Lady Gaga,105.429
+03:10,8,Guillermo del Toro,76.348
+03:10,9,AcademyAwards,56.677
+03:10,10,Jimmy Kimmel,28.576
+03:40,1,Oscars,1.396.750
+03:40,2,TheLastOfUs,156.855
+03:40,3,Jamie Lee Curtis,121.319
+03:40,4,Ke Huy Quan,210.348
+03:40,5,Lady Gaga,129.755
+03:40,6,Angela,233.106
+03:40,7,Argentina1985,27.991
+03:40,8,Stephanie,114.877
+03:40,9,All Quiet,64.416
+03:40,10,Guillermo del Toro,81.918
+04:10,1,Oscars,1.575.282
+04:10,2,TheLastOfUs,182.499
+04:10,3,Jamie Lee Curtis,128.686
+04:10,4,Ke Huy Quan,220.150
+04:10,5,Lady Gaga,141.485
+04:10,6,Angela,242.321
+04:10,7,Argentina1985,29.959
+04:10,8,Stephanie,120.785
+04:10,9,All Quiet,70.774
+04:10,10,Guillermo del Toro,85.894
+04:40,1,Oscars,1.914.571
+04:40,2,TheLastOfUs,206.055
+04:40,3,Jamie Lee Curtis,136.086
+04:40,4,Ke Huy Quan,238.720
+04:40,5,Lady Gaga,148.493
+04:40,6,Angela,252.619
+04:40,7,Argentina1985,31.178
+04:40,8,ForaLarissa,36.033
+04:40,9,AcademyAwards,91.645
+04:40,10,Stephanie,129.066
+05:10,1,Oscars,2.092.047
+05:10,2,TheLastOfUs,219.237
+05:10,3,ForaLarissa,62.417
+05:10,4,Ke Huy Quan,272.957
+05:10,5,Jamie Lee Curtis,144.583
+05:10,6,Lady Gaga,152.301
+05:10,7,Brendan Fraser,218.726
+05:10,8,エブエブ,22.669
+05:10,9,Angela,260.766
+05:10,10,Michelle Yeoh,252.318
+05:40,1,Oscars,2.055.729
+05:40,2,TheLastOfUs,232.027
+05:40,3,ForaLarissa,73.298
+05:40,4,エブエブ,25.874
+05:40,5,Jamie Lee Curtis,151.023
+05:40,6,Brendan Fraser,238.113
+05:40,7,Ke Huy Quan,289.113
+05:40,8,TheElephantWhisperers,33.269
+05:40,9,Michelle Yeoh,288.667
+05:40,10,Joel,180.284
+06:10,1,Oscars,2.112.633
+06:10,2,Oscars,2.112.633
+06:10,3,TheLastOfUs,243.158
+06:10,4,TheElephantWhisperers,41.359
+06:10,5,ForaLarissa,79.586
+06:10,6,エブエブ,27.771
+06:10,7,Brendan Fraser,250.908
+06:10,8,Michelle Yeoh,311.003
+06:10,9,Joel,186.288
+06:10,10,EEAAO,92.983
+06:40,1,Oscars,2.309.469
+06:40,2,TheLastOfUs,252.848
+06:40,3,TheElephantWhisperers,49.369
+06:40,4,エブエブ,29.430
+06:40,5,ForaLarissa,83.609
+06:40,6,Brendan Fraser,259.640
+06:40,7,Michelle Yeoh,329.748
+06:40,8,Joel,193.582
+06:40,9,EEAAO,96.215
+06:40,10,EverythingEverywhereAllAtOnce,37.710
+07:10,1,Oscars,2.119.649
+07:10,2,Oscars,2.119.649
+07:10,3,TheLastOfUs,258.862
+07:10,4,TheElephantWhisperers,56.905
+07:10,5,GetWellSoonJeno,11.716
+07:10,6,エブエブ,30.327
+07:10,7,メキシコ,13.903
+07:10,8,Michelle Yeoh,341.623
+07:10,9,Brendan Fraser,262.655
+07:10,10,Joel,196.061
+07:40,1,Oscars,2.141.428
+07:40,2,GetWellSoonJeno,31.577
+07:40,3,TheElephantWhisperers,62.719
+07:40,4,TheLastOfUs,264.015
+07:40,5,エブエブ,31.493
+07:40,6,メキシコ,15.269
+07:40,7,Michelle Yeoh,354.205
+07:40,8,Brendan Fraser,268.557
+07:40,9,Joel,200.472
+07:40,10,NZvSL,
+08:10,1,NZvsSL,
+08:10,2,GetWellSoonJeno,49.529
+08:10,3,Oscars,2.183.443
+08:10,4,Kane Williamson,
+08:10,5,TheElephantWhisperers,67.620
+08:10,6,Indonesia Kuat Disegani,
+08:10,7,Prabowo Pastikan Kedaulatan,
+08:10,8,wtcfinal,
+08:10,9,Pak Prabowo,
+08:10,10,大江健三郎,15.202
+08:40,1,NZvsSL,
+08:40,2,GetWellSoonJeno,62.216
+08:40,3,Oscars,2.038.634
+08:40,4,Kane Williamson,11.861
+08:40,5,TheElephantWhisperers,72.028
+08:40,6,wtcfinal,
+08:40,7,Indonesia Kuat Disegani,
+08:40,8,Prabowo Pastikan Kedaulatan,
+08:40,9,Pak Prabowo,
+08:40,10,大江健三郎,18.559
+09:10,1,NZvsSL,
+09:10,2,GetWellSoonJeno,71.560
+09:10,3,Oscars,2.063.584
+09:10,4,Kane Williamson,13.228
+09:10,5,TheElephantWhisperers,76.351
+09:10,6,wtcfinal,
+09:10,7,Indonesia Kuat Disegani,
+09:10,8,Prabowo Pastikan Kedaulatan,
+09:10,9,Pak Prabowo,
+09:10,10,大江健三郎,21.440
+09:40,1,NZvsSL,
+09:40,2,GetWellSoonJeno,79.078
+09:40,3,Oscars,2.077.359
+09:40,4,Kane Williamson,14.176
+09:40,5,TheElephantWhisperers,80.294
+09:40,6,wtcfinal,
+09:40,7,Indonesia Kuat Disegani,
+09:40,8,Prabowo Pastikan Kedaulatan,
+09:40,9,Pak Prabowo,
+09:40,10,大江健三郎,23.828
+10:10,1,NZvsSL,10.207
+10:10,2,GetWellSoonJeno,84.841
+10:10,3,Oscars,2.169.868
+10:10,4,Kane Williamson,14.922
+10:10,5,TheElephantWhisperers,82.569
+10:10,6,wtcfinal,
+10:10,7,Prabowo Pastikan Kedaulatan,
+10:10,8,Indonesia Kuat Disegani,
+10:10,9,大江健三郎,26.299
+10:10,10,Pak Prabowo,
+10:40,1,NZvsSL,10.575
+10:40,2,GetWellSoonJeno,89.572
+10:40,3,Oscars,2.135.452
+10:40,4,Oscars,2.135.452
+10:40,5,wtcfinal,
+10:40,6,Kane Williamson,15.590
+10:40,7,Indonesia Kuat Disegani,
+10:40,8,Prabowo Pastikan Kedaulatan,
+10:40,9,大江健三郎,28.889
+10:40,10,Pak Prabowo,
+11:10,1,NZvsSL,11.013
+11:10,2,GetWellSoonJeno,93.476
+11:10,3,Oscars,2.220.032
+11:10,4,Oscars,2.220.032
+11:10,5,wtcfinal,10.971
+11:10,6,Kane Williamson,16.101
+11:10,7,大江健三郎,31.355
+11:10,8,Indonesia Kuat Disegani,
+11:10,9,Prabowo Pastikan Kedaulatan,
+11:10,10,Pak Prabowo,
+11:40,1,NZvsSL,11.245
+11:40,2,GetWellSoonJeno,96.844
+11:40,3,Oscars,2.266.988
+11:40,4,Oscars,2.266.988
+11:40,5,wtcfinal,12.023
+11:40,6,Kane Williamson,16.470
+11:40,7,大江健三郎,33.112
+11:40,8,Prabowo Pastikan Kedaulatan,
+11:40,9,Indonesia Kuat Disegani,
+11:40,10,Pak Prabowo,
+12:10,1,NZvsSL,11.489
+12:10,2,GetWellSoonJeno,99.769
+12:10,3,Oscars,2.323.579
+12:10,4,Oscars,2.323.579
+12:10,5,wtcfinal,13.126
+12:10,6,Kane Williamson,16.901
+12:10,7,大江健三郎,35.273
+12:10,8,Prabowo Pastikan Kedaulatan,
+12:10,9,Indonesia Kuat Disegani,
+12:10,10,Pak Prabowo,
+12:40,1,NZvsSL,11.733
+12:40,2,GetWellSoonJeno,102.500
+12:40,3,Oscars,2.340.390
+12:40,4,Oscars,2.340.390
+12:40,5,wtcfinal,13.978
+12:40,6,Kane Williamson,17.329
+12:40,7,大江健三郎,37.121
+12:40,8,Indonesia Kuat Disegani,
+12:40,9,Prabowo Pastikan Kedaulatan,
+12:40,10,Pak Prabowo,
+13:10,1,NZvsSL,11.841
+13:10,2,GetWellSoonJeno,104.565
+13:10,3,Oscars,2.233.803
+13:10,4,Oscars,2.233.803
+13:10,5,wtcfinal,14.772
+13:10,6,Kane Williamson,17.696
+13:10,7,大江健三郎,39.139
+13:10,8,Indonesia Kuat Disegani,
+13:10,9,Prabowo Pastikan Kedaulatan,
+13:10,10,Pak Prabowo,
+13:40,1,NZvsSL,12.006
+13:40,2,GetWellSoonJeno,106.481
+13:40,3,Oscars,2.419.561
+13:40,4,Oscars,2.419.561
+13:40,5,wtcfinal,15.384
+13:40,6,Kane Williamson,18.001
+13:40,7,大江健三郎,41.211
+13:40,8,Indonesia Kuat Disegani,
+13:40,9,Prabowo Pastikan Kedaulatan,
+13:40,10,Pak Prabowo,
+14:10,1,中島健人のインスタライブ,17.420
+14:10,2,GetWellSoonJeno,108.080
+14:10,3,NaatuNaatu,
+14:10,4,しゃべくり007,11.738
+14:10,5,TheElephantWhisperers,102.264
+14:10,6,大江健三郎,43.026
+14:10,7,エブエブ,40.236
+14:10,8,独身中年男性,29.127
+14:10,9,Michelle Yeoh,436.555
+14:10,10,ナートゥ,73.834
+14:40,1,罠の戦争,41.140
+14:40,2,ホワイトデー,199.761
+14:40,3,中島健人のインスタライブ,19.246
+14:40,4,V最協S5,66.345
+14:40,5,三上悠亜引退,
+14:40,6,TotyMusicAwardsXNuNew,269.218
+14:40,7,グレーテルのかまど,
+14:40,8,内川さん,
+14:40,9,キュケオーン,
+14:40,10,ジャケ写,37.355
+15:10,1,罠の戦争,57.487
+15:10,2,ホワイトデー,203.547
+15:10,3,MidnightMuseumEP3,85.211
+15:10,4,中島健人のインスタライブ,20.154
+15:10,5,三上悠亜引退,
+15:10,6,V最協S5,69.896
+15:10,7,鷲津さん,
+15:10,8,グレーテルのかまど,
+15:10,9,内川さん,
+15:10,10,キュケオーン,
+15:40,1,罠の戦争,62.886
+15:40,2,MidnightMuseumEP3,150.274
+15:40,3,ホワイトデー,207.814
+15:40,4,해피믕믕데이_지훈아_생일축하해,29.783
+15:40,5,Shining314JihoonDay,25.410
+15:40,6,セクシーで五めんっパクジフン,26.333
+15:40,7,YOU MEAN THE WORLD TO ME,27.166
+15:40,8,鷲津さん,
+15:40,9,화이트데이,
+15:40,10,グレーテルのかまど,
+16:10,1,Shining314JihoonDay,53.388
+16:10,2,해피믕믕데이_지훈아_생일축하해,57.136
+16:10,3,セクシーで五めんっパクジフン,51.014
+16:10,4,ホワイトデー,220.442
+16:10,5,MidnightMuseumEP3,210.024
+16:10,6,YOU MEAN THE WORLD TO ME,48.543
+16:10,7,罠の戦争,65.186
+16:10,8,Drake,45.721
+16:10,9,화이트데이,
+16:10,10,ベイクドモチョチョ,
+16:40,1,罠の戦争,66.517
+16:40,2,MidnightMuseumEP3,245.226
+16:40,3,エフシロ,
+16:40,4,かなマリ,
+16:40,5,月曜から夜ふかし,
+16:40,6,キュケオーン,
+16:40,7,グレーテルのかまど,
+16:40,8,鷲津さん,
+16:40,9,秘書のせい,
+16:40,10,ホワイトデー,240.934
+17:10,1,罠の戦争,67.362
+17:10,2,MidnightMuseumEP3,273.624
+17:10,3,エフシロ,
+17:10,4,かなマリ,
+17:10,5,月曜から夜ふかし,
+17:10,6,キュケオーン,
+17:10,7,鷲津さん,
+17:10,8,グレーテルのかまど,
+17:10,9,ホワイトデー,247.984
+17:10,10,秘書のせい,
+17:40,1,罠の戦争,67.949
+17:40,2,すきすきワンワン,39.264
+17:40,3,الاتحاد_الفيحاء,29.032
+17:40,4,PEPSIpresentsToty2022,548.525
+17:40,5,BillkinBestMaleArtist,35.207
+17:40,6,Ekeler,
+17:40,7,TJ Edwards,
+17:40,8,YOU MEAN THE WORLD TO ME,74.258
+17:40,9,Nakobe Dean,
+17:40,10,CbKemalZiraate15Bin,
+18:10,1,الاتحاد_الفيحاء,32.539
+18:10,2,BayKemalUnvYeTayin,
+18:10,3,バウアー,
+18:10,4,PEPSIpresentsToty2022,612.798
+18:10,5,MaltepeÜniKaçakDersler,
+18:10,6,Shining314JihoonDay,90.925
+18:10,7,Ömer Faruk Başaran,
+18:10,8,Canisso,
+18:10,9,YapıKayıt Mağdurları,52.830
+18:10,10,Jason Kelce,
+18:40,1,الاتحاد_الفيحاء,42.180
+18:40,2,バウアー,
+18:40,3,49ers,15.930
+18:40,4,فلاديمير,
+18:40,5,Hargrave,
+18:40,6,BayKemalUnvYeTayin,
+18:40,7,Canisso,
+18:40,8,Raimundos,
+18:40,9,Broncos,16.158
+18:40,10,PEPSIpresentsToty2022,651.327
+19:10,1,الاتحاد_الفيحاء,52.736
+19:10,2,Jimmy G,13.835
+19:10,3,バウアー,11.871
+19:10,4,49ers,25.119
+19:10,5,AsistnHekimlrEnkazAltnda,
+19:10,6,Hargrave,12.731
+19:10,7,Canisso,
+19:10,8,Broncos,18.491
+19:10,9,Raimundos,
+19:10,10,فلاديمير,
+19:40,1,Jimmy G,20.994
+19:40,2,الاتحاد_الفيحاء,60.455
+19:40,3,バウアー,13.670
+19:40,4,49ers,28.918
+19:40,5,Drake,67.249
+19:40,6,AsistnHekimlrEnkazAltnda,
+19:40,7,Mike White,
+19:40,8,Hargrave,14.641
+19:40,9,Canisso,
+19:40,10,Raimundos,
+20:10,1,Jimmy G,24.650
+20:10,2,الاتحاد_الفيحاء,65.762
+20:10,3,バウアー,14.578
+20:10,4,49ers,31.134
+20:10,5,Carr,27.355
+20:10,6,Drake,68.053
+20:10,7,Mike White,
+20:10,8,Hargrave,15.851
+20:10,9,Canisso,
+20:10,10,Raimundos,
+20:40,1,Jimmy G,27.565
+20:40,2,الاتحاد_الفيحاء,70.145
+20:40,3,バウアー,15.437
+20:40,4,Jets,62.442
+20:40,5,Rodgers,48.327
+20:40,6,Carr,29.168
+20:40,7,49ers,33.205
+20:40,8,Drake,70.476
+20:40,9,Mike White,
+20:40,10,طارق حامد,13.458
+21:10,1,Jimmy G,29.566
+21:10,2,الاتحاد_الفيحاء,73.366
+21:10,3,Jets,65.635
+21:10,4,Rodgers,53.623
+21:10,5,バウアー,16.300
+21:10,6,Drake,70.714
+21:10,7,Carr,29.672
+21:10,8,49ers,34.705
+21:10,9,Bears,70.319
+21:10,10,Mike White,10.081
+21:40,1,Jimmy G,31.523
+21:40,2,Raiders,53.081
+21:40,3,Bears,82.269
+21:40,4,الاتحاد_الفيحاء,77.524
+21:40,5,Jets,68.872
+21:40,6,Rodgers,57.820
+21:40,7,バウアー,17.335
+21:40,8,Drake,73.029
+21:40,9,Roquan,
+21:40,10,Edmunds,18.024
+22:10,1,Jimmy G,33.012
+22:10,2,Raiders,54.774
+22:10,3,Bears,84.918
+22:10,4,Rodgers,60.293
+22:10,5,Jets,69.149
+22:10,6,バウアー,18.884
+22:10,7,الاتحاد_الفيحاء,80.056
+22:10,8,Drake,73.422
+22:10,9,Roquan,
+22:10,10,Edmunds,20.541
+22:40,1,Jimmy G,34.746
+22:40,2,Raiders,56.863
+22:40,3,Bears,87.768
+22:40,4,Rodgers,63.109
+22:40,5,バウアー,21.372
+22:40,6,Jets,71.403
+22:40,7,الاتحاد_الفيحاء,82.297
+22:40,8,Drake,75.182
+22:40,9,Roquan,
+22:40,10,Edmunds,21.877
+23:10,1,Jimmy G,35.971
+23:10,2,Raiders,58.858
+23:10,3,Bears,88.491
+23:10,4,バウアー,25.087
+23:10,5,Rodgers,65.022
+23:10,6,Jets,71.483
+23:10,7,الاتحاد_الفيحاء,84.165
+23:10,8,Drake,74.572
+23:10,9,Edmunds,22.969
+23:10,10,Roquan,
+23:40,1,loveisland,82.803
+23:40,2,Sanam,26.078
+23:40,3,バウアー,29.661
+23:40,4,ホワイトデー,311.856
+23:40,5,Jimmy G,36.999
+23:40,6,سالم_مروان_في_ذمه_الله,
+23:40,7,Raiders,61.936
+23:40,8,Bears,89.704
+23:40,9,LaIslaDeLasTentaciones8,
+23:40,10,البزنس97,163.927

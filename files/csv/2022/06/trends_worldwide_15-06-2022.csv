@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,England,253.936
+00:10,2,Southgate,68.106
+00:10,3,ENGHUN,24.519
+00:10,4,SalarioRosaVaPorMas,55.532
+00:10,5,World Cup,92.422
+00:10,6,ECHR,62.832
+00:10,7,GermaniaItalia,14.219
+00:10,8,Costa Rica,72.623
+00:10,9,TierraDeNadie7,16.146
+00:10,10,GERITA,18.557
+00:40,1,England,260.737
+00:40,2,Southgate,70.331
+00:40,3,ENGHUN,24.780
+00:40,4,SalarioRosaVaPorMas,57.106
+00:40,5,ECHR,70.211
+00:40,6,World Cup,94.717
+00:40,7,GermaniaItalia,14.471
+00:40,8,TierraDeNadie7,18.948
+00:40,9,Costa Rica,74.862
+00:40,10,AskDemi,
+01:10,1,England,263.634
+01:10,2,Southgate,71.694
+01:10,3,ENGHUN,24.963
+01:10,4,ECHR,75.327
+01:10,5,SalarioRosaVaPorMas,58.568
+01:10,6,シャア専用マクドナルド出る,
+01:10,7,World Cup,94.075
+01:10,8,TierraDeNadie7,21.487
+01:10,9,Costa Rica,74.382
+01:10,10,GermaniaItalia,14.609
+01:40,1,England,267.036
+01:40,2,Southgate,72.558
+01:40,3,シャア専用マクドナルド出る,10.282
+01:40,4,ECHR,78.514
+01:40,5,ENGHUN,25.044
+01:40,6,SalarioRosaVaPorMas,59.616
+01:40,7,World Cup,95.584
+01:40,8,TierraDeNadie7,23.039
+01:40,9,AskDemi,
+01:40,10,Costa Rica,76.000
+02:10,1,England,267.961
+02:10,2,Southgate,73.157
+02:10,3,シャア専用マクドナルド出る,12.722
+02:10,4,ECHR,80.511
+02:10,5,SalarioRosaVaPorMas,60.662
+02:10,6,ENGHUN,25.124
+02:10,7,Hungary,64.686
+02:10,8,TierraDeNadie7,24.066
+02:10,9,World Cup,95.022
+02:10,10,活動休止,40.896
+02:40,1,シャア専用マクドナルド出る,14.660
+02:40,2,England,270.181
+02:40,3,Southgate,73.741
+02:40,4,ECHR,81.743
+02:40,5,SalarioRosaVaPorMas,61.730
+02:40,6,Hungary,65.304
+02:40,7,ENGHUN,25.208
+02:40,8,ZambelliNaCadeia,
+02:40,9,活動休止,43.448
+02:40,10,TierraDeNadie7,24.469
+03:10,1,シャア専用マクドナルド出る,16.776
+03:10,2,Southgate,74.209
+03:10,3,England,270.823
+03:10,4,ZambelliNaCadeia,
+03:10,5,ECHR,82.524
+03:10,6,SalarioRosaVaPorMas,62.677
+03:10,7,活動休止,45.918
+03:10,8,Hungary,65.702
+03:10,9,Lauren Boebert,65.125
+03:10,10,ENGHUN,25.266
+03:40,1,シャア専用マクドナルド出る,19.052
+03:40,2,ZambelliNaCadeia,11.907
+03:40,3,MissPeru2022,
+03:40,4,Alessia,
+03:40,5,Lauren Boebert,75.205
+03:40,6,PresidentePetro,
+03:40,7,WWENXT,
+03:40,8,Southgate,74.588
+03:40,9,Valeria,16.323
+03:40,10,ECHR,83.109
+04:10,1,MissPeru2022,20.180
+04:10,2,Alessia,12.915
+04:10,3,シャア専用マクドナルド出る,20.782
+04:10,4,Valeria,23.108
+04:10,5,ZambelliNaCadeia,14.615
+04:10,6,MasterChefBR,
+04:10,7,PresidentePetro,
+04:10,8,Lauren Boebert,83.004
+04:10,9,Tatiana,
+04:10,10,England,272.400
+04:40,1,NoLimite,14.179
+04:40,2,MissPeru2022,25.468
+04:40,3,SalarioRosaVaPorMas,76.273
+04:40,4,Marcos Leonardo,
+04:40,5,シャア専用マクドナルド出る,22.213
+04:40,6,Alessia,16.072
+04:40,7,MasterChefBR,
+04:40,8,Valeria,25.500
+04:40,9,Mikolas,
+04:40,10,Lauren Boebert,86.670
+05:10,1,NoLimite,17.410
+05:10,2,SalarioRosaVaPorMas,84.552
+05:10,3,MissPeru2022,28.224
+05:10,4,Marcos Leonardo,
+05:10,5,シャア専用マクドナルド出る,23.773
+05:10,6,USMNT,
+05:10,7,Alessia,17.698
+05:10,8,Knebel,
+05:10,9,Valeria,26.290
+05:10,10,Mikolas,
+05:40,1,NoLimite,17.925
+05:40,2,SalarioRosaVaPorMas,89.829
+05:40,3,USMNT,
+05:40,4,MissPeru2022,30.083
+05:40,5,MasterChefBR,
+05:40,6,Marcos Leonardo,
+05:40,7,Alessia,18.817
+05:40,8,MANILA,20.221
+05:40,9,Knebel,
+05:40,10,Valeria,27.053
+06:10,1,USMNT,
+06:10,2,NoLimite,18.093
+06:10,3,SalarioRosaVaPorMas,93.099
+06:10,4,シャア専用マクドナルド出る,27.478
+06:10,5,MissPeru2022,31.130
+06:10,6,MANILA,22.755
+06:10,7,El Salvador,39.745
+06:10,8,Marcos Leonardo,
+06:10,9,Alessia,19.474
+06:10,10,Jordan Morris,
+06:40,1,USMNT,
+06:40,2,NoLimite,18.221
+06:40,3,SalarioRosaVaPorMas,94.558
+06:40,4,BrahmastraTrailer,13.895
+06:40,5,シャア専用マクドナルド出る,28.638
+06:40,6,유니버스,16.094
+06:40,7,MANILA,25.765
+06:40,8,El Salvador,41.020
+06:40,9,Jordan Morris,
+06:40,10,Marcos Leonardo,
+07:10,1,BrahmastraTrailer,17.204
+07:10,2,USMNT,
+07:10,3,NoLimite,18.303
+07:10,4,유니버스,17.252
+07:10,5,SalarioRosaVaPorMas,95.275
+07:10,6,シャア専用マクドナルド出る,29.512
+07:10,7,Kimbrel,
+07:10,8,Manila,27.329
+07:10,9,竹内さん,27.011
+07:10,10,Marcos Leonardo,
+07:40,1,BrahmastraTrailer,20.889
+07:40,2,USMNT,
+07:40,3,유니버스,18.598
+07:40,4,NoLimite,18.390
+07:40,5,KP_TikTokはじめるってよ,16.750
+07:40,6,Kimbrel,
+07:40,7,シャア専用マクドナルド出る,30.435
+07:40,8,Manila,29.266
+07:40,9,J-HOPE IS COMING,45.989
+07:40,10,竹内さん,29.174
+08:10,1,BrahmastraTrailer,23.836
+08:10,2,유니버스,19.036
+08:10,3,USMNT,
+08:10,4,KP_TikTokはじめるってよ,19.024
+08:10,5,RanbirKapoor,11.965
+08:10,6,GetReadyForHopeWorld2,54.906
+08:10,7,Kimbrel,
+08:10,8,Zendaya,37.644
+08:10,9,J-HOPE IS COMING,57.809
+08:10,10,Manila,30.314
+08:40,1,BrahmastraTrailer,26.829
+08:40,2,유니버스,19.853
+08:40,3,RanbirKapoor,13.275
+08:40,4,KP_TikTokはじめるってよ,20.877
+08:40,5,GetReadyForHopeWorld2,60.473
+08:40,6,USMNT,
+08:40,7,Zendaya,40.177
+08:40,8,ECHR,103.937
+08:40,9,Kimbrel,
+08:40,10,メルゼナ,
+09:10,1,BrahmastraTrailer,28.930
+09:10,2,ECHR,112.060
+09:10,3,KP_TikTokはじめるってよ,22.666
+09:10,4,유니버스,19.928
+09:10,5,RanbirKapoor,13.932
+09:10,6,모지의데이2,
+09:10,7,GetReadyForHopeWorld2,64.222
+09:10,8,Zendaya,41.796
+09:10,9,メルゼナ,
+09:10,10,Kimbrel,
+09:40,1,BrahmastraTrailer,31.130
+09:40,2,ECHR,121.164
+09:40,3,WelcomeBamBamToThailand,27.492
+09:40,4,SenGideceksin,
+09:40,5,MHサンブレイク体験版,
+09:40,6,kp_tiktokはじめるってよ,24.229
+09:40,7,Zendaya,44.507
+09:40,8,유니버스,20.678
+09:40,9,メルゼナ,10.397
+09:40,10,Daily Quordle 142,
+10:10,1,BrahmastraTrailer,32.638
+10:10,2,ECHR,130.367
+10:10,3,WelcomeBamBamToThailand,53.638
+10:10,4,SenGideceksin,
+10:10,5,jaehyun,87.459
+10:10,6,Pancasila Pedoman Kita,
+10:10,7,NgopiDaring Bela Negara,
+10:10,8,MHサンブレイク体験版,
+10:10,9,Ngobrol Pintar Bernegara,
+10:10,10,Kalbimiz Sezaiyle,
+10:40,1,ECHR,138.738
+10:40,2,BrahmastraTrailer,34.478
+10:40,3,WelcomeBamBamToThailand,72.248
+10:40,4,ルムマで2Pick,
+10:40,5,シャドバルムマ,
+10:40,6,ルームマッチの対戦相手,
+10:40,7,オールスター2Pick,
+10:40,8,ルームID,
+10:40,9,フォーマット,
+10:40,10,jaehyun,99.311
+11:10,1,ECHR,147.130
+11:10,2,Kenobi,10.722
+11:10,3,ルムマで2Pick,
+11:10,4,シャドバルムマ,
+11:10,5,ルームマッチの対戦相手,
+11:10,6,オールスター2Pick,
+11:10,7,ルームID,
+11:10,8,フォーマット,
+11:10,9,シャドウバース,35.633
+11:10,10,jaehyun,104.043
+11:40,1,ECHR,155.567
+11:40,2,ルムマで2Pick,
+11:40,3,シャドバルムマ,
+11:40,4,ルームマッチの対戦相手,
+11:40,5,オールスター2Pick,
+11:40,6,Kenobi,12.045
+11:40,7,ルームID,
+11:40,8,フォーマット,
+11:40,9,シャドウバース,36.311
+11:40,10,HIH2 BREAK HEARTS,25.809
+12:10,1,シャドバルムマ,
+12:10,2,ルームマッチの対戦相手,
+12:10,3,ルムマで2Pick,
+12:10,4,オールスター2Pick,
+12:10,5,ルームID,
+12:10,6,ECHR,162.820
+12:10,7,フォーマット,
+12:10,8,シャドウバース,32.859
+12:10,9,สมรสเท่าเทียม,1.226.706
+12:10,10,HIH2 BREAK HEARTS,46.326
+12:40,1,YetToCome1stWin,61.278
+12:40,2,シャドバルムマ,
+12:40,3,ルームマッチの対戦相手,
+12:40,4,ルムマで2Pick,
+12:40,5,オールスター2Pick,
+12:40,6,ルームID,
+12:40,7,シャドウバース,33.647
+12:40,8,フォーマット,
+12:40,9,ECHR,170.039
+12:40,10,HIH2 BREAK HEARTS,63.400
+13:10,1,YetToCome1stWin,97.800
+13:10,2,シャドバルムマ,
+13:10,3,ルームマッチの対戦相手,
+13:10,4,ルムマで2Pick,
+13:10,5,ルームID,
+13:10,6,オールスター2Pick,
+13:10,7,フォーマット,
+13:10,8,有吉の壁,
+13:10,9,ECHR,176.735
+13:10,10,人間の排泄物,
+13:40,1,PMQs,
+13:40,2,YetToCome1stWin,114.311
+13:40,3,シャドバルムマ,
+13:40,4,ルームマッチの対戦相手,
+13:40,5,ルームID,
+13:40,6,ルムマで2Pick,
+13:40,7,オールスター2Pick,
+13:40,8,フォーマット,
+13:40,9,ECHR,183.864
+13:40,10,人間の排泄物,
+14:10,1,PMQs,14.010
+14:10,2,YetToCome1stWin,125.840
+14:10,3,シャドバルムマ,
+14:10,4,ルームマッチの対戦相手,
+14:10,5,ルムマで2Pick,
+14:10,6,ルームID,
+14:10,7,オールスター2Pick,
+14:10,8,フォーマット,
+14:10,9,ジェジュン,55.055
+14:10,10,ECHR,190.432
+14:40,1,オレンジkiss,38.069
+14:40,2,スノキュンkiss,80.404
+14:40,3,PMQs,17.267
+14:40,4,SnowMan,147.828
+14:40,5,DebateObligadoEs,
+14:40,6,ルームマッチの対戦相手,
+14:40,7,ルームID,
+14:40,8,フォーマット,
+14:40,9,人間の排泄物,12.724
+14:40,10,ECHR,196.656
+15:10,1,オレンジkiss,46.181
+15:10,2,スノキュンkiss,84.937
+15:10,3,DebateObligadoEs,11.449
+15:10,4,SnowMan,154.823
+15:10,5,PMQs,19.625
+15:10,6,ルームマッチの対戦相手,
+15:10,7,ルームID,
+15:10,8,フォーマット,
+15:10,9,HIH2 BREAK HEARTS,135.953
+15:10,10,人間の排泄物,13.975
+15:40,1,オレンジkiss,51.682
+15:40,2,ナンバMG5,32.337
+15:40,3,スノキュンkiss,88.326
+15:40,4,DebateObligadoEs,13.994
+15:40,5,SnowMan,166.137
+15:40,6,HIH2 BREAK HEARTS,154.325
+15:40,7,ルームマッチの対戦相手,
+15:40,8,ルームID,
+15:40,9,フォーマット,
+15:40,10,人間の排泄物,15.570
+16:10,1,ナンバMG5,56.280
+16:10,2,オレンジkiss,55.512
+16:10,3,คืนนับดาวEP5,126.824
+16:10,4,DebateObligadoEs,16.243
+16:10,5,スノキュンkiss,89.655
+16:10,6,HIH2 BREAK HEARTS,165.219
+16:10,7,ルームマッチの対戦相手,
+16:10,8,ルームID,
+16:10,9,フォーマット,
+16:10,10,binnie,
+16:40,1,ナンバMG5,62.027
+16:40,2,オレンジkiss,57.964
+16:40,3,คืนนับดาวEP5,183.990
+16:40,4,DebateObligadoEs,18.336
+16:40,5,シャフリヤール,22.962
+16:40,6,Aぇヤンタン,24.552
+16:40,7,MANIFESTO CONCEPT SPOILER,40.914
+16:40,8,ルームID,
+16:40,9,ルームマッチの対戦相手,
+16:40,10,フォーマット,
+17:10,1,jungkook,1.159.876
+17:10,2,シャフリヤール,36.800
+17:10,3,JO1ANNX,26.920
+17:10,4,ナンバMG5,64.902
+17:10,5,MANIFESTO CONCEPT SPOILER,174.659
+17:10,6,السعوديه_استراليا,19.616
+17:10,7,คืนนับดาวEP5,213.395
+17:10,8,オレンジkiss,59.682
+17:10,9,STILL WITH YOU,127.855
+17:10,10,ロードノース,
+17:40,1,jungkook,1.336.606
+17:40,2,JO1ANNX,73.749
+17:40,3,シャフリヤール,39.503
+17:40,4,MANIFESTO CONCEPT SPOILER,196.227
+17:40,5,ナンバMG5,66.663
+17:40,6,السعوديه_استراليا,23.803
+17:40,7,DebateObligadoEs,22.131
+17:40,8,ObiWan,26.229
+17:40,9,Loudermilk,72.478
+17:40,10,ロードノース,
+18:10,1,jungkook,1.491.858
+18:10,2,JO1ANNX,122.238
+18:10,3,シャフリヤール,40.379
+18:10,4,MANIFESTO CONCEPT SPOILER,202.565
+18:10,5,ナンバMG5,67.568
+18:10,6,SeaSTELLDay,
+18:10,7,السعوديه_استراليا,27.016
+18:10,8,祝_WeAre_MV500万回,14.837
+18:10,9,Loudermilk,85.351
+18:10,10,第146回,
+18:40,1,jungkook,1.638.161
+18:40,2,JO1ANNX,136.139
+18:40,3,SeaSTELLday,23.292
+18:40,4,Ryan Gosling,
+18:40,5,乃木坂46ANN,19.553
+18:40,6,シャフリヤール,40.903
+18:40,7,KonveyörİşçisiDireniyor,
+18:40,8,MANIFESTO CONCEPT SPOILER,205.158
+18:40,9,ナンバMG5,68.188
+18:40,10,Loudermilk,102.020
+19:10,1,jungkook,1.652.511
+19:10,2,Ryan Gosling,13.010
+19:10,3,SeaSTELLday,31.493
+19:10,4,JO1ANNX,138.904
+19:10,5,乃木坂46ANN,31.091
+19:10,6,KonveyörİşçisiDireniyor,
+19:10,7,Loudermilk,114.764
+19:10,8,Barbie,
+19:10,9,MANIFESTO CONCEPT SPOILER,206.546
+19:10,10,シャフリヤール,41.172
+19:40,1,jungkook,1.693.892
+19:40,2,Ryan Gosling,16.621
+19:40,3,WhyIChime,
+19:40,4,SeaSTELLday,36.417
+19:40,5,JO1ANNX,139.886
+19:40,6,乃木坂46ANN,38.601
+19:40,7,Barbie,
+19:40,8,Loudermilk,128.478
+19:40,9,MANIFESTO CONCEPT SPOILER,207.487
+19:40,10,シャフリヤール,41.365
+20:10,1,jungkook,1.690.343
+20:10,2,Ryan Gosling,19.500
+20:10,3,WhyIChime,
+20:10,4,SeaSTELLday,38.868
+20:10,5,Barbie,50.197
+20:10,6,乃木坂46ANN,44.334
+20:10,7,Dani Alves,12.253
+20:10,8,ObiWan,33.920
+20:10,9,JO1ANNX,140.432
+20:10,10,Loudermilk,138.039
+20:40,1,WhyIChime,
+20:40,2,Ryan Gosling,21.952
+20:40,3,jungkook,1.721.583
+20:40,4,Barbie,53.971
+20:40,5,Dani Alves,15.483
+20:40,6,ObiWan,35.605
+20:40,7,SeaSTELLday,40.198
+20:40,8,namjoon,543.671
+20:40,9,STELL UnderTheSea,39.628
+20:40,10,Loudermilk,149.637
+21:10,1,Ryan Gosling,24.259
+21:10,2,WhyIChime,
+21:10,3,jungkook,1.722.443
+21:10,4,Barbie,56.565
+21:10,5,Dani Alves,17.967
+21:10,6,Powell,34.718
+21:10,7,ObiWan,36.888
+21:10,8,Namjoon,542.809
+21:10,9,FOMC,11.901
+21:10,10,FuelPrice,
+21:40,1,WhyIChime,
+21:40,2,Ryan Gosling,26.199
+21:40,3,Powell,42.107
+21:40,4,Barbie,59.815
+21:40,5,FuelPrice,11.294
+21:40,6,Dani Alves,20.205
+21:40,7,ObiWan,38.528
+21:40,8,jungkook,1.746.127
+21:40,9,chilhavisto,
+21:40,10,PetrolDieselPriceHike,
+22:10,1,WhyIChime,
+22:10,2,Remi,22.996
+22:10,3,Ryan Gosling,28.177
+22:10,4,FuelPrice,15.686
+22:10,5,chilhavisto,
+22:10,6,Powell,44.309
+22:10,7,Barbie,61.944
+22:10,8,ObiWan,40.209
+22:10,9,Dani Alves,22.141
+22:10,10,Dr. Fauci,15.796
+22:40,1,Remi,30.540
+22:40,2,WhyIChime,
+22:40,3,Ryan Gosling,29.889
+22:40,4,Haberledik Haber,
+22:40,5,chilhavisto,
+22:40,6,FuelPrice,18.623
+22:40,7,Barbie,64.632
+22:40,8,ObiWan,41.778
+22:40,9,Powell,46.357
+22:40,10,Fauci,43.066
+23:10,1,Davide,26.592
+23:10,2,Remi,33.179
+23:10,3,Ekin Su,14.343
+23:10,4,chilhavisto,
+23:10,5,Ryan Gosling,31.765
+23:10,6,İncekumda Merdiven,
+23:10,7,WhyIChime,
+23:10,8,FuelPrice,20.722
+23:10,9,ObiWan,43.241
+23:10,10,Tasha,10.379
+23:40,1,Davide,28.613
+23:40,2,Remi,34.636
+23:40,3,Ekin Su,
+23:40,4,TopChef,
+23:40,5,chilhavisto,
+23:40,6,Vince McMahon,
+23:40,7,Palau,
+23:40,8,Ryan Gosling,33.824
+23:40,9,WhyIChime,
+23:40,10,ObiWan,45.010

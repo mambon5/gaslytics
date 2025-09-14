@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,instagramdown,63.163
+00:10,2,facebookdown,20.447
+00:10,3,Arsenal,168.274
+00:10,4,SVGala1,50.615
+00:10,5,O Instagram,97.726
+00:10,6,Facebook e Instagram,26.853
+00:10,7,ErdoğanıDurduramazsınız,83.958
+00:10,8,Arteta,36.639
+00:10,9,Supervivientes2021,21.406
+00:10,10,Justin Rose,
+00:41,1,instagramdown,66.615
+00:41,2,facebookdown,21.827
+00:41,3,Arsenal,173.772
+00:41,4,SVGala1,61.660
+00:41,5,ErdoğanıDurduramazsınız,90.297
+00:41,6,O Instagram,104.042
+00:41,7,Supervivientes2021,25.241
+00:41,8,Facebook e Instagram,29.703
+00:41,9,Justin Rose,
+00:41,10,Arteta,38.339
+01:10,1,instagramdown,68.153
+01:10,2,facebookdown,22.531
+01:10,3,Arsenal,175.752
+01:10,4,SVGala1,67.921
+01:10,5,ErdoğanıDurduramazsınız,94.434
+01:10,6,Supervivientes2021,27.766
+01:10,7,O Instagram,105.200
+01:10,8,Facebook e Instagram,30.962
+01:10,9,Justin Rose,
+01:10,10,Arteta,39.262
+01:41,1,instagramdown,69.197
+01:41,2,facebookdown,23.106
+01:41,3,SVGala1,76.866
+01:41,4,Arsenal,178.412
+01:41,5,ErdoğanıDurduramazsınız,98.232
+01:41,6,Supervivientes2021,30.702
+01:41,7,O Instagram,109.273
+01:41,8,Facebook e Instagram,32.118
+01:41,9,Justin Rose,
+01:41,10,Henry,214.499
+02:10,1,instagramdown,70.349
+02:10,2,facebookdown,23.765
+02:10,3,SVGala1,86.339
+02:10,4,Arsenal,179.195
+02:10,5,Henry,217.200
+02:10,6,Supervivientes2021,33.583
+02:10,7,ErdoğanıDurduramazsınız,100.678
+02:10,8,O Instagram,111.418
+02:10,9,Justin Rose,
+02:10,10,Facebook e Instagram,32.859
+02:41,1,instagramdown,71.202
+02:41,2,facebookdown,24.215
+02:41,3,SVGala1,89.536
+02:41,4,Station19,11.002
+02:41,5,Henry,223.966
+02:41,6,GOPPedoRing,46.288
+02:41,7,Arsenal,180.886
+02:41,8,Senado,75.607
+02:41,9,CPI da Covid,31.558
+02:41,10,Barroso,56.025
+03:10,1,Thelma,24.652
+03:10,2,ExNaMTV,
+03:10,3,instagramdown,71.878
+03:10,4,DeFeriasCelebs,
+03:10,5,Ortega,17.530
+03:10,6,Station19,18.447
+03:10,7,facebookdown,24.587
+03:10,8,Henry,223.775
+03:10,9,Venmo,33.642
+03:10,10,Nazaré,
+03:41,1,Thelma,30.891
+03:41,2,ExNaMTV,11.702
+03:41,3,DeFeriasCelebs,11.204
+03:41,4,AmordeMae,41.996
+03:41,5,Ortega,19.068
+03:41,6,instagramdown,72.670
+03:41,7,Venmo,41.557
+03:41,8,NXTTakeOver,85.262
+03:41,9,Lary,
+03:41,10,Nazaré,
+04:10,1,AmordeMae,61.446
+04:10,2,Leila,17.433
+04:10,3,Thelma,32.421
+04:10,4,ExNaMTV,14.204
+04:10,5,DeFeriasCelebs,13.034
+04:10,6,NXTTakeOver,84.221
+04:10,7,Ortega,19.440
+04:10,8,Álvaro,46.422
+04:10,9,Raul,43.122
+04:10,10,Venmo,48.158
+04:41,1,Thais,263.127
+04:41,2,Leila,18.712
+04:41,3,AmordeMae,63.756
+04:41,4,NXTTakeOver,95.822
+04:41,5,Thelma,33.169
+04:41,6,ExNaMTV,15.239
+04:41,7,ROADRUNNER,
+04:41,8,DeFeriasCelebs,13.731
+04:41,9,Ortega,20.034
+04:41,10,Venmo,55.037
+05:10,1,Thais,291.362
+05:10,2,RIP DMX,61.969
+05:10,3,ForaFiuk,
+05:10,4,leila,18.974
+05:10,5,NXTTakeOver,100.884
+05:10,6,Arthur e Caio,28.359
+05:10,7,AmordeMae,63.224
+05:10,8,provadolíder,11.460
+05:10,9,ROADRUNNER,
+05:10,10,Seara,
+05:41,1,Caio,240.144
+05:41,2,Caio,240.144
+05:41,3,Thais,303.193
+05:41,4,RIP DMX,69.095
+05:41,5,Viih Tube,202.535
+05:41,6,ForaFiuk,11.002
+05:41,7,FearlessTaylorsVersion,130.322
+05:41,8,Leila,19.554
+05:41,9,Rest In Peace DMX,
+05:41,10,NXTTakeOver,102.744
+06:10,1,Caio,257.071
+06:10,2,Caio,257.071
+06:10,3,FearlessTaylorsVersion,188.018
+06:10,4,RIP DMX,55.565
+06:10,5,Thais,306.527
+06:10,6,Viih Tube,213.558
+06:10,7,ForaFiuk,13.104
+06:10,8,ROADRUNNER,
+06:10,9,Kawhi,12.394
+06:10,10,Leila,19.682
+06:41,1,FearlessTaylorsVersion,301.139
+06:41,2,Caio,269.039
+06:41,3,RIP DMX,54.180
+06:41,4,Thais,310.498
+06:41,5,STEPHEN,67.725
+06:41,6,Viih Tube,221.178
+06:41,7,ForaFiuk,14.385
+06:41,8,provadolíder,19.765
+06:41,9,스테이_트친소,
+06:41,10,You Belong With Me,86.247
+07:10,1,FearlessTaylorsVersion,370.023
+07:10,2,Caio,274.581
+07:10,3,RIP DMX,52.634
+07:10,4,Thais,311.319
+07:10,5,STEPHEN,70.479
+07:10,6,Viih Tube,222.363
+07:10,7,스테이_트친소,12.107
+07:10,8,You Belong With Me,93.084
+07:10,9,provadolíder,20.081
+07:10,10,ForaFiuk,14.961
+07:41,1,FearlessTaylorsVersion,419.340
+07:41,2,Caio,279.359
+07:41,3,RIP DMX,51.666
+07:41,4,Thais,312.735
+07:41,5,STEPHEN,72.652
+07:41,6,스테이_트친소,16.849
+07:41,7,You Belong With Me,97.073
+07:41,8,RPG世界に転生したあなたのステータス,
+07:41,9,Doja,55.664
+07:41,10,Viih Tube,225.018
+08:10,1,FearlessTaylorsVersion,448.635
+08:10,2,Caio,281.250
+08:10,3,RIP DMX,50.131
+08:10,4,Thais,311.931
+08:10,5,STEPHEN,73.187
+08:10,6,스테이_트친소,20.248
+08:10,7,RPG世界に転生したあなたのステータス,
+08:10,8,You Belong With Me,99.685
+08:10,9,Doja,57.842
+08:10,10,White Horse,37.898
+08:41,1,FearlessTaylorsVersion,469.334
+08:41,2,Caio,283.510
+08:41,3,RIP DMX,50.656
+08:41,4,RPG世界に転生したあなたのステータス,
+08:41,5,Stephen,74.683
+08:41,6,Thais,312.627
+08:41,7,스테이_트친소,24.024
+08:41,8,You Belong With Me,101.783
+08:41,9,ジュンくん,
+08:41,10,HayırlıCumalar,14.005
+09:10,1,FearlessTaylorsVersion,482.158
+09:10,2,RPG世界に転生したあなたのステータス,
+09:10,3,Caio,284.441
+09:10,4,RIP DMX,51.187
+09:10,5,스테이_트친소,27.321
+09:10,6,Stephen,74.742
+09:10,7,HayırlıCumalar,16.700
+09:10,8,ジュンくん,
+09:10,9,Thais,312.059
+09:10,10,You Belong With Me,103.486
+09:41,1,FearlessTaylorsVersion,493.434
+09:41,2,RPG世界に転生したあなたのステータス,
+09:41,3,ONEPIECE1010,
+09:41,4,InternationalTwitterMensDay,30.779
+09:41,5,스테이_트친소,29.452
+09:41,6,Caio,285.439
+09:41,7,RIP DMX,51.209
+09:41,8,Stephen,75.857
+09:41,9,ジュンくん,
+09:41,10,You Belong With Me,105.069
+10:10,1,FearlessTaylorsVersion,501.032
+10:10,2,ONEPIECE1010,11.477
+10:10,3,John Walker,11.126
+10:10,4,TFATWS,15.645
+10:10,5,RPG世界に転生したあなたのステータス,
+10:10,6,TheFalconAndWinterSoldier,10.836
+10:10,7,Mehdi Uğur,
+10:10,8,ジュンくん,
+10:10,9,RIP DMX,51.323
+10:10,10,Caio,285.647
+10:41,1,FearlessTaylorsVersion,509.728
+10:41,2,ONEPIECE1010,17.053
+10:41,3,John Walker,18.036
+10:41,4,TheFalconAndWinterSoldier,18.154
+10:41,5,RPG世界に転生したあなたのステータス,
+10:41,6,TFATWS,22.215
+10:41,7,Mehdi Uğur,
+10:41,8,ジュンくん,
+10:41,9,Caio,286.501
+10:41,10,Karli,
+11:10,1,FearlessTaylorsVersion,515.746
+11:10,2,ONEPIECE1010,21.921
+11:10,3,TheFalconAndWinterSoldier,22.998
+11:10,4,John Walker,22.397
+11:10,5,RPG世界に転生したあなたのステータス,
+11:10,6,TFATWS,25.815
+11:10,7,Mehdi Uğur,
+11:10,8,Bekir Pakdemirli,
+11:10,9,スーパークレイジー君,
+11:10,10,ジュンくん,
+11:41,1,Bambi1stWin,57.110
+11:41,2,FearlessTaylorsVersion,522.893
+11:41,3,ONEPIECE1010,26.755
+11:41,4,RPG世界に転生したあなたのステータス,
+11:41,5,TheFalconAndWinterSoldier,26.888
+11:41,6,John Walker,25.671
+11:41,7,BORDER CARNIVAL DOWN MOODBOARD,119.273
+11:41,8,Gil Manzano,
+11:41,9,スーパークレイジー君,
+11:41,10,当選無効,10.663
+12:10,1,Bambi1stWin,116.597
+12:10,2,Mステ,57.164
+12:10,3,ONEPIECE1010,31.373
+12:10,4,RPG世界に転生したあなたのステータス,
+12:10,5,TheFalconAndWinterSoldier,30.067
+12:10,6,John Walker,28.797
+12:10,7,Curtain Call,
+12:10,8,BORDER CARNIVAL DOWN MOODBOARD,143.593
+12:10,9,妖怪ウォッチ,
+12:10,10,Gil Manzano,
+12:41,1,Mステ,82.884
+12:41,2,Bambi1stWin,168.428
+12:41,3,RPG世界に転生したあなたのステータス,
+12:41,4,ONEPIECE1010,36.205
+12:41,5,Dont_Call_Me,55.111
+12:41,6,John Walker,32.208
+12:41,7,curtain call,10.538
+12:41,8,場外ホームラン,
+12:41,9,BORDER CARNIVAL DOWN MOODBOARD,147.592
+12:41,10,妖怪ウォッチ,10.100
+13:10,1,Mステ,107.733
+13:10,2,Bambi1stWin,189.860
+13:10,3,FabLivespeaks,16.960
+13:10,4,RPG世界に転生したあなたのステータス,
+13:10,5,ONEPIECE1010,40.102
+13:10,6,Prince Philip,22.847
+13:10,7,Naughty Girl,
+13:10,8,John Walker,35.551
+13:10,9,Curtain Call,11.489
+13:10,10,場外ホームラン,12.658
+13:41,1,Prince Philip,290.057
+13:41,2,Mステ,127.729
+13:41,3,Duke of Edinburgh,132.418
+13:41,4,Bambi1stWin,205.073
+13:41,5,FabLivespeaks,24.452
+13:41,6,Royal Family,34.388
+13:41,7,RPG世界に転生したあなたのステータス,
+13:41,8,Filippo,10.329
+13:41,9,The Crown,36.233
+13:41,10,ONEPIECE1010,44.630
+14:10,1,Prince Philip,451.124
+14:10,2,Mステ,142.547
+14:10,3,Duke of Edinburgh,192.483
+14:10,4,Queen,542.536
+14:10,5,Royal Family,57.859
+14:10,6,The Crown,45.984
+14:10,7,Meghan,54.725
+14:10,8,ゲド戦記,23.071
+14:10,9,RPG世界に転生したあなたのステータス,
+14:10,10,Filippo,15.264
+14:41,1,Prince Philip,570.202
+14:41,2,Mステ,160.521
+14:41,3,Duke of Edinburgh,235.846
+14:41,4,Queen,609.572
+14:41,5,ゲド戦記,35.000
+14:41,6,The Crown,56.887
+14:41,7,Royal Family,76.739
+14:41,8,Meghan,71.419
+14:41,9,野良猫3D,27.615
+14:41,10,RPG世界に転生したあなたのステータス,10.647
+15:10,1,Prince Philip,651.214
+15:10,2,Duke of Edinburgh,264.932
+15:10,3,Mステ,180.475
+15:10,4,Queen,637.268
+15:10,5,ゲド戦記,42.524
+15:10,6,野良猫3D,40.924
+15:10,7,The Crown,64.439
+15:10,8,Royal Family,91.423
+15:10,9,Meghan,83.475
+15:10,10,RPG世界に転生したあなたのステータス,11.309
+15:41,1,Prince Philip,725.119
+15:41,2,Duke of Edinburgh,289.906
+15:41,3,ゲド戦記,49.631
+15:41,4,Queen,679.271
+15:41,5,FabLivespeaks,57.418
+15:41,6,Mステ,198.266
+15:41,7,The Crown,73.101
+15:41,8,野良猫3D,46.112
+15:41,9,Royal Family,105.129
+15:41,10,Meghan,94.616
+16:10,1,Prince Philip,787.920
+16:10,2,Duke of Edinburgh,312.307
+16:10,3,ゲド戦記,57.250
+16:10,4,Queen,699.756
+16:10,5,FabLivespeaks,61.544
+16:10,6,The Crown,79.723
+16:10,7,Mステ,208.343
+16:10,8,Royal Family,117.417
+16:10,9,Meghan,103.248
+16:10,10,野良猫3D,48.236
+16:41,1,Prince Philip,850.205
+16:41,2,ゲド戦記,68.565
+16:41,3,Duke of Edinburgh,333.440
+16:41,4,Queen,734.112
+16:41,5,The Crown,86.930
+16:41,6,FabLivespeaks,63.659
+16:41,7,Everyday_with_TWICE,57.297
+16:41,8,Royal Family,128.163
+16:41,9,Meghan,112.522
+16:41,10,IPL2021,132.535
+17:10,1,Prince Philip,902.533
+17:10,2,ゲド戦記,71.143
+17:10,3,Duke of Edinburgh,350.273
+17:10,4,Everyday_with_TWICE,98.906
+17:10,5,Queen,749.429
+17:10,6,The Crown,92.172
+17:10,7,IPL2021,135.725
+17:10,8,FabLivespeaks,64.494
+17:10,9,MIvRCB,48.102
+17:10,10,Royal Family,136.827
+17:41,1,Prince Philip,957.265
+17:41,2,Everyday_with_TWICE,135.153
+17:41,3,Duke of Edinburgh,367.382
+17:41,4,ゲド戦記,72.420
+17:41,5,Queen,782.095
+17:41,6,BORDER CARNIVAL DOWN FILM,339.314
+17:41,7,BorderCarnival_Down,301.732
+17:41,8,The Crown,98.494
+17:41,9,2000 DAYS WITH TWICE,95.631
+17:41,10,IPL2021,143.804
+18:10,1,Prince Philip,971.012
+18:10,2,Everyday_with_TWICE,151.367
+18:10,3,Duke of Edinburgh,381.787
+18:10,4,RCBvsMI,22.369
+18:10,5,ゲド戦記,73.085
+18:10,6,ErsinKorkutTutuklansın,
+18:10,7,BORDER CARNIVAL DOWN FILM,413.308
+18:10,8,IPL2021,149.677
+18:10,9,BorderCarnival_Down,365.675
+18:10,10,Queen,795.699
+18:41,1,Prince Philip,1.053.442
+18:41,2,RIP DMX,111.838
+18:41,3,Everyday_with_TWICE,162.060
+18:41,4,SUGA1BillionStreams,24.883
+18:41,5,ErsinKorkutTutuklansın,13.439
+18:41,6,Duke of Edinburgh,394.973
+18:41,7,RCBvsMI,24.626
+18:41,8,IPL2021,158.343
+18:41,9,BORDER CARNIVAL DOWN FILM,433.278
+18:41,10,Queen,826.022
+19:10,1,RIPDMX,42.954
+19:10,2,SUGA1BillionStreams,51.607
+19:10,3,ErsinKorkutTutuklansın,17.213
+19:10,4,Everyday_with_TWICE,168.139
+19:10,5,윤기곡_스밍10억회돌파,27.951
+19:10,6,Rest In Peace,174.797
+19:10,7,Duke of Edinburgh,406.681
+19:10,8,Always Ready,14.445
+19:10,9,Rest in Power,33.389
+19:10,10,Velez,29.002
+19:41,1,RIPDMX,63.992
+19:41,2,Flamengo,112.306
+19:41,3,SUGA1BillionStreams,74.865
+19:41,4,ErsinKorkutTutuklansın,20.819
+19:41,5,النصر_ضمك_lلدوري,19.614
+19:41,6,Rest In Peace,205.896
+19:41,7,ARTIholdingEksiOlduSPK,
+19:41,8,Ruff Ryders,27.233
+19:41,9,Rest in Power,42.408
+19:41,10,Duke of Edinburgh,418.182
+20:10,1,RIPDMX,79.835
+20:10,2,SUGA1BillionStreams,88.565
+20:10,3,Flamengo,117.162
+20:10,4,RCBvsMI,40.578
+20:10,5,ErsinKorkutTutuklansın,24.357
+20:10,6,IPL2021,190.297
+20:10,7,Rest In Peace,223.785
+20:10,8,Ruff Ryders,33.154
+20:10,9,Rest in Power,47.245
+20:10,10,Earl Simmons,29.968
+20:41,1,RIPDMX,95.014
+20:41,2,SUGA1BillionStreams,98.828
+20:41,3,RCBvsMI,47.504
+20:41,4,Flamengo,124.400
+20:41,5,ErsinKorkutTutuklansın,27.445
+20:41,6,الاتحاد_lلهلال,36.477
+20:41,7,Rest In Peace,241.286
+20:41,8,Ruff Ryders,39.446
+20:41,9,Rest in Power,53.890
+20:41,10,Earl Simmons,33.494
+21:10,1,RIPDMX,107.284
+21:10,2,Prince Philip,1.237.946
+21:10,3,الاتحاد_lلهلال,45.044
+21:10,4,SUGA1BillionStreams,107.587
+21:10,5,VOUpraGUERRAcomBOLSONARO,36.293
+21:10,6,ErsinKorkutTutuklansın,30.123
+21:10,7,Flamengo,126.783
+21:10,8,Rest In Peace,254.420
+21:10,9,Ruff Ryders,44.832
+21:10,10,Ateizm NiçinArttı,
+21:41,1,RIPDMX,118.739
+21:41,2,الاتحاد_lلهلال,53.643
+21:41,3,Prince Philip,1.268.482
+21:41,4,VOUpraGUERRAcomBOLSONARO,47.011
+21:41,5,SUGA1BillionStreams,114.217
+21:41,6,ErsinKorkutTutuklansın,32.989
+21:41,7,Flamengo,131.887
+21:41,8,Rest In Peace,268.201
+21:41,9,Ruff Ryders,50.433
+21:41,10,Belly,44.085
+22:10,1,RIPDMX,128.298
+22:10,2,RIPDMX,128.298
+22:10,3,KohLanta,26.925
+22:10,4,الاتحاد_lلهلال,73.481
+22:10,5,CashAppFriday,10.127
+22:10,6,Laure,10.397
+22:10,7,Maxine,
+22:10,8,Magali,
+22:10,9,Flamengo,133.151
+22:10,10,Rest In Peace,277.612
+22:41,1,KohLanta,47.274
+22:41,2,RIPDMX,137.230
+22:41,3,RIPDMX,137.230
+22:41,4,الاتحاد_lلهلال,84.336
+22:41,5,CashAppFriday,13.941
+22:41,6,Aurélien,13.786
+22:41,7,Laure,14.268
+22:41,8,Maxine,10.811
+22:41,9,Magali,
+22:41,10,Candice,10.009
+23:10,1,KohLanta,66.279
+23:10,2,RIPDMX,144.559
+23:10,3,CashAppFriday,15.697
+23:10,4,KırmızıOda,11.114
+23:10,5,الاتحاد_lلهلال,93.249
+23:10,6,Aurélien,20.461
+23:10,7,Laure,16.849
+23:10,8,Prince Philip,1.324.503
+23:10,9,Maxine,12.957
+23:10,10,Fulham,11.955
+23:41,1,KohLanta,100.508
+23:41,2,RIPDMX,152.164
+23:41,3,Aurélien,38.146
+23:41,4,128MilyarDolarNerede,19.570
+23:41,5,NS10v10,34.636
+23:41,6,CashAppFriday,17.078
+23:41,7,Laure,19.478
+23:41,8,Maxine,14.372
+23:41,9,Shanice,
+23:41,10,Prince Philip,1.369.710

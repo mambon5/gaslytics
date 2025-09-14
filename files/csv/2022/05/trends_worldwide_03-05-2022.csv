@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MetGala,336.592
+00:10,2,Blake,84.941
+00:10,3,isola,23.194
+00:10,4,MasterChef10,
+00:10,5,MUNBRE,60.206
+00:10,6,Efsane115Yaşında,
+00:10,7,Anna Wintour,
+00:10,8,Mata,122.064
+00:10,9,CHICAGO'S DREAM BOY,10.686
+00:10,10,Vanessa Hudgens,11.404
+00:40,1,MetGala,526.655
+00:40,2,Blake,158.546
+00:40,3,joe locke,18.683
+00:40,4,isola,26.076
+00:40,5,normani,10.439
+00:40,6,emma,81.883
+00:40,7,MasterChef10,
+00:40,8,Anna Wintour,
+00:40,9,sabrina,20.804
+00:40,10,Gilded Age,26.521
+01:10,1,MetGala,777.327
+01:10,2,Blake,198.080
+01:10,3,shawn,53.048
+01:10,4,joe locke,28.850
+01:10,5,Normani,19.572
+01:10,6,camila,67.468
+01:10,7,isola,28.808
+01:10,8,emma,86.121
+01:10,9,Gilded Age,36.102
+01:10,10,Amy Schumer,
+01:40,1,MetGala,1.049.981
+01:40,2,Blake,228.194
+01:40,3,gigi,55.878
+01:40,4,shawn,67.209
+01:40,5,kylie,25.924
+01:40,6,billie,50.394
+01:40,7,Normani,27.699
+01:40,8,joe locke,34.145
+01:40,9,camila,82.910
+01:40,10,Calleri,
+02:10,1,MetGala,1.361.708
+02:10,2,Blake,254.612
+02:10,3,billie,99.294
+02:10,4,kylie,39.034
+02:10,5,gigi,61.477
+02:10,6,shawn,74.104
+02:10,7,joe locke,38.154
+02:10,8,Normani,31.997
+02:10,9,Jared Leto,10.053
+02:10,10,Calleri,
+02:40,1,MetGala,1.637.040
+02:40,2,Blake,278.506
+02:40,3,billie,121.826
+02:40,4,kylie,49.908
+02:40,5,gigi,78.369
+02:40,6,shawn,79.745
+02:40,7,joe locke,41.067
+02:40,8,Jared Leto,13.775
+02:40,9,Normani,36.016
+02:40,10,Calleri,
+03:10,1,MetGala,1.812.164
+03:10,2,kylie,65.226
+03:10,3,Blake,299.401
+03:10,4,billie,130.872
+03:10,5,gigi,87.897
+03:10,6,kendall,46.072
+03:10,7,shawn,84.953
+03:10,8,Cardi,43.366
+03:10,9,RoeVWade,
+03:10,10,LeafsForever,11.507
+03:40,1,MetGala,1.916.823
+03:40,2,kylie,75.151
+03:40,3,Blake,320.852
+03:40,4,billie,138.254
+03:40,5,gigi,94.169
+03:40,6,RoeVWade,13.695
+03:40,7,kendall,53.084
+03:40,8,Cardi,58.466
+03:40,9,LeafsForever,12.886
+03:40,10,shawn,90.279
+04:10,1,MetGala,1.874.725
+04:10,2,RoeVWade,41.684
+04:10,3,Supreme Court,279.346
+04:10,4,Kylie,80.917
+04:10,5,SCOTUS,114.173
+04:10,6,EstreiaPowerCouple,
+04:10,7,Blake,340.221
+04:10,8,billie,142.415
+04:10,9,WWERaw,33.687
+04:10,10,Alito,75.235
+04:40,1,MetGala,2.053.320
+04:40,2,RoeVWade,82.533
+04:40,3,Supreme Court,377.019
+04:40,4,SCOTUS,168.161
+04:40,5,EstreiaPowerCouple,19.896
+04:40,6,Kylie,85.567
+04:40,7,Blake Lively,266.232
+04:40,8,Alito,99.145
+04:40,9,WWERaw,40.041
+04:40,10,billie,146.987
+05:10,1,RoeVWade,110.776
+05:10,2,MetGala,2.190.622
+05:10,3,Supreme Court,457.357
+05:10,4,SCOTUS,214.741
+05:10,5,EstreiaPowerCouple,30.367
+05:10,6,Kylie,89.469
+05:10,7,Blake Lively,279.319
+05:10,8,Alito,119.354
+05:10,9,WWERaw,47.156
+05:10,10,Dinei,
+05:40,1,RoeVWade,134.826
+05:40,2,Supreme Court,533.517
+05:40,3,MetGala,2.204.737
+05:40,4,SCOTUS,255.015
+05:40,5,EstreiaPowerCouple,42.131
+05:40,6,Kylie,92.931
+05:40,7,Alito,134.489
+05:40,8,Dinei,11.362
+05:40,9,Blake Lively,291.518
+05:40,10,WWERaw,49.805
+06:10,1,RoeVWade,154.677
+06:10,2,Supreme Court,592.326
+06:10,3,SCOTUS,287.882
+06:10,4,MetGala,2.318.629
+06:10,5,EstreiaPowerCouple,45.679
+06:10,6,Luka,41.375
+06:10,7,Kylie,95.512
+06:10,8,Alito,146.626
+06:10,9,Mavs,19.856
+06:10,10,Blake Lively,301.873
+06:40,1,RoeVWade,169.504
+06:40,2,Supreme Court,638.191
+06:40,3,SCOTUS,313.440
+06:40,4,MetGala,2.417.702
+06:40,5,Luka,48.397
+06:40,6,EstreiaPowerCouple,46.674
+06:40,7,HoldMyHand,23.198
+06:40,8,Mavs,23.602
+06:40,9,Kylie,97.998
+06:40,10,Alito,157.927
+07:10,1,RoeVWade,181.523
+07:10,2,Supreme Court,673.500
+07:10,3,SCOTUS,333.284
+07:10,4,MetGala,2.504.352
+07:10,5,Luka,51.894
+07:10,6,HoldMyHand,26.336
+07:10,7,EstreiaPowerCouple,47.120
+07:10,8,Mavs,25.057
+07:10,9,Mike Smith,
+07:10,10,Kylie,100.130
+07:40,1,Supreme Court,705.040
+07:40,2,RoeVWade,191.640
+07:40,3,SCOTUS,350.666
+07:40,4,MetGala,2.581.013
+07:40,5,Luka,53.857
+07:40,6,HoldMyHand,28.463
+07:40,7,EstreiaPowerCouple,47.563
+07:40,8,Mike Smith,
+07:40,9,Mavs,25.667
+07:40,10,Kylie,102.424
+08:10,1,RoeVWade,199.291
+08:10,2,Supreme Court,728.587
+08:10,3,SCOTUS,365.752
+08:10,4,MetGala,2.688.532
+08:10,5,Luka,54.741
+08:10,6,HoldMyHand,29.581
+08:10,7,すとぱDAY2,164.330
+08:10,8,EidMubarak,481.067
+08:10,9,Kylie,104.638
+08:10,10,Mike Smith,
+08:40,1,Supreme Court,744.076
+08:40,2,RoeVWade,205.594
+08:40,3,SCOTUS,377.390
+08:40,4,MetGala,2.738.105
+08:40,5,Luka,55.985
+08:40,6,AkshayaTritiya,38.135
+08:40,7,すとぱDAY2,180.859
+08:40,8,EidMubarak,496.849
+08:40,9,Kylie,106.470
+08:40,10,Mike Smith,
+09:10,1,Supreme Court,763.833
+09:10,2,SCOTUS,386.264
+09:10,3,RoeVWade,210.531
+09:10,4,MetGala,2.658.993
+09:10,5,AkshayaTritiya,41.564
+09:10,6,EidMubarak,495.188
+09:10,7,すとぱDAY2,196.581
+09:10,8,Luka,56.425
+09:10,9,Kylie,108.048
+09:10,10,Mike Smith,
+09:40,1,Supreme Court,778.113
+09:40,2,SCOTUS,393.736
+09:40,3,RoeVWade,214.840
+09:40,4,すわほー,
+09:40,5,ライアン,12.093
+09:40,6,MetGala,1.875.189
+09:40,7,sessizistila,29.028
+09:40,8,AkshayaTritiya,45.890
+09:40,9,EidMubarak,512.447
+09:40,10,れおほー,
+10:10,1,すわほー,
+10:10,2,Supreme Court,787.590
+10:10,3,SCOTUS,399.797
+10:10,4,RoeVWade,218.556
+10:10,5,sessizistila,33.688
+10:10,6,ライアン,13.760
+10:10,7,swallows,13.670
+10:10,8,AkshayaTritiya,49.479
+10:10,9,イグナイター,
+10:10,10,山本由伸,
+10:40,1,sessizistila,38.054
+10:40,2,すわほー,
+10:40,3,Supreme Court,798.861
+10:40,4,Wade,654.612
+10:40,5,SCOTUS,405.464
+10:40,6,sbhawks,22.221
+10:40,7,iKON IS BACK,150.478
+10:40,8,ライアン,14.394
+10:40,9,아이콘_너라는이유,39.888
+10:40,10,山本由伸,
+11:10,1,BUTYOU_iKON,59.561
+11:10,2,sessizistila,42.152
+11:10,3,아이콘_너라는이유,59.646
+11:10,4,どらほー,
+11:10,5,FLASHBACK_RELEASE_DAY,254.208
+11:10,6,sbhawks,25.108
+11:10,7,たかほー,
+11:10,8,すわほー,
+11:10,9,Jimmy Bell,
+11:10,10,Supreme Court,806.090
+11:40,1,BUTYOU_iKON,93.438
+11:40,2,아이콘_너라는이유,88.288
+11:40,3,FLASHBACK_RELEASE_DAY,287.387
+11:40,4,sessizistila,46.636
+11:40,5,Jimmy Bell,
+11:40,6,どらほー,
+11:40,7,Elsie,14.409
+11:40,8,YERIN_SOLO_DEBUT,10.863
+11:40,9,たかほー,
+11:40,10,すわほー,
+12:10,1,BUTYOU_iKON,124.049
+12:10,2,아이콘_너라는이유,115.622
+12:10,3,FLASHBACK_RELEASE_DAY,314.649
+12:10,4,sessizistila,50.846
+12:10,5,Jimmy Bell,
+12:10,6,Elsie,17.034
+12:10,7,どらほー,
+12:10,8,LJT802,
+12:10,9,文ストコラボ,
+12:10,10,SIGURADO NA SA LENIKIKO,45.697
+12:40,1,BayramSofrası,
+12:40,2,BUTYOU_iKON,146.551
+12:40,3,아이콘_너라는이유,135.400
+12:40,4,FLASHBACK_RELEASE_DAY,336.672
+12:40,5,sessizistila,54.952
+12:40,6,Elsie,19.657
+12:40,7,Jimmy Bell,
+12:40,8,どらほー,
+12:40,9,文ストコラボ,
+12:40,10,SIGURADO NA SA LENIKIKO,56.735
+13:10,1,BayramSofrası,
+13:10,2,BUTYOU_iKON,161.673
+13:10,3,아이콘_너라는이유,148.217
+13:10,4,プロフェッショナル,
+13:10,5,sessizistila,58.665
+13:10,6,Elsie,22.174
+13:10,7,Jimmy Bell,
+13:10,8,SIGURADO NA SA LENIKIKO,70.968
+13:10,9,多摩東部,31.684
+13:10,10,文ストコラボ,
+13:40,1,恋した魚は空を飛ぶ,
+13:40,2,BayramSofrası,
+13:40,3,BUTYOU_iKON,173.870
+13:40,4,プロフェッショナル,
+13:40,5,아이콘_너라는이유,158.966
+13:40,6,SIGURADO NA SA LENIKIKO,84.669
+13:40,7,Elsie,25.005
+13:40,8,Jimmy Bell,
+13:40,9,多摩東部,33.371
+13:40,10,文ストコラボ,
+14:10,1,恋した魚は空を飛ぶ,
+14:10,2,プロフェッショナル,11.791
+14:10,3,BUTYOU_iKON,185.182
+14:10,4,BayramSofrası,
+14:10,5,ものまねグランプリ,
+14:10,6,SIGURADO NA SA LENIKIKO,92.476
+14:10,7,Elsie,27.436
+14:10,8,MEW X DOCTOR STRANGE,43.095
+14:10,9,SCOTUS,484.441
+14:10,10,Supreme Court,927.431
+14:40,1,恋した魚は空を飛ぶ,
+14:40,2,ものまねグランプリ,10.136
+14:40,3,プロフェッショナル,13.079
+14:40,4,แค่ได้มองทอมมี่ณฐนุนิว,85.859
+14:40,5,MEW x DOCTOR STRANGE,101.822
+14:40,6,kürtçe,
+14:40,7,Kim Taehyung,50.189
+14:40,8,Elsie,29.747
+14:40,9,SCOTUS,506.497
+14:40,10,Supreme Court,962.235
+15:10,1,ものまねグランプリ,12.668
+15:10,2,kürtçe,
+15:10,3,恋した魚は空を飛ぶ,10.417
+15:10,4,แค่ได้มองทอมมี่ณฐนุนิว,122.955
+15:10,5,Kim Taehyung,61.725
+15:10,6,หมอแปลก,158.437
+15:10,7,MEW x DOCTOR STRANGE,148.734
+15:10,8,SCOTUS,531.479
+15:10,9,Supreme Court,997.223
+15:10,10,Elsie,31.888
+15:40,1,justanotherpanel,
+15:40,2,ものまねグランプリ,15.899
+15:40,3,RoeVWade,305.448
+15:40,4,kürtçe,
+15:40,5,SCOTUS,556.845
+15:40,6,Supreme Court,1.036.650
+15:40,7,Kim Taehyung,77.129
+15:40,8,หมอแปลก,188.111
+15:40,9,MEW X DOCTOR STRANGE,175.885
+15:40,10,DVD MURILO HUFF,22.562
+16:10,1,justanotherpanel,
+16:10,2,ものまねグランプリ,19.350
+16:10,3,RoeVWade,320.842
+16:10,4,SCOTUS,580.233
+16:10,5,Supreme Court,1.079.553
+16:10,6,kürtçe,
+16:10,7,正直不動産,13.978
+16:10,8,Kim Taehyung,88.679
+16:10,9,MEW X DOCTOR STRANGE,192.519
+16:10,10,DVD MURILO HUFF,27.223
+16:40,1,RoeVWade,335.336
+16:40,2,ものまねグランプリ,20.835
+16:40,3,Supreme Court,1.127.440
+16:40,4,justanotherpanel,
+16:40,5,SCOTUS,606.379
+16:40,6,ContigoCHV,12.698
+16:40,7,kürtçe,10.692
+16:40,8,Kim Taehyung,98.233
+16:40,9,DVD MURILO HUFF,29.739
+16:40,10,Susan Collins,83.608
+17:10,1,RoeVWade,352.257
+17:10,2,Supreme Court,1.171.382
+17:10,3,SCOTUS,630.412
+17:10,4,KakampINC,
+17:10,5,kürtçe,12.081
+17:10,6,ContigoCHV,14.124
+17:10,7,ものまねグランプリ,21.738
+17:10,8,Susan Collins,89.881
+17:10,9,DVD MURILO HUFF,32.120
+17:10,10,Kim Taehyung,105.651
+17:40,1,RoeVWade,369.894
+17:40,2,SCOTUS,658.535
+17:40,3,Supreme Court,1.227.203
+17:40,4,KakampINC,11.597
+17:40,5,Susan Collins,96.722
+17:40,6,kürtçe,13.563
+17:40,7,京本大我入所16周年,10.342
+17:40,8,ContigoCHV,15.390
+17:40,9,第103回,
+17:40,10,Wordle 319,
+18:10,1,RoeVWade,387.637
+18:10,2,SCOTUS,685.289
+18:10,3,Supreme Court,1.275.658
+18:10,4,KakampINC,14.806
+18:10,5,Susan Collins,102.154
+18:10,6,kürtçe,14.931
+18:10,7,투니버스,
+18:10,8,第103回,
+18:10,9,京本大我入所16周年,12.575
+18:10,10,Wordle 319,
+18:40,1,RoeVWade,404.507
+18:40,2,Supreme Court,1.293.882
+18:40,3,SCOTUS,712.717
+18:40,4,BayramdaOkuyoruz,
+18:40,5,KakampINC,17.973
+18:40,6,Susan Collins,106.743
+18:40,7,kürtçe,16.364
+18:40,8,투니버스,
+18:40,9,第103回,
+18:40,10,PA NO GLOBO ESPORTE,27.799
+19:10,1,RoeVWade,421.604
+19:10,2,Supreme Court,1.310.245
+19:10,3,BayramdaOkuyoruz,
+19:10,4,SCOTUS,737.622
+19:10,5,KakampINC,20.436
+19:10,6,Susan Collins,110.783
+19:10,7,kürtçe,17.717
+19:10,8,الفيحاء_الهلال,15.900
+19:10,9,투니버스,
+19:10,10,第103回,
+19:40,1,RoeVWade,437.413
+19:40,2,BayramdaOkuyoruz,
+19:40,3,Supreme Court,1.355.462
+19:40,4,SCOTUS,745.633
+19:40,5,الفيحاء_الهلال,19.915
+19:40,6,الشهراني,
+19:40,7,KakampINC,22.234
+19:40,8,Susan Collins,114.516
+19:40,9,kürtçe,19.048
+19:40,10,Sonic Prime,22.734
+20:10,1,RoeVWade,452.358
+20:10,2,BayramdaOkuyoruz,
+20:10,3,الفيحاء_الهلال,23.651
+20:10,4,Supreme Court,1.471.524
+20:10,5,SCOTUS,788.191
+20:10,6,الشهراني,
+20:10,7,kürtçe,20.265
+20:10,8,بيريرا,
+20:10,9,KakampINC,23.662
+20:10,10,Susan Collins,117.501
+20:40,1,RoeVWade,456.680
+20:40,2,الفيحاء_الهلال,28.227
+20:40,3,BayramdaOkuyoruz,
+20:40,4,Supreme Court,1.515.499
+20:40,5,SCOTUS,811.755
+20:40,6,namjoon,159.753
+20:40,7,Bournemouth,13.584
+20:40,8,RenewAsACrew,13.536
+20:40,9,DeppVsHeard,15.117
+20:40,10,بيريرا,11.592
+21:10,1,Villarreal,71.651
+21:10,2,VILLIV,34.327
+21:10,3,RoeVWade,482.111
+21:10,4,AutoempleoEdomex,
+21:10,5,الفيحاء_الهلال,31.855
+21:10,6,BayramdaOkuyoruz,
+21:10,7,Supreme Court,1.516.171
+21:10,8,SCOTUS,833.890
+21:10,9,فياريال,
+21:10,10,namjoon,164.816
+21:40,1,Villarreal,107.701
+21:40,2,VILLIV,53.620
+21:40,3,AutoempleoEdomex,
+21:40,4,RoeVWade,496.215
+21:40,5,Keita,16.946
+21:40,6,Supreme Court,1.592.105
+21:40,7,BayramdaOkuyoruz,
+21:40,8,الفيحاء_الهلال,34.348
+21:40,9,فياريال,14.942
+21:40,10,SCOTUS,856.553
+22:10,1,Villarreal,209.456
+22:10,2,VILLIV,87.593
+22:10,3,AutoempleoEdomex,14.291
+22:10,4,Keita,27.903
+22:10,5,Coquelin,17.204
+22:10,6,Diaz,82.060
+22:10,7,Trent,25.623
+22:10,8,Emery,22.890
+22:10,9,Bournemouth,24.236
+22:10,10,فياريال,28.563
+22:40,1,Liverpool,361.869
+22:40,2,Rulli,61.194
+22:40,3,VILLIV,116.846
+22:40,4,Diaz,137.688
+22:40,5,AutoempleoEdomex,20.913
+22:40,6,Keita,30.790
+22:40,7,ChampionsLeague,16.566
+22:40,8,Fabinho,16.190
+22:40,9,Klopp,39.216
+22:40,10,Trent,31.872
+23:10,1,Liverpool,444.600
+23:10,2,Rulli,86.504
+23:10,3,VILLIV,134.135
+23:10,4,Diaz,169.907
+23:10,5,AutoempleoEdomex,26.154
+23:10,6,YNWA,15.413
+23:10,7,ChampionsLeague,22.779
+23:10,8,Klopp,58.882
+23:10,9,Fabinho,19.609
+23:10,10,Keita,31.427
+23:40,1,Liverpool,490.633
+23:40,2,Rulli,91.846
+23:40,3,VILLIV,140.904
+23:40,4,AutoempleoEdomex,30.543
+23:40,5,Diaz,191.267
+23:40,6,YNWA,18.364
+23:40,7,ChampionsLeague,26.750
+23:40,8,Klopp,73.086
+23:40,9,Emery,40.497
+23:40,10,Fabinho,21.018

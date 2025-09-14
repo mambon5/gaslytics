@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,isola,10.190
+00:10,2,Belito,106.842
+00:10,3,Lorch,
+00:10,4,Catholic Church,12.573
+00:10,5,Isco,17.193
+00:10,6,Selçuk Tepeli,53.162
+00:10,7,Hotto,
+00:10,8,COAC2022P5,
+00:10,9,OClone,
+00:10,10,SVNominaciones,
+00:40,1,isola,11.648
+00:40,2,Lorch,
+00:40,3,DebateCiroEGregorio,
+00:40,4,Belito,111.522
+00:40,5,Catholic Church,14.670
+00:40,6,COAC2022P5,
+00:40,7,Isco,18.987
+00:40,8,LetsDance,
+00:40,9,Roger Angell,
+00:40,10,Title 42,23.593
+01:10,1,DebateCiroEGregorio,
+01:10,2,COAC2022P5,
+01:10,3,isola,13.179
+01:10,4,Catholic Church,16.689
+01:10,5,Lorch,
+01:10,6,Belito,115.626
+01:10,7,ウチカフェしよう,
+01:10,8,Title 42,26.585
+01:10,9,Roger Angell,
+01:10,10,Isco,20.170
+01:40,1,Ciro,41.930
+01:40,2,AEWRampage,
+01:40,3,Catholic,46.322
+01:40,4,isola,14.766
+01:40,5,COAC2022P5,
+01:40,6,ウチカフェしよう,
+01:40,7,Belito,119.072
+01:40,8,Lorch,
+01:40,9,Title 42,29.421
+01:40,10,旅サラダ,
+02:10,1,Ciro,49.646
+02:10,2,AEWRampage,12.163
+02:10,3,Catholic,49.285
+02:10,4,ウチカフェしよう,
+02:10,5,SmackDown,
+02:10,6,isola,15.084
+02:10,7,AusVotes22,15.755
+02:10,8,Belito,122.252
+02:10,9,Title 42,31.652
+02:10,10,Communion,72.604
+02:40,1,Ciro,57.664
+02:40,2,SmackDown,12.958
+02:40,3,AEWRampage,13.471
+02:40,4,Catholic,52.257
+02:40,5,AusVotes22,16.945
+02:40,6,土曜はナニする,15.383
+02:40,7,旅サラダ,
+02:40,8,Trevor Story,14.360
+02:40,9,Aidy,
+02:40,10,Belito,125.201
+03:10,1,Ciro,63.404
+03:10,2,SmackDown,19.841
+03:10,3,LA Knight,
+03:10,4,TheLastDriveIn,
+03:10,5,Catholic,54.335
+03:10,6,ダイの大冒険,10.114
+03:10,7,Max Dupri,
+03:10,8,AEWRampage,14.100
+03:10,9,democracysausage,
+03:10,10,Trevor Story,14.447
+03:40,1,SmackDown,26.320
+03:40,2,Ciro,69.852
+03:40,3,TheLastDriveIn,
+03:40,4,ワルイコあつまれ,13.008
+03:40,5,LA Knight,
+03:40,6,Catholic,57.200
+03:40,7,Max Dupri,
+03:40,8,democracysausage,
+03:40,9,ダイの大冒険,10.953
+03:40,10,土砂降り,
+04:10,1,Draymond,20.626
+04:10,2,SmackDown,38.665
+04:10,3,Damion Lee,
+04:10,4,Ciro,74.671
+04:10,5,TheLastDriveIn,
+04:10,6,Bertans,
+04:10,7,DALvsGSW,
+04:10,8,土砂降り,
+04:10,9,ワルイコあつまれ,18.851
+04:10,10,Kerr,
+04:40,1,Draymond,24.418
+04:40,2,SmackDown,43.480
+04:40,3,Damion Lee,
+04:40,4,Ciro,80.432
+04:40,5,TheLastDriveIn,10.136
+04:40,6,BLACKPINKxRollingStone,27.538
+04:40,7,Naomi,46.687
+04:40,8,DALvsGSW,
+04:40,9,Bertans,
+04:40,10,土砂降り,
+05:10,1,Draymond,28.849
+05:10,2,SmackDown,45.793
+05:10,3,BLACKPINKxRollingStone,53.200
+05:10,4,Ciro,84.471
+05:10,5,Damion Lee,10.219
+05:10,6,DALvsGSW,
+05:10,7,BLACKPINK IS COMING,31.494
+05:10,8,Looney,19.439
+05:10,9,TheLastDriveIn,12.344
+05:10,10,Naomi,48.048
+05:40,1,Mavs,50.617
+05:40,2,Mavs,50.617
+05:40,3,Draymond,35.744
+05:40,4,Curry,79.126
+05:40,5,Looney,34.187
+05:40,6,BLACKPINKxRollingStone,78.147
+05:40,7,Dallas,66.359
+05:40,8,Poole,19.294
+05:40,9,DALvsGSW,
+05:40,10,SmackDown,47.633
+06:10,1,Mavs,58.743
+06:10,2,Mavs,58.743
+06:10,3,Curry,89.142
+06:10,4,Draymond,37.399
+06:10,5,Looney,41.894
+06:10,6,BLACKPINKxRollingStone,94.277
+06:10,7,DubNation,12.312
+06:10,8,Dallas,70.587
+06:10,9,Poole,21.957
+06:10,10,McDavid,
+06:40,1,Mavs,61.800
+06:40,2,Mavs,61.800
+06:40,3,Curry,94.400
+06:40,4,Draymond,38.340
+06:40,5,Looney,45.276
+06:40,6,BLACKPINKxRollingStone,108.025
+06:40,7,McDavid,
+06:40,8,DubNation,12.895
+06:40,9,Dallas,72.465
+06:40,10,Poole,23.478
+07:10,1,Mavs,62.949
+07:10,2,Warriors,209.310
+07:10,3,Curry,97.127
+07:10,4,Draymond,38.792
+07:10,5,BLACKPINKxRollingStone,118.595
+07:10,6,Looney,47.599
+07:10,7,キンプる,61.477
+07:10,8,McDavid,
+07:10,9,PULLUPwithMarkTuan,66.436
+07:10,10,DubNation,13.206
+07:40,1,Warriors,214.925
+07:40,2,Mavs,64.139
+07:40,3,Curry,99.807
+07:40,4,Draymond,39.261
+07:40,5,BLACKPINKxRollingStone,127.149
+07:40,6,キンプる,73.353
+07:40,7,TOH SPOILERS,15.163
+07:40,8,PULLUPwithMarkTuan,71.732
+07:40,9,Looney,49.110
+07:40,10,McDavid,
+08:10,1,Warriors,217.374
+08:10,2,Mavs,64.960
+08:10,3,らみらいぶ,14.376
+08:10,4,TOH SPOILERS,23.179
+08:10,5,Curry,100.622
+08:10,6,BLACKPINKxRollingStone,133.863
+08:10,7,キンプる,77.342
+08:10,8,beseenbeheard,
+08:10,9,PULLUPwithMarkTuan,74.264
+08:10,10,Draymond,39.444
+08:40,1,TOH SPOILERS,29.781
+08:40,2,らみらいぶ,18.424
+08:40,3,Warriors,221.193
+08:40,4,Mavs,65.658
+08:40,5,BLACKPINKxRollingStone,139.299
+08:40,6,MU2022,10.220
+08:40,7,キンプる,80.041
+08:40,8,PULLUPwithMarkTuan,76.510
+08:40,9,Curry,102.493
+08:40,10,ラミィちゃん,11.138
+09:10,1,TOH SPOILERS,37.004
+09:10,2,テーオーケインズ,19.268
+09:10,3,beseenbeheard,
+09:10,4,らみらいぶ,20.044
+09:10,5,MU2022,11.671
+09:10,6,Warriors,222.439
+09:10,7,Mavs,66.028
+09:10,8,メトロック,14.777
+09:10,9,BLACKPINKxRollingStone,144.262
+09:10,10,ラミィちゃん,12.106
+09:40,1,beseenbeheard,
+09:40,2,MU2022,14.246
+09:40,3,TOH SPOILERS,42.504
+09:40,4,テーオーケインズ,20.517
+09:40,5,GOT7HOMECOMING,185.572
+09:40,6,cumartesi,
+09:40,7,らみらいぶ,20.985
+09:40,8,Warriors,223.699
+09:40,9,Mavs,66.473
+09:40,10,ラミィちゃん,12.780
+10:10,1,渡邉理佐卒業コンサート_Day1,11.121
+10:10,2,GOT7HOMECOMING,344.321
+10:10,3,AusVotes22,29.443
+10:10,4,MU2022,16.328
+10:10,5,根尾くん,
+10:10,6,KingandPrinceガキキタイ3,
+10:10,7,TOH SPOILERS,46.481
+10:10,8,ストレッチーズ,
+10:10,9,テーオーケインズ,20.959
+10:10,10,Rüşvetçi Chp,
+10:40,1,GOT7HOMECOMING,496.976
+10:40,2,渡邉理佐卒業コンサート_Day1,15.742
+10:40,3,AusVotes22,31.767
+10:40,4,KingandPrinceガキキタイ3,
+10:40,5,根尾くん,
+10:40,6,MU2022,17.827
+10:40,7,ピッチャー根尾,
+10:40,8,ストレッチーズ,
+10:40,9,TOH SPOILERS,49.618
+10:40,10,Johnny's net,
+11:10,1,渡邉理佐卒業コンサート_Day1,21.470
+11:10,2,GOT7HOMECOMING,610.047
+11:10,3,AusVotes22,33.412
+11:10,4,KingandPrinceガキキタイ3,
+11:10,5,BinNight,
+11:10,6,根尾くん,
+11:10,7,Johnny's net,
+11:10,8,Barnaby,
+11:10,9,ピッチャー根尾,
+11:10,10,ストレッチーズ,
+11:40,1,GOT7HOMECOMING,773.488
+11:40,2,AusVotes22,35.278
+11:40,3,渡邉理佐卒業コンサート_Day1,24.574
+11:40,4,GOT7_HomecomingDay1,202.125
+11:40,5,BinNight,11.126
+11:40,6,Johnny's net,
+11:40,7,根尾くん,
+11:40,8,Tim Wilson,
+11:40,9,Foden,13.641
+11:40,10,Barnaby,
+12:10,1,GOT7HOMECOMING,967.034
+12:10,2,AusVotes22,38.431
+12:10,3,渡邉理佐卒業コンサート_Day1,28.676
+12:10,4,GOT7_HomecomingDay1,321.961
+12:10,5,BinNight,12.938
+12:10,6,Foden,18.121
+12:10,7,Dutton,12.994
+12:10,8,DOGSO,
+12:10,9,Johnny's net,
+12:10,10,すわほー,
+12:40,1,渡邉理佐卒業コンサート_Day1,34.904
+12:40,2,AusVotes22,42.655
+12:40,3,GOT7HOMECOMING,1.135.985
+12:40,4,GOT7_HomecomingDay1,421.730
+12:40,5,Foden,22.873
+12:40,6,maymuncicegi,
+12:40,7,Dutton,14.906
+12:40,8,IP67 Water Resistant,
+12:40,9,DOGSO,
+12:40,10,Antony Green,
+13:10,1,渡邉理佐卒業コンサート_Day1,37.322
+13:10,2,AusVotes22,45.956
+13:10,3,めいちゃんファンファーレ,
+13:10,4,GOT7HOMECOMING,1.280.407
+13:10,5,maymuncicegi,
+13:10,6,Foden,26.475
+13:10,7,Saka,42.438
+13:10,8,Shireen Mazari,34.099
+13:10,9,Dutton,16.241
+13:10,10,IP67 Water Resistant,
+13:40,1,めいちゃんファンファーレ,16.785
+13:40,2,AusVotes22,52.397
+13:40,3,渡邉理佐卒業コンサート_Day1,39.305
+13:40,4,กลรักรุ่นพี่LIVEonWeTV,169.043
+13:40,5,待てムリ,26.774
+13:40,6,Foden,30.198
+13:40,7,Saka,44.994
+13:40,8,Antony Green,
+13:40,9,Shireen Mazari,51.980
+13:40,10,Labor,120.890
+14:10,1,めいちゃんファンファーレ,27.615
+14:10,2,AusVotes22,58.592
+14:10,3,กลรักรุ่นพี่LIVEonWeTV,289.251
+14:10,4,待てムリ,41.555
+14:10,5,IPPONグランプリ,
+14:10,6,Foden,32.854
+14:10,7,Saka,45.454
+14:10,8,Labor,127.008
+14:10,9,Antony Green,
+14:10,10,Dutton,18.254
+14:40,1,めいちゃんファンファーレ,29.163
+14:40,2,IPPON,14.490
+14:40,3,AusVotes22,65.609
+14:40,4,กลรักรุ่นพี่LIVEonWeTV,387.115
+14:40,5,auspol,118.523
+14:40,6,Labor,136.374
+14:40,7,Foden,35.609
+14:40,8,Dutton,20.766
+14:40,9,Saka,48.125
+14:40,10,Frydenberg,13.134
+15:10,1,IPPONグランプリ,18.043
+15:10,2,虹ヶ咲,61.943
+15:10,3,AusVotes22,72.064
+15:10,4,めいちゃんファンファーレ,30.170
+15:10,5,auspol,125.747
+15:10,6,Labor,140.513
+15:10,7,Foden,37.778
+15:10,8,Dutton,22.539
+15:10,9,Scott Morrison,35.565
+15:10,10,Saka,48.229
+15:40,1,虹ヶ咲,114.845
+15:40,2,IPPONグランプリ,23.742
+15:40,3,AusVotes22,76.143
+15:40,4,goLOUD,13.695
+15:40,5,トキラン,
+15:40,6,めいちゃんファンファーレ,30.765
+15:40,7,Mbappe,423.514
+15:40,8,Foden,40.746
+15:40,9,Labor,148.214
+15:40,10,TOKIMEKI Runners,
+16:10,1,虹ヶ咲,132.219
+16:10,2,Mbappe,500.963
+16:10,3,JO1との思い出,42.071
+16:10,4,IPPONグランプリ,31.131
+16:10,5,Madrid,512.840
+16:10,6,AusVotes22,79.998
+16:10,7,Venue101,26.502
+16:10,8,トキラン,10.260
+16:10,9,TOKIMEKI Runners,
+16:10,10,Foden,42.660
+16:40,1,Mbappe,601.039
+16:40,2,JO1との思い出,173.484
+16:40,3,Madrid,574.424
+16:40,4,虹ヶ咲,140.664
+16:40,5,IPPONグランプリ,32.563
+16:40,6,SixTONESANN,23.539
+16:40,7,Venue101,80.817
+16:40,8,トキラン,11.753
+16:40,9,Florentino,85.497
+16:40,10,Sunderland,20.089
+17:10,1,Mbappe,657.650
+17:10,2,SixTONESANN,100.640
+17:10,3,Madrid,602.567
+17:10,4,ColorfulSuhoDay,76.987
+17:10,5,끝없이_다채로운_수호데이,74.694
+17:10,6,JO1との思い出,191.467
+17:10,7,SpanishGP,93.051
+17:10,8,YOSHIKIさん,16.920
+17:10,9,Leclerc,36.021
+17:10,10,Mick,18.846
+17:40,1,Mbappe,734.950
+17:40,2,ColorfulSuhoDay,149.142
+17:40,3,SixTONESANN,162.842
+17:40,4,끝없이_다채로운_수호데이,144.893
+17:40,5,Madrid,653.370
+17:40,6,YOSHIKIさん,38.669
+17:40,7,JO1との思い出,200.438
+17:40,8,SpanishGP,106.927
+17:40,9,Leclerc,48.925
+17:40,10,Haaland,66.916
+18:10,1,Mbappe,771.796
+18:10,2,ColorfulSuhoDay,184.865
+18:10,3,Madrid,667.052
+18:10,4,끝없이_다채로운_수호데이,179.257
+18:10,5,SixTONESANN,196.951
+18:10,6,KinnPorscheEP7,179.276
+18:10,7,Sunderland,30.219
+18:10,8,YOSHIKIさん,46.850
+18:10,9,SpanishGP,99.182
+18:10,10,Leclerc,50.998
+18:40,1,Mbappe,842.945
+18:40,2,Madrid,719.829
+18:40,3,ColorfulSuhoDay,206.206
+18:40,4,KinnPorscheEP7,383.066
+18:40,5,끝없이_다채로운_수호데이,198.785
+18:40,6,SixTONESANN,199.545
+18:40,7,Sunderland,31.833
+18:40,8,YOSHIKIさん,49.095
+18:40,9,SpanishGP,103.243
+18:40,10,Leclerc,53.900
+19:10,1,KinnPorscheEP7,624.103
+19:10,2,Mbappe,872.091
+19:10,3,Madrid,732.128
+19:10,4,ColorfulSuhoDay,217.657
+19:10,5,끝없이_다채로운_수호데이,209.755
+19:10,6,SixTONESANN,200.489
+19:10,7,Sunderland,33.609
+19:10,8,MilletinSesiMaltepede,54.220
+19:10,9,Champions,201.479
+19:10,10,YOSHIKIさん,49.757
+19:40,1,KinnPorscheEP7,739.480
+19:40,2,Mbappe,920.370
+19:40,3,Madrid,763.030
+19:40,4,ColorfulSuhoDay,225.487
+19:40,5,끝없이_다채로운_수호데이,216.381
+19:40,6,UWCLfinal,32.504
+19:40,7,Lyon,37.247
+19:40,8,Sunderland,34.904
+19:40,9,SixTONESANN,201.178
+19:40,10,Champions,211.470
+20:10,1,KinnPorscheEP7,831.215
+20:10,2,Mbappe,943.443
+20:10,3,Madrid,768.148
+20:10,4,MIvsDC,37.917
+20:10,5,UWCLfinal,38.412
+20:10,6,ColorfulSuhoDay,230.750
+20:10,7,끝없이_다채로운_수호데이,220.913
+20:10,8,Lyon,42.764
+20:10,9,Tim David,11.814
+20:10,10,Sunderland,35.624
+20:40,1,KinnPorscheEP7,971.374
+20:40,2,Mbappe,980.358
+20:40,3,Madrid,794.918
+20:40,4,MIvsDC,46.063
+20:40,5,UWCLfinal,42.991
+20:40,6,DFBPokal,
+20:40,7,ColorfulSuhoDay,234.739
+20:40,8,Lyon,48.007
+20:40,9,Tim David,18.394
+20:40,10,Champions,220.955
+21:10,1,AnadoluEfes,19.912
+21:10,2,KinnPorscheEP7,1.065.168
+21:10,3,EuroLeague,22.969
+21:10,4,Mbappe,1.048.678
+21:10,5,Madrid,812.630
+21:10,6,UWCLfinal,48.863
+21:10,7,F4GLORY,22.391
+21:10,8,Ergin Ataman,14.806
+21:10,9,Lyon,58.779
+21:10,10,Champions,231.350
+21:40,1,AnadoluEfes,27.795
+21:40,2,Mbappe,1.141.382
+21:40,3,Madrid,864.055
+21:40,4,EuroLeague,29.324
+21:40,5,KinnPorscheEP7,1.123.862
+21:40,6,UWCLfinal,53.877
+21:40,7,Ergin Ataman,20.881
+21:40,8,DFBPokal,
+21:40,9,Lyon,67.034
+21:40,10,La Liga,53.357
+22:10,1,AnadoluEfes,31.849
+22:10,2,Mbappe,1.193.618
+22:10,3,Madrid,895.466
+22:10,4,EuroLeague,32.320
+22:10,5,KinnPorscheEP7,1.157.345
+22:10,6,SCFRBL,10.499
+22:10,7,DFBPokal,10.430
+22:10,8,Ergin Ataman,23.749
+22:10,9,La Liga,130.077
+22:10,10,Lyon,70.017
+22:40,1,AnadoluEfes,35.004
+22:40,2,Mbappe,1.248.322
+22:40,3,Madrid,937.267
+22:40,4,EuroLeague,34.221
+22:40,5,KinnPorscheEP7,1.166.861
+22:40,6,SCFRBL,12.757
+22:40,7,Di Maria,61.408
+22:40,8,DFBPokal,11.847
+22:40,9,Ergin Ataman,25.861
+22:40,10,La Liga,136.563
+23:10,1,AnadoluEfes,37.113
+23:10,2,SCFRBL,17.643
+23:10,3,Madrid,937.884
+23:10,4,Mbappe,1.247.620
+23:10,5,DFBPokal,15.958
+23:10,6,Di Maria,69.978
+23:10,7,KinnPorscheEP7,1.175.456
+23:10,8,EuroLeague,35.616
+23:10,9,Lens,44.218
+23:10,10,Freiburg,15.626
+23:40,1,AnadoluEfes,38.499
+23:40,2,SCFRBL,19.138
+23:40,3,Madrid,965.781
+23:40,4,Mbappe,1.297.707
+23:40,5,DFBPokal,17.593
+23:40,6,Goiás,18.921
+23:40,7,OMRCSA,22.661
+23:40,8,Di Maria,77.553
+23:40,9,KinnPorscheEP7,1.197.578
+23:40,10,Lens,48.497

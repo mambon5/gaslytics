@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Real Madrid,215.560
+00:10,2,LOTTIE,17.137
+00:10,3,Benzema,132.536
+00:10,4,Casemiro,23.420
+00:10,5,SuperCup,108.115
+00:10,6,ErdenTimuruYedirmeyiz,77.787
+00:10,7,PekinExpress,
+00:10,8,ريال_مدريد_فرانكفورت,15.370
+00:10,9,Alaba,39.100
+00:10,10,iyikivarsınEren,
+00:40,1,Real Madrid,225.825
+00:40,2,lottie,18.823
+00:40,3,Benzema,141.429
+00:40,4,Casemiro,26.184
+00:40,5,SuperCup,114.994
+00:40,6,ErdenTimuruYedirmeyiz,79.610
+00:40,7,PekinExpress,
+00:40,8,ريال_مدريد_فرانكفورت,15.267
+00:40,9,iyikivarsınEren,
+00:40,10,Alaba,40.427
+01:10,1,Real Madrid,231.497
+01:10,2,lottie,20.002
+01:10,3,Benzema,148.871
+01:10,4,HarshRealityNosis,
+01:10,5,Casemiro,27.579
+01:10,6,SuperCup,118.863
+01:10,7,ErdenTimuruYedirmeyiz,81.073
+01:10,8,サンボマスター,
+01:10,9,BayiGram Digital,
+01:10,10,Abreu,
+01:40,1,Igor Vinicius,
+01:40,2,lottie,20.962
+01:40,3,Real Madrid,237.150
+01:40,4,HarshRealityNosis,
+01:40,5,ラヴィット,22.269
+01:40,6,サンボマスター,
+01:40,7,Benzema,154.194
+01:40,8,山の日,37.651
+01:40,9,Casemiro,29.060
+01:40,10,SuperCup,122.267
+02:10,1,AEWDynamite,11.236
+02:10,2,Igor Vinicius,
+02:10,3,ラヴィット,21.390
+02:10,4,HarshRealityNosis,
+02:10,5,lottie,21.621
+02:10,6,山の日,43.701
+02:10,7,Ceará,19.929
+02:10,8,Real Madrid,239.177
+02:10,9,サンボマスター,
+02:10,10,Wellington,
+02:40,1,AEWDynamite,21.226
+02:40,2,Igor Gomes,
+02:40,3,Ceará,28.554
+02:40,4,Ceará,28.554
+02:40,5,Vina,15.666
+02:40,6,Igor Vinicius,
+02:40,7,Calleri,
+02:40,8,Zeballos,
+02:40,9,山の日,48.935
+02:40,10,ラヴィット,23.812
+03:10,1,Danilo,19.631
+03:10,2,AEWDynamite,32.073
+03:10,3,Ceará,31.461
+03:10,4,RHOBH,
+03:10,5,Igor Gomes,
+03:10,6,Vina,18.453
+03:10,7,Zeballos,
+03:10,8,Zaracho,
+03:10,9,山の日,54.293
+03:10,10,Igor Vinicius,
+03:40,1,Danilo,24.871
+03:40,2,AEWDynamite,42.654
+03:40,3,RHOBH,10.459
+03:40,4,Ceará,33.168
+03:40,5,Thiaguinho20Anos,
+03:40,6,ClubFridayxซีพฤกษ์,22.749
+03:40,7,Igor Gomes,
+03:40,8,NFTiff,12.683
+03:40,9,Vina,19.809
+03:40,10,Zaracho,
+04:10,1,AEWDynamite,57.816
+04:10,2,Danilo,25.318
+04:10,3,Thiaguinho20Anos,
+04:10,4,ClubFridayxซีพฤกษ์,75.965
+04:10,5,RHOBH,11.442
+04:10,6,SistasOnBET,
+04:10,7,Ceará,33.525
+04:10,8,Zaracho,
+04:10,9,Arana,11.026
+04:10,10,Jericho,
+04:40,1,Vargas,29.599
+04:40,2,Hulk,33.908
+04:40,3,AEWDynamite,62.443
+04:40,4,Danilo,26.818
+04:40,5,Atlético,72.365
+04:40,6,Scarpa,10.694
+04:40,7,Thiaguinho20Anos,
+04:40,8,Weverton,
+04:40,9,ClubFridayxซีพฤกษ์,131.652
+04:40,10,RHOBH,12.806
+05:10,1,Atlético,127.645
+05:10,2,Vargas,35.315
+05:10,3,Hulk,43.005
+05:10,4,Weverton,13.554
+05:10,5,Rubens,12.074
+05:10,6,Abel Ferreira,14.061
+05:10,7,AEWDynamite,64.794
+05:10,8,Danilo,27.809
+05:10,9,Cuca,14.103
+05:10,10,Scarpa,11.719
+05:40,1,Atlético,140.088
+05:40,2,Vargas,38.396
+05:40,3,Hulk,45.684
+05:40,4,Weverton,15.906
+05:40,5,Rubens,13.969
+05:40,6,Abel Ferreira,19.497
+05:40,7,Cuca,17.131
+05:40,8,AEWDynamite,66.584
+05:40,9,Danilo,28.584
+05:40,10,Scarpa,12.496
+06:10,1,Atlético,144.310
+06:10,2,Vargas,39.027
+06:10,3,Hulk,45.888
+06:10,4,Weverton,16.915
+06:10,5,Rubens,14.480
+06:10,6,Abel Ferreira,22.553
+06:10,7,Cuca,18.366
+06:10,8,AEWDynamite,67.637
+06:10,9,RakshaBandhan,110.633
+06:10,10,Danilo,28.899
+06:40,1,Atlético,146.878
+06:40,2,Vargas,39.783
+06:40,3,Hulk,46.383
+06:40,4,Weverton,17.497
+06:40,5,RakshaBandhan,121.595
+06:40,6,Abel Ferreira,24.211
+06:40,7,Rubens,14.717
+06:40,8,Cuca,19.022
+06:40,9,Beto,80.786
+06:40,10,AEWDynamite,68.995
+07:10,1,Atlético,147.799
+07:10,2,RakshaBandhan,130.755
+07:10,3,Vargas,39.995
+07:10,4,Hulk,46.181
+07:10,5,Weverton,17.735
+07:10,6,Abel Ferreira,25.116
+07:10,7,Cuca,19.185
+07:10,8,Rubens,14.794
+07:10,9,LOrealNewExOilxNunew,30.234
+07:10,10,Beto,86.288
+07:40,1,RakshaBandhan,140.582
+07:40,2,Atlético,148.673
+07:40,3,Vargas,40.440
+07:40,4,Hulk,46.462
+07:40,5,LOrealNewExOilxNunew,61.849
+07:40,6,Rakhi,14.922
+07:40,7,Weverton,17.889
+07:40,8,Beto,91.328
+07:40,9,Cuca,19.374
+07:40,10,Rubens,14.898
+08:10,1,rakshabandhan,149.605
+08:10,2,Atlético,149.009
+08:10,3,Rakhi,16.646
+08:10,4,LOrealNewExOilxNunew,93.428
+08:10,5,Vargas,40.460
+08:10,6,RTAinJapan,41.114
+08:10,7,Hulk,46.157
+08:10,8,Weverton,17.975
+08:10,9,Beto,94.589
+08:10,10,山の日,100.063
+08:40,1,RakshaBandhan,160.619
+08:40,2,rakhi,18.195
+08:40,3,Atlético,149.395
+08:40,4,LOrealNewExOilxNunew,114.728
+08:40,5,RTAinJapan,44.106
+08:40,6,Beto,97.811
+08:40,7,Vargas,40.682
+08:40,8,メルカリで見つけた懐かしいもの,
+08:40,9,Hulk,46.373
+08:40,10,Weverton,18.024
+09:10,1,RakshaBandhan,170.519
+09:10,2,iyikivarsınEren,
+09:10,3,rakhi,19.352
+09:10,4,メルカリで見つけた懐かしいもの,
+09:10,5,LOrealNewExOilxNunew,125.204
+09:10,6,Atlético,149.404
+09:10,7,Beto,99.814
+09:10,8,Vargas,40.723
+09:10,9,声優被り,
+09:10,10,Rubens,14.900
+09:40,1,RakshaBandhan,182.062
+09:40,2,iyikivarsınEren,
+09:40,3,rakhi,20.492
+09:40,4,LaalSinghChaddhaReview,23.498
+09:40,5,メルカリで見つけた懐かしいもの,
+09:40,6,勝利くん,20.988
+09:40,7,声優被り,
+09:40,8,Beto,101.864
+09:40,9,Atlético,149.783
+09:40,10,Weverton,18.079
+10:10,1,RakshaBandhan,192.509
+10:10,2,iyikivarsınEren,12.157
+10:10,3,LaalSinghChaddhaReview,36.674
+10:10,4,滑稽新聞氏の凍結に抗議します,21.786
+10:10,5,メルカリで見つけた懐かしいもの,
+10:10,6,おりほー,
+10:10,7,勝利くん,22.256
+10:10,8,Tommy Lee,
+10:10,9,バ場適性,
+10:10,10,声優被り,
+10:40,1,RakshaBandhan,205.417
+10:40,2,iyikivarsınEren,15.441
+10:40,3,LaalSinghChaddhaReview,45.128
+10:40,4,滑稽新聞氏の凍結に抗議します,26.446
+10:40,5,メルカリで見つけた懐かしいもの,
+10:40,6,Tommy Lee,
+10:40,7,おりほー,
+10:40,8,バ場適性,
+10:40,9,勝利くん,23.344
+10:40,10,距離適性,
+11:10,1,iyikivarsınEren,19.299
+11:10,2,RakshaBandhan,213.907
+11:10,3,LaalSinghChaddhaReview,50.773
+11:10,4,滑稽新聞氏の凍結に抗議します,31.042
+11:10,5,FerhatGedik,
+11:10,6,Tommy Lee,
+11:10,7,バ場適性,
+11:10,8,カービィフェス,20.208
+11:10,9,おりほー,
+11:10,10,距離適性,
+11:40,1,iyikivarsınEren,22.743
+11:40,2,RakshaBandhan,223.736
+11:40,3,Kirby30thFest,14.135
+11:40,4,滑稽新聞氏の凍結に抗議します,34.368
+11:40,5,カービィフェス,
+11:40,6,Tommy Lee,
+11:40,7,バ場適性,
+11:40,8,距離適性,
+11:40,9,固有スキル,
+11:40,10,成長補正,
+12:10,1,iyikivarsınEren,26.863
+12:10,2,RakshaBandhan,230.473
+12:10,3,Kirby30thFest,17.329
+12:10,4,LaalSinghChaddhaReview,63.717
+12:10,5,SixTONESパリピ1000万回,
+12:10,6,Tommy Lee,
+12:10,7,Meteor,16.033
+12:10,8,バ場適性,
+12:10,9,距離適性,
+12:10,10,マイクラRTA,
+12:40,1,iyikivarsınEren,31.229
+12:40,2,アニカビ,
+12:40,3,WESTube生配信,20.740
+12:40,4,Kirby30thFest,22.934
+12:40,5,ぐるナイ,13.103
+12:40,6,RakshaBandhan,238.982
+12:40,7,Tommy Lee,
+12:40,8,カービィ,53.306
+12:40,9,Meteor,20.642
+12:40,10,ITZY SNEAKERS 2ND WIN,
+13:10,1,iyikivarsınEren,34.631
+13:10,2,アニカビ,10.571
+13:10,3,WESTube生配信,22.239
+13:10,4,ぐるナイ,16.305
+13:10,5,Kirby30thFest,26.731
+13:10,6,横浜優勝,
+13:10,7,SNEAKERS_2ndWin,
+13:10,8,Tommy Lee,
+13:10,9,カービィ,65.050
+13:10,10,ハマスタ11連勝,
+13:40,1,ぐるナイ,28.433
+13:40,2,Kirby30thFest,32.672
+13:40,3,アニカビ,16.207
+13:40,4,iyikivarsınEren,37.057
+13:40,5,カービィ,83.349
+13:40,6,WESTube生配信,23.282
+13:40,7,横浜優勝,
+13:40,8,SNEAKERS_2ndWin,10.746
+13:40,9,Tommy Lee,
+13:40,10,バンバンッ,
+14:10,1,ぐるナイ,36.870
+14:10,2,Kirby30thFest,34.896
+14:10,3,素のまんま,10.641
+14:10,4,アニカビ,21.044
+14:10,5,ドラマアイドル,11.677
+14:10,6,湊あくあ4周年記念,
+14:10,7,カービィ,97.043
+14:10,8,横浜優勝,
+14:10,9,Tommy Lee,
+14:10,10,バンバンッ,
+14:40,1,ぐるナイ,38.600
+14:40,2,素のまんま,30.980
+14:40,3,TraceTrace,56.515
+14:40,4,湊あくあ4周年記念,18.802
+14:40,5,KingandPrince,65.873
+14:40,6,アニカビ,25.167
+14:40,7,カービィ,111.171
+14:40,8,環境破壊,10.978
+14:40,9,Tommy Lee,
+14:40,10,バンバンッ,
+15:10,1,湊あくあ4周年記念,29.247
+15:10,2,TraceTrace,69.152
+15:10,3,素のまんま,33.786
+15:10,4,ぐるナイ,39.506
+15:10,5,KingandPrince,77.606
+15:10,6,アニカビ,28.324
+15:10,7,HEART ATTACK ON HDARMY,48.315
+15:10,8,カービィ,118.422
+15:10,9,環境破壊,12.431
+15:10,10,Tommy Lee,
+15:40,1,湊あくあ4周年記念,37.867
+15:40,2,TraceTrace,79.718
+15:40,3,Küfe Bodrum,
+15:40,4,純愛ディソナンス,24.253
+15:40,5,HEART ATTACK ON HDARMY,76.327
+15:40,6,素のまんま,34.997
+15:40,7,KingandPrince,88.696
+15:40,8,アニカビ,30.566
+15:40,9,D-16 HIH ALL ACCESS,26.454
+15:40,10,カービィ,124.395
+16:10,1,純愛ディソナンス,32.624
+16:10,2,HEART ATTACK ON HDARMY,94.232
+16:10,3,TraceTrace,83.246
+16:10,4,湊あくあ4周年記念,40.615
+16:10,5,WhereYouAtSB19,36.458
+16:10,6,Küfe Bodrum,
+16:10,7,KingandPrince,91.950
+16:10,8,アニカビ,32.430
+16:10,9,Tommy Lee,
+16:10,10,BOLSONARO SAI DEMOCRACIA FICA,12.987
+16:40,1,รักนะมายนายรอยยิ้ม,79.209
+16:40,2,純愛ディソナンス,34.464
+16:40,3,HEART ATTACK ON HDARMY,103.241
+16:40,4,TraceTrace,87.859
+16:40,5,WhereYouAtSB19,54.270
+16:40,6,湊あくあ4周年記念,42.029
+16:40,7,Küfe Bodrum,
+16:40,8,Tommy Lee,
+16:40,9,BOLSONARO SAI DEMOCRACIA FICA,15.203
+16:40,10,アニカビ,33.937
+17:10,1,コレコレ,28.710
+17:10,2,รักนะมายนายรอยยิ้ม,122.151
+17:10,3,JEON JUNGKOOK,14.468
+17:10,4,VAMPIRE JUNGKOOK,
+17:10,5,TechnomixGrevde,
+17:10,6,純愛ディソナンス,34.707
+17:10,7,Editor_JK,83.235
+17:10,8,HEART ATTACK ON HDARMY,103.620
+17:10,9,VAMPIRE JK,
+17:10,10,BOLSONARO SAI DEMOCRACIA FICA,18.238
+17:40,1,JEON JUNGKOOK,43.404
+17:40,2,コレコレ,36.505
+17:40,3,Editor_JK,182.660
+17:40,4,รักนะมายนายรอยยิ้ม,145.487
+17:40,5,Photo_Folio,180.259
+17:40,6,純愛ディソナンス,35.605
+17:40,7,heart attack on hdarmy,105.004
+17:40,8,VAMPIRE JK,13.007
+17:40,9,küfe bodrum,
+17:40,10,BOLSONARO SAI DEMOCRACIA FICA,22.264
+18:10,1,JEON JUNGKOOK,63.936
+18:10,2,Editor_JK,236.372
+18:10,3,Photo_Folio,232.292
+18:10,4,BFis,16.347
+18:10,5,รักนะมายนายรอยยิ้ม,159.516
+18:10,6,コレコレ,37.788
+18:10,7,Vampire JK,19.016
+18:10,8,James White,
+18:10,9,HEART ATTACK ON HDARMY,105.494
+18:10,10,BOLSONARO SAI DEMOCRACIA FICA,25.908
+18:40,1,JEON JUNGKOOK,74.622
+18:40,2,Editor_JK,269.796
+18:40,3,Photo_Folio,263.535
+18:40,4,BFis,18.534
+18:40,5,รักนะมายนายรอยยิ้ม,167.144
+18:40,6,コレコレ,38.441
+18:40,7,James White,11.568
+18:40,8,VAMPIRE JK,23.216
+18:40,9,第203回,
+18:40,10,BOLSONARO SAI DEMOCRACIA FICA,29.088
+19:10,1,JEON JUNGKOOK,80.940
+19:10,2,Editor_JK,292.363
+19:10,3,Photo_Folio,284.845
+19:10,4,BFis,19.649
+19:10,5,รักนะมายนายรอยยิ้ม,173.655
+19:10,6,James White,12.850
+19:10,7,コレコレ,38.837
+19:10,8,VAMPIRE JK,26.036
+19:10,9,第203回,
+19:10,10,BOLSONARO SAI DEMOCRACIA FICA,32.143
+19:40,1,jungkook,687.017
+19:40,2,Editor_JK,309.073
+19:40,3,WE LOVE YOU LOUIS,24.292
+19:40,4,YeterArtık SesVerMeb,
+19:40,5,Photo_Folio,300.416
+19:40,6,BFis,20.255
+19:40,7,รักนะมายนายรอยยิ้ม,179.678
+19:40,8,James White,13.844
+19:40,9,MaquillarParaAprobar,
+19:40,10,Chabelita,
+20:10,1,jungkook,695.633
+20:10,2,zeytinlifestivaliYASAKLANSIN,
+20:10,3,WE LOVE YOU LOUIS,33.577
+20:10,4,Editor_JK,321.909
+20:10,5,SLVvFB,
+20:10,6,YeterArtık SesVerMeb,
+20:10,7,Chabelita,
+20:10,8,Photo_Folio,312.760
+20:10,9,sonsözüm,31.225
+20:10,10,Lemos,
+20:40,1,Rashford,31.341
+20:40,2,jungkook,719.754
+20:40,3,WE LOVE YOU LOUIS,39.990
+20:40,4,SLVvFB,
+20:40,5,sonsözüm,37.565
+20:40,6,zeytinlifestivaliYASAKLANSIN,
+20:40,7,Rossi,16.065
+20:40,8,Editor_JK,332.269
+20:40,9,YeterArtık SesVerMeb,
+20:40,10,Chabelita,
+21:10,1,Rashford,36.621
+21:10,2,SLVvFB,
+21:10,3,Rossi,18.548
+21:10,4,WE LOVE YOU LOUIS,45.286
+21:10,5,jungkook,728.092
+21:10,6,sonsözüm,44.915
+21:10,7,TRAUMAZINE,16.251
+21:10,8,Merrick Garland,87.352
+21:10,9,zeytinlifestivaliYASAKLANSIN,
+21:10,10,Chabelita,
+21:40,1,Merrick Garland,143.006
+21:40,2,Rashford,41.456
+21:40,3,SLVvFB,
+21:40,4,Rossi,19.713
+21:40,5,WE LOVE YOU LOUIS,49.188
+21:40,6,sonsözüm,52.045
+21:40,7,jungkook,748.159
+21:40,8,TRAUMAZINE,17.422
+21:40,9,DragRaceFrance,
+21:40,10,zeytinlifestivaliYASAKLANSIN,
+22:10,1,Merrick Garland,175.594
+22:10,2,Rashford,44.712
+22:10,3,sonsözüm,61.743
+22:10,4,WE LOVE YOU LOUIS,53.476
+22:10,5,SLVvFB,
+22:10,6,Rossi,19.522
+22:10,7,TRAUMAZINE,18.317
+22:10,8,jungkook,755.454
+22:10,9,DragRaceFrance,
+22:10,10,GelsinHayatBildiğiGibi,10.589
+22:40,1,Garland,386.454
+22:40,2,LPOVIK,
+22:40,3,Red Rocks,
+22:40,4,Rashford,47.963
+22:40,5,WE LOVE YOU LOUIS,59.149
+22:40,6,sonsözüm,70.264
+22:40,7,Dundee United,
+22:40,8,goFRA,19.313
+22:40,9,SLVvFB,
+22:40,10,DragRaceFrance,
+23:10,1,Garland,425.294
+23:10,2,Red Rocks,
+23:10,3,LPOVIK,
+23:10,4,WE LOVE YOU LOUIS,64.714
+23:10,5,DuyBeni,87.930
+23:10,6,Rashford,50.954
+23:10,7,sonsözüm,77.751
+23:10,8,Ambulance,
+23:10,9,goFRA,25.240
+23:10,10,Dundee United,
+23:40,1,Garland,463.990
+23:40,2,Red Rocks,
+23:40,3,NICKI DAY,21.865
+23:40,4,WE LOVE YOU LOUIS,70.624
+23:40,5,LPOVIK,
+23:40,6,DuyBeni,92.091
+23:40,7,goFRA,29.368
+23:40,8,Rashford,52.933
+23:40,9,Ambulance,
+23:40,10,sonsözüm,80.609

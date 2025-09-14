@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Paulo Victor,50.094
+00:09,2,Renato,64.587
+00:09,3,8MartDünyaKadınlarGünü,110.338
+00:09,4,gremio,195.821
+00:09,5,Felipe Melo,11.597
+00:09,6,BTSGrammyPerformers,370.714
+00:09,7,Wesley,28.685
+00:09,8,Copa do Brasil,44.705
+00:09,9,Thaciano,27.700
+00:09,10,CRFCOM,36.679
+00:39,1,Paulo Victor,53.752
+00:39,2,Renato,71.437
+00:39,3,8MartDünyaKadınlarGünü,114.683
+00:39,4,gremio,213.411
+00:39,5,Felipe Melo,14.843
+00:39,6,BTSGrammyPerformers,394.054
+00:39,7,AllTogetherNow,30.894
+00:39,8,Copa do Brasil,58.582
+00:39,9,Wesley,29.676
+00:39,10,Thaciano,28.430
+01:09,1,Paulo Victor,55.495
+01:09,2,Renato,73.722
+01:09,3,8MartDünyaKadınlarGünü,117.705
+01:09,4,gremio,220.964
+01:09,5,NBAAllStar,74.739
+01:09,6,Sabonis,
+01:09,7,Felipe Melo,16.411
+01:09,8,BTSGrammyPerformers,418.989
+01:09,9,Copa do Brasil,66.224
+01:09,10,AllTogetherNow,33.235
+01:39,1,Paulo Victor,56.623
+01:39,2,Renato,75.709
+01:39,3,NBAAllStar,86.489
+01:39,4,8MartDünyaKadınlarGünü,119.633
+01:39,5,Curry,45.806
+01:39,6,Sabonis,13.604
+01:39,7,BTSGrammyPerformers,444.806
+01:39,8,gremio,226.828
+01:39,9,AEWRevolution,31.391
+01:39,10,PancadaoDoDoria,17.252
+02:09,1,Steph,109.238
+02:09,2,NBAAllStar,122.778
+02:09,3,Cardona,18.008
+02:09,4,AEWRevolution,44.688
+02:09,5,Paulo Victor,57.520
+02:09,6,Conley,23.381
+02:09,7,Renato,76.446
+02:09,8,8MartDünyaKadınlarGünü,120.828
+02:09,9,OprahMeghanHarry,34.113
+02:09,10,Tatum,16.496
+02:39,1,Steph,125.409
+02:39,2,NBAAllStar,150.361
+02:39,3,OprahMeghanHarry,76.216
+02:39,4,AEWRevolution,56.084
+02:39,5,Cardona,23.382
+02:39,6,Lebron,89.845
+02:39,7,Paulo Victor,58.084
+02:39,8,Conley,25.116
+02:39,9,Kate,73.442
+02:39,10,Renato,78.081
+03:09,1,OprahMeghanHarry,160.133
+03:09,2,Curry,184.784
+03:09,3,NBAAllStar,176.557
+03:09,4,Lebron,108.877
+03:09,5,AEWRevolution,69.926
+03:09,6,Zion,43.679
+03:09,7,Cardona,27.385
+03:09,8,Archie,47.210
+03:09,9,Kate,85.962
+03:09,10,Kyrie,28.992
+03:39,1,Steph,227.955
+03:39,2,OprahMeghanHarry,247.209
+03:39,3,NBAAllStar,214.688
+03:39,4,Juliette,1.032.905
+03:39,5,Lebron,132.046
+03:39,6,AEWRevolution,81.880
+03:39,7,Lillard,30.801
+03:39,8,Zion,47.300
+03:39,9,Charles,94.949
+03:39,10,Cardona,34.323
+04:09,1,João,441.492
+04:09,2,juliette,1.212.936
+04:09,3,Caio,253.824
+04:09,4,Pocah,214.902
+04:09,5,OprahMeghanHarry,327.627
+04:09,6,Steph,247.372
+04:09,7,NBAAllStar,241.612
+04:09,8,Rodolfo,67.928
+04:09,9,BBBB21,18.141
+04:09,10,Lebron,140.022
+04:39,1,João,643.338
+04:39,2,Caio,334.375
+04:39,3,Juliette,1.285.539
+04:39,4,Meghan,669.054
+04:39,5,Pocah,238.884
+04:39,6,Steph,260.938
+04:39,7,NBAAllStar,257.173
+04:39,8,Rodolfo,84.802
+04:39,9,AEWRevolution,117.610
+04:39,10,BBBB21,23.105
+05:09,1,João,698.731
+05:09,2,Caio,349.565
+05:09,3,Juliette,1.325.355
+05:09,4,Meghan,730.841
+05:09,5,NBAAllStar,282.941
+05:09,6,Steph,280.728
+05:09,7,Steph,280.728
+05:09,8,Pocah,250.100
+05:09,9,AEWRevolution,140.852
+05:09,10,Projota,423.793
+05:39,1,João,722.019
+05:39,2,Caio,357.961
+05:39,3,Juliette,1.343.098
+05:39,4,Meghan,781.407
+05:39,5,NBAAllStar,297.549
+05:39,6,Steph,290.623
+05:39,7,Steph,290.623
+05:39,8,Pocah,254.867
+05:39,9,AEWRevolution,158.927
+05:39,10,InternationalWomensDay,245.883
+06:09,1,João,731.873
+06:09,2,Caio,359.399
+06:09,3,Meghan,823.241
+06:09,4,Juliette,1.341.846
+06:09,5,AEWRevolution,187.196
+06:09,6,InternationalWomensDay,279.012
+06:09,7,NBAAllStar,304.467
+06:09,8,Steph,297.883
+06:09,9,Steph,297.883
+06:09,10,Pocah,257.885
+06:39,1,João,739.265
+06:39,2,Meghan,861.000
+06:39,3,InternationalWomensDay,315.897
+06:39,4,Caio,362.918
+06:39,5,Juliette,1.348.579
+06:39,6,AEWRevolution,195.668
+06:39,7,Steph,303.855
+06:39,8,NBAAllStar,310.687
+06:39,9,Pocah,260.256
+06:39,10,Dame,175.882
+07:09,1,João,741.656
+07:09,2,InternationalWomensDay,364.755
+07:09,3,Meghan,893.632
+07:09,4,Caio,359.117
+07:09,5,AEWRevolution,199.272
+07:09,6,Juliette,1.337.233
+07:09,7,Steph,307.952
+07:09,8,NBAAllStar,315.863
+07:09,9,Pocah,261.168
+07:09,10,Projota,446.936
+07:39,1,InternationalWomensDay,414.073
+07:39,2,João,745.547
+07:39,3,Meghan,925.196
+07:39,4,Caio,361.593
+07:39,5,8MartDünyaKadınlarGünü,172.535
+07:39,6,AEWRevolution,201.758
+07:39,7,Juliette,1.341.872
+07:39,8,IWD2021,239.805
+07:39,9,womenpower,25.891
+07:39,10,ネタバレ,247.775
+08:09,1,InternationalWomensDay,463.204
+08:09,2,João,746.328
+08:09,3,Meghan,952.378
+08:09,4,8MartDünyaKadınlarGünü,189.413
+08:09,5,IWD2021,256.293
+08:09,6,Caio,356.814
+08:09,7,womenpower,30.294
+08:09,8,8M2021,382.598
+08:09,9,ネタバレ,254.413
+08:09,10,Diana,293.569
+08:39,1,InternationalWomensDay,514.003
+08:39,2,8MartDünyaKadınlarGünü,207.426
+08:39,3,João,748.355
+08:39,4,IWD2021,277.685
+08:39,5,Meghan,985.343
+08:39,6,8M2021,402.032
+08:39,7,ChooseToChallenge,91.574
+08:39,8,コミケ延期,
+08:39,9,ネタバレ,264.332
+08:39,10,Caio,357.934
+09:09,1,InternationalWomensDay,567.126
+09:09,2,8MartDünyaKadınlarGünü,224.650
+09:09,3,IWD2021,298.342
+09:09,4,8M2021,418.471
+09:09,5,Meghan,1.014.998
+09:09,6,ChooseToChallenge,99.561
+09:09,7,João,749.214
+09:09,8,コミケ延期,10.710
+09:09,9,ネタバレ,272.464
+09:09,10,Diana,312.465
+09:39,1,InternationalWomensDay,626.519
+09:39,2,IWD2021,324.554
+09:39,3,8MartDünyaKadınlarGünü,243.908
+09:39,4,8M2021,444.644
+09:39,5,ChooseToChallenge,109.555
+09:39,6,Meghan,1.050.111
+09:39,7,コミケ延期,14.009
+09:39,8,ネタバレ,284.440
+09:39,9,João,749.992
+09:39,10,Piers Morgan,27.625
+10:09,1,InternationalWomensDay,687.979
+10:09,2,IWD2021,351.772
+10:09,3,8MartDünyaKadınlarGünü,260.360
+10:09,4,8M2021,465.870
+10:09,5,ChooseToChallenge,119.896
+10:09,6,Meghan,1.078.364
+10:09,7,コミケ延期,16.919
+10:09,8,Piers Morgan,34.747
+10:09,9,ネタバレ,292.201
+10:09,10,João,750.822
+10:39,1,InternationalWomensDay,755.483
+10:39,2,IWD2021,384.596
+10:39,3,8M2021,494.355
+10:39,4,ChooseToChallenge,132.054
+10:39,5,8MartDünyaKadınlarGünü,276.456
+10:39,6,Meghan,1.116.496
+10:39,7,Piers Morgan,43.505
+10:39,8,コミケ延期,19.367
+10:39,9,ネタバレ,304.120
+10:39,10,João,746.158
+11:09,1,InternationalWomensDay,820.916
+11:09,2,IWD2021,417.100
+11:09,3,8M2021,515.294
+11:09,4,ChooseToChallenge,143.882
+11:09,5,8MartDünyaKadınlarGünü,290.827
+11:09,6,Meghan,1.152.150
+11:09,7,Piers Morgan,52.453
+11:09,8,コミケ延期,21.479
+11:09,9,ネタバレ,309.950
+11:09,10,モグコレ,
+11:39,1,InternationalWomensDay,881.583
+11:39,2,IWD2021,450.159
+11:39,3,8M2021,544.130
+11:39,4,ChooseToChallenge,156.635
+11:39,5,8MartDünyaKadınlarGünü,304.873
+11:39,6,Piers Morgan,62.246
+11:39,7,Meghan,1.192.679
+11:39,8,WHERE IS RED VELVET,14.601
+11:39,9,コミケ延期,23.360
+11:39,10,ネタバレ,321.969
+12:09,1,InternationalWomensDay,950.152
+12:09,2,IWD2021,481.296
+12:09,3,8M2021,567.726
+12:09,4,ChooseToChallenge,167.818
+12:09,5,DiaInternacionalDeLaMujer,101.171
+12:09,6,Piers Morgan,71.343
+12:09,7,Meghan,1.210.114
+12:09,8,WHERE IS RED VELVET,24.639
+12:09,9,KadınınDeğerini KimAnlattı,
+12:09,10,ネタバレ,325.878
+12:39,1,InternationalWomensDay,1.012.382
+12:39,2,IWD2021,515.856
+12:39,3,8M2021,600.967
+12:39,4,ChooseToChallenge,181.515
+12:39,5,DiaInternacionalDeLaMujer,113.258
+12:39,6,Piers Morgan,80.968
+12:39,7,WHERE IS RED VELVET,33.461
+12:39,8,Meghan,1.277.250
+12:39,9,ハルウララ金策,32.745
+12:39,10,ネタバレ,339.022
+13:09,1,InternationalWomensDay,1.073.885
+13:09,2,IWD2021,544.813
+13:09,3,8M2021,627.119
+13:09,4,ChooseToChallenge,192.847
+13:09,5,DiaInternacionalDeLaMujer,125.580
+13:09,6,Piers Morgan,91.235
+13:09,7,WHERE IS RED VELVET,41.373
+13:09,8,ハルウララ金策,40.540
+13:09,9,Meghan,1.253.751
+13:09,10,ネタバレ,342.995
+13:39,1,InternationalWomensDay,1.057.620
+13:39,2,IWD2021,577.635
+13:39,3,8M2021,655.818
+13:39,4,ChooseToChallenge,205.895
+13:39,5,DiaInternacionalDeLaMujer,140.016
+13:39,6,Piers Morgan,102.686
+13:39,7,ハルウララ金策,47.473
+13:39,8,WHERE IS RED VELVET,48.838
+13:39,9,Meghan,1.331.844
+13:39,10,ネタバレ,354.146
+14:09,1,InternationalWomensDay,1.151.448
+14:09,2,IWD2021,603.991
+14:09,3,8M2021,698.515
+14:09,4,DiaInternacionalDeLaMujer,157.982
+14:09,5,ChooseToChallenge,217.116
+14:09,6,Piers Morgan,114.650
+14:09,7,ハルウララ金策,53.538
+14:09,8,Burger King,16.438
+14:09,9,WHERE IS RED VELVET,55.287
+14:09,10,Meghan,1.395.993
+14:39,1,InternationalWomensDay,1.302.211
+14:39,2,IWD2021,645.769
+14:39,3,8M2021,746.328
+14:39,4,DiaInternacionalDeLaMujer,180.138
+14:39,5,ChooseToChallenge,230.055
+14:39,6,Piers Morgan,126.443
+14:39,7,Burger King,20.610
+14:39,8,ハルウララ金策,58.885
+14:39,9,自殺行為,
+14:39,10,where is red velvet,61.107
+15:09,1,InternationalWomensDay,1.377.869
+15:09,2,IWD2021,681.040
+15:09,3,8M2021,788.868
+15:09,4,DiaInternacionalDeLaMujer,203.696
+15:09,5,ChooseToChallenge,243.539
+15:09,6,Burger King,25.954
+15:09,7,Piers Morgan,137.462
+15:09,8,ハルウララ金策,63.102
+15:09,9,KadınınDeğerini Öğretti,
+15:09,10,自殺行為,
+15:39,1,InternationalWomensDay,1.463.870
+15:39,2,IWD2021,722.060
+15:39,3,8M2021,845.545
+15:39,4,DiaInternacionalDeLaMujer,231.170
+15:39,5,ChooseToChallenge,258.845
+15:39,6,Burger King,32.060
+15:39,7,オオナズチ,
+15:39,8,Piers Morgan,148.760
+15:39,9,自殺行為,
+15:39,10,ハルウララ金策,66.952
+16:09,1,HappyBirthdayYoongi,419.695
+16:09,2,InternationalWomensDay,1.551.192
+16:09,3,HAPPYSUGADAY,621.633
+16:09,4,IWD2021,758.845
+16:09,5,8M2021,895.629
+16:09,6,Burger King,38.482
+16:09,7,オオナズチ,11.520
+16:09,8,Piers Morgan,159.412
+16:09,9,VITAMIN HAKNYEON DAY,47.181
+16:09,10,自殺行為,
+16:39,1,HappyBirthdayYoongi,881.865
+16:39,2,HAPPYSUGADAY,1.486.027
+16:39,3,InternationalWomensDay,1.639.502
+16:39,4,OurGeniusMinPD,271.378
+16:39,5,8M2021,952.933
+16:39,6,Burger King,45.269
+16:39,7,One Last Kiss,32.024
+16:39,8,オオナズチ,13.218
+16:39,9,宇多田ヒカル,32.959
+16:39,10,ON THE GROUND THIS FRIDAY,98.824
+17:09,1,HappyBirthdayYoongi,1.064.055
+17:09,2,HAPPYSUGADAY,1.843.668
+17:09,3,InternationalWomensDay,1.676.691
+17:09,4,OurGeniusMinPD,313.890
+17:09,5,8M2021,999.444
+17:09,6,hobi,195.726
+17:09,7,Burger King,53.654
+17:09,8,One Last Kiss,35.347
+17:09,9,宇多田ヒカル,35.981
+17:09,10,RESPECT ZHANG YIXING,60.552
+17:39,1,HappyBirthdayYoongi,1.171.012
+17:39,2,InternationalWomensDay,1.764.732
+17:39,3,HappyBirthdaySUGA,1.731.461
+17:39,4,OurGeniusMinPD,334.110
+17:39,5,8M2021,1.055.701
+17:39,6,hobi,222.934
+17:39,7,Burger King,62.024
+17:39,8,One Last Kiss,37.447
+17:39,9,RESPECT ZHANG YIXING,70.819
+17:39,10,宇多田ヒカル,37.795
+18:09,1,HappyBirthdayYoongi,1.241.848
+18:09,2,InternationalWomensDay,1.902.770
+18:09,3,HappyBirthdaySUGA,1.895.433
+18:09,4,8M2021,1.097.827
+18:09,5,OurGeniusMinPD,346.983
+18:09,6,hobi,230.619
+18:09,7,Burger King,70.751
+18:09,8,One Last Kiss,39.173
+18:09,9,RESPECT ZHANG YIXING,80.915
+18:09,10,Çözüm HzMehdi,
+18:39,1,HappyBirthdayYoongi,1.281.961
+18:39,2,InternationalWomensDay,1.993.455
+18:39,3,HappyBirthdaySUGA,1.993.365
+18:39,4,8M2021,1.149.605
+18:39,5,IWD2021,961.365
+18:39,6,hobi,238.921
+18:39,7,Burger King,79.709
+18:39,8,One Last Kiss,40.264
+18:39,9,RESPECT ZHANG YIXING,88.281
+18:39,10,Avon,14.522
+19:09,1,HappyBirthdayYoongi,1.325.753
+19:09,2,InternationalWomensDay,1.973.612
+19:09,3,HappyBirthdaySUGA,1.996.908
+19:09,4,8M2021,1.162.070
+19:09,5,IWD2021,989.665
+19:09,6,Burger King,87.935
+19:09,7,hobi,238.991
+19:09,8,ZiyaHocam İliçiÖzür,
+19:09,9,Pelkas,29.388
+19:09,10,Avon,17.565
+19:39,1,InternationalWomensDay,1.600.021
+19:39,2,HappyBirthdayYoongi,1.340.845
+19:39,3,HappyBirthdaySUGA,2.114.722
+19:39,4,8M2021,1.241.424
+19:39,5,IWD2021,1.021.073
+19:39,6,Burger King,96.263
+19:39,7,Cepillín,74.454
+19:39,8,Pelkas,42.899
+19:39,9,hobi,245.706
+19:39,10,ZiyaHocam İliçiÖzür,
+20:09,1,Lula,189.598
+20:09,2,rasimoztekin,36.428
+20:09,3,InternationalWomensDay,1.269.532
+20:09,4,HappyBirthdayYoongi,1.368.141
+20:09,5,8M2021,1.274.440
+20:09,6,HappyBirthdaySUGA,2.158.123
+20:09,7,Burger King,104.012
+20:09,8,Fachin,42.887
+20:09,9,Cepillín,83.823
+20:09,10,Pelkas,50.822
+20:39,1,Lula,401.306
+20:39,2,rasimoztekin,62.977
+20:39,3,InternationalWomensDay,1.240.475
+20:39,4,HappyBirthdayYoongi,1.387.828
+20:39,5,8M2021,1.264.307
+20:39,6,Fachin,90.452
+20:39,7,HappyBirthdaySUGA,2.192.922
+20:39,8,Havertz,33.474
+20:39,9,Burger King,117.224
+20:39,10,Moro,60.846
+21:09,1,Lula,613.115
+21:09,2,rasimoztekin,76.993
+21:09,3,InternationalWomensDay,1.308.926
+21:09,4,TPMPCARLA,75.205
+21:09,5,HappyBirthdayYoongi,1.409.799
+21:09,6,Fachin,130.639
+21:09,7,CHEEVE,58.161
+21:09,8,Moro,81.547
+21:09,9,Werner,27.514
+21:09,10,Havertz,42.736
+21:39,1,Lula,784.923
+21:39,2,rasimoztekin,88.612
+21:39,3,InternationalWomensDay,2.178.495
+21:39,4,TPMPCARLA,121.508
+21:39,5,Fachin,159.337
+21:39,6,8M2021,1.394.813
+21:39,7,HappyBirthdayYoongi,1.450.389
+21:39,8,Moro,97.977
+21:39,9,Werner,31.809
+21:39,10,Ciro,54.363
+22:09,1,Lula,935.990
+22:09,2,rasimoztekin,98.020
+22:09,3,InternationalWomensDay,2.097.971
+22:09,4,TPMPCARLA,133.592
+22:09,5,Fachin,182.673
+22:09,6,Moro,112.244
+22:09,7,8M2021,1.399.060
+22:09,8,HappyBirthdayYoongi,1.477.089
+22:09,9,Ciro,58.732
+22:09,10,Werner,34.218
+22:39,1,Lula,1.060.787
+22:39,2,rasimoztekin,105.542
+22:39,3,InternationalWomensDay,2.455.901
+22:39,4,TPMPCARLA,138.611
+22:39,5,Fachin,204.175
+22:39,6,Moro,126.226
+22:39,7,8M2021,1.465.661
+22:39,8,HappyBirthdayYoongi,1.496.054
+22:39,9,Ciro,63.376
+22:39,10,Burger King,151.012
+23:09,1,Lula,1.177.378
+23:09,2,rasimoztekin,109.982
+23:09,3,InternationalWomensDay,2.555.826
+23:09,4,Fachin,224.428
+23:09,5,TPMPCARLA,141.845
+23:09,6,InterAtalanta,16.057
+23:09,7,MeghanandHarryonOprah,124.189
+23:09,8,Moro,136.378
+23:09,9,Betis,19.154
+23:09,10,Ciro,67.030
+23:39,1,Lula,1.285.979
+23:39,2,rasimoztekin,113.013
+23:39,3,InternationalWomensDay,2.608.452
+23:39,4,MeghanandHarryonOprah,140.936
+23:39,5,Fachin,243.024
+23:39,6,Moro,146.313
+23:39,7,InterAtalanta,18.524
+23:39,8,TPMPCARLA,143.950
+23:39,9,Betis,22.302
+23:39,10,Ciro,70.808

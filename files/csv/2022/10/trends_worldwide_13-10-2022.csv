@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Alex Jones,217.096
+00:10,2,Pique,191.061
+00:10,3,Barcelona,283.890
+00:10,4,Xavi,141.823
+00:10,5,Barca,300.162
+00:10,6,Europa League,104.476
+00:10,7,Lewandowski,64.432
+00:10,8,Bayern,85.887
+00:10,9,jungkook,548.615
+00:10,10,Dembele,62.142
+00:40,1,Alex Jones,240.832
+00:40,2,Pique,201.025
+00:40,3,Xavi,155.193
+00:40,4,Barcelona,297.185
+00:40,5,Barca,317.061
+00:40,6,Europa League,115.446
+00:40,7,Bayern,90.580
+00:40,8,jungkook,573.873
+00:40,9,Lewandowski,67.289
+00:40,10,Dembele,63.748
+01:10,1,Alex Jones,261.756
+01:10,2,Pique,207.320
+01:10,3,Xavi,163.791
+01:10,4,Barcelona,302.799
+01:10,5,Barca,326.593
+01:10,6,Europa League,122.432
+01:10,7,jungkook,581.747
+01:10,8,Bayern,93.154
+01:10,9,Lewandowski,68.813
+01:10,10,Sandy Hook,143.281
+01:40,1,Alex Jones,280.088
+01:40,2,Xavi,170.556
+01:40,3,Pique,212.075
+01:40,4,Barcelona,308.668
+01:40,5,Barca,334.957
+01:40,6,Europa League,127.678
+01:40,7,jungkook,606.802
+01:40,8,Sandy Hook,151.067
+01:40,9,Bayern,95.332
+01:40,10,Lewandowski,70.175
+02:10,1,Alex Jones,297.028
+02:10,2,Xavi,174.564
+02:10,3,Pique,214.824
+02:10,4,Barcelona,310.732
+02:10,5,Barca,338.693
+02:10,6,Busquets,65.759
+02:10,7,Europa League,131.046
+02:10,8,Sandy Hook,157.830
+02:10,9,jungkook,612.766
+02:10,10,PUMA_ATSUZOKO,
+02:40,1,Alex Jones,315.750
+02:40,2,AEWDynamite,21.015
+02:40,3,Xavi,178.149
+02:40,4,Corinthians,
+02:40,5,Flamengo,180.180
+02:40,6,Barcelona,314.085
+02:40,7,Pique,217.580
+02:40,8,Barca,342.915
+02:40,9,RHOBHReunion,
+02:40,10,Sandy Hook,
+03:10,1,Alex Jones,332.823
+03:10,2,AEWDynamite,30.310
+03:10,3,Corinthians,172.219
+03:10,4,Flamengo,196.291
+03:10,5,RHOBHReunion,
+03:10,6,Xavi,180.496
+03:10,7,Barcelona,315.094
+03:10,8,Pique,219.317
+03:10,9,Sandy Hook,
+03:10,10,PUMA_ATSUZOKO,10.455
+03:40,1,Flamengo,214.151
+03:40,2,Corinthians,195.104
+03:40,3,AEWDynamite,39.506
+03:40,4,Alex Jones,348.865
+03:40,5,Thiago Maia,
+03:40,6,João Gomes,17.697
+03:40,7,RHOBHReunion,
+03:40,8,AbbottElementary,
+03:40,9,Cássio,17.162
+03:40,10,Gabigol,26.252
+04:10,1,Flamengo,227.457
+04:10,2,Cássio,35.617
+04:10,3,Corinthians,211.424
+04:10,4,AEWDynamite,50.087
+04:10,5,Alex Jones,366.027
+04:10,6,João Gomes,24.555
+04:10,7,Thiago Maia,12.094
+04:10,8,Rodinei,
+04:10,9,Du Queiroz,11.736
+04:10,10,RHOBHReunion,
+04:40,1,Flamengo,249.695
+04:40,2,Corinthians,240.142
+04:40,3,Cássio,44.342
+04:40,4,AEWDynamite,53.472
+04:40,5,Alex Jones,381.153
+04:40,6,João Gomes,26.994
+04:40,7,Gabigol,30.643
+04:40,8,Thiago Maia,13.091
+04:40,9,Rodinei,
+04:40,10,Puebla,34.771
+05:10,1,Flamengo,259.338
+05:10,2,Corinthians,260.525
+05:10,3,Cássio,48.497
+05:10,4,AEWDynamite,54.576
+05:10,5,Alex Jones,396.156
+05:10,6,João Gomes,30.701
+05:10,7,Thiago Maia,15.993
+05:10,8,Maracanã,11.982
+05:10,9,David Luiz,11.123
+05:10,10,Gabigol,31.106
+05:40,1,Flamengo,271.096
+05:40,2,Corinthians,273.205
+05:40,3,ProvaDoFazendeiro,60.600
+05:40,4,Cássio,50.259
+05:40,5,CSM・CSG商品化希望,
+05:40,6,Alex Jones,409.563
+05:40,7,AEWDynamite,55.788
+05:40,8,João Gomes,32.740
+05:40,9,Tati,62.064
+05:40,10,Maracanã,14.001
+06:10,1,Flamengo,272.194
+06:10,2,Corinthians,276.758
+06:10,3,ProvaDoFazendeiro,67.535
+06:10,4,Cássio,50.712
+06:10,5,CSM・CSG商品化希望,
+06:10,6,Alex Jones,421.057
+06:10,7,Tati,64.240
+06:10,8,Dodgers,67.018
+06:10,9,João Gomes,34.396
+06:10,10,AEWDynamite,56.807
+06:40,1,Flamengo,275.601
+06:40,2,Corinthians,280.117
+06:40,3,ProvaDoFazendeiro,70.544
+06:40,4,CSM・CSG商品化希望,
+06:40,5,Dodgers,75.348
+06:40,6,Cássio,51.041
+06:40,7,Alex Jones,430.129
+06:40,8,Tati,68.219
+06:40,9,DesaBanggaBuatanIndonesia,45.621
+06:40,10,João Gomes,35.069
+07:10,1,Flamengo,275.400
+07:10,2,Corinthians,280.608
+07:10,3,CSM・CSG商品化希望,
+07:10,4,ProvaDoFazendeiro,71.714
+07:10,5,Dodgers,64.982
+07:10,6,Cássio,51.158
+07:10,7,Alex Jones,438.301
+07:10,8,DesaBanggaBuatanIndonesia,48.284
+07:10,9,Canucks,
+07:10,10,LetsGoOilers,
+07:40,1,Flamengo,276.354
+07:40,2,Corinthians,281.598
+07:40,3,CSM・CSG商品化希望,
+07:40,4,BilenKazanır 50BinTL,
+07:40,5,PAKvBAN,
+07:40,6,ProvaDoFazendeiro,72.790
+07:40,7,Dodgers,66.432
+07:40,8,Cássio,51.293
+07:40,9,Alex Jones,444.265
+07:40,10,LetsGoOilers,
+08:10,1,CSM・CSG商品化希望,
+08:10,2,PAKvBAN,
+08:10,3,Flamengo,275.972
+08:10,4,Corinthians,281.352
+08:10,5,BilenKazanır 50BinTL,
+08:10,6,モデル組,
+08:10,7,hijab,
+08:10,8,Nawaz,38.144
+08:10,9,ProvaDoFazendeiro,73.338
+08:10,10,KarwaChauth,22.443
+08:40,1,モデル組,
+08:40,2,CSM・CSG商品化希望,
+08:40,3,PAKvBAN,
+08:40,4,hijab,10.301
+08:40,5,BilenKazanır 50BinTL,
+08:40,6,KarwaChauth,25.125
+08:40,7,Flamengo,276.347
+08:40,8,Nawaz,39.766
+08:40,9,Corinthians,281.639
+08:40,10,BL用語クイズ,12.165
+09:10,1,モデル組,
+09:10,2,CSM・CSG商品化希望,
+09:10,3,hijab,11.938
+09:10,4,PAKvBAN,
+09:10,5,SuperCali_2M_Views,
+09:10,6,KarwaChauth,27.840
+09:10,7,BilenKazanır 50BinTL,
+09:10,8,Nawaz,40.245
+09:10,9,マイナンバーカード,208.765
+09:10,10,手取り13万,12.718
+09:40,1,モデル組,
+09:40,2,hijab,13.891
+09:40,3,CSM・CSG商品化希望,
+09:40,4,SuperCali_2M_Views,
+09:40,5,PAKvBAN,10.036
+09:40,6,手取り100万チャレンジ,
+09:40,7,BilenKazanır 50BinTL,
+09:40,8,マイナンバーカード,216.540
+09:40,9,手取り13万,13.434
+09:40,10,Nawaz,41.255
+10:10,1,SheHulkAttorneyAtLaw,
+10:10,2,アリエル,
+10:10,3,hijab,16.115
+10:10,4,モデル組,
+10:10,5,ハーフミリオン,
+10:10,6,CSM・CSG商品化希望,
+10:10,7,realMeDiwali,
+10:10,8,手取り100万チャレンジ,
+10:10,9,VOCALOID6,
+10:10,10,マイナンバーカード,216.585
+10:40,1,SheHulkAttorneyAtLaw,
+10:40,2,アリエル,11.469
+10:40,3,ハーフミリオン,
+10:40,4,hijab,18.570
+10:40,5,NoBraDay,10.527
+10:40,6,モデル組,
+10:40,7,OUT_NOW_TROUBLESHOOTER,11.162
+10:40,8,LION TAMERS AT DOWNTOWN,11.744
+10:40,9,いいねかRTで気になった人フォローする,14.731
+10:40,10,VOCALOID6,
+11:10,1,SheHulkAttorneyAtLaw,
+11:10,2,アリエル,13.041
+11:10,3,NoBraDay,13.072
+11:10,4,OUT_NOW_TROUBLESHOOTER,19.206
+11:10,5,ハーフミリオン,
+11:10,6,LION TAMERS AT DOWNTOWN,19.261
+11:10,7,PVL2022,11.103
+11:10,8,케플러가_휘몰아쳐_WeFresh,14.992
+11:10,9,VOTE SKZ ON MCD,10.200
+11:10,10,モデル組,
+11:40,1,RIP Rico,
+11:40,2,SheHulkAttorneyAtLaw,
+11:40,3,アリエル,14.287
+11:40,4,NoBraDay,16.439
+11:40,5,OUT_NOW_TROUBLESHOOTER,23.011
+11:40,6,ハーフミリオン,
+11:40,7,LilianaSegre,
+11:40,8,케플러가_휘몰아쳐_WeFresh,17.033
+11:40,9,LION TAMERS AT DOWNTOWN,22.791
+11:40,10,BUILD POWER DUO SERUM,57.012
+12:10,1,RIP Rico,13.563
+12:10,2,幻塔新章突入,
+12:10,3,SheHulkAttorneyAtLaw,
+12:10,4,ทึเมจ๋าคัมแบคมาแล้ว,56.468
+12:10,5,NoBraDay,19.619
+12:10,6,アリエル,15.274
+12:10,7,teuhelp,26.575
+12:10,8,BUILD POWER DUO SERUM,112.181
+12:10,9,ハーフミリオン,
+12:10,10,大名行列,
+12:40,1,CASE143_2ndWin,31.028
+12:40,2,DeRace,
+12:40,3,무장해제_Case143_엠카1위,24.637
+12:40,4,幻塔新章突入,
+12:40,5,SheHulk,39.993
+12:40,6,RIP Rico,18.239
+12:40,7,CASE143 SECOND WIN,
+12:40,8,BUILD POWER DUO SERUM,148.530
+12:40,9,アリエル,16.101
+12:40,10,大名行列,
+13:10,1,DeRace,
+13:10,2,CASE143_2ndWin,73.271
+13:10,3,무장해제_Case143_엠카1위,55.941
+13:10,4,アイマス合同ライブキックオフ,35.333
+13:10,5,StrayKids15thWin,55.283
+13:10,6,CASE143 SECOND WIN,11.881
+13:10,7,RIP Rico,21.964
+13:10,8,DAY1,21.640
+13:10,9,BUILD POWER DUO SERUM,170.956
+13:10,10,大名行列,
+13:40,1,CASE143_2ndWin,83.612
+13:40,2,DeRace,
+13:40,3,アイマス合同ライブキックオフ,48.846
+13:40,4,무장해제_Case143_엠카1위,62.455
+13:40,5,幻塔新章突入,15.758
+13:40,6,CASE143 SECOND WIN,50.876
+13:40,7,RIP Rico,24.876
+13:40,8,ホームラン,41.214
+13:40,9,DAY1,25.882
+13:40,10,DAY2,20.124
+14:10,1,DeRace,
+14:10,2,CASE143_2ndWin,89.087
+14:10,3,アイマス合同ライブキックオフ,56.944
+14:10,4,무장해제_Case143_엠카1위,65.745
+14:10,5,幻塔新章突入,17.705
+14:10,6,CASE143 SECOND WIN,52.992
+14:10,7,RIP Rico,27.448
+14:10,8,ホームラン,41.614
+14:10,9,Day1,26.613
+14:10,10,DAY2,21.487
+14:40,1,DeRace,
+14:40,2,おりほー,
+14:40,3,素のまんま,24.502
+14:40,4,CASE143_2ndWin,92.878
+14:40,5,SheHulk,56.148
+14:40,6,TailetianxBible,158.958
+14:40,7,RIP Rico,29.888
+14:40,8,CASE143 SECOND WIN,54.282
+14:40,9,ホームラン,43.925
+14:40,10,Day1,28.595
+15:10,1,おりほー,
+15:10,2,SheHulk,61.002
+15:10,3,素のまんま,27.589
+15:10,4,LaRussa,12.986
+15:10,5,WESTube,
+15:10,6,プレバト,11.024
+15:10,7,RIP Rico,31.864
+15:10,8,CASE143 SECOND WIN,55.439
+15:10,9,ホームラン,44.243
+15:10,10,横尾さん,
+15:40,1,silent,99.796
+15:40,2,AMAs,226.705
+15:40,3,シャニマススペース生配信,16.191
+15:40,4,すわほー,
+15:40,5,SheHulk,65.647
+15:40,6,おりほー,
+15:40,7,LaRussa,14.785
+15:40,8,マクガフ,
+15:40,9,日本シリーズ,16.572
+15:40,10,Favorite Pop Duo or Group,77.477
+16:10,1,silent,148.734
+16:10,2,AMAs,441.171
+16:10,3,すわほー,
+16:10,4,SheHulk,70.332
+16:10,5,Favorite Pop Duo or Group,199.709
+16:10,6,シャニマススペース生配信,17.636
+16:10,7,紬ちゃん,
+16:10,8,LaRussa,16.280
+16:10,9,おりほー,
+16:10,10,佐倉くん,
+16:40,1,silent,170.121
+16:40,2,AMAs,627.463
+16:40,3,Favorite Pop Duo or Group,305.533
+16:40,4,SheHulk,75.533
+16:40,5,すわほー,
+16:40,6,紬ちゃん,
+16:40,7,シャニマススペース生配信,18.045
+16:40,8,目黒蓮,89.242
+16:40,9,佐倉くん,
+16:40,10,湊斗くん,
+17:10,1,silent,181.107
+17:10,2,AMAs,741.042
+17:10,3,Favorite Pop Duo or Group,373.946
+17:10,4,SheHulk,80.261
+17:10,5,シャニマススペース生配信,18.319
+17:10,6,すわほー,
+17:10,7,紬ちゃん,12.088
+17:10,8,朝まで生たけ2,11.657
+17:10,9,Dan Snyder,
+17:10,10,佐倉くん,10.636
+17:40,1,silent,188.747
+17:40,2,AMAs,845.179
+17:40,3,Favorite Pop Duo or Group,424.704
+17:40,4,SheHulk,85.327
+17:40,5,MeramBelediyesi Mağdurları,
+17:40,6,シャニマススペース生配信,18.526
+17:40,7,鉄道開業150周年,
+17:40,8,Dan Snyder,
+17:40,9,紬ちゃん,13.293
+17:40,10,Gallardo,11.738
+18:10,1,Gallardo,48.294
+18:10,2,silent,192.958
+18:10,3,AMAs,933.611
+18:10,4,Favorite Pop Duo or Group,472.751
+18:10,5,SheHulk,90.244
+18:10,6,Muñeco,11.506
+18:10,7,Parkland,28.150
+18:10,8,MeramBelediyesi Mağdurları,
+18:10,9,Nikolas Cruz,
+18:10,10,鉄道開業150周年,
+18:40,1,Gallardo,93.867
+18:40,2,AMAs,1.020.516
+18:40,3,silent,196.253
+18:40,4,Favorite Pop Duo or Group,516.385
+18:40,5,Muñeco,18.985
+18:40,6,SheHulk,95.591
+18:40,7,じゃないとオードリー,13.605
+18:40,8,SalarioRosaParaTi,
+18:40,9,Parkland,33.592
+18:40,10,Brito,
+19:10,1,Gallardo,124.559
+19:10,2,AMAs,1.100.806
+19:10,3,silent,197.978
+19:10,4,Favorite Pop Duo or Group,555.428
+19:10,5,うる星やつら,54.491
+19:10,6,Muñeco,22.869
+19:10,7,SalarioRosaParaTi,15.144
+19:10,8,SheHulk,99.706
+19:10,9,Parkland,37.007
+19:10,10,Brito,10.764
+19:40,1,Gallardo,144.644
+19:40,2,AMAs,1.177.161
+19:40,3,うる星やつら,65.744
+19:40,4,silent,199.532
+19:40,5,Favorite Pop Duo or Group,588.983
+19:40,6,SalarioRosaParaTi,19.000
+19:40,7,Muñeco,25.661
+19:40,8,SheHulk,104.680
+19:40,9,Ailevar Bakanyok,
+19:40,10,Arda,20.844
+20:10,1,Gallardo,159.145
+20:10,2,AMAs,1.215.477
+20:10,3,Altay,11.316
+20:10,4,うる星やつら,71.084
+20:10,5,SalarioRosaParaTi,23.039
+20:10,6,Favorite Pop Duo or Group,614.831
+20:10,7,AEKvFB,16.452
+20:10,8,January6thCommitteeHearings,
+20:10,9,Muñeco,28.375
+20:10,10,Arda,21.405
+20:40,1,Gallardo,171.129
+20:40,2,AMAs,1.236.350
+20:40,3,Altay,13.454
+20:40,4,SalarioRosaParaTi,29.186
+20:40,5,うる星やつら,74.459
+20:40,6,AEKvFB,19.094
+20:40,7,January6thCommitteeHearings,12.792
+20:40,8,Favorite Pop Duo or Group,629.558
+20:40,9,Muñeco,31.029
+20:40,10,Nnamdi Kanu,49.182
+21:10,1,Gallardo,180.531
+21:10,2,Gallardo,180.531
+21:10,3,AMAs,1.270.837
+21:10,4,AEKvFB,20.281
+21:10,5,January6thCommitteeHearings,17.815
+21:10,6,SalarioRosaParaTi,37.085
+21:10,7,Altay,16.730
+21:10,8,VoleiNoSporTV,31.356
+21:10,9,Favorite Pop Duo or Group,653.653
+21:10,10,Secret Service,58.541
+21:40,1,Gallardo,188.641
+21:40,2,January6thCommitteeHearings,25.962
+21:40,3,VoleiNoSporTV,46.700
+21:40,4,AMAs,1.309.290
+21:40,5,SalarioRosaParaTi,44.367
+21:40,6,River,215.025
+21:40,7,AEKvFB,21.295
+21:40,8,Altay,17.910
+21:40,9,Favorite Pop Duo or Group,655.834
+21:40,10,Halis Toprakın Kızı,
+22:10,1,Gallardo,195.625
+22:10,2,VoleiNoSportTV,
+22:10,3,January6thCommitteeHearings,31.232
+22:10,4,AMAs,1.323.430
+22:10,5,SalarioRosaParaTi,49.266
+22:10,6,NTAs,
+22:10,7,River,216.342
+22:10,8,Altay,18.424
+22:10,9,Favorite Pop Duo or Group,666.737
+22:10,10,Capitol,106.465
+22:40,1,Gallardo,202.700
+22:40,2,VoleiNoSportTV,13.852
+22:40,3,January6thCommitteeHearings,35.626
+22:40,4,MUNOMO,21.771
+22:40,5,AMAs,1.389.176
+22:40,6,NTAs,
+22:40,7,River,221.742
+22:40,8,Uzoho,11.623
+22:40,9,Nancy Pelosi,44.284
+22:40,10,Capitol,121.393
+23:10,1,MUNOMO,25.418
+23:10,2,Gallardo,208.821
+23:10,3,Rashford,19.504
+23:10,4,McTominay,13.187
+23:10,5,MUFC,68.465
+23:10,6,VoleiNoSportTV,15.204
+23:10,7,January6thCommitteeHearings,39.533
+23:10,8,Omonia,54.467
+23:10,9,NTAs,11.905
+23:10,10,Uzoho,24.707
+23:40,1,MUNOMO,26.400
+23:40,2,Gallardo,215.180
+23:40,3,Rashford,20.754
+23:40,4,McTominay,16.624
+23:40,5,NTAs,14.383
+23:40,6,MUFC,76.699
+23:40,7,LaIslaDeLasTentaciones4,
+23:40,8,Uzoho,34.738
+23:40,9,Omonia,58.779
+23:40,10,VoleiNoSportTV,16.181

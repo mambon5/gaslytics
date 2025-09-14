@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Palacios,31.871
+00:09,2,EndSWAT,765.530
+00:09,3,iPhone 12,680.731
+00:09,4,SalarioRosa,71.205
+00:09,5,AppleEvent,921.133
+00:09,6,Bolivia,107.501
+00:09,7,Lautaro,31.843
+00:09,8,Tadeu,
+00:09,9,Scaloni,17.167
+00:09,10,Goiás,35.164
+00:39,1,Michael,340.878
+00:39,2,Palacios,38.724
+00:39,3,EndSWAT,858.982
+00:39,4,SalarioRosa,78.516
+00:39,5,iPhone 12,198.674
+00:39,6,Tadeu,13.056
+00:39,7,Apple,952.711
+00:39,8,Bolivia,115.694
+00:39,9,Goiás,38.972
+00:39,10,Lautaro,35.555
+01:09,1,Michael,376.380
+01:09,2,Flamengo,213.798
+01:09,3,EndSWAT,937.752
+01:09,4,Goiás,52.035
+01:09,5,Tadeu,20.225
+01:09,6,SalarioRosa,84.400
+01:09,7,Palacios,41.556
+01:09,8,iPhone,1.281.154
+01:09,9,Uruguay,68.044
+01:09,10,Ecuador,95.206
+01:39,1,Michael,394.911
+01:39,2,Flamengo,255.783
+01:39,3,Goiás,59.227
+01:39,4,EndSWAT,998.952
+01:39,5,SalarioRosa,89.083
+01:39,6,iPhone,1.325.054
+01:39,7,Tadeu,22.108
+01:39,8,Palacios,43.571
+01:39,9,Uruguay,76.767
+01:39,10,Ecuador,105.439
+02:09,1,Michael,389.884
+02:09,2,Flamengo,273.403
+02:09,3,Josh Norman,
+02:09,4,Derrick Henry,11.049
+02:09,5,Goiás,62.476
+02:09,6,iPhone,1.360.929
+02:09,7,SalarioRosa,92.947
+02:09,8,EndSWAT,1.047.990
+02:09,9,TV Brasil,14.422
+02:09,10,Tadeu,22.617
+02:39,1,Michael,398.517
+02:39,2,Flamengo,287.268
+02:39,3,Josh Norman,29.399
+02:39,4,TheBachelorette,20.458
+02:39,5,Derrick Henry,31.009
+02:39,6,TV Brasil,21.340
+02:39,7,iPhone,1.403.809
+02:39,8,SalarioRosa,96.766
+02:39,9,Goiás,64.487
+02:39,10,EndSWAT,1.082.721
+03:09,1,Neymar,70.323
+03:09,2,TheBachelorette,38.738
+03:09,3,Michael,391.801
+03:09,4,Josh Norman,38.676
+03:09,5,Flamengo,294.918
+03:09,6,TV Brasil,27.028
+03:09,7,Derrick Henry,38.267
+03:09,8,iPhone,1.431.818
+03:09,9,LaRojaxCHV,
+03:09,10,SalarioRosa,99.783
+03:39,1,TheBachelorette,55.514
+03:39,2,Neymar,92.843
+03:39,3,Vidal,36.573
+03:39,4,TV Brasil,31.907
+03:39,5,LaRojaxCHV,10.880
+03:39,6,Josh Norman,44.235
+03:39,7,Michael,399.310
+03:39,8,Flamengo,302.991
+03:39,9,Peru,182.628
+03:39,10,Derrick Henry,43.193
+04:09,1,Neymar,164.216
+04:09,2,TheBachelorette,67.484
+04:09,3,Peru,226.119
+04:09,4,LaRojaxCHV,15.305
+04:09,5,TV Brasil,37.972
+04:09,6,SalarioRosa,118.595
+04:09,7,Vidal,41.461
+04:09,8,Bills,225.208
+04:09,9,Josh Norman,48.629
+04:09,10,Titans,130.113
+04:39,1,Neymar,206.592
+04:39,2,RoçaAFazenda,60.932
+04:39,3,TheBachelorette,70.241
+04:39,4,Falcao,39.395
+04:39,5,LaRojaxCHV,23.973
+04:39,6,Peru,272.625
+04:39,7,SalarioRosa,128.286
+04:39,8,Dodgers,114.080
+04:39,9,Vidal,46.521
+04:39,10,SobPressaoPlantaoCovid,14.666
+05:09,1,Neymar,225.255
+05:09,2,RoçaAFazenda,120.272
+05:09,3,Falcao,68.282
+05:09,4,TheBachelorette,72.037
+05:09,5,LaRojaxCHV,26.394
+05:09,6,SalarioRosa,135.246
+05:09,7,Perú,293.306
+05:09,8,SobPressaoPlantaoCovid,22.905
+05:09,9,Dodgers,98.640
+05:09,10,Chile,275.888
+05:39,1,RoçaAFazenda,184.556
+05:39,2,Neymar,236.251
+05:39,3,Lipe,69.767
+05:39,4,Mariano,63.593
+05:39,5,Falcao,83.912
+05:39,6,TheBachelorette,74.006
+05:39,7,LaRojaxCHV,27.142
+05:39,8,SalarioRosa,139.955
+05:39,9,Perú,309.210
+05:39,10,SobPressaoPlantaoCovid,24.039
+06:09,1,RoçaAFazenda,196.710
+06:09,2,Neymar,243.280
+06:09,3,Mariano,74.025
+06:09,4,Lipe,73.642
+06:09,5,Falcao,103.788
+06:09,6,TheBachelorette,75.711
+06:09,7,SalarioRosa,143.397
+06:09,8,LaRojaxCHV,27.462
+06:09,9,Perú,315.360
+06:09,10,Chile,288.904
+06:39,1,RoçaAFazenda,202.598
+06:39,2,Neymar,248.993
+06:39,3,Mariano,82.093
+06:39,4,Lipe,78.121
+06:39,5,Falcao,111.487
+06:39,6,TheBachelorette,77.159
+06:39,7,SalarioRosa,145.417
+06:39,8,Perú,323.169
+06:39,9,LaRojaxCHV,27.662
+06:39,10,Altuve,14.340
+07:09,1,RoçaAFazenda,206.709
+07:09,2,Neymar,252.490
+07:09,3,Mariano,87.508
+07:09,4,Lipe,84.308
+07:09,5,Falcao,116.109
+07:09,6,TheBachelorette,78.304
+07:09,7,SalarioRosa,146.251
+07:09,8,Altuve,16.080
+07:09,9,Perú,326.277
+07:09,10,LaRojaxCHV,27.740
+07:39,1,RoçaAFazenda,209.451
+07:39,2,Neymar,255.673
+07:39,3,Lipe,92.495
+07:39,4,Mariano,92.768
+07:39,5,Falcao,118.701
+07:39,6,TheBachelorette,79.001
+07:39,7,ม๊อบ14ตุลา,797.066
+07:39,8,Altuve,16.666
+07:39,9,LaRojaxCHV,27.798
+07:39,10,Perú,330.261
+08:09,1,RoçaAFazenda,211.094
+08:09,2,Neymar,258.052
+08:09,3,Lipe,95.362
+08:09,4,Mariano,94.633
+08:09,5,Falcao,120.541
+08:09,6,ม๊อบ14ตุลา,917.527
+08:09,7,TheBachelorette,79.415
+08:09,8,Altuve,16.892
+08:09,9,iPhone12,304.757
+08:09,10,でんちゃん,
+08:39,1,RoçaAFazenda,212.068
+08:39,2,Lipe,96.990
+08:39,3,Neymar,260.465
+08:39,4,Mariano,95.899
+08:39,5,ม๊อบ14ตุลา,1.046.300
+08:39,6,EndSWAT,1.293.117
+08:39,7,岸辺露伴,
+08:39,8,きょも美,
+08:39,9,YouthDemocraticParty,48.020
+08:39,10,でんちゃん,
+09:09,1,岸辺露伴,22.480
+09:09,2,高橋一生,37.081
+09:09,3,EndSWAT,1.674.666
+09:09,4,メンテ延長,
+09:09,5,ม๊อบ14ตุลา,1.268.744
+09:09,6,ツイステカフェ,20.736
+09:09,7,BLACKPINKinYourNetflix,17.640
+09:09,8,RoçaAFazenda,212.812
+09:09,9,YouthDemocraticParty,61.029
+09:09,10,Lipe,97.717
+09:39,1,岸辺露伴,39.188
+09:39,2,EndSWAT,1.870.743
+09:39,3,高橋一生,56.226
+09:39,4,メンテ延長,
+09:39,5,BLACKPINKinYourNetflix,21.665
+09:39,6,ツイステカフェ,34.062
+09:39,7,ม๊อบ14ตุลา,1.501.918
+09:39,8,YouthDemocraticParty,77.643
+09:39,9,きょも美,
+09:39,10,露伴先生,
+10:09,1,岸辺露伴,52.250
+10:09,2,EndSWAT,2.106.020
+10:09,3,高橋一生,70.999
+10:09,4,ツイステカフェ,44.937
+10:09,5,BLACKPINKinYourNetflix,26.929
+10:09,6,メンテ延長,
+10:09,7,ม๊อบ14ตุลา,1.746.333
+10:09,8,YouthDemocraticParty,95.913
+10:09,9,KadirŞekerİçinBeraat,16.577
+10:09,10,露伴先生,
+10:39,1,KadirŞekerİçinBeraat,26.751
+10:39,2,EndSWAT,2.386.250
+10:39,3,岸辺露伴,62.749
+10:39,4,高橋一生,82.482
+10:39,5,BLACKPINKinYourNetflix,37.045
+10:39,6,ツイステカフェ,50.382
+10:39,7,ジェイド,47.449
+10:39,8,メンテ延長,
+10:39,9,ม๊อบ14ตุลา,2.000.291
+10:39,10,YouthDemocraticParty,113.424
+11:09,1,KadirŞekerİçinBeraat,44.759
+11:09,2,EndSWAT,2.682.724
+11:09,3,岸辺露伴,72.775
+11:09,4,BLACKPINKinYourNetflix,50.472
+11:09,5,高橋一生,94.147
+11:09,6,ジェイド,53.155
+11:09,7,ツイステカフェ,55.712
+11:09,8,LightUpTheSky,61.276
+11:09,9,ม๊อบ14ตุลา,2.265.873
+11:09,10,リリアちゃん,
+11:39,1,KadirŞekerİçinBeraat,63.634
+11:39,2,EndSWAT,2.422.671
+11:39,3,岸辺露伴,81.696
+11:39,4,ジェイド,59.021
+11:39,5,BLACKPINKinYourNetflix,60.134
+11:39,6,高橋一生,104.764
+11:39,7,LightUpTheSky,65.875
+11:39,8,リリアちゃん,
+11:39,9,ツイステカフェ,60.791
+11:39,10,ม๊อบ14ตุลา,2.083.260
+12:09,1,kadirsekericinberaat,84.227
+12:09,2,EndSWAT,1.774.851
+12:09,3,kadirsekericinadalet,
+12:09,4,岸辺露伴,89.186
+12:09,5,ジェイド,61.871
+12:09,6,BLACKPINKinYourNetflix,68.372
+12:09,7,ม๊อบ14ตุลา,1.850.592
+12:09,8,リリアちゃん,
+12:09,9,ツイステカフェ,65.351
+12:09,10,リリア様,
+12:39,1,kadirsekericinberaat,99.595
+12:39,2,EndSWAT,2.181.267
+12:39,3,kadirsekericinadalet,14.291
+12:39,4,ツイステハロウィーン,73.825
+12:39,5,岸辺露伴,95.528
+12:39,6,BLACKPINKinYourNetflix,74.721
+12:39,7,リリアちゃん,10.685
+12:39,8,沖田さん,26.577
+12:39,9,PS4アプデ,
+12:39,10,ヴィル様,14.699
+13:09,1,kadirsekericinberaat,112.277
+13:09,2,EndSWAT,2.590.778
+13:09,3,kadirsekericinadalet,21.658
+13:09,4,ツイステハロウィーン,104.524
+13:09,5,岸辺露伴,101.200
+13:09,6,ม๊อบ14ตุลา,2.695.025
+13:09,7,PS4アプデ,
+13:09,8,徳井さん,
+13:09,9,リリアちゃん,11.740
+13:09,10,沖田さん,28.819
+13:39,1,kadirsekericinberaat,123.519
+13:39,2,kadirsekericinadalet,29.030
+13:39,3,EndSWAT,2.860.464
+13:39,4,ツイステハロウィーン,124.856
+13:39,5,PMQs,10.676
+13:39,6,岸辺露伴,106.084
+13:39,7,PS4アプデ,
+13:39,8,徳井さん,
+13:39,9,リリアちゃん,12.714
+13:39,10,沖田さん,32.845
+14:09,1,kadirsekericinadalet,36.376
+14:09,2,kadirsekericinberaat,132.340
+14:09,3,EndSWAT,2.854.029
+14:09,4,ツイステハロウィーン,139.976
+14:09,5,ม๊อบ14ตุลา,2.987.291
+14:09,6,PS4アプデ,
+14:09,7,岸辺露伴,110.163
+14:09,8,どらほー,
+14:09,9,徳井さん,
+14:09,10,JINYOUNG,37.072
+14:39,1,kadirsekericinadalet,43.464
+14:39,2,kadirsekericinberaat,139.497
+14:39,3,EndSWAT,2.961.040
+14:39,4,ツイステハロウィーン,152.916
+14:39,5,ジェイド,79.345
+14:39,6,Jinyoung,60.056
+14:39,7,PS4アプデ,
+14:39,8,YazıklarOlsun,10.039
+14:39,9,岸辺露伴,113.780
+14:39,10,どらほー,
+15:09,1,kadirsekericinadalet,49.388
+15:09,2,kadirsekericinberaat,146.208
+15:09,3,EndSWAT,2.506.496
+15:09,4,ツイステハロウィーン,163.284
+15:09,5,YazıklarOlsun,13.071
+15:09,6,jinyoung,71.924
+15:09,7,PS4アプデ,
+15:09,8,ジェイド,79.794
+15:09,9,岸辺露伴,116.810
+15:09,10,どらほー,
+15:39,1,kadirsekericinadalet,55.499
+15:39,2,EndSWAT,2.631.948
+15:39,3,kadirsekericinberaat,152.054
+15:39,4,ツイステハロウィーン,171.788
+15:39,5,リモラブ,36.178
+15:39,6,jinyoung,81.845
+15:39,7,PS4アプデ,
+15:39,8,ジェイド,83.028
+15:39,9,岸辺露伴,119.602
+15:39,10,ジェルくん,
+16:09,1,kadirsekericinadalet,59.970
+16:09,2,EndSWAT,2.538.817
+16:09,3,kadirsekericinberaat,158.709
+16:09,4,リモラブ,49.051
+16:09,5,ツイステハロウィーン,180.007
+16:09,6,jinyoung,88.500
+16:09,7,PS4アプデ,
+16:09,8,ジェイド,83.581
+16:09,9,NY Post,38.621
+16:09,10,岸辺露伴,121.868
+16:39,1,kadirsekericinadalet,63.865
+16:39,2,EndSWAT,2.127.067
+16:39,3,リモラブ,52.466
+16:39,4,kadirsekericinberaat,164.496
+16:39,5,boycottnbc,42.316
+16:39,6,jinyoung,95.295
+16:39,7,PS4アプデ,10.319
+16:39,8,Monster Hunter,14.238
+16:39,9,NY Post,47.417
+16:39,10,Hunter Biden,273.492
+17:09,1,kadirsekericinadalet,68.121
+17:09,2,EndSWAT,2.307.375
+17:09,3,boycottnbc,50.467
+17:09,4,リモラブ,53.701
+17:09,5,kadirsekericinberaat,169.648
+17:09,6,Jinyoung,100.525
+17:09,7,Monster Hunter,16.564
+17:09,8,Hunter Biden,323.531
+17:09,9,PS4アプデ,10.774
+17:09,10,NY Post,54.885
+17:39,1,스무살_이희승_반짝일순간,196.925
+17:39,2,OurAceHeeseung,120.166
+17:39,3,EndSWAT,3.624.125
+17:39,4,kadirsekericinadalet,72.418
+17:39,5,HappyHeeseungDay,201.492
+17:39,6,MOONBYUL,16.910
+17:39,7,Monster Hunter,18.527
+17:39,8,tzuyu,146.410
+17:39,9,Hunter Biden,380.890
+17:39,10,jinyoung,105.982
+18:09,1,OurAceHeeseung,162.402
+18:09,2,스무살_이희승_반짝일순간,252.874
+18:09,3,EndSWAT,5.600.970
+18:09,4,HappyHeeseungDay,258.732
+18:09,5,kadirsekericinadalet,76.728
+18:09,6,MOONBYUL,19.793
+18:09,7,tzuyu,166.702
+18:09,8,Hunter Biden,440.369
+18:09,9,jinyoung,109.043
+18:09,10,NY Post,71.395
+18:39,1,OurAceHeeseung,181.729
+18:39,2,스무살_이희승_반짝일순간,272.400
+18:39,3,EndSWAT,2.209.776
+18:39,4,HappyHeeseungDay,279.657
+18:39,5,kadirsekericinadalet,81.190
+18:39,6,MOONBYUL,23.778
+18:39,7,Hunter Biden,512.976
+18:39,8,Tzuyu,177.600
+18:39,9,taehyun,96.547
+18:39,10,Amy Adams,13.695
+19:09,1,ariana,127.684
+19:09,2,OurAceHeeseung,190.300
+19:09,3,스무살_이희승_반짝일순간,281.660
+19:09,4,AG6iscoming,42.652
+19:09,5,EndSWAT,1.662.308
+19:09,6,HappyHeeseungDay,289.654
+19:09,7,MOONBYUL,25.814
+19:09,8,Hunter Biden,578.582
+19:09,9,Monster Hunter,23.736
+19:09,10,Tzuyu,183.583
+19:39,1,ariana,152.532
+19:39,2,AG6iscoming,55.264
+19:39,3,OurAceHeeseung,195.354
+19:39,4,EndSWAT,2.052.218
+19:39,5,스무살_이희승_반짝일순간,286.855
+19:39,6,BoycottNBC,95.691
+19:39,7,Hunter Biden,647.270
+19:39,8,MOONBYUL,27.828
+19:39,9,Hillbilly Elegy,
+19:39,10,NY Post,98.663
+20:09,1,ariana,168.777
+20:09,2,AG6iscoming,61.427
+20:09,3,macron20h,63.710
+20:09,4,EndSWAT,2.435.493
+20:09,5,OurAceHeeseung,198.502
+20:09,6,스무살_이희승_반짝일순간,290.045
+20:09,7,Hunter Biden,715.892
+20:09,8,MOONBYUL,28.755
+20:09,9,Monster Hunter,26.779
+20:09,10,Hillbilly Elegy,
+20:39,1,macron20h,168.619
+20:39,2,ariana,182.429
+20:39,3,CouvreFeu,51.963
+20:39,4,AG6iscoming,65.319
+20:39,5,EndSWAT,2.759.315
+20:39,6,OurAceHeeseung,200.651
+20:39,7,Monster Hunter,28.179
+20:39,8,Philadelphia,42.676
+20:39,9,Hillbilly Elegy,
+20:39,10,AMY LEE,10.264
+21:09,1,macron20h,230.749
+21:09,2,ariana,191.832
+21:09,3,CouvreFeu,79.257
+21:09,4,EndSWAT,2.709.431
+21:09,5,AG6iscoming,68.449
+21:09,6,CROFRA,10.055
+21:09,7,Philadelphia,43.297
+21:09,8,AMY LEE,11.169
+21:09,9,BeyazSandalyeDe İnfaz,
+21:09,10,Monster Hunter,29.355
+21:39,1,macron20h,268.080
+21:39,2,CouvreFeu,98.651
+21:39,3,ariana,213.411
+21:39,4,EndSWAT,2.710.744
+21:39,5,ENGDEN,
+21:39,6,CROFRA,14.176
+21:39,7,Ice Cube,13.231
+21:39,8,BeyazSandalyeDe İnfaz,
+21:39,9,Philadelphia,45.689
+21:39,10,Amy Lee,11.780
+22:09,1,macron20h,293.972
+22:09,2,ariana,229.000
+22:09,3,CouvreFeu,112.898
+22:09,4,ENGDEN,10.674
+22:09,5,EndSWAT,2.847.321
+22:09,6,Ice Cube,26.654
+22:09,7,ITANED,
+22:09,8,Harry Maguire,17.046
+22:09,9,Southgate,16.535
+22:09,10,BeyazSandalyeDe İnfaz,
+22:39,1,LaIslaDeLasTentaciones7,36.607
+22:39,2,macron20h,314.894
+22:39,3,ENGDEN,14.160
+22:39,4,ariana,246.425
+22:39,5,CouvreFeu,124.742
+22:39,6,CROFRA,22.329
+22:39,7,Ice Cube,39.701
+22:39,8,Southgate,22.527
+22:39,9,Harry Maguire,21.712
+22:39,10,Burak Yılmaz,
+23:09,1,LaIslaDeLasTentaciones7,77.841
+23:09,2,ENGDEN,17.291
+23:09,3,macron20h,332.320
+23:09,4,Southgate,30.405
+23:09,5,ariana,256.934
+23:09,6,Ice Cube,50.590
+23:09,7,EndSWAT,2.805.507
+23:09,8,CROFRA,26.267
+23:09,9,Dexter,38.919
+23:09,10,Maguire,95.157
+23:39,1,LaIslaDeLasTentaciones7,136.979
+23:39,2,Marta,61.387
+23:39,3,ENGDEN,18.620
+23:39,4,Ice Cube,64.657
+23:39,5,Southgate,34.278
+23:39,6,EndSWAT,2.559.830
+23:39,7,macron20h,346.451
+23:39,8,Dexter,52.883
+23:39,9,ariana,267.039
+23:39,10,Lester,29.360

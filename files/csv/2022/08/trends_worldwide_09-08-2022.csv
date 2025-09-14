@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Olivia Newton,361.782
+00:10,2,Grease,163.056
+00:10,3,FBvUMR,17.408
+00:10,4,AliKocİstifa,
+00:10,5,Xanadu,21.577
+00:10,6,ClosingCeremony,
+00:10,7,ANITTA NO PODDELAS,39.877
+00:10,8,Ümraniye,73.785
+00:10,9,RoastOfKhanyi,20.038
+00:10,10,Fenerbahçe,145.730
+00:40,1,Olivia Newton,394.358
+00:40,2,Grease,175.103
+00:40,3,FBvUMR,17.773
+00:40,4,Xanadu,23.519
+00:40,5,AliKocİstifa,
+00:40,6,Ezra Miller,15.947
+00:40,7,ANITTA NO PODDELAS,43.782
+00:40,8,ClosingCeremony,
+00:40,9,RoastOfKhanyi,20.628
+00:40,10,Ümraniye,75.863
+01:10,1,Olivia Newton,421.687
+01:10,2,Grease,184.627
+01:10,3,Ezra Miller,20.380
+01:10,4,Mar-a-Lago,33.095
+01:10,5,FBvUMR,17.940
+01:10,6,Xanadu,25.104
+01:10,7,ANITTA NO PODDELAS,
+01:10,8,AliKocİstifa,
+01:10,9,BolsonaroNoFlow,41.426
+01:10,10,John Travolta,55.445
+01:40,1,Olivia Newton,443.760
+01:40,2,Mar-a-Lago,146.805
+01:40,3,Grease,192.280
+01:40,4,The FBI,203.352
+01:40,5,Sandy,102.572
+01:40,6,Ezra Miller,23.835
+01:40,7,BolsonaroNoFlow,52.591
+01:40,8,ANITTA NO PODDELAS,52.166
+01:40,9,Xanadu,26.544
+01:40,10,FBvUMR,18.074
+02:10,1,Mar-a-Lago,249.257
+02:10,2,Olivia Newton,462.183
+02:10,3,The FBI,345.013
+02:10,4,Grease,198.558
+02:10,5,BolsonaroNoFlow,65.987
+02:10,6,Ezra Miller,26.981
+02:10,7,Sandy,105.128
+02:10,8,Anitta,85.855
+02:10,9,Xanadu,27.658
+02:10,10,LockHimUp,
+02:40,1,Mar-a-Lago,330.387
+02:40,2,Mar-a-Lago,330.387
+02:40,3,Olivia Newton,478.547
+02:40,4,The FBI,495.091
+02:40,5,WWERaw,24.150
+02:40,6,Grease,204.559
+02:40,7,BolsonaroNoFlow,78.857
+02:40,8,TheBachelorette,
+02:40,9,Hillary,52.491
+02:40,10,Ezra Miller,30.420
+03:10,1,Mar-a-Lago,400.374
+03:10,2,The FBI,641.994
+03:10,3,Olivia Newton,492.990
+03:10,4,WWERaw,34.804
+03:10,5,Grease,209.597
+03:10,6,TheBachelorette,
+03:10,7,BolsonaroNoFlow,90.941
+03:10,8,Hillary,67.392
+03:10,9,Hunter Biden,103.969
+03:10,10,ラヴィット,37.749
+03:40,1,Trump,1.462.790
+03:40,2,The FBI,766.986
+03:40,3,WWERaw,43.406
+03:40,4,Olivia Newton,506.410
+03:40,5,TheBachelorette,12.613
+03:40,6,Hillary,82.740
+03:40,7,BolsonaroNoFlow,102.085
+03:40,8,Hunter Biden,121.918
+03:40,9,Grease,214.221
+03:40,10,White House,16.639
+04:10,1,Trump,1.418.220
+04:10,2,The FBI,891.889
+04:10,3,WWERaw,54.124
+04:10,4,TheBachelorette,15.732
+04:10,5,Olivia Newton,517.987
+04:10,6,Hillary,96.471
+04:10,7,Hunter Biden,137.134
+04:10,8,BolsonaroNoFlow,114.146
+04:10,9,White House,121.240
+04:10,10,FISA,15.724
+04:40,1,Trump,1.599.078
+04:40,2,The FBI,1.003.529
+04:40,3,WWERaw,62.949
+04:40,4,BetterCallSaul,20.090
+04:40,5,Hillary,109.161
+04:40,6,Olivia Newton,529.517
+04:40,7,TheBachelorette,16.345
+04:40,8,Hunter Biden,150.630
+04:40,9,BolsonaroNoFlow,124.839
+04:40,10,White House,130.871
+05:10,1,Trump,1.612.533
+05:10,2,WWERaw,74.749
+05:10,3,The FBI,1.113.679
+05:10,4,BetterCallSaul,21.939
+05:10,5,Hillary,120.133
+05:10,6,Hunter Biden,161.546
+05:10,7,Dexter Lumis,
+05:10,8,Olivia Newton,540.054
+05:10,9,TheBachelorette,16.958
+05:10,10,BolsonaroNoFlow,132.604
+05:40,1,Trump,1.720.990
+05:40,2,WWERaw,80.214
+05:40,3,The FBI,1.208.438
+05:40,4,BetterCallSaul,23.674
+05:40,5,Hillary,130.209
+05:40,6,Dexter Lumis,
+05:40,7,BolsonaroNoFlow,142.793
+05:40,8,Hunter Biden,172.891
+05:40,9,聖光学院,
+05:40,10,White House,143.520
+06:10,1,Trump,1.821.444
+06:10,2,The FBI,1.284.103
+06:10,3,WWERaw,83.022
+06:10,4,BetterCallSaul,24.967
+06:10,5,Hillary,137.637
+06:10,6,聖光学院,
+06:10,7,Dexter Lumis,
+06:10,8,BolsonaroNoFlow,151.049
+06:10,9,Hunter Biden,181.124
+06:10,10,White House,148.229
+06:40,1,Trump,1.910.637
+06:40,2,Mar-a-Lago,713.258
+06:40,3,The FBI,1.346.507
+06:40,4,WWERaw,84.962
+06:40,5,BetterCallSaul,26.210
+06:40,6,VenmoMe,
+06:40,7,Hillary,144.059
+06:40,8,聖光学院,
+06:40,9,Hunter Biden,187.965
+06:40,10,BolsonaroNoFlow,155.892
+07:10,1,Trump,1.982.736
+07:10,2,Mar-a-Lago,734.334
+07:10,3,The FBI,1.360.481
+07:10,4,WWERaw,86.216
+07:10,5,BetterCallSaul,27.226
+07:10,6,VenmoMe,
+07:10,7,Hillary,148.958
+07:10,8,Hunter Biden,194.032
+07:10,9,聖光学院,
+07:10,10,ブタゴリラ,19.674
+07:40,1,Trump,2.039.381
+07:40,2,Mar-a-Lago,751.354
+07:40,3,The FBI,1.189.574
+07:40,4,VenmoMe,
+07:40,5,BetterCallSaul,28.452
+07:40,6,WWERaw,87.496
+07:40,7,Hillary,153.397
+07:40,8,ブタゴリラ,22.225
+07:40,9,Hunter Biden,199.805
+07:40,10,聖光学院,
+08:10,1,Trump,2.010.581
+08:10,2,Mar-a-Lago,766.842
+08:10,3,The FBI,1.272.280
+08:10,4,BetterCallSaul,29.294
+08:10,5,VenmoMe,
+08:10,6,WWERaw,88.747
+08:10,7,Hillary,156.758
+08:10,8,KenyaDecides2022,35.901
+08:10,9,ブタゴリラ,24.174
+08:10,10,フォロワーアパート,
+08:40,1,Trump,1.961.117
+08:40,2,札幌大谷,11.474
+08:40,3,The FBI,1.346.220
+08:40,4,Mar-a-Lago,781.005
+08:40,5,VenmoMe,
+08:40,6,BetterCallSaul,30.080
+08:40,7,KenyaDecides2022,39.187
+08:40,8,BETHESUNinJKT,
+08:40,9,二松学舎,
+08:40,10,salı,
+09:10,1,Trump,2.178.114
+09:10,2,Trump,2.178.114
+09:10,3,札幌大谷,12.295
+09:10,4,BETHESUNinJKT,10.866
+09:10,5,WomensDay,
+09:10,6,KenyaDecides2022,40.690
+09:10,7,VenmoMe,
+09:10,8,The FBI,
+09:10,9,BetterCallSaul,30.679
+09:10,10,Mar-a-Lago,774.256
+09:40,1,Trump,2.135.031
+09:40,2,Trump,2.135.031
+09:40,3,ไบเบิ้ลบิว,99.188
+09:40,4,WomensDay,
+09:40,5,札幌大谷,12.844
+09:40,6,BETHESUNinJKT,12.507
+09:40,7,BiharPolitics,19.489
+09:40,8,บิ้งไม่เอาศุภชลาสัย,34.161
+09:40,9,The FBI,1.376.795
+09:40,10,Mar-a-Lago,802.444
+10:10,1,Trump,2.294.497
+10:10,2,BiharPolitics,22.738
+10:10,3,ไบเบิ้ลบิว,117.319
+10:10,4,BETHESUNinJKT,14.023
+10:10,5,WomensDay,
+10:10,6,KenyaDecides2022,45.337
+10:10,7,札幌大谷,13.369
+10:10,8,The FBI,1.584.107
+10:10,9,ハグの日,30.477
+10:10,10,ブタゴリラ,29.519
+10:40,1,BETHESUNinJKT,17.093
+10:40,2,BiharPolitics,27.180
+10:40,3,Trump,2.635.128
+10:40,4,ไบเบิ้ลบิว,131.171
+10:40,5,NitishKumar,14.878
+10:40,6,KenyaDecides2022,48.312
+10:40,7,イッセイミヤケ,
+10:40,8,札幌大谷,13.797
+10:40,9,三宅一生さん,
+10:40,10,ハグの日,31.813
+11:10,1,BETHESUNinJKT,18.765
+11:10,2,BiharPolitics,31.417
+11:10,3,CRWIN,10.294
+11:10,4,Trump,2.636.371
+11:10,5,フォロワーアパート,
+11:10,6,NitishKumar,17.213
+11:10,7,イッセイミヤケ,
+11:10,8,Abdulhamid Han,
+11:10,9,三宅一生さん,12.339
+11:10,10,ハグの日,33.572
+11:40,1,BiharPolitics,36.157
+11:40,2,BETHESUNinJKT,20.293
+11:40,3,フォロワーアパート,
+11:40,4,NitishKumar,19.858
+11:40,5,フォーエイト200万人レディゴー,
+11:40,6,Issey Miyake,
+11:40,7,イッセイミヤケ,
+11:40,8,三宅一生,17.555
+11:40,9,ハグの日,35.456
+11:40,10,Abdulhamid Han,
+12:10,1,CRWIN,14.634
+12:10,2,BiharPolitics,40.008
+12:10,3,BETHESUNinJKT,20.746
+12:10,4,フォロワーアパート,
+12:10,5,ChollometroOnFire,
+12:10,6,Issey Miyake,
+12:10,7,イッセイミヤケ,10.753
+12:10,8,ハグの日,37.725
+12:10,9,鵜島さん,
+12:10,10,Shahbaz Gill,19.000
+12:40,1,Guerrilla4thWin,32.913
+12:40,2,CRWIN,18.561
+12:40,3,ChollometroOnFire,
+12:40,4,BiharPolitics,44.384
+12:40,5,フォロワーアパート,
+12:40,6,Issey Miyake,11.182
+12:40,7,鵜島さん,
+12:40,8,ハグの日,40.451
+12:40,9,GUERRILLA FOURTH WIN,13.415
+12:40,10,イッセイミヤケ,11.787
+13:10,1,Guerrilla4thWin,48.196
+13:10,2,CRWIN,19.122
+13:10,3,ChollometroOnFire,
+13:10,4,BiharPolitics,49.157
+13:10,5,フォロワーアパート,
+13:10,6,Abdulhamid Han,
+13:10,7,Issey Miyake,13.812
+13:10,8,鵜島さん,12.501
+13:10,9,ハグの日,44.253
+13:10,10,河野太郎,10.944
+13:40,1,GENEチカラノカギリ生チャレンジ,20.590
+13:40,2,Guerrilla4thWin,53.478
+13:40,3,ChollometroOnFire,
+13:40,4,フォロワーアパート,
+13:40,5,CRWIN,19.470
+13:40,6,Issey Miyake,16.227
+13:40,7,ハグの日,48.408
+13:40,8,鵜島さん,17.781
+13:40,9,Abdulhamid Han,
+13:40,10,河野太郎,14.288
+14:10,1,横浜優勝,
+14:10,2,GENEチカラノカギリ生チャレンジ,28.224
+14:10,3,フォロワーアパート,
+14:10,4,Guerrilla4thWin,56.517
+14:10,5,ChollometroOnFire,
+14:10,6,せふほで本性が分かる見た人強制,
+14:10,7,こいほー,
+14:10,8,大田泰示,
+14:10,9,ハグの日,52.272
+14:10,10,どらほー,
+14:40,1,横浜優勝,
+14:40,2,フォロワーアパート,
+14:40,3,GENEチカラノカギリ生チャレンジ,32.742
+14:40,4,IDOLRADIO,38.667
+14:40,5,아이돌라디오2,37.087
+14:40,6,どらほー,
+14:40,7,ChollometroOnFire,
+14:40,8,おりほー,
+14:40,9,ハグの日,56.799
+14:40,10,こいほー,
+15:10,1,横浜優勝,
+15:10,2,フォロワーアパート,
+15:10,3,아이돌라디오2,60.745
+15:10,4,IDOLRADIO,56.126
+15:10,5,せふほで本性が分かる見た人強制,
+15:10,6,帰宅の旅,
+15:10,7,ซีนุนิวXJulietThailand,43.283
+15:10,8,ハグの日,61.180
+15:10,9,どらほー,
+15:10,10,Run BTS,88.768
+15:40,1,フォロワーアパート,10.358
+15:40,2,横浜優勝,
+15:40,3,帰宅の旅,
+15:40,4,ซีนุนิวXJulietThailand,71.108
+15:40,5,ハグの日,66.260
+15:40,6,ミリオンシンガー,
+15:40,7,せふほで本性が分かる見た人強制,
+15:40,8,아이돌라디오2,76.374
+15:40,9,Roquan,
+15:40,10,Serena Williams,15.914
+16:10,1,祝_Password_MV100万回,12.021
+16:10,2,Serena Williams,27.522
+16:10,3,ギルクエ,
+16:10,4,フォロワーアパート,11.055
+16:10,5,ハグの日,71.196
+16:10,6,帰宅の旅,
+16:10,7,Aぇちゅーぶ,
+16:10,8,ซีนุนิวXJulietThailand,100.655
+16:10,9,ユニコーンに乗って,
+16:10,10,Roquan,
+16:40,1,ギルクエ,15.455
+16:40,2,祝_Password_MV100万回,37.537
+16:40,3,Serena Williams,35.104
+16:40,4,ハグの日,76.292
+16:40,5,帰宅の旅,
+16:40,6,Roquan,10.490
+16:40,7,Aぇちゅーぶ,
+16:40,8,MetafluenceAlpha,
+16:40,9,HDARMYforBTS,57.656
+16:40,10,ซีนุนิวXJulietThailand,144.470
+17:10,1,HappyKyosukeDay,35.736
+17:10,2,藤牧京介祝23歳一秒を永遠にしてみよう,31.662
+17:10,3,ギルクエ,17.548
+17:10,4,祝_Password_MV100万回,39.837
+17:10,5,Serena Williams,41.431
+17:10,6,齋藤飛鳥生誕祭,
+17:10,7,Chris Sale,
+17:10,8,NCTzenSelcaDay,46.666
+17:10,9,ハグの日,80.967
+17:10,10,京ちゃん,21.896
+17:40,1,HappyKyosukeDay,50.007
+17:40,2,藤牧京介祝23歳一秒を永遠にしてみよう,44.816
+17:40,3,ギルクエ,18.643
+17:40,4,齋藤飛鳥生誕祭,13.937
+17:40,5,Serena Williams,46.476
+17:40,6,祝_Password_MV100万回,40.238
+17:40,7,Chris Sale,
+17:40,8,CL25,58.091
+17:40,9,京ちゃん,28.261
+17:40,10,ハグの日,85.184
+18:10,1,SalarioRosaEstaContigo,
+18:10,2,HappyKyosukeDay,54.372
+18:10,3,藤牧京介祝23歳一秒を永遠にしてみよう,48.743
+18:10,4,齋藤飛鳥生誕祭,15.982
+18:10,5,ギルクエ,19.268
+18:10,6,Serena Williams,50.760
+18:10,7,Chris Sale,
+18:10,8,祝_Password_MV100万回,40.659
+18:10,9,第201回,
+18:10,10,京ちゃん,29.959
+18:40,1,SalarioRosaEstaContigo,12.562
+18:40,2,HappyKyosukeDay,55.787
+18:40,3,藤牧京介祝23歳一秒を永遠にしてみよう,49.927
+18:40,4,Timo,52.334
+18:40,5,齋藤飛鳥生誕祭,17.067
+18:40,6,Serena Williams,54.158
+18:40,7,ギルクエ,19.719
+18:40,8,Chris Sale,
+18:40,9,野獣の日2022,
+18:40,10,第201回,
+19:10,1,SalarioRosaEstaContigo,18.462
+19:10,2,Timo,62.635
+19:10,3,HappyKyosukeDay,56.494
+19:10,4,藤牧京介祝23歳一秒を永遠にしてみよう,50.488
+19:10,5,Serena Williams,56.698
+19:10,6,齋藤飛鳥生誕祭,17.629
+19:10,7,Face Meta,
+19:10,8,MewHomeComing,105.152
+19:10,9,Chris Sale,
+19:10,10,ギルクエ,20.041
+19:40,1,SalarioRosaEstaContigo,25.894
+19:40,2,Timo,69.534
+19:40,3,MewHomeComing,131.994
+19:40,4,Serena Williams,59.153
+19:40,5,HappyKyosukeDay,56.831
+19:40,6,Face Meta,
+19:40,7,藤牧京介祝23歳一秒を永遠にしてみよう,50.735
+19:40,8,Chris Sale,
+19:40,9,齋藤飛鳥生誕祭,17.959
+19:40,10,MSS RETURNS TO THAILAND,125.674
+20:40,1,SalarioRosaEstaContigo,38.176
+20:40,2,Timo,74.245
+20:40,3,TwitterDown,
+20:40,4,MewHomeComing,153.881
+20:40,5,İsrailHaddiniBil,
+20:40,6,Serena Williams,62.274
+20:40,7,Andrew Yang,14.322
+20:40,8,Mnakwethu,
+20:40,9,Huehuetoca,38.985
+20:40,10,Face Meta,
+21:10,1,SalarioRosaEstaContigo,46.702
+21:10,2,Timo,74.443
+21:10,3,PSVMON,
+21:10,4,TwitterDown,
+21:10,5,Mnakwethu,
+21:10,6,Andrew Yang,16.036
+21:10,7,MewHomeComing,157.634
+21:10,8,Serena Williams,63.914
+21:10,9,Huehuetoca,45.074
+21:10,10,Crimea,82.192
+21:40,1,SalarioRosaEstaContigo,53.604
+21:40,2,Timo,77.091
+21:40,3,Diogo Gonçalves,
+21:40,4,PSVMON,
+21:40,5,GönüllerBirOlunca,
+21:40,6,TwitterDown,
+21:40,7,ترضي_تتزوج_سمراء,
+21:40,8,President,1.668.589
+21:40,9,Andrew Yang,17.664
+21:40,10,Huehuetoca,49.590
+22:10,1,SalarioRosaEstaContigo,59.141
+22:10,2,PSVMON,
+22:10,3,PSVASM,
+22:10,4,زيزو,
+22:10,5,Timo,77.047
+22:10,6,Diogo Gonçalves,
+22:10,7,Monaco,40.379
+22:10,8,ترضي_تتزوج_سمراء,
+22:10,9,GönüllerBirOlunca,
+22:10,10,President,1.681.620
+22:40,1,SalarioRosaEstaContigo,63.534
+22:40,2,PSVASM,10.042
+22:40,3,زيزو,
+22:40,4,PSVMON,
+22:40,5,Monaco,45.586
+22:40,6,ترضي_تتزوج_سمراء,
+22:40,7,Timo,78.950
+22:40,8,Diogo Gonçalves,
+22:40,9,Soteldo,
+22:40,10,WSMDS,
+23:10,1,SalarioRosaEstaContigo,67.174
+23:10,2,PSVASM,11.824
+23:10,3,Monaco,50.952
+23:10,4,psvmon,
+23:10,5,زيزو,10.340
+23:10,6,ترضي_تتزوج_سمراء,
+23:10,7,FLUXO NO CS,32.246
+23:10,8,DeleteFacebook,11.218
+23:10,9,Soteldo,
+23:10,10,President,1.731.632
+23:40,1,SalarioRosaEstaContigo,70.562
+23:40,2,PSVASM,12.592
+23:40,3,Monaco,55.649
+23:40,4,psvmon,
+23:40,5,زيزو,11.983
+23:40,6,FLUXO NO CS,50.210
+23:40,7,Rangers,41.301
+23:40,8,ترضي_تتزوج_سمراء,
+23:40,9,DeleteFacebook,13.855
+23:40,10,Luuk de Jong,

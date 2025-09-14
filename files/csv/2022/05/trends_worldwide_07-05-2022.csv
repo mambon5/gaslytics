@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Sainz,14.051
+00:10,2,AEWRampage,11.345
+00:10,3,GenoaJuventus,
+00:10,4,MiamiGP,75.193
+00:10,5,isola,13.603
+00:10,6,KonseriİptalEdin,
+00:10,7,Charles,105.377
+00:10,8,Kean,11.221
+00:10,9,De Sciglio,
+00:10,10,Secret Oath,
+00:40,1,Sainz,15.511
+00:40,2,AEWRampage,15.935
+00:40,3,MiamiGP,80.617
+00:40,4,isola,15.779
+00:40,5,imamoğlu,13.663
+00:40,6,KonseriİptalEdin,
+00:40,7,Charles,109.258
+00:40,8,Kean,11.654
+00:40,9,Secret Oath,
+00:40,10,Mother's Day,123.487
+01:10,1,Sainz,16.653
+01:10,2,VGMA23,16.770
+01:10,3,AEWRampage,17.227
+01:10,4,imamoğlu,15.101
+01:10,5,MiamiGP,82.562
+01:10,6,isola,17.699
+01:10,7,Charles,109.308
+01:10,8,Kean,11.888
+01:10,9,Secret Oath,
+01:10,10,Mother's Day,122.757
+01:40,1,VGMA23,21.113
+01:40,2,Sainz,17.309
+01:40,3,Embiid,39.531
+01:40,4,imamoğlu,16.206
+01:40,5,AEWRampage,18.443
+01:40,6,isola,18.911
+01:40,7,MiamiGP,84.388
+01:40,8,Charles,112.334
+01:40,9,Pogba,23.388
+01:40,10,Mother's Day,125.970
+02:10,1,Embiid,43.264
+02:10,2,VGMA23,24.317
+02:10,3,Sainz,17.647
+02:10,4,imamoğlu,16.926
+02:10,5,コナン警察学校編萩原研二,
+02:10,6,AEWRampage,18.846
+02:10,7,どらもっち誕生日おめでとう,
+02:10,8,Niang,
+02:10,9,Charles,112.027
+02:10,10,Pogba,24.102
+02:40,1,Embiid,45.788
+02:40,2,SmackDown,10.777
+02:40,3,VGMA23,25.773
+02:40,4,コナン警察学校編萩原研二,
+02:40,5,Sainz,18.039
+02:40,6,imamoğlu,17.416
+02:40,7,どらもっち誕生日おめでとう,
+02:40,8,Niang,
+02:40,9,Mother's Day,127.190
+02:40,10,Charles,114.311
+03:10,1,Embiid,47.342
+03:10,2,SmackDown,15.452
+03:10,3,Danny Green,
+03:10,4,TheLastDriveIn,
+03:10,5,VGMA23,26.697
+03:10,6,コナン警察学校編萩原研二,
+03:10,7,ダイの大冒険,
+03:10,8,Bruins,
+03:10,9,Sainz,18.288
+03:10,10,Lowry,
+03:40,1,Maxey,
+03:40,2,Pantanal,53.981
+03:40,3,Juma,51.003
+03:40,4,Embiid,53.405
+03:40,5,Danny Green,
+03:40,6,SmackDown,20.479
+03:40,7,TheLastDriveIn,
+03:40,8,PJ Tucker,
+03:40,9,ワルイコあつまれ,16.973
+03:40,10,MakatiIsPink,31.770
+04:10,1,Maxey,12.616
+04:10,2,Embiid,61.386
+04:10,3,Pantanal,61.009
+04:10,4,Danny Green,
+04:10,5,Juma,54.408
+04:10,6,Sixers,52.534
+04:10,7,Majul,
+04:10,8,Casero,15.371
+04:10,9,SmackDown,25.055
+04:10,10,TheLastDriveIn,
+04:40,1,Majul,14.655
+04:40,2,Casero,24.500
+04:40,3,Embiid,65.048
+04:40,4,Maxey,13.491
+04:40,5,Pantanal,63.756
+04:40,6,Danny Green,
+04:40,7,Sixers,55.509
+04:40,8,Juma,56.547
+04:40,9,TheLastDriveIn,10.196
+04:40,10,LeafsForever,
+05:10,1,Majul,19.724
+05:10,2,Casero,32.859
+05:10,3,Embiid,66.921
+05:10,4,Maxey,13.927
+05:10,5,Pantanal,62.998
+05:10,6,MakatiIsPink,42.213
+05:10,7,Danny Green,
+05:10,8,TheLastDriveIn,11.751
+05:10,9,Sixers,57.213
+05:10,10,Juma,55.818
+05:40,1,Majul,24.416
+05:40,2,Casero,40.335
+05:40,3,MakatiIsPink,46.362
+05:40,4,Embiid,68.586
+05:40,5,Maxey,14.412
+05:40,6,Pantanal,64.418
+05:40,7,TheLastDriveIn,13.446
+05:40,8,Danny Green,
+05:40,9,Sixers,58.924
+05:40,10,SmackDown,28.701
+06:10,1,Majul,28.522
+06:10,2,Casero,46.416
+06:10,3,Luka,53.819
+06:10,4,MakatiIsPink,50.714
+06:10,5,MFFL,
+06:10,6,HOLLY,19.512
+06:10,7,TheLastDriveIn,15.459
+06:10,8,Embiid,70.023
+06:10,9,Brunson,
+06:10,10,maxey,14.708
+06:40,1,holly,28.829
+06:40,2,Majul,31.555
+06:40,3,Casero,51.479
+06:40,4,Mavs,24.424
+06:40,5,MakatiIsPink,55.982
+06:40,6,Luka,57.527
+06:40,7,MFFL,
+06:40,8,TOH SPOILERS,
+06:40,9,TheLastDriveIn,16.915
+06:40,10,Brunson,
+07:10,1,holly,32.637
+07:10,2,Majul,34.171
+07:10,3,Casero,54.868
+07:10,4,MakatiIsPink,61.669
+07:10,5,キンプる,59.664
+07:10,6,Mavs,25.409
+07:10,7,Luka,58.105
+07:10,8,TOH SPOILERS,13.545
+07:10,9,MFFL,
+07:10,10,RASコラボ予想,
+07:40,1,holly,35.566
+07:40,2,MakatiIsPink,67.964
+07:40,3,キンプる,74.657
+07:40,4,Majul,35.714
+07:40,5,Casero,57.601
+07:40,6,TOH SPOILERS,17.912
+07:40,7,Mavs,26.247
+07:40,8,土スタ,
+07:40,9,Luka,59.461
+07:40,10,MFFL,
+08:10,1,holly,37.237
+08:10,2,MakatiIsPink,74.090
+08:10,3,キンプる,80.510
+08:10,4,Majul,36.812
+08:10,5,Casero,59.108
+08:10,6,BEFIRSTTV,11.463
+08:10,7,TOH SPOILERS,21.607
+08:10,8,土スタ,
+08:10,9,Mavs,26.646
+08:10,10,CRWIN,
+08:40,1,MakatiIsPink,81.858
+08:40,2,holly,39.150
+08:40,3,キンプる,84.188
+08:40,4,京都新聞杯,28.169
+08:40,5,BEFIRSTTV,13.967
+08:40,6,Majul,37.779
+08:40,7,Casero,60.420
+08:40,8,TOH SPOILERS,24.311
+08:40,9,cumartesi,
+08:40,10,RabindranathTagore,
+09:10,1,MakatiIsPink,89.490
+09:10,2,京都新聞杯,30.869
+09:10,3,holly,40.573
+09:10,4,アスクワイルドモア,
+09:10,5,キンプる,86.582
+09:10,6,BEFIRSTTV,15.789
+09:10,7,cumartesi,
+09:10,8,ไขความลับมิวไปกับVichyM89,30.263
+09:10,9,ヴェローナシチー,
+09:10,10,VICHY X MEW,30.351
+09:40,1,MakatiIsPink,99.215
+09:40,2,京都新聞杯,31.954
+09:40,3,holly,42.396
+09:40,4,ไขความลับมิวไปกับVichyM89,61.719
+09:40,5,cumartesi,
+09:40,6,アスクワイルドモア,
+09:40,7,BEFIRSTTV,17.061
+09:40,8,VICHY X MEW,62.365
+09:40,9,キンプる,88.829
+09:40,10,ヴェローナシチー,
+10:10,1,MakatiIsPink,107.920
+10:10,2,ちんぽ揃えゲーム,
+10:10,3,乃木坂46バスラ直前SP,
+10:10,4,京都新聞杯,32.398
+10:10,5,cumartesi,
+10:10,6,ไขความลับมิวไปกับVichyM89,84.681
+10:10,7,holly,43.816
+10:10,8,VICHY X MEW,84.584
+10:10,9,アスクワイルドモア,
+10:10,10,どらほー,13.676
+10:40,1,乃木坂46バスラ直前SP,16.282
+10:40,2,MakatiIsPink,118.962
+10:40,3,すわほー,
+10:40,4,cumartesi,
+10:40,5,PilipinasIsPink,17.936
+10:40,6,大関くん,
+10:40,7,こいほー,
+10:40,8,京都新聞杯,33.037
+10:40,9,Tuğçe Kazaz,
+10:40,10,swallows,38.758
+11:10,1,乃木坂46バスラ直前SP,27.235
+11:10,2,MakatiIsPink,129.284
+11:10,3,PilipinasIsPink,21.648
+11:10,4,すわほー,
+11:10,5,cumartesi,
+11:10,6,こいほー,
+11:10,7,TAKのラジオ,
+11:10,8,Phenomenal Woman Shehnaaz,61.262
+11:10,9,大関くん,
+11:10,10,京都新聞杯,33.358
+11:40,1,乃木坂46バスラ直前SP,37.522
+11:40,2,MakatiIsPink,143.636
+11:40,3,警察学校編萩原研二出席しました,14.029
+11:40,4,PilipinasIsPink,27.914
+11:40,5,investiture,
+11:40,6,すわほー,
+11:40,7,Phenomenal Woman Shehnaaz,77.694
+11:40,8,こいほー,
+11:40,9,ギターソロ,29.810
+11:40,10,大関くん,
+12:10,1,MakatiIsPink,158.601
+12:10,2,乃木坂46バスラ直前SP,47.593
+12:10,3,警察学校編萩原研二出席しました,16.025
+12:10,4,PilipinasIsPink,35.359
+12:10,5,investiture,
+12:10,6,Phenomenal Woman Shehnaaz,91.396
+12:10,7,すわほー,
+12:10,8,ギターソロ,31.010
+12:10,9,こいほー,
+12:10,10,RX-7,
+12:40,1,MakatiIsPink,176.355
+12:40,2,乃木坂46バスラ直前SP,57.000
+12:40,3,PilipinasIsPink,43.234
+12:40,4,警察学校編萩原研二出席しました,17.132
+12:40,5,กลรักรุ่นพี่,38.281
+12:40,6,Phenomenal Woman Shehnaaz,104.605
+12:40,7,ギターソロ,32.455
+12:40,8,Pogba,43.279
+12:40,9,rx-7,
+12:40,10,すわほー,
+13:10,1,MakatiIsPink,199.272
+13:10,2,PilipinasIsPink,52.395
+13:10,3,乃木坂46バスラ直前SP,65.617
+13:10,4,กลรักรุ่นพี่,79.040
+13:10,5,警察学校編萩原研二出席しました,17.563
+13:10,6,ANNE CURTIS,
+13:10,7,ギターソロ,34.014
+13:10,8,Phenomenal Woman Shehnaaz,115.922
+13:10,9,Pogba,44.775
+13:10,10,LOONA OWNS KCON,
+13:40,1,MakatiIsPink,229.763
+13:40,2,PilipinasIsPink,65.162
+13:40,3,ドッキリGP,
+13:40,4,乃木坂46バスラ直前SP,74.304
+13:40,5,LeniKikoMitingDeAvance,18.299
+13:40,6,Anne Curtis,
+13:40,7,Pogba,47.122
+13:40,8,ギターソロ,36.008
+13:40,9,TENLEE THE BEST IN GDC,
+13:40,10,Catriona Gray,
+14:10,1,MakatiIsPink,256.589
+14:10,2,PilipinasIsPink,76.409
+14:10,3,ドッキリGP,10.498
+14:10,4,乃木坂46バスラ直前SP,81.619
+14:10,5,LeniKikoMitingDeAvance,21.423
+14:10,6,TENLEE THE BEST IN GDC,42.652
+14:10,7,Anne Curtis,
+14:10,8,ハイロー,
+14:10,9,Pogba,48.220
+14:10,10,ギターソロ,37.533
+14:40,1,MakatiIsPink,288.284
+14:40,2,PilipinasIsPink,90.232
+14:40,3,LeniKikoMitingDeAvance,26.580
+14:40,4,ドッキリGP,11.516
+14:40,5,Ipana7oNa10ParaSaLahat,77.938
+14:40,6,TENLEE THE BEST IN GDC,71.952
+14:40,7,Luton,
+14:40,8,ハイロー,
+14:40,9,Anne Curtis,
+14:40,10,米津さん,
+15:10,1,MakatiIsPink,319.741
+15:10,2,虹ヶ咲,70.094
+15:10,3,PilipinasIsPink,103.934
+15:10,4,Ipana7oNa10ParaSaLahat,87.746
+15:10,5,LeniKikoMitingDeAvance,33.206
+15:10,6,TENLEE THE BEST IN GDC,98.899
+15:10,7,Luton,
+15:10,8,Majul,56.423
+15:10,9,Casero,89.358
+15:10,10,ミッションインポッシブル,
+15:40,1,MakatiIsPink,358.427
+15:40,2,虹ヶ咲,131.003
+15:40,3,Ipana7oNa10ParaSaLahat,100.661
+15:40,4,LeniKikoMitingDeAvance,40.113
+15:40,5,PilipinasIsPink,121.414
+15:40,6,Luton,
+15:40,7,Majul,60.116
+15:40,8,TENLEE THE BEST IN GDC,121.269
+15:40,9,Casero,94.606
+15:40,10,合唱企画,14.116
+16:10,1,MakatiIsPink,393.722
+16:10,2,虹ヶ咲,146.373
+16:10,3,Ipana7oNa10ParaSaLahat,111.590
+16:10,4,LeniKikoMitingDeAvance,46.697
+16:10,5,PilipinasIsPink,139.473
+16:10,6,Jorge Molina,
+16:10,7,Luton,
+16:10,8,Majul,63.711
+16:10,9,Granada,12.632
+16:10,10,Mallorca,12.732
+16:40,1,MakatiIsPink,429.100
+16:40,2,SPY_FAMILY,232.495
+16:40,3,Ipana7oNa10ParaSaLahat,124.076
+16:40,4,虹ヶ咲,153.901
+16:40,5,LeniKikoMitingDeAvance,53.092
+16:40,6,TXT GBGB MV TEASER,53.669
+16:40,7,Majul,67.186
+16:40,8,Casero,105.086
+16:40,9,ロイドマン,
+16:40,10,Luton,
+17:10,1,MakatiIsPink,462.015
+17:10,2,俺かわ,30.431
+17:10,3,Ipana7oNa10ParaSaLahat,135.359
+17:10,4,SPY_FAMILY,245.582
+17:10,5,GoodBoyGoneBad_MV_TEASER,65.110
+17:10,6,TXT GBGB MV TEASER,75.400
+17:10,7,Werner,
+17:10,8,Majul,70.622
+17:10,9,Casero,109.679
+17:10,10,ROMANTIC SEONHO DAY,
+17:40,1,Lukaku,35.153
+17:40,2,MakatiIsPink,490.459
+17:40,3,Ipana7oNa10ParaSaLahat,146.438
+17:40,4,SixTONESANN,111.451
+17:40,5,CutiePieEP11,215.599
+17:40,6,GoodBoyGoneBad_MV_TEASER,74.925
+17:40,7,TXT GBGB MV TEASER,85.224
+17:40,8,Werner,12.195
+17:40,9,Pulisic,
+17:40,10,ROMANTIC SEONHO DAY,13.494
+18:10,1,Lukaku,40.978
+18:10,2,CHEWOL,45.791
+18:10,3,CutiePieEP11,560.853
+18:10,4,Ipana7oNa10ParaSaLahat,156.039
+18:10,5,KinnPorscheEP5,222.509
+18:10,6,MakatiIsPink,513.283
+18:10,7,Werner,16.406
+18:10,8,Wolves,68.329
+18:10,9,TXT GBGB MV TEASER,87.344
+18:10,10,Tuchel,22.254
+18:40,1,KinnPorscheEP5,489.122
+18:40,2,CutiePieEP11,885.248
+18:40,3,CHEWOL,47.986
+18:40,4,Lukaku,45.530
+18:40,5,Ipana7oNa10ParaSaLahat,162.115
+18:40,6,Werner,18.924
+18:40,7,Tuchel,29.448
+18:40,8,MakatiIsPink,526.003
+18:40,9,Bristol Rovers,
+18:40,10,Wolves,74.103
+19:10,1,KinnPorscheEP5,734.770
+19:10,2,CutiePieEP11,1.188.306
+19:10,3,CHEWOL,49.315
+19:10,4,Lukaku,47.452
+19:10,5,Ipana7oNa10ParaSaLahat,166.160
+19:10,6,الهلال_ضمك,28.553
+19:10,7,Tuchel,32.148
+19:10,8,Werner,19.849
+19:10,9,Bristol Rovers,
+19:10,10,Brighton,42.620
+19:40,1,KinnPorscheEP5,826.693
+19:40,2,CutiePieEP11,1.321.467
+19:40,3,BHAMUN,27.832
+19:40,4,Brighton,49.426
+19:40,5,McTominay,
+19:40,6,الهلال_ضمك,36.133
+19:40,7,VamosJuntosPeloBrasil,96.167
+19:40,8,Lukaku,49.312
+19:40,9,Tuchel,34.471
+19:40,10,Aleksandro,
+20:10,1,Brighton,82.392
+20:10,2,Manchester United,78.165
+20:10,3,BHAMUN,42.795
+20:10,4,Alcaraz,63.864
+20:10,5,Maguire,35.014
+20:10,6,KinnPorscheEP5,908.736
+20:10,7,BRIMUN,
+20:10,8,MUFC,60.444
+20:10,9,Man U,34.487
+20:10,10,الهلال_ضمك,45.594
+20:40,1,Brighton,104.498
+20:40,2,Manchester United,107.879
+20:40,3,BHAMUN,51.093
+20:40,4,Alcaraz,81.005
+20:40,5,Maguire,41.986
+20:40,6,MUFC,71.274
+20:40,7,Man U,31.783
+20:40,8,KinnPorscheEP5,1.014.711
+20:40,9,BRIMUN,
+20:40,10,الهلال_ضمك,49.538
+21:10,1,Brighton,116.232
+21:10,2,Manchester United,122.557
+21:10,3,BHAMUN,54.356
+21:10,4,MUFC,76.014
+21:10,5,Alcaraz,86.374
+21:10,6,KinnPorscheEP5,1.084.738
+21:10,7,Man U,43.132
+21:10,8,Maguire,44.378
+21:10,9,BRIMUN,
+21:10,10,الهلال_ضمك,55.313
+21:40,1,Brighton,123.345
+21:40,2,Manchester United,133.900
+21:40,3,BHAMUN,56.239
+21:40,4,LIVTOT,47.483
+21:40,5,KinnPorscheEP5,1.124.251
+21:40,6,Man U,45.402
+21:40,7,MUFC,80.252
+21:40,8,Alcaraz,90.828
+21:40,9,Maguire,45.950
+21:40,10,BRIMUN,
+22:10,1,Brighton,128.129
+22:10,2,LIVTOT,57.412
+22:10,3,Manchester United,140.928
+22:10,4,BHAMUN,57.587
+22:10,5,Spurs,41.808
+22:10,6,KinnPorscheEP5,1.149.688
+22:10,7,Man U,32.325
+22:10,8,MUFC,81.707
+22:10,9,Tottenham,68.408
+22:10,10,Maguire,46.864
+22:40,1,LIVTOT,65.997
+22:40,2,Brighton,130.827
+22:40,3,Spurs,48.258
+22:40,4,Manchester United,146.998
+22:40,5,Tottenham,75.274
+22:40,6,BHAMUN,58.453
+22:40,7,KinnPorscheEP5,1.167.561
+22:40,8,Man U,47.781
+22:40,9,MUFC,83.552
+22:40,10,Maguire,47.901
+23:10,1,LIVTOT,72.446
+23:10,2,Spurs,60.065
+23:10,3,Amici21,51.393
+23:10,4,Brighton,130.223
+23:10,5,Tottenham,81.551
+23:10,6,MiamiGP,119.504
+23:10,7,Manchester United,151.012
+23:10,8,Ansu,25.545
+23:10,9,Jordi Alba,10.946
+23:10,10,COYS,
+23:40,1,Giannis,46.017
+23:40,2,Tatum,24.927
+23:40,3,LIVTOT,73.613
+23:40,4,Spurs,64.121
+23:40,5,Amici21,64.530
+23:40,6,MiamiGP,135.116
+23:40,7,Tottenham,83.529
+23:40,8,Brighton,132.995
+23:40,9,Jordi Alba,15.286
+23:40,10,Ansu,33.291

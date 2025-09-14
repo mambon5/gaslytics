@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,FRASUI,563.204
+00:10,2,EURO2020,686.754
+00:10,3,Pogba,422.460
+00:10,4,Mbappe,659.966
+00:10,5,Switzerland,199.033
+00:10,6,LoveIsland,279.237
+00:10,7,Francia,189.849
+00:10,8,Benzema,357.382
+00:10,9,Xhaka,85.144
+00:10,10,Swiss,65.684
+00:41,1,FRASUI,614.018
+00:41,2,EURO2020,730.712
+00:41,3,Pogba,461.629
+00:41,4,Mbappe,790.817
+00:41,5,Switzerland,219.366
+00:41,6,LoveIsland,284.409
+00:41,7,Francia,207.685
+00:41,8,Benzema,398.277
+00:41,9,Xhaka,103.891
+00:41,10,Suiza,143.384
+01:10,1,FRASUI,631.911
+01:10,2,EURO2020,744.039
+01:10,3,Pogba,479.889
+01:10,4,Mbappe,846.506
+01:10,5,Switzerland,227.019
+01:10,6,LoveIsland,287.431
+01:10,7,Francia,214.356
+01:10,8,Benzema,417.834
+01:10,9,Xhaka,111.349
+01:10,10,Suiza,148.448
+01:41,1,FRASUI,642.509
+01:41,2,EURO2020,758.049
+01:41,3,Pogba,490.841
+01:41,4,Mbappe,880.657
+01:41,5,Switzerland,232.823
+01:41,6,Francia,219.412
+01:41,7,LoveIsland,289.903
+01:41,8,Benzema,428.990
+01:41,9,Suiza,152.262
+01:41,10,Xhaka,115.744
+02:10,1,FRASUI,648.459
+02:10,2,Pogba,497.079
+02:10,3,Mbappe,900.917
+02:10,4,EURO2020,763.198
+02:10,5,Switzerland,236.683
+02:10,6,Francia,221.578
+02:10,7,LoveIsland,291.587
+02:10,8,Benzema,436.038
+02:10,9,Suiza,154.533
+02:10,10,Xhaka,118.373
+02:41,1,FRASUI,652.654
+02:41,2,Mbappe,916.001
+02:41,3,Pogba,502.219
+02:41,4,EURO2020,769.991
+02:41,5,Switzerland,239.832
+02:41,6,Francia,223.999
+02:41,7,LoveIsland,293.000
+02:41,8,Benzema,441.250
+02:41,9,Suiza,156.362
+02:41,10,Xhaka,120.357
+03:10,1,FRASUI,655.126
+03:10,2,Mbappe,924.159
+03:10,3,Pogba,505.671
+03:10,4,EURO2020,771.376
+03:10,5,Switzerland,242.127
+03:10,6,Francia,225.099
+03:10,7,LoveIsland,293.770
+03:10,8,TheBachelorette,14.102
+03:10,9,Suiza,157.475
+03:10,10,Xhaka,121.836
+03:41,1,FRASUI,657.330
+03:41,2,Mbappe,935.458
+03:41,3,Pogba,508.746
+03:41,4,TheBachelorette,20.312
+03:41,5,EURO2020,776.067
+03:41,6,Bolivia,66.007
+03:41,7,Switzerland,244.599
+03:41,8,earthquake,
+03:41,9,Lautaro,12.043
+03:41,10,WWERaw,26.052
+04:10,1,FRASUI,658.711
+04:10,2,TheBachelorette,29.670
+04:10,3,Mbappe,941.905
+04:10,4,Pogba,510.962
+04:10,5,FalasDeOrgulho,
+04:10,6,Bolivia,71.607
+04:10,7,earthquake,
+04:10,8,EURO2020,776.394
+04:10,9,Lautaro,14.963
+04:10,10,Switzerland,246.584
+04:41,1,FalasDeOrgulho,20.365
+04:41,2,TheBachelorette,31.434
+04:41,3,FRASUI,660.164
+04:41,4,Mbappe,947.167
+04:41,5,Bolivia,75.814
+04:41,6,WWERaw,37.940
+04:41,7,earthquake,
+04:41,8,nct hollywood,50.186
+04:41,9,Pogba,513.118
+04:41,10,Lautaro,17.013
+05:10,1,FalasDeOrgulho,27.415
+05:10,2,TheBachelorette,32.478
+05:10,3,nct hollywood,108.800
+05:10,4,FRASUI,660.849
+05:10,5,WWERaw,43.306
+05:10,6,NCT 2021,24.683
+05:10,7,Bolivia,77.197
+05:10,8,SaveApexRanked,22.534
+05:10,9,Mbappe,951.476
+05:10,10,Lautaro,17.427
+05:41,1,Reggie Jackson,25.367
+05:41,2,Paul George,34.285
+05:41,3,FalasDeOrgulho,29.348
+05:41,4,Chris Paul,21.553
+05:41,5,nct hollywood,169.406
+05:41,6,TheBachelorette,33.396
+05:41,7,Pat Bev,
+05:41,8,Pat Bev,
+05:41,9,GranFinalYoSoy,
+05:41,10,NCT 2021,164.289
+06:10,1,Paul George,46.472
+06:10,2,Reggie Jackson,29.062
+06:10,3,FalasDeOrgulho,30.149
+06:10,4,GranFinalYoSoy,
+06:10,5,Chris Paul,24.448
+06:10,6,nct hollywood,219.658
+06:10,7,LAYLA,39.891
+06:10,8,Pat Bev,
+06:10,9,TheBachelorette,34.095
+06:10,10,Ty Lue,
+06:41,1,Paul George,51.615
+06:41,2,Reggie Jackson,30.279
+06:41,3,LUKE,72.967
+06:41,4,GranFinalYoSoy,11.796
+06:41,5,FalasDeOrgulho,30.636
+06:41,6,nct hollywood,266.098
+06:41,7,プロセカご意見箱,
+06:41,8,Layla,52.774
+06:41,9,Chris Paul,25.812
+06:41,10,Playoff P,
+07:10,1,Paul George,54.066
+07:10,2,GranFinalYoSoy,17.440
+07:10,3,Reggie Jackson,30.862
+07:10,4,LUKE,82.159
+07:10,5,プロセカご意見箱,
+07:10,6,WelcomeBackSEVENTEEN,31.982
+07:10,7,FalasDeOrgulho,30.955
+07:10,8,nct hollywood,298.691
+07:10,9,Layla,59.679
+07:10,10,LH1ISCOMING,15.440
+07:41,1,GranFinalYoSoy,18.559
+07:41,2,Paul George,56.125
+07:41,3,LUKE,88.079
+07:41,4,Reggie Jackson,31.292
+07:41,5,プロセカご意見箱,
+07:41,6,WelcomeBackSEVENTEEN,40.972
+07:41,7,nct hollywood,327.894
+07:41,8,Layla,65.189
+07:41,9,FalasDeOrgulho,31.205
+07:41,10,LH1ISCOMING,18.108
+08:10,1,GranFinalYoSoy,18.672
+08:10,2,Paul George,57.576
+08:10,3,LUKE,89.786
+08:10,4,プロセカご意見箱,
+08:10,5,Reggie Jackson,31.634
+08:10,6,BamBam_riBBon_50M,28.406
+08:10,7,WelcomeBackSEVENTEEN,45.435
+08:10,8,GIVE US RED VELVET,37.702
+08:10,9,nct hollywood,352.436
+08:10,10,elmalıdavası,665.014
+08:41,1,elmalıdavası,680.536
+08:41,2,BamBam_riBBon_50M,47.966
+08:41,3,プロセカご意見箱,
+08:41,4,GranFinalYoSoy,18.731
+08:41,5,LUKE,92.791
+08:41,6,Paul George,58.844
+08:41,7,ALLAH BELANIZI VERSİN,15.820
+08:41,8,Reggie Jackson,31.926
+08:41,9,GIVE US RED VELVET,48.657
+08:41,10,カラフェス,
+09:10,1,elmalıdavası,699.505
+09:10,2,BamBam_riBBon_50M,67.672
+09:10,3,プロセカご意見箱,
+09:10,4,ALLAH BELANIZI VERSİN,16.787
+09:10,5,GranFinalYoSoy,18.773
+09:10,6,カラフェス,11.337
+09:10,7,Luke,93.328
+09:10,8,GIVE US RED VELVET,55.519
+09:10,9,Elmalida2Cocuk,521.137
+09:10,10,Paul George,59.823
+09:41,1,elmalıdavası,727.714
+09:41,2,Elmalida2Cocuk,526.710
+09:41,3,ALLAH BELANIZI VERSİN,18.609
+09:41,4,BamBam_riBBon_50M,82.824
+09:41,5,プロセカご意見箱,
+09:41,6,カラフェス,13.335
+09:41,7,GranFinalYoSoy,18.796
+09:41,8,GIVE US RED VELVET,61.649
+09:41,9,LUKE,95.775
+09:41,10,Chris Whitty,12.122
+10:10,1,elmalıdavası,771.570
+10:10,2,Elmalida2Cocuk,533.225
+10:10,3,ALLAH BELANIZI VERSİN,21.077
+10:10,4,プロセカご意見箱,
+10:10,5,MAHAL KO KAYO,10.282
+10:10,6,BamBam_riBBon_50M,92.223
+10:10,7,ENGGER,14.008
+10:10,8,カラフェス,14.692
+10:10,9,BTS LIVE,56.726
+10:10,10,Chris Whitty,13.739
+10:41,1,elmalıdavası,840.283
+10:41,2,Elmalida2Cocuk,543.224
+10:41,3,ALLAH BELANIZI VERSİN,23.831
+10:41,4,身長マイナス体重は110がベストらしい,
+10:41,5,MAHAL KO KAYO,25.246
+10:41,6,ENGGER,15.551
+10:41,7,プロセカご意見箱,10.019
+10:41,8,BTS LIVE,81.029
+10:41,9,Chris Whitty,15.444
+10:41,10,カラフェス,15.967
+11:10,1,elmalıdavası,919.531
+11:10,2,Elmalida2Cocuk,553.065
+11:10,3,JacobZuma,
+11:10,4,身長マイナス体重は110がベストらしい,
+11:10,5,ALLAH BELANIZI VERSİN,25.911
+11:10,6,ENGGER,17.015
+11:10,7,MAHAL KO KAYO,29.231
+11:10,8,Chris Whitty,17.115
+11:10,9,José Luis Moreno,
+11:10,10,BTS LIVE,92.423
+11:41,1,elmalıdavası,1.003.736
+11:41,2,Elmalida2Cocuk,566.497
+11:41,3,JacobZuma,10.844
+11:41,4,身長マイナス体重は110がベストらしい,
+11:41,5,ALLAH BELANIZI VERSİN,28.510
+11:41,6,CocukSusarSenSUSMA,
+11:41,7,Chris Whitty,18.957
+11:41,8,MAHAL KO KAYO,31.534
+11:41,9,デドダム再録,
+11:41,10,José Luis Moreno,
+12:10,1,elmalıdavası,1.085.817
+12:10,2,Elmalida2Cocuk,581.568
+12:10,3,JacobZuma,14.676
+12:10,4,身長マイナス体重は110がベストらしい,
+12:10,5,TheShowミリオン,
+12:10,6,ALLAH BELANIZI VERSİN,30.817
+12:10,7,デドダム再録,
+12:10,8,Chris Whitty,20.502
+12:10,9,プリレイ,
+12:10,10,オクトー,11.097
+12:41,1,elmalıdavası,1.162.342
+12:41,2,Elmalida2Cocuk,601.579
+12:41,3,JacobZuma,18.121
+12:41,4,身長マイナス体重は110がベストらしい,
+12:41,5,オトラクション,19.090
+12:41,6,ALLAH BELANIZI VERSİN,32.911
+12:41,7,デドダム再録,
+12:41,8,Chris Whitty,21.926
+12:41,9,プリレイ,
+12:41,10,消費者庁コラボ,
+13:10,1,elmalıdavası,1.223.678
+13:10,2,Elmalida2Cocuk,615.676
+13:10,3,JacobZuma,20.860
+13:10,4,身長マイナス体重は110がベストらしい,
+13:10,5,オトラクション,22.331
+13:10,6,ALLAH BELANIZI VERSİN,34.483
+13:10,7,デドダム再録,
+13:10,8,ドグラ・マグラ,
+13:10,9,消費者庁コラボ,
+13:10,10,Chris Whitty,23.202
+13:41,1,elmalıdavası,1.288.088
+13:41,2,Elmalida2Cocuk,632.000
+13:41,3,身長マイナス体重は110がベストらしい,
+13:41,4,JacobZuma,23.301
+13:41,5,アメトーーク,
+13:41,6,フラカン,
+13:41,7,ROSÉ ON THE SEA OF HOPE,85.876
+13:41,8,ALLAH BELANIZI VERSİN,37.123
+13:41,9,デドダム再録,
+13:41,10,ドグラ・マグラ,
+14:10,1,elmalıdavası,1.316.334
+14:10,2,Elmalida2Cocuk,624.089
+14:10,3,アメトーーク,12.510
+14:10,4,大神ミオ新衣装,15.171
+14:10,5,身長マイナス体重は110がベストらしい,
+14:10,6,横浜優勝,
+14:10,7,ROSÉ ON THE SEA OF HOPE,128.401
+14:10,8,フラカン,
+14:10,9,コールド,
+14:10,10,ドグラ・マグラ,11.403
+14:41,1,elmalıdavası,1.367.617
+14:41,2,Elmalida2Cocuk,638.286
+14:41,3,アメトーーク,14.133
+14:41,4,身長マイナス体重は110がベストらしい,
+14:41,5,大神ミオ新衣装,22.343
+14:41,6,ROSÉ ON THE SEA OF HOPE,157.946
+14:41,7,横浜優勝,
+14:41,8,わけほー,
+14:41,9,ドグラ・マグラ,14.680
+14:41,10,土砂降り,10.506
+15:10,1,elmalıdavası,1.273.340
+15:10,2,Elmalida2Cocuk,515.089
+15:10,3,身長マイナス体重は110がベストらしい,10.735
+15:10,4,アメトーーク,14.810
+15:10,5,は行でなぜモテないのか分かる,
+15:10,6,ROSÉ ON THE SEA OF HOPE,184.526
+15:10,7,わけほー,
+15:10,8,横浜優勝,
+15:10,9,ドグラ・マグラ,17.410
+15:10,10,うさほー,
+15:41,1,ELMALIDAVASI,1.291.439
+15:41,2,Elmalida2Cocuk,527.264
+15:41,3,お願いランキング,27.174
+15:41,4,おいYAGOO,
+15:41,5,は行でなぜモテないのか分かる,
+15:41,6,HBO Max,36.531
+15:41,7,ROSÉ ON THE SEA OF HOPE,205.762
+15:41,8,ドグラ・マグラ,20.329
+15:41,9,フェアリー,
+15:41,10,わけほー,
+16:10,1,ELMALIDAVASI,1.175.580
+16:10,2,Elmalida2Cocuk,399.741
+16:10,3,お願いランキング,42.686
+16:10,4,おいYAGOO,15.377
+16:10,5,は行でなぜモテないのか分かる,
+16:10,6,HBO Max,39.260
+16:10,7,フェアリー,10.259
+16:10,8,ROSÉ ON THE SEA OF HOPE,216.249
+16:10,9,ドグラ・マグラ,22.415
+16:10,10,Nnamdi Kanu,
+16:41,1,ELMALIDAVASI,1.219.144
+16:41,2,Elmalida2Cocuk,416.579
+16:41,3,お願いランキング,57.514
+16:41,4,は行でなぜモテないのか分かる,
+16:41,5,HBO Max,42.886
+16:41,6,VoceNuncaEsteveSozinha,329.630
+16:41,7,フェアリー,16.780
+16:41,8,PERFECT WORLD MV OUT NOW,65.332
+16:41,9,Clifford,23.850
+16:41,10,Nnamdi Kanu,13.699
+17:10,1,ELMALIDAVASI,1.162.238
+17:10,2,Elmalida2Cocuk,365.362
+17:10,3,TWICE_Perfect_World,113.650
+17:10,4,PerfectWorld_withTWICE,113.030
+17:10,5,ENGGER,47.726
+17:10,6,HBO Max,45.182
+17:10,7,フェアリー,17.812
+17:10,8,Clifford,30.626
+17:10,9,Nnamdi Kanu,18.456
+17:10,10,Mark Cavendish,
+17:41,1,ELMALIDAVASI,1.190.609
+17:41,2,TWICE_Perfect_World,156.599
+17:41,3,ENGGER,57.470
+17:41,4,PerfectWorld_withTWICE,155.202
+17:41,5,Elmalida2Cocuk,385.769
+17:41,6,Southgate,42.688
+17:41,7,Foden,28.174
+17:41,8,HBO Max,48.294
+17:41,9,PARK JIMIN,153.269
+17:41,10,Mark Cavendish,
+18:10,1,ENGGER,82.383
+18:10,2,England,450.372
+18:10,3,ELMALIDAVASI,1.160.750
+18:10,4,TWICE_Perfect_World,177.434
+18:10,5,Elmalida2Cocuk,359.236
+18:10,6,Southgate,49.855
+18:10,7,PerfectWorld_withTWICE,172.103
+18:10,8,Foden,31.156
+18:10,9,HBO Max,50.657
+18:10,10,Inglaterra,42.694
+18:41,1,ENGGER,107.171
+18:41,2,England,491.247
+18:41,3,ELMALIDAVASI,1.181.878
+18:41,4,CashAppForHotties,13.024
+18:41,5,Elmalida2Cocuk,375.085
+18:41,6,Alemanha,29.600
+18:41,7,Southgate,56.267
+18:41,8,TWICE_Perfect_World,187.425
+18:41,9,Harry Kane,27.310
+18:41,10,Werner,30.260
+19:10,1,ENGGER,134.595
+19:10,2,Kane,156.303
+19:10,3,England,524.521
+19:10,4,ELMALIDAVASI,1.170.013
+19:10,5,Southgate,64.606
+19:10,6,CashAppForHotties,16.308
+19:10,7,Sterling,51.672
+19:10,8,Alemanha,33.921
+19:10,9,Grealish,49.237
+19:10,10,Hummels,19.507
+19:41,1,ENGGER,176.050
+19:41,2,Sterling,140.179
+19:41,3,Kane,194.302
+19:41,4,England,584.490
+19:41,5,Grealish,74.506
+19:41,6,Southgate,82.634
+19:41,7,Inglaterra,78.045
+19:41,8,ELMALIDAVASI,1.193.322
+19:41,9,Sancho,95.650
+19:41,10,Foden,45.320
+20:10,1,ENGGER,234.430
+20:10,2,England,746.473
+20:10,3,Kane,267.627
+20:10,4,Sterling,182.446
+20:10,5,Grealish,148.580
+20:10,6,Alemanha,81.920
+20:10,7,Muller,71.774
+20:10,8,Inglaterra,113.451
+20:10,9,EURO2020,906.725
+20:10,10,Southgate,107.318
+20:41,1,ENGGER,254.611
+20:41,2,England,849.562
+20:41,3,Sterling,200.590
+20:41,4,Kane,279.900
+20:41,5,Grealish,164.418
+20:41,6,Alemanha,88.914
+20:41,7,Inglaterra,124.250
+20:41,8,Muller,77.422
+20:41,9,SalarioRosa,18.694
+20:41,10,EURO2020,948.559
+21:10,1,ENGGER,264.221
+21:10,2,England,890.899
+21:10,3,Sterling,209.083
+21:10,4,Kane,284.821
+21:10,5,Grealish,170.084
+21:10,6,SalarioRosa,25.918
+21:10,7,Alemanha,91.646
+21:10,8,Inglaterra,128.737
+21:10,9,Muller,80.009
+21:10,10,EURO2020,932.023
+21:41,1,ENGGER,271.207
+21:41,2,England,929.751
+21:41,3,Sterling,215.816
+21:41,4,Kane,289.774
+21:41,5,SalarioRosa,31.236
+21:41,6,Grealish,174.164
+21:41,7,Alemanha,93.960
+21:41,8,Inglaterra,133.554
+21:41,9,Muller,81.964
+21:41,10,ELMALIDAVASI,1.230.085
+22:10,1,England,946.404
+22:10,2,ENGGER,275.567
+22:10,3,SalarioRosa,34.997
+22:10,4,Sterling,219.926
+22:10,5,Kane,291.000
+22:10,6,Grealish,176.278
+22:10,7,ELMALIDAVASI,1.228.330
+22:10,8,Alemanha,94.947
+22:10,9,ENGvsGER,26.027
+22:10,10,Inglaterra,134.853
+22:41,1,England,975.008
+22:41,2,ENGGER,279.718
+22:41,3,SalarioRosa,38.671
+22:41,4,Sterling,224.203
+22:41,5,gavat,18.687
+22:41,6,Kane,294.388
+22:41,7,ELMALIDAVASI,1.247.110
+22:41,8,SWEUKR,19.363
+22:41,9,Grealish,178.946
+22:41,10,Alemanha,96.594
+23:10,1,England,971.100
+23:10,2,SWEUKR,27.802
+23:10,3,ENGGER,281.993
+23:10,4,SalarioRosa,41.329
+23:10,5,gavat,24.054
+23:10,6,ELMALIDAVASI,1.235.779
+23:10,7,Sterling,226.305
+23:10,8,Kane,294.571
+23:10,9,Chloe,67.795
+23:10,10,Grealish,180.208
+23:41,1,SWEUKR,42.838
+23:41,2,Ukraine,87.652
+23:41,3,England,1.031.838
+23:41,4,gavat,29.292
+23:41,5,SalarioRosa,43.527
+23:41,6,ENGGER,285.040
+23:41,7,SANANELAN,11.934
+23:41,8,Sterling,229.378
+23:41,9,Chloe,69.815
+23:41,10,Ucrania,31.518

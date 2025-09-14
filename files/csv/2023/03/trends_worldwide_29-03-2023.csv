@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Luis Enrique,28.053
+00:10,2,Carvajal,20.932
+00:10,3,Escocia,25.419
+00:10,4,McTominay,41.563
+00:10,5,السعوديه_بوليفيا,19.183
+00:10,6,TierraDeNadie4,10.504
+00:10,7,SCOESP,16.232
+00:10,8,Spain,90.761
+00:10,9,Neymar,35.455
+00:10,10,KohLanta,10.360
+00:40,1,Luis Enrique,30.005
+00:40,2,TierraDeNadie4,14.557
+00:40,3,Carvajal,21.713
+00:40,4,Escocia,26.321
+00:40,5,terremoto,
+00:40,6,McTominay,43.392
+00:40,7,السعوديه_بوليفيا,20.275
+00:40,8,Spain,93.857
+00:40,9,SCOESP,16.953
+00:40,10,Neymar,37.701
+01:10,1,Luis Enrique,31.159
+01:10,2,御堂筋線,
+01:10,3,TierraDeNadie4,17.340
+01:10,4,Ibarra,21.036
+01:10,5,Carvajal,21.908
+01:10,6,Ana Obregón,
+01:10,7,terremoto,
+01:10,8,Escocia,26.621
+01:10,9,السعوديه_بوليفيا,21.309
+01:10,10,McTominay,44.705
+01:40,1,御堂筋線,
+01:40,2,Ibarra,25.334
+01:40,3,Luis Enrique,32.003
+01:40,4,TierraDeNadie4,18.946
+01:40,5,オリンパス,15.435
+01:40,6,VaiNaFe,15.508
+01:40,7,Ana Obregón,
+01:40,8,Ansu,13.654
+01:40,9,Carvajal,22.210
+01:40,10,terremoto,
+02:10,1,Lautaro,15.334
+02:10,2,Curazao,11.126
+02:10,3,御堂筋線,
+02:10,4,Celso,
+02:10,5,Ibarra,27.032
+02:10,6,Luis Enrique,32.567
+02:10,7,オリンパス,16.808
+02:10,8,Ansu,15.827
+02:10,9,TierraDeNadie4,20.147
+02:10,10,ラヴィット,17.713
+02:40,1,Curazao,26.917
+02:40,2,Celso,16.777
+02:40,3,Lautaro,19.445
+02:40,4,Enzo,45.894
+02:40,5,御堂筋線,
+02:40,6,オリンパス,18.105
+02:40,7,Ibarra,29.223
+02:40,8,ラヴィット,21.001
+02:40,9,Lionel,106.482
+02:40,10,Ansu,17.206
+03:10,1,Lautaro,25.241
+03:10,2,Curazao,
+03:10,3,Celso,19.694
+03:10,4,Enzo,46.616
+03:10,5,ラヴィット,24.619
+03:10,6,オリンパス,19.557
+03:10,7,Celtics,18.273
+03:10,8,御堂筋線,
+03:10,9,Ibarra,29.186
+03:10,10,Rui Falcão,19.123
+03:40,1,Curazao,43.343
+03:40,2,Lautaro,29.149
+03:40,3,Celso,21.761
+03:40,4,Montiel,18.413
+03:40,5,Enzo,50.840
+03:40,6,オリンパス,20.764
+03:40,7,Celtics,20.371
+03:40,8,Santa Cruz,11.237
+03:40,9,ラヴィット,25.203
+03:40,10,御堂筋線,
+04:10,1,Curazao,48.454
+04:10,2,Lautaro,33.564
+04:10,3,Celso,24.235
+04:10,4,Montiel,22.308
+04:10,5,Santa Cruz,13.516
+04:10,6,オリンパス,22.146
+04:10,7,RHONJ,
+04:10,8,Enzo,51.178
+04:10,9,Celtics,20.887
+04:10,10,Domitila Barros,35.648
+04:40,1,Curazao,51.162
+04:40,2,Lautaro,35.549
+04:40,3,Celso,25.738
+04:40,4,Montiel,23.920
+04:40,5,Santa Cruz,14.586
+04:40,6,オリンパス,23.211
+04:40,7,RHONJ,
+04:40,8,ซีนุนิวคู่แห่งปีคมชัดลึก,44.631
+04:40,9,Ceferino,
+04:40,10,Domitila Barros,43.335
+05:10,1,Gabriel,197.000
+05:10,2,Bruna,133.816
+05:10,3,Draymond,
+05:10,4,Tadeu,18.029
+05:10,5,Curazao,53.132
+05:10,6,Lautaro,34.993
+05:10,7,Celso,26.610
+05:10,8,オリンパス,24.698
+05:10,9,Ceferino,11.598
+05:10,10,Santa Cruz,15.030
+05:40,1,Draymond,12.284
+05:40,2,Gabriel,205.150
+05:40,3,Bruna,141.293
+05:40,4,Tadeu,20.346
+05:40,5,Curazao,54.558
+05:40,6,オリンパス,26.281
+05:40,7,Lautaro,35.891
+05:40,8,リンレン,
+05:40,9,カラフェス,15.154
+05:40,10,Celso,27.424
+06:10,1,Draymond,14.807
+06:10,2,Gabriel,203.388
+06:10,3,Bruna,141.369
+06:10,4,Tadeu,20.893
+06:10,5,カラフェス,21.034
+06:10,6,リンレン,
+06:10,7,オリンパス,27.436
+06:10,8,Curazao,55.713
+06:10,9,Pelicans,10.400
+06:10,10,Paul O'Grady,
+06:40,1,Draymond,17.665
+06:40,2,Warriors,71.689
+06:40,3,Gabriel,206.612
+06:40,4,Bruna,144.089
+06:40,5,Pelicans,11.996
+06:40,6,カラフェス,24.979
+06:40,7,Tadeu,21.627
+06:40,8,リンレン,
+06:40,9,オリンパス,28.562
+06:40,10,ナヒーダ復刻,
+07:10,1,Draymond,21.370
+07:10,2,Warriors,82.699
+07:10,3,Pelicans,13.723
+07:10,4,Gabriel,205.314
+07:10,5,カラフェス,27.586
+07:10,6,Bruna,144.569
+07:10,7,Paul O'Grady,
+07:10,8,ナヒーダ,11.657
+07:10,9,アルハイゼン,
+07:10,10,Tadeu,21.997
+07:40,1,Draymond,23.475
+07:40,2,Paul O'Grady,
+07:40,3,Warriors,86.995
+07:40,4,ナヒーダ,12.955
+07:40,5,Pelicans,14.301
+07:40,6,カラフェス,29.585
+07:40,7,アルハイゼン,
+07:40,8,Gabriel,207.041
+07:40,9,Bruna,146.370
+07:40,10,オリンパス,30.290
+08:10,1,Paul O'Grady,13.597
+08:10,2,Draymond,24.854
+08:10,3,ナヒーダ,13.759
+08:10,4,Warriors,88.498
+08:10,5,カラフェス,31.183
+08:10,6,Lily Savage,
+08:10,7,Pelicans,14.423
+08:10,8,アルハイゼン,
+08:10,9,オリンパス,31.125
+08:10,10,カーヴェ,
+08:40,1,Paul O'Grady,
+08:40,2,DavidAnakKitaSemua,
+08:40,3,Lily Savage,
+08:40,4,Jowi,
+08:40,5,ナヒーダ,14.857
+08:40,6,Draymond,25.729
+08:40,7,カラフェス,32.912
+08:40,8,Warriors,90.586
+08:40,9,アルハイゼン,10.321
+08:40,10,オリンパス,31.978
+09:10,1,Paul O'Grady,26.991
+09:10,2,Lily Savage,
+09:10,3,KarnatakaElections2023,
+09:10,4,DavidAnakKitaSemua,
+09:10,5,Jowi,
+09:10,6,ナヒーダ,15.340
+09:10,7,Ana Obregón,18.530
+09:10,8,カラフェス,34.235
+09:10,9,RimowaXGulf,16.148
+09:10,10,Draymond,26.410
+09:40,1,Paul O'Grady,
+09:40,2,Lily Savage,
+09:40,3,KarnatakaElections2023,
+09:40,4,Ana Obregón,21.176
+09:40,5,WayV_Phantom_in_JAKARTA,
+09:40,6,DavidAnakKitaSemua,
+09:40,7,プロスピA,
+09:40,8,BuSeçim,
+09:40,9,ナヒーダ,16.178
+09:40,10,Jowi,
+10:10,1,Paul O'Grady,42.615
+10:10,2,Erick Thohir Ke FIFA,
+10:10,3,Kita Doakan Erick,
+10:10,4,Lily Savage,
+10:10,5,BuSeçim,
+10:10,6,DavidAnakKitaSemua,
+10:10,7,Ana Obregón,24.140
+10:10,8,Jowi,
+10:10,9,KarnatakaElections2023,
+10:10,10,WayV_Phantom_in_JAKARTA,
+10:40,1,Paul O'Grady,49.475
+10:40,2,Erick Thohir Ke FIFA,
+10:40,3,Kita Doakan Erick,
+10:40,4,Ana Obregón,27.622
+10:40,5,Lily Savage,
+10:40,6,BuSeçim,
+10:40,7,DavidAnakKitaSemua,
+10:40,8,Jowi,
+10:40,9,WayV_Phantom_in_JAKARTA,
+10:40,10,케플러와_Giddy한_멘파타임,
+11:10,1,Paul O'Grady,58.569
+11:10,2,Ana Obregón,
+11:10,3,Lily Savage,10.208
+11:10,4,Kita Doakan Erick,
+11:10,5,Erick Thohir Ke FIFA,
+11:10,6,祝Tiger_MV1000万回再生,
+11:10,7,BuSeçim,
+11:10,8,Tiger_MV10M_Views,
+11:10,9,DavidAnakKitaSemua,
+11:10,10,Jowi,
+11:40,1,Paul O'Grady,65.218
+11:40,2,Ana Obregón,34.738
+11:40,3,祝Tiger_MV1000万回再生,14.204
+11:40,4,Tiger_MV10M_Views,13.865
+11:40,5,Lily Savage,11.777
+11:40,6,Kita Doakan Erick,
+11:40,7,仙台育英,
+11:40,8,Erick Thohir Ke FIFA,
+11:40,9,BuSeçim,
+11:40,10,ゲリラ豪雨,
+12:10,1,Paul O'Grady,
+12:10,2,仙台育英,15.260
+12:10,3,Ana Obregón,38.420
+12:10,4,タイブレーク,
+12:10,5,祝Tiger_MV1000万回再生,18.029
+12:10,6,Tiger_MV10M_Views,17.399
+12:10,7,Lily Savage,13.127
+12:10,8,Kita Doakan Erick,
+12:10,9,ゲリラ豪雨,
+12:10,10,BuSeçim,10.193
+12:40,1,仙台育英,21.742
+12:40,2,Paul O'Grady,78.102
+12:40,3,NMIXX1stWin,14.379
+12:40,4,Ana Obregón,42.088
+12:40,5,タイブレーク,
+12:40,6,報徳学園,
+12:40,7,土砂降り,
+12:40,8,LoveMeLikeThis1stWin,13.475
+12:40,9,祝Tiger_MV1000万回再生,20.859
+12:40,10,有吉の壁,
+13:10,1,仙台育英,22.645
+13:10,2,Paul O'Grady,83.038
+13:10,3,NMIXX1stWin,28.248
+13:10,4,Ana Obregón,46.423
+13:10,5,LoveMeLikeThis1stWin,24.549
+13:10,6,土砂降り,
+13:10,7,タイブレーク,
+13:10,8,有吉の壁,
+13:10,9,報徳学園,
+13:10,10,中丸くんのTwitterライブ,
+13:40,1,NMIXX1stWin,36.158
+13:40,2,Paul O'Grady,88.507
+13:40,3,仙台育英,23.506
+13:40,4,Ana Obregón,50.093
+13:40,5,PMQs,
+13:40,6,有吉の壁,
+13:40,7,土砂降り,
+13:40,8,LoveMeLikeThis1stWin,31.543
+13:40,9,SoyRebeldeTour,
+13:40,10,タイブレーク,
+14:10,1,NMIXX1stWin,42.138
+14:10,2,百鬼あやめ新衣装,
+14:10,3,Paul O'Grady,94.683
+14:10,4,SoyRebeldeTour,
+14:10,5,Ana Obregón,53.411
+14:10,6,仙台育英,23.905
+14:10,7,有吉の壁,10.966
+14:10,8,PMQs,
+14:10,9,土砂降り,
+14:10,10,Dial up,
+14:40,1,GetWellSoonFreen,15.680
+14:40,2,Lazada11yearcharity,56.607
+14:40,3,MacronOrdure,
+14:40,4,百鬼あやめ新衣装,12.015
+14:40,5,NMIXX1stWin,46.114
+14:40,6,Ana Obregón,55.417
+14:40,7,Paul O'Grady,99.848
+14:40,8,仙台育英,24.574
+14:40,9,土砂降り,
+14:40,10,Dial up,
+15:10,1,GetWellSoonFreen,23.787
+15:10,2,MacronOrdure,10.900
+15:10,3,Lazada11yearcharity,101.356
+15:10,4,上田と女が吠える夜,
+15:10,5,SoyRebeldeTour,
+15:10,6,Ana Obregón,60.685
+15:10,7,Paul O'Grady,104.540
+15:10,8,WE FREEN YOU,20.522
+15:10,9,Dial up,
+15:10,10,Kabir Is God,86.728
+15:40,1,上田と女が吠える夜,12.874
+15:40,2,GetWellSoonFreen,29.769
+15:40,3,MacronOrdure,12.998
+15:40,4,Lazada11yearcharity,161.034
+15:40,5,Ana Obregón,66.088
+15:40,6,Who_Is_AadiRam,148.616
+15:40,7,Kabir Is God,149.834
+15:40,8,WE FREEN YOU,24.263
+15:40,9,Dial up,
+15:40,10,Wes Anderson,26.319
+16:10,1,上田と女が吠える夜,18.430
+16:10,2,GetWellSoonFreen,35.592
+16:10,3,Who_Is_AadiRam,210.650
+16:10,4,Lazada11yearcharity,214.260
+16:10,5,MacronOrdure,15.320
+16:10,6,Kabir Is God,201.949
+16:10,7,Ana Obregón,70.791
+16:10,8,Wes Anderson,25.685
+16:10,9,WE FREEN YOU,28.115
+16:10,10,Dial up,
+16:40,1,上田と女が吠える夜,19.691
+16:40,2,水曜日のダウンタウン,
+16:40,3,Who_Is_AadiRam,254.696
+16:40,4,GetWellSoonFreen,40.710
+16:40,5,MacronOrdure,18.295
+16:40,6,Kabir Is God,238.105
+16:40,7,Wes Anderson,28.798
+16:40,8,Ana Obregón,74.710
+16:40,9,海ちゃん,14.857
+16:40,10,WE FREEN YOU,31.562
+17:10,1,上田と女が吠える夜,20.348
+17:10,2,은우의_모든날이_찬란한_봄이길,36.602
+17:10,3,JO1ANNX,13.498
+17:10,4,Who_Is_AadiRam,291.959
+17:10,5,GetWellSoonFreen,53.615
+17:10,6,Wes Anderson,29.024
+17:10,7,Kabir Is God,270.167
+17:10,8,Ana Obregón,78.994
+17:10,9,モバマス,12.852
+17:10,10,海ちゃん,15.039
+17:40,1,은우의_모든날이_찬란한_봄이길,52.968
+17:40,2,JO1ANNX,35.546
+17:40,3,上田と女が吠える夜,20.759
+17:40,4,HAPPY27th_CHAEUNWOO,17.825
+17:40,5,Wes Anderson,31.654
+17:40,6,Who_Is_AadiRam,332.173
+17:40,7,Kabir Is God,306.077
+17:40,8,ALL EYES ON JISOO,61.503
+17:40,9,Ana Obregón,83.437
+17:40,10,モバマス,14.662
+18:10,1,은우의_모든날이_찬란한_봄이길,61.727
+18:10,2,JO1ANNX,54.256
+18:10,3,HAPPY27th_CHAEUNWOO,22.810
+18:10,4,Wes Anderson,32.319
+18:10,5,上田と女が吠える夜,21.058
+18:10,6,Who_Is_AadiRam,367.055
+18:10,7,ALL EYES ON JISOO,75.861
+18:10,8,モバマス,16.008
+18:10,9,Kabir Is God,334.855
+18:10,10,Ana Obregón,88.186
+18:40,1,atmoscollectorsclub,
+18:40,2,atmosweb,
+18:40,3,은우의_모든날이_찬란한_봄이길,67.098
+18:40,4,JO1ANNX,58.298
+18:40,5,HAPPY27th_CHAEUNWOO,25.564
+18:40,6,Wes Anderson,34.268
+18:40,7,Indonesia,204.888
+18:40,8,モバマス,17.066
+18:40,9,ALL EYES ON JISOO,82.440
+18:40,10,Ana Obregón,92.850
+19:10,1,atmoscollectorsclub,
+19:10,2,atmosweb,
+19:10,3,은우의_모든날이_찬란한_봄이길,70.369
+19:10,4,Wes Anderson,34.351
+19:10,5,HAPPY27th_CHAEUNWOO,27.880
+19:10,6,Indonesia,209.786
+19:10,7,JO1ANNX,59.518
+19:10,8,Kanjuruhan,16.068
+19:10,9,モバマス,17.692
+19:10,10,Ana Obregón,97.195
+19:40,1,atmoscollectorsclub,
+19:40,2,atmosweb,
+19:40,3,Copa do Brasil,13.548
+19:40,4,은우의_모든날이_찬란한_봄이길,73.014
+19:40,5,Wes Anderson,36.381
+19:40,6,سوال_ابوفهد_اليومي,14.600
+19:40,7,Indonesia,218.693
+19:40,8,HAPPY27th_CHAEUNWOO,29.535
+19:40,9,Remo,
+19:40,10,Kanjuruhan,17.683
+20:10,1,atmoscollectorsclub,
+20:10,2,Copa do Brasil,16.606
+20:10,3,atmosweb,
+20:10,4,乃木坂46ANN,22.583
+20:10,5,Ituano,
+20:10,6,Wes Anderson,36.844
+20:10,7,MustafaBozdoğan,
+20:10,8,은우의_모든날이_찬란한_봄이길,74.690
+20:10,9,Remo,
+20:10,10,Indonesia,221.359
+20:40,1,CbYanikSHUyuGörmüyor,13.557
+20:40,2,atmoscollectorsclub,
+20:40,3,Copa do Brasil,18.243
+20:40,4,atmosweb,
+20:40,5,MustafaBozdoğan,
+20:40,6,乃木坂46ANN,22.868
+20:40,7,Wes Anderson,33.098
+20:40,8,Ituano,
+20:40,9,Remo,10.193
+20:40,10,Indonesia,226.432
+21:10,1,CbYanikSHUyuGörmüyor,19.568
+21:10,2,فوازير_غازي_الذيابي4,25.448
+21:10,3,Copa do Brasil,19.022
+21:10,4,atmoscollectorsclub,
+21:10,5,atmosweb,
+21:10,6,muharremince,
+21:10,7,Wes Anderson,32.774
+21:10,8,Ituano,
+21:10,9,MebAlanDeğişikliği,18.283
+21:10,10,Remo,10.491
+21:40,1,فوازير_غازي_الذيابي4,40.414
+21:40,2,CbYanikSHUyuGörmüyor,23.725
+21:40,3,MaaşımaZamŞart,18.925
+21:40,4,Copa do Brasil,19.669
+21:40,5,RecepTayyipErdoğan,11.066
+21:40,6,atmoscollectorsclub,
+21:40,7,Gündem Özel,11.156
+21:40,8,MebAlanDeğişikliği,21.207
+21:40,9,Wes Anderson,33.747
+21:40,10,Ituano,
+22:10,1,فوازير_غازي_الذيابي4,54.203
+22:10,2,CbYanikSHUyuGörmüyor,27.438
+22:10,3,chilhavisto,
+22:10,4,RecepTayyipErdoğan,15.199
+22:10,5,Gündem Özel,14.688
+22:10,6,Clayface,
+22:10,7,MaaşımaZamŞart,23.642
+22:10,8,Copa do Brasil,20.075
+22:10,9,MebAlanDeğişikliği,23.377
+22:10,10,Wes Anderson,33.692
+22:40,1,فوازير_غازي_الذيابي4,77.769
+22:40,2,Clayface,
+22:40,3,chilhavisto,
+22:40,4,RecepTayyipErdoğan,21.687
+22:40,5,CbYanikSHUyuGörmüyor,30.081
+22:40,6,AitanaEH,
+22:40,7,Gündem Özel,18.433
+22:40,8,MebAlanDeğişikliği,24.960
+22:40,9,Copa do Brasil,20.717
+22:40,10,Wes Anderson,34.459
+23:10,1,فوازير_غازي_الذيابي4,130.523
+23:10,2,Clayface,
+23:10,3,chilhavisto,
+23:10,4,RecepTayyipErdoğan,27.700
+23:10,5,swfc,
+23:10,6,CbYanikSHUyuGörmüyor,32.338
+23:10,7,Şadi Yazıcı,
+23:10,8,Gündem Özel,21.577
+23:10,9,MebAlanDeğişikliği,26.812
+23:10,10,Copa do Brasil,21.163
+23:40,1,فوازير_غازي_الذيابي4,174.458
+23:40,2,Clayface,11.210
+23:40,3,chilhavisto,
+23:40,4,RecepTayyipErdoğan,31.818
+23:40,5,swfc,
+23:40,6,الرخصه_الاسيويه,
+23:40,7,Friends,1.099.635
+23:40,8,Muharrem,170.093
+23:40,9,Şadi Yazıcı,
+23:40,10,Matt Reeves,

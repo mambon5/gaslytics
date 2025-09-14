@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Lionesses,183.390
+00:10,2,Luca,88.830
+00:10,3,Nichelle Nichols,156.687
+00:10,4,Bill Russell,378.057
+00:10,5,England,399.376
+00:10,6,Paige,27.611
+00:10,7,WEURO2022,224.651
+00:10,8,Kosovo,135.088
+00:10,9,Zambrano,
+00:10,10,Davide,25.431
+00:40,1,Lionesses,187.493
+00:40,2,Luca,91.930
+00:40,3,Nichelle Nichols,171.724
+00:40,4,Bill Russell,392.181
+00:40,5,England,407.190
+00:40,6,Paige,28.452
+00:40,7,Kosovo,147.183
+00:40,8,WEURO2022,228.011
+00:40,9,Zambrano,
+00:40,10,Davide,26.548
+01:10,1,Luca,92.906
+01:10,2,Lionesses,189.962
+01:10,3,Nichelle Nichols,184.738
+01:10,4,Bill Russell,404.956
+01:10,5,Patronato,15.557
+01:10,6,Kosovo,155.975
+01:10,7,Zambrano,
+01:10,8,England,410.764
+01:10,9,Paige,28.812
+01:10,10,Ibarra,10.617
+01:40,1,Luca,94.828
+01:40,2,Nichelle Nichols,196.561
+01:40,3,Lionesses,191.667
+01:40,4,Bill Russell,417.237
+01:40,5,Patronato,18.629
+01:40,6,Kosovo,163.520
+01:40,7,HOBIPALOOZA,573.412
+01:40,8,Zambrano,
+01:40,9,Ibarra,12.123
+01:40,10,Riquelme,12.147
+02:10,1,Nichelle Nichols,206.275
+02:10,2,Luca,94.981
+02:10,3,HOBIPALOOZA,599.823
+02:10,4,Lionesses,192.816
+02:10,5,Bill Russell,428.600
+02:10,6,Patronato,19.855
+02:10,7,Kosovo,169.206
+02:10,8,Riquelme,13.181
+02:10,9,Deebo,13.439
+02:10,10,Zambrano,
+02:40,1,HOBIPALOOZA,650.786
+02:40,2,Nichelle Nichols,214.652
+02:40,3,Luca,96.356
+02:40,4,RicFlairsLastMatch,12.947
+02:40,5,Deebo,18.004
+02:40,6,Bill Russell,437.825
+02:40,7,Patronato,21.012
+02:40,8,Lionesses,193.608
+02:40,9,Kosovo,174.190
+02:40,10,Riquelme,14.040
+03:10,1,HOBIPALOOZA,723.604
+03:10,2,RHOA,14.335
+03:10,3,Nichelle Nichols,222.855
+03:10,4,jhopeAtLollapalooza,308.222
+03:10,5,RicFlairsLastMatch,15.718
+03:10,6,Deebo,20.725
+03:10,7,Luca,95.740
+03:10,8,Bill Russell,447.795
+03:10,9,Fantastico,
+03:10,10,ISAC,142.030
+03:40,1,HOBIPALOOZA,846.561
+03:40,2,jhopeAtLollapalooza,379.658
+03:40,3,River,144.618
+03:40,4,Paradela,
+03:40,5,RHOA,15.594
+03:40,6,RicFlairsLastMatch,21.100
+03:40,7,Married2Med,
+03:40,8,Sarmiento,14.026
+03:40,9,Nichelle Nichols,231.155
+03:40,10,hoseok,294.890
+04:10,1,HOBIPALOOZA,957.499
+04:10,2,jhopeAtLollapalooza,434.591
+04:10,3,HOSEOK,341.313
+04:10,4,River,146.160
+04:10,5,RicFlairsLastMatch,28.711
+04:10,6,Paradela,
+04:10,7,RHOA,16.256
+04:10,8,Married2Med,
+04:10,9,Weverse,283.011
+04:10,10,Sarmiento,15.598
+04:40,1,HOBIPALOOZA,1.113.424
+04:40,2,jhopeAtLollapalooza,494.070
+04:40,3,HOSEOK,432.739
+04:40,4,River,150.569
+04:40,5,RicFlairsLastMatch,32.514
+04:40,6,Weverse,334.277
+04:40,7,Fantastico,
+04:40,8,Paradela,
+04:40,9,BLUE SIDE,64.959
+04:40,10,RHOA,17.131
+05:10,1,HOBIPALOOZA,1.329.871
+05:10,2,HOSEOK,555.669
+05:10,3,jhopeAtLollapalooza,616.833
+05:10,4,BECKY G,141.370
+05:10,5,Weverse,359.026
+05:10,6,River,148.380
+05:10,7,RicFlairsLastMatch,34.819
+05:10,8,Just Dance,69.772
+05:10,9,JackInTheBox,222.643
+05:10,10,Fantastico,
+05:40,1,HOBIPALOOZA,1.696.273
+05:40,2,jhopeAtLollapalooza,823.003
+05:40,3,HOSEOK,801.665
+05:40,4,Becky G,262.494
+05:40,5,Weverse,419.529
+05:40,6,River,151.261
+05:40,7,Just Dance,94.413
+05:40,8,RicFlairsLastMatch,36.705
+05:40,9,enacional,
+05:40,10,LaAcademiaExpulsión,17.496
+06:10,1,HOBIPALOOZA,1.773.153
+06:10,2,jhopeAtLollapalooza,863.903
+06:10,3,HOSEOK,872.048
+06:10,4,Becky G,294.361
+06:10,5,enacional,
+06:10,6,LaAcademiaExpulsion,23.001
+06:10,7,EstadoNacional,
+06:10,8,Weverse,428.516
+06:10,9,Just Dance,98.261
+06:10,10,River,148.839
+06:40,1,HOBIPALOOZA,1.644.263
+06:40,2,jhopeAtLollapalooza,1.023.870
+06:40,3,HOSEOK,940.301
+06:40,4,Becky G,315.125
+06:40,5,enacional,11.222
+06:40,6,LaAcademiaExpulsion,24.687
+06:40,7,FueraTano,
+06:40,8,Fox Sports,11.541
+06:40,9,ISAC,332.790
+06:40,10,Weverse,447.116
+07:10,1,HOBIPALOOZA,1.745.932
+07:10,2,jhopeAtLollapalooza,1.075.714
+07:10,3,hoseok,973.770
+07:10,4,Becky G,336.726
+07:10,5,TheVoiceCHV,
+07:10,6,enacional,12.075
+07:10,7,LaAcademiaExpulsion,25.216
+07:10,8,田口翔被告,
+07:10,9,ISAC,350.754
+07:10,10,山口・阿武町,
+07:40,1,HOBIPALOOZA,1.650.740
+07:40,2,jhopeAtLollapalooza,1.112.839
+07:40,3,hoseok,1.001.487
+07:40,4,Becky G,347.885
+07:40,5,TheVoiceCHV,
+07:40,6,pazartesi,
+07:40,7,Happy New Month,22.896
+07:40,8,田口翔被告,
+07:40,9,enacional,12.680
+07:40,10,ISAC,369.970
+08:10,1,HOBIPALOOZA,1.689.414
+08:10,2,jhopeAtLollapalooza,1.135.409
+08:10,3,hoseok,1.018.377
+08:10,4,Becky G,355.485
+08:10,5,pazartesi,
+08:10,6,Happy New Month,27.972
+08:10,7,TheVoiceCHV,
+08:10,8,田口翔被告,12.358
+08:10,9,山口・阿武町,
+08:10,10,ISAC,386.081
+08:40,1,HOBIPALOOZA,1.856.012
+08:40,2,jhopeAtLollapalooza,1.157.524
+08:40,3,hoseok,1.036.175
+08:40,4,Happy New Month,35.042
+08:40,5,Becky G,361.385
+08:40,6,pazartesi,
+08:40,7,TheVoiceCHV,
+08:40,8,TirangaMeraMaan,
+08:40,9,田口翔被告,15.277
+08:40,10,山口・阿武町,
+09:10,1,HOBIPALOOZA,1.750.095
+09:10,2,jhopeAtLollapalooza,1.172.194
+09:10,3,Happy New Month,45.256
+09:10,4,hoseok,1.046.439
+09:10,5,pazartesi,
+09:10,6,Becky G,365.881
+09:10,7,YorkshireDay,
+09:10,8,田口翔被告,18.014
+09:10,9,TheVoiceCHV,
+09:10,10,山口・阿武町,
+09:40,1,hobi,1.150.108
+09:40,2,Happy New Month,58.326
+09:40,3,jhopeAtLollapalooza,1.180.194
+09:40,4,MondayMotivation,19.317
+09:40,5,hoseok,1.060.055
+09:40,6,pazartesi,
+09:40,7,YorkshireDay,
+09:40,8,mondaythoughts,
+09:40,9,Becky G,370.336
+09:40,10,田口翔被告,20.284
+10:10,1,Happy New Month,70.289
+10:10,2,hobi,1.166.944
+10:10,3,MondayMotivation,21.531
+10:10,4,YorkshireDay,
+10:10,5,pazartesi,
+10:10,6,jhopeAtLollapalooza,1.196.365
+10:10,7,hoseok,1.068.339
+10:10,8,まいんちゃん,
+10:10,9,mondaythoughts,
+10:10,10,船長200万人,
+10:40,1,Happy New Month,82.789
+10:40,2,Aston Martin,15.728
+10:40,3,Alpine,34.792
+10:40,4,YorkshireDay,
+10:40,5,MondayMotivation,23.618
+10:40,6,hobi,1.169.266
+10:40,7,pazartesi,
+10:40,8,まいんちゃん,
+10:40,9,mondaythoughts,
+10:40,10,jhopeAtLollapalooza,1.207.709
+11:10,1,Aston Martin,22.878
+11:10,2,Alpine,39.703
+11:10,3,Happy New Month,93.374
+11:10,4,YorkshireDay,
+11:10,5,KunciCoin Masuk Global,
+11:10,6,Kripto Karya AnakNegeri,
+11:10,7,MondayMotivation,25.746
+11:10,8,hobi,1.169.183
+11:10,9,뉴진스_데뷔한다_어텐션_플리즈,12.820
+11:10,10,CookieOutNow,
+11:40,1,Aston Martin,28.296
+11:40,2,Alpine,43.513
+11:40,3,Happy New Month,102.562
+11:40,4,YorkshireDay,
+11:40,5,MondayMotivation,28.162
+11:40,6,KunciCoin Masuk Global,
+11:40,7,Kripto Karya AnakNegeri,
+11:40,8,CookieOutNow,13.262
+11:40,9,NewJeans_Debut,12.365
+11:40,10,hobi,1.192.574
+12:10,1,Aston Martin,32.528
+12:10,2,Alpine,46.527
+12:10,3,Happy New Month,109.975
+12:10,4,YorkshireDay,
+12:10,5,MondayMotivation,30.603
+12:10,6,KunciCoin Masuk Global,
+12:10,7,Kripto Karya AnakNegeri,
+12:10,8,十万円でできるかな,
+12:10,9,ギアさん,
+12:10,10,hobi,
+12:40,1,Aston Martin,36.448
+12:40,2,Alpine,49.023
+12:40,3,Happy New Month,116.330
+12:40,4,十万円でできるかな,17.812
+12:40,5,ネプリーグ,
+12:40,6,YorkshireDay,
+12:40,7,Piastri,12.083
+12:40,8,MondayMotivation,32.767
+12:40,9,サンドキスマイ旅,12.972
+12:40,10,ギアさん,
+13:10,1,まんが王国お得爆発DAY,
+13:10,2,まんが王国はお得感No1,
+13:10,3,全マンガ最大80パーセント還元,
+13:10,4,一気読み,
+13:10,5,Aston Martin,39.693
+13:10,6,ネプリーグ,11.141
+13:10,7,Alpine,50.962
+13:10,8,十万円でできるかな,25.398
+13:10,9,Happy New Month,121.110
+13:10,10,Alonso,110.373
+13:40,1,まんが王国お得爆発DAY,
+13:40,2,まんが王国はお得感No1,
+13:40,3,全マンガ最大80パーセント還元,
+13:40,4,一気読み,
+13:40,5,十万円でできるかな,37.724
+13:40,6,Aston Martin,42.679
+13:40,7,Alpine,52.903
+13:40,8,ネプリーグ,12.174
+13:40,9,Happy New Month,125.627
+13:40,10,Alonso,115.128
+14:10,1,まんが王国お得爆発DAY,
+14:10,2,まんが王国はお得感No1,
+14:10,3,全マンガ最大80パーセント還元,
+14:10,4,一気読み,
+14:10,5,RUN BTS,124.861
+14:10,6,十万円でできるかな,45.468
+14:10,7,Aston Martin,45.512
+14:10,8,Alpine,54.450
+14:10,9,ネプリーグ,21.839
+14:10,10,ProvamedxGulf,50.235
+14:40,1,RUN BTS,210.974
+14:40,2,まんが王国お得爆発day,
+14:40,3,全マンガ最大80パーセント還元,
+14:40,4,まんが王国はお得感No1,
+14:40,5,一気読み,
+14:40,6,さくらみこ4周年,40.922
+14:40,7,WhyDontYouStayEngVer,27.849
+14:40,8,タリョラ,
+14:40,9,Aston Martin,48.177
+14:40,10,Alpine,56.188
+15:10,1,RUN BTS,252.097
+15:10,2,CDTVライブライブ,22.824
+15:10,3,さくらみこ4周年,62.296
+15:10,4,全マンガ最大80パーセント還元,
+15:10,5,まんが王国はお得感No1,
+15:10,6,まんが王国お得爆発DAY,
+15:10,7,一気読み,
+15:10,8,Calvin Ridley,
+15:10,9,Deshaun Watson,32.364
+15:10,10,タリョラ,
+15:40,1,さくらみこ4周年,77.362
+15:40,2,Calvin Ridley,14.580
+15:40,3,Run BTS,280.197
+15:40,4,CDTVライブライブ,24.311
+15:40,5,Watson,68.331
+15:40,6,まんが王国お得爆発DAY,
+15:40,7,全マンガ最大80パーセント還元,
+15:40,8,まんが王国はお得感No1,
+15:40,9,一気読み,
+15:40,10,The NFL,53.017
+16:10,1,Calvin Ridley,19.345
+16:10,2,Watson,79.707
+16:10,3,さくらみこ4周年,81.807
+16:10,4,Run BTS,300.972
+16:10,5,The NFL,59.449
+16:10,6,Andor,21.286
+16:10,7,CDTVライブライブ,25.427
+16:10,8,GetWellSoonJaehyun,27.047
+16:10,9,まんが王国お得爆発DAY,
+16:10,10,Browns,29.520
+16:40,1,Watson,89.954
+16:40,2,영원한차일드_우리마크_생일축하해,70.925
+16:40,3,reMARKable24years,72.871
+16:40,4,Calvin Ridley,23.676
+16:40,5,Andor,24.886
+16:40,6,The NFL,65.811
+16:40,7,さくらみこ4周年,84.268
+16:40,8,Run BTS,319.136
+16:40,9,GetWellSoonJaehyun,31.393
+16:40,10,Browns,32.558
+17:10,1,reMARKable24years,154.398
+17:10,2,영원한차일드_우리마크_생일축하해,153.539
+17:10,3,Watson,100.382
+17:10,4,Calvin Ridley,27.800
+17:10,5,Andor,27.976
+17:10,6,The NFL,70.456
+17:10,7,GetWellSoonJaehyun,34.999
+17:10,8,さくらみこ4周年,83.729
+17:10,9,Browns,34.513
+17:10,10,Run BTS,332.246
+17:40,1,reMARKable24years,225.086
+17:40,2,영원한차일드_우리마크_생일축하해,225.180
+17:40,3,Watson,110.509
+17:40,4,Calvin Ridley,31.810
+17:40,5,Andor,30.830
+17:40,6,The NFL,76.207
+17:40,7,itsaugust,
+17:40,8,천둥번개,
+17:40,9,Browns,36.868
+17:40,10,sp813,
+18:10,1,reMARKable24years,264.088
+18:10,2,영원한차일드_우리마크_생일축하해,261.590
+18:10,3,Watson,119.542
+18:10,4,천둥번개,
+18:10,5,Andor,33.396
+18:10,6,Calvin Ridley,35.119
+18:10,7,The NFL,79.704
+18:10,8,itsaugust,
+18:10,9,천둥소리,
+18:10,10,条件反射で泣けて来る,
+18:40,1,reMARKable24years,285.616
+18:40,2,영원한차일드_우리마크_생일축하해,281.632
+18:40,3,Watson,128.701
+18:40,4,천둥번개,
+18:40,5,Andor,35.569
+18:40,6,The NFL,84.844
+18:40,7,Calvin Ridley,37.983
+18:40,8,천둥소리,
+18:40,9,itsaugust,
+18:40,10,NationalGirlfriendDay,
+19:10,1,reMARKable24years,298.115
+19:10,2,영원한차일드_우리마크_생일축하해,293.486
+19:10,3,Watson,137.022
+19:10,4,천둥번개,
+19:10,5,천둥소리,
+19:10,6,Andor,37.419
+19:10,7,The NFL,88.681
+19:10,8,NationalGirlfriendDay,
+19:10,9,Calvin Ridley,40.600
+19:10,10,itsaugust,10.016
+19:40,1,reMARKable24years,306.497
+19:40,2,영원한차일드_우리마크_생일축하해,301.060
+19:40,3,Hader,11.591
+19:40,4,Watson,144.274
+19:40,5,천둥번개,
+19:40,6,NationalGirlfriendDay,10.245
+19:40,7,천둥소리,
+19:40,8,Brewers,12.715
+19:40,9,Andor,39.021
+19:40,10,The NFL,92.962
+20:10,1,reMARKable24years,311.870
+20:10,2,영원한차일드_우리마크_생일축하해,306.221
+20:10,3,Hader,16.144
+20:10,4,Hermes,29.287
+20:10,5,Watson,150.609
+20:10,6,Brewers,15.496
+20:10,7,천둥번개,
+20:10,8,NationalGirlfriendDay,11.666
+20:10,9,천둥소리,
+20:10,10,The NFL,95.601
+20:40,1,Hermes,37.114
+20:40,2,reMARKable24years,315.217
+20:40,3,Hader,18.608
+20:40,4,영원한차일드_우리마크_생일축하해,309.430
+20:40,5,Watson,157.140
+20:40,6,Brewers,17.455
+20:40,7,NationalGirlfriendDay,12.870
+20:40,8,HAPPYMARKDAY,426.547
+20:40,9,천둥번개,
+20:40,10,Padres,70.284
+21:10,1,Hermes,38.703
+21:10,2,Hader,20.027
+21:10,3,reMARKable24years,317.674
+21:10,4,영원한차일드_우리마크_생일축하해,311.657
+21:10,5,Watson,162.163
+21:10,6,Brewers,18.022
+21:10,7,NationalGirlfriendDay,14.186
+21:10,8,TodosConCristina,
+21:10,9,SpiderManDay,15.022
+21:10,10,Taiwan,287.614
+21:40,1,Hermes,43.057
+21:40,2,Hader,21.518
+21:40,3,reMARKable24years,319.725
+21:40,4,영원한차일드_우리마크_생일축하해,313.590
+21:40,5,Watson,167.418
+21:40,6,NationalGirlfriendDay,15.423
+21:40,7,Brewers,19.367
+21:40,8,TodosConCristina,15.406
+21:40,9,FCMSGE,
+21:40,10,Christy O,
+22:10,1,Hermes,44.254
+22:10,2,Hader,22.613
+22:10,3,FCMSGE,
+22:10,4,NationalGirlfriendDay,16.609
+22:10,5,MapiRTVE1,
+22:10,6,TodosConCristina,21.770
+22:10,7,reMARKable24years,321.063
+22:10,8,Watson,171.726
+22:10,9,Taiwan,303.041
+22:10,10,Brewers,20.222
+22:40,1,Davide,41.018
+22:40,2,Tasha,29.853
+22:40,3,LoveIsland2022,
+22:40,4,MapiRTVE1,
+22:40,5,pltcashprize,
+22:40,6,Hader,23.601
+22:40,7,Hermes,45.846
+22:40,8,FCMSGE,
+22:40,9,TodosConCristina,27.084
+22:40,10,Indiyah,35.571
+23:10,1,LoveIsland,245.958
+23:10,2,Luca,102.230
+23:10,3,Tasha,39.056
+23:10,4,Davide,38.128
+23:10,5,Indiyah,31.547
+23:10,6,pltcashprize,
+23:10,7,MapiRTVE1,
+23:10,8,Montas,22.177
+23:10,9,الزمالك,35.557
+23:10,10,Hader,24.193
+23:40,1,LoveIsland,381.551
+23:40,2,Luca,139.131
+23:40,3,Davide,72.014
+23:40,4,Tasha,42.647
+23:40,5,pltcashprize,12.466
+23:40,6,Indiyah,35.343
+23:40,7,الزمالك,44.880
+23:40,8,Trabzonspor55Yaşında,
+23:40,9,Big Brother,32.325
+23:40,10,Mancini,14.473

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Bruno Guimarães,93.170
+00:10,2,Martinelli,107.897
+00:10,3,Camarões,200.362
+00:10,4,Antony,72.312
+00:10,5,Daniel Alves,46.356
+00:10,6,Cameroon,140.862
+00:10,7,Everton Ribeiro,32.028
+00:10,8,Coreia,179.331
+00:10,9,BallandoConLeStelle,
+00:10,10,Ederson,22.630
+00:40,1,Bruno Guimarães,95.419
+00:40,2,Martinelli,110.602
+00:40,3,Camarões,204.806
+00:40,4,Antony,73.674
+00:40,5,Daniel Alves,47.116
+00:40,6,Brazil,323.495
+00:40,7,HunterBidensLaptop,17.225
+00:40,8,BallandoConLeStelle,
+00:40,9,Everton Ribeiro,32.759
+00:40,10,Coreia,182.418
+01:10,1,Bruno Guimarães,96.999
+01:10,2,Martinelli,112.360
+01:10,3,Camarões,206.766
+01:10,4,HunterBidensLaptop,23.910
+01:10,5,Antony,73.854
+01:10,6,Daniel Alves,47.538
+01:10,7,Brazil,317.408
+01:10,8,BallandoConLeStelle,
+01:10,9,Coreia,184.719
+01:10,10,Everton Ribeiro,33.283
+01:40,1,Bruno Guimarães,98.201
+01:40,2,Martinelli,114.215
+01:40,3,Camarões,210.290
+01:40,4,HunterBidensLaptop,31.165
+01:40,5,Gabriel Jesus,99.534
+01:40,6,Antony,74.821
+01:40,7,Daniel Alves,48.022
+01:40,8,Brazil,322.788
+01:40,9,BallandoConLeStelle,10.084
+01:40,10,ウルトラマンデッカー,
+02:10,1,Bruno Guimarães,98.978
+02:10,2,HunterBidensLaptop,38.033
+02:10,3,Camarões,212.211
+02:10,4,Martinelli,115.700
+02:10,5,王様のブランチ,31.839
+02:10,6,Gabriel Jesus,100.254
+02:10,7,Brazil,318.075
+02:10,8,FULLver_SPECTRA_INI,19.014
+02:10,9,twitterfiles,
+02:10,10,Matt Taibbi,12.241
+02:40,1,deGrom,27.678
+02:40,2,Mets,21.436
+02:40,3,HunterBidensLaptop,45.473
+02:40,4,Bruno Guimarães,99.928
+02:40,5,SmackDown,11.984
+02:40,6,twitterfiles,14.282
+02:40,7,Camarões,214.597
+02:40,8,王様のブランチ,39.898
+02:40,9,Martinelli,117.043
+02:40,10,Matt Taibbi,17.198
+03:10,1,deGrom,34.690
+03:10,2,Caleb Williams,11.284
+03:10,3,Mets,26.286
+03:10,4,SmackDown,17.708
+03:10,5,HunterBidensLaptop,52.077
+03:10,6,twitterfiles,20.489
+03:10,7,Bruno Guimarães,100.623
+03:10,8,王様のブランチ,43.850
+03:10,9,pac12championship,
+03:10,10,Utah,27.994
+03:40,1,deGrom,39.144
+03:40,2,Caleb Williams,12.902
+03:40,3,Mets,29.680
+03:40,4,SmackDown,26.537
+03:40,5,twitterfiles,26.808
+03:40,6,Hunter Biden,343.179
+03:40,7,Utah,31.211
+03:40,8,Tegan Nox,
+03:40,9,スラムダンク,38.634
+03:40,10,pac12championship,
+04:10,1,Lakers,44.034
+04:10,2,deGrom,42.450
+04:10,3,SmackDown,34.838
+04:10,4,Giannis,27.724
+04:10,5,Caleb Williams,13.532
+04:10,6,Mets,32.084
+04:10,7,twitterfiles,30.108
+04:10,8,Jaylen Brown,11.298
+04:10,9,Utah,33.875
+04:10,10,Hunter Biden,370.181
+04:40,1,Lakers,75.933
+04:40,2,deGrom,45.114
+04:40,3,Caleb Williams,15.046
+04:40,4,Giannis,34.807
+04:40,5,SmackDown,38.172
+04:40,6,Mets,34.465
+04:40,7,LakeShow,
+04:40,8,Utah,39.295
+04:40,9,twitterfiles,34.405
+04:40,10,MANIFESTO_IN_BANGKOK,67.426
+05:10,1,Lakers,83.156
+05:10,2,Caleb Williams,17.075
+05:10,3,deGrom,47.147
+05:10,4,Utah,42.629
+05:10,5,Giannis,37.195
+05:10,6,MANIFESTO_IN_BANGKOK,77.036
+05:10,7,Mets,35.879
+05:10,8,SmackDown,39.899
+05:10,9,pac12championship,
+05:10,10,twitterfiles,38.294
+05:40,1,Caleb Williams,23.274
+05:40,2,Utah,57.355
+05:40,3,Lakers,87.772
+05:40,4,pac12championship,
+05:40,5,deGrom,48.754
+05:40,6,Lincoln Riley,
+05:40,7,MANIFESTO_IN_BANGKOK,87.749
+05:40,8,Utes,13.533
+05:40,9,Heisman,12.990
+05:40,10,Giannis,38.941
+06:10,1,Utah,80.021
+06:10,2,Utah,80.021
+06:10,3,Caleb Williams,28.259
+06:10,4,Lincoln Riley,
+06:10,5,Lakers,90.845
+06:10,6,pac12championship,
+06:10,7,Heisman,17.087
+06:10,8,MANIFESTO_IN_BANGKOK,93.971
+06:10,9,deGrom,50.044
+06:10,10,YinWarConcert,168.254
+06:40,1,Utah,88.123
+06:40,2,Utah,88.123
+06:40,3,Caleb Williams,30.003
+06:40,4,Lincoln Riley,11.157
+06:40,5,Bama,17.577
+06:40,6,Lakers,94.004
+06:40,7,pac12championship,
+06:40,8,Heisman,18.488
+06:40,9,BeOnCloudPartyTicketsday,13.462
+06:40,10,MANIFESTO_IN_BANGKOK,102.577
+07:10,1,Utah,92.773
+07:10,2,Caleb Williams,31.286
+07:10,3,Bama,18.957
+07:10,4,Lincoln Riley,11.817
+07:10,5,BeOnCloudPartyTicketsday,29.967
+07:10,6,Lakers,96.655
+07:10,7,pac12championship,
+07:10,8,Heisman,19.156
+07:10,9,Utes,20.362
+07:10,10,MANIFESTO_IN_BANGKOK,107.758
+07:40,1,Utah,96.363
+07:40,2,Caleb Williams,32.155
+07:40,3,Bama,19.954
+07:40,4,BeOnCloudPartyTicketsday,37.754
+07:40,5,シルヴァーソニック,13.274
+07:40,6,Lincoln Riley,12.305
+07:40,7,pac12championship,
+07:40,8,Lakers,98.684
+07:40,9,Heisman,19.743
+07:40,10,Utes,20.960
+08:10,1,Utah,98.658
+08:10,2,Caleb Williams,32.735
+08:10,3,シルヴァーソニック,19.449
+08:10,4,BeOnCloudPartyTicketsday,44.812
+08:10,5,Bama,20.470
+08:10,6,Lincoln Riley,12.630
+08:10,7,ソーヴァリアント,
+08:10,8,ななしふぇすJUMP,35.810
+08:10,9,Heisman,20.031
+08:10,10,pac12championship,
+08:40,1,Utah,100.536
+08:40,2,シルヴァーソニック,22.368
+08:40,3,Caleb Williams,33.138
+08:40,4,BeOnCloudPartyTicketsday,49.651
+08:40,5,Bama,20.975
+08:40,6,3AralıkDünyaEngellilerGünü,13.126
+08:40,7,GULFSpectrumofme,18.896
+08:40,8,ななしふぇすJUMP,39.069
+08:40,9,Lincoln Riley,12.873
+08:40,10,ソーヴァリアント,
+09:10,1,Utah,101.665
+09:10,2,3AralıkDünyaEngellilerGünü,16.213
+09:10,3,GULFSpectrumofme,56.088
+09:10,4,シルヴァーソニック,24.070
+09:10,5,ベストアーティスト2022,164.530
+09:10,6,BeOnCloudPartyTicketsday,52.995
+09:10,7,Caleb Williams,33.363
+09:10,8,タローマンヒストリア,10.157
+09:10,9,Bama,21.197
+09:10,10,ソーヴァリアント,
+09:40,1,3AralıkDünyaEngellilerGünü,20.189
+09:40,2,Liella_3rd_宮城Day1,13.360
+09:40,3,GULFSpectrumofme,90.535
+09:40,4,ベストアーティスト2022,177.611
+09:40,5,Utah,102.612
+09:40,6,SideM7th_横浜day1,16.934
+09:40,7,シルヴァーソニック,25.684
+09:40,8,スラムダンク,85.188
+09:40,9,Caleb Williams,33.506
+09:40,10,ソーヴァリアント,
+10:10,1,3AralıkDünyaEngellilerGünü,24.136
+10:10,2,Liella_3rd_宮城Day1,19.197
+10:10,3,ダビダンス,
+10:10,4,SideM7th_横浜day1,23.492
+10:10,5,ベストアーティスト2022,187.122
+10:10,6,GULFSpectrumofme,116.539
+10:10,7,Utah,103.295
+10:10,8,シルヴァーソニック,26.569
+10:10,9,スラムダンク,88.047
+10:10,10,トガちゃん,
+10:40,1,3AralıkDünyaEngellilerGünü,28.440
+10:40,2,BuildXLancome,107.154
+10:40,3,ダビダンス,
+10:40,4,Liella_3rd_宮城Day1,24.055
+10:40,5,ベストアーティスト2022,200.296
+10:40,6,SideM7th_横浜day1,31.315
+10:40,7,ClariS,
+10:40,8,人狼RPG,
+10:40,9,スラムダンク,91.974
+10:40,10,シルヴァーソニック,27.516
+11:10,1,ベストアーティスト2022,242.927
+11:10,2,ichiban,55.029
+11:10,3,KingandPrince,194.914
+11:10,4,BuildXLancome,212.094
+11:10,5,3AralıkDünyaEngellilerGünü,32.506
+11:10,6,ダビダンス,
+11:10,7,キンプリ,68.101
+11:10,8,Osman Selçuk Aldemir,
+11:10,9,サッタリ,
+11:10,10,Kerasa,11.470
+11:40,1,ベストアーティスト2022,332.467
+11:40,2,ichiban,97.544
+11:40,3,キスマイベスア想花,
+11:40,4,KingandPrince,243.929
+11:40,5,BuildXLancome,286.010
+11:40,6,キンプリ,91.051
+11:40,7,Garut,22.262
+11:40,8,なにわちゃん,
+11:40,9,ダビダンス,
+11:40,10,Osman Selçuk Aldemir,
+12:10,1,ベストアーティスト2022,387.097
+12:10,2,ichiban,115.486
+12:10,3,キスマイベスア想花,22.650
+12:10,4,KingandPrince,259.212
+12:10,5,BuildXLancome,348.473
+12:10,6,キンプリ,99.342
+12:10,7,Garut,25.804
+12:10,8,なにわちゃん,
+12:10,9,ダビダンス,
+12:10,10,コンパス,41.537
+12:40,1,ベストアーティスト2022,438.669
+12:40,2,ichiban,128.970
+12:40,3,KingandPrince,277.669
+12:40,4,キスマイベスア想花,26.274
+12:40,5,nhkらじらー,12.844
+12:40,6,Garut,28.223
+12:40,7,キンプリ,107.942
+12:40,8,コンパス,47.977
+12:40,9,취한 최애,
+12:40,10,なにわちゃん,
+13:10,1,ベストアーティスト2022,502.640
+13:10,2,KingandPrince,295.066
+13:10,3,BEFIRST,69.593
+13:10,4,ichiban,134.311
+13:10,5,KinKi,26.712
+13:10,6,ビビアン,13.250
+13:10,7,TraceTrace,60.818
+13:10,8,キンプリ,117.776
+13:10,9,ブラックビスケッツ,13.139
+13:10,10,トレトレ,14.492
+13:40,1,ベストアーティスト2022,590.056
+13:40,2,ビビアン,36.088
+13:40,3,ブラックビスケッツ,12.113
+13:40,4,黄金青春_セクゾ,12.994
+13:40,5,KingandPrince,331.133
+13:40,6,BEFIRST,78.190
+13:40,7,MISIA,14.543
+13:40,8,キンプリ,130.922
+13:40,9,Timing,33.848
+13:40,10,KinKi,28.118
+14:10,1,ベストアーティスト2022,663.351
+14:10,2,ビビアン,40.416
+14:10,3,黄金青春_セクゾ,22.738
+14:10,4,ブラックビスケッツ,14.443
+14:10,5,兎田ぺこらがやってみた,47.818
+14:10,6,KingandPrince,335.873
+14:10,7,サンダーソニア,
+14:10,8,GLAMOROUS SKY,
+14:10,9,KAT-TUN,
+14:10,10,青春アミーゴ,
+14:40,1,ベストアーティスト2022,704.490
+14:40,2,ビビアン,44.289
+14:40,3,黄金青春_セクゾ,26.648
+14:40,4,あなたが2022年に失った二文字,
+14:40,5,ブラックビスケッツ,16.097
+14:40,6,兎田ぺこらがやってみた,52.672
+14:40,7,KAT-TUN,
+14:40,8,青春アミーゴ,10.309
+14:40,9,サンダーソニア,12.984
+14:40,10,GLAMOROUS SKY,
+15:10,1,ベストアーティスト2022,740.194
+15:10,2,あなたが2022年に失った二文字,
+15:10,3,Venue101,24.381
+15:10,4,ビビアン,47.524
+15:10,5,黄金青春_セクゾ,28.713
+15:10,6,ブラックビスケッツ,17.183
+15:10,7,KAT-TUN,
+15:10,8,青春アミーゴ,11.082
+15:10,9,サンダーソニア,14.079
+15:10,10,GLAMOROUS SKY,10.140
+15:40,1,ベストアーティスト2022,774.073
+15:40,2,Venue101,85.624
+15:40,3,あなたが2022年に失った二文字,
+15:40,4,구름사이_별사이_도영생일,31.888
+15:40,5,ビビアン,49.537
+15:40,6,ボーイフレンド降臨,37.687
+15:40,7,FOREVER WITH DOYOUNG,30.840
+15:40,8,ブラックビスケッツ,42.812
+15:40,9,KAT-TUN,
+15:40,10,GLAMOROUS SKY,10.636
+16:10,1,HappyBirthdayJin,92.455
+16:10,2,HappyBirthdayJin,92.455
+16:10,3,ベストアーティスト2022,796.080
+16:10,4,USAvNED,10.142
+16:10,5,TheAstronautDay,117.794
+16:10,6,Netherlands,126.900
+16:10,7,ビビアン,51.034
+16:10,8,Go USA,12.612
+16:10,9,ジンくん,15.329
+16:10,10,ブラックビスケッツ,44.250
+16:40,1,HappyBirthdayJin,193.787
+16:40,2,HappyBirthdayJin,193.787
+16:40,3,USAvNED,17.382
+16:40,4,TheAstronautDay,176.680
+16:40,5,ベストアーティスト2022,813.351
+16:40,6,Netherlands,158.166
+16:40,7,Depay,17.931
+16:40,8,Dutch,47.716
+16:40,9,ジンくん,21.961
+16:40,10,オランダ,37.520
+17:10,1,HappyBirthdayJin,254.069
+17:10,2,HappyBirthdayJin,254.069
+17:10,3,USAvNED,28.244
+17:10,4,NEDUSA,42.380
+17:10,5,Netherlands,184.594
+17:10,6,TheAstronautDay,201.432
+17:10,7,Dutch,55.009
+17:10,8,Holanda,43.970
+17:10,9,Ferreira,18.193
+17:10,10,Reyna,16.920
+17:40,1,HappyBirthdayJin,293.989
+17:40,2,HappyBirthdayJin,293.989
+17:40,3,USAvNED,35.099
+17:40,4,NEDUSA,50.714
+17:40,5,Netherlands,201.014
+17:40,6,USMNT,32.372
+17:40,7,Dutch,60.452
+17:40,8,Holanda,49.495
+17:40,9,Haji Wright,
+17:40,10,Dest,15.561
+18:10,1,HappyBirthdayJin,321.416
+18:10,2,USAvNED,43.395
+18:10,3,USMNT,42.020
+18:10,4,Netherlands,227.167
+18:10,5,NEDUSA,63.252
+18:10,6,JINDAY,137.354
+18:10,7,Dutch,68.427
+18:10,8,Holanda,58.909
+18:10,9,Pulisic,40.070
+18:10,10,Dumfries,38.488
+18:40,1,HappyBirthdayJin,341.378
+18:40,2,USAvNED,44.657
+18:40,3,USMNT,45.402
+18:40,4,Netherlands,242.318
+18:40,5,JINDAY,147.321
+18:40,6,NEDUSA,66.666
+18:40,7,Dutch,72.830
+18:40,8,Holanda,62.596
+18:40,9,Países Bajos,38.636
+18:40,10,Dumfries,43.760
+19:10,1,HappyBirthdayJin,358.254
+19:10,2,USAvNED,45.340
+19:10,3,USMNT,46.978
+19:10,4,Netherlands,240.831
+19:10,5,JINDAY,156.885
+19:10,6,NEDUSA,66.423
+19:10,7,Dutch,74.006
+19:10,8,Holanda,63.821
+19:10,9,Países Bajos,40.200
+19:10,10,Dumfries,46.721
+19:40,1,HappyBirthdayJin,372.514
+19:40,2,USAvNED,45.985
+19:40,3,USMNT,48.091
+19:40,4,Netherlands,247.091
+19:40,5,JINDAY,164.086
+19:40,6,NEDUSA,66.899
+19:40,7,Dutch,76.466
+19:40,8,Holanda,65.344
+19:40,9,Países Bajos,41.635
+19:40,10,Dumfries,48.760
+20:10,1,HappyBirthdayJin,384.853
+20:10,2,USAvNED,46.484
+20:10,3,JINDAY,170.400
+20:10,4,USMNT,48.643
+20:10,5,Netherlands,248.418
+20:10,6,Dutch,76.827
+20:10,7,NEDUSA,68.041
+20:10,8,Holanda,66.222
+20:10,9,Países Bajos,42.840
+20:10,10,Dumfries,51.414
+20:40,1,ARGAUS,28.445
+20:40,2,Australia,347.823
+20:40,3,HappyBirthdayJin,396.002
+20:40,4,JINDAY,176.023
+20:40,5,USAvNED,46.842
+20:40,6,الارجنتين_استراليا,41.505
+20:40,7,Netherlands,251.279
+20:40,8,Dutch,79.243
+20:40,9,BalGibisin AhuEtyemez,
+20:40,10,Holanda,67.431
+21:10,1,ARGAUS,42.256
+21:10,2,Australia,384.116
+21:10,3,Lionel Messi,142.502
+21:10,4,HappyBirthdayJin,404.626
+21:10,5,الارجنتين_استراليا,51.428
+21:10,6,JINDAY,180.983
+21:10,7,Deuce Vaughn,
+21:10,8,USAvNED,47.074
+21:10,9,Netherlands,253.463
+21:10,10,Papu,25.912
+21:40,1,JULIAN,151.329
+21:40,2,Australia,430.415
+21:40,3,ARGAUS,51.084
+21:40,4,Max Duggan,
+21:40,5,Dybala,26.548
+21:40,6,Lionel,209.790
+21:40,7,الارجنتين_استراليا,60.625
+21:40,8,HappyBirthdayJin,412.303
+21:40,9,Big12Championship,
+21:40,10,JINDAY,185.041
+22:10,1,Messi,920.320
+22:10,2,Lautaro,118.875
+22:10,3,Australia,489.110
+22:10,4,JULIAN,183.424
+22:10,5,ARGAUS,64.566
+22:10,6,Max Duggan,17.439
+22:10,7,ميسي,89.423
+22:10,8,Dybala,39.278
+22:10,9,Vamos Argentina,83.279
+22:10,10,الارجنتين_استراليا,66.402
+22:40,1,Messi,1.118.734
+22:40,2,Lautaro,159.167
+22:40,3,Australia,541.167
+22:40,4,Julian,214.204
+22:40,5,ARGAUS,70.683
+22:40,6,Dybala,47.440
+22:40,7,ميسي,108.218
+22:40,8,Bama,61.572
+22:40,9,Max Duggan,19.077
+22:40,10,Vamos Argentina,101.426
+23:10,1,Messi,1.179.586
+23:10,2,Lautaro,173.185
+23:10,3,Australia,551.271
+23:10,4,Julian,226.547
+23:10,5,ARGAUS,73.908
+23:10,6,Bama,67.102
+23:10,7,FortniteFracture,35.085
+23:10,8,Dybala,51.657
+23:10,9,ميسي,116.668
+23:10,10,FuryChisora3,99.177
+23:40,1,Messi,1.252.640
+23:40,2,Lautaro,182.751
+23:40,3,Australia,559.777
+23:40,4,FuryChisora3,97.560
+23:40,5,Julian,235.360
+23:40,6,Bama,71.296
+23:40,7,FortniteFracture,41.313
+23:40,8,ARGAUS,75.901
+23:40,9,Dybala,55.171
+23:40,10,ميسي,122.477

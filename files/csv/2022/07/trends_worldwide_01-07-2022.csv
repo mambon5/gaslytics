@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Kyrie,143.976
+00:10,2,Nets,151.044
+00:10,3,Kevin Durant,160.734
+00:10,4,Shams,15.770
+00:10,5,Survivor2022AllStar,224.264
+00:10,6,UCLA,44.513
+00:10,7,Lakers,76.620
+00:10,8,Ben Simmons,21.642
+00:10,9,SVGala11,13.485
+00:10,10,Tasha,25.747
+00:40,1,Kyrie,156.043
+00:40,2,Nets,158.865
+00:40,3,Shams,20.643
+00:40,4,Lakers,90.685
+00:40,5,Kevin Durant,168.660
+00:40,6,SVGala11,18.608
+00:40,7,UCLA,47.010
+00:40,8,Survivor2022AllStar,234.789
+00:40,9,Ben Simmons,22.524
+00:40,10,stranger things,231.705
+01:10,1,Kyrie,165.284
+01:10,2,Lakers,104.216
+01:10,3,Nets,165.554
+01:10,4,SVGala11,23.454
+01:10,5,Shams,22.026
+01:10,6,Kevin Durant,175.452
+01:10,7,UCLA,49.245
+01:10,8,stranger things,233.775
+01:10,9,Survivor2022AllStar,234.628
+01:10,10,Ben Simmons,23.383
+01:40,1,Kyrie,174.723
+01:40,2,Lakers,119.233
+01:40,3,Nets,172.600
+01:40,4,stranger things,243.713
+01:40,5,SVGala11,24.599
+01:40,6,Shams,22.831
+01:40,7,Kevin Durant,181.749
+01:40,8,UCLA,53.627
+01:40,9,Usher,91.082
+01:40,10,Survivor2022AllStar,237.694
+02:10,1,Kyrie,183.120
+02:10,2,Lakers,132.742
+02:10,3,UCLA,61.518
+02:10,4,stranger things,245.170
+02:10,5,Nets,176.691
+02:10,6,Kevin Durant,187.322
+02:10,7,SVGala11,25.269
+02:10,8,Shams,23.200
+02:10,9,Brooklyn,138.366
+02:10,10,Big Ten,56.603
+02:40,1,Kyrie,189.892
+02:40,2,Lakers,141.334
+02:40,3,Botafogo,44.856
+02:40,4,UCLA,67.072
+02:40,5,stranger things,255.377
+02:40,6,Nets,180.810
+02:40,7,BarışMurat NasılKoydumAma,
+02:40,8,OUÇA PERIGO NOTURNO,
+02:40,9,luisa,53.350
+02:40,10,Big Ten,61.959
+03:10,1,Lakers,145.145
+03:10,2,stranger things,257.654
+03:10,3,Kyrie,194.896
+03:10,4,UCLA,71.823
+03:10,5,Botafogo,46.668
+03:10,6,luisa,56.705
+03:10,7,Luciano,
+03:10,8,Ludmilla,31.043
+03:10,9,BarışMurat NasılKoydumAma,
+03:10,10,OUÇA PERIGO NOTURNO,10.314
+03:40,1,Luciano,14.865
+03:40,2,stranger things,268.000
+03:40,3,MewFtBumkey,50.897
+03:40,4,UCLA,75.757
+03:40,5,Lakers,149.633
+03:40,6,Kyrie,199.602
+03:40,7,Botafogo,48.342
+03:40,8,luisa,60.629
+03:40,9,Ludmilla,34.684
+03:40,10,LosCruzados,
+04:10,1,Technoblade,94.810
+04:10,2,Calleri,
+04:10,3,stranger things,271.806
+04:10,4,Luciano,15.264
+04:10,5,MewFtBumkey,109.936
+04:10,6,UCLA,79.146
+04:10,7,Lakers,152.802
+04:10,8,Kyrie,204.225
+04:10,9,luisa,61.714
+04:10,10,Botafogo,48.970
+04:40,1,Technoblade,226.038
+04:40,2,Calleri,13.393
+04:40,3,stranger things,282.848
+04:40,4,Luciano,17.260
+04:40,5,MewFtBumkey,141.347
+04:40,6,UCLA,82.112
+04:40,7,LosCruzados,
+04:40,8,MARATHONconcertFEST,
+04:40,9,NoLimite,
+04:40,10,Lakers,157.058
+05:10,1,Technoblade,336.742
+05:10,2,stranger things,287.056
+05:10,3,Calleri,15.202
+05:10,4,MARATHONconcertFEST,
+05:10,5,NoLimite,
+05:10,6,MORE IS COMING,325.135
+05:10,7,EliminaçãoPowerCouple,
+05:10,8,Luciano,17.960
+05:10,9,MewFtBumkey,155.045
+05:10,10,jhope_MORE,488.063
+05:40,1,Technoblade,428.976
+05:40,2,stranger things,298.910
+05:40,3,jhope_MORE,600.256
+05:40,4,MORE IS COMING,416.956
+05:40,5,ElPrimeroDeNosotros,
+05:40,6,EliminaçãoPowerCouple,11.560
+05:40,7,MARATHONconcertFEST,
+05:40,8,Calleri,15.972
+05:40,9,キミの推しスパ,
+05:40,10,わたしの推しスパ,
+06:10,1,jhope_MORE,929.995
+06:10,2,Technoblade,499.424
+06:10,3,HOSEOK,172.474
+06:10,4,MOREOutNow,178.906
+06:10,5,MORE IS COMING,604.698
+06:10,6,MoreIsHere,100.771
+06:10,7,stranger things,303.747
+06:10,8,MORETonight,66.133
+06:10,9,キミの推しスパ,
+06:10,10,わたしの推しスパ,
+06:40,1,jhope_MORE,1.287.061
+06:40,2,HOSEOK,337.158
+06:40,3,HOBI,194.337
+06:40,4,MOREOutNow,281.304
+06:40,5,Technoblade,559.028
+06:40,6,MORE IS COMING,644.206
+06:40,7,MoreIsHere,140.428
+06:40,8,MORETonight,93.658
+06:40,9,stranger things,313.954
+06:40,10,わたしの推しスパ,
+07:10,1,jhope_MORE,1.416.717
+07:10,2,HOSEOK,415.573
+07:10,3,hobi,222.385
+07:10,4,MOREOutNow,317.366
+07:10,5,Technoblade,613.413
+07:10,6,MoreIsHere,154.170
+07:10,7,MORE IS COMING,651.029
+07:10,8,MORETonight,105.846
+07:10,9,stranger things,319.440
+07:10,10,わたしの推しスパ,
+07:40,1,jhope_MORE,1.503.841
+07:40,2,HOSEOK,458.354
+07:40,3,hobi,239.777
+07:40,4,MOREOutNow,337.970
+07:40,5,Technoblade,657.793
+07:40,6,MoreIsHere,160.686
+07:40,7,MORE IS COMING,658.886
+07:40,8,stranger things,328.457
+07:40,9,MORETonight,111.551
+07:40,10,わたしの推しスパ,
+08:10,1,jhope_MORE,1.563.743
+08:10,2,HOSEOK,482.886
+08:10,3,hobi,249.429
+08:10,4,MOREOutNow,351.387
+08:10,5,Technoblade,696.402
+08:10,6,MoreIsHere,164.919
+08:10,7,MORE IS COMING,662.540
+08:10,8,doctorsday,13.858
+08:10,9,stranger things,333.689
+08:10,10,brandedlikes,20.340
+08:40,1,jhope_MORE,1.543.979
+08:40,2,HOSEOK,503.372
+08:40,3,hobi,258.722
+08:40,4,MOREOutNow,359.600
+08:40,5,Technoblade,730.793
+08:40,6,NationalDoctorsDay,25.130
+08:40,7,StrangerThings,151.384
+08:40,8,MoreIsHere,167.839
+08:40,9,MORE IS COMING,661.572
+08:40,10,わたしの推しスパ,
+09:10,1,jhope_MORE,1.376.932
+09:10,2,HOSEOK,517.446
+09:10,3,StrangerThings,166.587
+09:10,4,hobi,262.659
+09:10,5,Technoblade,762.386
+09:10,6,MOREOutNow,367.866
+09:10,7,NationalDoctorsDay,30.745
+09:10,8,brandedlikes,24.505
+09:10,9,Happy New Month,38.153
+09:10,10,キミの推しスパ,
+09:40,1,jhope_MORE,1.591.824
+09:40,2,StrangerThings4,133.227
+09:40,3,HOSEOK,530.495
+09:40,4,hobi,268.235
+09:40,5,Technoblade,791.268
+09:40,6,MOREOutNow,373.337
+09:40,7,NationalDoctorsDay,35.662
+09:40,8,brandedlikes,27.140
+09:40,9,Happy New Month,46.692
+09:40,10,キミの推しスパ,
+10:10,1,jhope_MORE,1.562.454
+10:10,2,StrangerThings,187.119
+10:10,3,hoseok,538.894
+10:10,4,hobi,271.549
+10:10,5,Technoblade,821.657
+10:10,6,brandedlikes,30.005
+10:10,7,NupurSharma,54.402
+10:10,8,Happy New Month,55.290
+10:10,9,NationalDoctorsDay,39.056
+10:10,10,わたしの推しスパ,
+10:40,1,StrangerThings,199.856
+10:40,2,jhope_MORE,1.599.207
+10:40,3,hoseok,548.835
+10:40,4,brandedlikes,32.804
+10:40,5,Happy New Month,64.756
+10:40,6,NupurSharma,66.619
+10:40,7,Technoblade,849.281
+10:40,8,hobi,277.531
+10:40,9,NationalDoctorsDay,42.665
+10:40,10,わたしの推しスパ,
+11:10,1,StrangerThings,211.442
+11:10,2,jhope_MORE,1.630.250
+11:10,3,brandedlikes,35.411
+11:10,4,Happy New Month,71.366
+11:10,5,hoseok,555.368
+11:10,6,NupurSharma,78.154
+11:10,7,Technoblade,875.232
+11:10,8,egzaminosmoklasisty2022,
+11:10,9,hobi,279.665
+11:10,10,わたしの推しスパ,
+11:40,1,StrangerThings,223.470
+11:40,2,brandedlikes,38.053
+11:40,3,jhope_MORE,1.638.580
+11:40,4,Happy New Month,77.995
+11:40,5,NupurSharama,49.685
+11:40,6,hoseok,564.629
+11:40,7,Up1stWin,10.973
+11:40,8,Technoblade,900.070
+11:40,9,EDDIE,178.169
+11:40,10,KEP1ER FOURTH WIN,
+12:10,1,StrangerThings4,167.684
+12:10,2,brandedlikes,42.020
+12:10,3,Happy New Month,83.291
+12:10,4,少クラ,
+12:10,5,jhope_MORE,1.659.712
+12:10,6,Up1stWin,18.518
+12:10,7,Eddie,184.758
+12:10,8,hoseok,571.758
+12:10,9,Technoblade,924.239
+12:10,10,アリーナツアー,
+12:40,1,StrangerThings,249.895
+12:40,2,brandedlikes,45.993
+12:40,3,MabelMatizHaddiniBil,
+12:40,4,Up1stWin,22.620
+12:40,5,Happy New Month,87.696
+12:40,6,少クラ,
+12:40,7,Eddie,194.629
+12:40,8,Technoblade,947.358
+12:40,9,広瀬すず,
+12:40,10,アリーナツアー,
+13:10,1,StrangerThings,291.494
+13:10,2,まんが王国お得爆発DAY,
+13:10,3,全マンガ最大80パーセント還元,
+13:10,4,まんが王国はお得感No1,
+13:10,5,一気読み,
+13:10,6,brandedlikes,49.551
+13:10,7,eddie,209.288
+13:10,8,Happy New Month,91.521
+13:10,9,広瀬すず,12.378
+13:10,10,アリーナツアー,11.492
+13:40,1,StrangerThings,337.262
+13:40,2,全マンガ最大80パーセント還元,
+13:40,3,まんが王国お得爆発DAY,
+13:40,4,まんが王国はお得感No1,
+13:40,5,一気読み,10.166
+13:40,6,brandedlikes,53.798
+13:40,7,eddie,228.437
+13:40,8,ヒルディ,
+13:40,9,Happy New Month,94.944
+13:40,10,セフィロト,
+14:10,1,StrangerThings,370.805
+14:10,2,全マンガ最大80パーセント還元,
+14:10,3,まんが王国はお得感No1,
+14:10,4,まんが王国お得爆発DAY,
+14:10,5,金スマ,25.223
+14:10,6,一気読み,10.289
+14:10,7,Eddie,237.186
+14:10,8,Bobby Bonilla,
+14:10,9,広瀬すず,17.225
+14:10,10,アリエル,
+14:40,1,StrangerThings,398.913
+14:40,2,金スマ,43.122
+14:40,3,全マンガ最大80パーセント還元,10.119
+14:40,4,まんが王国はお得感No1,10.085
+14:40,5,まんが王国お得爆発DAY,10.090
+14:40,6,一気読み,10.395
+14:40,7,どらほー,
+14:40,8,Eddie,249.075
+14:40,9,アリエル,12.356
+14:40,10,Bobby Bonilla,
+15:10,1,金スマ,62.968
+15:10,2,StrangerThings,420.141
+15:10,3,brandedlikes,68.111
+15:10,4,KinKiKids,39.943
+15:10,5,全マンガ最大80パーセント還元,10.124
+15:10,6,一気読み,10.300
+15:10,7,Eddie,256.347
+15:10,8,Canada,271.911
+15:10,9,どらほー,
+15:10,10,Bobby Bonilla,
+15:40,1,金スマ,75.186
+15:40,2,StrangerThings,440.466
+15:40,3,BrandedLikes,74.306
+15:40,4,KinKi,48.128
+15:40,5,時をかける少女,20.549
+15:40,6,Canada,291.880
+15:40,7,MabelMatizHaddiniBil,17.958
+15:40,8,Bobby Bonilla,11.071
+15:40,9,Sampaoli,20.708
+15:40,10,Eddie,266.981
+16:10,1,金スマ,88.810
+16:10,2,StrangerThings4,247.544
+16:10,3,時をかける少女,31.181
+16:10,4,BrandedLikes,80.348
+16:10,5,KinKi,55.702
+16:10,6,Canada,294.784
+16:10,7,AskKai,
+16:10,8,Bobby Bonilla,13.418
+16:10,9,Sampaoli,23.293
+16:10,10,Eddie,273.200
+16:40,1,金スマ,94.089
+16:40,2,asgariuecret,30.175
+16:40,3,StrangerThings4,259.527
+16:40,4,Canada,310.722
+16:40,5,BrandedLikes,86.068
+16:40,6,時をかける少女,33.509
+16:40,7,KinKi,61.102
+16:40,8,Bobby Bonilla,15.754
+16:40,9,Sampaoli,25.291
+16:40,10,Eddie,284.625
+17:10,1,asgariuecret,39.168
+17:10,2,StrangerThings4,268.326
+17:10,3,金スマ,96.932
+17:10,4,Canada,313.804
+17:10,5,BrandedLikes,90.036
+17:10,6,AskKai,
+17:10,7,KinKi,63.408
+17:10,8,Bobby Bonilla,18.415
+17:10,9,Eddie,290.922
+17:10,10,Sampaoli,26.767
+17:40,1,asgariuecret,45.422
+17:40,2,StrangerThings4,281.111
+17:40,3,Canada,329.634
+17:40,4,金スマ,98.883
+17:40,5,BrandedLikes,91.746
+17:40,6,AskKai,
+17:40,7,Bobby Bonilla,20.627
+17:40,8,KinKi,65.410
+17:40,9,Eddie,303.538
+17:40,10,SMROOKIES,165.038
+18:10,1,Canada,331.892
+18:10,2,stranger things,640.507
+18:10,3,asgariuecret,49.585
+18:10,4,金スマ,100.071
+18:10,5,SalarioRosaNoSeDetiene,
+18:10,6,AskKai,
+18:10,7,Bobby Bonilla,22.384
+18:10,8,BrandedLikes,92.878
+18:10,9,eddie,310.576
+18:10,10,SMROOKIES,239.985
+18:40,1,SalarioRosaNoSeDetiene,
+18:40,2,Canada,347.515
+18:40,3,stranger things,666.164
+18:40,4,asgariuecret,53.338
+18:40,5,金スマ,101.095
+18:40,6,eddie,324.050
+18:40,7,Bobby Bonilla,23.756
+18:40,8,freecodefridaycontest,
+18:40,9,AskKai,
+18:40,10,Mo Salah,23.723
+19:10,1,SalarioRosaNoSeDetiene,10.782
+19:10,2,Canada,348.997
+19:10,3,stranger things,676.493
+19:10,4,RishabhPant,
+19:10,5,INDvsENG,22.130
+19:10,6,asgariücret,56.432
+19:10,7,Eddie,332.045
+19:10,8,freecodefridaycontest,
+19:10,9,Bobby Bonilla,24.841
+19:10,10,Steve Wright,
+19:40,1,SalarioRosaNoSeDetiene,14.545
+19:40,2,Canada,363.096
+19:40,3,stranger things,703.152
+19:40,4,RishabhPant,
+19:40,5,INDvsENG,25.832
+19:40,6,EspnF90,
+19:40,7,asgariücret,59.610
+19:40,8,Eddie,346.530
+19:40,9,au通信障害,
+19:40,10,Steve Wright,
+20:10,1,SalarioRosaNoSeDetiene,18.717
+20:10,2,Canada,361.843
+20:10,3,stranger things,716.842
+20:10,4,Brogdon,23.858
+20:10,5,RishabhPant,11.999
+20:10,6,INDvsENG,27.833
+20:10,7,Eddie,354.651
+20:10,8,EspnF90,
+20:10,9,Brad Stevens,
+20:10,10,au通信障害,
+20:40,1,SalarioRosaNoSeDetiene,27.088
+20:40,2,Canada,374.669
+20:40,3,stranger things,744.280
+20:40,4,Brogdon,30.893
+20:40,5,RishabhPant,13.502
+20:40,6,Eddie,369.256
+20:40,7,INDvsENG,29.491
+20:40,8,samsummerfridays,
+20:40,9,Brad Stevens,
+20:40,10,au通信障害,
+21:10,1,SalarioRosaNoSeDetiene,36.959
+21:10,2,Canada,373.185
+21:10,3,stranger things,756.752
+21:10,4,Brogdon,34.750
+21:10,5,AskCardi,
+21:10,6,Eddie,377.225
+21:10,7,samsummerfridays,
+21:10,8,RishabhPant,14.292
+21:10,9,INDvsENG,30.263
+21:10,10,Brad Stevens,
+21:40,1,SalarioRosaNoSeDetiene,45.879
+21:40,2,stranger things,784.195
+21:40,3,Canada,385.609
+21:40,4,AskCardi,10.402
+21:40,5,Brogdon,37.837
+21:40,6,Eddie,393.813
+21:40,7,samsummerfridays,
+21:40,8,AskDragons,
+21:40,9,AyazAmir,34.864
+21:40,10,au通信障害,
+22:10,1,SalarioRosaNoSeDetiene,52.734
+22:10,2,Gobert,47.042
+22:10,3,stranger things,794.712
+22:10,4,Pat Bev,
+22:10,5,Canada,383.871
+22:10,6,Utah,56.674
+22:10,7,Timberwolves,23.211
+22:10,8,AskCardi,14.133
+22:10,9,Eddie,402.240
+22:10,10,Brogdon,40.161
+22:40,1,SalarioRosaNoSeDetiene,58.209
+22:40,2,Gobert,59.181
+22:40,3,stranger things,823.278
+22:40,4,Tasha,40.319
+22:40,5,Pat Bev,
+22:40,6,Canada,396.903
+22:40,7,Utah,63.577
+22:40,8,Timberwolves,27.469
+22:40,9,Danica,28.960
+22:40,10,Eddie,418.212
+23:10,1,SalarioRosaNoSeDetiene,62.389
+23:10,2,Gobert,65.463
+23:10,3,stranger things,832.464
+23:10,4,Tasha,34.845
+23:10,5,Pat Bev,
+23:10,6,Canada,396.632
+23:10,7,Utah,64.930
+23:10,8,Timberwolves,29.697
+23:10,9,Eddie,426.895
+23:10,10,MissVaca2022,
+23:40,1,SalarioRosaNoSeDetiene,66.194
+23:40,2,Gobert,69.697
+23:40,3,stranger things,860.965
+23:40,4,Tasha,35.553
+23:40,5,Pat Bev,17.628
+23:40,6,Canada,408.121
+23:40,7,MissVaca2022,
+23:40,8,Utah,67.529
+23:40,9,kykyurt,
+23:40,10,Eddie,442.759

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Spurs,105.262
+00:10,2,Ceballos,42.771
+00:10,3,Tottenham,125.211
+00:10,4,Mahrez,55.525
+00:10,5,David Crosby,28.148
+00:10,6,Lloris,33.298
+00:10,7,MCITOT,43.353
+00:10,8,Madrid,283.428
+00:10,9,Animeta,
+00:10,10,Ederson,18.874
+00:40,1,David Crosby,39.545
+00:40,2,Spurs,107.168
+00:40,3,Ceballos,44.250
+00:40,4,Tottenham,127.920
+00:40,5,Mahrez,57.049
+00:40,6,Lloris,33.848
+00:40,7,MCITOT,43.805
+00:40,8,Madrid,290.492
+00:40,9,Animeta,
+00:40,10,Stills,18.295
+01:10,1,David Crosby,50.675
+01:10,2,Spurs,107.780
+01:10,3,Ceballos,45.100
+01:10,4,Tottenham,128.881
+01:10,5,Mahrez,58.334
+01:10,6,Lloris,34.272
+01:10,7,MCITOT,43.934
+01:10,8,Quevedo,19.555
+01:10,9,Pablo Maia,
+01:10,10,Madrid,289.576
+01:40,1,David Crosby,59.637
+01:40,2,Spurs,108.876
+01:40,3,Ceballos,45.756
+01:40,4,Mahrez,59.347
+01:40,5,Tottenham,130.497
+01:40,6,Quevedo,21.826
+01:40,7,Lloris,34.592
+01:40,8,Stills,23.994
+01:40,9,Pablo Maia,
+01:40,10,MCITOT,44.204
+02:10,1,David Crosby,67.287
+02:10,2,Veiga,
+02:10,3,RBDISBACK,24.494
+02:10,4,SoyRebelde,28.442
+02:10,5,Spurs,109.355
+02:10,6,Quevedo,22.530
+02:10,7,Stills,25.851
+02:10,8,Ceballos,46.325
+02:10,9,Mahrez,60.119
+02:10,10,Tottenham,131.342
+02:40,1,Curry,45.914
+02:40,2,David Crosby,73.047
+02:40,3,RBDTour2023,
+02:40,4,SoyRebelde,35.259
+02:40,5,RBDISBACK,33.706
+02:40,6,Veiga,10.881
+02:40,7,Jailson,
+02:40,8,RBD2023,11.313
+02:40,9,Stills,27.397
+02:40,10,Quevedo,23.456
+03:10,1,Curry,55.307
+03:10,2,David Crosby,78.847
+03:10,3,RBDTour2023,
+03:10,4,SoyRebelde,38.850
+03:10,5,Julieta,28.718
+03:10,6,RBDISBACK,36.944
+03:10,7,Veiga,11.648
+03:10,8,RBD2023,14.037
+03:10,9,Marcos,161.365
+03:10,10,Celtics,23.702
+03:40,1,Curry,61.035
+03:40,2,Ariel,42.925
+03:40,3,David Crosby,83.706
+03:40,4,SoyRebelde,41.325
+03:40,5,RBDTour2023,
+03:40,6,Marcos,173.086
+03:40,7,RBDISBACK,39.954
+03:40,8,Julieta,32.210
+03:40,9,RBD2023,15.630
+03:40,10,BBB23,486.886
+04:10,1,Bruna,202.352
+04:10,2,BBB23,478.299
+04:10,3,Tatum,22.288
+04:10,4,Curry,65.433
+04:10,5,Ariel,46.836
+04:10,6,Celtics,33.297
+04:10,7,Marcos,172.893
+04:10,8,David Crosby,87.740
+04:10,9,Warriors,93.855
+04:10,10,SoyRebelde,42.830
+04:40,1,Bruna,215.464
+04:40,2,BBB23,505.506
+04:40,3,Celtics,44.352
+04:40,4,Tatum,27.615
+04:40,5,Curry,69.317
+04:40,6,Warriors,103.524
+04:40,7,Ariel,49.907
+04:40,8,Marcos,178.466
+04:40,9,FestivalDeOlmue2023,
+04:40,10,David Crosby,91.429
+05:10,1,Larissa,110.906
+05:10,2,FestivalDeOlmue2023,13.848
+05:10,3,BBB23,489.118
+05:10,4,Celtics,46.817
+05:10,5,Tatum,29.264
+05:10,6,Curry,70.327
+05:10,7,Warriors,104.221
+05:10,8,Ariel,50.742
+05:10,9,Aline,36.407
+05:10,10,Marcos,175.813
+05:40,1,Bruna,216.760
+05:40,2,BBB23,509.420
+05:40,3,FestivalDeOlmue2023,15.504
+05:40,4,Celtics,48.445
+05:40,5,Tatum,30.611
+05:40,6,Curry,71.717
+05:40,7,Warriors,106.418
+05:40,8,Ariel,52.084
+05:40,9,Aline,37.614
+05:40,10,TWICE_OurMoonlightandSunrise,35.998
+06:10,1,Bruna,220.028
+06:10,2,TWICE_OurMoonlightandSunrise,54.375
+06:10,3,BBB23,502.125
+06:10,4,FestivalDeOlmue2023,16.484
+06:10,5,MOONLIGHT SUNRISE OUT NOW,43.478
+06:10,6,Celtics,49.256
+06:10,7,Tatum,31.185
+06:10,8,Curry,71.827
+06:10,9,コウテイ解散,
+06:10,10,Warriors,106.184
+06:40,1,MOONLIGHTSUNRISE,172.293
+06:40,2,TWICE_OurMoonlightandSunrise,78.736
+06:40,3,Larissa,132.671
+06:40,4,CHAEYOUNG,17.186
+06:40,5,BBB23,519.843
+06:40,6,Kyrie,
+06:40,7,FestivalDeOlmue2023,17.402
+06:40,8,MOMO,105.663
+06:40,9,コウテイ解散,10.414
+06:40,10,Celtics,50.230
+07:10,1,MOONLIGHTSUNRISE,197.416
+07:10,2,TWICE_OurMoonlightandSunrise,93.880
+07:10,3,Larissa,134.367
+07:10,4,CHAEYOUNG,22.919
+07:10,5,Kyrie,10.308
+07:10,6,FestivalDeOlmue2023,17.890
+07:10,7,Momo,112.626
+07:10,8,コウテイ解散,12.044
+07:10,9,BBB23,506.656
+07:10,10,ガチ恋粘着獣ドラマ化,
+07:40,1,MOONLIGHTSUNRISE,225.648
+07:40,2,TWICE_OurMoonlightandSunrise,102.679
+07:40,3,Larissa,136.639
+07:40,4,CHAEYOUNG,26.105
+07:40,5,コウテイ解散,13.528
+07:40,6,Kyrie,10.664
+07:40,7,Momo,118.365
+07:40,8,FestivalDeOlmue2023,17.999
+07:40,9,BBB23,511.906
+07:40,10,Hayırlı Cumalar,28.800
+08:10,1,MOONLIGHTSUNRISE,237.593
+08:10,2,TWICE_OurMoonlightandSunrise,107.425
+08:10,3,Larissa,136.916
+08:10,4,CHAEYOUNG,28.029
+08:10,5,コウテイ解散,14.858
+08:10,6,Momo,120.158
+08:10,7,FestivalDeOlmue2023,18.103
+08:10,8,BBB23,504.531
+08:10,9,Hayırlı Cumalar,34.478
+08:10,10,Kyrie,10.801
+08:40,1,MOONLIGHTSUNRISE,246.854
+08:40,2,TWICE_OurMoonlightandSunrise,110.800
+08:40,3,chaeyoung,29.545
+08:40,4,コウテイ解散,15.989
+08:40,5,Hayırlı Cumalar,39.585
+08:40,6,Larissa,137.804
+08:40,7,뉴뉴럿봉,
+08:40,8,BBB23,507.141
+08:40,9,Momo,124.097
+08:40,10,KDLEX ON WISHBUS,14.811
+09:10,1,MOONLIGHTSUNRISE,262.816
+09:10,2,TWICE_OurMoonlightandSunrise,113.215
+09:10,3,Hayırlı Cumalar,43.515
+09:10,4,コウテイ解散,17.427
+09:10,5,KDLEX ON WISHBUS,28.190
+09:10,6,EnBüyükTürkMetal,
+09:10,7,CHAEYOUNG,30.696
+09:10,8,뉴뉴럿봉,
+09:10,9,fridaymorning,
+09:10,10,BBB23,501.222
+09:40,1,MOONLIGHTSUNRISE,273.807
+09:40,2,TWICE_OurMoonlightandSunrise,115.371
+09:40,3,KDLEX ON WISHBUS,38.252
+09:40,4,EnBüyükTürkMetal,
+09:40,5,Hayırlı Cumalar,48.204
+09:40,6,コウテイ解散,18.777
+09:40,7,يوم_الجمعه,33.686
+09:40,8,fridaymorning,10.300
+09:40,9,뉴뉴럿봉,
+09:40,10,chaeyoung,32.192
+10:10,1,MOONLIGHTSUNRISE,280.375
+10:10,2,Hayırlı Cumalar,52.327
+10:10,3,EYTyasayıBekliyor,45.455
+10:10,4,KDLEX ON WISHBUS,46.155
+10:10,5,يوم_الجمعه,36.973
+10:10,6,EnBüyükTürkMetal,
+10:10,7,PATHAAN ADVANCE OPEN,
+10:10,8,新春DbD,
+10:10,9,コウテイ解散,20.047
+10:10,10,Carat,57.874
+10:40,1,BeautifulLiar1stWIN,
+10:40,2,新春DbD,
+10:40,3,ส่งบุญให้แฟนคลับดมด,23.155
+10:40,4,MOONLIGHTSUNRISE,289.644
+10:40,5,EYTyasayıBekliyor,67.211
+10:40,6,PATHAAN ADVANCE OPEN,
+10:40,7,Hayırlı Cumalar,
+10:40,8,KDLEX ON WISHBUS,50.553
+10:40,9,アウェイ,
+10:40,10,Stellar Stellar,
+11:10,1,BeautifulLiar1stWIN,13.210
+11:10,2,新春DbD,
+11:10,3,アニポケ,
+11:10,4,少プレ,
+11:10,5,ส่งบุญให้แฟนคลับดมด,32.623
+11:10,6,Hayırlı Cumalar,59.106
+11:10,7,Stellar Stellar,31.452
+11:10,8,PATHAAN ADVANCE OPEN,
+11:10,9,KDLEX ON WISHBUS,53.595
+11:10,10,アウェイ,
+11:40,1,BeautifulLiar1stWIN,22.791
+11:40,2,新春DbD,
+11:40,3,アニポケ,18.689
+11:40,4,少プレ,
+11:40,5,يوم_الجمعه,51.446
+11:40,6,縦サムネ,
+11:40,7,Stellar Stellar,35.909
+11:40,8,محمد,394.037
+11:40,9,Hayırlı Cumalar,61.639
+11:40,10,ドラクエの装備品,
+12:10,1,BeautifulLiar1stWIN,28.519
+12:10,2,新春DbD,
+12:10,3,SiamParagonCNY2023xAPO,37.390
+12:10,4,アニポケ,22.084
+12:10,5,縦サムネ,
+12:10,6,يوم_الجمعه,56.396
+12:10,7,Stellar Stellar,39.042
+12:10,8,محمد,398.466
+12:10,9,BAMBAM HOME EP1,63.305
+12:10,10,ドラクエの装備品,
+12:40,1,SiamParagonCNY2023xAPO,180.902
+12:40,2,新春DbD,
+12:40,3,BeautifulLiar1stWIN,31.625
+12:40,4,PalingSatSet,
+12:40,5,BelanjaHitunganMenit,
+12:40,6,AstroinAja,
+12:40,7,縦サムネ,
+12:40,8,Stellar Stellar,42.290
+12:40,9,محمد,414.477
+12:40,10,THE FIRST TAKE,60.084
+13:10,1,SiamParagonCNY2023xAPO,297.045
+13:10,2,PalingSatSet,
+13:10,3,BelanjaHitunganMenit,
+13:10,4,かぶらきろぐ,11.438
+13:10,5,新春DbD,
+13:10,6,AstroinAja,
+13:10,7,縦サムネ,
+13:10,8,Stellar Stellar,44.071
+13:10,9,パイレーツ,
+13:10,10,THE FIRST TAKE,49.594
+13:40,1,SiamParagonCNY2023xAPO,395.848
+13:40,2,PalingSatSet,
+13:40,3,BelanjaHitunganMenit,
+13:40,4,NCTDREAM_THEDREAMSHOW2_in_BKK,59.122
+13:40,5,新春DbD,
+13:40,6,パイレーツ,
+13:40,7,AstroinAja,
+13:40,8,縦サムネ,
+13:40,9,Kiwior,17.175
+13:40,10,Stellar Stellar,46.817
+14:10,1,SiamParagonCNY2023xAPO,473.731
+14:10,2,にじよんあにめーしょん,12.054
+14:10,3,金スマ,15.778
+14:10,4,NCTDREAM_THEDREAMSHOW2_in_BKK,70.314
+14:10,5,Stellar Stellar,57.417
+14:10,6,パイレーツ,
+14:10,7,Mx2,
+14:10,8,Kiwior,28.492
+14:10,9,縦サムネ,11.178
+14:10,10,AstroinAja,
+14:40,1,THEFIRSTTAKE,84.955
+14:40,2,IAmOtin,
+14:40,3,すいちゃん,18.806
+14:40,4,Stellar Stellar,79.763
+14:40,5,星街すいせい,53.893
+14:40,6,ほしまちすたじお,
+14:40,7,SiamParagonCNY2023xAPO,539.248
+14:40,8,パイレーツ,
+14:40,9,Korda,
+14:40,10,Kiwior,35.767
+15:10,1,IAmOtin,12.484
+15:10,2,JIMINxDIOR,204.587
+15:10,3,THEFIRSTTAKE,92.338
+15:10,4,すいちゃん,21.401
+15:10,5,JiminAtDiorFashionShow,152.805
+15:10,6,ほしまちすたじお,13.815
+15:10,7,Stellar Stellar,88.277
+15:10,8,パイレーツ,
+15:10,9,Larissa,168.360
+15:10,10,Korda,
+15:40,1,JIMINxDIOR,355.400
+15:40,2,JiminAtDiorFashionShow,272.232
+15:40,3,IAmOtin,14.947
+15:40,4,MySchoolPresidentEP7,137.552
+15:40,5,すいちゃん,22.677
+15:40,6,THEFIRSTTAKE,98.536
+15:40,7,Stellar Stellar,
+15:40,8,パイレーツ,
+15:40,9,Larissa,176.602
+15:40,10,Bruma,
+16:10,1,JIMINxDIOR,505.191
+16:10,2,CutiePie2YouEP3,93.259
+16:10,3,JiminAtDiorFashionShow,367.581
+16:10,4,MySchoolPresidentEP7,189.689
+16:10,5,IAmOtin,16.891
+16:10,6,すいちゃん,23.144
+16:10,7,Stellar Stellar,97.110
+16:10,8,Larissa,179.691
+16:10,9,Bruma,
+16:10,10,Pee Diddy,
+16:40,1,CutiePie2YouEP3,176.753
+16:40,2,JIMINxDIOR,577.210
+16:40,3,MySchoolPresidentEP7,221.627
+16:40,4,BORNPINKRIYADH,
+16:40,5,IAmOtin,18.240
+16:40,6,すいちゃん,23.931
+16:40,7,Stellar Stellar,100.845
+16:40,8,Pee Diddy,
+16:40,9,hobi,181.772
+16:40,10,Bruma,11.861
+17:10,1,CutiePie2YouEP3,294.002
+17:10,2,JIMINxDIOR,643.526
+17:10,3,Roncaglia,
+17:10,4,MySchoolPresidentEP7,239.560
+17:10,5,BORNPINKRIYADH,
+17:10,6,佐々木舞香生誕祭2023,
+17:10,7,すいちゃん,24.290
+17:10,8,Pee Diddy,
+17:10,9,Stellar Stellar,103.169
+17:10,10,THE FIRST TAKE,59.260
+17:40,1,CutiePie2YouEP3,388.910
+17:40,2,JIMINxDIOR,675.137
+17:40,3,Roncaglia,
+17:40,4,MySchoolPresidentEP7,257.553
+17:40,5,Rapallini,
+17:40,6,IWILLKNOCKYOUEP10,92.568
+17:40,7,BORNPINKRIYADH,10.549
+17:40,8,Pee Diddy,
+17:40,9,JADE UM ANO DE BBB,18.905
+17:40,10,ハウジング,
+18:10,1,CutiePie2YouEP3,433.737
+18:10,2,JIMINxDIOR,725.063
+18:10,3,Roncaglia,
+18:10,4,MySchoolPresidentEP7,278.315
+18:10,5,IWILLKNOCKYOUEP10,126.385
+18:10,6,Rapallini,
+18:10,7,Dani Alves,19.013
+18:10,8,DevleteSamimiyetYakışır,
+18:10,9,Pee Diddy,
+18:10,10,ハウジング,
+18:40,1,Rapallini,11.082
+18:40,2,CutiePie2YouEP3,456.215
+18:40,3,JIMINxDIOR,737.213
+18:40,4,Racing,54.693
+18:40,5,Dani Alves,23.933
+18:40,6,MySchoolPresidentEP7,291.127
+18:40,7,IWILLKNOCKYOUEP10,149.308
+18:40,8,Roncaglia,
+18:40,9,Pee Diddy,
+18:40,10,フロイニ,29.751
+19:10,1,Rapallini,23.507
+19:10,2,Racing,74.114
+19:10,3,KamuAvukatıSeçimdenÖnce,
+19:10,4,CutiePie2YouEP3,476.034
+19:10,5,Dani Alves,27.749
+19:10,6,JIMINxDIOR,771.566
+19:10,7,Ibarra,10.789
+19:10,8,Roncaglia,
+19:10,9,IWILLKNOCKYOUEP10,174.604
+19:10,10,MySchoolPresidentEP7,300.732
+19:40,1,Rapallini,26.169
+19:40,2,Racing,83.435
+19:40,3,KamuAvukatıSeçimdenÖnce,14.155
+19:40,4,Dani Alves,30.776
+19:40,5,CutiePie2YouEP3,486.070
+19:40,6,Ibarra,11.884
+19:40,7,JIMINxDIOR,785.030
+19:40,8,Roncaglia,
+19:40,9,CobraKai,
+19:40,10,IWILLKNOCKYOUEP10,184.502
+20:10,1,Racing,87.419
+20:10,2,Rapallini,27.255
+20:10,3,KamuAvukatıSeçimdenÖnce,20.794
+20:10,4,Dani Alves,33.648
+20:10,5,twug,
+20:10,6,Ibarra,12.378
+20:10,7,CutiePie2YouEP3,479.062
+20:10,8,CobraKai,
+20:10,9,SushantMoon,35.454
+20:10,10,Sushant Day,44.166
+20:40,1,Racing,91.788
+20:40,2,Rapallini,28.062
+20:40,3,twug,
+20:40,4,Dani Alves,36.339
+20:40,5,KamuAvukatıSeçimdenÖnce,24.659
+20:40,6,Ömer ŞeymayaSapladı,
+20:40,7,التعاون_الشباب,12.306
+20:40,8,SushantMoon,53.364
+20:40,9,totp,
+20:40,10,Ibarra,12.392
+21:10,1,Racing,93.560
+21:10,2,twug,
+21:10,3,Rapallini,28.720
+21:10,4,Dani Alves,38.730
+21:10,5,YalıÇapkını,43.773
+21:10,6,totp,
+21:10,7,RBLFCB,
+21:10,8,KamuAvukatıSeçimdenÖnce,26.995
+21:10,9,Arraez,
+21:10,10,Enrique Graue,14.639
+21:40,1,YalıÇapkını,50.684
+21:40,2,Racing,96.811
+21:40,3,Arraez,
+21:40,4,plusvalenze,
+21:40,5,Dani Alves,40.944
+21:40,6,totp,
+21:40,7,twug,
+21:40,8,Juventus,12.738
+21:40,9,Rapallini,29.299
+21:40,10,Marlins,
+22:10,1,plusvalenze,
+22:10,2,Juventus,16.387
+22:10,3,Dani Alves,44.080
+22:10,4,YalıÇapkını,56.934
+22:10,5,RBLFCB,
+22:10,6,Arraez,
+22:10,7,OMSRFC,
+22:10,8,Racing,97.748
+22:10,9,UNAM,108.909
+22:10,10,Marlins,
+22:40,1,Juventus,19.993
+22:40,2,plusvalenze,
+22:40,3,Dani Alves,47.899
+22:40,4,OMSRFC,
+22:40,5,RBLFCB,
+22:40,6,Arraez,
+22:40,7,YalıÇapkını,60.209
+22:40,8,UNAM,116.774
+22:40,9,Racing,100.207
+22:40,10,Marlins,
+23:10,1,Juventus,23.685
+23:10,2,LoveIsland,45.145
+23:10,3,OMSRFC,11.190
+23:10,4,plusvalenze,11.256
+23:10,5,Dani Alves,51.193
+23:10,6,RBLFCB,10.012
+23:10,7,Arraez,
+23:10,8,UNAM,121.547
+23:10,9,Burnley,
+23:10,10,Racing,100.746
+23:40,1,Juventus,26.375
+23:40,2,plusvalenze,12.714
+23:40,3,OMSRFC,13.125
+23:40,4,LoveIsland,47.146
+23:40,5,Dani Alves,54.035
+23:40,6,Arraez,
+23:40,7,TheVoiceSenior,
+23:40,8,UNAM,128.502
+23:40,9,Burnley,
+23:40,10,Marlins,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Benzema,480.569
+00:10,2,Madrid,865.225
+00:10,3,Grande Rio,157.180
+00:10,4,MCIRMA,154.909
+00:10,5,SalarioRosa,162.875
+00:10,6,ChampionsLeague,43.212
+00:10,7,Fernandinho,47.210
+00:10,8,Bernabéu,69.645
+00:10,9,Vini,78.762
+00:10,10,Mahrez,64.448
+00:40,1,Benzema,506.516
+00:40,2,Madrid,888.518
+00:40,3,Grande Rio,163.197
+00:40,4,MCIRMA,157.984
+00:40,5,SalarioRosa,169.762
+00:40,6,ChampionsLeague,44.707
+00:40,7,Fernandinho,48.691
+00:40,8,Bernabéu,76.437
+00:40,9,Vini,81.239
+00:40,10,Caxias,22.510
+01:10,1,Benzema,521.738
+01:10,2,Madrid,893.747
+01:10,3,Grande Rio,166.433
+01:10,4,MCIRMA,160.012
+01:10,5,SalarioRosa,175.219
+01:10,6,ChampionsLeague,45.712
+01:10,7,Bernabéu,81.192
+01:10,8,Fernandinho,49.797
+01:10,9,Vini,82.185
+01:10,10,Caxias,23.353
+01:40,1,Benzema,534.131
+01:40,2,Madrid,905.114
+01:40,3,Grande Rio,169.787
+01:40,4,MCIRMA,160.973
+01:40,5,SalarioRosa,180.090
+01:40,6,ChampionsLeague,46.656
+01:40,7,Bernabéu,84.644
+01:40,8,Fernandinho,50.788
+01:40,9,مكافاه_مصرف_الراجحي,16.684
+01:40,10,Vini,83.503
+02:10,1,Benzema,542.743
+02:10,2,Madrid,906.981
+02:10,3,Grande Rio,171.453
+02:10,4,MCIRMA,161.238
+02:10,5,SalarioRosa,184.400
+02:10,6,مكافاه_مصرف_الراجحي,25.482
+02:10,7,ChampionsLeague,47.323
+02:10,8,Bernabéu,86.974
+02:10,9,Fernandinho,51.586
+02:10,10,SABINA,25.100
+02:40,1,Benzema,549.390
+02:40,2,Corinthians,84.203
+02:40,3,Madrid,890.240
+02:40,4,SABINA,43.642
+02:40,5,Grande Rio,174.445
+02:40,6,مكافاه_مصرف_الراجحي,35.789
+02:40,7,SalarioRosa,188.097
+02:40,8,MCIRMA,145.502
+02:40,9,ChampionsLeague,45.292
+02:40,10,MAYCON,
+03:10,1,Corinthians,96.104
+03:10,2,Benzema,554.359
+03:10,3,SABINA,47.051
+03:10,4,مكافاه_مصرف_الراجحي,42.899
+03:10,5,Grande Rio,175.854
+03:10,6,Madrid,889.937
+03:10,7,Rizzo,
+03:10,8,Maycon,
+03:10,9,SalarioRosa,191.450
+03:10,10,Fabra,
+03:40,1,Corinthians,107.360
+03:40,2,NoLimite,
+03:40,3,Ja Morant,33.737
+03:40,4,Benzema,559.530
+03:40,5,مكافاه_مصرف_الراجحي,49.264
+03:40,6,Fabra,
+03:40,7,SABINA,48.624
+03:40,8,florence,49.213
+03:40,9,KadirGecesi,12.183
+03:40,10,Rizzo,10.225
+04:10,1,Tadeu,47.643
+04:10,2,NoLimite,11.398
+04:10,3,Corinthians,116.759
+04:10,4,MAYCON,10.355
+04:10,5,FinalBBB22,
+04:10,6,Ja Morant,44.185
+04:10,7,ThisIsUs,
+04:10,8,Trae Young,18.112
+04:10,9,Fabra,
+04:10,10,HEATCulture,
+04:40,1,Tadeu,60.196
+04:40,2,Corinthians,163.430
+04:40,3,Ja Morant,79.974
+04:40,4,Maycon,35.342
+04:40,5,NoLimite,11.931
+04:40,6,FinalBBB22,13.530
+04:40,7,Maria,207.051
+04:40,8,Grizzlies,24.880
+04:40,9,Dani Calabresa,
+04:40,10,Anthony Edwards,
+05:10,1,Tadeu,66.764
+05:10,2,BBB22,268.187
+05:10,3,Corinthians,178.497
+05:10,4,Ja Morant,88.298
+05:10,5,Maycon,39.268
+05:10,6,Léo Santana,12.361
+05:10,7,Dani Calabresa,
+05:10,8,NoLimite,12.319
+05:10,9,Maria,206.476
+05:10,10,Paulo Vieira,15.412
+05:40,1,BBB22,317.359
+05:40,2,Tadeu,74.446
+05:40,3,Lina,45.414
+05:40,4,Corinthians,187.364
+05:40,5,Léo Santana,19.817
+05:40,6,Kauan,11.445
+05:40,7,Ja Morant,94.071
+05:40,8,Dani Calabresa,12.638
+05:40,9,Maycon,41.672
+05:40,10,Paulo Vieira,21.815
+06:10,1,BBB22,375.390
+06:10,2,Tadeu,83.814
+06:10,3,Lina,47.200
+06:10,4,Kauan,13.833
+06:10,5,Léo Santana,21.694
+06:10,6,Corinthians,192.473
+06:10,7,Ja Morant,97.209
+06:10,8,Dani Calabresa,13.927
+06:10,9,Maycon,42.772
+06:10,10,Maria,215.897
+06:40,1,BBB22,500.792
+06:40,2,Tadeu,171.842
+06:40,3,ARTHURAGUIARCAMPEAO,25.432
+06:40,4,Lina,49.493
+06:40,5,Kauan,14.180
+06:40,6,Léo Santana,22.920
+06:40,7,Corinthians,196.028
+06:40,8,Ja Morant,100.262
+06:40,9,Dani Calabresa,14.869
+06:40,10,Globo,153.827
+07:10,1,BBB22,529.376
+07:10,2,Tadeu,180.880
+07:10,3,ARTHURAGUIARCAMPEAO,28.299
+07:10,4,Lina,49.798
+07:10,5,Kauan,14.210
+07:10,6,Léo Santana,23.163
+07:10,7,Corinthians,197.325
+07:10,8,Ja Morant,101.699
+07:10,9,Globo,155.540
+07:10,10,Dani Calabresa,15.184
+07:40,1,BBB22,544.222
+07:40,2,Tadeu,183.345
+07:40,3,ARTHURAGUIARCAMPEAO,29.074
+07:40,4,Lina,50.623
+07:40,5,Kauan,14.265
+07:40,6,Léo Santana,23.270
+07:40,7,Corinthians,198.244
+07:40,8,Ja Morant,103.441
+07:40,9,Dani Calabresa,15.308
+07:40,10,O PA,195.797
+08:10,1,BBB22,552.938
+08:10,2,Tadeu,184.624
+08:10,3,ARTHURAGUIARCAMPEAO,29.361
+08:10,4,Lina,50.517
+08:10,5,Kauan,14.272
+08:10,6,Léo Santana,23.313
+08:10,7,KadirGecesi,21.319
+08:10,8,Corinthians,198.627
+08:10,9,Ja Morant,104.252
+08:10,10,Dani Calabresa,15.368
+08:40,1,BBB22,558.251
+08:40,2,Tadeu,185.331
+08:40,3,KadirGecesi,24.183
+08:40,4,ARTHURAGUIARCAMPEAO,29.514
+08:40,5,Lina,50.972
+08:40,6,Léo Santana,23.381
+08:40,7,Kauan,14.347
+08:40,8,JusticeTourBangkok,63.059
+08:40,9,Dani Calabresa,15.418
+08:40,10,人気ボカロ曲,
+09:10,1,BBB22,561.586
+09:10,2,Tadeu,185.811
+09:10,3,KadirGecesi,27.435
+09:10,4,ARTHURAGUIARCAMPEAO,29.680
+09:10,5,Léo Santana,23.400
+09:10,6,人気ボカロ曲,
+09:10,7,1948SaBahayNiKuya,25.015
+09:10,8,プロセカ民やボカロ民に見てほしいもの,
+09:10,9,Lina,50.729
+09:10,10,Kauan,14.356
+09:40,1,Tadeu,186.254
+09:40,2,BBB22,564.631
+09:40,3,KadirGecesi,30.942
+09:40,4,人気ボカロ曲,
+09:40,5,プロセカ民やボカロ民に見てほしいもの,
+09:40,6,1948SaBahayNiKuya,33.130
+09:40,7,Léo Santana,23.423
+09:40,8,SB19 LATARA NA SA PBB,21.479
+09:40,9,ARTHURAGUIARCAMPEAO,29.911
+09:40,10,Lina,51.148
+10:10,1,KadirGecesi,34.955
+10:10,2,Tadeu,186.580
+10:10,3,BBB22,565.658
+10:10,4,プロセカ民やボカロ民に見てほしいもの,
+10:10,5,人気ボカロ曲,
+10:10,6,1948SaBahayNiKuya,43.283
+10:10,7,koningsdag,
+10:10,8,SB19 LATARA NA SA PBB,29.371
+10:10,9,スペースマウンテン,12.228
+10:10,10,국민투표,
+10:40,1,KadirGecesi,39.354
+10:40,2,Tadeu,186.306
+10:40,3,BBB22,566.958
+10:40,4,koningsdag,
+10:40,5,知床遊覧船,
+10:40,6,1948SaBahayNiKuya,52.876
+10:40,7,SB19 LATARA NA SA PBB,37.468
+10:40,8,人気ボカロ曲,
+10:40,9,スペースマウンテン,18.278
+10:40,10,국민투표,
+11:10,1,KadirGecesi,43.993
+11:10,2,koningsdag,
+11:10,3,1948SaBahayNiKuya,67.184
+11:10,4,BBB22,567.613
+11:10,5,SB19 LATARA NA SA PBB,48.046
+11:10,6,知床遊覧船,
+11:10,7,Tadeu,187.092
+11:10,8,スペースマウンテン,23.200
+11:10,9,人気ボカロ曲,
+11:10,10,記者会見,24.123
+11:40,1,KadirGecesi,47.931
+11:40,2,koningsdag,
+11:40,3,1948SaBahayNiKuya,92.188
+11:40,4,MIYEON_DRIVE_OUTNOW,
+11:40,5,BBB22,571.863
+11:40,6,SB19 Mentors PBBTeens,30.630
+11:40,7,スペースマウンテン,27.204
+11:40,8,SB19 LATARA NA SA PBB,53.143
+11:40,9,人気ボカロ曲,
+11:40,10,Dino,94.390
+12:10,1,KadirGecesi,52.199
+12:10,2,koningsdag,
+12:10,3,1948SaBahayNiKuya,109.984
+12:10,4,SB19xPBBTeens,44.714
+12:10,5,SB19 Mentors PBBTeens,43.881
+12:10,6,スペースマウンテン,32.111
+12:10,7,MIYEON_DRIVE_OUTNOW,13.507
+12:10,8,Dino,107.386
+12:10,9,SB19 LATARA NA SA PBB,55.827
+12:10,10,人気ボカロ曲,
+12:40,1,KadirGecesi,57.265
+12:40,2,koningsdag,10.739
+12:40,3,トリプルプレー,
+12:40,4,1948SaBahayNiKuya,127.457
+12:40,5,SB19xPBBTeens,60.404
+12:40,6,SB19 Mentors PBBTeens,58.997
+12:40,7,JuackeandoFinetwork06,
+12:40,8,スペースマウンテン,35.633
+12:40,9,Dino,121.651
+12:40,10,LULA QUEBRA O SIGILO,
+13:10,1,MoonKnight,70.651
+13:10,2,KadirGecesi,61.201
+13:10,3,SB19xPBBTeens,78.248
+13:10,4,SB19 Mentors PBBTeens,76.726
+13:10,5,koningsdag,11.296
+13:10,6,1948SaBahayNiKuya,144.665
+13:10,7,トリプルプレー,10.932
+13:10,8,スーパーバニヤン,
+13:10,9,スペースマウンテン,38.609
+13:10,10,LULA QUEBRA O SIGILO,
+13:40,1,MoonKnight,76.895
+13:40,2,PMQs,11.117
+13:40,3,KadirGecesi,65.486
+13:40,4,SB19xPBBTeens,98.922
+13:40,5,SB19 Mentors PBBTeens,97.049
+13:40,6,1948SaBahayNiKuya,164.854
+13:40,7,スーパーバニヤン,10.731
+13:40,8,トリプルプレー,12.510
+13:40,9,LULA QUEBRA O SIGILO,
+13:40,10,ノーアウト満塁,
+14:10,1,MoonKnight,82.619
+14:10,2,PMQs,14.462
+14:10,3,マリン出航3DLIVE,13.247
+14:10,4,SB19xPBBTeens,119.695
+14:10,5,SB19 Mentors PBBTeens,117.863
+14:10,6,スーパーバニヤン,15.912
+14:10,7,KadirGecesi,69.569
+14:10,8,LULA QUEBRA O SIGILO,
+14:10,9,トリプルプレー,13.713
+14:10,10,ファンブル,
+14:40,1,マリン出航3DLIVE,35.200
+14:40,2,MoonKnight,90.143
+14:40,3,PMQs,17.073
+14:40,4,すわほー,
+14:40,5,BulacanIsPink,64.841
+14:40,6,SB19xPBBTeens,147.991
+14:40,7,スーパーバニヤン,18.744
+14:40,8,SB19 Mentors PBBTeens,146.628
+14:40,9,ARTHUR NO MAIS VOCÊ,14.036
+14:40,10,LULA QUEBRA O SIGILO,
+15:10,1,マリン出航3DLIVE,59.782
+15:10,2,MoonKnight,97.079
+15:10,3,特捜9,
+15:10,4,上田と女が吠える夜,
+15:10,5,BulacanIsPink,72.468
+15:10,6,ARTHUR NO MAIS VOCÊ,21.948
+15:10,7,バニヤン,17.395
+15:10,8,すわほー,
+15:10,9,SB19 Mentors PBBTeens,165.895
+15:10,10,おりほー,
+15:40,1,マリン出航3DLIVE,69.872
+15:40,2,MoonKnight,104.685
+15:40,3,ナンバMG5,23.165
+15:40,4,Aぇヤンタン,10.980
+15:40,5,水曜日のダウンタウン,
+15:40,6,ARTHUR NO MAIS VOCÊ,29.127
+15:40,7,SB19 Mentors PBBTeens,191.977
+15:40,8,バニヤン,18.552
+15:40,9,すわほー,
+15:40,10,おりほー,
+16:10,1,ナンバMG5,33.307
+16:10,2,マリン出航3DLIVE,73.040
+16:10,3,MoonKnight,112.628
+16:10,4,水曜日のダウンタウン,
+16:10,5,わるドラマ,51.249
+16:10,6,ARTHUR NO MAIS VOCÊ,32.894
+16:10,7,SB19 Mentors PBBTeens,216.786
+16:10,8,バニヤン,20.100
+16:10,9,100M MOMENTS WITH V,61.491
+16:10,10,無名絵師,
+16:40,1,MoonKnight,121.955
+16:40,2,LongLiveMonteroTour,
+16:40,3,ナンバMG5,35.010
+16:40,4,マリン出航3DLIVE,75.129
+16:40,5,水曜日のダウンタウン,
+16:40,6,100M MOMENTS WITH V,79.661
+16:40,7,Jorge Muñoz,
+16:40,8,HATE CONCEPT CLIPS,25.967
+16:40,9,ARTHUR NO MAIS VOCÊ,34.109
+16:40,10,SB19 Mentors PBBTeens,236.835
+17:10,1,LongLiveMonteroTour,12.935
+17:10,2,JO1ANNX,22.440
+17:10,3,마이데이의_행운_원필아_생일축하해,25.311
+17:10,4,Our_Spring_PILDAY,25.342
+17:10,5,MoonKnight,130.205
+17:10,6,HATE CONCEPT CLIPS,43.150
+17:10,7,Jorge Muñoz,
+17:10,8,100M MOMENTS WITH V,92.343
+17:10,9,無名絵師,
+17:10,10,Yul Edochie,
+17:40,1,LongLiveMonteroTour,18.310
+17:40,2,JO1ANNX,65.458
+17:40,3,Our_Spring_PILDAY,32.795
+17:40,4,마이데이의_행운_원필아_생일축하해,32.703
+17:40,5,BJORK,
+17:40,6,arctic monkeys,10.628
+17:40,7,MoonKnight,139.996
+17:40,8,HATE CONCEPT CLIPS,47.515
+17:40,9,JESSIE WARE,
+17:40,10,第97回,
+18:10,1,LongLiveMonteroTour,21.628
+18:10,2,lorde,13.680
+18:10,3,JO1ANNX,102.664
+18:10,4,arctic monkeys,13.184
+18:10,5,bjork,
+18:10,6,Our_Spring_PILDAY,36.210
+18:10,7,마이데이의_행운_원필아_생일축하해,36.012
+18:10,8,MoonKnight,148.695
+18:10,9,jessie ware,
+18:10,10,第97回,
+18:40,1,lorde,15.344
+18:40,2,LongLiveMonteroTour,23.872
+18:40,3,arctic monkeys,15.358
+18:40,4,JO1ANNX,114.868
+18:40,5,Bjork,
+18:40,6,MoonKnight,158.623
+18:40,7,Our_Spring_PILDAY,38.262
+18:40,8,마이데이의_행운_원필아_생일축하해,38.001
+18:40,9,Primavera Sound,20.370
+18:40,10,jessie ware,
+19:10,1,lorde,16.342
+19:10,2,LongLiveMonteroTour,25.682
+19:10,3,arctic monkeys,16.839
+19:10,4,bjork,
+19:10,5,JO1ANNX,119.495
+19:10,6,MoonKnight,167.408
+19:10,7,Primavera Sound,22.531
+19:10,8,Our_Spring_PILDAY,39.590
+19:10,9,travis,40.472
+19:10,10,마이데이의_행운_원필아_생일축하해,39.340
+19:40,1,UmranMalik,
+19:40,2,lorde,17.520
+19:40,3,LongLiveMonteroTour,26.904
+19:40,4,arctic monkeys,18.431
+19:40,5,MoonKnight,176.686
+19:40,6,ChimeFinlit,
+19:40,7,bjork,
+19:40,8,SRHvGT,
+19:40,9,Primavera Sound,25.039
+19:40,10,travis,41.998
+20:10,1,UmranMalik,10.761
+20:10,2,SRHvsGT,
+20:10,3,lorde,18.165
+20:10,4,LongLiveMonteroTour,27.931
+20:10,5,arctic monkeys,19.291
+20:10,6,ChimeFinlit,
+20:10,7,MoonKnight,183.877
+20:10,8,Rashid Khan,
+20:10,9,Bjork,11.067
+20:10,10,Yul Edochie,32.654
+20:40,1,UmranMalik,13.894
+20:40,2,SRHvsGT,10.349
+20:40,3,lorde,18.848
+20:40,4,ChimeFinlit,
+20:40,5,arctic monkeys,20.258
+20:40,6,LongLiveMonteroTour,28.778
+20:40,7,MoonKnight,191.810
+20:40,8,Rashid Khan,12.037
+20:40,9,Bjork,12.097
+20:40,10,Yul Edochie,37.186
+21:10,1,UmranMalik,15.778
+21:10,2,LIVVIL,46.611
+21:10,3,SRHvsGT,10.957
+21:10,4,ChimeFinlit,
+21:10,5,Villarreal,101.201
+21:10,6,lorde,19.289
+21:10,7,MoonKnight,198.256
+21:10,8,arctic monkeys,20.888
+21:10,9,Rashid Khan,13.075
+21:10,10,Bjork,12.956
+21:40,1,LIVVIL,67.552
+21:40,2,Villarreal,132.086
+21:40,3,umranmalik,16.872
+21:40,4,ChimeFinlit,
+21:40,5,MoonKnight,205.603
+21:40,6,BolognaInter,
+21:40,7,lorde,19.943
+21:40,8,arctic monkeys,21.667
+21:40,9,Anfield,34.672
+21:40,10,Yul Edochie,45.016
+22:10,1,LIVVIL,85.515
+22:10,2,Villarreal,159.374
+22:10,3,BolognaInter,
+22:10,4,MoonKnight,211.668
+22:10,5,chilhavisto,
+22:10,6,UmranMalik,17.821
+22:10,7,Anfield,37.670
+22:10,8,Radu,
+22:10,9,Ministry of Truth,
+22:10,10,lorde,20.314
+22:40,1,Liverpool,289.598
+22:40,2,LIVVIL,110.781
+22:40,3,BolognaInter,16.210
+22:40,4,Radu,12.151
+22:40,5,EdomexFuerte,13.134
+22:40,6,chilhavisto,
+22:40,7,Anfield,42.962
+22:40,8,Rulli,
+22:40,9,MoonKnight,218.420
+22:40,10,Hendo,
+23:10,1,Liverpool,303.372
+23:10,2,LIVVIL,112.714
+23:10,3,EdomexFuerte,28.811
+23:10,4,BolognaInter,18.443
+23:10,5,Radu,14.701
+23:10,6,Fabinho,
+23:10,7,Anfield,47.287
+23:10,8,YNWA,11.802
+23:10,9,الهلال_الريان,44.058
+23:10,10,Rulli,
+23:40,1,EdomexFuerte,39.347
+23:40,2,Liverpool,322.019
+23:40,3,LIVVIL,115.516
+23:40,4,BolognaInter,19.555
+23:40,5,Radu,16.330
+23:40,6,Fabinho,10.264
+23:40,7,الهلال_الريان,53.332
+23:40,8,YNWA,12.896
+23:40,9,Anfield,51.422
+23:40,10,Arenado,

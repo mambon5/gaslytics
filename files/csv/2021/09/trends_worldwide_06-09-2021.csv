@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Argentina,709.618
+00:10,2,Anvisa,380.283
+00:10,3,AHMEDSYLLA,77.022
+00:10,4,LoveIsland,49.042
+00:10,5,Conmebol,171.997
+00:10,6,Inglaterra,67.907
+00:10,7,Edomex,21.341
+00:10,8,BRAxARG,27.762
+00:10,9,SvizzeraItalia,32.287
+00:10,10,Damien Rieu,
+00:41,1,Argentina,733.308
+00:41,2,Anvisa,397.756
+00:41,3,AHMEDSYLLA,80.012
+00:41,4,LoveIsland,50.439
+00:41,5,Inglaterra,70.980
+00:41,6,Conmebol,177.257
+00:41,7,Domingão,
+00:41,8,Edomex,22.383
+00:41,9,EliminatoriasSudamericanas,17.852
+00:41,10,Damien Rieu,12.167
+01:10,1,Anvisa,411.670
+01:10,2,Argentina,744.849
+01:10,3,Domingão,14.186
+01:10,4,AHMEDSYLLA,82.284
+01:10,5,Davinson,
+01:10,6,Inglaterra,73.031
+01:10,7,LoveIsland,51.052
+01:10,8,LaRojaxCHV,
+01:10,9,Conmebol,180.953
+01:10,10,EliminatoriasSudamericanas,19.749
+01:41,1,Anvisa,424.782
+01:41,2,Argentina,762.302
+01:41,3,Domingao,23.172
+01:41,4,Fiuk,18.521
+01:41,5,ShowDosFamosos,
+01:41,6,AEWAllOut,39.193
+01:41,7,Davinson,
+01:41,8,LaRojaxCHV,
+01:41,9,AHMEDSYLLA,83.937
+01:41,10,Inglaterra,75.202
+02:10,1,AEWAllOut,52.688
+02:10,2,Anvisa,435.176
+02:10,3,Domingao,29.441
+02:10,4,Argentina,770.649
+02:10,5,Fiuk,21.839
+02:10,6,ShowDosFamosos,
+02:10,7,Davinson,10.467
+02:10,8,Cuadrado,
+02:10,9,Paraguay,33.525
+02:10,10,ARMYSelcaDay,28.083
+02:41,1,AEWAllOut,73.521
+02:41,2,Anvisa,446.126
+02:41,3,Domingao,31.307
+02:41,4,Argentina,787.158
+02:41,5,Fiuk,23.970
+02:41,6,Funes Mori,
+02:41,7,ARMYSelcaDay,37.711
+02:41,8,ARSD,34.637
+02:41,9,Miro,22.319
+02:41,10,ShowDosFamosos,10.117
+03:10,1,AEWAllOut,101.966
+03:10,2,RHOP,12.992
+03:10,3,Anvisa,454.060
+03:10,4,Domingao,32.221
+03:10,5,Argentina,795.246
+03:10,6,ARMYSelcaDay,46.277
+03:10,7,Carrascal,
+03:10,8,ARSD,42.747
+03:10,9,Funes Mori,
+03:10,10,Fiuk,25.193
+03:41,1,AEWAllOut,138.573
+03:41,2,Lapadula,13.945
+03:41,3,LaVozAgentina,
+03:41,4,Lucha Bros,11.827
+03:41,5,RHOP,14.593
+03:41,6,PeruvsVenezuela,
+03:41,7,USAvCAN,
+03:41,8,Anvisa,461.708
+03:41,9,Epa Colombia,
+03:41,10,Villanueva,
+04:10,1,AEWAllOut,172.867
+04:10,2,LaVozAgentina,12.444
+04:10,3,Lapadula,20.427
+04:10,4,Villanueva,
+04:10,5,Epa Colombia,14.562
+04:10,6,USMNT,
+04:10,7,USAvCAN,
+04:10,8,Kyle Hamilton,
+04:10,9,PeruvsVenezuela,12.705
+04:10,10,Lucha Bros,12.878
+04:41,1,AEWAllOut,204.139
+04:41,2,LaVozArgentina,79.614
+04:41,3,Lali,45.113
+04:41,4,Lapadula,28.397
+04:41,5,Epa Colombia,23.108
+04:41,6,USMNT,10.646
+04:41,7,Ezequiel,10.838
+04:41,8,PeruvsVenezuela,16.636
+04:41,9,Fantastico,10.056
+04:41,10,Villanueva,
+05:10,1,LaVozArgentina,121.113
+05:10,2,AEWAllOut,239.136
+05:10,3,Lali,53.885
+05:10,4,Lali,53.885
+05:10,5,McKenzie Milton,12.823
+05:10,6,Lapadula,32.012
+05:10,7,Ezequiel,13.715
+05:10,8,Epa Colombia,29.195
+05:10,9,PeruvsVenezuela,20.731
+05:10,10,USMNT,11.186
+05:41,1,LaVozArgentina,148.269
+05:41,2,AEWAllOut,258.645
+05:41,3,McKenzie Milton,21.661
+05:41,4,Brian Kelly,10.337
+05:41,5,Notre Dame,31.642
+05:41,6,FSUvsND,
+05:41,7,Lali,59.255
+05:41,8,Fran,48.874
+05:41,9,Florida State,29.327
+05:41,10,Epa Colombia,34.603
+06:10,1,AEWAllOut,332.584
+06:10,2,LaVozArgentina,153.202
+06:10,3,Brian Kelly,17.281
+06:10,4,Adam Cole,27.938
+06:10,5,McKenzie Milton,23.900
+06:10,6,Notre Dame,35.373
+06:10,7,FSUvsND,
+06:10,8,Lali,62.714
+06:10,9,Florida State,30.378
+06:10,10,Epa Colombia,38.312
+06:41,1,AEWAllOut,356.741
+06:41,2,LaVozArgentina,156.210
+06:41,3,Brian Kelly,19.679
+06:41,4,Adam Cole,35.989
+06:41,5,McKenzie Milton,25.053
+06:41,6,Notre Dame,36.890
+06:41,7,FSUvsND,
+06:41,8,Lali,65.242
+06:41,9,Epa Colombia,41.205
+06:41,10,Florida State,31.092
+07:10,1,AEWAllOut,368.541
+07:10,2,LaVozArgentina,157.757
+07:10,3,Brian Kelly,20.731
+07:10,4,Adam Cole,39.769
+07:10,5,McKenzie Milton,25.746
+07:10,6,Notre Dame,37.524
+07:10,7,FSUvsND,
+07:10,8,Lali,66.138
+07:10,9,Epa Colombia,43.024
+07:10,10,Florida State,31.407
+07:41,1,btsbutimscreamingthelyrics,45.359
+07:41,2,AEWAllOut,376.940
+07:41,3,LaVozArgentina,158.800
+07:41,4,Brian Kelly,21.378
+07:41,5,Adam Cole,42.307
+07:41,6,McKenzie Milton,26.279
+07:41,7,Notre Dame,38.077
+07:41,8,pazartesi,
+07:41,9,FSUvsND,
+07:41,10,Epa Colombia,44.423
+08:10,1,btsbutimscreamingthelyrics,123.272
+08:10,2,AEWAllOut,382.443
+08:10,3,LaVozArgentina,159.418
+08:10,4,Adam Cole,43.803
+08:10,5,Brian Kelly,21.731
+08:10,6,Pazartesi,
+08:10,7,McKenzie Milton,26.594
+08:10,8,Notre Dame,38.285
+08:10,9,MondayMotivation,35.588
+08:10,10,PAIPAI TBVSC,228.380
+08:41,1,btsbutimscreamingthelyrics,178.903
+08:41,2,AEWAllOut,387.032
+08:41,3,あんスタ刑事フォシ捜査,44.034
+08:41,4,LaVozArgentina,159.818
+08:41,5,Pazartesi,
+08:41,6,Adam Cole,45.098
+08:41,7,Brian Kelly,22.014
+08:41,8,yoongis,
+08:41,9,McKenzie Milton,26.776
+08:41,10,Notre Dame,38.561
+09:10,1,btsbutimscreamingthelyrics,214.997
+09:10,2,あんスタ刑事フォシ捜査,88.309
+09:10,3,AEWAllOut,390.371
+09:10,4,Pazartesi,
+09:10,5,OkullarAçılıyor,43.192
+09:10,6,Adam Cole,46.010
+09:10,7,Brian Kelly,22.186
+09:10,8,yoongis,
+09:10,9,すい臓がん,
+09:10,10,Bryan Danielson,48.977
+09:41,1,btsbutimscreamingthelyrics,234.083
+09:41,2,あんスタ刑事フォシ捜査,103.817
+09:41,3,AEWAllOut,393.234
+09:41,4,MondayMotivation,42.740
+09:41,5,Pazartesi,
+09:41,6,Adam Cole,46.773
+09:41,7,yoongis,12.134
+09:41,8,Brian Kelly,22.318
+09:41,9,Asif Ali,
+09:41,10,ARuFaさん,
+10:10,1,btsbutimscreamingthelyrics,243.952
+10:10,2,あんスタ刑事フォシ捜査,107.619
+10:10,3,MondayMotivation,45.424
+10:10,4,Eternal_by_YoungK,
+10:10,5,영원을_노래하는_영케이의_시작,
+10:10,6,ARuFaさん,
+10:10,7,Asif Ali,
+10:10,8,Adam Cole,47.330
+10:10,9,あなたのツイッター,
+10:10,10,yoongis,13.123
+10:41,1,btsbutimscreamingthelyrics,255.052
+10:41,2,Eternal_by_YoungK,38.045
+10:41,3,영원을_노래하는_영케이의_시작,37.532
+10:41,4,あんスタ刑事フォシ捜査,111.195
+10:41,5,MondayMotivation,48.013
+10:41,6,TwitırdaaGt Açıldı,
+10:41,7,ATEEZ BEST TRACKS,17.752
+10:41,8,ARuFaさん,
+10:41,9,あなたのツイッター,
+10:41,10,Asif Ali,
+11:10,1,btsbutimscreamingthelyrics,264.201
+11:10,2,Eternal_by_YoungK,61.127
+11:10,3,영원을_노래하는_영케이의_시작,60.570
+11:10,4,Fever_Part_3_Tracklist,37.767
+11:10,5,ATEEZ BEST TRACKS,37.217
+11:10,6,推しはそんなこと言わない,
+11:10,7,twitırdaagt açıldı,
+11:10,8,ARuFaさん,
+11:10,9,あなたのツイッター,
+11:10,10,野々村真,10.505
+11:41,1,btsbutimscreamingthelyrics,272.131
+11:41,2,Eternal_by_YoungK,68.627
+11:41,3,영원을_노래하는_영케이의_시작,67.255
+11:41,4,Fever_Part_3_Tracklist,44.484
+11:41,5,推しはそんなこと言わない,
+11:41,6,ATEEZ BEST TRACKS,43.942
+11:41,7,ARuFaさん,
+11:41,8,twitırdaagt açıldı,
+11:41,9,ジェラードン,
+11:41,10,空気階段,
+12:10,1,Eternal_by_YoungK,72.409
+12:10,2,btsbutimscreamingthelyrics,280.254
+12:10,3,영원을_노래하는_영케이의_시작,70.644
+12:10,4,NHK沼,
+12:10,5,あんスタ刑事フォシ捜査,145.246
+12:10,6,namjoon,445.504
+12:10,7,ATEEZ BEST TRACKS,45.627
+12:10,8,ARuFaさん,
+12:10,9,ジェラードン,
+12:10,10,twitırdaagt açıldı,
+12:41,1,有吉ゼミ,13.601
+12:41,2,あんスタ刑事フォシ捜査,177.377
+12:41,3,Eternal_by_YoungK,74.971
+12:41,4,영원을_노래하는_영케이의_시작,72.879
+12:41,5,NHK沼,12.206
+12:41,6,namjoon,461.950
+12:41,7,ATEEZ BEST TRACKS,46.397
+12:41,8,Cry out,
+12:41,9,あなたのツイッター,
+12:41,10,Necati Şaşmaz,
+13:10,1,有吉ゼミ,18.548
+13:10,2,あんスタ刑事フォシ捜査,195.587
+13:10,3,Qさま,13.547
+13:10,4,Eternal_by_YoungK,76.941
+13:10,5,AirNfts Launchpad,
+13:10,6,NHK沼,14.939
+13:10,7,Cry out,13.875
+13:10,8,あなたのツイッター,
+13:10,9,namjoon,466.164
+13:10,10,Necati Şaşmaz,
+13:41,1,有吉ゼミ,19.376
+13:41,2,あんスタ刑事フォシ捜査,199.234
+13:41,3,qさま,16.678
+13:41,4,Haftanın Yalanları,
+13:41,5,AirNfts Launchpad,
+13:41,6,نفق_الحريه,31.938
+13:41,7,ダイヤの原石Vtuberを探せ,44.373
+13:41,8,トレパク,21.530
+13:41,9,Cry out,14.605
+13:41,10,あなたのツイッター,10.049
+14:10,1,Qさま,20.640
+14:10,2,有吉ゼミ,19.786
+14:10,3,あんスタ刑事フォシ捜査,201.984
+14:10,4,نفق_الحريه,36.299
+14:10,5,AirNfts Launchpad,
+14:10,6,アルフィーANNP,
+14:10,7,Haftanın Yalanları,
+14:10,8,Labor Day,127.969
+14:10,9,トレパク,24.928
+14:10,10,Alfa Romeo,25.932
+14:41,1,CDTVライブライブ,17.954
+14:41,2,ナイトドクター,14.484
+14:41,3,ARSD,218.768
+14:41,4,Başkasıyla Çalış,
+14:41,5,Qさま,24.009
+14:41,6,Labor Day,139.002
+14:41,7,アルフィーANNP,
+14:41,8,AirNfts Launchpad,
+14:41,9,Full Circle,12.772
+14:41,10,Alfa Romeo,32.146
+15:10,1,CDTVライブライブ,32.932
+15:10,2,ARSD,273.430
+15:10,3,ナイトドクター,24.391
+15:10,4,Labor Day,152.294
+15:10,5,KATTUN,31.676
+15:10,6,başkasıyla çalış,
+15:10,7,アルフィーannp,
+15:10,8,Full Circle,14.106
+15:10,9,深澤先生,
+15:10,10,Alfa Romeo,36.058
+15:41,1,CDTVライブライブ,39.233
+15:41,2,ARSD,323.714
+15:41,3,Labor Day,171.151
+15:41,4,ナイトドクター,26.876
+15:41,5,KATTUN,34.876
+15:41,6,ENGvIND,71.802
+15:41,7,başkasıyla çalış,
+15:41,8,トリスタとfine,
+15:41,9,Shukriya Sidharth,14.597
+15:41,10,Full Circle,15.565
+16:10,1,Labor Day,189.636
+16:10,2,ARSD,361.106
+16:10,3,CDTVライブライブ,42.059
+16:10,4,古見さんはコミュ症です,
+16:10,5,Shukriya Sidharth,35.064
+16:10,6,ナイトドクター,27.850
+16:10,7,başkasıyla çalış,
+16:10,8,トリスタとfine,
+16:10,9,KATTUN,35.172
+16:10,10,12H CLIPE JULIETTE,32.066
+16:41,1,Labor Day,212.529
+16:41,2,ARSD,394.470
+16:41,3,古見さんはコミュ症です,12.227
+16:41,4,CDTVライブライブ,43.844
+16:41,5,Shukriya Sidharth,54.315
+16:41,6,ENGvIND,72.017
+16:41,7,DAY6_6th_page,55.975
+16:41,8,12H CLIPE JULIETTE,36.444
+16:41,9,トリスタとfine,
+16:41,10,只野くん,
+17:10,1,Labor Day,231.892
+17:10,2,ARSD,423.573
+17:10,3,데이식스_마이데이_6년째_진득해,106.647
+17:10,4,Belmondo,10.659
+17:10,5,DAY6_6th_page,94.076
+17:10,6,4YearsWithYeontan,23.582
+17:10,7,Shukriya Sidharth,69.861
+17:10,8,LOCO FOR ITZY,39.792
+17:10,9,12H CLIPE JULIETTE,39.723
+17:10,10,tannie,31.933
+17:41,1,4YearsWithYeontan,99.222
+17:41,2,Labor Day,259.766
+17:41,3,데이식스_마이데이_6년째_진득해,127.120
+17:41,4,Belmondo,17.933
+17:41,5,ARSD,449.995
+17:41,6,DAY6_6th_page,107.371
+17:41,7,tannie,64.681
+17:41,8,Shukriya Sidharth,81.426
+17:41,9,LOCO FOR ITZY,54.578
+17:41,10,12H CLIPE JULIETTE,41.083
+18:10,1,4YearsWithYeontan,138.512
+18:10,2,INDvENG,54.908
+18:10,3,Labor Day,281.781
+18:10,4,Belmondo,23.315
+18:10,5,ARSD,469.370
+18:10,6,데이식스_마이데이_6년째_진득해,135.947
+18:10,7,tannie,86.037
+18:10,8,イグニのCM,
+18:10,9,Shukriya Sidharth,90.438
+18:10,10,LOCO FOR ITZY,57.351
+18:41,1,HappyBirthdayYeontan,156.086
+18:41,2,INDvENG,68.159
+18:41,3,Labor Day,307.797
+18:41,4,Belmondo,28.436
+18:41,5,ARSD,484.404
+18:41,6,데이식스_마이데이_6년째_진득해,141.180
+18:41,7,tannie,99.046
+18:41,8,イグニのCM,
+18:41,9,100 MILLION FOR MY BOY V,23.018
+18:41,10,Anonymous,88.154
+19:10,1,HappyBirthdayYeontan,170.365
+19:10,2,INDvENG,72.743
+19:10,3,Labor Day,325.985
+19:10,4,Belmondo,32.820
+19:10,5,ARSD,494.982
+19:10,6,데이식스_마이데이_6년째_진득해,144.315
+19:10,7,tannie,108.131
+19:10,8,Anonymous,113.105
+19:10,9,100 MILLION FOR MY BOY V,36.201
+19:10,10,イグニのCM,
+19:41,1,HappyBirthdayYeontan,182.739
+19:41,2,Labor Day,349.699
+19:41,3,INDvENG,77.676
+19:41,4,Belmondo,37.399
+19:41,5,ARSD,503.647
+19:41,6,TeamIndia,58.962
+19:41,7,tannie,115.221
+19:41,8,Anonymous,137.917
+19:41,9,100 MILLION FOR MY BOY V,42.085
+19:41,10,イグニのCM,
+20:41,1,Labor Day,388.066
+20:41,2,HappyBirthdayYeontan,198.231
+20:41,3,Rihanna,51.457
+20:41,4,Belmondo,45.491
+20:41,5,MebOnlineDevam,37.168
+20:41,6,INDvENG,82.032
+20:41,7,ARSD,516.699
+20:41,8,Anonymous,172.051
+20:41,9,Bafana Bafana,
+20:41,10,tannie,123.698
+21:10,1,Labor Day,402.151
+21:10,2,Rihanna,61.648
+21:10,3,HappyBirthdayYeontan,203.511
+21:10,4,Belmondo,48.955
+21:10,5,MebOnlineDevam,43.264
+21:10,6,Wahlarena,
+21:10,7,ARSD,521.712
+21:10,8,Anonymous,185.678
+21:10,9,TWICE 1ST 600M VIEWS,21.249
+21:10,10,Bafana Bafana,
+21:41,1,Labor Day,422.049
+21:41,2,Rihanna,70.772
+21:41,3,Wahlarena,
+21:41,4,MebOnlineDevam,49.576
+21:41,5,Belmondo,52.566
+21:41,6,HappyBirthdayYeontan,208.388
+21:41,7,AtamaYapılmalı,
+21:41,8,Anonymous,199.538
+21:41,9,TWICE 1ST 600M VIEWS,22.213
+21:41,10,İşimiziGeri Alacağız,
+22:10,1,Labor Day,434.713
+22:10,2,Rihanna,76.968
+22:10,3,MebOnlineDevam,54.617
+22:10,4,Wahlarena,
+22:10,5,Belmondo,55.282
+22:10,6,HappyBirthdayYeontan,211.939
+22:10,7,AtamaYapılmalı,10.235
+22:10,8,Anonymous,209.124
+22:10,9,Wilbur,23.951
+22:10,10,34AnneBaba AcıdanÖldü,
+22:41,1,Omar,69.314
+22:41,2,Michael K. Williams,47.117
+22:41,3,LaÚltimaTentación,
+22:41,4,The Wire,29.666
+22:41,5,Labor Day,452.877
+22:41,6,Rihanna,83.027
+22:41,7,MebOnlineDevam,59.268
+22:41,8,Belmondo,58.260
+22:41,9,Wahlarena,
+22:41,10,Emma Raducanu,
+23:10,1,Omar,95.985
+23:10,2,LaÚltimaTentación,14.632
+23:10,3,Boardwalk Empire,
+23:10,4,Labor Day,463.505
+23:10,5,Rihanna,86.940
+23:10,6,Lovecraft Country,
+23:10,7,MebOnlineDevam,62.421
+23:10,8,Chalky White,
+23:10,9,Belmondo,60.744
+23:10,10,Emma Raducanu,
+23:41,1,Omar,119.665
+23:41,2,LaÚltimaTentación,16.467
+23:41,3,Labor Day,478.982
+23:41,4,Lovecraft Country,
+23:41,5,Chalky White,
+23:41,6,SolheimCup,
+23:41,7,Rihanna,92.178
+23:41,8,MebOnlineDevam,64.929
+23:41,9,Xbox 360,
+23:41,10,FirstDates,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Perú,852.912
+00:10,2,Perú,852.912
+00:10,3,Castillo,895.407
+00:10,4,Dina Boluarte,74.886
+00:10,5,しずちゃん,15.997
+00:10,6,topmodel,
+00:10,7,Titanic,
+00:10,8,lana,192.116
+00:10,9,Casagrande,
+00:10,10,chilhavisto,
+00:40,1,Perú,887.947
+00:40,2,Castillo,937.665
+00:40,3,Titanic,
+00:40,4,Dina Boluarte,79.684
+00:40,5,しずちゃん,19.193
+00:40,6,Congreso,435.655
+00:40,7,lana,197.637
+00:40,8,Casagrande,33.253
+00:40,9,topmodel,
+00:40,10,TheTraitors,
+01:10,1,Perú,935.792
+01:10,2,Castillo,972.668
+01:10,3,しずちゃん,21.711
+01:10,4,Titanic,10.665
+01:10,5,Dina Boluarte,84.307
+01:10,6,Casagrande,
+01:10,7,lana,200.247
+01:10,8,Congreso,443.657
+01:10,9,laleydebaltazar,
+01:10,10,topmodel,
+01:40,1,Perú,987.768
+01:40,2,Castillo,1.010.351
+01:40,3,しずちゃん,23.772
+01:40,4,Casagrande,36.812
+01:40,5,Dina Boluarte,88.413
+01:40,6,laleydebaltazar,
+01:40,7,CashAppInWild,
+01:40,8,Titanic,11.054
+01:40,9,ゴールデンカムイ占い,
+01:40,10,金カム占い,
+02:10,1,Perú,1.023.591
+02:10,2,Castillo,1.040.596
+02:10,3,Tage Thompson,
+02:10,4,しずちゃん,25.564
+02:10,5,ゴールデンカムイ占い,
+02:10,6,金カム占い,
+02:10,7,Casagrande,38.041
+02:10,8,CashAppInWild,
+02:10,9,Sabres,
+02:10,10,James Gunn,
+02:40,1,AEWDynamite,16.713
+02:40,2,Perú,1.060.967
+02:40,3,Tage Thompson,
+02:40,4,Ricky Starks,
+02:40,5,Marcos,102.473
+02:40,6,agustin,80.186
+02:40,7,Castillo,1.068.589
+02:40,8,James Gunn,
+02:40,9,Survivor,
+02:40,10,Sabres,
+03:10,1,AEWDynamite,23.579
+03:10,2,Marcos,94.445
+03:10,3,agustin,88.199
+03:10,4,Tage Thompson,
+03:10,5,Perú,1.087.539
+03:10,6,Thiago,52.936
+03:10,7,Ricky Starks,
+03:10,8,Survivor,
+03:10,9,LIVE DA DOUTORA,33.888
+03:10,10,James Gunn,
+03:40,1,AEWDynamite,30.991
+03:40,2,Pereira,36.122
+03:40,3,Marcos,104.169
+03:40,4,Agustín,104.308
+03:40,5,Tage Thompson,10.760
+03:40,6,AbbottElementary,
+03:40,7,Thiago,58.525
+03:40,8,Perú,1.119.844
+03:40,9,Ricky Starks,
+03:40,10,Survivor,
+04:10,1,AEWDynamite,37.575
+04:10,2,Pereira,40.638
+04:10,3,Agustín,109.784
+04:10,4,Marcos,104.960
+04:10,5,Tage Thompson,11.842
+04:10,6,AbbottElementary,11.006
+04:10,7,Thiago,59.446
+04:10,8,ProvaDoFazendeiro,22.400
+04:10,9,Perú,1.144.453
+04:10,10,LIVE DA DOUTORA,51.740
+04:40,1,AEWDynamite,39.608
+04:40,2,Pereira,43.246
+04:40,3,Marcos,109.580
+04:40,4,Agustín,115.344
+04:40,5,ゴールデンカムイ占い,
+04:40,6,金カム占い,
+04:40,7,Tage Thompson,12.556
+04:40,8,AbbottElementary,11.747
+04:40,9,Thiago,62.082
+04:40,10,ProvaDoFazendeiro,26.320
+05:10,1,ゴールデンカムイ占い,
+05:10,2,金カム占い,
+05:10,3,AEWDynamite,40.891
+05:10,4,Pereira,44.686
+05:10,5,Celtics,23.148
+05:10,6,Marcos,108.751
+05:10,7,Agustín,116.162
+05:10,8,GujaratElectionResult,
+05:10,9,Tage Thompson,13.053
+05:10,10,AbbottElementary,12.259
+05:40,1,Celtics,30.078
+05:40,2,ゴールデンカムイ占い,
+05:40,3,金カム占い,
+05:40,4,AEWDynamite,41.944
+05:40,5,Pereira,46.056
+05:40,6,GujaratElectionResult,12.362
+05:40,7,Suns,26.218
+05:40,8,Clarkson,
+05:40,9,Agustín,119.130
+05:40,10,Marcos,111.509
+06:10,1,Celtics,36.308
+06:10,2,GujaratElectionResult,18.736
+06:10,3,ゴールデンカムイ占い,
+06:10,4,金カム占い,
+06:10,5,Suns,30.291
+06:10,6,Pereira,47.041
+06:10,7,AEWDynamite,42.644
+06:10,8,Clarkson,
+06:10,9,Warriors,52.433
+06:10,10,Klay,16.295
+06:40,1,Celtics,40.357
+06:40,2,GujaratElectionResult,25.020
+06:40,3,ゴールデンカムイ占い,
+06:40,4,金カム占い,
+06:40,5,Suns,32.986
+06:40,6,GujaratElection2022,
+06:40,7,Pereira,47.853
+06:40,8,Clarkson,
+06:40,9,Warriors,54.215
+06:40,10,AEWDynamite,43.293
+07:10,1,GujaratElectionResult,30.212
+07:10,2,Celtics,42.754
+07:10,3,ゴールデンカムイ占い,10.689
+07:10,4,金カム占い,
+07:10,5,Suns,33.757
+07:10,6,Tatis,
+07:10,7,Padres,71.546
+07:10,8,Red Sox,32.128
+07:10,9,Devers,
+07:10,10,Xander,24.460
+07:40,1,GujaratElectionResult,36.058
+07:40,2,Celtics,44.009
+07:40,3,ゴールデンカムイ占い,11.400
+07:40,4,金カム占い,10.268
+07:40,5,Suns,34.548
+07:40,6,Tatis,
+07:40,7,Padres,74.478
+07:40,8,Red Sox,
+07:40,9,Devers,
+07:40,10,友也くん,
+08:10,1,GujaratElectionResult,41.499
+08:10,2,Celtics,44.890
+08:10,3,ゴールデンカムイ占い,11.961
+08:10,4,金カム占い,10.758
+08:10,5,友也くん,
+08:10,6,Tatis,
+08:10,7,Suns,34.851
+08:10,8,Padres,75.424
+08:10,9,ゆめくろクリスマスカード,
+08:10,10,Devers,
+08:40,1,GujaratElectionResult,47.311
+08:40,2,ゴールデンカムイ占い,12.519
+08:40,3,金カム占い,11.248
+08:40,4,Celtics,45.733
+08:40,5,友也くん,
+08:40,6,千鳥と一緒にキラパラ,
+08:40,7,ゆめくろクリスマスカード,
+08:40,8,Bersama Lawan Radikalisasi,
+08:40,9,Tatis,
+08:40,10,Padres,76.634
+09:10,1,GujaratElectionResult,53.025
+09:10,2,千鳥と一緒にキラパラ,
+09:10,3,金カム占い,11.698
+09:10,4,ゴールデンカムイ占い,12.973
+09:10,5,友也くん,
+09:10,6,Celtics,46.285
+09:10,7,ゆめくろクリスマスカード,
+09:10,8,Bersama Lawan Radikalisasi,
+09:10,9,Tatis,
+09:10,10,モーメント,17.674
+09:40,1,GujaratElectionResult,57.782
+09:40,2,千鳥と一緒にキラパラ,13.284
+09:40,3,ゴールデンカムイ占い,13.489
+09:40,4,金カム占い,12.171
+09:40,5,友也くん,
+09:40,6,最後の満月,19.696
+09:40,7,MohsenShekari,70.178
+09:40,8,PATRICK'S CIPHER,
+09:40,9,モーメント,20.260
+09:40,10,Celtics,46.974
+10:10,1,GujaratElectionResult,62.217
+10:10,2,最後の満月,21.698
+10:10,3,千鳥と一緒にキラパラ,16.292
+10:10,4,SonSözüEYTSöyler,46.644
+10:10,5,ゴールデンカムイ占い,14.050
+10:10,6,金カム占い,12.690
+10:10,7,友也くん,
+10:10,8,モーメント,22.716
+10:10,9,PATRICK'S CIPHER,19.905
+10:10,10,コールドムーン,12.135
+10:40,1,最後の満月,26.262
+10:40,2,GujaratElectionResult,66.475
+10:40,3,SonSözüEYTSöyler,69.100
+10:40,4,tenlee_1001,19.145
+10:40,5,千鳥と一緒にキラパラ,18.573
+10:40,6,モーメント,26.286
+10:40,7,ゴールデンカムイ占い,14.647
+10:40,8,コールドムーン,13.939
+10:40,9,友也くん,
+10:40,10,1212 Noey Shopee Namneung,16.057
+11:10,1,Warntag2022,
+11:10,2,最後の満月,31.419
+11:10,3,GujaratElectionResult,70.365
+11:10,4,GujaratElectionResult,70.365
+11:10,5,SonSözüEYTSöyler,88.575
+11:10,6,モーメント,29.039
+11:10,7,コールドムーン,15.336
+11:10,8,tenlee_1001,28.552
+11:10,9,1212 Noey Shopee Namneung,42.308
+11:10,10,友也くん,
+11:40,1,Warntag2022,10.905
+11:40,2,最後の満月,36.369
+11:40,3,Gujarat,146.118
+11:40,4,Gujarat,146.118
+11:40,5,SonSözüEYTSöyler,108.742
+11:40,6,HarryandMeghanNetflix,
+11:40,7,モーメント,32.225
+11:40,8,コールドムーン,16.912
+11:40,9,tenlee_1001,34.426
+11:40,10,IftiranınGercekYuzu,
+12:10,1,Warntag2022,12.914
+12:10,2,最後の満月,40.172
+12:10,3,HarryandMeghanNetflix,11.294
+12:10,4,モーメント,34.550
+12:10,5,Gujarat,153.110
+12:10,6,コールドムーン,18.178
+12:10,7,SonSözüEYTSöyler,124.878
+12:10,8,CurrentLagaRe,
+12:10,9,不足しているものFF14,
+12:10,10,Himachal,68.071
+12:40,1,最後の満月,44.811
+12:40,2,Warntag2022,13.918
+12:40,3,Avatar2xZeeNuNew,24.160
+12:40,4,コールドムーン,19.671
+12:40,5,HarryandMeghanNetflix,14.297
+12:40,6,モーメント,36.920
+12:40,7,Gujarat,162.642
+12:40,8,逆バニーの日,
+12:40,9,SonSözüEYTSöyler,139.831
+12:40,10,今年一年あなたの心を支えたもの,
+13:10,1,最後の満月,51.202
+13:10,2,อิงล็อตLiveinS45Clinic,103.271
+13:10,3,Warntag2022,14.813
+13:10,4,モニタリング,26.313
+13:10,5,コールドムーン,
+13:10,6,Avatar2xZeeNuNew,45.211
+13:10,7,逆バニーの日,
+13:10,8,モーメント,38.762
+13:10,9,Gujarat,173.027
+13:10,10,Yunan Hukuksuzluğu,
+13:40,1,最後の満月,58.695
+13:40,2,モニタリング,30.539
+13:40,3,อิงล็อตLiveinS45Clinic,140.464
+13:40,4,Luis de la Fuente,
+13:40,5,素のまんま,17.602
+13:40,6,Warntag2022,15.467
+13:40,7,今年一年あなたの心を支えたもの,
+13:40,8,逆バニーの日,
+13:40,9,Gujarat,185.270
+13:40,10,岩本兄弟,
+14:10,1,最後の満月,66.096
+14:10,2,Luis de la Fuente,12.173
+14:10,3,モニタリング,33.126
+14:10,4,อิงล็อตLiveinS45Clinic,170.409
+14:10,5,素のまんま,20.074
+14:10,6,今年一年あなたの心を支えたもの,
+14:10,7,コールドムーン,12.201
+14:10,8,逆バニーの日,
+14:10,9,Gujarat,194.172
+14:10,10,岩本兄弟,
+14:40,1,Brittney Griner,71.156
+14:40,2,silent,67.581
+14:40,3,Paul Whelan,
+14:40,4,最後の満月,71.898
+14:40,5,Viktor Bout,34.004
+14:40,6,Luis de la Fuente,14.720
+14:40,7,WNBA,33.734
+14:40,8,Merchant of Death,
+14:40,9,モニタリング,35.335
+14:40,10,梅津瑞樹,
+15:10,1,Brittney Griner,132.092
+15:10,2,silent,104.380
+15:10,3,Paul Whelan,17.982
+15:10,4,WNBA,57.510
+15:10,5,Viktor Bout,59.412
+15:10,6,Merchant of Death,19.359
+15:10,7,最後の満月,76.582
+15:10,8,Marine,54.290
+15:10,9,Luis de la Fuente,16.525
+15:10,10,梅津瑞樹,
+15:40,1,Brittney Griner,175.834
+15:40,2,silent,115.705
+15:40,3,Paul Whelan,32.073
+15:40,4,WNBA,80.480
+15:40,5,Viktor Bout,77.134
+15:40,6,Merchant of Death,33.442
+15:40,7,Marine,75.352
+15:40,8,最後の満月,81.820
+15:40,9,Luis de la Fuente,18.361
+15:40,10,梅津瑞樹,11.582
+16:10,1,Brittney Griner,221.224
+16:10,2,silent,120.084
+16:10,3,Paul Whelan,48.290
+16:10,4,Russia,385.515
+16:10,5,WNBA,100.545
+16:10,6,Merchant of Death,45.957
+16:10,7,Marine,98.177
+16:10,8,Viktor Bout,91.810
+16:10,9,니키_없는_엔진은_팥없는붕어빵,57.836
+16:10,10,RikiRhythmOfDecember,59.305
+16:40,1,Brittney Griner,261.676
+16:40,2,Russia,416.388
+16:40,3,Paul Whelan,66.785
+16:40,4,Paul Whelan,66.785
+16:40,5,WNBA,117.832
+16:40,6,silent,123.111
+16:40,7,Merchant of Death,60.814
+16:40,8,니키_없는_엔진은_팥없는붕어빵,90.240
+16:40,9,Viktor Bout,102.328
+16:40,10,RikiRhythmOfDecember,89.872
+17:10,1,Brittney Griner,297.771
+17:10,2,Russia,434.777
+17:10,3,Paul Whelan,84.756
+17:10,4,Paul Whelan,84.756
+17:10,5,WNBA,135.793
+17:10,6,Merchant of Death,73.389
+17:10,7,silent,124.696
+17:10,8,니키_없는_엔진은_팥없는붕어빵,101.139
+17:10,9,Viktor Bout,112.957
+17:10,10,RikiRhythmOfDecember,101.750
+17:40,1,Brittney Griner,330.786
+17:40,2,Russia,462.968
+17:40,3,Paul Whelan,99.305
+17:40,4,Paul Whelan,99.305
+17:40,5,WNBA,150.594
+17:40,6,Merchant of Death,84.487
+17:40,7,Viktor Bout,122.986
+17:40,8,니키_없는_엔진은_팥없는붕어빵,107.575
+17:40,9,silent,126.237
+17:40,10,RikiRhythmOfDecember,108.490
+18:10,1,Russia,477.562
+18:10,2,Brittney Griner,360.431
+18:10,3,Paul Whelan,114.362
+18:10,4,Marine,189.353
+18:10,5,WNBA,164.659
+18:10,6,Merchant of Death,94.186
+18:10,7,Viktor Bout,131.887
+18:10,8,니키_없는_엔진은_팥없는붕어빵,112.153
+18:10,9,RikiRhythmOfDecember,113.058
+18:10,10,SalarioRosaParaTi,
+18:40,1,Russia,499.789
+18:40,2,Brittney Griner,388.099
+18:40,3,SalarioRosaParaTi,
+18:40,4,Paul Whelan,127.771
+18:40,5,Marine,209.612
+18:40,6,WNBA,176.466
+18:40,7,Merchant of Death,103.939
+18:40,8,DiabloPromo,
+18:40,9,Viktor Bout,139.233
+18:40,10,LilithIsComing,
+19:10,1,Russia,509.740
+19:10,2,SalarioRosaParaTi,
+19:10,3,Brittney Griner,412.408
+19:10,4,Whelan,175.991
+19:10,5,Marine,225.878
+19:10,6,WNBA,187.732
+19:10,7,TOByuzyilRekorKadro,55.725
+19:10,8,DiabloPromo,
+19:10,9,Merchant of Death,113.270
+19:10,10,LilithIsComing,11.714
+19:40,1,SalarioRosaParaTi,12.643
+19:40,2,Russia,531.165
+19:40,3,Brittney Griner,437.446
+19:40,4,Whelan,191.469
+19:40,5,Marine,243.646
+19:40,6,WNBA,198.004
+19:40,7,DiabloPromo,10.794
+19:40,8,LilithIsComing,13.019
+19:40,9,Merchant of Death,120.342
+19:40,10,TOByuzyilRekorKadro,72.877
+20:10,1,SalarioRosaParaTi,17.392
+20:10,2,Russia,532.150
+20:10,3,Griner,587.005
+20:10,4,Whelan,206.612
+20:10,5,Marine,257.793
+20:10,6,الهلال_نيوكاسل,27.218
+20:10,7,WNBA,207.950
+20:10,8,whereiszibu,
+20:10,9,DiabloPromo,12.290
+20:10,10,LilithIsComing,14.281
+20:40,1,SalarioRosaParaTi,21.389
+20:40,2,Russia,558.981
+20:40,3,Whelan,222.663
+20:40,4,Griner,616.133
+20:40,5,Marine,273.330
+20:40,6,الهلال_نيوكاسل,31.556
+20:40,7,WNBA,217.334
+20:40,8,whereiszibu,
+20:40,9,DiabloPromo,13.017
+20:40,10,LilithIsComing,14.978
+21:10,1,SalarioRosaParaTi,24.966
+21:10,2,Russia,569.915
+21:10,3,Whelan,240.340
+21:10,4,Griner,646.474
+21:10,5,Marine,288.216
+21:10,6,الهلال_نيوكاسل,34.356
+21:10,7,WNBA,226.286
+21:10,8,whereiszibu,
+21:10,9,DiabloPromo,13.617
+21:10,10,LilithIsComing,15.360
+21:40,1,SalarioRosaParaTi,27.731
+21:40,2,Russia,589.148
+21:40,3,Whelan,256.794
+21:40,4,Marine,302.158
+21:40,5,Griner,676.168
+21:40,6,SonSözüEYTSöyler,669.044
+21:40,7,WNBA,233.821
+21:40,8,الهلال_نيوكاسل,36.930
+21:40,9,XF2022,
+21:40,10,vedatbilgin,40.944
+22:10,1,SalarioRosaParaTi,29.943
+22:10,2,Russia,591.364
+22:10,3,XF2022,11.766
+22:10,4,Whelan,274.559
+22:10,5,Marine,315.653
+22:10,6,Griner,706.293
+22:10,7,SonSözüEYTSöyler,700.462
+22:10,8,WNBA,241.410
+22:10,9,الهلال_نيوكاسل,38.814
+22:10,10,EmeklilikteYașaTakılanlar,15.815
+22:40,1,SalarioRosaParaTi,31.622
+22:40,2,Russia,616.712
+22:40,3,XF2022,17.079
+22:40,4,Whelan,291.174
+22:40,5,Marine,329.740
+22:40,6,Griner,737.667
+22:40,7,SonSözüEYTSöyler,719.577
+22:40,8,LaIslaDeLasTentaciones12,
+22:40,9,WNBA,248.977
+22:40,10,EmeklilikteYașaTakılanlar,17.646
+23:10,1,SalarioRosaParaTi,32.866
+23:10,2,XF2022,23.039
+23:10,3,LaIslaDeLasTentaciones12,17.697
+23:10,4,Russia,623.986
+23:10,5,Whelan,307.021
+23:10,6,Marine,340.860
+23:10,7,Griner,766.984
+23:10,8,Javi,21.488
+23:10,9,WNBA,256.214
+23:10,10,SonSözüEYTSöyler,730.931
+23:40,1,SalarioRosaParaTi,34.309
+23:40,2,XF2022,27.472
+23:40,3,Russia,642.787
+23:40,4,LaIslaDeLasTentaciones12,23.372
+23:40,5,Whelan,323.296
+23:40,6,Marine,356.953
+23:40,7,Griner,793.827
+23:40,8,WNBA,263.789
+23:40,9,Javi,23.810
+23:40,10,Putin,265.939

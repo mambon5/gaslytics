@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalvameMediafest,22.289
+00:10,2,薫ちゃん,
+00:10,3,Luva,13.408
+00:10,4,ObiWan,114.913
+00:10,5,亀山くん,
+00:10,6,Jerami Grant,
+00:10,7,MadVMA22,
+00:10,8,OkanBuruk,
+00:10,9,chilhavisto,
+00:10,10,Pistons,
+00:40,1,SalvameMediafest,28.183
+00:40,2,Jerami Grant,10.623
+00:40,3,Luva,21.180
+00:40,4,薫ちゃん,
+00:40,5,pistons,
+00:40,6,亀山くん,
+00:40,7,Portland,25.011
+00:40,8,亀ちゃん,
+00:40,9,Ayton,
+00:40,10,寺脇康文,
+01:10,1,SalvameMediafest,37.451
+01:10,2,薫ちゃん,
+01:10,3,Luva,27.386
+01:10,4,亀山くん,
+01:10,5,亀ちゃん,
+01:10,6,Jerami Grant,12.466
+01:10,7,寺脇康文,15.327
+01:10,8,Pistons,
+01:10,9,Portland,25.947
+01:10,10,Ayton,
+01:40,1,SalvameMediafest,43.686
+01:40,2,薫ちゃん,
+01:40,3,亀山くん,
+01:40,4,Luva,33.092
+01:40,5,亀ちゃん,
+01:40,6,寺脇康文,20.128
+01:40,7,Jerami Grant,13.772
+01:40,8,Pistons,10.417
+01:40,9,Falcioni,
+01:40,10,Portland,27.360
+02:10,1,薫ちゃん,
+02:10,2,SalvameMediafest,45.969
+02:10,3,亀山くん,11.206
+02:10,4,Luva,37.484
+02:10,5,亀ちゃん,
+02:10,6,寺脇康文,23.639
+02:10,7,Jerami Grant,14.763
+02:10,8,Pistons,10.920
+02:10,9,亀山さん,18.958
+02:10,10,Portland,28.750
+02:40,1,Diego Alves,
+02:40,2,AEWDynamite,21.198
+02:40,3,Hulk,16.560
+02:40,4,薫ちゃん,
+02:40,5,亀山くん,12.430
+02:40,6,Corinthians,50.379
+02:40,7,Luva,41.313
+02:40,8,SalvameMediafest,46.652
+02:40,9,亀ちゃん,
+02:40,10,寺脇康文,26.359
+03:10,1,Flamengo,137.530
+03:10,2,Corinthians,70.150
+03:10,3,Diego Alves,17.526
+03:10,4,AEWDynamite,33.107
+03:10,5,Hulk,24.178
+03:10,6,Keno,
+03:10,7,Arão,18.285
+03:10,8,Gabigol,16.138
+03:10,9,薫ちゃん,10.380
+03:10,10,亀山くん,13.611
+03:40,1,Flamengo,166.293
+03:40,2,Corinthians,103.849
+03:40,3,Diego Alves,23.267
+03:40,4,AEWDynamite,48.969
+03:40,5,Hulk,29.838
+03:40,6,Gabigol,21.526
+03:40,7,Arão,21.815
+03:40,8,Keno,
+03:40,9,Everton Ribeiro,
+03:40,10,Andreas,17.931
+04:10,1,Flamengo,227.901
+04:10,2,Hulk,52.814
+04:10,3,Corinthians,120.688
+04:10,4,Diego Alves,31.566
+04:10,5,AEWDynamite,58.821
+04:10,6,Gabigol,26.626
+04:10,7,Arrascaeta,
+04:10,8,Arão,23.524
+04:10,9,Atlético,68.303
+04:10,10,Roni,
+04:40,1,Flamengo,268.060
+04:40,2,Corinthians,156.494
+04:40,3,Hulk,63.472
+04:40,4,Gabigol,40.571
+04:40,5,Diego Alves,35.174
+04:40,6,AEWDynamite,62.015
+04:40,7,Rodinei,
+04:40,8,Atlético,79.687
+04:40,9,Arrascaeta,
+04:40,10,Arão,25.760
+05:10,1,Flamengo,282.985
+05:10,2,Corinthians,169.792
+05:10,3,Hulk,69.886
+05:10,4,Gabigol,47.341
+05:10,5,Diego Alves,37.381
+05:10,6,bucciovertimechallenge,
+05:10,7,AEWDynamite,64.253
+05:10,8,Rodinei,
+05:10,9,Atlético,87.564
+05:10,10,Arrascaeta,
+05:40,1,Flamengo,294.964
+05:40,2,Corinthians,177.480
+05:40,3,Hulk,72.536
+05:40,4,Gabigol,49.948
+05:40,5,Diego Alves,38.360
+05:40,6,GoAvsGo,21.241
+05:40,7,Kadri,14.799
+05:40,8,bucciovertimechallenge,
+05:40,9,StanleyCup,21.132
+05:40,10,DRPowerCouple,14.597
+06:10,1,Flamengo,300.009
+06:10,2,Corinthians,180.542
+06:10,3,Hulk,73.743
+06:10,4,Gabigol,51.236
+06:10,5,GoAvsGo,25.298
+06:10,6,Diego Alves,38.745
+06:10,7,Kadri,19.156
+06:10,8,bucciovertimechallenge,
+06:10,9,StanleyCup,23.926
+06:10,10,DRPowerCouple,15.935
+06:40,1,Flamengo,303.650
+06:40,2,Corinthians,182.714
+06:40,3,Hulk,74.838
+06:40,4,GoAvsGo,26.876
+06:40,5,Gabigol,51.959
+06:40,6,Kadri,21.538
+06:40,7,Diego Alves,38.982
+06:40,8,MahmudEfendiHazretleri,17.331
+06:40,9,StanleyCup,25.202
+06:40,10,bucciovertimechallenge,
+07:10,1,Flamengo,305.040
+07:10,2,Corinthians,183.730
+07:10,3,Hulk,75.232
+07:10,4,GoAvsGo,27.780
+07:10,5,MahmudEfendiHazretleri,20.375
+07:10,6,Gabigol,52.347
+07:10,7,Kadri,23.167
+07:10,8,Diego Alves,39.111
+07:10,9,StanleyCup,25.943
+07:10,10,bucciovertimechallenge,
+07:40,1,Flamengo,306.254
+07:40,2,MahmudEfendiHazretleri,24.446
+07:40,3,Corinthians,184.498
+07:40,4,Hulk,75.756
+07:40,5,GoAvsGo,28.345
+07:40,6,Kadri,24.277
+07:40,7,Gabigol,52.622
+07:40,8,LeftandRight,216.779
+07:40,9,bucciovertimechallenge,
+07:40,10,Diego Alves,39.207
+08:10,1,MahmudEfendiHazretleri,29.402
+08:10,2,Flamengo,306.570
+08:10,3,Corinthians,184.754
+08:10,4,Hulk,75.877
+08:10,5,TUGSTITS,11.039
+08:10,6,GoAvsGo,28.746
+08:10,7,LeftandRight,222.179
+08:10,8,Kadri,25.124
+08:10,9,Gabigol,52.717
+08:10,10,bucciovertimechallenge,
+08:40,1,MahmudEfendiHazretleri,35.208
+08:40,2,Flamengo,307.133
+08:40,3,TUGSTITS,13.667
+08:40,4,Corinthians,185.196
+08:40,5,Hulk,76.149
+08:40,6,LeftandRight,230.072
+08:40,7,GoAvsGo,29.042
+08:40,8,Kadri,25.788
+08:40,9,USBメモリ,22.317
+08:40,10,amagasaki2022,
+09:10,1,MahmudEfendiHazretleri,41.021
+09:10,2,떠누야생일축하해,28.480
+09:10,3,LivinInvestasi,
+09:10,4,amagasaki2022,11.378
+09:10,5,TUGSTITS,14.706
+09:10,6,Flamengo,307.138
+09:10,7,LeftandRight,231.491
+09:10,8,パスワード,53.794
+09:10,9,USBメモリ,28.064
+09:10,10,Corinthians,185.242
+09:40,1,MahmudEfendiHazretleri,47.077
+09:40,2,떠누야생일축하해,41.003
+09:40,3,LivinInvestasi,
+09:40,4,TUGSTITS,15.570
+09:40,5,パスワード,62.783
+09:40,6,Flamengo,307.581
+09:40,7,Masks,
+09:40,8,USBメモリ,33.514
+09:40,9,個人情報,107.509
+09:40,10,宝石の国,61.218
+10:10,1,MahmudEfendiHazretleri,52.711
+10:10,2,떠누야생일축하해,47.701
+10:10,3,パスワード,70.511
+10:10,4,Masks,
+10:10,5,LivinInvestasi,
+10:10,6,Flamengo,307.260
+10:10,7,tugstits,16.113
+10:10,8,USBメモリ,38.587
+10:10,9,SBMPTN,43.579
+10:10,10,個人情報,112.103
+10:40,1,MahmudEfendiHazretleri,58.745
+10:40,2,SBMPTN,49.088
+10:40,3,떠누야생일축하해,51.933
+10:40,4,パスワード,78.985
+10:40,5,YuvanaHoşGeldinOkanBuruk,
+10:40,6,الخميس_الونيس,10.380
+10:40,7,Masks,
+10:40,8,Flamengo,307.838
+10:40,9,USBメモリ,44.267
+10:40,10,Boxing Day,
+11:10,1,MahmudEfendiHazretleri,64.309
+11:10,2,AskENHYPEN,12.854
+11:10,3,SBMPTN,52.720
+11:10,4,パスワード,89.407
+11:10,5,떠누야생일축하해,55.378
+11:10,6,YuvanaHoşGeldinOkanBuruk,
+11:10,7,新鮮シラス,
+11:10,8,Tuğçe Kazaz,
+11:10,9,USBメモリ,51.007
+11:10,10,正気度P,
+11:40,1,MahmudEfendiHazretleri,69.249
+11:40,2,AskENHYPEN,28.806
+11:40,3,SBMPTN,57.416
+11:40,4,今夏の旬顔作り,
+11:40,5,パスワード,99.383
+11:40,6,新鮮シラス,
+11:40,7,アイプラ前夜祭,
+11:40,8,正気度喪失,
+11:40,9,正気度P,
+11:40,10,満塁ホームラン,
+12:10,1,AskENHYPEN,43.566
+12:10,2,MahmudEfendiHazretleri,74.195
+12:10,3,アイプラ前夜祭,
+12:10,4,今夏の旬顔作り,11.134
+12:10,5,SBMPTN,60.302
+12:10,6,パスワード,109.102
+12:10,7,stikstofdebat,
+12:10,8,正気度喪失,
+12:10,9,正気度P,
+12:10,10,満塁ホームラン,
+12:40,1,AskENHYPEN,62.730
+12:40,2,MahmudEfendiHazretleri,78.376
+12:40,3,アイプラ前夜祭,16.885
+12:40,4,今夏の旬顔作り,13.915
+12:40,5,stikstofdebat,
+12:40,6,SBMPTN,64.111
+12:40,7,パスワード,117.459
+12:40,8,正気度喪失,
+12:40,9,正気度P,
+12:40,10,中丸くん,
+13:10,1,AskENHYPEN,65.493
+13:10,2,MahmudEfendiHazretleri,82.206
+13:10,3,アイプラ前夜祭,25.042
+13:10,4,YetToCome5thWin,37.464
+13:10,5,stageforcinderella,
+13:10,6,SBMPTN,66.200
+13:10,7,パスワード,126.149
+13:10,8,正気度喪失,
+13:10,9,正気度P,
+13:10,10,中丸くん,
+13:40,1,AskENHYPEN,67.022
+13:40,2,stageforcinderella,21.878
+13:40,3,YetToCome5thWin,53.761
+13:40,4,アイプラ前夜祭,30.977
+13:40,5,MahmudEfendiHazretleri,85.194
+13:40,6,ジブリパーク,
+13:40,7,SBMPTN,69.053
+13:40,8,パスワード,134.007
+13:40,9,正気度喪失,
+13:40,10,正気度P,
+14:10,1,stageforcinderella,42.601
+14:10,2,AskENHYPEN,68.035
+14:10,3,素のまんま,
+14:10,4,YetToCome5thWin,62.785
+14:10,5,超てんちゃんのはいしん,
+14:10,6,Aグループ,
+14:10,7,すわほー,
+14:10,8,ジブリパーク,
+14:10,9,高梨完封,
+14:10,10,チェキ風カード,
+14:40,1,stageforcinderella,63.075
+14:40,2,素のまんま,29.941
+14:40,3,横浜優勝,
+14:40,4,MeijiLivexBibleBuild,34.785
+14:40,5,AskENHYPEN,68.922
+14:40,6,すわほー,
+14:40,7,Aグループ,
+14:40,8,モニタリング,
+14:40,9,Ike Ekweremadu,15.344
+14:40,10,カズマ役,
+15:10,1,StageforCinderella,84.692
+15:10,2,MeijiLivexBibleBuild,75.781
+15:10,3,横浜優勝,
+15:10,4,素のまんま,33.010
+15:10,5,Aグループ,14.991
+15:10,6,すわほー,
+15:10,7,Carolina,
+15:10,8,찰리푸스x정국_랩앤라,46.093
+15:10,9,Ike Ekweremadu,19.386
+15:10,10,カズマ役,
+15:40,1,StageforCinderella,96.123
+15:40,2,MeijiLivexBibleBuild,110.187
+15:40,3,横浜優勝,
+15:40,4,素のまんま,34.124
+15:40,5,Carolina,
+15:40,6,Aグループ,19.192
+15:40,7,THE夜会,16.618
+15:40,8,Ike Ekweremadu,24.094
+15:40,9,すわほー,
+15:40,10,死のグループ,
+16:10,1,StageforCinderella,101.524
+16:10,2,やんごとなき一族,14.117
+16:10,3,MeijiLivexBibleBuild,126.957
+16:10,4,THE夜会,21.030
+16:10,5,Carolina,
+16:10,6,わけほー,
+16:10,7,引き分け,
+16:10,8,Aグループ,21.422
+16:10,9,横浜優勝,
+16:10,10,Ike Ekweremadu,27.777
+16:40,1,StageforCinderella,104.974
+16:40,2,햇살같은선우의_스무번째여름,68.830
+16:40,3,OurBrightestStarSunoo,67.814
+16:40,4,やんごとなき一族,15.404
+16:40,5,พิมรี่พาย,275.445
+16:40,6,引き分け,
+16:40,7,わけほー,
+16:40,8,Aグループ,23.101
+16:40,9,Ike Ekweremadu,32.248
+16:40,10,横浜優勝,
+17:10,1,OurBrightestStarSunoo,245.007
+17:10,2,햇살같은선우의_스무번째여름,240.495
+17:10,3,SCOTUS,71.273
+17:10,4,Supreme Court,175.770
+17:10,5,神代類誕生祭2022,11.287
+17:10,6,StageforCinderella,107.479
+17:10,7,うたプリ12歳,
+17:10,8,Miranda,34.091
+17:10,9,Ike Ekweremadu,37.991
+17:10,10,Title IX,14.952
+17:40,1,OurBrightestStarSunoo,317.580
+17:40,2,햇살같은선우의_스무번째여름,335.510
+17:40,3,Supreme Court,232.916
+17:40,4,SCOTUS,102.342
+17:40,5,神代類誕生祭2022,30.672
+17:40,6,うたプリ12歳,13.762
+17:40,7,ProtectJacksonwang,85.259
+17:40,8,Title IX,17.704
+17:40,9,第154回,
+17:40,10,Miranda,41.100
+18:10,1,OurBrightestStarSunoo,348.308
+18:10,2,햇살같은선우의_스무번째여름,376.954
+18:10,3,Supreme Court,281.543
+18:10,4,SCOTUS,127.536
+18:10,5,神代類誕生祭2022,40.123
+18:10,6,ProtectJacksonwang,111.429
+18:10,7,第154回,
+18:10,8,Miranda,48.254
+18:10,9,Title IX,20.278
+18:10,10,엔하이픈_선우,259.294
+18:40,1,OurBrightestStarSunoo,363.387
+18:40,2,Supreme Court,337.119
+18:40,3,SCOTUS,156.033
+18:40,4,햇살같은선우의_스무번째여름,395.550
+18:40,5,FomentoAlAutoempleoEdomex,
+18:40,6,Arch Manning,
+18:40,7,神代類誕生祭2022,45.837
+18:40,8,Constitution,119.399
+18:40,9,ProtectJacksonwang,138.569
+18:40,10,Title IX,22.849
+19:10,1,FomentoAlAutoempleoEdomex,
+19:10,2,Supreme Court,382.008
+19:10,3,SCOTUS,179.632
+19:10,4,OurBrightestStarSunoo,371.680
+19:10,5,햇살같은선우의_스무번째여름,405.922
+19:10,6,Arch Manning,12.490
+19:10,7,Constitution,127.007
+19:10,8,Quinn Ewers,
+19:10,9,HookEm,13.620
+19:10,10,Juul,34.057
+19:40,1,FomentoAlAutoempleoEdomex,
+19:40,2,Supreme Court,430.207
+19:40,3,SCOTUS,203.154
+19:40,4,OurBrightestStarSunoo,377.372
+19:40,5,햇살같은선우의_스무번째여름,412.669
+19:40,6,Arch Manning,15.520
+19:40,7,Constitution,138.855
+19:40,8,HookEm,16.168
+19:40,9,Quinn Ewers,
+19:40,10,Juul,37.191
+20:10,1,FomentoAlAutoempleoEdomex,11.350
+20:10,2,Supreme Court,465.729
+20:10,3,SCOTUS,220.822
+20:10,4,OurBrightestStarSunoo,381.254
+20:10,5,햇살같은선우의_스무번째여름,417.313
+20:10,6,Arch Manning,17.602
+20:10,7,Constitution,144.818
+20:10,8,HookEm,17.881
+20:10,9,Juul,38.208
+20:10,10,Title IX,27.942
+20:40,1,FomentoAlAutoempleoEdomex,13.676
+20:40,2,Supreme Court,503.898
+20:40,3,SCOTUS,238.626
+20:40,4,OurBrightestStarSunoo,384.282
+20:40,5,Arch Manning,19.318
+20:40,6,햇살같은선우의_스무번째여름,421.069
+20:40,7,Constitution,154.127
+20:40,8,الفتح_الهلال,25.640
+20:40,9,LosTenores,
+20:40,10,Juul,40.578
+21:10,1,FomentoAlAutoempleoEdomex,17.516
+21:10,2,Supreme Court,529.928
+21:10,3,SCOTUS,250.706
+21:10,4,الفتح_الهلال,33.294
+21:10,5,OurBrightestStarSunoo,386.948
+21:10,6,Constitution,157.517
+21:10,7,Arch Manning,20.464
+21:10,8,LosTenores,
+21:10,9,햇살같은선우의_스무번째여름,424.295
+21:10,10,سالم,20.787
+21:40,1,FomentoAlAutoempleoEdomex,20.233
+21:40,2,Supreme Court,559.991
+21:40,3,SCOTUS,262.641
+21:40,4,الفتح_الهلال,39.215
+21:40,5,الاهلي,139.017
+21:40,6,Constitution,165.725
+21:40,7,LosTenores,
+21:40,8,الاتحاد_الاتفاق,35.178
+21:40,9,Arch Manning,21.553
+21:40,10,OurBrightestStarSunoo,389.290
+22:10,1,FomentoAlAutoempleoEdomex,22.435
+22:10,2,Supreme Court,577.551
+22:10,3,SCOTUS,270.341
+22:10,4,الاهلي,146.883
+22:10,5,الفتح_الهلال,45.672
+22:10,6,الاتحاد_الاتفاق,40.773
+22:10,7,روما,
+22:10,8,الفيصلي,14.342
+22:10,9,Constitution,168.935
+22:10,10,Jacques,13.381
+22:40,1,Davide,42.858
+22:40,2,FomentoAlAutoempleoEdomex,24.161
+22:40,3,Jacques,25.861
+22:40,4,Paige,28.330
+22:40,5,Ekin,55.729
+22:40,6,الاهلي,164.706
+22:40,7,Supreme Court,602.673
+22:40,8,SCOTUS,280.847
+22:40,9,Kyrie,64.929
+22:40,10,الفتح_الهلال,50.681
+23:10,1,Davide,46.801
+23:10,2,FomentoAlAutoempleoEdomex,25.518
+23:10,3,Paige,32.125
+23:10,4,Jacques,27.541
+23:10,5,Ekin,56.877
+23:10,6,Kyrie,68.914
+23:10,7,Tasha,16.522
+23:10,8,الاهلي,167.375
+23:10,9,Supreme Court,619.317
+23:10,10,SCOTUS,288.321
+23:40,1,Davide,48.510
+23:40,2,FomentoAlAutoempleoEdomex,26.548
+23:40,3,Paige,33.349
+23:40,4,Jacques,28.452
+23:40,5,Kyrie,74.604
+23:40,6,Ekin,59.570
+23:40,7,Tasha,18.289
+23:40,8,الاهلي,177.988
+23:40,9,Supreme Court,642.677
+23:40,10,SCOTUS,297.691

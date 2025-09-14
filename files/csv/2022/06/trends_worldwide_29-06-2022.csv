@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LoveIsland,215.049
+00:10,2,Serena,49.848
+00:10,3,LoveMi,52.163
+00:10,4,Tasha,37.029
+00:10,5,jelibon,10.003
+00:10,6,Harmony Tan,
+00:10,7,Davide,32.405
+00:10,8,Wimbledon,62.298
+00:10,9,Danica,25.395
+00:10,10,January6thHearings,111.906
+00:40,1,LoveIsland,219.428
+00:40,2,Serena,52.680
+00:40,3,LoveMi,55.395
+00:40,4,jelibon,11.077
+00:40,5,Tasha,37.800
+00:40,6,Harmony Tan,
+00:40,7,TierraDeNadie9,11.641
+00:40,8,Davide,33.293
+00:40,9,Secret Service,194.856
+00:40,10,January6thHearings,115.855
+01:10,1,LoveIsland,219.941
+01:10,2,Serena,53.679
+01:10,3,jelibon,11.796
+01:10,4,TierraDeNadie9,14.557
+01:10,5,LoveMi,56.364
+01:10,6,Tasha,38.036
+01:10,7,Secret Service,213.519
+01:10,8,Harmony Tan,
+01:10,9,Capitol,432.185
+01:10,10,January6thHearings,120.421
+01:40,1,LoveIsland,222.698
+01:40,2,TierraDeNadie9,16.408
+01:40,3,Serena,54.981
+01:40,4,Secret Service,232.938
+01:40,5,jelibon,12.251
+01:40,6,MANIACinNewarkD1,16.484
+01:40,7,MANIACinUSA,19.542
+01:40,8,Tasha,38.498
+01:40,9,Capitol,446.456
+01:40,10,Nathan Silva,
+02:10,1,Allan,19.488
+02:10,2,Emelec,13.808
+02:10,3,Secret Service,247.132
+02:10,4,MANIACinUSA,23.096
+02:10,5,LoveIsland,222.788
+02:10,6,MANIACinNewarkD1,19.287
+02:10,7,TierraDeNadie9,17.361
+02:10,8,Ademir,
+02:10,9,MANIAC_SKZ,27.095
+02:10,10,Serena,55.414
+02:40,1,Hulk,25.241
+02:40,2,Emelec,16.893
+02:40,3,Allan,21.659
+02:40,4,Secret Service,264.032
+02:40,5,MANIACinUSA,27.795
+02:40,6,MANIACinNewarkD1,22.730
+02:40,7,Ademir,
+02:40,8,MANIAC_SKZ,30.845
+02:40,9,Nathan Silva,
+02:40,10,2ndWorldTour_MANIAC,24.365
+03:10,1,Hulk,26.549
+03:10,2,Heitor,
+03:10,3,Emelec,17.714
+03:10,4,Allan,21.666
+03:10,5,人生ポチャ,
+03:10,6,ラヴィット,21.352
+03:10,7,Secret Service,280.391
+03:10,8,MANIACinUSA,32.141
+03:10,9,Roni,15.534
+03:10,10,暑いよニトリさん,
+03:40,1,Rossi,30.877
+03:40,2,Roger Guedes,16.389
+03:40,3,Pantanal,29.566
+03:40,4,Corinthians,106.802
+03:40,5,Hulk,28.679
+03:40,6,Heitor,
+03:40,7,Cássio,
+03:40,8,Rojo,34.427
+03:40,9,Emelec,18.514
+03:40,10,Roni,17.823
+04:10,1,Rossi,32.571
+04:10,2,Roger Guedes,18.128
+04:10,3,Corinthians,115.309
+04:10,4,Pantanal,32.606
+04:10,5,Hulk,29.310
+04:10,6,Cássio,12.482
+04:10,7,Heitor,
+04:10,8,Brunson,30.656
+04:10,9,Knicks,31.363
+04:10,10,Rojo,34.641
+04:40,1,Corinthians,136.372
+04:40,2,Rossi,35.999
+04:40,3,Roger Guedes,23.034
+04:40,4,Willian,20.181
+04:40,5,NoLimite,10.578
+04:40,6,Pantanal,34.309
+04:40,7,MasterChefCelebritycolombia,
+04:40,8,Cássio,15.909
+04:40,9,Knicks,36.055
+04:40,10,Brunson,35.260
+05:10,1,Corinthians,141.311
+05:10,2,Roger Guedes,24.762
+05:10,3,Rossi,38.307
+05:10,4,NoLimite,16.628
+05:10,5,Willian,22.052
+05:10,6,Knicks,40.273
+05:10,7,MasterChefCelebritycolombia,
+05:10,8,Brunson,39.582
+05:10,9,Pantanal,35.095
+05:10,10,cássio,17.254
+05:40,1,Corinthians,145.706
+05:40,2,Roger Guedes,25.542
+05:40,3,Rossi,39.636
+05:40,4,NoLimite,17.497
+05:40,5,Willian,22.822
+05:40,6,MasterChefBR,
+05:40,7,Knicks,43.480
+05:40,8,Brunson,42.723
+05:40,9,MasterChefCelebritycolombia,
+05:40,10,YEONJUN,94.810
+06:10,1,Corinthians,146.742
+06:10,2,Roger Guedes,25.907
+06:10,3,Rossi,40.231
+06:10,4,NoLimite,17.885
+06:10,5,YEONJUN,102.830
+06:10,6,Willian,23.263
+06:10,7,Knicks,45.248
+06:10,8,MasterChefBR,
+06:10,9,Brunson,44.569
+06:10,10,DearM_Premiere,34.484
+06:40,1,Corinthians,148.646
+06:40,2,Roger Guedes,26.169
+06:40,3,YEONJUN,111.363
+06:40,4,Rossi,40.894
+06:40,5,NoLimite,18.103
+06:40,6,Knicks,46.743
+06:40,7,DearM_Premiere,40.117
+06:40,8,Brunson,46.007
+06:40,9,MasterChefBR,
+06:40,10,Willian,23.586
+07:10,1,YEONJUN,116.354
+07:10,2,Corinthians,149.121
+07:10,3,Roger Guedes,26.304
+07:10,4,Rossi,41.070
+07:10,5,DearM_Premiere,44.880
+07:10,6,NoLimite,18.235
+07:10,7,Knicks,47.604
+07:10,8,Brunson,46.980
+07:10,9,MasterChefBR,
+07:10,10,Willian,23.948
+07:40,1,YEONJUN,122.428
+07:40,2,GetWellSoonYuta,12.054
+07:40,3,DearM_Premiere,49.206
+07:40,4,Corinthians,149.783
+07:40,5,NoLimite,18.313
+07:40,6,roger guedes,26.384
+07:40,7,Rossi,41.439
+07:40,8,Knicks,48.649
+07:40,9,Brunson,48.031
+07:40,10,MasterChefBR,
+08:10,1,GetWellSoonYuta,20.399
+08:10,2,YEONJUN,124.354
+08:10,3,DearM_Premiere,53.480
+08:10,4,UdaipurHorror,77.291
+08:10,5,Corinthians,149.825
+08:10,6,Rossi,41.460
+08:10,7,Roger Guedes,26.468
+08:10,8,Hasil Kerja Bersama,
+08:10,9,NoLimite,18.322
+08:10,10,WTP Kemhan TNI,
+08:40,1,GetWellSoonYuta,24.191
+08:40,2,YEONJUN,129.159
+08:40,3,UdaipurHorror,84.257
+08:40,4,DearM_Premiere,57.680
+08:40,5,jelibon,19.551
+08:40,6,カラフェス,13.944
+08:40,7,VP Leni,25.190
+08:40,8,WELCOME ACTOR JAEHYUN,54.432
+08:40,9,Hasil Kerja Bersama,
+08:40,10,WTP Kemhan TNI,
+09:10,1,GetWellSoonYuta,26.356
+09:10,2,jelibon,21.665
+09:10,3,YEONJUN,131.026
+09:10,4,UdaipurHorror,90.916
+09:10,5,カラフェス,19.211
+09:10,6,DearM_Premiere,60.715
+09:10,7,VP Leni,26.347
+09:10,8,wednesdaythought,
+09:10,9,Hasil Kerja Bersama,
+09:10,10,サイン盗み,
+09:40,1,jelibon,23.981
+09:40,2,GetWellSoonYuta,28.083
+09:40,3,UdaipurHorror,97.746
+09:40,4,カラフェス,22.813
+09:40,5,NOUIS,
+09:40,6,YEONJUN,134.563
+09:40,7,Utanmıyorlar,
+09:40,8,wednesdaythought,
+09:40,9,VP Leni,28.218
+09:40,10,サイン盗み,
+10:10,1,jelibon,26.219
+10:10,2,GetWellSoonYuta,29.441
+10:10,3,Utanmıyorlar,
+10:10,4,UdaipurHorror,105.409
+10:10,5,NOUIS,
+10:10,6,カラフェス,25.848
+10:10,7,MABvIRE,
+10:10,8,YEONJUN,136.109
+10:10,9,VP Leni,29.274
+10:10,10,サイン盗み,
+10:40,1,jelibon,28.449
+10:40,2,Utanmıyorlar,10.006
+10:40,3,GetWellSoonYuta,30.622
+10:40,4,UdaipurHorror,114.147
+10:40,5,みなさん何県民と何県民のハーフですか,
+10:40,6,NOUIS,
+10:40,7,カラフェス,28.324
+10:40,8,YEONJUN,139.300
+10:40,9,サイン盗み,
+10:40,10,VP Leni,31.208
+11:10,1,jelibon,30.474
+11:10,2,みなさん何県民と何県民のハーフですか,
+11:10,3,Utanmıyorlar,11.547
+11:10,4,UdaipurHorror,121.820
+11:10,5,GetWellSoonYuta,31.973
+11:10,6,カラフェス,30.513
+11:10,7,NOUIS,
+11:10,8,サンブレイク,135.318
+11:10,9,サイン盗み,
+11:10,10,VP Leni,32.271
+11:40,1,jelibon,32.852
+11:40,2,みなさん何県民と何県民のハーフですか,
+11:40,3,SUNMIFanShowcase_MCBamBam,16.553
+11:40,4,UdaipurHorror,129.473
+11:40,5,feelthelightlovely,
+11:40,6,カラフェス,32.623
+11:40,7,NOUIS,
+11:40,8,サンブレイク,138.962
+11:40,9,サイン盗み,
+11:40,10,VP Leni,33.933
+12:10,1,みなさん何県民と何県民のハーフですか,
+12:10,2,jelibon,35.375
+12:10,3,SUNMIFanShowcase_MCBamBam,44.408
+12:10,4,UdaipurHorror,136.216
+12:10,5,feelthelightlovely,
+12:10,6,アクアン,
+12:10,7,カラフェス,34.420
+12:10,8,サンブレイク,140.647
+12:10,9,NOUIS,
+12:10,10,Scotland,156.470
+12:40,1,みなさん何県民と何県民のハーフですか,
+12:40,2,jelibon,37.595
+12:40,3,LOONA4thWin,10.506
+12:40,4,FlipThat_2ndWin,
+12:40,5,SUNMIFanShowcase_MCBamBam,64.023
+12:40,6,アクアン,
+12:40,7,サンブレイク,145.111
+12:40,8,sezai kalbimizde,
+12:40,9,カラフェス,36.035
+12:40,10,NOUIS,
+13:10,1,みなさん何県民と何県民のハーフですか,
+13:10,2,jelibon,39.696
+13:10,3,LOONA4thWin,15.307
+13:10,4,帝王賞,22.342
+13:10,5,FlipThat_2ndWin,12.228
+13:10,6,テーオーケインズ,17.186
+13:10,7,SUNMI,93.122
+13:10,8,オメガパフューム,
+13:10,9,Dori,26.405
+13:10,10,サンブレイク,151.643
+13:40,1,メイショウハリオ,14.185
+13:40,2,帝王賞,29.360
+13:40,3,PMQs,
+13:40,4,テーオーケインズ,22.990
+13:40,5,みなさん何県民と何県民のハーフですか,
+13:40,6,ParaÖdüllü BilgiYarışması,
+13:40,7,YOSHIKIさん,15.386
+13:40,8,SUNMI,104.751
+13:40,9,jelibon,41.369
+13:40,10,LOONA4THWIN,17.231
+14:10,1,メイショウハリオ,17.010
+14:10,2,モンジュー,10.299
+14:10,3,徐福ちゃん,11.548
+14:10,4,みなさん何県民と何県民のハーフですか,
+14:10,5,帝王賞,30.676
+14:10,6,ぱかライブTV,20.347
+14:10,7,横浜優勝,
+14:10,8,PMQs,11.293
+14:10,9,テーオーケインズ,23.975
+14:10,10,YOSHIKIさん,19.287
+14:40,1,モンジュー,15.125
+14:40,2,みなさん何県民と何県民のハーフですか,
+14:40,3,メイショウハリオ,18.658
+14:40,4,徐福ちゃん,12.955
+14:40,5,BPLS2,11.094
+14:40,6,山田裕貴のみんなでモンハンライブ,
+14:40,7,ぱかライブTV,27.080
+14:40,8,YOSHIKIさん,22.241
+14:40,9,帝王賞,32.001
+14:40,10,横浜優勝,
+15:10,1,山田裕貴のみんなでモンハンライブ,
+15:10,2,BPLS2,17.813
+15:10,3,みなさん何県民と何県民のハーフですか,
+15:10,4,モンジュー,17.659
+15:10,5,徐福ちゃん,14.386
+15:10,6,メイショウハリオ,20.055
+15:10,7,YOSHIKIさん,24.245
+15:10,8,本人のせい,22.779
+15:10,9,ぱかライブTV,30.740
+15:10,10,LGBTの自殺,22.671
+15:40,1,ナンバMG5,39.115
+15:40,2,どらほー,
+15:40,3,水曜日のダウンタウン,
+15:40,4,山田裕貴のみんなでモンハンライブ,
+15:40,5,みなさん何県民と何県民のハーフですか,
+15:40,6,BPLS2,24.020
+15:40,7,モンジュー,19.883
+15:40,8,本人のせい,26.711
+15:40,9,LGBTの自殺,26.327
+15:40,10,Juice,54.197
+16:10,1,ナンバMG5,59.047
+16:10,2,水曜日のダウンタウン,10.546
+16:10,3,山田裕貴のみんなでモンハンライブ,
+16:10,4,どらほー,
+16:10,5,みなさん何県民と何県民のハーフですか,
+16:10,6,BPLS2,29.366
+16:10,7,Juice,59.070
+16:10,8,本人のせい,30.417
+16:10,9,モンジュー,21.402
+16:10,10,LGBTの自殺,30.137
+16:40,1,ナンバMG5,62.873
+16:40,2,Dont_Wait,35.046
+16:40,3,水曜日のダウンタウン,11.071
+16:40,4,山田裕貴のみんなでモンハンライブ,10.524
+16:40,5,DONT WAIT IS HERE,20.256
+16:40,6,みなさん何県民と何県民のハーフですか,
+16:40,7,どらほー,
+16:40,8,Barton,
+16:40,9,本人のせい,33.808
+16:40,10,Juice,62.166
+17:10,1,JO1ANNX,20.898
+17:10,2,ナンバMG5,64.542
+17:10,3,Dont_Wait,45.110
+17:10,4,サンブレイク,163.728
+17:10,5,วอลเล่ย์บอลหญิง,23.806
+17:10,6,เชียงรายเชียงใจซีนุนิวEP1,65.035
+17:10,7,Barton,
+17:10,8,DONT WAIT IS HERE,26.815
+17:10,9,狩猟解禁,17.518
+17:10,10,どらほー,
+17:40,1,JO1ANNX,54.435
+17:40,2,วอลเล่ย์บอลหญิง,55.491
+17:40,3,jhope_MORE,492.375
+17:40,4,サンブレイク,175.800
+17:40,5,Dont_Wait,52.160
+17:40,6,เชียงรายเชียงใจซีนุนิวEP1,140.826
+17:40,7,Barton,
+17:40,8,CAUSE I WANT SOME MORE,35.599
+17:40,9,狩猟解禁,19.357
+17:40,10,DONT WAIT IS HERE,30.831
+18:10,1,JO1ANNX,82.121
+18:10,2,superache,
+18:10,3,jhope_MORE,490.499
+18:10,4,サンブレイク,177.522
+18:10,5,เชียงรายเชียงใจซีนุนิวEP1,275.472
+18:10,6,วอลเล่ย์บอลหญิง,74.758
+18:10,7,Barton,10.004
+18:10,8,CAUSE I WANT SOME MORE,48.315
+18:10,9,HedefKupa 1890Nisa,153.808
+18:10,10,第160回,
+18:40,1,superache,10.002
+18:40,2,JO1ANNX,91.892
+18:40,3,UddhavThackarey,
+18:40,4,jhope_MORE,519.730
+18:40,5,サンブレイク,181.125
+18:40,6,เชียงรายเชียงใจซีนุนิวEP1,321.433
+18:40,7,Karmaland,20.044
+18:40,8,Barton,10.641
+18:40,9,HedefKupa 1890Nisa,182.737
+18:40,10,第160回,
+19:10,1,superache,13.463
+19:10,2,UddhavThackarey,17.188
+19:10,3,JO1ANNX,94.605
+19:10,4,jhope_MORE,502.970
+19:10,5,サンブレイク,181.605
+19:10,6,เชียงรายเชียงใจซีนุนิวEP1,343.601
+19:10,7,Karmaland,29.490
+19:10,8,Barton,11.625
+19:10,9,HedefKupa 1890Nisa,199.265
+19:10,10,第160回,
+19:40,1,Superache,13.571
+19:40,2,UddhavThackarey,24.858
+19:40,3,Karmaland,40.159
+19:40,4,JO1ANNX,96.307
+19:40,5,jhope_MORE,517.394
+19:40,6,Maharashtra,27.614
+19:40,7,サンブレイク,183.579
+19:40,8,Barton,12.304
+19:40,9,Milagro Sala,49.822
+19:40,10,HedefKupa 1890Nisa,212.811
+20:10,1,UddhavThackarey,30.492
+20:10,2,Superache,13.652
+20:10,3,Karmaland,52.521
+20:10,4,veyselşakiryalnızdeğildir,
+20:10,5,Maharashtra,30.942
+20:10,6,jo1annx,97.770
+20:10,7,サンブレイク,183.847
+20:10,8,Milagro Sala,53.095
+20:10,9,Antonio de la Cruz,
+20:10,10,HedefKupa 1890Nisa,219.485
+20:40,1,UddhavThackarey,35.398
+20:40,2,Superache,13.772
+20:40,3,Karmaland,69.125
+20:40,4,veyselşakiryalnızdeğildir,
+20:40,5,Maharashtra,33.710
+20:40,6,Isner,
+20:40,7,LagosSwindlers,
+20:40,8,Milagro Sala,57.810
+20:40,9,Radio Shack,
+20:40,10,HedefKupa 1890Nisa,223.342
+21:10,1,Karmaland,109.485
+21:10,2,UddhavThackarey,38.425
+21:10,3,Staxx,22.548
+21:10,4,Isner,
+21:10,5,Superache,13.856
+21:10,6,Radio Shack,
+21:10,7,Maharashtra,35.818
+21:10,8,veyselşakiryalnızdeğildir,
+21:10,9,LagosSwindlers,
+21:10,10,Milagro Sala,60.180
+21:40,1,R Kelly,44.169
+21:40,2,Karmaland,138.386
+21:40,3,Isner,
+21:40,4,Andy Murray,
+21:40,5,Staxx,31.656
+21:40,6,UddhavThackarey,40.601
+21:40,7,Radio Shack,
+21:40,8,chilhavisto,
+21:40,9,Superache,13.989
+21:40,10,Notifications,86.219
+22:10,1,R Kelly,66.363
+22:10,2,Karmaland,166.187
+22:10,3,Isner,
+22:10,4,Andy Murray,
+22:10,5,chilhavisto,
+22:10,6,Staxx,37.769
+22:10,7,KCORP,13.127
+22:10,8,Radio Shack,
+22:10,9,SurvivorAllStar2022,96.782
+22:10,10,PMSSweetBlake,
+22:40,1,R Kelly,82.512
+22:40,2,Danica,33.073
+22:40,3,Isner,10.368
+22:40,4,Isner,10.368
+22:40,5,Karmaland,201.987
+22:40,6,SalvameMediafest,
+22:40,7,chilhavisto,
+22:40,8,Wimbledon,55.828
+22:40,9,Survivor2022AllStar,134.755
+22:40,10,SurvivorAllStar2022,111.857
+23:10,1,Danica,55.438
+23:10,2,R Kelly,94.787
+23:10,3,Davide,34.789
+23:10,4,Isner,11.135
+23:10,5,Isner,11.135
+23:10,6,Antigoni,12.744
+23:10,7,SalvameMediafest,
+23:10,8,Karmaland,220.695
+23:10,9,Survivor2022AllStar,127.232
+23:10,10,Paige,33.510
+23:40,1,Danica,58.716
+23:40,2,R Kelly,104.578
+23:40,3,Hawks,36.382
+23:40,4,Spurs,63.686
+23:40,5,Murray,77.085
+23:40,6,Survivor2022AllStar,144.001
+23:40,7,Davide,36.641
+23:40,8,SalvameMediafest,10.734
+23:40,9,Antigoni,13.346
+23:40,10,Isner,11.665

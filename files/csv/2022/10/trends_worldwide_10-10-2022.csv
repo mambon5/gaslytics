@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Brady,70.145
+00:10,2,Cowboys,44.922
+00:10,3,Browns,80.582
+00:10,4,Diggs,12.986
+00:10,5,BizimÇocuklar,63.659
+00:10,6,Jets,79.415
+00:10,7,Botafogo,35.679
+00:10,8,Chargers,55.623
+00:10,9,Arsenal,785.301
+00:10,10,Celta,51.705
+00:40,1,Brady,73.923
+00:40,2,Cowboys,47.550
+00:40,3,Rams,38.020
+00:40,4,Browns,82.012
+00:40,5,Diggs,13.471
+00:40,6,VamosColoColo,
+00:40,7,ConfiaNoVerdadeiro,19.926
+00:40,8,Jets,81.643
+00:40,9,Botafogo,38.940
+00:40,10,BizimÇocuklar,64.862
+01:10,1,Brady,77.013
+01:10,2,ConfiaNoVerdadeiro,27.551
+01:10,3,Rams,41.075
+01:10,4,Cowboys,50.123
+01:10,5,GoIMP,23.674
+01:10,6,Chivas,25.235
+01:10,7,VamosColoColo,
+01:10,8,Santander,16.270
+01:10,9,Eagles,69.454
+01:10,10,Browns,82.749
+01:40,1,Cowboys,69.194
+01:40,2,Rams,49.332
+01:40,3,FlyEaglesFly,30.238
+01:40,4,Chivas,34.714
+01:40,5,Brady,79.814
+01:40,6,ConfiaNoVerdadeiro,28.705
+01:40,7,Santander,21.952
+01:40,8,Parsons,13.929
+01:40,9,Stafford,11.241
+01:40,10,Cooper Rush,
+02:10,1,Cowboys,75.409
+02:10,2,Chivas,53.166
+02:10,3,Rams,51.506
+02:10,4,Eagles,104.261
+02:10,5,Santander,25.218
+02:10,6,Brady,81.961
+02:10,7,RHOP,
+02:10,8,ConfiaNoVerdadeiro,29.350
+02:10,9,Puebla,33.180
+02:10,10,Parsons,14.976
+02:40,1,Cowboys,81.250
+02:40,2,RHOP,17.895
+02:40,3,Chivas,59.646
+02:40,4,Rams,53.129
+02:40,5,Eagles,110.517
+02:40,6,Armani,
+02:40,7,Santander,26.709
+02:40,8,Brady,83.987
+02:40,9,Puebla,35.554
+02:40,10,Cooper Rush,13.909
+03:10,1,Cowboys,85.098
+03:10,2,RHOP,27.766
+03:10,3,Musgrove,17.274
+03:10,4,Mets,102.241
+03:10,5,Chivas,63.469
+03:10,6,Eagles,115.523
+03:10,7,Rams,53.912
+03:10,8,Armani,10.874
+03:10,9,Bengals,29.443
+03:10,10,スポーツの日,49.694
+03:40,1,RHOP,32.641
+03:40,2,Musgrove,25.555
+03:40,3,Cowboys,88.720
+03:40,4,Mets,113.617
+03:40,5,Chivas,66.686
+03:40,6,Bengals,34.982
+03:40,7,Eagles,119.492
+03:40,8,Armani,12.742
+03:40,9,Viserys,13.825
+03:40,10,Rams,54.974
+04:10,1,HouseOfTheDragon,96.641
+04:10,2,Mets,125.903
+04:10,3,Viserys,32.233
+04:10,4,RHOP,33.730
+04:10,5,HOTD,22.261
+04:10,6,Musgrove,29.869
+04:10,7,Cowboys,91.072
+04:10,8,Lamar,27.069
+04:10,9,Bengals,36.957
+04:10,10,chivas,68.779
+04:40,1,HouseOfTheDragon,184.750
+04:40,2,Mets,167.744
+04:40,3,Viserys,70.348
+04:40,4,Lamar,35.289
+04:40,5,HOTD,41.045
+04:40,6,HouseTargaryen,17.356
+04:40,7,Bengals,42.564
+04:40,8,Daemon,67.912
+04:40,9,Musgrove,35.195
+04:40,10,Zac Taylor,
+05:10,1,HouseOfTheDragon,246.190
+05:10,2,Viserys,96.193
+05:10,3,Mets,170.379
+05:10,4,HOTD,54.381
+05:10,5,Lamar,38.050
+05:10,6,HouseTargaryen,23.942
+05:10,7,Daemon,93.102
+05:10,8,Bengals,46.677
+05:10,9,Alicent,45.030
+05:10,10,Ravens,54.386
+05:40,1,HouseOfTheDragon,293.736
+05:40,2,Viserys,115.938
+05:40,3,Justin Tucker,17.400
+05:40,4,Mets,178.037
+05:40,5,Lamar,43.546
+05:40,6,HOTD,64.568
+05:40,7,Bengals,56.959
+05:40,8,Ravens,70.644
+05:40,9,Zac Taylor,10.223
+05:40,10,Alicent,53.670
+06:10,1,HouseOfTheDragon,333.093
+06:10,2,Viserys,131.267
+06:10,3,Justin Tucker,20.401
+06:10,4,Mets,177.477
+06:10,5,HOTD,73.793
+06:10,6,Lamar,44.678
+06:10,7,Bengals,60.202
+06:10,8,Ravens,75.270
+06:10,9,Zac Taylor,11.237
+06:10,10,Alicent,60.098
+06:40,1,HouseOfTheDragon,364.387
+06:40,2,Viserys,144.016
+06:40,3,HOTD,81.409
+06:40,4,Justin Tucker,21.767
+06:40,5,MulayamSinghYadav,12.233
+06:40,6,Mets,181.140
+06:40,7,Lamar,45.631
+06:40,8,Bengals,61.830
+06:40,9,MasterChefCelebrity,11.765
+06:40,10,出雲駅伝,15.224
+07:10,1,HouseOfTheDragon,387.357
+07:10,2,MulayamSinghYadav,25.618
+07:10,3,Viserys,154.683
+07:10,4,HOTD,86.884
+07:10,5,Justin Tucker,22.459
+07:10,6,出雲駅伝,20.663
+07:10,7,Mets,181.747
+07:10,8,WorldMentalHealthDay,71.753
+07:10,9,Lamar,46.036
+07:10,10,Bengals,62.554
+07:40,1,HouseOfTheDragon,407.602
+07:40,2,MulayamSinghYadav,37.862
+07:40,3,Viserys,162.624
+07:40,4,出雲駅伝,24.763
+07:40,5,HOTD,91.724
+07:40,6,WorldMentalHealthDay,77.799
+07:40,7,Daemon,153.666
+07:40,8,Justin Tucker,23.017
+07:40,9,Mets,183.799
+07:40,10,Lamar,46.629
+08:10,1,HouseOfTheDragon,423.190
+08:10,2,MulayamSinghYadav,46.920
+08:10,3,Viserys,169.325
+08:10,4,WorldMentalHealthDay,84.522
+08:10,5,出雲駅伝,28.711
+08:10,6,HOTD,95.326
+08:10,7,Daemon,159.387
+08:10,8,Justin Tucker,23.431
+08:10,9,Om Shanti,20.365
+08:10,10,Mets,183.852
+08:40,1,HouseOfTheDragon,436.885
+08:40,2,MulayamSinghYadav,54.866
+08:40,3,WorldMentalHealthDay,91.060
+08:40,4,出雲駅伝,34.102
+08:40,5,Viserys,175.226
+08:40,6,京都大賞典,50.655
+08:40,7,HOTD,98.558
+08:40,8,Daemon,164.160
+08:40,9,Om Shanti,23.426
+08:40,10,Justin Tucker,23.676
+09:10,1,HouseOfTheDragon,447.547
+09:10,2,MulayamSinghYadav,62.581
+09:10,3,WorldMentalHealthDay,99.000
+09:10,4,出雲駅伝,34.607
+09:10,5,京都大賞典,51.472
+09:10,6,Viserys,179.687
+09:10,7,Riddle1010,11.553
+09:10,8,Kyiv,135.027
+09:10,9,ヴェラアズール,
+09:10,10,Daemon,167.863
+09:40,1,MulayamSinghYadav,69.397
+09:40,2,WorldMentalHealthDay,106.572
+09:40,3,HouseOfTheDragon,457.264
+09:40,4,Kyiv,184.220
+09:40,5,出雲駅伝,35.570
+09:40,6,京都大賞典,52.475
+09:40,7,Riddle1010,13.164
+09:40,8,Viserys,183.658
+09:40,9,ヴェラアズール,10.873
+09:40,10,Om Shanti,28.796
+10:10,1,WorldMentalHealthDay,115.020
+10:10,2,MulayamSinghYadav,75.021
+10:10,3,HouseOfTheDragon,462.390
+10:10,4,Kyiv,218.377
+10:10,5,阪神タイガース,23.743
+10:10,6,Riddle1010,14.570
+10:10,7,京都大賞典,51.505
+10:10,8,Kiev,69.106
+10:10,9,ヴェラアズール,11.625
+10:10,10,Viserys,186.992
+10:40,1,WorldMentalHealthDay,125.412
+10:40,2,阪神タイガース,40.277
+10:40,3,MulayamSinghYadav,81.221
+10:40,4,njpower,
+10:40,5,Kyiv,246.050
+10:40,6,HouseOfTheDragon,472.308
+10:40,7,オースティン,
+10:40,8,ゲッツー,
+10:40,9,湯浅くん,
+10:40,10,ベイスターズ,18.418
+11:10,1,WorldMentalHealthDay,136.132
+11:10,2,阪神タイガース,46.361
+11:10,3,MulayamSinghYadav,87.082
+11:10,4,njpower,
+11:10,5,Kyiv,271.163
+11:10,6,baystars,47.284
+11:10,7,オースティン,
+11:10,8,ベイスターズ,19.501
+11:10,9,Kiev,87.863
+11:10,10,ゲッツー,
+11:40,1,WorldMentalHealthDay,145.879
+11:40,2,阪神タイガース,49.114
+11:40,3,カフェファラオ,10.500
+11:40,4,Kyiv,295.026
+11:40,5,njpower,10.865
+11:40,6,MulayamSinghYadav,92.708
+11:40,7,あなたをスプラのインクの色に例える,
+11:40,8,アルクトス,
+11:40,9,Kiev,96.778
+11:40,10,Enock,14.667
+12:10,1,WorldMentalHealthDay,155.283
+12:10,2,njpower,16.340
+12:10,3,阪神タイガース,50.746
+12:10,4,カフェファラオ,12.526
+12:10,5,Kyiv,316.958
+12:10,6,ティタン,
+12:10,7,あなたをスプラのインクの色に例える,
+12:10,8,MulayamSinghYadav,98.527
+12:10,9,Enock,21.161
+12:10,10,アルクトス,
+12:40,1,WorldMentalHealthDay,165.601
+12:40,2,CDTVライブライブ,41.652
+12:40,3,njpower,20.794
+12:40,4,阪神タイガース,52.119
+12:40,5,Kyiv,339.640
+12:40,6,カフェファラオ,13.740
+12:40,7,TheEclipseSeriesRECAP,22.348
+12:40,8,ティタン,
+12:40,9,Enock,25.267
+12:40,10,ハンターズムーン,10.117
+13:10,1,CDTVライブライブ,69.413
+13:10,2,WorldMentalHealthDay,176.155
+13:10,3,JO1がミックスナッツ踊ってみた,13.411
+13:10,4,njpower,24.667
+13:10,5,姫森ルーナ誕生祭2022,20.209
+13:10,6,Kyiv,359.560
+13:10,7,ハンターズムーン,12.560
+13:10,8,カフェファラオ,15.544
+13:10,9,レイアース,
+13:10,10,FIELD OF VIEW,
+13:40,1,CDTVライブライブ,162.521
+13:40,2,JO1がミックスナッツ踊ってみた,92.155
+13:40,3,WorldMentalHealthDay,187.316
+13:40,4,姫森ルーナ誕生祭2022,35.015
+13:40,5,njpower,27.821
+13:40,6,ハンターズムーン,14.541
+13:40,7,Kyiv,379.222
+13:40,8,SELAMAT DATANG TXT,
+13:40,9,岩ちゃん,
+13:40,10,レイアース,
+14:10,1,CDTVライブライブ,252.573
+14:10,2,JO1がミックスナッツ踊ってみた,105.526
+14:10,3,WorldMentalHealthDay,199.005
+14:10,4,SuperCaliフルサイズTV初披露,65.303
+14:10,5,姫森ルーナ誕生祭2022,47.014
+14:10,6,ハンターズムーン,16.410
+14:10,7,SELAMAT DATANG TXT,14.054
+14:10,8,最後の雨,13.456
+14:10,9,Kyiv,396.768
+14:10,10,Ekspektasi VS Realita,
+14:40,1,CDTVライブライブ,292.776
+14:40,2,WorldMentalHealthDay,211.362
+14:40,3,JO1がミックスナッツ踊ってみた,110.706
+14:40,4,SuperCaliフルサイズTV初披露,89.717
+14:40,5,姫森ルーナ誕生祭2022,49.876
+14:40,6,ハンターズムーン,18.307
+14:40,7,SELAMAT DATANG TXT,16.624
+14:40,8,ORANGE RANGE,
+14:40,9,最後の雨,13.673
+14:40,10,Kyiv,415.764
+15:10,1,CDTVライブライブ,318.492
+15:10,2,WorldMentalHealthDay,226.353
+15:10,3,PICU小児集中治療室,34.980
+15:10,4,JO1がミックスナッツ踊ってみた,114.041
+15:10,5,SuperCaliフルサイズTV初披露,100.233
+15:10,6,WANDS,
+15:10,7,SELAMAT DATANG TXT,21.242
+15:10,8,ハンターズムーン,19.969
+15:10,9,Kemerburgaz Karakolu,
+15:10,10,ZYYG,
+15:40,1,CDTVライブライブ,350.800
+15:40,2,WorldMentalHealthDay,246.596
+15:40,3,PICU小児集中治療室,42.115
+15:40,4,nhk_life,37.968
+15:40,5,WANDS,14.109
+15:40,6,JO1がミックスナッツ踊ってみた,116.450
+15:40,7,SELAMAT DATANG TXT,28.619
+15:40,8,ハンターズムーン,25.380
+15:40,9,Columbus,59.881
+15:40,10,unutun askerleri,
+16:10,1,CDTVライブライブ,368.107
+16:10,2,WorldMentalHealthDay,266.781
+16:10,3,PICU小児集中治療室,44.000
+16:10,4,nhk_life,46.261
+16:10,5,WANDS,15.845
+16:10,6,IndigenousPeoplesDay,28.099
+16:10,7,SELAMAT DATANG TXT,30.445
+16:10,8,Columbus,67.932
+16:10,9,ハンターズムーン,26.697
+16:10,10,BLEACH,234.112
+16:40,1,WorldMentalHealthDay,288.421
+16:40,2,CDTVライブライブ,379.522
+16:40,3,PICU小児集中治療室,45.189
+16:40,4,nhk_life,48.049
+16:40,5,IndigenousPeoplesDay,32.555
+16:40,6,WANDS,16.722
+16:40,7,Columbus,76.224
+16:40,8,Bleach,246.567
+16:40,9,SELAMAT DATANG TXT,31.731
+16:40,10,ハンターズムーン,28.142
+17:10,1,WorldMentalHealthDay,308.244
+17:10,2,BLEACH,271.495
+17:10,3,CDTVライブライブ,385.125
+17:10,4,IndigenousPeoplesDay,37.638
+17:10,5,PICU小児集中治療室,45.928
+17:10,6,Columbus,86.058
+17:10,7,nhk_life,49.309
+17:10,8,WANDS,17.270
+17:10,9,CHEN,53.562
+17:10,10,Thanksgiving,117.155
+17:40,1,BLEACH,338.685
+17:40,2,WorldMentalHealthDay,325.355
+17:40,3,IndigenousPeoplesDay,43.825
+17:40,4,Matt Rhule,26.708
+17:40,5,CDTVライブライブ,388.700
+17:40,6,Columbus,96.620
+17:40,7,CHEN,100.746
+17:40,8,JONGDAE,11.718
+17:40,9,PICU小児集中治療室,46.569
+17:40,10,nhk_life,50.078
+18:10,1,BLEACH,363.255
+18:10,2,WorldMentalHealthDay,342.552
+18:10,3,IndigenousPeoplesDay,49.822
+18:10,4,Matt Rhule,32.996
+18:10,5,Columbus,107.236
+18:10,6,Chen,124.127
+18:10,7,4DaysToBusanConcert,34.612
+18:10,8,WelcomeTo_MaCity,33.296
+18:10,9,Thanksgiving,121.259
+18:10,10,DiaMundialdelaSaludMental,36.754
+18:40,1,BLEACH,380.976
+18:40,2,IndigenousPeoplesDay,56.326
+18:40,3,WorldMentalHealthDay,356.364
+18:40,4,Columbus,118.476
+18:40,5,Matt Rhule,36.155
+18:40,6,4DaysToBusanConcert,48.278
+18:40,7,Thanksgiving,128.372
+18:40,8,WelcomeTo_MaCity,46.104
+18:40,9,NeighborhoodNostalgia,
+18:40,10,Chen,138.182
+19:10,1,BLEACH,388.942
+19:10,2,IndigenousPeoplesDay,62.201
+19:10,3,Columbus,130.376
+19:10,4,WorldMentalHealthDay,365.992
+19:10,5,Thanksgiving,129.341
+19:10,6,Matt Rhule,38.438
+19:10,7,DiaMundialdelaSaludMental,42.531
+19:10,8,KamuEczacısı MüjdeBekliyor,
+19:10,9,4DaysToBusanConcert,54.596
+19:10,10,NeighborhoodNostalgia,
+19:40,1,BLEACH,400.380
+19:40,2,Columbus,142.754
+19:40,3,IndigenousPeoplesDay,67.668
+19:40,4,WorldMentalHealthDay,374.795
+19:40,5,Thanksgiving,135.976
+19:40,6,DiaMundialdelaSaludMental,45.215
+19:40,7,Matt Rhule,40.390
+19:40,8,4DaysToBusanConcert,58.184
+19:40,9,PortalRTX,
+19:40,10,KamuEczacısı MüjdeBekliyor,
+20:10,1,Columbus,154.028
+20:10,2,IndigenousPeoplesDay,73.207
+20:10,3,BLEACH,402.790
+20:10,4,الهلال_الشباب,92.888
+20:10,5,WorldMentalHealthDay,384.066
+20:10,6,Thanksgiving,135.303
+20:10,7,DiaMundialdelaSaludMental,47.863
+20:10,8,İlk Evim İlk İşyerim,
+20:10,9,Matt Rhule,42.530
+20:10,10,FahriÖğreticilereEkimdeKadro,
+20:40,1,Columbus,166.268
+20:40,2,IndigenousPeoplesDay,79.601
+20:40,3,الهلال_الشباب,102.877
+20:40,4,WorldMentalHealthDay,397.987
+20:40,5,Bleach,411.766
+20:40,6,Thanksgiving,139.597
+20:40,7,DiaMundialdelaSaludMental,50.578
+20:40,8,İlk Evim İlk İşyerim,
+20:40,9,HAPPY BDAY KARAN KUNDRRA,169.471
+20:40,10,James brown,
+21:10,1,الهلال_الشباب,111.793
+21:10,2,Columbus,176.287
+21:10,3,IndigenousPeoplesDay,84.509
+21:10,4,WorldMentalHealthDay,407.874
+21:10,5,Thanksgiving,139.232
+21:10,6,DiaMundialdelaSaludMental,53.227
+21:10,7,Bleach,404.306
+21:10,8,DoYouKnowBTS,14.153
+21:10,9,James brown,12.956
+21:10,10,HAPPY BDAY KARAN KUNDRRA,190.143
+21:40,1,الهلال_الشباب,122.706
+21:40,2,Columbus,187.026
+21:40,3,IndigenousPeoplesDay,90.622
+21:40,4,WorldMentalHealthDay,416.964
+21:40,5,Thanksgiving,139.860
+21:40,6,DoYouKnowBTS,17.934
+21:40,7,DiaMundialdelaSaludMental,55.899
+21:40,8,James brown,18.485
+21:40,9,Ashley Young,
+21:40,10,Bleach,419.590
+22:10,1,الهلال_الشباب,127.174
+22:10,2,Columbus,195.285
+22:10,3,IndigenousPeoplesDay,95.101
+22:10,4,DoYouKnowBTS,20.617
+22:10,5,Thanksgiving,142.389
+22:10,6,DiaMundialdelaSaludMental,58.651
+22:10,7,WorldMentalHealthDay,424.800
+22:10,8,James brown,22.958
+22:10,9,Ashley Young,
+22:10,10,Bleach,419.394
+22:40,1,الهلال_الشباب,132.968
+22:40,2,Columbus,205.068
+22:40,3,IndigenousPeoplesDay,100.553
+22:40,4,DiaMundialdelaSaludMental,61.376
+22:40,5,Thanksgiving,145.651
+22:40,6,DoYouKnowBTS,22.677
+22:40,7,James brown,27.192
+22:40,8,WorldMentalHealthDay,431.852
+22:40,9,Ashley Young,
+22:40,10,Bleach,426.779
+23:10,1,MiniFootballPump,
+23:10,2,Columbus,215.298
+23:10,3,AVFC,12.098
+23:10,4,الهلال_الشباب,131.656
+23:10,5,IndigenousPeoplesDay,103.665
+23:10,6,DiaMundialdelaSaludMental,63.255
+23:10,7,Thanksgiving,144.813
+23:10,8,James brown,30.207
+23:10,9,Gerrard,
+23:10,10,ashley young,
+23:40,1,MiniFootballPump,
+23:40,2,Columbus,226.949
+23:40,3,Credit Suisse Inu,
+23:40,4,AVFC,13.136
+23:40,5,IndigenousPeoplesDay,108.173
+23:40,6,DiaMundialdelaSaludMental,66.687
+23:40,7,الهلال_الشباب,130.634
+23:40,8,Thanksgiving,147.922
+23:40,9,James brown,32.935
+23:40,10,Gerrard,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:05,1,GBBO,70.996
+00:05,2,MasumlarApartmanı,20.921
+00:05,3,اليوم_الوطني_السعودي90,598.539
+00:05,4,saudinationalday90,23.861
+00:05,5,NationalVoterRegistrationDay,177.384
+00:05,6,Luton,39.827
+00:05,7,Lingard,16.248
+00:05,8,JATP SEASON 2,56.606
+00:05,9,Snapchat,132.942
+00:05,10,Bailly,15.852
+00:35,1,GBBO,72.432
+00:35,2,اليوم_الوطني_السعودي90,629.319
+00:35,3,saudinationalday90,31.581
+00:35,4,MasumlarApartmanı,21.538
+00:35,5,MCCelebrity,17.455
+00:35,6,Luton,40.951
+00:35,7,Bailly,17.160
+00:35,8,Lingard,16.685
+00:35,9,Supergirl,37.630
+00:35,10,Snapchat,138.578
+01:05,1,saudinationalday90,38.594
+01:05,2,Arrascaeta,14.213
+01:05,3,GBBO,73.266
+01:05,4,MasumlarApartmanı,21.957
+01:05,5,MCCelebrity,21.255
+01:05,6,Barcelona,162.264
+01:05,7,Gerson,16.456
+01:05,8,SmallStreamersDeserveMore,10.339
+01:05,9,Billy Donovan,19.837
+01:05,10,Luton,41.640
+01:35,1,saudinationalday90,
+01:35,2,Arrascaeta,
+01:35,3,Léo Pereira,13.615
+01:35,4,Z3 IS COMING,
+01:35,5,GBBO,
+01:35,6,Barcelona,169.624
+01:35,7,SmallStreamersDeserveMore,
+01:35,8,GUIBI SEGUE GUIBI,16.014
+01:35,9,JusticeForAlHilal,
+01:35,10,MCCelebrity,
+02:05,1,Lincoln,71.161
+02:05,2,Flamengo,397.047
+02:05,3,Léo Pereira,18.199
+02:05,4,saudinationalday90,47.291
+02:05,5,Gerson,21.770
+02:05,6,Z3 IS COMING,64.490
+02:05,7,GUIBI SEGUE GUIBI,36.011
+02:05,8,Everton Ribeiro,
+02:05,9,Barcelona,171.750
+02:05,10,JusticeForAlHilal,50.613
+02:34,1,Lincoln,88.493
+02:34,2,Flamengo,
+02:34,3,Gerson,
+02:34,4,Léo Pereira,20.732
+02:34,5,saudinationalday90,
+02:34,6,Z3 IS COMING,
+02:34,7,اليوم_الوطني_السعودي90,703.004
+02:34,8,GUIBI SEGUE GUIBI,
+02:34,9,JusticeForAlHilal,
+02:34,10,GIZELLY NO PREMIOJOVEM,
+03:05,1,Lincoln,89.881
+03:05,2,Flamengo,463.555
+03:05,3,Gerson,28.576
+03:05,4,saudinationalday90,52.692
+03:05,5,Léo Pereira,21.267
+03:05,6,DWTS,10.839
+03:05,7,Z3 IS COMING,79.567
+03:05,8,JENNIE,355.342
+03:05,9,اليوم_الوطني_السعودي90,714.541
+03:05,10,GUIBI SEGUE GUIBI,50.826
+03:30,1,Lincoln,91.656
+03:30,2,Flamengo,477.824
+03:30,3,Diniz,20.445
+03:30,4,DWTS,14.250
+03:30,5,saudinationalday90,54.371
+03:30,6,Gerson,29.149
+03:30,7,Binacional,13.547
+03:30,8,Z3 IS COMING,83.466
+03:30,9,Léo Pereira,21.492
+03:30,10,jennie,396.867
+03:59,1,Flamengo,490.683
+03:59,2,Lincoln,93.626
+03:59,3,Diniz,26.404
+03:59,4,River,118.870
+03:59,5,DWTS,18.232
+03:59,6,saudinationalday90,56.194
+03:59,7,STREAM KILL MY MIND,28.085
+03:59,8,Z3 IS COMING,87.796
+03:59,9,Gerson,29.730
+03:59,10,BolsonaroOrgulhaOBrasil,29.103
+04:34,1,RoçaAFazenda,118.100
+04:34,2,Diniz,34.860
+04:34,3,River,136.335
+04:34,4,Flamengo,500.876
+04:34,5,DWTS,21.160
+04:34,6,Pratto,10.617
+04:34,7,STREAM KILL MY MIND,40.178
+04:34,8,ForTheA,13.725
+04:34,9,saudinationalday90,58.261
+04:34,10,BolsonaroOrgulhaOBrasil,33.622
+05:04,1,Luiza,156.075
+05:04,2,Diniz,38.546
+05:04,3,River,141.560
+05:04,4,Flamengo,482.041
+05:04,5,DWTS,22.031
+05:04,6,Pratto,12.259
+05:04,7,Dwight,17.973
+05:04,8,Danny Green,
+05:04,9,MasterChefNaBand,
+05:04,10,STREAM KILL MY MIND,44.993
+05:34,1,Luiza,200.923
+05:34,2,Lakers,174.020
+05:34,3,Rondo,34.606
+05:34,4,Murray,66.561
+05:34,5,Diniz,42.386
+05:34,6,Kuzma,12.172
+05:34,7,Jokic,30.825
+05:34,8,River,146.927
+05:34,9,MasterChefNaBand,
+05:34,10,LALvsDEN,
+06:04,1,Lakers,208.597
+06:04,2,Luiza,213.978
+06:04,3,Jamal Murray,40.195
+06:04,4,Rondo,38.124
+06:04,5,Jokic,34.036
+06:04,6,Diniz,44.173
+06:04,7,River,146.838
+06:04,8,Nuggets,112.759
+06:04,9,MasterChefNaBand,
+06:04,10,LALvsDEN,
+06:34,1,Lakers,217.789
+06:34,2,Luiza,221.808
+06:34,3,Jamal Murray,43.573
+06:34,4,Rondo,39.040
+06:34,5,Nuggets,119.267
+06:34,6,Diniz,45.184
+06:34,7,River,149.931
+06:34,8,ByeKayleigh,58.992
+06:34,9,MasterChefNaBand,
+06:34,10,LALvsDEN,
+07:04,1,Lakers,220.530
+07:04,2,Luiza,225.905
+07:04,3,Jamal Murray,45.480
+07:04,4,Rondo,39.334
+07:04,5,ByeKayleigh,68.150
+07:04,6,Diniz,45.620
+07:04,7,Jokic,36.099
+07:04,8,MasterChefNaBand,
+07:04,9,River,148.934
+07:04,10,LALvsDEN,
+07:34,1,Lakers,224.084
+07:34,2,Luiza,228.144
+07:34,3,Jamal Murray,46.858
+07:34,4,Rondo,39.708
+07:34,5,Denver,64.314
+07:34,6,ByeKayleigh,75.260
+07:34,7,Diniz,45.970
+07:34,8,Dodgers,11.715
+07:34,9,River,150.953
+07:34,10,MasterChefNaBand,
+08:04,1,Lakers,225.292
+08:04,2,Luiza,229.388
+08:04,3,Jamal Murray,48.109
+08:04,4,Rondo,39.942
+08:04,5,ByeKayleigh,80.244
+08:04,6,Dodgers,13.051
+08:04,7,Diniz,46.091
+08:04,8,TvitterrGt Açılldı,
+08:04,9,saudinationalday90,71.665
+08:04,10,Anwar,26.682
+08:34,1,Lakers,227.845
+08:34,2,Jamal Murray,49.025
+08:34,3,Luiza,230.370
+08:34,4,Rondo,40.243
+08:34,5,ByeKayleigh,83.613
+08:34,6,saudinationalday90,73.880
+08:34,7,Dodgers,13.817
+08:34,8,carsamba,
+08:34,9,tvitterrgt açılldı,
+08:34,10,D4DJ,23.367
+09:04,1,Lakers,228.278
+09:04,2,Jamal Murray,49.819
+09:04,3,Luiza,230.627
+09:04,4,Rondo,40.358
+09:04,5,D4DJ,23.494
+09:04,6,saudinationalday90,76.461
+09:04,7,carsamba,
+09:04,8,Kuzma,31.433
+09:04,9,WednesdayThoughts,12.660
+09:04,10,つかさ社長,
+09:29,1,Lakers,229.647
+09:29,2,Jamal Murray,50.353
+09:29,3,Luiza,230.904
+09:29,4,D4DJ,26.945
+09:29,5,saudinationalday90,78.680
+09:29,6,carsamba,
+09:29,7,JENNIE,712.279
+09:29,8,WednesdayThoughts,13.591
+09:29,9,つかさ社長,11.811
+09:29,10,Anwar,36.704
+09:59,1,Lakers,230.837
+09:59,2,Jamal Murray,50.894
+09:59,3,D4DJ,30.572
+09:59,4,saudinationalday90,82.005
+09:59,5,Luiza,231.200
+09:59,6,carsamba,10.173
+09:59,7,WednesdayThoughts,14.771
+09:59,8,JENNIE,767.633
+09:59,9,찬란하게_빛나는MC,17.345
+09:59,10,Anwar,40.231
+10:29,1,saudinationalday90,85.665
+10:29,2,D4DJ,33.254
+10:29,3,Lakers,230.946
+10:29,4,찬란하게_빛나는MC,28.158
+10:29,5,뽀고니랑,
+10:29,6,GENEとひとつになろう,
+10:29,7,Jamal Murray,51.315
+10:29,8,Anwar,43.112
+10:29,9,つかさ社長,16.237
+10:29,10,Luiza,231.129
+11:04,1,ThankYouRM,20.871
+11:04,2,NCT2020_WISH2020,100.637
+11:04,3,اليوم_الوطني٩٠,206.459
+11:04,4,GENEとひとつになろう,
+11:04,5,뽀고니랑,
+11:04,6,Lakers,231.308
+11:04,7,Anwar,46.352
+11:04,8,Enola Holmes,12.688
+11:04,9,つかさ社長,18.375
+11:04,10,横浜FC,
+11:35,1,ThankYouRM,42.629
+11:35,2,NCT2020_WISH2020,147.014
+11:35,3,اليوم_الوطني٩٠,214.588
+11:35,4,BOBBYFirstOST,
+11:35,5,GENEとひとつになろう,
+11:35,6,Kim Namjoon,50.640
+11:35,7,スタメン,20.739
+11:35,8,Lakers,232.326
+11:35,9,Laycon is SC,11.070
+11:35,10,Enola Holmes,14.367
+12:05,1,ThankYouRM,60.034
+12:05,2,NCT2020_WISH2020,220.763
+12:05,3,اليوم_الوطني٩٠,220.732
+12:05,4,BOBBYFirstOST,20.991
+12:05,5,WINWIN,158.780
+12:05,6,GENEとひとつになろう,
+12:05,7,スタメン,22.679
+12:05,8,Kim Namjoon,53.409
+12:05,9,Enola Holmes,15.729
+12:05,10,Laycon is SC,14.815
+12:35,1,BackDoor1stWin,122.590
+12:35,2,ThankYouRM,80.086
+12:35,3,NCT2020_WISH2020,274.541
+12:35,4,اليوم_الوطني٩٠,231.694
+12:35,5,BOBBYFirstOST,29.452
+12:35,6,tzuyu,40.298
+12:35,7,WINWIN,172.379
+12:35,8,Enola Holmes,17.190
+12:35,9,Laycon is SC,18.706
+12:35,10,スタメン,24.235
+13:05,1,前澤ナンバーズ,104.167
+13:05,2,BackDoor1stWin,287.721
+13:05,3,ThankYouRM,96.945
+13:05,4,NCT2020_WISH2020,311.933
+13:05,5,اليوم_الوطني٩٠,236.907
+13:05,6,Ali Palabıyık,
+13:05,7,tzuyu,48.095
+13:05,8,WINWIN,180.677
+13:05,9,Enola Holmes,18.466
+13:05,10,리얼리티,15.450
+13:35,1,前澤ナンバーズ,179.259
+13:35,2,BackDoor1stWin,356.563
+13:35,3,ThankYouRM,112.222
+13:35,4,NCT2020_WISH2020,402.172
+13:35,5,اليوم_الوطني٩٠,247.251
+13:35,6,Ali Palabıyık,10.535
+13:35,7,tzuyu,54.401
+13:35,8,WINWIN,222.009
+13:35,9,리얼리티,22.756
+13:35,10,Enola Holmes,19.946
+14:05,1,前澤ナンバーズ,236.834
+14:05,2,BackDoor1stWin,419.070
+14:05,3,ThankYouRM,126.250
+14:05,4,NCT2020_WISH2020,476.530
+14:05,5,اليوم_الوطني٩٠,256.132
+14:05,6,Ali Palabıyık,13.181
+14:05,7,Enola Holmes,21.440
+14:05,8,리얼리티,30.064
+14:05,9,tzuyu,59.094
+14:05,10,ムロさん,
+14:35,1,前澤ナンバーズ,384.954
+14:35,2,BackDoor1stWin,458.532
+14:35,3,ThankYouRM,140.435
+14:35,4,NCT2020_WISH2020,528.476
+14:35,5,اليوم_الوطني٩٠,269.466
+14:35,6,横浜優勝,
+14:35,7,Ali Palabıyık,14.929
+14:35,8,Enola Holmes,23.160
+14:35,9,tzuyu,64.503
+14:35,10,리얼리티,35.008
+15:00,1,前澤ナンバーズ,550.070
+15:00,2,BackDoor1stWin,486.341
+15:00,3,プロトマーリン,68.245
+15:00,4,ThankYouRM,152.660
+15:00,5,اليوم_الوطني٩٠,276.409
+15:00,6,NCT2020_WISH2020,563.570
+15:00,7,横浜優勝,
+15:00,8,れおほー,
+15:00,9,Enola Holmes,24.316
+15:00,10,上茶谷,
+15:30,1,前澤ナンバーズ,634.653
+15:30,2,BackDoor1stWin,511.435
+15:30,3,プロトマーリン,114.277
+15:30,4,ThankYouRM,164.596
+15:30,5,اليوم_الوطني٩٠,290.929
+15:30,6,RIPAnimal,
+15:30,7,横浜優勝,
+15:30,8,Enola Holmes,26.710
+15:30,9,れおほー,
+15:30,10,Gale Sayers,
+16:00,1,前澤ナンバーズ,690.377
+16:00,2,BackDoor1stWin,531.901
+16:00,3,プロトマーリン,140.231
+16:00,4,ThankYouRM,177.329
+16:00,5,اليوم_الوطني٩٠,300.386
+16:00,6,RIPAnimal,
+16:00,7,Gale Sayers,17.524
+16:00,8,Enola Holmes,28.895
+16:00,9,横浜優勝,
+16:00,10,YTFF,
+16:35,1,前澤ナンバーズ,736.988
+16:35,2,BTSxUNGA,221.435
+16:35,3,プロトマーリン,158.018
+16:35,4,BackDoor1stWin,549.800
+16:35,5,LET'S LIVE ON,197.467
+16:35,6,Gale Sayers,27.183
+16:35,7,better,196.621
+16:35,8,RIPAnimal,
+16:35,9,Enola Holmes,32.430
+16:35,10,YTFF,12.373
+17:05,1,前澤ナンバーズ,766.197
+17:05,2,BTSxUNGA,282.979
+17:05,3,better,310.265
+17:05,4,プロトマーリン,170.040
+17:05,5,LET'S LIVE ON,240.316
+17:05,6,BackDoor1stWin,562.807
+17:05,7,Gale Sayers,33.698
+17:05,8,RIPAnimal,10.206
+17:05,9,Enola Holmes,35.050
+17:05,10,Kent,50.896
+17:35,1,前澤ナンバーズ,785.741
+17:35,2,BTSxUNGA,313.812
+17:35,3,better,381.372
+17:35,4,LET'S LIVE ON,258.972
+17:35,5,プロトマーリン,179.603
+17:35,6,BackDoor1stWin,573.377
+17:35,7,Gale Sayers,39.375
+17:35,8,RIPAnimal,11.524
+17:35,9,taekook,139.010
+17:35,10,アーケード,79.105
+18:05,1,前澤ナンバーズ,802.037
+18:05,2,BTSxUNGA,337.368
+18:05,3,better,408.093
+18:05,4,プロトマーリン,185.855
+18:05,5,LET'S LIVE ON,270.919
+18:05,6,Gale Sayers,44.199
+18:05,7,RIPAnimal,12.940
+18:05,8,اليوم_الوطني٩٠,350.187
+18:05,9,Rand Paul,15.209
+18:05,10,taekook,158.490
+18:35,1,前澤ナンバーズ,815.639
+18:35,2,better,424.654
+18:35,3,BTSxUNGA,357.891
+18:35,4,Rand Paul,33.230
+18:35,5,プロトマーリン,189.832
+18:35,6,Gale Sayers,47.796
+18:35,7,LET'S LIVE ON,280.532
+18:35,8,BiVisibilityDay,50.340
+18:35,9,RIPAnimal,14.190
+18:35,10,taekook,182.507
+19:05,1,前澤ナンバーズ,825.857
+19:05,2,better,433.990
+19:05,3,BTSxUNGA,374.133
+19:05,4,Rand Paul,51.348
+19:05,5,BiVisibilityDay,57.259
+19:05,6,Gale Sayers,52.080
+19:05,7,MIvsKKR,20.681
+19:05,8,LET'S LIVE ON,288.624
+19:05,9,プロトマーリン,192.763
+19:05,10,taekook,201.992
+19:35,1,前澤ナンバーズ,832.898
+19:35,2,better,439.890
+19:35,3,BTSxUNGA,384.833
+19:35,4,Rand Paul,68.052
+19:35,5,BiVisibilityDay,64.197
+19:35,6,Luzu,24.159
+19:35,7,BTSLoveMyself,632.458
+19:35,8,LIFE GOES ON,367.819
+19:35,9,Gale Sayers,57.448
+19:35,10,taekook,217.889
+20:00,1,前澤ナンバーズ,837.402
+20:00,2,Rand Paul,80.530
+20:00,3,better,443.322
+20:00,4,BTSxUNGA,391.570
+20:00,5,BiVisibilityDay,70.359
+20:00,6,Luzu,27.380
+20:00,7,gitmeeda,79.829
+20:00,8,taekook,226.766
+20:00,9,Gale Sayers,60.522
+20:00,10,LIFE GOES ON,371.494
+20:35,1,前澤ナンバーズ,844.341
+20:35,2,Rand Paul,96.747
+20:35,3,better,449.331
+20:35,4,BiVisibilityDay,79.853
+20:35,5,BreonnaTaylor,166.338
+20:35,6,BTSxUNGA,399.833
+20:35,7,Luzu,30.685
+20:35,8,taekook,240.891
+20:35,9,Kent,97.584
+20:35,10,Gale Sayers,63.785
+21:05,1,Breonna Taylor,424.033
+21:05,2,前澤ナンバーズ,848.360
+21:05,3,الهلال_شباب_الاهلي,144.635
+21:05,4,Rand Paul,106.318
+21:05,5,BiVisibilityDay,87.508
+21:05,6,CashAppWYR,
+21:05,7,gitmeeda,112.284
+21:05,8,Luzu,32.803
+21:05,9,Daniel Cameron,43.007
+21:05,10,Kent,103.943
+21:30,1,Breonna Taylor,511.905
+21:30,2,前澤ナンバーズ,851.602
+21:30,3,الهلال_شباب_الاهلي,153.228
+21:30,4,CashAppWYR,
+21:30,5,BiVisibilityDay,94.165
+21:30,6,Rand Paul,112.710
+21:30,7,اليوم_الوطني_السعودي_ال90,44.423
+21:30,8,Daniel Cameron,51.312
+21:30,9,ashton,73.761
+21:30,10,Luzu,34.211
+22:05,1,Breonna Taylor,632.666
+22:05,2,Pickford,
+22:05,3,CHEBAR,40.991
+22:05,4,الهلال_شباب_الاهلي,171.784
+22:05,5,BiVisibilityDay,101.904
+22:05,6,Tammy,24.224
+22:05,7,CashAppWYR,
+22:05,8,Havertz,45.186
+22:05,9,前澤ナンバーズ,856.000
+22:05,10,Rand Paul,120.225
+22:35,1,BreonnaTaylor,319.108
+22:35,2,LaIslaDeLasTentaciones2,29.383
+22:35,3,Havertz,85.468
+22:35,4,Pickford,
+22:35,5,BiVisibilityDay,108.702
+22:35,6,اليوم_الوطني_السعودي_ال90,63.982
+22:35,7,TemptationIsland,
+22:35,8,Barkley,13.909
+22:35,9,Rand Paul,125.854
+22:35,10,ashton,80.675
+23:05,1,LaIslaDeLasTentaciones2,71.586
+23:05,2,BreonnaTaylor,348.765
+23:05,3,Barnsley,34.252
+23:05,4,CHEBAR,79.542
+23:05,5,Pickford,
+23:05,6,BiVisibilityDay,115.436
+23:05,7,gitmeeda,186.348
+23:05,8,Bellerin,
+23:05,9,Giroud,
+23:05,10,Rand Paul,131.677
+23:35,1,LaIslaDeLasTentaciones2,119.921
+23:35,2,BreonnaTaylor,380.349
+23:35,3,Barnsley,38.716
+23:35,4,CHEBAR,88.888
+23:35,5,BiVisibilityDay,121.990
+23:35,6,TemptationIsland,16.126
+23:35,7,Pickford,
+23:35,8,Bellerin,
+23:35,9,Rand Paul,137.957
+23:35,10,الهلال,980.188

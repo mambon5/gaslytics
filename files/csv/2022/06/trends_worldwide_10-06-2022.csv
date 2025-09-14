@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LoveIsland,201.726
+00:10,2,CampoMexiquense,62.603
+00:10,3,SummerGameFest,110.904
+00:10,4,coronacapital2022,117.945
+00:10,5,SVGala8,12.781
+00:10,6,Ekin-Su,27.987
+00:10,7,Davide,32.685
+00:10,8,Luca,44.163
+00:10,9,The Last of Us,95.390
+00:10,10,TLOU,19.160
+00:40,1,LoveIsland,204.737
+00:40,2,SVGala8,18.621
+00:40,3,CampoMexiquense,65.026
+00:40,4,CoronaCapital2022,183.461
+00:40,5,SummerGameFest,114.147
+00:40,6,Rony,
+00:40,7,Botafogo,29.385
+00:40,8,Scarpa,
+00:40,9,Ekin-Su,28.696
+00:40,10,Davide,33.140
+01:10,1,SVGala8,23.331
+01:10,2,LoveIsland,203.393
+01:10,3,Botafogo,35.751
+01:10,4,CoronaCapital2022,238.150
+01:10,5,CampoMexiquense,67.064
+01:10,6,bbcqt,14.078
+01:10,7,Scarpa,
+01:10,8,Rony,10.189
+01:10,9,Britney,37.445
+01:10,10,Kanu,15.388
+01:40,1,SVGala8,24.749
+01:40,2,Botafogo,38.201
+01:40,3,CoronaCapital2022,283.331
+01:40,4,CampoMexiquense,68.796
+01:40,5,Rony,11.357
+01:40,6,LoveIsland,205.083
+01:40,7,Scarpa,
+01:40,8,bbcqt,15.200
+01:40,9,Calleri,
+01:40,10,Britney,41.333
+02:10,1,ReadyForProof,35.036
+02:10,2,January6thCommitteeHearings,52.841
+02:10,3,Botafogo,46.567
+02:10,4,Wesley,17.618
+02:10,5,CoronaCapital2022,324.879
+02:10,6,SVGala8,25.486
+02:10,7,Rony,13.314
+02:10,8,CampoMexiquense,70.408
+02:10,9,Scarpa,
+02:10,10,Calleri,
+02:40,1,ReadyForProof,124.178
+02:40,2,January6thCommitteeHearings,76.943
+02:40,3,January6thHearings,13.345
+02:40,4,Liz Cheney,45.635
+02:40,5,Botafogo,49.737
+02:40,6,Wesley,18.884
+02:40,7,WelcomeHomeLouis,18.471
+02:40,8,Gerrit Cole,
+02:40,9,CoronaCapital2022,392.983
+02:40,10,Bill Barr,17.339
+03:10,1,January6thCommitteeHearings,115.645
+03:10,2,ReadyForProof,237.754
+03:10,3,Liz Cheney,86.656
+03:10,4,WelcomeHomeLouis,31.915
+03:10,5,BTS_Proof,956.727
+03:10,6,Gerrit Cole,
+03:10,7,Botafogo,50.425
+03:10,8,玉木のフライング,
+03:10,9,Capitol,244.435
+03:10,10,Wesley,19.199
+03:40,1,ReadyForProof,338.483
+03:40,2,January6thCommitteeHearings,149.486
+03:40,3,Liz Cheney,117.593
+03:40,4,BTS_Proof,1.057.285
+03:40,5,Capitol,282.272
+03:40,6,WelcomeHomeLouis,38.757
+03:40,7,YetToCome,802.434
+03:40,8,Gerrit Cole,
+03:40,9,Irma,31.123
+03:40,10,Botafogo,51.981
+04:10,1,ReadyForProof,412.250
+04:10,2,January6thCommitteeHearings,184.599
+04:10,3,Liz Cheney,142.691
+04:10,4,BTS_Proof,1.119.181
+04:10,5,Capitol,323.437
+04:10,6,Officer Edwards,25.595
+04:10,7,YetToCome,852.814
+04:10,8,CampoMexiquense,83.007
+04:10,9,Donald Trump,195.190
+04:10,10,Gerrit Cole,
+04:40,1,ReadyForProof,468.226
+04:40,2,January6thCommitteeHearings,208.899
+04:40,3,Liz Cheney,169.160
+04:40,4,BTS_Proof,1.197.231
+04:40,5,YetToCome,926.941
+04:40,6,Capitol,363.776
+04:40,7,CampoMexiquense,88.282
+04:40,8,Officer Edwards,34.472
+04:40,9,Donald Trump,223.715
+04:40,10,Proud Boys,71.851
+05:10,1,ReadyForProof,539.938
+05:10,2,January6thCommitteeHearings,226.671
+05:10,3,BTS_Proof,1.285.920
+05:10,4,Trump,1.091.073
+05:10,5,YetToCome,1.008.399
+05:10,6,Liz Cheney,191.191
+05:10,7,NoLimite,12.812
+05:10,8,Capitol,389.290
+05:10,9,DEMI LEAVES REHAB AGAIN,27.060
+05:10,10,Officer Edwards,38.928
+05:40,1,ReadyForProof,589.480
+05:40,2,YetToCome,1.181.083
+05:40,3,January6thCommitteeHearings,238.097
+05:40,4,Trump,1.113.252
+05:40,5,Liz Cheney,207.256
+05:40,6,BTSCOMEBACK2022,106.684
+05:40,7,NoLimite,14.000
+05:40,8,Beyoncé,39.306
+05:40,9,DEMI LEAVES REHAB AGAIN,35.540
+05:40,10,Capitol,413.232
+06:10,1,YetToCome,1.262.112
+06:10,2,BTS_Proof,1.392.689
+06:10,3,BTSCOMEBACK2022,124.290
+06:10,4,January6thCommitteeHearings,246.244
+06:10,5,TheMostBeautifulMoment,471.808
+06:10,6,Beyoncé,53.658
+06:10,7,Trump,1.126.833
+06:10,8,Liz Cheney,219.316
+06:10,9,DEMI LEAVES REHAB AGAIN,38.564
+06:10,10,Capitol,427.584
+06:40,1,YetToCome,1.759.000
+06:40,2,BTS_Proof,1.789.555
+06:40,3,RUN BTS,382.907
+06:40,4,BTSCOMEBACK2022,169.511
+06:40,5,For Youth,319.365
+06:40,6,TheMostBeautifulMoment,597.896
+06:40,7,NAMJOON,224.109
+06:40,8,Beyoncé,62.941
+06:40,9,방탄소년단,758.929
+06:40,10,Trump,1.208.113
+07:10,1,YetToCome,2.028.077
+07:10,2,BTS_Proof,2.000.819
+07:10,3,Run BTS,620.718
+07:10,4,For Youth,452.291
+07:10,5,BTSCOMEBACK2022,284.915
+07:10,6,TheMostBeautifulMoment,731.932
+07:10,7,NAMJOON,266.506
+07:10,8,TONY MONTANA,39.327
+07:10,9,Beyoncé,67.407
+07:10,10,방탄소년단,936.846
+07:40,1,YetToCome,2.186.558
+07:40,2,BTS_Proof,2.383.852
+07:40,3,Run BTS,781.125
+07:40,4,For Youth,543.752
+07:40,5,BTSCOMEBACK2022,333.581
+07:40,6,TheMostBeautifulMoment,786.965
+07:40,7,NAMJOON,294.367
+07:40,8,TONY MONTANA,53.840
+07:40,9,방탄소년단,1.049.178
+07:40,10,Beyoncé,70.845
+08:10,1,YetToCome,2.387.996
+08:10,2,BTS_Proof,2.553.296
+08:10,3,Run BTS,885.633
+08:10,4,For Youth,594.326
+08:10,5,BTSCOMEBACK2022,356.580
+08:10,6,TheMostBeautifulMoment,819.910
+08:10,7,NAMJOON,314.558
+08:10,8,TONY MONTANA,62.109
+08:10,9,방탄소년단,1.068.822
+08:10,10,Beyoncé,72.823
+08:40,1,YetToCome,2.418.181
+08:40,2,BTS_Proof,2.493.757
+08:40,3,Run BTS,897.577
+08:40,4,For Youth,633.477
+08:40,5,BTSCOMEBACK2022,371.588
+08:40,6,TheMostBeautifulMoment,847.107
+08:40,7,NAMJOON,333.962
+08:40,8,TONY MONTANA,66.468
+08:40,9,방탄소년단,1.101.350
+08:40,10,Beyoncé,75.107
+09:10,1,YetToCome,2.124.771
+09:10,2,BTS_Proof,2.179.218
+09:10,3,Run BTS,963.534
+09:10,4,For Youth,659.801
+09:10,5,BTSCOMEBACK2022,383.664
+09:10,6,TheMostBeautifulMoment,861.966
+09:10,7,NAMJOON,343.869
+09:10,8,TONY MONTANA,69.278
+09:10,9,방탄소년단,1.111.578
+09:10,10,Beyoncé,76.753
+09:40,1,YetToCome,2.158.467
+09:40,2,BTS_Proof,2.090.944
+09:40,3,Run BTS,1.004.183
+09:40,4,For Youth,681.635
+09:40,5,BTSCOMEBACK2022,399.450
+09:40,6,TheMostBeautifulMoment,881.797
+09:40,7,NAMJOON,354.367
+09:40,8,TONY MONTANA,71.555
+09:40,9,HAPPY BIRTHDAY BELLE,275.601
+09:40,10,방탄소년단,1.133.340
+10:10,1,YetToCome,2.161.255
+10:10,2,BTS_Proof,2.177.404
+10:10,3,Run BTS,1.057.911
+10:10,4,For Youth,696.721
+10:10,5,BTSCOMEBACK2022,411.537
+10:10,6,TheMostBeautifulMoment,896.161
+10:10,7,LaRojaxCHV,
+10:10,8,NAMJOON,358.674
+10:10,9,あなたのサークル,
+10:10,10,TONY MONTANA,73.377
+10:40,1,YetToCome,2.150.716
+10:40,2,BTS_Proof,1.861.267
+10:40,3,Run BTS,1.089.216
+10:40,4,あなたのサークル,44.535
+10:40,5,For Youth,710.807
+10:40,6,BTSCOMEBACK2022,421.613
+10:40,7,LESSERAFIM_ASKS,
+10:40,8,TheMostBeautifulMoment,911.048
+10:40,9,HAPPY BIRTHDAY BELLE,333.725
+10:40,10,TONY MONTANA,74.972
+11:10,1,YetToCome,2.243.994
+11:10,2,BTS_Proof,2.204.046
+11:10,3,Run BTS,1.089.474
+11:10,4,あなたのサークル,77.985
+11:10,5,ロッキン,10.991
+11:10,6,For Youth,723.188
+11:10,7,LESSERAFIM_ASKS,
+11:10,8,ZETA,12.889
+11:10,9,HAPPY BIRTHDAY BELLE,370.917
+11:10,10,AlejandroSanzEnSevilla,
+11:40,1,Beatbox3rdWin,30.863
+11:40,2,YetToCome,2.175.303
+11:40,3,あなたのサークル,118.867
+11:40,4,Run BTS,1.129.514
+11:40,5,BTS_Proof,2.171.361
+11:40,6,ロッキン,12.312
+11:40,7,少クラ,
+11:40,8,ZETA,14.789
+11:40,9,For Youth,734.438
+11:40,10,C100,33.023
+12:10,1,Beatbox3rdWin,45.221
+12:10,2,あなたのサークル,154.115
+12:10,3,少クラ,
+12:10,4,YetToCome,2.125.357
+12:10,5,Run BTS,1.140.234
+12:10,6,ロッキン,13.148
+12:10,7,BTS_Proof,1.870.856
+12:10,8,AFLDonsBlues,
+12:10,9,C100,42.886
+12:10,10,ZETA,14.858
+12:40,1,Beatbox3rdWin,68.110
+12:40,2,ZETA,17.176
+12:40,3,あなたのサークル,185.266
+12:40,4,Zidane,52.609
+12:40,5,少クラ,
+12:40,6,YetToCome,1.972.457
+12:40,7,ロッキン,14.023
+12:40,8,AFLDonsBlues,
+12:40,9,アニポケ,18.355
+12:40,10,Run BTS,1.144.986
+13:10,1,Mステ,57.190
+13:10,2,Beatbox3rdWin,81.600
+13:10,3,Zidane,62.305
+13:10,4,ZETA,17.936
+13:10,5,วันกรรชัยทอล์คxWin,52.056
+13:10,6,afldonsblues,
+13:10,7,あなたのサークル,212.388
+13:10,8,YetToCome,1.993.788
+13:10,9,C100,65.733
+13:10,10,ロッキン,14.663
+13:40,1,Mステ,116.626
+13:40,2,Zidane,70.899
+13:40,3,Beatbox3rdWin,87.747
+13:40,4,サッカー日本代表,20.881
+13:40,5,daihyo,31.837
+13:40,6,วันกรรชัยทอล์คxWin,95.247
+13:40,7,久保くん,
+13:40,8,キンプリ,36.720
+13:40,9,ZETA,18.362
+13:40,10,C100,75.053
+14:10,1,Mステ,159.524
+14:10,2,ichiban,52.993
+14:10,3,Zidane,77.478
+14:10,4,キンプリ,46.900
+14:10,5,サッカー日本代表,24.934
+14:10,6,Beatbox3rdWin,92.054
+14:10,7,KingandPrincce,
+14:10,8,久保くん,
+14:10,9,C100,83.173
+14:10,10,A代表初ゴール,
+14:40,1,Mステ,189.378
+14:40,2,ichiban,60.912
+14:40,3,Zidane,85.584
+14:40,4,金スマ,16.357
+14:40,5,こいほー,
+14:40,6,キンプリ,55.811
+14:40,7,KingandPrincce,
+14:40,8,AzerbaijanGP,33.837
+14:40,9,すわほー,
+14:40,10,久保くん,
+15:10,1,Mステ,217.345
+15:10,2,金スマ,22.327
+15:10,3,ichiban,66.204
+15:10,4,Zidane,91.386
+15:10,5,ChileVaAlMundial,
+15:10,6,こいほー,
+15:10,7,ジュラシックパーク,
+15:10,8,キンプリ,62.062
+15:10,9,AzerbaijanGP,34.727
+15:10,10,すわほー,
+15:40,1,Mステ,230.879
+15:40,2,金スマ,23.731
+15:40,3,インビジブル,
+15:40,4,ichiban,69.989
+15:40,5,Zidane,96.884
+15:40,6,アンコールしたい出来事,12.673
+15:40,7,こいほー,
+15:40,8,キンプリ,66.923
+15:40,9,Peaky Blinders,35.897
+15:40,10,Sergi Roberto,
+16:10,1,Mステ,242.371
+16:10,2,インビジブル,11.768
+16:10,3,ストプリ,23.982
+16:10,4,金スマ,24.502
+16:10,5,酒のツマミになる話,19.159
+16:10,6,Zidane,100.118
+16:10,7,ココロオドル,
+16:10,8,ジュラシックパーク,12.390
+16:10,9,Peaky Blinders,37.650
+16:10,10,こいほー,
+16:40,1,Mステ,251.907
+16:40,2,MUSICBLOOD,11.701
+16:40,3,FIFA,13.272
+16:40,4,ツダケンお誕生日会2022,14.819
+16:40,5,ストプリ,31.320
+16:40,6,ココロオドル,
+16:40,7,peaky blinders,40.118
+16:40,8,Zidane,104.384
+16:40,9,ジュラシックパーク,12.937
+16:40,10,nobodyknows,
+17:10,1,FIFA,18.073
+17:10,2,ที่รักที่รัก,114.400
+17:10,3,ツダケンお誕生日会2022,24.378
+17:10,4,Mステ,258.692
+17:10,5,あーりん26,
+17:10,6,Ecuador,105.585
+17:10,7,peaky blinders,41.599
+17:10,8,ココロオドル,
+17:10,9,Vidal,12.119
+17:10,10,Byron Castillo,20.080
+17:40,1,ที่รักที่รัก,286.754
+17:40,2,FIFA,20.693
+17:40,3,ツダケンお誕生日会2022,35.705
+17:40,4,あーりん26,
+17:40,5,ジェシー誕生祭2022,24.595
+17:40,6,Ecuador,115.168
+17:40,7,peaky blinders,44.249
+17:40,8,ココロオドル,
+17:40,9,Vidal,14.177
+17:40,10,Byron Castillo,23.527
+18:10,1,ที่รักที่รัก,387.459
+18:10,2,FIFA,21.893
+18:10,3,ツダケンお誕生日会2022,47.893
+18:10,4,あーりん26,
+18:10,5,ジェシー誕生祭2022,28.971
+18:10,6,Ecuador,117.805
+18:10,7,peaky blinders,45.687
+18:10,8,Vidal,15.031
+18:10,9,ココロオドル,10.305
+18:10,10,第141回,
+18:40,1,ที่รักที่รัก,437.215
+18:40,2,ツダケンお誕生日会2022,54.841
+18:40,3,CashAppInWild,
+18:40,4,FIFA,22.747
+18:40,5,TaskForce141,
+18:40,6,Peaky Blinders,48.226
+18:40,7,Ecuador,122.856
+18:40,8,cooper,28.718
+18:40,9,第141回,
+18:40,10,ココロオドル,11.556
+19:10,1,ที่รักที่รัก,467.136
+19:10,2,CashAppInWild,
+19:10,3,TaskForce141,
+19:10,4,ツダケンお誕生日会2022,56.486
+19:10,5,あーりん26,11.840
+19:10,6,cooper,30.279
+19:10,7,Peaky Blinders,49.377
+19:10,8,Ecuador,123.746
+19:10,9,第141回,
+19:10,10,Britney,162.932
+19:40,1,TaskForce141,
+19:40,2,CashAppInWild,
+19:40,3,ที่รักที่รัก,506.654
+19:40,4,cooper,32.771
+19:40,5,ツダケンお誕生日会2022,58.021
+19:40,6,フロイニ,49.368
+19:40,7,Peaky Blinders,51.485
+19:40,8,Ecuador,127.981
+19:40,9,Britney,170.798
+19:40,10,第141回,
+20:10,1,SamSummerFridays,
+20:10,2,TaskForce141,10.456
+20:10,3,cooper,33.968
+20:10,4,CashAppInWild,
+20:10,5,HindusUnderAttackInIndia,82.302
+20:10,6,フロイニ,64.128
+20:10,7,Peaky Blinders,52.089
+20:10,8,Chile,247.278
+20:10,9,Britney,175.753
+20:10,10,Ecuador,127.404
+20:40,1,SamSummerFridays,
+20:40,2,TaskForce141,11.628
+20:40,3,cooper,36.417
+20:40,4,CashAppInWild,
+20:40,5,HindusUnderAttackInIndia,89.450
+20:40,6,Peaky Blinders,54.005
+20:40,7,ZaferPartiliyimÇünkü,
+20:40,8,Chile,253.841
+20:40,9,Britney,182.728
+20:40,10,FIFA,129.354
+21:10,1,SamSummerFridays,
+21:10,2,PMSSalaryCapIsFake,
+21:10,3,TaskForce141,12.602
+21:10,4,AUTFRA,
+21:10,5,cooper,37.679
+21:10,6,ZaferPartiliyimÇünkü,
+21:10,7,Peaky Blinders,54.506
+21:10,8,Chile,251.414
+21:10,9,Rwanda,88.302
+21:10,10,Castlevania,15.208
+21:40,1,AUTFRA,
+21:40,2,TolunayKafkasİstifa,
+21:40,3,PMSSalaryCapIsFake,
+21:40,4,SamSummerFridays,
+21:40,5,totp,
+21:40,6,cooper,39.840
+21:40,7,Saliba,
+21:40,8,Peaky Blinders,56.193
+21:40,9,Rwanda,94.399
+21:40,10,Ron Rivera,
+22:10,1,AUTFRA,12.167
+22:10,2,TolunayKafkasİstifa,
+22:10,3,PMSSalaryCapIsFake,
+22:10,4,FreeCodeFridayContest,
+22:10,5,Griezmann,
+22:10,6,totp,
+22:10,7,cooper,40.956
+22:10,8,Rwanda,96.480
+22:10,9,Ron Rivera,
+22:10,10,Kamara,
+22:40,1,AUTFRA,17.503
+22:40,2,FreeCodeFridayContest,
+22:40,3,TolunayKafkasİstifa,
+22:40,4,Nkunku,
+22:40,5,Kamara,
+22:40,6,Griezmann,
+22:40,7,LoveIsland,132.234
+22:40,8,PMSSalaryCapIsFake,
+22:40,9,cooper,43.825
+22:40,10,Luca,54.562
+23:10,1,AUTFRA,19.639
+23:10,2,LoveIsland,128.535
+23:10,3,FreeCodeFridayContest,
+23:10,4,TolunayKafkasİstifa,
+23:10,5,Kamara,
+23:10,6,Griezmann,11.574
+23:10,7,Nkunku,10.772
+23:10,8,Davide,22.113
+23:10,9,PMSSalaryCapIsFake,
+23:10,10,cooper,45.332
+23:40,1,LoveIsland,157.361
+23:40,2,AUTFRA,20.295
+23:40,3,FreeCodeFridayContest,
+23:40,4,TolunayKafkasİstifa,
+23:40,5,Paige,20.981
+23:40,6,BBNReunion,13.580
+23:40,7,Emmanuel,58.593
+23:40,8,Luca,48.997
+23:40,9,Davide,24.356
+23:40,10,Griezmann,12.390

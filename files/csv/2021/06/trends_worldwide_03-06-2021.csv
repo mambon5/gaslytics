@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,RocioSeguirViva,97.857
+00:10,2,Spotify,1.078.996
+00:10,3,Benzema,177.692
+00:10,4,YalnızDeğilsinEzgiMola,211.801
+00:10,5,FRAPDG,49.466
+00:10,6,ENGAUS,
+00:10,7,TopChef,10.948
+00:10,8,ミステリ,
+00:10,9,England,184.429
+00:10,10,TOMMY,113.681
+00:41,1,RocioSeguirViva,114.298
+00:41,2,Spotify,1.103.487
+00:41,3,Benzema,184.997
+00:41,4,YalnızDeğilsinEzgiMola,215.446
+00:41,5,FRAPDG,50.374
+00:41,6,ミステリ,11.750
+00:41,7,ENGAUS,
+00:41,8,TopChef,11.100
+00:41,9,ドラマ化,10.894
+00:41,10,David Luiz,
+01:10,1,RocioSeguirViva,131.580
+01:10,2,Spotify,1.091.721
+01:10,3,ミステリ,15.808
+01:10,4,Benzema,187.722
+01:10,5,YalnızDeğilsinEzgiMola,217.764
+01:10,6,ドラマ化,13.752
+01:10,7,FRAPDG,51.016
+01:10,8,菅田将暉,16.918
+01:10,9,David Luiz,10.799
+01:10,10,ENGAUS,
+01:41,1,RocioSeguirViva,149.844
+01:41,2,Spotify,1.119.491
+01:41,3,ミステリ,19.909
+01:41,4,panelaço,26.832
+01:41,5,ドラマ化,16.354
+01:41,6,菅田将暉,20.752
+01:41,7,メンテ恒例,
+01:41,8,NHLDraftLottery,
+01:41,9,Benzema,191.298
+01:41,10,مشاعرك_الليله_بكلمه,
+02:10,1,RocioSeguirViva,159.018
+02:10,2,panelaço,50.964
+02:10,3,ミステリ,23.142
+02:10,4,Spotify,1.108.900
+02:10,5,ForaBol卐onaroGenocida,11.834
+02:10,6,tubbospace,
+02:10,7,ドラマ化,18.414
+02:10,8,Maxey,
+02:10,9,菅田将暉,23.672
+02:10,10,Camacho,
+02:41,1,RocioSeguirViva,161.112
+02:41,2,panelaço,60.948
+02:41,3,ミステリ,23.664
+02:41,4,Spotify,1.124.467
+02:41,5,ForaBol卐onaroGenocida,16.042
+02:41,6,tubbospace,
+02:41,7,Camacho,
+02:41,8,ドラマ化,20.305
+02:41,9,NBAnoGaules,
+02:41,10,菅田将暉,26.308
+03:10,1,Corinthians,69.748
+03:10,2,Camacho,10.032
+03:10,3,ミステリ,28.590
+03:10,4,panelaço,65.546
+03:10,5,RocioSeguirViva,170.974
+03:10,6,Spotify,1.124.467
+03:10,7,ForaBol卐onaroGenocida,18.112
+03:10,8,Sylvinho,
+03:10,9,ドラマ化,21.662
+03:10,10,RHOBH,
+03:41,1,Corinthians,88.610
+03:41,2,Camacho,11.782
+03:41,3,ミステリ,30.820
+03:41,4,Sylvinho,11.260
+03:41,5,BucherMarbleBaconxGulf,86.615
+03:41,6,Spotify,1.137.317
+03:41,7,panelaço,68.748
+03:41,8,RocioSeguirViva,173.178
+03:41,9,ForaBol卐onaroGenocida,19.492
+03:41,10,ドラマ化,22.989
+04:10,1,Corinthians,100.347
+04:10,2,Camacho,12.444
+04:10,3,Sylvinho,14.481
+04:10,4,ミステリ,32.377
+04:10,5,BucherMarbleBaconxGulf,136.012
+04:10,6,DRPowerCouple,
+04:10,7,DesafioTheBox,
+04:10,8,HereTheyCome,
+04:10,9,Nenê,55.036
+04:10,10,The Knicks,40.225
+04:41,1,Knicks,101.784
+04:41,2,Corinthians,119.515
+04:41,3,Trae Young,33.267
+04:41,4,Scheifele,13.067
+04:41,5,Evans,29.747
+04:41,6,DRPowerCouple,17.868
+04:41,7,Sylvinho,18.438
+04:41,8,Randle,27.498
+04:41,9,Camacho,13.073
+04:41,10,ミステリ,34.289
+05:10,1,Knicks,109.673
+05:10,2,Corinthians,123.925
+05:10,3,Evans,27.198
+05:10,4,DRPowerCouple,32.634
+05:10,5,Scheifele,19.821
+05:10,6,Trae Young,29.965
+05:10,7,Hawks,59.712
+05:10,8,Sylvinho,19.760
+05:10,9,Randle,28.307
+05:10,10,ミステリ,36.020
+05:41,1,Knicks,116.069
+05:41,2,DRPowerCouple,47.213
+05:41,3,Corinthians,127.604
+05:41,4,Evans,40.129
+05:41,5,Scheifele,23.235
+05:41,6,Trae Young,43.150
+05:41,7,Hawks,62.486
+05:41,8,ミステリ,36.020
+05:41,9,Sylvinho,20.501
+05:41,10,Randle,28.307
+06:10,1,Luka,64.614
+06:10,2,Knicks,117.981
+06:10,3,DRPowerCouple,48.816
+06:10,4,Corinthians,129.146
+06:10,5,Evans,42.332
+06:10,6,Scheifele,25.037
+06:10,7,Trae Young,45.881
+06:10,8,Hawks,63.493
+06:10,9,ミステリ,41.870
+06:10,10,shay,17.000
+06:41,1,Luka,82.793
+06:41,2,Knicks,121.069
+06:41,3,DRPowerCouple,49.562
+06:41,4,Evans,44.660
+06:41,5,Corinthians,130.421
+06:41,6,Scheifele,26.268
+06:41,7,Porzingis,
+06:41,8,Trae Young,48.031
+06:41,9,Hawks,64.686
+06:41,10,shay,18.262
+07:10,1,Luka,107.125
+07:10,2,Kawhi,32.522
+07:10,3,Mavs,36.344
+07:10,4,MFFL,
+07:10,5,Knicks,122.978
+07:10,6,Evans,45.719
+07:10,7,DRPowerCouple,49.791
+07:10,8,Porzingis,10.245
+07:10,9,Corinthians,130.834
+07:10,10,Scheifele,27.049
+07:41,1,Luka,115.612
+07:41,2,Kawhi,37.303
+07:41,3,Mavs,39.397
+07:41,4,MFFL,
+07:41,5,GoAvsGo,
+07:41,6,Evans,46.950
+07:41,7,Knicks,124.721
+07:41,8,Porzingis,10.664
+07:41,9,DRPowerCouple,50.025
+07:41,10,Scheifele,27.664
+08:10,1,Luka,119.318
+08:10,2,Kawhi,39.591
+08:10,3,Mavs,40.697
+08:10,4,MFFL,
+08:10,5,GoAvsGo,10.553
+08:10,6,Evans,47.220
+08:10,7,WorldBicycleDay,12.470
+08:10,8,Porzingis,10.917
+08:10,9,Knicks,125.552
+08:10,10,DRPowerCouple,50.125
+08:41,1,Luka,123.224
+08:41,2,Kawhi,41.214
+08:41,3,Mavs,41.716
+08:41,4,WorldBicycleDay,15.033
+08:41,5,MFFL,
+08:41,6,GoAvsGo,10.883
+08:41,7,Evans,47.906
+08:41,8,VOTE_BTOB_ON_KINGDOM,14.186
+08:41,9,HBDKalaignar98,270.949
+08:41,10,ALL OUT FOR BTOB,14.579
+09:10,1,Luka,125.758
+09:10,2,Kawhi,42.390
+09:10,3,WorldBicycleDay,18.026
+09:10,4,Mavs,42.390
+09:10,5,NazimHikmetRan,
+09:10,6,MFFL,
+09:10,7,VOTE_BTOB_ON_KINGDOM,16.135
+09:10,8,ราชินีในดวงใจ,62.578
+09:10,9,ALL OUT FOR BTOB,16.466
+09:10,10,Evans,48.028
+09:41,1,Luka,128.510
+09:41,2,WorldBicycleDay,21.077
+09:41,3,NazimHikmetRan,
+09:41,4,Kawhi,43.490
+09:41,5,Mavs,43.124
+09:41,6,JamShiSpace,
+09:41,7,thursdaymorning,
+09:41,8,VOTE_BTOB_ON_KINGDOM,17.623
+09:41,9,ALL OUT FOR BTOB,18.031
+09:41,10,SF9 KING OF KINGS,17.952
+10:10,1,WorldBicycleDay,23.867
+10:10,2,NazimHikmetRan,10.099
+10:10,3,Luka,130.036
+10:10,4,SF9TheFinalWar,33.297
+10:10,5,Kawhi,44.174
+10:10,6,ماده_دراسيه_كنت_تحبها,
+10:10,7,SF9 KING OF KINGS,31.857
+10:10,8,Mavs,43.620
+10:10,9,thursdaymorning,
+10:10,10,Feiertag,
+10:41,1,WorldBicycleDay,26.842
+10:41,2,TXT ON MCountdown,22.198
+10:41,3,おうちでお菓子パーティー,
+10:41,4,NazimHikmetRan,12.080
+10:41,5,StayDoainSKZ,
+10:41,6,F473,12.261
+10:41,7,Luka,132.203
+10:41,8,SF9 KING OF KINGS,42.375
+10:41,9,EM BURN,28.694
+10:41,10,iKON MAKE,31.528
+11:10,1,TXT ON MCountdown,42.925
+11:10,2,StayDoainSKZ,
+11:10,3,WorldBicycleDay,29.730
+11:10,4,おうちでお菓子パーティー,
+11:10,5,세상을_울리는_Howling,40.589
+11:10,6,NazimHikmetRan,13.964
+11:10,7,SKZ WOLFGANG ASSEMBLE,54.741
+11:10,8,B.I ILLA ILLA FIRST STAGE,17.896
+11:10,9,EM BURN,50.854
+11:10,10,SF9 KING OF KINGS,49.878
+11:41,1,세상을_울리는_Howling,252.968
+11:41,2,StrayKidsKINGS,139.127
+11:41,3,TheReignOfStrayKINGS,256.230
+11:41,4,이게바로_에이티즈의_멋인기라,120.282
+11:41,5,Kingdom_TheFinalHOWL,237.196
+11:41,6,TXT ON MCountdown,52.095
+11:41,7,SKZ WOLFGANG ASSEMBLE,34.657
+11:41,8,8 MAKES 1 KING,108.000
+11:41,9,B.I ILLA ILLA FIRST STAGE,26.113
+11:41,10,10 YEARS AND STILL STRONG,24.133
+12:10,1,세상을_울리는_Howling,355.583
+12:10,2,StrayKidsKINGS,139.127
+12:10,3,TheReignOfStrayKINGS,357.704
+12:10,4,Kingdom_TheFinalHOWL,283.340
+12:10,5,이게바로_에이티즈의_멋인기라,149.339
+12:10,6,SKZ WOLFGANG ASSEMBLE,354.212
+12:10,7,8 MAKES 1 KING,187.882
+12:10,8,10 YEARS AND STILL STRONG,34.590
+12:10,9,THE BOYZ IRON THRONE,136.856
+12:10,10,B.I ILLA ILLA FIRST STAGE,26.113
+12:41,1,StrayKidsKINGS,436.072
+12:41,2,세상을_울리는_Howling,428.050
+12:41,3,TheReignOfStrayKINGS,431.545
+12:41,4,Kingdom_TheFinalHOWL,283.340
+12:41,5,이게바로_에이티즈의_멋인기라,149.339
+12:41,6,SKZ WOLFGANG ASSEMBLE,423.843
+12:41,7,8 MAKES 1 KING,243.363
+12:41,8,Dolandırıcı ŞabanPalabıyık,
+12:41,9,10 YEARS AND STILL STRONG,44.017
+12:41,10,アルカンタラ,
+13:10,1,HotSauce8thWin,240.213
+13:10,2,StrayKidsKINGS,478.748
+13:10,3,Kingdom_TheFinalHOWL,443.711
+13:10,4,TheReignOfStrayKINGS,473.726
+13:10,5,세상을_울리는_Howling,467.730
+13:10,6,SKZ WOLFGANG ASSEMBLE,464.066
+13:10,7,8 MAKES 1 KING,275.762
+13:10,8,10 YEARS AND STILL STRONG,50.872
+13:10,9,アルカンタラ,
+13:10,10,U-24,19.634
+13:41,1,HotSauce8thWin,367.336
+13:41,2,Kingdom_TheFinalHOWL,461.125
+13:41,3,StrayKidsKINGS,495.099
+13:41,4,TheReignOfStrayKINGS,489.586
+13:41,5,세상을_울리는_Howling,482.263
+13:41,6,SKZ WOLFGANG ASSEMBLE,478.320
+13:41,7,8 MAKES 1 KING,289.514
+13:41,8,더보이즈,2.517.108
+13:41,9,どらほー,
+13:41,10,ノーゲーム,
+14:10,1,HotSauce8thWin,460.970
+14:10,2,Kingdom_TheFinalHOWL,480.270
+14:10,3,StrayKidsKINGS,510.548
+14:10,4,ATEEZ_TheRealKing,335.592
+14:10,5,TheReignOfStrayKINGS,503.632
+14:10,6,더보이즈,2.134.081
+14:10,7,横浜優勝,
+14:10,8,8 MAKES 1 KING,306.220
+14:10,9,SKZ WOLFGANG ASSEMBLE,490.358
+14:10,10,どらほー,
+14:41,1,Kingdom_TheFinalHOWL,497.005
+14:41,2,HotSauce8thWin,492.563
+14:41,3,素のまんま,
+14:41,4,StrayKidsKINGS,522.242
+14:41,5,ATEEZ_TheRealKing,333.325
+14:41,6,더보이즈,1.953.975
+14:41,7,BTOB,294.045
+14:41,8,横浜優勝,
+14:41,9,8 MAKES 1 KING,312.694
+14:41,10,SKZ WOLFGANG ASSEMBLE,498.956
+15:10,1,Kingdom_TheFinalHOWL,505.965
+15:10,2,好きなポケモン5匹あげると趣味がわかる,
+15:10,3,HotSauce8thWin,492.563
+15:10,4,BTOB,318.489
+15:10,5,StrayKids_RUN,34.295
+15:10,6,素のまんま,38.475
+15:10,7,더보이즈,2.830.916
+15:10,8,金本知憲,
+15:10,9,横浜優勝,
+15:10,10,8 MAKES 1 KING,312.694
+15:41,1,好きなポケモン5匹あげると趣味がわかる,
+15:41,2,StrayKids_RUN,45.786
+15:41,3,金本知憲,
+15:41,4,メジロマックイーン,16.876
+15:41,5,PitMad,115.291
+15:41,6,แปลรัก2EP2,81.613
+15:41,7,더보이즈,2.830.916
+15:41,8,BTOB,318.489
+15:41,9,HotSauce8thWin,582.239
+15:41,10,JULIETTE NO GLOBOPLAY,25.230
+16:10,1,好きなポケモン5匹あげると趣味がわかる,10.646
+16:10,2,Kingdom_TheFinalHOWL,537.921
+16:10,3,金本知憲,
+16:10,4,แปลรัก2EP2,124.333
+16:10,5,더보이즈,1.762.419
+16:10,6,メジロマックイーン,16.876
+16:10,7,스트레이키즈_승자의_함성,70.020
+16:10,8,STAYWeDidIt,61.415
+16:10,9,iKON,748.402
+16:10,10,BTOB,378.610
+16:41,1,스트레이키즈_승자의_함성,96.185
+16:41,2,STAYWeDidIt,325.991
+16:41,3,StrayKids_The_Final_King,330.217
+16:41,4,WE HOWL IN VICTORY,297.319
+16:41,5,好きなポケモン5匹あげると趣味がわかる,12.750
+16:41,6,แปลรัก2EP2,124.333
+16:41,7,金本知憲,
+16:41,8,メジロマックイーン,24.212
+16:41,9,iKON,932.899
+16:41,10,더보이즈,2.821.783
+17:10,1,스트레이키즈_승자의_함성,401.781
+17:10,2,STAYWeDidIt,386.594
+17:10,3,StrayKids_The_Final_King,400.989
+17:10,4,WE HOWL IN VICTORY,297.319
+17:10,5,好きなポケモン5匹あげると趣味がわかる,14.252
+17:10,6,すとぷり5周年,68.253
+17:10,7,金本知憲,10.772
+17:10,8,メジロマックイーン,26.170
+17:10,9,iKON,979.987
+17:10,10,더보이즈,2.790.855
+17:41,1,스트레이키즈_승자의_함성,444.480
+17:41,2,STAYWeDidIt,386.594
+17:41,3,StrayKids_The_Final_King,444.679
+17:41,4,すとぷり5周年,133.895
+17:41,5,好きなポケモン5匹あげると趣味がわかる,14.252
+17:41,6,WE HOWL IN VICTORY,357.204
+17:41,7,金本知憲,11.493
+17:41,8,メジロマックイーン,28.017
+17:41,9,iKON,1.026.367
+17:41,10,D3 TO EXO COMEBACK,245.486
+18:10,1,9Hot100ProducerRM,82.395
+18:10,2,ButterCelebrationParty,161.002
+18:10,3,STAYWeDidIt,469.335
+18:10,4,스트레이키즈_승자의_함성,473.758
+18:10,5,StrayKids_The_Final_King,474.400
+18:10,6,Black Swan,209.917
+18:10,7,WE HOWL IN VICTORY,376.152
+18:10,8,金本知憲,12.044
+18:10,9,メジロマックイーン,29.160
+18:10,10,D3 TO EXO COMEBACK,322.093
+18:41,1,ButterCelebrationParty,222.019
+18:41,2,9Hot100ProducerRM,121.186
+18:41,3,8YearsWithOurMoonJin,62.441
+18:41,4,StrayKids_The_Final_King,521.742
+18:41,5,스트레이키즈_승자의_함성,514.411
+18:41,6,Black Swan,240.986
+18:41,7,WE HOWL IN VICTORY,385.388
+18:41,8,金本知憲,12.461
+18:41,9,メジロマックイーン,30.296
+18:41,10,D3 TO EXO COMEBACK,349.465
+19:10,1,ButterCelebrationParty,249.528
+19:10,2,9Hot100ProducerRM,137.847
+19:10,3,8YearsWithOurMoonJin,72.300
+19:10,4,PitMad,256.218
+19:10,5,StrayKids_The_Final_King,521.078
+19:10,6,Black Swan,225.419
+19:10,7,WE HOWL IN VICTORY,390.464
+19:10,8,金本知憲,12.712
+19:10,9,Juliana Paes,75.067
+19:10,10,メジロマックイーン,30.836
+19:41,1,ButterCelebrationParty,269.386
+19:41,2,9Hot100ProducerRM,150.492
+19:41,3,8YearsWithOurMoonJin,105.979
+19:41,4,PitMad,310.149
+19:41,5,8YearsWithJin,68.503
+19:41,6,Black Swan,265.819
+19:41,7,KamudışıAsç SorunuBüyüyor,
+19:41,8,Juliana Paes,81.093
+19:41,9,WE HOWL IN VICTORY,394.143
+19:41,10,金本知憲,12.936
+20:10,1,ButterCelebrationParty,260.674
+20:10,2,9Hot100ProducerRM,154.415
+20:10,3,8YearsWithOurMoonJin,115.336
+20:10,4,PitMad,296.749
+20:10,5,8YearsWithJin,73.445
+20:10,6,Gençleriçin BedelliAffı,
+20:10,7,Abiye SelamOlsun,
+20:10,8,STREAM ONLY THE BRAVE,45.116
+20:10,9,Juliana Paes,83.584
+20:10,10,Black Swan,273.237
+20:41,1,ButterCelebrationParty,296.028
+20:41,2,8YearsWithOurMoonJin,122.696
+20:41,3,9Hot100ProducerRM,163.220
+20:41,4,PitMad,350.245
+20:41,5,STREAM ONLY THE BRAVE,77.590
+20:41,6,8YearsWithJin,76.816
+20:41,7,Juliana Paes,90.375
+20:41,8,Faşist Bunak,
+20:41,9,Gençleriçin BedelliAffı,
+20:41,10,Abiye SelamOlsun,
+21:10,1,ButterCelebrationParty,307.553
+21:10,2,8YearsWithOurMoonJin,128.496
+21:10,3,الكويت_استراليا,
+21:10,4,9Hot100ProducerRM,166.392
+21:10,5,BenimBisikletim,
+21:10,6,STREAM ONLY THE BRAVE,93.751
+21:10,7,YapıKayıt İadeEdilsin,
+21:10,8,TopluKatliam Hazırlığı,
+21:10,9,Juliana Paes,93.312
+21:10,10,James Madison,
+21:41,1,ButterCelebrationParty,323.066
+21:41,2,الكويت_استراليا,13.199
+21:41,3,BenimBisikletim,
+21:41,4,8YearsWithOurMoonJin,133.354
+21:41,5,NEDGER,
+21:41,6,STREAM ONLY THE BRAVE,104.988
+21:41,7,YapıKayıt İadeEdilsin,
+21:41,8,Juliana Paes,99.031
+21:41,9,TopluKatliam Hazırlığı,
+21:41,10,NYSC DG,
+22:10,1,الكويت_استراليا,18.312
+22:10,2,ButterCelebrationParty,337.439
+22:10,3,BenimBisikletim,11.987
+22:10,4,NEDGER,
+22:10,5,8YearsWithOurMoonJin,138.353
+22:10,6,STREAM ONLY THE BRAVE,104.988
+22:10,7,Gasquet,
+22:10,8,MehdiyiTanıtan Hadisler,
+22:10,9,Exército,28.133
+22:10,10,NYSC DG,
+22:41,1,الكويت_استراليا,21.201
+22:41,2,BenimBisikletim,14.301
+22:41,3,ButterCelebrationParty,344.985
+22:41,4,NEDGER,
+22:41,5,bluetherapy,
+22:41,6,Exército,45.445
+22:41,7,Gasquet,
+22:41,8,STREAM ONLY THE BRAVE,112.712
+22:41,9,Bolivia,34.714
+22:41,10,NYSC DG,16.941
+23:10,1,MutluYaşlarKeremBürsin,90.104
+23:10,2,الكويت_استراليا,23.127
+23:10,3,BenimBisikletim,16.174
+23:10,4,NEDGER,
+23:10,5,bluetherapy,
+23:10,6,Exército,54.642
+23:10,7,Bolivia,37.002
+23:10,8,Gasquet,10.850
+23:10,9,NYSC DG,20.022
+23:10,10,STREAM ONLY THE BRAVE,113.961
+23:41,1,MutluYaşlarKeremBürsin,187.437
+23:41,2,BenimBisikletim,17.835
+23:41,3,الكويت_استراليا,24.422
+23:41,4,SVGala9,11.491
+23:41,5,bluetherapy,
+23:41,6,Exército,64.744
+23:41,7,Bolivia,40.052
+23:41,8,Gasquet,13.201
+23:41,9,NYSC DG,23.290
+23:41,10,Ludmilla,16.669

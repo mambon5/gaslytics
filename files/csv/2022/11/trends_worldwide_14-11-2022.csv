@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Vikings,192.490
+00:10,2,Vikings,192.490
+00:10,3,Ronaldo,336.846
+00:10,4,Justin Jefferson,87.623
+00:10,5,Josh Allen,60.631
+00:10,6,SKOL,34.082
+00:10,7,Checo,183.035
+00:10,8,ImACeleb,39.428
+00:10,9,Cowboys,43.374
+00:10,10,Packers,46.362
+00:40,1,Ronaldo,406.387
+00:40,2,Vikings,199.068
+00:40,3,Bills,200.473
+00:40,4,Justin Jefferson,90.284
+00:40,5,Josh Allen,62.792
+00:40,6,SKOL,35.845
+00:40,7,Amari Rodgers,
+00:40,8,Checo,190.366
+00:40,9,Cowboys,46.851
+00:40,10,Packers,51.559
+01:10,1,Ronaldo,451.855
+01:10,2,Vikings,203.330
+01:10,3,Bills,202.132
+01:10,4,Justin Jefferson,92.248
+01:10,5,Josh Allen,63.720
+01:10,6,SKOL,37.134
+01:10,7,Raiders,42.766
+01:10,8,Amari Rodgers,
+01:10,9,Packers,56.692
+01:10,10,ARMY WORLD CUP,218.800
+01:40,1,Ronaldo,485.153
+01:40,2,Vikings,207.354
+01:40,3,Raiders,62.461
+01:40,4,Bills,205.336
+01:40,5,Cowboys,57.312
+01:40,6,Packers,64.410
+01:40,7,Jeff Saturday,22.899
+01:40,8,ARMY WORLD CUP,263.846
+01:40,9,Christian Watson,10.943
+01:40,10,Josh McDaniels,10.228
+02:10,1,Cowboys,82.446
+02:10,2,Packers,85.743
+02:10,3,Ronaldo,508.163
+02:10,4,GoPackGo,23.609
+02:10,5,Vikings,210.621
+02:10,6,Raiders,67.921
+02:10,7,Aaron Rodgers,15.936
+02:10,8,Bills,206.391
+02:10,9,Green Bay,17.246
+02:10,10,Mike McCarthy,
+02:40,1,Cowboys,91.938
+02:40,2,Packers,94.992
+02:40,3,Ronaldo,528.192
+02:40,4,GoPackGo,26.649
+02:40,5,Aucas,28.775
+02:40,6,Raiders,72.909
+02:40,7,Vikings,213.991
+02:40,8,Aaron Rodgers,18.030
+02:40,9,RHOP,
+02:40,10,Green Bay,18.626
+03:10,1,Cowboys,96.539
+03:10,2,Packers,98.975
+03:10,3,GranHernano,27.888
+03:10,4,Ronaldo,544.728
+03:10,5,RHOP,14.945
+03:10,6,Aucas,33.740
+03:10,7,GoPackGo,27.782
+03:10,8,Frodo,35.447
+03:10,9,Nacho,47.233
+03:10,10,Fantastico,10.481
+03:40,1,Cowboys,100.213
+03:40,2,GH2022,172.393
+03:40,3,GranHermano,111.661
+03:40,4,Daniela,44.927
+03:40,5,Packers,102.038
+03:40,6,Alfa,75.243
+03:40,7,Ronaldo,560.062
+03:40,8,Aucas,37.476
+03:40,9,RHOP,16.675
+03:40,10,Nacho,54.251
+04:10,1,GranHernano,81.469
+04:10,2,GH22,159.766
+04:10,3,GH2022,205.284
+04:10,4,Tora,135.519
+04:10,5,Alfa,97.494
+04:10,6,Cowboys,102.164
+04:10,7,Nacho,60.590
+04:10,8,Daniela,46.003
+04:10,9,Packers,104.030
+04:10,10,Embiid,22.751
+04:40,1,GranHermano,163.755
+04:40,2,GH22,173.356
+04:40,3,GH2022,221.676
+04:40,4,Tora,166.157
+04:40,5,Alfa,109.530
+04:40,6,Cowboys,103.741
+04:40,7,Nacho,64.148
+04:40,8,Embiid,34.684
+04:40,9,Daniela,47.747
+04:40,10,Packers,105.863
+05:10,1,GranHermano,170.051
+05:10,2,GH2022,224.820
+05:10,3,GH22,175.660
+05:10,4,Tora,179.039
+05:10,5,Alfa,112.783
+05:10,6,Cowboys,103.972
+05:10,7,Nacho,64.793
+05:10,8,Embiid,38.682
+05:10,9,Daniela,47.396
+05:10,10,RHOP,20.548
+05:40,1,GranHermano,176.741
+05:40,2,GH2022,232.890
+05:40,3,GH22,181.968
+05:40,4,Tora,187.747
+05:40,5,Alfa,116.734
+05:40,6,Chargers,38.168
+05:40,7,ChildrensDay,16.225
+05:40,8,Cowboys,105.564
+05:40,9,Herbert,47.929
+05:40,10,Embiid,41.310
+06:10,1,GranHermano,177.845
+06:10,2,ChildrensDay,20.388
+06:10,3,GH22,181.892
+06:10,4,GH2022,232.924
+06:10,5,Tora,190.746
+06:10,6,Alfa,116.623
+06:10,7,Chargers,40.068
+06:10,8,Herbert,49.055
+06:10,9,Cowboys,106.174
+06:10,10,49ers,43.593
+06:40,1,ChildrensDay,25.883
+06:40,2,GranHermano,180.639
+06:40,3,GH22,185.035
+06:40,4,Tora,193.689
+06:40,5,GH2022,237.013
+06:40,6,MasterChefCelebritymx,
+06:40,7,Alfa,118.156
+06:40,8,Chargers,41.352
+06:40,9,Herbert,50.486
+06:40,10,Ronaldo,662.415
+07:10,1,ChildrensDay,31.054
+07:10,2,GranHernano,103.425
+07:10,3,Tora,194.445
+07:10,4,MasterChefCelebritymx,
+07:10,5,GH22,185.489
+07:10,6,UygunFiyatlı TTWhatsappta,
+07:10,7,Ronaldo,681.334
+07:10,8,GH2022,235.602
+07:10,9,Chargers,41.854
+07:10,10,Alfa,118.251
+07:40,1,ChildrensDay,36.034
+07:40,2,Ronaldo,708.280
+07:40,3,UygunFiyatlı TTWhatsappta,
+07:40,4,MasterChefCelebritymx,
+07:40,5,GranHermano,182.497
+07:40,6,JawaharlalNehru,12.481
+07:40,7,Tora,195.120
+07:40,8,GH22,187.477
+07:40,9,Chargers,42.357
+07:40,10,YOONMIN,19.518
+08:10,1,ChildrensDay,40.881
+08:10,2,Ronaldo,740.782
+08:10,3,Taksim,427.393
+08:10,4,UygunFiyatlı TTWhatsappta,
+08:10,5,JawaharlalNehru,13.761
+08:10,6,あなたのゲーマータイプ,
+08:10,7,MasterChefCelebritymx,10.062
+08:10,8,YOONMIN,23.354
+08:10,9,Tora,196.386
+08:10,10,Chargers,42.582
+08:40,1,ChildrensDay,45.045
+08:40,2,Ronaldo,769.094
+08:40,3,Taksim,453.065
+08:40,4,KebangkitanDesa,
+08:40,5,あなたのゲーマータイプ,
+08:40,6,JawaharlalNehru,14.958
+08:40,7,YOONMIN,25.799
+08:40,8,Allah'tan,114.065
+08:40,9,ゴールデングラブ賞,23.636
+08:40,10,UygunFiyatlı TTWhatsappta,
+09:10,1,ChildrensDay,48.829
+09:10,2,Ronaldo,795.096
+09:10,3,KebangkitanDesa,15.432
+09:10,4,Taksim,450.863
+09:10,5,MondayMotivation,12.077
+09:10,6,あなたのゲーマータイプ,
+09:10,7,Allah'tan,118.811
+09:10,8,Rooney,77.858
+09:10,9,Başınız,
+09:10,10,ゴールデングラブ賞,26.153
+09:40,1,異常震域,29.306
+09:40,2,三重県沖,66.292
+09:40,3,Ronaldo,841.249
+09:40,4,KebangkitanDesa,28.480
+09:40,5,ChildrensDay,52.249
+09:40,6,三重県南東沖,59.661
+09:40,7,CHEN_사라지고있어_LastScene,51.269
+09:40,8,taksimpatlama,13.131
+09:40,9,믿고듣는_보컬리스트_킹갓첸,
+09:40,10,地震大丈夫,
+10:10,1,異常震域,37.342
+10:10,2,Ronaldo,877.892
+10:10,3,CHEN_사라지고있어_LastScene,77.928
+10:10,4,KebangkitanDesa,38.622
+10:10,5,三重県沖,75.654
+10:10,6,taksimpatlama,16.182
+10:10,7,믿고듣는_보컬리스트_킹갓첸,22.994
+10:10,8,ChildrensDay,56.014
+10:10,9,三重県南東沖,68.154
+10:10,10,LAST SCENE OUT NOW,23.484
+10:40,1,CHEN_사라지고있어_LastScene,126.096
+10:40,2,異常震域,42.319
+10:40,3,믿고듣는_보컬리스트_킹갓첸,40.235
+10:40,4,Ronaldo,897.089
+10:40,5,KebangkitanDesa,46.078
+10:40,6,taksimpatlama,19.119
+10:40,7,三重県沖,80.390
+10:40,8,ChildrensDay,59.541
+10:40,9,三重県南東沖,72.053
+10:40,10,jongdae,44.186
+11:10,1,CHEN_사라지고있어_LastScene,148.289
+11:10,2,異常震域,46.482
+11:10,3,믿고듣는_보컬리스트_킹갓첸,48.772
+11:10,4,Ronaldo,930.309
+11:10,5,taksimpatlama,22.265
+11:10,6,KebangkitanDesa,52.186
+11:10,7,あなたのゲーマータイプ,
+11:10,8,三重県沖,83.949
+11:10,9,三重県南東沖,75.141
+11:10,10,jongdae,49.856
+11:40,1,CHEN_사라지고있어_LastScene,164.535
+11:40,2,異常震域,49.462
+11:40,3,Ronaldo,962.056
+11:40,4,taksimpatlama,25.409
+11:40,5,믿고듣는_보컬리스트_킹갓첸,54.150
+11:40,6,KebangkitanDesa,56.976
+11:40,7,あなたのゲーマータイプ,
+11:40,8,三重県沖,86.220
+11:40,9,Suriyeli,17.162
+11:40,10,三重県南東沖,77.052
+12:10,1,CHEN_사라지고있어_LastScene,175.662
+12:10,2,異常震域,51.793
+12:10,3,taksimpatlama,28.265
+12:10,4,Ronaldo,983.798
+12:10,5,믿고듣는_보컬리스트_킹갓첸,57.765
+12:10,6,KebangkitanDesa,60.086
+12:10,7,あなたのゲーマータイプ,10.217
+12:10,8,Suriyeli,19.328
+12:10,9,三重県沖,87.884
+12:10,10,Vicky Phelan,
+12:40,1,taksimpatlama,31.282
+12:40,2,CHEN_사라지고있어_LastScene,185.897
+12:40,3,Ronaldo,1.012.758
+12:40,4,異常震域,53.664
+12:40,5,あなたのゲーマータイプ,11.417
+12:40,6,Qさま,
+12:40,7,믿고듣는_보컬리스트_킹갓첸,60.786
+12:40,8,Vicky Phelan,
+12:40,9,Suriyeli,21.471
+12:40,10,三重県沖,89.351
+13:10,1,taksimpatlama,33.564
+13:10,2,CHEN_사라지고있어_LastScene,194.683
+13:10,3,Ronaldo,1.035.511
+13:10,4,Qさま,
+13:10,5,あなたのゲーマータイプ,12.533
+13:10,6,異常震域,55.252
+13:10,7,あなたをポケモン化する,
+13:10,8,Vicky Phelan,
+13:10,9,Suriyeli,23.076
+13:10,10,Otto Addo,
+13:40,1,taksimpatlama,35.857
+13:40,2,あなたのゲーマータイプ,13.552
+13:40,3,Ronaldo,1.062.902
+13:40,4,Qさま,10.685
+13:40,5,CHEN_사라지고있어_LastScene,202.891
+13:40,6,しゃべくり007,
+13:40,7,異常震域,56.654
+13:40,8,Vicky Phelan,
+13:40,9,ZIGGY,
+13:40,10,Otto Addo,
+14:10,1,PICU,13.380
+14:10,2,taksimpatlama,38.071
+14:10,3,あなたのゲーマータイプ,14.529
+14:10,4,Ronaldo,1.084.798
+14:10,5,しゃべくり007,
+14:10,6,あなたをポケモン化する,
+14:10,7,異常震域,58.027
+14:10,8,Vicky Phelan,
+14:10,9,ZIGGY,
+14:10,10,Otto Addo,
+14:40,1,PICU,14.460
+14:40,2,エルピス,10.946
+14:40,3,このツイート見た人は好きな天ぷら呟く,
+14:40,4,束の間の一花,16.366
+14:40,5,あなたのゲーマータイプ,17.266
+14:40,6,緊急地震速報,35.247
+14:40,7,Ronaldo,1.109.339
+14:40,8,異常震域,59.137
+14:40,9,Vicky Phelan,
+14:40,10,おつねぽらぼ,
+15:10,1,คุณชายEP13,43.823
+15:10,2,エルピス,19.427
+15:10,3,このツイート見た人は好きな天ぷら呟く,
+15:10,4,PICU,15.149
+15:10,5,緊急地震速報,36.832
+15:10,6,束の間の一花,17.690
+15:10,7,Ronaldo,1.129.341
+15:10,8,Randy Pangalila Meresahkan,
+15:10,9,異常震域,60.037
+15:10,10,Deloitte,23.025
+15:40,1,ビッグラン,
+15:40,2,คุณชายEP13,82.699
+15:40,3,エルピス,21.821
+15:40,4,Xマッチ,
+15:40,5,EnchantedToMeetJAKE,15.024
+15:40,6,このツイート見た人は好きな天ぷら呟く,
+15:40,7,Chill Season,44.709
+15:40,8,SCTVAwards2022,
+15:40,9,スプラトゥーン3 2022冬,18.440
+15:40,10,緊急地震速報,37.319
+16:10,1,EnchantedToMeetJAKE,73.225
+16:10,2,ビッグラン,
+16:10,3,คุณชายEP13,127.055
+16:10,4,Xマッチ,
+16:10,5,エルピス,23.041
+16:10,6,nadiedicenada,
+16:10,7,このツイート見た人は好きな天ぷら呟く,
+16:10,8,Chill Season,58.830
+16:10,9,スシコラ,
+16:10,10,S+10,353.195
+16:40,1,EnchantedToMeetJAKE,119.530
+16:40,2,ビッグラン,
+16:40,3,คุณชายEP13,158.488
+16:40,4,Xマッチ,
+16:40,5,BLEACH_anime,16.745
+16:40,6,エルピス,23.816
+16:40,7,nadiedicenada,
+16:40,8,S+10,351.211
+16:40,9,RV BIRTHDAY MOOD SAMPLER,11.031
+16:40,10,Chill Season,66.160
+17:10,1,EnchantedToMeetJAKE,137.409
+17:10,2,ビッグラン,
+17:10,3,BLEACH_anime,22.193
+17:10,4,คุณชายEP13,171.646
+17:10,5,Xマッチ,
+17:10,6,エルピス,24.414
+17:10,7,BilenKazanır SanaAşığım,
+17:10,8,このツイート見た人は好きな天ぷら呟く,
+17:10,9,残火の太刀,
+17:10,10,S+10,338.306
+17:40,1,EnchantedToMeetJAKE,147.107
+17:40,2,ビッグラン,
+17:40,3,BLEACH_anime,24.325
+17:40,4,คุณชายEP13,179.725
+17:40,5,Xマッチ,
+17:40,6,BilenKazanır SanaAşığım,
+17:40,7,エルピス,24.883
+17:40,8,このツイート見た人は好きな天ぷら呟く,
+17:40,9,University of Virginia,36.470
+17:40,10,S+10,339.910
+18:10,1,EnchantedToMeetJAKE,153.297
+18:10,2,ビッグラン,
+18:10,3,BLEACH_anime,25.682
+18:10,4,คุณชายEP13,186.055
+18:10,5,BilenKazanır SanaAşığım,
+18:10,6,Xマッチ,
+18:10,7,MahmutÖzerİstifa,
+18:10,8,University of Virginia,42.485
+18:10,9,AskSonic,
+18:10,10,S+10,277.386
+18:40,1,EnchantedToMeetJAKE,157.433
+18:40,2,TheGameAwards,13.206
+18:40,3,AskSonic,
+18:40,4,Stray,134.279
+18:40,5,BLEACH_anime,26.934
+18:40,6,ビッグラン,
+18:40,7,MahmutÖzerİstifa,
+18:40,8,GOTY,12.812
+18:40,9,University of Virginia,47.552
+18:40,10,BilenKazanır SanaAşığım,
+19:10,1,EnchantedToMeetJAKE,160.515
+19:10,2,TheGameAwards,19.304
+19:10,3,AskSonic,
+19:10,4,Stray,133.281
+19:10,5,GOTY,14.890
+19:10,6,CteSağlık MemuruYıprandı,
+19:10,7,Elden Ring,26.417
+19:10,8,MahmutÖzerİstifa,
+19:10,9,BLEACH_anime,28.197
+19:10,10,University of Virginia,51.830
+19:40,1,TheGameAwards,24.020
+19:40,2,AskSonic,
+19:40,3,EnchantedToMeetJAKE,162.953
+19:40,4,Stray,137.568
+19:40,5,GOTY,16.939
+19:40,6,Elden Ring,29.795
+19:40,7,Milli İstihbarat Teşkilatı,
+19:40,8,CteSağlık MemuruYıprandı,
+19:40,9,MahmutÖzerİstifa,
+19:40,10,University of Virginia,55.219
+20:10,1,AskSonic,10.004
+20:10,2,TheGameAwards,27.583
+20:10,3,Stray,136.870
+20:10,4,GOTY,18.571
+20:10,5,EnchantedToMeetJAKE,165.193
+20:10,6,Elden Ring,31.763
+20:10,7,Milli İstihbarat Teşkilatı,
+20:10,8,Tunahan HaticeyiSeviyor,
+20:10,9,TheErasTour,
+20:10,10,CteSağlık MemuruYıprandı,
+20:40,1,AskSonic,11.335
+20:40,2,TheGameAwards,30.644
+20:40,3,Stray,140.382
+20:40,4,GOTY,20.241
+20:40,5,Elden Ring,34.462
+20:40,6,TPMP,29.487
+20:40,7,EnchantedToMeetJAKE,167.000
+20:40,8,Soludo,39.396
+20:40,9,TheErasTour,
+20:40,10,Pete Davidson,
+21:10,1,AskSonic,12.400
+21:10,2,TheGameAwards,33.095
+21:10,3,Stray,139.998
+21:10,4,TPMP,36.004
+21:10,5,GOTY,21.384
+21:10,6,Elden Ring,35.811
+21:10,7,DOTA2,12.415
+21:10,8,Soludo,48.520
+21:10,9,Pete Davidson,11.847
+21:10,10,EnchantedToMeetJAKE,168.866
+21:40,1,AskSonic,22.009
+21:40,2,TheGameAwards,36.022
+21:40,3,TPMP,43.765
+21:40,4,Stray,143.200
+21:40,5,GOTY,22.888
+21:40,6,AppleMusicLive,36.176
+21:40,7,Elden Ring,38.028
+21:40,8,Soludo,58.763
+21:40,9,Pete Davidson,14.616
+21:40,10,DOTA2,16.784
+22:10,1,AskSonic,27.212
+22:10,2,AppleMusicLive,61.676
+22:10,3,Stray,142.744
+22:10,4,TheGameAwards,38.598
+22:10,5,TPMP,48.402
+22:10,6,GOTY,23.588
+22:10,7,Elden Ring,39.092
+22:10,8,Soludo,68.454
+22:10,9,Pete Davidson,17.617
+22:10,10,TousInconnus,
+22:40,1,AskSonic,30.490
+22:40,2,AppleMusicLive,88.353
+22:40,3,Stray,146.345
+22:40,4,TheGameAwards,40.829
+22:40,5,Soludo,78.073
+22:40,6,GOTY,24.801
+22:40,7,TousInconnus,
+22:40,8,Elden Ring,41.029
+22:40,9,TPMP,53.348
+22:40,10,Pete Davidson,20.844
+23:10,1,AskSonic,32.820
+23:10,2,AppleMusicLive,104.632
+23:10,3,gfvip,68.002
+23:10,4,ImACelebrity,
+23:10,5,Stray,144.224
+23:10,6,Soludo,86.146
+23:10,7,TheGameAwards,42.514
+23:10,8,Pete Davidson,24.389
+23:10,9,GOTY,25.546
+23:10,10,Elden Ring,41.868
+23:40,1,AskSonic,35.670
+23:40,2,gfvip,77.556
+23:40,3,AppleMusicLive,115.576
+23:40,4,Pete Davidson,28.222
+23:40,5,ImACelebrity,
+23:40,6,朝こよ,
+23:40,7,Stray,148.187
+23:40,8,Soludo,93.502
+23:40,9,Elden Ring,43.678
+23:40,10,GOTY,26.595

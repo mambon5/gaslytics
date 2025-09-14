@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Milton Gonçalves,35.747
+00:10,2,jungkook,705.258
+00:10,3,MemorialDay,247.386
+00:10,4,ŞakirÇakırTutuklansın,13.521
+00:10,5,Maria Alice,
+00:10,6,COAC2022S4,
+00:10,7,الوداد,67.509
+00:10,8,MasterChef10,
+00:10,9,Cilic,10.044
+00:10,10,Al Ahly,16.568
+00:40,1,Milton Gonçalves,37.764
+00:40,2,isola,15.425
+00:40,3,jungkook,721.474
+00:40,4,ŞakirÇakırTutuklansın,14.803
+00:40,5,Memorial Day,481.299
+00:40,6,Maria Alice,10.921
+00:40,7,COAC2022S4,
+00:40,8,الوداد,70.114
+00:40,9,MasterChef10,
+00:40,10,Cilic,10.557
+01:10,1,isola,17.112
+01:10,2,ŞakirÇakırTutuklansın,15.555
+01:10,3,Milton Gonçalves,39.314
+01:10,4,Maria Alice,11.641
+01:10,5,jungkook,727.005
+01:10,6,Memorial Day,485.903
+01:10,7,COAC2022S4,
+01:10,8,MasterChef10,
+01:10,9,julietteresponde,10.872
+01:10,10,الوداد,71.007
+01:40,1,isola,17.754
+01:40,2,CaraECoragem,
+01:40,3,julietteresponde,15.190
+01:40,4,ŞakirÇakırTutuklansın,16.080
+01:40,5,Maria Alice,12.406
+01:40,6,Milton Gonçalves,40.587
+01:40,7,Memorial Day,499.216
+01:40,8,jungkook,746.339
+01:40,9,COAC2022S4,
+01:40,10,الوداد,72.819
+02:10,1,CaraECoragem,10.342
+02:10,2,isola,17.985
+02:10,3,julietteresponde,15.212
+02:10,4,Maria Alice,12.986
+02:10,5,ŞakirÇakırTutuklansın,16.514
+02:10,6,Milton Gonçalves,41.716
+02:10,7,COAC2022S4,
+02:10,8,Memorial Day,503.188
+02:10,9,jungkook,753.122
+02:10,10,الوداد,73.638
+02:40,1,CaraECoragem,10.641
+02:40,2,isola,18.094
+02:40,3,julietteresponde,15.276
+02:40,4,Maria Alice,13.846
+02:40,5,ŞakirÇakırTutuklansın,16.875
+02:40,6,5SOS5,
+02:40,7,Milton Gonçalves,43.475
+02:40,8,Memorial Day,505.332
+02:40,9,jungkook,765.658
+02:40,10,Virgínia,37.215
+03:10,1,CaraECoragem,10.873
+03:10,2,isola,18.196
+03:10,3,julietteresponde,15.306
+03:10,4,Maria Alice,14.551
+03:10,5,5SOS5,
+03:10,6,ŞakirÇakırTutuklansın,17.130
+03:10,7,Milton Gonçalves,45.022
+03:10,8,Memorial Day,517.760
+03:10,9,jungkook,777.798
+03:10,10,Virgínia,36.951
+03:40,1,CaraECoragem,11.041
+03:40,2,julietteresponde,15.294
+03:40,3,Churin,
+03:40,4,Maria Alice,15.413
+03:40,5,isola,18.242
+03:40,6,5SOS5,
+03:40,7,BobbyBrownBio,
+03:40,8,Milton Gonçalves,46.391
+03:40,9,Memorial Day,528.078
+03:40,10,Virgínia,38.163
+04:10,1,CaraECoragem,11.146
+04:10,2,Churin,
+04:10,3,julietteresponde,15.328
+04:10,4,BobbyBrownBio,
+04:10,5,Maria Alice,16.046
+04:10,6,isola,18.317
+04:10,7,Milton Gonçalves,47.383
+04:10,8,UPCA2022,
+04:10,9,Memorial Day,531.138
+04:10,10,Virgínia,37.909
+04:40,1,15MHappyWithBright,123.766
+04:40,2,CaraECoragem,11.375
+04:40,3,BobbyBrownBio,
+04:40,4,Churin,
+04:40,5,Maria Alice,16.784
+04:40,6,UPCA2022,
+04:40,7,julietteresponde,15.357
+04:40,8,Lindgren,
+04:40,9,Milton Gonçalves,48.333
+04:40,10,Raanta,
+05:10,1,15MHappyWithBright,155.260
+05:10,2,CaraECoragem,11.465
+05:10,3,NoQuitInNY,13.521
+05:10,4,BobbyBrownBio,
+05:10,5,Churin,
+05:10,6,UPCA2022,
+05:10,7,Maria Alice,17.932
+05:10,8,Lindgren,
+05:10,9,Raanta,
+05:10,10,Kreider,
+05:40,1,15MHappyWithBright,175.077
+05:40,2,NoQuitInNY,14.944
+05:40,3,HomensPower,
+05:40,4,Canes,36.761
+05:40,5,BobbyBrownBio,
+05:40,6,UPCA2022,
+05:40,7,Churin,
+05:40,8,Trouba,
+05:40,9,Maria Alice,18.664
+05:40,10,Virgínia,43.518
+06:10,1,15MHappyWithBright,192.010
+06:10,2,NoQuitInNY,15.582
+06:10,3,WWERaw,42.976
+06:10,4,Canes,38.147
+06:10,5,HomensPower,
+06:10,6,Virgínia,43.683
+06:10,7,UPCA2022,
+06:10,8,Trouba,
+06:10,9,モルカー2期,
+06:10,10,Maria Alice,19.146
+06:40,1,15MHappyWithBright,206.589
+06:40,2,NoQuitInNY,16.068
+06:40,3,モルカー2期,
+06:40,4,WWERaw,43.891
+06:40,5,Canes,38.987
+06:40,6,Irma,36.298
+06:40,7,Virgínia,44.376
+06:40,8,HomensPower,
+06:40,9,UPCA2022,
+06:40,10,Trouba,
+07:10,1,15MHappyWithBright,218.634
+07:10,2,モルカー2期,
+07:10,3,NoQuitInNY,16.341
+07:10,4,WWERaw,44.727
+07:10,5,HDYLSoutnow,
+07:10,6,Canes,39.373
+07:10,7,Irma,36.030
+07:10,8,Virgínia,44.102
+07:10,9,UPCA2022,
+07:10,10,Trouba,
+07:40,1,モルカー2期,
+07:40,2,15MHappyWithBright,229.960
+07:40,3,HDYLSoutnow,
+07:40,4,NoQuitInNY,16.584
+07:40,5,WWERaw,45.581
+07:40,6,Irma,36.260
+07:40,7,WorldNoTobaccoDay,41.581
+07:40,8,Canes,39.750
+07:40,9,Virgínia,44.557
+07:40,10,xiao,71.731
+08:10,1,モルカー2期,
+08:10,2,15MHappyWithBright,239.432
+08:10,3,HDYLSoutnow,
+08:10,4,NoQuitInNY,16.671
+08:10,5,WorldNoTobaccoDay,45.197
+08:10,6,WWERaw,46.015
+08:10,7,Irma,36.068
+08:10,8,Canes,39.910
+08:10,9,xiao,71.815
+08:10,10,Virgínia,44.228
+08:40,1,モルカー2期,
+08:40,2,15MHappyWithBright,247.099
+08:40,3,WorldNoTobaccoDay,48.916
+08:40,4,HDYLSoutnow,
+08:40,5,WillbeBesideMEW,22.590
+08:40,6,NoQuitInNY,16.761
+08:40,7,xiao,73.877
+08:40,8,Irma,36.191
+08:40,9,Canes,40.095
+08:40,10,NO ME MARQUES PDO,
+09:10,1,モルカー2期,10.317
+09:10,2,WorldNoTobaccoDay,52.207
+09:10,3,15MHappyWithBright,254.543
+09:10,4,8YearsOfGaribKalyan,39.463
+09:10,5,ジャンプチ虹の呪いミッション,10.045
+09:10,6,HDYLSoutnow,
+09:10,7,xiao,73.818
+09:10,8,Irma,36.025
+09:10,9,Kimbrel,
+09:10,10,NO ME MARQUES PDO,
+09:40,1,WorldNoTobaccoDay,55.463
+09:40,2,モルカー2期,11.090
+09:40,3,Esenyurt,75.826
+09:40,4,8YearsOfGaribKalyan,49.692
+09:40,5,WillbeBesideMEW,27.816
+09:40,6,15MHappyWithBright,261.564
+09:40,7,xiao,76.103
+09:40,8,OLDCODEX,14.230
+09:40,9,Irma,36.134
+09:40,10,Yelan,108.762
+10:10,1,WorldNoTobaccoDay,58.157
+10:10,2,Esenyurt,78.214
+10:10,3,モルカー2期,12.024
+10:10,4,8YearsOfGaribKalyan,56.219
+10:10,5,ジャンプチ虹の呪いミッション,14.077
+10:10,6,RanbirKapoorInVizag,
+10:10,7,xiao,76.163
+10:10,8,OLDCODEX,15.149
+10:10,9,Yelan,109.469
+10:10,10,イェラン,18.552
+10:40,1,Esenyurt,80.826
+10:40,2,WorldNoTobaccoDay,60.694
+10:40,3,WillbeBesideMEW,36.028
+10:40,4,ジャンプチ虹の呪いミッション,16.062
+10:40,5,8YearsOfGaribKalyan,62.248
+10:40,6,モルカー2期,12.919
+10:40,7,Xiao,78.222
+10:40,8,OLDCODEX,16.185
+10:40,9,イェラン,19.421
+10:40,10,Yelan,112.732
+11:10,1,Esenyurt,83.414
+11:10,2,WorldNoTobaccoDay,63.659
+11:10,3,WillbeBesideMEW,39.559
+11:10,4,GakAdaMatinya,31.730
+11:10,5,ジャンプチ虹の呪いミッション,18.035
+11:10,6,モルカー2期,13.857
+11:10,7,Xiao,78.001
+11:10,8,FREEZE IS FOREVER,
+11:10,9,Yelan,113.116
+11:10,10,イェラン,20.134
+11:40,1,Esenyurt,86.765
+11:40,2,GakAdaMatinya,36.394
+11:40,3,WorldNoTobaccoDay,66.134
+11:40,4,WillbeBesideMEW,42.299
+11:40,5,ジャンプチ虹の呪いミッション,20.545
+11:40,6,モルカー2期,14.810
+11:40,7,FREEZE IS FOREVER,
+11:40,8,イェラン,21.000
+11:40,9,Xiao,80.053
+11:40,10,Yelan,116.208
+12:10,1,Esenyurt,89.113
+12:10,2,GakAdaMatinya,42.043
+12:10,3,WillbeBesideMEW,44.769
+12:10,4,WorldNoTobaccoDay,68.572
+12:10,5,FREEZE1stAnniversary,
+12:10,6,FREEZE IS FOREVER,
+12:10,7,SEVENTEEN WITH DINGO,11.167
+12:10,8,モルカー2期,15.911
+12:10,9,Coral Coin,
+12:10,10,イェラン,21.378
+12:40,1,Esenyurt,92.237
+12:40,2,GakAdaMatinya,46.185
+12:40,3,KillingVoiceOf_SEVENTEEN,12.886
+12:40,4,FREEZE1stAnniversary,
+12:40,5,Brahmastra,14.765
+12:40,6,FREEZE IS FOREVER,
+12:40,7,SEVENTEEN WITH DINGO,13.361
+12:40,8,アンドリース,
+12:40,9,モルカー2期,16.899
+12:40,10,プレステ世代,
+13:10,1,ミンサガリマスター,
+13:10,2,NEWS大集会2022,27.919
+13:10,3,Esenyurt,95.126
+13:10,4,GakAdaMatinya,50.813
+13:10,5,suriyeli,19.460
+13:10,6,アンドリース,
+13:10,7,SEVENTEEN WITH DINGO,14.584
+13:10,8,FREEZE IS FOREVER,
+13:10,9,Coral Coin,
+13:10,10,プレステ世代,
+13:40,1,NEWS大集会2022,36.072
+13:40,2,ミンサガリマスター,
+13:40,3,家事ヤロウ,14.522
+13:40,4,suriyeli,22.069
+13:40,5,Esenyurt,98.711
+13:40,6,アンドリース,
+13:40,7,プレステ世代,
+13:40,8,DONBELLE METRO TALKS,22.197
+13:40,9,SEVENTEEN WITH DINGO,14.953
+13:40,10,星イベ復刻,
+14:10,1,NEWS大集会2022,46.397
+14:10,2,ミンサガリマスター,
+14:10,3,ülkemdemülteciistemiyorum,
+14:10,4,家事ヤロウ,15.298
+14:10,5,suriyeli,23.541
+14:10,6,アンドリース,
+14:10,7,DONBELLE METRO TALKS,25.070
+14:10,8,THANKS FOR THE HEEGIFT,43.692
+14:10,9,プレステ世代,
+14:10,10,SEVENTEEN WITH DINGO,15.109
+14:40,1,NEWS大集会2022,52.032
+14:40,2,ülkemdemülteciistemiyorum,11.257
+14:40,3,DahaNelerGöreceğiz,10.249
+14:40,4,ミンサガリマスター,10.532
+14:40,5,家事ヤロウ,15.988
+14:40,6,THANKS FOR THE HEEGIFT,46.073
+14:40,7,DONBELLE METRO TALKS,25.824
+14:40,8,アンドリース,
+14:40,9,プレステ世代,
+14:40,10,SEVENTEEN WITH DINGO,15.234
+15:10,1,NEWS大集会2022,53.095
+15:10,2,ülkemdemülteciistemiyorum,12.886
+15:10,3,DahaNelerGöreceğiz,11.966
+15:10,4,ミンサガリマスター,11.891
+15:10,5,bebek,
+15:10,6,THANKS FOR THE HEEGIFT,47.182
+15:10,7,DONBELLE METRO TALKS,26.174
+15:10,8,プレステ世代,
+15:10,9,アンドリース,
+15:10,10,鬼おばさん,
+15:40,1,NEWS大集会2022,54.045
+15:40,2,ülkemdemülteciistemiyorum,13.969
+15:40,3,bebek,10.805
+15:40,4,DahaNelerGöreceğiz,13.271
+15:40,5,nhk_jsclub,21.438
+15:40,6,Moira,39.088
+15:40,7,たかほー,
+15:40,8,THANKS FOR THE HEEGIFT,47.991
+15:40,9,草野のアネキ,
+15:40,10,プレステ世代,
+16:10,1,cg_ootd,29.972
+16:10,2,bebek,13.871
+16:10,3,NEWS大集会2022,54.348
+16:10,4,nhk_jsclub,21.991
+16:10,5,ülkemdemülteciistemiyorum,14.671
+16:10,6,Moira,47.441
+16:10,7,たかほー,
+16:10,8,THANKS FOR THE HEEGIFT,48.610
+16:10,9,草野のアネキ,
+16:10,10,鬼おばさん,
+16:40,1,-,
+16:40,2,-,
+16:40,3,-,
+16:40,4,-,
+16:40,5,-,
+16:40,6,-,
+16:40,7,-,
+16:40,8,-,
+16:40,9,-,
+16:40,10,-,
+17:10,1,cg_ootd,34.178
+17:10,2,bebek,20.154
+17:10,3,Moira,59.638
+17:10,4,nhk_jsclub,22.415
+17:10,5,NEWS大集会2022,54.748
+17:10,6,ülkemdemülteciistemiyorum,16.022
+17:10,7,たかほー,
+17:10,8,こいほー,
+17:10,9,THANKS FOR THE HEEGIFT,49.333
+17:10,10,草野のアネキ,
+17:40,1,cg_ootd,34.867
+17:40,2,bebek,23.676
+17:40,3,Moira,64.004
+17:40,4,nhk_jsclub,22.492
+17:40,5,NEWS大集会2022,54.986
+17:40,6,ülkemdemülteciistemiyorum,16.691
+17:40,7,たかほー,
+17:40,8,こいほー,
+17:40,9,草野のアネキ,
+17:40,10,THANKS FOR THE HEEGIFT,49.528
+18:10,1,bebek,27.027
+18:10,2,cg_ootd,35.275
+18:10,3,Moira,67.456
+18:10,4,nhk_jsclub,22.513
+18:10,5,วอลเลย์บอลหญิง,62.025
+18:10,6,マツコの知らない世界,
+18:10,7,たかほー,
+18:10,8,こいほー,
+18:10,9,THANKS FOR THE HEEGIFT,49.664
+18:10,10,自力優勝消滅,
+18:40,1,bebek,30.611
+18:40,2,Moira,70.246
+18:40,3,cg_ootd,35.682
+18:40,4,วอลเลย์บอลหญิง,64.484
+18:40,5,nhk_jsclub,22.648
+18:40,6,マツコの知らない世界,
+18:40,7,たかほー,
+18:40,8,こいほー,
+18:40,9,LALISA ROMANA,104.497
+18:40,10,THANKS FOR THE HEEGIFT,49.846
+19:10,1,bebek,34.425
+19:10,2,Moira,72.279
+19:10,3,cg_ootd,35.853
+19:10,4,วอลเลย์บอลหญิง,66.321
+19:10,5,nhk_jsclub,22.673
+19:10,6,マツコの知らない世界,
+19:10,7,LALISA ROMANA,109.890
+19:10,8,たかほー,
+19:10,9,DOOR CONCEPT PHOTO 2,157.190
+19:10,10,こいほー,
+19:40,1,bebek,37.411
+19:40,2,Moira,73.685
+19:40,3,cg_ootd,35.995
+19:40,4,HAPPYHIROTODAY,66.839
+19:40,5,西洸人ニコニコバースデー,61.158
+19:40,6,วอลเลย์บอลหญิง,67.461
+19:40,7,LALISA ROMANA,114.625
+19:40,8,DOOR CONCEPT PHOTO 2,158.167
+19:40,9,たかほー,
+19:40,10,自力優勝消滅,
+20:10,1,bebek,40.671
+20:10,2,HAPPYHIROTODAY,67.425
+20:10,3,西洸人ニコニコバースデー,61.710
+20:10,4,Moira,74.717
+20:10,5,cg_ootd,36.080
+20:10,6,วอลเลย์บอลหญิง,68.314
+20:10,7,DOOR CONCEPT PHOTO 2,158.672
+20:10,8,SKZ YOUR EYES OUT NOW,69.864
+20:10,9,LALISA ROMANA,117.176
+20:10,10,AESPA IS BACK,100.150
+20:40,1,BTSatTheWhiteHouse,188.245
+20:40,2,SalarioRosa,100.634
+20:40,3,RIPKK,
+20:40,4,WE ARE PROUD OF YOU BTS,125.269
+20:40,5,Om Shanti,14.426
+20:40,6,Singer KK,15.424
+20:40,7,CityofCulture2025,
+20:40,8,Bradford2025,
+20:40,9,Zverev,34.176
+20:40,10,Kolkata,12.313
+21:10,1,BTSatTheWhiteHouse,445.176
+21:10,2,SalarioRosa,117.050
+21:10,3,RIPKK,16.251
+21:10,4,BTS FIGHTING,55.000
+21:10,5,WE ARE PROUD OF YOU BTS,150.145
+21:10,6,Om Shanti,23.633
+21:10,7,namjoon,175.990
+21:10,8,Bradford,
+21:10,9,CityofCulture2025,
+21:10,10,RolandGarros,55.570
+21:40,1,BTSatTheWhiteHouse,590.579
+21:40,2,SalarioRosa,130.736
+21:40,3,RIPKK,25.266
+21:40,4,BTS FIGHTING,69.355
+21:40,5,Nadal,61.416
+21:40,6,WE ARE PROUD OF YOU BTS,161.861
+21:40,7,RolandGarros,62.284
+21:40,8,namjoon,205.803
+21:40,9,Om Shanti,28.762
+21:40,10,Bradford,12.072
+22:10,1,BTSatTheWhiteHouse,667.970
+22:10,2,SalarioRosa,140.719
+22:10,3,RIPKK,31.258
+22:10,4,Nadal,74.288
+22:10,5,RolandGarros,66.242
+22:10,6,BTS FIGHTING,75.599
+22:10,7,WE ARE PROUD OF YOU BTS,168.751
+22:10,8,Bradford,13.391
+22:10,9,namjoon,222.147
+22:10,10,KohLanta,
+22:40,1,BTSatTheWhiteHouse,715.058
+22:40,2,SalarioRosa,148.529
+22:40,3,Nadal,97.161
+22:40,4,RIPKK,35.199
+22:40,5,RolandGarros,74.738
+22:40,6,KohLanta,
+22:40,7,Bradford,14.707
+22:40,8,WE ARE PROUD OF YOU BTS,173.177
+22:40,9,BTS FIGHTING,79.090
+22:40,10,namjoon,235.247
+23:10,1,BTSatTheWhiteHouse,748.284
+23:10,2,SalarioRosa,155.030
+23:10,3,Nadal,106.478
+23:10,4,RolandGarros,80.415
+23:10,5,RIPKK,37.665
+23:10,6,KohLanta,10.793
+23:10,7,Bradford,15.757
+23:10,8,Nole,
+23:10,9,Novak,30.418
+23:10,10,WE ARE PROUD OF YOU BTS,176.520
+23:40,1,BTSatTheWhiteHouse,777.298
+23:40,2,SalarioRosa,160.422
+23:40,3,Nadal,119.183
+23:40,4,RolandGarros,89.193
+23:40,5,RIPKK,39.112
+23:40,6,TierraDeNadie5,10.179
+23:40,7,Nole,
+23:40,8,Bradford,16.726
+23:40,9,نادال,12.450
+23:40,10,Durham,102.608

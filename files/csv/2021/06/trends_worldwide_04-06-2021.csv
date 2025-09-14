@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,MutluYaşlarKeremBürsin,239.834
+00:10,2,BenimBisikletim,18.817
+00:10,3,SVGala9,14.128
+00:10,4,Bolivia,44.078
+00:10,5,الكويت_استراليا,25.065
+00:10,6,Exército,73.208
+00:10,7,bluetherapy,10.409
+00:10,8,COMO UN IDIOTA,15.613
+00:10,9,ARTHUR NO OTALAB,69.913
+00:10,10,Gasquet,13.764
+00:41,1,MutluYaşlarKeremBürsin,287.966
+00:41,2,SVGala9,19.442
+00:41,3,BenimBisikletim,19.420
+00:41,4,Bolivia,46.961
+00:41,5,bbcqt,
+00:41,6,bluetherapy,12.760
+00:41,7,Exército,81.473
+00:41,8,Uruguay,46.312
+00:41,9,BAGUNCINHA DAY,68.537
+00:41,10,COMO UN IDIOTA,19.362
+01:10,1,MutluYaşlarKeremBürsin,312.559
+01:10,2,SVGala9,24.623
+01:10,3,Uruguay,50.831
+01:10,4,BenimBisikletim,19.920
+01:10,5,BAGUNCINHA DAY,76.436
+01:10,6,Bolivia,47.401
+01:10,7,bbcqt,
+01:10,8,Exército,88.269
+01:10,9,bluetherapy,13.926
+01:10,10,なにわちゃん,
+01:41,1,MutluYaşlarKeremBürsin,331.219
+01:41,2,hasan,35.200
+01:41,3,SVGala9,30.289
+01:41,4,Uruguay,55.228
+01:41,5,BAGUNCINHA DAY,83.890
+01:41,6,Torres,34.336
+01:41,7,Exército,96.216
+01:41,8,Taison,
+01:41,9,Bolivia,48.929
+01:41,10,BenimBisikletim,19.636
+02:10,1,hasan,49.777
+02:10,2,Uruguay,61.456
+02:10,3,Torres,37.338
+02:10,4,MutluYaşlarKeremBürsin,343.585
+02:10,5,SVGala9,33.542
+02:10,6,GAMBLER_20MParty,
+02:10,7,Messi,128.151
+02:10,8,station19,12.748
+02:10,9,Debra,10.692
+02:10,10,USMNT,
+02:41,1,Messi,168.688
+02:41,2,Argentina,325.318
+02:41,3,Argentina,325.318
+02:41,4,EliminatoriasQatar2022,
+02:41,5,Maripan,
+02:41,6,hasan,56.271
+02:41,7,Station19,
+02:41,8,Uruguay,62.299
+02:41,9,GAMBLER_20MParty,18.097
+02:41,10,Torres,35.796
+03:10,1,Messi,193.260
+03:10,2,Argentina,347.718
+03:10,3,Argentina,347.718
+03:10,4,EliminatoriasQatar2022,13.009
+03:10,5,Maripan,11.167
+03:10,6,hasan,60.828
+03:10,7,Station19,43.969
+03:10,8,Medel,
+03:10,9,Tagliafico,
+03:10,10,Alexis,30.833
+03:41,1,Messi,209.375
+03:41,2,Argentina,377.008
+03:41,3,Di María,23.682
+03:41,4,EliminatoriasQatar2022,15.435
+03:41,5,USMNT,
+03:41,6,Vargas,29.343
+03:41,7,Maripan,12.258
+03:41,8,Station19,49.934
+03:41,9,hasan,62.966
+03:41,10,GreysAnatomy,20.002
+04:10,1,Messi,236.146
+04:10,2,Argentina,392.246
+04:10,3,Di María,27.709
+04:10,4,EliminatoriasQatar2022,18.392
+04:10,5,GreysAnatomy,35.094
+04:10,6,USMNT,
+04:10,7,Tagliafico,
+04:10,8,Julián Álvarez,
+04:10,9,Vargas,30.993
+04:10,10,Medel,10.376
+04:41,1,Messi,249.315
+04:41,2,Portland,59.850
+04:41,3,Argentina,409.445
+04:41,4,Blazers,27.050
+04:41,5,Jokic,19.499
+04:41,6,Dame,103.993
+04:41,7,bucciovertimechallenge,
+04:41,8,Di María,29.893
+04:41,9,EliminatoriasQatar2022,19.957
+04:41,10,GreysAnatomy,40.648
+05:10,1,Lakers,166.352
+05:10,2,Messi,251.300
+05:10,3,Booker,24.789
+05:10,4,Portland,64.723
+05:10,5,Dame,118.009
+05:10,6,Blazers,33.638
+05:10,7,Jokic,26.089
+05:10,8,Argentina,402.766
+05:10,9,bucciovertimechallenge,11.250
+05:10,10,LakeShow,11.244
+05:41,1,Lakers,260.391
+05:41,2,Booker,81.070
+05:41,3,Lebron,144.523
+05:41,4,LakeShow,15.066
+05:41,5,Messi,256.682
+05:41,6,Portland,66.748
+05:41,7,Suns,92.024
+05:41,8,Dame,124.385
+05:41,9,Blazers,35.862
+05:41,10,PHXvsLAL,
+06:10,1,Lakers,291.694
+06:10,2,Booker,94.571
+06:10,3,Lebron,167.942
+06:10,4,ButterSweeterCoolerRemixes,186.581
+06:10,5,Lapadula,23.929
+06:10,6,Suns,97.629
+06:10,7,LakeShow,16.571
+06:10,8,PHXvsLAL,
+06:10,9,Portland,66.524
+06:10,10,Messi,256.940
+06:41,1,Lakers,323.675
+06:41,2,Lebron,185.815
+06:41,3,Booker,100.674
+06:41,4,ButterSweeterCoolerRemixes,208.342
+06:41,5,Lapadula,28.736
+06:41,6,LakeShow,18.377
+06:41,7,Suns,97.629
+06:41,8,Kuzma,23.775
+06:41,9,Bad Bunny,47.164
+06:41,10,PHXvsLAL,
+07:10,1,Lakers,348.155
+07:10,2,Lebron,201.669
+07:10,3,Booker,102.641
+07:10,4,Kuzma,45.344
+07:10,5,ButterSweeterCoolerRemixes,283.270
+07:10,6,Bad Bunny,60.454
+07:10,7,Ochoa,
+07:10,8,LakeShow,20.028
+07:10,9,Lapadula,29.982
+07:10,10,PHXvsLAL,
+07:41,1,Lakers,457.133
+07:41,2,Lebron,288.074
+07:41,3,Booker,142.611
+07:41,4,Kuzma,66.473
+07:41,5,ButterSweeterCoolerRemixes,292.369
+07:41,6,LakeShow,24.873
+07:41,7,Bad Bunny,71.396
+07:41,8,PHXvsLAL,11.434
+07:41,9,Chris Paul,17.097
+07:41,10,Ochoa,23.459
+08:10,1,Lakers,485.763
+08:10,2,Lebron,280.496
+08:10,3,Booker,156.747
+08:10,4,Kuzma,73.335
+08:10,5,ButterSweeterCoolerRemixes,297.109
+08:10,6,LakeShow,26.025
+08:10,7,Bad Bunny,78.030
+08:10,8,Chris Paul,15.677
+08:10,9,PHXvsLAL,11.663
+08:10,10,Ochoa,24.292
+08:41,1,Lakers,502.164
+08:41,2,Lebron,344.507
+08:41,3,Booker,165.349
+08:41,4,Kuzma,76.886
+08:41,5,ButterSweeterCoolerRemixes,300.777
+08:41,6,Bad Bunny,83.525
+08:41,7,LakeShow,27.067
+08:41,8,Chris Paul,19.058
+08:41,9,イーブイの進化希望調査,16.626
+08:41,10,Yonaguni,58.266
+09:10,1,Lakers,509.697
+09:10,2,Lebron,354.180
+09:10,3,Booker,169.987
+09:10,4,Kuzma,79.030
+09:10,5,Bad Bunny,86.844
+09:10,6,ButterSweeterCoolerRemixes,303.339
+09:10,7,LakeShow,27.367
+09:10,8,イーブイの進化希望調査,18.853
+09:10,9,性格イケメン度診断,
+09:10,10,Yonaguni,60.081
+09:41,1,Lakers,517.043
+09:41,2,Lebron,363.218
+09:41,3,Booker,173.488
+09:41,4,Kuzma,80.662
+09:41,5,Bad Bunny,89.889
+09:41,6,ButterSweeterCoolerRemixes,305.535
+09:41,7,性格イケメン度診断,
+09:41,8,LakeShow,27.648
+09:41,9,イーブイの進化希望調査,20.658
+09:41,10,HayırlıCumalar,15.145
+10:10,1,Lakers,520.894
+10:10,2,Lebron,368.059
+10:10,3,Booker,175.656
+10:10,4,Kuzma,81.285
+10:10,5,Suns,216.687
+10:10,6,FridayWithMCSoobinAndTXT,30.715
+10:10,7,TXT AT MUSIC BANK,32.090
+10:10,8,性格イケメン度診断,
+10:10,9,Bad Bunny,91.890
+10:10,10,ONEPIECE1015,
+10:41,1,Lakers,523.758
+10:41,2,Lebron,371.554
+10:41,3,SnowManの初恋だよ,15.427
+10:41,4,ONEPIECE1015,
+10:41,5,FridayWithMCSoobinAndTXT,36.440
+10:41,6,性格イケメン度診断,
+10:41,7,TXT AT MUSIC BANK,37.227
+10:41,8,Booker,177.699
+10:41,9,スノハロ,16.374
+10:41,10,Kuzma,82.161
+11:10,1,NCT127XAmoebaCulture,210.894
+11:10,2,세이브_구하러_가보자고,155.705
+11:10,3,Lakers,523.758
+11:10,4,Lebron,371.554
+11:10,5,SnowManの初恋だよ,20.209
+11:10,6,ONEPIECE1015,
+11:10,7,東ハトの商品大集合,
+11:10,8,TXT AT MUSIC BANK,41.600
+11:10,9,HELLO HELLO,691.871
+11:10,10,Booker,178.551
+11:41,1,NCT127XAmoebaCulture,350.945
+11:41,2,세이브_구하러_가보자고,224.643
+11:41,3,HaklıydıkKazandık,11.076
+11:41,4,少クラ,
+11:41,5,Butter4thWin,36.418
+11:41,6,Lakers,531.779
+11:41,7,Lebron,381.411
+11:41,8,個人PV,
+11:41,9,TXT AT MUSIC BANK,43.924
+11:41,10,HELLO HELLO,698.476
+12:10,1,HaklıydıkKazandık,26.078
+12:10,2,NCT127XAmoebaCulture,388.513
+12:10,3,세이브_구하러_가보자고,248.504
+12:10,4,少クラ,11.663
+12:10,5,Butter4thWin,62.833
+12:10,6,Lakers,530.795
+12:10,7,個人PV,
+12:10,8,Lebron,384.287
+12:10,9,性行為後,
+12:10,10,乃木坂46 27th,
+12:41,1,HaklıydıkKazandık,52.296
+12:41,2,مسابقه_ابوناصر,18.775
+12:41,3,NCT127XAmoebaCulture,408.138
+12:41,4,세이브_구하러_가보자고,259.039
+12:41,5,少クラ,12.712
+12:41,6,個人PV,
+12:41,7,Lakers,537.990
+12:41,8,性行為後,
+12:41,9,恐喝容疑,
+12:41,10,乃木坂46 27th,
+13:10,1,HaklıydıkKazandık,71.078
+13:10,2,مسابقه_ابوناصر,27.756
+13:10,3,NCT127XAmoebaCulture,420.599
+13:10,4,세이브_구하러_가보자고,265.421
+13:10,5,lovelive,24.232
+13:10,6,個人PV,
+13:10,7,Lakers,537.620
+13:10,8,性行為後,
+13:10,9,恐喝容疑,
+13:10,10,直己さん,
+14:10,1,HaklıydıkKazandık,92.477
+14:10,2,不破湊3D,36.057
+14:10,3,مسابقه_ابوناصر,42.162
+14:10,4,ボヘミアンラプソディ,
+14:10,5,lovelive,37.605
+14:10,6,すわほー,
+14:10,7,個人PV,11.621
+14:10,8,HIH PROJECT BLOCKED,35.963
+14:10,9,性行為後,
+14:10,10,恐喝容疑,
+14:41,1,不破湊3D,70.678
+14:41,2,HaklıydıkKazandık,100.937
+14:41,3,ボヘミアンラプソディ,
+14:41,4,ロボ子さん新衣装,16.580
+14:41,5,مسابقه_ابوناصر,50.320
+14:41,6,ボルガ博士,13.628
+14:41,7,BüyükFacia Kapıda,
+14:41,8,LOVE AGAIN OUT NOW,16.965
+14:41,9,個人PV,12.759
+14:41,10,HIH PROJECT BLOCKED,40.466
+15:10,1,不破湊3D,83.575
+15:10,2,ボヘミアンラプソディ,31.047
+15:10,3,HaklıydıkKazandık,107.173
+15:10,4,mewsuppasit,263.967
+15:10,5,ロボ子さん新衣装,25.869
+15:10,6,まりほー,
+15:10,7,ボルガ博士,14.378
+15:10,8,LOVE AGAIN OUT NOW,29.440
+15:10,9,HIH PROJECT BLOCKED,49.605
+15:10,10,ふわっち3D,
+15:41,1,不破湊3D,83.575
+15:41,2,ボヘミアンラプソディ,40.321
+15:41,3,mewsuppasit,352.541
+15:41,4,HaklıydıkKazandık,112.508
+15:41,5,ロボ子さん新衣装,31.183
+15:41,6,フレディ,23.115
+15:41,7,HIH PROJECT BLOCKED,60.541
+15:41,8,펜트하우스,14.899
+15:41,9,LOVE AGAIN OUT NOW,33.927
+15:41,10,まりほー,
+16:10,1,不破湊3D,173.263
+16:10,2,ボヘミアンラプソディ,40.321
+16:10,3,リコカツ,28.004
+16:10,4,mewsuppasit,371.338
+16:10,5,HaklıydıkKazandık,112.853
+16:10,6,フレディ,31.580
+16:10,7,펜트하우스,15.816
+16:10,8,HIH PROJECT BLOCKED,68.828
+16:10,9,Dua Lipa,23.189
+16:10,10,LOVE AGAIN OUT NOW,36.032
+16:41,1,ボヘミアンラプソディ,86.804
+16:41,2,不破湊3D,177.537
+16:41,3,リコカツ,29.950
+16:41,4,مسابقه_ابوناصر,69.408
+16:41,5,HaklıydıkKazandık,124.039
+16:41,6,フレディ,42.057
+16:41,7,ライブエイド,
+16:41,8,펜트하우스,16.874
+16:41,9,Don't Stop Me Now,
+16:41,10,エンドロール,
+17:10,1,ボヘミアンラプソディ,104.091
+17:10,2,不破湊3D,180.252
+17:10,3,OurMainCHAERYEONGDay,40.962
+17:10,4,مسابقه_ابوناصر,86.968
+17:10,5,Don't Stop Me Now,
+17:10,6,リコカツ,30.997
+17:10,7,フレディ,50.162
+17:10,8,エンドロール,
+17:10,9,ライブエイド,19.546
+17:10,10,SWEET CHAERYEONG DAY,39.929
+17:41,1,ボヘミアンラプソディ,109.609
+17:41,2,OurMainCHAERYEONGDay,40.962
+17:41,3,KAI_TeaserQuest,292.943
+17:41,4,KYUNGSOO_TeaserQuest,278.813
+17:41,5,不破湊3D,182.555
+17:41,6,D2 TO EXO COMEBACK,145.709
+17:41,7,SWEET CHAERYEONG DAY,49.523
+17:41,8,Don't Stop Me Now,
+17:41,9,フレディ,53.520
+17:41,10,エンドロール,
+18:10,1,ボヘミアンラプソディ,111.107
+18:10,2,OurMainCHAERYEONGDay,93.851
+18:10,3,KAI_TeaserQuest,382.040
+18:10,4,KYUNGSOO_TeaserQuest,362.413
+18:10,5,مسابقه_ابوناصر,102.801
+18:10,6,D2 TO EXO COMEBACK,366.111
+18:10,7,SWEET CHAERYEONG DAY,53.528
+18:10,8,Don't stop me now,
+18:10,9,Tevez,25.473
+18:10,10,フレディ,54.779
+18:41,1,ボヘミアンラプソディ,112.621
+18:41,2,OurMainCHAERYEONGDay,100.455
+18:41,3,Twitter in Nigeria,56.739
+18:41,4,ForaTite,53.080
+18:41,5,KAI_TeaserQuest,410.301
+18:41,6,مسابقه_ابوناصر,107.965
+18:41,7,D2 TO EXO COMEBACK,379.060
+18:41,8,Tevez,29.822
+18:41,9,SWEET CHAERYEONG DAY,55.914
+18:41,10,GOWON,42.760
+19:10,1,Twitter in Nigeria,122.977
+19:10,2,ボヘミアンラプソディ,113.307
+19:10,3,ForaTite,59.749
+19:10,4,1YearWithStillWithYou,84.210
+19:10,5,مسابقه_ابوناصر,118.965
+19:10,6,OurMainCHAERYEONGDay,104.053
+19:10,7,Tevez,32.850
+19:10,8,D2 TO EXO COMEBACK,395.850
+19:10,9,SWEET CHAERYEONG DAY,57.258
+19:10,10,SSRians Bonded For Justice,41.721
+19:41,1,Twitter in Nigeria,162.520
+19:41,2,müjde,15.818
+19:41,3,ForaTite,67.532
+19:41,4,TwitterBan,
+19:41,5,مسابقه_ابوناصر,127.928
+19:41,6,バズリズム02,
+19:41,7,hyuna,
+19:41,8,Tevez,36.323
+19:41,9,MebGüvenliğe SIFIRLAMA,
+19:41,10,SSRians Bonded For Justice,53.477
+20:10,1,EnerjideYeniMüjde,10.839
+20:10,2,Nigeria,382.119
+20:10,3,TwitterSuspendBuharisAccount,28.840
+20:10,4,ForaTite,73.815
+20:10,5,مسابقه_ابوناصر,136.242
+20:10,6,hyuna,11.665
+20:10,7,1YearWithStillWithYou,100.754
+20:10,8,BedelliAffı GeliyorMu,
+20:10,9,Tevez,38.289
+20:10,10,SSRians Bonded For Justice,62.813
+20:41,1,EnerjideYeniMüjde,21.837
+20:41,2,Nigeria,429.143
+20:41,3,TwitterSuspendBuharisAccount,38.380
+20:41,4,ForaTite,80.723
+20:41,5,مسابقه_ابوناصر,143.742
+20:41,6,1YearWithStillWithYou,106.932
+20:41,7,hyuna,13.618
+20:41,8,Tevez,41.030
+20:41,9,SSRians Bonded For Justice,71.055
+20:41,10,BedelliAffı GeliyorMu,
+21:10,1,EnerjideYeniMüjde,37.832
+21:10,2,Nigeria,457.868
+21:10,3,TwitterSuspendBuharisAccount,46.254
+21:10,4,Morata,
+21:10,5,ForaTite,87.859
+21:10,6,مسابقه_ابوناصر,152.827
+21:10,7,KürtDiliHaktır,
+21:10,8,hyuna,15.286
+21:10,9,HzMehdiyi Tanıyalım,
+21:10,10,Tevez,42.999
+21:41,1,Morata,22.006
+21:41,2,KohLanta,16.800
+21:41,3,EnerjideYeniMüjde,51.055
+21:41,4,Nigeria,499.208
+21:41,5,TwitterSuspendBuharisAccount,55.073
+21:41,6,Jonathan,36.985
+21:41,7,ForaTite,94.566
+21:41,8,KürtDiliHaktır,
+21:41,9,Lucie,
+21:41,10,hyuna,17.165
+22:10,1,KohLanta,39.135
+22:10,2,Morata,24.445
+22:10,3,Lucie,15.453
+22:10,4,EnerjideYeniMüjde,60.050
+22:10,5,Nigeria,522.805
+22:10,6,TwitterSuspendBuharisAccount,62.979
+22:10,7,Maxine,15.149
+22:10,8,Jonathan,39.532
+22:10,9,PayitahtVeda,15.292
+22:10,10,Celaleddin,
+22:41,1,KohLanta,55.285
+22:41,2,Morata,23.328
+22:41,3,Lucie,18.573
+22:41,4,PayitahtVeda,22.960
+22:41,5,Nigeria,558.053
+22:41,6,EnerjideYeniMüjde,55.193
+22:41,7,TwitterSuspendBuharisAccount,70.403
+22:41,8,Maxine,16.731
+22:41,9,KürtDiliHaktır,12.106
+22:41,10,Jonathan,40.848
+23:10,1,KohLanta,77.341
+23:10,2,Morata,27.341
+23:10,3,hoşkal,80.991
+23:10,4,PayitahtVeda,22.960
+23:10,5,Lucie,18.573
+23:10,6,Nigeria,577.749
+23:10,7,TwitterSuspendBuharisAccount,75.740
+23:10,8,EnerjideYeniMüjde,77.654
+23:10,9,Maxine,16.731
+23:10,10,Jonathan,40.848
+23:41,1,KohLanta,97.543
+23:41,2,TwitterBan,40.050
+23:41,3,hoşkal,96.939
+23:41,4,Morata,28.701
+23:41,5,Lucie,23.339
+23:41,6,Maxine,24.522
+23:41,7,PayitahtVeda,29.239
+23:41,8,SonYaz,38.106
+23:41,9,Carlitos,30.255
+23:41,10,Tevez,64.845

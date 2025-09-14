@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Chelsea,314.228
+00:10,2,SalarioRosaNoSeDetiene,36.084
+00:10,3,Potter,106.432
+00:10,4,FulChe,53.569
+00:10,5,Felix,269.273
+00:10,6,Xavi,56.335
+00:10,7,Fulham,79.354
+00:10,8,Chalobah,18.213
+00:10,9,Ter Stegen,37.304
+00:10,10,Betis,80.566
+00:40,1,Chelsea,325.260
+00:40,2,SalarioRosaNoSeDetiene,39.462
+00:40,3,Potter,111.417
+00:40,4,FulChe,54.312
+00:40,5,Felix,275.573
+00:40,6,舞いあがれ,30.527
+00:40,7,Fulham,80.895
+00:40,8,tini,37.128
+00:40,9,Xavi,57.815
+00:40,10,bbcqt,10.820
+01:10,1,Chelsea,330.464
+01:10,2,SalarioRosaNoSeDetiene,41.919
+01:10,3,Potter,112.907
+01:10,4,João Gomes,20.770
+01:10,5,FulChe,54.804
+01:10,6,舞いあがれ,32.018
+01:10,7,tini,38.551
+01:10,8,bbcqt,12.699
+01:10,9,Fulham,82.234
+01:10,10,Xavi,58.443
+01:40,1,SalarioRosaNoSeDetiene,44.019
+01:40,2,Chelsea,336.247
+01:40,3,João Gomes,24.730
+01:40,4,Miley Cyrus,57.007
+01:40,5,taylor,295.617
+01:40,6,Potter,114.820
+01:40,7,tini,40.384
+01:40,8,FulChe,55.211
+01:40,9,舞いあがれ,33.698
+01:40,10,Felix,280.790
+02:10,1,SalarioRosaNoSeDetiene,46.140
+02:10,2,Chelsea,338.440
+02:10,3,Miley Cyrus,65.757
+02:10,4,João Gomes,28.354
+02:10,5,taylor,289.170
+02:10,6,Flamengo,133.786
+02:10,7,tini,41.001
+02:10,8,Potter,115.079
+02:10,9,舞いあがれ,33.938
+02:10,10,FulChe,55.303
+02:40,1,SalarioRosaNoSeDetiene,50.431
+02:40,2,Miley Cyrus,75.752
+02:40,3,João Gomes,31.732
+02:40,4,Flamengo,141.721
+02:40,5,Chelsea,342.003
+02:40,6,taylor,298.041
+02:40,7,tini,42.246
+02:40,8,Gabriel Santana,10.250
+02:40,9,BBB23,323.879
+02:40,10,Potter,116.515
+03:10,1,Lisa Marie Presley,83.655
+03:10,2,SalarioRosaNoSeDetiene,56.339
+03:10,3,Matheus França,
+03:10,4,Miley Cyrus,81.938
+03:10,5,Flamengo,147.820
+03:10,6,João Gomes,34.706
+03:10,7,taylor,292.734
+03:10,8,Chelsea,343.250
+03:10,9,tini,42.682
+03:10,10,Gabriel Santana,11.678
+03:40,1,Lisa Marie Presley,134.671
+03:40,2,Lisa Marie Presley,134.671
+03:40,3,SalarioRosaNoSeDetiene,63.602
+03:40,4,Matheus França,10.503
+03:40,5,Miley Cyrus,88.316
+03:40,6,Flamengo,155.223
+03:40,7,Ben Simmons,
+03:40,8,João Gomes,37.447
+03:40,9,PRADAxENHYPEN,39.699
+03:40,10,taylor,301.213
+04:10,1,Lisa Marie Presley,165.306
+04:10,2,SalarioRosaNoSeDetiene,70.806
+04:10,3,Maxi,58.219
+04:10,4,Thiago,100.334
+04:10,5,Ben Simmons,
+04:10,6,Miley Cyrus,91.700
+04:10,7,Matheus França,11.752
+04:10,8,Flamengo,147.422
+04:10,9,João Gomes,39.881
+04:10,10,PRADAxENHYPEN,58.339
+04:40,1,Lisa Marie Presley,186.308
+04:40,2,SalarioRosaNoSeDetiene,76.740
+04:40,3,Thiago,120.245
+04:40,4,Maxi,67.157
+04:40,5,Miley Cyrus,96.093
+04:40,6,Ben Simmons,
+04:40,7,PRADAxENHYPEN,71.123
+04:40,8,Flamengo,150.711
+04:40,9,toy story 4,
+04:40,10,Matheus França,12.171
+05:10,1,Lisa Marie Presley,203.745
+05:10,2,SalarioRosaNoSeDetiene,80.780
+05:10,3,Thiago,123.937
+05:10,4,Maxi,67.414
+05:10,5,Miley Cyrus,99.014
+05:10,6,Ben Simmons,
+05:10,7,feather,13.969
+05:10,8,PRADAxENHYPEN,79.246
+05:10,9,シビック,
+05:10,10,ら行でなぜモテないのか分かる,
+05:40,1,Lisa Marie Presley,214.722
+05:40,2,SalarioRosaNoSeDetiene,83.700
+05:40,3,Thiago,129.364
+05:40,4,feather,16.872
+05:40,5,Maxi,69.578
+05:40,6,TAEYANG_VIBE,
+05:40,7,JiminIsComing,81.378
+05:40,8,Miley Cyrus,102.622
+05:40,9,Happy Lohri,
+05:40,10,Ben Simmons,
+06:10,1,VIBEftJimin,233.557
+06:10,2,Lisa Marie Presley,225.636
+06:10,3,JiminIsComing,149.638
+06:10,4,SalarioRosaNoSeDetiene,85.288
+06:10,5,xiao,42.638
+06:10,6,feather,19.045
+06:10,7,BIGBANG,19.563
+06:10,8,Happy Lohri,12.403
+06:10,9,Thiago,128.282
+06:10,10,ポケモン1000種類超えました,
+06:40,1,VIBEftJimin,287.556
+06:40,2,Luka,101.659
+06:40,3,Lakers,222.036
+06:40,4,JiminIsComing,183.617
+06:40,5,Lisa Marie Presley,234.003
+06:40,6,Russ,15.853
+06:40,7,PARK JIMIN,96.115
+06:40,8,ポケモン1000種類超えました,
+06:40,9,BIGBANG,31.123
+06:40,10,Mavs,23.482
+07:10,1,VIBEftJimin,318.843
+07:10,2,Luka,116.062
+07:10,3,Lakers,242.906
+07:10,4,Lebron,78.902
+07:10,5,Mavs,27.928
+07:10,6,JiminIsComing,197.466
+07:10,7,Westbrook,
+07:10,8,ポケモン1000種類超えました,
+07:10,9,Lisa Marie Presley,241.943
+07:10,10,PARK JIMIN,119.474
+07:40,1,VIBEftJimin,339.577
+07:40,2,Luka,121.835
+07:40,3,Lakers,248.266
+07:40,4,Lebron,82.149
+07:40,5,Mavs,29.709
+07:40,6,ポケモン1000種類超えました,
+07:40,7,JiminIsComing,205.683
+07:40,8,Westbrook,10.221
+07:40,9,Lisa Marie Presley,249.142
+07:40,10,PARK JIMIN,134.423
+08:10,1,VIBEftJimin,348.682
+08:10,2,Luka,124.412
+08:10,3,Lakers,263.437
+08:10,4,Lebron,83.186
+08:10,5,ポケモン1000種類超えました,10.948
+08:10,6,Mavs,30.580
+08:10,7,JiminIsComing,210.583
+08:10,8,Lisa Marie Presley,255.537
+08:10,9,Lohri,13.216
+08:10,10,Westbrook,10.342
+08:40,1,VIBEftJimin,348.612
+08:40,2,Luka,126.854
+08:40,3,Lakers,269.907
+08:40,4,ポケモン1000種類超えました,12.415
+08:40,5,Lebron,84.741
+08:40,6,Lohri,14.790
+08:40,7,Lisa Marie Presley,262.115
+08:40,8,Mavs,31.235
+08:40,9,JiminIsComing,214.006
+08:40,10,PARK JIMIN,151.276
+09:10,1,VIBEftJimin,364.756
+09:10,2,Luka,127.987
+09:10,3,Lakers,277.046
+09:10,4,ポケモン1000種類超えました,13.542
+09:10,5,Lebron,85.134
+09:10,6,Lohri,16.184
+09:10,7,Lisa Marie Presley,268.170
+09:10,8,Friday the 13th,54.852
+09:10,9,JiminIsComing,217.074
+09:10,10,Mavs,31.761
+09:40,1,VIBEftJimin,370.584
+09:40,2,ポケモン1000種類超えました,14.877
+09:40,3,Luka,130.013
+09:40,4,Lakers,283.082
+09:40,5,Lohri,17.691
+09:40,6,Friday the 13th,57.431
+09:40,7,Lisa Marie Presley,273.409
+09:40,8,Lebron,86.198
+09:40,9,パゼオンカ,
+09:40,10,ガヴィル,
+10:10,1,VIBEftJimin,374.601
+10:10,2,ポケモン1000種類超えました,15.987
+10:10,3,齊藤なぎさ卒業コンサート,14.395
+10:10,4,Luka,
+10:10,5,Lakers,287.675
+10:10,6,Friday the 13th,60.482
+10:10,7,ApoNattawinxDiorTaipei,25.557
+10:10,8,Lohri,18.733
+10:10,9,パゼオンカ,
+10:10,10,Lisa Marie Presley,275.969
+10:40,1,RobinsonLifestylexNunew,32.469
+10:40,2,VIBEftJimin,378.082
+10:40,3,ApoNattawinxDiorTaipei,119.183
+10:40,4,八丁念仏,39.280
+10:40,5,ポケモン1000種類超えました,17.108
+10:40,6,少クラ,
+10:40,7,Friday the 13th,64.122
+10:40,8,黒ギャル,
+10:40,9,パゼオンカ,
+10:40,10,Luka,132.879
+11:10,1,RobinsonLifestylexNunew,93.995
+11:10,2,アニポケ,
+11:10,3,ApoNattawinxDiorTaipei,203.691
+11:10,4,八丁念仏,53.263
+11:10,5,少クラ,
+11:10,6,VibeFtJimin,382.313
+11:10,7,黒ギャル,
+11:10,8,Friday the 13th,67.375
+11:10,9,共通テスト,55.088
+11:10,10,パゼオンカ,
+11:40,1,アニポケ,23.167
+11:40,2,RobinsonLifestylexNunew,174.809
+11:40,3,ApoNattawinxDiorTaipei,286.304
+11:40,4,八丁念仏,62.862
+11:40,5,少クラ,
+11:40,6,ポケモン1000種類超えました,19.035
+11:40,7,黒ギャル,
+11:40,8,ひゃくごじゅういち,
+11:40,9,Friday the 13th,70.602
+11:40,10,共通テスト,58.637
+12:10,1,アニポケ,29.115
+12:10,2,RobinsonLifestylexNunew,234.472
+12:10,3,ApoNattawinxDiorTaipei,348.294
+12:10,4,八丁念仏,70.335
+12:10,5,齊藤なぎさ卒業コンサート,19.722
+12:10,6,Friday the 13th,72.931
+12:10,7,少クラ,
+12:10,8,共通テスト,60.704
+12:10,9,黒ギャル,10.522
+12:10,10,ひゃくごじゅういち,
+12:40,1,アニポケ,34.234
+12:40,2,Mステ最強ソング,
+12:40,3,EnglotXBloomboom,92.214
+12:40,4,ApoNattawinxDiorTaipei,439.348
+12:40,5,RobinsonLifestylexNunew,280.533
+12:40,6,共通テスト,64.478
+12:40,7,八丁念仏,76.290
+12:40,8,Friday the 13th,76.240
+12:40,9,Dear Tiara盤,
+12:40,10,黒ギャル,11.874
+13:10,1,Mステ最強ソング,13.223
+13:10,2,齊藤なぎさ卒業コンサート,23.749
+13:10,3,Mx2,
+13:10,4,アニポケ,38.754
+13:10,5,ApoNattawinxDiorTaipei,502.113
+13:10,6,共通テスト,66.754
+13:10,7,Friday the 13th,78.599
+13:10,8,Dear Tiara盤,
+13:10,9,モノグラム,
+13:10,10,思い出のマーニー,
+13:40,1,Mステ最強ソング,22.393
+13:40,2,Mx2,13.422
+13:40,3,齊藤なぎさ卒業コンサート,27.191
+13:40,4,MAZZEL,10.481
+13:40,5,思い出のマーニー,
+13:40,6,共通テスト,70.495
+13:40,7,Friday the 13th,83.239
+13:40,8,モノグラム,
+13:40,9,海龍くん,
+13:40,10,Dear Tiara盤,
+14:10,1,Mステ最強ソング,26.318
+14:10,2,Mx2,18.226
+14:10,3,MAZZEL,14.589
+14:10,4,にじよんあにめーしょん,13.558
+14:10,5,思い出のマーニー,13.775
+14:10,6,Friday the 13th,86.808
+14:10,7,共通テスト,73.306
+14:10,8,モノグラム,
+14:10,9,海龍くん,
+14:10,10,Benjamin Mendy,
+14:40,1,Mステ最強ソング,27.314
+14:40,2,Mx2,21.157
+14:40,3,マーニー,30.083
+14:40,4,Friday the 13th,91.905
+14:40,5,KAIxGucciFW23,54.766
+14:40,6,GucciBoyWithMilano,54.577
+14:40,7,MAZZEL,17.302
+14:40,8,共通テスト,77.385
+14:40,9,モノグラム,
+14:40,10,Benjamin Mendy,12.845
+15:10,1,マーニー,40.514
+15:10,2,Mステ最強ソング,28.201
+15:10,3,MySchoolPresidentEP6,72.288
+15:10,4,Friday the 13th,96.464
+15:10,5,金ドラ100万回言えばよかった,20.655
+15:10,6,KAIxGucciFW23,82.158
+15:10,7,GucciBoyWithMilano,83.001
+15:10,8,共通テスト,80.330
+15:10,9,Benjamin Mendy,16.365
+15:10,10,Lori Harvey,14.525
+15:40,1,マーニー,49.471
+15:40,2,MySchoolPresidentEP6,121.768
+15:40,3,金ドラ100万回言えばよかった,25.582
+15:40,4,Friday the 13th,103.690
+15:40,5,KAIxGucciFW23,104.353
+15:40,6,GucciBoyWithMilano,103.302
+15:40,7,Mステ最強ソング,28.792
+15:40,8,共通テスト,83.857
+15:40,9,Lori Harvey,16.309
+15:40,10,Benjamin Mendy,19.072
+16:10,1,생일축하해김카이,28.750
+16:10,2,신이땅으로내려온날_햅삐카탄절,26.926
+16:10,3,MySchoolPresidentEP6,157.813
+16:10,4,Friday the 13th,108.490
+16:10,5,CutiePie2YouEP2,64.219
+16:10,6,マーニー,51.755
+16:10,7,金ドラ100万回言えばよかった,26.639
+16:10,8,共通テスト,86.518
+16:10,9,Lori Harvey,17.468
+16:10,10,FAREWELL CONCEPT CLIP,23.449
+16:40,1,생일축하해김카이,55.373
+16:40,2,신이땅으로내려온날_햅삐카탄절,52.236
+16:40,3,Friday the 13th,115.441
+16:40,4,CutiePie2YouEP2,135.846
+16:40,5,MySchoolPresidentEP6,187.534
+16:40,6,HappyKAIDay,77.137
+16:40,7,マーニー,53.047
+16:40,8,Lori Harvey,19.222
+16:40,9,共通テスト,90.102
+16:40,10,刀剣乱舞8周年,
+17:10,1,생일축하해김카이,69.447
+17:10,2,신이땅으로내려온날_햅삐카탄절,65.496
+17:10,3,CutiePie2YouEP2,234.492
+17:10,4,Friday the 13th,120.398
+17:10,5,MySchoolPresidentEP6,202.887
+17:10,6,HappyKAIDay,96.946
+17:10,7,Lori Harvey,20.355
+17:10,8,マーニー,53.828
+17:10,9,八丁念仏,112.639
+17:10,10,Briggs,31.821
+17:40,1,생일축하해김카이,77.514
+17:40,2,Friday the 13th,126.915
+17:40,3,신이땅으로내려온날_햅삐카탄절,73.512
+17:40,4,CutiePie2YouEP2,316.706
+17:40,5,MySchoolPresidentEP6,215.595
+17:40,6,フロイニ,24.786
+17:40,7,Lori Harvey,22.231
+17:40,8,八丁念仏,116.262
+17:40,9,Briggs,34.733
+17:40,10,八丁くん,18.326
+18:10,1,Friday the 13th,132.279
+18:10,2,생일축하해김카이,83.379
+18:10,3,신이땅으로내려온날_햅삐카탄절,78.706
+18:10,4,CutiePie2YouEP2,346.637
+18:10,5,MySchoolPresidentEP6,231.804
+18:10,6,フロイニ,38.417
+18:10,7,Lori Harvey,23.547
+18:10,8,Mirella,
+18:10,9,八丁念仏,118.167
+18:10,10,Briggs,36.767
+18:40,1,Friday the 13th,139.180
+18:40,2,생일축하해김카이,87.306
+18:40,3,신이땅으로내려온날_햅삐카탄절,82.073
+18:40,4,CutiePie2YouEP2,366.849
+18:40,5,MySchoolPresidentEP6,245.350
+18:40,6,フロイニ,51.912
+18:40,7,Mirella,11.203
+18:40,8,Lori Harvey,25.906
+18:40,9,Brandon Staley,
+18:40,10,DiplomaDenklik TorbaYasaya,
+19:10,1,GSvHTY,24.784
+19:10,2,Friday the 13th,145.415
+19:10,3,생일축하해김카이,89.770
+19:10,4,Mirella,13.080
+19:10,5,Brandon Staley,
+19:10,6,تذكره_فوق_الخيال,
+19:10,7,신이땅으로내려온날_햅삐카탄절,84.421
+19:10,8,Lori Harvey,27.545
+19:10,9,MySchoolPresidentEP6,254.837
+19:10,10,Mata,89.089
+20:10,1,GSvHTY,34.454
+20:10,2,Friday the 13th,156.923
+20:10,3,Staley,
+20:10,4,Lori Harvey,31.441
+20:10,5,Mirella,16.154
+20:10,6,JuniorJuanferYTecnoglass,
+20:10,7,Ferb,13.726
+20:10,8,مشرف_الغامدي,
+20:10,9,생일축하해김카이,93.444
+20:10,10,Icardi,
+20:40,1,GSvHTY,41.230
+20:40,2,Friday the 13th,163.742
+20:40,3,Phineas,17.433
+20:40,4,JuniorJuanferYTecnoglass,
+20:40,5,Staley,
+20:40,6,Lori Harvey,33.408
+20:40,7,Mirella,17.275
+20:40,8,Kaizer Chiefs,
+20:40,9,مشرف_الغامدي,
+20:40,10,TOTP,
+21:10,1,GSvHTY,45.154
+21:10,2,Friday the 13th,173.913
+21:10,3,Phineas,20.196
+21:10,4,JuniorJuanferYTecnoglass,
+21:10,5,NapoliJuve,
+21:10,6,XboxFreeCodeFriday,
+21:10,7,Staley,10.350
+21:10,8,Lori Harvey,34.854
+21:10,9,TOTP,
+21:10,10,Kaizer Chiefs,
+21:40,1,NapoliJuve,14.747
+21:40,2,XboxFreeCodeFriday,
+21:40,3,Friday the 13th,181.355
+21:40,4,GSvHTY,47.684
+21:40,5,Phineas,22.829
+21:40,6,Di Maria,11.973
+21:40,7,YaliCapkini,51.205
+21:40,8,نابولي,
+21:40,9,TOTP,
+21:40,10,Staley,10.884
+22:10,1,NapoliJuve,18.081
+22:10,2,XboxFreeCodeFriday,
+22:10,3,Friday the 13th,186.254
+22:10,4,GSvHTY,47.300
+22:10,5,نابولي,
+22:10,6,Phineas,24.866
+22:10,7,lufc,
+22:10,8,Di Maria,13.289
+22:10,9,Casio,365.101
+22:10,10,YaliCapkini,54.018
+22:40,1,Napoli,68.110
+22:40,2,نابولي,14.919
+22:40,3,XboxFreeCodeFriday,
+22:40,4,Osimhen,22.730
+22:40,5,Friday the 13th,192.726
+22:40,6,lufc,11.177
+22:40,7,Bremer,
+22:40,8,اليوفي,
+22:40,9,Allegri,
+22:40,10,Casio,383.490
+23:10,1,Napoli,82.374
+23:10,2,نابولي,17.134
+23:10,3,lufc,12.955
+23:10,4,XboxFreeCodeFriday,
+23:10,5,Gnonto,
+23:10,6,Allegri,13.003
+23:10,7,Bremer,
+23:10,8,Friday the 13th,194.528
+23:10,9,Osimhen,29.251
+23:10,10,Casio,388.520
+23:40,1,Napoli,87.908
+23:40,2,lufc,14.446
+23:40,3,نابولي,18.107
+23:40,4,Gnonto,
+23:40,5,XboxFreeCodeFriday,
+23:40,6,Friday the 13th,203.407
+23:40,7,Allegri,15.174
+23:40,8,Casio,402.594
+23:40,9,Leeds,36.986
+23:40,10,Bremer,

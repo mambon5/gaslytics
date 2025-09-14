@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,ZETAWIN,191.061
+00:10,2,Kendrick,188.334
+00:10,3,Cádiz,103.613
+00:10,4,Edomex,11.552
+00:10,5,Thor,434.673
+00:10,6,etsionserencontrait,
+00:10,7,isola,14.297
+00:10,8,MasterChef,
+00:10,9,Xavineta,18.088
+00:10,10,Ledesma,
+00:40,1,ZETAWIN,197.568
+00:40,2,Kendrick,196.062
+00:40,3,Cádiz,108.866
+00:40,4,Piqué,154.959
+00:40,5,etsionserencontrait,
+00:40,6,isola,17.263
+00:40,7,Edomex,12.491
+00:40,8,Juanma Castaño,
+00:40,9,Thor,446.336
+00:40,10,MasterChef,
+01:10,1,ZETAWIN,203.066
+01:10,2,Kendrick,202.420
+01:10,3,Cádiz,112.150
+01:10,4,Piqué,166.010
+01:10,5,JIMIN OST IS COMING,35.263
+01:10,6,金カム実写化,22.401
+01:10,7,isola,19.162
+01:10,8,Edomex,13.203
+01:10,9,Juanma Castaño,
+01:10,10,etsionserencontrait,
+01:40,1,JIMIN OST IS COMING,60.533
+01:40,2,ZETA,133.223
+01:40,3,Kendrick,208.122
+01:40,4,震度5弱,14.102
+01:40,5,Piqué,175.443
+01:40,6,金カム実写化,30.940
+01:40,7,Cádiz,114.730
+01:40,8,DPOY,23.059
+01:40,9,ミステリー研究会,
+01:40,10,Edomex,13.920
+02:10,1,JIMIN OST IS COMING,78.696
+02:10,2,ZETA,136.351
+02:10,3,震度5弱,17.848
+02:10,4,Kendrick,213.155
+02:10,5,金カム実写化,39.007
+02:10,6,DPOY,28.739
+02:10,7,Gus Johnson,
+02:10,8,Piqué,179.137
+02:10,9,Cádiz,115.951
+02:10,10,ミステリー研究会,
+02:40,1,WWERaw,18.399
+02:40,2,JIMIN OST IS COMING,90.510
+02:40,3,Embiid,23.551
+02:40,4,Gus Johnson,
+02:40,5,ZETA,139.452
+02:40,6,DPOY,32.772
+02:40,7,金カム実写化,45.529
+02:40,8,震度5弱,19.411
+02:40,9,Kendrick,218.097
+02:40,10,Raptors,27.157
+03:10,1,WWERaw,28.376
+03:10,2,Embiid,27.761
+03:10,3,JIMIN OST IS COMING,97.683
+03:10,4,Raptors,31.657
+03:10,5,Gus Johnson,
+03:10,6,金カム実写化,51.779
+03:10,7,DPOY,35.275
+03:10,8,ZETA,140.999
+03:10,9,Jove,16.666
+03:10,10,震度5弱,20.520
+03:40,1,WWERaw,34.950
+03:40,2,Raptors,37.066
+03:40,3,Embiid,32.266
+03:40,4,JIMIN OST IS COMING,103.633
+03:40,5,Jove,24.081
+03:40,6,金カム実写化,57.262
+03:40,7,DPOY,37.946
+03:40,8,Gus Johnson,
+03:40,9,Sixers,31.473
+03:40,10,Maxey,14.134
+04:10,1,WWERaw,43.185
+04:10,2,Raptors,41.476
+04:10,3,Embiid,36.219
+04:10,4,Danny Green,
+04:10,5,Sixers,38.689
+04:10,6,Maxey,17.333
+04:10,7,JIMIN OST IS COMING,108.564
+04:10,8,Harden,20.276
+04:10,9,Jove,26.195
+04:10,10,Gus Johnson,
+04:40,1,WWERaw,56.637
+04:40,2,Raptors,44.367
+04:40,3,Embiid,39.303
+04:40,4,Brunson,
+04:40,5,Freddie,21.144
+04:40,6,Sixers,42.780
+04:40,7,Danny Green,
+04:40,8,Harden,21.610
+04:40,9,JIMIN OST IS COMING,112.280
+04:40,10,Maxey,18.851
+05:10,1,Brunson,26.130
+05:10,2,WWERaw,63.253
+05:10,3,Mavs,21.225
+05:10,4,MFFL,
+05:10,5,Raptors,45.644
+05:10,6,Luka,40.336
+05:10,7,QuintoRetiroOALaCalle,85.080
+05:10,8,Freddie,24.196
+05:10,9,Embiid,42.160
+05:10,10,Sixers,45.109
+05:40,1,Brunson,31.436
+05:40,2,Mavs,24.129
+05:40,3,WWERaw,65.826
+05:40,4,MFFL,
+05:40,5,Curry,51.821
+05:40,6,Warriors,216.037
+05:40,7,QuintoRetiroOALaCalle,92.532
+05:40,8,Jokic,18.884
+05:40,9,Poole,40.881
+05:40,10,Luka,42.589
+06:10,1,Warriors,237.562
+06:10,2,Jordan Poole,35.246
+06:10,3,Curry,61.023
+06:10,4,Brunson,33.836
+06:10,5,Jokic,24.111
+06:10,6,Mavs,25.378
+06:10,7,Klay,18.954
+06:10,8,WWERaw,67.316
+06:10,9,Draymond,15.273
+06:10,10,MFFL,10.464
+06:40,1,Warriors,258.831
+06:40,2,jay park,33.723
+06:40,3,Jokic,35.789
+06:40,4,Jordan Poole,43.519
+06:40,5,Curry,71.220
+06:40,6,Brunson,35.452
+06:40,7,Draymond,20.630
+06:40,8,Klay,22.515
+06:40,9,Mavs,26.365
+06:40,10,WWERaw,68.787
+07:10,1,jay park,54.135
+07:10,2,Warriors,279.124
+07:10,3,Jokic,40.018
+07:10,4,Jordan Poole,49.038
+07:10,5,Curry,77.807
+07:10,6,Klay,25.876
+07:10,7,Draymond,23.525
+07:10,8,Brunson,36.437
+07:10,9,Nuggets,37.718
+07:10,10,DubNation,15.351
+07:40,1,jay park,66.068
+07:40,2,Warriors,299.717
+07:40,3,Jokic,42.142
+07:40,4,Jordan Poole,52.517
+07:40,5,Steph,67.435
+07:40,6,Wordle 304 X,
+07:40,7,Klay,27.358
+07:40,8,Draymond,25.776
+07:40,9,AESPA AT COACHELLA,50.700
+07:40,10,Brunson,37.178
+08:10,1,jay park,74.979
+08:10,2,Warriors,311.809
+08:10,3,Jokic,43.195
+08:10,4,Jordan Poole,54.075
+08:10,5,AESPA AT COACHELLA,88.256
+08:10,6,Steph,69.735
+08:10,7,Wordle 304 X,10.186
+08:10,8,Klay,28.024
+08:10,9,Draymond,26.809
+08:10,10,Brunson,37.763
+08:40,1,jay park,81.837
+08:40,2,Warriors,320.664
+08:40,3,Wordle 304 X,10.882
+08:40,4,aespa,151.979
+08:40,5,Jokic,44.049
+08:40,6,Jordan Poole,55.831
+08:40,7,Steph,71.917
+08:40,8,LazzieStarBerkahRamadan,
+08:40,9,LazadaBagiBagiRumah,
+08:40,10,Main Games Dapat THR,
+09:10,1,jay park,88.045
+09:10,2,Wordle 304 X,11.588
+09:10,3,Warriors,325.509
+09:10,4,aespa,173.646
+09:10,5,Jokic,44.664
+09:10,6,Jordan Poole,56.766
+09:10,7,Steph,73.448
+09:10,8,lazziestarberkahramadan,
+09:10,9,Main Games Dapat THR,
+09:10,10,LazadaBagiBagiRumah,
+09:40,1,jay park,93.165
+09:40,2,Wordle 304 X,12.421
+09:40,3,aespa,191.290
+09:40,4,Warriors,332.673
+09:40,5,Jokic,45.273
+09:40,6,Jordan Poole,57.944
+09:40,7,lazziestarberkahramadan,
+09:40,8,Main Games Dapat THR,
+09:40,9,LazadaBagiBagiRumah,
+09:40,10,CongratulationsJAYB_528Hz,27.504
+10:10,1,jay park,97.791
+10:10,2,Wordle 304 X,13.058
+10:10,3,aespa,204.471
+10:10,4,Warriors,336.186
+10:10,5,Brandon Lewis,
+10:10,6,Main Games Dapat THR,
+10:10,7,CongratulationsJAYB_528Hz,31.102
+10:10,8,Jokic,45.603
+10:10,9,Jordan Poole,58.412
+10:10,10,DekDLivexSLR,29.958
+10:40,1,jay park,102.615
+10:40,2,Wordle 304 X,13.524
+10:40,3,PoydxZeeNuNew,28.886
+10:40,4,aespa,215.611
+10:40,5,Brandon Lewis,
+10:40,6,ANJI FEELSConcert MEDIACON,71.132
+10:40,7,夢のコラボスシロー,
+10:40,8,Main Games Dapat THR,
+10:40,9,コシヒカリではさんだごはんチキンタツタ,
+10:40,10,CongratulationsJAYB_528Hz,34.933
+11:10,1,Wordle 304 X,14.010
+11:10,2,jay park,107.186
+11:10,3,PoydxZeeNuNew,68.244
+11:10,4,aespa,224.135
+11:10,5,ANJI FEELSConcert MEDIACON,86.253
+11:10,6,関バリ,
+11:10,7,視認可能フレーム計測ツール,
+11:10,8,コシヒカリではさんだごはんチキンタツタ,
+11:10,9,あなたの視認可能フレーム,
+11:10,10,Brandon Lewis,
+11:40,1,Wordle 304 X,14.517
+11:40,2,PoydxZeeNuNew,116.818
+11:40,3,jay park,112.390
+11:40,4,関バリ,
+11:40,5,あなたの視認可能フレーム,
+11:40,6,視認可能フレーム計測ツール,
+11:40,7,豪華飲茶10種セット,
+11:40,8,中華料理敦煌,
+11:40,9,コシヒカリではさんだごはんチキンタツタ,
+11:40,10,ANJI FEELSConcert MEDIACON,94.463
+12:10,1,PoydxZeeNuNew,193.164
+12:10,2,Wordle 304 X,15.065
+12:10,3,jay park,117.301
+12:10,4,あなたの視認可能フレーム,
+12:10,5,視認可能フレーム計測ツール,
+12:10,6,関バリ,
+12:10,7,豪華飲茶10種セット,
+12:10,8,中華料理敦煌,
+12:10,9,コシヒカリではさんだごはんチキンタツタ,
+12:10,10,D-3 HESINTOHER S2,17.923
+12:40,1,PoydxZeeNuNew,254.970
+12:40,2,Wordle 304 X,15.708
+12:40,3,あなたの視認可能フレーム,
+12:40,4,視認可能フレーム計測ツール,
+12:40,5,jay park,122.101
+12:40,6,バリューの真実,11.333
+12:40,7,LOVEDIVE4thWin,
+12:40,8,ヨウちゃん,
+12:40,9,オモウマい店,
+12:40,10,関バリ,
+13:10,1,Dunki,17.189
+13:10,2,飛行機雲ができる理由,
+13:10,3,Wordle 304 X,16.509
+13:10,4,PoydxZeeNuNew,313.834
+13:10,5,あなたの視認可能フレーム,
+13:10,6,視認可能フレーム計測ツール,
+13:10,7,jay park,127.208
+13:10,8,バリューの真実,11.848
+13:10,9,SLRGalaPremiere,15.603
+13:10,10,ヨウちゃん,
+13:40,1,飛行機雲ができる理由,
+13:40,2,QuintToken,
+13:40,3,Dunki,31.741
+13:40,4,Wordle 304 X,17.538
+13:40,5,たかほー,
+13:40,6,SLRGalaPremiere,46.536
+13:40,7,あなたの視認可能フレーム,
+13:40,8,視認可能フレーム計測ツール,
+13:40,9,相席食堂,
+13:40,10,れおほー,
+14:10,1,飛行機雲ができる理由,12.351
+14:10,2,Dunki,42.567
+14:10,3,QuintToken,
+14:10,4,Wordle 304 X,18.618
+14:10,5,LOrealExcellencexNunew,58.118
+14:10,6,SLRGalaPremiere,103.051
+14:10,7,れおほー,
+14:10,8,たかほー,
+14:10,9,うさほー,
+14:10,10,あなたの視認可能フレーム,
+14:40,1,横浜優勝,
+14:40,2,飛行機雲ができる理由,13.766
+14:40,3,LOrealExcellencexNunew,122.982
+14:40,4,Wordle 304 X,19.648
+14:40,5,マツコの知らない世界,
+14:40,6,SLRGalaPremiere,165.203
+14:40,7,QuintToken,
+14:40,8,すわほー,
+14:40,9,れおほー,
+14:40,10,たかほー,
+15:10,1,横浜優勝,
+15:10,2,飛行機雲ができる理由,14.827
+15:10,3,Wordle 304 X,20.630
+15:10,4,マツコの知らない世界,
+15:10,5,LOrealExcellencexNunew,172.370
+15:10,6,SLRGalaPremiere,214.758
+15:10,7,quinttoken,
+15:10,8,すわほー,
+15:10,9,れおほー,
+15:10,10,たかほー,
+15:40,1,横浜優勝,
+15:40,2,Wordle 304 X,21.465
+15:40,3,飛行機雲ができる理由,15.532
+15:40,4,LOrealExcellencexNunew,225.865
+15:40,5,仰天ニュース,25.091
+15:40,6,SLRGalaPremiere,254.615
+15:40,7,quinttoken,
+15:40,8,ゼノブレイド3,15.803
+15:40,9,ゼノブレ3,
+15:40,10,すわほー,
+16:10,1,Wordle 304 X,22.234
+16:10,2,ゼノブレイド3,22.420
+16:10,3,じぞ恋,14.818
+16:10,4,持続可能な恋ですか,
+16:10,5,DevilSisterEP2,265.525
+16:10,6,横浜優勝,
+16:10,7,BonVoyageBamBam,39.084
+16:10,8,飛行機雲ができる理由,16.118
+16:10,9,Xenoblade 3,
+16:10,10,SEE YOU BAMBAM,38.771
+16:40,1,BelovedBirthJAY,71.123
+16:40,2,제이의_생일을_쫑말쫑말_축하해,76.958
+16:40,3,OUR JAYPRIL LOVE,69.941
+16:40,4,じぞ恋,19.017
+16:40,5,ゼノブレイド3,25.913
+16:40,6,持続可能な恋ですか,12.037
+16:40,7,Wordle 304 X,22.990
+16:40,8,BonVoyageBamBam,78.722
+16:40,9,Xenoblade 3,11.594
+16:40,10,横浜優勝,
+17:10,1,BelovedBirthJAY,279.912
+17:10,2,제이의_생일을_쫑말쫑말_축하해,327.258
+17:10,3,OUR JAYPRIL LOVE,262.266
+17:10,4,SalarioRosa,13.306
+17:10,5,メンテの日なのでssを貼る,18.647
+17:10,6,ENHYPEN_JAY,174.825
+17:10,7,WEDNESDAY'S SPOILER,26.324
+17:10,8,ゼノブレイド3,28.363
+17:10,9,ゼノブレ3,
+17:10,10,Wordle 304 X,22.506
+17:40,1,BelovedBirthJAY,347.873
+17:40,2,제이의_생일을_쫑말쫑말_축하해,512.524
+17:40,3,SalarioRosa,26.799
+17:40,4,OUR JAYPRIL LOVE,313.516
+17:40,5,ENHYPEN_JAY,188.039
+17:40,6,HAPPY_BIRTHDAY_JAY,59.598
+17:40,7,NAYEON,41.617
+17:40,8,第89回,
+17:40,9,Wordle 304 X,23.188
+17:40,10,ゼノブレイド3,30.073
+18:10,1,BelovedBirthJAY,385.276
+18:10,2,SalarioRosa,40.908
+18:10,3,제이의_생일을_쫑말쫑말_축하해,571.480
+18:10,4,OUR JAYPRIL LOVE,336.823
+18:10,5,TMobileTeslaTuesdays,
+18:10,6,NAYEON,49.118
+18:10,7,HAPPY_BIRTHDAY_JAY,68.863
+18:10,8,第89回,
+18:10,9,Priti Patel,25.317
+18:10,10,Wordle 304 X,23.177
+18:40,1,SalarioRosa,57.141
+18:40,2,BelovedBirthJAY,401.356
+18:40,3,제이의_생일을_쫑말쫑말_축하해,599.972
+18:40,4,OUR JAYPRIL LOVE,345.908
+18:40,5,TMobileTeslaTuesdays,13.956
+18:40,6,NAYEON,55.799
+18:40,7,HAPPY_BIRTHDAY_JAY,74.874
+18:40,8,第89回,
+18:40,9,Unsung Hero,
+18:40,10,Mark Harper,
+19:10,1,SalarioRosa,70.100
+19:10,2,BelovedBirthJAY,412.253
+19:10,3,제이의_생일을_쫑말쫑말_축하해,619.376
+19:10,4,OUR JAYPRIL LOVE,352.485
+19:10,5,TMobileTeslaTuesdays,16.983
+19:10,6,NAYEON,59.970
+19:10,7,HAPPY_BIRTHDAY_JAY,78.895
+19:10,8,第89回,
+19:10,9,Unsung Hero,
+19:10,10,Flop of the Season,
+19:40,1,SalarioRosa,79.953
+19:40,2,BelovedBirthJAY,420.069
+19:40,3,제이의_생일을_쫑말쫑말_축하해,632.871
+19:40,4,TMobileTeslaTuesdays,19.267
+19:40,5,OUR JAYPRIL LOVE,357.019
+19:40,6,เพลงของคนเดียว,131.027
+19:40,7,NAYEON,64.621
+19:40,8,Unsung Hero,
+19:40,9,Flop of the Season,
+19:40,10,Signing of the Season,
+20:10,1,SalarioRosa,88.906
+20:10,2,BelovedBirthJAY,425.603
+20:10,3,제이의_생일을_쫑말쫑말_축하해,642.277
+20:10,4,TMobileTeslaTuesdays,21.047
+20:10,5,Phil Jones,
+20:10,6,OUR JAYPRIL LOVE,360.460
+20:10,7,LIVMUN,40.551
+20:10,8,NAYEON,68.029
+20:10,9,Unsung Hero,
+20:10,10,Flop of the Season,
+20:40,1,SalarioRosa,101.407
+20:40,2,Phil Jones,
+20:40,3,LIVMUN,51.271
+20:40,4,BelovedBirthJAY,429.260
+20:40,5,제이의_생일을_쫑말쫑말_축하해,649.218
+20:40,6,TMobileTeslaTuesdays,23.354
+20:40,7,OUR JAYPRIL LOVE,362.592
+20:40,8,Unsung Hero,
+20:40,9,Flop of the Season,
+20:40,10,Signing of the Season,
+21:10,1,SalarioRosa,112.669
+21:10,2,LIVMUN,76.420
+21:10,3,Phil Jones,
+21:10,4,BelovedBirthJAY,431.946
+21:10,5,TMobileTeslaTuesdays,25.763
+21:10,6,제이의_생일을_쫑말쫑말_축하해,654.507
+21:10,7,Unsung Hero,
+21:10,8,Signing of the Season,
+21:10,9,Flop of the Season,
+21:10,10,Player of the Season,10.254
+21:40,1,LIVMUN,124.032
+21:40,2,Liverpool,345.028
+21:40,3,SalarioRosa,123.706
+21:40,4,Pogba,37.512
+21:40,5,Thiago,28.930
+21:40,6,Maguire,98.292
+21:40,7,Maguire,98.292
+21:40,8,Anfield,80.701
+21:40,9,Mane,64.578
+21:40,10,MUFC,102.714
+22:10,1,LIVMUN,143.339
+22:10,2,Liverpool,389.839
+22:10,3,Thiago,55.359
+22:10,4,SalarioRosa,135.466
+22:10,5,Pogba,46.029
+22:10,6,Maguire,109.293
+22:10,7,Maguire,109.293
+22:10,8,MUFC,111.074
+22:10,9,Anfield,98.754
+22:10,10,InterMilan,16.781
+22:40,1,LIVMUN,160.793
+22:40,2,Liverpool,424.260
+22:40,3,Thiago,62.220
+22:40,4,SalarioRosa,146.216
+22:40,5,Rashford,27.602
+22:40,6,Maguire,121.984
+22:40,7,Pogba,49.680
+22:40,8,InterMilan,21.494
+22:40,9,Mane,90.434
+22:40,10,MUFC,116.874
+23:10,1,LIVMUN,193.413
+23:10,2,Liverpool,479.351
+23:10,3,Thiago,77.958
+23:10,4,Maguire,149.096
+23:10,5,Rashford,34.755
+23:10,6,InterMilan,29.805
+23:10,7,SalarioRosa,155.008
+23:10,8,Hannibal,27.686
+23:10,9,MUFC,125.564
+23:10,10,Man U,60.695
+23:40,1,LIVMUN,206.282
+23:40,2,Liverpool,517.125
+23:40,3,Thiago,89.738
+23:40,4,Maguire,165.985
+23:40,5,SalarioRosa,165.652
+23:40,6,InterMilan,34.636
+23:40,7,Rashford,39.709
+23:40,8,MUFC,135.001
+23:40,9,Hannibal,33.841
+23:40,10,Man U,64.977

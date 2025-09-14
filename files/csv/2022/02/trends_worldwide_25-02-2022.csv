@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Putin,3.145.453
+00:10,2,Arsenal,249.757
+00:10,3,ARSWOL,61.567
+00:10,4,Ukraine,2.141.277
+00:10,5,COYG,14.960
+00:10,6,SecretGala6,26.796
+00:10,7,Lacazette,34.482
+00:10,8,SABINA,57.296
+00:10,9,Ucrania,4.285.564
+00:10,10,PekinExpress,16.697
+00:40,1,Putin,2.326.360
+00:40,2,Ukraine,2.375.246
+00:40,3,Arsenal,258.728
+00:40,4,ARSWOL,63.405
+00:40,5,SecretGala6,35.101
+00:40,6,COYG,15.970
+00:40,7,SABINA,60.012
+00:40,8,Ucrania,4.230.881
+00:40,9,Lacazette,35.379
+00:40,10,pekinexpress,16.840
+01:10,1,Putin,1.983.898
+01:10,2,Ukraine,2.587.876
+01:10,3,SecretGala6,42.694
+01:10,4,Arsenal,264.932
+01:10,5,ARSWOL,64.711
+01:10,6,Russia,526.649
+01:10,7,Ucrania,2.970.293
+01:10,8,SABINA,61.881
+01:10,9,COYG,16.534
+01:10,10,Lacazette,36.013
+01:40,1,Putin,1.852.346
+01:40,2,gfvip,113.773
+01:40,3,SecretGala6,49.526
+01:40,4,Russia,1.769.271
+01:40,5,Arsenal,271.160
+01:40,6,ARSWOL,65.570
+01:40,7,Ucrania,2.630.519
+01:40,8,SABINA,64.085
+01:40,9,COYG,16.882
+01:40,10,Elden Ring,202.235
+02:10,1,SecretGala6,56.829
+02:10,2,Putin,1.941.067
+02:10,3,gfvip,119.940
+02:10,4,Arsenal,274.730
+02:10,5,Ucrania,2.419.073
+02:10,6,ARSWOL,66.285
+02:10,7,Bahia,30.768
+02:10,8,Russian,2.250.563
+02:10,9,Elden Ring,200.154
+02:10,10,Station19,
+02:40,1,SecretGala6,58.581
+02:40,2,Station19,15.739
+02:40,3,gfvip,124.505
+02:40,4,Bahia,33.385
+02:40,5,LawAndOrder,
+02:40,6,Ucrania,1.799.337
+02:40,7,Elden Ring,206.712
+02:40,8,EmmanuelMacron,10.119
+02:40,9,Arsenal,278.501
+02:40,10,LINA MERECE RESPEITO,14.052
+03:10,1,LINA MERECE RESPEITO,25.021
+03:10,2,Station19,23.453
+03:10,3,EmmanuelMacron,16.005
+03:10,4,SecretGala6,59.534
+03:10,5,LawAndOrder,
+03:10,6,gfvip,126.114
+03:10,7,Ghost of Kyiv,27.213
+03:10,8,Bahia,34.301
+03:10,9,Ucrania,2.197.704
+03:10,10,Elden Ring,204.953
+03:40,1,LINA MERECE RESPEITO,28.647
+03:40,2,Station19,25.127
+03:40,3,EmmanuelMacron,17.290
+03:40,4,Campinense,
+03:40,5,Restrepo,
+03:40,6,Ghost of Kyiv,35.281
+03:40,7,GreysAnatomy,10.784
+03:40,8,LawAndOrder,
+03:40,9,SecretGala6,59.888
+03:40,10,Olimpia,18.755
+04:10,1,GreysAnatomy,19.355
+04:10,2,Lina,139.304
+04:10,3,Olimpia,24.628
+04:10,4,Restrepo,
+04:10,5,Campinense,
+04:10,6,Ghost of Kyiv,40.853
+04:10,7,PremioLoNuestro,31.932
+04:10,8,Station19,25.902
+04:10,9,Jade e Laís,14.550
+04:10,10,Arthur e Lucas,
+04:40,1,DG e Gustavo,
+04:40,2,Tiago,51.239
+04:40,3,Demar,21.773
+04:40,4,Arthur e Lucas,15.277
+04:40,5,Lina,147.471
+04:40,6,GreysAnatomy,21.387
+04:40,7,provadolider,
+04:40,8,PremioLoNuestro,36.775
+04:40,9,Ghost of Kyiv,45.969
+04:40,10,エルデンリング,198.173
+05:10,1,DG e Gustavo,17.653
+05:10,2,Tiago,53.698
+05:10,3,Demar,32.191
+05:10,4,Arthur e Lucas,16.873
+05:10,5,Lina,151.053
+05:10,6,vernon,93.918
+05:10,7,GreysAnatomy,22.330
+05:10,8,provadolider,
+05:10,9,PremioLoNuestro,42.046
+05:10,10,エルデンリング,202.796
+05:40,1,DG e Gustavo,19.478
+05:40,2,Demar,37.800
+05:40,3,Tiago,55.700
+05:40,4,vernon,100.545
+05:40,5,Arthur e Lucas,18.151
+05:40,6,Lina,154.284
+05:40,7,provadolider,
+05:40,8,GreysAnatomy,22.979
+05:40,9,エルデンリング,209.052
+05:40,10,PremioLoNuestro,44.929
+06:10,1,DG e Gustavo,20.014
+06:10,2,Demar,41.682
+06:10,3,Tiago,56.754
+06:10,4,vernon,104.682
+06:10,5,Arthur e Lucas,19.201
+06:10,6,Canucks,
+06:10,7,エルデンリング,210.875
+06:10,8,BPJS,22.695
+06:10,9,provadolider,
+06:10,10,Lina,151.640
+06:40,1,DG e Gustavo,20.384
+06:40,2,Arthur e Lucas,22.504
+06:40,3,Demar,44.783
+06:40,4,Tiago,57.864
+06:40,5,Vernon,111.521
+06:40,6,Canucks,
+06:40,7,エルデンリング,216.636
+06:40,8,BPJS,23.911
+06:40,9,サガFES,93.567
+06:40,10,メンテ恒例,
+07:10,1,dg e gustavo,20.731
+07:10,2,Arthur e Lucas,25.013
+07:10,3,Demar,47.105
+07:10,4,Canucks,
+07:10,5,JaeDo,59.032
+07:10,6,vernon,115.373
+07:10,7,Tiago,57.708
+07:10,8,エルデンリング,218.309
+07:10,9,HayırlıCumalar,
+07:10,10,BPJS,24.600
+07:40,1,JaeDo,118.202
+07:40,2,Arthur e Lucas,25.938
+07:40,3,DG e Gustavo,20.894
+07:40,4,Demar,49.149
+07:40,5,HayırlıCumalar,10.152
+07:40,6,Canucks,
+07:40,7,vernon,119.785
+07:40,8,エルデンリング,223.933
+07:40,9,SunheriSoch,
+07:40,10,サガFES,115.013
+08:10,1,JaeDo,150.991
+08:10,2,HayırlıCumalar,12.248
+08:10,3,Arthur e Lucas,25.975
+08:10,4,DG e Gustavo,21.021
+08:10,5,UkraineRussia,157.267
+08:10,6,BOLABOLA TEASER OUT NOW,26.665
+08:10,7,エルデンリング,223.527
+08:10,8,Demar,50.485
+08:10,9,Canucks,
+08:10,10,サガFES,124.565
+08:40,1,JaeDo,174.783
+08:40,2,UkraineRussia,167.210
+08:40,3,HayırlıCumalar,14.151
+08:40,4,BOLABOLA TEASER OUT NOW,38.129
+08:40,5,Zelenskiy,
+08:40,6,Arthur e Lucas,26.307
+08:40,7,PredictKaroWinKaro,
+08:40,8,エルデンリング,228.372
+08:40,9,DG e Gustavo,21.115
+08:40,10,Wordle 251 X,
+09:10,1,UkraineRussia,172.195
+09:10,2,JaeDo,192.919
+09:10,3,Zelenskiy,
+09:10,4,HayırlıCumalar,16.076
+09:10,5,BOLABOLA TEASER OUT NOW,47.739
+09:10,6,週末はポテナゲを楽しもう,
+09:10,7,Wordle 251 X,
+09:10,8,エルデンリング,227.596
+09:10,9,Arthur e Lucas,26.479
+09:10,10,FelikaStephani Dan Edmund,
+09:40,1,UkraineRussia,182.971
+09:40,2,Zelenskiy,
+09:40,3,週末はポテナゲを楽しもう,
+09:40,4,JaeDo,207.212
+09:40,5,HayırlıCumalar,18.086
+09:40,6,BOLABOLA TEASER OUT NOW,54.465
+09:40,7,対抗措置,12.086
+09:40,8,Wordle 251 X,
+09:40,9,エルデンリング,234.187
+09:40,10,50 X,18.234
+10:10,1,범규에게물어봐,
+10:10,2,UkraineRussia,188.231
+10:10,3,Zelenskiy,12.300
+10:10,4,週末はポテナゲを楽しもう,
+10:10,5,対抗措置,14.383
+10:10,6,naotalk,
+10:10,7,狼と香辛料,17.261
+10:10,8,Wordle 251 X,
+10:10,9,エルデンリング,233.710
+10:10,10,BOLABOLA TEASER OUT NOW,58.612
+10:40,1,JIKJIN2ndWin,37.051
+10:40,2,범규에게물어봐,18.993
+10:40,3,UkraineRussia,200.883
+10:40,4,또일위_트레저_직진_축하해,12.689
+10:40,5,Zelenskiy,15.275
+10:40,6,狼と香辛料,25.476
+10:40,7,対抗措置,16.732
+10:40,8,エルデンリング,240.779
+10:40,9,Wordle 251 X,
+10:40,10,50 X,18.605
+11:10,1,JIKJIN2ndWin,79.858
+11:10,2,범규에게물어봐,21.973
+11:10,3,UkraineRussia,205.388
+11:10,4,또일위_트레저_직진_축하해,23.938
+11:10,5,Zelenskiy,17.962
+11:10,6,Stade de France,17.912
+11:10,7,狼と香辛料,32.205
+11:10,8,対抗措置,19.130
+11:10,9,エルデンリング,240.298
+11:10,10,Wordle 251 X,
+11:40,1,JIKJIN2ndWin,106.926
+11:40,2,UkraineRussia,217.867
+11:40,3,범규에게물어봐,23.360
+11:40,4,또일위_트레저_직진_축하해,30.043
+11:40,5,金スマ,
+11:40,6,Stade de France,26.650
+11:40,7,狼と香辛料,37.278
+11:40,8,エルデンリング,248.375
+11:40,9,対抗措置,20.750
+11:40,10,محمد,436.223
+12:10,1,JIKJIN2ndWin,121.195
+12:10,2,金スマ,11.333
+12:10,3,UkraineRussia,224.220
+12:10,4,또일위_트레저_직진_축하해,32.934
+12:10,5,범규에게물어봐,24.528
+12:10,6,Stade de France,32.091
+12:10,7,狼と香辛料,41.643
+12:10,8,エルデンリング,250.144
+12:10,9,PA e Scooby,19.968
+12:10,10,らんねーちゃん,
+12:40,1,金スマ,16.400
+12:40,2,UkraineRussia,237.124
+12:40,3,JIKJIN2ndWin,133.280
+12:40,4,ILOILOisPink,43.943
+12:40,5,Hi_JO1,10.902
+12:40,6,Stade de France,36.492
+12:40,7,狼と香辛料,46.098
+12:40,8,らんねーちゃん,
+12:40,9,PA e Scooby,22.948
+12:40,10,エルデンリング,261.207
+13:10,1,金スマ,22.040
+13:10,2,UkraineRussia,243.464
+13:10,3,JIKJIN2ndWin,140.189
+13:10,4,エセ大阪人じゃなきゃ分かるはず,
+13:10,5,ILOILOisPink,50.470
+13:10,6,Stade de France,39.649
+13:10,7,狼と香辛料,49.741
+13:10,8,級の大阪人,
+13:10,9,らんねーちゃん,
+13:10,10,エルデンリング,260.439
+13:40,1,金スマ,27.582
+13:40,2,エセ大阪人じゃなきゃ分かるはず,
+13:40,3,UkraineRussia,258.810
+13:40,4,激むず関西弁クイズ,
+13:40,5,ILOILOisPink,57.385
+13:40,6,級の大阪人,
+13:40,7,生粋の大阪人,
+13:40,8,Stade de France,42.686
+13:40,9,狼と香辛料,52.867
+13:40,10,エルデンリング,269.300
+14:10,1,金スマ,31.045
+14:10,2,エセ大阪人じゃなきゃ分かるはず,
+14:10,3,激むず関西弁クイズ,
+14:10,4,ILOILOisPink,67.682
+14:10,5,UkraineRussia,264.023
+14:10,6,級の大阪人,
+14:10,7,生粋の大阪人,
+14:10,8,ALEXA FEELIN 22,58.770
+14:10,9,エルデンリング,267.805
+14:10,10,狼と香辛料,55.518
+14:40,1,エセ大阪人じゃなきゃ分かるはず,
+14:40,2,激むず関西弁クイズ,
+14:40,3,金スマ,32.578
+14:40,4,ILOILOisPink,76.035
+14:40,5,UkraineRussia,279.389
+14:40,6,級の大阪人,
+14:40,7,生粋の大阪人,
+14:40,8,ALEXA FEELIN 22,75.275
+14:40,9,こたつトーク,
+14:40,10,ユルッと6人,
+15:10,1,エセ大阪人じゃなきゃ分かるはず,
+15:10,2,激むず関西弁クイズ,
+15:10,3,君と世界が終わる日に,21.784
+15:10,4,UkraineRussia,286.942
+15:10,5,ILOILOisPink,82.949
+15:10,6,級の大阪人,
+15:10,7,生粋の大阪人,
+15:10,8,james reid,
+15:10,9,ALEXA FEELIN 22,92.993
+15:10,10,どん兵衛,19.151
+15:40,1,激むず関西弁クイズ,
+15:40,2,エセ大阪人じゃなきゃ分かるはず,
+15:40,3,UkraineRussia,304.689
+15:40,4,君と世界が終わる日に,22.811
+15:40,5,ILOILOisPink,88.550
+15:40,6,級の大阪人,
+15:40,7,JAMES REID,13.534
+15:40,8,Ketanji Brown Jackson,29.652
+15:40,9,生粋の大阪人,
+15:40,10,どん兵衛,21.296
+16:10,1,激むず関西弁クイズ,
+16:10,2,エセ大阪人じゃなきゃ分かるはず,
+16:10,3,UkraineRussia,313.389
+16:10,4,心はNaeba,15.007
+16:10,5,ساعه_استجابه,51.440
+16:10,6,級の大阪人,
+16:10,7,Ketanji Brown Jackson,43.378
+16:10,8,James Reid,17.248
+16:10,9,生粋の大阪人,
+16:10,10,BLゲーム,
+16:40,1,激むず関西弁クイズ,
+16:40,2,エセ大阪人じゃなきゃ分かるはず,
+16:40,3,Wordle 252,
+16:40,4,UkraineRussia,329.700
+16:40,5,結成4周年おめでとう7MEN侍,
+16:40,6,LQvIU,
+16:40,7,Ketanji Brown Jackson,62.691
+16:40,8,第36回,
+16:40,9,級の大阪人,
+16:40,10,Judge Jackson,44.413
+17:10,1,Wordle 252,10.131
+17:10,2,激むず関西弁クイズ,
+17:10,3,エセ大阪人じゃなきゃ分かるはず,
+17:10,4,LQvIU,10.448
+17:10,5,第36回,
+17:10,6,UkraineRussia,339.069
+17:10,7,Ketanji Brown Jackson,78.612
+17:10,8,結成4周年おめでとう7MEN侍,
+17:10,9,Judge Jackson,57.827
+17:10,10,Supreme Court,108.915
+17:40,1,LQvIU,13.361
+17:40,2,Wordle 252,13.529
+17:40,3,激むず関西弁クイズ,
+17:40,4,エセ大阪人じゃなきゃ分かるはず,
+17:40,5,第36回,
+17:40,6,UkraineRussia,356.586
+17:40,7,フロイニ,41.991
+17:40,8,Ketanji Brown Jackson,94.094
+17:40,9,Supreme Court,123.259
+17:40,10,Judge Jackson,71.209
+18:10,1,LQvIU,16.241
+18:10,2,SeMujerEdomex,
+18:10,3,Wordle 252,15.627
+18:10,4,フロイニ,67.125
+18:10,5,UkraineRussia,368.309
+18:10,6,akaryakıt,
+18:10,7,第36回,
+18:10,8,Ketanji Brown Jackson,107.868
+18:10,9,Supreme Court,135.473
+18:10,10,Judge Jackson,82.804
+18:40,1,SeMujerEdomex,
+18:40,2,LQvIU,18.391
+18:40,3,akaryakıt,
+18:40,4,フロイニ,91.073
+18:40,5,UkraineRussia,383.658
+18:40,6,Wordle 252,17.674
+18:40,7,Ketanji Brown Jackson,121.569
+18:40,8,第36回,
+18:40,9,Supreme Court,148.063
+18:40,10,Judge Jackson,95.003
+19:10,1,SeMujerEdomex,
+19:10,2,akaryakıt,
+19:10,3,LQvIU,21.097
+19:10,4,RussiaUkraineWar,86.972
+19:10,5,ZamZamYettiBe,
+19:10,6,Wordle 252,19.080
+19:10,7,Ketanji Brown Jackson,132.915
+19:10,8,Supreme Court,157.697
+19:10,9,Finlandia,28.304
+19:10,10,第36回,
+19:40,1,LQvsIU,14.239
+19:40,2,SkyGames,
+19:40,3,SeMujerEdomex,10.479
+19:40,4,LahoreQalandars,
+19:40,5,ZamZamYettiBe,
+19:40,6,Finlandia,35.786
+19:40,7,Ketanji Brown Jackson,143.441
+19:40,8,Wordle 252,21.171
+19:40,9,Supreme Court,168.243
+19:40,10,David Wiese,
+20:10,1,LQvsIU,18.630
+20:10,2,SeMujerEdomex,12.452
+20:10,3,SkyGames,
+20:10,4,LahoreQalandars,
+20:10,5,ZamZamYettiBe,
+20:10,6,Finlandia,41.895
+20:10,7,Supreme Court,178.750
+20:10,8,Ketanji Brown Jackson,153.637
+20:10,9,David Wiese,
+20:10,10,Wordle 252,23.800
+20:40,1,LQvsIU,20.023
+20:40,2,SeMujerEdomex,14.101
+20:40,3,TSvKYS,
+20:40,4,SkyGames,
+20:40,5,ZamZamYettiBe,
+20:40,6,Finlandia,48.464
+20:40,7,Supreme Court,195.495
+20:40,8,Ketanji Brown Jackson,169.883
+20:40,9,Judge Jackson,136.642
+20:40,10,SCOTUS,52.280
+21:10,1,LQvsIU,20.733
+21:10,2,SeMujerEdomex,15.577
+21:10,3,MilanUdinese,
+21:10,4,TSvKYS,
+21:10,5,akaryakıt,13.010
+21:10,6,Finlandia,53.879
+21:10,7,Supreme Court,206.854
+21:10,8,Ketanji Brown Jackson,182.174
+21:10,9,Judge Jackson,146.228
+21:10,10,SCOTUS,55.868
+21:40,1,SeMujerEdomex,16.741
+21:40,2,LQvsIU,21.153
+21:40,3,MilanUdinese,
+21:40,4,Cesar2022,
+21:40,5,İyikiDoğdunREİS,
+21:40,6,Finlandia,59.354
+21:40,7,Supreme Court,217.575
+21:40,8,Ketanji Brown Jackson,191.670
+21:40,9,Judge Jackson,153.835
+21:40,10,SCOTUS,59.469
+22:10,1,İyikiDoğdunREİS,
+22:10,2,SeMujerEdomex,17.881
+22:10,3,Cesar2022,10.389
+22:10,4,MilanUdinese,
+22:10,5,LQvsIU,21.435
+22:10,6,Finlandia,63.559
+22:10,7,Supreme Court,225.641
+22:10,8,Ketanji Brown Jackson,199.490
+22:10,9,Morgan Fairchild,
+22:10,10,Eurovisión,91.041
+22:40,1,İyikiDoğdunREİS,
+22:40,2,Cesar2022,13.355
+22:40,3,SeMujerEdomex,18.915
+22:40,4,RussiaUkraineWar,127.039
+22:40,5,GenoaInter,
+22:40,6,Finlandia,67.883
+22:40,7,Supreme Court,233.757
+22:40,8,Morgan Fairchild,
+22:40,9,Ketanji Brown Jackson,206.873
+22:40,10,Eurovisión,95.016
+23:10,1,İyikiDoğdunREİS,
+23:10,2,GenoaInter,
+23:10,3,Cesar2022,16.380
+23:10,4,SeMujerEdomex,19.739
+23:10,5,StandWithUkriane,34.924
+23:10,6,Finlandia,71.486
+23:10,7,COREANO NA LOUD,
+23:10,8,Supreme Court,240.132
+23:10,9,Morgan Fairchild,
+23:10,10,Carnaval,265.621
+23:40,1,İyikiDoğdunREİS,
+23:40,2,GenoaInter,
+23:40,3,Cesar2022,19.194
+23:40,4,TCMSSemifinal2,
+23:40,5,StandWithUkriane,38.679
+23:40,6,Finlandia,75.256
+23:40,7,COREANO NA LOUD,13.077
+23:40,8,Carnaval,275.804
+23:40,9,腐死鳥認定,
+23:40,10,Morgan Fairchild,

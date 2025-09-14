@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Gerrard,46.278
+00:10,2,LaIslaDeLasTentaciones5,18.754
+00:10,3,lufc,12.045
+00:10,4,Villa,99.868
+00:10,5,Elijah Moore,
+00:10,6,avfc,16.761
+00:10,7,PMSCODKyler,
+00:10,8,Figal,12.120
+00:10,9,DragRaceUK,
+00:10,10,Boris,380.320
+00:40,1,Gerrard,55.893
+00:40,2,LaIslaDeLasTentaciones5,24.248
+00:40,3,ResidentEvil4Remake,
+00:40,4,Elijah Moore,
+00:40,5,Villa,109.074
+00:40,6,FanDuelisPHENOMENAL,
+00:40,7,avfc,18.786
+00:40,8,lufc,12.377
+00:40,9,Figal,12.578
+00:40,10,Boris,391.375
+01:10,1,ResidentEvil4Remake,
+01:10,2,LaIslaDeLasTentaciones5,29.785
+01:10,3,Gerrard,60.936
+01:10,4,FanDuelisPHENOMENAL,
+01:10,5,BolsonaroNoInteligência,58.390
+01:10,6,Elijah Moore,
+01:10,7,Villa,112.437
+01:10,8,Graphic B,
+01:10,9,PMSCODKyler,
+01:10,10,RE4 Remake,
+01:40,1,ResidentEvil4Remake,
+01:40,2,LaIslaDeLasTentaciones5,33.065
+01:40,3,FanDuelisPHENOMENAL,
+01:40,4,BolsonaroNoInteligencia,77.712
+01:40,5,Gerrard,63.865
+01:40,6,Elijah Moore,
+01:40,7,Graphic B,
+01:40,8,Villa,115.904
+01:40,9,Leon,102.233
+01:40,10,RE4 Remake,
+02:10,1,ZAZYを救え,
+02:10,2,BolsonaroNoInteligencia,96.868
+02:10,3,ResidentEvil4Remake,10.276
+02:10,4,FanDuelisPHENOMENAL,
+02:10,5,LaIslaDeLasTentaciones5,33.728
+02:10,6,Gerrard,65.903
+02:10,7,Elijah Moore,10.342
+02:10,8,Graphic B,
+02:10,9,Leon,102.997
+02:10,10,Giannis,12.328
+02:40,1,BolsonaroNoInteligencia,111.252
+02:40,2,ResidentEvil4Remake,12.041
+02:40,3,ZAZYを救え,
+02:40,4,FanDuelisPHENOMENAL,
+02:40,5,LaIslaDeLasTentaciones5,33.976
+02:40,6,Cardinals,27.752
+02:40,7,Giannis,14.608
+02:40,8,Andy Dalton,
+02:40,9,Graphic B,
+02:40,10,Leon,107.211
+03:10,1,Kevin White,
+03:10,2,Cardinals,30.202
+03:10,3,BolsonaroNoInteligencia,126.017
+03:10,4,Andy Dalton,
+03:10,5,Saints,48.409
+03:10,6,Bregman,
+03:10,7,MidnightsTaylorSwift,11.984
+03:10,8,MidnightsTaylorSwift,11.984
+03:10,9,ResidentEvil4Remake,13.382
+03:10,10,ZAZYを救え,
+03:40,1,Cardinals,32.992
+03:40,2,Kevin White,
+03:40,3,Kyler,12.366
+03:40,4,Saints,54.314
+03:40,5,TNFonPrime,11.673
+03:40,6,Andy Dalton,
+03:40,7,BolsonaroNoInteligencia,141.109
+03:40,8,Taysom Hill,
+03:40,9,MidnightsTaylorSwift,13.761
+03:40,10,MidnightsTaylorSwift,13.761
+04:10,1,Andy Dalton,13.632
+04:10,2,Saints,63.916
+04:10,3,Cardinals,37.656
+04:10,4,Harden,25.905
+04:10,5,TNFonPrime,16.129
+04:10,6,Embiid,21.897
+04:10,7,MidnightsTaylorSwift,16.839
+04:10,8,MidnightsTaylorSwift,16.839
+04:10,9,Kyler,14.995
+04:10,10,Sixers,21.529
+04:40,1,MidnightsTaylorSwift,28.445
+04:40,2,Andy Dalton,14.845
+04:40,3,John Wall,
+04:40,4,Saints,68.673
+04:40,5,Cardinals,39.704
+04:40,6,TNFonPrime,28.073
+04:40,7,Harden,27.964
+04:40,8,Embiid,23.975
+04:40,9,Kyler,17.573
+04:40,10,LAURA DERN,
+05:10,1,MidnightsTaylorSwift,39.536
+05:10,2,Andy Dalton,15.714
+05:10,3,John Wall,11.036
+05:10,4,Kawhi,18.943
+05:10,5,Lakers,67.109
+05:10,6,Saints,71.944
+05:10,7,EliminaçãoAFazenda,33.588
+05:10,8,Cardinals,40.997
+05:10,9,TNFonPrime,34.274
+05:10,10,Clippers,28.030
+05:40,1,MidnightsTaylorSwift,50.924
+05:40,2,49ers,51.548
+05:40,3,EliminaçãoAFazenda,65.042
+05:40,4,Shay,88.051
+05:40,5,Niners,
+05:40,6,Andy Dalton,16.478
+05:40,7,John Wall,11.787
+05:40,8,Kawhi,20.294
+05:40,9,Lakers,72.700
+05:40,10,Saints,76.664
+06:10,1,MidnightsTaylorSwift,83.426
+06:10,2,SPOTIFY,671.560
+06:10,3,Shay,166.939
+06:10,4,49ers,68.006
+06:10,5,EliminacaoAFazenda,97.566
+06:10,6,Tiago,112.746
+06:10,7,Lakers,81.827
+06:10,8,Niners,
+06:10,9,MeetMeAtMidnight,25.756
+06:10,10,Lavender Haze,30.078
+06:40,1,MidnightsTaylorSwift,148.887
+06:40,2,spotify,786.571
+06:40,3,Lakers,106.461
+06:40,4,lana,113.459
+06:40,5,Shay,219.102
+06:40,6,49ers,76.997
+06:40,7,Westbrook,24.062
+06:40,8,MeetMeAtMidnight,33.225
+06:40,9,Lavender Haze,57.810
+06:40,10,Tiago,164.606
+07:10,1,MidnightsTaylorSwift,195.387
+07:10,2,MidnightsTaylorSwift,195.387
+07:10,3,Spotify,820.699
+07:10,4,Lakers,120.867
+07:10,5,Lana,141.117
+07:10,6,Lavender Haze,79.339
+07:10,7,Shay,246.984
+07:10,8,Westbrook,28.932
+07:10,9,MeetMeAtMidnight,37.766
+07:10,10,Midnight Rain,47.868
+07:40,1,MidnightsTaylorSwift,220.947
+07:40,2,Spotify,857.968
+07:40,3,Lana,159.587
+07:40,4,Lakers,125.983
+07:40,5,Lavender Haze,91.391
+07:40,6,Shay,272.800
+07:40,7,Westbrook,31.104
+07:40,8,Tiago,225.075
+07:40,9,49ers,84.494
+07:40,10,Sweet Nothing,37.826
+08:10,1,MidnightsTaylorSwift,237.181
+08:10,2,Lana,169.436
+08:10,3,Spotify,866.297
+08:10,4,Lakers,128.715
+08:10,5,Lavender Haze,98.597
+08:10,6,Shay,287.393
+08:10,7,Sweet Nothing,40.916
+08:10,8,Westbrook,32.683
+08:10,9,Tiago,237.040
+08:10,10,49ers,86.431
+08:40,1,MidnightsTaylorSwift,248.847
+08:40,2,Lana,177.614
+08:40,3,Spotify,893.037
+08:40,4,Lavender Haze,103.650
+08:40,5,Lakers,131.306
+08:40,6,Shay,293.898
+08:40,7,Sweet Nothing,43.638
+08:40,8,Tiago,242.089
+08:40,9,Westbrook,34.172
+08:40,10,Anti-Hero,237.971
+09:10,1,MidnightsTaylorSwift,259.485
+09:10,2,Lana,181.960
+09:10,3,Lavender Haze,107.775
+09:10,4,Spotify,899.348
+09:10,5,Lakers,132.705
+09:10,6,Midnight Rain,70.848
+09:10,7,Shay,297.005
+09:10,8,Sweet Nothing,45.622
+09:10,9,MeetMeAtMidnight,43.657
+09:10,10,震度5弱,13.896
+09:40,1,MidnightsTaylorSwift,270.564
+09:40,2,Lana,187.169
+09:40,3,Lavender Haze,110.808
+09:40,4,West Indies,
+09:40,5,Spotify,950.981
+09:40,6,Midnight Rain,72.623
+09:40,7,Lakers,134.272
+09:40,8,小室圭さん,18.165
+09:40,9,Shay,298.719
+09:40,10,MeetMeAtMidnight,45.082
+10:10,1,MidnightsTaylorSwift,277.365
+10:10,2,West Indies,10.590
+10:10,3,Lana,189.642
+10:10,4,小室圭さん,23.798
+10:10,5,Lavender Haze,113.869
+10:10,6,Spotify,954.676
+10:10,7,Midnight Rain,74.862
+10:10,8,BuildXEyebraaaaa,42.831
+10:10,9,IREvsWI,
+10:10,10,あなたは陰キャなのか陽キャなのか,
+10:40,1,MidnightsTaylorSwift,282.940
+10:40,2,小室圭さん,28.451
+10:40,3,BuildXEyebraaaaa,100.573
+10:40,4,West Indies,
+10:40,5,Lana,193.992
+10:40,6,Lavender Haze,116.147
+10:40,7,あなたは陰キャなのか陽キャなのか,
+10:40,8,ÖSYM,
+10:40,9,関ジャニ18祭,
+10:40,10,Midnight Rain,76.389
+11:10,1,MidnightsTaylorSwift,287.394
+11:10,2,小室圭さん,32.136
+11:10,3,BuildXEyebraaaaa,147.887
+11:10,4,عمران_خان_ہماری_ریڈ_لائن,143.232
+11:10,5,SuperCali_20M_Views,10.392
+11:10,6,関ジャニ18祭,
+11:10,7,West Indies,
+11:10,8,Lana,196.633
+11:10,9,JoshCullen TheOneNg1hawan,36.115
+11:10,10,Lavender Haze,118.342
+11:40,1,عمران_خان_ہماری_ریڈ_لائن,185.886
+11:40,2,MidnightsTaylorSwift,291.872
+11:40,3,CASE143_6thWin,23.029
+11:40,4,스키즈_Case143_6관왕,16.108
+11:40,5,小室圭さん,35.233
+11:40,6,関ジャニ18祭,
+11:40,7,JoshCullen TheOneNg1hawan,50.631
+11:40,8,24EVER TEASER RevAIL,121.772
+11:40,9,West Indies,13.713
+11:40,10,Lana,201.751
+12:10,1,عمران_خان_ہماری_ریڈ_لائن,236.328
+12:10,2,MidnightsTaylorSwift,296.832
+12:10,3,CASE143_6thWin,32.186
+12:10,4,FELIPatPOPSTIVAL2022,59.815
+12:10,5,BeMyCutiePieInOSAKA,52.162
+12:10,6,24EVER TEASER RevAIL,148.446
+12:10,7,小室圭さん,37.862
+12:10,8,JoshCullen TheOneNg1hawan,72.929
+12:10,9,West Indies,
+12:10,10,محمد,484.574
+12:40,1,عمران_خان_ہماری_ریڈ_لائن,280.078
+12:40,2,FELIPatPOPSTIVAL2022,84.091
+12:40,3,MidnightsTaylorSwift,301.381
+12:40,4,CASE143_6thWin,36.983
+12:40,5,kpss2022,42.324
+12:40,6,24EVER TEASER RevAIL,163.224
+12:40,7,JoshCullen TheOneNg1hawan,97.228
+12:40,8,小室圭さん,40.044
+12:40,9,محمد,505.302
+12:40,10,West Indies,14.735
+13:10,1,عمران_خان_ہماری_ریڈ_لائن,321.852
+13:10,2,kpss2022,43.288
+13:10,3,FELIPatPOPSTIVAL2022,96.443
+13:10,4,CASE143_6thWin,40.042
+13:10,5,Taylor,1.486.353
+13:10,6,関ジャニ18祭,
+13:10,7,24EVER TEASER RevAIL,169.577
+13:10,8,JoshCullen TheOneNg1hawan,109.133
+13:10,9,小室圭さん,42.006
+13:10,10,オリオン座流星群,46.954
+13:40,1,アークナイツ秋感謝祭2022,
+13:40,2,عمران_خان_ہماری_ریڈ_لائن,363.510
+13:40,3,imrankhanPTI,15.395
+13:40,4,グッとフレーズ,10.213
+13:40,5,Taylor,1.422.071
+13:40,6,FELIPatPOPSTIVAL2022,104.104
+13:40,7,JoshCullen TheOneNg1hawan,115.048
+13:40,8,24EVER TEASER RevAIL,173.726
+13:40,9,小室圭さん,43.748
+13:40,10,お前の母ちゃん,
+14:10,1,アークナイツ秋感謝祭2022,10.333
+14:10,2,عمران_خان_ہماری_ریڈ_لائن,403.680
+14:10,3,グッとフレーズ,14.364
+14:10,4,GALINGAN NIYO SB19,51.062
+14:10,5,imrankhanPTI,18.521
+14:10,6,WeSkincareAboutYouTH,61.934
+14:10,7,Taylor,1.598.691
+14:10,8,JoshCullen TheOneNg1hawan,118.602
+14:10,9,小室圭さん,45.033
+14:10,10,İlker Kaleli,
+14:40,1,アークナイツ秋感謝祭2022,13.672
+14:40,2,グッとフレーズ,18.168
+14:40,3,عمران_خان_ہماری_ریڈ_لائن,442.997
+14:40,4,GALINGAN NIYO SB19,92.691
+14:40,5,WeSkincareAboutYouTH,115.753
+14:40,6,おすしの青春,
+14:40,7,Taylor,1.664.891
+14:40,8,SB19 KINGS SA POPSTIVAL,45.103
+14:40,9,ALAB NG SB19 SA POPSTIVAL,34.224
+14:40,10,オリオン座流星群,53.724
+15:10,1,アークナイツ秋感謝祭2022,16.866
+15:10,2,クロサギ,72.668
+15:10,3,グッとフレーズ,20.364
+15:10,4,عمران_خان_ہماری_ریڈ_لائن,459.985
+15:10,5,おすしの青春,
+15:10,6,GALINGAN NIYO SB19,118.393
+15:10,7,SB19 KINGS SA POPSTIVAL,68.109
+15:10,8,オリオン座流星群,57.295
+15:10,9,Taylor Swift,865.926
+15:10,10,お前の母ちゃん,
+15:40,1,クロサギ,109.844
+15:40,2,アークナイツ秋感謝祭2022,18.600
+15:40,3,グッとフレーズ,21.464
+15:40,4,عمران_خان_ہماری_ریڈ_لائن,517.140
+15:40,5,おすしの青春,
+15:40,6,GALINGAN NIYO SB19,133.940
+15:40,7,オリオン座流星群,60.052
+15:40,8,Taylor Swift,890.560
+15:40,9,SB19 KINGS SA POPSTIVAL,81.881
+15:40,10,欅のOverture,
+16:10,1,クロサギ,131.229
+16:10,2,アークナイツ秋感謝祭2022,18.917
+16:10,3,TheEclipseSeriesEP11,39.469
+16:10,4,ストチューブ,
+16:10,5,FELIPatPOPSTIVAL2022,229.458
+16:10,6,工藤選手,
+16:10,7,J3宮崎,
+16:10,8,B.IRTHDAY TODAY,
+16:10,9,Taylor Swift,898.806
+16:10,10,オリオン座流星群,62.047
+16:40,1,クロサギ,177.271
+16:40,2,TheEclipseSeriesEP11,69.182
+16:40,3,平野紫耀,128.455
+16:40,4,アークナイツ秋感謝祭2022,19.129
+16:40,5,工藤選手,14.145
+16:40,6,GlobalStarHanbinDay,13.235
+16:40,7,ツキヨミ,15.455
+16:40,8,B.IRTHDAY TODAY,13.105
+16:40,9,J3宮崎,
+16:40,10,Taylor Swift,923.514
+17:10,1,クロサギ,194.218
+17:10,2,GlobalStarHanbinDay,24.602
+17:10,3,김한빈짱짱_생일축하헿헿,27.543
+17:10,4,TheEclipseSeriesEP11,99.565
+17:10,5,B.IRTHDAY TODAY,22.402
+17:10,6,平野紫耀,137.041
+17:10,7,工藤選手,16.969
+17:10,8,Steve Bannon,51.268
+17:10,9,Taylor Swift,929.550
+17:10,10,ツキヨミ,16.792
+17:40,1,クロサギ,203.370
+17:40,2,Steve Bannon,73.652
+17:40,3,GlobalStarHanbinDay,35.630
+17:40,4,김한빈짱짱_생일축하헿헿,40.374
+17:40,5,B.IRTHDAY TODAY,31.438
+17:40,6,FATF,
+17:40,7,TheEclipseSeriesEP11,114.799
+17:40,8,第274回,
+17:40,9,工藤選手,18.660
+17:40,10,Taylor Swift,952.280
+18:10,1,クロサギ,207.980
+18:10,2,Steve Bannon,88.392
+18:10,3,GlobalStarHanbinDay,41.819
+18:10,4,김한빈짱짱_생일축하헿헿,47.492
+18:10,5,フロイニ,10.303
+18:10,6,dreamspace,
+18:10,7,B.IRTHDAY TODAY,36.200
+18:10,8,第274回,
+18:10,9,Taylor Swift,955.527
+18:10,10,工藤選手,19.669
+18:40,1,フロイニ,42.602
+18:40,2,Steve Bannon,99.028
+18:40,3,クロサギ,211.312
+18:40,4,GlobalStarHanbinDay,45.445
+18:40,5,FATF,21.155
+18:40,6,김한빈짱짱_생일축하헿헿,51.740
+18:40,7,B.IRTHDAY TODAY,38.952
+18:40,8,Taylor Swift,977.245
+18:40,9,第274回,
+18:40,10,為替介入,10.551
+19:10,1,フロイニ,68.060
+19:10,2,Steve Bannon,109.786
+19:10,3,クロサギ,213.032
+19:10,4,FATF,133.355
+19:10,5,MeloniPremier,
+19:10,6,GlobalStarHanbinDay,47.795
+19:10,7,김한빈짱짱_생일축하헿헿,54.401
+19:10,8,B.IRTHDAY TODAY,40.648
+19:10,9,Taylor Swift,979.199
+19:10,10,Kalksın Uyuyanlar,
+19:40,1,フロイニ,88.591
+19:40,2,Steve Bannon,119.644
+19:40,3,MeloniPremier,
+19:40,4,FATF,146.940
+19:40,5,クロサギ,214.295
+19:40,6,GlobalStarHanbinDay,49.443
+19:40,7,김한빈짱짱_생일축하헿헿,56.327
+19:40,8,Taylor Swift,997.218
+19:40,9,Gabriela,83.631
+19:40,10,Quilmes,16.326
+20:10,1,Steve Bannon,129.018
+20:10,2,フロイニ,106.675
+20:10,3,حفل_افتتاح_موسم_الرياض,12.494
+20:10,4,MeloniPremier,11.136
+20:10,5,FATF,158.331
+20:10,6,Gabriela,85.659
+20:10,7,GlobalStarHanbinDay,50.416
+20:10,8,Taylor Swift,998.669
+20:10,9,김한빈짱짱_생일축하헿헿,57.505
+20:10,10,Quilmes,18.043
+20:40,1,Steve Bannon,137.503
+20:40,2,حفل_افتتاح_موسم_الرياض,16.976
+20:40,3,フロイニ,108.160
+20:40,4,GovernoMeloni,
+20:40,5,MeloniPremier,12.165
+20:40,6,FATF,167.465
+20:40,7,ministri,
+20:40,8,Gabriela,89.405
+20:40,9,Quilmes,19.626
+20:40,10,Taylor Swift,1.015.231
+21:10,1,حفل_افتتاح_موسم_الرياض,21.142
+21:10,2,Bannon,217.773
+21:10,3,freecodefridaycontest,
+21:10,4,PMSNFLWeek7,
+21:10,5,GovernoMeloni,10.624
+21:10,6,フロイニ,108.593
+21:10,7,Gabriela,91.005
+21:10,8,Luv Resval,31.719
+21:10,9,FATF,175.150
+21:10,10,Quilmes,20.849
+21:40,1,freecodefridaycontest,
+21:40,2,PMSNFLWeek7,
+21:40,3,Bannon,229.124
+21:40,4,حفل_افتتاح_موسم_الرياض,25.641
+21:40,5,YalıÇapkını,37.835
+21:40,6,GovernoMeloni,11.723
+21:40,7,Cuphead,
+21:40,8,Gabriela,93.670
+21:40,9,Luv Resval,37.457
+21:40,10,Taylor Swift,1.024.081
+22:10,1,freecodefridaycontest,
+22:10,2,PMSNFLWeek7,
+22:10,3,Bannon,236.937
+22:10,4,YalıÇapkını,42.856
+22:10,5,حفل_افتتاح_موسم_الرياض,29.664
+22:10,6,Cuphead,
+22:10,7,GovernoMeloni,12.604
+22:10,8,Fabian Ruiz,
+22:10,9,Gabriela,92.597
+22:10,10,Taylor Swift,1.025.316
+22:40,1,freecodefridaycontest,
+22:40,2,VitalikX,
+22:40,3,YalıÇapkını,50.119
+22:40,4,PMSNFLWeek7,
+22:40,5,Bannon,246.432
+22:40,6,Cuphead,10.468
+22:40,7,FridayNightLive,
+22:40,8,Benfica,38.081
+22:40,9,Fabian Ruiz,
+22:40,10,Gabriela,95.153
+23:10,1,freecodefridaycontest,
+23:10,2,VitalikX,
+23:10,3,YalıÇapkını,55.029
+23:10,4,taleequaleshow,
+23:10,5,FridayNightLive,
+23:10,6,Bannon,254.471
+23:10,7,Cuphead,11.779
+23:10,8,Benfica,43.029
+23:10,9,Messi,259.815
+23:10,10,Rabiot,
+23:40,1,freecodefridaycontest,
+23:40,2,Benfica,58.513
+23:40,3,VitalikX,
+23:40,4,FridayNightLive,
+23:40,5,taleequaleshow,
+23:40,6,حفل_افتتاح_موسم_الرياض,40.596
+23:40,7,Cuphead,12.997
+23:40,8,Bannon,263.357
+23:40,9,Porto,64.430
+23:40,10,Messi,287.366

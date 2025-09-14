@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,SalarioRosa,68.312
+00:09,2,UnusAnnusisoverparty,161.117
+00:09,3,KohLanta,42.557
+00:09,4,Uruguay,73.809
+00:09,5,CantoraLaHerenciaEnvenenada,13.770
+00:09,6,MillionMAGAMarch,42.409
+00:09,7,Queiroz,14.974
+00:09,8,Cuomo,99.138
+00:09,9,Muriel,
+00:09,10,Friday the 13th,429.900
+00:39,1,SalarioRosa,73.379
+00:39,2,UnusAnnusisoverparty,173.944
+00:39,3,FreeCodeFridayContest,11.941
+00:39,4,Uruguay,77.650
+00:39,5,KohLanta,43.248
+00:39,6,CantoraLaHerenciaEnvenenada,18.656
+00:39,7,Queiroz,16.133
+00:39,8,Vidal,18.673
+00:39,9,Cuomo,109.273
+00:39,10,Zelina Vega,
+01:09,1,SalarioRosa,77.544
+01:09,2,UnusAnnusisoverparty,182.491
+01:09,3,FreeCodeFridayContest,13.536
+01:09,4,PeruVsChile,89.110
+01:09,5,MTVDynamite,39.573
+01:09,6,Uruguay,79.194
+01:09,7,Colombia,166.996
+01:09,8,Ruidiaz,
+01:09,9,Cuomo,114.181
+01:09,10,Arturo Vidal,
+01:39,1,SalarioRosa,81.527
+01:39,2,UnusAnnusisoverparty,190.149
+01:39,3,FreeCodeFridayContest,15.026
+01:39,4,PeruVsChile,111.167
+01:39,5,MTVDynamite,50.244
+01:39,6,Vidal,30.148
+01:39,7,Uruguay,81.522
+01:39,8,Zelina Vega,
+01:39,9,Cuomo,120.835
+01:39,10,Tim Allen,
+02:09,1,SalarioRosa,84.576
+02:09,2,UnusAnnusisoverparty,204.725
+02:09,3,FreeCodeFridayContest,16.013
+02:09,4,PeruVsChile,128.117
+02:09,5,CantoraLaHerenciaEnvenenada,33.633
+02:09,6,Vidal,33.486
+02:09,7,Uruguay,81.762
+02:09,8,Ruidiaz,10.515
+02:09,9,Tim Allen,10.578
+02:09,10,Zelina,21.512
+02:39,1,UnusAnnusisoverparty,217.846
+02:39,2,SalarioRosa,87.500
+02:39,3,CagayanNeedsHelp,2.201.702
+02:39,4,MTVTop20ConDhasia,74.346
+02:39,5,MTVDynamite,69.789
+02:39,6,Vidal,37.357
+02:39,7,Douglas Luiz,
+02:39,8,Cagayan,1.050.233
+02:39,9,Everton Ribeiro,10.994
+02:39,10,Soteldo,
+03:09,1,UnusAnnusisoverparty,236.210
+03:09,2,SalarioRosa,89.800
+03:09,3,CagayanNeedsHelp,2.337.525
+03:09,4,Firmino,10.497
+03:09,5,MTVTop20ConDhasia,85.289
+03:09,6,MTVDynamite,79.419
+03:09,7,Everton Ribeiro,14.077
+03:09,8,Paquetá,12.796
+03:09,9,Cebolinha,
+03:09,10,Vidal,39.028
+03:39,1,UnusAnnusisoverparty,246.001
+03:39,2,CagayanNeedsHelp,2.477.554
+03:39,3,MTVTop20ConDhasia,109.775
+03:39,4,SmackDown,25.821
+03:39,5,MTVDynamite,100.945
+03:39,6,Firmino,12.625
+03:39,7,Everton Ribeiro,16.363
+03:39,8,Paquetá,14.556
+03:39,9,Cebolinha,
+03:39,10,Vidal,40.692
+04:09,1,wewerehere,95.946
+04:09,2,UnusAnnusisoverparty,282.146
+04:09,3,MTVTop20ConDhasia,207.938
+04:09,4,MTVDynamite,181.731
+04:09,5,CagayanNeedsHelp,2.618.527
+04:09,6,Firmino,13.807
+04:09,7,Everton Ribeiro,17.299
+04:09,8,Paquetá,14.749
+04:09,9,Cebolinha,
+04:09,10,Memento Mori,59.981
+04:39,1,WeWereHere,105.792
+04:39,2,MTVTop20ConDhasia,268.738
+04:39,3,UnusAnnusisoverparty,294.430
+04:39,4,MTVDynamite,225.780
+04:39,5,CagayanNeedsHelp,2.763.123
+04:39,6,Firmino,14.300
+04:39,7,Everton Ribeiro,17.660
+04:39,8,Paquetá,15.037
+04:39,9,Memento Mori,62.725
+04:39,10,Cebolinha,
+05:09,1,WeWereHere,112.197
+05:09,2,UnusAnnusisoverparty,307.957
+05:09,3,MTVTop20ConDhasia,278.009
+05:09,4,CagayanNeedsHelp,2.774.356
+05:09,5,MTVDynamite,231.481
+05:09,6,Firmino,14.560
+05:09,7,Everton Ribeiro,17.969
+05:09,8,ハイキュー展,11.616
+05:09,9,Memento Mori,63.871
+05:09,10,Cebolinha,
+05:39,1,WeWereHere,116.235
+05:39,2,CagayanNeedsHelp,2.820.455
+05:39,3,UnusAnnusisoverparty,318.388
+05:39,4,HappyDiwali,190.169
+05:39,5,SalarioRosa,109.252
+05:39,6,ハイキュー展,12.433
+05:39,7,エスカノール,211.455
+05:39,8,Firmino,14.767
+05:39,9,メリオダス,210.319
+05:39,10,Everton Ribeiro,18.199
+06:09,1,WeWereHere,124.726
+06:09,2,HappyDiwali,205.437
+06:09,3,UnusAnnusisoverparty,334.991
+06:09,4,CagayanNeedsHelp,1.709.538
+06:09,5,SalarioRosa,114.705
+06:09,6,Cagayan,1.622.046
+06:09,7,オジュウチョウサン,
+06:09,8,エスカノール,218.154
+06:09,9,メリオダス,216.815
+06:09,10,ハイキュー展,13.069
+06:39,1,WeWereHere,129.752
+06:39,2,HappyDiwali,224.790
+06:39,3,CagayanNeedsHelp,1.373.007
+06:39,4,UnusAnnusisoverparty,347.071
+06:39,5,SalarioRosa,117.473
+06:39,6,オジュウチョウサン,
+06:39,7,Cagayan,1.690.486
+06:39,8,埼玉県民,40.436
+06:39,9,埼玉県偏差値70,
+06:39,10,エスカノール,223.709
+07:09,1,WeWereHere,136.216
+07:09,2,HappyDiwali,238.596
+07:09,3,CagayanNeedsHelp,1.472.158
+07:09,4,UnusAnnusisoverparty,359.717
+07:09,5,SalarioRosa,118.926
+07:09,6,埼玉県民,42.722
+07:09,7,埼玉県偏差値70,
+07:09,8,オジュウチョウサン,
+07:09,9,エスカノール,228.475
+07:09,10,メリオダス,226.995
+07:39,1,WeWereHere,142.606
+07:39,2,HappyDiwali,255.152
+07:39,3,CagayanNeedsHelp,1.570.110
+07:39,4,UnusAnnusisoverparty,372.264
+07:39,5,埼玉県の難読市町村クイズ,
+07:39,6,埼玉県民,44.821
+07:39,7,埼玉県偏差値70,
+07:39,8,オジュウチョウサン,
+07:39,9,武蔵野S,
+07:39,10,エスカノール,232.674
+08:09,1,MementoMori,90.991
+08:09,2,MarksNewHat,27.513
+08:09,3,UnusAnnus,253.991
+08:09,4,WeWereHere,153.600
+08:09,5,Happy Diwali,516.793
+08:09,6,CagayanNeedsHelp,1.655.345
+08:09,7,埼玉県民,46.939
+08:09,8,埼玉県偏差値70,
+08:09,9,オジュウチョウサン,
+08:09,10,武蔵野S,
+08:39,1,MementoMori,189.168
+08:39,2,Unus Annus,282.427
+08:39,3,MarksNewHat,29.819
+08:39,4,WeWereHere,159.743
+08:39,5,Happy Diwali,545.404
+08:39,6,CagayanNeedsHelp,1.725.149
+08:39,7,埼玉県の難読市町村クイズ,
+08:39,8,埼玉県民,49.414
+08:39,9,埼玉県偏差値70,
+08:39,10,たかほー,
+09:09,1,MementoMori,291.581
+09:09,2,UnusAnnus,320.074
+09:09,3,Ethan,97.383
+09:09,4,WeWereHere,165.649
+09:09,5,Happy Diwali,559.184
+09:09,6,NZLvARG,
+09:09,7,埼玉県の難読市町村クイズ,
+09:09,8,埼玉県民,51.648
+09:09,9,埼玉県偏差値70,
+09:09,10,All Blacks,
+09:39,1,MementoMori,355.459
+09:39,2,UnusAnnus,342.566
+09:39,3,Ethan,107.323
+09:39,4,Happy Diwali,592.005
+09:39,5,WeWereHere,169.786
+09:39,6,埼玉県の難読市町村クイズ,
+09:39,7,埼玉県民,53.966
+09:39,8,SonraDöndümDedimKi,
+09:39,9,横浜優勝,
+09:39,10,埼玉県偏差値70,
+10:09,1,MementoMori,370.327
+10:09,2,Unus Annus,400.095
+10:09,3,Ethan,112.414
+10:09,4,Happy Diwali,610.981
+10:09,5,SonraDöndümDedimKi,
+10:09,6,埼玉県の難読市町村クイズ,
+10:09,7,埼玉県民,56.061
+10:09,8,埼玉県偏差値70,
+10:09,9,横浜優勝,
+10:09,10,All Blacks,
+10:39,1,MementoMori,377.206
+10:39,2,Unus Annus,409.768
+10:39,3,Happy Diwali,635.176
+10:39,4,SonraDöndümDedimKi,
+10:39,5,埼玉県の難読市町村クイズ,10.328
+10:39,6,Ethan,114.344
+10:39,7,埼玉県民,58.183
+10:39,8,埼玉県偏差値70,
+10:39,9,All Blacks,10.789
+10:39,10,横浜優勝,
+11:09,1,MementoMori,381.370
+11:09,2,Unus Annus,414.607
+11:09,3,SonraDöndümDedimKi,
+11:09,4,Happy Diwali,653.182
+11:09,5,埼玉県の難読市町村クイズ,11.354
+11:09,6,埼玉県民,60.137
+11:09,7,埼玉県偏差値70,
+11:09,8,SHOWCASE,
+11:09,9,Ethan,115.155
+11:09,10,キスマイANNP,
+11:39,1,MementoMori,383.998
+11:39,2,Unus Annus,418.438
+11:39,3,SonraDöndümDedimKi,11.490
+11:39,4,キスマイANNP,17.577
+11:39,5,Happy Diwali,675.629
+11:39,6,埼玉県の難読市町村クイズ,12.286
+11:39,7,SHOWCASE,14.149
+11:39,8,埼玉県民,62.253
+11:39,9,埼玉県偏差値70,10.637
+11:39,10,無惨の評価,
+12:09,1,MementoMori,386.344
+12:09,2,SonraDöndümDedimKi,13.321
+12:09,3,SHOWCASE,20.731
+12:09,4,埼玉県の難読市町村クイズ,13.351
+12:09,5,Happy Diwali,689.839
+12:09,6,キスマイANNP,25.902
+12:09,7,埼玉県民,64.236
+12:09,8,無惨の評価,
+12:09,9,Unus Annus,420.928
+12:09,10,埼玉県偏差値70,11.509
+12:39,1,MementoMori,388.209
+12:39,2,nhkらじらー,44.565
+12:39,3,しゅかWay,
+12:39,4,SonraDöndümDedimKi,15.257
+12:39,5,あなたの血鬼術,
+12:39,6,無惨の評価,
+12:39,7,埼玉県民,66.225
+12:39,8,Happy Diwali,708.532
+12:39,9,埼玉県偏差値70,12.330
+12:39,10,Ahmet Kekeç,10.381
+13:09,1,nhkらじらー,68.620
+13:09,2,MementoMori,390.303
+13:09,3,UnidosPorElBlackFriday,
+13:09,4,TurkishGP,54.976
+13:09,5,SHOWCASE,33.714
+13:09,6,無惨の評価,
+13:09,7,埼玉県民,67.896
+13:09,8,Happy Diwali,717.104
+13:09,9,埼玉県偏差値70,13.089
+13:09,10,Ahmet Kekeç,14.153
+13:39,1,TurkishGP,67.129
+13:39,2,UnidosPorElBlackFriday,
+13:39,3,nhkらじらー,74.507
+13:39,4,世にも奇妙な物語,11.940
+13:39,5,不知火フレア新衣装,
+13:39,6,無惨の評価,
+13:39,7,埼玉県民,69.521
+13:39,8,Happy Diwali,743.396
+13:39,9,埼玉県偏差値70,13.699
+13:39,10,Ahmet Kekeç,17.379
+14:09,1,TurkishGP,73.409
+14:09,2,世にも奇妙な物語,22.122
+14:09,3,あざとくて何が悪いの,32.417
+14:09,4,不知火フレア新衣装,24.811
+14:09,5,ベストアーティスト,12.711
+14:09,6,MasterTeaser,382.455
+14:09,7,無惨の評価,
+14:09,8,埼玉県民,70.752
+14:09,9,Happy Diwali,765.783
+14:09,10,埼玉県偏差値70,14.285
+14:39,1,世にも奇妙な物語,40.580
+14:39,2,TurkishGP,85.357
+14:39,3,あざとくて何が悪いの,64.228
+14:39,4,虹ヶ咲,69.262
+14:39,5,ベストアーティスト,20.489
+14:39,6,amici20,11.421
+14:39,7,イマジナリーフレンド,
+14:39,8,タテモトマサコ,
+14:39,9,ジャニーズメドレー,21.633
+14:39,10,大竹しのぶ,10.355
+15:09,1,TurkishGP,109.182
+15:09,2,世にも奇妙な物語,64.093
+15:09,3,虹ヶ咲,117.981
+15:09,4,amici20,22.568
+15:09,5,Stroll,36.393
+15:09,6,あざとくて何が悪いの,75.550
+15:09,7,ベストアーティスト,24.588
+15:09,8,イマジナリーフレンド,12.888
+15:09,9,彼方ちゃん,17.964
+15:09,10,Verstappen,14.472
+15:39,1,TurkishGP,119.736
+15:39,2,世にも奇妙な物語,72.086
+15:39,3,虹ヶ咲,137.072
+15:39,4,amici20,36.750
+15:39,5,SixTONESANN,25.061
+15:39,6,Stroll,45.487
+15:39,7,彼方ちゃん,25.190
+15:39,8,イマジナリーフレンド,16.134
+15:39,9,ベストアーティスト,27.500
+15:39,10,Verstappen,16.297
+16:09,1,TurkishGP,122.460
+16:09,2,SixTONESANN,82.573
+16:09,3,世にも奇妙な物語,73.928
+16:09,4,amici20,48.918
+16:09,5,虹ヶ咲,140.645
+16:09,6,Stroll,50.100
+16:09,7,彼方ちゃん,28.441
+16:09,8,イマジナリーフレンド,17.146
+16:09,9,ベストアーティスト,29.376
+16:09,10,テレビの前,
+16:39,1,シブヤノオト,39.513
+16:39,2,제이크의_열아홉생일_찌저노차,190.328
+16:39,3,TurkishGP,127.310
+16:39,4,SixTONESANN,126.617
+16:39,5,MINHO_is_back,47.392
+16:39,6,Stroll,53.603
+16:39,7,彼方ちゃん,30.436
+16:39,8,剣盾1周年,
+16:39,9,イマジナリーフレンド,17.814
+16:39,10,ベストアーティスト,30.563
+17:09,1,SixTONESANN,195.081
+17:09,2,제이크의_열아홉생일_찌저노차,218.078
+17:09,3,シブヤノオト,43.730
+17:09,4,MINHO_is_back,59.328
+17:09,5,TurkishGP,129.165
+17:09,6,剣盾1周年,
+17:09,7,Stroll,56.178
+17:09,8,彼方ちゃん,31.689
+17:09,9,Happy Diwali,875.603
+17:09,10,イマジナリーフレンド,18.288
+17:39,1,SixTONESANN,208.754
+17:39,2,제이크의_열아홉생일_찌저노차,227.630
+17:39,3,MINHO_is_back,67.631
+17:39,4,StartUpEp9,39.707
+17:39,5,シブヤノオト,45.692
+17:39,6,剣盾1周年,10.539
+17:39,7,Stroll,59.273
+17:39,8,Happy Diwali,903.078
+17:39,9,彼方ちゃん,32.479
+17:39,10,スキスキ星人,26.856
+18:09,1,SixTONESANN,212.390
+18:09,2,StartUpEp9,49.900
+18:09,3,제이크의_열아홉생일_찌저노차,232.206
+18:09,4,MINHO_is_back,73.690
+18:09,5,PampangaNeedsHelp,196.131
+18:09,6,剣盾1周年,11.956
+18:09,7,Stroll,61.321
+18:09,8,UNIÃO MALYNE,23.799
+18:09,9,Happy Diwali,914.189
+18:09,10,SIGAM STEFANIBAYS NO IG,29.513
+18:39,1,StartUpEp9,58.358
+18:39,2,PampangaNeedsHelp,253.369
+18:39,3,SixTONESANN,213.820
+18:39,4,제이크의_열아홉생일_찌저노차,235.595
+18:39,5,iboshow,13.281
+18:39,6,UNIÃO MALYNE,151.968
+18:39,7,剣盾1周年,12.946
+18:39,8,SIGAM STEFANIBAYS NO IG,48.629
+18:39,9,Stroll,63.356
+18:39,10,Happy Diwali,915.395
+19:09,1,iboshow,20.783
+19:09,2,StartUpEp9,65.309
+19:09,3,PampangaNeedsHelp,296.766
+19:09,4,MarchForTrump,164.378
+19:09,5,Penn State,
+19:09,6,제이크의_열아홉생일_찌저노차,237.942
+19:09,7,UNIÃO MALYNE,250.908
+19:09,8,SIGAM STEFANIBAYS NO IG,69.776
+19:09,9,Deniz Seki,
+19:09,10,剣盾1周年,13.628
+19:39,1,iboshow,25.335
+19:39,2,StartUpEp9,70.359
+19:39,3,Penn State,
+19:39,4,PampangaNeedsHelp,325.126
+19:39,5,MillionMoronMarch,33.212
+19:39,6,MarchForTrump,184.973
+19:39,7,UNIÃO MALYNE,325.558
+19:39,8,SIGAM STEFANIBAYS NO IG,81.371
+19:39,9,Deniz Seki,
+19:39,10,NO HAY COMPETENCIA TK,30.177
+20:09,1,iboshow,28.907
+20:09,2,Penn State,
+20:09,3,StartUpEp9,74.488
+20:09,4,MillionMoronMarch,39.341
+20:09,5,PampangaNeedsHelp,343.943
+20:09,6,MarchForTrump,202.073
+20:09,7,SIGAM STEFANIBAYS NO IG,88.942
+20:09,8,UNIÃO MALYNE,397.996
+20:09,9,NO HAY COMPETENCIA TK,43.418
+20:09,10,Deniz Seki,
+20:39,1,iboshow,32.911
+20:39,2,StrictlyComeDancing,
+20:39,3,McflyAllAboutUs,
+20:39,4,Penn State,10.172
+20:39,5,MillionMoronMarch,46.031
+20:39,6,questionsaskedbyhumans,
+20:39,7,Sibel Can,
+20:39,8,SIGAM STEFANIBAYS NO IG,97.000
+20:39,9,NO HAY COMPETENCIA TK,48.184
+20:39,10,UNIÃO MALYNE,470.980
+21:09,1,iboshow,35.979
+21:09,2,Strictly,11.734
+21:09,3,PORFRA,13.970
+21:09,4,Cano,18.861
+21:09,5,McflyAllAboutUs,
+21:09,6,MillionMoronMarch,53.088
+21:09,7,Bill Bailey,
+21:09,8,Penn State,10.928
+21:09,9,Anton,11.626
+21:09,10,Sibel Can,
+21:39,1,iboshow,39.387
+21:39,2,Strictly,18.935
+21:39,3,PORFRA,19.816
+21:39,4,Bill Bailey,
+21:39,5,Martial,33.136
+21:39,6,Penn State,13.549
+21:39,7,Patrício,14.820
+21:39,8,Cano,20.305
+21:39,9,LootingLoeffler,35.897
+21:39,10,MillionMoronMarch,59.282
+22:09,1,iboshow,41.197
+22:09,2,Strictly,21.862
+22:09,3,PORFRA,25.805
+22:09,4,Cano,25.586
+22:09,5,Martial,37.917
+22:09,6,Bill Bailey,
+22:09,7,LootingLoeffler,51.966
+22:09,8,Rodinei,
+22:09,9,Penn State,14.540
+22:09,10,Lomba,
+22:39,1,Ramos,50.044
+22:39,2,PORFRA,31.200
+22:39,3,iboshow,42.710
+22:39,4,Strictly,23.279
+22:39,5,Cano,29.037
+22:39,6,Martial,41.865
+22:39,7,LootingLoeffler,66.696
+22:39,8,Bill Bailey,
+22:39,9,Rodinei,
+22:39,10,Boosie,
+23:09,1,Ramos,57.672
+23:09,2,PORFRA,35.030
+23:09,3,iboshow,43.253
+23:09,4,Strictly,24.465
+23:09,5,Cano,30.192
+23:09,6,Desconjuracao,22.863
+23:09,7,Martial,44.266
+23:09,8,Boosie,
+23:09,9,Portugal,78.580
+23:09,10,LootingLoeffler,79.612
+23:39,1,Ramos,61.671
+23:39,2,PORFRA,36.518
+23:39,3,Desconjuracao,33.423
+23:39,4,iboshow,44.031
+23:39,5,Strictly,25.341
+23:39,6,Cano,31.323
+23:39,7,Boosie,10.976
+23:39,8,LootingLoeffler,91.563
+23:39,9,Martial,45.883
+23:39,10,Portugal,82.250

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Arsenal,160.653
+00:10,2,ARSCRY,41.477
+00:10,3,Arteta,34.619
+00:10,4,Palace,75.352
+00:10,5,AppleEvent,225.942
+00:10,6,MCCelebrity,
+00:10,7,Lacazette,14.072
+00:10,8,Ayton,16.669
+00:10,9,MacBook Pro,102.335
+00:10,10,Mike Dean,
+00:41,1,Arsenal,164.177
+00:41,2,ARSCRY,42.163
+00:41,3,Arteta,35.897
+00:41,4,Palace,77.228
+00:41,5,MCCelebrity,
+00:41,6,zendaya,64.267
+00:41,7,Ayton,18.413
+00:41,8,AppleEvent,229.029
+00:41,9,MacBook Pro,105.804
+00:41,10,Lacazette,14.768
+01:10,1,Arsenal,165.536
+01:10,2,gfvip,68.529
+01:10,3,Corinthians,66.284
+01:10,4,ARSCRY,42.576
+01:10,5,MCCelebrity,11.897
+01:10,6,CALLERI,
+01:10,7,Arteta,36.769
+01:10,8,zendaya,66.184
+01:10,9,Palace,77.698
+01:10,10,Ayton,19.494
+01:41,1,Corinthians,80.926
+01:41,2,Calleri,10.617
+01:41,3,gfvip,73.178
+01:41,4,Arsenal,167.577
+01:41,5,MCCelebrity,14.025
+01:41,6,zendaya,69.882
+01:41,7,ARSCRY,42.918
+01:41,8,Igor Gomes,
+01:41,9,Arteta,37.504
+01:41,10,Tiwa,29.199
+02:10,1,Corinthians,90.620
+02:10,2,Calleri,12.485
+02:10,3,Igor Gomes,
+02:10,4,gfvip,73.948
+02:10,5,Arsenal,168.406
+02:10,6,EstallidoSocial,78.089
+02:10,7,MCCelebrity,14.307
+02:10,8,Wanda,197.060
+02:10,9,zendaya,70.928
+02:10,10,Sylvinho,
+02:41,1,Corinthians,99.687
+02:41,2,Calleri,14.307
+02:41,3,WWERaw,13.760
+02:41,4,EstallidoSocial,85.791
+02:41,5,Sylvinho,12.935
+02:41,6,Igor Gomes,
+02:41,7,Wanda,208.460
+02:41,8,あさイチ,
+02:41,9,gfvip,75.037
+02:41,10,BillsMafia,16.593
+03:10,1,Corinthians,123.151
+03:10,2,Derrick Henry,10.360
+03:10,3,Calleri,19.726
+03:10,4,Sylvinho,22.611
+03:10,5,Volpi,
+03:10,6,WWERaw,19.156
+03:10,7,EstallidoSocial,91.388
+03:10,8,BillsMafia,18.688
+03:10,9,Luciano,22.621
+03:10,10,Igor Gomes,
+03:41,1,Corinthians,137.066
+03:41,2,Derrick Henry,17.908
+03:41,3,MissUniverseColombia,10.735
+03:41,4,Sylvinho,28.721
+03:41,5,Calleri,23.538
+03:41,6,Volpi,
+03:41,7,WWERaw,23.902
+03:41,8,DWTS,
+03:41,9,DirtyWater,
+03:41,10,Altuve,
+04:10,1,Corinthians,142.620
+04:10,2,Derrick Henry,19.598
+04:10,3,MissUniverseColombia,18.436
+04:10,4,DWTS,11.542
+04:10,5,Sylvinho,30.709
+04:10,6,Calleri,25.324
+04:10,7,Sora,141.793
+04:10,8,WWERaw,28.293
+04:10,9,Titans,65.269
+04:10,10,BillsMafia,22.187
+04:41,1,Derrick Henry,24.196
+04:41,2,Corinthians,147.129
+04:41,3,MissUniverseColombia,26.253
+04:41,4,ProvaDeFogo,
+04:41,5,WWERaw,35.428
+04:41,6,Sora,152.054
+04:41,7,DWTS,12.538
+04:41,8,Titans,70.447
+04:41,9,Sylvinho,32.050
+04:41,10,18OctubrexLaRed,23.273
+05:10,1,Derrick Henry,27.208
+05:10,2,MissUniverseColombia,34.091
+05:10,3,Corinthians,145.275
+05:10,4,ProvaDeFogo,17.222
+05:10,5,WWERaw,42.029
+05:10,6,Sora,155.546
+05:10,7,Titans,74.656
+05:10,8,Josh Allen,15.515
+05:10,9,Risaralda,
+05:10,10,DWTS,13.025
+05:41,1,Derrick Henry,41.431
+05:41,2,Bills,118.713
+05:41,3,Josh Allen,23.657
+05:41,4,MissUniverseColombia,44.511
+05:41,5,ProvaDeFogo,18.697
+05:41,6,Corinthians,147.202
+05:41,7,Sora,164.360
+05:41,8,TitanUp,
+05:41,9,BUFvsTEN,27.047
+05:41,10,Risaralda,10.125
+06:10,1,Derrick Henry,45.288
+06:10,2,Bills,122.125
+06:10,3,MissUniverseColombia,57.533
+06:10,4,Josh Allen,25.161
+06:10,5,Risaralda,14.903
+06:10,6,Sora,167.428
+06:10,7,TitanUp,
+06:10,8,ProvaDeFogo,19.258
+06:10,9,BUFvsTEN,29.155
+06:10,10,Corinthians,147.469
+06:41,1,Derrick Henry,47.518
+06:41,2,Bills,125.186
+06:41,3,MissUniverseColombia,59.709
+06:41,4,Josh Allen,25.917
+06:41,5,Risaralda,15.632
+06:41,6,Sora,174.041
+06:41,7,TitanUp,
+06:41,8,ProvaDeFogo,19.601
+06:41,9,緑の悪魔,
+06:41,10,BUFvsTEN,30.056
+07:10,1,Derrick Henry,48.927
+07:10,2,Bills,125.466
+07:10,3,MissUniverseColombia,60.195
+07:10,4,Josh Allen,26.286
+07:10,5,Sora,175.614
+07:10,6,Risaralda,15.780
+07:10,7,緑の悪魔,
+07:10,8,TitanUp,
+07:10,9,ProvaDeFogo,19.763
+07:10,10,EidMiladunNabiMubarak,23.252
+07:41,1,Derrick Henry,50.092
+07:41,2,Bills,126.857
+07:41,3,Titans,118.791
+07:41,4,MissUniverseColombia,60.455
+07:41,5,Josh Allen,26.580
+07:41,6,Sora,180.569
+07:41,7,EidMiladunNabiMubarak,28.024
+07:41,8,緑の悪魔,
+07:41,9,Eternals,149.260
+07:41,10,Risaralda,15.823
+08:10,1,Derrick Henry,50.835
+08:10,2,deprem,
+08:10,3,Bills,126.671
+08:10,4,EidMiladunNabiMubarak,32.800
+08:10,5,Titans,119.360
+08:10,6,MissUniverseColombia,60.635
+08:10,7,Josh Allen,26.772
+08:10,8,Sora,181.175
+08:10,9,Eternals,152.890
+08:10,10,緑の悪魔,
+08:41,1,deprem,
+08:41,2,Derrick Henry,51.452
+08:41,3,EidMiladunNabiMubarak,38.115
+08:41,4,Eternals,159.465
+08:41,5,MissUniverseColombia,60.779
+08:41,6,Reject_Zomato,37.188
+08:41,7,Bills,127.780
+08:41,8,Titans,120.371
+08:41,9,緑の悪魔,
+08:41,10,Sora,185.516
+09:10,1,deprem,
+09:10,2,EidMiladunNabiMubarak,43.099
+09:10,3,Derrick Henry,51.884
+09:10,4,Reject_Zomato,41.107
+09:10,5,Eternals,161.341
+09:10,6,missuniversecolombia,60.853
+09:10,7,Beit,
+09:10,8,緑の悪魔,
+09:10,9,Sora,185.327
+09:10,10,ESMG,
+09:41,1,deprem,
+09:41,2,EidMiladunNabiMubarak,47.700
+09:41,3,الهلال_النصر_دوري_ابطال_اسيا,12.309
+09:41,4,DiaMundialdelCancerdeMama,
+09:41,5,Reject_Zomato,44.767
+09:41,6,Beit,
+09:41,7,Derrick Henry,52.176
+09:41,8,緑の悪魔,
+09:41,9,ESMG,
+09:41,10,Sora,189.015
+10:10,1,deprem,
+10:10,2,DiaMundialdelCancerdeMama,
+10:10,3,EidMiladunNabiMubarak,51.579
+10:10,4,RAWRATIN,42.738
+10:10,5,MuhtarlarGünü,
+10:10,6,Beit,
+10:10,7,緑の悪魔,10.180
+10:10,8,ESMG,
+10:10,9,クソメガネ,
+10:10,10,शरद पूर्णिमा,17.834
+10:41,1,RAWRATIN,72.259
+10:41,2,DiaMundialdelCancerdeMama,
+10:41,3,deprem,
+10:41,4,MuhtarlarGünü,
+10:41,5,SB19JoshSeoulBillboard,89.864
+10:41,6,Beit,
+10:41,7,クソメガネ,
+10:41,8,松坂大輔,18.720
+10:41,9,ESMG,
+10:41,10,緑の悪魔,10.567
+11:10,1,GlobeBrightWin,70.822
+11:10,2,松坂大輔,30.794
+11:10,3,AtinAngTrueFriendship,64.450
+11:10,4,RAWRATIN,98.794
+11:10,5,DiaMundialdelCancerdeMama,
+11:10,6,平成の怪物,
+11:10,7,松坂投手,12.583
+11:10,8,Beit,
+11:10,9,クソメガネ,
+11:10,10,MABUHAY WIN,11.433
+11:41,1,GlobeBrightWin,157.291
+11:41,2,AtinAngTrueFriendship,146.438
+11:41,3,松坂大輔,38.373
+11:41,4,RAWRATIN,123.330
+11:41,5,DiaMundialdelCancerdeMama,
+11:41,6,平成の怪物,
+11:41,7,奥川くん,
+11:41,8,松坂投手,18.089
+11:41,9,Beit,
+11:41,10,バンナムフェス,
+12:10,1,GlobeBrightWin,226.518
+12:10,2,AtinAngTrueFriendship,211.741
+12:10,3,松坂大輔,41.166
+12:10,4,DiaMundialdelCancerdeMama,11.726
+12:10,5,RAWRATIN,144.424
+12:10,6,平成の怪物,
+12:10,7,tzuyu,28.202
+12:10,8,奥川くん,
+12:10,9,松坂投手,20.965
+12:10,10,ジャンプ主人公,
+12:41,1,TamedDashed1stWin,
+12:41,2,ENHYPEN4thWin,
+12:41,3,ENHYPEN FOURTH WIN,
+12:41,4,GlobeBrightWin,
+12:41,5,AtinAngTrueFriendship,
+12:41,6,DiaMundialdelCancerdeMama,
+12:41,7,tzuyu,
+12:41,8,ジャンプ主人公,
+12:41,9,雨柳さん,
+12:41,10,平成の怪物,
+13:10,1,TamedDashed1stWin,311.212
+13:10,2,ENHYPEN4thWin,302.215
+13:10,3,ENHYPEN FOURTH WIN,275.912
+13:10,4,GlobeBrightWin,351.024
+13:10,5,DiaMundialdelCancerdeMama,15.802
+13:10,6,ぱかライブTV,
+13:10,7,tzuyu,40.035
+13:10,8,松坂大輔,46.063
+13:10,9,Haftanın Yalanları,
+13:10,10,スーパースタート,
+13:41,1,TamedDashed1stWin,331.953
+13:41,2,ENHYPEN4thWin,318.933
+13:41,3,ぱかライブTV,10.845
+13:41,4,GlobeBrightWin,409.682
+13:41,5,ENHYPEN FOURTH WIN,287.143
+13:41,6,オモウマい店,
+13:41,7,tzuyu,43.908
+13:41,8,松坂大輔,48.448
+13:41,9,ノーノー,
+13:41,10,Haftanın Yalanları,
+14:10,1,TamedDashed1stWin,340.885
+14:10,2,マンハッタンカフェ,52.055
+14:10,3,ENHYPEN4thWin,326.034
+14:10,4,スタミナ30,
+14:10,5,オモウマい店,
+14:10,6,ぱかライブTV,18.939
+14:10,7,シリウスシンボリ,
+14:10,8,モブサイコ3期,
+14:10,9,GlobeBrightWin,452.423
+14:10,10,ENHYPEN FOURTH WIN,291.020
+14:41,1,モブサイコ3期,18.581
+14:41,2,マンハッタンカフェ,72.460
+14:41,3,TamedDashed1stWin,347.584
+14:41,4,ENHYPEN4thWin,331.728
+14:41,5,スタミナ30,14.141
+14:41,6,ぱかライブTV,27.474
+14:41,7,nhk_jsclub,10.523
+14:41,8,オモウマい店,10.160
+14:41,9,シリウスシンボリ,17.010
+14:41,10,CPALE,
+15:10,1,モブサイコ3期,26.934
+15:10,2,ほしまちすたじお,24.575
+15:10,3,マンハッタンカフェ,84.616
+15:10,4,おりほー,
+15:10,5,TamedDashed1stWin,352.050
+15:10,6,スタミナ30,17.121
+15:10,7,ENHYPEN4thWin,335.014
+15:10,8,ぱかライブTV,31.396
+15:10,9,nhk_jsclub,14.565
+15:10,10,シリウスシンボリ,20.833
+15:41,1,モブサイコ3期,32.423
+15:41,2,マンハッタンカフェ,94.429
+15:41,3,ほしまちすたじお,32.158
+15:41,4,おりほー,
+15:41,5,ハンオシ,11.827
+15:41,6,TamedDashed1stWin,355.348
+15:41,7,スタミナ30,18.984
+15:41,8,CPALE,
+15:41,9,DiaMundialdelCancerdeMama,27.373
+15:41,10,ENHYPEN4thWin,337.863
+16:10,1,モブサイコ3期,36.028
+16:10,2,マンハッタンカフェ,99.911
+16:10,3,ハンオシ,18.364
+16:10,4,ほしまちすたじお,37.460
+16:10,5,婚姻届に判を捺しただけですが,
+16:10,6,JENNIExChanelEvent,43.083
+16:10,7,おりほー,
+16:10,8,COCO NEIGE,60.818
+16:10,9,DiaMundialdelCancerdeMama,30.214
+16:10,10,BILLBOARD STAR JUNGKOOK,40.785
+16:41,1,ONE_IN_6_MILLION,54.069
+16:41,2,트와이스와의_매순간이_눈부셔,54.403
+16:41,3,モブサイコ3期,38.468
+16:41,4,ハンオシ,22.370
+16:41,5,婚姻届に判を捺しただけですが,
+16:41,6,프라우드,
+16:41,7,マンハッタンカフェ,105.753
+16:41,8,OnlyIdolJungkook,56.001
+16:41,9,BILLBOARD STAR JUNGKOOK,56.656
+16:41,10,6 YEARS WITH TWICE,21.839
+17:10,1,ONE_IN_6_MILLION,105.872
+17:10,2,트와이스와의_매순간이_눈부셔,104.234
+17:10,3,6 YEARS WITH TWICE,54.565
+17:10,4,メンテの日なのでssを貼る,10.265
+17:10,5,프라우드,19.771
+17:10,6,モブサイコ3期,40.527
+17:10,7,Attacca_D2,89.627
+17:10,8,TWICEComesBeforeONCE,43.020
+17:10,9,BILLBOARD STAR JUNGKOOK,69.442
+17:10,10,マンハッタンカフェ,109.636
+17:41,1,ONE_IN_6_MILLION,143.742
+17:41,2,트와이스와의_매순간이_눈부셔,141.596
+17:41,3,6 YEARS WITH TWICE,78.511
+17:41,4,メンテの日なのでssを貼る,17.785
+17:41,5,TWICEComesBeforeONCE,59.576
+17:41,6,프라우드,28.613
+17:41,7,キヨ12周年,
+17:41,8,BILLBOARD STAR JUNGKOOK,78.505
+17:41,9,モブサイコ3期,42.858
+17:41,10,マンハッタンカフェ,113.013
+18:10,1,ONE_IN_6_MILLION,160.316
+18:10,2,트와이스와의_매순간이_눈부셔,157.453
+18:10,3,6 YEARS WITH TWICE,88.029
+18:10,4,TWICEComesBeforeONCE,66.554
+18:10,5,メンテの日なのでssを貼る,22.507
+18:10,6,프라우드,34.344
+18:10,7,الهلال_النصر_دوري_ابطال_اسيا,118.730
+18:10,8,BILLBOARD STAR JUNGKOOK,84.829
+18:10,9,뱀파이어,14.644
+18:10,10,モブサイコ3期,44.350
+18:41,1,ONE_IN_6_MILLION,169.864
+18:41,2,트와이스와의_매순간이_눈부셔,166.534
+18:41,3,Ben Simmons,28.206
+18:41,4,6 YEARS WITH TWICE,93.417
+18:41,5,TWICEComesBeforeONCE,70.225
+18:41,6,الهلال_النصر_دوري_ابطال_اسيا,134.982
+18:41,7,メンテの日なのでssを貼る,25.455
+18:41,8,Liseliler Anıtkabire,
+18:41,9,BILLBOARD STAR JUNGKOOK,89.748
+18:41,10,프라우드,36.988
+19:10,1,Ben Simmons,47.155
+19:10,2,ONE_IN_6_MILLION,175.150
+19:10,3,트와이스와의_매순간이_눈부셔,171.620
+19:10,4,الهلال_النصر_دوري_ابطال_اسيا,151.324
+19:10,5,Patrick18thBirthday,51.005
+19:10,6,Sixers,24.566
+19:10,7,HBD PAIPAI 1020,41.755
+19:10,8,6 YEARS WITH TWICE,96.072
+19:10,9,Hükümet Vuk359uÇözmedi,
+19:10,10,TWICEComesBeforeONCE,72.165
+19:41,1,Ben Simmons,62.965
+19:41,2,BJKSCP,29.684
+19:41,3,ONE_IN_6_MILLION,178.962
+19:41,4,Patrick18thBirthday,175.370
+19:41,5,트와이스와의_매순간이_눈부셔,175.463
+19:41,6,الهلال_النصر_دوري_ابطال_اسيا,170.034
+19:41,7,HBD PAIPAI 1020,161.805
+19:41,8,Sixers,29.741
+19:41,9,Foden,12.217
+19:41,10,Coates,
+20:10,1,Ben Simmons,74.256
+20:10,2,BJKSCP,31.314
+20:10,3,الهلال_النصر_دوري_ابطال_اسيا,198.721
+20:10,4,Pixel6Launch,17.208
+20:10,5,Patrick18thBirthday,263.464
+20:10,6,ONE_IN_6_MILLION,181.384
+20:10,7,Sixers,33.145
+20:10,8,HBD PAIPAI 1020,245.773
+20:10,9,Foden,14.278
+20:10,10,76ers,13.189
+20:41,1,Ben Simmons,82.617
+20:41,2,BJKvSCP,
+20:41,3,الهلال_النصر_دوري_ابطال_اسيا,225.292
+20:41,4,Paulinho,
+20:41,5,Pixel6Launch,19.730
+20:41,6,نصف_نهايي_دوري_ابطال_اسيا,47.313
+20:41,7,Sixers,36.157
+20:41,8,Cole Palmer,
+20:41,9,Batshuayi,
+20:41,10,Patrick18thBirthday,295.272
+21:10,1,Ben Simmons,88.491
+21:10,2,BJKvSCP,10.073
+21:10,3,الهلال_النصر_دوري_ابطال_اسيا,247.133
+21:10,4,نصف_نهايي_دوري_ابطال_اسيا,58.164
+21:10,5,Paulinho,
+21:10,6,Pixel6Launch,21.177
+21:10,7,Batshuayi,
+21:10,8,Sixers,37.591
+21:10,9,Cole Palmer,
+21:10,10,ChampionsLeague,14.349
+21:41,1,Liverpool,117.485
+21:41,2,Ben Simmons,93.582
+21:41,3,الهلال_النصر_دوري_ابطال_اسيا,266.389
+21:41,4,Keita,19.354
+21:41,5,Griezmann,16.518
+21:41,6,BJKvSCP,10.872
+21:41,7,ATMLIV,14.094
+21:41,8,KohLanta,
+21:41,9,Milner,
+21:41,10,GBBO,
+22:10,1,KohLanta,27.193
+22:10,2,Liverpool,135.862
+22:10,3,دوري_ابطال_اسيا_2021,29.716
+22:10,4,الهلال_النصر_دوري_ابطال_اسيا,277.741
+22:10,5,Griezmann,27.531
+22:10,6,Keita,25.029
+22:10,7,ATMLIV,18.146
+22:10,8,Ben Simmons,96.720
+22:10,9,Coumba,17.957
+22:10,10,Milner,10.552
+22:41,1,Messi,247.344
+22:41,2,KohLanta,42.783
+22:41,3,Liverpool,147.069
+22:41,4,الهلال_النصر,290.974
+22:41,5,دوري_ابطال_اسيا_2021,43.848
+22:41,6,Griezmann,40.778
+22:41,7,PSGRBL,44.016
+22:41,8,الاسيويه_صعبه_قويه,25.342
+22:41,9,Vini,37.792
+22:41,10,Ajax,55.223
+23:10,1,Messi,318.121
+23:10,2,Liverpool,165.776
+23:10,3,KohLanta,51.987
+23:10,4,ATMLIV,26.935
+23:10,5,PSGRBL,54.506
+23:10,6,Simeone,22.429
+23:10,7,الهلال,1.278.409
+23:10,8,Mbappe,113.304
+23:10,9,Griezmann,45.516
+23:10,10,الاسيويه_صعبه_قويه,39.874
+23:41,1,Messi,372.426
+23:41,2,KohLanta,63.200
+23:41,3,Liverpool,179.518
+23:41,4,Simeone,29.438
+23:41,5,ATMLIV,28.805
+23:41,6,PSGRBL,58.411
+23:41,7,Mbappe,137.556
+23:41,8,الاسيويه_صعبه_قويه,53.645
+23:41,9,الهلال,1.370.472
+23:41,10,Griezmann,50.278

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,GOLOUD,30.257
+00:10,2,ヘイブン,
+00:10,3,EarthDay,630.154
+00:10,4,terremoto,
+00:10,5,isola,13.122
+00:10,6,23Nisan,39.410
+00:10,7,Bianca,29.068
+00:10,8,スプリット,
+00:10,9,Ticketmaster,31.051
+00:10,10,Madison Cawthorn,31.618
+00:40,1,ZEATWIN,
+00:40,2,GOLOUD,30.536
+00:40,3,ヘイブン,
+00:40,4,isola,16.800
+00:40,5,EarthDay,640.663
+00:40,6,terremoto,
+00:40,7,Madison Cawthorn,43.176
+00:40,8,Ticketmaster,35.051
+00:40,9,Bianca,30.302
+00:40,10,スプリット,
+01:10,1,ZETAWIN,195.684
+01:10,2,ZEATWIN,14.543
+01:10,3,DiaDeLaTierra,84.513
+01:10,4,Madison Cawthorn,53.522
+01:10,5,BEST3,
+01:10,6,isola,18.947
+01:10,7,PACAMPEAO,15.717
+01:10,8,ヘイブン,
+01:10,9,Ticketmaster,37.488
+01:10,10,عبد المنعم,
+01:40,1,ZETAWIN,238.435
+01:40,2,ZEATWIN,17.275
+01:40,3,DiaDeLaTierra,88.737
+01:40,4,Madison Cawthorn,63.022
+01:40,5,BEST3,11.678
+01:40,6,PACAMPEAO,18.506
+01:40,7,世界3位,
+01:40,8,isola,20.002
+01:40,9,Ticketmaster,40.137
+01:40,10,ヘイブン,
+02:10,1,ZETAWIN,254.520
+02:10,2,ZEATWIN,17.827
+02:10,3,الاهلي,137.305
+02:10,4,DiaDeLaTierra,92.688
+02:10,5,Madison Cawthorn,70.251
+02:10,6,PACAMPEAO,20.555
+02:10,7,BEST3,14.791
+02:10,8,DragRace,12.164
+02:10,9,世界3位,
+02:10,10,ticketmaster,41.696
+02:40,1,ZETAWIN,261.936
+02:40,2,ZEATWIN,18.047
+02:40,3,DragRace,16.887
+02:40,4,الاهلي,153.126
+02:40,5,SmackDown,
+02:40,6,VoleiNoSporTV,
+02:40,7,Madison Cawthorn,77.477
+02:40,8,BEST3,16.491
+02:40,9,Zapateiro,72.910
+02:40,10,世界3位,
+03:10,1,ZETAWIN,266.940
+03:10,2,DragRace,24.681
+03:10,3,ZEATWIN,18.198
+03:10,4,SmackDown,15.082
+03:10,5,VoleiNoSporTV,
+03:10,6,الاهلي,158.956
+03:10,7,ベスト3,28.702
+03:10,8,Madison Cawthorn,84.282
+03:10,9,Willow,22.649
+03:10,10,Lady Camden,
+03:40,1,DragRace,38.283
+03:40,2,ZETAWIN,271.574
+03:40,3,題名のない音楽会,36.297
+03:40,4,SmackDown,21.156
+03:40,5,Willow,30.602
+03:40,6,ZEATWIN,18.367
+03:40,7,الاهلي,164.259
+03:40,8,Fernanda Souza,
+03:40,9,ベスト3,30.053
+03:40,10,Madison Cawthorn,91.360
+04:10,1,DragRace,43.478
+04:10,2,ZETAWIN,273.710
+04:10,3,題名のない音楽会,40.893
+04:10,4,Fernanda Souza,
+04:10,5,SmackDown,26.023
+04:10,6,Globeleza,12.773
+04:10,7,Willow,32.543
+04:10,8,Bulls,41.286
+04:10,9,الاهلي,165.941
+04:10,10,Michael King,
+04:40,1,Hawks,47.124
+04:40,2,DragRace,47.008
+04:40,3,Globeleza,18.335
+04:40,4,Mangueira,25.563
+04:40,5,ZETA,161.942
+04:40,6,Bulls,47.765
+04:40,7,題名のない音楽会,44.064
+04:40,8,Fernanda Souza,
+04:40,9,SmackDown,27.912
+04:40,10,VoleiNoSporTV,10.663
+05:10,1,Mangueira,40.126
+05:10,2,Globeleza,22.804
+05:10,3,Hawks,48.626
+05:10,4,DragRace,49.585
+05:10,5,Bulls,50.614
+05:10,6,ZETA,163.955
+05:10,7,AEWRampage,16.699
+05:10,8,題名のない音楽会,46.033
+05:10,9,Jaxson Hayes,
+05:10,10,Fernanda Souza,11.333
+05:40,1,Mangueira,52.351
+05:40,2,Globeleza,28.005
+05:40,3,Hawks,50.148
+05:40,4,Viviane Araújo,
+05:40,5,DragRace,52.121
+05:40,6,Bulls,52.334
+05:40,7,ZETA,167.684
+05:40,8,AEWRampage,18.200
+05:40,9,ガッチャ楽しいデュエルだったぜ,
+05:40,10,Jaxson Hayes,
+06:10,1,Mangueira,57.548
+06:10,2,Globeleza,32.051
+06:10,3,Viviane Araújo,
+06:10,4,Hawks,50.555
+06:10,5,DragRace,54.277
+06:10,6,ガッチャ楽しいデュエルだったぜ,
+06:10,7,ZETA,170.276
+06:10,8,PasayIsPink,68.794
+06:10,9,Bulls,52.496
+06:10,10,AEWRampage,18.818
+06:40,1,Globeleza,36.848
+06:40,2,Mangueira,60.555
+06:40,3,Viviane Araújo,
+06:40,4,Chris Paul,
+06:40,5,PasayIsPink,77.644
+06:40,6,ガッチャ楽しいデュエルだったぜ,
+06:40,7,DragRace,56.455
+06:40,8,Hawks,51.440
+06:40,9,TOH SPOILERS,
+06:40,10,ZETA,173.133
+07:10,1,Paulo Gustavo,14.673
+07:10,2,São Clemente,14.920
+07:10,3,Globeleza,42.285
+07:10,4,Viviane Araújo,
+07:10,5,Mangueira,62.762
+07:10,6,Chris Paul,12.152
+07:10,7,PasayIsPink,85.628
+07:10,8,ガッチャ楽しいデュエルだったぜ,
+07:10,9,キンプる,58.839
+07:10,10,Mookie,
+07:40,1,São Clemente,23.464
+07:40,2,Paulo Gustavo,21.623
+07:40,3,Globeleza,46.882
+07:40,4,PasayIsPink,94.363
+07:40,5,Viviane Araújo,
+07:40,6,キンプる,73.964
+07:40,7,Mangueira,64.297
+07:40,8,Chris Paul,13.067
+07:40,9,ガッチャ楽しいデュエルだったぜ,
+07:40,10,TOH SPOILERS,15.550
+08:10,1,São Clemente,31.074
+08:10,2,Paulo Gustavo,28.166
+08:10,3,Globeleza,51.092
+08:10,4,PasayIsPink,104.342
+08:10,5,キンプる,79.600
+08:10,6,Viviane Araújo,
+08:10,7,Mangueira,65.346
+08:10,8,ガッチャ楽しいデュエルだったぜ,
+08:10,9,WorldBookDay,23.618
+08:10,10,TOH SPOILERS,20.472
+08:40,1,paulo gustavo,31.452
+08:40,2,São Clemente,34.244
+08:40,3,Globeleza,54.282
+08:40,4,あんスタMVここ見て,
+08:40,5,PasayIsPink,116.456
+08:40,6,23Nisan,69.526
+08:40,7,Viradouro,10.024
+08:40,8,St George,11.603
+08:40,9,WorldBookDay,26.446
+08:40,10,TOH SPOILERS,24.255
+09:10,1,Paulo Gustavo,32.235
+09:10,2,São Clemente,34.990
+09:10,3,Brightgetswellsoon,30.810
+09:10,4,HARRYCHELLA,17.302
+09:10,5,23Nisan,76.338
+09:10,6,MITCH,34.573
+09:10,7,あんスタMVここ見て,
+09:10,8,St George,14.206
+09:10,9,PasayIsPink,127.562
+09:10,10,Viradouro,14.204
+09:40,1,Brightgetswellsoon,80.748
+09:40,2,HARRYCHELLA,29.100
+09:40,3,23Nisan,84.416
+09:40,4,LIZZO,31.859
+09:40,5,St George,17.678
+09:40,6,São Clemente,35.455
+09:40,7,Paulo Gustavo,32.637
+09:40,8,あんスタMVここ見て,12.062
+09:40,9,MITCH,35.358
+09:40,10,I WILL SURVIVE,25.080
+10:10,1,HARRYCHELLA,38.350
+10:10,2,Brightgetswellsoon,115.783
+10:10,3,23Nisan,93.021
+10:10,4,St George,21.999
+10:10,5,Lizzo,46.482
+10:10,6,あんスタMVここ見て,14.362
+10:10,7,I WILL SURVIVE,44.176
+10:10,8,São Clemente,35.736
+10:10,9,Paulo Gustavo,32.894
+10:10,10,PasayIsPink,149.460
+10:40,1,23Nisan,103.418
+10:40,2,St George,26.911
+10:40,3,HARRYCHELLA,43.412
+10:40,4,Brightgetswellsoon,136.974
+10:40,5,Lizzo,53.258
+10:40,6,あんスタMVここ見て,16.398
+10:40,7,I WILL SURVIVE,56.698
+10:40,8,BeijaFlor2022,13.977
+10:40,9,São Clemente,36.029
+10:40,10,Paulo Gustavo,33.196
+11:10,1,23Nisan,112.882
+11:10,2,St George,32.029
+11:10,3,HARRYCHELLA,45.287
+11:10,4,Brightgetswellsoon,152.290
+11:10,5,あんスタMVここ見て,18.273
+11:10,6,BeijaFlor2022,18.697
+11:10,7,Lizzo,56.914
+11:10,8,I WILL SURVIVE,61.731
+11:10,9,São Clemente,36.414
+11:10,10,シューメーカー,23.437
+11:40,1,St George,36.618
+11:40,2,23Nisan,122.369
+11:40,3,HARRYCHELLA,46.634
+11:40,4,Brightgetswellsoon,167.258
+11:40,5,あんスタMVここ見て,20.438
+11:40,6,PasayIsPink,178.226
+11:40,7,Lizzo,59.336
+11:40,8,I WILL SURVIVE,64.490
+11:40,9,おりほー,
+11:40,10,Sant Jordi,65.187
+12:10,1,23Nisan,130.929
+12:10,2,St George,40.585
+12:10,3,PasayIsPink,188.192
+12:10,4,ジャニーズWEST虹会,
+12:10,5,DiaDelLibro,22.027
+12:10,6,あんスタMVここ見て,22.194
+12:10,7,Lizzo,61.034
+12:10,8,Sant Jordi,68.416
+12:10,9,I WILL SURVIVE,66.707
+12:10,10,SB19 LIVE IN ARANETA,56.865
+12:40,1,23Nisan,139.990
+12:40,2,St George,44.397
+12:40,3,PasayIsPink,200.175
+12:40,4,ジャニーズWEST虹会,13.601
+12:40,5,DiaDelLibro,24.470
+12:40,6,ARSMUN,36.116
+12:40,7,SB19 LIVE IN ARANETA,82.098
+12:40,8,Sant Jordi,73.268
+12:40,9,Çocuk Bayramı,135.560
+12:40,10,Lizzo,62.459
+13:10,1,23Nisan,147.460
+13:10,2,St George,47.328
+13:10,3,ARSMUN,44.940
+13:10,4,PasayIsPink,211.076
+13:10,5,ジャニーズWEST虹会,19.344
+13:10,6,DiaDelLibro,26.049
+13:10,7,SB19 LIVE IN ARANETA,104.876
+13:10,8,Sant Jordi,75.555
+13:10,9,Chitato Indomie,
+13:10,10,Çocuk Bayramı,140.393
+13:40,1,ARSMUN,67.085
+13:40,2,DQXイベント,
+13:40,3,ジャニーズWEST虹会,28.850
+13:40,4,PasayIsPink,224.488
+13:40,5,23Nisan,156.098
+13:40,6,すわほー,
+13:40,7,St George,50.244
+13:40,8,Telles,
+13:40,9,SB19 LIVE IN ARANETA,128.658
+13:40,10,Tavares,
+14:10,1,ARSMUN,98.966
+14:10,2,Arsenal,241.163
+14:10,3,Telles,15.918
+14:10,4,DQXイベント,11.837
+14:10,5,PasayIsPink,247.866
+14:10,6,ジャニーズWEST虹会,38.049
+14:10,7,SHOWチャンネル,27.334
+14:10,8,Cedric,15.484
+14:10,9,すわほー,
+14:10,10,Ramsdale,
+14:40,1,ARSMUN,122.535
+14:40,2,Cedric,27.900
+14:40,3,Cedric,27.900
+14:40,4,SHOWチャンネル,60.713
+14:40,5,Arsenal,272.205
+14:40,6,Telles,20.685
+14:40,7,ジャにのちゃんねる,42.377
+14:40,8,PasayIsPink,273.689
+14:40,9,Ramsdale,11.009
+14:40,10,DQXイベント,12.213
+15:10,1,ARSMUN,154.319
+15:10,2,Tavares,37.591
+15:10,3,Arsenal,309.010
+15:10,4,Ronaldo,219.192
+15:10,5,Xhaka,26.811
+15:10,6,Bruno Fernandes,19.085
+15:10,7,SHOWチャンネル,85.995
+15:10,8,ジャにのちゃんねる,70.691
+15:10,9,Telles,22.160
+15:10,10,PasayIsPink,296.869
+15:40,1,ARSMUN,182.417
+15:40,2,Arsenal,369.704
+15:40,3,Tavares,42.613
+15:40,4,Ronaldo,254.726
+15:40,5,Xhaka,41.459
+15:40,6,Bruno Fernandes,33.176
+15:40,7,虹ヶ咲,123.986
+15:40,8,SHOWチャンネル,94.716
+15:40,9,ジャにのちゃんねる,85.183
+15:40,10,PasayIsPink,325.269
+16:10,1,ARSMUN,194.929
+16:10,2,Arsenal,412.164
+16:10,3,Ronaldo,274.451
+16:10,4,Tavares,47.676
+16:10,5,Xhaka,52.158
+16:10,6,Bruno Fernandes,41.305
+16:10,7,虹ヶ咲,138.198
+16:10,8,Cedric,35.975
+16:10,9,PasayIsPink,345.710
+16:10,10,SHOWチャンネル,98.144
+16:40,1,ARSMUN,201.358
+16:40,2,Arsenal,435.953
+16:40,3,Ronaldo,291.952
+16:40,4,Tavares,50.287
+16:40,5,Xhaka,57.575
+16:40,6,Bruno Fernandes,45.611
+16:40,7,PasayIsPink,380.420
+16:40,8,SixTONESANN,28.185
+16:40,9,SPY_FAMILY,326.711
+16:40,10,虹ヶ咲,143.110
+17:10,1,SixTONESANN,120.301
+17:10,2,ARSMUN,202.712
+17:10,3,Arsenal,445.257
+17:10,4,WONKI_on_MixENMax,197.095
+17:10,5,Ronaldo,298.848
+17:10,6,PasayIsPink,406.296
+17:10,7,SPY_FAMILY,342.623
+17:10,8,Xhaka,60.969
+17:10,9,Tavares,51.854
+17:10,10,Bruno Fernandes,48.391
+17:40,1,SixTONESANN,191.161
+17:40,2,ARSMUN,198.165
+17:40,3,Arsenal,461.456
+17:40,4,CutiePieEP9,204.009
+17:40,5,WONKI_on_MixENMax,210.850
+17:40,6,Gabriel Jesus,41.656
+17:40,7,PasayIsPink,430.944
+17:40,8,Ronaldo,310.345
+17:40,9,WONKI IMMORTAL DUO,200.941
+17:40,10,WITH YOU,1.350.350
+18:10,1,SixTONESANN,235.335
+18:10,2,CutiePieEP9,515.783
+18:10,3,ARSMUN,194.849
+18:10,4,KinnPorscheEP3,162.650
+18:10,5,Gabriel Jesus,45.922
+18:10,6,WONKI_on_MixENMax,217.430
+18:10,7,Arsenal,466.930
+18:10,8,WITH YOU,1.327.987
+18:10,9,WONKI IMMORTAL DUO,204.650
+18:10,10,Ronaldo,313.168
+18:40,1,SixTONESANN,239.289
+18:40,2,CutiePieEP9,831.512
+18:40,3,KinnPorscheEP3,325.356
+18:40,4,Gabriel Jesus,51.030
+18:40,5,WITH YOU,2.420.225
+18:40,6,ARSMUN,197.076
+18:40,7,WONKI_on_MixENMax,221.242
+18:40,8,Arsenal,479.259
+18:40,9,JIMIN OST OUT TODAY,53.682
+18:40,10,WONKI IMMORTAL DUO,206.736
+19:10,1,KinnPorscheEP3,545.036
+19:10,2,CutiePieEP9,1.082.600
+19:10,3,SixTONESANN,240.713
+19:10,4,GOpaiN,29.165
+19:10,5,WITH YOU,2.011.823
+19:10,6,InterRoma,10.728
+19:10,7,Gabriel Jesus,52.345
+19:10,8,JIMIN OST OUT TODAY,61.255
+19:10,9,Arsenal,478.978
+19:10,10,Gnabry,
+19:40,1,KinnPorscheEP3,658.206
+19:40,2,CutiePieEP9,1.167.765
+19:40,3,GOpaiN,33.040
+19:40,4,InterRoma,13.138
+19:40,5,SixTONESANN,241.305
+19:40,6,Miggy,14.551
+19:40,7,WITH YOU,2.267.883
+19:40,8,Gabriel Jesus,54.636
+19:40,9,Mobley,
+19:40,10,JIMIN OST OUT TODAY,64.515
+20:10,1,KinnPorscheEP3,755.210
+20:10,2,ADSvTS,
+20:10,3,InterRoma,16.104
+20:10,4,CutiePieEP9,1.270.198
+20:10,5,Miggy,20.142
+20:10,6,Mobley,
+20:10,7,GOpaiN,34.377
+20:10,8,Miguel Cabrera,44.419
+20:10,9,Scottie Barnes,22.905
+20:10,10,WITH YOU,2.582.455
+20:40,1,KinnPorscheEP3,833.411
+20:40,2,ADSvTS,10.471
+20:40,3,FCBBVB,20.543
+20:40,4,InterRoma,17.887
+20:40,5,Miggy,24.086
+20:40,6,CutiePieEP9,1.343.949
+20:40,7,Scottie,39.028
+20:40,8,Mobley,
+20:40,9,Miguel Cabrera,57.492
+20:40,10,Brentford,29.004
+21:10,1,ADSvTS,12.097
+21:10,2,KinnPorscheEP3,885.265
+21:10,3,AdanadaKaraGece,
+21:10,4,FCBBVB,21.691
+21:10,5,InterRoma,18.740
+21:10,6,Miggy,26.568
+21:10,7,Miguel Cabrera,66.118
+21:10,8,Scottie,42.661
+21:10,9,Mobley,
+21:10,10,Tommy Fury,
+21:40,1,ADSvTS,14.080
+21:40,2,KinnPorscheEP3,921.520
+21:40,3,AdanadaKaraGece,
+21:40,4,FuryWhyte,41.060
+21:40,5,Bayern,76.698
+21:40,6,Miguel Cabrera,73.992
+21:40,7,Miggy,28.896
+21:40,8,GOpaiN,40.235
+21:40,9,Scottie,45.584
+21:40,10,Mobley,10.304
+22:10,1,Marinho,
+22:10,2,ADSvTS,16.277
+22:10,3,Alaska,12.495
+22:10,4,AdanadaKaraGece,
+22:10,5,FuryWhyte,54.459
+22:10,6,KinnPorscheEP3,950.766
+22:10,7,CopaDelRey,14.594
+22:10,8,Isla,23.189
+22:10,9,Miguel Cabrera,80.214
+22:10,10,Bayern,80.842
+22:40,1,Marinho,13.812
+22:40,2,Amici21,43.477
+22:40,3,ZETAWlN,30.593
+22:40,4,世界3位,19.046
+22:40,5,FuryWhyte,67.571
+22:40,6,Betis,60.629
+22:40,7,CopaDelRey,16.955
+22:40,8,Arão,
+22:40,9,AdanadaKaraGece,11.357
+22:40,10,Isla,26.084
+23:10,1,FuryWhyte,92.604
+23:10,2,Marinho,20.728
+23:10,3,Amici21,55.496
+23:10,4,Messi,204.300
+23:10,5,PSGRCL,23.862
+23:10,6,世界3位,20.625
+23:10,7,Betis,63.894
+23:10,8,Arão,
+23:10,9,ZETAWlN,29.311
+23:10,10,CopaDelRey,18.378
+23:40,1,FuryWhyte,120.722
+23:40,2,Marinho,23.693
+23:40,3,Amici21,66.350
+23:40,4,Messi,241.708
+23:40,5,Paulo Sousa,11.427
+23:40,6,Betis,66.947
+23:40,7,الهلال_الشارقه,75.876
+23:40,8,Arão,
+23:40,9,Valencia,62.413
+23:40,10,PSGRCL,27.186

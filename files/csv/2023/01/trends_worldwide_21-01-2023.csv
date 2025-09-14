@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Juventus,28.143
+00:10,2,plusvalenze,13.681
+00:10,3,Dani Alves,56.610
+00:10,4,OMSRFC,13.761
+00:10,5,ARES11,
+00:10,6,LoveIsland,46.674
+00:10,7,UNAM,131.775
+00:10,8,Arraez,
+00:10,9,Burnley,
+00:10,10,Pumas,13.742
+00:40,1,Juventus,29.434
+00:40,2,plusvalenze,14.438
+00:40,3,Dani Alves,58.792
+00:40,4,ARES11,
+00:40,5,OMSRFC,14.229
+00:40,6,LoveIsland,47.532
+00:40,7,UNAM,138.094
+00:40,8,Vizela,
+00:40,9,Arraez,
+00:40,10,Pumas,14.747
+01:10,1,Juve,46.281
+01:10,2,Dani Alves,60.582
+01:10,3,plusvalenze,14.979
+01:10,4,ウルトラマンデッカー,
+01:10,5,CristianRey,
+01:10,6,OMSRFC,14.527
+01:10,7,ARES11,
+01:10,8,UNAM,139.843
+01:10,9,Vizela,
+01:10,10,金太の大冒険,
+01:40,1,ウルトラマンデッカー,17.787
+01:40,2,CristianRey,
+01:40,3,Juve,48.084
+01:40,4,VoleiNoSporTV,
+01:40,5,Dani Alves,62.412
+01:40,6,plusvalenze,15.378
+01:40,7,週末は新ゴールドスターで乾杯,
+01:40,8,UNAM,145.805
+01:40,9,金太の大冒険,
+01:40,10,Vizela,
+02:10,1,ウルトラマンデッカー,22.211
+02:10,2,週末は新ゴールドスターで乾杯,
+02:10,3,VoleiNoSporTV,
+02:10,4,CristianRey,
+02:10,5,SudamericanoSub20,
+02:10,6,Juve,49.245
+02:10,7,Dani Alves,63.833
+02:10,8,Osorio,
+02:10,9,UNAM,147.202
+02:10,10,金太の大冒険,
+02:40,1,SmackDown,11.955
+02:40,2,DragRace,
+02:40,3,ウルトラマンデッカー,26.163
+02:40,4,Finana3D,
+02:40,5,週末は新ゴールドスターで乾杯,
+02:40,6,Sheamus,
+02:40,7,Juve,50.373
+02:40,8,Osorio,
+02:40,9,Snatch Game,
+02:40,10,Dani Alves,65.043
+03:10,1,SmackDown,20.906
+03:10,2,DragRace,11.017
+03:10,3,Finana3D,19.170
+03:10,4,ウルトラマンデッカー,28.691
+03:10,5,グラフェス2022_2023,73.104
+03:10,6,Sheamus,
+03:10,7,Firefly Funhouse,
+03:10,8,Larissa,175.631
+03:10,9,LA Knight,
+03:10,10,Hit Row,
+03:40,1,SmackDown,26.579
+03:40,2,DragRace,13.585
+03:40,3,Finana3D,26.930
+03:40,4,グラフェス2022_2023,76.726
+03:40,5,loveafterlockup,
+03:40,6,Monobloco,
+03:40,7,É o Tchan,
+03:40,8,Cavs,
+03:40,9,Illapu,
+03:40,10,Sheamus,
+04:10,1,SmackDown,33.853
+04:10,2,É o Tchan,12.427
+04:10,3,DragRace,15.071
+04:10,4,Saulo,
+04:10,5,Finana3D,29.170
+04:10,6,loveafterlockup,
+04:10,7,Sheila Mello,
+04:10,8,グラフェス2022_2023,76.975
+04:10,9,Cavs,11.407
+04:10,10,Monobloco,
+04:40,1,Saulo,
+04:40,2,É o Tchan,15.618
+04:40,3,SmackDown,36.235
+04:40,4,DragRace,16.625
+04:40,5,LoveAfterLockup,
+04:40,6,グラフェス2022_2023,80.735
+04:40,7,FelizAniversárioFelipeNeto,
+04:40,8,Cavs,12.508
+04:40,9,Sheila Mello,
+04:40,10,Monobloco,
+05:10,1,Saulo,10.164
+05:10,2,É o Tchan,16.643
+05:10,3,SmackDown,37.854
+05:10,4,DragRace,17.689
+05:10,5,LoveAfterLockup,
+05:10,6,グラフェス2022_2023,82.315
+05:10,7,OPLive,
+05:10,8,Cavs,12.907
+05:10,9,Sheila Mello,
+05:10,10,Chrisean,43.659
+05:40,1,Shannon Sharpe,13.513
+05:40,2,Steven Adams,
+05:40,3,Saulo,10.539
+05:40,4,SmackDown,39.071
+05:40,5,É o Tchan,17.160
+05:40,6,DragRace,18.838
+05:40,7,Tee Morant,
+05:40,8,グラフェス2022_2023,85.415
+05:40,9,OPLive,
+05:40,10,LoveAfterLockup,
+06:10,1,Shannon Sharpe,33.084
+06:10,2,Steven Adams,
+06:10,3,Grizzlies,26.419
+06:10,4,Saulo,10.676
+06:10,5,SmackDown,40.146
+06:10,6,É o Tchan,17.379
+06:10,7,DragRace,19.682
+06:10,8,グラフェス2022_2023,86.006
+06:10,9,Dillon Brooks,
+06:10,10,キンプる,39.807
+06:40,1,Shannon Sharpe,43.001
+06:40,2,Steven Adams,11.035
+06:40,3,Grizzlies,30.553
+06:40,4,キンプる,49.568
+06:40,5,Dillon Brooks,
+06:40,6,Saulo,10.747
+06:40,7,SmackDown,40.778
+06:40,8,グラフェス2022_2023,88.906
+06:40,9,DragRace,20.671
+06:40,10,あなたをどうぶつおしりに例える,
+07:10,1,Lakers,65.100
+07:10,2,Shannon Sharpe,50.032
+07:10,3,Grizzlies,39.627
+07:10,4,Steven Adams,12.325
+07:10,5,LakeShow,
+07:10,6,Tee Morant,21.937
+07:10,7,Schroder,
+07:10,8,キンプる,55.944
+07:10,9,Dillon Brooks,
+07:10,10,グラフェス2022_2023,89.754
+07:40,1,Lakers,73.911
+07:40,2,Shannon Sharpe,54.772
+07:40,3,Grizzlies,43.816
+07:40,4,Steven Adams,13.113
+07:40,5,LakeShow,
+07:40,6,Tee Morant,23.281
+07:40,7,Schroder,
+07:40,8,キンプる,59.740
+07:40,9,Dillon Brooks,
+07:40,10,あなたをどうぶつおしりに例える,
+08:10,1,Lakers,78.103
+08:10,2,Shannon Sharpe,58.386
+08:10,3,Grizzlies,46.117
+08:10,4,Steven Adams,13.642
+08:10,5,LakeShow,
+08:10,6,Tee Morant,24.264
+08:10,7,キングエルメス,
+08:10,8,キンプる,61.624
+08:10,9,cumartesi,
+08:10,10,RISERMUSIC,23.739
+08:40,1,Lakers,81.216
+08:40,2,Shannon Sharpe,60.840
+08:40,3,Grizzlies,47.767
+08:40,4,Steven Adams,14.079
+08:40,5,LakeShow,
+08:40,6,RISERMUSIC,39.389
+08:40,7,NJPWvsNOAH,
+08:40,8,SFリーグ,
+08:40,9,cumartesi,
+08:40,10,リリンク,
+09:10,1,Lakers,82.867
+09:10,2,Shannon Sharpe,62.771
+09:10,3,Grizzlies,48.935
+09:10,4,NJPWvsNOAH,11.349
+09:10,5,Steven Adams,14.378
+09:10,6,RISERMUSIC,48.760
+09:10,7,GBVS,11.671
+09:10,8,CricketContestByArjun,10.349
+09:10,9,LakeShow,
+09:10,10,cumartesi,
+09:40,1,Lakers,84.892
+09:40,2,NJPWvsNOAH,13.695
+09:40,3,Shannon,94.233
+09:40,4,Grizzlies,49.972
+09:40,5,GBVS,14.242
+09:40,6,Liella_3rd_大阪Day1,11.316
+09:40,7,RISERMUSIC,56.271
+09:40,8,Steven Adams,14.642
+09:40,9,AmuraBeautyCare,
+09:40,10,BeYouEveryDay,
+10:10,1,BibleBuildxPastel,20.269
+10:10,2,NJPWvsNOAH,16.008
+10:10,3,CRカップ,43.708
+10:10,4,三面狂神WIN,14.701
+10:10,5,Lakers,85.995
+10:10,6,Shannon,96.210
+10:10,7,JAYB_EncoreinBKK_DAY1,10.902
+10:10,8,ヒロアカMVP,
+10:10,9,ホークス,12.150
+10:10,10,GBVS,15.689
+10:40,1,BibleBuildxPastel,82.335
+10:40,2,三面狂神WIN,24.228
+10:40,3,CRカップ,58.087
+10:40,4,NJPWvsNOAH,20.516
+10:40,5,EGGモンWIN,
+10:40,6,アシュラウィン,10.479
+10:40,7,Shannon,97.918
+10:40,8,Politik Kesetaraan PKB,
+10:40,9,ホークス,13.495
+10:40,10,Lakers,87.221
+11:10,1,BibleBuildxPastel,141.003
+11:10,2,CRカップ,61.731
+11:10,3,三面狂神WIN,25.780
+11:10,4,NJPWvsNOAH,24.913
+11:10,5,JAYB_EncoreinBKK_DAY1,28.912
+11:10,6,EGGモンWIN,
+11:10,7,Politik Kesetaraan PKB,10.899
+11:10,8,Steve Smith,
+11:10,9,Gus Muhaimin Iskandar,
+11:10,10,ホークス,13.752
+11:40,1,AskSRK,12.466
+11:40,2,BibleBuildxPastel,192.843
+11:40,3,CRカップ,64.901
+11:40,4,三面狂神WIN,26.889
+11:40,5,NJPWvsNOAH,28.171
+11:40,6,JAYB_EncoreinBKK_DAY1,36.310
+11:40,7,Politik Kesetaraan PKB,12.698
+11:40,8,Gus Muhaimin Iskandar,11.025
+11:40,9,初見クリア,
+11:40,10,Steve Smith,
+12:10,1,AskSRK,31.247
+12:10,2,BibleBuildxPastel,257.285
+12:10,3,CRカップ,34.740
+12:10,4,NJPWvsNOAH,32.275
+12:10,5,JAYB_EncoreinBKK_DAY1,43.511
+12:10,6,Politik Kesetaraan PKB,14.454
+12:10,7,Gus Muhaimin Iskandar,12.617
+12:10,8,cpt強すぎ,
+12:10,9,初見クリア,
+12:10,10,Dimitrov,
+12:40,1,AskSRK,33.403
+12:40,2,CRカップ,37.599
+12:40,3,BibleBuildxPastel,308.822
+12:40,4,NJPWvsNOAH,36.654
+12:40,5,LIVCHE,24.392
+12:40,6,cpt強すぎ,
+12:40,7,コアくん,
+12:40,8,Politik Kesetaraan PKB,15.494
+12:40,9,Dimitrov,
+12:40,10,STOP SWEDEN,
+13:10,1,AskSRK,34.106
+13:10,2,CRカップ,39.576
+13:10,3,LIVCHE,31.251
+13:10,4,BibleBuildxPastel,342.043
+13:10,5,NJPWvsNOAH,39.477
+13:10,6,STOP SWEDEN,14.364
+13:10,7,Milner,
+13:10,8,cpt強すぎ,
+13:10,9,コアくん,
+13:10,10,Shooting Voice,
+13:40,1,AskSRK,35.248
+13:40,2,LIVCHE,46.531
+13:40,3,CRカップ,44.880
+13:40,4,BibleBuildxPastel,363.962
+13:40,5,NJPWvsNOAH,42.221
+13:40,6,STOP SWEDEN,20.567
+13:40,7,Milner,
+13:40,8,Shooting Voice,
+13:40,9,サザビー,
+13:40,10,コアくん,
+14:10,1,AskSRK,36.222
+14:10,2,LIVCHE,62.956
+14:10,3,CRカップ,58.800
+14:10,4,BibleBuildxPastel,391.374
+14:10,5,NJPWvsNOAH,43.920
+14:10,6,STOP SWEDEN,26.634
+14:10,7,Milner,
+14:10,8,Selly,23.683
+14:10,9,VIBIE LIVE WITH MEW,36.113
+14:10,10,Liverpool vs Chelsea,37.587
+14:40,1,AskSRK,37.211
+14:40,2,LIVCHE,75.967
+14:40,3,CRカップ,75.976
+14:40,4,お前らプロ野球選手の最初の推し誰だよ,
+14:40,5,BibleBuildxPastel,418.745
+14:40,6,STOP SWEDEN,32.626
+14:40,7,Selly,42.559
+14:40,8,Milner,
+14:40,9,VIBIE LIVE WITH MEW,42.916
+14:40,10,Liverpool vs Chelsea,47.683
+15:10,1,LIVCHE,93.274
+15:10,2,CRカップ,85.891
+15:10,3,AskSRK,38.123
+15:10,4,お前らプロ野球選手の最初の推し誰だよ,
+15:10,5,WGMMWIN,27.276
+15:10,6,Selly,51.953
+15:10,7,STOP SWEDEN,40.789
+15:10,8,Milner,13.155
+15:10,9,VIBIE LIVE WITH MEW,45.821
+15:10,10,Liverpool vs Chelsea,59.271
+15:40,1,LIVCHE,104.072
+15:40,2,CRカップ,90.671
+15:40,3,AskSRK,38.990
+15:40,4,お前らプロ野球選手の最初の推し誰だよ,
+15:40,5,ハマる男に蹴りたい女,30.383
+15:40,6,Selly,55.502
+15:40,7,STOP SWEDEN,48.416
+15:40,8,Gakpo,25.540
+15:40,9,Mason Mount,
+15:40,10,Milner,14.656
+16:10,1,LIVCHE,97.871
+16:10,2,Mudryk,128.838
+16:10,3,ハマる男に蹴りたい女,33.810
+16:10,4,お前らプロ野球選手の最初の推し誰だよ,
+16:10,5,CRカップ,92.721
+16:10,6,Gallagher,19.235
+16:10,7,AskSRK,39.776
+16:10,8,STOP SWEDEN,57.108
+16:10,9,Selly,57.356
+16:10,10,Gakpo,28.452
+16:40,1,LIVCHE,99.899
+16:40,2,Mudryk,144.091
+16:40,3,Liverpool,210.734
+16:40,4,Gallagher,20.531
+16:40,5,ハマる男に蹴りたい女,36.367
+16:40,6,SixTONESANN,75.100
+16:40,7,お前らプロ野球選手の最初の推し誰だよ,
+16:40,8,CRカップ,94.471
+16:40,9,STOP SWEDEN,65.060
+16:40,10,Gakpo,30.247
+17:10,1,Mudryk,150.912
+17:10,2,LIVCHE,101.169
+17:10,3,Liverpool,211.587
+17:10,4,Gallagher,21.040
+17:10,5,SixTONESANN,106.657
+17:10,6,ハマる男に蹴りたい女,37.071
+17:10,7,お前らプロ野球選手の最初の推し誰だよ,
+17:10,8,CRカップ,95.351
+17:10,9,STOP SWEDEN,72.405
+17:10,10,Gakpo,31.470
+17:40,1,Mudryk,159.291
+17:40,2,LIVCHE,102.291
+17:40,3,Liverpool,216.683
+17:40,4,SixTONESANN,109.277
+17:40,5,Gallagher,22.206
+17:40,6,ハマる男に蹴りたい女,37.594
+17:40,7,お前らプロ野球選手の最初の推し誰だよ,
+17:40,8,SnowManデビュー3周年,32.850
+17:40,9,STOP SWEDEN,79.066
+17:40,10,Gakpo,33.009
+18:10,1,Mudryk,162.009
+18:10,2,LIVCHE,102.780
+18:10,3,SixTONESANN,110.078
+18:10,4,Liverpool,216.582
+18:10,5,SnowManデビュー3周年,34.585
+18:10,6,Gallagher,22.531
+18:10,7,ハマる男に蹴りたい女,37.802
+18:10,8,お前らプロ野球選手の最初の推し誰だよ,
+18:10,9,STOP SWEDEN,88.518
+18:10,10,Gakpo,33.988
+18:40,1,SixTONESANN,110.640
+18:40,2,Mudryk,167.508
+18:40,3,SnowManデビュー3周年,35.783
+18:40,4,LIVCHE,103.658
+18:40,5,Liverpool,220.628
+18:40,6,MuuPump,
+18:40,7,ทฤษฎีสีชมพูEP9,163.689
+18:40,8,GAP WORLDCLASS GL,143.569
+18:40,9,Gallagher,23.061
+18:40,10,STOP SWEDEN,96.894
+19:10,1,ทฤษฎีสีชมพูEP9,206.569
+19:10,2,SixTONESANN,111.009
+19:10,3,SnowManデビュー3周年,36.432
+19:10,4,JoyAwards,36.938
+19:10,5,GAP WORLDCLASS GL,169.187
+19:10,6,GSvANT,24.224
+19:10,7,Mudryk,170.980
+19:10,8,STOP SWEDEN,106.868
+19:10,9,Lampard,11.460
+19:10,10,San Marcos,125.894
+19:40,1,JoyAwards,44.999
+19:40,2,GSvANT,29.987
+19:40,3,ทฤษฎีสีชมพูEP9,227.556
+19:40,4,STOP SWEDEN,116.464
+19:40,5,Ed Reed,
+19:40,6,GAP WORLDCLASS GL,184.787
+19:40,7,SnowManデビュー3周年,36.958
+19:40,8,今野大輝ANN0,20.996
+19:40,9,San Marcos,139.998
+19:40,10,Lampard,12.387
+20:10,1,JoyAwards,52.656
+20:10,2,GSvANT,34.392
+20:10,3,ทฤษฎีสีชมพูEP9,241.878
+20:10,4,STOP SWEDEN,126.756
+20:10,5,Ed Reed,11.568
+20:10,6,San Marcos,155.444
+20:10,7,KOESVW,
+20:10,8,今野大輝ANN0,30.178
+20:10,9,GAP WORLDCLASS GL,193.421
+20:10,10,İsveç,18.502
+20:40,1,JoyAwards,62.436
+20:40,2,MaskedSingerUK,
+20:40,3,Fabrício Bruno,
+20:40,4,GSvANT,36.979
+20:40,5,STOP SWEDEN,136.453
+20:40,6,ทฤษฎีสีชมพูEP9,250.730
+20:40,7,Ed Reed,13.539
+20:40,8,KOESVW,
+20:40,9,İsveç,20.033
+20:40,10,San Marcos,168.608
+21:10,1,JoyAwards,69.909
+21:10,2,MaskedSingerUK,
+21:10,3,كهربا,
+21:10,4,Fabrício Bruno,
+21:10,5,STOP SWEDEN,146.725
+21:10,6,Ed Reed,15.417
+21:10,7,GSvANT,39.468
+21:10,8,COAC2023P1,
+21:10,9,NUFC,12.329
+21:10,10,Beyoncé,97.383
+21:40,1,JoyAwards,77.248
+21:40,2,MaskedSingerUK,
+21:40,3,Gabigol,
+21:40,4,الزمالك,38.582
+21:40,5,كهربا,13.856
+21:40,6,حمدي فتحي,
+21:40,7,البزنس46,33.289
+21:40,8,Beyoncé,113.720
+21:40,9,STOP SWEDEN,156.241
+21:40,10,BBTitans,142.907
+22:10,1,JoyAwards,86.180
+22:10,2,البزنس46,78.822
+22:10,3,MaskedSingerUK,
+22:10,4,الزمالك,46.763
+22:10,5,Gabigol,14.592
+22:10,6,BBTitans,152.583
+22:10,7,كهربا,17.137
+22:10,8,حمدي فتحي,
+22:10,9,Chiefs,68.828
+22:10,10,Beyoncé,125.685
+22:40,1,JoyAwards,99.149
+22:40,2,Chiefs,79.060
+22:40,3,BBTitans,167.668
+22:40,4,cepostaperte,
+22:40,5,البزنس46,128.712
+22:40,6,الزمالك,51.664
+22:40,7,Gabigol,20.324
+22:40,8,MaskedSingerUK,
+22:40,9,كهربا,20.353
+22:40,10,حمدي فتحي,10.850
+23:10,1,Mahomes,38.170
+23:10,2,Mahomes,38.170
+23:10,3,Chiefs,91.711
+23:10,4,JoyAwards,104.515
+23:10,5,cepostaperte,15.283
+23:10,6,chopflix,
+23:10,7,Kylie,18.303
+23:10,8,JAXvsKC,13.682
+23:10,9,BBTitans,176.965
+23:10,10,الزمالك,54.428
+23:40,1,Mahomes,70.679
+23:40,2,Mahomes,70.679
+23:40,3,Chad Henne,11.246
+23:40,4,Jags,34.273
+23:40,5,Chiefs,110.435
+23:40,6,chopflix,
+23:40,7,cepostaperte,24.922
+23:40,8,Kylie,25.335
+23:40,9,JAXvsKC,17.001
+23:40,10,JoyAwards,108.798

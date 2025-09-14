@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaIslaDeLasTentaciones4,14.059
+00:10,2,MUNOMO,26.697
+00:10,3,Gallardo,221.089
+00:10,4,Yordan,15.430
+00:10,5,Rashford,21.251
+00:10,6,McTominay,17.865
+00:10,7,NTAs,15.538
+00:10,8,MUFC,80.947
+00:10,9,AMAs,1.440.724
+00:10,10,Uzoho,41.237
+00:40,1,LaIslaDeLasTentaciones4,19.419
+00:40,2,Gallardo,227.120
+00:40,3,MUNOMO,26.885
+00:40,4,Yordan,16.981
+00:40,5,Djonga,21.810
+00:40,6,AMAs,1.467.576
+00:40,7,FanDuelisAGreatTime,
+00:40,8,Rashford,21.587
+00:40,9,NTAs,16.298
+00:40,10,McTominay,18.522
+01:10,1,LaIslaDeLasTentaciones4,30.504
+01:10,2,FanDuelisAGreatTime,
+01:10,3,Djonga,24.574
+01:10,4,Gallardo,233.062
+01:10,5,Yordan,19.430
+01:10,6,AMAs,1.501.770
+01:10,7,Astros,45.434
+01:10,8,MUNOMO,27.118
+01:10,9,DraftKingsTNF,
+01:10,10,Graphic B,
+01:40,1,LaIslaDeLasTentaciones4,34.639
+01:40,2,FanDuelisAGreatTime,
+01:40,3,舞いあがれ,32.037
+01:40,4,VamosLaU,
+01:40,5,Djonga,27.258
+01:40,6,LosCruzados,
+01:40,7,Graphic B,
+01:40,8,Gallardo,239.231
+01:40,9,Astros,50.226
+01:40,10,Yordan,20.817
+02:10,1,VamosLaU,
+02:10,2,FanDuelisAGreatTime,
+02:10,3,LosCruzados,
+02:10,4,LaIslaDeLasTentaciones4,35.630
+02:10,5,舞いあがれ,32.655
+02:10,6,Djonga,29.553
+02:10,7,Graphic B,
+02:10,8,Parot,
+02:10,9,Orellana,
+02:10,10,Bears,67.496
+02:40,1,VamosLaU,
+02:40,2,Bears,75.577
+02:40,3,FanDuelisAGreatTime,
+02:40,4,LosCruzados,
+02:40,5,Justin Fields,
+02:40,6,LaIslaDeLasTentaciones4,36.018
+02:40,7,舞いあがれ,34.009
+02:40,8,Djonga,31.775
+02:40,9,Graphic B,
+02:40,10,Parot,
+03:10,1,Justin Fields,10.546
+03:10,2,Bears,83.754
+03:10,3,VamosLaU,
+03:10,4,WASvsCHI,
+03:10,5,TNFonPrime,
+03:10,6,FanDuelisAGreatTime,
+03:10,7,LosCruzados,
+03:10,8,Thursday Night Football,12.432
+03:10,9,Al Michaels,
+03:10,10,Djonga,33.786
+03:40,1,Bears,93.527
+03:40,2,Justin Fields,15.077
+03:40,3,TNFonPrime,
+03:40,4,Al Michaels,
+03:40,5,Wentz,17.018
+03:40,6,Thursday Night Football,16.970
+03:40,7,WASvsCHI,
+03:40,8,Curtis Samuel,
+03:40,9,VamosLaU,
+03:40,10,鉄道の日,26.667
+04:10,1,Justin Fields,20.118
+04:10,2,Bears,101.501
+04:10,3,TNFonPrime,
+04:10,4,Thursday Night Football,22.251
+04:10,5,Al Michaels,
+04:10,6,Wentz,19.215
+04:10,7,WASvsCHI,
+04:10,8,Toluca,11.422
+04:10,9,Curtis Samuel,
+04:10,10,Baylor,
+04:40,1,Bears,108.584
+04:40,2,Wentz,27.444
+04:40,3,Justin Fields,23.461
+04:40,4,TNFonPrime,
+04:40,5,Al Michaels,
+04:40,6,Thursday Night Football,24.577
+04:40,7,EliminacaoAFazenda,20.149
+04:40,8,Baylor,
+04:40,9,Toluca,13.383
+04:40,10,WASvsCHI,
+05:10,1,Bears,124.398
+05:10,2,Justin Fields,30.706
+05:10,3,Wentz,31.377
+05:10,4,TNFonPrime,
+05:10,5,Nicki,130.119
+05:10,6,EliminacaoAFazenda,38.036
+05:10,7,OutOfMySystem,173.960
+05:10,8,Al Michaels,
+05:10,9,Thursday Night Football,26.329
+05:10,10,Latto,60.221
+05:40,1,Nicki,156.113
+05:40,2,Bears,135.827
+05:40,3,Justin Fields,36.539
+05:40,4,EliminacaoAFazenda,75.675
+05:40,5,Wentz,34.141
+05:40,6,Latto,107.521
+05:40,7,OutOfMySystem,189.489
+05:40,8,Tati,80.160
+05:40,9,TNFonPrime,
+05:40,10,Vini,105.658
+06:10,1,Nicki,182.846
+06:10,2,Bears,138.815
+06:10,3,Fields,93.994
+06:10,4,EliminacaoAFazenda,88.306
+06:10,5,Wentz,35.663
+06:10,6,OutOfMySystem,196.249
+06:10,7,Tati,78.834
+06:10,8,青春アミーゴ1d100,
+06:10,9,Vini,104.409
+06:10,10,TNFonPrime,10.105
+06:40,1,Nicki,207.923
+06:40,2,Bears,141.828
+06:40,3,Fields,96.995
+06:40,4,EliminacaoAFazenda,96.539
+06:40,5,青春アミーゴ1d100,
+06:40,6,OutOfMySystem,206.648
+06:40,7,Wentz,36.525
+06:40,8,HalloweenEnds,28.938
+06:40,9,MAGICMANWorldTourinBKK,32.832
+06:40,10,Tati,81.723
+07:10,1,Nicki,232.939
+07:10,2,OutOfMySystem,223.953
+07:10,3,Bears,142.333
+07:10,4,Fields,98.404
+07:10,5,青春アミーゴ1d100,
+07:10,6,EliminacaoAFazenda,102.023
+07:10,7,PAKvNZ,
+07:10,8,HalloweenEnds,29.437
+07:10,9,Wentz,37.011
+07:10,10,Tati,80.524
+07:40,1,Nicki,257.938
+07:40,2,PAKvNZ,17.529
+07:40,3,OutOfMySystem,238.732
+07:40,4,青春アミーゴ1d100,
+07:40,5,Bears,143.971
+07:40,6,Fields,99.812
+07:40,7,EliminacaoAFazenda,105.444
+07:40,8,HalloweenEnds,30.586
+07:40,9,Nawaz,28.035
+07:40,10,Lil Baby,47.492
+08:10,1,Nicki,274.550
+08:10,2,PAKvNZ,22.645
+08:10,3,OutOfMySystem,246.277
+08:10,4,青春アミーゴ1d100,
+08:10,5,Bears,143.889
+08:10,6,HalloweenEnds,31.219
+08:10,7,NEOCITY_THE_LINK_BKK,96.235
+08:10,8,Fields,100.263
+08:10,9,Nawaz,29.087
+08:10,10,Lil Baby,50.015
+08:40,1,Nicki,285.038
+08:40,2,PAKvNZ,25.132
+08:40,3,青春アミーゴ1d100,
+08:40,4,OutOfMySystem,250.879
+08:40,5,NEOCITY_THE_LINK_BKK,108.634
+08:40,6,HalloweenEnds,32.190
+08:40,7,Nawaz,31.239
+08:40,8,Bears,144.973
+08:40,9,Fields,101.104
+08:40,10,Lil Baby,52.226
+09:10,1,Nicki,292.997
+09:10,2,PAKvNZ,26.505
+09:10,3,青春アミーゴ1d100,
+09:10,4,TwitterrGündem Whatsapp,
+09:10,5,OutOfMySystem,252.905
+09:10,6,NEOCITY_THE_LINK_BKK,118.494
+09:10,7,JacksonwangWorldTourinBKK,16.807
+09:10,8,Hayırlı Cumalar,34.453
+09:10,9,Nawaz,31.154
+09:10,10,アムウェイ,30.251
+09:40,1,Nicki,301.070
+09:40,2,青春アミーゴ1d100,
+09:40,3,PAKvNZ,27.566
+09:40,4,TwitterrGündem Whatsapp,
+09:40,5,OutOfMySystem,254.795
+09:40,6,WelcomeWayVtoThailand,82.969
+09:40,7,NEOCITY_THE_LINK_BKK,126.761
+09:40,8,Hayırlı Cumalar,38.980
+09:40,9,アムウェイ,33.822
+09:40,10,Nawaz,33.326
+10:10,1,Nicki,304.343
+10:10,2,青春アミーゴ1d100,
+10:10,3,WelcomeWayVtoThailand,109.513
+10:10,4,Latto,298.190
+10:10,5,PAKvNZ,28.370
+10:10,6,日本アムウェイ,11.293
+10:10,7,TwitterrGündem Whatsapp,
+10:10,8,JacksonwangWorldTourinBKK,18.839
+10:10,9,NEOCITY_THE_LINK_BKK,133.180
+10:10,10,Hayırlı Cumalar,43.263
+10:40,1,Nicki,313.612
+10:40,2,青春アミーゴ1d100,
+10:40,3,日本アムウェイ,13.738
+10:40,4,WelcomeWayVtoThailand,126.094
+10:40,5,PAKvNZ,29.136
+10:40,6,يوم_الجمعه,42.716
+10:40,7,Hayırlı Cumalar,47.253
+10:40,8,Latto,305.219
+10:40,9,RingsofPower,
+10:40,10,TwitterrGündem Whatsapp,
+11:10,1,Nicki,321.511
+11:10,2,青春アミーゴ1d100,
+11:10,3,日本アムウェイ,16.304
+11:10,4,CustomerObsessionMonth,
+11:10,5,يوم_الجمعه,46.920
+11:10,6,WelcomeWayVtoThailand,136.979
+11:10,7,Hayırlı Cumalar,50.858
+11:10,8,RingsofPower,
+11:10,9,Latto,314.737
+11:10,10,北村克哉さん,
+11:40,1,CASE143_3rdWin,24.612
+11:40,2,뮤뱅1위_4랑가득_3관왕,18.243
+11:40,3,StrayKids16thWin,17.918
+11:40,4,少クラ,
+11:40,5,Nicki,328.231
+11:40,6,日本アムウェイ,18.853
+11:40,7,青春アミーゴ1d100,
+11:40,8,Hayırlı Cumalar,53.896
+11:40,9,北村克哉さん,
+11:40,10,TwitterrGündem Whatsapp,
+12:10,1,CASE143_3rdWin,33.770
+12:10,2,少クラ,
+12:10,3,뮤뱅1위_4랑가득_3관왕,25.325
+12:10,4,カルマ1d100,
+12:10,5,StrayKids16thWin,24.621
+12:10,6,Nicki,335.125
+12:10,7,日本アムウェイ,21.259
+12:10,8,ニィロウ,62.340
+12:10,9,土井先生,
+12:10,10,利吉さん,
+12:40,1,カルマ1d100,
+12:40,2,CASE143_3rdWin,38.128
+12:40,3,ニィロウ,73.866
+12:40,4,少クラ,
+12:40,5,뮤뱅1위_4랑가득_3관왕,28.147
+12:40,6,StrayKids16thWin,27.409
+12:40,7,アムウェイ,54.416
+12:40,8,Nicki,342.820
+12:40,9,土井先生,
+12:40,10,利吉さん,
+13:10,1,ニィロウ,80.655
+13:10,2,カルマ1d100,
+13:10,3,CASE143_3rdWin,41.359
+13:10,4,櫻井翔生配信,
+13:10,5,Fontana,
+13:10,6,少クラ,
+13:10,7,アムウェイ,57.315
+13:10,8,サイフォス,
+13:10,9,ナヒーダ,18.203
+13:10,10,土井先生,
+13:40,1,ニィロウ,89.156
+13:40,2,櫻井翔生配信,
+13:40,3,カルマ1d100,
+13:40,4,Fontana,10.924
+13:40,5,CASE143_3rdWin,43.436
+13:40,6,星ドラ7周年,
+13:40,7,Van Gogh,17.008
+13:40,8,Chancellor,55.274
+13:40,9,Kwasi Kwarteng,40.570
+13:40,10,ナヒーダ,20.099
+14:10,1,みんなで作る100億円の新事業,15.744
+14:10,2,ニィロウ,93.113
+14:10,3,Van Gogh,25.878
+14:10,4,Kwasi Kwarteng,54.840
+14:10,5,櫻井翔生配信,12.758
+14:10,6,Chancellor,74.342
+14:10,7,カルマ1d100,
+14:10,8,Fontana,12.767
+14:10,9,たかほー,
+14:10,10,ノーヒット,
+14:40,1,みんなで作る100億円の新事業,52.075
+14:40,2,Mステ,20.430
+14:40,3,櫻井翔生配信,17.583
+14:40,4,Van Gogh,35.305
+14:40,5,Chancellor,94.227
+14:40,6,ニィロウ,100.845
+14:40,7,Kwasi Kwarteng,68.274
+14:40,8,たかほー,
+14:40,9,MZDAO,48.603
+14:40,10,Teaserรัก7ปี,24.974
+15:10,1,みんなで作る100億円の新事業,57.716
+15:10,2,Mステ,27.112
+15:10,3,Van Gogh,45.094
+15:10,4,Chancellor,113.646
+15:10,5,ヤクルト,70.812
+15:10,6,櫻井翔生配信,19.096
+15:10,7,Jeremy Hunt,18.416
+15:10,8,矢野監督,14.371
+15:10,9,Kwasi Kwarteng,78.078
+15:10,10,すわほー,13.517
+15:40,1,みんなで作る100億円の新事業,59.693
+15:40,2,Van Gogh,55.301
+15:40,3,SixTONES_ふたり,89.592
+15:40,4,Mステ,29.314
+15:40,5,Jeremy Hunt,33.615
+15:40,6,เปิดตัวได้แล้วMV,101.492
+15:40,7,Chancellor,129.125
+15:40,8,矢野監督,18.242
+15:40,9,ヤクルト,76.662
+15:40,10,ハラバリー,11.474
+16:10,1,みんなで作る100億円の新事業,60.947
+16:10,2,Van Gogh,66.481
+16:10,3,SixTONES_ふたり,89.097
+16:10,4,Jeremy Hunt,44.288
+16:10,5,Mステ,31.470
+16:10,6,เปิดตัวได้แล้วMV,148.919
+16:10,7,Chancellor,142.777
+16:10,8,Liz Truss,150.939
+16:10,9,ハラバリー,15.322
+16:10,10,金スマ,16.072
+16:40,1,Van Gogh,77.841
+16:40,2,みんなで作る100億円の新事業,61.690
+16:40,3,SixTONES_ふたり,92.802
+16:40,4,Jeremy Hunt,53.900
+16:40,5,사랑하는_희승아_너를위한_10월이야,21.971
+16:40,6,CenterOfOurUniverseHeeseung,24.249
+16:40,7,เปิดตัวได้แล้วMV,181.723
+16:40,8,Liz Truss,165.868
+16:40,9,Chancellor,154.724
+16:40,10,ハラバリー,17.506
+17:10,1,사랑하는_희승아_너를위한_10월이야,98.864
+17:10,2,CenterOfOurUniverseHeeseung,96.705
+17:10,3,Van Gogh,89.789
+17:10,4,みんなで作る100億円の新事業,62.138
+17:10,5,SixTONES_ふたり,92.769
+17:10,6,Jeremy Hunt,62.217
+17:10,7,Liz Truss,173.617
+17:10,8,เปิดตัวได้แล้วMV,199.676
+17:10,9,Chancellor,162.567
+17:10,10,トマトスープ,19.825
+17:40,1,사랑하는_희승아_너를위한_10월이야,136.376
+17:40,2,CenterOfOurUniverseHeeseung,135.116
+17:40,3,Van Gogh,102.545
+17:40,4,みんなで作る100億円の新事業,62.647
+17:40,5,Jeremy Hunt,70.001
+17:40,6,SixTONES_ふたり,94.453
+17:40,7,ゆめくろ100万DL突破,
+17:40,8,トマトスープ,24.067
+17:40,9,Liz Truss,184.662
+17:40,10,Chancellor,171.356
+18:10,1,사랑하는_희승아_너를위한_10월이야,153.395
+18:10,2,CenterOfOurUniverseHeeseung,151.467
+18:10,3,Van Gogh,115.154
+18:10,4,ゆめくろ100万DL突破,
+18:10,5,Jeremy Hunt,77.589
+18:10,6,Öğretmene100binAtama,68.922
+18:10,7,KamuEczacısı Sizeİnanıyor,
+18:10,8,トマトスープ,27.381
+18:10,9,みんなで作る100億円の新事業,63.349
+18:10,10,Liz Truss,190.121
+18:40,1,사랑하는_희승아_너를위한_10월이야,163.395
+18:40,2,Van Gogh,127.032
+18:40,3,CenterOfOurUniverseHeeseung,161.341
+18:40,4,Öğretmene100binAtama,100.565
+18:40,5,ゆめくろ100万DL突破,
+18:40,6,Jeremy Hunt,84.499
+18:40,7,トマトスープ,30.056
+18:40,8,フロイニ,21.829
+18:40,9,Nicki,465.215
+18:40,10,Liz Truss,199.322
+19:10,1,Hagrid,35.794
+19:10,2,Van Gogh,138.044
+19:10,3,Robbie Coltrane,45.715
+19:10,4,Bartın,
+19:10,5,사랑하는_희승아_너를위한_10월이야,169.267
+19:10,6,CenterOfOurUniverseHeeseung,167.036
+19:10,7,Öğretmene100binAtama,125.819
+19:10,8,フロイニ,33.758
+19:10,9,Jeremy Hunt,91.727
+19:10,10,トマトスープ,31.974
+19:40,1,Hagrid,149.867
+19:40,2,Robbie Coltrane,162.718
+19:40,3,Bartın,17.303
+19:40,4,Van Gogh,148.950
+19:40,5,사랑하는_희승아_너를위한_10월이야,173.547
+19:40,6,CenterOfOurUniverseHeeseung,171.180
+19:40,7,Stanton,
+19:40,8,WelcomeNCTDREAMtoThailand,94.707
+19:40,9,Öğretmene100binAtama,135.624
+19:40,10,Hogwarts,14.921
+20:10,1,Hagrid,256.642
+20:10,2,Robbie Coltrane,262.593
+20:10,3,Bartın,32.107
+20:10,4,Van Gogh,158.674
+20:10,5,사랑하는_희승아_너를위한_10월이야,176.537
+20:10,6,CenterOfOurUniverseHeeseung,174.060
+20:10,7,Hogwarts,28.982
+20:10,8,patlama,
+20:10,9,Stanton,
+20:10,10,WelcomeNCTDREAMtoThailand,136.517
+20:40,1,Hagrid,329.661
+20:40,2,Bartın,45.700
+20:40,3,Van Gogh,168.572
+20:40,4,Hogwarts,41.828
+20:40,5,Nestor,20.438
+20:40,6,patlama,
+20:40,7,사랑하는_희승아_너를위한_10월이야,178.573
+20:40,8,CenterOfOurUniverseHeeseung,175.950
+20:40,9,Stanton,
+20:40,10,WelcomeNCTDREAMtoThailand,149.815
+21:10,1,Hagrid,384.106
+21:10,2,Bartın,58.829
+21:10,3,Van Gogh,177.833
+21:10,4,Hogwarts,50.968
+21:10,5,Nestor,21.474
+21:10,6,patlama,10.026
+21:10,7,사랑하는_희승아_너를위한_10월이야,180.322
+21:10,8,CenterOfOurUniverseHeeseung,177.701
+21:10,9,PMSNFLWeek6,
+21:10,10,Stanton,
+21:40,1,Hagrid,426.069
+21:40,2,Bartın,71.016
+21:40,3,Van Gogh,187.094
+21:40,4,Hogwarts,59.238
+21:40,5,PMSNFLWeek6,
+21:40,6,freecodefridaycontest,
+21:40,7,patlama,11.614
+21:40,8,Ivan Toney,
+21:40,9,Nestor,22.124
+21:40,10,Bob Costas,
+22:10,1,Hagrid,460.254
+22:10,2,Bartın,84.928
+22:10,3,Robbie Coltrane,453.773
+22:10,4,Harry Potter,270.392
+22:10,5,Van Gogh,196.077
+22:10,6,Hogwarts,65.903
+22:10,7,PMSNFLWeek6,
+22:10,8,freecodefridaycontest,
+22:10,9,patlama,13.522
+22:10,10,Bob Costas,
+22:40,1,Hagrid,485.974
+22:40,2,Bartın,102.384
+22:40,3,Robbie Coltrane,479.063
+22:40,4,Harry Potter,283.910
+22:40,5,Van Gogh,205.667
+22:40,6,Ivan Toney,
+22:40,7,Hogwarts,71.671
+22:40,8,PMSNFLWeek6,
+22:40,9,freecodefridaycontest,
+22:40,10,patlama,15.488
+23:10,1,Bartın,121.183
+23:10,2,Hagrid,513.274
+23:10,3,Robbie Coltrane,500.702
+23:10,4,SpookyCashAppFriday,
+23:10,5,Harry Potter,294.858
+23:10,6,Van Gogh,214.866
+23:10,7,Allah'tan,43.565
+23:10,8,Toney,15.191
+23:10,9,Bob Costas,
+23:10,10,Hogwarts,76.882
+23:40,1,Bartın,139.212
+23:40,2,Hagrid,536.607
+23:40,3,SpookyCashAppFriday,16.333
+23:40,4,Robbie Coltrane,520.650
+23:40,5,Harry Potter,306.541
+23:40,6,Yankees,55.422
+23:40,7,ForTheLand,10.691
+23:40,8,Van Gogh,219.691
+23:40,9,Allah'tan,51.744
+23:40,10,Toney,17.330

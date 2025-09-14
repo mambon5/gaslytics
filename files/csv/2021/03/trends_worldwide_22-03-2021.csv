@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,dolar,194.068
+00:09,2,RocíoVerdad1,118.386
+00:09,3,DevletiminYanındayım,71.282
+00:09,4,LineOfDuty,44.461
+00:09,5,AhmetÇakar,
+00:09,6,Bristol,88.296
+00:09,7,WWEFastlane,28.485
+00:09,8,Antonio David,28.953
+00:09,9,Game Grumps,25.495
+00:09,10,Barça,103.411
+00:39,1,dolar,
+00:39,2,RocíoVerdad1,138.553
+00:39,3,DevletiminYanındayım,81.364
+00:39,4,WWEFastlane,43.293
+00:39,5,LineOfDuty,46.011
+00:39,6,AhmetÇakar,
+00:39,7,Bristol,97.703
+00:39,8,Syracuse,22.235
+00:39,9,Antonio David,34.243
+00:39,10,Game Grumps,29.749
+01:09,1,dolar,210.090
+01:09,2,WWEFastlane,55.616
+01:09,3,RocíoVerdad1,153.020
+01:09,4,DevletiminYanındayım,87.611
+01:09,5,AhmetÇakar,
+01:09,6,LineOfDuty,46.742
+01:09,7,Bristol,104.688
+01:09,8,Syracuse,25.294
+01:09,9,Antonio David,37.425
+01:09,10,Game Grumps,33.634
+01:39,1,WWEFastlane,68.396
+01:39,2,dolar,215.035
+01:39,3,RocíoVerdad1,164.214
+01:39,4,DevletiminYanındayım,91.538
+01:39,5,AhmetÇakar,
+01:39,6,LineofDuty,47.207
+01:39,7,Bristol,109.818
+01:39,8,Marcos Guilherme,
+01:39,9,Fabra,
+01:39,10,Texas Tech,10.313
+02:09,1,WWEFastlane,92.559
+02:09,2,dolar,218.103
+02:09,3,RocioVerdad1,172.645
+02:09,4,RHOA,12.922
+02:09,5,Fabra,
+02:09,6,DevletiminYanındayım,93.551
+02:09,7,Paulo Gustavo,
+02:09,8,Marcos Guilherme,
+02:09,9,Bristol,113.207
+02:09,10,Izquierdoz,
+02:39,1,WWEFastlane,103.616
+02:39,2,Rutgers,26.437
+02:39,3,DebateDefinitivo,15.028
+02:39,4,DebatePresidencialEc,23.837
+02:39,5,Paulo Gustavo,15.737
+02:39,6,FreeBritney,25.617
+02:39,7,dolar,220.569
+02:39,8,Fabra,
+02:39,9,Lescano,13.861
+02:39,10,Marcos Guilherme,
+03:09,1,DebatePresidencialEc,50.573
+03:09,2,WWEFastlane,116.834
+03:09,3,Oral Roberts,44.885
+03:09,4,DebateDefinitivo,31.563
+03:09,5,Paulo Gustavo,25.038
+03:09,6,Rutgers,28.055
+03:09,7,FreeBritney,32.185
+03:09,8,Carla e Arthur,91.537
+03:09,9,Urresti,11.175
+03:09,10,Fabra,11.485
+03:39,1,Sarah,675.825
+03:39,2,Rodolfo,157.844
+03:39,3,DebateDefinitivo,53.196
+03:39,4,DebatePresidencialEc,75.455
+03:39,5,Lescano,40.280
+03:39,6,Oral Roberts,52.515
+03:39,7,WWEFastlane,120.404
+03:39,8,Urresti,24.916
+03:39,9,Paulo Gustavo,31.851
+03:39,10,Arauz,84.097
+04:09,1,Sarah,953.955
+04:09,2,Sarah,953.955
+04:09,3,Sarah,953.955
+04:09,4,ForaCarla,29.745
+04:09,5,DebatePresidencialEc,101.279
+04:09,6,DebateDefinitivo,75.141
+04:09,7,Gilberto,122.577
+04:09,8,Urresti,45.775
+04:09,9,Lescano,50.603
+04:09,10,ArmyConfessionTime,11.621
+04:39,1,Sarah,1.130.766
+04:39,2,Sarah,1.130.766
+04:39,3,Sarah,1.130.766
+04:39,4,Sarah,1.130.766
+04:39,5,ForaCarla,49.866
+04:39,6,ArmyConfessionTime,23.069
+04:39,7,DebatePresidencialEc,116.157
+04:39,8,Fiuk,354.861
+04:39,9,DebateDefinitivo,93.654
+04:39,10,Gilberto,139.309
+05:09,1,Sarah,1.190.215
+05:09,2,Sarah,1.190.215
+05:09,3,Sarah,1.190.215
+05:09,4,ForaRodolffo,206.619
+05:09,5,ArmyConfessionTime,35.255
+05:09,6,ForaCarla,57.826
+05:09,7,DebatePresidencialEc,125.296
+05:09,8,Fiuk,350.031
+05:09,9,DebateDefinitivo,100.907
+05:09,10,Gilberto,142.472
+05:39,1,Sarah,1.241.018
+05:39,2,Sarah,1.241.018
+05:39,3,Sarah,1.241.018
+05:39,4,ForaRodolffo,225.609
+05:39,5,ArmyConfessionTime,46.465
+05:39,6,ForaCarla,62.209
+05:39,7,DebatePresidencialEc,131.508
+05:39,8,Fiuk,359.648
+05:39,9,DebateDefinitivo,105.588
+05:39,10,Gilberto,147.542
+06:09,1,Sarah,1.263.185
+06:09,2,Juliette,1.407.220
+06:09,3,Juliette,1.407.220
+06:09,4,ForaRodolffo,234.131
+06:09,5,ArmyConfessionTime,56.726
+06:09,6,ForaCarla,64.905
+06:09,7,DebatePresidencialEc,135.753
+06:09,8,Fiuk,353.059
+06:09,9,DebateDefinitivo,108.688
+06:09,10,Paulo Gustavo,57.571
+06:39,1,Sarah,1.284.189
+06:39,2,Juliette,1.429.392
+06:39,3,ForaRodolffo,240.879
+06:39,4,ArmyConfessionTime,66.964
+06:39,5,ForaCarla,66.440
+06:39,6,DebatePresidencialEc,138.455
+06:39,7,DebateDefinitivo,110.664
+06:39,8,Fiuk,358.170
+06:39,9,Paulo Gustavo,58.836
+06:39,10,Urresti,63.130
+07:09,1,Sarah,1.294.467
+07:09,2,Juliette,1.439.225
+07:09,3,ArmyConfessionTime,75.450
+07:09,4,ForaRodolffo,244.551
+07:09,5,Caio,413.436
+07:09,6,RANBOO2MIL,
+07:09,7,ForaCarla,67.520
+07:09,8,WorldWaterDay,60.338
+07:09,9,HOSHI,59.323
+07:09,10,Fiuk,356.632
+07:39,1,Sarah,1.306.245
+07:39,2,ArmyConfessionTime,82.999
+07:39,3,Juliette,1.455.529
+07:39,4,ForaRodolffo,247.082
+07:39,5,Caio,414.843
+07:39,6,hoshi,79.286
+07:39,7,WorldWaterDay,66.213
+07:39,8,RANBOO2MIL,
+07:39,9,ForaCarla,68.235
+07:39,10,KWON SOONYOUNG,
+08:09,1,ArmyConfessionTime,89.276
+08:09,2,Sarah,1.308.511
+08:09,3,ForaRodolffo,248.645
+08:09,4,Juliette,1.458.909
+08:09,5,hoshi,93.838
+08:09,6,WorldWaterDay,71.962
+08:09,7,Caio,414.313
+08:09,8,MondayMotivation,25.093
+08:09,9,RANBOO2MIL,
+08:09,10,KWON SOONYOUNG,10.661
+08:39,1,ArmyConfessionTime,95.622
+08:39,2,Sarah,1.313.360
+08:39,3,ForaRodolffo,250.313
+08:39,4,WorldWaterDay,79.209
+08:39,5,Juliette,1.463.549
+08:39,6,hoshi,103.910
+08:39,7,MondayMotivation,28.904
+08:39,8,caio,415.034
+08:39,9,pazartesi,12.962
+08:39,10,KWON SOONYOUNG,11.688
+09:09,1,ArmyConfessionTime,102.844
+09:09,2,WorldWaterDay,86.119
+09:09,3,MondayMotivation,32.575
+09:09,4,Sarah,1.313.166
+09:09,5,ForaRodolffo,251.258
+09:09,6,hoshi,109.872
+09:09,7,borsa,
+09:09,8,Juliette,1.461.892
+09:09,9,Caio,414.453
+09:09,10,성덕 축하,
+09:39,1,ArmyConfessionTime,110.559
+09:39,2,WorldWaterDay,95.127
+09:39,3,MondayMotivation,36.251
+09:39,4,borsa,11.615
+09:39,5,Sarah,1.316.625
+09:39,6,神様が良い所と悪い所を教えてくれる診断,
+09:39,7,Juliette,1.464.545
+09:39,8,hoshi,115.957
+09:39,9,SNMPTN,49.432
+09:39,10,Caio,414.892
+10:09,1,ArmyConfessionTime,117.684
+10:09,2,borsa,15.102
+10:09,3,WorldWaterDay,109.939
+10:09,4,MondayMotivation,39.772
+10:09,5,神様が良い所と悪い所を教えてくれる診断,
+10:09,6,SNMPTN,56.212
+10:09,7,Sarah,1.317.617
+10:09,8,Juliette,1.464.638
+10:09,9,hoshi,119.203
+10:09,10,Dewa Kipas,14.049
+10:39,1,ArmyConfessionTime,124.639
+10:39,2,borsa,18.230
+10:39,3,WorldWaterDay,121.112
+10:39,4,MondayMotivation,43.313
+10:39,5,神様が良い所と悪い所を教えてくれる診断,
+10:39,6,SNMPTN,62.229
+10:39,7,Dewa Kipas,20.937
+10:39,8,ガラテア,16.690
+10:39,9,Sarah,1.322.871
+10:39,10,Pak Dadang,
+11:09,1,NHK沼,16.857
+11:09,2,ArmyConfessionTime,131.588
+11:09,3,WorldWaterDay,130.901
+11:09,4,borsa,21.046
+11:09,5,MondayMotivation,46.892
+11:09,6,ガラテア,24.985
+11:09,7,SNMPTN,65.575
+11:09,8,Dewa Kipas,26.326
+11:09,9,Pak Dadang,10.081
+11:09,10,Sarah,1.325.214
+11:39,1,NHK沼,27.745
+11:39,2,คั่นกูthemovie,88.267
+11:39,3,2getherthemovie,65.836
+11:39,4,ArmyConfessionTime,138.638
+11:39,5,WorldWaterDay,140.259
+11:39,6,ガラテア,29.873
+11:39,7,SNMPTN,69.778
+11:39,8,Dewa Kipas,31.081
+11:39,9,リンレン,
+11:39,10,Pak Dadang,11.450
+12:09,1,プロフェッショナル,32.019
+12:09,2,คั่นกูthemovie,177.690
+12:09,3,有吉ゼミ,19.319
+12:09,4,2getherthemovie,124.557
+12:09,5,NHK沼,28.831
+12:09,6,ガラテア,33.030
+12:09,7,庵野監督,24.007
+12:09,8,SNMPTN,71.851
+12:09,9,庵野さん,19.430
+12:09,10,Dewa Kipas,35.660
+12:39,1,プロフェッショナル,57.085
+12:39,2,คั่นกูthemovie,250.617
+12:39,3,2getherthemovie,167.171
+12:39,4,有吉ゼミ,21.161
+12:39,5,KATTUN15周年,154.424
+12:39,6,庵野監督,38.919
+12:39,7,庵野さん,26.964
+12:39,8,ガラテア,35.363
+12:39,9,KirliPlan Devrede,
+12:39,10,SNMPTN,75.517
+13:09,1,プロフェッショナル,91.430
+13:09,2,คั่นกูthemovie,307.745
+13:09,3,2getherthemovie,198.461
+13:09,4,冒険少年,34.140
+13:09,5,NationalFilmAwards2019,67.880
+13:09,6,庵野さん,42.886
+13:09,7,ガラテア,36.972
+13:09,8,doyoung,155.418
+13:09,9,SNMPTN,76.439
+13:09,10,KirliPlan Devrede,
+13:39,1,プロフェッショナル,107.160
+13:39,2,คั่นกูthemovie,348.478
+13:39,3,2getherthemovie,222.362
+13:39,4,NationalFilmAwards2019,94.959
+13:39,5,WorldWaterDay,177.597
+13:39,6,庵野さん,55.885
+13:39,7,doyoung,173.469
+13:39,8,ガラテア,38.739
+13:39,9,SNMPTN,79.181
+13:39,10,DONBELLE RAWRever,12.613
+14:09,1,プロフェッショナル,266.108
+14:09,2,คั่นกูthemovie,387.302
+14:09,3,2getherthemovie,243.031
+14:09,4,監察医朝顔,23.062
+14:09,5,NationalFilmAwards2019,116.816
+14:09,6,DOYOUNG,208.041
+14:09,7,WorldWaterDay,187.801
+14:09,8,庵野さん,62.811
+14:09,9,SIDHARTH AS AGASTYA RAO,100.141
+14:09,10,DONBELLE RAWRever,20.607
+14:39,1,プロフェッショナル,283.505
+14:39,2,監察医朝顔,33.951
+14:39,3,doyoung,288.588
+14:39,4,คั่นกูthemovie,420.031
+14:39,5,2getherthemovie,261.433
+14:39,6,WorldWaterDay,197.852
+14:39,7,NationalFilmAwards2019,132.407
+14:39,8,庵野監督,112.454
+14:39,9,庵野さん,68.415
+14:39,10,SIDHARTH AS AGASTYA RAO,122.374
+15:09,1,プロフェッショナル,296.933
+15:09,2,監察医朝顔,36.357
+15:09,3,doyoung,313.072
+15:09,4,런쥔이란_영화의_스물두번째_장면,201.551
+15:09,5,教えてみんなの初期刀初鍛刀,
+15:09,6,talkwithmixxiw,10.454
+15:09,7,WorldWaterDay,207.612
+15:09,8,庵野監督,120.830
+15:09,9,庵野さん,72.489
+15:09,10,SIDHARTH AS AGASTYA RAO,143.264
+15:39,1,런쥔이란_영화의_스물두번째_장면,427.785
+15:39,2,プロフェッショナル,308.614
+15:39,3,OurUniverseRenjunDay,421.266
+15:39,4,監察医朝顔,37.478
+15:39,5,doyoung,329.293
+15:39,6,教えてみんなの初期刀初鍛刀,
+15:39,7,talkwithmixxiw,15.670
+15:39,8,庵野監督,126.668
+15:39,9,庵野さん,76.677
+15:39,10,SIDHARTH AS AGASTYA RAO,163.071
+16:09,1,런쥔이란_영화의_스물두번째_장면,646.977
+16:09,2,OurUniverseRenjunDay,631.996
+16:09,3,CelebrateforYuyu,82.498
+16:09,4,티니들의행복_윤호야_생일_축하해,78.792
+16:09,5,プロフェッショナル,316.060
+16:09,6,Do8,
+16:09,7,doyoung,336.458
+16:09,8,HAPPY BIRTHDAY YUNHO,25.149
+16:09,9,庵野監督,131.838
+16:09,10,SIDHARTH AS AGASTYA RAO,183.375
+16:39,1,런쥔이란_영화의_스물두번째_장면,839.601
+16:39,2,OurUniverseRenjunDay,824.636
+16:39,3,CelebrateForYuyu,119.600
+16:39,4,티니들의행복_윤호야_생일_축하해,115.572
+16:39,5,Do8,10.657
+16:39,6,プロフェッショナル,322.893
+16:39,7,Yunho,179.487
+16:39,8,doyoung,345.430
+16:39,9,Krispy Kreme,
+16:39,10,Whatsapp 2,12.932
+17:09,1,런쥔이란_영화의_스물두번째_장면,920.352
+17:09,2,OurUniverseRenjunDay,904.052
+17:09,3,CelebrateForYuyu,137.692
+17:09,4,티니들의행복_윤호야_생일_축하해,132.758
+17:09,5,TPopStageEP7,354.860
+17:09,6,Yunho,201.944
+17:09,7,プロフェッショナル,327.172
+17:09,8,Krispy Kreme,12.521
+17:09,9,doyoung,348.278
+17:09,10,Whatsapp 2,14.445
+17:39,1,런쥔이란_영화의_스물두번째_장면,963.936
+17:39,2,OurUniverseRenjunDay,948.455
+17:39,3,CelebrateForYuyu,152.709
+17:39,4,티니들의행복_윤호야_생일_축하해,147.005
+17:39,5,Yunho,223.822
+17:39,6,DiaMundialDelAgua,57.491
+17:39,7,Krispy Kreme,16.604
+17:39,8,プロフェッショナル,330.832
+17:39,9,LOUIS POST A SELFIE,31.497
+17:39,10,doyoung,353.521
+18:09,1,런쥔이란_영화의_스물두번째_장면,987.671
+18:09,2,OurUniverseRenjunDay,973.299
+18:09,3,CelebrateForYuyu,160.903
+18:09,4,티니들의행복_윤호야_생일_축하해,154.731
+18:09,5,Krispy Kreme,20.366
+18:09,6,DiaMundialDelAgua,63.292
+18:09,7,Yunho,233.864
+18:09,8,MET HIM LAST NIGHT IS COMING,11.866
+18:09,9,Iowa,28.867
+18:09,10,BilimYaratılış Diyor,
+18:39,1,런쥔이란_영화의_스물두번째_장면,1.003.394
+18:39,2,OurUniverseRenjunDay,988.694
+18:39,3,CelebrateForYuyu,167.161
+18:39,4,티니들의행복_윤호야_생일_축하해,159.915
+18:39,5,Krispy Kreme,24.323
+18:39,6,DiaMundialDelAgua,68.965
+18:39,7,Iowa,32.323
+18:39,8,MET HIM LAST NIGHT IS COMING,17.557
+18:39,9,yunho,243.394
+18:39,10,Oregon,39.663
+19:09,1,런쥔이란_영화의_스물두번째_장면,1.013.836
+19:09,2,OurUniverseRenjunDay,999.289
+19:09,3,CelebrateForYuyu,171.335
+19:09,4,티니들의행복_윤호야_생일_축하해,163.517
+19:09,5,Iowa,36.572
+19:09,6,Krispy Kreme,27.712
+19:09,7,Oregon,42.898
+19:09,8,PasoAPaso,
+19:09,9,KMM 12M,18.800
+19:09,10,MET HIM LAST NIGHT IS COMING,19.783
+19:39,1,런쥔이란_영화의_스물두번째_장면,1.020.848
+19:39,2,OurUniverseRenjunDay,1.005.958
+19:39,3,Iowa,45.390
+19:39,4,CelebrateforYuyu,174.879
+19:39,5,티니들의행복_윤호야_생일_축하해,166.440
+19:39,6,mertsenel,
+19:39,7,Krispy Kreme,31.331
+19:39,8,Oregon,48.537
+19:39,9,Borsa Yorum,
+19:39,10,Luka Garza,
+20:09,1,런쥔이란_영화의_스물두번째_장면,1.025.454
+20:09,2,OurUniverseRenjunDay,1.010.697
+20:09,3,Elgin Baylor,33.323
+20:09,4,Iowa,48.146
+20:09,5,YasakElma,
+20:09,6,Krispy Kreme,34.764
+20:09,7,CelebrateforYuyu,177.733
+20:09,8,PasoAPaso,
+20:09,9,Oregon,49.762
+20:09,10,CinnetToplumu Projesi,
+20:39,1,YasakElma,
+20:39,2,Elgin Baylor,44.584
+20:39,3,Krispy Kreme,37.818
+20:39,4,Iowa,50.821
+20:39,5,런쥔이란_영화의_스물두번째_장면,1.028.234
+20:39,6,OurUniverseRenjunDay,1.013.439
+20:39,7,PasoAPaso,11.417
+20:39,8,تقدر_تقول_سنك,
+20:39,9,Oregon,51.104
+20:39,10,MET HIM LAST NIGHT IS COMING,26.329
+21:09,1,YasakElma,11.990
+21:09,2,TPMP,10.388
+21:09,3,Elgin Baylor,52.973
+21:09,4,Krispy Kreme,40.706
+21:09,5,DaBaby,13.609
+21:09,6,ReleaseTheAyerCut,16.014
+21:09,7,Iowa,51.564
+21:09,8,PasoAPaso,12.883
+21:09,9,MET HIM LAST NIGHT IS COMING,29.110
+21:09,10,Whatsapp 2,31.265
+21:39,1,YasakElma,17.327
+21:39,2,TPMP,16.872
+21:39,3,Elgin Baylor,59.224
+21:39,4,hepimizboynukalınız,11.043
+21:39,5,DaBaby,19.358
+21:39,6,PierreMenesOut,52.411
+21:39,7,Krispy Kreme,43.811
+21:39,8,BILLBOARD HOT DEBUT ROSÉ,30.884
+21:39,9,Iowa,53.238
+21:39,10,Gonzaga,15.834
+22:09,1,YasakElma,19.494
+22:09,2,hepimizboynukalınız,20.029
+22:09,3,TPMP,19.331
+22:09,4,SergenYalçınYalnızDeğildir,21.323
+22:09,5,DaBaby,24.161
+22:09,6,Elgin Baylor,63.991
+22:09,7,Krispy Kreme,46.614
+22:09,8,Gonzaga,19.177
+22:09,9,BILLBOARD HOT DEBUT ROSÉ,43.388
+22:09,10,WE LOVE YOU JUNGKOOK,15.645
+22:39,1,YasakElma,20.553
+22:39,2,hepimizboynukalınız,28.110
+22:39,3,SergenYalçınYalnızDeğildir,28.374
+22:39,4,TPMP,21.409
+22:39,5,DaBaby,28.338
+22:39,6,Elgin Baylor,68.336
+22:39,7,Krispy Kreme,49.207
+22:39,8,Gonzaga,20.188
+22:39,9,BILLBOARD HOT DEBUT ROSÉ,49.150
+22:39,10,WE LOVE YOU JUNGKOOK,20.464
+23:09,1,isola,59.062
+23:09,2,hepimizboynukalınız,34.875
+23:09,3,YasakElma,21.140
+23:09,4,SergenYalçınYalnızDeğildir,34.193
+23:09,5,tommasozorzi,39.296
+23:09,6,Boulder,26.351
+23:09,7,Krispy Kreme,51.961
+23:09,8,Elgin Baylor,71.908
+23:09,9,BILLBOARD HOT DEBUT ROSÉ,58.042
+23:09,10,WE LOVE YOU JUNGKOOK,24.509
+23:39,1,isola,75.898
+23:39,2,hepimizboynukalınız,39.905
+23:39,3,Boulder,42.237
+23:39,4,cblive,
+23:39,5,SergenYalçınYalnızDeğildir,38.294
+23:39,6,tommasozorzi,50.176
+23:39,7,BILLBOARD HOT DEBUT ROSÉ,68.014
+23:39,8,WE LOVE YOU JUNGKOOK,27.962
+23:39,9,Krispy Kreme,54.400
+23:39,10,Volta Redonda,

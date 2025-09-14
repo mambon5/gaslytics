@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Cowboys,83.177
+00:10,2,Josh Allen,57.003
+00:10,3,MexicoGP,250.817
+00:10,4,Domingão,21.685
+00:10,5,Domingão,21.685
+00:10,6,Botafogo,87.523
+00:10,7,luisa,29.086
+00:10,8,Bills,112.778
+00:10,9,Jordan Love,21.170
+00:10,10,SecretNoche9,27.231
+00:41,1,Domingão,38.455
+00:41,2,Cowboys,84.760
+00:41,3,Jordan Love,25.352
+00:41,4,Packers,69.855
+00:41,5,Josh Allen,58.192
+00:41,6,49ers,26.784
+00:41,7,SecretNoche9,32.992
+00:41,8,luisa,33.049
+00:41,9,MexicoGP,257.264
+00:41,10,Botafogo,89.988
+01:10,1,Jordan Love,29.160
+01:10,2,Julián Álvarez,
+01:10,3,Packers,74.763
+01:10,4,Domingão,43.382
+01:10,5,Cowboys,85.747
+01:10,6,DomingaoComHuck,
+01:10,7,SecretNoche9,38.725
+01:10,8,Chiefs,48.264
+01:10,9,49ers,28.808
+01:10,10,bbtvi,49.378
+01:41,1,Jordan Love,36.146
+01:41,2,Packers,87.017
+01:41,3,Julián Álvarez,13.388
+01:41,4,Chiefs,57.785
+01:41,5,Mahomes,18.386
+01:41,6,Domingão,46.392
+01:41,7,SecretNoche9,44.064
+01:41,8,49ers,33.188
+01:41,9,Cowboys,87.318
+01:41,10,GoPackGo,19.889
+02:10,1,Julián Álvarez,18.894
+02:10,2,Jordan Love,38.782
+02:10,3,Packers,90.814
+02:10,4,Chiefs,61.517
+02:10,5,Fernanda Montenegro,
+02:10,6,River,107.649
+02:10,7,Mahomes,20.030
+02:10,8,Pumas,18.825
+02:10,9,Fantastico,
+02:10,10,RHOPReunion,
+02:41,1,RHOPReunion,11.665
+02:41,2,Julián Álvarez,24.205
+02:41,3,Ricky Rubio,
+02:41,4,River,118.296
+02:41,5,Jordan Love,40.551
+02:41,6,YellowstoneTV,
+02:41,7,Packers,93.991
+02:41,8,Chiefs,63.910
+02:41,9,Fernanda Montenegro,
+02:41,10,Pumas,22.550
+03:10,1,RHOPReunion,22.239
+03:10,2,Julián Álvarez,26.658
+03:10,3,YellowstoneTV,11.918
+03:10,4,Ricky Rubio,10.878
+03:10,5,River,120.101
+03:10,6,Stafford,
+03:10,7,Jordan Love,41.390
+03:10,8,Packers,94.494
+03:10,9,Fantastico,15.644
+03:10,10,Gizelle,
+03:41,1,RHOPReunion,25.341
+03:41,2,Stafford,19.624
+03:41,3,Rams,29.484
+03:41,4,Julián Álvarez,28.270
+03:41,5,Titans,48.552
+03:41,6,YellowstoneTV,14.316
+03:41,7,Ricky Rubio,12.079
+03:41,8,River,124.448
+03:41,9,RHOSLC,
+03:41,10,Fantastico,18.993
+04:10,1,Stafford,21.411
+04:10,2,RHOPReunion,26.973
+04:10,3,BakeOffArgentina,
+04:10,4,Rams,32.669
+04:10,5,Titans,54.320
+04:10,6,YellowstoneTV,15.809
+04:10,7,RHOSLC,
+04:10,8,Julián Álvarez,29.599
+04:10,9,Facundo,
+04:10,10,Insecure,
+04:41,1,Insecure,13.752
+04:41,2,Lawrence,22.678
+04:41,3,Stafford,22.568
+04:41,4,RHOPReunion,28.006
+04:41,5,SpiderManNoWayHome,74.435
+04:41,6,BakeOffArgentina,10.797
+04:41,7,RHOSLC,13.431
+04:41,8,Rams,34.928
+04:41,9,Titans,57.261
+04:41,10,Facundo,
+05:10,1,Insecure,18.533
+05:10,2,Lawrence,26.572
+05:10,3,SpiderManNoWayHome,94.341
+05:10,4,Stafford,23.946
+05:10,5,Rams,37.564
+05:10,6,RHOPReunion,28.860
+05:10,7,RHOSLC,14.483
+05:10,8,QuiénEsLaMáscara,11.839
+05:10,9,Titans,61.275
+05:10,10,Condola,
+05:41,1,Insecure,21.670
+05:41,2,Lawrence,29.549
+05:41,3,Rams,44.523
+05:41,4,SpiderManNoWayHome,109.593
+05:41,5,Titans,18.960
+05:41,6,Stafford,25.692
+05:41,7,EAJatHITC,43.376
+05:41,8,RHOPReunion,29.889
+05:41,9,Condola,
+05:41,10,Dulce María,
+06:10,1,InsecureHBO,30.456
+06:10,2,Lawrence,31.274
+06:10,3,SpiderManNoWayHome,119.898
+06:10,4,Rams,46.400
+06:10,5,Titans,20.700
+06:10,6,Stafford,26.024
+06:10,7,QuiénEsLaMáscara,19.540
+06:10,8,EAJatHITC,50.013
+06:10,9,Condola,
+06:10,10,D4 FORMULA OF LOVE,18.705
+06:41,1,InsecureHBO,33.036
+06:41,2,Lawrence,32.713
+06:41,3,SpiderManNoWayHome,128.543
+06:41,4,Rams,47.510
+06:41,5,Titans,21.474
+06:41,6,ElEliminadoEs,11.275
+06:41,7,あなたの恋愛スタイル診断,11.828
+06:41,8,Stafford,26.398
+06:41,9,Condola,
+06:41,10,D4 FORMULA OF LOVE,21.712
+07:10,1,InsecureHBO,34.778
+07:10,2,Lawrence,33.436
+07:10,3,SpiderManNoWayHome,134.989
+07:10,4,pazartesi,
+07:10,5,あなたの恋愛スタイル診断,12.695
+07:10,6,Titans,21.859
+07:10,7,Rams,47.767
+07:10,8,D4 FORMULA OF LOVE,22.926
+07:10,9,Condola,
+07:10,10,Stafford,26.609
+07:41,1,InsecureHBO,36.203
+07:41,2,pazartesi,
+07:41,3,Lawrence,34.382
+07:41,4,SpiderManNoWayHome,141.153
+07:41,5,あなたの恋愛スタイル診断,13.545
+07:41,6,MondayMotivation,29.892
+07:41,7,Rams,48.250
+07:41,8,Condola,
+07:41,9,メンヘラ型,
+07:41,10,美少女さん,22.872
+08:10,1,InsecureHBO,37.346
+08:10,2,pazartesi,
+08:10,3,MondayMotivation,32.027
+08:10,4,あなたの恋愛スタイル診断,14.248
+08:10,5,Lawrence,35.135
+08:10,6,SpiderManNoWayHome,146.261
+08:10,7,メンヘラ型,
+08:10,8,美少女さん,24.095
+08:10,9,Rams,48.368
+08:10,10,Condola,10.209
+08:41,1,InsecureHBO,38.179
+08:41,2,MondayMotivation,34.548
+08:41,3,pazartesi,
+08:41,4,あなたの恋愛スタイル診断,15.125
+08:41,5,Shiryo Inu,
+08:41,6,Demonetisation,18.561
+08:41,7,Lawrence,36.007
+08:41,8,メンヘラ型,10.169
+08:41,9,美少女さん,25.356
+08:41,10,キタサン,32.248
+09:10,1,MondayMotivation,36.968
+09:10,2,pazartesi,
+09:10,3,InsecureHBO,38.843
+09:10,4,あなたの恋愛スタイル診断,16.044
+09:10,5,Demonetisation,20.635
+09:10,6,Shiryo Inu,
+09:10,7,メンヘラ型,10.772
+09:10,8,Lawrence,36.640
+09:10,9,美少女さん,26.394
+09:10,10,キタサン,32.076
+09:41,1,MondayMotivation,40.003
+09:41,2,あなたの恋愛スタイル診断,17.106
+09:41,3,pazartesi,
+09:41,4,mondaythoughts,10.979
+09:41,5,Demonetisation,23.024
+09:41,6,月と金星,
+09:41,7,Shiryo Inu,
+09:41,8,メンヘラ型,11.460
+09:41,9,Lawrence,37.532
+09:41,10,美少女さん,27.729
+10:10,1,MondayMotivation,42.847
+10:10,2,あなたの恋愛スタイル診断,18.125
+10:10,3,月と金星,10.643
+10:10,4,mondaythoughts,11.833
+10:10,5,pazartesi,10.139
+10:10,6,FelizLunes,
+10:10,7,メンヘラ型,12.169
+10:10,8,Shiryo Inu,
+10:10,9,消費税25,
+10:10,10,ダンマカ復刻,
+10:41,1,MondayMotivation,45.504
+10:41,2,あなたの恋愛スタイル診断,19.186
+10:41,3,ハーフミリオン,12.949
+10:41,4,月と金星,13.430
+10:41,5,mondaythoughts,12.725
+10:41,6,pazartesi,10.901
+10:41,7,FelizLunes,
+10:41,8,メンヘラ型,12.853
+10:41,9,消費税25,
+10:41,10,Shiryo Inu,
+11:10,1,MondayMotivation,47.983
+11:10,2,あなたの恋愛スタイル診断,20.180
+11:10,3,ハーフミリオン,14.660
+11:10,4,ネプリーグ,10.763
+11:10,5,月と金星,15.592
+11:10,6,mondaythoughts,13.731
+11:10,7,Lazada1111MissionEP2,28.742
+11:10,8,メンヘラ型,13.527
+11:10,9,消費税25,
+11:10,10,ダンマカ復刻,
+11:41,1,MondayMotivation,50.412
+11:41,2,ネプリーグ,15.782
+11:41,3,Lazada1111MissionEP2,67.273
+11:41,4,あなたの恋愛スタイル診断,21.273
+11:41,5,ハーフミリオン,17.348
+11:41,6,Shiryo Inu,
+11:41,7,月と金星,17.297
+11:41,8,ذكري_البيعه_السابعه,256.898
+11:41,9,消費税25,
+11:41,10,メンヘラ型,14.163
+12:10,1,ネプリーグ,22.531
+12:10,2,ABSCBNChristmasID2021,40.353
+12:10,3,有吉ゼミ,
+12:10,4,MondayMotivation,53.049
+12:10,5,AnditoTayoParaSaIsatIsa,32.639
+12:10,6,ハーフミリオン,17.587
+12:10,7,Shiryo Inu,
+12:10,8,月と金星,18.581
+12:10,9,消費税25,
+12:10,10,メンヘラ型,14.831
+12:41,1,ABSCBNChristmasID2021,64.463
+12:41,2,ネプリーグ,23.877
+12:41,3,AnditoTayoParaSaIsatIsa,52.262
+12:41,4,MondayMotivation,55.906
+12:41,5,قرعه_كاس_الملك,
+12:41,6,ハーフミリオン,18.597
+12:41,7,Shiryo Inu,
+12:41,8,LITZ YUMI TEASER,
+12:41,9,消費税25,
+12:41,10,月と金星,21.375
+13:10,1,ABSCBNChristmasID2021,79.205
+13:10,2,AnditoTayoParaSaIsatIsa,63.296
+13:10,3,الذكري_السابعه_للبيعه,16.999
+13:10,4,قرعه_كاس_الملك,
+13:10,5,ネプリーグ,22.921
+13:10,6,Tebak Harga di LazLive,
+13:10,7,LITZ YUMI TEASER,
+13:10,8,Shiryo Inu,
+13:10,9,CONGRATULATIONS JIN,76.605
+13:10,10,ハーフミリオン,18.410
+13:41,1,湊あくあ重大発表,
+13:41,2,ABSCBNChristmasID2021,89.656
+13:41,3,LazadaBagiRatusanJuta,
+13:41,4,GuessItSpesial1111,
+13:41,5,الذكري_السابعه_للبيعه,18.224
+13:41,6,Tebak Harga di LazLive,
+13:41,7,CONGRATULATIONS JIN,83.516
+13:41,8,LITZ YUMI TEASER,
+13:41,9,搭乗機体,
+13:41,10,以上の敵機,
+14:10,1,湊あくあ重大発表,11.551
+14:10,2,ABSCBNChristmasID2021,97.912
+14:10,3,LazadaBagiRatusanJuta,
+14:10,4,GuessItSpesial1111,
+14:10,5,Tebak Harga di LazLive,
+14:10,6,いいおっばいの日,12.598
+14:10,7,搭乗機体,
+14:10,8,ガンダム世界,
+14:10,9,以上の敵機,
+14:10,10,CONGRATULATIONS JIN,86.738
+14:41,1,しゃべくり007,10.423
+14:41,2,湊あくあ重大発表,12.074
+14:41,3,ENGENESelcaDay,36.083
+14:41,4,ENSD,30.315
+14:41,5,FelizLunes,11.166
+14:41,6,Tebak Harga di LazLive,11.282
+14:41,7,搭乗機体,
+14:41,8,ガンダム世界,
+14:41,9,以上の敵機,
+14:41,10,CONGRATULATIONS JIN,90.756
+15:10,1,ENGENESelcaDay,67.334
+15:10,2,しゃべくり007,12.409
+15:10,3,ENSD,61.471
+15:10,4,あなたの今年失った二文字,
+15:10,5,湊あくあ重大発表,12.276
+15:10,6,Tebak Harga di LazLive,11.682
+15:10,7,搭乗機体,
+15:10,8,ガンダム世界,
+15:10,9,以上の敵機,
+15:10,10,CONGRATULATIONS JIN,91.727
+15:41,1,ENGENESelcaDay,102.140
+15:41,2,ENSD,96.380
+15:41,3,Our_Pride_MOMO,54.643
+15:41,4,피치모모데이,54.279
+15:41,5,あなたの今年失った二文字,
+15:41,6,搭乗機体,
+15:41,7,ガンダム世界,
+15:41,8,以上の敵機,
+15:41,9,Naranjo,
+15:41,10,Tebak Harga di LazLive,11.882
+16:10,1,Our_Pride_MOMO,72.086
+16:10,2,생일축하해_모모링,34.754
+16:10,3,ENGENESelcaDay,140.375
+16:10,4,피치모모데이,68.313
+16:10,5,ENSD,131.781
+16:10,6,Sponsee TokenÇıktı,
+16:10,7,Naranjo,
+16:10,8,Haftanın Yalanları,
+16:10,9,搭乗機体,
+16:10,10,ガンダム世界,
+16:41,1,MEGAN,68.759
+16:41,2,OurBestfriendMomo,64.403
+16:41,3,생일축하해_모모링,61.740
+16:41,4,ENGENESelcaDay,182.852
+16:41,5,ENSD,175.713
+16:41,6,피치모모데이,75.945
+16:41,7,sponsee tokençıktı,
+16:41,8,Naranjo,13.838
+16:41,9,AMAs,324.650
+16:41,10,Y談おじさん,
+17:10,1,MEGAN,90.984
+17:10,2,OurBestfriendMomo,75.304
+17:10,3,생일축하해_모모링,71.224
+17:10,4,ENGENESelcaDay,208.778
+17:10,5,ENSD,201.114
+17:10,6,피치모모데이,79.759
+17:10,7,Naranjo,17.606
+17:10,8,sponsee tokençıktı,
+17:10,9,AMAs,407.615
+17:10,10,Jaylen Brown,
+17:41,1,MEGAN,108.522
+17:41,2,OurBestfriendMomo,81.651
+17:41,3,생일축하해_모모링,76.851
+17:41,4,ENGENESelcaDay,226.234
+17:41,5,ENSD,217.205
+17:41,6,EuphoriaMostStreamedSolo,45.885
+17:41,7,Naranjo,23.397
+17:41,8,TOP MALE SOLOIST JUNGKOOK,44.039
+17:41,9,CONGRATULATIONS JUNGKOOK,46.355
+17:41,10,AMAs,467.760
+18:10,1,MEGAN,117.642
+18:10,2,OurBestfriendMomo,85.159
+18:10,3,EuphoriaMostStreamedSolo,68.729
+18:10,4,생일축하해_모모링,80.038
+18:10,5,Naranjo,29.560
+18:10,6,ENGENESelcaDay,235.687
+18:10,7,TOP MALE SOLOIST JUNGKOOK,65.685
+18:10,8,CONGRATULATIONS JUNGKOOK,70.158
+18:10,9,ENSD,226.143
+18:10,10,AMAs,502.075
+18:41,1,hobi,127.186
+18:41,2,MEGAN,125.093
+18:41,3,EuphoriaMostStreamedSolo,81.203
+18:41,4,Naranjo,37.539
+18:41,5,OurBestfriendMomo,87.647
+18:41,6,생일축하해_모모링,82.126
+18:41,7,TOP MALE SOLOIST JUNGKOOK,77.525
+18:41,8,CONGRATULATIONS JUNGKOOK,82.810
+18:41,9,ENGENESelcaDay,242.309
+18:41,10,ENSD,232.607
+19:10,1,MEGAN,129.047
+19:10,2,OurBestfriendMomo,89.496
+19:10,3,EuphoriaMostStreamedSolo,88.494
+19:10,4,생일축하해_모모링,83.759
+19:10,5,TOP MALE SOLOIST JUNGKOOK,83.773
+19:10,6,関ジャニANN,59.322
+19:10,7,CONGRATULATIONS JUNGKOOK,89.693
+19:10,8,ENGENESelcaDay,245.316
+19:10,9,緊急地震速報,12.068
+19:10,10,Naranjo,45.063
+19:41,1,MEGAN,134.195
+19:41,2,OurBestfriendMomo,91.011
+19:41,3,EuphoriaMostStreamedSolo,94.762
+19:41,4,생일축하해_모모링,85.014
+19:41,5,TOP MALE SOLOIST JUNGKOOK,88.787
+19:41,6,関ジャニANN,60.047
+19:41,7,CONGRATULATIONS JUNGKOOK,95.112
+19:41,8,ENGENESelcaDay,248.063
+19:41,9,緊急地震速報,12.167
+19:41,10,AMAs,562.552
+20:10,1,deprem,12.614
+20:10,2,hobi,147.280
+20:10,3,Naranjo,65.551
+20:10,4,36SaatZulmüBitmedi,
+20:10,5,BeindenBeşiktaşaSansür,18.532
+20:10,6,PakizeAna,
+20:10,7,حق_العامله_الكينيه,16.240
+20:10,8,Megan,138.020
+20:10,9,CONGRATULATIONS JUNGKOOK,99.030
+20:10,10,TOP MALE SOLOIST JUNGKOOK,92.516
+20:41,1,deprem,15.879
+20:41,2,Naranjo,75.291
+20:41,3,Hobi,151.486
+20:41,4,BeindenBeşiktaşaSansür,24.840
+20:41,5,حق_العامله_الكينيه,21.400
+20:41,6,TeşekkürlerErdoğan,21.513
+20:41,7,36SaatZulmüBitmedi,
+20:41,8,Megan,142.196
+20:41,9,CONGRATULATIONS JUNGKOOK,102.406
+20:41,10,TOP MALE SOLOIST JUNGKOOK,95.484
+21:10,1,deprem,18.038
+21:10,2,Naranjo,84.515
+21:10,3,BeindenBeşiktaşaSansür,30.277
+21:10,4,hobi,153.878
+21:10,5,مله_الك,
+21:10,6,TeşekkürlerErdoğan,25.672
+21:10,7,ChampionshipHangover,
+21:10,8,Megan,144.735
+21:10,9,CONGRATULATIONS JUNGKOOK,104.512
+21:10,10,TOP MALE SOLOIST JUNGKOOK,97.704
+21:41,1,deprem,19.738
+21:41,2,Naranjo,93.911
+21:41,3,مله_الك,
+21:41,4,BeindenBeşiktaşaSansür,35.440
+21:41,5,Konya,
+21:41,6,hobi,157.238
+21:41,7,TeşekkürlerErdoğan,29.473
+21:41,8,ÇokTatlısın Aynur,
+21:41,9,Romeo Santos,
+21:41,10,Sabag,
+22:10,1,مله_الك,
+22:10,2,Naranjo,102.370
+22:10,3,deprem,21.084
+22:10,4,BeindenBeşiktaşaSansür,39.262
+22:10,5,LeGrandDebatLCI,
+22:10,6,UniversityChallenge,
+22:10,7,hobi,159.038
+22:10,8,Daniel Silveira,14.321
+22:10,9,State Farm,15.652
+22:10,10,Sabag,
+22:41,1,Naranjo,112.999
+22:41,2,مله_الك,
+22:41,3,deprem,22.068
+22:41,4,BeindenBeşiktaşaSansür,41.923
+22:41,5,LeGrandDebatLCI,13.923
+22:41,6,Naranjazo,
+22:41,7,State Farm,17.638
+22:41,8,Rittenhouse,129.479
+22:41,9,Daniel Silveira,17.388
+22:41,10,hobi,162.198
+23:10,1,مله_الك,
+23:10,2,Naranjo,123.496
+23:10,3,TentaciónDBT8,
+23:10,4,MCCelebrity,
+23:10,5,LeGrandDebatLCI,17.155
+23:10,6,deprem,22.627
+23:10,7,Robert Moses,
+23:10,8,State Farm,18.928
+23:10,9,Rittenhouse,135.958
+23:10,10,Daniel Silveira,20.523
+23:41,1,MCCelebrity,
+23:41,2,مله_الك,10.436
+23:41,3,Naranjo,135.478
+23:41,4,TentaciónDBT8,
+23:41,5,LeGrandDebatLCI,19.825
+23:41,6,Naranjazo,
+23:41,7,Robert Moses,
+23:41,8,Arkano,
+23:41,9,Bruno Viana,
+23:41,10,Rittenhouse,145.286

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Booker,94.137
+00:10,2,Father's Day,1.494.567
+00:10,3,Tolima,19.626
+00:10,4,DateRush,14.515
+00:10,5,Luciano,14.384
+00:10,6,D Book,12.901
+00:10,7,Suns,127.039
+00:10,8,Rayo,26.951
+00:10,9,seleccionchilena,30.078
+00:10,10,Botafogo,27.716
+00:41,1,Booker,105.690
+00:41,2,Father's Day,1.647.490
+00:41,3,Tolima,28.679
+00:41,4,DateRush,19.610
+00:41,5,Luciano,16.382
+00:41,6,Reinaldo,
+00:41,7,Suns,138.695
+00:41,8,ConexiónHonduras11,24.732
+00:41,9,D Book,
+00:41,10,Rayo,29.056
+01:10,1,Booker,111.101
+01:10,2,Father's Day,1.790.194
+01:10,3,Tolima,32.791
+01:10,4,DateRush,26.693
+01:10,5,ConexiónHonduras11,36.003
+01:10,6,seleccionchilena,35.616
+01:10,7,CiroNoFlow,30.237
+01:10,8,USOpen,18.430
+01:10,9,Luciano,16.756
+01:10,10,Ecuador,55.739
+01:41,1,Father's Day,1.918.875
+01:41,2,Booker,116.366
+01:41,3,USOpen,22.619
+01:41,4,DateRush,32.034
+01:41,5,pridegaming,
+01:41,6,Tolima,36.110
+01:41,7,Rahm,12.164
+01:41,8,ConexiónHonduras11,44.141
+01:41,9,HIAC,19.201
+01:41,10,Diniz,12.668
+02:10,1,Father's Day,2.554.735
+02:10,2,HIAC,25.415
+02:10,3,pridegaming,
+02:10,4,USOpen,24.713
+02:10,5,Booker,119.727
+02:10,6,Rahm,15.998
+02:10,7,DateRush,35.618
+02:10,8,Tolima,37.593
+02:10,9,CiroNoFlow,41.164
+02:10,10,Bryson,13.889
+02:41,1,HIAC,39.663
+02:41,2,Father's Day,2.694.896
+02:41,3,USOpen,31.140
+02:41,4,Jon Rahm,11.026
+02:41,5,pridegaming,10.437
+02:41,6,Booker,122.832
+02:41,7,CiroNoFlow,45.893
+02:41,8,DateRush,36.692
+02:41,9,Bayley,
+02:41,10,Tolima,39.380
+03:10,1,HIAC,51.049
+03:10,2,Father's Day,2.716.855
+03:10,3,pridegaming,13.194
+03:10,4,USOpen,32.194
+03:10,5,Jon Rahm,12.682
+03:10,6,Tesillo,
+03:10,7,CiroNoFlow,50.426
+03:10,8,Booker,124.923
+03:10,9,Bayley,
+03:10,10,WelcomeBackArthurKyeom,19.107
+03:41,1,HIAC,64.640
+03:41,2,pridegaming,16.797
+03:41,3,Father's Day,2.767.783
+03:41,4,Tesillo,
+03:41,5,USOpen,33.177
+03:41,6,Jon Rahm,13.572
+03:41,7,Fantastico,
+03:41,8,WelcomeBackArthurKyeom,28.334
+03:41,9,Lapadula,
+03:41,10,チーター,20.952
+04:10,1,HIAC,73.881
+04:10,2,Tesillo,
+04:10,3,Father's Day,2.777.295
+04:10,4,pridegaming,18.552
+04:10,5,Lapadula,14.149
+04:10,6,Chris Lee,
+04:10,7,MasterChefArgetina,
+04:10,8,Betular,
+04:10,9,Perú,213.927
+04:10,10,Fantastico,
+04:41,1,Ben Simmons,77.562
+04:41,2,Hawks,96.584
+04:41,3,Hawks,96.584
+04:41,4,Philly,54.977
+04:41,5,Trae Young,37.807
+04:41,6,HIAC,83.979
+04:41,7,76ers,27.399
+04:41,8,Embiid,45.064
+04:41,9,Kevin Huerter,11.182
+04:41,10,Doc Rivers,14.640
+05:10,1,Ben Simmons,150.510
+05:10,2,Hawks,141.484
+05:10,3,Hawks,141.484
+05:10,4,Philly,68.564
+05:10,5,76ers,37.133
+05:10,6,Trae Young,54.607
+05:10,7,Doc Rivers,28.867
+05:10,8,HIAC,93.867
+05:10,9,Embiid,56.646
+05:10,10,Kevin Huerter,19.382
+05:41,1,Ben Simmons,185.672
+05:41,2,Hawks,157.436
+05:41,3,Sixers,142.074
+05:41,4,Philly,74.242
+05:41,5,76ers,41.403
+05:41,6,Cande,32.389
+05:41,7,Trae Young,59.375
+05:41,8,Doc Rivers,35.357
+05:41,9,Embiid,64.672
+05:41,10,MasterChefArgentina,23.729
+06:10,1,Ben Simmons,202.143
+06:10,2,Hawks,161.931
+06:10,3,Sixers,146.556
+06:10,4,Philly,80.065
+06:10,5,Cande,34.980
+06:10,6,76ers,43.054
+06:10,7,Embiid,75.988
+06:10,8,Trae Young,61.228
+06:10,9,Doc Rivers,37.720
+06:10,10,InternationalDayOfYoga,69.661
+06:41,1,Ben Simmons,216.118
+06:41,2,Hawks,167.584
+06:41,3,Sixers,151.804
+06:41,4,Philly,85.053
+06:41,5,InternationalDayOfYoga,82.760
+06:41,6,76ers,44.741
+06:41,7,Cande,36.527
+06:41,8,PrimeDay,43.407
+06:41,9,Embiid,81.677
+06:41,10,Doc Rivers,40.391
+07:10,1,Ben Simmons,224.963
+07:10,2,Hawks,169.832
+07:10,3,Sixers,154.056
+07:10,4,InternationalDayOfYoga,94.281
+07:10,5,Philly,86.993
+07:10,6,PrimeDay,44.664
+07:10,7,76ers,45.659
+07:10,8,Cande,37.537
+07:10,9,Doc Rivers,41.947
+07:10,10,Embiid,84.320
+07:41,1,Ben Simmons,233.086
+07:41,2,InternationalDayOfYoga,107.368
+07:41,3,Hawks,173.055
+07:41,4,Sixers,156.554
+07:41,5,Philly,89.210
+07:41,6,PrimeDay,45.985
+07:41,7,76ers,46.655
+07:41,8,Cande,38.325
+07:41,9,Doc Rivers,43.177
+07:41,10,チーター,32.691
+08:10,1,Ben Simmons,238.533
+08:10,2,InternationalDayOfYoga,119.048
+08:10,3,Hawks,174.030
+08:10,4,TREASURE LIGHTSTICK,79.071
+08:10,5,Sixers,157.816
+08:10,6,PrimeDay,46.668
+08:10,7,Philly,90.353
+08:10,8,Pazartesi,
+08:10,9,チーター,34.148
+08:10,10,WorldMusicDay,
+08:41,1,Ben Simmons,242.841
+08:41,2,InternationalDayOfYoga,131.744
+08:41,3,TREASURE LIGHTSTICK,108.446
+08:41,4,Hawks,176.146
+08:41,5,Pazartesi,
+08:41,6,チーター,36.066
+08:41,7,Sixers,159.435
+08:41,8,WorldMusicDay,
+08:41,9,PrimeDay,47.484
+08:41,10,HappyBirthdayLanaDelRey,
+09:10,1,Ben Simmons,245.996
+09:10,2,InternationalDayOfYoga,141.811
+09:10,3,TREASURE LIGHTSTICK,119.018
+09:10,4,Pazartesi,
+09:10,5,YourChoiceMillionSeller,27.795
+09:10,6,twitıırgt açılıyor,
+09:10,7,WorldMusicDay,10.942
+09:10,8,チーター,37.469
+09:10,9,Hawks,176.155
+09:10,10,SEVENTEEN,620.890
+09:41,1,InternationalDayOfYoga,151.927
+09:41,2,Ben Simmons,249.027
+09:41,3,TREASURE LIGHTSTICK,128.443
+09:41,4,YourChoiceMillionSeller,58.248
+09:41,5,MondayMotivation,15.339
+09:41,6,Pazartesi,
+09:41,7,WorldMusicDay,12.422
+09:41,8,チーター,39.503
+09:41,9,TwitıırGt Açılıyor,
+09:41,10,SEVENTEEN,672.828
+10:10,1,InternationalDayOfYoga,161.001
+10:10,2,MondayMotivation,17.356
+10:10,3,YourChoiceMillionSeller,66.926
+10:10,4,TREASURE LIGHTSTICK,139.029
+10:10,5,Ben Simmons,251.405
+10:10,6,Pazartesi,
+10:10,7,WorldMusicDay,13.759
+10:10,8,チーター,41.210
+10:10,9,SEVENTEEN,679.685
+10:10,10,ルームマッチ,64.012
+10:41,1,InternationalDayOfYoga,170.516
+10:41,2,MondayMotivation,19.429
+10:41,3,観客最大1万人,
+10:41,4,YourChoiceMillionSeller,69.887
+10:41,5,TREASURE LIGHTSTICK,145.900
+10:41,6,Pazartesi,11.087
+10:41,7,チーター,43.625
+10:41,8,WorldMusicDay,15.297
+10:41,9,Ben Simmons,253.798
+10:41,10,サノスカップ,
+11:10,1,InternationalDayOfYoga,177.790
+11:10,2,MondayMotivation,21.131
+11:10,3,観客最大1万人,
+11:10,4,私の過失,
+11:10,5,WATCH B.I-LOG NOW,12.720
+11:10,6,YourChoiceMillionSeller,71.220
+11:10,7,TREASURE LIGHTSTICK,151.159
+11:10,8,WorldMusicDay,16.712
+11:10,9,Pazartesi,12.163
+11:10,10,チーター,45.057
+11:41,1,パライソ,17.929
+11:41,2,私の過失,
+11:41,3,MondayMotivation,23.042
+11:41,4,InternationalDayOfYoga,185.574
+11:41,5,ストグラム,
+11:41,6,観客最大1万人,
+11:41,7,池袋暴走事故,15.422
+11:41,8,御前の軽装,
+11:41,9,TURNOVER,34.958
+11:41,10,WorldMusicDay,18.458
+12:10,1,パライソ,24.666
+12:10,2,私の過失,
+12:10,3,MondayMotivation,24.704
+12:10,4,InternationalYogaDay,58.420
+12:10,5,CHP İzmir,
+12:10,6,池袋暴走事故,18.493
+12:10,7,ストグラム,
+12:10,8,Askofficial_ace7,
+12:10,9,御前の軽装,
+12:10,10,ネプリーグ,
+12:41,1,パライソ,29.466
+12:41,2,ネプリーグ,
+12:41,3,私の過失,
+12:41,4,MondayMotivation,26.597
+12:41,5,イマソラ,15.170
+12:41,6,池袋暴走事故,21.285
+12:41,7,InternationalDayOfYoga,198.733
+12:41,8,ストグラム,
+12:41,9,御前の軽装,
+12:41,10,CHP İzmir,
+13:10,1,パライソ,32.399
+13:10,2,ネプリーグ,14.176
+13:10,3,私の過失,
+13:10,4,WONHO_DESERVES_BETTER,21.459
+13:10,5,MondayMotivation,28.534
+13:10,6,ブラックウィドウ公開に備えよ,
+13:10,7,エンドゲーム上映会ご招待,
+13:10,8,池袋暴走事故,24.264
+13:10,9,聖剣伝説4,
+13:10,10,御前の軽装,
+13:41,1,十万円でできるかな,
+13:41,2,HBDTHALAPATHYVijay,99.272
+13:41,3,ネプリーグ,16.413
+13:41,4,パライソ,34.910
+13:41,5,ストグラム,
+13:41,6,ブラックウィドウ公開に備えよ,
+13:41,7,Gençler AteistOluyor,
+13:41,8,池袋暴走事故,27.039
+13:41,9,私の過失,
+13:41,10,聖剣伝説4,
+14:10,1,十万円でできるかな,19.854
+14:10,2,HBDTHALAPATHYVijay,394.906
+14:10,3,ナイトドクター,71.058
+14:10,4,ネプリーグ,18.969
+14:10,5,帰れま10,10.502
+14:10,6,パライソ,37.381
+14:10,7,Kent Gıda,
+14:10,8,TO DO IS BACK,41.974
+14:10,9,DAYANE AND YOU,16.192
+14:10,10,池袋暴走事故,29.209
+14:41,1,HBDTHALAPATHYVijay,699.057
+14:41,2,単独首位,10.754
+14:41,3,ナイトドクター,84.317
+14:41,4,十万円でできるかな,35.188
+14:41,5,CanyoubemyworldTS,142.635
+14:41,6,BLシェアハウス,
+14:41,7,おりほー,
+14:41,8,CDTV,35.477
+14:41,9,DAYANE AND YOU,29.162
+14:41,10,パライソ,40.086
+15:10,1,HBDTHALAPATHYVijay,856.796
+15:10,2,ナイトドクター,98.492
+15:10,3,単独首位,16.423
+15:10,4,CDTVライブライブ,70.551
+15:10,5,十万円でできるかな,41.677
+15:10,6,BLシェアハウス,
+15:10,7,おりほー,
+15:10,8,DAYANE AND YOU,38.257
+15:10,9,パライソ,41.537
+15:10,10,MUSICIAN JENNIE DAY,44.383
+15:41,1,ナイトドクター,113.364
+15:41,2,HBDTHALAPATHYVijay,971.440
+15:41,3,単独首位,18.753
+15:41,4,CDTVライブライブ,99.395
+15:41,5,BLシェアハウス,
+15:41,6,技だけでポケモンを当てる,
+15:41,7,DAYANE AND YOU,46.708
+15:41,8,おりほー,
+15:41,9,深澤先生,
+15:41,10,웹소설 세계관,
+16:10,1,ナイトドクター,117.267
+16:10,2,HBDTHALAPATHYVijay,1.054.643
+16:10,3,BLシェアハウス,
+16:10,4,単独首位,20.191
+16:10,5,技だけでポケモンを当てる,
+16:10,6,CDTVライブライブ,113.427
+16:10,7,ホロAmongUs,18.203
+16:10,8,DAYANE AND YOU,54.097
+16:10,9,웹소설 세계관,
+16:10,10,深澤先生,
+16:41,1,ナイトドクター,120.347
+16:41,2,HBDTHALAPATHYVijay,1.134.776
+16:41,3,BLシェアハウス,
+16:41,4,技だけでポケモンを当てる,
+16:41,5,ホロAmongUs,24.164
+16:41,6,SinceWeMetROSÉ,52.642
+16:41,7,単独首位,21.092
+16:41,8,FIVE YEARS WITH ROSÉ,52.755
+16:41,9,DAYANE AND YOU,62.139
+16:41,10,Prime Day,135.995
+17:10,1,ナイトドクター,121.518
+17:10,2,伊野尾慧誕生祭,
+17:10,3,BLシェアハウス,
+17:10,4,技だけでポケモンを当てる,
+17:10,5,SinceWeMetROSÉ,89.532
+17:10,6,FIVE YEARS WITH ROSÉ,89.203
+17:10,7,NCAA,21.715
+17:10,8,DAYANE AND YOU,68.001
+17:10,9,単独首位,21.647
+17:10,10,Haftanın Yalanları,
+17:41,1,伊野尾慧誕生祭,
+17:41,2,AtinySelcaDay,59.927
+17:41,3,SinceWeMetROSÉ,116.984
+17:41,4,NCAA,27.981
+17:41,5,ATSD,58.874
+17:41,6,BLシェアハウス,
+17:41,7,FIVE YEARS WITH ROSÉ,115.720
+17:41,8,DAYANE AND YOU,72.489
+17:41,9,Anitta,55.566
+17:41,10,joonie,14.094
+18:10,1,AtinySelcaDay,79.452
+18:10,2,NCAA,31.650
+18:10,3,伊野尾慧誕生祭,
+18:10,4,ATSD,77.492
+18:10,5,シンエヴァANN,
+18:10,6,SinceWeMetROSÉ,132.505
+18:10,7,FIVE YEARS WITH ROSÉ,130.678
+18:10,8,Anitta,66.491
+18:10,9,DAYANE AND YOU,75.822
+18:10,10,Medya HaberCom,
+18:41,1,シンエヴァANN,21.405
+18:41,2,MKDNED,
+18:41,3,SimulacroNacional2021,10.556
+18:41,4,AtinySelcaDay,94.404
+18:41,5,Anitta,77.078
+18:41,6,NCAA,35.425
+18:41,7,ATSD,91.471
+18:41,8,FIVE YEARS WITH ROSÉ,140.758
+18:41,9,Alaattin Çakıcı,
+18:41,10,DAYANE AND YOU,78.517
+19:10,1,シンエヴァANN,31.218
+19:10,2,kabinetoplantısı,47.012
+19:10,3,MKDNED,10.637
+19:10,4,SimulacroNacional2021,14.631
+19:10,5,SkeemSaam,
+19:10,6,Anitta,84.630
+19:10,7,NCAA,38.007
+19:10,8,FIVE YEARS WITH ROSÉ,146.225
+19:10,9,1 Temmuz,17.313
+19:10,10,Vmt Token,
+19:41,1,kusurabakıyoruz,13.785
+19:41,2,Butter4thNo1OnHot100,36.452
+19:41,3,MKDNED,16.055
+19:41,4,kabinetoplantısı,52.094
+19:41,5,シンエヴァANN,40.366
+19:41,6,Anitta,92.146
+19:41,7,BTS PAVED THE WAY,18.390
+19:41,8,BTS WORLD DOMINATION,
+19:41,9,1 Temmuz,22.305
+19:41,10,NCAA,40.595
+20:10,1,Butter4thNo1OnHot100,183.771
+20:10,2,kusurabakıyoruz,36.541
+20:10,3,MKDNED,18.763
+20:10,4,BTS PAVED THE WAY,74.422
+20:10,5,シンエヴァANN,49.794
+20:10,6,BTS_Butter,452.769
+20:10,7,BTS WORLD DOMINATION,31.357
+20:10,8,1 Temmuz,25.306
+20:10,9,Anitta,98.093
+20:10,10,Austria,32.243
+20:41,1,kusurabakıyoruz,64.408
+20:41,2,Butter4thNo1OnHot100,244.630
+20:41,3,BTS PAVED THE WAY,90.552
+20:41,4,BTS_Butter,494.920
+20:41,5,MKDNED,19.786
+20:41,6,BTS WORLD DOMINATION,41.829
+20:41,7,シンエヴァANN,52.210
+20:41,8,Anitta,105.259
+20:41,9,1 Temmuz,29.142
+20:41,10,Austria,35.231
+21:10,1,kusurabakıyoruz,87.082
+21:10,2,Butter4thNo1OnHot100,275.545
+21:10,3,BTS PAVED THE WAY,96.792
+21:10,4,BTS_Butter,517.156
+21:10,5,BTS WORLD DOMINATION,46.425
+21:10,6,MKDNED,20.204
+21:10,7,SendenNefretEdiyoruz,
+21:10,8,Anitta,107.324
+21:10,9,1 Temmuz,32.474
+21:10,10,Mekke KudüsRoma,
+21:41,1,kusurabakıyoruz,112.306
+21:41,2,Butter4thNo1OnHot100,296.787
+21:41,3,SendenNefretEdiyoruz,13.559
+21:41,4,FINBEL,10.381
+21:41,5,RUSDEN,
+21:41,6,BTS PAVED THE WAY,100.908
+21:41,7,BTS WORLD DOMINATION,50.724
+21:41,8,Anitta,113.599
+21:41,9,1 Temmuz,36.194
+21:41,10,Gece 12,12.297
+22:10,1,kusurabakıyoruz,133.198
+22:10,2,Butter4thNo1OnHot100,314.227
+22:10,3,SendenNefretEdiyoruz,21.347
+22:10,4,FINBEL,13.946
+22:10,5,RUSDEN,
+22:10,6,BTS PAVED THE WAY,104.952
+22:10,7,BTS WORLD DOMINATION,52.688
+22:10,8,Hazard,29.887
+22:10,9,Damsgaard,
+22:10,10,Doku,10.849
+22:41,1,kusurabakıyoruz,151.834
+22:41,2,RUSDEN,18.224
+22:41,3,FINBEL,22.738
+22:41,4,Denmark,34.902
+22:41,5,SendenNefretEdiyoruz,28.920
+22:41,6,Butter4thNo1OnHot100,326.356
+22:41,7,Lukaku,44.719
+22:41,8,Christensen,
+22:41,9,Finland,35.672
+22:41,10,Hazard,33.046
+23:10,1,kusurabakıyoruz,167.427
+23:10,2,Denmark,61.860
+23:10,3,RUSDEN,26.660
+23:10,4,FINBEL,27.425
+23:10,5,SendenNefretEdiyoruz,35.102
+23:10,6,Lukaku,58.887
+23:10,7,SeniSeviyoruzReis,41.600
+23:10,8,Dinamarca,18.442
+23:10,9,Christensen,19.946
+23:10,10,Finland,40.773
+23:41,1,kusurabakıyoruz,181.755
+23:41,2,Denmark,69.207
+23:41,3,RUSDEN,28.445
+23:41,4,SeniSeviyoruzReis,63.578
+23:41,5,SendenNefretEdiyoruz,40.772
+23:41,6,FINBEL,28.634
+23:41,7,Lukaku,63.588
+23:41,8,Vargas,43.749
+23:41,9,Dinamarca,20.458
+23:41,10,Christensen,24.513

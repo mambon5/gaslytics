@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Real Madrid,119.528
+00:09,2,MCCelebrity,14.273
+00:09,3,EquipoConLaGente,69.601
+00:09,4,TarjetaRosa,35.511
+00:09,5,ilcollegio,64.526
+00:09,6,GEORGE4MIL,16.474
+00:09,7,Casemiro,26.988
+00:09,8,Alex Jones,17.128
+00:09,9,Zidane,31.647
+00:09,10,Paquetá,
+00:39,1,TheBachelorette,20.898
+00:39,2,MCCelebrity,15.365
+00:39,3,Real Madrid,121.347
+00:39,4,EquipoConLaGente,70.887
+00:39,5,Randy Arozarena,
+00:39,6,TarjetaRosa,36.478
+00:39,7,GEORGE4MIL,17.592
+00:39,8,Alex Jones,20.239
+00:39,9,Snell,
+00:39,10,Paquetá,
+01:09,1,TheBachelorette,36.829
+01:09,2,ThisIsUs,11.030
+01:09,3,Snell,
+01:09,4,Gonsolin,
+01:09,5,MCCelebrity,15.494
+01:09,6,Randy Arozarena,
+01:09,7,GEORGE4MIL,19.493
+01:09,8,EquipoConLaGente,71.476
+01:09,9,Real Madrid,121.728
+01:09,10,Alex Jones,22.665
+01:39,1,TheBachelorette,61.788
+01:39,2,ThisIsUs,20.008
+01:39,3,HipHopAwards,17.474
+01:39,4,Snell,
+01:39,5,TonyBobulinski,57.222
+01:39,6,animeselcaday,28.304
+01:39,7,Gonsolin,
+01:39,8,winwin,462.885
+01:39,9,Alex Wood,
+01:39,10,Rhuan,
+02:09,1,TheBachelorette,92.432
+02:09,2,ThisIsUs,27.047
+02:09,3,Snell,17.492
+02:09,4,HipHopAwards,26.580
+02:09,5,Botafogo,36.312
+02:09,6,TonyBobulinski,80.825
+02:09,7,animeselcaday,40.840
+02:09,8,Benzema,41.838
+02:09,9,winwin,480.075
+02:09,10,Rhuan,
+02:39,1,Snell,61.673
+02:39,2,RoçaAFazenda,247.039
+02:39,3,TheBachelorette,99.792
+02:39,4,ThisIsUs,37.003
+02:39,5,Cash,195.771
+02:39,6,Botafogo,49.577
+02:39,7,HipHopAwards,35.113
+02:39,8,Marengo,
+02:39,9,Dave Roberts,
+02:39,10,animeselcaday,55.218
+03:09,1,RoçaAFazenda,433.487
+03:09,2,Snell,88.128
+03:09,3,Kevin Cash,35.516
+03:09,4,TheBachelorette,103.130
+03:09,5,ThisIsUs,49.686
+03:09,6,Botafogo,53.560
+03:09,7,HipHopAwards,45.146
+03:09,8,Mookie,15.167
+03:09,9,Victória,266.190
+03:09,10,animeselcaday,71.011
+03:39,1,RocaAFazenda,617.931
+03:39,2,Snell,104.764
+03:39,3,Lidi,260.109
+03:39,4,Dodgers,58.685
+03:39,5,TheBachelorette,105.712
+03:39,6,ThisIsUs,53.011
+03:39,7,Cash,234.589
+03:39,8,Mookie Betts,18.587
+03:39,9,World Series,61.689
+03:39,10,Victória,337.692
+04:09,1,Dodgers,626.061
+04:09,2,RocaAFazenda,690.985
+04:09,3,World Series,153.507
+04:09,4,Urias,65.094
+04:09,5,LATogether,31.157
+04:09,6,Mookie Betts,24.444
+04:09,7,Cash,249.109
+04:09,8,Blake Snell,42.024
+04:09,9,ThisIsUs,54.489
+04:09,10,TheBachelorette,107.756
+04:39,1,Dodgers,766.989
+04:39,2,RocaAFazenda,723.190
+04:39,3,World Series,181.345
+04:39,4,Mirella,413.752
+04:39,5,Rays,108.631
+04:39,6,Victoria,368.182
+04:39,7,Manfred,25.099
+04:39,8,TarjetaRosa,57.110
+04:39,9,Mookie Betts,26.175
+04:39,10,Cash,256.571
+05:09,1,Dodgers,845.233
+05:09,2,RocaAFazenda,740.088
+05:09,3,World Series,199.497
+05:09,4,Snell,127.383
+05:09,5,Mookie,82.727
+05:09,6,Mirella,424.456
+05:09,7,Justin Turner,35.616
+05:09,8,TarjetaRosa,58.810
+05:09,9,Victoria,372.174
+05:09,10,Urias,89.150
+05:39,1,Dodgers,902.548
+05:39,2,RocaAFazenda,748.157
+05:39,3,World Series,211.622
+05:39,4,Snell,129.933
+05:39,5,Mookie,85.549
+05:39,6,Justin Turner,39.889
+05:39,7,Rays,113.496
+05:39,8,TarjetaRosa,59.738
+05:39,9,Urias,95.791
+05:39,10,Victoria,376.579
+06:09,1,Dodgers,945.772
+06:09,2,World Series,220.508
+06:09,3,RocaAFazenda,752.587
+06:09,4,Mookie,87.374
+06:09,5,Justin Turner,42.558
+06:09,6,Biel,347.431
+06:09,7,Mirella,433.850
+06:09,8,TarjetaRosa,60.146
+06:09,9,Manfred,29.117
+06:09,10,Urias,101.031
+06:39,1,Dodgers,974.562
+06:39,2,World Series,227.625
+06:39,3,RocaAFazenda,755.096
+06:39,4,Snell,132.809
+06:39,5,Justin Turner,44.004
+06:39,6,MevlidKandili,56.678
+06:39,7,Lipe,186.127
+06:39,8,Biel,348.731
+06:39,9,Mirella,436.114
+06:39,10,TarjetaRosa,60.352
+07:09,1,Dodgers,996.582
+07:09,2,World Series,232.918
+07:09,3,RocaAFazenda,756.812
+07:09,4,MevlidKandili,63.514
+07:09,5,Snell,133.573
+07:09,6,Mookie,89.622
+07:09,7,Justin Turner,44.884
+07:09,8,Biel,348.599
+07:09,9,Mirella,436.703
+07:09,10,あだ名禁止,31.718
+07:39,1,Dodgers,1.012.402
+07:39,2,MevlidKandili,71.336
+07:39,3,World Series,237.181
+07:39,4,RocaAFazenda,757.986
+07:39,5,Snell,134.210
+07:39,6,Mookie,90.247
+07:39,7,Justin Turner,45.470
+07:39,8,Atamİzindeyiz,
+07:39,9,あだ名禁止,34.411
+07:39,10,Biel,349.284
+08:09,1,Dodgers,1.022.620
+08:09,2,MevlidKandili,78.753
+08:09,3,World Series,240.413
+08:09,4,RocaAFazenda,758.798
+08:09,5,Atamİzindeyiz,
+08:09,6,あだ名禁止,37.104
+08:09,7,SVT_PrimeMinisterAward,22.449
+08:09,8,Snell,134.615
+08:09,9,Mookie,90.678
+08:09,10,DRIPPINisComing,12.662
+08:39,1,MevlidKandili,86.332
+08:39,2,Dodgers,1.031.815
+08:39,3,Atamİzindeyiz,
+08:39,4,WorldSeries,217.288
+08:39,5,檸檬堂一周年に乾杯,
+08:39,6,DRIPPINisComing,24.297
+08:39,7,あだ名禁止,40.085
+08:39,8,Hayırlı Kandiller,25.897
+08:39,9,Snell,134.922
+08:39,10,Mookie,90.994
+09:09,1,MevlidKandili,94.342
+09:09,2,Dodgers,1.037.984
+09:09,3,SVT_PrimeMinisterAward,36.860
+09:09,4,檸檬堂一周年に乾杯,
+09:09,5,Atamİzindeyiz,
+09:09,6,DRIPPINisComing,33.947
+09:09,7,あだ名禁止,43.134
+09:09,8,Hayırlı Kandiller,28.766
+09:09,9,スズラン,
+09:09,10,FurkanVakfı 1000Gündür,
+09:39,1,MevlidKandili,103.268
+09:39,2,白石麻衣卒業コンサート,50.893
+09:39,3,SVT_PrimeMinisterAward,50.462
+09:39,4,相葉すごろく,
+09:39,5,檸檬堂一周年に乾杯,
+09:39,6,推しへの依存度診断,
+09:39,7,Dodgers,1.043.448
+09:39,8,あだ名禁止,45.957
+09:39,9,乙女解剖,
+09:39,10,IRENE RADIANT IDOL,15.324
+10:09,1,白石麻衣卒業コンサート,59.057
+10:09,2,SVT_PrimeMinisterAward,79.794
+10:09,3,MevlidKandili,112.185
+10:09,4,相葉すごろく,
+10:09,5,推しへの依存度診断,
+10:09,6,檸檬堂一周年に乾杯,
+10:09,7,乙女解剖,
+10:09,8,あだ名禁止,48.830
+10:09,9,Dodgers,1.048.539
+10:09,10,ELLY,16.230
+10:39,1,白石麻衣卒業コンサート,74.701
+10:39,2,SVT_PrimeMinisterAward,136.861
+10:39,3,MevlidKandili,120.111
+10:39,4,Home_Run1stWin,23.948
+10:39,5,推しへの依存度診断,
+10:39,6,相葉すごろく,
+10:39,7,RakutenTV,
+10:39,8,乙女解剖,
+10:39,9,あだ名禁止,51.419
+10:39,10,Dodgers,1.054.308
+11:09,1,白石麻衣卒業コンサート,88.211
+11:09,2,SVT_PrimeMinisterAward,188.262
+11:09,3,Home_Run1stWin,51.411
+11:09,4,推しへの依存度診断,
+11:09,5,MevlidKandili,127.807
+11:09,6,相葉すごろく,
+11:09,7,JOONIE,28.377
+11:09,8,乙女解剖,
+11:09,9,SEVENTEEN WORLD DOMINATION,40.747
+11:09,10,ELLY,19.282
+11:39,1,白石麻衣卒業コンサート,102.642
+11:39,2,SVT_PrimeMinisterAward,208.583
+11:39,3,D4DJ_CDTV,29.991
+11:39,4,Home_Run1stWin,62.284
+11:39,5,推しへの依存度診断,
+11:39,6,楽天TV,16.106
+11:39,7,相葉すごろく,
+11:39,8,Abema,105.772
+11:39,9,JOONIE,33.208
+11:39,10,乙女解剖,
+12:09,1,D4DJ_CDTV,54.362
+12:09,2,白石麻衣卒業コンサート,114.228
+12:09,3,SVT_PrimeMinisterAward,220.340
+12:09,4,推しへの依存度診断,10.965
+12:09,5,お前らの初恋MS晒せ,
+12:09,6,楽天TV,16.401
+12:09,7,相葉すごろく,10.759
+12:09,8,JOONIE,36.319
+12:09,9,ココロオドル,
+12:09,10,Alain Rey,11.095
+12:39,1,D4DJ_CDTV,73.057
+12:39,2,白石麻衣卒業コンサート,130.181
+12:39,3,ทฤษฎีจีบเธอSpecial,82.198
+12:39,4,お前らの初恋MS晒せ,
+12:39,5,推しへの依存度診断,12.468
+12:39,6,楽天TV,16.760
+12:39,7,相葉すごろく,11.441
+12:39,8,れおほー,
+12:39,9,Joonie,39.140
+12:39,10,Alain Rey,14.869
+13:09,1,D4DJ_CDTV,95.811
+13:09,2,ทฤษฎีจีบเธอSpecial,147.547
+13:09,3,白石麻衣卒業コンサート,137.255
+13:09,4,お前らの初恋MS晒せ,
+13:09,5,推しへの依存度診断,13.879
+13:09,6,相葉すごろく,11.975
+13:09,7,楽天TV,16.914
+13:09,8,横浜優勝,
+13:09,9,Privatizar o SUS,23.436
+13:09,10,れおほー,
+13:39,1,白石麻衣卒業コンサート,162.315
+13:39,2,ทฤษฎีจีบเธอSpecial,213.902
+13:39,3,D4DJ_CDTV,103.418
+13:39,4,お前らの初恋MS晒せ,10.311
+13:39,5,推しへの依存度診断,15.322
+13:39,6,楽天TV,17.807
+13:39,7,Omaha,227.236
+13:39,8,相葉すごろく,12.397
+13:39,9,HAPPY BDAY RUEL,20.245
+13:39,10,横浜優勝,
+14:09,1,白石麻衣卒業コンサート,173.178
+14:09,2,DefendaoSUS,27.584
+14:09,3,お前らの初恋MS晒せ,11.686
+14:09,4,ทฤษฎีจีบเธอSpecial,246.784
+14:09,5,リモラブ,27.234
+14:09,6,Privatizar o SUS,68.175
+14:09,7,Omaha,244.900
+14:09,8,楽天TV,18.813
+14:09,9,HAPPY BDAY RUEL,23.831
+14:09,10,相葉すごろく,12.822
+14:39,1,DefendaoSUS,48.128
+14:39,2,白石麻衣卒業コンサート,198.564
+14:39,3,お前らの初恋MS晒せ,12.981
+14:39,4,リモラブ,28.516
+14:39,5,ทฤษฎีจีบเธอSpecial,263.740
+14:39,6,Privatizar o SUS,103.867
+14:39,7,Omaha,265.197
+14:39,8,牧場物語,10.302
+14:39,9,楽天TV,20.099
+14:39,10,ルンファク5,
+15:09,1,DefendaoSUS,72.162
+15:09,2,白石麻衣卒業コンサート,206.526
+15:09,3,DreamTwogetherWithIZONE,163.879
+15:09,4,KDAMORE,37.334
+15:09,5,お前らの初恋MS晒せ,13.900
+15:09,6,Privatizar o SUS,147.581
+15:09,7,牧場物語,19.220
+15:09,8,Omaha,284.243
+15:09,9,ルンファク5,
+15:09,10,Seraphine,12.321
+15:39,1,DefendaoSUS,102.930
+15:39,2,DreamTwogetherWithIZONE,179.456
+15:39,3,白石麻衣卒業コンサート,214.586
+15:39,4,Privatizar o SUS,195.270
+15:39,5,KDAMORE,42.759
+15:39,6,牧場物語,24.331
+15:39,7,お前らの初恋MS晒せ,14.612
+15:39,8,Omaha,303.042
+15:39,9,Seraphine,14.123
+15:39,10,TREASURE MMM ORANGE,48.120
+16:09,1,DefendaoSUS,150.884
+16:09,2,DreamTwogetherWithIZONE,195.648
+16:09,3,Privatizar o SUS,244.626
+16:09,4,KDAMORE,49.869
+16:09,5,白石麻衣卒業コンサート,219.179
+16:09,6,牧場物語,27.135
+16:09,7,お前らの初恋MS晒せ,15.332
+16:09,8,TREASURE MMM ORANGE,133.838
+16:09,9,Omaha,318.495
+16:09,10,Bugsnax,
+16:39,1,DefendaoSUS,201.805
+16:39,2,DreamTwogetherWithIZONE,205.311
+16:39,3,KDAMORE,54.622
+16:39,4,牧場物語,29.044
+16:39,5,TREASURE MMM ORANGE,188.499
+16:39,6,werememberkpop,21.371
+16:39,7,SelamSanaYaResulallah,16.968
+16:39,8,Omaha,334.773
+16:39,9,Bugsnax,
+16:39,10,Hollow Knight,
+17:09,1,DefendaoSUS,255.324
+17:09,2,DreamTwogetherWithIZONE,209.537
+17:09,3,インド人10連ガチャ,
+17:09,4,우리_아이즈원_이주년_축하해,100.563
+17:09,5,XSXFridgeSweeps,
+17:09,6,werememberkpop,29.124
+17:09,7,TREASURE MMM ORANGE,204.524
+17:09,8,Morey,
+17:09,9,牧場物語,30.401
+17:09,10,Nairo,
+17:39,1,DefendaoSUS,296.727
+17:39,2,XSXFridgeSweeps,23.259
+17:39,3,حريق_السوده,14.440
+17:39,4,MIvsRCB,21.129
+17:39,5,インド人10連ガチャ,
+17:39,6,Morey,11.363
+17:39,7,DreamTwogetherWithIZONE,211.944
+17:39,8,Nairo,
+17:39,9,Nvidia,18.891
+17:39,10,Bozo,19.447
+18:09,1,XSXFridgeSweeps,40.812
+18:09,2,DefendaoSUS,329.325
+18:09,3,حريق_السوده,23.513
+18:09,4,MIvsRCB,30.853
+18:09,5,インド人10連ガチャ,
+18:09,6,SelamSanaYaResulallah,25.348
+18:09,7,Morey,13.359
+18:09,8,Nairo,
+18:09,9,Nvidia,19.886
+18:09,10,Omaha,372.245
+18:39,1,XSXFridgeSweeps,54.828
+18:39,2,DefendaoSUS,352.557
+18:39,3,حريق_السوده,30.741
+18:39,4,MIvsRCB,36.311
+18:39,5,KRACHE,26.569
+18:39,6,インド人10連ガチャ,
+18:39,7,Tays,72.120
+18:39,8,Morey,14.674
+18:39,9,Nairo,
+18:39,10,bozo,21.214
+19:09,1,XSXFridgeSweeps,66.117
+19:09,2,macron20h,82.135
+19:09,3,DefendamOSUS,64.689
+19:09,4,حريق_السوده,37.140
+19:09,5,KRACHE,30.631
+19:09,6,Ziyech,15.330
+19:09,7,インド人10連ガチャ,
+19:09,8,Tays,85.935
+19:09,9,Nairo,
+19:09,10,Morey,15.415
+19:39,1,macron20h,163.607
+19:39,2,XSXFridgeSweeps,75.571
+19:39,3,DefendamOSUS,72.328
+19:39,4,confinementSaison2,22.204
+19:39,5,KRACHE,37.661
+19:39,6,Ziyech,23.999
+19:39,7,Werner,18.466
+19:39,8,Moise Kean,
+19:39,9,Miles Taylor,
+19:39,10,Tays,93.093
+20:09,1,macron20h,194.140
+20:09,2,XSXFridgeSweeps,83.566
+20:09,3,confinementSaison2,38.461
+20:09,4,DefendaoSUS,404.825
+20:09,5,confinement2,142.149
+20:09,6,Miles Taylor,23.362
+20:09,7,Ziyech,34.269
+20:09,8,Moise Kean,
+20:09,9,Manu,34.663
+20:09,10,Tays,96.025
+20:39,1,macron20h,210.993
+20:39,2,XSXFridgeSweeps,90.154
+20:39,3,DefendaoSUS,419.164
+20:39,4,Dembele,26.573
+20:39,5,JuveBarca,43.936
+20:39,6,Morata,14.347
+20:39,7,reconfinement2,33.592
+20:39,8,Greenwood,25.359
+20:39,9,Miles Taylor,46.319
+20:39,10,Griezmann,17.508
+21:09,1,macron20h,220.591
+21:09,2,XSXFridgeSweeps,95.924
+21:09,3,JuveBarca,52.380
+21:09,4,Dembele,36.089
+21:09,5,DefendaoSUS,434.944
+21:09,6,StreamSweetMelody,33.504
+21:09,7,Griezmann,22.491
+21:09,8,Miles Taylor,69.614
+21:09,9,Pogba,31.592
+21:09,10,Pjanic,10.572
+21:39,1,Morata,66.562
+21:39,2,JuveBarca,67.917
+21:39,3,macron20h,228.522
+21:39,4,XSXFridgeSweeps,101.829
+21:39,5,MUNRBL,18.595
+21:39,6,Dembele,40.198
+21:39,7,موراتا,13.321
+21:39,8,Griezmann,28.274
+21:39,9,StreamSweetMelody,38.862
+21:39,10,Pedri,21.898
+22:09,1,Rashford,159.389
+22:09,2,Morata,78.629
+22:09,3,JuveBarca,80.593
+22:09,4,macron20h,233.724
+22:09,5,XSXFridgeSweeps,107.907
+22:09,6,29EkimCumhiyetBayramı,19.284
+22:09,7,Messi,141.103
+22:09,8,Pedri,33.398
+22:09,9,Griezmann,32.403
+22:09,10,Dembele,44.948
+22:39,1,Rashford,205.212
+22:39,2,Morata,85.199
+22:39,3,MUNRBL,39.951
+22:39,4,chanyeol,158.925
+22:39,5,XSXFridgeSweeps,114.152
+22:39,6,Juve,72.489
+22:39,7,macron20h,238.463
+22:39,8,29EkimCumhiyetBayramı,21.134
+22:39,9,Martial,50.378
+22:39,10,Pedri,41.810
+23:09,1,Rashford,224.283
+23:09,2,chanyeol,206.343
+23:09,3,Morata,88.462
+23:09,4,MUNRBL,44.372
+23:09,5,XSXFridgeSweeps,118.622
+23:09,6,Juve,74.594
+23:09,7,29EkimCumhiyetBayramı,22.157
+23:09,8,lauren,77.123
+23:09,9,macron20h,241.455
+23:09,10,Pedri,45.597
+23:39,1,chanyeol,251.978
+23:39,2,Rashford,234.829
+23:39,3,Morata,90.552
+23:39,4,lauren,102.719
+23:39,5,XSXFridgeSweeps,122.774
+23:39,6,Juve,76.174
+23:39,7,29EkimCumhiyetBayramı,22.761
+23:39,8,Moisés,12.554
+23:39,9,Pedri,49.334
+23:39,10,Messi,164.874

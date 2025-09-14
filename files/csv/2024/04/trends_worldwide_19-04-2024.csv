@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,$PARAM,5.080.000
+00:01,2,SenderLabs,3.280.000
+00:01,3,Madrid,2.980.000
+00:01,4,$XTER,2.900.000
+00:01,5,Real Madrid,1.580.000
+00:01,6,Telegram,829.000
+00:01,7,Google,654.000
+00:01,8,Presidente,648.000
+00:01,9,Champions,635.000
+00:01,10,Ukraine,623.000
+00:31,1,$PARAM,5.080.000
+00:31,2,SenderLabs,3.280.000
+00:31,3,$XTER,2.980.000
+00:31,4,Madrid,2.280.000
+00:31,5,Real Madrid,1.580.000
+00:31,6,Telegram,829.000
+00:31,7,Google,654.000
+00:31,8,Presidente,648.000
+00:31,9,Champions,640.000
+00:31,10,Ukraine,623.000
+01:01,1,$PARAM,3.780.000
+01:01,2,SenderLabs,3.320.000
+01:01,3,$XTER,2.980.000
+01:01,4,Madrid,2.280.000
+01:01,5,Real Madrid,1.120.000
+01:01,6,Telegram,831.000
+01:01,7,Google,657.000
+01:01,8,Presidente,648.000
+01:01,9,Ukraine,616.000
+01:01,10,Taylor,549.000
+01:31,1,$PARAM,3.780.000
+01:31,2,SenderLabs,3.320.000
+01:31,3,$XTER,3.059.999
+01:31,4,Madrid,2.280.000
+01:31,5,Real Madrid,1.120.000
+01:31,6,Telegram,831.000
+01:31,7,Google,657.000
+01:31,8,Presidente,648.000
+01:31,9,Ukraine,616.000
+01:31,10,Taylor,549.000
+02:01,1,$PARAM,5.260.000
+02:01,2,SenderLabs,3.480.000
+02:01,3,$XTER,3.080.000
+02:01,4,Madrid,1.359.999
+02:01,5,Telegram,831.000
+02:01,6,Real Madrid,743.000
+02:01,7,Google,660.000
+02:01,8,Presidente,636.000
+02:01,9,Ukraine,612.000
+02:01,10,taylor,553.000
+02:31,1,$PARAM,5.260.000
+02:31,2,SenderLabs,3.480.000
+02:31,3,$XTER,3.080.000
+02:31,4,Madrid,1.359.999
+02:31,5,Telegram,831.000
+02:31,6,Real Madrid,743.000
+02:31,7,Google,660.000
+02:31,8,Ukraine,612.000
+02:31,9,taylor,601.000
+02:31,10,Taylor,547.000
+03:01,1,$PARAM,5.260.000
+03:01,2,senderlabs,3.480.000
+03:01,3,SenderLabs,3.420.000
+03:01,4,$XTER,3.099.999
+03:01,5,Madrid,1.040.000
+03:01,6,Telegram,834.000
+03:01,7,Google,662.000
+03:01,8,taylor,642.000
+03:01,9,Real Madrid,631.000
+03:01,10,Ukraine,610.000
+03:31,1,$PARAM,5.260.000
+03:31,2,senderlabs,3.480.000
+03:31,3,$XTER,3.099.999
+03:31,4,Madrid,1.040.000
+03:31,5,Telegram,834.000
+03:31,6,Google,662.000
+03:31,7,taylor,652.000
+03:31,8,Real Madrid,631.000
+03:31,9,Ukraine,610.000
+03:31,10,TENatSaintLaurentSG,501.000
+04:01,1,senderlabs,3.480.000
+04:01,2,$XTER,3.120.000
+04:01,3,The US,1.400.000
+04:01,4,Madrid,951.000
+04:01,5,Telegram,837.000
+04:01,6,taylor,676.000
+04:01,7,Google,662.000
+04:01,8,Iran,633.000
+04:01,9,Ukraine,608.000
+04:01,10,Real Madrid,584.000
+04:31,1,senderlabs,3.480.000
+04:31,2,$XTER,3.120.000
+04:31,3,Israel,2.180.000
+04:31,4,The US,1.400.000
+04:31,5,Madrid,951.000
+04:31,6,Telegram,837.000
+04:31,7,Irán,705.000
+04:31,8,Iran,703.000
+04:31,9,taylor,680.000
+04:31,10,Google,662.000
+05:01,1,senderlabs,3.500.000
+05:01,2,$XTER,3.120.000
+05:01,3,Israel,2.360.000
+05:01,4,The US,1.400.000
+05:01,5,Madrid,909.000
+05:01,6,Telegram,840.000
+05:01,7,Iran,805.000
+05:01,8,Irán,804.000
+05:01,9,taylor,702.000
+05:01,10,Google,662.000
+05:31,1,senderlabs,3.500.000
+05:31,2,SenderLabs,3.400.000
+05:31,3,$XTER,3.120.000
+05:31,4,Israel,2.360.000
+05:31,5,The US,1.400.000
+05:31,6,Madrid,909.000
+05:31,7,Iran,871.000
+05:31,8,Irán,850.000
+05:31,9,Telegram,840.000
+05:31,10,taylor,702.000
+06:01,1,senderlabs,3.500.000
+06:01,2,SenderLabs,3.400.000
+06:01,3,$XTER,3.080.000
+06:01,4,Israel,2.560.000
+06:01,5,Irán,927.000
+06:01,6,Iran,902.000
+06:01,7,Madrid,878.000
+06:01,8,Telegram,840.000
+06:01,9,The US,766.000
+06:01,10,taylor,741.000
+06:31,1,senderlabs,3.500.000
+06:31,2,SenderLabs,3.420.000
+06:31,3,$XTER,3.120.000
+06:31,4,Israel,2.560.000
+06:31,5,Trump,2.120.000
+06:31,6,Iran,949.000
+06:31,7,Irán,927.000
+06:31,8,Madrid,878.000
+06:31,9,taylor,847.000
+06:31,10,Telegram,840.000
+07:01,1,SenderLabs,3.540.000
+07:01,2,$XTER,3.120.000
+07:01,3,Israel,2.640.000
+07:01,4,Trump,2.120.000
+07:01,5,Iran,988.000
+07:01,6,Irán,986.000
+07:01,7,taylor,920.000
+07:01,8,Madrid,852.000
+07:01,9,Spotify,706.000
+07:01,10,América,609.000
+07:31,1,SenderLabs,3.540.000
+07:31,2,$XTER,3.120.000
+07:31,3,Israel,2.640.000
+07:31,4,Trump,2.120.000
+07:31,5,taylor,1.120.000
+07:31,6,Irán,1.020.000
+07:31,7,Iran,1.000.000
+07:31,8,Madrid,852.000
+07:31,9,Spotify,706.000
+07:31,10,América,609.000
+08:01,1,SenderLabs,3.540.000
+08:01,2,$XTER,3.120.000
+08:01,3,Israel,2.640.000
+08:01,4,Trump,2.120.000
+08:01,5,Taylor,1.259.999
+08:01,6,taylor,1.120.000
+08:01,7,Iran,1.080.000
+08:01,8,Irán,1.060.000
+08:01,9,Madrid,826.000
+08:01,10,Spotify,706.000
+08:31,1,SenderLabs,3.540.000
+08:31,2,$XTER,3.120.000
+08:31,3,Israel,2.640.000
+08:31,4,Trump,2.080.000
+08:31,5,Taylor,1.480.000
+08:31,6,taylor,1.120.000
+08:31,7,Iran,1.080.000
+08:31,8,Irán,1.020.000
+08:31,9,Madrid,826.000
+08:31,10,TSTTPD,712.000
+09:01,1,SenderLabs,3.320.000
+09:01,2,$XTER,3.120.000
+09:01,3,Israel,2.580.000
+09:01,4,Trump,2.080.000
+09:01,5,Taylor,1.540.000
+09:01,6,Iran,1.140.000
+09:01,7,taylor,1.120.000
+09:01,8,Irán,1.020.000
+09:01,9,Madrid,794.000
+09:01,10,TSTTPD,748.000
+09:31,1,SenderLabs,3.320.000
+09:31,2,$XTER,3.059.999
+09:31,3,Israel,2.320.000
+09:31,4,Trump,2.080.000
+09:31,5,Taylor,1.580.000
+09:31,6,Iran,1.160.000
+09:31,7,Madrid,794.000
+09:31,8,TSTTPD,786.000
+09:31,9,Taylor Swift,685.000
+09:31,10,TENatSaintLaurentSG,623.000
+10:01,1,$XTER,3.059.999
+10:01,2,SenderLabs,2.440.000
+10:01,3,Israel,2.140.000
+10:01,4,Trump,2.060.000
+10:01,5,Taylor,1.700.000
+10:01,6,Iran,1.180.000
+10:01,7,Irán,1.060.000
+10:01,8,TSTTPD,806.000
+10:01,9,Madrid,761.000
+10:01,10,Taylor Swift,692.000
+10:31,1,SenderLabs,3.219.999
+10:31,2,$XTER,2.940.000
+10:31,3,Trump,2.140.000
+10:31,4,Israel,2.000.000
+10:31,5,Taylor,1.880.000
+10:31,6,Iran,1.180.000
+10:31,7,TSTTPD,806.000
+10:31,8,Madrid,761.000
+10:31,9,Taylor Swift,723.000
+10:31,10,TENatSaintLaurentSG,627.000
+11:01,1,SenderLabs,3.340.000
+11:01,2,$XTER,2.500.000
+11:01,3,Trump,2.160.000
+11:01,4,Taylor,2.040.000
+11:01,5,Israel,2.000.000
+11:01,6,Iran,1.200.000
+11:01,7,TSTTPD,832.000
+11:01,8,Taylor Swift,736.000
+11:01,9,Madrid,730.000
+11:01,10,TENatSaintLaurentSG,684.000
+11:31,1,SenderLabs,3.340.000
+11:31,2,Trump,2.160.000
+11:31,3,Taylor,2.080.000
+11:31,4,Israel,2.000.000
+11:31,5,Iran,1.240.000
+11:31,6,TSTTPD,844.000
+11:31,7,Taylor Swift,753.000
+11:31,8,Madrid,730.000
+11:31,9,TENatSaintLaurentSG,684.000
+11:31,10,América,623.000
+12:01,1,SenderLabs,3.340.000
+12:01,2,Trump,2.160.000
+12:01,3,Taylor,2.140.000
+12:01,4,Iran,1.240.000
+12:01,5,TSTTPD,858.000
+12:01,6,Taylor Swift,769.000
+12:01,7,TENatSaintLaurentSG,717.000
+12:01,8,Madrid,700.000
+12:01,9,The Tortured Poets Department,682.000
+12:01,10,América,620.000
+12:31,1,SenderLabs,3.340.000
+12:31,2,$XTER,2.639.999
+12:31,3,Taylor,2.200.000
+12:31,4,Trump,2.160.000
+12:31,5,Iran,1.240.000
+12:31,6,TSTTPD,869.000
+12:31,7,Taylor Swift,783.000
+12:31,8,TENatSaintLaurentSG,717.000
+12:31,9,Madrid,700.000
+12:31,10,The Tortured Poets Department,691.000
+13:01,1,SenderLabs,3.160.000
+13:01,2,$XTER,2.639.999
+13:01,3,Taylor,2.240.000
+13:01,4,Trump,2.160.000
+13:01,5,Iran,1.240.000
+13:01,6,TSTTPD,882.000
+13:01,7,Taylor Swift,804.000
+13:01,8,TENatSaintLaurentSG,717.000
+13:01,9,The Tortured Poets Department,703.000
+13:01,10,Madrid,674.000
+13:31,1,SenderLabs,3.160.000
+13:31,2,$XTER,2.639.999
+13:31,3,Taylor,2.300.000
+13:31,4,Trump,2.160.000
+13:31,5,TSTTPD,894.000
+13:31,6,Taylor Swift,804.000
+13:31,7,TENatSaintLaurentSG,717.000
+13:31,8,The Tortured Poets Department,703.000
+13:31,9,Madrid,674.000
+13:31,10,Ukraine,600.000
+14:01,1,SenderLabs,3.080.000
+14:01,2,$XTER,2.500.000
+14:01,3,Taylor,2.360.000
+14:01,4,Trump,2.140.000
+14:01,5,TSTTPD,909.000
+14:01,6,Taylor Swift,839.000
+14:01,7,The Tortured Poets Department,703.000
+14:01,8,TENatSaintLaurentSG,664.000
+14:01,9,Madrid,647.000
+14:01,10,Ukraine,600.000
+14:31,1,SenderLabs,3.080.000
+14:31,2,$XTER,2.500.000
+14:31,3,Taylor,2.420.000
+14:31,4,Trump,2.140.000
+14:31,5,TSTTPD,920.000
+14:31,6,Taylor Swift,851.000
+14:31,7,The Tortured Poets Department,703.000
+14:31,8,TENatSaintLaurentSG,664.000
+14:31,9,Madrid,647.000
+14:31,10,Ukraine,600.000
+15:01,1,SenderLabs,2.960.000
+15:01,2,Taylor,2.540.000
+15:01,3,Trump,2.080.000
+15:01,4,TSTTPD,937.000
+15:01,5,Taylor Swift,876.000
+15:01,6,Madrid,619.000
+15:01,7,Ukraine,599.000
+15:01,8,TENatSaintLaurentSG,574.000
+15:01,9,محمد,414.000
+15:01,10,Russia,369.000
+15:31,1,SenderLabs,2.960.000
+15:31,2,Taylor,2.540.000
+15:31,3,Trump,2.080.000
+15:31,4,TSTTPD,952.000
+15:31,5,Taylor Swift,890.000
+15:31,6,Madrid,619.000
+15:31,7,Ukraine,599.000
+15:31,8,TENatSaintLaurentSG,574.000
+15:31,9,محمد,414.000
+15:31,10,Russia,369.000
+16:01,1,SenderLabs,2.760.000
+16:01,2,Taylor,2.600.000
+16:01,3,Trump,2.120.000
+16:01,4,TSTTPD,971.000
+16:01,5,Taylor Swift,917.000
+16:01,6,The Tortured Poets Department,731.000
+16:01,7,Ukraine,598.000
+16:01,8,Madrid,589.000
+16:01,9,TENatSaintLaurentSG,505.000
+16:01,10,محمد,422.000
+16:31,1,Taylor,2.600.000
+16:31,2,Trump,2.120.000
+16:31,3,TSTTPD,981.000
+16:31,4,Taylor Swift,931.000
+16:31,5,The Tortured Poets Department,731.000
+16:31,6,Ukraine,598.000
+16:31,7,Madrid,589.000
+16:31,8,TENatSaintLaurentSG,490.000
+16:31,9,محمد,422.000
+16:31,10,Russia,371.000
+17:01,1,Taylor,2.840.000
+17:01,2,Trump,2.120.000
+17:01,3,TSTTPD,998.000
+17:01,4,Taylor Swift,967.000
+17:01,5,The Tortured Poets Department,751.000
+17:01,6,Ukraine,597.000
+17:01,7,Madrid,562.000
+17:01,8,TENatSaintLaurentSG,462.000
+17:01,9,محمد,419.000
+17:01,10,Russia,374.000
+17:31,1,Taylor,2.880.000
+17:31,2,Trump,2.120.000
+17:31,3,TSTTPD,1.020.000
+17:31,4,Taylor Swift,982.000
+17:31,5,The Tortured Poets Department,770.000
+17:31,6,Ukraine,597.000
+17:31,7,Madrid,562.000
+17:31,8,TENatSaintLaurentSG,462.000
+17:31,9,محمد,425.000
+17:31,10,Russia,374.000
+18:01,1,Taylor,2.920.000
+18:01,2,Trump,2.020.000
+18:01,3,TSTTPD,1.040.000
+18:01,4,Taylor Swift,982.000
+18:01,5,The Tortured Poets Department,770.000
+18:01,6,Ukraine,600.000
+18:01,7,Madrid,534.000
+18:01,8,محمد,425.000
+18:01,9,TENatSaintLaurentSG,422.000
+18:01,10,Russia,376.000
+18:31,1,Taylor,2.920.000
+18:31,2,Trump,2.000.000
+18:31,3,TSTTPD,1.060.000
+18:31,4,Taylor Swift,990.000
+18:31,5,The Tortured Poets Department,770.000
+18:31,6,Ukraine,600.000
+18:31,7,Madrid,534.000
+18:31,8,محمد,425.000
+18:31,9,TENatSaintLaurentSG,422.000
+18:31,10,Russia,376.000
+19:01,1,Taylor,2.920.000
+19:01,2,Trump,2.000.000
+19:01,3,TSTTPD,1.100.000
+19:01,4,Taylor Swift,1.000.000
+19:01,5,The Tortured Poets Department,798.000
+19:01,6,América,644.000
+19:01,7,Ukraine,606.000
+19:01,8,Madrid,508.000
+19:01,9,محمد,432.000
+19:01,10,University,396.000
+19:31,1,Taylor,2.960.000
+19:31,2,Taylor Swift,1.140.000
+19:31,3,TSTTPD,1.100.000
+19:31,4,The Tortured Poets Department,800.000
+19:31,5,América,644.000
+19:31,6,Ukraine,606.000
+19:31,7,Madrid,508.000
+19:31,8,محمد,432.000
+19:31,9,University,405.000
+19:31,10,Russia,376.000
+20:01,1,Taylor,2.960.000
+20:01,2,Taylor Swift,1.180.000
+20:01,3,TSTTPD,1.120.000
+20:01,4,The Tortured Poets Department,800.000
+20:01,5,América,644.000
+20:01,6,Ukraine,610.000
+20:01,7,Madrid,493.000
+20:01,8,محمد,434.000
+20:01,9,University,405.000
+20:01,10,Russia,373.000
+20:31,1,Taylor,2.960.000
+20:31,2,Taylor Swift,1.180.000
+20:31,3,TSTTPD,1.120.000
+20:31,4,The Tortured Poets Department,800.000
+20:31,5,Bitcoin,778.000
+20:31,6,América,644.000
+20:31,7,Ukraine,610.000
+20:31,8,Madrid,493.000
+20:31,9,محمد,434.000
+20:31,10,University,405.000
+21:01,1,Taylor,2.960.000
+21:01,2,Taylor Swift,1.220.000
+21:01,3,TSTTPD,1.120.000
+21:01,4,The Tortured Poets Department,800.000
+21:01,5,Bitcoin,792.000
+21:01,6,Ukraine,611.000
+21:01,7,Madrid,483.000
+21:01,8,محمد,435.000
+21:01,9,University,405.000
+21:01,10,Russia,373.000
+21:31,1,Taylor,2.820.000
+21:31,2,Taylor Swift,1.259.999
+21:31,3,TSTTPD,1.140.000
+21:31,4,Bitcoin,792.000
+21:31,5,The Tortured Poets Department,780.000
+21:31,6,América,631.000
+21:31,7,Ukraine,611.000
+21:31,8,Madrid,483.000
+21:31,9,محمد,435.000
+21:31,10,University,405.000
+22:01,1,Taylor,2.840.000
+22:01,2,Taylor Swift,1.299.999
+22:01,3,TSTTPD,1.140.000
+22:01,4,Bitcoin,792.000
+22:01,5,The Tortured Poets Department,780.000
+22:01,6,América,646.000
+22:01,7,Ukraine,611.000
+22:01,8,Madrid,467.000
+22:01,9,محمد,435.000
+22:01,10,University,405.000
+22:31,1,Taylor,2.840.000
+22:31,2,Taylor Swift,1.299.999
+22:31,3,TSTTPD,1.180.000
+22:31,4,Bitcoin,792.000
+22:31,5,The Tortured Poets Department,780.000
+22:31,6,América,646.000
+22:31,7,Ukraine,611.000
+22:31,8,Madrid,467.000
+22:31,9,محمد,435.000
+22:31,10,University,405.000
+23:01,1,Taylor,2.840.000
+23:01,2,Taylor Swift,1.299.999
+23:01,3,TSTTPD,1.180.000
+23:01,4,The Tortured Poets Department,788.000
+23:01,5,Bitcoin,778.000
+23:01,6,América,646.000
+23:01,7,Ukraine,607.000
+23:01,8,Madrid,457.000
+23:01,9,محمد,435.000
+23:01,10,LokSabhaElections2024,389.000
+23:31,1,Taylor,2.840.000
+23:31,2,Taylor Swift,1.339.999
+23:31,3,TSTTPD,1.200.000
+23:31,4,The Tortured Poets Department,788.000
+23:31,5,Bitcoin,778.000
+23:31,6,América,646.000
+23:31,7,Ukraine,607.000
+23:31,8,Madrid,457.000
+23:31,9,محمد,435.000
+23:31,10,LokSabhaElections2024,390.000

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,USGP,178.107
+00:10,2,Bengals,79.426
+00:10,3,VamosColoColo,14.552
+00:10,4,Corinthians,87.036
+00:10,5,SecretNoche7,32.206
+00:10,6,Pablo,139.717
+00:10,7,OMPSG,111.357
+00:10,8,Chiefs,107.230
+00:10,9,Yalan,49.974
+00:10,10,Eagles,47.981
+00:41,1,Gunther,22.661
+00:41,2,Eagles,58.198
+00:41,3,USGP,184.241
+00:41,4,Pablo,145.255
+00:41,5,VamosColoColo,16.337
+00:41,6,Bears,66.166
+00:41,7,Bengals,82.023
+00:41,8,SecretNoche7,35.590
+00:41,9,Corinthians,88.616
+00:41,10,Brady,41.888
+01:10,1,Gunther,30.720
+01:10,2,Eagles,63.052
+01:10,3,Bears,70.170
+01:10,4,Pablo,144.821
+01:10,5,SecretNoche7,39.928
+01:10,6,VamosColoColo,17.341
+01:10,7,USGP,182.432
+01:10,8,Justin Fields,
+01:10,9,Brady,44.931
+01:10,10,Bengals,84.282
+01:41,1,Gunther,37.127
+01:41,2,Bears,74.706
+01:41,3,Eagles,67.863
+01:41,4,Pablo,150.746
+01:41,5,SecretNoche7,44.420
+01:41,6,Brady,50.140
+01:41,7,RaiderNation,13.943
+01:41,8,Raiders,52.440
+01:41,9,Fields,54.665
+01:41,10,Nagy,15.566
+02:10,1,Gunther,42.199
+02:10,2,Bears,76.054
+02:10,3,Pablo,149.367
+02:10,4,Eagles,69.385
+02:10,5,Fields,55.921
+02:10,6,SecretNoche7,47.370
+02:10,7,RaiderNation,14.925
+02:10,8,Brady,53.500
+02:10,9,Raiders,55.813
+02:10,10,SelfiesForPIRATA,
+02:41,1,RHOP,12.191
+02:41,2,Gunther,46.309
+02:41,3,Bears,78.151
+02:41,4,Pablo,152.146
+02:41,5,Gizelle,
+02:41,6,Eagles,71.329
+02:41,7,SelfiesForPIRATA,
+02:41,8,Fields,57.520
+02:41,9,Colts,18.752
+02:41,10,Brady,57.459
+03:10,1,RHOP,18.684
+03:10,2,Wentz,12.066
+03:10,3,Gunther,49.708
+03:10,4,Battaglia,
+03:10,5,Briasco,
+03:10,6,Gizelle,
+03:10,7,Colts,21.849
+03:10,8,Bears,78.543
+03:10,9,SelfiesForPIRATA,
+03:10,10,Pablo,150.377
+03:41,1,Wentz,18.106
+03:41,2,RHOP,20.038
+03:41,3,Gunther,52.753
+03:41,4,Colts,25.980
+03:41,5,Battaglia,
+03:41,6,49ers,22.827
+03:41,7,Briasco,
+03:41,8,RHOSLC,
+03:41,9,Jalen Green,11.660
+03:41,10,Vélez,22.373
+04:10,1,InsecureHBO,24.778
+04:10,2,Wentz,20.762
+04:10,3,RHOP,20.937
+04:10,4,Gunther,55.386
+04:10,5,Colts,29.209
+04:10,6,49ers,25.287
+04:10,7,RHOSLC,
+04:10,8,Battaglia,
+04:10,9,2จุด7ล้านฟอลขอรักกลัฟ,43.854
+04:10,10,Osorio,11.486
+04:41,1,InsecureHBO,62.092
+04:41,2,Issa,45.969
+04:41,3,Wentz,22.057
+04:41,4,49ers,30.010
+04:41,5,RHOP,21.909
+04:41,6,Kelli,
+04:41,7,Colts,32.682
+04:41,8,QuiénEsLaMáscara,
+04:41,9,Gunther,58.014
+04:41,10,Succession,
+05:10,1,InsecureHBO,79.790
+05:10,2,Issa,51.284
+05:10,3,BakeOffArgentina,
+05:10,4,QuiénEsLaMáscara,14.895
+05:10,5,Gino,12.358
+05:10,6,Wentz,23.849
+05:10,7,49ers,33.589
+05:10,8,Kelli,
+05:10,9,RHOP,22.761
+05:10,10,Colts,35.352
+05:41,1,InsecureHBO,87.132
+05:41,2,Issa,54.437
+05:41,3,Ja Morant,17.739
+05:41,4,Melo,36.698
+05:41,5,مقابله_,
+05:41,6,49ers,41.736
+05:41,7,BakeOffArgentina,
+05:41,8,Colts,43.868
+05:41,9,QuiénEsLaMáscara,19.868
+05:41,10,Wentz,26.930
+06:10,1,InsecureHBO,91.178
+06:10,2,Ja Morant,22.559
+06:10,3,Melo,40.616
+06:10,4,Issa,54.726
+06:10,5,مقابله_,
+06:10,6,_سعد,
+06:10,7,Lakers,66.772
+06:10,8,49ers,44.389
+06:10,9,TEN_StreetDanceofChinaS4,48.817
+06:10,10,QuiénEsLaMáscara,24.604
+06:41,1,InsecureHBO,94.418
+06:41,2,Melo,45.123
+06:41,3,Ja Morant,26.280
+06:41,4,مقابله_,10.891
+06:41,5,Lakers,80.729
+06:41,6,Issa,56.540
+06:41,7,انتحار_وذ_نكهه,
+06:41,8,TEN_StreetDanceofChinaS4,79.446
+06:41,9,49ers,45.813
+06:41,10,QuiénEsLaMáscara,25.732
+07:10,1,InsecureHBO,96.488
+07:10,2,Melo,46.245
+07:10,3,انتحار_وذ_نكهه,
+07:10,4,Ja Morant,26.834
+07:10,5,طلاق_فاطمه_الانصاري,
+07:10,6,مقابله_,10.893
+07:10,7,Lakers,83.754
+07:10,8,TEN_StreetDanceofChinaS4,103.307
+07:10,9,Issa,56.311
+07:10,10,49ers,46.558
+07:41,1,InsecureHBO,98.303
+07:41,2,Melo,47.613
+07:41,3,انتحار_وذ_نكهه,
+07:41,4,TEN_StreetDanceofChinaS4,125.705
+07:41,5,طلاق_فاطمه_الانصاري,
+07:41,6,Ja Morant,27.643
+07:41,7,مشروبك_اليومي_المفضل,
+07:41,8,Lakers,86.385
+07:41,9,Issa,58.037
+07:41,10,49ers,47.300
+08:10,1,InsecureHBO,99.355
+08:10,2,قبول_احتجاج_النصر_اسيويا,
+08:10,3,TEN_StreetDanceofChinaS4,152.998
+08:10,4,انتحار_وذ_نكهه,
+08:10,5,مشروبك_اليومي_المفضل,
+08:10,6,Melo,47.853
+08:10,7,Ja Morant,27.929
+08:10,8,giselle,107.826
+08:10,9,Issa,57.863
+08:10,10,Lakers,87.493
+08:41,1,_الجبر,
+08:41,2,InsecureHBO,100.489
+08:41,3,TEN_StreetDanceofChinaS4,178.050
+08:41,4,pazartesi,
+08:41,5,قبول_احتجاج_النصر_اسيويا,
+08:41,6,giselle,123.256
+08:41,7,Melo,48.692
+08:41,8,Ja Morant,28.374
+08:41,9,Issa,58.738
+08:41,10,Lakers,89.199
+09:10,1,_الجبر,
+09:10,2,رسميا_غياب_ماريغا_بالاسيويه,
+09:10,3,MondayMotivation,32.510
+09:10,4,TEN_StreetDanceofChinaS4,202.528
+09:10,5,pazartesi,
+09:10,6,giselle,130.116
+09:10,7,Melo,48.706
+09:10,8,Ja Morant,28.599
+09:10,9,Issa,57.741
+09:10,10,Gunther,77.452
+09:41,1,_الجبر,
+09:41,2,ülkeiflasediyor,10.326
+09:41,3,MondayMotivation,35.275
+09:41,4,رسميا_غياب_ماريغا_بالاسيويه,
+09:41,5,TEN_StreetDanceofChinaS4,231.305
+09:41,6,KENxJOSH TeaserPhoto,15.427
+09:41,7,giselle,137.753
+09:41,8,Melo,49.387
+09:41,9,The G.O.A.T.,
+09:41,10,Ja Morant,28.959
+10:10,1,_الجبر,
+10:10,2,ülkeiflasediyor,13.673
+10:10,3,MondayMotivation,38.027
+10:10,4,السودان,25.505
+10:10,5,NCT127FavoriteCountdown,72.265
+10:10,6,FAVORITE COUNTDOWN LIVE,114.585
+10:10,7,KENxJOSH TeaserPhoto,27.537
+10:10,8,Cocoro Life,
+10:10,9,giselle,140.909
+10:10,10,The G.O.A.T.,
+10:41,1,ülkeiflasediyor,16.954
+10:41,2,MondayMotivation,40.474
+10:41,3,Dolar10TL,
+10:41,4,NCT127FavoriteCountdown,83.088
+10:41,5,السودان,28.234
+10:41,6,FAVORITE COUNTDOWN LIVE,125.908
+10:41,7,KENxJOSH TeaserPhoto,34.447
+10:41,8,Cocoro Life,
+10:41,9,The G.O.A.T.,
+10:41,10,北海道のコメ,
+11:10,1,OurFavoriteNCT127,158.985
+11:10,2,ülkeiflasediyor,20.101
+11:10,3,Dolar10TL,
+11:10,4,MondayMotivation,42.768
+11:10,5,السودان,30.377
+11:10,6,FAVORITE COUNTDOWN LIVE,131.631
+11:10,7,KENxJOSH TeaserPhoto,40.853
+11:10,8,北海道のコメ,
+11:10,9,マーティン,
+11:10,10,JUNGWOO,65.988
+11:41,1,OurFavoriteNCT127,248.905
+11:41,2,Dolar10TL,
+11:41,3,ülkeiflasediyor,23.053
+11:41,4,MondayMotivation,45.318
+11:41,5,jaehyun,256.320
+11:41,6,doyoung,132.961
+11:41,7,SB19BazingaMVTeaser,57.741
+11:41,8,jungwoo,96.482
+11:41,9,haechan,154.458
+11:41,10,taeil,65.141
+12:10,1,OurFavoriteNCT127,309.386
+12:10,2,Dolar10TL,10.356
+12:10,3,ülkeiflasediyor,26.210
+12:10,4,MondayMotivation,47.328
+12:10,5,jaehyun,275.153
+12:10,6,doyoung,141.891
+12:10,7,SB19BazingaMVTeaser,66.495
+12:10,8,jungwoo,105.623
+12:10,9,haechan,165.453
+12:10,10,北海道のコメ,12.724
+12:41,1,OurFavoriteNCT127,347.390
+12:41,2,いくちゃん,17.876
+12:41,3,Dolar10TL,12.247
+12:41,4,生田絵梨花,10.130
+12:41,5,ülkeiflasediyor,29.178
+12:41,6,MondayMotivation,49.389
+12:41,7,jaehyun,296.570
+12:41,8,doyoung,152.015
+12:41,9,北海道のコメ,15.981
+12:41,10,jungwoo,114.616
+13:10,1,OurFavoriteNCT127,371.758
+13:10,2,いくちゃん,24.509
+13:10,3,生田絵梨花,15.045
+13:10,4,Dolar10TL,14.048
+13:10,5,ülkeiflasediyor,32.065
+13:10,6,MondayMotivation,51.675
+13:10,7,ネプリーグ,27.386
+13:10,8,冬のボーナス,
+13:10,9,北海道のコメ,18.905
+13:10,10,jaehyun,295.906
+13:41,1,OurFavoriteNCT127,393.131
+13:41,2,いくちゃん,29.127
+13:41,3,生田絵梨花,18.391
+13:41,4,おりほー,
+13:41,5,Dolar10TL,15.728
+13:41,6,ツーランスクイズ,
+13:41,7,ülkeiflasediyor,34.347
+13:41,8,湯豆腐10周年,
+13:41,9,冬のボーナス,
+13:41,10,山本由伸,10.167
+14:10,1,CDTV626,15.557
+14:10,2,OurFavoriteNCT127,409.653
+14:10,3,いくちゃん,31.877
+14:10,4,おりほー,
+14:10,5,生田絵梨花,20.703
+14:10,6,Dolar10TL,17.301
+14:10,7,山本由伸,17.545
+14:10,8,オリックス,45.871
+14:10,9,Shami,34.663
+14:10,10,冬のボーナス,
+14:41,1,CDTVライブライブ,48.039
+14:41,2,いくちゃん,34.620
+14:41,3,OurFavoriteNCT127,425.100
+14:41,4,StrayKidsdiWIBTVShow,23.917
+14:41,5,INIちゃん,87.790
+14:41,6,おりほー,
+14:41,7,TokopediaWIBOktober,20.864
+14:41,8,WaktuIndonesiaBelanja,16.191
+14:41,9,オリックス,53.605
+14:41,10,山本由伸,21.636
+15:10,1,CDTV626,69.838
+15:10,2,INIちゃん,101.303
+15:10,3,いくちゃん,36.346
+15:10,4,Shami,50.480
+15:10,5,StrayKidsdiWIBTVShow,61.075
+15:10,6,WaktuIndonesiaBelanja,47.389
+15:10,7,冬のボーナス,
+15:10,8,オリックス,57.531
+15:10,9,TokopediaWIBOktober,58.734
+15:10,10,おりほー,
+15:41,1,CDTV626,77.934
+15:41,2,HaloInfinite,15.903
+15:41,3,مبادره_الشرق_الاوسط_الاخضر,
+15:41,4,TuKiRaWithDJBeomgyu,14.100
+15:41,5,Shami,57.887
+15:41,6,冬のボーナス,
+15:41,7,いくちゃん,38.313
+15:41,8,ULTRAMAN,11.507
+15:41,9,INIちゃん,106.137
+15:41,10,オリックス,60.988
+16:10,1,مبادره_الشرق_الاوسط_الاخضر,11.520
+16:10,2,CDTV626,80.648
+16:10,3,HaloInfinite,18.092
+16:10,4,目を閉じればV6がそばいるよ,11.831
+16:10,5,TuKiRaWithDJBeomgyu,19.438
+16:10,6,冬のボーナス,
+16:10,7,ULTRAMAN,15.893
+16:10,8,いくちゃん,39.406
+16:10,9,INIちゃん,106.767
+16:10,10,スパロボ,29.512
+16:41,1,مبادره_الشرق_الاوسط_الاخضر,17.728
+16:41,2,CDTV626,82.445
+16:41,3,HaloInfinite,20.086
+16:41,4,OneDaywithKIHYUN,
+16:41,5,OurFavoriteAceYUTA,111.522
+16:41,6,ULTRAMAN,18.795
+16:41,7,冬のボーナス,
+16:41,8,スパロボ,34.155
+16:41,9,The G.O.A.T.,
+16:41,10,Makan Online,
+17:10,1,OneDaywithKIHYUN,60.370
+17:10,2,OurFavoriteAceYUTA,213.248
+17:10,3,체리왕자_유타_생일_축하해,215.213
+17:10,4,日本の宝中本悠太,208.163
+17:10,5,THEDREAMING,30.492
+17:10,6,FROST MV,
+17:10,7,ultraman,20.495
+17:10,8,冬のボーナス,
+17:10,9,The G.O.A.T.,
+17:10,10,スパロボ,37.028
+17:41,1,OneDaywithKIHYUN,64.458
+17:41,2,OurFavoriteAceYUTA,297.581
+17:41,3,체리왕자_유타_생일_축하해,294.728
+17:41,4,日本の宝中本悠太,289.650
+17:41,5,TXT_Frost,57.327
+17:41,6,冬のボーナス,
+17:41,7,ULTRAMAN,21.731
+17:41,8,The G.O.A.T.,
+17:41,9,スパロボ,39.111
+17:41,10,D-6 THE BOYZ MAVERICK,25.299
+18:10,1,OneDaywithKIHYUN,67.075
+18:10,2,OurFavoriteAceYUTA,337.389
+18:10,3,日本の宝中本悠太,327.855
+18:10,4,체리왕자_유타_생일_축하해,331.379
+18:10,5,TXT_Frost,69.098
+18:10,6,Geri Adım,20.665
+18:10,7,The G.O.A.T.,
+18:10,8,ULTRAMAN,22.359
+18:10,9,冬のボーナス,
+18:10,10,Hertz,23.119
+18:41,1,OurFavoriteAceYUTA,359.707
+18:41,2,日本の宝中本悠太,349.538
+18:41,3,체리왕자_유타_생일_축하해,352.149
+18:41,4,OneDaywithKIHYUN,68.713
+18:41,5,TXT_Frost,73.945
+18:41,6,Geri Adım,23.842
+18:41,7,The G.O.A.T.,10.408
+18:41,8,SB19 TATLONG TAON,10.962
+18:41,9,Conte,96.361
+18:41,10,Hertz,24.779
+19:10,1,OurFavoriteAceYUTA,372.738
+19:10,2,日本の宝中本悠太,361.786
+19:10,3,체리왕자_유타_생일_축하해,364.050
+19:10,4,OneDaywithKIHYUN,70.227
+19:10,5,DerbidePadişahlaKazan,
+19:10,6,Geri Adım,26.566
+19:10,7,SB19 TATLONG TAON,15.113
+19:10,8,The G.O.A.T.,10.764
+19:10,9,2021Meb AlanDeğişikliği,
+19:10,10,Conte,95.781
+19:41,1,BJKvGS,50.849
+19:41,2,OurFavoriteAceYUTA,381.864
+19:41,3,日本の宝中本悠太,370.185
+19:41,4,체리왕자_유타_생일_축하해,371.597
+19:41,5,DerbidePadişahlaKazan,
+19:41,6,WE LOVE YOU JIN,12.076
+19:41,7,Diagne,
+19:41,8,The G.O.A.T.,11.417
+19:41,9,SB19 TATLONG TAON,17.672
+19:41,10,Metallica,10.347
+20:10,1,BJKvGS,57.912
+20:10,2,TeşekkürlerErdoğan,17.623
+20:10,3,OurFavoriteAceYUTA,388.321
+20:10,4,日本の宝中本悠太,376.495
+20:10,5,Muslera,
+20:10,6,체리왕자_유타_생일_축하해,377.641
+20:10,7,NeOlduIHEPdeki Vuk359a,
+20:10,8,Diagne,
+20:10,9,WE LOVE YOU JIN,15.347
+20:10,10,Taylan,
+20:41,1,BJKvGS,64.136
+20:41,2,TeşekkürlerErdoğan,27.669
+20:41,3,FauciLiedDogsDied,54.862
+20:41,4,OurFavoriteAceYUTA,392.902
+20:41,5,日本の宝中本悠太,380.664
+20:41,6,Muslera,
+20:41,7,Diagne,
+20:41,8,NeOlduIHEPdeki Vuk359a,
+20:41,9,Larin,
+20:41,10,Taylan,
+21:10,1,BJKvGS,79.635
+21:10,2,TeşekkürlerErdoğan,37.096
+21:10,3,Larin,11.622
+21:10,4,Muslera,
+21:10,5,FauciLiedDogsDied,60.754
+21:10,6,Diagne,
+21:10,7,Beşiktaş,110.688
+21:10,8,TPMP,
+21:10,9,Fırat Aydınus,
+21:10,10,Ersin,14.245
+21:41,1,BJKvGS,94.511
+21:41,2,TeşekkürlerErdoğan,47.030
+21:41,3,Larin,14.812
+21:41,4,Muslera,10.818
+21:41,5,Beşiktaş,136.778
+21:41,6,FauciLiedDogsDied,66.362
+21:41,7,Ersin,18.698
+21:41,8,Galatasaray,86.526
+21:41,9,اصابه_عبدالله_عطيف,
+21:41,10,Fırat,18.984
+22:10,1,BJKvGS,97.826
+22:10,2,TeşekkürlerErdoğan,55.568
+22:10,3,Larin,16.386
+22:10,4,Beşiktaş,147.223
+22:10,5,FauciLiedDogsDied,70.915
+22:10,6,Muslera,11.354
+22:10,7,YasakElma,
+22:10,8,Brendan Fraser,
+22:10,9,Galatasaray,87.145
+22:10,10,suriyeli,
+22:41,1,BJKvGS,101.131
+22:41,2,TeşekkürlerErdoğan,67.347
+22:41,3,YasakElma,
+22:41,4,suriyeli,
+22:41,5,Larin,17.695
+22:41,6,Beşiktaş,159.238
+22:41,7,FauciLiedDogsDied,75.170
+22:41,8,Brendan Fraser,
+22:41,9,WE LOVE YOU JIN,27.627
+22:41,10,Tesla,106.454
+23:10,1,TeşekkürlerErdoğan,76.954
+23:10,2,BJKvGS,94.269
+23:10,3,YasakElma,
+23:10,4,suriyeli,
+23:10,5,MCCelebrity,
+23:10,6,Brendan Fraser,
+23:10,7,Beşiktaş,169.201
+23:10,8,Gianmaria,
+23:10,9,Larin,18.262
+23:10,10,Tesla,108.319
+23:41,1,TeşekkürlerErdoğan,85.096
+23:41,2,BJKvGS,95.858
+23:41,3,YasakElma,10.557
+23:41,4,suriyeli,
+23:41,5,MCCelebrity,
+23:41,6,Brendan Fraser,10.921
+23:41,7,Talleres,10.349
+23:41,8,Conte,152.954
+23:41,9,Tesla,112.627
+23:41,10,Beşiktaş,180.150

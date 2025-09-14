@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Peter Wright,17.788
+00:10,2,gfvip,106.630
+00:10,3,PDCWorldDartsChampionship,
+00:10,4,仕事始め,110.693
+00:10,5,Michael Smith,12.100
+00:10,6,TentacionesDBT8,
+00:10,7,Tirei Personalidade,
+00:10,8,survivorGR,20.520
+00:10,9,MUNWOL,77.780
+00:10,10,Wolves,168.094
+00:40,1,仕事始め,124.634
+00:40,2,gfvip,116.381
+00:40,3,Peter Wright,18.836
+00:40,4,PDCWorldDartsChampionship,
+00:40,5,TentacionesDBT8,
+00:40,6,Michael Smith,12.653
+00:40,7,仕事初め,36.961
+00:40,8,Tirei Personalidade,
+00:40,9,ラヴィット,14.282
+00:40,10,ローソンでいちご狩り,
+01:10,1,仕事始め,132.961
+01:10,2,gfvip,124.712
+01:10,3,Peter Wright,19.020
+01:10,4,PDCWorldDartsChampionship,
+01:10,5,TentacionesDBT8,
+01:10,6,ラヴィット,19.474
+01:10,7,仕事初め,39.175
+01:10,8,Tirei Personalidade,
+01:10,9,Rob Manfred,
+01:10,10,ローソンでいちご狩り,
+01:40,1,仕事始め,142.058
+01:40,2,gfvip,135.992
+01:40,3,TentacionesDBT8,10.606
+01:40,4,ラヴィット,26.701
+01:40,5,Peter Wright,19.381
+01:40,6,Rob Manfred,
+01:40,7,仕事初め,41.909
+01:40,8,Elizabeth Holmes,14.265
+01:40,9,PDCWorldDartsChampionship,
+01:40,10,Tirei Personalidade,
+02:10,1,仕事始め,146.888
+02:10,2,ラヴィット,33.796
+02:10,3,TheBachelor,
+02:10,4,Elizabeth Holmes,21.183
+02:10,5,TentacionesDBT8,13.323
+02:10,6,Rob Manfred,
+02:10,7,gfvip,139.151
+02:10,8,HereWeGo,10.755
+02:10,9,Big Ben,14.880
+02:10,10,仕事初め,43.083
+02:40,1,TheBachelor,14.146
+02:40,2,WWERaw,18.677
+02:40,3,仕事始め,154.045
+02:40,4,Big Ben,19.035
+02:40,5,HereWeGo,13.260
+02:40,6,gabi brandt,
+02:40,7,Elizabeth Holmes,25.661
+02:40,8,ラヴィット,34.821
+02:40,9,Hooper,
+02:40,10,saulo,
+03:10,1,TheBachelor,21.868
+03:10,2,WWERaw,25.636
+03:10,3,Clowney,
+03:10,4,Big Ben,21.496
+03:10,5,HereWeGo,15.326
+03:10,6,Hooper,
+03:10,7,仕事始め,157.560
+03:10,8,Browns,14.076
+03:10,9,gabi brandt,
+03:10,10,Elizabeth Holmes,28.870
+03:40,1,Baker,48.428
+03:40,2,TheBachelor,27.476
+03:40,3,Browns,18.893
+03:40,4,WWERaw,32.692
+03:40,5,Big Ben,23.650
+03:40,6,HereWeGo,16.983
+03:40,7,Clowney,
+03:40,8,仕事始め,163.261
+03:40,9,Hooper,
+03:40,10,Johnny Davis,
+04:10,1,Baker,56.894
+04:10,2,TheBachelor,31.241
+04:10,3,Browns,71.783
+04:10,4,WWERaw,39.282
+04:10,5,Big Ben,25.387
+04:10,6,Chubb,16.258
+04:10,7,Khloe,10.520
+04:10,8,Tristan Thompson,
+04:10,9,HereWeGo,18.573
+04:10,10,仕事始め,166.580
+04:40,1,Baker,63.840
+04:40,2,TheBachelor,32.266
+04:40,3,Browns,79.610
+04:40,4,WWERaw,47.599
+04:40,5,Khloe,14.893
+04:40,6,Chubb,22.454
+04:40,7,Tristan Thompson,12.920
+04:40,8,Najee,12.717
+04:40,9,Big Ben,26.857
+04:40,10,HereWeGo,20.161
+05:10,1,Baker,67.632
+05:10,2,Browns,86.477
+05:10,3,WWERaw,56.157
+05:10,4,TheBachelor,32.812
+05:10,5,Chubb,26.980
+05:10,6,Khloe,18.271
+05:10,7,Tristan Thompson,16.077
+05:10,8,Big Ben,28.047
+05:10,9,Najee,13.787
+05:10,10,HereWeGo,21.726
+05:40,1,Baker,77.591
+05:40,2,Browns,97.755
+05:40,3,Big Ben,32.988
+05:40,4,TJ Watt,13.264
+05:40,5,Najee,19.123
+05:40,6,WWERaw,59.716
+05:40,7,HereWeGo,26.534
+05:40,8,Chubb,29.903
+05:40,9,TheBachelor,33.578
+05:40,10,Khloe,21.306
+06:10,1,Big Ben,46.370
+06:10,2,Baker,81.388
+06:10,3,Browns,104.607
+06:10,4,HereWeGo,33.884
+06:10,5,Najee,22.605
+06:10,6,Steelers,135.808
+06:10,7,TJ Watt,15.781
+06:10,8,ThankYouBen,
+06:10,9,Chubb,31.805
+06:10,10,Khloe,22.956
+06:40,1,Big Ben,51.298
+06:40,2,Baker,84.460
+06:40,3,Browns,108.477
+06:40,4,HereWeGo,35.547
+06:40,5,Najee,23.771
+06:40,6,Steelers,146.491
+06:40,7,ThankYouBen,
+06:40,8,TJ Watt,17.063
+06:40,9,Khloe,25.040
+06:40,10,Chubb,32.712
+07:10,1,Big Ben,53.923
+07:10,2,Baker,85.453
+07:10,3,Browns,110.059
+07:10,4,HereWeGo,36.495
+07:10,5,Najee,24.491
+07:10,6,Steelers,30.088
+07:10,7,ThankYouBen,
+07:10,8,TJ Watt,17.737
+07:10,9,Khloe,26.856
+07:10,10,Chubb,33.139
+07:40,1,Big Ben,55.510
+07:40,2,Baker,86.496
+07:40,3,Browns,111.280
+07:40,4,HereWeGo,37.080
+07:40,5,Khloe,28.525
+07:40,6,Najee,24.960
+07:40,7,ThankYouBen,
+07:40,8,Steelers,155.235
+07:40,9,TJ Watt,18.144
+07:40,10,Tristan,41.360
+08:10,1,ネタバレ解禁,
+08:10,2,Big Ben,56.612
+08:10,3,関東第一,
+08:10,4,njwk16,
+08:10,5,ranboospace,
+08:10,6,Baker,86.914
+08:10,7,Browns,111.758
+08:10,8,HereWeGo,37.440
+08:10,9,Khloe,30.260
+08:10,10,静岡学園,
+08:40,1,njwk16,14.810
+08:40,2,ネタバレ解禁,
+08:40,3,CIMA,68.712
+08:40,4,ranboospace,
+08:40,5,関東第一,
+08:40,6,Big Ben,57.462
+08:40,7,Fav MV,
+08:40,8,Ult Bias,
+08:40,9,First Bias,
+08:40,10,Bias Wrecker,
+09:10,1,njwk16,17.935
+09:10,2,ネタバレ解禁,13.009
+09:10,3,CIMA,69.624
+09:10,4,ranboospace,
+09:10,5,関東第一,
+09:10,6,Ult Bias,
+09:10,7,Fav MV,
+09:10,8,First Bias,
+09:10,9,Bias Wrecker,
+09:10,10,njpw,10.236
+09:40,1,njwk16,22.282
+09:40,2,ネタバレ解禁,16.032
+09:40,3,CIMA,70.531
+09:40,4,Ult Bias,
+09:40,5,ストグラム,
+09:40,6,Fav MV,
+09:40,7,First Bias,
+09:40,8,Bias Wrecker,
+09:40,9,MOAN,
+09:40,10,ranboospace,
+10:10,1,njwk16,27.025
+10:10,2,ネタバレ解禁,19.239
+10:10,3,MOAN,
+10:10,4,CIMA,70.506
+10:10,5,Ult Bias,
+10:10,6,Fav MV,
+10:10,7,BoycottKFC,
+10:10,8,First Bias,
+10:10,9,Bias Wrecker,
+10:10,10,ストグラム,
+10:40,1,njwk16,35.944
+10:40,2,ネタバレ解禁,22.298
+10:40,3,MOAN,
+10:40,4,njpw,15.371
+10:40,5,BoycottKFC,
+10:40,6,Ult Bias,
+10:40,7,Fav MV,
+10:40,8,First Bias,
+10:40,9,Bias Wrecker,
+10:40,10,CIMA,71.254
+11:10,1,njwk16,42.318
+11:10,2,ネタバレ解禁,25.800
+11:10,3,ジャにのちゃんねる,25.511
+11:10,4,ジャにのチャンネル,
+11:10,5,MOAN,
+11:10,6,njpw,17.432
+11:10,7,恋愛対象,
+11:10,8,顔面偏差値,
+11:10,9,平均50,
+11:10,10,Ult Bias,
+11:40,1,njwk16,48.364
+11:40,2,レトさん,10.741
+11:40,3,ジャにのちゃんねる,31.085
+11:40,4,ネタバレ解禁,27.821
+11:40,5,恋愛対象,
+11:40,6,顔面偏差値,
+11:40,7,女子化ボタン見た人はやれ,
+11:40,8,胸のサイズ,
+11:40,9,平均50,
+11:40,10,仰天ニュース,
+12:10,1,njwk16,54.007
+12:10,2,恋愛対象,
+12:10,3,顔面偏差値,
+12:10,4,レトさん,14.067
+12:10,5,胸のサイズ,
+12:10,6,女子化ボタン見た人はやれ,
+12:10,7,平均50,
+12:10,8,ジャにのちゃんねる,33.176
+12:10,9,仰天ニュース,10.027
+12:10,10,ネタバレ解禁,29.038
+12:40,1,恋愛対象,
+12:40,2,顔面偏差値,
+12:40,3,胸のサイズ,
+12:40,4,平均50,
+12:40,5,女子化ボタン見た人はやれ,
+12:40,6,njwk16,57.887
+12:40,7,レトさん,15.687
+12:40,8,姫森ルーナ2周年記念LIVE,16.797
+12:40,9,仰天ニュース,12.277
+12:40,10,ジャにのちゃんねる,34.622
+13:10,1,恋愛対象,
+13:10,2,顔面偏差値,
+13:10,3,胸のサイズ,
+13:10,4,平均50,
+13:10,5,女子化ボタン見た人はやれ,
+13:10,6,njwk16,64.840
+13:10,7,姫森ルーナ2周年記念LIVE,26.420
+13:10,8,Djokovic,
+13:10,9,仰天ニュース,14.544
+13:10,10,Vanilla,29.227
+13:40,1,恋愛対象,
+13:40,2,顔面偏差値,
+13:40,3,胸のサイズ,
+13:40,4,平均50,
+13:40,5,女子化ボタン見た人はやれ,
+13:40,6,njwk16,67.280
+13:40,7,Djokovic,
+13:40,8,Vanilla,34.239
+13:40,9,姫森ルーナ2周年記念LIVE,29.612
+13:40,10,仰天ニュース,16.956
+14:10,1,恋愛対象,
+14:10,2,顔面偏差値,10.366
+14:10,3,胸のサイズ,
+14:10,4,平均50,
+14:10,5,女子化ボタン見た人はやれ,
+14:10,6,華大さんと千鳥くん,
+14:10,7,Djokovic,
+14:10,8,Vanilla,36.349
+14:10,9,仰天ニュース,18.497
+14:10,10,THE神業チャレンジ,
+14:40,1,華大さんと千鳥くん,21.546
+14:40,2,恋愛対象,11.146
+14:40,3,顔面偏差値,11.586
+14:40,4,胸のサイズ,
+14:40,5,平均50,
+14:40,6,女子化ボタン見た人はやれ,
+14:40,7,Djokovic,
+14:40,8,THE神業チャレンジ,12.297
+14:40,9,Vanilla,39.143
+14:40,10,仰天ニュース,20.643
+15:10,1,華大さんと千鳥くん,23.545
+15:10,2,恋愛対象,12.128
+15:10,3,顔面偏差値,12.667
+15:10,4,胸のサイズ,
+15:10,5,平均50,10.183
+15:10,6,女子化ボタン見た人はやれ,
+15:10,7,Djokovic,
+15:10,8,仰天ニュース,22.729
+15:10,9,Vanilla,40.493
+15:10,10,THE神業チャレンジ,12.777
+15:40,1,華大さんと千鳥くん,24.164
+15:40,2,恋愛対象,13.045
+15:40,3,顔面偏差値,13.646
+15:40,4,胸のサイズ,
+15:40,5,平均50,11.027
+15:40,6,女子化ボタン見た人はやれ,
+15:40,7,Djokovic,10.705
+15:40,8,UteoWaFuraha,11.122
+15:40,9,ラプラスペース,
+15:40,10,Vanilla,43.117
+16:10,1,PREVIEW THE ANSWER,147.693
+16:10,2,恋愛対象,13.829
+16:10,3,顔面偏差値,14.364
+16:10,4,華大さんと千鳥くん,24.706
+16:10,5,BLESSED_CURSED,181.762
+16:10,6,胸のサイズ,10.688
+16:10,7,平均50,11.784
+16:10,8,女子化ボタン見た人はやれ,
+16:10,9,Djokovic,11.837
+16:10,10,メンテの日なのでssを貼る,
+16:40,1,PREVIEW THE ANSWER,158.066
+16:40,2,恋愛対象,14.602
+16:40,3,顔面偏差値,15.173
+16:40,4,BLESSED_CURSED,193.430
+16:40,5,胸のサイズ,11.393
+16:40,6,女子化ボタン見た人はやれ,
+16:40,7,平均50,12.529
+16:40,8,DIMENSION_ANSWER,290.003
+16:40,9,華大さんと千鳥くん,24.880
+16:40,10,Lando,
+17:10,1,PREVIEW THE ANSWER,160.837
+17:10,2,顔面偏差値,15.648
+17:10,3,恋愛対象,15.087
+17:10,4,BLESSED_CURSED,191.214
+17:10,5,Lando,
+17:10,6,胸のサイズ,11.884
+17:10,7,メンテの日なのでssを貼る,14.452
+17:10,8,女子化ボタン見た人はやれ,
+17:10,9,平均50,13.000
+17:10,10,TheBSelcaDay,39.367
+17:40,1,Lando,10.803
+17:40,2,OurBelovedSummerEp10,27.627
+17:40,3,恋愛対象,15.541
+17:40,4,顔面偏差値,16.118
+17:40,5,PREVIEW THE ANSWER,161.893
+17:40,6,BLESSED_CURSED,192.868
+17:40,7,メンテの日なのでssを貼る,16.837
+17:40,8,TheBSelcaDay,44.714
+17:40,9,胸のサイズ,12.371
+17:40,10,böylemiolacaktı,
+18:10,1,OurBelovedSummerEp10,32.249
+18:10,2,Lando,12.031
+18:10,3,恋愛対象,15.854
+18:10,4,顔面偏差値,16.448
+18:10,5,PREVIEW THE ANSWER,162.617
+18:10,6,Ramona Reyes,
+18:10,7,BLESSED_CURSED,191.211
+18:10,8,TheBSelcaDay,48.033
+18:10,9,DowningStreetBriefing,
+18:10,10,メンテの日なのでssを貼る,18.511
+18:40,1,DowningStreetBriefing,
+18:40,2,Ramona Reyes,11.285
+18:40,3,OurBelovedSummerEp10,35.873
+18:40,4,Lando,13.108
+18:40,5,ทีมเด็กLAZiCON,122.214
+18:40,6,恋愛対象,16.132
+18:40,7,顔面偏差値,16.724
+18:40,8,CongratsSoloistLisa,17.622
+18:40,9,LALISA GOAT,17.236
+18:40,10,ハロヲタANN,
+19:10,1,DowningStreetBriefing,
+19:10,2,Ramona Reyes,15.523
+19:10,3,OurBelovedSummerEp10,38.490
+19:10,4,CongratsSoloistLisa,30.868
+19:10,5,LALISA GOAT,30.554
+19:10,6,ทีมเด็กLAZiCON,143.046
+19:10,7,GlobalArtistBI,37.651
+19:10,8,Lando,13.833
+19:10,9,B.I On GRAMMYs Global Spin,38.555
+19:10,10,I-95,51.411
+19:40,1,DowningStreetBriefing,10.236
+19:40,2,Ramona Reyes,19.073
+19:40,3,SizeAKPyiAnlatayım,24.062
+19:40,4,GlobalArtistBI,46.708
+19:40,5,HaddiniBilMehmetCeyhan,
+19:40,6,CongratsSoloistLisa,39.366
+19:40,7,B.I On GRAMMYs Global Spin,49.377
+19:40,8,LALISA GOAT,39.068
+19:40,9,Lando,14.676
+19:40,10,I-95,54.338
+20:10,1,SizeAKPyiAnlatayım,30.182
+20:10,2,DowningStreetBriefing,11.432
+20:10,3,Ramona Reyes,21.904
+20:10,4,HaddiniBilMehmetCeyhan,10.093
+20:10,5,GlobalArtistBI,50.489
+20:10,6,CongratsSoloistLisa,44.505
+20:10,7,LALISA GOAT,43.764
+20:10,8,Elmo,35.535
+20:10,9,B.I On GRAMMYs Global Spin,53.541
+20:10,10,Cristina Dorador,19.374
+20:40,1,ChristmasTree79onHot100,19.712
+20:40,2,SizeAKPyiAnlatayım,35.923
+20:40,3,RECORD MAKER V,12.490
+20:40,4,Ramona Reyes,24.039
+20:40,5,Elmo,39.459
+20:40,6,ConvencionConstitucional,13.558
+20:40,7,HaddiniBilMehmetCeyhan,12.800
+20:40,8,DowningStreetBriefing,12.371
+20:40,9,Cristina Dorador,22.275
+20:40,10,LALISA GOAT,47.862
+21:10,1,ChristmasTree79onHot100,39.398
+21:10,2,RECORD MAKER V,26.544
+21:10,3,ConvencionConstitucional,16.023
+21:10,4,SizeAKPyiAnlatayım,41.303
+21:10,5,Elmo,42.298
+21:10,6,HaddiniBilMehmetCeyhan,14.967
+21:10,7,sokağa,
+21:10,8,Ramona Reyes,25.711
+21:10,9,CONGRATULATIONS TAEHYUNG,77.550
+21:10,10,Cristina Dorador,25.235
+21:40,1,ChristmasTree79onHot100,50.032
+21:40,2,RECORD MAKER V,34.266
+21:40,3,ConvencionConstitucional,17.899
+21:40,4,sokağa,
+21:40,5,SizeAKPyiAnlatayım,45.611
+21:40,6,Elmo,46.149
+21:40,7,HaddiniBilMehmetCeyhan,17.127
+21:40,8,MEU TOP 5 DA MARÍLIA MENDONÇA,
+21:40,9,CONGRATULATIONS TAEHYUNG,83.950
+21:40,10,Ramona Reyes,26.866
+22:10,1,ChristmasTree79onHot100,56.985
+22:10,2,sokağa,
+22:10,3,ConvencionConstitucional,19.469
+22:10,4,RECORD MAKER V,39.169
+22:10,5,Elmo,48.163
+22:10,6,SizeAKPyiAnlatayım,49.392
+22:10,7,RCLLOSC,
+22:10,8,MEU TOP 5 DA MARÍLIA MENDONÇA,
+22:10,9,CONGRATULATIONS TAEHYUNG,87.632
+22:10,10,Ramona Reyes,27.851
+22:40,1,LaIslaDeLasTentaciones9,
+22:40,2,ChristmasTree79onHot100,62.697
+22:40,3,sokağa,
+22:40,4,MacronDestitution,10.910
+22:40,5,ConvencionConstitucional,21.553
+22:40,6,Elmo,51.227
+22:40,7,RECORD MAKER V,43.699
+22:40,8,MEU TOP 5 DA MARÍLIA MENDONÇA,
+22:40,9,Cristina Dorador,30.890
+22:40,10,CONGRATULATIONS TAEHYUNG,90.909
+23:10,1,LaIslaDeLasTentaciones9,
+23:10,2,MacronDestitution,22.688
+23:10,3,ChristmasTree79onHot100,67.730
+23:10,4,Sissi,
+23:10,5,sokağa,
+23:10,6,Elmo,53.376
+23:10,7,RECORD MAKER V,47.298
+23:10,8,Président,411.166
+23:10,9,Lens,21.181
+23:10,10,Jason Derulo,
+23:40,1,LaIslaDeLasTentaciones9,16.385
+23:40,2,MacronDestitution,33.555
+23:40,3,RCLLOSC,13.871
+23:40,4,Sissi,11.338
+23:40,5,24hoursinpolicecustody,
+23:40,6,Lens,25.744
+23:40,7,Elmo,56.666
+23:40,8,Jason Derulo,
+23:40,9,Fofana,
+23:40,10,Président,436.637

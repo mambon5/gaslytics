@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,MaskSingerFinal,13.014
+00:09,2,Cavani,49.358
+00:09,3,クリスマスイブ,254.741
+00:09,4,Benfica,36.320
+00:09,5,lightsforlouis,269.277
+00:09,6,EVEMUN,22.009
+00:09,7,Otamendi,11.969
+00:09,8,Merry Christmas,698.041
+00:09,9,Porto,46.200
+00:09,10,Martial,64.980
+00:39,1,MaskSingerFinal,20.394
+00:39,2,クリスマスイブ,278.984
+00:39,3,HappyBirthdayLouisTomlinson,21.081
+00:39,4,lightsforlouis,282.544
+00:39,5,Benfica,40.503
+00:39,6,Cavani,51.596
+00:39,7,EVEMUN,22.600
+00:39,8,Merry Christmas,725.330
+00:39,9,Porto,50.336
+00:39,10,Otamendi,13.194
+01:09,1,HappyBirthdayLouisTomlinson,50.610
+01:09,2,lightsforlouis,309.475
+01:09,3,MaskSingerFinal,30.863
+01:09,4,クリスマスイブ,297.119
+01:09,5,Benfica,42.287
+01:09,6,TPWK,99.437
+01:09,7,Cavani,53.154
+01:09,8,Merry Christmas,736.594
+01:09,9,Porto,51.535
+01:09,10,Natal,675.312
+01:39,1,HappyBirthdayLouisTomlinson,108.258
+01:39,2,lightsforlouis,345.130
+01:39,3,MaskSingerFinal,40.060
+01:39,4,クリスマスイブ,317.316
+01:39,5,TPWK,114.079
+01:39,6,Merry Christmas,766.366
+01:39,7,Benfica,43.664
+01:39,8,Cavani,54.028
+01:39,9,Paz Vega,
+01:39,10,Thaciano,
+02:09,1,HappyBirthdayLouisTomlinson,142.684
+02:09,2,lightsforlouis,364.758
+02:09,3,MaskSingerFinal,41.839
+02:09,4,クリスマスイブ,334.704
+02:09,5,Geromel,
+02:09,6,Diego Souza,
+02:09,7,Merry Christmas,780.682
+02:09,8,Emerson Santos,
+02:09,9,TPWK,122.073
+02:09,10,Thaciano,
+02:39,1,HappyBirthdayLouisTomlinson,158.903
+02:39,2,lightsforlouis,375.661
+02:39,3,クリスマスイブ,352.654
+02:39,4,Diego Souza,10.692
+02:39,5,Geromel,
+02:39,6,MaskSingerFinal,42.208
+02:39,7,Arias,12.336
+02:39,8,Racing,66.693
+02:39,9,Emerson Santos,
+02:39,10,Merry Christmas,813.043
+03:09,1,HappyBirthdayLouisTomlinson,170.661
+03:09,2,Diego Souza,16.347
+03:09,3,lightsforlouis,382.757
+03:09,4,クリスマスイブ,365.028
+03:09,5,Arias,14.893
+03:09,6,Racing,75.111
+03:09,7,Luciano,20.819
+03:09,8,Geromel,
+03:09,9,MaskSingerFinal,42.397
+03:09,10,Daniel Alves,
+03:39,1,Racing,106.696
+03:39,2,HappyBirthdayLouisTomlinson,181.394
+03:39,3,Diego Souza,21.457
+03:39,4,Arias,19.970
+03:39,5,クリスマスイブ,380.441
+03:39,6,lightsforlouis,390.065
+03:39,7,Luciano,22.904
+03:39,8,Reinaldo,
+03:39,9,Daniel Alves,
+03:39,10,Ferreira,16.355
+04:09,1,Tatum,49.020
+04:09,2,Racing,117.031
+04:09,3,Giannis,35.495
+04:09,4,HappyBirthdayLouisTomlinson,191.547
+04:09,5,Diego Souza,23.086
+04:09,6,Arias,21.621
+04:09,7,クリスマスイブ,398.565
+04:09,8,ミュージックソン,33.244
+04:09,9,lightsforlouis,396.780
+04:09,10,Brenner,12.000
+04:39,1,ChristmasLoveByJimin,61.855
+04:39,2,Tatum,61.086
+04:39,3,Giannis,42.676
+04:39,4,HappyBirthdayLouisTomlinson,203.980
+04:39,5,Racing,122.819
+04:39,6,ミュージックソン,59.083
+04:39,7,PARK JIMIN,86.066
+04:39,8,クリスマスイブ,436.154
+04:39,9,Diego Souza,23.660
+04:39,10,Arias,22.396
+05:09,1,ChristmasLoveByJimin,153.256
+05:09,2,Tatum,65.197
+05:09,3,HappyBirthdayLouisTomlinson,213.241
+05:09,4,Giannis,44.380
+05:09,5,Racing,125.234
+05:09,6,クリスマス,2.502.288
+05:09,7,Park Jimin,108.399
+05:09,8,ミュージックソン,71.484
+05:09,9,ThankYouJimin,72.555
+05:09,10,WeLoveYouJimin,137.331
+05:39,1,ChristmasLoveByJimin,190.376
+05:39,2,Tatum,67.918
+05:39,3,クリスマス,2.587.844
+05:39,4,HappyBirthdayLouisTomlinson,219.605
+05:39,5,ミュージックソン,81.152
+05:39,6,Giannis,45.670
+05:39,7,Park Jimin,120.202
+05:39,8,ThankYouJimin,85.967
+05:39,9,Racing,127.774
+05:39,10,WeLoveYouJimin,145.611
+06:09,1,ChristmasLoveByJimin,213.184
+06:09,2,クリスマス,2.605.592
+06:09,3,HappyBirthdayLouisTomlinson,225.655
+06:09,4,ミュージックソン,90.876
+06:09,5,Tatum,69.634
+06:09,6,ThankYouJimin,91.474
+06:09,7,Park Jimin,127.073
+06:09,8,giannis,46.322
+06:09,9,Racing,127.937
+06:09,10,WeLoveYouJimin,151.512
+06:39,1,ChristmasLoveByJimin,227.175
+06:39,2,クリスマス,2.678.773
+06:39,3,Durk,31.121
+06:39,4,HappyBirthdayLouisTomlinson,230.986
+06:39,5,ミュージックソン,97.074
+06:39,6,ThankYouJimin,95.248
+06:39,7,Tatum,71.075
+06:39,8,Park Jimin,133.039
+06:39,9,Giannis,47.121
+06:39,10,WeLoveYouJimin,156.240
+07:09,1,ChristmasLoveByJimin,238.750
+07:09,2,Durk,39.550
+07:09,3,クリスマス,2.684.429
+07:09,4,ミュージックソン,104.992
+07:09,5,HappyBirthdayLouisTomlinson,235.866
+07:09,6,ThankYouJimin,98.571
+07:09,7,Tatum,72.135
+07:09,8,サンタさん,344.445
+07:09,9,Park Jimin,136.564
+07:09,10,WeLoveYouJimin,160.590
+07:39,1,ChristmasLovebyJimin,249.390
+07:39,2,Durk,47.090
+07:39,3,クリスマス,2.765.670
+07:39,4,HappyBirthdayLouisTomlinson,240.655
+07:39,5,ミュージックソン,112.018
+07:39,6,サンタさん,354.659
+07:39,7,末広がり,
+07:39,8,ThankYouJimin,102.003
+07:39,9,Tatum,73.146
+07:39,10,Park Jimin,140.341
+08:09,1,クリスマス,2.495.455
+08:09,2,ChristmasLovebyJimin,258.906
+08:09,3,Durk,51.309
+08:09,4,ミュージックソン,122.425
+08:09,5,HappyBirthdayLouisTomlinson,244.302
+08:09,6,末広がり,
+08:09,7,サンタさん,358.522
+08:09,8,ThankYouJimin,104.691
+08:09,9,Park Jimin,143.514
+08:09,10,WeLoveYouJimin,168.568
+08:39,1,クリスマス,1.584.245
+08:39,2,ChristmasLovebyJimin,267.374
+08:39,3,Durk,54.232
+08:39,4,サンタさん,368.575
+08:39,5,ミュージックソン,129.524
+08:39,6,末広がり,
+08:39,7,HappyBirthdayLouisTomlinson,248.017
+08:39,8,ThankYouJimin,106.938
+08:39,9,Ankara,
+08:39,10,東京888人,28.678
+09:09,1,クリスマス,1.632.401
+09:09,2,ChristmasLovebyJimin,274.307
+09:09,3,Durk,56.237
+09:09,4,サンタさん,372.544
+09:09,5,ミュージックソン,137.950
+09:09,6,末広がり,
+09:09,7,HappyBirthdayLouisTomlinson,252.197
+09:09,8,Ankara,
+09:09,9,جابر_ال_مسعود_في_ذمه_الله,
+09:09,10,東京888人,31.607
+09:39,1,クリスマス,1.502.392
+09:39,2,Merry Christmas,1.261.691
+09:39,3,ヒプアニ最終話直前アベマからの贈り物,14.178
+09:39,4,Durk,57.964
+09:39,5,サンタさん,386.827
+09:39,6,ミュージックソン,147.321
+09:39,7,末広がり,
+09:39,8,HappyBirthdayLouisTomlinson,257.042
+09:39,9,جابر_ال_مسعود_في_ذمه_الله,10.795
+09:39,10,Ankara,
+10:09,1,クリスマス,1.520.612
+10:09,2,ヒプアニ最終話直前アベマからの贈り物,29.608
+10:09,3,Merry Christmas,1.292.278
+10:09,4,サンタさん,390.575
+10:09,5,Durk,59.312
+10:09,6,جابر_ال_مسعود_في_ذمه_الله,16.016
+10:09,7,クリぼっち,63.992
+10:09,8,Ankara,
+10:09,9,Feliz Navidad,258.580
+10:09,10,Frohe Weihnachten,22.564
+10:39,1,クリスマス,1.597.125
+10:39,2,ヒプアニ最終話直前アベマからの贈り物,45.389
+10:39,3,GetWellSoonTaeyong,86.864
+10:39,4,Merry Christmas,1.218.021
+10:39,5,サンタさん,411.151
+10:39,6,ひなくり2020,35.680
+10:39,7,Feliz Navidad,268.585
+10:39,8,KpssOrtaoeğretim2020,
+10:39,9,クリぼっち,71.777
+10:39,10,جابر_ال_مسعود_في_ذمه_الله,21.432
+11:09,1,クリスマス,1.788.077
+11:09,2,GetWellSoonTaeyong,202.757
+11:09,3,ひなくり2020,50.124
+11:09,4,ヒプアニ最終話直前アベマからの贈り物,62.747
+11:09,5,Merry Christmas,894.635
+11:09,6,VS嵐,21.696
+11:09,7,サンタさん,422.050
+11:09,8,Feliz Navidad,275.525
+11:09,9,クリぼっち,76.092
+11:09,10,Frohe Weihnachten,27.163
+11:39,1,クリスマス,1.997.875
+11:39,2,GetWellSoonTaeyong,262.866
+11:39,3,ひなくり2020,77.144
+11:39,4,Merry Christmas,1.119.113
+11:39,5,VS嵐,32.645
+11:39,6,サンタさん,454.145
+11:39,7,ヒプアニ最終話直前アベマからの贈り物,62.511
+11:39,8,Feliz Navidad,287.369
+11:39,9,Tuchel,23.878
+11:39,10,クリぼっち,82.175
+12:09,1,クリスマス,2.204.378
+12:09,2,GetWellSoonTaeyong,301.192
+12:09,3,Merry Christmas,1.220.956
+12:09,4,ひなくり2020,93.521
+12:09,5,VS嵐,43.791
+12:09,6,サンタさん,473.107
+12:09,7,Tuchel,40.659
+12:09,8,Feliz Navidad,296.046
+12:09,9,BABA嵐,11.277
+12:09,10,ヒプアニ最終話直前アベマからの贈り物,62.416
+12:39,1,クリスマス,2.304.662
+12:39,2,GetWellSoonTaeyong,323.525
+12:39,3,Merry Christmas,1.339.470
+12:39,4,VS嵐,57.410
+12:39,5,ひなくり2020,110.777
+12:39,6,サンタさん,502.444
+12:39,7,Tuchel,52.303
+12:39,8,Feliz Navidad,314.186
+12:39,9,BABA嵐,15.106
+12:39,10,ぐるナイ,15.950
+13:09,1,クリスマス,1.914.396
+13:09,2,Merry Christmas,1.478.877
+13:09,3,GetWellSoonTaeyong,340.109
+13:09,4,VS嵐,67.774
+13:09,5,サンタさん,517.234
+13:09,6,ひなくり2020,129.637
+13:09,7,Feliz Navidad,327.603
+13:09,8,Tuchel,61.231
+13:09,9,baba嵐,15.626
+13:09,10,ぐるナイ,21.052
+13:39,1,クリスマス,3.515.985
+13:39,2,Merry Christmas,1.934.754
+13:39,3,VS嵐,87.847
+13:39,4,ひなくり2020,151.828
+13:39,5,サンタさん,548.058
+13:39,6,GetWellSoonTaeyong,351.465
+13:39,7,Feliz Navidad,349.447
+13:39,8,Tuchel,68.327
+13:39,9,ぐるナイ,27.925
+13:39,10,素のまんま,55.997
+14:09,1,クリスマス,3.986.993
+14:09,2,Merry Christmas,2.156.117
+14:09,3,VS嵐,100.068
+14:09,4,サンタさん,566.723
+14:09,5,ひなくり2020,162.774
+14:09,6,Feliz Navidad,364.655
+14:09,7,GetWellSoonTaeyong,360.986
+14:09,8,ぐるナイ,33.391
+14:09,9,Tuchel,74.478
+14:09,10,Feliz Natal,143.927
+14:39,1,クリスマス,3.816.890
+14:39,2,Merry Christmas,2.400.982
+14:39,3,VS嵐,116.931
+14:39,4,サンタさん,602.272
+14:39,5,Feliz Navidad,390.151
+14:39,6,ぐるナイ,43.870
+14:39,7,ひなくり2020,172.848
+14:39,8,Feliz Natal,157.683
+14:39,9,GetWellSoonTaeyong,368.606
+14:39,10,Tuchel,79.749
+15:09,1,クリスマス,3.709.628
+15:09,2,Merry Christmas,2.520.881
+15:09,3,VS嵐,150.590
+15:09,4,ぐるナイ,54.521
+15:09,5,ありがとう嵐,37.861
+15:09,6,サンタさん,618.980
+15:09,7,Feliz Navidad,411.226
+15:09,8,Feliz Natal,168.895
+15:09,9,ひなくり2020,176.809
+15:09,10,GetWellSoonTaeyong,374.693
+15:39,1,Merry Christmas,2.044.771
+15:39,2,クリスマス,1.719.258
+15:39,3,VS嵐最終回,63.049
+15:39,4,Feliz Navidad,443.434
+15:39,5,サンタさん,649.629
+15:39,6,ありがとう嵐,42.642
+15:39,7,ぐるナイ,56.089
+15:39,8,Feliz Natal,183.557
+15:39,9,Hobi,143.708
+15:39,10,메리크리스마스,607.194
+16:09,1,Merry Christmas,1.139.088
+16:09,2,クリスマス,1.915.993
+16:09,3,메리크리스마스,684.914
+16:09,4,Feliz Navidad,467.929
+16:09,5,サンタさん,659.393
+16:09,6,VS嵐,161.375
+16:09,7,Feliz Natal,195.716
+16:09,8,ありがとう嵐,44.648
+16:09,9,SchoolDays,47.617
+16:09,10,ぐるナイ,56.687
+16:39,1,Christmas,3.013.285
+16:39,2,메리크리스마스,784.217
+16:39,3,クリスマス,1.718.865
+16:39,4,SnowFlowerByV,191.662
+16:39,5,Feliz Navidad,504.899
+16:39,6,サンタさん,693.690
+16:39,7,vmin,87.196
+16:39,8,Feliz Natal,213.000
+16:39,9,VS嵐,163.628
+16:39,10,BrexitDeal,43.614
+17:09,1,Christmas,2.968.797
+17:09,2,메리크리스마스,829.616
+17:09,3,SnowFlowerByV,265.986
+17:09,4,クリスマス,1.808.795
+17:09,5,Feliz Navidad,529.270
+17:09,6,サンタさん,706.137
+17:09,7,vmin,110.879
+17:09,8,Feliz Natal,225.135
+17:09,9,BrexitDeal,50.078
+17:09,10,VS嵐,164.953
+17:39,1,Christmas,3.220.272
+17:39,2,메리크리스마스,861.937
+17:39,3,SnowFlowerByV,304.616
+17:39,4,クリスマス,1.901.877
+17:39,5,Feliz Navidad,565.492
+17:39,6,Feliz Natal,240.586
+17:39,7,BrexitDeal,55.271
+17:39,8,サンタさん,721.724
+17:39,9,vmin,126.228
+17:39,10,Erasmus,17.548
+18:09,1,Christmas,2.650.117
+18:09,2,메리크리스마스,881.000
+18:09,3,SnowFlowerByV,328.654
+18:09,4,Feliz Navidad,589.806
+18:09,5,クリスマス,1.971.504
+18:09,6,Feliz Natal,253.071
+18:09,7,BrexitDeal,59.934
+18:09,8,vmin,135.607
+18:09,9,サンタさん,727.771
+18:09,10,明石家サンタ,15.457
+18:39,1,Christmas,3.108.158
+18:39,2,메리크리스마스,897.500
+18:39,3,Feliz Navidad,625.232
+18:39,4,SNOWFLOWERBYV,345.621
+18:39,5,Feliz Natal,268.488
+18:39,6,クリスマス,2.022.451
+18:39,7,BrexitDeal,63.937
+18:39,8,Happy Holidays,1.035.359
+18:39,9,明石家サンタ,21.322
+18:39,10,Joyeux Noël,107.796
+19:09,1,Christmas,3.129.064
+19:09,2,Feliz Navidad,653.317
+19:09,3,메리크리스마스,908.078
+19:09,4,Feliz Natal,280.263
+19:09,5,SNOWFLOWERBYV,357.847
+19:09,6,クリスマス,2.062.603
+19:09,7,BrexitDeal,67.326
+19:09,8,Joyeux Noël,116.958
+19:09,9,明石家サンタ,29.396
+19:09,10,Happy Holidays,967.091
+19:39,1,Christmas,2.945.633
+19:39,2,Feliz Navidad,693.095
+19:39,3,메리크리스마스,917.826
+19:39,4,Feliz Natal,295.423
+19:39,5,Joyeux Noël,126.973
+19:39,6,ziyaselcukistifa,143.588
+19:39,7,SNOWFLOWERBYV,366.895
+19:39,8,クリスマス,2.092.774
+19:39,9,Happy Holidays,1.048.832
+19:39,10,BrexitDeal,70.218
+20:09,1,Christmas,2.775.660
+20:09,2,Feliz Navidad,722.961
+20:09,3,Feliz Natal,307.420
+20:09,4,Joyeux Noël,135.152
+20:09,5,ziyaselcukistifa,169.510
+20:09,6,CznBurak,
+20:09,7,메리크리스마스,923.601
+20:09,8,Happy Holidays,1.033.133
+20:09,9,SNOWFLOWERBYV,374.758
+20:09,10,BrexitDeal,72.211
+20:39,1,Christmas,2.706.087
+20:39,2,Feliz Navidad,755.857
+20:39,3,Feliz Natal,323.351
+20:39,4,Joyeux Noël,143.968
+20:39,5,ziyaselcukistifa,188.984
+20:39,6,Happy Holidays,1.076.746
+20:39,7,CznBurak,
+20:39,8,메리크리스마스,929.164
+20:39,9,Santa,819.292
+20:39,10,BrexitDeal,74.254
+21:09,1,Christmas,2.650.776
+21:09,2,Feliz Navidad,789.769
+21:09,3,Feliz Natal,336.566
+21:09,4,Joyeux Noël,150.625
+21:09,5,ziyaselcukistifa,210.489
+21:09,6,Happy Holidays,1.408.164
+21:09,7,Santa,803.041
+21:09,8,CznBurak,
+21:09,9,SergenYalçınaSorum,
+21:09,10,Erasmus,42.319
+21:39,1,Christmas,2.822.671
+21:39,2,Feliz Navidad,825.689
+21:39,3,Feliz Natal,353.815
+21:39,4,Joyeux Noël,159.201
+21:39,5,ziyaselcukistifa,228.498
+21:39,6,Happy Holidays,1.576.321
+21:39,7,DiscursoDelRey,
+21:39,8,Santa,844.486
+21:39,9,SergenYalçınaSorum,
+21:39,10,Merry Xmas,318.947
+22:09,1,Christmas,6.173.814
+22:09,2,Feliz Navidad,846.238
+22:09,3,Feliz Natal,369.067
+22:09,4,Joyeux Noël,166.255
+22:09,5,KurbanOldugum,
+22:09,6,ziyaselcukistifa,244.077
+22:09,7,BTSxRadioDEEJAY,16.117
+22:09,8,Happy Holidays,1.584.919
+22:09,9,Santa,850.428
+22:09,10,DiscursoDelRey,10.596
+22:39,1,Christmas,5.938.799
+22:39,2,Feliz Navidad,882.160
+22:39,3,Natal,1.777.791
+22:39,4,KurbanOldugum,
+22:39,5,Noël,722.742
+22:39,6,Santa,878.965
+22:39,7,Happy Holidays,1.609.914
+22:39,8,ziyaselcukistifa,257.575
+22:39,9,AmbulanslarGeçGeldi,
+22:39,10,BTSxRadioDEEJAY,18.402
+23:09,1,Christmas,3.823.653
+23:09,2,Feliz Navidad,907.482
+23:09,3,Feliz Natal,416.290
+23:09,4,Noël,734.015
+23:09,5,KurbanOldugum,10.198
+23:09,6,Santa,885.258
+23:09,7,Happy Holidays,1.617.672
+23:09,8,ziyaselcukistifa,269.516
+23:09,9,Merry Xmas,331.842
+23:09,10,ambulanslargeçgeldi,
+23:39,1,Christmas,2.016.761
+23:39,2,Feliz Navidad,948.473
+23:39,3,Feliz Natal,446.517
+23:39,4,Noël,756.478
+23:39,5,Santa,915.218
+23:39,6,KurbanOldugum,10.733
+23:39,7,Happy Holidays,1.646.129
+23:39,8,Merry Xmas,342.019
+23:39,9,ziyaselcukistifa,278.188
+23:39,10,spitimetomega,10.273

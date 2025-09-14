@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Borja,34.145
+00:10,2,Keno,
+00:10,3,capitaodopovo,163.778
+00:10,4,Giuliano,
+00:10,5,Wesley,16.751
+00:10,6,BBNaijaLevelUp,24.725
+00:10,7,VamosLaU,
+00:10,8,ConexiónHonduras14,
+00:10,9,Cano,19.510
+00:10,10,Eddie Murphy,
+00:40,1,Borja,35.686
+00:40,2,Keno,
+00:40,3,capitaodopovo,173.988
+00:40,4,Giuliano,
+00:40,5,ConexiónHonduras14,
+00:40,6,Hamlin,
+00:40,7,Wesley,17.109
+00:40,8,Eddie Murphy,
+00:40,9,BBNaijaLevelUp,25.476
+00:40,10,VamosLaU,
+01:10,1,Corinthians,105.007
+01:10,2,Fábio Santos,11.273
+01:10,3,Hulk,52.040
+01:10,4,Balbuena,
+01:10,5,Borja,36.767
+01:10,6,Keno,10.103
+01:10,7,capitaodopovo,183.172
+01:10,8,ConexiónHonduras14,
+01:10,9,Mineirão,17.779
+01:10,10,Tio Chico,
+01:40,1,Corinthians,132.908
+01:40,2,Fábio Santos,17.578
+01:40,3,Hulk,56.618
+01:40,4,Balbuena,
+01:40,5,Keno,10.442
+01:40,6,Borja,37.718
+01:40,7,capitaodopovo,191.663
+01:40,8,LosCruzados,
+01:40,9,Mineirão,21.714
+01:40,10,LUAN CITY FESTIVAL,17.848
+02:10,1,Corinthians,143.148
+02:10,2,Fábio Santos,19.152
+02:10,3,Hulk,51.277
+02:10,4,Balbuena,
+02:10,5,capitaodopovo,200.832
+02:10,6,LUAN CITY FESTIVAL,20.506
+02:10,7,LosCruzados,
+02:10,8,Keno,10.311
+02:10,9,Borja,38.289
+02:10,10,AskSNB,
+02:40,1,Corinthians,152.078
+02:40,2,RHOA,
+02:40,3,ILUNA,31.559
+02:40,4,Fábio Santos,20.149
+02:40,5,Hulk,52.876
+02:40,6,Balbuena,10.241
+02:40,7,Varela,10.001
+02:40,8,LUAN CITY FESTIVAL,23.932
+02:40,9,Marlo,
+02:40,10,Sanya,
+03:10,1,Corinthians,159.605
+03:10,2,RHOA,14.125
+03:10,3,ILUNA,50.313
+03:10,4,LUAN CITY FESTIVAL,30.329
+03:10,5,Marlo,
+03:10,6,Fábio Santos,21.172
+03:10,7,Fantastico,
+03:10,8,hulk,50.911
+03:10,9,Varela,10.914
+03:10,10,Balbuena,10.645
+03:40,1,Corinthians,164.820
+03:40,2,ILUNA,66.655
+03:40,3,RHOA,15.579
+03:40,4,HAVE A SAFE FLIGHT J-HOPE,29.755
+03:40,5,HOBIPALOOZA,16.663
+03:40,6,LUAN CITY FESTIVAL,36.772
+03:40,7,Varela,12.809
+03:40,8,Marlo,
+03:40,9,90DayFiance,
+03:40,10,Fantastico,
+04:10,1,ILUNA,84.397
+04:10,2,HOBIPALOOZA,31.049
+04:10,3,Corinthians,167.559
+04:10,4,RHOA,16.409
+04:10,5,LUAN CITY FESTIVAL,43.523
+04:10,6,Fantastico,
+04:10,7,Varela,14.488
+04:10,8,Married2Med,
+04:10,9,Tobi Amusan,13.381
+04:10,10,Marlo,
+04:40,1,ILUNA,98.046
+04:40,2,HOBIPALOOZA,38.550
+04:40,3,LaAcademiaDesafia,16.518
+04:40,4,RHOA,17.387
+04:40,5,LUAN CITY FESTIVAL,50.254
+04:40,6,Corinthians,170.300
+04:40,7,Fantastico,
+04:40,8,Tobi Amusan,17.748
+04:40,9,Varela,15.405
+04:40,10,Rubí,19.043
+05:10,1,ILUNA,112.716
+05:10,2,LaAcademiaDesafia,25.437
+05:10,3,HOBIPALOOZA,42.078
+05:10,4,RHOA,18.489
+05:10,5,LUAN CITY FESTIVAL,53.263
+05:10,6,Corinthians,168.987
+05:10,7,Fantastico,
+05:10,8,Tobi Amusan,19.842
+05:10,9,Duplantis,
+05:10,10,Varela,16.198
+05:40,1,ILUNA,124.574
+05:40,2,LaAcademiaDesafia,30.228
+05:40,3,HOBIPALOOZA,44.387
+05:40,4,カスタネット,
+05:40,5,RHOA,19.471
+05:40,6,LUAN CITY FESTIVAL,54.296
+05:40,7,FGO7周年,
+05:40,8,Tobi Amusan,21.945
+05:40,9,クラピカ,
+05:40,10,Duplantis,
+06:10,1,ILUNA,134.746
+06:10,2,LaAcademiaDesafia,35.472
+06:10,3,カスタネット,
+06:10,4,TheVoiceCHV,
+06:10,5,HOBIPALOOZA,45.992
+06:10,6,ToleranciaCero,10.959
+06:10,7,クラピカ,
+06:10,8,LUAN CITY FESTIVAL,54.963
+06:10,9,Tobi Amusan,23.911
+06:10,10,ブレスライト,
+06:40,1,LaAcademiaDesafia,46.148
+06:40,2,ILUNA,143.085
+06:40,3,カスタネット,
+06:40,4,TheVoiceCHV,
+06:40,5,ToleranciaCero,14.754
+06:40,6,HOBIPALOOZA,47.263
+06:40,7,クラピカ,
+06:40,8,Rubí,23.912
+06:40,9,Fernanda,18.971
+06:40,10,ブレスライト,
+07:10,1,LaAcademiaDesafia,48.035
+07:10,2,カスタネット,
+07:10,3,TheVoiceCHV,
+07:10,4,ILUNA,148.311
+07:10,5,ToleranciaCero,17.052
+07:10,6,FGO7周年,
+07:10,7,クラピカ,
+07:10,8,Rubí,24.725
+07:10,9,Fernanda,20.643
+07:10,10,Tobi Amusan,29.298
+07:40,1,LaAcademiaDesafia,48.863
+07:40,2,mark lee,31.491
+07:40,3,TheVoiceCHV,
+07:40,4,カスタネット,
+07:40,5,UygunFiyatlaara TTVerilir,
+07:40,6,ILUNA,152.180
+07:40,7,pazartesi,
+07:40,8,7dream,
+07:40,9,ScrewDheela,
+07:40,10,クラピカ,
+08:10,1,GetWellSoonMark,23.230
+08:10,2,7dream,12.547
+08:10,3,LaAcademiaDesafia,49.341
+08:10,4,カスタネット,
+08:10,5,MondayMotivation,43.276
+08:10,6,TheVoiceCHV,
+08:10,7,UygunFiyatlaara TTVerilir,
+08:10,8,pazartesi,
+08:10,9,TNIAD Manunggal Air,
+08:10,10,Bantu Rakyat Dimanapun,
+08:40,1,GetWellSoonMark,31.051
+08:40,2,7dream,26.971
+08:40,3,MondayMotivation,46.136
+08:40,4,カスタネット,10.197
+08:40,5,pazartesi,
+08:40,6,UygunFiyatlaara TTVerilir,
+08:40,7,LaAcademiaDesafia,49.690
+08:40,8,BisaSamaNano,
+08:40,9,Tobi Amusan,50.520
+08:40,10,markie,
+09:10,1,GetWellSoonMark,36.861
+09:10,2,MondayMotivation,49.099
+09:10,3,7dream,31.785
+09:10,4,Tobi Amusan,61.275
+09:10,5,BisaSamaNano,
+09:10,6,이마크밥먹어,
+09:10,7,Nanolympic,
+09:10,8,カスタネット,10.793
+09:10,9,共産主義テストスコア,
+09:10,10,共産主義者,
+09:40,1,GetWellSoonMark,42.031
+09:40,2,MondayMotivation,52.077
+09:40,3,Tobi Amusan,73.360
+09:40,4,7dream,35.287
+09:40,5,BisaSamaNano,
+09:40,6,Nanolympic,
+09:40,7,pazartesi,
+09:40,8,共産主義テストスコア,
+09:40,9,共産主義者,
+09:40,10,カスタネット,11.355
+10:10,1,mark lee,74.981
+10:10,2,MondayMotivation,54.650
+10:10,3,Tobi Amusan,88.522
+10:10,4,BisaSamaNano,
+10:10,5,Nanolympic,
+10:10,6,共産主義テストスコア,
+10:10,7,共産主義者,
+10:10,8,mondaythoughts,
+10:10,9,pazartesi,
+10:10,10,7dream,37.617
+10:40,1,GetWellSoonMark,50.001
+10:40,2,MondayMotivation,57.864
+10:40,3,Tobi Amusan,101.762
+10:40,4,BisaSamaNano,
+10:40,5,Nanolympic,
+10:40,6,共産主義テストスコア,
+10:40,7,共産主義者,
+10:40,8,mondaythoughts,
+10:40,9,7dream,39.515
+10:40,10,警護車両,
+11:10,1,GetWellSoonMark,53.329
+11:10,2,MondayMotivation,61.958
+11:10,3,AntalyaPTTyi SendikaYönetiyor,
+11:10,4,Tobi Amusan,112.375
+11:10,5,高橋広樹,14.356
+11:10,6,BisaSamaNano,
+11:10,7,Nanolympic,
+11:10,8,共産主義テストスコア,
+11:10,9,共産主義者,
+11:10,10,警護車両,
+11:40,1,高橋広樹,34.524
+11:40,2,MondayMotivation,64.508
+11:40,3,GetWellSoonMark,56.164
+11:40,4,Tobi Amusan,122.334
+11:40,5,AntalyaPTTyi SendikaYönetiyor,
+11:40,6,HWASAxLOCO_Somebody,
+11:40,7,警護車両,10.609
+11:40,8,SONA2022,15.070
+11:40,9,共産主義テストスコア,
+11:40,10,BisaSamaNano,
+12:10,1,高橋広樹,47.344
+12:10,2,Tobi Amusan,132.045
+12:10,3,MondayMotivation,67.155
+12:10,4,GetWellSoonMark,58.810
+12:10,5,せーので生ジョッキ缶乾杯,
+12:10,6,警護車両,13.670
+12:10,7,HWASAxLOCO_Somebody,10.273
+12:10,8,共産主義テストスコア,
+12:10,9,SONA2022,17.936
+12:10,10,共産主義者,
+12:40,1,高橋広樹,56.814
+12:40,2,東京都内,11.544
+12:40,3,SimplyCONTOURxMEW,68.869
+12:40,4,MSS ON SIMPLY KPOP,69.072
+12:40,5,Tobi Amusan,140.486
+12:40,6,日テレNEWS,
+12:40,7,KIM SEOKJIN AT VIP PREMIERE,102.203
+12:40,8,MondayMotivation,69.967
+12:40,9,XL Bersama Keluarga,
+12:40,10,WeAreMore,
+13:10,1,高橋広樹,63.652
+13:10,2,東京都内,16.123
+13:10,3,SimplyCONTOURxMEW,130.836
+13:10,4,KIM SEOKJIN AT VIP PREMIERE,133.332
+13:10,5,MSS ON SIMPLY KPOP,129.339
+13:10,6,日テレNEWS,10.027
+13:10,7,Tobi Amusan,148.284
+13:10,8,KPworldtourD2,248.247
+13:10,9,マイナビ賞受賞選手のサイン入りボール,
+13:10,10,マイナビオールスタークイズ,
+13:40,1,SimplyCONTOURxMEW,189.385
+13:40,2,ゆきむらと繋がりたい2022夏,10.378
+13:40,3,高橋広樹,69.080
+13:40,4,KPworldtourD2,279.448
+13:40,5,Scream,136.831
+13:40,6,David Warner,
+13:40,7,MSS ON SIMPLY KPOP,182.371
+13:40,8,東京都内,18.875
+13:40,9,パラライ推し診断,
+13:40,10,パラライアーテイスト,
+14:10,1,KPworldtourD2,318.021
+14:10,2,David Warner,
+14:10,3,ゆきむらと繋がりたい2022夏,18.083
+14:10,4,SimplyCONTOURxMEW,220.396
+14:10,5,Scream,146.244
+14:10,6,パラライ推し診断,
+14:10,7,高橋広樹,73.868
+14:10,8,パラライアーテイスト,
+14:10,9,MSS ON SIMPLY KPOP,209.361
+14:10,10,Eurovision,18.975
+14:40,1,KPworldtourD2,396.209
+14:40,2,David Warner,
+14:40,3,ゆきむらと繋がりたい2022夏,21.997
+14:40,4,Scream,153.805
+14:40,5,SimplyCONTOURxMEW,242.236
+14:40,6,パラライ推し診断,
+14:40,7,パラライアーテイスト,
+14:40,8,Eurovision,22.661
+14:40,9,高橋広樹,78.136
+14:40,10,Jaylen Brown,
+15:10,1,KPworldtourD2,475.836
+15:10,2,David Warner,
+15:10,3,Supreme_Court_Of_Pakistan,69.372
+15:10,4,Jaylen Brown,
+15:10,5,Eurovision,25.443
+15:10,6,パラライ推し診断,
+15:10,7,ゆきむらと繋がりたい2022夏,24.014
+15:10,8,Scream,158.901
+15:10,9,パラライアーテイスト,
+15:10,10,Celtics,18.165
+15:40,1,KPworldtourD2,567.701
+15:40,2,David Warner,12.169
+15:40,3,魔法のリノベ,10.735
+15:40,4,パラライ推し診断,
+15:40,5,Jaylen Brown,
+15:40,6,Supreme_Court_Of_Pakistan,75.885
+15:40,7,パラライアーテイスト,
+15:40,8,Celtics,21.059
+15:40,9,Eurovision,27.780
+15:40,10,FelizLunes,
+16:10,1,KPworldtourD2,666.646
+16:10,2,David Warner,14.316
+16:10,3,魔法のリノベ,15.064
+16:10,4,Celtics,23.627
+16:10,5,パラライ推し診断,
+16:10,6,Jaylen Brown,10.534
+16:10,7,パラライアーテイスト,
+16:10,8,Supreme_Court_Of_Pakistan,81.498
+16:10,9,FelizLunes,10.482
+16:10,10,Eurovision,29.619
+16:40,1,KPworldtourD2,765.437
+16:40,2,David Warner,16.493
+16:40,3,赤ナス,13.907
+16:40,4,Celtics,26.285
+16:40,5,魔法のリノベ,16.180
+16:40,6,Jaylen Brown,12.237
+16:40,7,パラライ推し診断,
+16:40,8,パラライアーテイスト,
+16:40,9,newszero,
+16:40,10,Triple H,10.714
+17:10,1,KPworldtourD2,883.871
+17:10,2,David Warner,19.045
+17:10,3,Celtics,29.203
+17:10,4,赤ナス,18.970
+17:10,5,山下美月生誕祭,
+17:10,6,Jaylen Brown,14.140
+17:10,7,山田一郎誕生祭2022,
+17:10,8,魔法のリノベ,16.751
+17:10,9,Triple H,13.313
+17:10,10,パラライアーテイスト,
+17:40,1,Celtics,34.150
+17:40,2,山下美月生誕祭,
+17:40,3,KPworldtourD2,1.005.584
+17:40,4,Jaylen Brown,17.993
+17:40,5,David Warner,21.270
+17:40,6,15Minutes,
+17:40,7,BETWEEN1and2,50.279
+17:40,8,도경수_로즈_피어난지_1주년,14.582
+17:40,9,TALK THAT TALK,131.575
+17:40,10,jihyo,28.758
+18:10,1,hobi,200.157
+18:10,2,Celtics,37.560
+18:10,3,15Minutes,17.034
+18:10,4,Jaylen Brown,21.386
+18:10,5,山下美月生誕祭,
+18:10,6,KPworldtourD2,1.141.177
+18:10,7,David Warner,23.493
+18:10,8,도경수_로즈_피어난지_1주년,19.563
+18:10,9,Empathy1stAnniversary,20.568
+18:10,10,TALK THAT TALK,136.141
+18:40,1,Hobi,226.620
+18:40,2,Celtics,40.297
+18:40,3,KPworldtourD2,1.257.478
+18:40,4,Jaylen Brown,24.049
+18:40,5,15Minutes,18.506
+18:40,6,David Warner,25.692
+18:40,7,山下美月生誕祭,
+18:40,8,Supreme_Court_Of_Pakistan,112.837
+18:40,9,도경수_로즈_피어난지_1주년,22.831
+18:40,10,TALK THAT TALK,142.617
+19:10,1,hobi,231.693
+19:10,2,Celtics,42.786
+19:10,3,KPworldtourD2,1.387.631
+19:10,4,Elbistan Festivali,
+19:10,5,Jaylen Brown,26.390
+19:10,6,David Warner,27.843
+19:10,7,15Minutes,19.941
+19:10,8,Empathy1stAnniversary,26.325
+19:10,9,消し好き,52.330
+19:10,10,도경수_로즈_피어난지_1주년,24.844
+19:40,1,hobi,237.685
+19:40,2,Celtics,45.035
+19:40,3,KPworldtourD2,1.461.640
+19:40,4,Elbistan Festivali,
+19:40,5,David Warner,29.611
+19:40,6,Jaylen Brown,28.226
+19:40,7,15Minutes,21.185
+19:40,8,HataydaKatliamVar,
+19:40,9,Empathy1stAnniversary,27.768
+19:40,10,消し好き,52.956
+20:10,1,hobi,239.054
+20:10,2,Celtics,46.535
+20:10,3,ذا_لاين,
+20:10,4,KPworldtourD2,1.516.823
+20:10,5,HataydaKatliamVar,
+20:10,6,David Warner,31.333
+20:10,7,Olimpia120,11.370
+20:10,8,Jaylen Brown,29.984
+20:10,9,Meat,70.634
+20:10,10,15Minutes,22.454
+20:40,1,FamilyMeeting,
+20:40,2,hobi,243.562
+20:40,3,HataydaKatliamVar,
+20:40,4,ذا_لاين,10.816
+20:40,5,Celtics,48.517
+20:40,6,Cumhurbaşkanımız TRTde,
+20:40,7,Meat,72.331
+20:40,8,KPworldtourD2,1.556.321
+20:40,9,Paul Sorvino,
+20:40,10,David Warner,33.109
+21:10,1,FamilyMeeting,
+21:10,2,Paul Sorvino,18.540
+21:10,3,HataydaKatliamVar,
+21:10,4,hobi,244.354
+21:10,5,Meat,71.472
+21:10,6,Goodfellas,13.479
+21:10,7,ذا_لاين,13.395
+21:10,8,Cumhurbaşkanımız TRTde,
+21:10,9,Celtics,50.079
+21:10,10,David Warner,34.994
+21:40,1,Paul Sorvino,37.151
+21:40,2,FamilyMeeting,
+21:40,3,Goodfellas,24.448
+21:40,4,Paulie,
+21:40,5,HataydaKatliamVar,11.766
+21:40,6,Meat,73.173
+21:40,7,hobi,247.497
+21:40,8,David Trimble,
+21:40,9,David Warner,36.537
+21:40,10,ذا_لاين,15.613
+22:10,1,Paul Sorvino,49.354
+22:10,2,BBCOurNextPM,
+22:10,3,Goodfellas,30.196
+22:10,4,FamilyMeeting,
+22:10,5,HataydaKatliamVar,13.477
+22:10,6,David Trimble,
+22:10,7,Meat,71.938
+22:10,8,Tozluyaka,15.728
+22:10,9,KHKlarİptal Edilsin,
+22:10,10,David Warner,37.822
+22:40,1,BBCOurNextPM,24.775
+22:40,2,Paul Sorvino,59.431
+22:40,3,Rishi,62.699
+22:40,4,Goodfellas,34.621
+22:40,5,OurNextPrimeMinister,
+22:40,6,HataydaKatliamVar,15.200
+22:40,7,FamilyMeeting,
+22:40,8,Tozluyaka,19.289
+22:40,9,David Trimble,
+22:40,10,Meat,73.625
+23:10,1,BBCOurNextPM,45.650
+23:10,2,Paul Sorvino,67.577
+23:10,3,Rishi,70.497
+23:10,4,Goodfellas,38.015
+23:10,5,OurNextPrimeMinister,
+23:10,6,LeadershipDebate,
+23:10,7,britainsnextprimeminister,
+23:10,8,HataydaKatliamVar,15.892
+23:10,9,David Trimble,
+23:10,10,Meat,72.524
+23:40,1,BBCOurNextPM,54.229
+23:40,2,Paul Sorvino,74.354
+23:40,3,Rishi,77.185
+23:40,4,Goodfellas,40.722
+23:40,5,OurNextPrimeMinister,
+23:40,6,LeadershipDebate,
+23:40,7,britainsnextprimeminister,
+23:40,8,HataydaKatliamVar,17.349
+23:40,9,David Trimble,
+23:40,10,Meat,74.237

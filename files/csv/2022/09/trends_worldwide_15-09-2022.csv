@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Haaland,166.872
+00:10,2,Cancelo,36.892
+00:10,3,JuveBenfica,24.126
+00:10,4,Asensio,30.734
+00:10,5,Valverde,64.788
+00:10,6,Ziyech,13.404
+00:10,7,AllegriOut,18.486
+00:10,8,Dortmund,88.374
+00:10,9,MCIBVB,23.757
+00:10,10,Grealish,16.894
+00:40,1,Haaland,176.271
+00:40,2,Cancelo,38.755
+00:40,3,JuveBenfica,24.722
+00:40,4,Asensio,31.926
+00:40,5,Valverde,69.121
+00:40,6,Ziyech,14.128
+00:40,7,AllegriOut,19.894
+00:40,8,MCIBVB,23.925
+00:40,9,Dortmund,89.340
+00:40,10,能見さん,
+01:10,1,Haaland,182.434
+01:10,2,Cancelo,39.634
+01:10,3,JuveBenfica,24.300
+01:10,4,Asensio,32.542
+01:10,5,Valverde,71.774
+01:10,6,Ziyech,14.518
+01:10,7,Allegri,32.945
+01:10,8,能見さん,
+01:10,9,Dortmund,89.261
+01:10,10,MCIBVB,23.291
+01:40,1,Haaland,187.813
+01:40,2,Cancelo,40.408
+01:40,3,JuveBenfica,24.454
+01:40,4,Asensio,33.252
+01:40,5,elias gomez,
+01:40,6,Valverde,73.583
+01:40,7,能見さん,
+01:40,8,Allegri,34.003
+01:40,9,Ziyech,14.878
+01:40,10,神ちゃん,12.296
+02:10,1,Haaland,191.598
+02:10,2,elias gomez,
+02:10,3,Cancelo,40.806
+02:10,4,JuveBenfica,24.592
+02:10,5,能見さん,
+02:10,6,Asensio,33.634
+02:10,7,Valverde,75.043
+02:10,8,Banfield,
+02:10,9,Patagonia,69.326
+02:10,10,嵐結成23周年,
+02:40,1,AEWDynamite,16.573
+02:40,2,River,129.718
+02:40,3,elias gomez,
+02:40,4,Haaland,194.773
+02:40,5,Martha's Vineyard,20.381
+02:40,6,Banfield,
+02:40,7,Cancelo,41.333
+02:40,8,能見さん,10.460
+02:40,9,Patagonia,75.437
+02:40,10,嵐結成23周年,
+03:10,1,AEWDynamite,24.368
+03:10,2,River,130.575
+03:10,3,Martha's Vineyard,28.638
+03:10,4,elias gomez,
+03:10,5,Haaland,197.155
+03:10,6,YetToComeReComeback,20.428
+03:10,7,YET TO COME D1,20.005
+03:10,8,FLAxSAO,14.367
+03:10,9,Banfield,
+03:10,10,MAFS,
+03:40,1,Arrascaeta,28.760
+03:40,2,Gabigol,19.543
+03:40,3,AEWDynamite,33.216
+03:40,4,Reinaldo,11.386
+03:40,5,RHOBH,14.157
+03:40,6,Martha's Vineyard,38.832
+03:40,7,Jandrei,
+03:40,8,River,135.141
+03:40,9,FLAxSAO,23.332
+03:40,10,Luciano,13.035
+04:10,1,Arrascaeta,40.901
+04:10,2,Gabigol,22.673
+04:10,3,AEWDynamite,40.796
+04:10,4,Calleri,10.819
+04:10,5,Reinaldo,12.764
+04:10,6,Martha's Vineyard,49.373
+04:10,7,RHOBH,15.586
+04:10,8,Luciano,13.640
+04:10,9,Jandrei,10.159
+04:10,10,Rodinei,
+04:40,1,Arrascaeta,47.697
+04:40,2,Flamengo,175.564
+04:40,3,Gabigol,25.772
+04:40,4,Calleri,12.568
+04:40,5,AEWDynamite,43.422
+04:40,6,Fabra,
+04:40,7,ProvaDoFazendeiro,15.359
+04:40,8,Reinaldo,13.580
+04:40,9,Martha's Vineyard,59.096
+04:40,10,Zambrano,
+05:10,1,Flamengo,226.347
+05:10,2,Arrascaeta,53.859
+05:10,3,ProvaDoFazendeiro,24.480
+05:10,4,Gabigol,32.864
+05:10,5,Calleri,13.582
+05:10,6,Bruno Henrique,14.987
+05:10,7,Martha's Vineyard,69.154
+05:10,8,Fabra,
+05:10,9,AEWDynamite,44.981
+05:10,10,TheChallengeUSA,
+05:40,1,Flamengo,249.646
+05:40,2,Arrascaeta,55.791
+05:40,3,ProvaDoFazendeiro,28.817
+05:40,4,Gabigol,38.432
+05:40,5,Martha's Vineyard,77.614
+05:40,6,Calleri,13.999
+05:40,7,Bruno Henrique,17.792
+05:40,8,Fabra,
+05:40,9,TheChallengeUSA,
+05:40,10,AEWDynamite,46.063
+06:10,1,Flamengo,261.097
+06:10,2,Arrascaeta,57.117
+06:10,3,Martha's Vineyard,84.642
+06:10,4,ProvaDoFazendeiro,30.290
+06:10,5,Gabigol,40.753
+06:10,6,EngineersDay,13.710
+06:10,7,Calleri,14.117
+06:10,8,TheChallengeUSA,
+06:10,9,Bruno Henrique,18.743
+06:10,10,Fabra,
+06:40,1,Flamengo,268.790
+06:40,2,Arrascaeta,57.802
+06:40,3,Martha's Vineyard,90.851
+06:40,4,EngineersDay,18.168
+06:40,5,ProvaDoFazendeiro,31.081
+06:40,6,VenmoMe,
+06:40,7,Gabigol,42.055
+06:40,8,TheChallengeUSA,
+06:40,9,Calleri,14.181
+06:40,10,Bruno Henrique,19.265
+07:10,1,Flamengo,272.464
+07:10,2,EngineersDay,23.863
+07:10,3,Martha's Vineyard,96.092
+07:10,4,Arrascaeta,58.220
+07:10,5,VenmoMe,
+07:10,6,ProvaDoFazendeiro,31.491
+07:10,7,ENJOY LA LALISA,90.395
+07:10,8,gabigol,42.597
+07:10,9,TheChallengeUSA,10.070
+07:10,10,Kimbrel,
+07:40,1,EngineersDay,29.307
+07:40,2,Flamengo,274.949
+07:40,3,Martha's Vineyard,99.812
+07:40,4,VenmoMe,
+07:40,5,Arrascaeta,58.469
+07:40,6,mha366,10.930
+07:40,7,ENJOY LA LALISA,121.637
+07:40,8,MHAspoilers,
+07:40,9,DMMGAMESFES2022,
+07:40,10,盛り上げの一言,
+08:10,1,EngineersDay,33.997
+08:10,2,Flamengo,275.972
+08:10,3,Martha's Vineyard,102.700
+08:10,4,VenmoMe,
+08:10,5,mha366,13.013
+08:10,6,Arrascaeta,58.648
+08:10,7,DMMGAMESFES2022,
+08:10,8,MHAspoilers,10.381
+08:10,9,盛り上げの一言,
+08:10,10,ENJOY LA LALISA,140.282
+08:40,1,EngineersDay,37.664
+08:40,2,Flamengo,276.951
+08:40,3,Martha's Vineyard,105.048
+08:40,4,VenmoMe,
+08:40,5,mha366,14.299
+08:40,6,vivoV25,
+08:40,7,EthereumMerge,654.098
+08:40,8,盛り上げの一言,
+08:40,9,Arrascaeta,58.741
+08:40,10,KCON,31.423
+09:10,1,EngineersDay,41.339
+09:10,2,EthereumMerge,661.896
+09:10,3,โหนกระแส,110.187
+09:10,4,นิ่งเฮียseries,
+09:10,5,mha366,12.417
+09:10,6,Martha's Vineyard,107.008
+09:10,7,盛り上げの一言,
+09:10,8,Flamengo,277.174
+09:10,9,KCON,32.008
+09:10,10,ENJOY LA LALISA,162.302
+09:40,1,EthereumMerge,669.824
+09:40,2,EngineersDay,45.176
+09:40,3,นิ่งเฮียseries,18.403
+09:40,4,Terim,
+09:40,5,โหนกระแส,138.092
+09:40,6,盛り上げの一言,
+09:40,7,Martha's Vineyard,108.813
+09:40,8,オナ禁エスパー,
+09:40,9,KCON,32.916
+09:40,10,Flamengo,277.708
+10:10,1,EthereumMerge,671.832
+10:10,2,EngineersDay,48.516
+10:10,3,นิ่งเฮียseries,26.806
+10:10,4,Terim,
+10:10,5,속보_질주_뮤비_선공개,
+10:10,6,オナ禁エスパー,
+10:10,7,127 ON THE HIGHEST SPEED,11.739
+10:10,8,となりのヤングジャンプ,
+10:10,9,KCON,33.347
+10:10,10,金の教室,
+10:40,1,EthereumMerge,710.633
+10:40,2,EngineersDay,51.468
+10:40,3,속보_질주_뮤비_선공개,22.122
+10:40,4,2Baddies_MV,31.559
+10:40,5,นิ่งเฮียseries,35.028
+10:40,6,127 ON THE HIGHEST SPEED,29.319
+10:40,7,オナ禁エスパー,
+10:40,8,となりのヤングジャンプ,
+10:40,9,金の教室,
+10:40,10,Amazonギフト券,292.306
+11:10,1,2Baddies_MV,56.841
+11:10,2,속보_질주_뮤비_선공개,42.877
+11:10,3,127 ON THE HIGHEST SPEED,50.662
+11:10,4,EthereumMerge,721.471
+11:10,5,EngineersDay,54.250
+11:10,6,Terim,
+11:10,7,킬링보이스,
+11:10,8,オナ禁エスパー,
+11:10,9,인간극장,
+11:10,10,CARAT,28.083
+11:40,1,2Baddies_MV,92.666
+11:40,2,속보_질주_뮤비_선공개,70.467
+11:40,3,127 ON THE HIGHEST SPEED,67.928
+11:40,4,ガイアールカイザー,
+11:40,5,jaehyun,92.816
+11:40,6,EthereumMerge,729.071
+11:40,7,Terim,
+11:40,8,킬링보이스,
+11:40,9,CARAT,29.949
+11:40,10,オナ禁エスパー,
+12:10,1,2Baddies_MV,115.507
+12:10,2,속보_질주_뮤비_선공개,87.515
+12:10,3,ガイアールカイザー,
+12:10,4,tiktokdown,
+12:10,5,127 ON THE HIGHEST SPEED,78.135
+12:10,6,jaehyun,103.547
+12:10,7,VS魂,
+12:10,8,BUMP,36.921
+12:10,9,タンクBL受け,
+12:10,10,jungwoo,44.577
+12:40,1,2Baddies_MV,130.152
+12:40,2,BUMP,54.423
+12:40,3,VS魂,13.750
+12:40,4,속보_질주_뮤비_선공개,99.388
+12:40,5,tiktokdown,
+12:40,6,ガイアールカイザー,
+12:40,7,jaehyun,112.281
+12:40,8,127 ON THE HIGHEST SPEED,85.221
+12:40,9,SPY×FAMILY,44.308
+12:40,10,タンクBL受け,
+13:10,1,2Baddies_MV,141.809
+13:10,2,BUMP,65.418
+13:10,3,VS魂,17.489
+13:10,4,속보_질주_뮤비_선공개,108.048
+13:10,5,ガイアールカイザー,
+13:10,6,tiktokdown,10.348
+13:10,7,SPY×FAMILY,55.611
+13:10,8,jaehyun,116.892
+13:10,9,127 ON THE HIGHEST SPEED,90.632
+13:10,10,スパイファミリー,
+13:40,1,BUMP,75.883
+13:40,2,2Baddies_MV,151.328
+13:40,3,クイズ国民一斉調査,15.496
+13:40,4,VS魂,18.426
+13:40,5,속보_질주_뮤비_선공개,114.988
+13:40,6,ガイアールカイザー,
+13:40,7,SPY×FAMILY,65.313
+13:40,8,jaehyun,122.827
+13:40,9,127 ON THE HIGHEST SPEED,94.810
+13:40,10,スパイファミリー,
+14:10,1,BUMP,83.484
+14:10,2,BledisloeCup,
+14:10,3,AUSvNZ,
+14:10,4,クイズ国民一斉調査,21.502
+14:10,5,2Baddies_MV,159.447
+14:10,6,VS魂,19.037
+14:10,7,SPY×FAMILY,72.452
+14:10,8,Wallabies,11.526
+14:10,9,jaehyun,125.404
+14:10,10,All Blacks,10.381
+14:40,1,BUMP,89.844
+14:40,2,Figma,14.504
+14:40,3,BledisloeCup,
+14:40,4,TKNsurpriseZeeNunew,54.916
+14:40,5,素のまんま,17.490
+14:40,6,AUSvNZL,
+14:40,7,クイズ国民一斉調査,22.147
+14:40,8,Adobe,14.734
+14:40,9,SPY×FAMILY,78.361
+14:40,10,Peder Skala,
+15:10,1,Figma,23.026
+15:10,2,Adobe,23.180
+15:10,3,六本木クラス,13.881
+15:10,4,BUMP,94.453
+15:10,5,マジック点灯,
+15:10,6,TKNsurpriseZeeNunew,88.284
+15:10,7,素のまんま,24.238
+15:10,8,BledisloeCup,
+15:10,9,モニタリング,11.311
+15:10,10,Allan Jesus,
+15:40,1,Roger Federer,16.725
+15:40,2,Figma,30.715
+15:40,3,Adobe,30.869
+15:40,4,TKNsurpriseZeeNunew,152.690
+15:40,5,おりほー,
+15:40,6,Southgate,10.403
+15:40,7,六本木クラス,15.467
+15:40,8,マジック点灯,
+15:40,9,BUMP,99.195
+15:40,10,Shaw,12.988
+16:10,1,Roger Federer,47.532
+16:10,2,Figma,37.625
+16:10,3,Adobe,36.783
+16:10,4,Laver Cup,16.187
+16:10,5,TKNsurpriseZeeNunew,208.299
+16:10,6,Southgate,13.668
+16:10,7,純愛ディソナンス,23.964
+16:10,8,おりほー,
+16:10,9,Shaw,13.666
+16:10,10,THE夜会,10.118
+16:40,1,Roger Federer,67.902
+16:40,2,Figma,44.290
+16:40,3,Adobe,42.873
+16:40,4,フェデラー,17.121
+16:40,5,Laver Cup,20.827
+16:40,6,Southgate,15.971
+16:40,7,タマミツネ希少種,18.247
+16:40,8,純愛ディソナンス,25.744
+16:40,9,Shaw,14.774
+16:40,10,Martha's Vineyard,198.162
+17:10,1,Roger Federer,85.108
+17:10,2,Figma,50.157
+17:10,3,Adobe,47.935
+17:10,4,フェデラー,22.381
+17:10,5,Laver Cup,23.797
+17:10,6,Southgate,17.737
+17:10,7,Martha's Vineyard,211.129
+17:10,8,タマミツネ希少種,23.299
+17:10,9,Tennis,150.114
+17:10,10,JENNIE,122.672
+17:40,1,Roger Federer,98.194
+17:40,2,Figma,56.093
+17:40,3,JENNIE,189.129
+17:40,4,ROSÉ,225.333
+17:40,5,JISOO,192.837
+17:40,6,Adobe,52.688
+17:40,7,LISA,607.481
+17:40,8,フェデラー,25.394
+17:40,9,Martha's Vineyard,227.856
+17:40,10,Southgate,19.371
+18:10,1,Roger Federer,109.248
+18:10,2,Figma,61.092
+18:10,3,JENNIE,221.763
+18:10,4,ROSÉ,252.893
+18:10,5,JISOO,219.015
+18:10,6,Adobe,56.855
+18:10,7,LISA,639.209
+18:10,8,Martha's Vineyard,245.747
+18:10,9,フェデラー,27.903
+18:10,10,Maguire,23.544
+18:40,1,Roger Federer,121.172
+18:40,2,Figma,66.620
+18:40,3,JENNIE,237.603
+18:40,4,ROSÉ,269.799
+18:40,5,Adobe,60.898
+18:40,6,JISOO,232.076
+18:40,7,Martha's Vineyard,263.036
+18:40,8,النصر_الباطن,46.478
+18:40,9,LISA,665.681
+18:40,10,DeSantis,345.790
+19:10,1,Roger Federer,131.396
+19:10,2,Sancho,30.112
+19:10,3,Figma,70.787
+19:10,4,Martha's Vineyard,280.985
+19:10,5,Adobe,64.377
+19:10,6,JENNIE,245.805
+19:10,7,النصر_الباطن,53.449
+19:10,8,ROSÉ,277.423
+19:10,9,DeSantis,363.947
+19:10,10,CODNext,29.449
+19:40,1,Roger Federer,140.457
+19:40,2,Sancho,41.746
+19:40,3,Figma,74.102
+19:40,4,النصر_الباطن,61.487
+19:40,5,Martha's Vineyard,298.492
+19:40,6,DeSantis,386.938
+19:40,7,CODNext,34.873
+19:40,8,Adobe,67.754
+19:40,9,JENNIE,253.386
+19:40,10,HispanicHeritageMonth,19.040
+20:10,1,Roger Federer,148.282
+20:10,2,Sancho,46.908
+20:10,3,Martha's Vineyard,316.678
+20:10,4,النصر_الباطن,69.924
+20:10,5,Figma,76.901
+20:10,6,DeSantis,408.716
+20:10,7,CODNext,39.349
+20:10,8,Viva México,31.860
+20:10,9,Adobe,70.618
+20:10,10,MWII,30.019
+20:40,1,Roger Federer,155.778
+20:40,2,Martha's Vineyard,334.497
+20:40,3,DeSantis,437.220
+20:40,4,Sancho,49.964
+20:40,5,روما,
+20:40,6,Figma,80.486
+20:40,7,Malibu Barbie,
+20:40,8,CODNext,47.781
+20:40,9,ONEPIECE1060,19.210
+20:40,10,النصر_الباطن,75.903
+21:10,1,Martha's Vineyard,353.474
+21:10,2,Roger Federer,163.322
+21:10,3,ONEPIECE1060,24.300
+21:10,4,DeSantis,462.683
+21:10,5,Malibu Barbie,11.612
+21:10,6,روما,10.415
+21:10,7,Sancho,53.576
+21:10,8,Figma,83.298
+21:10,9,Viva México,36.966
+21:10,10,CODNext,52.507
+21:40,1,Martha's Vineyard,371.234
+21:40,2,ONEPIECE1060,29.020
+21:40,3,DeSantis,
+21:40,4,Malibu Barbie,14.542
+21:40,5,RogerFederer,31.348
+21:40,6,الاتحاد_الخليج,43.059
+21:40,7,Viva México,39.845
+21:40,8,روما,11.336
+21:40,9,Figma,86.009
+21:40,10,VamosLaU,
+22:10,1,Martha's Vineyard,392.925
+22:10,2,İrfan,13.431
+22:10,3,الاتحاد_الخليج,48.908
+22:10,4,ONEPIECE1060,33.028
+22:10,5,Malibu Barbie,17.031
+22:10,6,DeSantis,511.880
+22:10,7,RENvFB,15.712
+22:10,8,Roger Federer,176.895
+22:10,9,VamosLaU,
+22:10,10,Viva México,42.175
+22:40,1,AttomsNFTCollection,
+22:40,2,Altay,11.986
+22:40,3,RENvFB,19.009
+22:40,4,Martha's Vineyard,416.125
+22:40,5,VamosLaU,
+22:40,6,İrfan,15.155
+22:40,7,ONEPIECE1060,36.954
+22:40,8,الاتحاد_الخليج,54.021
+22:40,9,DeSantis,543.293
+22:40,10,Malibu Barbie,19.378
+23:10,1,RENvFB,24.393
+23:10,2,Martha's Vineyard,440.410
+23:10,3,Altay,13.728
+23:10,4,VamosLaU,
+23:10,5,İrfan,15.403
+23:10,6,DeSantis,571.603
+23:10,7,ONEPIECE1060,40.195
+23:10,8,Malibu Barbie,21.480
+23:10,9,Dünya Lideri,13.854
+23:10,10,الاتحاد_الخليج,54.908
+23:40,1,RENvFB,27.437
+23:40,2,Martha's Vineyard,465.390
+23:40,3,Altay,15.587
+23:40,4,DeSantis,
+23:40,5,İrfan,16.327
+23:40,6,VamosLaU,
+23:40,7,Dünya Lideri,19.083
+23:40,8,ONEPIECE1060,43.474
+23:40,9,Malibu Barbie,23.358
+23:40,10,Viva México,49.906

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Rams,109.241
+00:10,2,Bahia,53.279
+00:10,3,SecretGala9,69.948
+00:10,4,XF2021,17.550
+00:10,5,Tini,22.831
+00:10,6,Veterans Day,417.103
+00:10,7,SalarioRosa,64.485
+00:10,8,Stafford,16.473
+00:10,9,David Luiz,
+00:10,10,bbcqt,
+00:41,1,Rams,114.128
+00:41,2,Bahia,65.446
+00:41,3,Rossi,26.799
+00:41,4,SecretGala9,81.093
+00:41,5,Diego Ribas,
+00:41,6,Tini,25.499
+00:41,7,Odell,71.691
+00:41,8,bbcqt,
+00:41,9,XF2021,19.291
+00:41,10,David Luiz,
+01:10,1,Rams,118.010
+01:10,2,Bahia,74.795
+01:10,3,Andreas,41.048
+01:10,4,Gabigol,52.743
+01:10,5,Rossi,28.452
+01:10,6,SecretGala9,99.693
+01:10,7,Tini,27.073
+01:10,8,Ziak,39.813
+01:10,9,Diego Ribas,
+01:10,10,VamosChile,
+01:41,1,Rams,121.846
+01:41,2,Bahia,80.946
+01:41,3,Andreas,43.142
+01:41,4,Gabigol,62.429
+01:41,5,SecretGala9,115.351
+01:41,6,Rossi,29.825
+01:41,7,VamosChile,
+01:41,8,Tini,28.855
+01:41,9,Ziak,44.204
+01:41,10,RedTaylorsVersion,266.806
+02:10,1,Bahia,83.224
+02:10,2,Rams,123.938
+02:10,3,VamosChile,
+02:10,4,SecretGala9,126.139
+02:10,5,Andreas,43.544
+02:10,6,Gabigol,69.746
+02:10,7,RedTaylorsVersion,278.348
+02:10,8,Tini,29.560
+02:10,9,Rossi,29.608
+02:10,10,Gabriel Jesus,
+02:41,1,Neymar,50.114
+02:41,2,Bahia,85.983
+02:41,3,Rams,126.269
+02:41,4,VamosChile,
+02:41,5,Station19,19.993
+02:41,6,RedTaylorsVersion,294.689
+02:41,7,Gabriel Jesus,
+02:41,8,Anitta,84.884
+02:41,9,SecretGala9,130.972
+02:41,10,Tini,31.178
+03:10,1,Neymar,62.502
+03:10,2,Gabriel Jesus,
+03:10,3,Station19,32.691
+03:10,4,Anitta,95.744
+03:10,5,Bahia,86.523
+03:10,6,RedTaylorsVersion,305.514
+03:10,7,Rams,127.948
+03:10,8,Antony,10.415
+03:10,9,Paquetá,13.270
+03:10,10,VamosChile,
+03:41,1,Neymar,81.848
+03:41,2,LAPADULA,12.725
+03:41,3,Station19,38.463
+03:41,4,Gabriel Jesus,
+03:41,5,Anitta,107.784
+03:41,6,Rueda,23.776
+03:41,7,Antony,12.243
+03:41,8,RedTaylorsVersion,319.618
+03:41,9,Ravens,37.974
+03:41,10,Dolphins,26.067
+04:10,1,Neymar,89.266
+04:10,2,EliminaçãoAFazenda,29.978
+04:10,3,Ravens,42.680
+04:10,4,Lapadula,16.504
+04:10,5,RedTaylorsVersion,330.581
+04:10,6,Dolphins,29.273
+04:10,7,Station19,41.885
+04:10,8,Anitta,114.319
+04:10,9,Rueda,25.995
+04:10,10,MeaCulpaEnTVN,
+04:41,1,EliminaçãoAFazenda,60.036
+04:41,2,Neymar,93.532
+04:41,3,Ravens,49.494
+04:41,4,Dolphins,34.419
+04:41,5,RedTaylorsVersion,346.987
+04:41,6,Lapadula,19.073
+04:41,7,MeaCulpaEnTVN,
+04:41,8,Station19,43.571
+04:41,9,Anitta,119.604
+04:41,10,Rueda,27.312
+05:10,1,Ravens,59.573
+05:10,2,Dolphins,43.388
+05:10,3,EliminaçãoAFazenda,64.526
+05:10,4,Neymar,94.841
+05:10,5,RedTaylorsVersion,362.775
+05:10,6,BALvsMIA,12.297
+05:10,7,Lapadula,21.190
+05:10,8,Lamar,34.398
+05:10,9,FinsUp,14.148
+05:10,10,FormulaOfLove,227.781
+05:41,1,Ravens,73.383
+05:41,2,Dolphins,50.150
+05:41,3,RedTaylorsVersion,388.659
+05:41,4,EliminaçãoAFazenda,66.883
+05:41,5,Neymar,96.751
+05:41,6,BALvsMIA,15.329
+05:41,7,Lamar,39.652
+05:41,8,FinsUp,16.802
+05:41,9,FormulaOfLove,256.553
+05:41,10,Lapadula,22.154
+06:10,1,RedTaylorsVersion,456.631
+06:10,2,Ravens,85.425
+06:10,3,Dolphins,58.511
+06:10,4,Spotify,985.598
+06:10,5,SCIENTIST,289.272
+06:10,6,Lamar,44.317
+06:10,7,BALvsMIA,17.642
+06:10,8,EliminaçãoAFazenda,67.977
+06:10,9,FormulaOfLove,281.751
+06:10,10,Neymar,96.518
+06:41,1,RedTaylorsVersion,587.269
+06:41,2,RedTaylorsVersion,587.269
+06:41,3,Ravens,88.795
+06:41,4,Spotify,1.061.663
+06:41,5,Dolphins,60.922
+06:41,6,SCIENTIST,369.895
+06:41,7,FormulaOfLove,354.330
+06:41,8,jake gyllenhaal,36.287
+06:41,9,Lamar,45.665
+06:41,10,FinsUp,24.614
+07:10,1,RedTaylorsVersion,677.064
+07:10,2,Ravens,90.027
+07:10,3,SCIENTIST,400.731
+07:10,4,Spotify,1.083.127
+07:10,5,Dolphins,62.038
+07:10,6,FormulaOfLove,380.343
+07:10,7,jake gyllenhaal,48.197
+07:10,8,Silk Sonic,44.946
+07:10,9,LastBreath,469.178
+07:10,10,The Last Time,106.096
+07:41,1,RedTaylorsVersion,743.369
+07:41,2,SCIENTIST,426.254
+07:41,3,Ravens,91.076
+07:41,4,jake gyllenhaal,58.778
+07:41,5,Spotify,1.100.209
+07:41,6,FormulaOfLove,402.588
+07:41,7,Dolphins,62.968
+07:41,8,Silk Sonic,49.996
+07:41,9,phoebe,28.316
+07:41,10,GIRL AT HOME,22.431
+08:10,1,RedTaylorsVersion,791.803
+08:10,2,jake gyllenhaal,66.387
+08:10,3,SCIENTIST,441.891
+08:10,4,Ravens,91.468
+08:10,5,FormulaOfLove,416.030
+08:10,6,Spotify,1.128.896
+08:10,7,Dolphins,63.267
+08:10,8,phoebe,32.978
+08:10,9,Silk Sonic,53.038
+08:10,10,GIRL AT HOME,27.595
+08:41,1,RedTaylorsVersion,828.371
+08:41,2,jake gyllenhaal,74.684
+08:41,3,SCIENTIST,457.251
+08:41,4,FormulaOfLove,429.992
+08:41,5,Ravens,91.951
+08:41,6,phoebe,35.456
+08:41,7,Spotify,1.155.875
+08:41,8,Silk Sonic,55.534
+08:41,9,Dolphins,63.755
+08:41,10,Ronan,34.772
+09:10,1,RedTaylorsVersion,848.834
+09:10,2,RedTaylorsVersion,848.834
+09:10,3,jake gyllenhaal,80.712
+09:10,4,SCIENTIST,467.220
+09:10,5,FormulaOfLove,437.806
+09:10,6,phoebe,36.948
+09:10,7,Silk Sonic,57.226
+09:10,8,Ravens,92.182
+09:10,9,Girl At Home,31.916
+09:10,10,Ronan,35.671
+09:41,1,RedTaylorsVersion,868.936
+09:41,2,jake gyllenhaal,85.558
+09:41,3,PitbullTokenMexcDe,
+09:41,4,あなたのサークル,45.082
+09:41,5,SCIENTIST,478.706
+09:41,6,FormulaOfLove,447.577
+09:41,7,Silk Sonic,58.974
+09:41,8,phoebe,38.983
+09:41,9,あなたの育ちの良さを診断,
+09:41,10,Girl At Home,33.167
+10:10,1,RedTaylorsVersion,881.858
+10:10,2,jake gyllenhaal,88.840
+10:10,3,あなたのサークル,77.979
+10:10,4,PitbullTokenMexcDe,
+10:10,5,SCIENTIST,493.140
+10:10,6,あなたの育ちの良さを診断,
+10:10,7,FormulaOfLove,457.670
+10:10,8,マナーの良さ,
+10:10,9,家族想い,
+10:10,10,Silk Sonic,60.162
+10:41,1,RedTaylorsVersion,899.482
+10:41,2,MAVERICK3rdWin,29.580
+10:41,3,AllTooWellTenMinuteVersion,48.960
+10:41,4,あなたのサークル,121.052
+10:41,5,ダイパBGM選手権,
+10:41,6,Jake gyllenhaal,92.758
+10:41,7,お気に入りのBGM,
+10:41,8,発売記念,150.903
+10:41,9,يوم_الجمعه,61.618
+10:41,10,マナーの良さ,
+11:10,1,RedTaylorsVersion,911.230
+11:10,2,MAVERICK3rdWin,40.151
+11:10,3,ダイパBGM選手権,11.443
+11:10,4,お気に入りのBGM,10.901
+11:10,5,発売記念,150.961
+11:10,6,ポケモンBDSP,17.680
+11:10,7,AllTooWellTenMinuteVersion,50.082
+11:10,8,あなたのサークル,152.732
+11:10,9,jake gyllenhaal,96.179
+11:10,10,マナーの良さ,
+11:41,1,RedTaylorsVersion,927.867
+11:41,2,ダイパBGM選手権,15.907
+11:41,3,お気に入りのBGM,15.178
+11:41,4,発売記念,159.636
+11:41,5,ポケモンBDSP,22.239
+11:41,6,MAVERICK3rdWin,44.174
+11:41,7,AllTooWellTenMinuteVersion,51.484
+11:41,8,あなたのサークル,183.703
+11:41,9,jake gyllenhaal,100.041
+11:41,10,محمد,422.308
+12:10,1,RedTaylorsVersion,938.428
+12:10,2,ダイパBGM選手権,19.947
+12:10,3,お気に入りのBGM,18.994
+12:10,4,発売記念,159.438
+12:10,5,ポケモンBDSP,25.689
+12:10,6,Mステ,32.428
+12:10,7,MAVERICK3rdWin,47.184
+12:10,8,あなたのサークル,207.655
+12:10,9,jake gyllenhaal,103.540
+12:10,10,محمد,422.532
+12:41,1,Mステ,48.612
+12:41,2,RedTaylorsVersion,953.949
+12:41,3,ダイパBGM選手権,23.338
+12:41,4,お気に入りのBGM,22.371
+12:41,5,発売記念,167.257
+12:41,6,ポケモンBDSP,29.266
+12:41,7,SB19xDunkinPH,22.740
+12:41,8,あなたのサークル,230.119
+12:41,9,メルセデス,
+12:41,10,jake gyllenhaal,107.442
+13:10,1,Mステ,71.957
+13:10,2,まほやく2周年記念特番,
+13:10,3,ダイパBGM選手権,26.144
+13:10,4,Galeazzi,
+13:10,5,RedTaylorsVersion,961.963
+13:10,6,お気に入りのBGM,25.073
+13:10,7,発売記念,167.166
+13:10,8,KinKi,10.273
+13:10,9,なにわ男子,279.545
+13:10,10,西川貴教,11.931
+13:41,1,Mステ,88.315
+13:41,2,まほやく2周年特番,46.083
+13:41,3,オリックス,63.780
+13:41,4,オリックス,63.780
+13:41,5,オリックス,63.780
+13:41,6,エウルア,31.865
+13:41,7,Galeazzi,
+13:41,8,フミ様3D,38.826
+13:41,9,金スマ,14.672
+13:41,10,西川貴教,35.767
+14:10,1,オリックス,103.114
+14:10,2,オリックス,103.114
+14:10,3,Mステ,104.143
+14:10,4,まほやく2周年特番,72.312
+14:10,5,エウルア,40.506
+14:10,6,Galeazzi,
+14:10,7,フミ様3D,52.653
+14:10,8,TREASUREWebDrama_OutNow,122.551
+14:10,9,引き分け,20.485
+14:10,10,アルベド,44.688
+14:41,1,オリックス,118.030
+14:41,2,オリックス,118.030
+14:41,3,Mステ,118.879
+14:41,4,ヤクルト,89.085
+14:41,5,まほやく2周年特番,73.077
+14:41,6,TREASUREWebDrama_OutNow,144.949
+14:41,7,TheMysteriousClass,214.909
+14:41,8,エウルア,47.006
+14:41,9,남고괴담,212.114
+14:41,10,アルベド,50.318
+15:10,1,オリックス,123.738
+15:10,2,日本シリーズ,110.696
+15:10,3,TREASUREWebDrama_OutNow,160.619
+15:10,4,TheMysteriousClass,252.361
+15:10,5,Mステ,125.017
+15:10,6,最愛ドラマ,26.557
+15:10,7,남고괴담,251.033
+15:10,8,ヤクルト,91.921
+15:10,9,エウルア,51.191
+15:10,10,アルベド,54.194
+15:41,1,オリックス,130.011
+15:41,2,日本シリーズ,117.748
+15:41,3,TheMysteriousClass,268.545
+15:41,4,TREASUREWebDrama_OutNow,168.546
+15:41,5,最愛ドラマ,31.038
+15:41,6,남고괴담,268.955
+15:41,7,DisneyPlusDay,60.685
+15:41,8,ヤクルト,95.458
+15:41,9,エウルア,55.792
+15:41,10,Albedo,150.239
+16:10,1,DisneyPlusDay,75.427
+16:10,2,オリックス,133.452
+16:10,3,日本シリーズ,121.892
+16:10,4,最愛ドラマ,32.652
+16:10,5,TheMysteriousClass,258.814
+16:10,6,TREASUREWebDrama_OutNow,173.397
+16:10,7,BadBuddySeriesEP3,76.198
+16:10,8,ヤクルト,97.006
+16:10,9,エウルア,59.144
+16:10,10,NCT 2021,
+16:41,1,NCT 2021,50.044
+16:41,2,NCT_Universe,472.144
+16:41,3,DisneyPlusDay,88.863
+16:41,4,天王寺璃奈生誕祭2021,25.636
+16:41,5,5YearsWithPurpleLoVe,60.252
+16:41,6,BadBuddySeriesEP3,88.085
+16:41,7,日本シリーズ,124.886
+16:41,8,オリックス,136.488
+16:41,9,FOREVER WITH SWEET TAEHYUNG,49.468
+16:41,10,YEAR ONE WITH CAPTAIN JUNGWON,90.971
+17:10,1,NCT 2021,236.872
+17:10,2,NCT_Universe,548.151
+17:10,3,DisneyPlusDay,103.443
+17:10,4,5YearsWithPurpleLoVe,88.069
+17:10,5,天王寺璃奈生誕祭2021,32.573
+17:10,6,태형이의선물_보라해_5주년,75.029
+17:10,7,FOREVER WITH SWEET TAEHYUNG,70.937
+17:10,8,Taylor Swift,486.135
+17:10,9,YEAR ONE WITH CAPTAIN JUNGWON,95.874
+17:10,10,日本シリーズ,126.338
+17:41,1,NCT 2021,275.366
+17:41,2,DisneyPlusDay,133.245
+17:41,3,NCT_Universe,579.901
+17:41,4,5YearsWithPurpleLoVe,107.704
+17:41,5,태형이의선물_보라해_5주년,90.070
+17:41,6,FOREVER WITH SWEET TAEHYUNG,85.677
+17:41,7,天王寺璃奈生誕祭2021,37.701
+17:41,8,Taylor Swift,500.565
+17:41,9,fatou,10.036
+17:41,10,YEAR ONE WITH CAPTAIN JUNGWON,98.832
+18:10,1,DisneyPlusDay,250.850
+18:10,2,NCT 2021,85.045
+18:10,3,5YearsWithPurpleLoVe,120.971
+18:10,4,NCT_Universe,596.809
+18:10,5,태형이의선물_보라해_5주년,99.403
+18:10,6,FOREVER WITH SWEET TAEHYUNG,95.111
+18:10,7,MyLeagueLook,
+18:10,8,Taylor Swift,507.596
+18:10,9,hoshi,80.611
+18:10,10,fatou,11.468
+18:41,1,DisneyPlusDay,304.028
+18:41,2,FreeCodeFridayContest,
+18:41,3,NCT 2021,89.626
+18:41,4,5YearsWithPurpleLoVe,131.341
+18:41,5,MyLeagueLook,
+18:41,6,NCT_Universe,609.953
+18:41,7,Moon Knight,31.370
+18:41,8,Taylor Swift,521.187
+18:41,9,FOREVER WITH SWEET TAEHYUNG,101.847
+18:41,10,hoshi,85.922
+19:10,1,DisneyPlusDay,335.513
+19:10,2,FreeCodeFridayContest,
+19:10,3,MyLeagueLook,
+19:10,4,NCT 2021,92.165
+19:10,5,5YearsWithPurpleLoVe,138.476
+19:10,6,Moon Knight,36.739
+19:10,7,eunololzinho,
+19:10,8,Taylor Swift,526.771
+19:10,9,FOREVER WITH SWEET TAEHYUNG,106.512
+19:10,10,Dani Alves,34.306
+19:41,1,DisneyPlusDay,364.847
+19:41,2,persconferentie,20.157
+19:41,3,FreeCodeFridayContest,
+19:41,4,MyLeagueLook,
+19:41,5,hamstercoinpump,
+19:41,6,Moon Knight,40.448
+19:41,7,Dolar 10,27.150
+19:41,8,NCT 2021,331.642
+19:41,9,Taylor Swift,536.446
+19:41,10,Dani Alves,39.288
+20:10,1,Dolar 10,38.815
+20:10,2,DisneyPlusDay,380.634
+20:10,3,persconferentie,22.859
+20:10,4,MyLeagueLook,
+20:10,5,FreeCodeFridayContest,
+20:10,6,SözYetenekte,
+20:10,7,Albania,24.114
+20:10,8,Moon Knight,42.952
+20:10,9,Taylor Swift,538.047
+20:10,10,Dani Alves,42.716
+20:41,1,Dolar 10,50.734
+20:41,2,DisneyPlusDay,397.308
+20:41,3,MyLeagueLook,
+20:41,4,persconferentie,25.313
+20:41,5,FreeCodeFridayContest,
+20:41,6,BrazilGP,50.370
+20:41,7,Albania,25.673
+20:41,8,Moon Knight,45.163
+20:41,9,Adalet Bakanı,
+20:41,10,Taylor Swift,548.033
+21:10,1,Dolar 10,59.013
+21:10,2,ItaliaSvizzera,
+21:10,3,BrazilGP,56.754
+21:10,4,FreeCodeFridayContest,
+21:10,5,DisneyPlusDay,408.949
+21:10,6,Albania,28.381
+21:10,7,MyLeagueLook,
+21:10,8,Adalet Bakanı,
+21:10,9,Hamilton,44.464
+21:10,10,Dani Alves,52.421
+21:41,1,Dolar 10,67.951
+21:41,2,Albania,33.901
+21:41,3,FreeCodeFridayContest,
+21:41,4,ItaliaSvizzera,13.953
+21:41,5,Kane,38.481
+21:41,6,Dani Alves,67.743
+21:41,7,ottoemezzo,10.743
+21:41,8,BrazilGP,62.741
+21:41,9,ANDPOL,
+21:41,10,Hamilton,49.865
+22:10,1,Albania,37.255
+22:10,2,Dolar 10,74.182
+22:10,3,FreeCodeFridayContest,
+22:10,4,ItaliaSvizzera,16.911
+22:10,5,Dani Alves,76.428
+22:10,6,Kane,43.459
+22:10,7,DALS,
+22:10,8,ottoemezzo,14.440
+22:10,9,ANDPOL,
+22:10,10,Steve Bannon,48.051
+22:41,1,ItaliaSvizzera,23.886
+22:41,2,Albania,39.769
+22:41,3,FreeCodeFridayContest,
+22:41,4,DALS,13.400
+22:41,5,Dolar 10,79.071
+22:41,6,Dani Alves,83.501
+22:41,7,Steve Bannon,84.037
+22:41,8,Kane,46.018
+22:41,9,ANDPOL,
+22:41,10,Los40MusicAwards2021,11.387
+23:10,1,ItaliaSvizzera,28.361
+23:10,2,DALS,17.716
+23:10,3,Albania,42.008
+23:10,4,Steve Bannon,108.368
+23:10,5,FreeCodeFridayContest,10.288
+23:10,6,Dani Alves,88.650
+23:10,7,Dolar 10,82.508
+23:10,8,Los40MusicAwards2021,15.220
+23:10,9,Kane,47.014
+23:10,10,Delia,13.710
+23:41,1,Britney,183.714
+23:41,2,ItaliaSvizzera,29.290
+23:41,3,DALS,24.030
+23:41,4,Bannon,230.142
+23:41,5,Albania,43.446
+23:41,6,FreeCodeFridayContest,10.426
+23:41,7,Dani Alves,93.177
+23:41,8,Los40MusicAwards2021,18.112
+23:41,9,Dolar 10,85.350
+23:41,10,TCMS2,

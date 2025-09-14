@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Texas,558.902
+00:10,2,Sandy Hook,68.843
+00:10,3,GunControlNow,14.692
+00:10,4,EndGunViolence,11.367
+00:10,5,Greg Abbott,63.756
+00:10,6,SGDFCK,
+00:10,7,Columbine,12.766
+00:10,8,TierraDeNadie4,
+00:10,9,Elementary,362.261
+00:10,10,Guns,233.628
+00:40,1,Texas,674.762
+00:40,2,Texas,674.762
+00:40,3,Sandy Hook,94.860
+00:40,4,GunControlNow,18.041
+00:40,5,EndGunViolence,13.575
+00:40,6,Columbine,19.707
+00:40,7,Guns,304.278
+00:40,8,DO SOMETHING,185.107
+00:40,9,TierraDeNadie4,
+00:40,10,Salvador Ramos,14.858
+01:10,1,Texas,770.374
+01:10,2,Texas,770.374
+01:10,3,America,542.167
+01:10,4,Sandy Hook,117.620
+01:10,5,GunControlNow,20.533
+01:10,6,EndGunViolence,15.442
+01:10,7,Columbine,25.650
+01:10,8,DO SOMETHING,195.138
+01:10,9,Guns,366.490
+01:10,10,2nd Amendment,21.049
+01:40,1,Texas,865.413
+01:40,2,Texas,865.413
+01:40,3,Texas,865.413
+01:40,4,America,576.681
+01:40,5,Sandy Hook,138.482
+01:40,6,GunControlNow,22.638
+01:40,7,Columbine,31.747
+01:40,8,EndGunViolence,16.958
+01:40,9,DO SOMETHING,210.398
+01:40,10,Guns,425.510
+02:10,1,Texas,967.650
+02:10,2,Texas,967.650
+02:10,3,America,593.267
+02:10,4,Sandy Hook,159.810
+02:10,5,GunControlNow,25.783
+02:10,6,Steve Kerr,31.712
+02:10,7,Columbine,38.123
+02:10,8,Guns,487.921
+02:10,9,DO SOMETHING,231.212
+02:10,10,EndGunViolence,18.846
+02:40,1,Texas,1.084.953
+02:40,2,America,627.722
+02:40,3,Sandy Hook,183.216
+02:40,4,GunControlNow,29.988
+02:40,5,Steve Kerr,73.293
+02:40,6,Columbine,44.682
+02:40,7,DO SOMETHING,257.826
+02:40,8,Guns,552.382
+02:40,9,EndGunViolence,21.242
+02:40,10,gunreformnow,
+03:10,1,Texas,1.208.670
+03:10,2,America,646.392
+03:10,3,Sandy Hook,204.659
+03:10,4,Steve Kerr,112.190
+03:10,5,GunControlNow,34.227
+03:10,6,Columbine,50.582
+03:10,7,Marinho,
+03:10,8,DO SOMETHING,276.333
+03:10,9,Guns,614.943
+03:10,10,GunReformNow,
+03:40,1,Texas,1.315.618
+03:40,2,Texas,1.315.618
+03:40,3,America,679.773
+03:40,4,Steve Kerr,144.329
+03:40,5,Sandy Hook,224.215
+03:40,6,GunControlNow,37.914
+03:40,7,ThisIsUs,18.891
+03:40,8,Marinho,
+03:40,9,DO SOMETHING,297.519
+03:40,10,Columbine,56.338
+04:10,1,Texas,1.403.849
+04:10,2,Texas,1.403.849
+04:10,3,Steve Kerr,174.737
+04:10,4,America,693.105
+04:10,5,Sandy Hook,241.777
+04:10,6,GunControlNow,41.873
+04:10,7,ThisIsUs,26.685
+04:10,8,Marinho,11.450
+04:10,9,Dourado,10.130
+04:10,10,Scarpa,
+04:40,1,Hugo,88.797
+04:40,2,Texas,1.502.129
+04:40,3,Texas,1.502.129
+04:40,4,Flamengo,111.705
+04:40,5,Steve Kerr,201.987
+04:40,6,America,721.866
+04:40,7,GunControlNow,45.731
+04:40,8,Sandy Hook,256.914
+04:40,9,ThisIsUs,31.056
+04:40,10,Rodinei,
+05:10,1,Hugo,93.065
+05:10,2,Texas,1.485.052
+05:10,3,Texas,1.485.052
+05:10,4,Steve Kerr,227.010
+05:10,5,Flamengo,120.690
+05:10,6,America,734.975
+05:10,7,GunControlNow,49.305
+05:10,8,NoLimite,
+05:10,9,Sandy Hook,270.373
+05:10,10,ThisIsUs,32.769
+05:40,1,Hugo,95.583
+05:40,2,Texas,1.313.882
+05:40,3,Texas,1.313.882
+05:40,4,Steve Kerr,248.032
+05:40,5,Flamengo,125.943
+05:40,6,America,740.999
+05:40,7,GunControlNow,52.113
+05:40,8,NoLimite,
+05:40,9,Sandy Hook,282.612
+05:40,10,MasterChefBR,
+06:10,1,Texas,1.357.590
+06:10,2,Texas,1.357.590
+06:10,3,Hugo,94.954
+06:10,4,Steve Kerr,265.796
+06:10,5,America,769.084
+06:10,6,Flamengo,127.894
+06:10,7,GunControlNow,54.543
+06:10,8,Sandy Hook,292.392
+06:10,9,Mike Smith,
+06:10,10,NoLimite,
+06:40,1,Texas,1.405.617
+06:40,2,Texas,1.405.617
+06:40,3,Hugo,95.875
+06:40,4,Steve Kerr,279.418
+06:40,5,America,788.930
+06:40,6,GunControlNow,56.701
+06:40,7,Mike Smith,
+06:40,8,Flamengo,129.507
+06:40,9,Sandy Hook,302.408
+06:40,10,NoLimite,
+07:10,1,Texas,1.470.210
+07:10,2,Texas,1.470.210
+07:10,3,Hugo,95.541
+07:10,4,Steve Kerr,291.753
+07:10,5,America,780.912
+07:10,6,GunControlNow,58.907
+07:10,7,Mike Smith,
+07:10,8,Sandy Hook,311.388
+07:10,9,Flamengo,129.852
+07:10,10,WelcomeToBrazilLouis,19.748
+07:40,1,Texas,1.489.144
+07:40,2,Texas,1.489.144
+07:40,3,Hugo,96.137
+07:40,4,Steve Kerr,301.755
+07:40,5,America,815.268
+07:40,6,Mets,39.545
+07:40,7,GunControlNow,60.702
+07:40,8,ポップUP,17.498
+07:40,9,Giants,65.808
+07:40,10,Mike Smith,
+08:10,1,Texas,1.515.338
+08:10,2,Steve Kerr,311.225
+08:10,3,America,822.987
+08:10,4,Mets,41.427
+08:10,5,Hugo,95.838
+08:10,6,Uvalde,242.925
+08:10,7,GunControlNow,61.989
+08:10,8,Giants,66.259
+08:10,9,Joc Pederson,
+08:10,10,KinnPorschexFarger,38.652
+08:40,1,Texas,1.544.482
+08:40,2,Steve Kerr,320.463
+08:40,3,America,836.223
+08:40,4,Uvalde,253.506
+08:40,5,Mets,41.991
+08:40,6,Hugo,96.369
+08:40,7,GunControlNow,63.367
+08:40,8,KinnPorschexFarger,54.211
+08:40,9,Giants,67.224
+08:40,10,Joc Pederson,
+09:10,1,Texas,1.508.771
+09:10,2,Steve Kerr,329.817
+09:10,3,America,842.854
+09:10,4,Uvalde,262.505
+09:10,5,Hugo,95.898
+09:10,6,AfricaDay,
+09:10,7,GunControlNow,64.563
+09:10,8,KinnPorschexFarger,63.336
+09:10,9,Mets,41.915
+09:10,10,LongMarch,27.374
+09:40,1,Texas,1.554.022
+09:40,2,LongMarch,38.548
+09:40,3,AfricaDay,
+09:40,4,Steve Kerr,338.733
+09:40,5,America,854.298
+09:40,6,Uvalde,270.862
+09:40,7,AV禁止,
+09:40,8,GunControlNow,65.655
+09:40,9,WelcomeMarkBamBamToThailand,170.455
+09:40,10,Mets,42.245
+10:10,1,LongMarch,50.142
+10:10,2,Texas,96.830
+10:10,3,AfricaDay,
+10:10,4,AV禁止,
+10:10,5,CheckChooseCuan,
+10:10,6,America,842.823
+10:10,7,Steve Kerr,346.839
+10:10,8,Nyala,
+10:10,9,İstibdatBitecekAzKaldı,
+10:10,10,立憲民主党,11.826
+10:40,1,LongMarch,62.208
+10:40,2,AfricaDay2022,
+10:40,3,AV禁止,10.625
+10:40,4,Texas,99.695
+10:40,5,America,869.578
+10:40,6,İstibdatBitecekAzKaldı,
+10:40,7,CongratsPresidentBBM,20.533
+10:40,8,KDLEX MISTERYO MV,71.868
+10:40,9,立憲民主党,14.439
+10:40,10,Steve Kerr,354.569
+11:10,1,LongMarch,73.607
+11:10,2,AV禁止,15.084
+11:10,3,AfricaDay,10.258
+11:10,4,立憲民主党,17.289
+11:10,5,Texas,102.526
+11:10,6,CongratsPresidentBBM,23.552
+11:10,7,sessizistila,
+11:10,8,KDLEX MISTERYO MV,77.301
+11:10,9,America,855.578
+11:10,10,Steve Kerr,361.545
+11:40,1,LongMarch,88.907
+11:40,2,AV禁止,19.253
+11:40,3,AfricaDay,11.754
+11:40,4,立憲民主党,20.539
+11:40,5,HesIntoHerS2E6,40.705
+11:40,6,ベイちゃんラジオ出演,
+11:40,7,sessizistila,
+11:40,8,Texas,1.968.114
+11:40,9,ツングースカ,
+11:40,10,KDLEX MISTERYO MV,81.405
+12:10,1,LongMarch,103.897
+12:10,2,AV禁止,24.129
+12:10,3,AfricaDay,13.376
+12:10,4,HesIntoHerS2E6,66.206
+12:10,5,立憲民主党,24.052
+12:10,6,filmthedoll3,
+12:10,7,sessizistila,
+12:10,8,Bobby di Bioskop,
+12:10,9,ツングースカ,
+12:10,10,テレビの殺人シーン,
+12:40,1,LongMarch,118.483
+12:40,2,CandySugarPop2ndWin,20.323
+12:40,3,AV禁止,29.146
+12:40,4,AfricaDay,14.921
+12:40,5,有吉の壁,
+12:40,6,TexasSchoolMassacre,13.581
+12:40,7,立憲民主党,27.515
+12:40,8,Bobby di Bioskop,
+12:40,9,ツングースカ,
+12:40,10,HIH2 CELEBRATION,43.563
+13:10,1,プロセカ生放送,
+13:10,2,CandySugarPop2ndWin,33.164
+13:10,3,SueGrayReport,19.831
+13:10,4,LongMarch,131.387
+13:10,5,AV禁止,34.005
+13:10,6,AfricaDay,16.397
+13:10,7,平成生まれ,
+13:10,8,立憲民主党,30.465
+13:10,9,MEW X SNAILWHITE,30.702
+13:10,10,HIH2 CELEBRATION,57.024
+13:40,1,PMQs,15.351
+13:40,2,プロセカ生放送,69.869
+13:40,3,SueGrayReport,23.595
+13:40,4,LongMarch,146.546
+13:40,5,CandySugarPop2ndWin,42.283
+13:40,6,AV禁止,39.105
+13:40,7,平成生まれ,
+13:40,8,阿吽のビーツ,
+13:40,9,ヴァンパイア,11.761
+13:40,10,MEW X SNAILWHITE,64.625
+14:10,1,PMQs,23.661
+14:10,2,SueGrayReport,27.997
+14:10,3,プロセカ生放送,129.083
+14:10,4,FELIPBulanMVTeaser,18.780
+14:10,5,平成生まれ,
+14:10,6,LongMarch,160.804
+14:10,7,AV禁止,43.366
+14:10,8,阿吽のビーツ,13.132
+14:10,9,ネット文化クイズ,
+14:10,10,インターネットの申し子,
+14:40,1,PMQs,28.317
+14:40,2,FELIPBulanMVTeaser,49.309
+14:40,3,SueGrayReport,31.898
+14:40,4,平成生まれ,
+14:40,5,プロセカ生放送,156.752
+14:40,6,TexasSchoolMassacre,21.924
+14:40,7,わしほー,
+14:40,8,AV禁止,46.856
+14:40,9,ネット文化クイズ,
+14:40,10,阿吽のビーツ,15.245
+15:10,1,PMQs,31.511
+15:10,2,YasinMalik,49.031
+15:10,3,FELIPBulanMVTeaser,68.711
+15:10,4,平成生まれ,
+15:10,5,SueGrayReport,33.635
+15:10,6,TexasSchoolMassacre,24.214
+15:10,7,すわほー,
+15:10,8,ネット文化クイズ,
+15:10,9,インターネットの申し子,
+15:10,10,AV禁止,50.396
+15:40,1,平成生まれ,11.239
+15:40,2,YasinMalik,59.463
+15:40,3,ナンバMG5,24.815
+15:40,4,PMQs,33.683
+15:40,5,FELIPBulanMVTeaser,81.477
+15:40,6,Kate Moss,23.053
+15:40,7,TexasSchoolMassacre,26.573
+15:40,8,ネット文化クイズ,
+15:40,9,インターネットの申し子,
+15:40,10,アラフォー,
+16:10,1,ナンバMG5,34.883
+16:10,2,平成生まれ,13.193
+16:10,3,YasinMalik,69.293
+16:10,4,Kate Moss,31.593
+16:10,5,水曜日のダウンタウン,
+16:10,6,FELIPBulanMVTeaser,88.814
+16:10,7,TexasSchoolMassacre,28.763
+16:10,8,ネット文化クイズ,
+16:10,9,Patria,140.574
+16:10,10,インターネットの申し子,
+16:40,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,89.349
+16:40,2,7GoingOn70WithSVT,88.179
+16:40,3,SEVENTEEN'S 7TH ANNIVERSARY,85.115
+16:40,4,平成生まれ,15.034
+16:40,5,YasinMalik,78.281
+16:40,6,ナンバMG5,36.711
+16:40,7,Kate Moss,39.097
+16:40,8,25deMayo,14.901
+16:40,9,Patria,152.042
+16:40,10,ネット文化クイズ,
+17:10,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,173.266
+17:10,2,7GoingOn70WithSVT,169.677
+17:10,3,SEVENTEEN'S 7TH ANNIVERSARY,176.531
+17:10,4,SVT_7th_Anniversary,50.144
+17:10,5,SecretWeaponYejiDay,38.964
+17:10,6,平成生まれ,16.517
+17:10,7,스윗리틀키티_예지야_생일축하해,38.276
+17:10,8,Kate Moss,46.074
+17:10,9,Happy 7th,55.358
+17:10,10,Viva la Patria,29.297
+17:40,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,205.277
+17:40,2,7GoingOn70WithSVT,201.036
+17:40,3,SEVENTEEN'S 7TH ANNIVERSARY,207.279
+17:40,4,SVT_7th_Anniversary,80.225
+17:40,5,SecretWeaponYejiDay,54.550
+17:40,6,JO1ANNX,46.554
+17:40,7,Happy 7th,83.870
+17:40,8,平成生まれ,17.706
+17:40,9,Kate Moss,51.461
+17:40,10,Viva la Patria,32.629
+18:10,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,219.521
+18:10,2,7GoingOn70WithSVT,215.522
+18:10,3,SEVENTEEN'S 7TH ANNIVERSARY,219.254
+18:10,4,SVT_7th_Anniversary,91.070
+18:10,5,JO1ANNX,72.112
+18:10,6,ProofPreParty,35.911
+18:10,7,Happy 7th,95.072
+18:10,8,平成生まれ,18.513
+18:10,9,Kate Moss,55.187
+18:10,10,Viva la Patria,34.983
+18:40,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,235.016
+18:40,2,7GoingOn70WithSVT,231.252
+18:40,3,SEVENTEEN'S 7TH ANNIVERSARY,230.171
+18:40,4,RCBVSLSG,17.589
+18:40,5,SVT_7th_Anniversary,98.870
+18:40,6,ProofPreParty,41.651
+18:40,7,Rajat Patidar,18.117
+18:40,8,Happy 7th,104.387
+18:40,9,AR-15,167.068
+18:40,10,Viva la Patria,38.183
+19:10,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,245.027
+19:10,2,7GoingOn70WithSVT,241.510
+19:10,3,SEVENTEEN'S 7TH ANNIVERSARY,237.872
+19:10,4,RCBVSLSG,21.387
+19:10,5,SVT_7th_Anniversary,104.090
+19:10,6,Rajat Patidar,27.106
+19:10,7,ProofPreParty,45.868
+19:10,8,Peter Obi,138.978
+19:10,9,AR-15,179.184
+19:10,10,Brandy,
+19:40,1,세븐틴의7주년_앞으로도_꼬잉꼬잉,251.770
+19:40,2,7GoingOn70WithSVT,248.466
+19:40,3,Peter Obi,164.370
+19:40,4,SEVENTEEN'S 7TH ANNIVERSARY,242.549
+19:40,5,RCBVSLSG,23.304
+19:40,6,SVT_7th_Anniversary,107.777
+19:40,7,Brandy,10.764
+19:40,8,AR-15,188.609
+19:40,9,Rajat Patidar,30.353
+19:40,10,ProofPreParty,47.558
+20:10,1,Beto,163.279
+20:10,2,세븐틴의7주년_앞으로도_꼬잉꼬잉,255.859
+20:10,3,7GoingOn70WithSVT,252.754
+20:10,4,Peter Obi,183.529
+20:10,5,RCBVSLSG,25.403
+20:10,6,SEVENTEEN'S 7TH ANNIVERSARY,245.564
+20:10,7,Brandy,12.044
+20:10,8,Alcaraz,11.098
+20:10,9,SVT_7th_Anniversary,110.092
+20:10,10,AR-15,199.094
+20:40,1,Beto,247.862
+20:40,2,Peter Obi,204.984
+20:40,3,세븐틴의7주년_앞으로도_꼬잉꼬잉,258.805
+20:40,4,Alcaraz,19.261
+20:40,5,7GoingOn70WithSVT,255.699
+20:40,6,RCBVSLSG,28.176
+20:40,7,MajorNoMaracana,
+20:40,8,Brandy,13.537
+20:40,9,AR-15,208.828
+20:40,10,SEVENTEEN'S 7TH ANNIVERSARY,247.719
+21:10,1,Beto,312.138
+21:10,2,Peter Obi,216.526
+21:10,3,RCBVSLSG,36.131
+21:10,4,Alcaraz,20.823
+21:10,5,세븐틴의7주년_앞으로도_꼬잉꼬잉,260.858
+21:10,6,7GoingOn70WithSVT,257.845
+21:10,7,UECLfinal,30.610
+21:10,8,RomaFeyenoord,13.039
+21:10,9,AR-15,217.509
+21:10,10,Brandy,14.594
+21:40,1,Beto,368.552
+21:40,2,Peter Obi,232.043
+21:40,3,UECLfinal,37.295
+21:40,4,RomaFeyenoord,17.297
+21:40,5,RCBVSLSG,40.155
+21:40,6,Alcaraz,21.961
+21:40,7,romfey,
+21:40,8,AR-15,226.562
+21:40,9,세븐틴의7주년_앞으로도_꼬잉꼬잉,262.456
+21:40,10,Brandy,15.882
+22:10,1,Beto,416.570
+22:10,2,RomaFeyenoord,20.642
+22:10,3,UECLfinal,43.538
+22:10,4,Peter Obi,242.517
+22:10,5,RCBVSLSG,41.601
+22:10,6,romfey,
+22:10,7,AR-15,234.099
+22:10,8,Zaniolo,
+22:10,9,Brandy,17.120
+22:10,10,Alcaraz,22.783
+22:40,1,Beto,458.067
+22:40,2,UECLfinal,50.216
+22:40,3,Roma,126.609
+22:40,4,sadakatsizveda,
+22:40,5,SLVMFashionWeek,
+22:40,6,Peter Obi,255.151
+22:40,7,romfey,
+22:40,8,rui patricio,
+22:40,9,chilhavisto,
+22:40,10,AR-15,241.959
+23:10,1,Mourinho,106.348
+23:10,2,Beto,493.841
+23:10,3,Roma,167.428
+23:10,4,UECLfinal,62.500
+23:10,5,romfey,12.263
+23:10,6,SLVMFashionWeek,12.440
+23:10,7,The Special One,27.301
+23:10,8,Smalling,
+23:10,9,sadakatsizveda,
+23:10,10,ConferenceLeague,
+23:40,1,Mourinho,169.351
+23:40,2,Roma,208.371
+23:40,3,Beto,534.490
+23:40,4,UECLfinal,76.388
+23:40,5,romfey,13.147
+23:40,6,The Special One,34.954
+23:40,7,SLVMFashionWeek,16.538
+23:40,8,ConferenceLeague,
+23:40,9,Smalling,
+23:40,10,sadakatsizveda,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaziovGS,39.922
+00:10,2,XF2021,35.887
+00:10,3,Elysee2022,76.344
+00:10,4,unprofessore,80.081
+00:10,5,PMSFANDUELFAMILY,36.926
+00:10,6,Payet,
+00:10,7,Baltimora,
+00:10,8,Esteban Bullrich,23.461
+00:10,9,Son 16,15.769
+00:10,10,Kyogo,
+00:40,1,SecretGala13,38.225
+00:40,2,LaziovGS,40.348
+00:40,3,XF2021,37.184
+00:40,4,JussieSmollett,10.075
+00:40,5,Elysee2022,83.405
+00:40,6,世良さん,
+00:40,7,世良公則,
+00:40,8,Esteban Bullrich,25.506
+00:40,9,Julen,25.098
+00:40,10,Guilty,118.628
+01:10,1,JussieSmollett,16.992
+01:10,2,SecretGala13,46.531
+01:10,3,LaziovGS,40.479
+01:10,4,XF2021,37.309
+01:10,5,Elysee2022,87.891
+01:10,6,世良さん,
+01:10,7,Fnatic,25.129
+01:10,8,ボーナス,202.884
+01:10,9,Julen,26.884
+01:10,10,Esteban Bullrich,27.211
+01:40,1,TheGameAwards,49.918
+01:40,2,JussieSmollett,23.060
+01:40,3,SecretGala13,55.627
+01:40,4,AndJustLikeThat,32.735
+01:40,5,LaziovGS,40.639
+01:40,6,troye,
+01:40,7,Cowboy Bebop,12.520
+01:40,8,世良さん,
+01:40,9,ボーナス,209.733
+01:40,10,YEJI,35.588
+02:10,1,TheGameAwards,69.124
+02:10,2,gremio,110.119
+02:10,3,Bahia,43.425
+02:10,4,Diego Souza,
+02:10,5,JussieSmollett,27.940
+02:10,6,SecretGala13,64.986
+02:10,7,Fortaleza,28.079
+02:10,8,AndJustLikeThat,33.940
+02:10,9,Have a Nice Death,
+02:10,10,Rodriguinho,
+02:40,1,TheGameAwards,107.063
+02:40,2,gremio,127.994
+02:40,3,Bahia,51.646
+02:40,4,ALAN,99.815
+02:40,5,Fortaleza,35.246
+02:40,6,Diego Souza,
+02:40,7,Quantic Dream,11.564
+02:40,8,JussieSmollett,32.002
+02:40,9,Juventude,22.667
+02:40,10,Star Wars Eclipse,
+03:10,1,TheGameAwards,145.468
+03:10,2,gremio,137.485
+03:10,3,Claypool,
+03:10,4,EsLaHoraDeKast,74.026
+03:10,5,Bahia,54.742
+03:10,6,ALAN,106.901
+03:10,7,Fortaleza,39.024
+03:10,8,Quantic Dream,15.780
+03:10,9,Juventude,25.035
+03:10,10,Igor Gomes,
+03:40,1,TheGameAwards,201.757
+03:40,2,gremio,234.667
+03:40,3,Juventude,56.372
+03:40,4,Corinthians,131.146
+03:40,5,Steelers,59.893
+03:40,6,Fortaleza,50.782
+03:40,7,Borja,12.033
+03:40,8,Cássio,15.138
+03:40,9,Sonic,170.651
+03:40,10,EsLaHoraDeKast,102.059
+04:10,1,gremio,338.555
+04:10,2,TheGameAwards,248.352
+04:10,3,Juventude,68.248
+04:10,4,Corinthians,146.582
+04:10,5,Steelers,73.311
+04:10,6,Fortaleza,62.434
+04:10,7,Cássio,19.130
+04:10,8,Sonic,187.855
+04:10,9,Farid,13.523
+04:10,10,EsLaHoraDeKast,131.901
+04:40,1,TheGameAwards,292.985
+04:40,2,gremio,371.442
+04:40,3,Steelers,84.602
+04:40,4,Juventude,72.492
+04:40,5,Corinthians,156.155
+04:40,6,EliminaçãoAFazenda,43.799
+04:40,7,Fortaleza,66.637
+04:40,8,Big Ben,14.089
+04:40,9,Lakers,48.974
+04:40,10,CandidatoLlegoTuHora,275.106
+05:10,1,TheGameAwards,333.078
+05:10,2,Steelers,95.815
+05:10,3,gremio,385.723
+05:10,4,Juventude,74.186
+05:10,5,Vikings,64.251
+05:10,6,EliminaçãoAFazenda,47.972
+05:10,7,Corinthians,157.400
+05:10,8,Fortaleza,68.525
+05:10,9,Big Ben,16.004
+05:10,10,Lakers,52.323
+05:40,1,TheGameAwards,370.918
+05:40,2,Steelers,105.036
+05:40,3,It Takes Two,41.767
+05:40,4,Vikings,73.335
+05:40,5,gremio,394.814
+05:40,6,Bahia,104.620
+05:40,7,Demaryius Thomas,26.665
+05:40,8,EliminaçãoAFazenda,49.940
+05:40,9,GOTY,26.697
+05:40,10,Juventude,75.397
+06:10,1,TheGameAwards,385.694
+06:10,2,Steelers,117.358
+06:10,3,Vikings,82.739
+06:10,4,It Takes Two,45.160
+06:10,5,Demaryius Thomas,50.281
+06:10,6,gremio,399.585
+06:10,7,Claypool,28.366
+06:10,8,Big Ben,18.526
+06:10,9,RIP DT,
+06:10,10,GOTY,28.798
+06:40,1,TheGameAwards,397.233
+06:40,2,Steelers,121.000
+06:40,3,It Takes Two,47.515
+06:40,4,Demaryius Thomas,72.062
+06:40,5,Vikings,85.191
+06:40,6,RIP DT,11.103
+06:40,7,Claypool,32.700
+06:40,8,gremio,402.661
+06:40,9,Big Ben,18.948
+06:40,10,GOTY,30.327
+07:10,1,Kanye,104.265
+07:10,2,TheGameAwards,406.064
+07:10,3,Steelers,122.435
+07:10,4,FreeLarryHoover,17.800
+07:10,5,Demaryius Thomas,89.278
+07:10,6,It Takes Two,48.397
+07:10,7,Vikings,86.277
+07:10,8,RIP DT,13.344
+07:10,9,Carmen Salinas,10.641
+07:10,10,Claypool,34.621
+07:40,1,Kanye,162.686
+07:40,2,FreeLarryHoover,26.895
+07:40,3,Carmen Salinas,19.436
+07:40,4,Mike Dean,
+07:40,5,TheGameAwards,413.711
+07:40,6,Demaryius Thomas,98.408
+07:40,7,Steelers,123.680
+07:40,8,It Takes Two,49.628
+07:40,9,WE LOVE YOU JIMIN,85.467
+07:40,10,RIP DT,14.533
+08:10,1,Drake,247.105
+08:10,2,FreeLarryHoover,35.341
+08:10,3,Carmen Salinas,24.702
+08:10,4,Mike Dean,
+08:10,5,WE LOVE YOU JIMIN,100.190
+08:10,6,Demaryius Thomas,103.653
+08:10,7,Drizzy,
+08:10,8,TheGameAwards,420.386
+08:10,9,It Takes Two,50.123
+08:10,10,Steelers,124.214
+08:40,1,Drake,313.998
+08:40,2,FreeLarryHoover,44.261
+08:40,3,Carmen Salinas,27.737
+08:40,4,Mike Dean,11.453
+08:40,5,WE LOVE YOU JIMIN,113.120
+08:40,6,Drizzy,
+08:40,7,Demaryius Thomas,107.558
+08:40,8,🕺Amazonギフト券,
+08:40,9,助けてLINEポケットマネー,
+08:40,10,投稿キャンペーン実施中,56.383
+09:10,1,Drake,332.018
+09:10,2,FreeLarryHoover,48.506
+09:10,3,Carmen Salinas,29.847
+09:10,4,WE LOVE YOU JIMIN,125.279
+09:10,5,Mike Dean,12.004
+09:10,6,HumanRightsDay,71.660
+09:10,7,Drizzy,10.022
+09:10,8,🕺Amazonギフト券,
+09:10,9,助けてLINEポケットマネー,
+09:10,10,💦12,23.816
+09:40,1,Drake,342.462
+09:40,2,FreeLarryHoover,50.618
+09:40,3,WE LOVE YOU JIMIN,135.327
+09:40,4,Carmen Salinas,31.365
+09:40,5,HumanRightsDay,80.528
+09:40,6,DLsite,41.387
+09:40,7,助けてLINEポケットマネー,
+09:40,8,🕺Amazonギフト券,
+09:40,9,投稿キャンペーン実施中,59.827
+09:40,10,💦12,24.372
+10:10,1,Drake,349.725
+10:10,2,NCT_Universe,368.543
+10:10,3,LET'S PLAY BALL WITH NCT,175.455
+10:10,4,HumanRightsDay,89.015
+10:10,5,FreeLarryHoover,52.038
+10:10,6,에이티즈_멋_들어가유,80.676
+10:10,7,WE LOVE YOU JIMIN,143.960
+10:10,8,ATEEZ_The_Real_KINGS,84.390
+10:10,9,DLsite,44.347
+10:10,10,Carmen Salinas,32.516
+10:40,1,Drake,357.283
+10:40,2,NCT_Universe,508.336
+10:40,3,ChristmasEveL1stWin,60.554
+10:40,4,LET'S PLAY BALL WITH NCT,204.737
+10:40,5,ATEEZ_The_Real_KINGS,104.253
+10:40,6,櫻坂1stアニラ_Day2,12.425
+10:40,7,에이티즈_멋_들어가유,99.013
+10:40,8,内閣官房参与,
+10:40,9,KEEP IT REAL WITH ATEEZ,89.782
+10:40,10,WE LOVE YOU JIMIN,150.556
+11:10,1,Drake,362.005
+11:10,2,NCT_Universe,561.188
+11:10,3,ChristmasEveL1stWin,92.988
+11:10,4,LET'S PLAY BALL WITH NCT,212.275
+11:10,5,櫻坂1stアニラ_Day2,17.376
+11:10,6,内閣官房参与,
+11:10,7,少クラ,10.276
+11:10,8,ATEEZ_The_Real_KINGS,115.021
+11:10,9,DLsite,49.721
+11:10,10,KEEP IT REAL WITH ATEEZ,97.268
+11:40,1,NCT_Universe,596.848
+11:40,2,Drake,366.955
+11:40,3,ChristmasEveL1stWin,104.600
+11:40,4,櫻坂1stアニラ_Day2,23.694
+11:40,5,内閣官房参与,
+11:40,6,HumanRightsDay,112.495
+11:40,7,LET'S PLAY BALL WITH NCT,215.817
+11:40,8,少クラ,11.206
+11:40,9,DLsite,52.671
+11:40,10,辞任の意向,
+12:10,1,NCT_Universe,614.750
+12:10,2,ブイシッウレシッタノシッ,11.621
+12:10,3,Drake,369.507
+12:10,4,ChristmasEveL1stWin,111.703
+12:10,5,V6groove,27.895
+12:10,6,櫻坂1stアニラ_Day2,28.041
+12:10,7,内閣官房参与,
+12:10,8,LET'S PLAY BALL WITH NCT,218.177
+12:10,9,DLsite,53.359
+12:10,10,パンダヒーロー,12.835
+12:40,1,ブイシッウレシッタノシッ,23.860
+12:40,2,NCT_Universe,632.884
+12:40,3,V6groove,39.847
+12:40,4,金スマ,12.792
+12:40,5,櫻坂1stアニラ_Day2,33.006
+12:40,6,内閣官房参与,
+12:40,7,Drake,373.834
+12:40,8,Julian Assange,57.877
+12:40,9,LET'S PLAY BALL WITH NCT,219.770
+12:40,10,DLsite,56.008
+13:10,1,DebateArchi,22.528
+13:10,2,ブイシッウレシッタノシッ,35.002
+13:10,3,金スマ,16.455
+13:10,4,NCT_Universe,643.879
+13:10,5,V6groove,50.851
+13:10,6,内閣官房参与,
+13:10,7,Julian Assange,67.604
+13:10,8,Drake,376.308
+13:10,9,LazLive Bagi Puluhan Juta,
+13:10,10,Kanye,335.364
+13:40,1,DebateArchi,42.420
+13:40,2,櫻坂1stアニラ_Day2,44.647
+13:40,3,金スマ,20.793
+13:40,4,ブイシッウレシッタノシッ,47.116
+13:40,5,守屋茜渡辺梨加卒業セレモニー,26.882
+13:40,6,Assange,117.082
+13:40,7,内閣官房参与,
+13:40,8,Drake,381.227
+13:40,9,LazLive Bagi Puluhan Juta,
+13:40,10,Summer Snow,
+14:10,1,DebateArchi,70.403
+14:10,2,金スマ,27.339
+14:10,3,櫻坂1stアニラ_Day2,50.887
+14:10,4,守屋茜渡辺梨加卒業セレモニー,31.584
+14:10,5,ブイシッウレシッタノシッ,56.856
+14:10,6,内閣官房参与,
+14:10,7,Drake,383.687
+14:10,8,LazLive Bagi Puluhan Juta,
+14:10,9,Prologue,156.117
+14:10,10,Kanye,344.898
+14:40,1,DebateArchi,95.532
+14:40,2,金スマ,29.931
+14:40,3,櫻坂1stアニラ_Day2,54.492
+14:40,4,最愛ドラマ,25.443
+14:40,5,SixTONES_Rosy,40.573
+14:40,6,Assange,145.877
+14:40,7,ابو بكر,
+14:40,8,Martial,16.771
+14:40,9,Drake,388.925
+14:40,10,内閣官房参与,
+15:10,1,DebateArchi,119.719
+15:10,2,最愛ドラマ,44.861
+15:10,3,BadBuddySeriesEP7,215.079
+15:10,4,大ちゃん,14.528
+15:10,5,SixTONES_Rosy,51.888
+15:10,6,櫻坂1stアニラ_Day2,57.833
+15:10,7,Assange,160.641
+15:10,8,Martial,18.631
+15:10,9,ابو بكر,
+15:10,10,加瀬さん,
+15:40,1,DebateArchi,136.892
+15:40,2,最愛ドラマ,52.674
+15:40,3,BadBuddySeriesEP7,310.834
+15:40,4,النصر_الطايي,48.308
+15:40,5,大ちゃん,17.371
+15:40,6,SixTONES_Rosy,58.288
+15:40,7,Assange,175.144
+15:40,8,Martial,20.720
+15:40,9,加瀬さん,
+15:40,10,ابو بكر,
+16:10,1,BadBuddySeriesEP7,400.417
+16:10,2,シオン地球デビュー21周年,33.755
+16:10,3,HAPPYSHIONDAY,40.400
+16:10,4,DebateArchi,150.739
+16:10,5,最愛ドラマ,56.152
+16:10,6,大ちゃん,18.852
+16:10,7,Assange,187.719
+16:10,8,Martial,22.615
+16:10,9,汐恩くん,12.414
+16:10,10,해피니스,14.079
+16:40,1,BadBuddySeriesEP7,475.738
+16:40,2,HAPPYSHIONDAY,73.546
+16:40,3,シオン地球デビュー21周年,55.545
+16:40,4,最愛ドラマ,58.142
+16:40,5,DebateArchi,161.471
+16:40,6,大ちゃん,19.772
+16:40,7,Assange,201.072
+16:40,8,Martial,24.608
+16:40,9,해피니스,18.726
+16:40,10,汐恩くん,18.275
+17:10,1,BadBuddySeriesEP7,524.091
+17:10,2,HAPPYSHIONDAY,84.946
+17:10,3,シオン地球デビュー21周年,63.458
+17:10,4,DebateArchi,170.712
+17:10,5,最愛ドラマ,59.419
+17:10,6,大ちゃん,20.361
+17:10,7,Dua Lipa,10.706
+17:10,8,Assange,210.985
+17:10,9,Martial,26.075
+17:10,10,해피니스,21.434
+17:40,1,BadBuddySeriesEP7,576.942
+17:40,2,HAPPYSHIONDAY,89.405
+17:40,3,シオン地球デビュー21周年,66.619
+17:40,4,XboxGarfieldSweepstakes,10.391
+17:40,5,الهلال_الفيحاء,44.031
+17:40,6,Dua Lipa,14.160
+17:40,7,olivia rodrigo,47.333
+17:40,8,Assange,222.649
+17:40,9,大ちゃん,20.875
+17:40,10,Martial,28.343
+18:10,1,BadBuddySeriesEP7,642.022
+18:10,2,XboxGarfieldSweepstakes,15.572
+18:10,3,Dua Lipa,17.546
+18:10,4,الهلال_الفيحاء,48.576
+18:10,5,HAPPYSHIONDAY,92.192
+18:10,6,シオン地球デビュー21周年,68.659
+18:10,7,olivia rodrigo,49.446
+18:10,8,Ticketmaster,24.207
+18:10,9,WE LOVE YOU JUNGKOOK,29.789
+18:10,10,Assange,232.249
+18:40,1,XboxGarfieldSweepstakes,19.642
+18:40,2,BadBuddySeriesEP7,692.752
+18:40,3,Dua Lipa,21.169
+18:40,4,MissUniverse,73.711
+18:40,5,الهلال_الفيحاء,50.549
+18:40,6,ÖğretmenMaaşı9binTl,36.263
+18:40,7,olivia rodrigo,52.669
+18:40,8,WE LOVE YOU JUNGKOOK,40.117
+18:40,9,Ticketmaster,25.918
+18:40,10,النصر,187.236
+19:10,1,XboxGarfieldSweepstakes,23.381
+19:10,2,MissUniverse,86.638
+19:10,3,Dua Lipa,23.915
+19:10,4,BadBuddySeriesEP7,724.944
+19:10,5,ÖğretmenMaaşı9binTl,43.691
+19:10,6,الهلال_الفيحاء,51.905
+19:10,7,Ticketmaster,27.734
+19:10,8,WE LOVE YOU JUNGKOOK,47.452
+19:10,9,olivia rodrigo,54.379
+19:10,10,WE LOVE YOU TAEHYUNG,86.510
+19:40,1,CashAppFriday,14.031
+19:40,2,MissUniverse,104.847
+19:40,3,XboxGarfieldSweepstakes,26.685
+19:40,4,Dua Lipa,26.813
+19:40,5,BadBuddySeriesEP7,747.871
+19:40,6,ÖğretmenMaaşı9binTl,52.386
+19:40,7,Michael Nesmith,
+19:40,8,The Monkees,
+19:40,9,olivia rodrigo,59.155
+19:40,10,WE LOVE YOU JUNGKOOK,55.744
+20:10,1,CashAppFriday,22.643
+20:10,2,MissUniverse,118.568
+20:10,3,XboxGarfieldSweepstakes,29.294
+20:10,4,Dua Lipa,28.966
+20:10,5,Monkees,13.873
+20:10,6,Michael Nesmith,12.357
+20:10,7,WhyIChime,
+20:10,8,BadBuddySeriesEP7,765.400
+20:10,9,olivia rodrigo,62.107
+20:10,10,WE LOVE YOU JUNGKOOK,66.324
+20:40,1,CashAppFriday,27.111
+20:40,2,MissUniverse,135.300
+20:40,3,XboxGarfieldSweepstakes,31.610
+20:40,4,Dua Lipa,31.083
+20:40,5,قطر_الامارات,12.114
+20:40,6,Monkees,17.914
+20:40,7,Michael Nesmith,16.148
+20:40,8,WhyIChime,
+20:40,9,olivia rodrigo,65.500
+20:40,10,WE LOVE YOU JUNGKOOK,71.272
+21:10,1,قطر_الامارات,25.763
+21:10,2,CashAppFriday,30.084
+21:10,3,MissUniverse,151.172
+21:10,4,XboxGarfieldSweepstakes,33.604
+21:10,5,Dua Lipa,32.870
+21:10,6,Monkees,21.557
+21:10,7,Michael Nesmith,19.027
+21:10,8,FreeCodeFridayContest,
+21:10,9,olivia rodrigo,65.440
+21:10,10,WE LOVE YOU JUNGKOOK,74.487
+21:40,1,قطر_الامارات,32.415
+21:40,2,CashAppFriday,33.039
+21:40,3,FreeCodeFridayContest,
+21:40,4,MissUniverse,159.353
+21:40,5,XboxGarfieldSweepstakes,35.388
+21:40,6,Monkees,24.443
+21:40,7,Dua Lipa,34.782
+21:40,8,Michael Nesmith,21.312
+21:40,9,Juana Rivas,21.900
+21:40,10,WE LOVE YOU JUNGKOOK,77.530
+22:10,1,قطر_الامارات,36.475
+22:10,2,FreeCodeFridayContest,
+22:10,3,CashAppFriday,35.161
+22:10,4,MissUniverse,164.394
+22:10,5,Monkees,27.010
+22:10,6,SAHHA2021,12.419
+22:10,7,Dua Lipa,36.375
+22:10,8,Michael Nesmith,23.220
+22:10,9,Juana Rivas,25.616
+22:10,10,Dennis,21.281
+22:40,1,قطر_الامارات,40.505
+22:40,2,FreeCodeFridayContest,
+22:40,3,CashAppFriday,36.557
+22:40,4,MissUniverse,169.664
+22:40,5,Monkees,29.232
+22:40,6,otomobilfiyatları,10.348
+22:40,7,Michael Nesmith,24.910
+22:40,8,Dua Lipa,38.150
+22:40,9,Juana Rivas,29.640
+22:40,10,Dennis,22.503
+23:10,1,قطر_الامارات,43.508
+23:10,2,FreeCodeFridayContest,
+23:10,3,CashAppFriday,37.824
+23:10,4,TCMS6,
+23:10,5,BREWAT,
+23:10,6,Brentford,11.789
+23:10,7,Monkees,31.266
+23:10,8,Michael Nesmith,26.746
+23:10,9,Dua Lipa,39.570
+23:10,10,Mike Nesmith,12.999
+23:40,1,قطر_الامارات,44.882
+23:40,2,ToryPartyGames,
+23:40,3,TCMS6,
+23:40,4,FreeCodeFridayContest,
+23:40,5,MissUniverse,182.758
+23:40,6,Monkees,33.185
+23:40,7,Brentford,12.729
+23:40,8,Michael Nesmith,28.204
+23:40,9,Juana Rivas,37.567
+23:40,10,Dua Lipa,41.184

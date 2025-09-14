@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Draymond,40.902
+00:10,2,Jordan Poole,10.978
+00:10,3,Altos,26.469
+00:10,4,Léo Pereira,
+00:10,5,Flagrant 2,18.229
+00:10,6,Warriors,156.873
+00:10,7,ConexiónHonduras2,11.561
+00:10,8,Eid Mubarak,183.086
+00:10,9,ARTHUR NO DOMINGAO,123.377
+00:10,10,Coritiba,12.047
+00:40,1,Klay,47.728
+00:40,2,Flamengo,155.169
+00:40,3,Draymond,49.104
+00:40,4,Warriors,200.782
+00:40,5,Memphis,80.679
+00:40,6,Jordan Poole,14.469
+00:40,7,Ja Morant,32.757
+00:40,8,DubNation,
+00:40,9,GSWvsMEM,
+00:40,10,Marinho,
+01:10,1,Klay,56.036
+01:10,2,Flamengo,161.219
+01:10,3,Draymond,57.591
+01:10,4,Warriors,226.396
+01:10,5,Memphis,85.784
+01:10,6,Jordan Poole,18.328
+01:10,7,DubNation,11.707
+01:10,8,Ja Morant,37.146
+01:10,9,David Luiz,
+01:10,10,GSWvsMEM,
+01:40,1,Klay,59.119
+01:40,2,Flamengo,167.970
+01:40,3,Warriors,237.923
+01:40,4,Draymond,60.732
+01:40,5,Memphis,88.071
+01:40,6,DubNation,12.592
+01:40,7,Eid Mubarak,210.998
+01:40,8,Jordan Poole,20.009
+01:40,9,Ja Morant,39.410
+01:40,10,David Luiz,
+02:10,1,Klay,60.850
+02:10,2,Flamengo,156.893
+02:10,3,Warriors,241.326
+02:10,4,Draymond,62.890
+02:10,5,Memphis,88.865
+02:10,6,Altos,38.145
+02:10,7,RHOA,10.770
+02:10,8,Eid Mubarak,220.590
+02:10,9,Steph,65.726
+02:10,10,JÃO NO FANTÁSTICO,27.539
+02:40,1,RHOA,20.336
+02:40,2,Klay,62.171
+02:40,3,Flamengo,161.750
+02:40,4,Warriors,247.004
+02:40,5,Draymond,64.633
+02:40,6,JÃO NO FANTÁSTICO,50.376
+02:40,7,Eid Mubarak,231.584
+02:40,8,Memphis,90.232
+02:40,9,Altos,38.943
+02:40,10,Steph,67.477
+03:10,1,RHOA,31.423
+03:10,2,JÃO NO FANTÁSTICO,64.788
+03:10,3,Klay,62.953
+03:10,4,Flamengo,153.355
+03:10,5,Eid Mubarak,242.631
+03:10,6,Warriors,247.950
+03:10,7,Draymond,66.285
+03:10,8,90DayFiance,
+03:10,9,Marlo,
+03:10,10,Memphis,90.535
+03:40,1,RHOA,36.900
+03:40,2,JÃO NO FANTÁSTICO,66.240
+03:40,3,Eid Mubarak,253.926
+03:40,4,Klay,63.923
+03:40,5,Flamengo,155.922
+03:40,6,90DayFiance,
+03:40,7,MagandangBuhay,179.990
+03:40,8,AMAZING MOOrning DONBELLE,174.074
+03:40,9,Warriors,252.018
+03:40,10,Marlo,
+04:10,1,RHOA,38.119
+04:10,2,Eid Mubarak,263.472
+04:10,3,24HorasCentral,
+04:10,4,JÃO NO FANTÁSTICO,66.801
+04:10,5,90DayFiance,11.071
+04:10,6,MagandangBuhay,210.292
+04:10,7,AMAZING MOOrning DONBELLE,200.048
+04:10,8,Klay,64.437
+04:10,9,Flamengo,149.718
+04:10,10,AmericanIdol,
+04:40,1,RHOA,39.701
+04:40,2,Eid Mubarak,274.077
+04:40,3,24HorasCentral,
+04:40,4,Fantastico,
+04:40,5,GranFinalAllStar,
+04:40,6,90DayFiance,11.526
+04:40,7,AMAZING MOOrning DONBELLE,216.542
+04:40,8,Toluca,
+04:40,9,Mohon,262.470
+04:40,10,Klay,65.255
+05:10,1,RHOA,40.988
+05:10,2,Eid Mubarak,283.727
+05:10,3,GranFinalAllStar,13.296
+05:10,4,24HorasCentral,10.868
+05:10,5,Toluca,
+05:10,6,Fantastico,10.454
+05:10,7,MagandangBuhay,236.444
+05:10,8,Mohon,270.903
+05:10,9,AMAZING MOOrning DONBELLE,224.925
+05:10,10,Minal,232.139
+05:40,1,GranFinalAllStar,19.134
+05:40,2,RHOA,42.377
+05:40,3,Eid Mubarak,294.556
+05:40,4,TheVoiceCHV,
+05:40,5,StrawberryParty,74.631
+05:40,6,عيدكم_مبارك,161.417
+05:40,7,Toluca,10.167
+05:40,8,Mohon,278.933
+05:40,9,Minal,238.307
+05:40,10,HECHICERO TU MAGIA TRASCIENDE,30.856
+06:10,1,GranFinalAllStar,24.249
+06:10,2,StrawberryParty,95.434
+06:10,3,Eid Mubarak,305.139
+06:10,4,RamazanBayramı,59.907
+06:10,5,RHOA,43.529
+06:10,6,TheVoiceCHV,
+06:10,7,Mohon,283.921
+06:10,8,Toluca,10.693
+06:10,9,Minal,242.543
+06:10,10,HECHICERO TU MAGIA TRASCIENDE,36.154
+06:40,1,RamazanBayramı,68.695
+06:40,2,Eid Mubarak,316.818
+06:40,3,GranFinalAllStar,28.827
+06:40,4,StrawberryParty,110.464
+06:40,5,ranboospace,
+06:40,6,عيدكم_مبارك,171.866
+06:40,7,Mohon,290.560
+06:40,8,Hayırlı Bayramlar,41.031
+06:40,9,Koke,19.472
+06:40,10,Toluca,11.234
+07:10,1,RamazanBayramı,75.965
+07:10,2,Eid Mubarak,329.526
+07:10,3,GranFinalAllStar,34.808
+07:10,4,StrawberryParty,127.294
+07:10,5,عيدكم_مبارك,176.688
+07:10,6,ranboospace,
+07:10,7,Koke,24.185
+07:10,8,Mohon,295.049
+07:10,9,HECHICERO TU MAGIA TRASCIENDE,45.398
+07:10,10,Minal,250.986
+07:40,1,RamazanBayramı,84.176
+07:40,2,Eid Mubarak,344.827
+07:40,3,GranFinalAllStar,37.881
+07:40,4,كشخه_العيد,
+07:40,5,StrawberryParty,137.801
+07:40,6,عيدكم_مبارك,181.033
+07:40,7,SECURE THE SAFETY OF AESPA,20.421
+07:40,8,Koke,26.940
+07:40,9,Mohon,300.573
+07:40,10,HECHICERO TU MAGIA TRASCIENDE,47.353
+08:10,1,RamazanBayramı,92.111
+08:10,2,Eid Mubarak,361.815
+08:10,3,كشخه_العيد,
+08:10,4,StrawberryParty,154.643
+08:10,5,GranFinalAllStar,38.886
+08:10,6,عيدكم_مبارك,185.514
+08:10,7,SECURE THE SAFETY OF AESPA,35.368
+08:10,8,Koke,27.890
+08:10,9,Mohon,304.017
+08:10,10,Tüm İslam,
+08:40,1,RamazanBayramı,100.389
+08:40,2,Eid Mubarak,382.411
+08:40,3,كشخه_العيد,
+08:40,4,StrawberryParty,182.374
+08:40,5,عيدكم_مبارك,190.551
+08:40,6,SECURE THE SAFETY OF AESPA,50.258
+08:40,7,GranFinalAllStar,39.371
+08:40,8,Koke,28.507
+08:40,9,Tüm İslam,
+08:40,10,Mohon,308.951
+09:10,1,RamazanBayramı,108.397
+09:10,2,Eid Mubarak,404.296
+09:10,3,كشخه_العيد,11.620
+09:10,4,StrawberryParty,202.101
+09:10,5,عيدكم_مبارك,195.674
+09:10,6,SECURE THE SAFETY OF AESPA,63.932
+09:10,7,MondayMotivation,46.246
+09:10,8,Square Enix,
+09:10,9,May Allah,97.927
+09:10,10,Embracer,
+09:40,1,RamazanBayramı,116.069
+09:40,2,Eid Mubarak,426.619
+09:40,3,كشخه_العيد,13.559
+09:40,4,عيدكم_مبارك,200.771
+09:40,5,الغيبوبه_الجماعيه,
+09:40,6,StrawberryParty,234.505
+09:40,7,SECURE THE SAFETY OF AESPA,74.369
+09:40,8,Square Enix,
+09:40,9,Deus Ex,
+09:40,10,Embracer,
+10:10,1,RamazanBayramı,123.032
+10:10,2,Eid Mubarak,448.612
+10:10,3,كشخه_العيد,15.121
+10:10,4,الغيبوبه_الجماعيه,
+10:10,5,عيدكم_مبارك,204.763
+10:10,6,Square Enix,10.054
+10:10,7,SECURE THE SAFETY OF AESPA,82.180
+10:10,8,MondayMotivation,50.481
+10:10,9,Deus Ex,
+10:10,10,FEARLESS OUT NOW,
+10:40,1,RamazanBayramı,130.330
+10:40,2,Eid Mubarak,473.520
+10:40,3,كشخه_العيد,17.091
+10:40,4,르세라핌_피어리스한_데뷔,28.180
+10:40,5,LE_SSERAFIM_FEARLESS,28.467
+10:40,6,FEARLESS OUT NOW,27.928
+10:40,7,الغيبوبه_الجماعيه,
+10:40,8,Square Enix,11.349
+10:40,9,Pegasus,28.844
+10:40,10,Deus Ex,
+11:10,1,Eid Mubarak,496.095
+11:10,2,RamazanBayramı,136.082
+11:10,3,LE_SSERAFIM_FEARLESS,43.630
+11:10,4,르세라핌_피어리스한_데뷔,41.589
+11:10,5,كشخه_العيد,18.623
+11:10,6,الغيبوبه_الجماعيه,
+11:10,7,Pegasus,32.672
+11:10,8,Square Enix,12.779
+11:10,9,Deus Ex,
+11:10,10,chaewon,44.538
+11:40,1,Eid Mubarak,521.400
+11:40,2,RamazanBayramı,142.847
+11:40,3,LE_SSERAFIM_FEARLESS,61.942
+11:40,4,르세라핌_피어리스한_데뷔,51.698
+11:40,5,الغيبوبه_الجماعيه,
+11:40,6,كشخه_العيد,19.708
+11:40,7,Pegasus,37.660
+11:40,8,chaewon,51.245
+11:40,9,Square Enix,14.400
+11:40,10,JENNIE IN HAWAII,19.798
+12:10,1,Eid Mubarak,544.996
+12:10,2,RamazanBayramı,148.069
+12:10,3,LE_SSERAFIM_FEARLESS,74.491
+12:10,4,르세라핌_피어리스한_데뷔,57.686
+12:10,5,الغيبوبه_الجماعيه,10.956
+12:10,6,駅総選挙,
+12:10,7,Pegasus,40.692
+12:10,8,chaewon,55.300
+12:10,9,Square Enix,15.588
+12:10,10,JENNIE IN HAWAII,31.713
+12:40,1,駅総選挙,16.024
+12:40,2,Eid Mubarak,572.627
+12:40,3,RamazanBayramı,153.146
+12:40,4,LE_SSERAFIM_FEARLESS,83.472
+12:40,5,الغيبوبه_الجماعيه,12.351
+12:40,6,르세라핌_피어리스한_데뷔,61.733
+12:40,7,Pegasus,44.706
+12:40,8,Square Enix,17.017
+12:40,9,chaewon,58.371
+12:40,10,ちいかわちゃん達,
+13:10,1,駅総選挙,25.266
+13:10,2,Eid Mubarak,592.362
+13:10,3,RamazanBayramı,157.411
+13:10,4,LE_SSERAFIM_FEARLESS,90.082
+13:10,5,الغيبوبه_الجماعيه,13.776
+13:10,6,SarkaruVaariPaataTrailer,29.976
+13:10,7,Pegasus,47.554
+13:10,8,Square Enix,18.246
+13:10,9,Happy Eid,244.411
+13:10,10,Nessie,
+13:40,1,駅総選挙,39.366
+13:40,2,Eid Mubarak,618.014
+13:40,3,刀ミュ無料配信,11.434
+13:40,4,RamazanBayramı,161.559
+13:40,5,LE_SSERAFIM_FEARLESS,95.515
+13:40,6,الغيبوبه_الجماعيه,15.357
+13:40,7,Pegasus,51.515
+13:40,8,門司港駅,
+13:40,9,Square Enix,19.686
+13:40,10,Happy Eid,251.136
+14:10,1,駅総選挙,52.820
+14:10,2,Eid Mubarak,619.265
+14:10,3,CDTVライブライブ,15.237
+14:10,4,刀ミュ無料配信,17.176
+14:10,5,الغيبوبه_الجماعيه,16.373
+14:10,6,LE_SSERAFIM_FEARLESS,100.676
+14:10,7,Pegasus,54.662
+14:10,8,門司港駅,
+14:10,9,Square Enix,21.106
+14:10,10,Nessie,
+14:40,1,駅総選挙,71.263
+14:40,2,CDTVライブライブ,24.257
+14:40,3,Eid Mubarak,633.679
+14:40,4,刀ミュ無料配信,22.339
+14:40,5,しゃべくり007,
+14:40,6,セクハラガチャ,
+14:40,7,初心LOVE,
+14:40,8,Pegasus,58.636
+14:40,9,Square Enix,22.621
+14:40,10,名鉄名古屋駅,
+15:10,1,駅総選挙,75.966
+15:10,2,CDTVライブライブ,39.538
+15:10,3,Eid Mubarak,643.440
+15:10,4,刀ミュ無料配信,29.848
+15:10,5,セクハラガチャ,
+15:10,6,しゃべくり007,
+15:10,7,なにわちゃん,
+15:10,8,初心LOVE,
+15:10,9,Pegasus,61.607
+15:10,10,Square Enix,24.033
+15:40,1,CDTVライブライブ,61.828
+15:40,2,駅総選挙,78.061
+15:40,3,Eid Mubarak,680.585
+15:40,4,京都南部,42.595
+15:40,5,恋マジ,50.469
+15:40,6,刀ミュ無料配信,34.916
+15:40,7,セクハラガチャ,
+15:40,8,W1st,
+15:40,9,地震大丈夫,
+15:40,10,なにわちゃん,10.689
+16:10,1,CDTVライブライブ,119.699
+16:10,2,駅総選挙,79.042
+16:10,3,恋マジ,67.640
+16:10,4,Eid Mubarak,685.709
+16:10,5,DevilSisterEP5,163.341
+16:10,6,京都南部,48.244
+16:10,7,W1st,
+16:10,8,阿修羅ちゃん,15.759
+16:10,9,刀ミュ無料配信,36.535
+16:10,10,PA NO ENCONTRO,38.590
+16:40,1,CDTVライブライブ,150.069
+16:40,2,駅総選挙,79.917
+16:40,3,Eid Mubarak,721.044
+16:40,4,恋マジ,71.429
+16:40,5,DevilSisterEP5,232.914
+16:40,6,京都南部,50.042
+16:40,7,PA NO ENCONTRO,46.739
+16:40,8,ARMYSelcaDay,76.686
+16:40,9,W1st,
+16:40,10,阿修羅ちゃん,24.080
+17:10,1,CDTVライブライブ,164.371
+17:10,2,ARMYSelcaDay,86.202
+17:10,3,Eid Mubarak,744.095
+17:10,4,ARSD,87.852
+17:10,5,駅総選挙,80.541
+17:10,6,HALFBD_BEFIRST,
+17:10,7,PA NO ENCONTRO,49.276
+17:10,8,京都南部,50.931
+17:10,9,W1st,
+17:10,10,ホシくん,10.280
+17:40,1,ARMYSelcaDay,96.379
+17:40,2,SnowMan結成10周年,
+17:40,3,HALFBD_BEFIRST,22.232
+17:40,4,CDTVライブライブ,171.967
+17:40,5,Eid Mubarak,787.084
+17:40,6,ENHYPEN_花道だけ歩こうね,125.418
+17:40,7,第102回,
+17:40,8,PA NO ENCONTRO,50.195
+17:40,9,Wordle 318,
+17:40,10,W1st,
+18:10,1,FLORENCE,25.186
+18:10,2,ARMYSelcaDay,103.644
+18:10,3,SnowMan結成10周年,
+18:10,4,Eid Mubarak,806.513
+18:10,5,HALFBD_BEFIRST,31.224
+18:10,6,CDTVライブライブ,176.291
+18:10,7,第102回,
+18:10,8,TeacherAppreciationWeek,12.942
+18:10,9,Wordle 318,
+18:10,10,フラトラ,
+18:40,1,florence,52.265
+18:40,2,DontWorryDarling,28.321
+18:40,3,ARMYSelcaDay,109.316
+18:40,4,SnowMan結成10周年,
+18:40,5,Eid Mubarak,839.370
+18:40,6,HALFBD_BEFIRST,34.376
+18:40,7,AlatAt5,
+18:40,8,第102回,
+18:40,9,chris pine,11.549
+18:40,10,jack chambers,
+19:10,1,florence,67.822
+19:10,2,DontWorryDarling,37.955
+19:10,3,ARMYSelcaDay,113.161
+19:10,4,AlatAt5,13.309
+19:10,5,SnowMan結成10周年,10.180
+19:10,6,Eid Mubarak,858.982
+19:10,7,HALFBD_BEFIRST,35.473
+19:10,8,chris pine,14.728
+19:10,9,第102回,
+19:10,10,カービン,
+19:40,1,florence,78.709
+19:40,2,DontWorryDarling,44.034
+19:40,3,AlatAt5,15.971
+19:40,4,ARMYSelcaDay,116.156
+19:40,5,Eid Mubarak,890.051
+19:40,6,SnowMan結成10周年,10.643
+19:40,7,chris pine,16.979
+19:40,8,TeacherAppreciationWeek,15.928
+19:40,9,カービン,
+19:40,10,第102回,
+20:10,1,florence,86.077
+20:10,2,DontWorryDarling,47.994
+20:10,3,AlatAt5,17.930
+20:10,4,KKRvRR,29.770
+20:10,5,Eid Mubarak,904.480
+20:10,6,Fulham,
+20:10,7,ARMYSelcaDay,118.145
+20:10,8,Bad Bunny,65.006
+20:10,9,SnowMan結成10周年,10.948
+20:10,10,Nasdas,22.918
+20:40,1,florence,92.759
+20:40,2,Fulham,12.750
+20:40,3,DontWorryDarling,51.759
+20:40,4,AlatAt5,20.143
+20:40,5,KKRvRR,33.241
+20:40,6,Eid Mubarak,932.438
+20:40,7,Bad Bunny,71.930
+20:40,8,Mitrovic,
+20:40,9,MetGala,63.856
+20:40,10,Nasdas,30.942
+21:10,1,florence,97.347
+21:10,2,Fulham,14.828
+21:10,3,DontWorryDarling,54.594
+21:10,4,Nasdas,42.934
+21:10,5,AlatAt5,21.645
+21:10,6,MetGala,68.514
+21:10,7,Bad Bunny,76.175
+21:10,8,Eid Mubarak,945.686
+21:10,9,MUNBRE,15.509
+21:10,10,Mitrovic,
+21:40,1,florence,102.265
+21:40,2,Fulham,16.094
+21:40,3,DontWorryDarling,56.748
+21:40,4,Nasdas,55.632
+21:40,5,AlatAt5,22.885
+21:40,6,MetGala,74.789
+21:40,7,Bad Bunny,81.764
+21:40,8,MUNBRE,24.567
+21:40,9,Eid Mubarak,968.254
+21:40,10,Mitrovic,
+22:10,1,florence,105.860
+22:10,2,Fulham,17.014
+22:10,3,DontWorryDarling,58.730
+22:10,4,Nasdas,61.636
+22:10,5,AlatAt5,25.050
+22:10,6,MetGala,81.466
+22:10,7,MUNBRE,32.157
+22:10,8,Bad Bunny,83.524
+22:10,9,Eid Mubarak,972.176
+22:10,10,Mitrovic,
+22:40,1,MUNBRE,43.581
+22:40,2,MetGala,96.520
+22:40,3,florence,109.734
+22:40,4,Mata,105.253
+22:40,5,Fulham,17.752
+22:40,6,Nasdas,66.652
+22:40,7,DontWorryDarling,60.327
+22:40,8,AlatAt5,27.209
+22:40,9,MAPR,
+22:40,10,Bad Bunny,88.765
+23:10,1,MetGala,135.023
+23:10,2,MUNBRE,52.230
+23:10,3,Mata,114.399
+23:10,4,florence,112.746
+23:10,5,MAPR,
+23:10,6,MasterChef10,
+23:10,7,Nasdas,71.424
+23:10,8,ChanelEH,
+23:10,9,Fulham,18.374
+23:10,10,Brentford,58.328
+23:40,1,MetGala,210.699
+23:40,2,MUNBRE,57.921
+23:40,3,isola,19.061
+23:40,4,Mata,120.782
+23:40,5,MasterChef10,
+23:40,6,survivorGR,24.899
+23:40,7,florence,116.174
+23:40,8,Nasdas,75.342
+23:40,9,Brentford,60.892
+23:40,10,Fulham,18.943

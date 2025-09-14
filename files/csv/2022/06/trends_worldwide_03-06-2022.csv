@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,StateofPlay,17.019
+00:10,2,SVGala7,19.958
+00:10,3,BBNaijaReunion,41.178
+00:10,4,Resident Evil 4,11.148
+00:10,5,Holly,102.563
+00:10,6,ONEPIECE1051,17.913
+00:10,7,Lanz,
+00:10,8,Anuar,
+00:10,9,Gavi,74.495
+00:10,10,RE4 Remake,
+00:40,1,StateofPlay,57.106
+00:40,2,SVGala7,28.633
+00:40,3,Street Fighter 6,13.011
+00:40,4,Resident Evil 4,29.862
+00:40,5,BBNaijaReunion,51.054
+00:40,6,Final Fantasy XVI,
+00:40,7,FFXVI,
+00:40,8,RE4 Remake,
+00:40,9,Stray,124.620
+00:40,10,FF16,17.942
+01:10,1,StateofPlay,71.742
+01:10,2,Street Fighter 6,20.656
+01:10,3,Resident Evil 4,44.333
+01:10,4,SVGala7,32.199
+01:10,5,Resident Evil 4 Remake,25.293
+01:10,6,Final Fantasy XVI,17.233
+01:10,7,FF16,
+01:10,8,FFXVI,13.796
+01:10,9,BBNaijaReunion,57.122
+01:10,10,Stray,128.058
+01:40,1,StateofPlay,80.352
+01:40,2,Street Fighter 6,25.337
+01:40,3,Resident Evil 4,53.096
+01:40,4,FF16,43.318
+01:40,5,SVGala7,33.226
+01:40,6,Resident Evil 4 Remake,30.016
+01:40,7,FFXVI,19.498
+01:40,8,Final Fantasy XVI,21.027
+01:40,9,Stray,132.945
+01:40,10,Capcom,17.589
+02:10,1,StateofPlay,86.215
+02:10,2,Street Fighter 6,29.357
+02:10,3,FF16,
+02:10,4,Resident Evil 4,59.382
+02:10,5,SVGala7,33.780
+02:10,6,Edilson,
+02:10,7,FFXVI,23.722
+02:10,8,Resident Evil 4 Remake,33.468
+02:10,9,Final Fantasy XVI,23.629
+02:10,10,あさイチ,15.133
+02:40,1,StateofPlay,90.651
+02:40,2,Street Fighter 6,32.412
+02:40,3,FF16,
+02:40,4,Resident Evil 4,63.995
+02:40,5,あさイチ,18.137
+02:40,6,バイオ4リメイク,32.743
+02:40,7,FFXVI,
+02:40,8,Capcom,21.097
+02:40,9,Edilson,
+02:40,10,Resident Evil 4 Remake,36.209
+03:10,1,NBAFinals,41.885
+03:10,2,StateofPlay,94.399
+03:10,3,FF16,
+03:10,4,Street Fighter 6,34.930
+03:10,5,Resident Evil 4,68.172
+03:10,6,DubNation,18.024
+03:10,7,Palácios,
+03:10,8,バイオ4リメイク,36.475
+03:10,9,AllAbout18,
+03:10,10,あさイチ,20.514
+03:40,1,Curry,129.266
+03:40,2,NBAFinals,60.516
+03:40,3,DubNation,21.009
+03:40,4,StateofPlay,97.545
+03:40,5,FF16,66.639
+03:40,6,SpotifyPurpleU,63.136
+03:40,7,Finals MVP,10.630
+03:40,8,FMVP,
+03:40,9,Street Fighter 6,37.079
+03:40,10,AllAbout18,
+04:10,1,Curry,156.318
+04:10,2,NBAFinals,69.632
+04:10,3,Warriors,222.377
+04:10,4,Poole,14.632
+04:10,5,Draymond,12.482
+04:10,6,DubNation,22.005
+04:10,7,SpotifyPurpleU,83.280
+04:10,8,Jaylen Brown,11.122
+04:10,9,StateofPlay,100.262
+04:10,10,FF16,69.990
+04:40,1,Curry,172.760
+04:40,2,NBAFinals,77.251
+04:40,3,Celtics,183.417
+04:40,4,Draymond,15.916
+04:40,5,Wiggins,12.767
+04:40,6,Poole,18.929
+04:40,7,SpotifyPurpleU,99.119
+04:40,8,NoLimite,
+04:40,9,DubNation,23.358
+04:40,10,Looney,11.372
+05:10,1,Curry,185.207
+05:10,2,Tatum,63.645
+05:10,3,NBAFinals,85.360
+05:10,4,Celtics,197.714
+05:10,5,Poole,25.025
+05:10,6,NoLimite,10.594
+05:10,7,Draymond,17.001
+05:10,8,Jaylen Brown,16.285
+05:10,9,Wiggins,14.417
+05:10,10,Iggy,10.661
+05:40,1,Celtics,307.199
+05:40,2,Curry,204.427
+05:40,3,Tatum,87.640
+05:40,4,NBAFinals,104.722
+05:40,5,Al Horford,38.062
+05:40,6,Draymond,28.299
+05:40,7,Derrick White,23.040
+05:40,8,Poole,31.236
+05:40,9,Golden State,58.473
+05:40,10,Jaylen Brown,21.090
+06:10,1,Celtics,339.384
+06:10,2,Tatum,96.190
+06:10,3,NBAFinals,109.808
+06:10,4,Curry,208.917
+06:10,5,Al Horford,48.508
+06:10,6,Draymond,32.191
+06:10,7,Derrick White,25.820
+06:10,8,Poole,33.865
+06:10,9,Golden State,60.858
+06:10,10,Jaylen Brown,23.086
+06:40,1,Celtics,354.077
+06:40,2,Tatum,100.025
+06:40,3,NBAFinals,112.044
+06:40,4,Curry,212.256
+06:40,5,Al Horford,53.020
+06:40,6,Draymond,34.113
+06:40,7,Derrick White,27.622
+06:40,8,Poole,35.041
+06:40,9,Golden State,62.101
+06:40,10,Uruguay,54.910
+07:10,1,Celtics,361.220
+07:10,2,Tatum,101.969
+07:10,3,NBAFinals,113.219
+07:10,4,Curry,212.439
+07:10,5,Al Horford,55.674
+07:10,6,Draymond,35.181
+07:10,7,Derrick White,28.669
+07:10,8,Poole,35.582
+07:10,9,Golden State,62.529
+07:10,10,GUちいかわのコラボ欲しい,
+07:40,1,Celtics,367.459
+07:40,2,Tatum,103.545
+07:40,3,NBAFinals,114.479
+07:40,4,Curry,214.427
+07:40,5,Al Horford,57.406
+07:40,6,DMDLAND,132.998
+07:40,7,Draymond,35.965
+07:40,8,Derrick White,29.333
+07:40,9,PValley,
+07:40,10,GUちいかわのコラボ欲しい,
+08:10,1,Celtics,371.209
+08:10,2,Tatum,104.511
+08:10,3,NBAFinals,115.472
+08:10,4,Curry,214.570
+08:10,5,Al Horford,58.690
+08:10,6,DMDLAND,156.263
+08:10,7,Draymond,36.386
+08:10,8,PValley,
+08:10,9,Derrick White,29.804
+08:10,10,WorldBicycleDay,12.703
+08:40,1,Celtics,374.714
+08:40,2,Tatum,105.482
+08:40,3,NBAFinals,116.622
+08:40,4,Al Horford,59.647
+08:40,5,Curry,215.869
+08:40,6,DMDLAND,173.213
+08:40,7,WorldBicycleDay,14.618
+08:40,8,PValley,
+08:40,9,ゲリラ豪雨,27.858
+08:40,10,GUちいかわのコラボ欲しい,
+09:10,1,Celtics,376.906
+09:10,2,Warriors,361.278
+09:10,3,Tatum,105.796
+09:10,4,DMDLAND,184.978
+09:10,5,Al Horford,60.461
+09:10,6,NBAFinals,117.106
+09:10,7,ゲリラ豪雨,31.480
+09:10,8,WorldBicycleDay,16.522
+09:10,9,Curry,215.652
+09:10,10,enflasyon,
+09:40,1,enflasyon,
+09:40,2,Celtics,379.547
+09:40,3,ゲリラ豪雨,36.629
+09:40,4,WorldBicycleDay,18.405
+09:40,5,DMDLAND,194.111
+09:40,6,土砂降り,19.117
+09:40,7,Warriors,363.548
+09:40,8,Al Horford,61.097
+09:40,9,Tatum,106.375
+09:40,10,NBAFinals,117.923
+10:10,1,enflasyon,13.714
+10:10,2,ゲリラ豪雨,39.600
+10:10,3,WorldBicycleDay,20.159
+10:10,4,Celtics,379.790
+10:10,5,土砂降り,20.019
+10:10,6,DMDLAND,202.751
+10:10,7,TÜİK,
+10:10,8,HayırlıCumalar,13.445
+10:10,9,Al Horford,61.583
+10:10,10,ゴリラゲイ雨,
+10:40,1,enflasyon,18.393
+10:40,2,ゲリラ豪雨,42.102
+10:40,3,WorldBicycleDay,22.011
+10:40,4,TÜİK,
+10:40,5,Celtics,378.019
+10:40,6,土砂降り,21.121
+10:40,7,HayırlıCumalar,14.823
+10:40,8,DMDLAND,210.024
+10:40,9,Jawan,24.398
+10:40,10,Mumbai,43.704
+11:10,1,enflasyon,22.261
+11:10,2,Jawan,53.097
+11:10,3,ゲリラ豪雨,42.624
+11:10,4,WorldBicycleDay,23.885
+11:10,5,TÜİK,
+11:10,6,Celtics,379.071
+11:10,7,ShahRukhKhan,21.844
+11:10,8,HayırlıCumalar,16.226
+11:10,9,土砂降り,21.258
+11:10,10,Tinubu,91.354
+11:40,1,HOT2ndWin,21.058
+11:40,2,enflasyon,25.540
+11:40,3,Jawan,71.873
+11:40,4,少クラ,
+11:40,5,BOSJFinal,
+11:40,6,ゲリラ豪雨,44.306
+11:40,7,TÜİK,
+11:40,8,Celtics,381.164
+11:40,9,Tinubu,97.413
+11:40,10,土砂降り,21.864
+12:10,1,HOT2ndWin,31.055
+12:10,2,enflasyon,28.242
+12:10,3,少クラ,10.994
+12:10,4,BOSJFinal,
+12:10,5,Jawan,85.732
+12:10,6,ゲリラ豪雨,43.139
+12:10,7,佐々木朗希,14.250
+12:10,8,TÜİK,
+12:10,9,Feel the light,
+12:10,10,Tinubu,100.478
+12:40,1,HOT2ndWin,36.171
+12:40,2,BOSJFinal,12.532
+12:40,3,enflasyon,30.585
+12:40,4,少クラ,12.386
+12:40,5,Jawan,95.972
+12:40,6,佐々木朗希,17.426
+12:40,7,ライアン,
+12:40,8,ゲリラ豪雨,44.194
+12:40,9,Feel the light,11.297
+12:40,10,TÜİK,
+13:10,1,BOSJFinal,15.741
+13:10,2,HOT2ndWin,39.513
+13:10,3,enflasyon,32.644
+13:10,4,少クラ,13.326
+13:10,5,Jawan,104.476
+13:10,6,佐々木朗希,18.921
+13:10,7,ライアン,
+13:10,8,SHAME ON STAR PLUS,20.811
+13:10,9,Feel the light,12.417
+13:10,10,محمد,483.971
+13:40,1,BOSJFinal,19.102
+13:40,2,HOT2ndWin,42.198
+13:40,3,白上4周年じゃい,15.827
+13:40,4,enflasyon,34.714
+13:40,5,少クラ,14.173
+13:40,6,佐々木朗希,19.883
+13:40,7,ライアン,
+13:40,8,SHAME ON STAR PLUS,35.943
+13:40,9,デラロサ,
+13:40,10,シルフィード,
+14:10,1,BOSJFinal,21.643
+14:10,2,白上4周年じゃい,23.112
+14:10,3,ライアン,12.643
+14:10,4,AFLDogsCats,
+14:10,5,HOT2ndWin,43.946
+14:10,6,すわほー,
+14:10,7,メガドラミニ,
+14:10,8,Laca,
+14:10,9,ファブル,
+14:10,10,SHAME ON STAR PLUS,40.749
+14:40,1,GetWellSoonMasaya,
+14:40,2,横浜優勝,
+14:40,3,BOSJFinal,23.551
+14:40,4,メガドラミニ,10.404
+14:40,5,白上4周年じゃい,25.399
+14:40,6,AFLDogsCats,
+14:40,7,Laca,
+14:40,8,ファブル,11.912
+14:40,9,ライアン,13.651
+14:40,10,すわほー,
+15:10,1,GetWellSoonMasaya,12.606
+15:10,2,阪神タイガース,43.829
+15:10,3,横浜優勝,
+15:10,4,ファブル,14.732
+15:10,5,メガドラミニ,13.083
+15:10,6,Laca,
+15:10,7,BOSJFinal,24.696
+15:10,8,白上4周年じゃい,26.143
+15:10,9,ライアン,14.199
+15:10,10,メガドライブミニ2,14.246
+15:40,1,BTSRadio,84.263
+15:40,2,ファブル,18.834
+15:40,3,GetWellSoonMasaya,15.828
+15:40,4,阪神タイガース,47.177
+15:40,5,横浜優勝,
+15:40,6,NationalDonutDay,
+15:40,7,Laca,
+15:40,8,メガドラミニ,14.812
+15:40,9,メガドライブミニ2,16.428
+15:40,10,Zverev,16.998
+16:10,1,BTSRadio,108.309
+16:10,2,ファブル,23.114
+16:10,3,GetWellSoonMasaya,17.107
+16:10,4,Zverev,20.821
+16:10,5,NationalDonutDay,
+16:10,6,iKON_DrOhGoldenClinic,56.663
+16:10,7,MISIAANNG,16.925
+16:10,8,Love Maze,28.531
+16:10,9,横浜優勝,
+16:10,10,Laca,
+16:40,1,BTSRadio,119.437
+16:40,2,ファブル,24.924
+16:40,3,Zverev,26.957
+16:40,4,NationalDonutDay,
+16:40,5,GetWellSoonMasaya,18.185
+16:40,6,iKON_DrOhGoldenClinic,73.031
+16:40,7,脱力タイムズ,
+16:40,8,Joe Girardi,
+16:40,9,Love Maze,40.432
+16:40,10,Laca,
+17:10,1,Nadal,70.948
+17:10,2,BTSRadio,126.938
+17:10,3,ファブル,25.624
+17:10,4,すとぷり6周年,42.008
+17:10,5,NationalDonutDay,
+17:10,6,脱力タイムズ,
+17:10,7,ساعه_استجابه,43.170
+17:10,8,Joe Girardi,
+17:10,9,9 YEARS WITH JIN,40.981
+17:10,10,Tonton Lazlive Sekarang,
+17:40,1,Nadal,78.792
+17:40,2,すとぷり6周年,74.249
+17:40,3,NationalDonutDay,
+17:40,4,ساعه_استجابه,53.544
+17:40,5,석지니등장_9주년,57.777
+17:40,6,BTSRadio,131.892
+17:40,7,ファブル,26.097
+17:40,8,Joe Girardi,
+17:40,9,9 YEARS WITH JIN,58.724
+17:40,10,第134回,
+18:10,1,Zverev,50.287
+18:10,2,NationalDonutDay,
+18:10,3,すとぷり6周年,83.467
+18:10,4,ساعه_استجابه,59.280
+18:10,5,석지니등장_9주년,67.215
+18:10,6,第134回,
+18:10,7,フロイニ,
+18:10,8,Joe Girardi,
+18:10,9,9 YEARS WITH JIN,67.854
+18:10,10,ファブル,26.315
+18:40,1,Zverev,98.319
+18:40,2,RolandGarros,104.069
+18:40,3,Noba,50.796
+18:40,4,バズリズム02,17.993
+18:40,5,フロイニ,26.592
+18:40,6,NationalDonutDay,10.425
+18:40,7,Sascha,
+18:40,8,すとぷり6周年,86.949
+18:40,9,第134回,
+18:40,10,9 YEARS WITH JIN,74.172
+19:10,1,Zverev,108.435
+19:10,2,RolandGarros,117.887
+19:10,3,Noba,75.771
+19:10,4,バズリズム02,32.431
+19:10,5,フロイニ,45.405
+19:10,6,FileninSultanları,
+19:10,7,NationalDonutDay,11.338
+19:10,8,SIGAM MAIARAMEM NO TT,26.626
+19:10,9,Sascha,
+19:10,10,第134回,
+19:40,1,Zverev,114.087
+19:40,2,RolandGarros,127.679
+19:40,3,Noba,92.848
+19:40,4,FileninSultanları,
+19:40,5,バズリズム02,36.546
+19:40,6,フロイニ,61.730
+19:40,7,NationalDonutDay,12.269
+19:40,8,SIGAM MAIARAMEM NO TT,36.507
+19:40,9,Sascha,
+19:40,10,Peter Navarro,80.334
+20:10,1,Zverev,117.436
+20:10,2,RolandGarros,132.103
+20:10,3,Noba,104.289
+20:10,4,FileninSultanları,
+20:10,5,GoblinCoin,
+20:10,6,AzKaldı,15.623
+20:10,7,CampWithCampingWorld,17.110
+20:10,8,SIGAM MAIARAMEM NO TT,37.968
+20:10,9,Peter Navarro,89.735
+20:10,10,Special Olympics,20.387
+20:40,1,Zverev,120.158
+20:40,2,Noba,113.978
+20:40,3,RolandGarros,136.769
+20:40,4,FileninSultanları,
+20:40,5,GoblinCoin,
+20:40,6,AzKaldı,18.621
+20:40,7,CampWithCampingWorld,19.221
+20:40,8,Peter Navarro,97.130
+20:40,9,SIGAM MAIARAMEM NO TT,38.624
+20:40,10,Special Olympics,22.562
+21:10,1,Zverev,122.120
+21:10,2,Noba,121.347
+21:10,3,RolandGarros,139.681
+21:10,4,NationalDonutDay,17.668
+21:10,5,belned,
+21:10,6,AzKaldı,20.835
+21:10,7,FileninSultanları,
+21:10,8,Peter Navarro,103.830
+21:10,9,Special Olympics,24.454
+21:10,10,The Mandalorian,
+21:40,1,Zverev,123.923
+21:40,2,belned,
+21:40,3,Noba,127.486
+21:40,4,RolandGarros,146.077
+21:40,5,FRADAN,
+21:40,6,freecodefridaycontest,
+21:40,7,NationalDonutDay,18.550
+21:40,8,Peter Navarro,110.887
+21:40,9,The Mandalorian,
+21:40,10,Special Olympics,26.230
+22:10,1,CashAppFriday,14.845
+22:10,2,FRADAN,13.597
+22:10,3,belned,
+22:10,4,Benzema,55.856
+22:10,5,Zverev,125.227
+22:10,6,Noba,128.688
+22:10,7,RolandGarros,148.349
+22:10,8,freecodefridaycontest,
+22:10,9,Karim,26.473
+22:10,10,Peter Navarro,117.889
+22:40,1,CashAppFriday,22.242
+22:40,2,belned,10.128
+22:40,3,FRADAN,17.488
+22:40,4,Benzema,66.536
+22:40,5,Belgium,24.832
+22:40,6,Dinamarca,
+22:40,7,COAC2022Final,
+22:40,8,freecodefridaycontest,
+22:40,9,Zverev,126.370
+22:40,10,Noba,133.481
+23:10,1,CashAppFriday,25.738
+23:10,2,belned,11.258
+23:10,3,Dinamarca,14.760
+23:10,4,FRADAN,20.251
+23:10,5,TheBürsinBirthday,36.158
+23:10,6,França,21.733
+23:10,7,Cornelius,12.546
+23:10,8,COAC2022Final,
+23:10,9,Belgium,26.141
+23:10,10,Benzema,71.207
+23:40,1,CashAppFriday,29.484
+23:40,2,Dinamarca,17.159
+23:40,3,TheBürsinBirthday,80.782
+23:40,4,BELNED,11.621
+23:40,5,FRADAN,21.052
+23:40,6,COAC2022Final,
+23:40,7,França,23.494
+23:40,8,Cornelius,14.945
+23:40,9,Saliba,11.707
+23:40,10,Belgium,27.394

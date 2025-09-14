@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Flamengo,213.048
+00:10,2,Colombia,760.085
+00:10,3,PetroEsPresidente,67.712
+00:10,4,Marinho,26.492
+00:10,5,Luca,80.574
+00:10,6,Father's Day,1.457.288
+00:10,7,Vitinho,40.192
+00:10,8,Andalucía,209.733
+00:10,9,Botafogo,37.785
+00:10,10,Arão,20.473
+00:40,1,Colombia,915.599
+00:40,2,Colombia,915.599
+00:40,3,Flamengo,218.909
+00:40,4,Marbelle,40.913
+00:40,5,Botafogo,46.047
+00:40,6,Father's Day,1.546.655
+00:40,7,Marinho,26.840
+00:40,8,Luca,81.959
+00:40,9,Andalucía,220.310
+00:40,10,Vitinho,40.689
+01:10,1,Colombia,1.040.249
+01:10,2,Botafogo,57.131
+01:10,3,Flamengo,221.177
+01:10,4,Marbelle,53.131
+01:10,5,Father's Day,1.723.584
+01:10,6,USOpen,14.298
+01:10,7,Marinho,26.949
+01:10,8,Andalucía,225.318
+01:10,9,Luca,82.243
+01:10,10,Vitinho,40.862
+01:40,1,Colombia,1.162.144
+01:40,2,Botafogo,115.135
+01:40,3,Flamengo,228.281
+01:40,4,Marbelle,59.685
+01:40,5,Father's Day,1.972.872
+01:40,6,USOpen,15.168
+01:40,7,Marinho,27.205
+01:40,8,Andalucía,230.141
+01:40,9,América Latina,52.573
+01:40,10,Luca,83.287
+02:10,1,Colombia,1.235.567
+02:10,2,Botafogo,132.647
+02:10,3,Flamengo,231.378
+02:10,4,Marbelle,63.910
+02:10,5,Father's Day,2.076.283
+02:10,6,USOpen,15.169
+02:10,7,América Latina,62.363
+02:10,8,Piazon,
+02:10,9,Marinho,27.302
+02:10,10,Andalucía,232.242
+02:40,1,Colombia,1.331.531
+02:40,2,Botafogo,146.335
+02:40,3,Father's Day,2.311.151
+02:40,4,Flamengo,236.478
+02:40,5,Marbelle,67.085
+02:40,6,América Latina,71.836
+02:40,7,USOpen,15.478
+02:40,8,Latinoamérica,41.213
+02:40,9,Francia,205.165
+02:40,10,Piazon,
+03:10,1,Colombia,1.380.436
+03:10,2,Botafogo,154.140
+03:10,3,Father's Day,2.341.659
+03:10,4,RHOA,11.407
+03:10,5,Marbelle,68.770
+03:10,6,Flamengo,238.128
+03:10,7,Francia,214.215
+03:10,8,América Latina,79.401
+03:10,9,Fantastico,
+03:10,10,Latinoamérica,44.092
+03:40,1,Colombia,1.461.872
+03:40,2,Botafogo,160.425
+03:40,3,Father's Day,2.392.438
+03:40,4,RHOA,12.490
+03:40,5,Dylan,38.950
+03:40,6,América Latina,87.531
+03:40,7,Marbelle,71.004
+03:40,8,Francia,224.665
+03:40,9,Fantastico,
+03:40,10,Flamengo,241.741
+04:10,1,Colombia,1.505.263
+04:10,2,Botafogo,165.089
+04:10,3,Father's Day,2.415.575
+04:10,4,ようこそラヴィット,
+04:10,5,Fantastico,
+04:10,6,América Latina,94.400
+04:10,7,RHOA,13.011
+04:10,8,Slammiversary,22.314
+04:10,9,Dylan,40.910
+04:10,10,90DayFiance,10.753
+04:40,1,Colombia,1.568.378
+04:40,2,Colombia,1.568.378
+04:40,3,Botafogo,170.974
+04:40,4,Father's Day,2.462.585
+04:40,5,ようこそラヴィット,
+04:40,6,DomingoDeAcademia,
+04:40,7,Fantastico,
+04:40,8,América Latina,100.877
+04:40,9,Slammiversary,26.985
+04:40,10,RHOA,13.635
+05:10,1,Colombia,1.596.175
+05:10,2,Colombia,1.596.175
+05:10,3,Botafogo,172.604
+05:10,4,ようこそラヴィット,
+05:10,5,Father's Day,2.479.825
+05:10,6,DomingoDeAcademia,
+05:10,7,América Latina,105.712
+05:10,8,Fantastico,
+05:10,9,Slammiversary,30.457
+05:10,10,RHOA,14.227
+05:40,1,Colombia,1.613.431
+05:40,2,Petro,1.332.526
+05:40,3,ようこそラヴィット,13.289
+05:40,4,Botafogo,174.874
+05:40,5,DomingoDeAcademia,12.240
+05:40,6,Father's Day,2.523.006
+05:40,7,Carlos Cowboy,
+05:40,8,RHOA,14.858
+05:40,9,鬼おろしの夏が来た,
+05:40,10,Giannis,10.097
+06:10,1,Colombia,1.666.647
+06:10,2,ようこそラヴィット,16.638
+06:10,3,PetroEsPresidente,159.851
+06:10,4,DomingoDeAcademia,14.845
+06:10,5,Father's Day,2.527.496
+06:10,6,Botafogo,176.452
+06:10,7,TheVoiceCHV,
+06:10,8,鬼おろしの夏が来た,
+06:10,9,年収200万,21.563
+06:10,10,Giannis,10.425
+06:40,1,Colombia,1.689.233
+06:40,2,ようこそラヴィット,18.825
+06:40,3,PetroEsPresidente,164.496
+06:40,4,DomingoDeAcademia,16.753
+06:40,5,Father's Day,2.540.864
+06:40,6,TheVoiceCHV,
+06:40,7,鬼おろしの夏が来た,
+06:40,8,年収200万,23.350
+06:40,9,Botafogo,177.876
+06:40,10,Giannis,10.901
+07:10,1,Colombia,1.607.888
+07:10,2,ようこそラヴィット,20.832
+07:10,3,PetroEsPresidente,167.624
+07:10,4,DomingoDeAcademia,17.086
+07:10,5,Father's Day,2.546.099
+07:10,6,IndiaWithAgniveer,43.877
+07:10,7,年収200万,25.069
+07:10,8,TheVoiceCHV,
+07:10,9,Indonesia Negara Besar,
+07:10,10,Giannis,11.177
+07:40,1,ようこそラヴィット,22.533
+07:40,2,Colombia,1.206.599
+07:40,3,Petro,1.391.120
+07:40,4,ShabaashMithuTrailer,
+07:40,5,pazartesi,
+07:40,6,IndiaWithAgniveer,52.103
+07:40,7,DomingoDeAcademia,17.306
+07:40,8,年収200万,26.609
+07:40,9,Indonesia Negara Besar,
+07:40,10,Giannis,11.566
+08:10,1,ようこそラヴィット,24.066
+08:10,2,Colombia,1.582.647
+08:10,3,MondayMotivation,40.662
+08:10,4,pazartesi,
+08:10,5,ShabaashMithuTrailer,
+08:10,6,Petro,1.397.203
+08:10,7,IndiaWithAgniveer,60.946
+08:10,8,年収200万,27.986
+08:10,9,She's a 10,17.929
+08:10,10,Indonesia Negara Besar,
+08:40,1,ようこそラヴィット,25.708
+08:40,2,MondayMotivation,43.343
+08:40,3,Colombia,1.311.760
+08:40,4,pazartesi,
+08:40,5,KarnatakaWelcomesModiJi,220.326
+08:40,6,ShabaashMithuTrailer,
+08:40,7,Petro,1.407.646
+08:40,8,年収200万,29.254
+08:40,9,She's a 10,18.895
+08:40,10,声優・滝沢久美子さん死去,
+09:10,1,MondayMotivation,46.134
+09:10,2,ようこそラヴィット,27.417
+09:10,3,pazartesi,
+09:10,4,Colombia,1.547.625
+09:10,5,KarnatakaWelcomesModiJi,285.270
+09:10,6,ShabaashMithuTrailer,
+09:10,7,She's a 10,19.380
+09:10,8,年収200万,30.390
+09:10,9,声優・滝沢久美子さん死去,10.473
+09:10,10,大阪地裁,
+09:40,1,MondayMotivation,48.597
+09:40,2,pazartesi,
+09:40,3,ようこそラヴィット,28.851
+09:40,4,KontakKapatTürkiye,
+09:40,5,Colombia,1.393.576
+09:40,6,ExperienceShamsheraInIMAX,
+09:40,7,Müge Anlı,
+09:40,8,KinKi,
+09:40,9,She's a 10,20.169
+09:40,10,ベーターカプセル,10.691
+10:10,1,MondayMotivation,51.165
+10:10,2,pazartesi,
+10:10,3,KontakKapatTürkiye,
+10:10,4,ようこそラヴィット,30.505
+10:10,5,WorldRefugeeDay,11.231
+10:10,6,Müge Anlı,
+10:10,7,FLIP THAT WITH LOONA,
+10:10,8,KinKi,
+10:10,9,ベーターカプセル,11.583
+10:10,10,東京ダービー,
+10:40,1,LOONA_FLIPTHAT_MV,14.361
+10:40,2,FLIP THAT WITH LOONA,14.503
+10:40,3,MondayMotivation,54.033
+10:40,4,WorldRefugeeDay,14.903
+10:40,5,Müge Anlı,
+10:40,6,KontakKapatTürkiye,
+10:40,7,ようこそラヴィット,32.427
+10:40,8,WATCH SMCU EP 2 NOW,29.456
+10:40,9,LE DOUBLAST VOYA9E,32.378
+10:40,10,KinKi,10.521
+11:10,1,LOONA_FLIPTHAT_MV,22.884
+11:10,2,FLIP THAT WITH LOONA,22.512
+11:10,3,MondayMotivation,57.004
+11:10,4,SMCUEp2_NextLevel,51.391
+11:10,5,WorldRefugeeDay,17.828
+11:10,6,WATCH SMCU EP 2 NOW,51.663
+11:10,7,Müge Anlı,
+11:10,8,ATTENTIONtoKEP1ER,44.606
+11:10,9,LE DOUBLAST VOYA9E,44.671
+11:10,10,エビライ,
+11:40,1,LOONA_FLIPTHAT_MV,28.807
+11:40,2,SMCUEp2_NextLevel,66.321
+11:40,3,MondayMotivation,59.453
+11:40,4,WATCH SMCU EP 2 NOW,59.823
+11:40,5,WorldRefugeeDay,20.471
+11:40,6,ATTENTIONtoKEP1ER,49.840
+11:40,7,Müge Anlı,
+11:40,8,EBiDAN,
+11:40,9,エビライ,
+11:40,10,LE DOUBLAST VOYA9E,48.487
+12:10,1,LOONA_FLIPTHAT_MV,32.467
+12:10,2,SMCUEp2_NextLevel,78.426
+12:10,3,CDTVライブライブ,19.212
+12:10,4,MondayMotivation,62.064
+12:10,5,WorldRefugeeDay,22.511
+12:10,6,Müge Anlı,
+12:10,7,エビライ,
+12:10,8,EBiDAN,
+12:10,9,LE DOUBLAST VOYA9E,50.411
+12:10,10,チェンソーマン2部,40.324
+12:40,1,CDTVライブライブ,46.874
+12:40,2,ichiban,18.138
+12:40,3,SMCUEp2_NextLevel,87.024
+12:40,4,LOONA_FLIPTHAT_MV,34.542
+12:40,5,WorldRefugeeDay,24.552
+12:40,6,Müge Anlı,
+12:40,7,WATCH SMCU EP 2 NOW,66.440
+12:40,8,チェンソーマン2部,48.702
+12:40,9,エビライ,
+12:40,10,EBiDAN,
+13:10,1,CDTVライブライブ,63.200
+13:10,2,ichiban,29.487
+13:10,3,SMCUEp2_NextLevel,92.727
+13:10,4,LOONA_FLIPTHAT_MV,36.054
+13:10,5,KingandPrince,88.641
+13:10,6,チェンソーマン2部,55.028
+13:10,7,Müge Anlı,
+13:10,8,エビライ,
+13:10,9,EBiDAN,
+13:10,10,WATCH SMCU EP 2 NOW,67.741
+13:40,1,CDTVライブライブ,74.007
+13:40,2,ichiban,34.870
+13:40,3,ちぃ武道館,13.864
+13:40,4,WorldRefugeeDay,28.988
+13:40,5,SMCUEp2_NextLevel,97.028
+13:40,6,チェンソーマン2部,60.180
+13:40,7,Müge Anlı,
+13:40,8,エビライ,
+13:40,9,EBiDAN,
+13:40,10,キンプリ,46.788
+14:10,1,CDTVライブライブ,81.561
+14:10,2,ichiban,37.835
+14:10,3,ゆずフェス,
+14:10,4,GalaxyxDonBelle,91.315
+14:10,5,ちぃ武道館,16.352
+14:10,6,SAMSUNG WITH DONBELLE,36.338
+14:10,7,チェンソーマン2部,64.671
+14:10,8,ちぃちゃん,
+14:10,9,Müge Anlı,
+14:10,10,신분당선,10.572
+14:40,1,CDTVライブライブ,88.683
+14:40,2,ゆずフェス,
+14:40,3,十万円でできるかな,15.239
+14:40,4,GalaxyxDonBelle,130.710
+14:40,5,WorldRefugeeDay,34.805
+14:40,6,栄光の架橋,
+14:40,7,SAMSUNG WITH DONBELLE,71.293
+14:40,8,Manuel Belgrano,
+14:40,9,Raphinha,23.306
+14:40,10,ちぃちゃん,
+15:10,1,CDTVライブライブ,101.500
+15:10,2,ゆずフェス,
+15:10,3,十万円でできるかな,17.145
+15:10,4,WorldRefugeeDay,37.772
+15:10,5,GalaxyxDonBelle,152.396
+15:10,6,音楽の日,11.582
+15:10,7,Manuel Belgrano,
+15:10,8,SAMSUNG WITH DONBELLE,90.916
+15:10,9,栄光の架橋,
+15:10,10,Pınar Gültekin,
+15:40,1,CDTVライブライブ,106.797
+15:40,2,恋マジ,39.325
+15:40,3,Kyrie,14.300
+15:40,4,WorldRefugeeDay,41.332
+15:40,5,MuchoGustoMega,
+15:40,6,ゆずフェス,
+15:40,7,Manuel Belgrano,
+15:40,8,音楽の日,14.749
+15:40,9,Alya Token,
+15:40,10,SAMSUNG WITH DONBELLE,103.699
+16:10,1,恋マジ,79.171
+16:10,2,Kyrie,19.727
+16:10,3,CDTVライブライブ,109.497
+16:10,4,BREAK MY SOUL,16.690
+16:10,5,PınarGultekinİcinAdalet,
+16:10,6,WorldRefugeeDay,44.473
+16:10,7,MuchoGustoMega,
+16:10,8,Manuel Belgrano,
+16:10,9,音楽の日,15.844
+16:10,10,Alya Token,
+16:40,1,Kyrie,25.125
+16:40,2,恋マジ,85.218
+16:40,3,BREAK MY SOUL,32.462
+16:40,4,PınarGultekinİcinAdalet,
+16:40,5,cdtvライブライブ,111.354
+16:40,6,WorldRefugeeDay,47.466
+16:40,7,DiaDeLaBandera,10.959
+16:40,8,Manuel Belgrano,
+16:40,9,JUNCTION CONCEPT PHOTO,49.847
+16:40,10,OUR KINGS ARE BACK,
+17:10,1,Kyrie,29.816
+17:10,2,向井康二誕生祭2022,14.383
+17:10,3,恋マジ,88.078
+17:10,4,BREAK MY SOUL,43.442
+17:10,5,PınarGultekinİcinAdalet,
+17:10,6,JUNCTION CONCEPT PHOTO,122.721
+17:10,7,WorldRefugeeDay,50.197
+17:10,8,ENHYPEN_J,475.265
+17:10,9,Manuel Belgrano,
+17:10,10,康二くん,12.718
+17:40,1,Kyrie,35.335
+17:40,2,向井康二誕生祭2022,28.028
+17:40,3,PınarGultekinİcinAdalet,
+17:40,4,BREAK MY SOUL,52.085
+17:40,5,恋マジ,89.583
+17:40,6,JUNCTION CONCEPT PHOTO,134.985
+17:40,7,ENHYPEN_J,640.415
+17:40,8,日向翔陽誕生祭2022,19.493
+17:40,9,康二くん,19.034
+17:40,10,NAYEON ALBUM SNEAK PEEK,31.492
+18:10,1,Kyrie,39.663
+18:10,2,向井康二誕生祭2022,32.137
+18:10,3,PınarGultekinİcinAdalet,
+18:10,4,BREAK MY SOUL,59.656
+18:10,5,恋マジ,90.521
+18:10,6,JUNCTION CONCEPT PHOTO,137.256
+18:10,7,ENHYPEN_J,689.390
+18:10,8,日向翔陽誕生祭2022,26.802
+18:10,9,康二くん,21.005
+18:10,10,第151回,
+18:40,1,Kyrie,44.619
+18:40,2,PınarGultekinİcinAdalet,
+18:40,3,向井康二誕生祭2022,33.920
+18:40,4,BREAK MY SOUL,65.927
+18:40,5,KonveyördeİşçiKıyımı,
+18:40,6,OurBamBamBackToKorea,59.317
+18:40,7,ガッシュ2,
+18:40,8,恋マジ,91.323
+18:40,9,JUNCTION CONCEPT PHOTO,138.157
+18:40,10,Greitens,30.492
+19:10,1,Kyrie,48.500
+19:10,2,PınarGultekinİcinAdalet,
+19:10,3,向井康二誕生祭2022,34.965
+19:10,4,BREAK MY SOUL,71.608
+19:10,5,ทริอาชTheSeriesEP10,20.149
+19:10,6,KonveyördeİşçiKıyımı,
+19:10,7,OurBamBamBackToKorea,85.522
+19:10,8,ガッシュ2,
+19:10,9,Greitens,40.546
+19:10,10,Lakers,32.614
+19:40,1,Kyrie,52.911
+19:40,2,PınarGultekinİcinAdalet,
+19:40,3,向井康二誕生祭2022,35.571
+19:40,4,BREAK MY SOUL,76.237
+19:40,5,MKOMONDAY,
+19:40,6,ทริอาชTheSeriesEP10,31.650
+19:40,7,YOONMIN,33.013
+19:40,8,Greitens,49.506
+19:40,9,SevmekZamanı,34.237
+19:40,10,ガッシュ2,
+20:10,1,Kyrie,56.245
+20:10,2,PınarGultekinİcinAdalet,
+20:10,3,MKOMONDAY,
+20:10,4,Greitens,58.411
+20:10,5,BREAK MY SOUL,80.643
+20:10,6,Yoonmin,42.452
+20:10,7,ทริอาชTheSeriesEP10,40.178
+20:10,8,SevmekZamanı,37.075
+20:10,9,向井康二誕生祭2022,35.971
+20:10,10,ガッシュ2,
+20:40,1,Kyrie,59.567
+20:40,2,PınarGultekinİcinAdalet,
+20:40,3,MKOMONDAY,
+20:40,4,Sanremo2023,
+20:40,5,Greitens,66.423
+20:40,6,SevmekZamanı,39.394
+20:40,7,BREAK MY SOUL,84.230
+20:40,8,BatmanTakesMeDown,
+20:40,9,Yoonmin,47.544
+20:40,10,CHIARA FERRAGNI,
+21:10,1,Sanremo2023,
+21:10,2,Kyrie,62.317
+21:10,3,PınarGultekinİcinAdalet,
+21:10,4,MKOMONDAY,
+21:10,5,She's a 10,43.758
+21:10,6,Greitens,74.046
+21:10,7,SevmekZamanı,41.092
+21:10,8,Chiara Ferragni,
+21:10,9,26HaziranKadıköydeyiz,
+21:10,10,BREAK MY SOUL,87.828
+21:40,1,Sanremo2023,
+21:40,2,MKOMONDAY,11.024
+21:40,3,Kyrie,65.183
+21:40,4,PınarGultekinİcinAdalet,
+21:40,5,She's a 10,47.068
+21:40,6,freeporçay,
+21:40,7,SevmekZamanı,43.373
+21:40,8,Greitens,81.034
+21:40,9,Chiara Ferragni,
+21:40,10,BREAK MY SOUL,91.218
+22:10,1,MKOMONDAY,12.518
+22:10,2,Sanremo2023,
+22:10,3,PınarGultekinİcinAdalet,
+22:10,4,Kyrie,67.561
+22:10,5,isola,
+22:10,6,freeporçay,11.496
+22:10,7,She's a 10,50.316
+22:10,8,Greitens,87.937
+22:10,9,Chiara Ferragni,
+22:10,10,Break My Soul,93.777
+22:40,1,MKOMONDAY,14.096
+22:40,2,isola,
+22:40,3,freeporçay,15.958
+22:40,4,Indiyah,29.726
+22:40,5,Sanremo2023,
+22:40,6,PınarGultekinİcinAdalet,
+22:40,7,She's a 10,54.204
+22:40,8,Ikenna,26.640
+22:40,9,Kyrie,70.179
+22:40,10,Greitens,94.856
+23:10,1,LoveIsland,180.281
+23:10,2,Paige,14.036
+23:10,3,Dami,55.493
+23:10,4,MKOMONDAY,15.596
+23:10,5,isola,
+23:10,6,Ikenna,29.067
+23:10,7,Ekin Su,
+23:10,8,freeporçay,18.887
+23:10,9,She's a 10,57.461
+23:10,10,Sanremo2023,
+23:40,1,LoveIsland,188.529
+23:40,2,Paige,14.581
+23:40,3,isola,10.409
+23:40,4,Dami,57.349
+23:40,5,MasterChef10,
+23:40,6,She's a 10,61.036
+23:40,7,freeporçay,21.072
+23:40,8,Ikenna,30.970
+23:40,9,MKOMONDAY,15.924
+23:40,10,Ekin Su,17.970

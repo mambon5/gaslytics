@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Edomex,32.884
+00:10,2,SüleymanÇakır,
+00:10,3,SecretFinal,24.911
+00:10,4,Payet,78.091
+00:10,5,PekinExpress,11.417
+00:10,6,OMPAOK,38.727
+00:10,7,Supreme Court,573.221
+00:10,8,Cubs,52.939
+00:10,9,Dembele,29.351
+00:10,10,West Ham,40.930
+00:40,1,Edomex,37.082
+00:40,2,SüleymanÇakır,10.312
+00:40,3,SecretFinal,29.610
+00:40,4,Payet,79.160
+00:40,5,PekinExpress,11.520
+00:40,6,isola,14.386
+00:40,7,Supreme Court,595.359
+00:40,8,Cubs,55.431
+00:40,9,Dembele,30.207
+00:40,10,West Ham,41.863
+01:10,1,Edomex,39.839
+01:10,2,SüleymanÇakır,12.535
+01:10,3,SecretFinal,36.754
+01:10,4,VamosColoColo,
+01:10,5,Payet,79.215
+01:10,6,isola,15.970
+01:10,7,Supreme Court,609.076
+01:10,8,Cubs,56.524
+01:10,9,Coldplay,83.099
+01:10,10,Dembele,30.458
+01:40,1,Edomex,42.567
+01:40,2,カムカムエブリバディ,
+01:40,3,SüleymanÇakır,14.267
+01:40,4,SecretFinal,46.325
+01:40,5,VamosColoColo,
+01:40,6,Fortaleza,28.779
+01:40,7,Supreme Court,628.590
+01:40,8,Payet,80.345
+01:40,9,CAMILA ON TIKTOK,15.245
+01:40,10,Coldplay,86.395
+02:10,1,VamosColoColo,13.108
+02:10,2,Edomex,44.403
+02:10,3,SecretFinal,58.248
+02:10,4,カムカムエブリバディ,
+02:10,5,Fortaleza,32.281
+02:10,6,SüleymanÇakır,15.579
+02:10,7,Pavez,
+02:10,8,Coldplay,87.301
+02:10,9,Supreme Court,640.131
+02:10,10,Camila,124.429
+02:40,1,VamosColoColo,14.530
+02:40,2,Edomex,46.330
+02:40,3,طالب_يعتدي_علي_معلم,27.307
+02:40,4,SecretFinal,62.353
+02:40,5,カムカムエブリバディ,
+02:40,6,Fortaleza,34.465
+02:40,7,Pavez,
+02:40,8,Coldplay,90.762
+02:40,9,Supreme Court,656.320
+02:40,10,Michigan,38.147
+03:10,1,Volpi,
+03:10,2,Pantanal,18.504
+03:10,3,VamosColoColo,14.947
+03:10,4,Edomex,47.663
+03:10,5,طالب_يعتدي_علي_معلم,31.869
+03:10,6,BAMBAM AT NBA GAME,86.878
+03:10,7,SüleymanÇakır,18.176
+03:10,8,Fortaleza,34.799
+03:10,9,Pavez,
+03:10,10,Coldplay,91.622
+03:40,1,Volpi,
+03:40,2,Joey Votto,
+03:40,3,Pantanal,27.808
+03:40,4,BAMBAM AT NBA GAME,168.810
+03:40,5,SüleymanÇakır,19.708
+03:40,6,طالب_يعتدي_علي_معلم,36.197
+03:40,7,VamosColoColo,15.496
+03:40,8,Edomex,49.408
+03:40,9,PA NOSSO CAMPEAO,48.999
+03:40,10,Fortaleza,35.970
+04:10,1,BAMBAM AT NBA GAME,246.900
+04:10,2,Volpi,
+04:10,3,Joey Votto,
+04:10,4,Pantanal,29.146
+04:10,5,Harden,15.435
+04:10,6,SüleymanÇakır,21.214
+04:10,7,طالب_يعتدي_علي_معلم,39.088
+04:10,8,Raptors,24.131
+04:10,9,Edomex,50.539
+04:10,10,PA NOSSO CAMPEAO,80.819
+04:40,1,BAMBAM AT NBA GAME,320.898
+04:40,2,Volpi,
+04:40,3,Joey Votto,
+04:40,4,Pantanal,30.050
+04:40,5,Harden,17.175
+04:40,6,Sixers,16.153
+04:40,7,SüleymanÇakır,22.149
+04:40,8,PA NOSSO CAMPEAO,93.976
+04:40,9,Raptors,26.332
+04:40,10,طالب_يعتدي_علي_معلم,42.278
+05:10,1,yixing,104.738
+05:10,2,BamBamxGSW,640.316
+05:10,3,Volpi,
+05:10,4,Joey Votto,
+05:10,5,Harden,17.644
+05:10,6,Pantanal,30.079
+05:10,7,AtlantaFX,
+05:10,8,TransferBankGratis,
+05:10,9,Sixers,16.601
+05:10,10,Severance,
+05:40,1,yixing,172.491
+05:40,2,BamBamxGSW,762.633
+05:40,3,Volpi,10.073
+05:40,4,Joey Votto,
+05:40,5,カバーアルバム,11.471
+05:40,6,LeafsForever,
+05:40,7,AquiSeBailaGranFinal,
+05:40,8,Severance,
+05:40,9,Harden,18.493
+05:40,10,Auston Matthews,
+06:10,1,yixing,245.066
+06:10,2,BamBamxGSW,881.374
+06:10,3,AquiSeBailaGranFinal,
+06:10,4,Severance,
+06:10,5,カバーアルバム,14.486
+06:10,6,Vettel,
+06:10,7,AustralianGP,14.484
+06:10,8,Volpi,10.163
+06:10,9,Los de Coldplay,28.109
+06:10,10,ジャンプチはじめるなら今,10.675
+06:40,1,yixing,298.064
+06:40,2,BamBamxGSW,1.007.083
+06:40,3,AquiSeBailaGranFinal,
+06:40,4,POLTERGEIST,
+06:40,5,Severance,
+06:40,6,TreatMe,
+06:40,7,カバーアルバム,16.642
+06:40,8,Vettel,
+06:40,9,Los de Coldplay,30.521
+06:40,10,Chloe,35.485
+07:10,1,yixing,330.206
+07:10,2,BamBamxGSW,1.101.492
+07:10,3,AquiSeBailaGranFinal,
+07:10,4,POLTERGEIST,11.561
+07:10,5,Severance,
+07:10,6,Chloe,37.442
+07:10,7,TreatMe,
+07:10,8,Seth Beer,
+07:10,9,カバーアルバム,18.340
+07:10,10,Los de Coldplay,32.300
+07:40,1,yixing,358.762
+07:40,2,BamBamxGSW,1.199.940
+07:40,3,POLTERGEIST,13.140
+07:40,4,AquiSeBailaGranFinal,
+07:40,5,Chloe,39.372
+07:40,6,Severance,
+07:40,7,シンクロフェス,
+07:40,8,スアレス,
+07:40,9,Seth Beer,
+07:40,10,TreatMe,
+08:10,1,yixing,380.392
+08:10,2,BamBamxGSW,1.261.225
+08:10,3,シンクロフェス,
+08:10,4,POLTERGEIST,14.347
+08:10,5,GetWellSoonJin,11.319
+08:10,6,スアレス,
+08:10,7,AquiSeBailaGranFinal,
+08:10,8,ShopeeFoodDay,
+08:10,9,Chloe,40.010
+08:10,10,꼬들 97,
+08:40,1,yixing,396.921
+08:40,2,シンクロフェス,
+08:40,3,BamBamxGSW,1.314.539
+08:40,4,GetWellSoonJin,16.644
+08:40,5,POLTERGEIST,15.245
+08:40,6,AustralianGP,18.365
+08:40,7,スアレス,
+08:40,8,Severance,
+08:40,9,꼬들 97,
+08:40,10,Chloe,41.008
+09:10,1,yixing,410.458
+09:10,2,シンクロフェス,
+09:10,3,GetWellSoonJin,22.610
+09:10,4,BamBamxGSW,1.349.321
+09:10,5,AustralianGP,19.426
+09:10,6,タイバニ2,29.008
+09:10,7,POLTERGEIST,16.151
+09:10,8,スアレス,
+09:10,9,꼬들 97,
+09:10,10,Chloe,41.377
+09:40,1,タイバニ2,36.007
+09:40,2,シンクロフェス,
+09:40,3,yixing,422.329
+09:40,4,GetWellSoonJin,27.496
+09:40,5,AustralianGP,20.364
+09:40,6,BamBamxGSW,1.391.908
+09:40,7,f1twtselfieday,
+09:40,8,Daily Quordle 74,
+09:40,9,Hayırlı Cumalar,27.516
+09:40,10,BRILLIANT MC SUNGHOON,43.697
+10:10,1,タイバニ2,39.623
+10:10,2,シンクロフェス,
+10:10,3,GetWellSoonJin,31.786
+10:10,4,yixing,431.946
+10:10,5,あなたの原罪,
+10:10,6,国外追放,
+10:10,7,AustralianGP,20.635
+10:10,8,Viernes de Dolores,
+10:10,9,f1twtselfieday,
+10:10,10,ロシア外交官,13.686
+10:40,1,想像でヨイショ,10.075
+10:40,2,DARSダークミルク,
+10:40,3,あなたの原罪,
+10:40,4,タイバニ2,44.757
+10:40,5,シンクロフェス,
+10:40,6,GetWellSoonJin,35.655
+10:40,7,国外追放,
+10:40,8,yixing,441.343
+10:40,9,Viernes de Dolores,
+10:40,10,Hayırlı Cumalar,32.830
+11:10,1,想像でヨイショ,14.791
+11:10,2,DARSダークミルク,14.561
+11:10,3,あなたの原罪,
+11:10,4,タイバニ2,48.739
+11:10,5,シンクロフェス,10.731
+11:10,6,Kramatorsk,29.016
+11:10,7,GetWellSoonJin,39.154
+11:10,8,国外追放,10.959
+11:10,9,DOUBLE J WITH WILLBEN,40.358
+11:10,10,Viernes de Dolores,
+11:40,1,GlitchMode3rdWin,64.148
+11:40,2,想像でヨイショ,15.750
+11:40,3,DARSダークミルク,15.473
+11:40,4,あなたの原罪,
+11:40,5,Kramatorsk,46.179
+11:40,6,버_버퍼링_3번째_1등이야,40.982
+11:40,7,シンクロフェス,11.814
+11:40,8,チェリハピ,
+11:40,9,国外追放,12.459
+11:40,10,Viernes de Dolores,10.369
+12:10,1,あなたの原罪,
+12:10,2,GlitchMode3rdWin,90.445
+12:10,3,想像でヨイショ,16.385
+12:10,4,DARSダークミルク,16.073
+12:10,5,少クラ,
+12:10,6,Kramatorsk,65.318
+12:10,7,チェリハピ,
+12:10,8,シンクロフェス,12.763
+12:10,9,まりなちゃん,
+12:10,10,ライアン,11.032
+12:40,1,あなたの原罪,
+12:40,2,スロットメーカー,
+12:40,3,GlitchMode3rdWin,102.732
+12:40,4,Kramatorsk,88.396
+12:40,5,想像でヨイショ,16.813
+12:40,6,DARSダークミルク,16.471
+12:40,7,チェリハピ,
+12:40,8,まりなちゃん,
+12:40,9,タイバニ2,25.774
+12:40,10,シンクロフェス,13.567
+13:10,1,あなたの原罪,
+13:10,2,スロットメーカー,
+13:10,3,Kramatorsk,27.148
+13:10,4,GlitchMode3rdWin,110.021
+13:10,5,アニポケ,25.852
+13:10,6,マーティン,
+13:10,7,SELALU ADA SELALU BISA,32.592
+13:10,8,まりなちゃん,
+13:10,9,タイバニ2,26.898
+13:10,10,GO TO TRACE,71.280
+13:40,1,あなたの原罪,10.481
+13:40,2,スロットメーカー,11.575
+13:40,3,Kramatorsk,33.009
+13:40,4,OurTimexMSS,101.340
+13:40,5,オオカミ少年,
+13:40,6,FIRST OST OF MEW,93.219
+13:40,7,マーティン,
+13:40,8,Lazlive Berhadiah Oppo Reno6,
+13:40,9,SELALU ADA SELALU BISA,41.809
+13:40,10,まりなちゃん,
+14:10,1,あなたの原罪,11.856
+14:10,2,スロットメーカー,12.752
+14:10,3,Kramatorsk,38.949
+14:10,4,TREASURE_1STCONCERT,94.266
+14:10,5,金スマ,11.559
+14:10,6,まりほー,
+14:10,7,naeun,10.650
+14:10,8,マーティン,
+14:10,9,GO TO TRACE,86.808
+14:10,10,アニポケ,42.382
+14:40,1,あなたの原罪,12.825
+14:40,2,スロットメーカー,13.766
+14:40,3,金スマ,16.262
+14:40,4,Kramatorsk,44.797
+14:40,5,AFLCatsLions,
+14:40,6,naeun,15.454
+14:40,7,CONGRATS CREAMLINE,
+14:40,8,まりほー,
+14:40,9,GO TO TRACE,89.768
+14:40,10,アニポケ,45.872
+15:10,1,あなたの原罪,13.650
+15:10,2,金スマ,20.993
+15:10,3,スロットメーカー,14.502
+15:10,4,すわほー,
+15:10,5,Kramatorsk,50.318
+15:10,6,TREASURE_1STCONCERT,114.265
+15:10,7,Naeun,19.731
+15:10,8,Congrats CREAMLINE,
+15:10,9,ファンタビ,87.908
+15:10,10,アニポケ,48.146
+15:40,1,金スマ,27.546
+15:40,2,THEFIRSTTAKE,88.368
+15:40,3,あなたの原罪,14.739
+15:40,4,ENSD,74.452
+15:40,5,スロットメーカー,15.661
+15:40,6,Naeun,22.724
+15:40,7,すわほー,
+15:40,8,川西拓実,19.419
+15:40,9,金城碧海,19.791
+15:40,10,與那城奨,20.997
+16:10,1,金スマ,33.244
+16:10,2,ENSD,112.683
+16:10,3,ENGENESelcaDay,110.905
+16:10,4,THEFIRSTTAKE,110.729
+16:10,5,あなたの原罪,15.633
+16:10,6,わけほー,
+16:10,7,JIMIN OST IS COMING,114.969
+16:10,8,Naeun,25.160
+16:10,9,金城碧海,27.407
+16:10,10,川西拓実,27.002
+16:40,1,ENGENESelcaDay,146.909
+16:40,2,ENSD,148.009
+16:40,3,金スマ,34.966
+16:40,4,THEFIRSTTAKE,126.963
+16:40,5,あなたの原罪,16.210
+16:40,6,JIMIN OST IS COMING,130.935
+16:40,7,ファンタビ,110.354
+16:40,8,BTS vs BTS,12.217
+16:40,9,わけほー,
+16:40,10,naeun,27.612
+17:10,1,ENGENESelcaDay,181.547
+17:10,2,ENSD,180.973
+17:10,3,金スマ,35.809
+17:10,4,StarInMyMindEP1,59.350
+17:10,5,BBMAs,339.827
+17:10,6,BTS vs BTS,20.865
+17:10,7,JIMIN OST IS COMING,142.187
+17:10,8,ファンタビ,112.939
+17:10,9,TXT7 COMING SOON,40.439
+17:10,10,6 YEARS WITH JAEHYUN,25.369
+17:40,1,ENGENESelcaDay,210.735
+17:40,2,ToTheWorld6thYearWithNCT,179.449
+17:40,3,ENSD,207.356
+17:40,4,우리_우주의_중심인_엔시티_6주년,173.703
+17:40,5,陪伴NCT六周年至永远,168.731
+17:40,6,第78回,
+17:40,7,BTS vs BTS,26.066
+17:40,8,Wordle 294,
+17:40,9,TO6ETHER WITH OUR ACE TEN,56.618
+17:40,10,JIMIN OST IS COMING,151.101
+18:10,1,ToTheWorld6thYearWithNCT,208.100
+18:10,2,ENGENESelcaDay,229.642
+18:10,3,우리_우주의_중심인_엔시티_6주년,199.223
+18:10,4,ENSD,224.818
+18:10,5,陪伴NCT六周年至永远,191.343
+18:10,6,第78回,
+18:10,7,TO6ETHER WITH OUR ACE TEN,92.170
+18:10,8,Wordle 294,
+18:10,9,Alckmin,13.133
+18:10,10,BTS vs BTS,30.524
+18:40,1,ToTheWorld6thYearWithNCT,223.526
+18:40,2,ENGENESelcaDay,243.314
+18:40,3,CashAppBTCWeek,17.424
+18:40,4,우리_우주의_중심인_엔시티_6주년,212.481
+18:40,5,ENSD,237.772
+18:40,6,第78回,
+18:40,7,Alckmin,16.668
+18:40,8,TO6ETHER WITH OUR ACE TEN,114.047
+18:40,9,Wordle 294,
+18:40,10,BTS vs BTS,34.779
+19:10,1,ToTheWorld6thYearWithNCT,232.656
+19:10,2,CashAppBTCWeek,20.706
+19:10,3,ENGENESelcaDay,253.430
+19:10,4,우리_우주의_중심인_엔시티_6주년,220.221
+19:10,5,ENSD,246.975
+19:10,6,Alckmin,19.677
+19:10,7,第78回,
+19:10,8,Judge,552.137
+19:10,9,Wordle 294,
+19:10,10,TO6ETHER WITH OUR ACE TEN,123.095
+19:40,1,Gerrit Cole,
+19:40,2,CashAppBTCWeek,22.983
+19:40,3,ToTheWorld6thYearWithNCT,237.642
+19:40,4,우리_우주의_중심인_엔시티_6주년,224.443
+19:40,5,ENGENESelcaDay,258.972
+19:40,6,Yankees,64.766
+19:40,7,陪伴NCT六周年至永远,213.621
+19:40,8,Alckmin,22.797
+19:40,9,Devers,
+19:40,10,第78回,
+20:10,1,GTvsPBKS,
+20:10,2,Gerrit Cole,
+20:10,3,امپورٹڈ_حکومت_نامنظور,99.965
+20:10,4,CashAppBTCWeek,24.361
+20:10,5,ToTheWorld6thYearWithNCT,241.027
+20:10,6,Yankees,66.401
+20:10,7,우리_우주의_중심인_엔시티_6주년,227.226
+20:10,8,Alckmin,25.327
+20:10,9,Tewatia,15.351
+20:10,10,Rizzo,
+20:40,1,GTvsPBKS,11.098
+20:40,2,امپورٹڈ_حکومت_نامنظور,163.425
+20:40,3,Gerrit Cole,
+20:40,4,Tewatia,
+20:40,5,CashAppBTCWeek,25.694
+20:40,6,ToTheWorld6thYearWithNCT,243.358
+20:40,7,Alckmin,27.891
+20:40,8,Yankees,71.131
+20:40,9,Odean Smith,
+20:40,10,Stanton,
+21:10,1,GTvsPBKS,12.155
+21:10,2,امپورٹڈ_حکومت_نامنظور,216.482
+21:10,3,freecodefridaycontest,
+21:10,4,Tewatia,
+21:10,5,Gerrit Cole,
+21:10,6,CashAppBTCWeek,26.696
+21:10,7,Alckmin,30.091
+21:10,8,Yankees,70.892
+21:10,9,Rizzo,
+21:10,10,Stanton,
+21:40,1,freecodefridaycontest,
+21:40,2,امپورٹڈ_حکومت_نامنظور,258.664
+21:40,3,GTvsPBKS,12.552
+21:40,4,Tewatia,
+21:40,5,Alckmin,32.411
+21:40,6,MaskSinger,
+21:40,7,Gerrit Cole,
+21:40,8,Oscars for 10,19.391
+21:40,9,Yankees,72.991
+21:40,10,Roman Polanski,
+22:10,1,freecodefridaycontest,
+22:10,2,امپورٹڈ_حکومت_نامنظور,292.846
+22:10,3,MaskSinger,
+22:10,4,GTvsPBKS,12.829
+22:10,5,Roman Polanski,
+22:10,6,TOTP,
+22:10,7,Oscars for 10,29.680
+22:10,8,Alckmin,34.695
+22:10,9,Yankees,74.818
+22:10,10,Gerrit Cole,
+22:40,1,FreeCodeFridayContest,
+22:40,2,MaskSinger,
+22:40,3,امپورٹڈ_حکومت_نامنظور,319.923
+22:40,4,fosstotounel,
+22:40,5,NEWWOL,
+22:40,6,Roman Polanski,11.127
+22:40,7,Alckmin,37.101
+22:40,8,Oscars for 10,37.760
+22:40,9,Stanton,
+22:40,10,Yankees,77.792
+23:10,1,FreeCodeFridayContest,
+23:10,2,fosstotounel,11.275
+23:10,3,NUFC,
+23:10,4,MaskSinger,
+23:10,5,NEWWOL,
+23:10,6,Yankees,78.318
+23:10,7,Roman Polanski,13.779
+23:10,8,Alckmin,39.275
+23:10,9,Oscars for 10,44.521
+23:10,10,Javy,
+23:40,1,fosstotounel,15.626
+23:40,2,FreeCodeFridayContest,
+23:40,3,NUFC,10.706
+23:40,4,MaskSinger,10.110
+23:40,5,الهلال_الشارقه,89.339
+23:40,6,Yankees,95.114
+23:40,7,Josh Donaldson,
+23:40,8,Alckmin,42.037
+23:40,9,بيريرا,11.851
+23:40,10,Roman Polanski,16.298

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Liverpool,510.176
+00:10,2,Rulli,94.649
+00:10,3,VILLIV,142.698
+00:10,4,AutoempleoEdomex,33.862
+00:10,5,Diaz,202.768
+00:10,6,YNWA,22.131
+00:10,7,ChampionsLeague,28.063
+00:10,8,Klopp,81.127
+00:10,9,sessizistila,167.637
+00:10,10,Emery,42.109
+00:40,1,Liverpool,521.531
+00:40,2,Rulli,96.351
+00:40,3,VILLIV,143.809
+00:40,4,AutoempleoEdomex,36.370
+00:40,5,Diaz,212.357
+00:40,6,YNWA,24.132
+00:40,7,sessizistila,176.804
+00:40,8,ChampionsLeague,29.084
+00:40,9,Klopp,86.165
+00:40,10,Paris,213.195
+01:10,1,Liverpool,534.942
+01:10,2,Rulli,97.415
+01:10,3,AutoempleoEdomex,38.520
+01:10,4,VILLIV,144.016
+01:10,5,Diaz,217.820
+01:10,6,sessizistila,181.367
+01:10,7,YNWA,26.748
+01:10,8,ChampionsLeague,29.601
+01:10,9,Klopp,89.352
+01:10,10,Paris,217.208
+01:40,1,Liverpool,543.834
+01:40,2,AutoempleoEdomex,40.305
+01:40,3,Rulli,98.369
+01:40,4,Jaylen Brown,12.472
+01:40,5,VILLIV,144.690
+01:40,6,sessizistila,187.296
+01:40,7,Diaz,223.618
+01:40,8,YNWA,28.609
+01:40,9,ChampionsLeague,29.993
+01:40,10,Klopp,92.132
+02:10,1,Liverpool,547.649
+02:10,2,Jaylen Brown,20.818
+02:10,3,AutoempleoEdomex,41.738
+02:10,4,Rulli,99.191
+02:10,5,Giannis,34.986
+02:10,6,VILLIV,145.180
+02:10,7,Grant Williams,
+02:10,8,sessizistila,188.269
+02:10,9,Diaz,225.850
+02:10,10,Bucks,50.173
+02:40,1,Jaylen Brown,23.568
+02:40,2,Liverpool,553.336
+02:40,3,AutoempleoEdomex,43.106
+02:40,4,Giannis,39.899
+02:40,5,Rulli,99.865
+02:40,6,Grant Williams,
+02:40,7,Bucks,54.350
+02:40,8,VILLIV,145.414
+02:40,9,sessizistila,191.403
+02:40,10,Athletico,10.675
+03:10,1,Giannis,44.678
+03:10,2,Jaylen Brown,24.772
+03:10,3,Veiga,
+03:10,4,Arana,
+03:10,5,Liverpool,557.460
+03:10,6,AutoempleoEdomex,44.240
+03:10,7,Bucks,56.832
+03:10,8,RHONJ,
+03:10,9,Grant Williams,
+03:10,10,Vargas,17.891
+03:40,1,Pantanal,27.278
+03:40,2,Celtics,70.904
+03:40,3,Giannis,50.958
+03:40,4,Jaylen Brown,26.415
+03:40,5,Veiga,10.842
+03:40,6,Grant Williams,
+03:40,7,Arana,
+03:40,8,Bucks,62.761
+03:40,9,AutoempleoEdomex,45.311
+03:40,10,RHONJ,
+04:10,1,NoLimite,13.570
+04:10,2,Veiga,22.228
+04:10,3,Brooks,34.449
+04:10,4,Celtics,78.082
+04:10,5,Pantanal,30.780
+04:10,6,bucciovertimechallenge,
+04:10,7,Giannis,52.505
+04:10,8,ThisIsUs,
+04:10,9,Grant Williams,
+04:10,10,Jaylen Brown,27.762
+04:40,1,Wiggins,36.036
+04:40,2,NoLimite,22.944
+04:40,3,Veiga,27.195
+04:40,4,Brooks,39.730
+04:40,5,bucciovertimechallenge,
+04:40,6,Celtics,81.204
+04:40,7,Pantanal,32.248
+04:40,8,ThisIsUs,
+04:40,9,Giannis,53.958
+04:40,10,Keno,
+05:10,1,NoLimite,30.463
+05:10,2,Wiggins,40.257
+05:10,3,Veiga,29.937
+05:10,4,AutoempleoEdomex,54.846
+05:10,5,Brooks,41.998
+05:10,6,bucciovertimechallenge,
+05:10,7,ThisIsUs,10.387
+05:10,8,Celtics,82.617
+05:10,9,Pantanal,33.201
+05:10,10,Giannis,53.970
+05:40,1,Wiggins,43.291
+05:40,2,NoLimite,31.885
+05:40,3,AutoempleoEdomex,60.189
+05:40,4,ラブライブ三昧,17.751
+05:40,5,Veiga,31.172
+05:40,6,Brooks,43.533
+05:40,7,ThisIsUs,11.004
+05:40,8,bucciovertimechallenge,
+05:40,9,Klay,22.427
+05:40,10,Celtics,84.216
+06:10,1,Wiggins,46.405
+06:10,2,ラブライブ三昧,45.576
+06:10,3,NoLimite,32.634
+06:10,4,AutoempleoEdomex,63.170
+06:10,5,Ja Morant,31.508
+06:10,6,Klay,31.930
+06:10,7,Curry,84.087
+06:10,8,LetsGoPens,11.405
+06:10,9,Veiga,31.766
+06:10,10,Grizzlies,31.681
+06:40,1,Ja Morant,61.388
+06:40,2,Klay,46.799
+06:40,3,Wiggins,49.937
+06:40,4,ラブライブ三昧,65.983
+06:40,5,Warriors,169.235
+06:40,6,Memphis,56.016
+06:40,7,AutoempleoEdomex,64.565
+06:40,8,NoLimite,33.202
+06:40,9,Steph,54.464
+06:40,10,Curry,90.879
+07:10,1,Ja Morant,66.655
+07:10,2,Klay,48.281
+07:10,3,ラブライブ三昧,93.926
+07:10,4,Wiggins,50.712
+07:10,5,Warriors,174.162
+07:10,6,Memphis,57.552
+07:10,7,NoLimite,33.536
+07:10,8,Steph,57.403
+07:10,9,AutoempleoEdomex,65.253
+07:10,10,MayThe4thBeWithYou,38.659
+07:40,1,Ja Morant,70.269
+07:40,2,Klay,49.175
+07:40,3,ラブライブ三昧,117.166
+07:40,4,MayThe4thBeWithYou,42.495
+07:40,5,Warriors,179.749
+07:40,6,Wiggins,51.183
+07:40,7,Memphis,58.881
+07:40,8,Grizzlies,43.920
+07:40,9,Steph,59.499
+07:40,10,JO1_With_Usのここが好き,
+08:10,1,Ja Morant,72.035
+08:10,2,ラブライブ三昧,136.112
+08:10,3,MayThe4thBeWithYou,46.960
+08:10,4,Klay,49.414
+08:10,5,JO1_With_Usのここが好き,11.831
+08:10,6,Warriors,180.645
+08:10,7,Wiggins,51.599
+08:10,8,StarWarsDay,23.084
+08:10,9,Memphis,59.133
+08:10,10,Grizzlies,44.749
+08:40,1,MayThe4thBeWithYou,51.799
+08:40,2,ラブライブ三昧,153.762
+08:40,3,Ja Morant,74.129
+08:40,4,StarWarsDay,25.659
+08:40,5,Klay,49.986
+08:40,6,JO1_With_Usのここが好き,13.919
+08:40,7,Warriors,183.541
+08:40,8,カムカム総集編,
+08:40,9,Wiggins,51.935
+08:40,10,Memphis,59.889
+09:10,1,MayThe4thBeWithYou,57.104
+09:10,2,StarWarsDay,29.112
+09:10,3,ラブライブ三昧,171.207
+09:10,4,Ja Morant,75.256
+09:10,5,Klay,50.037
+09:10,6,JO1_With_Usのここが好き,15.889
+09:10,7,カムカム総集編,
+09:10,8,Warriors,182.898
+09:10,9,Wiggins,52.187
+09:10,10,みどりの日,145.713
+09:40,1,MayThe4thBeWithYou,62.965
+09:40,2,StarWarsDay,33.364
+09:40,3,ラブライブ三昧,195.495
+09:40,4,Ja Morant,76.589
+09:40,5,ウマ娘4th,17.022
+09:40,6,カムカム総集編,10.772
+09:40,7,まりほー,
+09:40,8,Klay,50.541
+09:40,9,Dave Chappelle,
+09:40,10,みどりの日,151.410
+10:10,1,MayThe4thBeWithYou,69.974
+10:10,2,StarWarsDay,37.772
+10:10,3,横浜優勝,
+10:10,4,ラブライブ三昧,213.839
+10:10,5,カムカム総集編,14.077
+10:10,6,SUPERGT,52.926
+10:10,7,Ja Morant,77.255
+10:10,8,Dave Chappelle,13.277
+10:10,9,すわほー,
+10:10,10,JAKE LOCKLEY,
+10:40,1,MayThe4thBeWithYou,77.502
+10:40,2,StarWarsDay,42.287
+10:40,3,横浜優勝,
+10:40,4,ラブライブ三昧,232.000
+10:40,5,カムカム総集編,15.304
+10:40,6,SUPERGT,59.170
+10:40,7,すわほー,
+10:40,8,Dave Chappelle,16.437
+10:40,9,Jake Lockley,
+10:40,10,クラッシュ,10.010
+11:10,1,MayThe4thBeWithYou,84.604
+11:10,2,StarWarsDay,46.523
+11:10,3,横浜優勝,
+11:10,4,ラブライブ三昧,251.541
+11:10,5,SUPERGT,63.748
+11:10,6,LetLeniKikoLead,27.838
+11:10,7,Dave Chappelle,19.513
+11:10,8,Jake Lockley,
+11:10,9,すわほー,
+11:10,10,Layla,12.366
+11:40,1,MayThe4thBeWithYou,92.526
+11:40,2,MoonKnight,86.898
+11:40,3,StarWarsDay,50.874
+11:40,4,ラブライブ三昧,273.329
+11:40,5,SUPERGT,70.934
+11:40,6,横浜優勝,
+11:40,7,Dave Chappelle,22.515
+11:40,8,Jake Lockley,11.718
+11:40,9,Santi Mina,
+11:40,10,Layla,13.915
+12:10,1,MayThe4thBeWithYou,100.858
+12:10,2,MoonKnight,96.392
+12:10,3,StarWarsDay,55.972
+12:10,4,FlySafair,
+12:10,5,LetLeniKikoLead,32.477
+12:10,6,横浜優勝,
+12:10,7,Dave Chappelle,25.452
+12:10,8,Santi Mina,
+12:10,9,Jake Lockley,13.747
+12:10,10,Layla,14.948
+12:40,1,MayThe4thBeWithYou,109.794
+12:40,2,MoonKnight,106.649
+12:40,3,StarWarsDay,61.135
+12:40,4,LOVE1stWIN,
+12:40,5,FlySafair,
+12:40,6,新シリーズ配信アニメ制作決定,
+12:40,7,コパノリッキー,
+12:40,8,Dave Chappelle,29.087
+12:40,9,横浜優勝,
+12:40,10,Santi Mina,
+13:10,1,MayThe4thBeWithYou,119.860
+13:10,2,StarWarsDay,67.237
+13:10,3,MoonKnight,115.758
+13:10,4,LOVE1stWIN,16.140
+13:10,5,コパノリッキー,23.161
+13:10,6,新シリーズ配信アニメ制作決定,19.223
+13:10,7,JuackeandoFinetwork10,
+13:10,8,ウマ娘3期,
+13:10,9,オペラオー,
+13:10,10,Dave Chappelle,33.381
+13:40,1,MayThe4thBeWithYou,130.721
+13:40,2,StarWarsDay,74.465
+13:40,3,MoonKnight,125.653
+13:40,4,LOVE1stWin,24.451
+13:40,5,コパノリッキー,32.022
+13:40,6,JuackeandoFinetwork10,
+13:40,7,新シリーズ配信アニメ制作決定,31.184
+13:40,8,オペラオー,
+13:40,9,ウマ娘3期,
+13:40,10,Dave Chappelle,39.134
+14:10,1,MayThe4thBeWithYou,139.060
+14:10,2,StarWarsDay,82.149
+14:10,3,MoonKnight,135.355
+14:10,4,コパノリッキー,38.949
+14:10,5,LOVE1stWin,28.165
+14:10,6,JuackeandoFinetwork10,11.007
+14:10,7,Dave Chappelle,45.975
+14:10,8,オペラオー,
+14:10,9,新シリーズ配信アニメ制作決定,36.865
+14:10,10,ウマ娘3期,
+14:40,1,MayThe4thBeWithYou,152.534
+14:40,2,StarWarsDay,91.084
+14:40,3,MoonKnight,146.824
+14:40,4,コパノリッキー,43.452
+14:40,5,Love1stWin,31.306
+14:40,6,LISAXCELINE,48.371
+14:40,7,Dave Chappelle,53.457
+14:40,8,オペラオー,
+14:40,9,ウマ娘3期,
+14:40,10,新シリーズ配信アニメ制作決定,41.204
+15:10,1,MayThe4thBeWithYou,174.348
+15:10,2,StarWarsDay,106.010
+15:10,3,MoonKnight,156.931
+15:10,4,LISAXCELINE,110.581
+15:10,5,ゼスプリ新CM,10.623
+15:10,6,コパノリッキー,46.812
+15:10,7,Dave Chappelle,61.800
+15:10,8,Will Smith,23.814
+15:10,9,ウマ娘3期,10.875
+15:10,10,オペラオー,
+15:40,1,MayThe4thBeWithYou,197.278
+15:40,2,StarWarsDay,121.164
+15:40,3,MoonKnight,169.090
+15:40,4,ObiWan,
+15:40,5,ゼスプリ新CM,15.488
+15:40,6,Dave Chappelle,70.524
+15:40,7,コパノリッキー,49.664
+15:40,8,Will Smith,25.864
+15:40,9,VOCÊ NUNCA ESTEVE SOZINHA,26.488
+15:40,10,榎本さん,
+16:10,1,MayThe4thBeWithYou,218.350
+16:10,2,StarWarsDay,135.007
+16:10,3,MoonKnight,180.017
+16:10,4,ObiWan,
+16:10,5,ゼスプリ新CM,19.587
+16:10,6,Dave Chappelle,79.417
+16:10,7,Will Smith,27.709
+16:10,8,コパノリッキー,52.552
+16:10,9,VOCÊ NUNCA ESTEVE SOZINHA,29.938
+16:10,10,Carille,
+16:40,1,MayThe4thBeWithYou,241.388
+16:40,2,StarWarsDay,148.935
+16:40,3,ObiWan,
+16:40,4,MoonKnight,192.560
+16:40,5,halalanspace,17.059
+16:40,6,Dave Chappelle,88.063
+16:40,7,Will Smith,29.861
+16:40,8,VOCÊ NUNCA ESTEVE SOZINHA,31.630
+16:40,9,Carille,
+16:40,10,コパノリッキー,54.800
+17:10,1,MayThe4thBeWithYou,262.342
+17:10,2,StarWarsDay,163.329
+17:10,3,ObiWan,10.732
+17:10,4,MoonKnight,204.411
+17:10,5,halalanspace,20.269
+17:10,6,Dave Chappelle,96.053
+17:10,7,Will Smith,32.146
+17:10,8,어린이날,112.533
+17:10,9,Carille,
+17:10,10,VOCÊ NUNCA ESTEVE SOZINHA,33.048
+17:40,1,MayThe4thBeWithYou,285.073
+17:40,2,StarWarsDay,178.451
+17:40,3,BTS_Proof,331.624
+17:40,4,JO1ANNX,65.080
+17:40,5,深澤辰哉誕生祭,34.126
+17:40,6,어린이날,134.705
+17:40,7,Dave Chappelle,103.476
+17:40,8,Will Smith,34.818
+17:40,9,ふっかさん,17.527
+17:40,10,ARIA TRACK LIST,18.718
+18:10,1,BTS_Proof,451.388
+18:10,2,MayThe4thBeWithYou,305.465
+18:10,3,StarWarsDay,191.374
+18:10,4,深澤辰哉誕生祭,38.473
+18:10,5,JO1ANNX,106.922
+18:10,6,어린이날,148.749
+18:10,7,新曲3曲,
+18:10,8,BANGTAN,113.702
+18:10,9,ふっかさん,19.668
+18:10,10,Dave Chappelle,110.208
+18:40,1,BTS_Proof,556.613
+18:40,2,MayThe4thBeWithYou,326.031
+18:40,3,StarWarsDay,204.178
+18:40,4,深澤辰哉誕生祭,40.682
+18:40,5,JO1ANNX,120.011
+18:40,6,어린이날,159.384
+18:40,7,BANGTAN,119.386
+18:40,8,新曲3曲,
+18:40,9,ふっかさん,20.667
+18:40,10,Dave Chappelle,117.289
+19:10,1,BTS_Proof,620.924
+19:10,2,MayThe4thBeWithYou,345.947
+19:10,3,StarWarsDay,215.937
+19:10,4,ashsgs,54.503
+19:10,5,BTSCOMEBACK2022,33.917
+19:10,6,어린이날,166.532
+19:10,7,BANGTAN,122.464
+19:10,8,新曲3曲,
+19:10,9,ふっかさん,21.079
+19:10,10,第104回,
+19:40,1,BTS_Proof,667.194
+19:40,2,MayThe4thBeWithYou,365.885
+19:40,3,ashsgs,64.045
+19:40,4,StarWarsDay,227.491
+19:40,5,BTSCOMEBACK2022,35.964
+19:40,6,어린이날,176.729
+19:40,7,Bangtan,126.140
+19:40,8,Matt Gaetz,25.253
+19:40,9,新曲3曲,
+19:40,10,第104回,
+20:10,1,BTS_Proof,701.978
+20:10,2,MayThe4thBeWithYou,384.304
+20:10,3,ashsgs,86.511
+20:10,4,StarWarsDay,238.055
+20:10,5,방탄소년단,642.200
+20:10,6,어린이날,181.252
+20:10,7,Bangtan,127.443
+20:10,8,Matt Gaetz,29.436
+20:10,9,第104回,
+20:10,10,Dave Chappelle,135.249
+20:40,1,BTS_Proof,733.685
+20:40,2,MayThe4thBeWithYou,403.054
+20:40,3,ashsgs,94.092
+20:40,4,StarWarsDay,247.981
+20:40,5,방탄소년단,654.654
+20:40,6,어린이날,184.625
+20:40,7,Matt Gaetz,33.364
+20:40,8,Hifaya UmutOl,
+20:40,9,JJ Redick,21.086
+20:40,10,Bangtan,129.508
+21:10,1,BTS_Proof,763.501
+21:10,2,MayThe4thBeWithYou,419.128
+21:10,3,RMAMCI,29.529
+21:10,4,Star Wars,347.696
+21:10,5,RealManCity,
+21:10,6,HalaMadrid,21.734
+21:10,7,Real Madrid,240.478
+21:10,8,Powell,28.210
+21:10,9,Matt Gaetz,36.779
+21:10,10,JJ Redick,24.251
+21:40,1,Casemiro,44.011
+21:40,2,RMAMCI,49.640
+21:40,3,RealManCity,18.872
+21:40,4,BTS_Proof,787.353
+21:40,5,Laporte,22.361
+21:40,6,MayThe4thBeWithYou,435.267
+21:40,7,cashapp99off,17.540
+21:40,8,Ertem Şener,
+21:40,9,Star Wars,359.340
+21:40,10,Real Madrid,274.929
+22:10,1,Casemiro,69.699
+22:10,2,RMAMCI,61.653
+22:10,3,RealManCity,25.815
+22:10,4,Laporte,27.807
+22:10,5,Walker,66.571
+22:10,6,MayThe4thBeWithYou,449.526
+22:10,7,BTS_Proof,807.669
+22:10,8,Ertem Şener,
+22:10,9,Vini,40.902
+22:10,10,Madrid,576.945
+22:40,1,Casemiro,79.933
+22:40,2,RMAMCI,78.432
+22:40,3,Mahrez,48.932
+22:40,4,Walker,87.434
+22:40,5,RealManCity,37.208
+22:40,6,Bernardo Silva,14.360
+22:40,7,Vini,54.683
+22:40,8,Benzema,139.351
+22:40,9,Modric,36.662
+22:40,10,Laporte,28.730
+23:10,1,Real Madrid,541.157
+23:10,2,RMAMCI,118.322
+23:10,3,Benzema,220.640
+23:10,4,Rodrygo,118.543
+23:10,5,Casemiro,84.529
+23:10,6,ChampionsLeague,51.880
+23:10,7,Guardiola,56.605
+23:10,8,Bernardo Silva,21.203
+23:10,9,Mahrez,60.276
+23:10,10,Walker,89.660
+23:40,1,Real Madrid,699.199
+23:40,2,RMAMCI,147.357
+23:40,3,Benzema,286.432
+23:40,4,Guardiola,95.387
+23:40,5,Rodrygo,163.533
+23:40,6,ChampionsLeague,67.532
+23:40,7,Camavinga,70.445
+23:40,8,Casemiro,91.433
+23:40,9,Mahrez,74.083
+23:40,10,Sterling,32.674

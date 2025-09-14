@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Tello,43.735
+00:10,2,Ituano,82.846
+00:10,3,Racing,119.729
+00:10,4,ImACeleb,44.152
+00:10,5,Jets,162.545
+00:10,6,Benedetto,11.736
+00:10,7,Packers,104.492
+00:10,8,Raiders,79.318
+00:10,9,Alcaraz,14.603
+00:10,10,Bills,159.121
+00:40,1,Ituano,96.193
+00:40,2,Tello,53.402
+00:40,3,Racing,145.597
+00:40,4,Cruzeiro,46.626
+00:40,5,Benedetto,18.905
+00:40,6,Jets,166.422
+00:40,7,ImACeleb,45.437
+00:40,8,O Vasco,121.006
+00:40,9,NCTDREAMTHEMOVIEInADREAM,90.074
+00:40,10,Packers,106.882
+01:10,1,Ituano,100.233
+01:10,2,Tello,57.774
+01:10,3,Racing,157.251
+01:10,4,Cruzeiro,58.702
+01:10,5,NCTDREAMTHEMOVIEInADREAM,103.018
+01:10,6,Benedetto,22.787
+01:10,7,O Vasco,148.762
+01:10,8,Jets,167.959
+01:10,9,ImACeleb,46.112
+01:10,10,VASCO DA GAMA,32.539
+01:40,1,Rams,37.389
+01:40,2,Brady,66.639
+01:40,3,Ituano,102.368
+01:40,4,Tello,60.745
+01:40,5,Racing,166.659
+01:40,6,NCTDREAMTHEMOVIEInADREAM,112.832
+01:40,7,Bucs,20.605
+01:40,8,Cruzeiro,66.355
+01:40,9,Benedetto,25.196
+01:40,10,O Vasco,161.331
+02:10,1,Rams,40.213
+02:10,2,Brady,75.129
+02:10,3,Ituano,103.303
+02:10,4,Racing,172.769
+02:10,5,Tello,63.025
+02:10,6,NCTDREAMTHEMOVIEInADREAM,119.684
+02:10,7,Bucs,22.021
+02:10,8,Cruzeiro,72.081
+02:10,9,Kathy Griffin,38.840
+02:10,10,Benedetto,26.492
+02:40,1,Rams,41.772
+02:40,2,Brady,79.247
+02:40,3,Racing,179.486
+02:40,4,Ituano,104.342
+02:40,5,Tello,64.652
+02:40,6,NCTDREAMTHEMOVIEInADREAM,126.026
+02:40,7,Kathy Griffin,50.414
+02:40,8,Bucs,22.818
+02:40,9,Cruzeiro,77.877
+02:40,10,RHOP,
+03:10,1,RHOP,16.681
+03:10,2,Rams,42.492
+03:10,3,Brady,81.533
+03:10,4,Viera,
+03:10,5,Racing,183.604
+03:10,6,Kathy Griffin,62.625
+03:10,7,Ituano,104.450
+03:10,8,GH2002,30.330
+03:10,9,Tello,66.161
+03:10,10,NCTDREAMTHEMOVIEInADREAM,130.511
+03:40,1,GH2002,60.643
+03:40,2,GranHermano,117.047
+03:40,3,Tora,127.362
+03:40,4,Guilherme de Pádua,37.830
+03:40,5,agustin,75.523
+03:40,6,RHOP,20.511
+03:40,7,Derrick Henry,
+03:40,8,Frodo,50.094
+03:40,9,Viera,12.856
+03:40,10,Rams,43.464
+04:10,1,GH2002,82.745
+04:10,2,GranHermano,152.121
+04:10,3,Guilherme de Pádua,59.653
+04:10,4,Tora,167.735
+04:10,5,Mora,169.488
+04:10,6,Agustín,95.712
+04:10,7,Frodo,62.026
+04:10,8,RHOP,22.426
+04:10,9,Derrick Henry,
+04:10,10,Viera,13.975
+04:40,1,GH2002,92.187
+04:40,2,GranHermano,169.916
+04:40,3,Guilherme de Pádua,69.771
+04:40,4,Tora,189.723
+04:40,5,Mora,186.580
+04:40,6,Agustín,105.949
+04:40,7,Frodo,68.898
+04:40,8,RHOP,24.112
+04:40,9,MasterChefCelebrity,
+04:40,10,Kathy Griffin,97.765
+05:10,1,GH2002,95.675
+05:10,2,GranHermano,174.921
+05:10,3,Guilherme de Pádua,76.560
+05:10,4,Tora,201.215
+05:10,5,Agustín,110.310
+05:10,6,Mora,187.299
+05:10,7,GH22,169.418
+05:10,8,Chiefs,57.741
+05:10,9,Mahomes,23.322
+05:10,10,Titans,56.927
+05:40,1,Mahomes,33.086
+05:40,2,GH2002,99.200
+05:40,3,GranHermano,181.592
+05:40,4,Titans,69.853
+05:40,5,Chiefs,68.727
+05:40,6,Guilherme de Pádua,80.172
+05:40,7,Tora,208.888
+05:40,8,Agustín,113.806
+05:40,9,Mora,192.107
+05:40,10,MasterChefCelebrity,
+06:10,1,Titans,84.362
+06:10,2,Mahomes,40.949
+06:10,3,Chiefs,83.488
+06:10,4,Malik Willis,12.224
+06:10,5,GH2002,100.734
+06:10,6,GranHermano,182.376
+06:10,7,Guilherme de Pádua,82.606
+06:10,8,MasterChefCelebrity,11.578
+06:10,9,Tora,210.689
+06:10,10,Kelce,15.646
+06:40,1,Titans,89.307
+06:40,2,Mahomes,44.420
+06:40,3,Chiefs,88.677
+06:40,4,Malik Willis,12.951
+06:40,5,GH2002,102.898
+06:40,6,MasterChefCelebrity,13.433
+06:40,7,GranHermano,186.481
+06:40,8,Guilherme de Pádua,84.151
+06:40,9,Tora,213.618
+06:40,10,Kelce,16.450
+07:10,1,Titans,91.211
+07:10,2,Mahomes,46.069
+07:10,3,Chiefs,90.427
+07:10,4,Malik Willis,13.284
+07:10,5,GH2002,104.063
+07:10,6,MasterChefCelebrity,13.803
+07:10,7,Guilherme de Pádua,85.284
+07:10,8,GranHermano,186.830
+07:10,9,pazartesi,
+07:10,10,Kelce,16.875
+07:40,1,Titans,92.113
+07:40,2,Mahomes,47.195
+07:40,3,Chiefs,92.049
+07:40,4,Malik Willis,13.486
+07:40,5,pazartesi,
+07:40,6,GH2002,105.113
+07:40,7,MondayMotivation,10.019
+07:40,8,MasterChefCelebrity,14.103
+07:40,9,Guilherme de Pádua,86.208
+07:40,10,GranHermano,188.987
+08:10,1,Titans,93.181
+08:10,2,Mahomes,47.868
+08:10,3,Chiefs,92.453
+08:10,4,MondayMotivation,12.292
+08:10,5,pazartesi,
+08:10,6,Malik Willis,13.612
+08:10,7,TungguAkuDiJakarta,
+08:10,8,タッキーTwitter,
+08:10,9,MasterChefCelebrity,14.319
+08:10,10,GH2002,105.505
+08:40,1,MondayMotivation,14.417
+08:40,2,pazartesi,
+08:40,3,Mahomes,48.385
+08:40,4,Titans,93.849
+08:40,5,Chiefs,93.237
+08:40,6,TungguAkuDiJakarta,
+08:40,7,Malik Willis,13.707
+08:40,8,タッキー,30.905
+08:40,9,シーグリ,
+08:40,10,WayV,72.769
+09:10,1,キミのTwitterアイコン,
+09:10,2,フェス限定フレーム,
+09:10,3,MondayMotivation,16.045
+09:10,4,タッキー,36.183
+09:10,5,pazartesi,
+09:10,6,कांग्रेस_साठ_भाजपा_आठ,
+09:10,7,Celebrating50kEVs,
+09:10,8,TungguAkuDiJakarta,
+09:10,9,シーグリ,
+09:10,10,Malik Willis,13.808
+09:40,1,キミのTwitterアイコン,
+09:40,2,フェス限定フレーム,
+09:40,3,タッキー,43.730
+09:40,4,MondayMotivation,18.020
+09:40,5,SonuSoodExplurgerApp,
+09:40,6,最後の待ち合わせ,10.055
+09:40,7,pazartesi,
+09:40,8,PilDunBarengIOH,
+09:40,9,कांग्रेस_साठ_भाजपा_आठ,
+09:40,10,シーグリ,
+10:10,1,キミのTwitterアイコン,
+10:10,2,フェス限定フレーム,11.065
+10:10,3,タッキー,49.491
+10:10,4,MondayMotivation,19.661
+10:10,5,SonuSoodExplurgerApp,
+10:10,6,BasTujhsePyaarHoOutNow,
+10:10,7,PilDunBarengIOH,
+10:10,8,皆既月食,35.874
+10:10,9,pazartesi,
+10:10,10,シーグリ,
+10:40,1,フェス限定フレーム,13.404
+10:40,2,キミのTwitterアイコン,
+10:40,3,タッキー,54.538
+10:40,4,MondayMotivation,21.254
+10:40,5,皆既月食,42.804
+10:40,6,Celebrating50kEVs,
+10:40,7,SonuSoodExplurgerApp,
+10:40,8,あなたを鍋に例える,
+10:40,9,BasTujhsePyaarHoOutNow,
+10:40,10,シーグリ,
+11:10,1,CDTVライブライブ,43.287
+11:10,2,フェス限定フレーム,15.424
+11:10,3,キミのTwitterアイコン,
+11:10,4,タッキー,59.440
+11:10,5,皆既月食,50.562
+11:10,6,MondayMotivation,21.692
+11:10,7,TajwidCinta,
+11:10,8,SCTVSinetron,
+11:10,9,あなたを鍋に例える,
+11:10,10,Cut Syifa,
+11:40,1,CDTVライブライブ,76.494
+11:40,2,フェス限定フレーム,17.177
+11:40,3,キミのTwitterアイコン,
+11:40,4,皆既月食,58.724
+11:40,5,タッキー,64.359
+11:40,6,ネプリーグ,
+11:40,7,MondayMotivation,22.938
+11:40,8,Jリーグアウォーズ,
+11:40,9,dreamspace,
+11:40,10,トラジャ,22.774
+12:10,1,CDTVライブライブ,149.626
+12:10,2,トラジャ,35.573
+12:10,3,KingandPrince,251.714
+12:10,4,キミのTwitterアイコン,
+12:10,5,フェス限定フレーム,18.723
+12:10,6,TravisJapan,81.339
+12:10,7,皆既月食,64.585
+12:10,8,UCLdraw,22.156
+12:10,9,Jリーグアウォーズ,14.449
+12:10,10,タッキー,68.323
+12:40,1,CDTVライブライブ,205.705
+12:40,2,UCLdraw,87.335
+12:40,3,Liverpool,205.231
+12:40,4,KingandPrince,289.672
+12:40,5,トラジャ,42.308
+12:40,6,キミのTwitterアイコン,
+12:40,7,フェス限定フレーム,19.982
+12:40,8,皆既月食,71.712
+12:40,9,TravisJapan,92.936
+12:40,10,ツキヨミ,111.603
+13:10,1,CDTVライブライブ,242.809
+13:10,2,UCLdraw,113.714
+13:10,3,けんしげひー仲良しかい,26.655
+13:10,4,Liverpool,218.840
+13:10,5,Bayern,102.999
+13:10,6,ERIC,131.636
+13:10,7,KingandPrince,309.370
+13:10,8,トラジャ,45.304
+13:10,9,BACK IN THE GAME SOHN,
+13:10,10,皆既月食,77.369
+13:40,1,けんしげひー仲良しかい,70.973
+13:40,2,CDTVライブライブ,278.420
+13:40,3,UCLdraw,128.968
+13:40,4,Liverpool,239.521
+13:40,5,Bayern,118.780
+13:40,6,ERIC,158.058
+13:40,7,BACK IN THE GAME SOHN,14.887
+13:40,8,KingandPrince,323.666
+13:40,9,皆既月食,83.342
+13:40,10,トラジャ,48.308
+14:10,1,けんしげひー仲良しかい,80.028
+14:10,2,CDTVライブライブ,298.306
+14:10,3,UCLdraw,139.148
+14:10,4,Liverpool,257.623
+14:10,5,ERIC,168.467
+14:10,6,Bayern,129.212
+14:10,7,BACK IN THE GAME SOHN,20.679
+14:10,8,Barcelona,157.274
+14:10,9,皆既月食,87.811
+14:10,10,ゆめせか生放送,14.993
+14:40,1,けんしげひー仲良しかい,86.905
+14:40,2,CDTVライブライブ,311.458
+14:40,3,Liverpool,276.808
+14:40,4,UCLdraw,146.565
+14:40,5,ERIC,180.106
+14:40,6,Bayern,137.948
+14:40,7,Mリーグ,14.299
+14:40,8,エルピス,12.299
+14:40,9,BACK IN THE GAME SOHN,24.867
+14:40,10,Barcelona,170.143
+15:10,1,けんしげひー仲良しかい,90.380
+15:10,2,Mリーグ,22.511
+15:10,3,คุณชายep11,43.871
+15:10,4,CDTVライブライブ,320.501
+15:10,5,Liverpool,283.237
+15:10,6,ERIC,184.830
+15:10,7,エルピス,20.371
+15:10,8,Bayern,144.317
+15:10,9,黒沢さん,
+15:10,10,BACK IN THE GAME SOHN,28.259
+15:40,1,けんしげひー仲良しかい,92.533
+15:40,2,คุณชายep11,93.227
+15:40,3,Mリーグ,25.874
+15:40,4,Liverpool,294.565
+15:40,5,エルピス,22.616
+15:40,6,CDTVライブライブ,337.169
+15:40,7,ERIC,193.956
+15:40,8,Bayern,150.750
+15:40,9,黒沢さん,
+15:40,10,渋川さん,
+16:10,1,คุณชายep11,135.810
+16:10,2,けんしげひー仲良しかい,94.021
+16:10,3,Mリーグ,27.253
+16:10,4,Liverpool,294.922
+16:10,5,エルピス,23.773
+16:10,6,ERIC,196.686
+16:10,7,Bayern,155.312
+16:10,8,CDTVライブライブ,350.080
+16:10,9,黒沢さん,
+16:10,10,渋川さん,
+16:40,1,คุณชายep11,163.491
+16:40,2,Mリーグ,29.548
+16:40,3,SoundCheckxNuNew,18.004
+16:40,4,けんしげひー仲良しかい,94.934
+16:40,5,BLEACH_anime,20.649
+16:40,6,Liverpool,303.818
+16:40,7,ERIC,202.913
+16:40,8,渋川さん,10.648
+16:40,9,Bayern,161.092
+16:40,10,CHESHIRE IS COMING,
+17:10,1,SoundCheckxNuNew,59.675
+17:10,2,คุณชายep11,179.840
+17:10,3,Daniel Alves,
+17:10,4,Mリーグ,30.786
+17:10,5,BLEACH_anime,23.280
+17:10,6,けんしげひー仲良しかい,95.582
+17:10,7,Liverpool,281.246
+17:10,8,ERIC,203.822
+17:10,9,渋川さん,11.230
+17:10,10,Bayern,164.657
+17:40,1,Daniel Alves,126.319
+17:40,2,Daniel Alves,126.319
+17:40,3,Gabigol,26.139
+17:40,4,Martinelli,38.517
+17:40,5,Firmino,15.186
+17:40,6,Copa,252.671
+17:40,7,SoundCheckxNuNew,109.546
+17:40,8,Rodinei,
+17:40,9,Hexa,26.822
+17:40,10,O Tite,41.748
+18:10,1,Daniel Alves,168.124
+18:10,2,Daniel Alves,168.124
+18:10,3,Gabigol,39.692
+18:10,4,Martinelli,49.919
+18:10,5,Firmino,19.199
+18:10,6,Copa,292.836
+18:10,7,Hexa,36.319
+18:10,8,Rodinei,
+18:10,9,SoundCheckxNuNew,128.356
+18:10,10,O Tite,59.978
+18:40,1,Daniel Alves,192.233
+18:40,2,Gabigol,
+18:40,3,Martinelli,57.752
+18:40,4,Firmino,22.735
+18:40,5,Copa,324.934
+18:40,6,Everton Ribeiro,33.317
+18:40,7,FBvSVS,14.679
+18:40,8,Hexa,42.481
+18:40,9,Rodinei,10.095
+18:40,10,O Tite,71.613
+19:10,1,Daniel Alves,207.979
+19:10,2,Gabigol,
+19:10,3,FBvSVS,19.655
+19:10,4,Martinelli,63.379
+19:10,5,Copa,339.299
+19:10,6,Firmino,24.784
+19:10,7,Jeff Saturday,10.207
+19:10,8,Gabriel Jesus,22.176
+19:10,9,Hüseyin Göçek,
+19:10,10,Everton Ribeiro,34.491
+19:40,1,Daniel Alves,222.077
+19:40,2,Gabigol,62.701
+19:40,3,FBvSVS,25.340
+19:40,4,Jeff Saturday,16.396
+19:40,5,Martinelli,67.144
+19:40,6,Hüseyin Göçek,11.770
+19:40,7,Copa,356.092
+19:40,8,Firmino,26.750
+19:40,9,1NoluSandık,16.043
+19:40,10,Gabriel Jesus,23.395
+20:10,1,Daniel Alves,228.156
+20:10,2,Gabigol,
+20:10,3,FBvSVS,29.246
+20:10,4,Jeff Saturday,20.376
+20:10,5,Hüseyin Göçek,14.744
+20:10,6,Martinelli,70.138
+20:10,7,Copa,364.986
+20:10,8,Firmino,28.087
+20:10,9,1NoluSandık,36.885
+20:10,10,Colts,60.629
+20:40,1,Daniel Alves,236.904
+20:40,2,FBvSVS,34.243
+20:40,3,Gabigol,71.946
+20:40,4,FenerbahçeKOLLANIYOR,
+20:40,5,Jeff Saturday,22.842
+20:40,6,Hüseyin Göçek,20.911
+20:40,7,1NoluSandık,54.911
+20:40,8,Martinelli,73.834
+20:40,9,Copa,379.554
+20:40,10,Firmino,29.786
+21:10,1,Daniel Alves,244.633
+21:10,2,FBvSVS,35.981
+21:10,3,Gabigol,76.474
+21:10,4,FenerbahçeKOLLANIYOR,
+21:10,5,Jeff Saturday,24.933
+21:10,6,Hüseyin Göçek,23.357
+21:10,7,1NoluSandık,69.991
+21:10,8,Martinelli,76.793
+21:10,9,Copa,384.941
+21:10,10,Firmino,30.935
+21:40,1,Daniel Alves,252.066
+21:40,2,FBvSVS,36.991
+21:40,3,Gabigol,80.627
+21:40,4,FenerbahçeKOLLANIYOR,
+21:40,5,Jeff Saturday,26.517
+21:40,6,Hüseyin Göçek,24.619
+21:40,7,Rayo,25.239
+21:40,8,1NoluSandık,79.878
+21:40,9,Martinelli,79.983
+21:40,10,Copa,399.599
+22:10,1,Daniel Alves,258.692
+22:10,2,Gabigol,
+22:10,3,FBvSVS,37.562
+22:10,4,Rayo,34.564
+22:10,5,FenerbahçeKOLLANIYOR,
+22:10,6,Jeff Saturday,27.851
+22:10,7,Vinicius,37.344
+22:10,8,Mendy,
+22:10,9,1NoluSandık,87.682
+22:10,10,Martinelli,81.057
+22:40,1,Daniel Alves,264.704
+22:40,2,Rayo,44.369
+22:40,3,Carvajal,12.128
+22:40,4,Gabigol,
+22:40,5,FBvSVS,38.300
+22:40,6,FenerbahçeKOLLANIYOR,
+22:40,7,Courtois,
+22:40,8,Jeff Saturday,29.218
+22:40,9,Vinicius,40.854
+22:40,10,Mendy,11.105
+23:10,1,Rayo,63.743
+23:10,2,Daniel Alves,270.143
+23:10,3,Carvajal,14.837
+23:10,4,Gabigol,92.893
+23:10,5,ImACeleb,33.196
+23:10,6,Mendy,14.376
+23:10,7,Vinicius,44.656
+23:10,8,FBvSVS,38.571
+23:10,9,Vallecas,
+23:10,10,Modric,16.257
+23:40,1,Rayo,78.507
+23:40,2,Daniel Alves,275.306
+23:40,3,Carvajal,16.624
+23:40,4,Gabigol,96.680
+23:40,5,ImACeleb,38.115
+23:40,6,Mendy,15.994
+23:40,7,artistsontwitter,47.770
+23:40,8,Vallecas,10.084
+23:40,9,Vinicius,49.195
+23:40,10,Gabriel Monteiro,22.659

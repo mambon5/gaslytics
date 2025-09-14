@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Macron,957.247
+00:10,2,Rory,30.761
+00:10,3,Le Pen,142.062
+00:10,4,Corinthians,119.817
+00:10,5,themasters,47.576
+00:10,6,Hulk,39.457
+00:10,7,Botafogo,90.539
+00:10,8,Lenglet,26.796
+00:10,9,Luuk de Jong,51.357
+00:10,10,presidentielles2022,315.061
+00:40,1,Macron,993.016
+00:40,2,Rory,33.143
+00:40,3,Le Pen,504.954
+00:40,4,themasters,50.554
+00:40,5,Corinthians,123.261
+00:40,6,Hulk,41.404
+00:40,7,Botafogo,93.243
+00:40,8,Luuk de Jong,53.865
+00:40,9,Lenglet,27.604
+00:40,10,Mélenchon,686.417
+01:10,1,Macron,1.013.396
+01:10,2,Rory,34.365
+01:10,3,themasters,54.489
+01:10,4,Le Pen,517.986
+01:10,5,ZIP,49.824
+01:10,6,Hulk,42.598
+01:10,7,Corinthians,125.532
+01:10,8,DancaDosFamosos,
+01:10,9,ちむどんどん,13.101
+01:10,10,Botafogo,94.079
+01:40,1,Calleri,24.442
+01:40,2,Macron,1.035.007
+01:40,3,Rory,35.499
+01:40,4,DancaDosFamosos,11.329
+01:40,5,themasters,58.402
+01:40,6,ちむどんどん,19.576
+01:40,7,Le Pen,531.414
+01:40,8,Zaldivia,
+01:40,9,ZIP,53.569
+01:40,10,VamosColoColo,
+02:10,1,Calleri,34.632
+02:10,2,Macron,1.047.280
+02:10,3,DancaDosFamosos,12.428
+02:10,4,ちむどんどん,21.023
+02:10,5,Rory,35.813
+02:10,6,themasters,59.231
+02:10,7,Enzo Fernández,
+02:10,8,River,109.987
+02:10,9,DateRush,22.089
+02:10,10,Zaldivia,
+02:40,1,Calleri,39.849
+02:40,2,ちむどんどん,22.395
+02:40,3,Enzo Fernández,
+02:40,4,River,115.245
+02:40,5,DancaDosFamosos,12.947
+02:40,6,Rory,36.498
+02:40,7,Macron,1.060.609
+02:40,8,themasters,60.627
+02:40,9,DateRush,23.221
+02:40,10,Zaldivia,
+03:10,1,Calleri,43.040
+03:10,2,ちむどんどん,23.123
+03:10,3,River,116.136
+03:10,4,Enzo Fernández,
+03:10,5,もうラヴィットで試食しない,
+03:10,6,90DayFiance,
+03:10,7,DancaDosFamosos,13.310
+03:10,8,Rory,36.713
+03:10,9,Macron,1.067.368
+03:10,10,themasters,60.657
+03:40,1,Calleri,45.083
+03:40,2,90DayFiance,11.136
+03:40,3,River,120.106
+03:40,4,Enzo Fernández,
+03:40,5,ちむどんどん,23.828
+03:40,6,もうラヴィットで試食しない,
+03:40,7,Aaron Hicks,
+03:40,8,Fantastico,
+03:40,9,DancaDosFamosos,13.579
+03:40,10,Macron,1.076.645
+04:10,1,Calleri,46.499
+04:10,2,90DayFiance,13.795
+04:10,3,MasterChefArgentina,
+04:10,4,Fantastico,
+04:10,5,River,119.721
+04:10,6,もうラヴィットで試食しない,
+04:10,7,Aaron Hicks,
+04:10,8,Enzo Fernández,
+04:10,9,MasterChefJunior,
+04:10,10,Raptors,16.355
+04:40,1,Lina,124.457
+04:40,2,Calleri,47.831
+04:40,3,MasterChefArgentina,
+04:40,4,90DayFiance,14.338
+04:40,5,Fantastico,
+04:40,6,夢のサムライマック,10.049
+04:40,7,Raptors,17.895
+04:40,8,Zodíaco,
+04:40,9,River,123.486
+04:40,10,Eliezer,31.586
+05:10,1,Lina,191.224
+05:10,2,Tadeu,37.131
+05:10,3,Eliezer,44.376
+05:10,4,MasterChefArgentina,13.952
+05:10,5,bbb2022,
+05:10,6,Calleri,48.707
+05:10,7,YLos30MillonesApa,45.399
+05:10,8,Fiuk,
+05:10,9,Diekman,
+05:10,10,90DayFiance,14.782
+05:40,1,Lina,213.817
+05:40,2,Tadeu,42.877
+05:40,3,Eliezer,52.433
+05:40,4,MasterChefArgentina,17.325
+05:40,5,bbb2022,
+05:40,6,Fiuk,
+05:40,7,YLos30MillonesApa,52.758
+05:40,8,foranatália,
+05:40,9,Calleri,49.432
+05:40,10,FicaPA,
+06:10,1,Lina,224.374
+06:10,2,Tadeu,46.385
+06:10,3,Eliezer,54.046
+06:10,4,foranatália,13.068
+06:10,5,klay,20.095
+06:10,6,bbb2022,
+06:10,7,MasterChefArgentina,18.725
+06:10,8,YLos30MillonesApa,59.258
+06:10,9,Fiuk,10.916
+06:10,10,ficapa,10.122
+06:40,1,Lina,232.016
+06:40,2,Tadeu,48.307
+06:40,3,Eliezer,54.986
+06:40,4,Austin Reaves,
+06:40,5,foranatália,16.127
+06:40,6,Klay,22.377
+06:40,7,BatallaDeEliminación,10.580
+06:40,8,YLos30MillonesApa,64.275
+06:40,9,bbb2022,
+06:40,10,casillas,142.711
+07:10,1,Lina,235.143
+07:10,2,Tadeu,49.103
+07:10,3,Eliezer,54.970
+07:10,4,Austin Reaves,12.069
+07:10,5,ForaNatalia,17.854
+07:10,6,YLos30MillonesApa,68.753
+07:10,7,casillas,148.025
+07:10,8,Vogel,18.696
+07:10,9,Klay,23.405
+07:10,10,BatallaDeEliminación,12.064
+07:40,1,Lina,239.889
+07:40,2,Tadeu,49.679
+07:40,3,Eliezer,55.294
+07:40,4,Austin Reaves,13.486
+07:40,5,Vogel,23.960
+07:40,6,ForaNatalia,18.919
+07:40,7,casillas,152.978
+07:40,8,YLos30MillonesApa,72.213
+07:40,9,Klay,24.262
+07:40,10,テレ東見れない,
+08:10,1,Lina,240.764
+08:10,2,Tadeu,50.141
+08:10,3,Eliezer,55.041
+08:10,4,Papa P,
+08:10,5,Vogel,26.668
+08:10,6,Austin Reaves,14.224
+08:10,7,casillas,155.927
+08:10,8,ForaNatalia,19.707
+08:10,9,テレ東見れない,
+08:10,10,Pazartesi,
+08:40,1,Lina,242.536
+08:40,2,Papa P,
+08:40,3,Tadeu,50.491
+08:40,4,BEYOND_ZERO,18.697
+08:40,5,テレ東見れない,
+08:40,6,Pazartesi,
+08:40,7,eliezer,55.221
+08:40,8,Vogel,28.338
+08:40,9,Austin Reaves,14.843
+08:40,10,THE KING ATEEZ,10.920
+09:10,1,Lina,242.376
+09:10,2,Papa P,
+09:10,3,BEYOND_ZERO,29.468
+09:10,4,OsinbajoDeclares,
+09:10,5,エイティーズ,30.743
+09:10,6,THE KING ATEEZ,18.666
+09:10,7,Pazartesi,
+09:10,8,テレ東見れない,
+09:10,9,Vogel,29.358
+09:10,10,Tadeu,50.670
+09:40,1,OsinbajoDeclares,
+09:40,2,Lina,243.673
+09:40,3,MondayMotivation,18.184
+09:40,4,DICE_ONEW,17.883
+09:40,5,BEYOND_ZERO,35.269
+09:40,6,모든걸걸어_온유_다이스,18.133
+09:40,7,Papa P,
+09:40,8,THE KING ATEEZ,22.698
+09:40,9,サバエラ,
+09:40,10,Vogel,30.184
+10:10,1,OsinbajoDeclares,
+10:10,2,MondayMotivation,20.266
+10:10,3,DICE_ONEW,28.307
+10:10,4,모든걸걸어_온유_다이스,28.629
+10:10,5,BEYOND_ZERO,38.807
+10:10,6,Lina,243.380
+10:10,7,Papa P,
+10:10,8,THE KING ATEEZ,24.848
+10:10,9,サバエラ,
+10:10,10,Vogel,30.752
+10:40,1,OsinbajoDeclares,11.437
+10:40,2,MondayMotivation,22.481
+10:40,3,DICE_ONEW,30.983
+10:40,4,모든걸걸어_온유_다이스,31.332
+10:40,5,BEYOND_ZERO,41.945
+10:40,6,Papa P,
+10:40,7,THE KING ATEEZ,26.612
+10:40,8,Lina,244.772
+10:40,9,Osibanjo,
+10:40,10,Tinubu,20.927
+11:10,1,OsinbajoDeclares,14.344
+11:10,2,MondayMotivation,24.485
+11:10,3,DICE_ONEW,33.963
+11:10,4,모든걸걸어_온유_다이스,34.444
+11:10,5,Buhari,34.810
+11:10,6,BamBamXHypeType,145.436
+11:10,7,Papa P,
+11:10,8,THE KING ATEEZ,28.172
+11:10,9,Lina,245.128
+11:10,10,Osibanjo,
+11:40,1,OsinbajoDeclares,16.952
+11:40,2,MondayMotivation,26.233
+11:40,3,DICE_ONEW,37.864
+11:40,4,모든걸걸어_온유_다이스,38.105
+11:40,5,BamBamXHypeType,198.702
+11:40,6,Buhari,37.539
+11:40,7,天使禁猟区,
+11:40,8,Osibanjo,
+11:40,9,こうじとドライブマイフカー,
+11:40,10,THE KING ATEEZ,29.097
+12:10,1,OsinbajoDeclares,19.129
+12:10,2,MondayMotivation,28.195
+12:10,3,DICE_ONEW,40.152
+12:10,4,모든걸걸어_온유_다이스,40.319
+12:10,5,すの日常TheMovie,
+12:10,6,Ade Armando,
+12:10,7,天使禁猟区,
+12:10,8,Buhari,39.150
+12:10,9,Ibリメイク,28.470
+12:10,10,こうじとドライブマイフカー,
+12:40,1,Ade Armando,20.050
+12:40,2,OsinbajoDeclares,21.033
+12:40,3,MondayMotivation,30.197
+12:40,4,帰れま10,
+12:40,5,DICE_ONEW,41.522
+12:40,6,NationalPetDay,
+12:40,7,天使禁猟区,10.882
+12:40,8,Ibリメイク,35.883
+12:40,9,Buhari,41.871
+12:40,10,CDTV,
+13:10,1,Ade Armando,29.898
+13:10,2,MondayMotivation,32.201
+13:10,3,帰れま10,
+13:10,4,NationalPetDay,
+13:10,5,OsinbajoDeclares,22.485
+13:10,6,OhmNanonUpvelEP2,18.681
+13:10,7,天使禁猟区,13.538
+13:10,8,Ibリメイク,41.620
+13:10,9,Buhari,43.257
+13:10,10,CDTV,12.741
+13:40,1,Ade Armando,41.396
+13:40,2,テスタクイズ,10.357
+13:40,3,ดรีมทีมตลอดไป,23.774
+13:40,4,OhmNanonUpvelEP2,49.249
+13:40,5,帰れま10,
+13:40,6,NationalPetDay,
+13:40,7,DREAM TEAM,49.164
+13:40,8,天使禁猟区,16.168
+13:40,9,Ibリメイク,46.466
+13:40,10,Buhari,45.905
+14:10,1,Ade Armando,52.483
+14:10,2,ดรีมทีมตลอดไป,73.122
+14:10,3,DREAM TEAM,103.961
+14:10,4,OhmNanonUpvelEP2,87.634
+14:10,5,テスタクイズ,10.750
+14:10,6,NationalPetDay,
+14:10,7,MondayMotivation,36.460
+14:10,8,天使禁猟区,18.328
+14:10,9,Ibリメイク,50.299
+14:10,10,レトさん,
+14:40,1,Ade Armando,62.203
+14:40,2,ดรีมทีมตลอดไป,107.153
+14:40,3,DREAM TEAM,139.131
+14:40,4,元彼の遺言状,
+14:40,5,OhmNanonUpvelEP2,109.644
+14:40,6,NationalPetDay,
+14:40,7,テスタクイズ,10.496
+14:40,8,天使禁猟区,20.229
+14:40,9,Ibリメイク,54.265
+14:40,10,レトさん,
+15:10,1,元彼の遺言状,13.935
+15:10,2,Ade Armando,70.183
+15:10,3,NationalPetDay,10.904
+15:10,4,ดรีมทีมตลอดไป,122.066
+15:10,5,OhmNanonUpvelEP2,124.572
+15:10,6,DREAM TEAM,154.795
+15:10,7,MondayMotivation,40.660
+15:10,8,天使禁猟区,21.783
+15:10,9,Ibリメイク,57.760
+15:10,10,ジョブ調整,
+15:40,1,元彼の遺言状,17.889
+15:40,2,NationalPetDay,13.330
+15:40,3,安元岡本と夜あそび,48.748
+15:40,4,Ade Armando,77.669
+15:40,5,ดรีมทีมตลอดไป,134.225
+15:40,6,しゃべくり007,
+15:40,7,DREAM TEAM,167.649
+15:40,8,天使禁猟区,23.191
+15:40,9,Ibリメイク,61.080
+15:40,10,Ana Maria,17.743
+16:10,1,NationalPetDay,16.014
+16:10,2,安元岡本と夜あそび,77.650
+16:10,3,元彼の遺言状,18.787
+16:10,4,Qrzone,12.239
+16:10,5,Ade Armando,84.838
+16:10,6,すーじーのSHOWROOM,
+16:10,7,SEVENTEEN 2B ON SPOTIFY,20.771
+16:10,8,天使禁猟区,24.359
+16:10,9,DREAM TEAM,173.623
+16:10,10,Ana Maria,18.784
+16:40,1,NationalPetDay,18.414
+16:40,2,安元岡本と夜あそび,99.360
+16:40,3,吉祥寺ルーザーズ,22.417
+16:40,4,CHERRY_SUNWOO_DAY,25.696
+16:40,5,元彼の遺言状,19.182
+16:40,6,Ade Armando,93.208
+16:40,7,WORLDSTAR SUNWOO DAY,21.941
+16:40,8,SEVENTEEN 2B ON SPOTIFY,27.461
+16:40,9,Haftanın Yalanları,
+16:40,10,The G.O.A.T.,
+17:10,1,CHERRY_SUNWOO_DAY,45.689
+17:10,2,AprilsBlossomSEHUN,60.130
+17:10,3,선우생일_베리축하해,28.479
+17:10,4,NationalPetDay,21.485
+17:10,5,吉祥寺ルーザーズ,29.784
+17:10,6,Ade Armando,101.554
+17:10,7,The G.O.A.T.,
+17:10,8,SEVENTEEN 2B ON SPOTIFY,29.524
+17:10,9,Wordle 297,
+17:10,10,Haftanın Yalanları,
+17:40,1,AprilsBlossomSEHUN,164.508
+17:40,2,CHERRY_SUNWOO_DAY,57.048
+17:40,3,선우생일_베리축하해,39.829
+17:40,4,세훈이의_29번째_봄바람,38.754
+17:40,5,봄의_꽃말은_세훈,39.351
+17:40,6,第81回,
+17:40,7,Wordle 297,
+17:40,8,Ade Armando,109.041
+17:40,9,The G.O.A.T.,
+17:40,10,TREZE MILHOES DO ARTHUR,22.980
+18:10,1,AprilsBlossomSEHUN,217.458
+18:10,2,세훈이의_29번째_봄바람,55.404
+18:10,3,CHERRY_SUNWOO_DAY,62.600
+18:10,4,봄의_꽃말은_세훈,56.853
+18:10,5,NationalPetDay,27.880
+18:10,6,第81回,
+18:10,7,The G.O.A.T.,
+18:10,8,Wordle 297,
+18:10,9,Haftanın Yalanları,
+18:10,10,Viagra,23.409
+18:40,1,AprilsBlossomSEHUN,245.599
+18:40,2,PERCY,42.804
+18:40,3,세훈이의_29번째_봄바람,65.609
+18:40,4,NationalPetDay,30.869
+18:40,5,봄의_꽃말은_세훈,67.772
+18:40,6,CHERRY_SUNWOO_DAY,65.159
+18:40,7,第81回,
+18:40,8,The G.O.A.T.,
+18:40,9,annabeth,
+18:40,10,Viagra,27.938
+19:10,1,percy,79.506
+19:10,2,AprilsBlossomSEHUN,262.727
+19:10,3,NationalPetDay,34.025
+19:10,4,세훈이의_29번째_봄바람,73.338
+19:10,5,봄의_꽃말은_세훈,75.781
+19:10,6,CHERRY_SUNWOO_DAY,67.075
+19:10,7,annabeth,
+19:10,8,The G.O.A.T.,
+19:10,9,第81回,
+19:10,10,Viagra,32.212
+19:40,1,PERCY JACKSON,84.668
+19:40,2,AprilsBlossomSEHUN,274.775
+19:40,3,NationalPetDay,37.221
+19:40,4,annabeth,10.953
+19:40,5,세훈이의_29번째_봄바람,78.301
+19:40,6,봄의_꽃말은_세훈,81.329
+19:40,7,CHERRY_SUNWOO_DAY,68.483
+19:40,8,The G.O.A.T.,
+19:40,9,Viagra,36.591
+19:40,10,Walker Scobell,40.524
+20:10,1,percy jackson,107.324
+20:10,2,deprem,14.325
+20:10,3,NationalPetDay,40.531
+20:10,4,AprilsBlossomSEHUN,281.637
+20:10,5,annabeth,14.352
+20:10,6,الهلال_الريان,60.406
+20:10,7,세훈이의_29번째_봄바람,81.323
+20:10,8,The G.O.A.T.,
+20:10,9,Viagra,40.236
+20:10,10,Walker Scobell,48.415
+20:40,1,percy jackson,124.238
+20:40,2,deprem,17.652
+20:40,3,NationalPetDay,43.657
+20:40,4,AprilsBlossomSEHUN,286.303
+20:40,5,الهلال_الريان,72.663
+20:40,6,annabeth,17.370
+20:40,7,The G.O.A.T.,
+20:40,8,세훈이의_29번째_봄바람,83.423
+20:40,9,Viagra,43.812
+20:40,10,Pulte Homes,
+21:10,1,Percy Jackson,137.965
+21:10,2,الهلال_الريان,85.821
+21:10,3,deprem,19.667
+21:10,4,NationalPetDay,46.984
+21:10,5,AprilsBlossomSEHUN,290.017
+21:10,6,annabeth,19.652
+21:10,7,The G.O.A.T.,
+21:10,8,Viagra,46.590
+21:10,9,세훈이의_29번째_봄바람,85.054
+21:10,10,Walker,165.980
+21:40,1,Percy Jackson,150.495
+21:40,2,الهلال_الريان,98.151
+21:40,3,NationalPetDay,50.626
+21:40,4,Britney,22.341
+21:40,5,deprem,21.476
+21:40,6,AprilsBlossomSEHUN,293.312
+21:40,7,annabeth,21.733
+21:40,8,The G.O.A.T.,10.283
+21:40,9,TheQueenMzansi,
+21:40,10,Viagra,49.811
+22:10,1,Britney,38.527
+22:10,2,Percy Jackson,161.091
+22:10,3,الهلال_الريان,112.231
+22:10,4,NationalPetDay,54.007
+22:10,5,deprem,23.005
+22:10,6,The G.O.A.T.,10.765
+22:10,7,annabeth,23.412
+22:10,8,AprilsBlossomSEHUN,296.102
+22:10,9,Viagra,52.991
+22:10,10,TheQueenMzansi,
+22:40,1,Britney,50.813
+22:40,2,Percy Jackson,171.508
+22:40,3,NationalPetDay,57.286
+22:40,4,الهلال_الريان,123.943
+22:40,5,deprem,24.601
+22:40,6,sawityowit,
+22:40,7,The G.O.A.T.,11.355
+22:40,8,Floriana,
+22:40,9,Viagra,56.671
+22:40,10,dhdl,
+23:10,1,Britney,59.594
+23:10,2,Percy Jackson,180.963
+23:10,3,NationalPetDay,60.342
+23:10,4,isola,
+23:10,5,الهلال_الريان,131.368
+23:10,6,sawityowit,
+23:10,7,The G.O.A.T.,11.842
+23:10,8,Mariupol,74.012
+23:10,9,Viagra,59.613
+23:10,10,INCAA,12.414
+23:40,1,Britney,67.606
+23:40,2,percy jackson,191.568
+23:40,3,NationalPetDay,63.186
+23:40,4,isola,11.972
+23:40,5,الهلال_الريان,138.735
+23:40,6,sawityowit,
+23:40,7,OClone,
+23:40,8,INCAA,15.274
+23:40,9,The G.O.A.T.,12.349
+23:40,10,Viagra,63.141

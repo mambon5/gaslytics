@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,FreeCodeFridayContest,
+00:10,2,29EkimCumhiyetBayramı,10.277
+00:10,3,vingadores,98.823
+00:10,4,Paul Pelosi,376.935
+00:10,5,DALS,15.926
+00:10,6,Jerry Lee Lewis,55.530
+00:10,7,LULA INOCENTE,102.869
+00:10,8,Elon,1.791.495
+00:10,9,Halloween,1.347.938
+00:10,10,NemTodoHeroiUsaCapa,187.350
+00:40,1,FreeCodeFridayContest,
+00:40,2,29EkimCumhiyetBayramı,11.627
+00:40,3,vingadores,108.428
+00:40,4,Paul Pelosi,401.906
+00:40,5,Ituano,33.793
+00:40,6,DALS,16.640
+00:40,7,LULA INOCENTE,117.197
+00:40,8,Jerry Lee Lewis,57.758
+00:40,9,Halloween,1.378.261
+00:40,10,Elon,1.807.711
+01:10,1,Ituano,37.857
+01:10,2,29EkimCumhiyetBayramı,12.426
+01:10,3,vingadores,117.244
+01:10,4,Paul Pelosi,425.594
+01:10,5,FreeCodeFridayContest,
+01:10,6,LULA INOCENTE,133.698
+01:10,7,Halloween,1.420.617
+01:10,8,Jerry Lee Lewis,59.862
+01:10,9,Elon,2.117.560
+01:10,10,DALS,16.815
+01:40,1,Ituano,44.177
+01:40,2,재난문자,
+01:40,3,Paul Pelosi,447.466
+01:40,4,29EkimCumhiyetBayramı,12.976
+01:40,5,vingadores,124.392
+01:40,6,LULA INOCENTE,150.373
+01:40,7,FreeCodeFridayContest,
+01:40,8,Halloween,1.454.696
+01:40,9,Elon,2.154.860
+01:40,10,Jerry Lee Lewis,61.735
+02:10,1,재난문자,10.265
+02:10,2,Ituano,48.670
+02:10,3,WorldSeries,34.959
+02:10,4,LULA INOCENTE,178.807
+02:10,5,Paul Pelosi,470.726
+02:10,6,Bahia,73.271
+02:10,7,vingadores,131.510
+02:10,8,29EkimCumhiyetBayramı,13.344
+02:10,9,Josh Primo,
+02:10,10,괜찮으신가요,
+02:40,1,DebateNaGlobo,154.453
+02:40,2,SmackDown,23.961
+02:40,3,Ituano,52.035
+02:40,4,재난문자,11.578
+02:40,5,WorldSeries,38.856
+02:40,6,LULA INOCENTE,210.221
+02:40,7,LulaNaGlobo,45.292
+02:40,8,Maxey,
+02:40,9,Sami,31.421
+02:40,10,Bahia,77.021
+03:10,1,DebateNaGlobo,287.461
+03:10,2,Bonner,87.151
+03:10,3,SmackDown,38.459
+03:10,4,Bozo,85.941
+03:10,5,Ituano,53.609
+03:10,6,WorldSeries,41.322
+03:10,7,재난문자,12.996
+03:10,8,O Bolsonaro,924.599
+03:10,9,Maxey,
+03:10,10,Sami,34.038
+03:40,1,DebateNaGlobo,465.388
+03:40,2,Bonner,196.285
+03:40,3,Bozo,108.251
+03:40,4,SmackDown,48.104
+03:40,5,Kyle Tucker,11.596
+03:40,6,WorldSeries,47.950
+03:40,7,O Bolsonaro,1.033.502
+03:40,8,Ituano,54.912
+03:40,9,재난문자,14.425
+03:40,10,Maxey,
+04:10,1,Lula,1.743.519
+04:10,2,Bonner,244.451
+04:10,3,Bozo,130.253
+04:10,4,Viagra,48.600
+04:10,5,SmackDown,57.228
+04:10,6,WorldSeries,50.742
+04:10,7,O Bolsonaro,1.038.268
+04:10,8,Verlander,15.324
+04:10,9,Kyle Tucker,12.027
+04:10,10,Maxey,13.836
+04:40,1,Lula,1.822.409
+04:40,2,Bonner,279.070
+04:40,3,Bozo,148.512
+04:40,4,Viagra,65.083
+04:40,5,SmackDown,61.667
+04:40,6,WorldSeries,52.944
+04:40,7,O Bolsonaro,1.057.474
+04:40,8,Verlander,18.022
+04:40,9,Cavs,16.926
+04:40,10,Kyle Tucker,12.480
+05:10,1,Lula,2.086.908
+05:10,2,Bonner,304.123
+05:10,3,Bozo,160.524
+05:10,4,WorldSeries,54.930
+05:10,5,Viagra,73.207
+05:10,6,O Bolsonaro,1.139.603
+05:10,7,SmackDown,63.775
+05:10,8,Verlander,19.193
+05:10,9,Cavs,19.806
+05:10,10,BOLSONARO MENTIU,161.016
+05:40,1,Lula,2.207.103
+05:40,2,Bonner,321.048
+05:40,3,Bozo,167.815
+05:40,4,WorldSeries,56.928
+05:40,5,Viagra,78.354
+05:40,6,BrightWinConcert,104.107
+05:40,7,O Bolsonaro,1.229.424
+05:40,8,SmackDown,65.937
+05:40,9,Cavs,21.643
+05:40,10,Verlander,20.092
+06:10,1,Lula,2.313.464
+06:10,2,Bonner,331.872
+06:10,3,WorldSeries,62.573
+06:10,4,Castellanos,14.568
+06:10,5,Bozo,170.819
+06:10,6,Phillies,115.397
+06:10,7,BrightWinConcert,119.809
+06:10,8,quackityspace,
+06:10,9,Altuve,
+06:10,10,Viagra,81.647
+06:40,1,Lula,2.368.160
+06:40,2,Bonner,339.066
+06:40,3,WorldSeries,66.385
+06:40,4,Castellanos,15.429
+06:40,5,Phillies,124.163
+06:40,6,BrightWinConcert,134.565
+06:40,7,quackityspace,17.256
+06:40,8,Bozo,174.156
+06:40,9,Altuve,
+06:40,10,Realmuto,
+07:10,1,Lula,2.382.114
+07:10,2,Phillies,160.987
+07:10,3,WorldSeries,75.814
+07:10,4,Astros,117.125
+07:10,5,Bonner,343.279
+07:10,6,BrightWinConcert,145.989
+07:10,7,Castellanos,17.419
+07:10,8,quackityspace,17.657
+07:10,9,RedOctober,25.860
+07:10,10,Bozo,175.418
+07:40,1,Phillies,169.677
+07:40,2,Lula,2.380.201
+07:40,3,WorldSeries,77.750
+07:40,4,Astros,121.044
+07:40,5,Bonner,346.452
+07:40,6,BrightWinConcert,158.034
+07:40,7,Castellanos,18.797
+07:40,8,RedOctober,26.742
+07:40,9,quackityspace,17.823
+07:40,10,キンプる,61.054
+08:10,1,Phillies,173.841
+08:10,2,Lula,2.414.522
+08:10,3,DebateNaGlobo,960.719
+08:10,4,WorldSeries,78.498
+08:10,5,Astros,122.520
+08:10,6,BrightWinConcert,167.071
+08:10,7,29EkimCumhiyetBayramı,23.413
+08:10,8,Bonner,348.576
+08:10,9,RedOctober,27.119
+08:10,10,Castellanos,19.780
+08:40,1,Phillies,176.406
+08:40,2,29EkimCumhiyetBayramı,27.685
+08:40,3,Lula,2.400.057
+08:40,4,WorldSeries,78.860
+08:40,5,DebateNaGlobo,963.996
+08:40,6,BrightWinConcert,175.915
+08:40,7,Astros,123.449
+08:40,8,スワンS,33.828
+08:40,9,ハッシュタグ有料化,
+08:40,10,BadBuddy1stYearONniversary,25.369
+09:10,1,29EkimCumhiyetBayramı,32.737
+09:10,2,Phillies,178.022
+09:10,3,Lula,2.440.487
+09:10,4,スワンS,34.888
+09:10,5,WorldSeries,79.176
+09:10,6,ラヴェル,
+09:10,7,BrightWinConcert,176.458
+09:10,8,ラグビー日本代表,
+09:10,9,リバティアイランド,10.671
+09:10,10,ハッシュタグ有料化,
+09:40,1,29EkimCumhiyetBayramı,38.055
+09:40,2,Lula,2.339.938
+09:40,3,Phillies,179.209
+09:40,4,ラグビー日本代表,
+09:40,5,ハッシュタグ有料化,12.223
+09:40,6,ラヴェル,
+09:40,7,スワンS,35.248
+09:40,8,Mustafa Kemal Atatürk,144.489
+09:40,9,佐久間ドリエン,
+09:40,10,JPNvNZL,
+10:10,1,29EkimCumhiyetBayramı,43.307
+10:10,2,ラグビー日本代表,
+10:10,3,Lula,2.435.194
+10:10,4,JPNvNZL,
+10:10,5,ハッシュタグ有料化,14.691
+10:10,6,Mustafa Kemal Atatürk,149.152
+10:10,7,consadole,
+10:10,8,オールブラックス,
+10:10,9,マリノス,13.962
+10:10,10,佐久間ドリエン,
+10:40,1,29EkimCumhiyetBayramı,48.060
+10:40,2,ラグビー日本代表,
+10:40,3,ハッシュタグ有料化,16.947
+10:40,4,Mustafa Kemal Atatürk,157.460
+10:40,5,NZvSL,
+10:40,6,JPNvNZL,
+10:40,7,consadole,
+10:40,8,マリノス,15.989
+10:40,9,オールブラックス,10.078
+10:40,10,ハリケンジャー,30.290
+11:10,1,29EkimCumhiyetBayramı,52.841
+11:10,2,MUSICFAIR,
+11:10,3,警察学校編諸伏景光出席しました,15.113
+11:10,4,ヒロアカMVP,
+11:10,5,ラグビー日本代表,
+11:10,6,Mustafa Kemal Atatürk,161.294
+11:10,7,ハッシュタグ有料化,18.956
+11:10,8,マリノス,16.704
+11:10,9,ハロウィン,1.009.386
+11:10,10,オールブラックス,10.674
+11:40,1,MUSICFAIR,22.279
+11:40,2,29EkimCumhiyetBayramı,57.035
+11:40,3,警察学校編諸伏景光出席しました,25.466
+11:40,4,NZvSL,
+11:40,5,jaehyun,103.444
+11:40,6,Glenn Phillips,
+11:40,7,イコラブ,
+11:40,8,Mustafa Kemal Atatürk,169.070
+11:40,9,そっち側,
+11:40,10,ハッシュタグ有料化,21.003
+12:10,1,29EkimCumhiyetBayramı,60.485
+12:10,2,警察学校編諸伏景光出席しました,29.449
+12:10,3,MUSICFAIR,27.107
+12:10,4,NZvSL,
+12:10,5,Glenn Phillips,
+12:10,6,jaehyun,118.320
+12:10,7,SixTONES_GoodLuck,42.334
+12:10,8,Mustafa Kemal Atatürk,172.137
+12:10,9,そっち側,
+12:10,10,ハロウィン,1.022.778
+12:40,1,警察学校編諸伏景光出席しました,31.321
+12:40,2,29EkimCumhiyetBayramı,62.766
+12:40,3,MUSICFAIR,29.860
+12:40,4,NZvSL,
+12:40,5,KingMisuzuluCoronation,
+12:40,6,jaehyun,131.489
+12:40,7,Glenn Phillips,
+12:40,8,Foden,
+12:40,9,ハロウィン,1.059.924
+12:40,10,Mustafa Kemal Atatürk,177.723
+13:10,1,警察学校編諸伏景光出席しました,32.633
+13:10,2,29EkimCumhiyetBayramı,64.811
+13:10,3,MUSICFAIR,31.819
+13:10,4,NZvsSL,
+13:10,5,KingMisuzuluCoronation,
+13:10,6,Foden,10.140
+13:10,7,jaehyun,137.736
+13:10,8,ハロウィン,1.033.178
+13:10,9,Glenn Phillips,
+13:10,10,ライブルーティン,
+13:40,1,NZvsSL,
+13:40,2,警察学校編諸伏景光出席しました,33.727
+13:40,3,KingMisuzuluCoronation,10.118
+13:40,4,29EkimCumhiyetBayramı,66.635
+13:40,5,MUSICFAIR,33.303
+13:40,6,Foden,11.255
+13:40,7,ハロウィン,1.078.811
+13:40,8,Leicester,31.338
+13:40,9,jaehyun,145.829
+13:40,10,Glenn Phillips,
+14:10,1,ワルイコあつまれ,20.246
+14:10,2,Leicester,40.729
+14:10,3,LEIMCI,13.423
+14:10,4,NZvsSL,10.863
+14:10,5,TikTokForYouStage,
+14:10,6,警察学校編諸伏景光出席しました,34.720
+14:10,7,ハロウィン,1.062.869
+14:10,8,Foden,11.901
+14:10,9,Glenn Phillips,
+14:10,10,jaehyun,148.758
+14:40,1,マクガフ,29.215
+14:40,2,ワルイコあつまれ,31.131
+14:40,3,LEIMCI,17.628
+14:40,4,Leicester,48.976
+14:40,5,De Bruyne,11.344
+14:40,6,ハロウィン,1.116.520
+14:40,7,TikTokForYouStage,11.296
+14:40,8,NZvsSL,11.614
+14:40,9,KingMisuzuluCoronation,12.157
+14:40,10,Foden,13.026
+15:10,1,マクガフ,37.835
+15:10,2,おりほー,10.089
+15:10,3,ワルイコあつまれ,54.507
+15:10,4,オリックス,65.528
+15:10,5,みんなでワンピース,15.259
+15:10,6,LEIMCI,22.169
+15:10,7,日本シリーズ,38.868
+15:10,8,De Bruyne,20.316
+15:10,9,祈りのカルテ謎解き科,
+15:10,10,Leicester,54.680
+15:40,1,マクガフ,41.000
+15:40,2,おりほー,11.139
+15:40,3,みんなでワンピース,24.609
+15:40,4,ワルイコあつまれ,64.158
+15:40,5,オリックス,72.351
+15:40,6,祈りのカルテ謎解き科,24.967
+15:40,7,LEIMCI,23.876
+15:40,8,De Bruyne,26.930
+15:40,9,Leicester,57.759
+15:40,10,日本シリーズ,41.776
+16:10,1,ワルイコあつまれ,77.154
+16:10,2,みんなでワンピース,32.365
+16:10,3,マクガフ,42.911
+16:10,4,おりほー,11.627
+16:10,5,Thiago Silva,
+16:10,6,祈りのカルテ謎解き科,42.610
+16:10,7,オリックス,75.395
+16:10,8,LEIMCI,24.224
+16:10,9,フィルムZ,
+16:10,10,De Bruyne,31.449
+16:40,1,Brighton,67.641
+16:40,2,みんなでワンピース,42.066
+16:40,3,BHACHE,33.022
+16:40,4,Potter,53.353
+16:40,5,ボーイフレンド降臨,39.693
+16:40,6,Pulisic,
+16:40,7,ワルイコあつまれ,81.565
+16:40,8,Thiago Silva,
+16:40,9,マクガフ,44.277
+16:40,10,おりほー,11.969
+17:10,1,Chelsea,176.591
+17:10,2,Potter,73.486
+17:10,3,Sterling,29.655
+17:10,4,BHACHE,42.886
+17:10,5,SixTONESANN,57.679
+17:10,6,みんなでワンピース,57.337
+17:10,7,松田迅祝20歳_世界一の男に俺はなる,29.128
+17:10,8,HAPPYMJDAY_INI,29.032
+17:10,9,ミュージックソン,20.607
+17:10,10,Cucurella,
+17:40,1,Chelsea,198.002
+17:40,2,Brighton,112.560
+17:40,3,Potter,79.349
+17:40,4,Sterling,33.350
+17:40,5,SixTONESANN,98.729
+17:40,6,BHACHE,48.333
+17:40,7,Pulisic,11.090
+17:40,8,みんなでワンピース,61.225
+17:40,9,松田迅祝20歳_世界一の男に俺はなる,45.893
+17:40,10,HAPPYMJDAY_INI,45.503
+18:10,1,Chelsea,227.622
+18:10,2,Brighton,133.602
+18:10,3,Potter,92.578
+18:10,4,BHACHE,54.778
+18:10,5,Sterling,35.274
+18:10,6,SixTONESANN,117.550
+18:10,7,Newcastle,59.012
+18:10,8,Bournemouth,51.490
+18:10,9,Pulisic,11.990
+18:10,10,松田迅祝20歳_世界一の男に俺はなる,53.844
+18:40,1,Chelsea,248.903
+18:40,2,Brighton,146.192
+18:40,3,Potter,103.378
+18:40,4,TOGG2022,36.747
+18:40,5,Sterling,38.045
+18:40,6,BHACHE,56.626
+18:40,7,Newcastle,63.585
+18:40,8,SixTONESANN,119.559
+18:40,9,Itaewon,73.582
+18:40,10,Bournemouth,52.955
+19:10,1,Chelsea,257.947
+19:10,2,Brighton,152.511
+19:10,3,TOGG2022,44.768
+19:10,4,Potter,108.184
+19:10,5,Itaewon,122.181
+19:10,6,Sterling,38.901
+19:10,7,BHACHE,57.652
+19:10,8,Newcastle,65.568
+19:10,9,SixTONESANN,120.489
+19:10,10,Mbappe,38.917
+19:40,1,Chelsea,267.394
+19:40,2,TOGG2022,52.930
+19:40,3,Itaewon,163.641
+19:40,4,Brighton,157.655
+19:40,5,Potter,113.895
+19:40,6,Penn State,14.326
+19:40,7,Flamengo,341.050
+19:40,8,Sterling,40.303
+19:40,9,Newcastle,67.994
+19:40,10,BHACHE,58.363
+20:10,1,Chelsea,271.359
+20:10,2,Itaewon,205.228
+20:10,3,TOGG2022,58.484
+20:10,4,Brighton,161.175
+20:10,5,Potter,117.381
+20:10,6,Penn State,16.316
+20:10,7,Flamengo,347.594
+20:10,8,Ryan Day,
+20:10,9,Ohio State,15.609
+20:10,10,LecceJuve,10.931
+20:40,1,Itaewon,250.410
+20:40,2,Chelsea,277.884
+20:40,3,TOGG2022,63.815
+20:40,4,Penn State,18.023
+20:40,5,Ryan Day,
+20:40,6,Brighton,164.786
+20:40,7,Flamengo,362.281
+20:40,8,SGEBVB,
+20:40,9,Strictly,
+20:40,10,Ohio State,17.245
+21:10,1,Itaewon,291.002
+21:10,2,Penn State,22.420
+21:10,3,Gomez,49.454
+21:10,4,Ohio State,19.684
+21:10,5,LIVLEE,23.344
+21:10,6,Chelsea,272.605
+21:10,7,Flamengo,378.499
+21:10,8,TOGG2022,68.762
+21:10,9,Strictly,
+21:10,10,Ryan Day,
+21:40,1,Penn State,27.855
+21:40,2,Itaewon,331.076
+21:40,3,Ohio State,24.351
+21:40,4,Gomez,53.193
+21:40,5,Flamengo,400.448
+21:40,6,Geralt,10.063
+21:40,7,LIVLEE,31.225
+21:40,8,Strictly,
+21:40,9,OSUvsPSU,
+21:40,10,Liam Hemsworth,
+22:10,1,Flamengo,420.700
+22:10,2,Penn State,30.879
+22:10,3,Geralt,18.773
+22:10,4,Itaewon,354.025
+22:10,5,Henry Cavill,27.226
+22:10,6,Ohio State,26.947
+22:10,7,Gomez,53.552
+22:10,8,The Witcher,19.913
+22:10,9,LIVLEE,34.859
+22:10,10,Liam Hemsworth,12.795
+22:40,1,Flamengo,443.139
+22:40,2,LIVLEE,42.759
+22:40,3,Geralt,25.018
+22:40,4,Itaewon,383.787
+22:40,5,Henry Cavill,34.168
+22:40,6,Penn State,32.375
+22:40,7,Superman,39.762
+22:40,8,The Witcher,26.320
+22:40,9,Leeds,76.564
+22:40,10,Bamford,
+23:10,1,Gabigol,93.262
+23:10,2,Flamengo,503.208
+23:10,3,Liverpool,147.557
+23:10,4,Pedro Henrique,15.015
+23:10,5,Leeds,104.083
+23:10,6,LIVLEE,51.167
+23:10,7,Klopp,27.446
+23:10,8,Geralt,30.004
+23:10,9,GABRIEL BARBOSA,19.790
+23:10,10,Anfield,34.669
+23:40,1,Gabigol,100.498
+23:40,2,Flamengo,524.147
+23:40,3,Liverpool,162.864
+23:40,4,Pedro Henrique,15.994
+23:40,5,Leeds,114.757
+23:40,6,Carla Zambelli,343.101
+23:40,7,Klopp,33.709
+23:40,8,LIVLEE,53.330
+23:40,9,Geralt,34.224
+23:40,10,BenidormFest,22.051

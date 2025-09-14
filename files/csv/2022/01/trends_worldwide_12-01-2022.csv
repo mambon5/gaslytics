@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaIslaDeLasTentaciones10,12.001
+00:10,2,PortfolioDay,157.629
+00:10,3,Rand Paul,185.909
+00:10,4,Fauci,611.615
+00:10,5,Sissi,12.716
+00:10,6,Joe Judge,30.896
+00:10,7,شكرا_اداره_انمار_وكعكي,
+00:10,8,ローソンでいちご狩り,
+00:10,9,OUÇA BOY BYE,19.236
+00:10,10,Giants,71.633
+00:40,1,LaIslaDeLasTentaciones10,14.938
+00:40,2,PortfolioDay,164.779
+00:40,3,Rand Paul,193.432
+00:40,4,Fauci,633.054
+00:40,5,Joe Judge,35.023
+00:40,6,あさイチ,
+00:40,7,ローソンでいちご狩り,18.834
+00:40,8,HappyBirthdayZayn,
+00:40,9,OUÇA BOY BYE,20.776
+00:40,10,Giants,78.650
+01:10,1,LaIslaDeLasTentaciones10,15.999
+01:10,2,PortfolioDay,171.471
+01:10,3,Rand Paul,199.465
+01:10,4,Fauci,647.802
+01:10,5,HappyBirthdayZayn,
+01:10,6,あさイチ,
+01:10,7,Joe Judge,36.301
+01:10,8,ローソンでいちご狩り,26.079
+01:10,9,Giants,80.630
+01:10,10,OUÇA BOY BYE,21.207
+01:40,1,HappyBirthdayZayn,10.771
+01:40,2,LaIslaDeLasTentaciones10,16.425
+01:40,3,PortfolioDay,178.777
+01:40,4,Rand Paul,206.886
+01:40,5,Fauci,667.931
+01:40,6,あさイチ,
+01:40,7,ローソンでいちご狩り,31.403
+01:40,8,Joe Judge,37.869
+01:40,9,Banamex,
+01:40,10,Epps,66.107
+02:10,1,HappyBirthdayZayn,12.985
+02:10,2,TWUG,
+02:10,3,LaIslaDeLasTentaciones10,17.011
+02:10,4,Rand Paul,212.292
+02:10,5,Fauci,681.553
+02:10,6,PortfolioDay,185.399
+02:10,7,あさイチ,
+02:10,8,Banamex,
+02:10,9,QUEREMOS MeM NO PODDELAS,22.575
+02:10,10,Joe Judge,38.108
+02:40,1,UmLugarAoSol,11.058
+02:40,2,HappyBirthdayZayn,14.683
+02:40,3,TWUG,
+02:40,4,Rand Paul,220.033
+02:40,5,Ravi,21.161
+02:40,6,Fauci,703.442
+02:40,7,PortfolioDay,191.290
+02:40,8,LaIslaDeLasTentaciones10,17.221
+02:40,9,Banamex,
+02:40,10,Oeste,10.721
+03:10,1,UmLugarAoSol,11.388
+03:10,2,HappyBirthdayZayn,15.775
+03:10,3,TWUG,
+03:10,4,Rand Paul,224.901
+03:10,5,Fauci,709.190
+03:10,6,Grizzlies,11.356
+03:10,7,Ravi,20.992
+03:10,8,BILLBOARD,344.209
+03:10,9,PortfolioDay,196.972
+03:10,10,AbbottElementary,
+03:40,1,AbbottElementary,
+03:40,2,HappyBirthdayZayn,16.855
+03:40,3,Baylor,10.400
+03:40,4,UmLugarAoSol,11.667
+03:40,5,TWUG,
+03:40,6,Texas Tech,
+03:40,7,BILLBOARD,375.502
+03:40,8,Rand Paul,231.232
+03:40,9,Fauci,727.693
+03:40,10,WreckEm,
+04:10,1,ThisIsUs,
+04:10,2,HappyBirthdayZayn,18.819
+04:10,3,AbbottElementary,
+04:10,4,Grizzlies,13.967
+04:10,5,Baylor,11.998
+04:10,6,NationalYouthDay,19.276
+04:10,7,BILLBOARD,396.978
+04:10,8,WWENXT,16.596
+04:10,9,Texas Tech,
+04:10,10,Rand Paul,235.485
+04:40,1,Grizzlies,20.190
+04:40,2,Ja Morant,22.828
+04:40,3,ThisIsUs,10.083
+04:40,4,HappyBirthdayZayn,20.786
+04:40,5,あれは拙僧が,
+04:40,6,NationalYouthDay,29.903
+04:40,7,Warriors,93.895
+04:40,8,AbbottElementary,
+04:40,9,Baylor,12.864
+04:40,10,Wiggins,
+05:10,1,Grizzlies,22.583
+05:10,2,Ja Morant,24.056
+05:10,3,NationalYouthDay,39.689
+05:10,4,あれは拙僧が,
+05:10,5,HappyBirthdayZayn,22.156
+05:10,6,SwamiVivekananda,24.452
+05:10,7,ThisIsUs,10.385
+05:10,8,Warriors,95.615
+05:10,9,Kodak Black,
+05:10,10,Brandon Ingram,
+05:40,1,NationalYouthDay,48.648
+05:40,2,Grizzlies,24.033
+05:40,3,まりおくん,
+05:40,4,あれは拙僧が,
+05:40,5,SwamiVivekananda,29.929
+05:40,6,Ja Morant,25.252
+05:40,7,HappyBirthdayZayn,23.138
+05:40,8,Kodak Black,10.500
+05:40,9,麻璃央くん,
+05:40,10,ThisIsUs,10.620
+06:10,1,NationalYouthDay,57.775
+06:10,2,まりおくん,
+06:10,3,SwamiVivekananda,36.074
+06:10,4,あれは拙僧が,
+06:10,5,Grizzlies,24.876
+06:10,6,Kodak Black,12.618
+06:10,7,HappyBirthdayZayn,24.104
+06:10,8,麻璃央くん,
+06:10,9,Ja Morant,25.711
+06:10,10,結婚ラッシュ,
+06:40,1,NationalYouthDay,67.163
+06:40,2,まりおくん,
+06:40,3,SwamiVivekananda,42.449
+06:40,4,あれは拙僧が,
+06:40,5,Grizzlies,25.641
+06:40,6,HappyBirthdayZayn,25.151
+06:40,7,Kodak,34.111
+06:40,8,麻璃央くん,
+06:40,9,結婚ラッシュ,
+06:40,10,BILLBOARD,535.002
+07:10,1,NationalYouthDay,76.276
+07:10,2,まりおくん,
+07:10,3,SwamiVivekananda,47.698
+07:10,4,あれは拙僧が,
+07:10,5,HappyBirthdayZayn,26.356
+07:10,6,麻璃央くん,
+07:10,7,Grizzlies,26.377
+07:10,8,Kodak,35.567
+07:10,9,結婚ラッシュ,
+07:10,10,Clippers,
+07:40,1,NationalYouthDay,84.374
+07:40,2,SwamiVivekananda,52.919
+07:40,3,まりおくん,
+07:40,4,あれは拙僧が,
+07:40,5,HappyBirthdayZayn,27.853
+07:40,6,麻璃央くん,
+07:40,7,BILLBOARD,592.554
+07:40,8,結婚ラッシュ,
+07:40,9,KOREAQUEST_LISA,125.681
+07:40,10,Kodak,36.792
+08:10,1,NationalYouthDay,92.417
+08:10,2,SwamiVivekananda,58.079
+08:10,3,まりおくん,
+08:10,4,あれは拙僧が,
+08:10,5,HappyBirthdayZayn,29.045
+08:10,6,東京都の新規感染者数,
+08:10,7,YineTarihYazdık,
+08:10,8,麻璃央くん,
+08:10,9,BILLBOARD,610.605
+08:10,10,結婚ラッシュ,
+08:40,1,NationalYouthDay,99.526
+08:40,2,SwamiVivekananda,62.346
+08:40,3,まりおくん,
+08:40,4,東京都の新規感染者数,
+08:40,5,あれは拙僧が,
+08:40,6,HappyBirthdayZayn,30.057
+08:40,7,YineTarihYazdık,
+08:40,8,BILLBOARD,632.869
+08:40,9,麻璃央くん,
+08:40,10,東京2000人,
+09:10,1,NationalYouthDay,105.741
+09:10,2,SwamiVivekananda,65.925
+09:10,3,東京都の新規感染者数,
+09:10,4,ไม่รับเป็นเขยไม่ส่อง,23.571
+09:10,5,まりおくん,
+09:10,6,HappyBirthdayZayn,30.931
+09:10,7,あれは拙僧が,
+09:10,8,東京2000人,17.065
+09:10,9,BILLBOARD,645.412
+09:10,10,麻璃央くん,
+09:40,1,NationalYouthDay,111.577
+09:40,2,SwamiVivekananda,69.212
+09:40,3,ไม่รับเป็นเขยไม่ส่อง,38.404
+09:40,4,あれは拙僧が,
+09:40,5,東京都の新規感染者数,
+09:40,6,TGC出演希望,
+09:40,7,東京2000人,21.101
+09:40,8,まりおくん,
+09:40,9,Wordle 207 X,
+09:40,10,BILLBOARD,661.668
+10:10,1,NationalYouthDay,117.259
+10:10,2,ไม่รับเป็นเขยไม่ส่อง,51.547
+10:10,3,SwamiVivekananda,72.768
+10:10,4,TGC出演希望,10.665
+10:10,5,マイナビTGC,10.798
+10:10,6,東京2000人,23.824
+10:10,7,まりおくん,
+10:10,8,東京都の新規感染者数,
+10:10,9,Wordle 207 X,
+10:10,10,BILLBOARD,674.736
+10:40,1,NationalYouthDay,122.623
+10:40,2,TGC出演希望,13.508
+10:40,3,マイナビTGC,13.705
+10:40,4,Everlasting,19.948
+10:40,5,ไม่รับเป็นเขยไม่ส่อง,60.649
+10:40,6,UpinSpaceTalk2,10.722
+10:40,7,YOUTH ICON KARAN,759.824
+10:40,8,ライネス,
+10:40,9,東京2000人,25.692
+10:40,10,まりおくん,
+11:10,1,RingABelle,15.732
+11:10,2,COMPLETE_WITH_ABNEW,
+11:10,3,TGC出演希望,17.201
+11:10,4,マイナビTGC,17.284
+11:10,5,ライネス,11.010
+11:10,6,Everlasting,23.625
+11:10,7,NationalYouthDay,127.369
+11:10,8,YOUTH ICON KARAN,747.786
+11:10,9,Wordle 207 X,
+11:10,10,やよい軒,27.369
+11:40,1,İsmail Kartal,
+11:40,2,COMPLETE_WITH_ABNEW,15.658
+11:40,3,RingABelle,27.782
+11:40,4,AB6IX,29.072
+11:40,5,有吉の壁,
+11:40,6,ライネス,13.129
+11:40,7,TGC出演希望,20.082
+11:40,8,Everlasting,26.161
+11:40,9,ヘファイスティオン,
+11:40,10,やよい軒,30.773
+12:10,1,İsmail Kartal,
+12:10,2,有吉の壁,
+12:10,3,COMPLETE_WITH_ABNEW,14.459
+12:10,4,RingABelle,32.472
+12:10,5,AB6IX,27.652
+12:10,6,ライネス,14.232
+12:10,7,TGC出演希望,23.895
+12:10,8,Everlasting,28.142
+12:10,9,ヘファイスティオン,
+12:10,10,Ali Koç,14.392
+12:40,1,İsmail Kartal,
+12:40,2,有吉の壁,
+12:40,3,มิวผิวสตรองกับเซรั่มEB,30.965
+12:40,4,PMQs,18.308
+12:40,5,TGC出演希望,29.806
+12:40,6,マイナビTGC,29.500
+12:40,7,ライネス,15.576
+12:40,8,Everlasting,30.066
+12:40,9,Ali Koç,16.608
+12:40,10,ヘファイスティオン,
+13:10,1,PMQs,29.286
+13:10,2,İsmail Kartal,
+13:10,3,兎田ぺこら生誕祭,46.856
+13:10,4,มิวผิวสตรองกับเซรั่มEB,87.051
+13:10,5,AKB48歌唱力No1決定戦,12.134
+13:10,6,マイナビTGC,35.945
+13:10,7,ライネス,16.274
+13:10,8,YVES x BOSS MEW,36.727
+13:10,9,Ali Koç,17.436
+13:10,10,Everlasting,30.467
+13:40,1,PMQs,63.084
+13:40,2,兎田ぺこら生誕祭,85.211
+13:40,3,İsmail Kartal,
+13:40,4,Boris,351.575
+13:40,5,มิวผิวสตรองกับเซรั่มEB,129.899
+13:40,6,今夜くらべてみました,
+13:40,7,AskENHYPEN,13.885
+13:40,8,Starmer,67.741
+13:40,9,ライネス,17.285
+13:40,10,ぺこらんだむぶ,
+14:10,1,PMQs,83.363
+14:10,2,兎田ぺこら生誕祭,119.704
+14:10,3,İsmail Kartal,
+14:10,4,Boris,360.490
+14:10,5,Aぇヤンタン,
+14:10,6,AKB48歌唱力No1決定戦,17.297
+14:10,7,今夜くらべてみました,
+14:10,8,ALWAYS BY ENHYPEN,55.644
+14:10,9,Starmer,73.500
+14:10,10,濃厚接触,25.932
+14:40,1,PMQs,96.814
+14:40,2,兎田ぺこら生誕祭,133.201
+14:40,3,THEFIRSTTAKE,49.980
+14:40,4,Boris,384.202
+14:40,5,İsmail Kartal,
+14:40,6,Everlasting,58.706
+14:40,7,Aぇヤンタン,15.499
+14:40,8,水曜日のダウンタウン,
+14:40,9,ディスカバリー,25.392
+14:40,10,4THEWIN BTSARMY,31.023
+15:10,1,PMQs,105.940
+15:10,2,兎田ぺこら生誕祭,138.848
+15:10,3,THEFIRSTTAKE,53.039
+15:10,4,Boris,385.688
+15:10,5,水曜日のダウンタウン,
+15:10,6,İsmail Kartal,
+15:10,7,Everlasting,67.398
+15:10,8,Aぇヤンタン,21.749
+15:10,9,カービィ,62.383
+15:10,10,SKZ GOES TO RIYADH,41.790
+15:40,1,PMQs,113.518
+15:40,2,兎田ぺこら生誕祭,143.378
+15:40,3,news23,26.170
+15:40,4,THEFIRSTTAKE,56.163
+15:40,5,Boris,391.795
+15:40,6,HaveASafeFlightSKZ,48.419
+15:40,7,Everlasting,72.345
+15:40,8,İsmail Kartal,
+15:40,9,カービィ,71.204
+15:40,10,SKZ GOES TO RIYADH,45.564
+16:10,1,TUNMLI,12.827
+16:10,2,PMQs,118.845
+16:10,3,兎田ぺこら生誕祭,139.653
+16:10,4,Tunisia,13.803
+16:10,5,news23,41.951
+16:10,6,Boris,400.844
+16:10,7,첫눈처럼_다가온_승준이의_생일,29.952
+16:10,8,カービィ,77.527
+16:10,9,Everlasting,74.748
+16:10,10,İsmail Kartal,
+16:40,1,TUNMLI,22.486
+16:40,2,PMQs,124.208
+16:40,3,Tunisia,22.013
+16:40,4,SAGAwards,
+16:40,5,兎田ぺこら生誕祭,142.039
+16:40,6,news23,47.955
+16:40,7,Boris,413.736
+16:40,8,カービィ,82.738
+16:40,9,Kirby,70.000
+16:40,10,BITSO NA LOS GRANDES,30.876
+17:10,1,TUNMLI,29.169
+17:10,2,teamtunisia,19.582
+17:10,3,PMQs,129.012
+17:10,4,SAGAwards,
+17:10,5,CAN2021,57.123
+17:10,6,Kirby,73.654
+17:10,7,Boris,411.277
+17:10,8,BITSO NA LOS GRANDES,51.518
+17:10,9,カービィ,85.503
+17:10,10,Janny Sikazwe,
+17:40,1,TUNMLI,33.127
+17:40,2,teamtunisia,22.231
+17:40,3,SAGAwards,13.285
+17:40,4,乃木坂46ANN,
+17:40,5,PMQs,133.382
+17:40,6,Kirby,78.728
+17:40,7,BITSO NA LOS GRANDES,64.414
+17:40,8,Boris,426.358
+17:40,9,WHERE IS BLACKPINK,27.004
+17:40,10,Kristen Stewart,11.742
+18:10,1,TUNMLI,35.948
+18:10,2,乃木坂46ANN,15.799
+18:10,3,teamtunisia,25.000
+18:10,4,SAGAwards,15.404
+18:10,5,OhMyGod,14.673
+18:10,6,Alaba,
+18:10,7,Kenedy,
+18:10,8,Prince Andrew,34.485
+18:10,9,WHERE IS BLACKPINK,39.299
+18:10,10,Kirby,81.916
+18:40,1,OhMyGod,21.106
+18:40,2,TUNMLI,38.065
+18:40,3,乃木坂46ANN,19.171
+18:40,4,DamatBurakİstifa,
+18:40,5,Alaba,
+18:40,6,SAGAwards,17.426
+18:40,7,Kenedy,
+18:40,8,Prince Andrew,38.455
+18:40,9,WHERE IS BLACKPINK,49.129
+18:40,10,Kirby,87.257
+19:10,1,OhMyGod,20.986
+19:10,2,DamatBurakİstifa,
+19:10,3,乃木坂46ANN,23.685
+19:10,4,TUNMLI,39.721
+19:10,5,Alaba,
+19:10,6,SAGAwards,19.156
+19:10,7,Kenedy,
+19:10,8,Kirby,90.387
+19:10,9,Prince Andrew,41.225
+19:10,10,WHERE IS BLACKPINK,55.700
+19:40,1,DamatBurakİstifa,
+19:40,2,OhMyGod,22.455
+19:40,3,Coachella,18.646
+19:40,4,乃木坂46ANN,24.446
+19:40,5,TUNMLI,40.839
+19:40,6,Alaba,
+19:40,7,KOREAQUEST_JHOPE,54.327
+19:40,8,Prince Andrew,44.443
+19:40,9,Kirby,94.522
+19:40,10,WHERE IS BLACKPINK,61.323
+20:10,1,DamatBurakİstifa,10.551
+20:10,2,Coachella,26.511
+20:10,3,KOREAQUEST_JHOPE,72.654
+20:10,4,OhMyGod,22.701
+20:10,5,Barça,89.080
+20:10,6,ElClasico,47.144
+20:10,7,Supercopa,29.784
+20:10,8,Barcelona,152.402
+20:10,9,Alaba,
+20:10,10,BILLBOARD,924.279
+20:40,1,Vini,58.007
+20:40,2,Busquets,18.134
+20:40,3,ElClasico,63.115
+20:40,4,Benzema,28.754
+20:40,5,Barcelona,172.119
+20:40,6,Barça,101.211
+20:40,7,DamatBurakİstifa,11.641
+20:40,8,KOREAQUEST_JHOPE,88.637
+20:40,9,Asensio,
+20:40,10,Coachella,31.514
+21:10,1,Vini,65.644
+21:10,2,Busquets,23.089
+21:10,3,Jong,50.702
+21:10,4,ElClasico,75.439
+21:10,5,Barça,117.410
+21:10,6,KOREAQUEST_JHOPE,107.350
+21:10,7,Dembele,24.065
+21:10,8,Benzema,33.450
+21:10,9,Asensio,10.410
+21:10,10,TotChe,12.142
+21:40,1,Benzema,61.370
+21:40,2,Vini,71.946
+21:40,3,Busquets,28.143
+21:40,4,ElClasico,86.362
+21:40,5,Jong,54.680
+21:40,6,Barça,128.301
+21:40,7,Madrid,314.225
+21:40,8,KOREAQUEST_JHOPE,127.930
+21:40,9,Dembele,28.989
+21:40,10,TotChe,17.689
+22:10,1,Benzema,68.399
+22:10,2,Vini,79.176
+22:10,3,Madrid,341.536
+22:10,4,Barça,150.630
+22:10,5,Dembele,38.000
+22:10,6,ElClasico,99.584
+22:10,7,TotChe,21.614
+22:10,8,Busquets,30.920
+22:10,9,Ansu Fati,30.295
+22:10,10,KOREAQUEST_JHOPE,144.377
+22:40,1,Madrid,387.839
+22:40,2,Benzema,82.094
+22:40,3,Barça,178.195
+22:40,4,Dembele,45.368
+22:40,5,ElClasico,112.364
+22:40,6,Vini,86.540
+22:40,7,TotChe,25.606
+22:40,8,Busquets,35.725
+22:40,9,KOREAQUEST_JHOPE,157.890
+22:40,10,InterJuventus,10.497
+23:10,1,Madrid,422.967
+23:10,2,Madrid,422.967
+23:10,3,Benzema,91.834
+23:10,4,ElClasico,127.953
+23:10,5,Dembele,49.709
+23:10,6,TotChe,28.195
+23:10,7,Vini,89.976
+23:10,8,Busquets,40.245
+23:10,9,LaIslaDeLasTentaciones11,12.756
+23:10,10,KOREAQUEST_JHOPE,167.474
+23:40,1,Madrid,447.280
+23:40,2,Barça,219.837
+23:40,3,LaIslaDeLasTentaciones11,24.918
+23:40,4,InterJuve,23.163
+23:40,5,Benzema,96.554
+23:40,6,ElClasico,131.106
+23:40,7,Dembele,51.480
+23:40,8,Alex Sandro,
+23:40,9,TotChe,29.486
+23:40,10,Busquets,42.649

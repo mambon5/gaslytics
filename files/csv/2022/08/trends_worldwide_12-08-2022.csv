@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Garland,488.335
+00:10,2,NICKI DAY,26.645
+00:10,3,Red Rocks,
+00:10,4,WE LOVE YOU LOUIS,76.235
+00:10,5,goFRA,34.861
+00:10,6,LPOVIK,
+00:10,7,Doom Patrol,
+00:10,8,The CDC,38.803
+00:10,9,Rashford,54.222
+00:10,10,DuyBeni,90.444
+00:40,1,Garland,527.638
+00:40,2,Hermes,30.137
+00:40,3,NICKI DAY,30.029
+00:40,4,Doom Patrol,
+00:40,5,Red Rocks,
+00:40,6,WE LOVE YOU LOUIS,81.331
+00:40,7,goFRA,38.416
+00:40,8,The CDC,44.973
+00:40,9,メアリー,10.868
+00:40,10,FieldofDreamsGame,
+01:10,1,Garland,548.632
+01:10,2,FieldofDreamsGame,
+01:10,3,Hermes,33.222
+01:10,4,Doom Patrol,
+01:10,5,NICKI DAY,33.014
+01:10,6,メアリー,13.697
+01:10,7,goFRA,42.344
+01:10,8,Red Rocks,
+01:10,9,The CDC,50.137
+01:10,10,WE LOVE YOU LOUIS,85.376
+01:40,1,FieldofDreamsGame,
+01:40,2,Garland,579.705
+01:40,3,Doom Patrol,
+01:40,4,Hermes,34.862
+01:40,5,メアリー,16.797
+01:40,6,NICKI DAY,34.960
+01:40,7,Titans,26.801
+01:40,8,The CDC,55.703
+01:40,9,goFRA,45.220
+01:40,10,電車ガラガラ,
+02:10,1,FieldofDreamsGame,
+02:10,2,Garland,598.134
+02:10,3,Taison,
+02:10,4,Doom Patrol,
+02:10,5,Melgar,
+02:10,6,メアリー,19.429
+02:10,7,goFRA,57.027
+02:10,8,Titans,29.966
+02:10,9,NICKI DAY,36.001
+02:10,10,Hermes,35.251
+02:40,1,Melgar,31.903
+02:40,2,Taison,
+02:40,3,FieldofDreamsGame,
+02:40,4,Malik Willis,
+02:40,5,Garland,641.121
+02:40,6,Joey Votto,
+02:40,7,O Inter,21.614
+02:40,8,ElQueEspera,19.793
+02:40,9,メアリー,21.905
+02:40,10,Cáceda,
+03:10,1,Melgar,42.188
+03:10,2,Taison,
+03:10,3,FieldofDreamsGame,
+03:10,4,Malik Willis,
+03:10,5,Garland,667.584
+03:10,6,Internacional,110.415
+03:10,7,Joey Votto,
+03:10,8,Nuclear,269.045
+03:10,9,メアリー,24.528
+03:10,10,ElQueEspera,21.057
+03:40,1,Melgar,47.498
+03:40,2,Taison,
+03:40,3,Trump,1.802.521
+03:40,4,FieldofDreamsGame,
+03:40,5,Malik Willis,
+03:40,6,Nuclear,363.401
+03:40,7,一関学院,
+03:40,8,Garland,694.438
+03:40,9,Saudis,25.224
+03:40,10,Internacional,115.123
+04:10,1,Melgar,50.564
+04:10,2,Estudiantes,52.591
+04:10,3,Taison,
+04:10,4,FieldofDreamsGame,10.462
+04:10,5,Trump,1.984.546
+04:10,6,Nuclear,451.621
+04:10,7,Malik Willis,
+04:10,8,Saudis,30.829
+04:10,9,Harry Caray,
+04:10,10,Fernandinho,
+04:40,1,Vitor Roque,15.232
+04:40,2,Estudiantes,67.676
+04:40,3,Felipão,
+04:40,4,DREAMPALOOZA,
+04:40,5,Athletico,19.201
+04:40,6,Melgar,52.890
+04:40,7,Trump,2.401.797
+04:40,8,QueenRadio,43.324
+04:40,9,Taison,
+04:40,10,FieldofDreamsGame,11.075
+05:10,1,Vitor Roque,19.580
+05:10,2,BB24,138.150
+05:10,3,DREAMPALOOZA,21.529
+05:10,4,QueenRadio,62.059
+05:10,5,Felipão,12.790
+05:10,6,Estudiantes,71.980
+05:10,7,Athletico,23.853
+05:10,8,Melgar,54.673
+05:10,9,Trump,2.378.096
+05:10,10,INIナンデス,
+05:40,1,QueenRadio,78.501
+05:40,2,Vitor Roque,20.837
+05:40,3,DREAMPALOOZA,27.778
+05:40,4,BB24,147.410
+05:40,5,Felipão,14.204
+05:40,6,Estudiantes,75.792
+05:40,7,Athletico,26.187
+05:40,8,INIナンデス,14.972
+05:40,9,Chile,210.715
+05:40,10,TV初披露_Password_INI,36.308
+06:10,1,QueenRadio,93.234
+06:10,2,Vitor Roque,21.427
+06:10,3,BB24,148.184
+06:10,4,DREAMPALOOZA,28.888
+06:10,5,Felipão,14.658
+06:10,6,SuperFreakyGirl,83.856
+06:10,7,Estudiantes,77.204
+06:10,8,Chile,212.114
+06:10,9,INIナンデス,19.749
+06:10,10,Athletico,27.074
+06:40,1,QueenRadio,100.767
+06:40,2,Vitor Roque,21.776
+06:40,3,SuperFreakyGirl,99.120
+06:40,4,DREAMPALOOZA,29.820
+06:40,5,BB24,153.295
+06:40,6,グラブル配布の日,16.376
+06:40,7,Felipão,14.997
+06:40,8,Chile,218.130
+06:40,9,Estudiantes,78.888
+06:40,10,Athletico,27.726
+07:10,1,QueenRadio,107.152
+07:10,2,SuperFreakyGirl,106.885
+07:10,3,TRAUMAZINE,47.057
+07:10,4,Vitor Roque,21.988
+07:10,5,BB24,155.379
+07:10,6,グラブル配布の日,19.888
+07:10,7,愛工大名電,18.873
+07:10,8,Felipão,15.122
+07:10,9,Chile,219.162
+07:10,10,Estudiantes,79.320
+07:40,1,QueenRadio,115.535
+07:40,2,SuperFreakyGirl,115.251
+07:40,3,TRAUMAZINE,49.713
+07:40,4,Vitor Roque,22.108
+07:40,5,グラブル配布の日,22.131
+07:40,6,TV初披露_Password_INI,99.223
+07:40,7,愛工大名電,20.602
+07:40,8,Rod Wave,26.745
+07:40,9,Chile,222.939
+07:40,10,Nicki,149.542
+08:10,1,にじさんじ甲子園,88.934
+08:10,2,QueenRadio,120.912
+08:10,3,SuperFreakyGirl,118.925
+08:10,4,TRAUMAZINE,51.312
+08:10,5,グラブル配布の日,24.052
+08:10,6,Vitor Roque,22.196
+08:10,7,Rod Wave,28.969
+08:10,8,愛工大名電,21.677
+08:10,9,Megan,54.331
+08:10,10,Nicki,153.990
+08:40,1,にじさんじ甲子園,95.669
+08:40,2,QueenRadio,122.343
+08:40,3,ロッキン中止,
+08:40,4,昭和生まれっぽい発言をしろ,
+08:40,5,TRAUMAZINE,52.673
+08:40,6,SuperFreakyGirl,121.662
+08:40,7,Rod Wave,30.590
+08:40,8,vitor roque,22.276
+08:40,9,愛工大名電,22.521
+08:40,10,Megan,55.711
+09:10,1,昭和生まれっぽい発言をしろ,
+09:10,2,にじさんじ甲子園,101.152
+09:10,3,ロッキン中止,11.451
+09:10,4,QueenRadio,123.877
+09:10,5,TRAUMAZINE,53.604
+09:10,6,グラブル配布の日,27.548
+09:10,7,Rod Wave,31.593
+09:10,8,Hayırlı Cumalar,25.819
+09:10,9,Vitor Roque,22.331
+09:10,10,愛工大名電,23.189
+09:40,1,昭和生まれっぽい発言をしろ,
+09:40,2,にじさんじ甲子園,110.943
+09:40,3,ロッキン中止,14.451
+09:40,4,SS9inJKT,
+09:40,5,InternationalYouthDay,15.495
+09:40,6,関ジャニInstagram,
+09:40,7,SPECTACULAR MC SUNGHOON,17.501
+09:40,8,Rod Wave,32.532
+09:40,9,パンパカパンダ,
+09:40,10,ラピュタ,38.188
+10:10,1,昭和生まれっぽい発言をしろ,10.700
+10:10,2,にじさんじ甲子園,115.898
+10:10,3,Eurovision,
+10:10,4,ロッキン中止,16.710
+10:10,5,SS9inJKT,
+10:10,6,InternationalYouthDay,17.412
+10:10,7,SPECTACULAR MC SUNGHOON,20.079
+10:10,8,Rod Wave,33.132
+10:10,9,近江高校,
+10:10,10,ラピュタ,39.501
+10:40,1,昭和生まれっぽい発言をしろ,12.849
+10:40,2,Sismo,
+10:40,3,SS9inJKT,
+10:40,4,にじさんじ甲子園,123.884
+10:40,5,Eurovision,
+10:40,6,ロッキン中止,18.631
+10:40,7,Hayırlı Cumalar,36.488
+10:40,8,SPECTACULAR MC SUNGHOON,23.597
+10:40,9,Glasgow,15.611
+10:40,10,ラピュタ,41.166
+11:10,1,昭和生まれっぽい発言をしろ,14.938
+11:10,2,Sismo,
+11:10,3,SS9inJKT,
+11:10,4,InternationalYouthDay,21.350
+11:10,5,alertasismica,
+11:10,6,ロッキン中止,20.051
+11:10,7,Hayırlı Cumalar,39.733
+11:10,8,in大阪,13.627
+11:10,9,Glasgow,15.769
+11:10,10,ラピュタ,42.921
+11:40,1,-,
+11:40,2,-,
+11:40,3,-,
+11:40,4,-,
+11:40,5,-,
+11:40,6,-,
+11:40,7,-,
+11:40,8,-,
+11:40,9,-,
+11:40,10,-,
+12:10,1,Guerrilla6thWin,60.593
+12:10,2,昭和生まれっぽい発言をしろ,20.227
+12:10,3,にじさんじ甲子園,154.051
+12:10,4,ATEEZ12thWin,44.549
+12:10,5,Sismo,
+12:10,6,ロッキン中止,22.677
+12:10,7,追加公演,20.842
+12:10,8,in大阪,16.043
+12:10,9,Milli Savunma,
+12:10,10,Hayırlı Cumalar,44.919
+12:40,1,Guerrilla6thWin,70.959
+12:40,2,昭和生まれっぽい発言をしろ,22.943
+12:40,3,にじさんじ甲子園,158.681
+12:40,4,ATEEZ12thWin,51.499
+12:40,5,Sismo,
+12:40,6,ロッキン中止,23.622
+12:40,7,追加公演,24.078
+12:40,8,in大阪,17.327
+12:40,9,ラピュタ,51.418
+12:40,10,milli savunma,
+13:10,1,Guerrilla6thWin,77.729
+13:10,2,昭和生まれっぽい発言をしろ,26.054
+13:10,3,ATEEZ12thWin,55.752
+13:10,4,にじさんじ甲子園,160.118
+13:10,5,InternationalYouthDay,28.124
+13:10,6,ラピュタ,54.666
+13:10,7,追加公演,26.869
+13:10,8,ロッキン中止,24.441
+13:10,9,in大阪,17.980
+13:10,10,Milli Savunma,
+13:40,1,Guerrilla6thWin,82.640
+13:40,2,昭和生まれっぽい発言をしろ,28.993
+13:40,3,雪花ラミィ2周年LIVE,28.405
+13:40,4,グッとフレーズ,
+13:40,5,ATEEZ12thWin,58.531
+13:40,6,ラピュタ,59.723
+13:40,7,追加公演,28.610
+13:40,8,in大阪,18.920
+13:40,9,ロッキン中止,25.184
+13:40,10,Milli Savunma,
+14:10,1,昭和生まれっぽい発言をしろ,32.096
+14:10,2,雪花ラミィ2周年LIVE,42.994
+14:10,3,Guerrilla6thWin,85.840
+14:10,4,AttomsNFT,
+14:10,5,グッとフレーズ,
+14:10,6,ラピュタ,85.437
+14:10,7,in大阪,19.430
+14:10,8,追加公演,30.170
+14:10,9,Roures,
+14:10,10,ジェルくん,67.308
+14:40,1,ラピュタ,121.187
+14:40,2,昭和生まれっぽい発言をしろ,35.098
+14:40,3,雪花ラミィ2周年LIVE,46.099
+14:40,4,AttomsNFT,
+14:40,5,Guerrilla6thWin,88.850
+14:40,6,グッとフレーズ,
+14:40,7,稲葉さん,10.523
+14:40,8,ALWAYS WITH TAEHYUNG,31.312
+14:40,9,Roures,
+14:40,10,ジェルくん,72.912
+15:10,1,天空の城ラピュタ,65.136
+15:10,2,liSTeningPARTY,37.155
+15:10,3,まりほー,
+15:10,4,昭和生まれっぽい発言をしろ,37.684
+15:10,5,ヒロミナイト,
+15:10,6,金曜ロードショー,26.975
+15:10,7,17thWinforSEVEN,50.354
+15:10,8,稲葉さん,11.909
+15:10,9,S.I.X,20.366
+15:10,10,ALWAYS WITH TAEHYUNG,46.985
+15:40,1,ラピュタ,197.115
+15:40,2,liSTeningPARTY,75.288
+15:40,3,FPJsAngProbinsyano,
+15:40,4,FPJAP7MissionAccomplished,11.893
+15:40,5,17thWinforSEVEN,76.139
+15:40,6,Cardo,13.320
+15:40,7,石子と羽男,19.201
+15:40,8,まりほー,
+15:40,9,ロボット兵,
+15:40,10,ヒロミナイト,
+16:10,1,ラピュタ,238.961
+16:10,2,liSTeningPARTY,117.237
+16:10,3,FPJsAngProbinsyano,19.628
+16:10,4,AttomsNFT,
+16:10,5,Cardo,30.460
+16:10,6,FPJAP7MissionAccomplished,18.320
+16:10,7,17thWinforSEVEN,100.400
+16:10,8,オケコン,
+16:10,9,EngelliÖğrt BeşBinAtama,
+16:10,10,WIN NO MATTER WHAT,46.871
+16:40,1,天空の城ラピュタ,182.747
+16:40,2,バルス,63.611
+16:40,3,liSTeningPARTY,132.781
+16:40,4,金曜ロードショー,73.587
+16:40,5,FPJsAngProbinsyano,26.197
+16:40,6,Cardo,36.966
+16:40,7,ジブリパーク,14.437
+16:40,8,オケコン,
+16:40,9,WIN NO MATTER WHAT,59.627
+16:40,10,滅びの呪文,15.114
+17:10,1,天空の城ラピュタ,198.821
+17:10,2,한여름을_수놓을_재민이의_스물셋,155.263
+17:10,3,バルス,77.550
+17:10,4,SugarPopStarJaeminDay,154.931
+17:10,5,liSTeningPARTY,134.845
+17:10,6,Cardo,38.784
+17:10,7,ジブリパーク,17.181
+17:10,8,オケコン,
+17:10,9,ÇokUcuzFiyatdan TTVerilir,
+17:10,10,WIN NO MATTER WHAT,57.854
+17:40,1,天空の城ラピュタ,205.506
+17:40,2,한여름을_수놓을_재민이의_스물셋,242.330
+17:40,3,SugarPopStarJaeminDay,239.605
+17:40,4,バルス,82.244
+17:40,5,liSTeningPARTY,136.121
+17:40,6,Cardo,39.778
+17:40,7,ジブリパーク,17.702
+17:40,8,Salman Rushdie,19.655
+17:40,9,ÇokUcuzFiyatdan TTVerilir,
+17:40,10,オケコン,
+18:10,1,한여름을_수놓을_재민이의_스물셋,291.355
+18:10,2,天空の城ラピュタ,209.192
+18:10,3,SugarPopStarJaeminDay,288.178
+18:10,4,バルス,84.894
+18:10,5,Salman Rushdie,47.271
+18:10,6,NICEFLIGHT,67.481
+18:10,7,Nick Pope,14.306
+18:10,8,夏目くん,10.554
+18:10,9,Cardo,40.343
+18:10,10,ジブリパーク,17.894
+18:40,1,한여름을_수놓을_재민이의_스물셋,317.783
+18:40,2,SugarPopStarJaeminDay,315.062
+18:40,3,Salman Rushdie,77.267
+18:40,4,ラピュタ,431.085
+18:40,5,バルス,86.599
+18:40,6,NICEFLIGHT,71.521
+18:40,7,FreeCodeFridayContest,
+18:40,8,Nick Pope,20.638
+18:40,9,Mebİldışıİptal ZorDeğil,
+18:40,10,夏目くん,11.157
+19:10,1,Salman Rushdie,101.618
+19:10,2,한여름을_수놓을_재민이의_스물셋,335.779
+19:10,3,SugarPopStarJaeminDay,332.429
+19:10,4,ラピュタ,436.062
+19:10,5,バルス,87.723
+19:10,6,Nick Pope,25.834
+19:10,7,FreeCodeFridayContest,
+19:10,8,NICEFLIGHT,73.389
+19:10,9,Mebİldışıİptal ZorDeğil,
+19:10,10,The Satanic Verses,
+19:40,1,Salman Rushdie,123.458
+19:40,2,한여름을_수놓을_재민이의_스물셋,348.510
+19:40,3,SugarPopStarJaeminDay,344.818
+19:40,4,ラピュタ,440.260
+19:40,5,Nick Pope,29.566
+19:40,6,FreeCodeFridayContest,
+19:40,7,バルス,88.544
+19:40,8,MasalŞatosu,
+19:40,9,Mebİldışıİptal ZorDeğil,
+19:40,10,The Satanic Verses,11.621
+20:10,1,CashAppFriday,15.061
+20:10,2,Salman Rushdie,142.617
+20:10,3,한여름을_수놓을_재민이의_스물셋,356.727
+20:10,4,SugarPopStarJaeminDay,352.746
+20:10,5,Nick Pope,33.286
+20:10,6,FreeCodeFridayContest,
+20:10,7,ラピュタ,442.788
+20:10,8,BTS_MostViewedActOnYoutube,22.015
+20:10,9,The Satanic Verses,13.236
+20:10,10,Hogwarts Legacy,12.084
+20:40,1,CashAppFriday,26.364
+20:40,2,Salman Rushdie,160.389
+20:40,3,한여름을_수놓을_재민이의_스물셋,362.967
+20:40,4,Level 2,38.592
+20:40,5,SugarPopStarJaeminDay,358.918
+20:40,6,Nick Pope,35.965
+20:40,7,BTS_MostViewedActOnYoutube,35.640
+20:40,8,FreeCodeFridayContest,
+20:40,9,Anne Heche,52.836
+20:40,10,Poyraz Çapari,
+21:10,1,CashAppFriday,35.503
+21:10,2,Salman Rushdie,175.813
+21:10,3,Level 2,48.035
+21:10,4,BallonDor,81.369
+21:10,5,BBNajia,21.029
+21:10,6,Anne Heche,59.802
+21:10,7,한여름을_수놓을_재민이의_스물셋,367.211
+21:10,8,SugarPopStarJaeminDay,363.212
+21:10,9,Nick Pope,38.100
+21:10,10,Balón de Oro,13.838
+21:40,1,CashAppFriday,40.676
+21:40,2,Salman Rushdie,189.780
+21:40,3,BallonDor,95.393
+21:40,4,Level 2,54.281
+21:40,5,BBNajia,23.528
+21:40,6,Anne Heche,66.437
+21:40,7,Balón de Oro,20.966
+21:40,8,Espionage Act,94.032
+21:40,9,BTS_MostViewedActOnYoutube,45.048
+21:40,10,한여름을_수놓을_재민이의_스물셋,370.761
+22:10,1,CashAppFriday,43.767
+22:10,2,Salman Rushdie,202.287
+22:10,3,BallonDor,105.641
+22:10,4,Espionage Act,129.451
+22:10,5,Level 2,57.595
+22:10,6,Anne Heche,70.677
+22:10,7,Balón de Oro,26.570
+22:10,8,BBNajia,24.813
+22:10,9,SCFBVB,
+22:10,10,BirErdoğanEseriSöyle,19.158
+22:40,1,CashAppFriday,45.864
+22:40,2,Messi,178.674
+22:40,3,Salman Rushdie,213.825
+22:40,4,Espionage Act,159.249
+22:40,5,BallonDor,113.440
+22:40,6,SCFBVB,10.306
+22:40,7,Anne Heche,74.763
+22:40,8,Balón de Oro,30.884
+22:40,9,Level 2,60.337
+22:40,10,BirErdoğanEseriSöyle,21.465
+23:10,1,Messi,187.601
+23:10,2,CashAppFriday,47.625
+23:10,3,Salman Rushdie,224.525
+23:10,4,Espionage Act,183.908
+23:10,5,BallonDor,119.617
+23:10,6,Osasuna,15.687
+23:10,7,Anne Heche,77.804
+23:10,8,SCFBVB,10.553
+23:10,9,Balón de Oro,34.657
+23:10,10,BirErdoğanEseriSöyle,23.425
+23:40,1,Messi,199.834
+23:40,2,CashAppFriday,49.156
+23:40,3,Salman Rushdie,235.964
+23:40,4,Espionage Act,203.783
+23:40,5,Osasuna,16.206
+23:40,6,Anne Heche,81.438
+23:40,7,BallonDor,124.977
+23:40,8,ToryRapSongs,
+23:40,9,SCFBVB,
+23:40,10,Balón de Oro,38.326

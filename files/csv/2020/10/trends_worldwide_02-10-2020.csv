@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:06,1,Rio Ave,52.133
+00:06,2,Leno,63.364
+00:06,3,ProudOfLouis,87.679
+00:06,4,PCAs,1.108.566
+00:06,5,RANvGS,25.786
+00:06,6,Coutinho,37.745
+00:06,7,LIVARS,30.804
+00:06,8,Origi,12.095
+00:06,9,Barça,182.377
+00:06,10,Halloween,721.037
+00:36,1,Rio Ave,61.968
+00:36,2,ProudOfLouis,93.592
+00:36,3,Leno,65.713
+00:36,4,PCAs,1.176.938
+00:36,5,RANvGS,26.292
+00:36,6,Coutinho,40.837
+00:36,7,Messi,277.026
+00:36,8,Halloween,744.460
+00:36,9,LIVARS,31.213
+00:36,10,Origi,12.372
+01:01,1,Rio Ave,65.654
+01:01,2,PCAs,1.245.396
+01:01,3,ProudOfLouis,98.909
+01:01,4,Leno,66.999
+01:01,5,RANvGS,26.443
+01:01,6,Coutinho,42.640
+01:01,7,Halloween,744.420
+01:01,8,LIVARS,31.400
+01:01,9,Messi,280.500
+01:01,10,SCJN,193.794
+01:36,1,PCAs,1.363.925
+01:36,2,Rio Ave,68.754
+01:36,3,ProudOfLouis,106.800
+01:36,4,Leno,68.538
+01:36,5,金曜日,77.385
+01:36,6,Halloween,769.592
+01:36,7,RANvGS,26.625
+01:36,8,LovesickGirls,104.686
+01:36,9,Coutinho,44.805
+01:36,10,WhiteSox,
+02:01,1,PCAs,1.471.018
+02:01,2,THEALBUM,549.077
+02:01,3,Rio Ave,70.312
+02:01,4,ProudOfLouis,109.843
+02:01,5,金曜日,82.448
+02:01,6,Leno,69.286
+02:01,7,Halloween,768.678
+02:01,8,João Paulo,
+02:01,9,Yuanes,26.880
+02:01,10,RBDNoPares,26.095
+02:31,1,PCAs,1.633.616
+02:31,2,THEALBUM,617.295
+02:31,3,João Paulo,
+02:31,4,金曜日,87.547
+02:31,5,Garnero,
+02:31,6,Rio Ave,71.755
+02:31,7,Jets,50.121
+02:31,8,ProudOfLouis,112.905
+02:31,9,RBDNoPares,33.056
+02:31,10,Halloween,786.863
+03:01,1,Sam Darnold,20.009
+03:01,2,PCAs,1.793.622
+03:01,3,THEALBUM,682.952
+03:01,4,Jets,62.552
+03:01,5,Joe Flacco,
+03:01,6,Broncos,38.357
+03:01,7,Hope Hicks,34.592
+03:01,8,João Paulo,
+03:01,9,DENvsNYJ,
+03:01,10,金曜日,91.373
+03:31,1,BB22,60.869
+03:31,2,Sam Darnold,24.580
+03:31,3,THEALBUM,718.575
+03:31,4,Jets,74.624
+03:31,5,PCAs,1.936.762
+03:31,6,Hope Hicks,61.235
+03:31,7,Flacco,11.143
+03:31,8,Jerry Jeudy,
+03:31,9,DENvsNYJ,10.602
+03:31,10,Memphis,28.217
+04:06,1,BB22,85.015
+04:06,2,DebateNaBand,14.799
+04:06,3,THEALBUM,806.681
+04:06,4,Sam Darnold,26.291
+04:06,5,PCAs,2.097.312
+04:06,6,Hope Hicks,89.727
+04:06,7,Flacco,11.677
+04:06,8,MelaniaTapes,18.817
+04:06,9,Jerry Jeudy,
+04:06,10,Enzo,34.007
+04:36,1,DebateNaBand,26.114
+04:36,2,BB22,91.945
+04:36,3,EliminaçãoAFazenda,56.960
+04:36,4,THEALBUM,914.588
+04:36,5,Hope Hicks,116.526
+04:36,6,PCAs,2.231.844
+04:36,7,Jets,84.875
+04:36,8,Crivella,
+04:36,9,Russomano,
+04:36,10,Flacco,12.069
+05:06,1,EliminaçãoAFazenda,116.207
+05:06,2,DebateNaBand,37.364
+05:06,3,BB22,94.750
+05:06,4,THEALBUM,997.059
+05:06,5,Hope Hicks,150.128
+05:06,6,WonderAtMidnight,315.354
+05:06,7,Jets,89.754
+05:06,8,Crivella,12.491
+05:06,9,Tatis,26.873
+05:06,10,Russomano,10.615
+05:31,1,Biel,316.967
+05:31,2,DebateNaBand,45.626
+05:31,3,WonderAtMidnight,394.634
+05:31,4,Hope Hicks,180.826
+05:31,5,THEALBUM,1.065.022
+05:31,6,BB22,97.303
+05:31,7,Jets,94.855
+05:31,8,MelaniaTapes,77.513
+05:31,9,Crivella,13.968
+05:31,10,Russomano,14.138
+06:01,1,Biel,333.326
+06:01,2,Jets,111.697
+06:01,3,DebateNaBand,51.135
+06:01,4,THEALBUM,1.164.656
+06:01,5,WonderAtMidnight,432.005
+06:01,6,Hope Hicks,210.558
+06:01,7,MahatmaGandhi,47.305
+06:01,8,Adam Gase,16.566
+06:01,9,BB22,98.651
+06:01,10,Sam Darnold,32.977
+06:31,1,LovesickGirls,869.784
+06:31,2,Biel,342.601
+06:31,3,SavageLoveRemix,678.867
+06:31,4,WonderAtMidnight,466.078
+06:31,5,JUNGKOOK,1.244.448
+06:31,6,Jets,118.356
+06:31,7,DebateNaBand,52.919
+06:31,8,GandhiJayanti,84.815
+06:31,9,Hope Hicks,232.247
+06:31,10,Bryson,71.095
+07:06,1,LovesickGirls,1.129.009
+07:06,2,cardi,165.899
+07:06,3,SavageLoveRemix,832.528
+07:06,4,Biel,342.944
+07:06,5,BTSOnFallon_D4,285.774
+07:06,6,WonderAtMidnight,480.450
+07:06,7,GandhiJayanti,106.895
+07:06,8,Bryson,85.256
+07:06,9,Jets,121.012
+07:06,10,Hope Hicks,255.441
+07:37,1,LovesickGirls,1.277.335
+07:37,2,TrumpHasCovid,149.835
+07:37,3,SavageLoveRemix,944.636
+07:37,4,Melania,369.506
+07:37,5,Biel,345.596
+07:37,6,GandhiJayanti,126.099
+07:37,7,BTSOnFallon_D4,351.331
+07:37,8,Bryson,94.790
+07:37,9,Jets,122.514
+07:37,10,Rona,52.616
+08:02,1,TrumpHasCovid,246.951
+08:02,2,LovesickGirls,1.365.845
+08:02,3,SavageLoveRemix,997.654
+08:02,4,Melania,413.842
+08:02,5,GandhiJayanti,140.551
+08:02,6,Biel,344.116
+08:02,7,jennie,541.807
+08:02,8,Bryson,98.954
+08:02,9,Pence,101.668
+08:02,10,WonderOutNow,164.219
+08:32,1,TrumpHasCovid,319.405
+08:32,2,LovesickGirls,1.449.447
+08:32,3,Melania,454.614
+08:32,4,SavageLoveRemix,1.041.674
+08:32,5,cardi,229.064
+08:32,6,GandhiJayanti,156.332
+08:32,7,Bryson,103.965
+08:32,8,Biel,346.197
+08:32,9,WonderOutNow,166.794
+08:32,10,First Lady,314.280
+09:02,1,TrumpHasCovid,367.305
+09:02,2,LovesickGirls,1.512.722
+09:02,3,Melania,484.890
+09:02,4,GandhiJayanti,170.043
+09:02,5,SavageLoveRemix,1.077.492
+09:02,6,Bryson,107.088
+09:02,7,BTSOnFallon_D4,393.681
+09:02,8,First Lady,337.310
+09:02,9,jungkook,1.214.457
+09:02,10,トランプ大統領,122.867
+09:32,1,TrumpHasCovid,400.338
+09:32,2,LovesickGirls,1.568.958
+09:32,3,THEALBUM,2.054.624
+09:32,4,Melania,507.723
+09:32,5,GandhiJayanti,182.963
+09:32,6,SavageLoveRemix,1.134.358
+09:32,7,Bryson,110.837
+09:32,8,Rona,93.200
+09:32,9,FLOTUS,1.116.807
+09:32,10,トランプ大統領,130.676
+10:07,1,TrumpHasCovid,431.445
+10:07,2,LovesickGirls,1.623.537
+10:07,3,GandhiJayanti,197.969
+10:07,4,Pence,143.313
+10:07,5,cardi,253.279
+10:07,6,Jisoo,589.763
+10:07,7,ABPKoMatRoko,43.031
+10:07,8,MenteriKPTsilaletakjawatan,20.387
+10:07,9,Bryson,113.752
+10:07,10,Rona,98.586
+10:32,1,TrumpHasCovid,451.034
+10:32,2,LovesickGirls,1.657.703
+10:32,3,GandhiJayanti,207.949
+10:32,4,ホンダ,21.111
+10:32,5,SavageLoveRemix,1.203.056
+10:32,6,ABPKoMatRoko,56.093
+10:32,7,Pence,147.663
+10:32,8,Bryson,116.313
+10:32,9,FLOTUS,1.221.484
+10:32,10,First Lady,386.456
+11:02,1,TrumpHasCovid,472.126
+11:02,2,LovesickGirls,1.696.336
+11:02,3,ホンダ,33.003
+11:02,4,GandhiJayanti,218.885
+11:02,5,BLACKPINK,2.302.280
+11:02,6,ABPKoMatRoko,68.405
+11:02,7,Pence,151.502
+11:02,8,Hope Hicks,381.856
+11:02,9,Renault,
+11:02,10,FLOTUS,1.267.394
+11:32,1,TrumpHasCovid,490.876
+11:32,2,ホンダ,41.052
+11:32,3,LovesickGirls,1.742.917
+11:32,4,沖田さん,20.560
+11:32,5,GandhiJayanti,228.440
+11:32,6,ABPKoMatRoko,82.693
+11:32,7,DalitLivesMatter,115.243
+11:32,8,Renault,
+11:32,9,Pence,155.415
+11:32,10,Hope Hicks,388.516
+12:07,1,TrumpHasCovid,510.682
+12:07,2,ホンダ,48.074
+12:07,3,沖田さん,33.315
+12:07,4,LovesickGirls,1.790.160
+12:07,5,DalitLivesMatter,138.026
+12:07,6,GandhiJayanti,238.948
+12:07,7,ABPKoMatRoko,92.866
+12:07,8,F1撤退,30.725
+12:07,9,Mステ,34.960
+12:07,10,Renault,
+12:32,1,TrumpHasCovid,524.433
+12:32,2,Mステ,41.564
+12:32,3,沖田さん,40.713
+12:32,4,ホンダ,52.236
+12:32,5,DalitLivesMatter,154.725
+12:32,6,ぴったんこカンカン,17.172
+12:32,7,GandhiJayanti,246.128
+12:32,8,Honda,55.282
+12:32,9,Renault,
+12:32,10,以蔵さん,12.273
+13:07,1,TrumpHasCovid,545.905
+13:07,2,Mステ,57.035
+13:07,3,沖田さん,49.111
+13:07,4,ホンダ,56.708
+13:07,5,AFLLionsTigers,
+13:07,6,DalitLivesMatter,173.567
+13:07,7,ぴったんこカンカン,28.814
+13:07,8,Honda,59.301
+13:07,9,以蔵さん,15.124
+13:07,10,Renault,10.009
+13:32,1,Mステ,76.864
+13:32,2,TrumpHasCovid,561.381
+13:32,3,沖田さん,53.988
+13:32,4,ホンダ,59.811
+13:32,5,DalitLivesMatter,186.680
+13:32,6,AFLLionsTigers,
+13:32,7,ぴったんこカンカン,32.627
+13:32,8,Honda,62.348
+13:32,9,以蔵さん,16.836
+13:32,10,Renault,10.737
+14:07,1,Mステ,97.009
+14:07,2,TrumpHasCovid,585.297
+14:07,3,沖田さん,59.879
+14:07,4,AFLLionsTigers,
+14:07,5,ホンダ,63.177
+14:07,6,DalitLivesMatter,202.733
+14:07,7,UELdraw,17.817
+14:07,8,れおほー,
+14:07,9,以蔵さん,18.998
+14:07,10,少クラ,20.867
+14:37,1,Mステ,108.625
+14:37,2,TrumpHasCovid,606.901
+14:37,3,AFLLionsTigers,
+14:37,4,沖田さん,64.717
+14:37,5,DalitLivesMatter,215.239
+14:37,6,ホンダ,65.996
+14:37,7,Melania,729.583
+14:37,8,OurGardenJungwon,69.952
+14:37,9,れおほー,
+14:37,10,Pence,198.269
+15:07,1,Mステ,131.269
+15:07,2,COVID,3.913.923
+15:07,3,AFLLionsTigers,
+15:07,4,GayaSaPelikulaEp02,
+15:07,5,沖田さん,68.637
+15:07,6,DalitLivesMatter,225.438
+15:07,7,ホンダ,68.240
+15:07,8,OurGardenJungwon,82.154
+15:07,9,Pence,207.787
+15:07,10,どらほー,
+15:32,1,COVID,4.067.901
+15:32,2,Mステ,143.245
+15:32,3,GayaSaPelikulaEp02,
+15:32,4,AFLLionsTigers,
+15:32,5,DalitLivesMatter,235.080
+15:32,6,沖田さん,72.143
+15:32,7,金曜ロードSHOW,
+15:32,8,ホンダ,69.855
+15:32,9,E.T.,211.106
+15:32,10,FLOTUS,1.878.536
+16:02,1,COVID,4.170.150
+16:02,2,Mステ,103.559
+16:02,3,GayaSaPelikulaEp02,10.243
+16:02,4,キワドい2人,25.459
+16:02,5,DalitLivesMatter,247.362
+16:02,6,金曜ロードSHOW,10.111
+16:02,7,AFLLionsTigers,
+16:02,8,沖田さん,75.472
+16:02,9,ホンダ,71.414
+16:02,10,President and First Lady,123.476
+16:32,1,COVID,4.360.319
+16:32,2,Mステ,109.982
+16:32,3,OurHavenBangChan,28.687
+16:32,4,GayaSaPelikulaEp02,11.311
+16:32,5,ساعه_استجابه,28.213
+16:32,6,キワドい2人,28.561
+16:32,7,DalitLivesMatter,260.129
+16:32,8,E.T.,233.203
+16:32,9,沖田さん,78.900
+16:32,10,魔女の旅,17.660
+17:02,1,OurHavenBangChan,134.144
+17:02,2,COVID,4.446.102
+17:02,3,คนละทีเดียวกันEP3,87.923
+17:02,4,ساعه_استجابه,40.906
+17:02,5,Mステ,113.413
+17:02,6,脱力タイムズ,
+17:02,7,문명특급,
+17:02,8,Melania,925.791
+17:02,9,삐리빠빠,
+17:02,10,ヒプアニ,61.575
+17:32,1,OurHavenBangChan,277.267
+17:32,2,COVID,4.530.576
+17:32,3,FreeCodeFridayContest,
+17:32,4,ヒプアニ,97.074
+17:32,5,คนละทีเดียวกันEP3,161.862
+17:32,6,遠藤さくら生誕祭,13.269
+17:32,7,티아라,41.107
+17:32,8,롤리폴리,16.108
+17:32,9,センラさん,30.069
+17:32,10,암욜맨,
+18:07,1,OurHavenBangChan,346.083
+18:07,2,FreeCodeFridayContest,
+18:07,3,COVID,4.762.249
+18:07,4,ヒプアニ,117.111
+18:07,5,คนละทีเดียวกันEP3,196.976
+18:07,6,遠藤さくら生誕祭,16.499
+18:07,7,티아라,59.568
+18:07,8,롤리폴리,31.814
+18:07,9,Rick Moranis,
+18:07,10,センラさん,33.578
+18:34,1,OurHavenBangChan,376.249
+18:34,2,FreeCodeFridayContest,
+18:34,3,COVID,4.966.992
+18:34,4,Rick Moranis,18.936
+18:34,5,ヒプアニ,121.131
+18:34,6,CSKvsSRH,29.240
+18:34,7,คนละทีเดียวกันEP3,209.064
+18:34,8,티아라,68.552
+18:34,9,노래방,29.064
+18:34,10,케이팝,29.533
+18:59,1,OurHavenBangChan,396.680
+18:59,2,Rick Moranis,29.780
+18:59,3,FreeCodeFridayContest,
+18:59,4,COVID,5.158.229
+18:59,5,呪術廻戦,58.714
+18:59,6,CSKvsSRH,32.300
+18:59,7,WeLoveYouJimin,31.743
+18:59,8,티아라,75.057
+18:59,9,롤리폴리,42.511
+18:59,10,케이팝,34.125
+19:34,1,OurHavenBangChan,417.737
+19:34,2,Rick Moranis,43.155
+19:34,3,COVID,5.284.765
+19:34,4,CSKvSRH,66.920
+19:34,5,FreeCodeFridayContest,
+19:34,6,WeLoveYouJimin,43.060
+19:34,7,呪術廻戦,68.722
+19:34,8,Hugo Gaston,
+19:34,9,케이팝,38.591
+19:34,10,그시절,37.004
+20:04,1,OurHavenBangChan,432.060
+20:04,2,Rick Moranis,53.034
+20:04,3,CSKvSRH,74.895
+20:04,4,Covid,5.374.860
+20:04,5,WeLoveYouJimin,48.977
+20:04,6,FreeCodeFridayContest,
+20:04,7,PrayForTrump,23.620
+20:04,8,그시절,42.169
+20:04,9,케이팝,41.376
+20:04,10,Hugo Gaston,
+20:34,1,CSKvSRH,89.802
+20:34,2,Rick Moranis,61.135
+20:34,3,OurHavenBangChan,442.970
+20:34,4,Covid,5.555.025
+20:34,5,WeLoveYouJimin,53.570
+20:34,6,FreeCodeFridayContest,
+20:34,7,呪術廻戦,71.841
+20:34,8,그시절,45.691
+20:34,9,케이팝,43.480
+20:34,10,BUY BETTER BY ZAYN,47.464
+21:04,1,Rick Moranis,67.397
+21:04,2,CSKvSRH,95.515
+21:04,3,OurHavenBangChan,452.314
+21:04,4,COVID,5.630.218
+21:04,5,WeLoveYouJimin,57.473
+21:04,6,KırmızıOda,
+21:04,7,FreeCodeFridayContest,
+21:04,8,그시절,47.800
+21:04,9,BUY BETTER BY ZAYN,53.579
+21:04,10,케이팝,44.531
+21:34,1,SalarioRosa,29.097
+21:34,2,Rick Moranis,72.788
+21:34,3,CSKvSRH,98.128
+21:34,4,OurHavenBangChan,460.237
+21:34,5,KırmızıOda,
+21:34,6,COVID,5.782.812
+21:34,7,PrayForTrump,38.346
+21:34,8,BUY BETTER BY ZAYN,57.835
+21:34,9,그시절,49.595
+21:34,10,Cookie Monsta,
+22:04,1,SalarioRosa,36.216
+22:04,2,KohLanta,24.792
+22:04,3,Rick Moranis,77.823
+22:04,4,KırmızıOda,10.441
+22:04,5,OurHavenBangChan,466.880
+22:04,6,CSKvSRH,99.427
+22:04,7,Sesimize KulakVer,
+22:04,8,SUPPORT JATP GIRLS,19.997
+22:04,9,BUY BETTER BY ZAYN,60.363
+22:04,10,Florenzi,
+22:34,1,SalarioRosa,41.799
+22:34,2,KohLanta,34.411
+22:34,3,FreeCodeFridayContest,14.519
+22:34,4,KırmızıOda,13.023
+22:34,5,Rick Moranis,82.715
+22:34,6,OurHavenBangChan,473.174
+22:34,7,Cubs,24.149
+22:34,8,SUPPORT JATP GIRLS,22.238
+22:34,9,Sesimize KulakVer,
+22:34,10,Darvish,
+23:04,1,SalarioRosa,46.599
+23:04,2,KohLanta,45.509
+23:04,3,KırmızıOda,17.366
+23:04,4,FreeCodeFridayContest,15.928
+23:04,5,Rick Moranis,87.126
+23:04,6,Cubs,26.784
+23:04,7,PSGSCO,19.277
+23:04,8,Marlins,14.218
+23:04,9,SUPPORT JATP GIRLS,24.668
+23:04,10,My 4 10,
+23:29,1,SalarioRosa,49.795
+23:29,2,KohLanta,50.505
+23:29,3,Walter Reed,111.803
+23:29,4,KırmızıOda,19.166
+23:29,5,FreeCodeFridayContest,16.716
+23:29,6,Rick Moranis,90.015
+23:29,7,Cubs,30.503
+23:29,8,CovidCaughtTrump,23.477
+23:29,9,Fernando Simón,18.581
+23:29,10,White House,1.017.465

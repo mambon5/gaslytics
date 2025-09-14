@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Amber,1.038.458
+00:10,2,Messi,633.084
+00:10,3,Argentina,518.841
+00:10,4,Finalissima,159.962
+00:10,5,TruthWins,96.804
+00:10,6,Di Maria,111.320
+00:10,7,Dybala,48.795
+00:10,8,ميسي,87.747
+00:10,9,Shakira,77.838
+00:10,10,Wembley,123.442
+00:40,1,Amber,1.103.194
+00:40,2,Messi,672.185
+00:40,3,Argentina,543.761
+00:40,4,Finalissima,168.477
+00:40,5,TruthWins,102.061
+00:40,6,Shakira,84.836
+00:40,7,Di Maria,115.154
+00:40,8,Dybala,50.122
+00:40,9,ميسي,92.152
+00:40,10,MeToo,38.693
+01:10,1,Amber,1.135.658
+01:10,2,Messi,689.758
+01:10,3,Argentina,555.603
+01:10,4,Finalissima,174.343
+01:10,5,Shakira,90.775
+01:10,6,TruthWins,106.949
+01:10,7,Di Maria,117.833
+01:10,8,Dybala,50.996
+01:10,9,ميسي,94.420
+01:10,10,MeToo,40.842
+01:40,1,Amber,1.204.742
+01:40,2,Messi,716.278
+01:40,3,Argentina,572.389
+01:40,4,Tulsa,66.774
+01:40,5,Shakira,98.430
+01:40,6,Finalissima,178.969
+01:40,7,TruthWins,111.609
+01:40,8,TheMatch,
+01:40,9,Marion Barber,11.437
+01:40,10,Dybala,51.845
+02:10,1,Amber,1.190.247
+02:10,2,Messi,728.560
+02:10,3,Argentina,579.940
+02:10,4,Tulsa,98.874
+02:10,5,Shakira,104.868
+02:10,6,AEWDynamite,15.414
+02:10,7,Marion Barber,18.614
+02:10,8,Finalissima,182.090
+02:10,9,TheMatch,
+02:10,10,USMNT,
+02:40,1,Amber,1.239.970
+02:40,2,AEWDynamite,36.792
+02:40,3,Tulsa,123.536
+02:40,4,Messi,742.261
+02:40,5,Argentina,592.380
+02:40,6,Shakira,112.454
+02:40,7,TheMatch,
+02:40,8,Marion Barber,23.727
+02:40,9,USMNT,
+02:40,10,Finalissima,184.865
+03:10,1,AEWDynamite,55.010
+03:10,2,Amber,1.279.658
+03:10,3,Tulsa,142.878
+03:10,4,Messi,748.644
+03:10,5,Argentina,597.895
+03:10,6,Shakira,119.548
+03:10,7,TheMatch,
+03:10,8,RHOBH,
+03:10,9,Marion Barber,27.039
+03:10,10,USMNT,
+03:40,1,AEWDynamite,67.216
+03:40,2,Amber,1.307.343
+03:40,3,Tulsa,159.876
+03:40,4,Shakira,128.048
+03:40,5,Messi,758.288
+03:40,6,TheMatch,
+03:40,7,RHODubai,
+03:40,8,Argentina,607.897
+03:40,9,Jove,19.758
+03:40,10,J Balvin,
+04:10,1,AEWDynamite,78.734
+04:10,2,Amber,1.353.303
+04:10,3,Tulsa,171.832
+04:10,4,Shakira,134.666
+04:10,5,RHODubai,
+04:10,6,Nodal,23.705
+04:10,7,TheMatch,
+04:10,8,Xororó,
+04:10,9,Messi,763.650
+04:10,10,SistasOnBET,
+04:40,1,AEWDynamite,83.276
+04:40,2,Amber,1.393.536
+04:40,3,Tulsa,184.024
+04:40,4,Xororó,
+04:40,5,Shakira,142.844
+04:40,6,RHODubai,10.829
+04:40,7,Nodal,27.459
+04:40,8,TheMatch,
+04:40,9,Rangers,53.032
+04:40,10,Fortaleza,28.477
+05:10,1,AEWDynamite,85.736
+05:10,2,DRPowerCouple,16.243
+05:10,3,SONG FOR ARMY,12.462
+05:10,4,Amber,1.397.384
+05:10,5,Tulsa,192.829
+05:10,6,Rangers,57.028
+05:10,7,Nodal,31.070
+05:10,8,Shakira,149.841
+05:10,9,Xororó,
+05:10,10,Johnny Depp,1.292.347
+05:40,1,DRPowerCouple,30.876
+05:40,2,SONG FOR ARMY,32.186
+05:40,3,AEWDynamite,89.122
+05:40,4,Nodal,35.138
+05:40,5,Amber,1.452.369
+05:40,6,Tulsa,201.264
+05:40,7,TokopediaxBTS,23.520
+05:40,8,BebasOngkirSebebasnya,22.622
+05:40,9,Shakira,158.664
+05:40,10,J Balvin,
+06:10,1,DRPowerCouple,35.243
+06:10,2,SONG FOR ARMY,38.286
+06:10,3,AEWDynamite,91.594
+06:10,4,TokopediaxBTS,37.892
+06:10,5,BebasOngkirSebebasnya,37.940
+06:10,6,Nodal,38.996
+06:10,7,Shakira,166.087
+06:10,8,J Balvin,
+06:10,9,Tulsa,207.643
+06:10,10,Amber,1.505.144
+06:40,1,DRPowerCouple,36.747
+06:40,2,TokopediaxBTS,49.646
+06:40,3,BebasOngkirSebebasnya,48.196
+06:40,4,SONG FOR ARMY,42.191
+06:40,5,Nodal,42.558
+06:40,6,AEWDynamite,94.049
+06:40,7,J Balvin,
+06:40,8,Shakira,173.782
+06:40,9,BUMP,30.714
+06:40,10,Amber,1.523.905
+07:10,1,TokopediaxBTS,66.015
+07:10,2,BebasOngkirSebebasnya,62.785
+07:10,3,DRPowerCouple,37.477
+07:10,4,SONG FOR ARMY,44.951
+07:10,5,Nodal,45.430
+07:10,6,AEWDynamite,95.993
+07:10,7,J Balvin,19.490
+07:10,8,Shakira,179.728
+07:10,9,Amber,1.557.281
+07:10,10,BTS9thAnniversary,170.677
+07:40,1,TokopediaxBTS,77.766
+07:40,2,BebasOngkirSebebasnya,72.951
+07:40,3,Nodal,47.809
+07:40,4,SONG FOR ARMY,47.276
+07:40,5,DRPowerCouple,38.138
+07:40,6,AEWDynamite,97.568
+07:40,7,J Balvin,20.483
+07:40,8,Shakira,185.454
+07:40,9,Amber,1.610.445
+07:40,10,BUMP,31.764
+08:10,1,TokopediaxBTS,86.547
+08:10,2,BebasOngkirSebebasnya,80.270
+08:10,3,Nodal,49.700
+08:10,4,SONG FOR ARMY,49.034
+08:10,5,DRPowerCouple,38.352
+08:10,6,J Balvin,
+08:10,7,Shakira,189.714
+08:10,8,KGF2Blockbuster50Days,
+08:10,9,AEWDynamite,98.719
+08:10,10,BUMP,31.813
+08:40,1,TokopediaxBTS,93.788
+08:40,2,BebasOngkirSebebasnya,86.002
+08:40,3,Nodal,50.951
+08:40,4,UAAPSeason84,
+08:40,5,SONG FOR ARMY,50.522
+08:40,6,DRPowerCouple,38.457
+08:40,7,NiziU_Light_it_up,
+08:40,8,J Balvin,
+08:40,9,Shakira,193.237
+08:40,10,BUMP,32.747
+09:10,1,TokopediaxBTS,100.071
+09:10,2,BebasOngkirSebebasnya,91.330
+09:10,3,UAAPSeason84,
+09:10,4,2giugno,
+09:10,5,NiziU_Light_it_up,
+09:10,6,Nodal,51.780
+09:10,7,SONG FOR ARMY,51.901
+09:10,8,J Balvin,22.381
+09:10,9,Shakira,196.084
+09:10,10,BUMP,32.858
+09:40,1,TokopediaxBTS,106.185
+09:40,2,2giugno,
+09:40,3,BebasOngkirSebebasnya,97.015
+09:40,4,FestadellaRepubblica,
+09:40,5,NiziU_Light_it_up,
+09:40,6,Nodal,52.448
+09:40,7,SONG FOR ARMY,53.213
+09:40,8,초동 200만,
+09:40,9,Daily Quordle 129,
+09:40,10,ChecksNBalances With GovNow,
+10:10,1,ユウタ初東京観光,10.948
+10:10,2,2giugno,
+10:10,3,TokopediaxBTS,110.960
+10:10,4,PlatinumJubilee,76.104
+10:10,5,FestadellaRepubblica,
+10:10,6,Love Earth With KANAWUT,24.231
+10:10,7,초동 200만,
+10:10,8,Daily Quordle 129,
+10:10,9,ハマっ子失格,
+10:10,10,横浜市民限定クイズ,
+10:40,1,ユウタ初東京観光,22.537
+10:40,2,PlatinumJubilee,81.970
+10:40,3,2giugno,
+10:40,4,FestadellaRepubblica,
+10:40,5,TokopediaxBTS,114.762
+10:40,6,Love Earth With KANAWUT,49.420
+10:40,7,초동 200만,
+10:40,8,ハマっ子失格,
+10:40,9,横浜市民限定クイズ,
+10:40,10,Daily Quordle 129,
+11:10,1,ユウタ初東京観光,30.758
+11:10,2,PlatinumJubilee,85.490
+11:10,3,2giugno,11.335
+11:10,4,FestadellaRepubblica,
+11:10,5,YeniMüjde,
+11:10,6,ハマっ子失格,
+11:10,7,Love Earth With KANAWUT,63.608
+11:10,8,横浜市民限定クイズ,
+11:10,9,悠太くん,
+11:10,10,DAYOUNG,
+11:40,1,ユウタ初東京観光,33.006
+11:40,2,PlatinumJubilee,91.770
+11:40,3,2giugno,12.808
+11:40,4,FestadellaRepubblica,
+11:40,5,YeniMüjde,
+11:40,6,Juan Mata,
+11:40,7,ハマっ子失格,
+11:40,8,横浜市民限定クイズ,
+11:40,9,Love Earth With KANAWUT,73.026
+11:40,10,聘珍樓横濱本店,
+12:10,1,PlatinumJubilee,97.000
+12:10,2,ユウタ初東京観光,34.671
+12:10,3,2giugno,14.324
+12:10,4,ENGvNZ,
+12:10,5,FestadellaRepubblica,10.126
+12:10,6,Juan Mata,
+12:10,7,ハマっ子,
+12:10,8,横浜市民限定クイズ,
+12:10,9,パラグアイ,11.046
+12:10,10,聘珍樓横濱本店,
+12:40,1,HOT1stWin,24.207
+12:40,2,PlatinumJubilee,105.786
+12:40,3,ENGvNZ,
+12:40,4,サッカー日本代表,17.272
+12:40,5,ユウタ初東京観光,35.902
+12:40,6,ガンケル,
+12:40,7,Jimmy Anderson,
+12:40,8,HOT FIRST WIN,
+12:40,9,Juan Mata,
+12:40,10,パラグアイ,13.903
+13:10,1,HOT1stWin,79.179
+13:10,2,PlatinumJubilee,112.055
+13:10,3,ENGvNZ,
+13:10,4,サッカー日本代表,21.627
+13:10,5,HOT FIRST WIN,33.280
+13:10,6,ガンケル,
+13:10,7,TroopingTheColour,
+13:10,8,Jiminie,16.891
+13:10,9,Anderson,24.952
+13:10,10,パラグアイ,18.733
+13:40,1,HOT1stWin,91.685
+13:40,2,PlatinumJubilee,121.822
+13:40,3,ENGvNZ,
+13:40,4,サッカー日本代表,26.115
+13:40,5,Coreia,32.150
+13:40,6,Thiago Silva,
+13:40,7,POSEWITHLOONA,
+13:40,8,Daniel Alves,
+13:40,9,LOONADOM FINALE,
+13:40,10,HOT FIRST WIN,36.649
+14:10,1,HOT1stWin,97.193
+14:10,2,PlatinumJubilee,129.875
+14:10,3,Neymar,48.307
+14:10,4,サッカー日本代表,32.391
+14:10,5,ENGvNZ,11.146
+14:10,6,POSEWITHLOONA,20.382
+14:10,7,Coreia,36.921
+14:10,8,LOONADOM FINALE,19.387
+14:10,9,どらほー,
+14:10,10,Thiago Silva,
+14:40,1,Neymar,69.456
+14:40,2,PlatinumJubilee,143.182
+14:40,3,HOT1stWin,100.606
+14:40,4,วอลเลย์บอลหญิง,88.375
+14:40,5,POSEWITHLOONA,27.141
+14:40,6,이달의소녀_왕관을향해_포즈,26.635
+14:40,7,Coreia,43.505
+14:40,8,LOONADOM FINALE,25.055
+14:40,9,すわほー,
+14:40,10,どらほー,
+15:10,1,Neymar,78.746
+15:10,2,Coutinho,19.120
+15:10,3,PlatinumJubilee,151.415
+15:10,4,Gabriel Jesus,10.464
+15:10,5,Coreia,54.715
+15:10,6,POSEWITHLOONA,34.110
+15:10,7,วอลเลย์บอลหญิง,152.492
+15:10,8,HOT1stWin,103.223
+15:10,9,이달의소녀_왕관을향해_포즈,33.341
+15:10,10,hyolyn,14.862
+15:40,1,Neymar,86.998
+15:40,2,Coutinho,20.609
+15:40,3,PlatinumJubilee,160.488
+15:40,4,Coreia,60.195
+15:40,5,Gabriel Jesus,11.745
+15:40,6,QUEENDOM2,129.810
+15:40,7,POSEWITHLOONA,37.163
+15:40,8,이달의소녀_왕관을향해_포즈,36.142
+15:40,9,วอลเลย์บอลหญิง,180.424
+15:40,10,hyolyn,19.373
+16:10,1,Neymar,91.088
+16:10,2,Coutinho,21.218
+16:10,3,QUEENDOM2,165.009
+16:10,4,Coreia,62.854
+16:10,5,PlatinumJubilee,165.046
+16:10,6,POSEWITHLOONA,42.207
+16:10,7,Gabriel Jesus,12.232
+16:10,8,ร้องข้ามกําแพงxซีนุนิว,212.477
+16:10,9,이달의소녀_왕관을향해_포즈,40.904
+16:10,10,hyolyn,25.402
+16:40,1,jeno,279.780
+16:40,2,Neymar,96.199
+16:40,3,QUEENDOM2,197.923
+16:40,4,Coutinho,21.871
+16:40,5,トークィーンズ,20.559
+16:40,6,POSEWITHLOONA,50.017
+16:40,7,PlatinumJubilee,172.794
+16:40,8,Coreia,65.550
+16:40,9,ร้องข้ามกําแพงxซีนุนิว,297.267
+16:40,10,Gabriel Jesus,12.646
+17:10,1,chenle,249.149
+17:10,2,後藤威尊23歳で魅せる新世界のView,28.489
+17:10,3,HAPPYTAKERUDAY,33.041
+17:10,4,QUEENDOM2,221.635
+17:10,5,Neymar,98.485
+17:10,6,Coutinho,22.133
+17:10,7,トークィーンズ,25.877
+17:10,8,PlatinumJubilee,176.923
+17:10,9,hyolyn,34.284
+17:10,10,Coreia,67.729
+17:40,1,WJSN,250.426
+17:40,2,chenle,266.828
+17:40,3,後藤威尊23歳で魅せる新世界のView,44.626
+17:40,4,HAPPYTAKERUDAY,50.173
+17:40,5,BTS9thAnniversary,419.623
+17:40,6,2022BTSFESTA,437.576
+17:40,7,Neymar,102.716
+17:40,8,hyolyn,44.123
+17:40,9,トークィーンズ,26.634
+17:40,10,Coutinho,22.530
+18:10,1,WJSN,286.757
+18:10,2,jeno,347.492
+18:10,3,後藤威尊23歳で魅せる新世界のView,49.242
+18:10,4,HAPPYTAKERUDAY,55.057
+18:10,5,BTS9thAnniversary,457.235
+18:10,6,2022BTSFESTA,476.538
+18:10,7,OurBamBamBackToKorea,73.714
+18:10,8,hyolyn,51.322
+18:10,9,第133回,
+18:10,10,Neymar,104.582
+18:40,1,WJSN,308.033
+18:40,2,jeno,356.854
+18:40,3,後藤威尊23歳で魅せる新世界のView,50.705
+18:40,4,Parcoursup,12.405
+18:40,5,BTS9thAnniversary,478.217
+18:40,6,HAPPYTAKERUDAY,56.708
+18:40,7,2022BTSFESTA,498.975
+18:40,8,Gavi,27.950
+18:40,9,hyolyn,54.843
+18:40,10,第133回,
+19:10,1,WJSN,319.370
+19:10,2,Parcoursup,15.803
+19:10,3,jeno,359.526
+19:10,4,QUEENDOM2,349.754
+19:10,5,後藤威尊23歳で魅せる新世界のView,51.242
+19:10,6,BTS9thAnniversary,492.694
+19:10,7,Petrol,
+19:10,8,Gavi,30.551
+19:10,9,第133回,
+19:10,10,hyolyn,57.351
+19:40,1,Petrol,18.064
+19:40,2,Parcoursup,19.072
+19:40,3,wjsn,328.512
+19:40,4,jeno,364.168
+19:40,5,QUEENDOM2,357.070
+19:40,6,Gavi,33.927
+19:40,7,ENGvNZ,20.183
+19:40,8,BTS9thAnniversary,502.863
+19:40,9,Shakira,318.406
+19:40,10,Dragon Age,
+20:10,1,HOLLY,28.650
+20:10,2,Petrol,27.872
+20:10,3,Parcoursup,22.175
+20:10,4,wjsn,332.789
+20:10,5,jeno,365.248
+20:10,6,Dragon Age,12.412
+20:10,7,Gavi,37.023
+20:10,8,QUEENDOM2,361.717
+20:10,9,Shakira,318.026
+20:10,10,Ryan Fitzpatrick,
+20:40,1,Holly,51.872
+20:40,2,Petrol,37.652
+20:40,3,Parcoursup,24.829
+20:40,4,wjsn,337.039
+20:40,5,Dragon Age,14.543
+20:40,6,Shakira,329.171
+20:40,7,Gavi,40.134
+20:40,8,jeno,367.675
+20:40,9,Ryan Fitzpatrick,
+20:40,10,QUEENDOM2,365.579
+21:10,1,Holly,73.653
+21:10,2,Petrol,45.453
+21:10,3,Parcoursup,27.151
+21:10,4,EastEnders,
+21:10,5,WJSN,340.020
+21:10,6,Shakira,329.079
+21:10,7,Dragon Age,16.042
+21:10,8,Gavi,43.395
+21:10,9,CashCardShow,
+21:10,10,Ryan Fitzpatrick,10.755
+21:40,1,Holly,82.723
+21:40,2,Petrol,50.575
+21:40,3,Gavi,53.301
+21:40,4,Morata,
+21:40,5,Parcoursup,29.118
+21:40,6,EastEnders,
+21:40,7,GalatasarayNef,
+21:40,8,Shakira,339.685
+21:40,9,İstanbulspor,
+21:40,10,Fernando Santos,
+22:10,1,Holly,87.300
+22:10,2,Petrol,54.525
+22:10,3,Gavi,58.100
+22:10,4,Morata,
+22:10,5,Parcoursup,30.815
+22:10,6,VoleiNoSportTV,
+22:10,7,Portugal,90.595
+22:10,8,EastEnders,
+22:10,9,Fernando Santos,
+22:10,10,Shakira,339.187
+22:40,1,Holly,91.711
+22:40,2,Gavi,63.403
+22:40,3,petrol,57.411
+22:40,4,Portugal,99.671
+22:40,5,Fernando Santos,
+22:40,6,VoleiNoSportTV,
+22:40,7,Morata,
+22:40,8,SVGala7,
+22:40,9,Mahkum,
+22:40,10,Ricardo Horta,
+23:10,1,Holly,95.147
+23:10,2,SVGala7,
+23:10,3,Gavi,67.578
+23:10,4,Portugal,98.490
+23:10,5,Mahkum,11.168
+23:10,6,Petrol,59.856
+23:10,7,Fernando Santos,
+23:10,8,Morata,10.138
+23:10,9,VoleiNoSportTV,
+23:10,10,Ricardo Horta,
+23:40,1,SVGala7,13.308
+23:40,2,BBNaijaReunion,29.994
+23:40,3,Holly,99.105
+23:40,4,Gavi,71.250
+23:40,5,ONEPIECE1051,15.837
+23:40,6,Portugal,101.552
+23:40,7,Mahkum,11.904
+23:40,8,Noba,
+23:40,9,Fernando Santos,
+23:40,10,Petrol,62.187

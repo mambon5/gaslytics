@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Mourinho,200.601
+00:10,2,Beto,564.557
+00:10,3,Roma,228.735
+00:10,4,UECLfinal,84.470
+00:10,5,SLVMFashionWeek,22.850
+00:10,6,romfey,13.372
+00:10,7,The Special One,38.050
+00:10,8,ConferenceLeague,
+00:10,9,Smalling,
+00:10,10,sadakatsizveda,
+00:40,1,Mourinho,220.060
+00:40,2,Beto,602.447
+00:40,3,Roma,242.797
+00:40,4,UECLfinal,89.461
+00:40,5,SLVMFashionWeek,28.260
+00:40,6,The Special One,40.621
+00:40,7,romfey,13.545
+00:40,8,ConferenceLeague,10.532
+00:40,9,VamosColoColo,
+00:40,10,Smalling,10.531
+01:10,1,Mourinho,232.592
+01:10,2,Beto,624.654
+01:10,3,Roma,251.796
+01:10,4,UECLfinal,93.696
+01:10,5,SLVMFashionWeek,32.198
+01:10,6,Julián Álvarez,
+01:10,7,VamosColoColo,
+01:10,8,Mammana,
+01:10,9,CPIdoSertanejo,12.191
+01:10,10,The Special One,42.018
+01:40,1,Julián Álvarez,18.584
+01:40,2,Beto,656.724
+01:40,3,Mourinho,242.429
+01:40,4,Roma,259.871
+01:40,5,VamosColoColo,
+01:40,6,SLVMFashionWeek,35.702
+01:40,7,UECLfinal,96.696
+01:40,8,ちむどんどん,25.234
+01:40,9,Fortaleza,23.634
+01:40,10,QuantoMaisVidaMelhor,19.369
+02:10,1,Julián Álvarez,39.549
+02:10,2,River,222.538
+02:10,3,Beto,682.645
+02:10,4,Alianza Lima,19.366
+02:10,5,Fortaleza,29.313
+02:10,6,VamosColoColo,10.245
+02:10,7,Mourinho,248.920
+02:10,8,AlvaroEGkayNoPoccast,
+02:10,9,Roma,263.936
+02:10,10,Quinteros,
+02:40,1,Julián Álvarez,48.654
+02:40,2,AEWDynamite,19.968
+02:40,3,River,234.728
+02:40,4,Beto,713.119
+02:40,5,Alianza Lima,22.822
+02:40,6,Fortaleza,33.702
+02:40,7,VamosColoColo,10.740
+02:40,8,Mourinho,254.044
+02:40,9,AlvaroEGkayNoPoccast,
+02:40,10,Quinteros,
+03:10,1,AEWDynamite,28.201
+03:10,2,Julián Álvarez,54.362
+03:10,3,River,238.950
+03:10,4,Beto,726.964
+03:10,5,Survivor,21.664
+03:10,6,Alianza Lima,24.931
+03:10,7,Fortaleza,35.665
+03:10,8,VamosColoColo,10.865
+03:10,9,AlvaroEGkayNoPoccast,
+03:10,10,Mourinho,257.762
+03:40,1,AEWDynamite,36.338
+03:40,2,Pantanal,48.400
+03:40,3,Julián Álvarez,58.595
+03:40,4,Jaylen Brown,
+03:40,5,Survivor,26.881
+03:40,6,River,246.269
+03:40,7,Beto,761.620
+03:40,8,Irma,211.588
+03:40,9,Alcides,
+03:40,10,Alianza Lima,26.680
+04:10,1,AEWDynamite,42.212
+04:10,2,Survivor,31.357
+04:10,3,Tolima,18.699
+04:10,4,Pantanal,49.596
+04:10,5,Jaylen Brown,
+04:10,6,Julián Álvarez,62.345
+04:10,7,River,246.854
+04:10,8,Beto,780.347
+04:10,9,Olimpia,22.623
+04:10,10,Irma,213.527
+04:40,1,Survivor,40.228
+04:40,2,DRPowerCouple,16.439
+04:40,3,AEWDynamite,43.818
+04:40,4,Tolima,23.026
+04:40,5,Jaylen Brown,11.349
+04:40,6,Lowry,10.767
+04:40,7,pantanal,51.664
+04:40,8,MacKinnon,
+04:40,9,Olimpia,30.155
+04:40,10,Julián Álvarez,65.109
+05:10,1,Jaylen Brown,26.329
+05:10,2,DRPowerCouple,27.624
+05:10,3,MacKinnon,14.065
+05:10,4,Lowry,17.204
+05:10,5,Survivor,42.654
+05:10,6,bucciovertimechallenge,
+05:10,7,Tolima,25.156
+05:10,8,AEWDynamite,44.765
+05:10,9,GoAvsGo,12.602
+05:10,10,Olimpia,34.077
+05:40,1,DRPowerCouple,42.580
+05:40,2,Jaylen Brown,29.927
+05:40,3,Lowry,21.190
+05:40,4,MacKinnon,15.140
+05:40,5,Survivor,43.859
+05:40,6,bucciovertimechallenge,
+05:40,7,Tolima,26.554
+05:40,8,stlblues,
+05:40,9,AEWDynamite,45.602
+05:40,10,Piedad Córdoba,63.005
+06:10,1,DRPowerCouple,46.290
+06:10,2,Jaylen Brown,31.678
+06:10,3,Lowry,23.074
+06:10,4,MacKinnon,15.445
+06:10,5,Survivor,44.637
+06:10,6,Tolima,27.311
+06:10,7,bucciovertimechallenge,
+06:10,8,stlblues,
+06:10,9,Piedad Córdoba,70.193
+06:10,10,BleedGreen,
+06:40,1,DRPowerCouple,48.089
+06:40,2,Jaylen Brown,32.707
+06:40,3,Lowry,24.083
+06:40,4,MacKinnon,15.703
+06:40,5,Survivor,45.419
+06:40,6,bucciovertimechallenge,
+06:40,7,Tolima,27.867
+06:40,8,Piedad Córdoba,74.557
+06:40,9,stlblues,10.481
+06:40,10,GoBackModi,170.150
+07:10,1,DRPowerCouple,48.953
+07:10,2,Lowry,24.785
+07:10,3,Jaylen Brown,33.433
+07:10,4,MacKinnon,15.845
+07:10,5,DatingQueen,
+07:10,6,Survivor,45.783
+07:10,7,GoBackModi,182.477
+07:10,8,오전 일과,
+07:10,9,Tolima,28.176
+07:10,10,Piedad Córdoba,77.467
+07:40,1,DRPowerCouple,49.536
+07:40,2,오전 일과,
+07:40,3,Jaylen Brown,33.942
+07:40,4,Lowry,25.249
+07:40,5,GoBackModi,199.275
+07:40,6,MacKinnon,15.960
+07:40,7,DatingQueen,
+07:40,8,Survivor,46.654
+07:40,9,メロスは激怒したから予測変換で生還しろ,
+07:40,10,Tolima,28.435
+08:10,1,오전 일과,
+08:10,2,DRPowerCouple,50.416
+08:10,3,メロスは激怒したから予測変換で生還しろ,
+08:10,4,GoBackModi,213.563
+08:10,5,Lowry,25.608
+08:10,6,Jaylen Brown,34.424
+08:10,7,MacKinnon,16.029
+08:10,8,DatingQueen,
+08:10,9,Survivor,46.947
+08:10,10,アラフォー,21.071
+08:40,1,정다의데이2,
+08:40,2,오전 일과,
+08:40,3,メロスは激怒したから予測変換で生還しろ,
+08:40,4,DRPowerCouple,51.010
+08:40,5,GoBack_Modi,102.866
+08:40,6,savetf2,22.085
+08:40,7,Lowry,25.872
+08:40,8,アラフォー,21.743
+08:40,9,平成生まれ,41.182
+08:40,10,AV禁止法,45.057
+09:10,1,メロスは激怒したから予測変換で生還しろ,
+09:10,2,정다의데이2,
+09:10,3,오전 일과,
+09:10,4,GoBack_Modi,113.863
+09:10,5,savetf2,23.839
+09:10,6,Feiertag,
+09:10,7,TelanganaWelcomesModiJi,
+09:10,8,AV禁止法,43.629
+09:10,9,アラフォー,22.270
+09:10,10,平成生まれ,41.893
+09:40,1,メロスは激怒したから予測変換で生還しろ,
+09:40,2,정다의데이2,
+09:40,3,오전 일과,
+09:40,4,savetf2,25.982
+09:40,5,GoBackModi,260.296
+09:40,6,Feiertag,
+09:40,7,Ünal Çeviköz,
+09:40,8,RanveerSinghXRohitShetty,
+09:40,9,スパイファミリーコラボ,
+09:40,10,Vatertag,
+10:10,1,メロスは激怒したから予測変換で生還しろ,
+10:10,2,savetf2,28.550
+10:10,3,정다의데이2,
+10:10,4,Feiertag,
+10:10,5,오전 일과,
+10:10,6,GoBackModi,276.151
+10:10,7,スパイファミリーコラボ,
+10:10,8,SPY×FAMILYコラボ,
+10:10,9,Vatertag,
+10:10,10,モンスト,13.139
+10:40,1,メロスは激怒したから予測変換で生還しろ,
+10:40,2,savetf2,32.061
+10:40,3,Vatertag,
+10:40,4,Feiertag,
+10:40,5,SPY×FAMILYコラボ,
+10:40,6,モンスト,15.073
+10:40,7,言葉遣いの悪さ,
+10:40,8,見た目の厳つさ,
+10:40,9,淡々と責めがち,
+10:40,10,スパイファミリーコラボ,
+11:10,1,メロスは激怒したから予測変換で生還しろ,
+11:10,2,バンド経験者,
+11:10,3,savetf2,34.854
+11:10,4,生粋のバンドマン,
+11:10,5,見た目の厳つさ,
+11:10,6,淡々と責めがち,
+11:10,7,ティアラ本当におめでとう,12.984
+11:10,8,言葉遣いの悪さ,
+11:10,9,あなたの怖さレベルを診断,
+11:10,10,サイコパス度,
+11:40,1,メロスは激怒したから予測変換で生還しろ,
+11:40,2,バンド経験者,
+11:40,3,生粋のバンドマン,
+11:40,4,savetf2,37.642
+11:40,5,小川大地,
+11:40,6,ティアラ本当におめでとう,17.660
+11:40,7,言葉遣いの悪さ,
+11:40,8,見た目の厳つさ,
+11:40,9,淡々と責めがち,
+11:40,10,あなたの怖さレベルを診断,
+12:10,1,メロスは激怒したから予測変換で生還しろ,
+12:10,2,バンド経験者,
+12:10,3,生粋のバンドマン,
+12:10,4,savetf2,40.492
+12:10,5,言葉遣いの悪さ,
+12:10,6,見た目の厳つさ,
+12:10,7,淡々と責めがち,
+12:10,8,あなたの怖さレベルを診断,
+12:10,9,ティアラ本当におめでとう,21.285
+12:10,10,サイコパス度,
+12:40,1,CandySugarPop3rdWin,22.370
+12:40,2,メロスは激怒したから予測変換で生還しろ,10.262
+12:40,3,バンド経験者,
+12:40,4,生粋のバンドマン,
+12:40,5,VS魂,10.698
+12:40,6,savetf2,44.433
+12:40,7,プレバト,
+12:40,8,言葉遣いの悪さ,
+12:40,9,見た目の厳つさ,
+12:40,10,淡々と責めがち,
+13:10,1,CandySugarPop3rdWin,39.617
+13:10,2,メロスは激怒したから予測変換で生還しろ,11.590
+13:10,3,qanda,
+13:10,4,バンド経験者,
+13:10,5,VS魂,15.135
+13:10,6,生粋のバンドマン,
+13:10,7,プレバト,
+13:10,8,言葉遣いの悪さ,
+13:10,9,見た目の厳つさ,
+13:10,10,淡々と責めがち,
+13:40,1,qanda,14.270
+13:40,2,CandySugarPop3rdWin,44.201
+13:40,3,メロスは激怒したから予測変換で生還しろ,12.959
+13:40,4,LOONA_BUTTERFLY_EFFECT,
+13:40,5,나비처럼_날아올라_이달소,
+13:40,6,FLY TO THE CROWN,
+13:40,7,バンド経験者,
+13:40,8,生粋のバンドマン,
+13:40,9,aksi pulihkan semarang,
+13:40,10,言葉遣いの悪さ,
+14:10,1,LOONA_BUTTERFLY_EFFECT,19.535
+14:10,2,나비처럼_날아올라_이달소,17.899
+14:10,3,メロスは激怒したから予測変換で生還しろ,14.274
+14:10,4,FLY TO THE CROWN,17.226
+14:10,5,qanda,18.181
+14:10,6,CandySugarPop3rdWin,47.904
+14:10,7,おりほー,
+14:10,8,バンド経験者,
+14:10,9,マクガフ,
+14:10,10,生粋のバンドマン,
+14:40,1,LOONA_BUTTERFLY_EFFECT,26.316
+14:40,2,나비처럼_날아올라_이달소,23.578
+14:40,3,どらほー,
+14:40,4,FLY TO THE CROWN,22.361
+14:40,5,メロスは激怒したから予測変換で生還しろ,15.342
+14:40,6,JENNIExRollingStone,113.841
+14:40,7,横浜優勝,
+14:40,8,モニタリング,12.314
+14:40,9,おりほー,
+14:40,10,ケヤフェス,
+15:10,1,LOONA_BUTTERFLY_EFFECT,32.222
+15:10,2,나비처럼_날아올라_이달소,28.649
+15:10,3,メロスは激怒したから予測変換で生還しろ,16.524
+15:10,4,どらほー,
+15:10,5,JENNIExRollingStone,145.949
+15:10,6,FLY TO THE CROWN,26.756
+15:10,7,素のまんま,32.692
+15:10,8,横浜優勝,
+15:10,9,WHITE HOUSE,151.042
+15:10,10,おりほー,
+15:40,1,SO PROUD OF YOU BTS,108.088
+15:40,2,BTS PAVED THE WAY,48.253
+15:40,3,LOONA_BUTTERFLY_EFFECT,34.153
+15:40,4,BTSatTheWhiteHouse,90.886
+15:40,5,なにわと半年祝お,15.335
+15:40,6,メロスは激怒したから予測変換で生還しろ,17.471
+15:40,7,savetf2,85.548
+15:40,8,どらほー,
+15:40,9,U.S.A,192.861
+15:40,10,FLY TO THE CROWN,27.959
+16:10,1,なにわと半年祝お,31.372
+16:10,2,BTSatTheWhiteHouse,137.926
+16:10,3,BTS PAVED THE WAY,99.683
+16:10,4,SO PROUD OF YOU BTS,160.750
+16:10,5,savetf2,93.570
+16:10,6,hyolyn,10.668
+16:10,7,メロスは激怒したから予測変換で生還しろ,18.270
+16:10,8,キンプら,26.966
+16:10,9,U.S.A,194.457
+16:10,10,どらほー,
+16:40,1,BTSatTheWhiteHouse,156.309
+16:40,2,BTS PAVED THE WAY,130.717
+16:40,3,なにわと半年祝お,39.377
+16:40,4,namjoon,173.014
+16:40,5,SO PROUD OF YOU BTS,186.856
+16:40,6,savetf2,103.731
+16:40,7,hyolyn,14.321
+16:40,8,キンプら,33.656
+16:40,9,QUEENDOM2,69.571
+16:40,10,U.S.A,202.510
+17:10,1,BTSatTheWhiteHouse,172.520
+17:10,2,BTS PAVED THE WAY,148.771
+17:10,3,SO PROUD OF YOU BTS,205.829
+17:10,4,namjoon,194.951
+17:10,5,なにわと半年祝お,45.058
+17:10,6,savetf2,114.507
+17:10,7,จะรักฉันอยู่ไหม,60.576
+17:10,8,SVT_FACETHESUN,56.749
+17:10,9,SEVENTEEN COMEBACK DAY,57.062
+17:10,10,Hyolyn,18.090
+17:40,1,BTSatTheWhiteHouse,183.265
+17:40,2,BTS PAVED THE WAY,161.879
+17:40,3,SO PROUD OF YOU BTS,218.336
+17:40,4,namjoon,211.761
+17:40,5,savetf2,126.446
+17:40,6,จะรักฉันอยู่ไหม,114.680
+17:40,7,なにわと半年祝お,47.156
+17:40,8,SVT_FACETHESUN,63.823
+17:40,9,SEVENTEEN COMEBACK DAY,64.243
+17:40,10,hyolyn,19.945
+18:10,1,SalarioRosaVePorMas,
+18:10,2,BTSatTheWhiteHouse,191.397
+18:10,3,Camille,34.808
+18:10,4,BTS PAVED THE WAY,171.010
+18:10,5,savetf2,139.228
+18:10,6,SO PROUD OF YOU BTS,226.288
+18:10,7,namjoon,221.460
+18:10,8,จะรักฉันอยู่ไหม,137.640
+18:10,9,なにわと半年祝お,48.423
+18:10,10,SEVENTEEN COMEBACK DAY,66.476
+18:40,1,SalarioRosaVePorMas,
+18:40,2,Ray Liotta,49.262
+18:40,3,Goodfellas,23.858
+18:40,4,BTSatTheWhiteHouse,198.016
+18:40,5,Camille,42.408
+18:40,6,savetf2,152.024
+18:40,7,BTS PAVED THE WAY,178.285
+18:40,8,Diego Carlos,14.235
+18:40,9,SO PROUD OF YOU BTS,233.056
+18:40,10,namjoon,232.396
+19:10,1,Ray Liotta,116.663
+19:10,2,SalarioRosaVePorMas,14.347
+19:10,3,Goodfellas,55.445
+19:10,4,BTSatTheWhiteHouse,203.160
+19:10,5,savetf2,163.378
+19:10,6,Diego Carlos,18.179
+19:10,7,LiberenACoco,
+19:10,8,Camille,46.450
+19:10,9,BTS PAVED THE WAY,184.197
+19:10,10,Henry Hill,
+19:40,1,Ray Liotta,166.247
+19:40,2,SalarioRosaVePorMas,17.740
+19:40,3,Goodfellas,78.614
+19:40,4,LiberenACoco,18.640
+19:40,5,savetf2,177.255
+19:40,6,BTSatTheWhiteHouse,206.831
+19:40,7,Diego Carlos,20.838
+19:40,8,Camille,50.050
+19:40,9,O Instagram,67.757
+19:40,10,Ibai,35.360
+20:10,1,Ray Liotta,199.945
+20:10,2,SalarioRosaVePorMas,23.576
+20:10,3,Goodfellas,94.068
+20:10,4,LiberenACoco,28.493
+20:10,5,savetf2,190.213
+20:10,6,Ibai,37.479
+20:10,7,Diego Carlos,22.901
+20:10,8,BTSatTheWhiteHouse,209.904
+20:10,9,Henry Hill,11.176
+20:10,10,O Instagram,70.784
+20:40,1,Ray Liotta,232.549
+20:40,2,SalarioRosaVePorMas,30.977
+20:40,3,Goodfellas,105.836
+20:40,4,LiberenACoco,41.436
+20:40,5,savetf2,202.665
+20:40,6,GNTM,
+20:40,7,Diego Carlos,24.654
+20:40,8,Ibai,38.619
+20:40,9,Henry Hill,12.553
+20:40,10,BTSatTheWhiteHouse,212.562
+21:10,1,SalarioRosaVePorMas,39.196
+21:10,2,Ray Liotta,255.493
+21:10,3,Goodfellas,114.833
+21:10,4,LiberenACoco,54.823
+21:10,5,GNTM,17.290
+21:10,6,Andor,16.976
+21:10,7,savetf2,214.731
+21:10,8,Field of Dreams,33.688
+21:10,9,Diego Carlos,26.081
+21:10,10,Henry Hill,13.511
+21:40,1,SalarioRosaVePorMas,45.258
+21:40,2,Ray Liotta,274.193
+21:40,3,Goodfellas,122.037
+21:40,4,LiberenACoco,68.388
+21:40,5,GNTM,24.225
+21:40,6,Andor,21.359
+21:40,7,savetf2,225.502
+21:40,8,Field of Dreams,35.725
+21:40,9,Diego Carlos,28.311
+21:40,10,Depeche Mode,
+22:10,1,SalarioRosaVePorMas,49.903
+22:10,2,Ray Liotta,291.655
+22:10,3,LiberenACoco,80.501
+22:10,4,Goodfellas,128.129
+22:10,5,Depeche Mode,13.906
+22:10,6,GNTM,30.271
+22:10,7,Andor,24.376
+22:10,8,StarWarsCelebration,45.131
+22:10,9,Alan White,
+22:10,10,Field of Dreams,37.422
+22:40,1,SalarioRosaVePorMas,53.821
+22:40,2,Ray Liotta,306.132
+22:40,3,Depeche Mode,24.031
+22:40,4,Andy Fletcher,22.392
+22:40,5,LiberenACoco,92.666
+22:40,6,Goodfellas,133.603
+22:40,7,GNTM,35.849
+22:40,8,Sivasspor,
+22:40,9,Andor,26.335
+22:40,10,Alan White,
+23:10,1,SalarioRosaVePorMas,60.504
+23:10,2,Ray Liotta,319.461
+23:10,3,Depeche Mode,32.203
+23:10,4,Andy Fletcher,29.335
+23:10,5,LiberenACoco,102.603
+23:10,6,Goodfellas,138.728
+23:10,7,Sivasspor,12.193
+23:10,8,GNTM,41.756
+23:10,9,SVGala6,
+23:10,10,Alan White,10.154
+23:40,1,SalarioRosaVePorMas,69.402
+23:40,2,Ray Liotta,331.543
+23:40,3,Depeche Mode,39.144
+23:40,4,Andy Fletcher,35.038
+23:40,5,LiberenACoco,109.204
+23:40,6,Sivasspor,13.529
+23:40,7,SVGala6,10.572
+23:40,8,DonMatteo13,18.569
+23:40,9,Goodfellas,143.217
+23:40,10,Alan White,11.491

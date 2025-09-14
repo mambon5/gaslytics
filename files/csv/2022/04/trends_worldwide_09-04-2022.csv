@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,fosstotounel,19.915
+00:10,2,الهلال_الشارقه,99.942
+00:10,3,FreeCodeFridayContest,
+00:10,4,NUFC,11.347
+00:10,5,MaskSinger,11.506
+00:10,6,Yankees,97.635
+00:10,7,Josh Donaldson,
+00:10,8,Alckmin,44.468
+00:10,9,Joey Bart,
+00:10,10,بيريرا,14.417
+00:40,1,الهلال_الشارقه,109.807
+00:40,2,fosstotounel,23.173
+00:40,3,NUFC,11.911
+00:40,4,FreeCodeFridayContest,
+00:40,5,MaskSinger,11.718
+00:40,6,Yankees,100.488
+00:40,7,Edimar,
+00:40,8,Alckmin,46.753
+00:40,9,بيريرا,17.040
+00:40,10,Joey Bart,
+01:10,1,fosstotounel,25.946
+01:10,2,الهلال_الشارقه,119.178
+01:10,3,VoleiNoSporTV,
+01:10,4,NUFC,12.222
+01:10,5,TOMMY,57.989
+01:10,6,Scottie Scheffler,
+01:10,7,PTD_ON_STAGE_LV,432.669
+01:10,8,Zé Ricardo,
+01:10,9,Yankees,98.999
+01:10,10,Edimar,
+01:40,1,PTD_ON_STAGE_LV,507.418
+01:40,2,fosstotounel,27.593
+01:40,3,VoleiNoSporTV,
+01:40,4,Zé Ricardo,
+01:40,5,الهلال_الشارقه,121.057
+01:40,6,Scottie Scheffler,
+01:40,7,TOMMY,61.668
+01:40,8,旅サラダ,
+01:40,9,JIMIN RUBIO,
+01:40,10,ルメール,16.417
+02:10,1,Zé Ricardo,
+02:10,2,PTD_ON_STAGE_LV,566.761
+02:10,3,VoleiNoSporTV,
+02:10,4,مكافاه_مصرف_الراجحي,
+02:10,5,SmackDown,
+02:10,6,fosstotounel,28.415
+02:10,7,Berrios,
+02:10,8,TOMMY,62.172
+02:10,9,Scottie Scheffler,
+02:10,10,Nenê,66.558
+02:40,1,SmackDown,14.536
+02:40,2,مكافاه_مصرف_الراجحي,17.030
+02:40,3,Zé Ricardo,
+02:40,4,PTD_ON_STAGE_LV,621.632
+02:40,5,旅サラダ,
+02:40,6,VoleiNoSporTV,
+02:40,7,Apple TV,
+02:40,8,ルメール,24.220
+02:40,9,Berrios,
+02:40,10,Butch,
+03:10,1,SmackDown,26.350
+03:10,2,مكافاه_مصرف_الراجحي,25.797
+03:10,3,PTD_ON_STAGE_LV,662.986
+03:10,4,Zé Ricardo,
+03:10,5,DragRace,
+03:10,6,Gunther,
+03:10,7,VoleiNoSporTV,
+03:10,8,Apple TV,14.713
+03:10,9,Waguininho,
+03:10,10,ルメール,28.450
+03:40,1,SmackDown,34.405
+03:40,2,DragRace,16.003
+03:40,3,مكافاه_مصرف_الراجحي,34.826
+03:40,4,ワルイコあつまれ,28.800
+03:40,5,PTD_ON_STAGE_LV,706.981
+03:40,6,Zé Ricardo,
+03:40,7,Apple TV,15.864
+03:40,8,Filó,34.110
+03:40,9,Waguininho,
+03:40,10,Gunther,
+04:10,1,SmackDown,46.423
+04:10,2,DragRace,20.234
+04:10,3,مكافاه_مصرف_الراجحي,42.597
+04:10,4,ワルイコあつまれ,39.566
+04:10,5,PTD_ON_STAGE_LV,718.982
+04:10,6,Apple TV,16.548
+04:10,7,Zé Ricardo,
+04:10,8,Filó,33.993
+04:10,9,Waguininho,
+04:10,10,Jacaré,
+04:40,1,SmackDown,49.644
+04:40,2,ForaLina,
+04:40,3,مكافاه_مصرف_الراجحي,51.107
+04:40,4,DragRace,22.335
+04:40,5,PTD_ON_STAGE_LV,808.644
+04:40,6,STEVE AOKI,71.776
+04:40,7,Jacaré,10.189
+04:40,8,Bahia,23.793
+04:40,9,Rafael Cabral,
+04:40,10,Apple TV,17.704
+05:10,1,ForaLina,24.714
+05:10,2,AEWRampage,25.636
+05:10,3,Cruzeiro,56.456
+05:10,4,ForaEli,
+05:10,5,PTD_ON_STAGE_LV,845.845
+05:10,6,مكافاه_مصرف_الراجحي,57.032
+05:10,7,STEVE AOKI,94.610
+05:10,8,Ty Gibbs,
+05:10,9,Jacaré,11.569
+05:10,10,Bahia,25.430
+05:40,1,ForaLina,34.031
+05:40,2,AEWRampage,29.229
+05:40,3,PTD_ON_STAGE_LV,910.704
+05:40,4,ForaEli,
+05:40,5,Cruzeiro,58.205
+05:40,6,Ty Gibbs,
+05:40,7,مكافاه_مصرف_الراجحي,60.929
+05:40,8,STEVE AOKI,102.072
+05:40,9,Jacaré,12.322
+05:40,10,Bahia,26.716
+06:10,1,ForaLina,38.679
+06:10,2,PTD_ON_STAGE_LV,979.932
+06:10,3,AEWRampage,30.724
+06:10,4,ForaEli,11.392
+06:10,5,Ty Gibbs,
+06:10,6,مكافاه_مصرف_الراجحي,63.882
+06:10,7,Cruzeiro,58.721
+06:10,8,STEVE AOKI,107.333
+06:10,9,Aston Martin,
+06:10,10,JUNGKOOKS,27.469
+06:40,1,ForaLina,41.628
+06:40,2,PTD_ON_STAGE_LV,1.059.499
+06:40,3,AEWRampage,31.660
+06:40,4,ForaEli,12.367
+06:40,5,Ty Gibbs,
+06:40,6,مكافاه_مصرف_الراجحي,65.265
+06:40,7,Cruzeiro,59.212
+06:40,8,DONBELLE SA SHOWTIME,152.675
+06:40,9,TOH SPOILERS,
+06:40,10,JUNGKOOKS,31.610
+07:10,1,ForaLina,43.379
+07:10,2,PTD_ON_STAGE_LV,1.140.539
+07:10,3,AEWRampage,32.273
+07:10,4,ForaEli,12.942
+07:10,5,DONBELLE SA SHOWTIME,186.851
+07:10,6,キンプる,47.273
+07:10,7,Ty Gibbs,
+07:10,8,Cruzeiro,59.373
+07:10,9,TOH SPOILERS,
+07:10,10,JUNGKOOKS,34.631
+07:40,1,JEON JUNGKOOK,130.250
+07:40,2,PTD_ON_STAGE_LV,1.245.061
+07:40,3,F4ThailandFinalLIVE,50.366
+07:40,4,ForaLina,44.826
+07:40,5,キンプる,57.993
+07:40,6,DONBELLE SA SHOWTIME,225.852
+07:40,7,HesIntoHerSeason2,284.544
+07:40,8,Ty Gibbs,
+07:40,9,TOH SPOILERS,13.095
+07:40,10,Cruzeiro,59.562
+08:10,1,NAMJOON,436.762
+08:10,2,JEON JUNGKOOK,175.730
+08:10,3,PTD_ON_STAGE_LV,1.244.245
+08:10,4,F4ThailandFinalLIVE,88.952
+08:10,5,ForaLina,45.726
+08:10,6,キンプる,63.060
+08:10,7,DONBELLE SA SHOWTIME,256.703
+08:10,8,BEFIRSTTV,12.543
+08:10,9,プログノーシス,
+08:10,10,TOH SPOILERS,16.482
+08:40,1,Latifi,27.821
+08:40,2,NAMJOON,497.137
+08:40,3,AusGP,74.229
+08:40,4,AustralianGP,28.511
+08:40,5,JEON JUNGKOOK,199.800
+08:40,6,PTD_ON_STAGE_LV,1.439.152
+08:40,7,Aston Martin,12.705
+08:40,8,F4ThailandFinalLIVE,103.616
+08:40,9,アカイトリノムスメ,10.872
+08:40,10,PTD_ON_STAGE_LAS_VEGAS,68.826
+09:10,1,Latifi,31.618
+09:10,2,namjoon,571.837
+09:10,3,AusGP,76.349
+09:10,4,AustralianGP,30.196
+09:10,5,ジャングロ,
+09:10,6,JEON JUNGKOOK,209.692
+09:10,7,PTD_ON_STAGE_LV,1.488.115
+09:10,8,メイショウミモザ,
+09:10,9,アカイトリノムスメ,14.896
+09:10,10,Aston Martin,14.020
+09:40,1,namjoon,687.958
+09:40,2,Latifi,33.223
+09:40,3,AustralianGP,37.331
+09:40,4,AusGP,92.452
+09:40,5,Alonso,36.729
+09:40,6,GlitchMode4thWin,48.892
+09:40,7,버_버퍼링_4번째_1등이야,34.516
+09:40,8,ジャングロ,
+09:40,9,f1jp,17.329
+09:40,10,Sainz,11.975
+10:10,1,namjoon,725.475
+10:10,2,AustralianGP,39.911
+10:10,3,Latifi,34.590
+10:10,4,AusGP,102.982
+10:10,5,Alonso,40.376
+10:10,6,GlitchMode4thWin,83.049
+10:10,7,Leclerc,43.419
+10:10,8,Sainz,14.016
+10:10,9,BNK4812thSingleGE_Final,35.161
+10:10,10,버_버퍼링_4번째_1등이야,52.681
+10:40,1,namjoon,750.346
+10:40,2,AustralianGP,41.249
+10:40,3,Latifi,35.569
+10:40,4,AusGP,108.055
+10:40,5,GlitchMode4thWin,93.925
+10:40,6,BNK4812thSingleGE_Final,59.239
+10:40,7,Alonso,42.953
+10:40,8,HyperBattle,
+10:40,9,Leclerc,47.741
+10:40,10,Sainz,14.727
+11:10,1,namjoon,770.410
+11:10,2,AustralianGP,41.216
+11:10,3,BNK4812thSingleGE_Final,91.232
+11:10,4,Latifi,36.658
+11:10,5,HyperBattle,
+11:10,6,GlitchMode4thWin,100.356
+11:10,7,AusGP,108.751
+11:10,8,Alonso,44.066
+11:10,9,Stroll,32.613
+11:10,10,Leclerc,50.096
+11:40,1,namjoon,789.722
+11:40,2,BNK4812thSingleGE_Final,125.127
+11:40,3,HyperBattle,12.655
+11:40,4,AustralianGP,42.014
+11:40,5,Latifi,37.949
+11:40,6,GlitchMode4thWin,105.147
+11:40,7,AusGP,111.795
+11:40,8,Alonso,45.662
+11:40,9,Stroll,33.777
+11:40,10,Leclerc,52.677
+12:10,1,1ΞX0withEXOLs,61.593
+12:10,2,EXOLsCelebrateWithEXO,64.041
+12:10,3,namjoon,806.291
+12:10,4,BNK4812thSingleGE_Final,158.289
+12:10,5,HyperBattle,15.743
+12:10,6,SHOCK特別配信,
+12:10,7,1ΞX0 ANNIVERSARY FANMEET,61.257
+12:10,8,Latifi,38.837
+12:10,9,Alonso,46.378
+12:10,10,Stroll,34.456
+12:40,1,1ΞX0withEXOLs,106.501
+12:40,2,EXOLsCelebrateWithEXO,101.566
+12:40,3,SHOCK特別配信,11.220
+12:40,4,HyperBattle,18.726
+12:40,5,BNK4812thSingleGE_Final,187.517
+12:40,6,namjoon,825.315
+12:40,7,1ΞX0 ANNIVERSARY FANMEET,82.284
+12:40,8,Latifi,39.617
+12:40,9,JONGIN,46.434
+12:40,10,Alonso,48.135
+13:10,1,1ΞX0withEXOLs,149.958
+13:10,2,EXOLsCelebrateWithEXO,136.545
+13:10,3,待てムリ,17.142
+13:10,4,BNK4812thSingleGE_Final,216.178
+13:10,5,ブラタモリ,
+13:10,6,1ΞX0 ANNIVERSARY FANMEET,103.044
+13:10,7,Namjoon,841.019
+13:10,8,JONGIN,54.456
+13:10,9,隅田くん,
+13:10,10,Latifi,40.272
+13:40,1,1ΞX0withEXOLs,191.755
+13:40,2,待てムリ,40.522
+13:40,3,EXOLsCelebrateWithEXO,169.282
+13:40,4,BNK4812thSingleGE_Final,263.454
+13:40,5,EVEMUN,21.473
+13:40,6,1ΞX0 ANNIVERSARY FANMEET,123.062
+13:40,7,namjoon,861.082
+13:40,8,sehun,129.062
+13:40,9,ボクシング,16.721
+13:40,10,jongin,63.775
+14:10,1,Maguire,51.149
+14:10,2,EVEMUN,35.931
+14:10,3,Everton,76.760
+14:10,4,待てムリ,56.833
+14:10,5,1ΞX0withEXOLs,229.870
+14:10,6,キングオブコントの会2022,13.062
+14:10,7,EXOLsCelebrateWithEXO,198.068
+14:10,8,Matic,140.923
+14:10,9,Rashford,
+14:10,10,1ΞX0 ANNIVERSARY FANMEET,140.692
+14:40,1,EVEMUN,46.681
+14:40,2,Maguire,66.852
+14:40,3,ゴロフキン,57.251
+14:40,4,Everton,93.358
+14:40,5,1ΞX0withEXOLs,263.231
+14:40,6,キングオブコントの会2022,16.608
+14:40,7,待てムリ,60.163
+14:40,8,Matic,145.524
+14:40,9,PampangaIsPink,159.249
+14:40,10,Rashford,
+15:10,1,EVEMUN,48.417
+15:10,2,虹ヶ咲,72.625
+15:10,3,Maguire,76.440
+15:10,4,ゴロフキン,68.637
+15:10,5,Everton,94.994
+15:10,6,PampangaIsPink,176.189
+15:10,7,1ΞX0withEXOLs,323.341
+15:10,8,Rashford,12.801
+15:10,9,キングオブコントの会2022,19.666
+15:10,10,村田選手,11.022
+15:40,1,EVEMUN,56.211
+15:40,2,Everton,120.311
+15:40,3,虹ヶ咲,134.109
+15:40,4,Maguire,95.103
+15:40,5,Manchester United,77.813
+15:40,6,ゴロフキン,71.918
+15:40,7,MUFC,62.847
+15:40,8,PampangaIsPink,198.654
+15:40,9,EVEMNU,
+15:40,10,Man United,39.802
+16:10,1,EVEMUN,59.592
+16:10,2,Everton,130.103
+16:10,3,虹ヶ咲,149.333
+16:10,4,Maguire,107.886
+16:10,5,Manchester United,87.181
+16:10,6,PampangaIsPink,222.169
+16:10,7,MUFC,66.681
+16:10,8,ゴロフキン,73.515
+16:10,9,Venue101,103.064
+16:10,10,Man United,42.749
+16:40,1,SPY_FAMILY,131.177
+16:40,2,Werner,26.269
+16:40,3,アーニャ,34.210
+16:40,4,SixTONESANN,24.446
+16:40,5,Everton,136.411
+16:40,6,Venue101,160.948
+16:40,7,EVEMUN,60.562
+16:40,8,Maguire,115.028
+16:40,9,虹ヶ咲,156.664
+16:40,10,Manchester United,92.331
+17:10,1,SixTONESANN,67.500
+17:10,2,SPY_FAMILY,141.643
+17:10,3,Werner,33.529
+17:10,4,アーニャ,41.139
+17:10,5,Venue101,182.893
+17:10,6,ARSBHA,25.132
+17:10,7,Everton,140.220
+17:10,8,EVEMUN,61.649
+17:10,9,Dwayne Haskins,15.160
+17:10,10,Maguire,119.155
+17:40,1,Dwayne Haskins,76.610
+17:40,2,Arsenal,151.067
+17:40,3,SixTONESANN,123.960
+17:40,4,SPY_FAMILY,149.835
+17:40,5,Werner,39.013
+17:40,6,ARSBHA,33.356
+17:40,7,アーニャ,44.648
+17:40,8,CutiePieEP8,273.020
+17:40,9,Southampton,53.874
+17:40,10,SouChe,51.956
+18:10,1,Dwayne Haskins,124.250
+18:10,2,Arsenal,184.031
+18:10,3,CutiePieEP8,695.080
+18:10,4,SixTONESANN,163.551
+18:10,5,ARSBHA,38.687
+18:10,6,SPY_FAMILY,153.249
+18:10,7,アーニャ,46.679
+18:10,8,Werner,42.501
+18:10,9,Southampton,59.733
+18:10,10,SouChe,60.506
+18:40,1,Dwayne Haskins,154.978
+18:40,2,Arsenal,202.890
+18:40,3,CutiePieEP8,1.047.025
+18:40,4,SixTONESANN,165.634
+18:40,5,ARSBHA,40.100
+18:40,6,SPY_FAMILY,157.948
+18:40,7,アーニャ,48.080
+18:40,8,Arteta,28.670
+18:40,9,KinnPorscheEP2,194.570
+18:40,10,Southampton,63.543
+19:10,1,Dwayne Haskins,177.762
+19:10,2,Arsenal,209.135
+19:10,3,CutiePieEP8,1.265.723
+19:10,4,SixTONESANN,166.831
+19:10,5,KinnPorscheEP2,285.226
+19:10,6,ARSBHA,39.684
+19:10,7,Adam Schefter,11.410
+19:10,8,SPY_FAMILY,159.974
+19:10,9,Arteta,30.601
+19:10,10,アーニャ,49.012
+19:40,1,Dwayne Haskins,196.696
+19:40,2,Arsenal,210.627
+19:40,3,CutiePieEP8,1.424.843
+19:40,4,KinnPorscheEP2,341.105
+19:40,5,SixTONESANN,167.356
+19:40,6,ARSBHA,34.580
+19:40,7,Adam Schefter,13.436
+19:40,8,Arteta,32.551
+19:40,9,SPY_FAMILY,162.487
+19:40,10,Southampton,63.924
+20:10,1,Dwayne Haskins,212.020
+20:10,2,Arsenal,214.880
+20:10,3,CutiePieEP8,1.567.549
+20:10,4,Spurs,41.169
+20:10,5,COYS,
+20:10,6,AVLTOT,14.756
+20:10,7,KinnPorscheEP2,384.348
+20:10,8,Kane,41.094
+20:10,9,امپورٹڈ_حکومت_نامنظور,2.003.605
+20:10,10,Tottenham,31.831
+20:40,1,Dwayne Haskins,223.776
+20:40,2,CutiePieEP8,1.679.147
+20:40,3,Arsenal,223.842
+20:40,4,Spurs,48.807
+20:40,5,COYS,10.520
+20:40,6,Kane,46.901
+20:40,7,AVLTOT,17.236
+20:40,8,امپورٹڈ_حکومت_نامنظور,2.198.254
+20:40,9,KinnPorscheEP2,428.701
+20:40,10,Conte,29.772
+21:10,1,Dwayne Haskins,234.219
+21:10,2,Spurs,52.268
+21:10,3,CutiePieEP8,1.782.182
+21:10,4,Arsenal,227.820
+21:10,5,COYS,11.444
+21:10,6,امپورٹڈ_حکومت_نامنظور,2.209.594
+21:10,7,Kane,48.597
+21:10,8,AVLTOT,18.213
+21:10,9,KinnPorscheEP2,459.992
+21:10,10,Conte,31.795
+21:40,1,CassperVsNaakMusiq,11.071
+21:40,2,امپورٹڈ_حکومت_نامنظور,2.367.064
+21:40,3,Dwayne Haskins,243.728
+21:40,4,CutiePieEP8,1.857.176
+21:40,5,Spurs,54.846
+21:40,6,COYS,12.014
+21:40,7,Arsenal,232.208
+21:40,8,CagliariJuventus,
+21:40,9,Imran Khan,412.246
+21:40,10,Kane,50.220
+22:10,1,CassperVsNaakMusiq,16.668
+22:10,2,ImranKhan,134.337
+22:10,3,امپورٹڈ_حکومت_نامنظور,2.331.101
+22:10,4,Dwayne Haskins,252.092
+22:10,5,Spurs,56.255
+22:10,6,CutiePieEP8,1.906.662
+22:10,7,Casemiro,15.056
+22:10,8,COYS,12.412
+22:10,9,Arsenal,234.031
+22:10,10,Vini,17.920
+22:40,1,CassperVsNaakMusiq,22.926
+22:40,2,Amici21,40.766
+22:40,3,ImranKhan,168.333
+22:40,4,Pakistan,697.928
+22:40,5,امپورٹڈ_حکومت_نامنظور,2.167.977
+22:40,6,GönülDağı,14.047
+22:40,7,Dwayne Haskins,259.315
+22:40,8,Spurs,57.836
+22:40,9,Casemiro,17.464
+22:40,10,Lucas Silva,
+23:10,1,CassperVsNaakMusiq,31.942
+23:10,2,Amici21,55.506
+23:10,3,Neymar,60.050
+23:10,4,ImranKhan,188.804
+23:10,5,Pakistan,738.235
+23:10,6,GönülDağı,18.136
+23:10,7,امپورٹڈ_حکومت_نامنظور,2.114.726
+23:10,8,Bale,21.585
+23:10,9,Clermont,26.865
+23:10,10,Mbappe,64.458
+23:40,1,CassperVsNaakMusiq,55.599
+23:40,2,Amici21,66.942
+23:40,3,Neymar,71.625
+23:40,4,ImranKhan,204.743
+23:40,5,Pakistan,778.801
+23:40,6,GönülDağı,20.135
+23:40,7,CelebCity,17.967
+23:40,8,Bale,24.387
+23:40,9,Clermont,29.149
+23:40,10,Mbappe,75.736

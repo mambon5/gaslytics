@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,الهلال_بطل_الدوري,42.416
+00:10,2,Luca,61.045
+00:10,3,الاهلي,378.070
+00:10,4,isola,12.993
+00:10,5,الدوري_السعودي,32.491
+00:10,6,Kyrie,123.846
+00:10,7,MasterChef10,
+00:10,8,Ekin,44.715
+00:10,9,Jacques,28.123
+00:10,10,كبير_اسيا,29.583
+00:40,1,الهلال_بطل_الدوري,49.163
+00:40,2,isola,15.712
+00:40,3,MasterChef10,
+00:40,4,Kyrie,130.980
+00:40,5,الاهلي,397.563
+00:40,6,Luca,62.032
+00:40,7,الدوري_السعودي,35.154
+00:40,8,Ekin,45.305
+00:40,9,Jacques,28.486
+00:40,10,كبير_اسيا,32.801
+01:10,1,Kyrie,157.703
+01:10,2,الهلال_بطل_الدوري,55.198
+01:10,3,Lakers,75.759
+01:10,4,RTXON,
+01:10,5,isola,18.693
+01:10,6,MasterChef10,
+01:10,7,الاهلي,405.627
+01:10,8,Nets,74.817
+01:10,9,الدوري_السعودي,36.593
+01:10,10,Luca,61.997
+01:40,1,Kyrie,167.581
+01:40,2,RTXON,
+01:40,3,Lakers,79.740
+01:40,4,الهلال_بطل_الدوري,60.500
+01:40,5,isola,21.116
+01:40,6,MasterChef10,
+01:40,7,Nets,79.373
+01:40,8,الاهلي,419.566
+01:40,9,الدوري_السعودي,37.780
+01:40,10,Luca,63.471
+02:10,1,Kyrie,173.242
+02:10,2,RTXON,
+02:10,3,Lakers,80.713
+02:10,4,الهلال_بطل_الدوري,64.658
+02:10,5,WWERaw,21.799
+02:10,6,isola,21.559
+02:10,7,Nets,81.231
+02:10,8,MasterChef10,
+02:10,9,الاهلي,424.368
+02:10,10,Joe Burrow,11.790
+02:40,1,Kyrie,177.885
+02:40,2,WWERaw,32.906
+02:40,3,RTXON,
+02:40,4,Lakers,82.973
+02:40,5,الهلال_بطل_الدوري,67.803
+02:40,6,isola,21.583
+02:40,7,MasterChef10,
+02:40,8,Nets,83.275
+02:40,9,SOUL'd OUT,
+02:40,10,Joe Burrow,13.690
+03:10,1,WWERaw,43.916
+03:10,2,Kyrie,180.625
+03:10,3,RTXON,
+03:10,4,Lakers,83.015
+03:10,5,الهلال_بطل_الدوري,70.212
+03:10,6,SOUL'd OUT,
+03:10,7,ラヴィット,15.742
+03:10,8,John Cena,23.860
+03:10,9,AshewoSpace,
+03:10,10,Nets,84.073
+03:40,1,WWERaw,54.198
+03:40,2,Tadeu,
+03:40,3,Kyrie,183.751
+03:40,4,RTXON,
+03:40,5,Lakers,84.897
+03:40,6,SOUL'd OUT,
+03:40,7,AshewoSpace,
+03:40,8,John Cena,25.974
+03:40,9,الهلال_بطل_الدوري,72.269
+03:40,10,Guta,
+04:10,1,WWERaw,69.876
+04:10,2,Clippers,21.420
+04:10,3,LaVozArgentina,
+04:10,4,Tadeu,
+04:10,5,RTXON,
+04:10,6,Kyrie,186.064
+04:10,7,John Cena,28.312
+04:10,8,Lakers,86.363
+04:10,9,Zé Lucas,
+04:10,10,SOUL'd OUT,10.929
+04:40,1,Clippers,27.610
+04:40,2,WWERaw,86.845
+04:40,3,LaVozArgentina,12.111
+04:40,4,Tadeu,
+04:40,5,Simon,74.945
+04:40,6,John Cena,31.943
+04:40,7,GoalsForCash,
+04:40,8,RTXON,
+04:40,9,BTSIsland,70.945
+04:40,10,Kyrie,188.835
+05:10,1,Clippers,30.781
+05:10,2,WWERaw,96.780
+05:10,3,Simon,76.322
+05:10,4,LaVozArgentina,12.151
+05:10,5,BTSIsland,73.596
+05:10,6,GoalsForCash,11.116
+05:10,7,Tadeu,
+05:10,8,San Antonio,44.070
+05:10,9,John Cena,33.155
+05:10,10,SOUL'd OUT,15.505
+05:40,1,Clippers,33.085
+05:40,2,Simon,79.926
+05:40,3,WWERaw,101.119
+05:40,4,SOUL'd OUT,19.965
+05:40,5,BTSIsland,84.151
+05:40,6,BenekliAyhan ŞovYaptı,
+05:40,7,San Antonio,49.514
+05:40,8,九州北部,12.802
+05:40,9,GoalsForCash,11.819
+05:40,10,LaVozArgentina,12.573
+06:10,1,Clippers,34.559
+06:10,2,Simon,80.269
+06:10,3,WWERaw,104.163
+06:10,4,SOUL'd OUT,24.313
+06:10,5,BTSIsland,94.168
+06:10,6,梅雨明け,236.010
+06:10,7,San Antonio,53.623
+06:10,8,九州北部,14.127
+06:10,9,ATEEZ_PROPAGANDA,
+06:10,10,BenekliAyhan ŞovYaptı,
+06:40,1,Clippers,35.779
+06:40,2,Simon,81.225
+06:40,3,SOUL'd OUT,27.773
+06:40,4,John Wall,39.925
+06:40,5,WWERaw,107.093
+06:40,6,BTSIsland,111.096
+06:40,7,梅雨明け,241.363
+06:40,8,ATEEZ_PROPAGANDA,12.153
+06:40,9,San Antonio,56.883
+06:40,10,benekliayhan şovyaptı,
+07:10,1,Clippers,36.920
+07:10,2,SOUL'd OUT,30.011
+07:10,3,IntheSEOM,108.757
+07:10,4,John Wall,40.993
+07:10,5,Simon,80.626
+07:10,6,WWERaw,109.527
+07:10,7,ATEEZ_PROPAGANDA,14.453
+07:10,8,梅雨明け,229.415
+07:10,9,San Antonio,59.724
+07:10,10,benekliayhan şovyaptı,
+07:40,1,SOUL'd OUT,32.464
+07:40,2,Clippers,38.005
+07:40,3,ATEEZ_PROPAGANDA,17.259
+07:40,4,IntheSEOM,114.264
+07:40,5,John Wall,42.039
+07:40,6,DONBELLE CLOSER MV,52.307
+07:40,7,Simon,81.362
+07:40,8,梅雨明け,233.466
+07:40,9,WWERaw,111.504
+07:40,10,shawn,48.868
+08:10,1,CüneytArkın,10.811
+08:10,2,Kara Murat,
+08:10,3,DONBELLE CLOSER MV,94.948
+08:10,4,SOUL'd OUT,34.944
+08:10,5,ATEEZ_PROPAGANDA,19.236
+08:10,6,IntheSEOM,118.509
+08:10,7,Clippers,38.843
+08:10,8,BTSIsland,138.615
+08:10,9,Malkoçoğlu,
+08:10,10,John Wall,42.832
+08:40,1,CüneytArkın,36.244
+08:40,2,Kara Murat,
+08:40,3,Malkoçoğlu,
+08:40,4,Battal Gazi,
+08:40,5,DONBELLE CLOSER MV,130.329
+08:40,6,SOUL'd OUT,37.226
+08:40,7,ATEEZ_PROPAGANDA,20.468
+08:40,8,BTSInTheSeom,13.935
+08:40,9,IndiaWithDelhiPolice,35.362
+08:40,10,Clippers,39.604
+09:10,1,CüneytArkın,61.390
+09:10,2,Kara Murat,16.013
+09:10,3,Malkoçoğlu,11.465
+09:10,4,Battal Gazi,
+09:10,5,DONBELLE CLOSER MV,155.644
+09:10,6,SOUL'd OUT,39.605
+09:10,7,Öğretmen Kemal,
+09:10,8,ATEEZ_PROPAGANDA,21.609
+09:10,9,IndiaWithDelhiPolice,39.880
+09:10,10,BTSInTheSeom,14.643
+09:40,1,CüneytArkın,89.250
+09:40,2,Kara Murat,21.350
+09:40,3,Malkoçoğlu,15.547
+09:40,4,Battal Gazi,
+09:40,5,DONBELLE CLOSER MV,179.210
+09:40,6,Öğretmen Kemal,
+09:40,7,SOUL'd OUT,42.415
+09:40,8,GetWellSoonJeffSatur,
+09:40,9,IndiaWithDelhiPolice,43.833
+09:40,10,Mekanın Cennet,21.854
+10:10,1,CüneytArkın,111.993
+10:10,2,Kara Murat,26.423
+10:10,3,Stage 6,
+10:10,4,Battal Gazi,11.592
+10:10,5,Malkoçoğlu,19.488
+10:10,6,DONBELLE CLOSER MV,203.422
+10:10,7,OrgulloLGTBI,
+10:10,8,Öğretmen Kemal,
+10:10,9,せと打って出てきたものが滅びます,
+10:10,10,GetWellSoonJeffSatur,
+10:40,1,CüneytArkın,130.278
+10:40,2,Kara Murat,30.967
+10:40,3,Stage 6,
+10:40,4,Battal Gazi,
+10:40,5,せと打って出てきたものが滅びます,
+10:40,6,Malkoçoğlu,22.765
+10:40,7,OrgulloLGTBI,10.557
+10:40,8,들리니_승관이때문에_심장이_핏어팻,
+10:40,9,DONBELLE CLOSER MV,228.096
+10:40,10,Öğretmen Kemal,
+11:10,1,CüneytArkın,146.206
+11:10,2,Kara Murat,34.731
+11:10,3,Stage 6,11.200
+11:10,4,せと打って出てきたものが滅びます,
+11:10,5,들리니_승관이때문에_심장이_핏어팻,15.099
+11:10,6,Battal Gazi,15.610
+11:10,7,OrgulloLGTBI,12.413
+11:10,8,Malkoçoğlu,25.573
+11:10,9,DONBELLE CLOSER MV,253.739
+11:10,10,Öğretmen Kemal,
+11:40,1,CüneytArkın,160.184
+11:40,2,Kara Murat,37.836
+11:40,3,Stage 6,12.433
+11:40,4,せと打って出てきたものが滅びます,
+11:40,5,들리니_승관이때문에_심장이_핏어팻,19.544
+11:40,6,OrgulloLGTBI,14.543
+11:40,7,ツムステ,23.109
+11:40,8,Battal Gazi,17.216
+11:40,9,Malkoçoğlu,27.914
+11:40,10,GetWellSoonJeffSatur,
+12:10,1,CüneytArkın,172.717
+12:10,2,渡邉美穂卒業セレモニー,31.392
+12:10,3,せと打って出てきたものが滅びます,
+12:10,4,Kara Murat,40.750
+12:10,5,OrgulloLGTBI,16.435
+12:10,6,Stage 6,13.661
+12:10,7,ツムステ,31.678
+12:10,8,들리니_승관이때문에_심장이_핏어팻,21.394
+12:10,9,Nelson Piquet,12.600
+12:10,10,Battal Gazi,18.615
+12:40,1,CüneytArkın,182.995
+12:40,2,渡邉美穂卒業セレモニー,39.915
+12:40,3,せと打って出てきたものが滅びます,
+12:40,4,Nelson Piquet,16.202
+12:40,5,Kara Murat,43.187
+12:40,6,LOONA3RDWIN,
+12:40,7,OrgulloLGTBI,18.637
+12:40,8,ツムステ,38.155
+12:40,9,Stage 6,14.863
+12:40,10,ウォーカー,10.832
+13:10,1,CüneytArkın,191.408
+13:10,2,渡邉美穂卒業セレモニー,49.308
+13:10,3,アメトーーク,
+13:10,4,せと打って出てきたものが滅びます,
+13:10,5,Nelson Piquet,19.340
+13:10,6,LOONA3RDWIN,17.170
+13:10,7,人身事故,10.700
+13:10,8,Kara Murat,45.055
+13:10,9,ツムステ,42.671
+13:10,10,Stage 6,15.788
+13:40,1,CüneytArkın,198.336
+13:40,2,アメトーーク,
+13:40,3,Nelson Piquet,22.902
+13:40,4,渡邉美穂卒業セレモニー,59.528
+13:40,5,せと打って出てきたものが滅びます,
+13:40,6,LOONA3RDWIN,21.942
+13:40,7,人身事故,13.377
+13:40,8,Haftanın Yalanları,
+13:40,9,ツムステ,46.198
+13:40,10,Kara Murat,46.643
+14:10,1,CüneytArkın,204.511
+14:10,2,Nelson Piquet,27.480
+14:10,3,アメトーーク,12.801
+14:10,4,横浜優勝,
+14:10,5,せと打って出てきたものが滅びます,
+14:10,6,渡邉美穂卒業セレモニー,63.867
+14:10,7,LOONA3RDWIN,24.556
+14:10,8,人身事故,14.896
+14:10,9,ツムステ,49.047
+14:10,10,わしほー,
+14:40,1,Nelson Piquet,33.555
+14:40,2,アメトーーク,15.347
+14:40,3,CüneytArkın,210.198
+14:40,4,横浜優勝,
+14:40,5,せと打って出てきたものが滅びます,10.528
+14:40,6,WinkwhitewithENGLOT,256.968
+14:40,7,INI_Holiday,14.657
+14:40,8,れおほー,
+14:40,9,Lewis,79.262
+14:40,10,Stage 6,20.630
+15:10,1,Nelson Piquet,39.321
+15:10,2,渡邉美穂卒業セレモニー,82.598
+15:10,3,アメトーーク,16.452
+15:10,4,せと打って出てきたものが滅びます,11.668
+15:10,5,INI_Holiday,23.119
+15:10,6,WinkwhitewithENGLOT,412.717
+15:10,7,横浜優勝,
+15:10,8,Lewis,83.452
+15:10,9,ニンダイ,26.920
+15:10,10,Stage 6,22.941
+15:40,1,Switch,262.914
+15:40,2,Switch,262.914
+15:40,3,ロックマンエグゼ,50.931
+15:40,4,Nelson Piquet,44.660
+15:40,5,Udaipur,40.777
+15:40,6,渡邉美穂卒業セレモニー,87.069
+15:40,7,シャガル,
+15:40,8,ニンダイ,59.160
+15:40,9,INI_Holiday,30.989
+15:40,10,NintendoDirectMini,11.836
+16:10,1,Switch,320.912
+16:10,2,Switch,320.912
+16:10,3,ロックマンエグゼ,82.031
+16:10,4,Udaipur,72.887
+16:10,5,Nelson Piquet,49.465
+16:10,6,シャガル,11.844
+16:10,7,ニンダイ,73.494
+16:10,8,渡邉美穂卒業セレモニー,91.111
+16:10,9,NintendoDirectMini,11.911
+16:10,10,NieR,62.080
+16:40,1,Switch,355.465
+16:40,2,Switch,355.465
+16:40,3,Udaipur,112.605
+16:40,4,ロックマンエグゼ,97.049
+16:40,5,Nelson Piquet,54.201
+16:40,6,シャガル,13.377
+16:40,7,ニンダイ,81.442
+16:40,8,NieR,70.281
+16:40,9,渡邉美穂卒業セレモニー,97.388
+16:40,10,NintendoDirectMini,12.742
+17:10,1,Switch,368.662
+17:10,2,Udaipur,146.903
+17:10,3,ロックマンエグゼ,106.463
+17:10,4,ペルソナ,60.351
+17:10,5,Nelson Piquet,59.215
+17:10,6,MANIFESTO DAY1 PREVIEW,102.182
+17:10,7,シャガル,14.518
+17:10,8,FuturePerfect,99.394
+17:10,9,メンテの日なのでssを貼る,19.327
+17:10,10,NieR,71.373
+17:40,1,Switch,387.589
+17:40,2,Udaipur,182.785
+17:40,3,ロックマンエグゼ,113.049
+17:40,4,MANIFESTO DAY1 PREVIEW,116.027
+17:40,5,FuturePerfect,110.991
+17:40,6,ペルソナ,63.189
+17:40,7,Nelson Piquet,63.745
+17:40,8,MANIFESTO_DAY1,248.370
+17:40,9,メンテの日なのでssを貼る,24.970
+17:40,10,シャガル,15.221
+18:10,1,Udaipur,219.983
+18:10,2,Switch,393.681
+18:10,3,ロックマンエグゼ,117.509
+18:10,4,JusticeForKanhaiyaLal,57.829
+18:10,5,MANIFESTO DAY1 PREVIEW,120.776
+18:10,6,FuturePerfect,112.963
+18:10,7,Nelson Piquet,67.838
+18:10,8,MANIFESTO_DAY1,254.047
+18:10,9,มุกจีบซีพรึก,80.533
+18:10,10,ペルソナ,64.799
+18:40,1,Udaipur,258.346
+18:40,2,Switch,406.703
+18:40,3,ロックマンエグゼ,120.434
+18:40,4,JusticeForKanhaiyaLal,75.168
+18:40,5,HayFuturoSiHayVerdad,24.268
+18:40,6,Piquet,99.985
+18:40,7,Malacia,52.015
+18:40,8,MANIFESTO DAY1 PREVIEW,123.236
+18:40,9,FuturePerfect,115.027
+18:40,10,VoleiNoSportTV,
+19:10,1,Udaipur,297.695
+19:10,2,Switch,409.606
+19:10,3,HayFuturoSiHayVerdad,28.537
+19:10,4,JusticeForKanhaiyaLal,95.863
+19:10,5,ロックマンエグゼ,122.774
+19:10,6,Piquet,105.556
+19:10,7,Malacia,59.941
+19:10,8,Telles,10.381
+19:10,9,Comisión de la Verdad,64.355
+19:10,10,MANIFESTO DAY1 PREVIEW,124.520
+19:40,1,Udaipur,339.013
+19:40,2,HayFuturoSiHayVerdad,33.557
+19:40,3,Switch,419.212
+19:40,4,JusticeForKanhaiyaLal,117.395
+19:40,5,Cassidy Hutchinson,85.226
+19:40,6,Piquet,110.503
+19:40,7,ロックマンエグゼ,124.591
+19:40,8,Malacia,66.017
+19:40,9,Neymar,45.912
+19:40,10,Comisión de la Verdad,74.059
+20:10,1,January6thHearings,38.848
+20:10,2,Udaipur,376.536
+20:10,3,Capitol,179.903
+20:10,4,Cassidy Hutchinson,120.714
+20:10,5,Secret Service,32.923
+20:10,6,JusticeForKanhaiyaLal,141.048
+20:10,7,HayFuturoSiHayVerdad,37.972
+20:10,8,January6thCommiteeHearings,
+20:10,9,Switch,420.623
+20:10,10,Mark Meadows,72.741
+20:40,1,January6thHearings,58.372
+20:40,2,Capitol,238.253
+20:40,3,Cassidy Hutchinson,158.948
+20:40,4,Secret Service,65.940
+20:40,5,Udaipur,405.520
+20:40,6,January6thCommiteeHearings,
+20:40,7,Raphinha,71.399
+20:40,8,JusticeForKanhaiyaLal,160.175
+20:40,9,Flynn,31.576
+20:40,10,LoveMi,
+21:10,1,January6thHearings,72.844
+21:10,2,Cassidy Hutchinson,200.915
+21:10,3,Capitol,271.541
+21:10,4,Raphinha,98.310
+21:10,5,Secret Service,85.386
+21:10,6,January6thCommitteeHearings,21.863
+21:10,7,Udaipur,426.448
+21:10,8,LoveMi,
+21:10,9,Arsenal,216.857
+21:10,10,Mark Meadows,109.180
+21:40,1,January6thHearings,83.805
+21:40,2,Cassidy Hutchinson,238.546
+21:40,3,Capitol,306.322
+21:40,4,Raphinha,118.659
+21:40,5,Secret Service,104.161
+21:40,6,January6thCommitteeHearings,26.070
+21:40,7,LoveMi,13.879
+21:40,8,Udaipur,442.307
+21:40,9,NATO,38.596
+21:40,10,Arsenal,235.843
+22:10,1,January6thHearings,91.346
+22:10,2,Cassidy Hutchinson,267.085
+22:10,3,Capitol,332.016
+22:10,4,Raphinha,136.990
+22:10,5,Secret Service,122.003
+22:10,6,LoveMi,17.435
+22:10,7,January6thCommitteeHearings,28.324
+22:10,8,NATO,45.629
+22:10,9,Arsenal,243.051
+22:10,10,Udaipur,453.206
+22:40,1,January6thHearings,98.067
+22:40,2,Danica,18.916
+22:40,3,Cassidy Hutchinson,295.196
+22:40,4,LoveMi,22.455
+22:40,5,Capitol,355.285
+22:40,6,Raphinha,150.494
+22:40,7,Secret Service,138.385
+22:40,8,Chelsea,225.157
+22:40,9,NATO,52.771
+22:40,10,January6thCommitteeHearings,30.471
+23:10,1,LoveIsland,185.615
+23:10,2,Tasha,32.966
+23:10,3,Davide,28.916
+23:10,4,Danica,23.456
+23:10,5,LoveMi,29.550
+23:10,6,January6thHearings,102.831
+23:10,7,Cassidy Hutchinson,320.399
+23:10,8,Capitol,373.027
+23:10,9,Raphinha,159.292
+23:10,10,Secret Service,153.792
+23:40,1,LoveIsland,214.209
+23:40,2,Tasha,36.683
+23:40,3,Serena,42.263
+23:40,4,LoveMi,41.350
+23:40,5,Davide,31.670
+23:40,6,Danica,24.980
+23:40,7,jelibon,
+23:40,8,January6thHearings,107.839
+23:40,9,Jacques,35.093
+23:40,10,Cassidy Hutchinson,343.160

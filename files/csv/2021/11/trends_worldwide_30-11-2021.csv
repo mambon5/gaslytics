@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Messi,1.608.686
+00:10,2,Messi,1.608.686
+00:10,3,Lewandowski,420.495
+00:10,4,Azzaro,49.034
+00:10,5,gfvip,70.406
+00:10,6,Benzema,209.556
+00:10,7,MCCelebrity,11.772
+00:10,8,Seager,34.587
+00:10,9,ميسي,140.420
+00:10,10,Mendy,82.738
+00:40,1,Messi,1.659.888
+00:40,2,Messi,1.659.888
+00:40,3,Lewandowski,433.123
+00:40,4,Azzaro,51.434
+00:40,5,gfvip,83.124
+00:40,6,MCCelebrity,16.195
+00:40,7,Benzema,215.478
+00:40,8,Seager,36.560
+00:40,9,ميسي,144.303
+00:40,10,Juanma,19.796
+01:10,1,Messi,1.688.984
+01:10,2,BallonDor,1.094.298
+01:10,3,Lewandowski,442.158
+01:10,4,MCCelebrity,19.502
+01:10,5,gfvip,93.311
+01:10,6,Azzaro,53.365
+01:10,7,Benzema,216.358
+01:10,8,Seager,37.620
+01:10,9,NumberOne,26.200
+01:10,10,Juanma,20.804
+01:40,1,Messi,1.710.857
+01:40,2,BallonDor,1.109.355
+01:40,3,Lewandowski,449.529
+01:40,4,BalondeOro,135.657
+01:40,5,MCCelebrity,22.014
+01:40,6,gfvip,103.061
+01:40,7,NumberOne,30.191
+01:40,8,Azzaro,55.157
+01:40,9,Benzema,219.391
+01:40,10,Seager,38.825
+02:10,1,Messi,1.663.963
+02:10,2,BallonDor,1.119.048
+02:10,3,MCCelebrity,29.691
+02:10,4,Lewandowski,455.128
+02:10,5,NumberOne,31.528
+02:10,6,Brian Kelly,10.488
+02:10,7,BalondeOro,137.501
+02:10,8,gfvip,107.350
+02:10,9,Azzaro,56.700
+02:10,10,Pabllo,37.675
+02:40,1,Messi,1.667.627
+02:40,2,Brian Kelly,19.946
+02:40,3,MCCelebrity,31.103
+02:40,4,BallonDor,1.128.661
+02:40,5,Notre Dame,25.403
+02:40,6,WWERaw,16.363
+02:40,7,FotoEscolarxBoric,
+02:40,8,NumberOne,32.462
+02:40,9,Lewandowski,460.126
+02:40,10,Pabllo,39.399
+03:10,1,Brian Kelly,29.991
+03:10,2,Messi,1.805.668
+03:10,3,Notre Dame,34.443
+03:10,4,WWERaw,25.549
+03:10,5,MCCelebrity,31.373
+03:10,6,FotoEscolarxBoric,
+03:10,7,BallonDor,1.136.962
+03:10,8,NumberOne,33.193
+03:10,9,Maryse,
+03:10,10,Fickell,
+03:40,1,Brian Kelly,37.477
+03:40,2,Messi,1.563.225
+03:40,3,Notre Dame,41.486
+03:40,4,WWERaw,36.154
+03:40,5,FotoEscolarxBoric,11.411
+03:40,6,SEAvsWAS,
+03:40,7,MCCelebrity,31.517
+03:40,8,Maryse,
+03:40,9,Seahawks,24.630
+03:40,10,JULIETTE NO LADY NIGHT,51.114
+04:10,1,Brian Kelly,44.106
+04:10,2,Notre Dame,46.498
+04:10,3,WWERaw,42.130
+04:10,4,Messi,1.525.230
+04:10,5,FotoEscolarxBoric,12.640
+04:10,6,SEAvsWAS,
+04:10,7,Seahawks,27.301
+04:10,8,JULIETTE NO LADY NIGHT,57.174
+04:10,9,TheVoice,11.316
+04:10,10,ProvaDeFogo,
+04:40,1,Brian Kelly,51.287
+04:40,2,Notre Dame,51.434
+04:40,3,WWERaw,48.070
+04:40,4,Seahawks,33.186
+04:40,5,Messi,1.867.276
+04:40,6,SEAvsWAS,
+04:40,7,Russell Wilson,
+04:40,8,FotoEscolarxBoric,13.700
+04:40,9,JULIETTE NO LADY NIGHT,60.470
+04:40,10,WashingtonFootball,
+05:10,1,Brian Kelly,57.083
+05:10,2,Seahawks,39.031
+05:10,3,Notre Dame,55.642
+05:10,4,WWERaw,54.560
+05:10,5,Russ,23.064
+05:10,6,SEAvsWAS,10.520
+05:10,7,Messi,1.880.991
+05:10,8,صل_الم,
+05:10,9,FotoEscolarxBoric,14.423
+05:10,10,seokjin,777.922
+05:40,1,Seahawks,48.849
+05:40,2,Russ,28.410
+05:40,3,Brian Kelly,60.814
+05:40,4,deprem,
+05:40,5,SEAvsWAS,13.541
+05:40,6,Notre Dame,58.708
+05:40,7,WashingtonFootball,12.579
+05:40,8,Seattle,37.161
+05:40,9,WWERaw,57.003
+05:40,10,Messi,1.898.701
+06:10,1,Seahawks,51.678
+06:10,2,Russ,28.590
+06:10,3,deprem,
+06:10,4,Brian Kelly,63.477
+06:10,5,Notre Dame,60.507
+06:10,6,SEAvsWAS,14.243
+06:10,7,Seattle,37.928
+06:10,8,WashingtonFootball,14.412
+06:10,9,WWERaw,58.887
+06:10,10,izmir,90.430
+06:40,1,Seahawks,53.234
+06:40,2,deprem,
+06:40,3,Russ,29.458
+06:40,4,Brian Kelly,65.389
+06:40,5,Notre Dame,61.833
+06:40,6,SEAvsWAS,14.419
+06:40,7,83Trailer,
+06:40,8,Seattle,38.766
+06:40,9,WashingtonFootball,15.104
+06:40,10,WWERaw,60.097
+07:10,1,deprem,
+07:10,2,Seahawks,54.242
+07:10,3,Russ,29.553
+07:10,4,Brian Kelly,66.621
+07:10,5,83Trailer,
+07:10,6,JONGDAE,20.510
+07:10,7,Notre Dame,62.668
+07:10,8,SEAvsWAS,14.581
+07:10,9,اختبارات_جامعه_الامام_عن_بعد,
+07:10,10,Seattle,39.085
+07:40,1,deprem,10.005
+07:40,2,Seahawks,54.958
+07:40,3,Russ,30.041
+07:40,4,Brian Kelly,67.498
+07:40,5,83Trailer,11.052
+07:40,6,JONGDAE,24.465
+07:40,7,salı,
+07:40,8,Notre Dame,63.337
+07:40,9,SITALA,138.704
+07:40,10,ColetivaSiqueira,
+08:10,1,日本初確認,27.074
+08:10,2,deprem,11.167
+08:10,3,ナミビア,20.295
+08:10,4,共同通信,16.880
+08:10,5,国内初確認,
+08:10,6,Seahawks,55.506
+08:10,7,到着の男性,
+08:10,8,هافانا_كافيه_بجده,
+08:10,9,83Trailer,12.359
+08:10,10,Russ,30.065
+08:40,1,日本初確認,35.665
+08:40,2,ナミビア,27.957
+08:40,3,deprem,12.301
+08:40,4,国内初確認,
+08:40,5,من_يضاهي_السعودي_والسعوديه,
+08:40,6,到着の男性,
+08:40,7,共同通信,17.667
+08:40,8,هافانا_كافيه_بجده,
+08:40,9,83Trailer,13.735
+08:40,10,Seahawks,55.880
+09:10,1,オミクロン株,199.421
+09:10,2,KaiComebackDay,75.557
+09:10,3,ナミビア,31.113
+09:10,4,deprem,13.234
+09:10,5,国内初確認,
+09:10,6,到着の男性,
+09:10,7,من_يضاهي_السعودي_والسعوديه,
+09:10,8,共同通信,17.138
+09:10,9,83Trailer,14.916
+09:10,10,SITALA,280.729
+09:40,1,オミクロン株,209.410
+09:40,2,KaiComebackDay,104.283
+09:40,3,ナミビア,34.232
+09:40,4,نطالب_عقد_جمعيه_شركه_وقايه12,
+09:40,5,国内初確認,
+09:40,6,KAI2ndSOLO,17.129
+09:40,7,deprem,14.282
+09:40,8,到着の男性,10.859
+09:40,9,St Andrew,
+09:40,10,SITALA,336.115
+10:10,1,KaiComebackDay,130.759
+10:10,2,KAI2ndSOLO,25.383
+10:10,3,Gaziantep,
+10:10,4,オミクロン株,207.352
+10:10,5,Bundesverfassungsgericht,
+10:10,6,카이_피치스_공개,13.639
+10:10,7,ナミビア,35.819
+10:10,8,jongin,63.782
+10:10,9,Peaches Out Now,16.275
+10:10,10,St Andrew,
+10:40,1,KaiComebackDay,193.220
+10:40,2,KAI2ndSOLO,62.716
+10:40,3,카이_피치스_공개,105.977
+10:40,4,Gaziantep,11.308
+10:40,5,Peaches Out Now,114.236
+10:40,6,jongin,80.512
+10:40,7,Bundesverfassungsgericht,
+10:40,8,オミクロン株,214.840
+10:40,9,St Andrew,
+10:40,10,日本初確認,49.241
+11:10,1,KAI2ndSOLO,81.250
+11:10,2,Gaziantep,15.705
+11:10,3,KaiComebackDay,220.060
+11:10,4,카이_피치스_공개,151.287
+11:10,5,Peaches Out Now,160.175
+11:10,6,Bundesverfassungsgericht,
+11:10,7,jongin,91.641
+11:10,8,オミクロン株,212.868
+11:10,9,日本初確認,51.296
+11:10,10,ナミビア,40.459
+11:40,1,Gaziantep,20.751
+11:40,2,KAI2ndSOLO,91.621
+11:40,3,KaiComebackDay,234.636
+11:40,4,카이_피치스_공개,173.269
+11:40,5,RushHour4thWin,17.594
+11:40,6,Peaches Out Now,182.971
+11:40,7,jongin,99.079
+11:40,8,オミクロン株,221.403
+11:40,9,日本初確認,52.532
+11:40,10,ナミビア,43.914
+12:10,1,Gaziantep,25.348
+12:10,2,KAI2ndSOLO,98.443
+12:10,3,KaiComebackDay,244.336
+12:10,4,RushHour4thWin,27.839
+12:10,5,카이_피치스_공개,185.894
+12:10,6,Peaches Out Now,196.277
+12:10,7,jongin,107.234
+12:10,8,オミクロン株,218.490
+12:10,9,Mansur Yavaş,11.806
+12:10,10,ボラちゃん,20.693
+12:40,1,Gaziantep,29.164
+12:40,2,KAI2ndSOLO,104.554
+12:40,3,KaiComebackDay,251.822
+12:40,4,RushHour4thWin,33.869
+12:40,5,카이_피치스_공개,195.912
+12:40,6,Peaches Out Now,206.540
+12:40,7,jongin,114.076
+12:40,8,Puluhan Juta,
+12:40,9,LazLive,
+12:40,10,Mansur Yavaş,15.377
+13:10,1,Gaziantep,32.334
+13:10,2,風真いろは初配信でござる,15.022
+13:10,3,KAI2ndSOLO,109.076
+13:10,4,RushHour4thWin,37.816
+13:10,5,KaiComebackDay,257.944
+13:10,6,Peaches Out Now,214.952
+13:10,7,Puluhan Juta,
+13:10,8,LazLive,
+13:10,9,ARMY VOTE DAESANG D9,62.932
+13:10,10,jongin,118.628
+13:40,1,風真いろは初配信でござる,57.145
+13:40,2,Gaziantep,35.292
+13:40,3,Chat_with_Kep1er,75.364
+13:40,4,FIRST_IMPACT,79.204
+13:40,5,bebek,
+13:40,6,Puluhan Juta,
+13:40,7,LazLive,
+13:40,8,ARMY VOTE DAESANG D9,75.522
+13:40,9,Peaches Out Now,221.722
+13:40,10,jongin,123.610
+14:10,1,風真いろは初配信でござる,76.914
+14:10,2,Gaziantep,37.711
+14:10,3,Chat_with_Kep1er,124.177
+14:10,4,bebek,
+14:10,5,FIRST_IMPACT,125.992
+14:10,6,LazLive,
+14:10,7,ARMY VOTE DAESANG D9,83.662
+14:10,8,Puluhan Juta,
+14:10,9,Peaches Out Now,226.938
+14:10,10,Inditex,
+14:40,1,bebek,
+14:40,2,風真いろは初配信でござる,81.442
+14:40,3,Chat_with_Kep1er,172.571
+14:40,4,FIRST_IMPACT,176.377
+14:40,5,GivingTuesday,72.420
+14:40,6,ボラちゃん,26.889
+14:40,7,LazLive,10.184
+14:40,8,Feliz Navidad,46.891
+14:40,9,Puluhan Juta,10.432
+14:40,10,ARMY VOTE DAESANG D9,89.205
+15:10,1,GivingTuesday,80.332
+15:10,2,bebek,11.226
+15:10,3,Chat_with_Kep1er,164.913
+15:10,4,FIRST_IMPACT,167.915
+15:10,5,風真いろは初配信でござる,83.772
+15:10,6,Feliz Navidad,45.742
+15:10,7,ボラちゃん,27.170
+15:10,8,IVE HIGHLIGHT MEDLEY,26.917
+15:10,9,Inditex,11.186
+15:10,10,LazLive,
+15:40,1,GivingTuesday,90.469
+15:40,2,bebek,14.188
+15:40,3,MansurYavaşYalnızDeğildir,24.110
+15:40,4,Chat_with_Kep1er,163.457
+15:40,5,FIRST_IMPACT,166.598
+15:40,6,Feliz Navidad,48.065
+15:40,7,IVE HIGHLIGHT MEDLEY,36.403
+15:40,8,ちゃめ機能,
+15:40,9,Inditex,12.424
+15:40,10,Ton Pokémon,
+16:10,1,GivingTuesday,99.976
+16:10,2,bebek,17.227
+16:10,3,志麻誕生祭2021,23.069
+16:10,4,누구보다_빠른_12월_최애선점,
+16:10,5,MansurYavaşYalnızDeğildir,27.648
+16:10,6,Feliz Navidad,47.473
+16:10,7,あと1ヶ月,21.767
+16:10,8,GOODBYE FOR NOW,
+16:10,9,Ton Pokémon,
+16:10,10,DJS DK SONG WITH JAY,
+16:40,1,GivingTuesday,110.997
+16:40,2,bebek,19.996
+16:40,3,누구보다_빠른_12월_최애선점,
+16:40,4,メンテの日なのでssを貼る,18.866
+16:40,5,志麻誕生祭2021,37.187
+16:40,6,Feliz Navidad,49.762
+16:40,7,あと1ヶ月,23.985
+16:40,8,GOODBYE FOR NOW,
+16:40,9,Ray Kennedy,
+16:40,10,DJS DK SONG WITH JAY,
+17:10,1,GivingTuesday,121.232
+17:10,2,bebek,23.111
+17:10,3,AtHack,
+17:10,4,누구보다_빠른_12월_최애선점,
+17:10,5,メンテの日なのでssを貼る,23.219
+17:10,6,Feliz Navidad,48.857
+17:10,7,あと1ヶ月,24.946
+17:10,8,志麻さん,29.803
+17:10,9,Ray Kennedy,
+17:10,10,Rumi,17.047
+17:40,1,GivingTuesday,132.944
+17:40,2,bebek,26.134
+17:40,3,AtHack,
+17:40,4,كاس_العرب,35.585
+17:40,5,누구보다_빠른_12월_최애선점,
+17:40,6,Feliz Navidad,51.028
+17:40,7,Powell,26.884
+17:40,8,Rumi,19.625
+17:40,9,あと1ヶ月,25.610
+17:40,10,Ray Kennedy,
+18:10,1,GivingTuesday,143.394
+18:10,2,bebek,28.687
+18:10,3,AtHack,
+18:10,4,كاس_العرب,42.903
+18:10,5,MansurYavaşYalnızDeğildir,40.904
+18:10,6,Feliz Navidad,50.830
+18:10,7,Powell,30.095
+18:10,8,Ray Kennedy,
+18:10,9,Sichel,29.114
+18:10,10,Rumi,21.267
+18:40,1,GivingTuesday,155.589
+18:40,2,bebek,30.448
+18:40,3,ThankYouJack,
+18:40,4,كاس_العرب,49.167
+18:40,5,AtHack,
+18:40,6,Feliz Navidad,53.069
+18:40,7,Powell,33.703
+18:40,8,Sichel,32.442
+18:40,9,Pekerman,13.652
+18:40,10,Ray Kennedy,
+19:10,1,GivingTuesday,164.415
+19:10,2,500MilSalariosRosas,
+19:10,3,bebek,32.003
+19:10,4,ThankYouJack,
+19:10,5,كاس_العرب,54.513
+19:10,6,Feliz Navidad,52.721
+19:10,7,Sichel,35.629
+19:10,8,Pekerman,17.883
+19:10,9,Powell,36.019
+19:10,10,Ray Kennedy,
+19:40,1,SalarioRosa,19.499
+19:40,2,GivingTuesday,174.586
+19:40,3,500MilSalariosRosas,15.235
+19:40,4,Rihanna,116.850
+19:40,5,bebek,33.573
+19:40,6,WhyIChime,
+19:40,7,Pekerman,21.438
+19:40,8,Feliz Navidad,54.807
+19:40,9,Sichel,39.480
+19:40,10,Powell,38.750
+20:10,1,SalarioRosa,31.132
+20:10,2,500MilSalariosRosas,25.150
+20:10,3,GivingTuesday,182.780
+20:10,4,Rihanna,131.875
+20:10,5,WhyIChime,
+20:10,6,5sos,59.828
+20:10,7,الشرق,
+20:10,8,Feliz Navidad,54.369
+20:10,9,Pekerman,24.020
+20:10,10,Sichel,41.712
+20:40,1,SalarioRosa,41.632
+20:40,2,GivingTuesday,192.737
+20:40,3,Rihanna,147.051
+20:40,4,الامسيات_الشعريه_موسم_الرياض,
+20:40,5,ALLAHBELANIVERSİN,
+20:40,6,WhyIChime,
+20:40,7,5sos,75.748
+20:40,8,Feliz Navidad,56.418
+20:40,9,Pekerman,26.012
+20:40,10,riri,23.986
+21:10,1,SalarioRosa,51.640
+21:10,2,Rihanna,158.745
+21:10,3,GivingTuesday,199.343
+21:10,4,NEWNOR,
+21:10,5,ALLAHBELANIVERSİN,
+21:10,6,AsgariÜcret6000,
+21:10,7,Newcastle,21.727
+21:10,8,Clark,35.703
+21:10,9,5sos,82.904
+21:10,10,TRT 1,16.071
+21:40,1,500MilSalariosRosas,51.923
+21:40,2,Rihanna,173.607
+21:40,3,GivingTuesday,207.780
+21:40,4,Dolar 14,11.840
+21:40,5,NEWNOR,
+21:40,6,ALLAHBELANIVERSİN,
+21:40,7,ÇünküErdoğan,30.782
+21:40,8,Newcastle,23.629
+21:40,9,TRT 1,20.356
+21:40,10,Clark,37.593
+22:10,1,500MilSalariosRosas,59.636
+22:10,2,Rihanna,187.042
+22:10,3,GivingTuesday,213.862
+22:10,4,Dolar 14,19.958
+22:10,5,KohLanta,
+22:10,6,NEWNOR,
+22:10,7,ÇünküErdoğan,38.375
+22:10,8,Norwich,17.677
+22:10,9,Newcastle,25.603
+22:10,10,Latvia,
+22:40,1,500MilSalariosRosas,66.487
+22:40,2,Rihanna,194.062
+22:40,3,GivingTuesday,222.143
+22:40,4,KohLanta,11.908
+22:40,5,NEWNOR,10.361
+22:40,6,Dolar 14,25.253
+22:40,7,NUFC,12.444
+22:40,8,Newcastle,28.640
+22:40,9,Norwich,20.028
+22:40,10,Pukki,
+23:10,1,500MilSalariosRosas,74.308
+23:10,2,Rihanna,203.648
+23:10,3,KohLanta,18.803
+23:10,4,GivingTuesday,227.540
+23:10,5,NEWNOR,10.918
+23:10,6,Dolar 14,27.883
+23:10,7,NUFC,13.415
+23:10,8,Newcastle,29.596
+23:10,9,Norwich,20.806
+23:10,10,Home Alone 3,
+23:40,1,500MilSalariosRosas,80.739
+23:40,2,Rihanna,214.072
+23:40,3,KohLanta,27.743
+23:40,4,GivingTuesday,234.539
+23:40,5,ilcollegio,12.965
+23:40,6,Dolar 14,29.617
+23:40,7,NUFC,14.121
+23:40,8,Phil,45.651
+23:40,9,Newcastle,30.634
+23:40,10,Norwich,21.337

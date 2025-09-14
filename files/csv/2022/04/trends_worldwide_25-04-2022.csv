@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Macron,1.219.835
+00:10,2,Le Pen,538.838
+00:10,3,Xavi,55.333
+00:10,4,Rayo,68.524
+00:10,5,ConexionHonduras1,20.353
+00:10,6,LazioMilan,27.004
+00:10,7,themaskedsingerbr,29.690
+00:10,8,Ben Simmons,70.564
+00:10,9,presidentielles2022,361.619
+00:10,10,Gavi,18.718
+00:40,1,Macron,1.272.317
+00:40,2,Le Pen,155.550
+00:40,3,Xavi,60.754
+00:40,4,ConexionHonduras1,24.548
+00:40,5,Curry,80.418
+00:40,6,Wiggins,13.035
+00:40,7,Klay,29.641
+00:40,8,Rayo,72.160
+00:40,9,bbtvi,43.727
+00:40,10,Ben Simmons,77.077
+01:10,1,Macron,1.296.826
+01:10,2,ConexionHonduras1,31.588
+01:10,3,Le Pen,158.311
+01:10,4,Jokic,29.976
+01:10,5,Xavi,64.514
+01:10,6,bbtvi,49.761
+01:10,7,Curry,81.735
+01:10,8,Wiggins,15.137
+01:10,9,Klay,31.152
+01:10,10,Ben Simmons,81.942
+01:40,1,Macron,1.324.963
+01:40,2,ConexionHonduras1,35.462
+01:40,3,bbtvi,59.231
+01:40,4,Le Pen,161.152
+01:40,5,Xavi,67.342
+01:40,6,Jokic,32.183
+01:40,7,Ben Simmons,86.528
+01:40,8,わたしの幸せな結婚,20.694
+01:40,9,Curry,82.770
+01:40,10,Wiggins,15.178
+02:10,1,Macron,1.341.952
+02:10,2,ConexionHonduras1,36.827
+02:10,3,bbtvi,63.755
+02:10,4,Le Pen,162.924
+02:10,5,わたしの幸せな結婚,23.640
+02:10,6,Ben Simmons,88.139
+02:10,7,Xavi,68.978
+02:10,8,Jokic,33.322
+02:10,9,Angel Hernandez,
+02:10,10,Curry,82.017
+02:40,1,Macron,1.362.771
+02:40,2,bbtvi,68.278
+02:40,3,ConexionHonduras1,37.224
+02:40,4,90DayFiance,
+02:40,5,Ben Simmons,92.160
+02:40,6,わたしの幸せな結婚,25.677
+02:40,7,Le Pen,164.651
+02:40,8,Bruna,41.550
+02:40,9,Angel Hernandez,
+02:40,10,Reynoso,
+03:10,1,Angel Hernandez,
+03:10,2,90DayFiance,
+03:10,3,Macron,1.375.904
+03:10,4,Ben Simmons,91.371
+03:10,5,bbtvi,69.341
+03:10,6,Bruna,44.590
+03:10,7,Fantastico,
+03:10,8,ConexionHonduras1,37.449
+03:10,9,わたしの幸せな結婚,27.329
+03:10,10,Reynoso,
+03:40,1,90DayFiance,10.930
+03:40,2,Angel Hernandez,
+03:40,3,Macron,1.392.475
+03:40,4,Bruna,48.671
+03:40,5,Ben Simmons,94.766
+03:40,6,Fantastico,
+03:40,7,PlaneSwap,
+03:40,8,HEATCulture,
+03:40,9,Gallardo,
+03:40,10,スッキリ,11.369
+04:10,1,Angel Hernandez,
+04:10,2,90DayFiance,13.417
+04:10,3,Kyle Schwarber,
+04:10,4,HEATCulture,
+04:10,5,PatatismoCultural,
+04:10,6,MasterChefJunior,
+04:10,7,PlaneSwap,
+04:10,8,Bruna,51.911
+04:10,9,Macron,1.402.492
+04:10,10,Ben Simmons,87.716
+04:40,1,Angel Hernandez,15.875
+04:40,2,عيديات_البداح_للعود,85.899
+04:40,3,90DayFiance,14.167
+04:40,4,Kyle Schwarber,
+04:40,5,PatatismoCultural,11.330
+04:40,6,HEATCulture,
+04:40,7,Bruna,57.305
+04:40,8,MasterChefJunior,
+04:40,9,Macron,1.415.688
+04:40,10,Ben Simmons,90.889
+05:10,1,Angel Hernandez,19.307
+05:10,2,TheVoiceCHV,
+05:10,3,عيديات_البداح_للعود,136.152
+05:10,4,O VT,14.690
+05:10,5,Schwarber,13.146
+05:10,6,90DayFiance,14.803
+05:10,7,PatatismoCultural,13.307
+05:10,8,Barry,
+05:10,9,Bruna,61.696
+05:10,10,Jae Crowder,
+05:40,1,PACAMPEAO,51.135
+05:40,2,Angel Hernandez,21.726
+05:40,3,TheVoiceCHV,
+05:40,4,Brandon Ingram,
+05:40,5,O VT,23.150
+05:40,6,عيديات_البداح_للعود,145.905
+05:40,7,arthurcampeao,20.775
+05:40,8,NoMuteSpace,
+05:40,9,Paulo André,16.934
+05:40,10,Schwarber,15.204
+06:10,1,PACAMPEAO,73.286
+06:10,2,Pelicans,18.741
+06:10,3,Angel Hernandez,23.610
+06:10,4,Herb Jones,
+06:10,5,TheVoiceCHV,
+06:10,6,Brandon Ingram,
+06:10,7,Chris Paul,
+06:10,8,arthurcampeao,31.037
+06:10,9,NoMuteSpace,
+06:10,10,Alvarado,
+06:40,1,Pelicans,27.944
+06:40,2,PACAMPEAO,80.265
+06:40,3,Herb Jones,11.881
+06:40,4,Angel Hernandez,25.212
+06:40,5,Alvarado,18.294
+06:40,6,Chris Paul,15.318
+06:40,7,TheVoiceCHV,
+06:40,8,NoMuteSpace,
+06:40,9,Suns,41.660
+06:40,10,Brandon Ingram,10.709
+07:10,1,Pelicans,30.676
+07:10,2,PACAMPEAO,84.499
+07:10,3,Herb Jones,13.126
+07:10,4,Angel Hernandez,26.440
+07:10,5,Alvarado,20.266
+07:10,6,Chris Paul,17.943
+07:10,7,Suns,44.315
+07:10,8,NoMuteSpace,12.536
+07:10,9,TheVoiceCHV,
+07:10,10,Brandon Ingram,11.678
+07:40,1,Pelicans,32.178
+07:40,2,PACAMPEAO,86.894
+07:40,3,Herb Jones,13.825
+07:40,4,Angel Hernandez,27.275
+07:40,5,NoMuteSpace,13.654
+07:40,6,Suns,45.884
+07:40,7,Chris Paul,19.504
+07:40,8,Alvarado,21.564
+07:40,9,TheVoiceCHV,
+07:40,10,あんスタマイルームショット,
+08:10,1,Pelicans,33.136
+08:10,2,PACAMPEAO,88.482
+08:10,3,Herb Jones,14.337
+08:10,4,Angel Hernandez,27.785
+08:10,5,NoMuteSpace,14.401
+08:10,6,MondayMotivation,42.627
+08:10,7,Suns,46.416
+08:10,8,Chris Paul,20.596
+08:10,9,Alvarado,22.444
+08:10,10,Pazartesi,
+08:40,1,Pelicans,33.862
+08:40,2,PACAMPEAO,89.724
+08:40,3,MondayMotivation,45.402
+08:40,4,Pazartesi,
+08:40,5,Herb Jones,14.779
+08:40,6,Angel Hernandez,28.210
+08:40,7,25Aprile,13.684
+08:40,8,NoMuteSpace,14.792
+08:40,9,Suns,47.172
+08:40,10,Chris Paul,21.472
+09:10,1,MondayMotivation,48.524
+09:10,2,25Aprile,16.482
+09:10,3,Pelicans,34.335
+09:10,4,PACAMPEAO,90.536
+09:10,5,Pazartesi,
+09:10,6,AFLDonsPies,
+09:10,7,Herb Jones,15.019
+09:10,8,Angel Hernandez,28.507
+09:10,9,Suns,47.466
+09:10,10,Buon 25,
+09:40,1,25Aprile,20.060
+09:40,2,MondayMotivation,51.690
+09:40,3,AFLDonsPies,
+09:40,4,Pazartesi,
+09:40,5,Pelicans,34.877
+09:40,6,NRLDragonsRoosters,
+09:40,7,Buon 25,
+09:40,8,Herb Jones,15.209
+09:40,9,Naif Bedir,
+09:40,10,Daily Quordle 91,
+10:10,1,25Aprile,23.346
+10:10,2,MondayMotivation,54.565
+10:10,3,AFLDonsPies,
+10:10,4,NRLDragonsRoosters,
+10:10,5,Liberazione,
+10:10,6,Buon 25,
+10:10,7,Pelicans,35.248
+10:10,8,Daily Quordle 91,
+10:10,9,Naif Bedir,
+10:10,10,Kooyong,10.777
+10:40,1,25Aprile,27.180
+10:40,2,MondayMotivation,57.503
+10:40,3,AFLDonsPies,
+10:40,4,Liberazione,
+10:40,5,Color_of_THEBOYZ,
+10:40,6,Buon 25,
+10:40,7,Pelicans,35.611
+10:40,8,Kooyong,11.995
+10:40,9,Daily Quordle 91,
+10:40,10,Ganjar 29 Persen,
+11:10,1,25Aprile,30.363
+11:10,2,MondayMotivation,60.573
+11:10,3,Color_of_THEBOYZ,
+11:10,4,Liberazione,
+11:10,5,mondaythoughts,15.634
+11:10,6,Buon 25,
+11:10,7,SMTOWN,28.207
+11:10,8,武内くん,
+11:10,9,Kooyong,12.895
+11:10,10,カスタネット,
+11:40,1,25Aprile,33.912
+11:40,2,MondayMotivation,63.965
+11:40,3,SMTOWN,66.380
+11:40,4,Color_of_THEBOYZ,
+11:40,5,Liberazione,
+11:40,6,mondaythoughts,17.016
+11:40,7,武内くん,
+11:40,8,Buon 25,
+11:40,9,武内さん,
+11:40,10,Kooyong,13.710
+12:10,1,25Aprile,36.662
+12:10,2,SMTOWN,86.422
+12:10,3,MondayMotivation,67.322
+12:10,4,Color_of_THEBOYZ,
+12:10,5,武内くん,
+12:10,6,Liberazione,
+12:10,7,mondaythoughts,18.465
+12:10,8,Buon 25,10.895
+12:10,9,情報の洪水,
+12:10,10,BRNMexc Listeleniyor,
+12:40,1,25Aprile,39.663
+12:40,2,SMTOWN,103.172
+12:40,3,MondayMotivation,70.527
+12:40,4,完成披露試写会ご招待,
+12:40,5,ドクターストレンジ,10.801
+12:40,6,Color_of_THEBOYZ,
+12:40,7,武内くん,
+12:40,8,Buon 25,11.916
+12:40,9,ASTRO IS COMING,
+12:40,10,情報の洪水,
+13:10,1,完成披露試写会ご招待,
+13:10,2,ドクターストレンジ,14.590
+13:10,3,25Aprile,42.109
+13:10,4,MondayMotivation,74.171
+13:10,5,SMTOWN,114.589
+13:10,6,OhmNanonUpvelEP3,18.753
+13:10,7,東京希望,
+13:10,8,武内くん,
+13:10,9,ASTRO IS COMING,10.776
+13:10,10,山本圭さん,
+13:40,1,完成披露試写会ご招待,12.080
+13:40,2,ドクターストレンジ,19.642
+13:40,3,BetrayalGame,160.990
+13:40,4,25Aprile,45.055
+13:40,5,OhmNanonUpvelEP3,48.520
+13:40,6,SMTOWN,123.882
+13:40,7,東京希望,12.428
+13:40,8,Lazlive Kasih Yamaha Gear,
+13:40,9,ASTRO IS COMING,12.116
+13:40,10,Jono,15.364
+14:10,1,完成披露試写会ご招待,16.355
+14:10,2,ドクターストレンジ,24.083
+14:10,3,BetrayalGame,164.737
+14:10,4,ShopeeIDxNCTDREAM,19.395
+14:10,5,BigRamadanSaleTVShow,18.917
+14:10,6,東京希望,14.725
+14:10,7,Lazlive Kasih Yamaha Gear,
+14:10,8,SMTOWN,131.725
+14:10,9,Jono,21.830
+14:10,10,大阪希望,
+14:40,1,完成披露試写会ご招待,15.836
+14:40,2,ドクターストレンジ,24.055
+14:40,3,GetWellSoonKyungsoo,33.814
+14:40,4,beta,
+14:40,5,春のアズ生,29.607
+14:40,6,Lazlive Kasih Yamaha Gear,
+14:40,7,東京希望,14.653
+14:40,8,SMTOWN,139.391
+14:40,9,Jono,29.361
+14:40,10,山本圭さん,
+15:10,1,GetWellSoonKyungsoo,54.424
+15:10,2,身長から150cm引いた数だけ喋れる,
+15:10,3,ドクターストレンジ,23.990
+15:10,4,beta,
+15:10,5,完成披露試写会ご招待,15.698
+15:10,6,Lazlive Kasih Yamaha Gear,
+15:10,7,Mastodon,
+15:10,8,THANK YOU TWICE,17.615
+15:10,9,SMTOWN,144.981
+15:10,10,東京希望,14.231
+15:40,1,身長から150cm引いた数だけ喋れる,
+15:40,2,GetWellSoonKyungsoo,66.563
+15:40,3,beta,
+15:40,4,KFCTUESxUPGUNOHM,117.980
+15:40,5,Mastodon,
+15:40,6,BetrayalGame,191.076
+15:40,7,Henny Vrienten,
+15:40,8,Lazlive Kasih Yamaha Gear,
+15:40,9,THANK YOU TWICE,20.507
+15:40,10,MONSTA X SHAPE OF LOVE PREVIEW,17.108
+16:10,1,恋マジ,59.160
+16:10,2,身長から150cm引いた数だけ喋れる,
+16:10,3,GetWellSoonKyungsoo,75.235
+16:10,4,Mastodon,
+16:10,5,ShopeeIDxNCTDREAM,88.644
+16:10,6,ElonMuskBuyTwitter,
+16:10,7,Henny Vrienten,
+16:10,8,THANK YOU TWICE,21.852
+16:10,9,Doe Maar,
+16:10,10,MONSTA X SHAPE OF LOVE PREVIEW,19.487
+16:40,1,Musk,337.958
+16:40,2,恋マジ,62.877
+16:40,3,身長から150cm引いた数だけ喋れる,
+16:40,4,GetWellSoonKyungsoo,81.256
+16:40,5,Mastodon,
+16:40,6,OUR_SPRING_NEW_DAY,22.364
+16:40,7,DevilSisterEP3,301.891
+16:40,8,END CONCEPT CLIPS,33.082
+16:40,9,Henny Vrienten,
+16:40,10,Doe Maar,
+17:10,1,Musk,377.905
+17:10,2,OUR_SPRING_NEW_DAY,43.136
+17:10,3,身長から150cm引いた数だけ喋れる,10.297
+17:10,4,END CONCEPT CLIPS,58.676
+17:10,5,恋マジ,64.629
+17:10,6,Mastodon,10.521
+17:10,7,예쁜나이_스물다섯_찬희의_봄,12.030
+17:10,8,GetWellSoonKyungsoo,85.859
+17:10,9,OUR SOLACE CHANHEE DAY,23.156
+17:10,10,Henny Vrienten,
+17:40,1,Elon Musk,342.239
+17:40,2,OUR_SPRING_NEW_DAY,55.004
+17:40,3,END CONCEPT CLIPS,65.516
+17:40,4,예쁜나이_스물다섯_찬희의_봄,19.097
+17:40,5,身長から150cm引いた数だけ喋れる,11.066
+17:40,6,Mastodon,12.123
+17:40,7,恋マジ,65.574
+17:40,8,봄바람처럼_찾아온_찬희_생일,41.420
+17:40,9,OUR SOLACE CHANHEE DAY,25.554
+17:40,10,第95回,
+18:10,1,Elon Musk,375.278
+18:10,2,OUR_SPRING_NEW_DAY,60.945
+18:10,3,OsmanKavala,
+18:10,4,END CONCEPT CLIPS,68.349
+18:10,5,Mastodon,13.641
+18:10,6,身長から150cm引いた数だけ喋れる,11.691
+18:10,7,예쁜나이_스물다섯_찬희의_봄,22.269
+18:10,8,第95回,
+18:10,9,FALLinLoveWithDaesung,34.814
+18:10,10,OUR SOLACE CHANHEE DAY,26.590
+18:40,1,Elon Musk,413.414
+18:40,2,OsmanKavala,14.250
+18:40,3,OUR_SPRING_NEW_DAY,65.264
+18:40,4,GeziyiSavunuyoruz,13.491
+18:40,5,Mastodon,15.308
+18:40,6,END CONCEPT CLIPS,69.640
+18:40,7,身長から150cm引いた数だけ喋れる,12.143
+18:40,8,第95回,
+18:40,9,예쁜나이_스물다섯_찬희의_봄,24.291
+18:40,10,Tumblr,70.313
+19:10,1,Elon Musk,460.070
+19:10,2,OsmanKavala,19.597
+19:10,3,GeziyiSavunuyoruz,19.943
+19:10,4,Mastodon,16.765
+19:10,5,OUR_SPRING_NEW_DAY,67.604
+19:10,6,Tumblr,73.894
+19:10,7,第95回,
+19:10,8,身長から150cm引いた数だけ喋れる,12.499
+19:10,9,TwitterTakeover,
+19:10,10,END CONCEPT CLIPS,70.368
+19:40,1,Elon Musk,521.921
+19:40,2,GeziyiSavunuyoruz,27.428
+19:40,3,OsmanKavala,25.114
+19:40,4,Mastodon,18.288
+19:40,5,Tumblr,80.087
+19:40,6,TwitterTakeover,
+19:40,7,OUR_SPRING_NEW_DAY,69.354
+19:40,8,Marshall Law,10.044
+19:40,9,第95回,
+19:40,10,CSKvPBKS,
+20:10,1,Elon Musk,569.660
+20:10,2,GeziyiSavunuyoruz,35.110
+20:10,3,OsmanKavala,30.803
+20:10,4,CSKvPBKS,
+20:10,5,TwitterTakeover,10.242
+20:10,6,Mastodon,19.879
+20:10,7,Marshall Law,15.041
+20:10,8,Tumblr,84.299
+20:10,9,AskPushaT,
+20:10,10,Mercury Charts,
+20:40,1,Elon Musk,630.007
+20:40,2,GeziyiSavunuyoruz,42.838
+20:40,3,OsmanKavala,36.594
+20:40,4,CSKvPBKS,11.002
+20:40,5,AskPushaT,
+20:40,6,TwitterTakeover,11.902
+20:40,7,Marshall Law,18.755
+20:40,8,Mastodon,21.514
+20:40,9,Tumblr,90.613
+20:40,10,Donald Trump,161.247
+21:10,1,Elon Musk,762.246
+21:10,2,GeziyiSavunuyoruz,49.884
+21:10,3,TwitterTakeover,15.176
+21:10,4,OsmanKavala,41.527
+21:10,5,CSKvPBKS,11.553
+21:10,6,Hulk,19.726
+21:10,7,AskPushaT,
+21:10,8,Mastodon,23.287
+21:10,9,Tumblr,95.791
+21:10,10,Marshall Law,22.791
+21:40,1,Elon Musk,971.858
+21:40,2,TwitterTakeover,22.582
+21:40,3,GeziyiSavunuyoruz,56.367
+21:40,4,Hulk,25.667
+21:40,5,Tesla,148.154
+21:40,6,Mastodon,26.876
+21:40,7,Tumblr,107.280
+21:40,8,OsmanKavala,46.461
+21:40,9,sassuolojuve,
+21:40,10,BJKvKAS,
+22:10,1,Elon Musk,1.134.928
+22:10,2,Trump,1.012.969
+22:10,3,TwitterTakeover,27.440
+22:10,4,GeziyiSavunuyoruz,62.889
+22:10,5,Tesla,158.664
+22:10,6,Hulk,29.952
+22:10,7,Mastodon,30.653
+22:10,8,Tumblr,115.580
+22:10,9,FreeSpeech,10.083
+22:10,10,twittersold,
+22:40,1,Elon Musk,1.202.570
+22:40,2,TwitterTakeover,31.484
+22:40,3,Trump,1.065.306
+22:40,4,GeziyiSavunuyoruz,68.615
+22:40,5,Tesla,170.818
+22:40,6,Mastodon,33.751
+22:40,7,Tumblr,124.800
+22:40,8,Hulk,33.684
+22:40,9,FreeSpeech,11.709
+22:40,10,twittersold,
+23:10,1,Elon Musk,1.184.139
+23:10,2,Trump,1.086.794
+23:10,3,TwitterTakeover,35.059
+23:10,4,Tesla,178.395
+23:10,5,GeziyiSavunuyoruz,73.935
+23:10,6,Mastodon,36.562
+23:10,7,Tumblr,130.975
+23:10,8,Hulk,36.613
+23:10,9,cosmyldachris,
+23:10,10,SassuoloJuventus,
+23:40,1,Elon Musk,1.269.368
+23:40,2,EdomexFuerte,16.011
+23:40,3,Trump,1.132.961
+23:40,4,TwitterTakeover,38.305
+23:40,5,Tesla,189.234
+23:40,6,GeziyiSavunuyoruz,78.247
+23:40,7,Mastodon,39.183
+23:40,8,Tumblr,138.940
+23:40,9,FreeSpeech,14.359
+23:40,10,cosldachrismatalicry,

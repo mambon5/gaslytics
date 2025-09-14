@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Everton,87.081
+00:10,2,Calvin Ridley,78.151
+00:10,3,gfvip,83.990
+00:10,4,Lampard,29.709
+00:10,5,8martdunyakadinlargunu,
+00:10,6,TOTEVE,16.935
+00:10,7,Falcons,42.837
+00:10,8,8M2022,45.499
+00:10,9,ManoBrownNoPodpah,
+00:10,10,Spurs,39.119
+00:40,1,Everton,89.452
+00:40,2,Calvin Ridley,84.573
+00:40,3,gfvip,92.504
+00:40,4,Lampard,30.801
+00:40,5,8martdunyakadinlargunu,
+00:40,6,Falcons,44.642
+00:40,7,Mano Brown,19.455
+00:40,8,TOTEVE,17.210
+00:40,9,8M2022,47.547
+00:40,10,Pete Rose,
+01:10,1,gfvip,105.975
+01:10,2,Calvin Ridley,90.782
+01:10,3,Everton,90.543
+01:10,4,Mano Brown,22.105
+01:10,5,Lampard,31.293
+01:10,6,8martdunyakadinlargunu,
+01:10,7,Falcons,46.149
+01:10,8,8M2022,48.148
+01:10,9,FestivaldaCancao,13.163
+01:10,10,TOTEVE,17.392
+01:40,1,gfvip,113.668
+01:40,2,Calvin Ridley,97.114
+01:40,3,Everton,91.664
+01:40,4,Brown,141.433
+01:40,5,ラヴィット,15.171
+01:40,6,8martdunyakadinlargunu,
+01:40,7,Lampard,31.817
+01:40,8,Falcons,47.462
+01:40,9,FestivaldaCancao,13.730
+01:40,10,8M2022,49.392
+02:10,1,gfvip,116.906
+02:10,2,Calvin Ridley,105.448
+02:10,3,Brown,144.060
+02:10,4,Everton,92.150
+02:10,5,ラヴィット,16.015
+02:10,6,Falcons,48.452
+02:10,7,8martdunyakadinlargunu,
+02:10,8,Lampard,32.178
+02:10,9,IWD2022,86.718
+02:10,10,Pete Rose,
+02:40,1,TheBachelor,
+02:40,2,Brown,149.847
+02:40,3,Calvin Ridley,114.036
+02:40,4,gfvip,118.889
+02:40,5,ACMawards,
+02:40,6,WomenTellAll,
+02:40,7,Everton,92.784
+02:40,8,Shanae,
+02:40,9,InternationalWomensDay,55.821
+02:40,10,Falcons,49.454
+03:10,1,Gustavo,447.692
+03:10,2,TheBachelor,11.275
+03:10,3,Chattanooga,
+03:10,4,WWERaw,23.243
+03:10,5,ACMawards,10.156
+03:10,6,Brown,150.443
+03:10,7,InternationalWomensDay,66.357
+03:10,8,Calvin Ridley,121.517
+03:10,9,Natália,179.859
+03:10,10,womentellall,
+03:40,1,Laís,329.220
+03:40,2,BBB22,1.205.269
+03:40,3,Lucas,144.711
+03:40,4,Tadeu,69.556
+03:40,5,Gustavo,493.439
+03:40,6,Eslovênia,53.808
+03:40,7,Eliezer,67.050
+03:40,8,jogodadiscordia,
+03:40,9,TheBachelor,15.011
+03:40,10,O Arthur,536.909
+04:10,1,Gustavo,573.281
+04:10,2,BBB22,1.225.305
+04:10,3,Laís,298.030
+04:10,4,Tadeu,79.212
+04:10,5,Lucas,155.133
+04:10,6,Eliezer,77.417
+04:10,7,O Arthur,593.628
+04:10,8,Natália,206.364
+04:10,9,jogodadiscordia,24.544
+04:10,10,ForaJade,433.528
+04:40,1,Gustavo,633.090
+04:40,2,BBB22,1.406.452
+04:40,3,Viny,110.356
+04:40,4,Laís,312.997
+04:40,5,Tadeu,93.137
+04:40,6,Lucas,162.655
+04:40,7,Eliezer,94.173
+04:40,8,jogodadiscordia,31.663
+04:40,9,O Arthur,646.056
+04:40,10,Natália,216.870
+05:10,1,Gustavo,587.761
+05:10,2,BBB22,1.276.498
+05:10,3,Viny,103.909
+05:10,4,Laís,284.463
+05:10,5,Tadeu,94.474
+05:10,6,Lucas,161.688
+05:10,7,Eliezer,87.193
+05:10,8,jogodadiscordia,33.995
+05:10,9,O Arthur,624.615
+05:10,10,ForaJade,391.629
+05:40,1,Gustavo,597.405
+05:40,2,BBB22,1.318.668
+05:40,3,Viny,104.680
+05:40,4,Laís,289.325
+05:40,5,Tadeu,95.960
+05:40,6,WomensDay,98.102
+05:40,7,Lucas,164.048
+05:40,8,Eliezer,88.232
+05:40,9,jogodadiscordia,34.918
+05:40,10,O Arthur,637.951
+06:10,1,Gustavo,590.176
+06:10,2,BBB22,1.293.088
+06:10,3,WomensDay,114.142
+06:10,4,Laís,288.882
+06:10,5,Viny,102.846
+06:10,6,Tadeu,95.631
+06:10,7,TeamTheOE,168.375
+06:10,8,Eliezer,85.497
+06:10,9,Lucas,161.733
+06:10,10,jogodadiscordia,35.351
+06:40,1,Gustavo,593.555
+06:40,2,WomensDay,131.645
+06:40,3,BBB22,1.302.574
+06:40,4,Laís,291.995
+06:40,5,Viny,103.195
+06:40,6,Tadeu,96.056
+06:40,7,TeamTheOE,201.920
+06:40,8,IWD2022,152.361
+06:40,9,lucas,162.981
+06:40,10,jogodadiscordia,35.607
+07:10,1,Gustavo,591.238
+07:10,2,WomensDay,148.799
+07:10,3,BBB22,1.295.302
+07:10,4,IWD2022,161.324
+07:10,5,8M2022,76.040
+07:10,6,Laís,290.563
+07:10,7,Viny,102.300
+07:10,8,BreakTheBias,65.743
+07:10,9,Tadeu,96.112
+07:10,10,Eliezer,85.560
+07:40,1,InternationalWomensDay,299.740
+07:40,2,Gustavo,592.597
+07:40,3,8M2022,82.602
+07:40,4,IWD2022,172.613
+07:40,5,BBB22,1.299.750
+07:40,6,BreakTheBias,70.805
+07:40,7,Viny,102.443
+07:40,8,Laís,291.563
+07:40,9,Tadeu,96.423
+07:40,10,Eliezer,85.782
+08:10,1,InternationalWomensDay,320.470
+08:10,2,8M2022,89.688
+08:10,3,IWD2022,183.983
+08:10,4,Gustavo,591.467
+08:10,5,BreakTheBias,75.291
+08:10,6,8Mart,42.670
+08:10,7,Viny,101.967
+08:10,8,Tadeu,96.435
+08:10,9,Laís,290.751
+08:10,10,下記ボタン,
+08:40,1,InternationalWomensDay,345.712
+08:40,2,IWD2022,201.616
+08:40,3,8M2022,96.986
+08:40,4,BreakTheBias,83.910
+08:40,5,8Mart,49.056
+08:40,6,Gustavo,592.296
+08:40,7,Happy International,119.472
+08:40,8,下記ボタン,
+08:40,9,応募規約,203.104
+08:40,10,Laís,290.995
+09:10,1,InternationalWomensDay,373.853
+09:10,2,IWD2022,218.125
+09:10,3,BreakTheBias,92.112
+09:10,4,8Mart,55.993
+09:10,5,8Mart,55.993
+09:10,6,Gustavo,591.101
+09:10,7,Happy International,136.736
+09:10,8,下記ボタン,
+09:10,9,応募規約,200.199
+09:10,10,Laís,290.192
+09:40,1,InternationalWomensDay,402.844
+09:40,2,IWD2022,240.194
+09:40,3,BreakTheBias,103.679
+09:40,4,8Mart,63.945
+09:40,5,8M2022,111.201
+09:40,6,Gustavo,592.121
+09:40,7,JENNIE POUR CHANEL,18.600
+09:40,8,Happy International,154.859
+09:40,9,下記ボタン,
+09:40,10,応募規約,205.778
+10:10,1,InternationalWomensDay,432.301
+10:10,2,IWD2022,262.126
+10:10,3,BreakTheBias,114.408
+10:10,4,8Mart,72.030
+10:10,5,8Mart,72.030
+10:10,6,JENNIE POUR CHANEL,86.862
+10:10,7,Gustavo,589.988
+10:10,8,Happy International,174.341
+10:10,9,下記ボタン,
+10:10,10,応募規約,203.726
+10:40,1,InternationalWomensDay,464.461
+10:40,2,IWD2022,290.682
+10:40,3,BreakTheBias,128.008
+10:40,4,8Mart,80.948
+10:40,5,8M2022,126.475
+10:40,6,JENNIE POUR CHANEL,146.831
+10:40,7,Gustavo,592.338
+10:40,8,Happy International,195.141
+10:40,9,트윙크비,
+10:40,10,下記ボタン,
+11:10,1,InternationalWomensDay,495.993
+11:10,2,IWD2022,315.491
+11:10,3,BreakTheBias,140.643
+11:10,4,8Mart,89.301
+11:10,5,8Marzo2022,49.826
+11:10,6,JENNIE POUR CHANEL,216.221
+11:10,7,Happy International,214.833
+11:10,8,트윙크비,
+11:10,9,ナイトプール,
+11:10,10,Happy IWD,14.380
+11:40,1,InternationalWomensDay,528.516
+11:40,2,IWD2022,345.135
+11:40,3,BreakTheBias,154.856
+11:40,4,8Mart,96.858
+11:40,5,8Marzo2022,55.600
+11:40,6,JENNIE POUR CHANEL,258.843
+11:40,7,雷電将軍,46.124
+11:40,8,Happy International,235.886
+11:40,9,Happy IWD,16.064
+11:40,10,ナイトプール,
+12:10,1,InternationalWomensDay,562.107
+12:10,2,IWD2022,372.024
+12:10,3,BreakTheBias,167.924
+12:10,4,8Mart,103.670
+12:10,5,8Marzo2022,61.428
+12:10,6,JENNIE POUR CHANEL,300.712
+12:10,7,雷電将軍,47.726
+12:10,8,HesIntoHerS2 NewLook,20.665
+12:10,9,Happy International,255.654
+12:10,10,Mulheres,223.159
+12:40,1,InternationalWomensDay,596.511
+12:40,2,IWD2022,402.188
+12:40,3,BreakTheBias,181.622
+12:40,4,8Mart,110.499
+12:40,5,8Marzo2022,68.776
+12:40,6,雷電将軍,51.299
+12:40,7,パプアニューギニア,24.921
+12:40,8,JENNIE POUR CHANEL,329.368
+12:40,9,HesIntoHerS2 NewLook,32.235
+12:40,10,Happy International,276.304
+13:10,1,InternationalWomensDay,628.521
+13:10,2,IWD2022,427.472
+13:10,3,BreakTheBias,193.190
+13:10,4,DiaInternacionalDeLaMujer,74.078
+13:10,5,8Marzo2022,76.669
+13:10,6,パプアニューギニア,34.611
+13:10,7,雷電将軍,52.062
+13:10,8,JENNIE POUR CHANEL,361.227
+13:10,9,大規模噴火,24.997
+13:10,10,HesIntoHerS2 NewLook,37.053
+13:40,1,InternationalWomensDay,665.059
+13:40,2,IWD2022,458.700
+13:40,3,BreakTheBias,207.549
+13:40,4,DiaInternacionalDeLaMujer,84.528
+13:40,5,8Marzo2022,85.637
+13:40,6,パプアニューギニア,40.575
+13:40,7,雷電将軍,55.072
+13:40,8,Bercow,11.816
+13:40,9,大規模噴火,29.386
+13:40,10,JENNIE POUR CHANEL,387.757
+14:10,1,InternationalWomensDay,693.818
+14:10,2,IWD2022,482.467
+14:10,3,BreakTheBias,219.146
+14:10,4,DiaInternacionalDeLaMujer,96.930
+14:10,5,8Marzo2022,95.758
+14:10,6,パプアニューギニア,45.254
+14:10,7,雷電将軍,55.359
+14:10,8,Bercow,15.690
+14:10,9,どらどらちゃん,
+14:10,10,JENNIE POUR CHANEL,411.126
+14:40,1,InternationalWomensDay,733.356
+14:40,2,IWD2022,512.759
+14:40,3,BreakTheBias,233.431
+14:40,4,DiaInternacionalDeLaMujer,115.360
+14:40,5,8Marzo2022,107.921
+14:40,6,パプアニューギニア,48.306
+14:40,7,Bercow,19.684
+14:40,8,雷電将軍,57.568
+14:40,9,どらどらちゃん,14.049
+14:40,10,Min Yoongi,42.214
+15:10,1,InternationalWomensDay,782.730
+15:10,2,IWD2022,542.204
+15:10,3,DiaInternacionalDeLaMujer,136.997
+15:10,4,BreakTheBias,246.835
+15:10,5,HappyBirthdaySUGA,100.812
+15:10,6,Min Yoongi,57.734
+15:10,7,Bercow,22.974
+15:10,8,どらどらちゃん,19.643
+15:10,9,パプアニューギニア,50.572
+15:10,10,キャラの28歳,
+15:40,1,InternationalWomensDay,826.223
+15:40,2,HappyBirthdaySUGA,215.984
+15:40,3,IWD2022,575.251
+15:40,4,DiaInternacionalDeLaMujer,158.450
+15:40,5,BreakTheBias,260.539
+15:40,6,Happy Birthday Taeyeon,14.951
+15:40,7,Bercow,25.947
+15:40,8,どらどらちゃん,23.221
+15:40,9,キャラの28歳,
+15:40,10,雷電将軍,59.459
+16:10,1,HappyBirthdaySUGA,382.735
+16:10,2,InternationalWomensDay,872.442
+16:10,3,HappyBirthdayYoongi,131.001
+16:10,4,IWD2022,603.876
+16:10,5,DiaInternacionalDeLaMujer,178.469
+16:10,6,HALSEY,23.602
+16:10,7,Mulheres,442.998
+16:10,8,Happy Birthday Taeyeon,27.518
+16:10,9,ユンギさん,12.369
+16:10,10,Wordle 263,
+16:40,1,HappyBirthdaySUGA,514.258
+16:40,2,HappyBirthdayYoongi,188.068
+16:40,3,InternationalWomensDay,913.703
+16:40,4,halsey,81.270
+16:40,5,IWD2022,635.705
+16:40,6,DiaInternacionalDeLaMujer,196.793
+16:40,7,Wordle 263,
+16:40,8,ユンギさん,15.591
+16:40,9,Mulheres,475.247
+16:40,10,Happy Birthday Taeyeon,36.272
+17:10,1,HappyBirthdaySUGA,583.774
+17:10,2,HappyBirthdayYoongi,216.062
+17:10,3,InternationalWomensDay,972.156
+17:10,4,halsey,109.509
+17:10,5,IWD2022,666.940
+17:10,6,DiaInternacionalDeLaMujer,214.434
+17:10,7,Wordle 263,
+17:10,8,第47回,
+17:10,9,ユンギさん,17.068
+17:10,10,Mulheres,505.811
+17:40,1,HappyBirthdaySUGA,631.452
+17:40,2,HappyBirthdayYoongi,234.287
+17:40,3,InternationalWomensDay,1.022.642
+17:40,4,halsey,127.272
+17:40,5,IWD2022,701.828
+17:40,6,DiaInternacionalDeLaMujer,230.545
+17:40,7,Jordan Love,
+17:40,8,Wordle 263,11.582
+17:40,9,第47回,
+17:40,10,Aaron Rodgers,21.703
+18:10,1,HappyBirthdaySUGA,665.951
+18:10,2,InternationalWomensDay,1.070.247
+18:10,3,HappyBirthdayYoongi,247.690
+18:10,4,halsey,140.892
+18:10,5,IWD2022,737.538
+18:10,6,Jordan Love,
+18:10,7,8Marzo2022,208.813
+18:10,8,Aaron Rodgers,39.918
+18:10,9,Packers,44.599
+18:10,10,Green Bay,13.050
+18:40,1,HappyBirthdaySUGA,846.468
+18:40,2,InternationalWomensDay,1.115.863
+18:40,3,HappyBirthdayYoongi,258.570
+18:40,4,IWD2022,768.656
+18:40,5,halsey,153.446
+18:40,6,Aaron Rodgers,49.071
+18:40,7,Jordan Love,12.659
+18:40,8,8Marzo2022,223.984
+18:40,9,Packers,54.524
+18:40,10,Green Bay,16.325
+19:10,1,HappyBirthdaySUGA,907.783
+19:10,2,InternationalWomensDay,1.158.861
+19:10,3,AppleEvent,55.963
+19:10,4,HappyBirthdayYoongi,266.815
+19:10,5,IWD2022,797.926
+19:10,6,Aaron Rodgers,54.545
+19:10,7,Jordan Love,14.565
+19:10,8,halsey,162.480
+19:10,9,Packers,59.785
+19:10,10,Green Bay,17.869
+19:40,1,Spotify,990.432
+19:40,2,AppleEvent,123.490
+19:40,3,HappyBirthdaySUGA,949.361
+19:40,4,InternationalWomensDay,1.201.756
+19:40,5,HappyBirthdayYoongi,274.448
+19:40,6,M1 Ultra,16.376
+19:40,7,IWD2022,826.693
+19:40,8,Aaron Rodgers,58.906
+19:40,9,Jordan Love,15.843
+19:40,10,Halsey,169.472
+20:10,1,Spotify,1.319.021
+20:10,2,AppleEvent,171.167
+20:10,3,InternationalWomensDay,1.237.870
+20:10,4,Broncos,80.666
+20:10,5,HappyBirthdaySUGA,973.996
+20:10,6,Seahawks,52.595
+20:10,7,M1 Ultra,27.613
+20:10,8,Rodgers,91.526
+20:10,9,Mac Studio,24.054
+20:10,10,HappyBirthdayYoongi,278.897
+20:40,1,Spotify,1.460.952
+20:40,2,AppleEvent,187.648
+20:40,3,Broncos,111.024
+20:40,4,InternationalWomensDay,1.274.782
+20:40,5,Seahawks,78.115
+20:40,6,HappyBirthdaySUGA,996.832
+20:40,7,Seattle,72.730
+20:40,8,الهلال_الاتحاد,310.159
+20:40,9,Rodgers,99.496
+20:40,10,AFC West,14.086
+21:10,1,Spotify,1.430.187
+21:10,2,Broncos,125.103
+21:10,3,AppleEvent,195.244
+21:10,4,InternationalWomensDay,1.308.316
+21:10,5,Seahawks,90.349
+21:10,6,الهلال_الاتحاد,333.016
+21:10,7,Seattle,82.597
+21:10,8,HappyBirthdaySUGA,1.013.623
+21:10,9,Rodgers,104.364
+21:10,10,AFC West,16.705
+21:40,1,Spotify,1.518.337
+21:40,2,Broncos,135.089
+21:40,3,Russell Wilson,114.851
+21:40,4,InternationalWomensDay,1.341.098
+21:40,5,AppleEvent,200.896
+21:40,6,Seahawks,110.343
+21:40,7,Lewandowski,32.532
+21:40,8,الهلال_الاتحاد,359.660
+21:40,9,Seattle,89.285
+21:40,10,Denver,113.255
+22:10,1,Spotify,1.428.772
+22:10,2,Broncos,142.798
+22:10,3,InternationalWomensDay,1.368.559
+22:10,4,Russell Wilson,122.374
+22:10,5,AppleEvent,205.129
+22:10,6,Lewandowski,45.965
+22:10,7,Seahawks,126.988
+22:10,8,Seattle,93.217
+22:10,9,Denver,116.864
+22:10,10,Bayern,75.549
+22:40,1,Spotify,1.421.809
+22:40,2,Lautaro,29.657
+22:40,3,Broncos,148.860
+22:40,4,InternationalWomensDay,1.398.736
+22:40,5,Russell Wilson,128.147
+22:40,6,LIVINT,35.266
+22:40,7,Alexis,34.343
+22:40,8,Seattle,97.061
+22:40,9,Seahawks,137.993
+22:40,10,Bayern,82.844
+23:10,1,Spotify,1.297.196
+23:10,2,Lautaro,36.395
+23:10,3,Bayern,104.559
+23:10,4,Liverpool,148.448
+23:10,5,LIVINT,37.876
+23:10,6,InternationalWomensDay,1.424.334
+23:10,7,Broncos,152.473
+23:10,8,Vidal,21.938
+23:10,9,Russell Wilson,132.247
+23:10,10,Alexis,37.665
+23:40,1,Spotify,1.346.276
+23:40,2,Bayern,113.711
+23:40,3,Lautaro,40.166
+23:40,4,Liverpool,158.135
+23:40,5,InternationalWomensDay,1.418.398
+23:40,6,LIVINT,38.714
+23:40,7,Broncos,156.808
+23:40,8,Vidal,24.175
+23:40,9,Russell Wilson,136.822
+23:40,10,Anfield,33.844

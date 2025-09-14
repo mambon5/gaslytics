@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Friday the 13th,269.219
+00:10,2,isola,12.280
+00:10,3,Bellator281,
+00:10,4,MaskSinger,
+00:10,5,AEWRampage,
+00:10,6,FreeCodeFridayContest,
+00:10,7,Willie Collum,
+00:10,8,Saints,48.312
+00:10,9,Israel,419.158
+00:10,10,Arbroath,
+00:40,1,deprem,10.296
+00:40,2,isola,15.839
+00:40,3,Bellator281,10.492
+00:40,4,Friday the 13th,275.814
+00:40,5,AEWRampage,10.240
+00:40,6,MaskSinger,
+00:40,7,Saints,50.818
+00:40,8,Israel,431.480
+00:40,9,Willie Collum,
+00:40,10,Arbroath,
+01:10,1,deprem,11.099
+01:10,2,isola,18.548
+01:10,3,Bellator281,11.177
+01:10,4,Friday the 13th,278.720
+01:10,5,AEWRampage,10.829
+01:10,6,FluffyFunko,
+01:10,7,Israel,434.276
+01:10,8,Saints,51.299
+01:10,9,velez,11.419
+01:10,10,Willie Collum,
+01:40,1,deprem,11.521
+01:40,2,isola,19.946
+01:40,3,Friday the 13th,285.219
+01:40,4,Bellator281,11.525
+01:40,5,FluffyFunko,
+01:40,6,HighestSecurityForIK,14.693
+01:40,7,Israel,444.636
+01:40,8,velez,13.048
+01:40,9,レトさん復活,
+01:40,10,ESTOU COM LULA,13.251
+02:10,1,deprem,11.725
+02:10,2,FluffyFunko,
+02:10,3,HighestSecurityForIK,44.924
+02:10,4,LosCruzados,
+02:10,5,isola,20.131
+02:10,6,Friday the 13th,287.338
+02:10,7,レトさん復活,
+02:10,8,ESTOU COM LULA,15.813
+02:10,9,Israel,446.683
+02:10,10,Zé Neto,
+02:40,1,SmackDown,
+02:40,2,FluffyFunko,
+02:40,3,HighestSecurityForIK,57.775
+02:40,4,deprem,11.946
+02:40,5,LosCruzados,
+02:40,6,Friday the 13th,293.577
+02:40,7,レトさん復活,
+02:40,8,Zé Neto,
+02:40,9,ESTOU COM LULA,17.720
+02:40,10,Stanton,13.376
+03:10,1,SmackDown,15.019
+03:10,2,ダイの大冒険,
+03:10,3,TheLastDriveIn,
+03:10,4,FluffyFunko,
+03:10,5,HighestSecurityForIK,65.980
+03:10,6,レトさん復活,
+03:10,7,Friday the 13th,295.268
+03:10,8,Malkin,
+03:10,9,Zé Neto,10.491
+03:10,10,Derrick White,
+03:40,1,SmackDown,20.542
+03:40,2,ワルイコあつまれ,11.675
+03:40,3,TheLastDriveIn,
+03:40,4,ずっとJUMPもっとJUMP,15.285
+03:40,5,ダイの大冒険,11.119
+03:40,6,Grayson Allen,
+03:40,7,レトさん復活,
+03:40,8,Friday the 13th,300.750
+03:40,9,Zé Neto,13.091
+03:40,10,poze,10.786
+04:10,1,Tatum,63.854
+04:10,2,Celtics,69.782
+04:10,3,SmackDown,27.123
+04:10,4,NoQuitInNY,
+04:10,5,ワルイコあつまれ,17.036
+04:10,6,George Hill,
+04:10,7,ずっとJUMPもっとJUMP,24.727
+04:10,8,TheLastDriveIn,
+04:10,9,Game 7,111.673
+04:10,10,レトさん復活,
+04:40,1,Tatum,93.524
+04:40,2,Celtics,95.091
+04:40,3,Game 7,
+04:40,4,ずっとJUMPもっとJUMP,35.353
+04:40,5,George Hill,
+04:40,6,SmackDown,29.033
+04:40,7,BleedGreen,
+04:40,8,TheLastDriveIn,
+04:40,9,NoQuitInNY,
+04:40,10,Zé Neto,18.289
+05:10,1,Tatum,100.554
+05:10,2,Klay,31.818
+05:10,3,Celtics,101.072
+05:10,4,PULLUPwithMarkTuan,267.626
+05:10,5,ずっとJUMPもっとJUMP,43.301
+05:10,6,George Hill,
+05:10,7,TheLastDriveIn,10.982
+05:10,8,TimeToHunt,
+05:10,9,SmackDown,30.186
+05:10,10,Panthers,25.851
+05:40,1,Tatum,104.809
+05:40,2,Klay,34.345
+05:40,3,PULLUPwithMarkTuan,304.404
+05:40,4,Celtics,106.162
+05:40,5,Brooks,32.646
+05:40,6,ずっとJUMPもっとJUMP,50.756
+05:40,7,TheLastDriveIn,12.803
+05:40,8,TimeToHunt,
+05:40,9,PUBGMエヴァコラボ始動,
+05:40,10,Panthers,27.574
+06:10,1,Klay,44.235
+06:10,2,Tatum,107.010
+06:10,3,PULLUPwithMarkTuan,334.112
+06:10,4,Dillon Brooks,
+06:10,5,Celtics,108.227
+06:10,6,Celtics,108.227
+06:10,7,ずっとJUMPもっとJUMP,56.777
+06:10,8,PUBGMエヴァコラボ始動,
+06:10,9,TheLastDriveIn,14.153
+06:10,10,MEMvsGSW,
+06:40,1,Klay,59.400
+06:40,2,Tatum,108.985
+06:40,3,PULLUPwithMarkTuan,362.052
+06:40,4,Curry,51.997
+06:40,5,Looney,22.353
+06:40,6,Dillon Brooks,14.134
+06:40,7,Steph,42.549
+06:40,8,Wiggins,13.640
+06:40,9,DubNation,
+06:40,10,Celtics,110.540
+07:10,1,Klay,80.056
+07:10,2,MyBTSTracks,110.859
+07:10,3,Warriors,197.174
+07:10,4,PULLUPwithMarkTuan,382.275
+07:10,5,Tatum,110.893
+07:10,6,Looney,32.720
+07:10,7,Curry,60.567
+07:10,8,DubNation,13.154
+07:10,9,Dillon Brooks,15.800
+07:10,10,Giannis,90.827
+07:40,1,MyBTSTracks,218.447
+07:40,2,Klay,87.026
+07:40,3,LOUDER THAN BOMBS,45.422
+07:40,4,Warriors,215.163
+07:40,5,PULLUPwithMarkTuan,413.010
+07:40,6,DubNation,14.234
+07:40,7,Looney,37.451
+07:40,8,Curry,64.369
+07:40,9,Tatum,112.226
+07:40,10,Wiggins,21.693
+08:10,1,MyBTSTracks,284.530
+08:10,2,Klay,91.566
+08:10,3,LOUDER THAN BOMBS,83.031
+08:10,4,Warriors,221.823
+08:10,5,PULLUPwithMarkTuan,439.323
+08:10,6,Lil Keed,19.211
+08:10,7,DubNation,14.780
+08:10,8,Looney,39.390
+08:10,9,Curry,65.371
+08:10,10,Tatum,113.295
+08:40,1,MyBTSTracks,339.183
+08:40,2,LOUDER THAN BOMBS,105.328
+08:40,3,Klay,94.709
+08:40,4,Lil Keed,35.085
+08:40,5,PULLUPwithMarkTuan,459.073
+08:40,6,Warriors,230.000
+08:40,7,メトロックジャニーズWEST,10.468
+08:40,8,DubNation,15.238
+08:40,9,Looney,40.711
+08:40,10,バンナムフェス2nd_day1,11.937
+09:10,1,MyBTSTracks,371.166
+09:10,2,LOUDER THAN BOMBS,121.649
+09:10,3,Klay,96.842
+09:10,4,メイケイエール,27.077
+09:10,5,Keed,59.177
+09:10,6,PULLUPwithMarkTuan,473.255
+09:10,7,Warriors,233.488
+09:10,8,バンナムフェス2nd_day1,17.642
+09:10,9,メトロックジャニーズWEST,12.501
+09:10,10,DubNation,15.545
+09:40,1,MyBTSTracks,401.060
+09:40,2,LOUDER THAN BOMBS,132.861
+09:40,3,メイケイエール,35.485
+09:40,4,Lil Keed,51.157
+09:40,5,Klay,98.838
+09:40,6,メトロックジャニーズWEST,16.427
+09:40,7,バンナムフェス2nd_day1,23.636
+09:40,8,PULLUPwithMarkTuan,487.185
+09:40,9,Warriors,238.412
+09:40,10,相撲愛テレビ,
+10:10,1,MyBTSTracks,422.386
+10:10,2,LOUDER THAN BOMBS,142.018
+10:10,3,メイケイエール,40.999
+10:10,4,Lil Keed,56.085
+10:10,5,メトロックジャニーズWEST,20.252
+10:10,6,Klay,100.044
+10:10,7,おりほー,
+10:10,8,バンナムフェス2nd_day1,30.276
+10:10,9,乃木坂10thバスラDay1,10.861
+10:10,10,相撲愛テレビ,
+10:40,1,MyBTSTracks,446.685
+10:40,2,LOUDER THAN BOMBS,150.278
+10:40,3,Lil Keed,60.383
+10:40,4,メイケイエール,45.143
+10:40,5,メトロックジャニーズWEST,22.627
+10:40,6,乃木坂10thバスラDay1,15.088
+10:40,7,おりほー,
+10:40,8,バンナムフェス2nd_day1,36.932
+10:40,9,相撲愛テレビ,
+10:40,10,Klay,101.396
+11:10,1,MyBTSTracks,463.305
+11:10,2,LOUDER THAN BOMBS,158.031
+11:10,3,乃木坂10thバスラDay1,20.768
+11:10,4,Lil Keed,64.008
+11:10,5,メイケイエール,48.449
+11:10,6,メトロックジャニーズWEST,24.537
+11:10,7,相撲愛テレビ,
+11:10,8,生駒ちゃん,
+11:10,9,バンナムフェス2nd_day1,42.594
+11:10,10,おりほー,
+11:40,1,MyBTSTracks,481.197
+11:40,2,LOUDER THAN BOMBS,164.923
+11:40,3,廻人ノ間,10.201
+11:40,4,dreamchat,
+11:40,5,乃木坂10thバスラDay1,25.441
+11:40,6,生駒ちゃん,
+11:40,7,CathyDollPrivateXBrightWin,50.691
+11:40,8,Lil Keed,67.309
+11:40,9,メイケイエール,51.360
+11:40,10,DONBELLE IN CLOVERLEAF,238.056
+12:10,1,MyBTSTracks,492.961
+12:10,2,dreamchat,
+12:10,3,廻人ノ間,27.774
+12:10,4,LOUDER THAN BOMBS,171.382
+12:10,5,CathyDollPrivateXBrightWin,104.086
+12:10,6,乃木坂10thバスラDay1,29.948
+12:10,7,生駒ちゃん,
+12:10,8,Lil Keed,70.667
+12:10,9,メイケイエール,53.519
+12:10,10,DONBELLE IN CLOVERLEAF,254.382
+12:40,1,MyBTSTracks,512.034
+12:40,2,dreamchat,17.107
+12:40,3,廻人ノ間,48.733
+12:40,4,LOUDER THAN BOMBS,179.585
+12:40,5,CathyDollPrivateXBrightWin,143.833
+12:40,6,乃木坂10thバスラDay1,35.225
+12:40,7,生駒ちゃん,
+12:40,8,Lil Keed,74.153
+12:40,9,DONBELLE IN CLOVERLEAF,266.584
+12:40,10,メイケイエール,55.337
+13:10,1,MyBTSTracks,524.817
+13:10,2,dreamchat,22.928
+13:10,3,廻人ノ間,58.538
+13:10,4,LOUDER THAN BOMBS,187.070
+13:10,5,CathyDollPrivateXBrightWin,185.199
+13:10,6,KCON2022Premiere,112.450
+13:10,7,生駒ちゃん,
+13:10,8,Lil Keed,77.986
+13:10,9,発見の骨,
+13:10,10,DONBELLE IN CLOVERLEAF,283.071
+13:40,1,MyBTSTracks,543.696
+13:40,2,dreamchat,30.872
+13:40,3,ガルステ,27.114
+13:40,4,CathyDollPrivateXBrightWin,276.521
+13:40,5,待てムリ,19.836
+13:40,6,LOUDER THAN BOMBS,196.365
+13:40,7,生駒ちゃん,11.134
+13:40,8,Lil Keed,82.459
+13:40,9,misono,
+13:40,10,発見の骨,11.267
+14:10,1,MyBTSTracks,559.219
+14:10,2,dreamchat,35.156
+14:10,3,バンナムフェス2nd_day1,101.641
+14:10,4,Lovemusic,
+14:10,5,乃木坂10thバスラDay1,50.940
+14:10,6,LOUDER THAN BOMBS,207.022
+14:10,7,生駒ちゃん,13.901
+14:10,8,CAT LOVER LEADER TENLEE,32.913
+14:10,9,misono,10.045
+14:10,10,GOIN,24.269
+14:40,1,MyBTSTracks,580.679
+14:40,2,dreamchat,39.357
+14:40,3,乃木坂10thバスラDay1,54.321
+14:40,4,Lovemusic,
+14:40,5,KCON2022Premiere,149.486
+14:40,6,LOUDER THAN BOMBS,220.027
+14:40,7,生駒ちゃん,16.242
+14:40,8,CAT LOVER LEADER TENLEE,57.865
+14:40,9,misono,11.284
+14:40,10,Lil Keed,92.699
+15:10,1,虹ヶ咲,83.912
+15:10,2,MyBTSTracks,602.103
+15:10,3,dreamchat,43.255
+15:10,4,乃木坂10thバスラDay1,57.312
+15:10,5,KCON2022Premiere,165.719
+15:10,6,Abbie,
+15:10,7,LOUDER THAN BOMBS,234.981
+15:10,8,生駒ちゃん,18.259
+15:10,9,チャリTシャツ,18.895
+15:10,10,CAT LOVER LEADER TENLEE,76.554
+15:40,1,虹ヶ咲,127.583
+15:40,2,MyBTSTracks,624.144
+15:40,3,dreamchat,51.581
+15:40,4,Abbie,
+15:40,5,乃木坂10thバスラDay1,59.906
+15:40,6,KCON2022Premiere,194.927
+15:40,7,LOUDER THAN BOMBS,249.404
+15:40,8,生駒ちゃん,20.035
+15:40,9,チャリTシャツ,22.717
+15:40,10,CAT LOVER LEADER TENLEE,94.847
+16:10,1,虹ヶ咲,140.495
+16:10,2,Abbie,
+16:10,3,MyBTSTracks,642.033
+16:10,4,dreamchat,60.085
+16:10,5,乃木坂10thバスラDay1,62.179
+16:10,6,kcon2022premiere,219.207
+16:10,7,LOUDER THAN BOMBS,261.925
+16:10,8,生駒ちゃん,21.893
+16:10,9,チャリTシャツ,25.086
+16:10,10,Keed,143.563
+16:40,1,虹ヶ咲,148.636
+16:40,2,Venue101,25.183
+16:40,3,Abbie,
+16:40,4,SixTONESANN,23.404
+16:40,5,dreamchat,67.842
+16:40,6,MyBTSTracks,663.400
+16:40,7,Chan,293.502
+16:40,8,YOSHI ROCKING AT 22,98.332
+16:40,9,LOUDER THAN BOMBS,275.905
+16:40,10,生駒ちゃん,23.404
+17:10,1,OurTigerYoshiDay,169.065
+17:10,2,才能と愛嬌のギャップ王子ヨシ誕生祭,166.453
+17:10,3,호빵같이_따끈한_요시가_찾아왔어,171.624
+17:10,4,SixTONESANN,57.618
+17:10,5,CutiePieFinalEP,189.516
+17:10,6,Abbie,
+17:10,7,Chan,297.589
+17:10,8,LOUDER THAN BOMBS,289.110
+17:10,9,生駒ちゃん,24.677
+17:10,10,GOT7 IS THEIR NAME,28.834
+17:40,1,OurTigerYoshiDay,218.831
+17:40,2,才能と愛嬌のギャップ王子ヨシ誕生祭,214.233
+17:40,3,호빵같이_따끈한_요시가_찾아왔어,221.942
+17:40,4,CutiePieFinalEP,421.484
+17:40,5,GetReadyForGOT7,91.358
+17:40,6,Abbie,
+17:40,7,GOT7 IS THEIR NAME,72.075
+17:40,8,Chan,311.276
+17:40,9,LOUDER THAN BOMBS,299.144
+17:40,10,洋服の青山,
+18:10,1,FACupFinal,67.597
+18:10,2,Chelsea,216.017
+18:10,3,OurTigerYoshiDay,245.327
+18:10,4,CHELIV,56.540
+18:10,5,才能と愛嬌のギャップ王子ヨシ誕生祭,238.735
+18:10,6,호빵같이_따끈한_요시가_찾아왔어,247.670
+18:10,7,Chalobah,
+18:10,8,Abbie,
+18:10,9,Pulisic,
+18:10,10,Trent,20.074
+18:40,1,FACupFinal,85.148
+18:40,2,Chelsea,249.825
+18:40,3,KinnPorscheEP6,484.961
+18:40,4,CHELIV,76.979
+18:40,5,Pulisic,16.740
+18:40,6,OurTigerYoshiDay,259.004
+18:40,7,CutiePieFinalEP,845.867
+18:40,8,Lukaku,31.097
+18:40,9,Abbie,
+18:40,10,Chalobah,
+19:10,1,FACupFinal,95.667
+19:10,2,Chelsea,266.677
+19:10,3,KinnPorscheEP6,763.405
+19:10,4,CHELIV,90.282
+19:10,5,Pulisic,20.591
+19:10,6,CutiePieFinalEP,1.071.290
+19:10,7,OurTigerYoshiDay,267.204
+19:10,8,Lukaku,33.742
+19:10,9,Diaz,83.167
+19:10,10,Alonso,24.724
+19:40,1,FACupFinal,107.371
+19:40,2,Chelsea,287.418
+19:40,3,KinnPorscheEP6,993.431
+19:40,4,CHELIV,104.068
+19:40,5,Pulisic,25.965
+19:40,6,Diaz,92.945
+19:40,7,CutiePieFinalEP,1.246.133
+19:40,8,Lukaku,37.523
+19:40,9,OurTigerYoshiDay,271.708
+19:40,10,Milner,
+20:10,1,FACupFinal,118.127
+20:10,2,Chelsea,303.155
+20:10,3,CHELIV,117.157
+20:10,4,KinnPorscheEP6,1.160.014
+20:10,5,Pulisic,31.453
+20:10,6,Diaz,98.405
+20:10,7,CutiePieFinalEP,1.376.519
+20:10,8,Lukaku,38.250
+20:10,9,OurTigerYoshiDay,274.433
+20:10,10,Milner,
+20:40,1,FACupFinal,138.346
+20:40,2,Liverpool,332.347
+20:40,3,Chelsea,348.398
+20:40,4,CHELIV,134.258
+20:40,5,Mendy,34.048
+20:40,6,KinnPorscheEP6,1.307.480
+20:40,7,Pulisic,32.821
+20:40,8,YNWA,17.281
+20:40,9,Tuchel,48.827
+20:40,10,LIVCHE,14.447
+21:10,1,Liverpool,388.464
+21:10,2,FACupFinal,141.574
+21:10,3,Eurovision,262.163
+21:10,4,Chelsea,377.747
+21:10,5,CHELIV,127.682
+21:10,6,YNWA,26.352
+21:10,7,Mendy,37.906
+21:10,8,KinnPorscheEP6,1.393.365
+21:10,9,Tuchel,58.436
+21:10,10,Pulisic,36.336
+21:40,1,Eurovision,508.672
+21:40,2,Liverpool,416.493
+21:40,3,FACupFinal,144.615
+21:40,4,Chelsea,394.382
+21:40,5,ESC2022,82.811
+21:40,6,The Rasmus,14.991
+21:40,7,Portugal,51.782
+21:40,8,LittleMixLastShow,32.238
+21:40,9,CHELIV,127.390
+21:40,10,Romania,19.493
+22:10,1,Eurovision,905.406
+22:10,2,ESC2022,144.541
+22:10,3,Liverpool,432.707
+22:10,4,FACupFinal,145.590
+22:10,5,Chelsea,400.720
+22:10,6,Norway,39.554
+22:10,7,Chanel,148.045
+22:10,8,The Rasmus,16.654
+22:10,9,Armenia,29.953
+22:10,10,Spain,78.403
+22:40,1,Eurovision,1.297.650
+22:40,2,ESC2022,212.846
+22:40,3,Liverpool,449.176
+22:40,4,FACupFinal,147.705
+22:40,5,Norway,42.672
+22:40,6,Chelsea,409.418
+22:40,7,Spain,93.419
+22:40,8,Arão,20.017
+22:40,9,LittleMixLastShow,45.450
+22:40,10,Armenia,32.286
+23:10,1,Eurovision,1.665.779
+23:10,2,ESC2022,277.580
+23:10,3,Moldova,45.694
+23:10,4,Moldavia,36.289
+23:10,5,Liverpool,458.909
+23:10,6,Norway,44.008
+23:10,7,Spain,98.443
+23:10,8,FACupFinal,149.000
+23:10,9,AMVCA8,99.774
+23:10,10,Laura Pausini,23.846
+23:40,1,Eurovision,1.961.524
+23:40,2,ESC2022,332.938
+23:40,3,Moldova,58.535
+23:40,4,Hugo,70.917
+23:40,5,Serbia,62.922
+23:40,6,Spain,114.712
+23:40,7,Chanel,258.417
+23:40,8,Norway,51.924
+23:40,9,Moldavia,43.258
+23:40,10,España,282.247

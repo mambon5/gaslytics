@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,GERENG,32.752
+00:10,2,APCPresidentialPrimaries,81.404
+00:10,3,SalarioRosaVaPorMas,29.401
+00:10,4,APCPrimaries,47.682
+00:10,5,ESQUEMAS,29.796
+00:10,6,Southgate,21.527
+00:10,7,Tunde Bakare,15.282
+00:10,8,Tinubu,163.302
+00:10,9,Davide,44.710
+00:10,10,Copa do Brasil,43.359
+00:40,1,APCPrimaries,62.554
+00:40,2,APCPresidentialPrimaries,94.411
+00:40,3,GERENG,32.968
+00:40,4,SalarioRosaVePorMas,31.752
+00:40,5,Rochas,17.970
+00:40,6,ESQUEMAS,31.711
+00:40,7,Tunde Bakare,19.005
+00:40,8,Tinubu,176.828
+00:40,9,Amaechi,28.221
+00:40,10,Jack Rich,
+01:10,1,APCPrimaries,77.280
+01:10,2,APCPresidentialPrimaries,106.282
+01:10,3,Figueiredo,10.800
+01:10,4,SalarioRosaVePorMas,32.392
+01:10,5,GERENG,32.922
+01:10,6,Rochas,19.594
+01:10,7,ESQUEMAS,33.598
+01:10,8,Tinubu,186.881
+01:10,9,Buhari,88.387
+01:10,10,Andrey,
+01:40,1,APCPrimaries,90.485
+01:40,2,APCPresidentialPrimaries,117.148
+01:40,3,Figueiredo,12.512
+01:40,4,Rochas,20.497
+01:40,5,SalarioRosaVePorMas,32.926
+01:40,6,Buhari,95.954
+01:40,7,Tinubu,197.778
+01:40,8,GERENG,32.988
+01:40,9,TierraDeNadie6,15.109
+01:40,10,Andrey,
+02:10,1,APCPrimaries,98.122
+02:10,2,APCPresidentialPrimaries,122.519
+02:10,3,Figueiredo,16.117
+02:10,4,Andrey,12.004
+02:10,5,Buhari,101.994
+02:10,6,Tinubu,204.215
+02:10,7,SalarioRosaVePorMas,33.401
+02:10,8,TierraDeNadie6,16.085
+02:10,9,ESQUEMAS,35.840
+02:10,10,Matthew McConaughey,171.167
+02:40,1,-,
+02:40,2,-,
+02:40,3,-,
+02:40,4,-,
+02:40,5,-,
+02:40,6,-,
+02:40,7,-,
+02:40,8,-,
+02:40,9,-,
+02:40,10,-,
+03:10,1,HOBI,163.070
+03:10,2,HOSEOK,144.075
+03:10,3,JHOPE,183.225
+03:10,4,APCPrimaries,104.610
+03:10,5,APCPresidentialPrimaries,127.178
+03:10,6,Figueiredo,18.605
+03:10,7,Andrey,14.095
+03:10,8,Buhari,105.988
+03:10,9,Tinubu,211.231
+03:10,10,TierraDeNadie6,16.584
+03:40,1,hobi,201.134
+03:40,2,HOSEOK,171.325
+03:40,3,JHOPE,218.582
+03:40,4,APCPrimaries,106.269
+03:40,5,Figueiredo,19.062
+03:40,6,APCPresidentialPrimaries,128.420
+03:40,7,Corinthians,71.820
+03:40,8,Robson Bambu,
+03:40,9,고인의 명복,
+03:40,10,Bruno Melo,
+04:10,1,hobi,220.967
+04:10,2,HOSEOK,188.989
+04:10,3,JHOPE,243.130
+04:10,4,APCPrimaries,107.572
+04:10,5,Corinthians,75.630
+04:10,6,APCPresidentialPrimaries,129.198
+04:10,7,Figueiredo,19.323
+04:10,8,LaVozArgentina,16.862
+04:10,9,Cuiabá,10.816
+04:10,10,祝BetrayalGame_MV10M,
+04:40,1,hobi,238.213
+04:40,2,HOSEOK,204.795
+04:40,3,Corinthians,89.985
+04:40,4,JHOPE,265.800
+04:40,5,NoLimite,
+04:40,6,Cuiabá,14.576
+04:40,7,SalarioRosaVaPorMas,40.522
+04:40,8,APCPrimaries,108.926
+04:40,9,MasterChefBR,
+04:40,10,MasterChefCelebritycolombia,
+05:10,1,hobi,250.241
+05:10,2,NoLimite,13.918
+05:10,3,HOSEOK,213.716
+05:10,4,Corinthians,94.561
+05:10,5,JHOPE,283.359
+05:10,6,SalarioRosaVaPorMas,44.939
+05:10,7,Cuiabá,15.695
+05:10,8,MasterChefBR,
+05:10,9,祝BetrayalGame_MV10M,15.008
+05:10,10,APCPrimaries,110.085
+05:40,1,hobi,261.733
+05:40,2,NoLimite,14.649
+05:40,3,Corinthians,97.315
+05:40,4,SalarioRosaVaPorMas,47.339
+05:40,5,hoseok,225.016
+05:40,6,JHOPE,300.734
+05:40,7,Cuiabá,16.503
+05:40,8,MasterChefBR,
+05:40,9,ranboospace,
+05:40,10,祝BetrayalGame_MV10M,18.228
+06:10,1,hobi,270.606
+06:10,2,NoLimite,14.872
+06:10,3,SalarioRosaVaPorMas,48.781
+06:10,4,Corinthians,98.178
+06:10,5,hoseok,232.877
+06:10,6,JHOPE,313.532
+06:10,7,Cuiabá,16.824
+06:10,8,MasterChefBR,
+06:10,9,ranboospace,
+06:10,10,祝BetrayalGame_MV10M,20.665
+06:40,1,hobi,280.881
+06:40,2,NoLimite,15.084
+06:40,3,SalarioRosaVaPorMas,49.632
+06:40,4,Corinthians,99.062
+06:40,5,hoseok,240.267
+06:40,6,jhope,326.367
+06:40,7,Cuiabá,17.068
+06:40,8,ranboospace,
+06:40,9,MasterChefBR,
+06:40,10,ローソンUSJご招待,14.635
+07:10,1,hobi,289.243
+07:10,2,SalarioRosaVaPorMas,50.010
+07:10,3,NoLimite,15.225
+07:10,4,Corinthians,99.198
+07:10,5,hoseok,246.337
+07:10,6,jhope,336.751
+07:10,7,ローソンUSJご招待,16.027
+07:10,8,Cuiabá,17.178
+07:10,9,ranboospace,
+07:10,10,MasterChefBR,
+07:40,1,hobi,298.227
+07:40,2,NoLimite,15.309
+07:40,3,SalarioRosaVaPorMas,50.178
+07:40,4,ローソンUSJご招待,16.895
+07:40,5,jhope,347.452
+07:40,6,Corinthians,99.527
+07:40,7,hoseok,252.304
+07:40,8,MasterChefBR,
+07:40,9,SafeFlightOurMarkTuan,13.055
+07:40,10,Cuiabá,17.284
+08:10,1,hobi,304.933
+08:10,2,SafeFlightOurMarkTuan,21.460
+08:10,3,Tolak Dipecah Belah,
+08:10,4,ローソンUSJご招待,17.882
+08:10,5,Sikap Tegas Prabowo,
+08:10,6,Hadapi Tantangan Global,
+08:10,7,jhope,355.806
+08:10,8,SalarioRosaVaPorMas,50.275
+08:10,9,NoLimite,15.372
+08:10,10,BMSG新章突入,14.523
+08:40,1,hobi,313.040
+08:40,2,NNNTalk,
+08:40,3,SafeFlightOurMarkTuan,27.613
+08:40,4,ローソンUSJご招待,18.708
+08:40,5,Tolak Dipecah Belah,
+08:40,6,Sikap Tegas Prabowo,
+08:40,7,Hadapi Tantangan Global,
+08:40,8,WorldOceansDay,11.790
+08:40,9,jhope,365.078
+08:40,10,NoLimite,15.461
+09:10,1,NNNTalk,16.785
+09:10,2,hobi,318.820
+09:10,3,WorldOceansDay,12.853
+09:10,4,AirBersihLayakMinum,
+09:10,5,SafeFlightOurMarkTuan,32.705
+09:10,6,ローソンUSJご招待,19.432
+09:10,7,Tolak Dipecah Belah,
+09:10,8,Sikap Tegas Prabowo,
+09:10,9,Hadapi Tantangan Global,
+09:10,10,jhope,371.495
+09:40,1,NNNTalk,29.000
+09:40,2,DolarTL,22.464
+09:40,3,hobi,325.530
+09:40,4,MsMarvel,34.414
+09:40,5,WorldOceansDay,14.117
+09:40,6,f1twtselfieday,
+09:40,7,Daily Quordle 135,
+09:40,8,埼玉県民,
+09:40,9,Tolak Dipecah Belah,
+09:40,10,Sikap Tegas Prabowo,
+10:10,1,DolarTL,24.328
+10:10,2,NNNTalk,36.874
+10:10,3,MsMarvel,37.376
+10:10,4,WorldOceansDay,15.483
+10:10,5,UsandıkGelsinSandık,
+10:10,6,hobi,331.329
+10:10,7,Nihat Özçelik,
+10:10,8,Daily Quordle 135,
+10:10,9,埼玉県民,
+10:10,10,WITH YOU TIL 20 BELLE,23.006
+10:40,1,MsMarvel,40.960
+10:40,2,DolarTL,26.925
+10:40,3,NNNTalk,39.645
+10:40,4,WorldOceansDay,16.981
+10:40,5,UsandıkGelsinSandık,10.857
+10:40,6,大和改二,
+10:40,7,hobi,337.957
+10:40,8,Nihat Özçelik,
+10:40,9,몰래 음식,
+10:40,10,수업시간 몰폰,
+11:10,1,MsMarvel,43.821
+11:10,2,DolarTL,27.806
+11:10,3,NNNTalk,41.362
+11:10,4,WorldOceansDay,18.428
+11:10,5,kira,
+11:10,6,大和改二,
+11:10,7,Tinubu,263.389
+11:10,8,몰래 음식,
+11:10,9,수업시간 몰폰,
+11:10,10,무단조퇴,
+11:40,1,MsMarvel,46.836
+11:40,2,DolarTL,29.920
+11:40,3,モリアーティ,27.440
+11:40,4,MithaliRaj,
+11:40,5,WorldOceansDay,20.019
+11:40,6,kira,
+11:40,7,ドン・キホーテ,16.218
+11:40,8,大和改二,
+11:40,9,Tinubu,282.779
+11:40,10,ルーラー,17.224
+12:10,1,MsMarvel,49.447
+12:10,2,モリアーティ,38.925
+12:10,3,ドン・キホーテ,24.296
+12:10,4,MithaliRaj,
+12:10,5,DolarTL,30.589
+12:10,6,WorldOceansDay,21.609
+12:10,7,kira,
+12:10,8,Tinubu,293.964
+12:10,9,大和改二,
+12:10,10,ルーラー,24.099
+12:40,1,Beatbox1stWin,71.639
+12:40,2,MsMarvel,52.511
+12:40,3,モリアーティ,52.950
+12:40,4,花丸の宴,13.764
+12:40,5,ドン・キホーテ,30.407
+12:40,6,StateofOrigin,
+12:40,7,MithaliRaj,
+12:40,8,Tinubu,310.503
+12:40,9,大和改二,
+12:40,10,Fatih Gürsul,
+13:10,1,Beatbox1stWin,99.724
+13:10,2,Liella,24.559
+13:10,3,Erdoğanİstifa,
+13:10,4,MsMarvel,54.864
+13:10,5,モリアーティ,63.282
+13:10,6,StateofOrigin,
+13:10,7,ドン・キホーテ,35.419
+13:10,8,Tinubu,319.757
+13:10,9,スーパースタート,
+13:10,10,Adoさん,18.059
+13:40,1,Beatbox1stWin,110.927
+13:40,2,PMQs,15.298
+13:40,3,Liella,41.305
+13:40,4,Erdoğanİstifa,
+13:40,5,AskDirLokesh,
+13:40,6,モリアーティ,71.509
+13:40,7,ドン・キホーテ,39.684
+13:40,8,Adoさん,33.318
+13:40,9,東京ダービー,35.850
+13:40,10,Tinubu,336.056
+14:10,1,Liella,72.161
+14:10,2,AskDirLokesh,12.679
+14:10,3,Beatbox1stWin,119.339
+14:10,4,PMQs,20.410
+14:10,5,Erdoğanİstifa,
+14:10,6,モリアーティ,79.902
+14:10,7,ドン・キホーテ,43.099
+14:10,8,Adoさん,40.354
+14:10,9,東京ダービー,36.437
+14:10,10,Tinubu,346.847
+14:40,1,Liella,102.247
+14:40,2,AskDirLokesh,17.006
+14:40,3,Beatbox1stWin,147.635
+14:40,4,Erdoğanİstifa,
+14:40,5,PMQs,24.240
+14:40,6,モリアーティ,87.397
+14:40,7,ドン・キホーテ,46.075
+14:40,8,Adoさん,44.739
+14:40,9,東京ダービー,37.792
+14:40,10,Tinubu,361.014
+15:10,1,Liella,112.805
+15:10,2,AskDirLokesh,20.702
+15:10,3,Erdoğanİstifa,
+15:10,4,lovelive,109.639
+15:10,5,Beatbox1stWin,164.437
+15:10,6,モリアーティ,93.927
+15:10,7,Adoさん,48.296
+15:10,8,ドン・キホーテ,48.687
+15:10,9,Tinubu,370.473
+15:10,10,たかほー,
+15:40,1,Liella,119.678
+15:40,2,鈴木勝3D,53.391
+15:40,3,Erdoğanİstifa,
+15:40,4,AskDirLokesh,24.181
+15:40,5,lovelive,116.578
+15:40,6,モリアーティ,99.625
+15:40,7,Adoさん,50.839
+15:40,8,Tinubu,386.966
+15:40,9,ドン・キホーテ,51.032
+15:40,10,たかほー,
+16:10,1,Liella,121.584
+16:10,2,Erdoğanİstifa,
+16:10,3,鈴木勝3D,56.065
+16:10,4,ナンバMG5,44.628
+16:10,5,AskDirLokesh,26.923
+16:10,6,モリアーティ,104.424
+16:10,7,Tinubu,397.414
+16:10,8,Adoさん,52.845
+16:10,9,たかほー,
+16:10,10,ドン・キホーテ,53.007
+16:40,1,Erdoğanİstifa,
+16:40,2,Liella,123.742
+16:40,3,BlackAdam,59.437
+16:40,4,ナンバMG5,47.579
+16:40,5,AskDirLokesh,29.042
+16:40,6,Tinubu,410.514
+16:40,7,モリアーティ,108.497
+16:40,8,Adoさん,54.288
+16:40,9,たかほー,
+16:40,10,Paula Rego,
+17:10,1,YetToComeMvTeaser2,195.893
+17:10,2,JO1ANNX,21.151
+17:10,3,BlackAdam,63.132
+17:10,4,Erdoğanİstifa,
+17:10,5,ナンバMG5,49.195
+17:10,6,翔ちゃん,
+17:10,7,モリアーティ,112.096
+17:10,8,Tinubu,416.116
+17:10,9,Paula Rego,
+17:10,10,ワンピース,76.904
+17:40,1,YetToComeMvTeaser2,243.864
+17:40,2,JO1ANNX,53.656
+17:40,3,Teaserที่รักที่รัก,101.308
+17:40,4,BlackAdam,67.132
+17:40,5,Erdoğanİstifa,
+17:40,6,翔ちゃん,13.470
+17:40,7,Nunez,65.886
+17:40,8,第139回,
+17:40,9,Kavanaugh,29.007
+17:40,10,NAYEON SECOND CONCEPT PHOTO,21.607
+18:10,1,JO1ANNX,84.695
+18:10,2,YetToComeMvTeaser2,258.596
+18:10,3,Teaserที่รักที่รัก,136.237
+18:10,4,BlackAdam,69.000
+18:10,5,Erdoğanİstifa,
+18:10,6,翔ちゃん,14.576
+18:10,7,Kavanaugh,41.980
+18:10,8,第139回,
+18:10,9,Nunez,73.163
+18:10,10,Wordle 355,
+18:40,1,JO1ANNX,94.462
+18:40,2,YetToComeMvTeaser2,267.135
+18:40,3,Teaserที่รักที่รัก,154.772
+18:40,4,BlackAdam,71.948
+18:40,5,Erdoğanİstifa,
+18:40,6,Nunez,83.689
+18:40,7,翔ちゃん,15.109
+18:40,8,Kavanaugh,54.811
+18:40,9,第139回,
+18:40,10,Wordle 355,
+19:10,1,JO1ANNX,97.678
+19:10,2,YetToComeMvTeaser2,272.655
+19:10,3,Erdoğanİstifa,
+19:10,4,Kavanaugh,67.578
+19:10,5,MsMarvel,90.076
+19:10,6,BlackAdam,73.604
+19:10,7,Nunez,90.028
+19:10,8,Jack Del Rio,
+19:10,9,翔ちゃん,15.393
+19:10,10,第139回,
+19:40,1,JO1ANNX,99.485
+19:40,2,ModernWarfareII,
+19:40,3,YetToComeMvTeaser2,276.813
+19:40,4,Kavanaugh,80.841
+19:40,5,Erdoğanİstifa,
+19:40,6,TimnasDay,
+19:40,7,Nunez,95.693
+19:40,8,Black Adam,40.202
+19:40,9,Jack Del Rio,
+19:40,10,Getafe,13.225
+20:10,1,Kavanaugh,95.472
+20:10,2,ModernWarfareII,10.605
+20:10,3,Erdoğanİstifa,
+20:10,4,YetToComeMvTeaser2,280.020
+20:10,5,TimnasDay,
+20:10,6,MsMarvel,96.117
+20:10,7,Nunez,100.137
+20:10,8,Jack Del Rio,
+20:10,9,Black Adam,40.942
+20:10,10,Getafe,14.081
+20:40,1,TimnasDay,15.479
+20:40,2,Kavanaugh,111.120
+20:40,3,ModernWarfareII,11.699
+20:40,4,الكويت_اندونيسيا,
+20:40,5,MsMarvel,99.736
+20:40,6,Jack Del Rio,
+20:40,7,Erdoğanİstifa,
+20:40,8,Nunez,104.699
+20:40,9,Black Adam,42.013
+20:40,10,Kelly,110.833
+21:10,1,TimnasDay,16.202
+21:10,2,Kavanaugh,127.406
+21:10,3,KontakKapatTürkiye,
+21:10,4,BELPOL,
+21:10,5,ModernWarfareII,12.681
+21:10,6,MsMarvel,101.917
+21:10,7,Jack Del Rio,
+21:10,8,Nunez,108.275
+21:10,9,Kelly,116.862
+21:10,10,Black Adam,42.515
+21:40,1,BELPOL,
+21:40,2,KontakKapatTürkiye,
+21:40,3,WALNED,
+21:40,4,Kavanaugh,144.235
+21:40,5,TimnasDay,16.404
+21:40,6,JKLive,
+21:40,7,Jack Del Rio,11.452
+21:40,8,Nick Cannon,20.417
+21:40,9,SCOTUS,46.510
+21:40,10,Kelly,127.024
+22:10,1,KontakKapatTürkiye,13.425
+22:10,2,BELPOL,
+22:10,3,WALNED,
+22:10,4,JKLive,
+22:10,5,Kavanaugh,159.090
+22:10,6,PAKvWI,39.701
+22:10,7,Kelly,134.527
+22:10,8,Nick Cannon,22.167
+22:10,9,SCOTUS,48.879
+22:10,10,Jack Del Rio,12.918
+22:40,1,BELPOL,13.915
+22:40,2,LoveIsland,132.369
+22:40,3,KontakKapatTürkiye,17.982
+22:40,4,WALNED,
+22:40,5,JKLive,
+22:40,6,Davide,37.598
+22:40,7,Kavanaugh,173.818
+22:40,8,Luca,36.313
+22:40,9,Kelly,146.372
+22:40,10,Trossard,
+23:10,1,LoveIsland,153.224
+23:10,2,BELPOL,16.993
+23:10,3,KontakKapatTürkiye,22.104
+23:10,4,Luca,41.728
+23:10,5,WALNED,
+23:10,6,Davide,35.019
+23:10,7,Andrew,82.624
+23:10,8,chilhavisto,
+23:10,9,Kavanaugh,187.061
+23:10,10,Kelly,153.108
+23:40,1,LoveIsland,159.803
+23:40,2,BELPOL,17.895
+23:40,3,KontakKapatTürkiye,25.240
+23:40,4,Luca,42.924
+23:40,5,walned,
+23:40,6,Davide,36.172
+23:40,7,Andrew,84.527
+23:40,8,Kavanaugh,201.600
+23:40,9,chilhavisto,
+23:40,10,Kelly,162.196

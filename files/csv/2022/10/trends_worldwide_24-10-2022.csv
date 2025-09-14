@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Armani,44.565
+00:10,2,River,188.382
+00:10,3,Rossi,53.635
+00:10,4,Racing,137.771
+00:10,5,Bryce Harper,46.603
+00:10,6,Independiente,62.716
+00:10,7,Packers,79.917
+00:10,8,USGP,224.656
+00:10,9,Roberto Jefferson,773.901
+00:10,10,DoctorWho,84.229
+00:40,1,River,236.430
+00:40,2,Armani,71.444
+00:40,3,Racing,184.543
+00:40,4,Rossi,63.173
+00:40,5,Phillies,211.745
+00:40,6,Bryce Harper,59.055
+00:40,7,World Series,87.354
+00:40,8,Roberto Jefferson,842.777
+00:40,9,Copetti,22.696
+00:40,10,Packers,81.907
+01:10,1,River,257.813
+01:10,2,Armani,81.775
+01:10,3,Racing,202.517
+01:10,4,Rossi,65.634
+01:10,5,Lakers,97.670
+01:10,6,Phillies,232.419
+01:10,7,World Series,97.663
+01:10,8,Bryce Harper,64.725
+01:10,9,Roberto Jefferson,893.055
+01:10,10,Copetti,29.387
+01:40,1,River,277.305
+01:40,2,Armani,86.966
+01:40,3,Racing,216.027
+01:40,4,Lakers,104.884
+01:40,5,Rossi,67.375
+01:40,6,Phillies,247.366
+01:40,7,World Series,104.437
+01:40,8,Bryce Harper,68.194
+01:40,9,Roberto Jefferson,942.869
+01:40,10,Independiente,99.440
+02:10,1,River,287.423
+02:10,2,Armani,90.434
+02:10,3,Racing,222.545
+02:10,4,Lakers,109.016
+02:10,5,Phillies,250.706
+02:10,6,Rossi,68.350
+02:10,7,World Series,106.319
+02:10,8,Roberto Jefferson,977.674
+02:10,9,Bryce Harper,70.194
+02:10,10,Chargers,42.246
+02:40,1,River,299.699
+02:40,2,Armani,93.558
+02:40,3,Racing,231.264
+02:40,4,Lakers,113.083
+02:40,5,Phillies,261.419
+02:40,6,RHOP,10.757
+02:40,7,Rossi,69.782
+02:40,8,World Series,111.143
+02:40,9,Borja,36.930
+02:40,10,Roberto Jefferson,1.011.720
+03:10,1,River,305.335
+03:10,2,Racing,236.185
+03:10,3,Armani,95.223
+03:10,4,RHOP,18.583
+03:10,5,Lakers,115.921
+03:10,6,Phillies,261.765
+03:10,7,World Series,112.787
+03:10,8,Steelers,50.808
+03:10,9,Rossi,70.579
+03:10,10,Borja,38.008
+03:40,1,River,310.607
+03:40,2,Racing,242.711
+03:40,3,Armani,97.193
+03:40,4,RHOP,20.069
+03:40,5,HOTDFinale,15.208
+03:40,6,Steelers,57.957
+03:40,7,Lakers,118.858
+03:40,8,GH22,20.997
+03:40,9,Phillies,268.640
+03:40,10,World Series,116.359
+04:10,1,HouseOfTheDragon,141.324
+04:10,2,GH22,45.253
+04:10,3,HOTDFinale,27.858
+04:10,4,Marcos,94.955
+04:10,5,River,319.053
+04:10,6,HouseTargaryen,14.386
+04:10,7,Holder,105.598
+04:10,8,Racing,245.872
+04:10,9,RHOP,21.114
+04:10,10,Armani,98.538
+04:40,1,HouseoftheDragon,249.758
+04:40,2,HOTDFinale,55.670
+04:40,3,GH22,69.250
+04:40,4,Holder,134.463
+04:40,5,Marcos,102.938
+04:40,6,Martina,33.688
+04:40,7,Rhaenyra,97.455
+04:40,8,HouseTargaryen,28.495
+04:40,9,Aemond,59.404
+04:40,10,River,315.345
+05:10,1,HouseoftheDragon,318.650
+05:10,2,GH22,99.348
+05:10,3,HOTDFinale,71.266
+05:10,4,Holder,190.979
+05:10,5,Martina,56.625
+05:10,6,Marcos,106.622
+05:10,7,GH2022,171.685
+05:10,8,Rhaenyra,117.489
+05:10,9,Aemond,78.712
+05:10,10,HouseTargaryen,37.216
+05:40,1,HouseoftheDragon,371.808
+05:40,2,GH22,107.454
+05:40,3,HOTDFinale,82.592
+05:40,4,Holder,205.666
+05:40,5,Martina,62.108
+05:40,6,Steelers,85.967
+05:40,7,Rhaenyra,132.945
+05:40,8,Aemond,93.644
+05:40,9,Pickett,24.028
+05:40,10,Marcos,110.883
+06:10,1,HouseoftheDragon,413.292
+06:10,2,HOTDFinale,91.346
+06:10,3,GH22,110.557
+06:10,4,Holder,209.924
+06:10,5,Martina,64.507
+06:10,6,HappyDiwali,105.005
+06:10,7,HouseTargaryen,49.491
+06:10,8,Steelers,89.685
+06:10,9,Rhaenyra,143.555
+06:10,10,Aemond,104.486
+06:40,1,HouseoftheDragon,445.829
+06:40,2,HOTDFinale,98.558
+06:40,3,HappyDiwali,122.774
+06:40,4,Yankees,166.265
+06:40,5,Astros,166.471
+06:40,6,GH22,113.168
+06:40,7,Holder,214.251
+06:40,8,Martina,66.082
+06:40,9,HouseTargaryen,53.218
+06:40,10,Rhaenyra,151.693
+07:10,1,HouseoftheDragon,470.481
+07:10,2,HappyDiwali,139.667
+07:10,3,HOTDFinale,104.531
+07:10,4,Yankees,184.470
+07:10,5,Astros,186.242
+07:10,6,GH22,113.301
+07:10,7,Holder,209.141
+07:10,8,HouseTargaryen,55.989
+07:10,9,Martina,66.461
+07:10,10,World Series,157.765
+07:40,1,HouseoftheDragon,491.539
+07:40,2,HappyDiwali,157.817
+07:40,3,HOTDFinale,109.119
+07:40,4,Astros,198.418
+07:40,5,Yankees,192.581
+07:40,6,ArshadSharif,184.592
+07:40,7,FlashMagicGallery,
+07:40,8,Holder,211.259
+07:40,9,Aemond,124.011
+07:40,10,Martina,67.326
+08:10,1,HouseoftheDragon,508.075
+08:10,2,HappyDiwali,170.119
+08:10,3,HOTDFinale,112.172
+08:10,4,ArshadSharif,205.884
+08:10,5,FlashMagicGallery,
+08:10,6,Astros,203.995
+08:10,7,Yankees,195.393
+08:10,8,魔法の撮影,
+08:10,9,撮影完了,
+08:10,10,Aemond,127.598
+08:40,1,HouseoftheDragon,521.278
+08:40,2,HappyDiwali,183.932
+08:40,3,ArshadSharif,226.566
+08:40,4,FlashMagicGallery,10.882
+08:40,5,HOTDFinale,115.004
+08:40,6,Astros,208.028
+08:40,7,魔法の撮影,
+08:40,8,Yankees,197.988
+08:40,9,撮影完了,
+08:40,10,Aemond,130.730
+09:10,1,HappyDiwali,199.114
+09:10,2,HouseoftheDragon,531.217
+09:10,3,ArshadSharif,243.621
+09:10,4,FlashMagicGallery,11.882
+09:10,5,HappyDeepavali,49.923
+09:10,6,魔法の撮影,
+09:10,7,撮影完了,
+09:10,8,Astros,210.106
+09:10,9,著作権料,
+09:10,10,Yankees,198.823
+09:40,1,HappyDiwali,215.825
+09:40,2,HouseoftheDragon,541.181
+09:40,3,ArshadSharif,272.134
+09:40,4,FlashMagicGallery,12.736
+09:40,5,あんスタ,69.068
+09:40,6,撮影完了,
+09:40,7,魔法の撮影,10.483
+09:40,8,著作権料,12.335
+09:40,9,共同通信,15.115
+09:40,10,Astros,211.695
+10:10,1,HappyDiwali,229.864
+10:10,2,HouseoftheDragon,548.144
+10:10,3,ArshadSharif,293.061
+10:10,4,FlashMagicGallery,13.490
+10:10,5,あんスタ,69.473
+10:10,6,撮影完了,
+10:10,7,魔法の撮影,11.039
+10:10,8,著作権料,14.193
+10:10,9,共同通信,15.914
+10:10,10,JASRAC,
+10:40,1,HappyDiwali,244.222
+10:40,2,ArshadSharif,317.702
+10:40,3,HouseoftheDragon,556.506
+10:40,4,FlashMagicGallery,14.286
+10:40,5,あんスタ,71.859
+10:40,6,撮影完了,
+10:40,7,著作権料,16.043
+10:40,8,魔法の撮影,11.648
+10:40,9,JASRAC,10.937
+10:40,10,生徒の演奏,16.311
+11:10,1,HappyDiwali,256.880
+11:10,2,ArshadSharif,339.319
+11:10,3,FlashMagicGallery,14.961
+11:10,4,MondayMotivation,12.078
+11:10,5,あんスタ,57.368
+11:10,6,撮影完了,
+11:10,7,辞任の意向,
+11:10,8,事実上の更迭,
+11:10,9,生徒の演奏,17.844
+11:10,10,JASRAC,12.029
+11:40,1,HappyDiwali,270.227
+11:40,2,MewOnTheAlarm,23.343
+11:40,3,ArshadSharif,358.458
+11:40,4,MondayMotivation,13.398
+11:40,5,東京国際映画祭,22.284
+11:40,6,辞任の意向,
+11:40,7,事実上の更迭,
+11:40,8,ノミネート,
+11:40,9,撮影完了,
+11:40,10,JASRAC,13.088
+12:10,1,HappyDiwali,280.041
+12:10,2,MewOnTheAlarm,60.488
+12:10,3,シャニマス生配信,
+12:10,4,ノミネート,
+12:10,5,Terminal21Rama3xYinWar,74.321
+12:10,6,WelcomeToManilaTXT,
+12:10,7,辞任の意向,
+12:10,8,事実上の更迭,
+12:10,9,vmin,12.379
+12:10,10,BTS vs BTS,16.889
+12:40,1,シャニマス生配信,12.793
+12:40,2,MewOnTheAlarm,91.206
+12:40,3,HappyDiwali,291.442
+12:40,4,冒険少年,18.192
+12:40,5,WelcomeToManilaTXT,
+12:40,6,ノミネート,11.588
+12:40,7,VOTE BLACKPINKonMAMA,54.228
+12:40,8,BTS vs BTS,26.054
+12:40,9,ZETA,16.967
+12:40,10,辞任の意向,11.980
+13:10,1,シャニマス生配信,22.674
+13:10,2,seventeen,135.596
+13:10,3,MewOnTheAlarm,116.247
+13:10,4,冒険少年,24.303
+13:10,5,NCTDREAM,205.718
+13:10,6,ノミネート,13.693
+13:10,7,VOTE BLACKPINKonMAMA,91.079
+13:10,8,ZETA,18.568
+13:10,9,BTS vs BTS,30.982
+13:10,10,Worldwide Fan's Choice Top 10,99.555
+13:40,1,seventeen,152.884
+13:40,2,シャニマス生配信,31.907
+13:40,3,冒険少年,29.095
+13:40,4,NCTDREAM,240.632
+13:40,5,MewOnTheAlarm,130.392
+13:40,6,Happy Diwali,835.484
+13:40,7,VOTE BLACKPINKonMAMA,121.204
+13:40,8,ノミネート,15.977
+13:40,9,Wタイガ,13.772
+13:40,10,Worldwide Fan's Choice Top 10,138.906
+14:10,1,seventeen,166.769
+14:10,2,冒険少年,35.176
+14:10,3,NCTDREAM,259.708
+14:10,4,ホストクラブルイズ,22.200
+14:10,5,Wタイガ,17.348
+14:10,6,シャニマス生配信,36.564
+14:10,7,VOTE BLACKPINKonMAMA,148.108
+14:10,8,Happy Diwali,815.026
+14:10,9,ノミネート,17.681
+14:10,10,Worldwide Fan's Choice Top 10,168.855
+14:40,1,seventeen,184.344
+14:40,2,冒険少年,37.242
+14:40,3,NCTDREAM,282.573
+14:40,4,ホストクラブルイズ,24.901
+14:40,5,Wタイガ,18.607
+14:40,6,グルミク2周年生放送,19.253
+14:40,7,VOTE BLACKPINKonMAMA,170.102
+14:40,8,Happy Diwali,805.521
+14:40,9,ノミネート,19.718
+14:40,10,Worldwide Fan's Choice Top 10,195.533
+15:10,1,seventeen,197.393
+15:10,2,PICU,16.268
+15:10,3,しゃべくり007,
+15:10,4,MAMA2022,26.344
+15:10,5,冒険少年,39.214
+15:10,6,Rishi Sunak,152.947
+15:10,7,Wタイガ,20.255
+15:10,8,内海くん,
+15:10,9,Happy Diwali,834.396
+15:10,10,VOTE BLACKPINKonMAMA,189.509
+15:40,1,Rishi Sunak,203.271
+15:40,2,seventeen,218.053
+15:40,3,エルピス,12.367
+15:40,4,PICU,17.795
+15:40,5,MAMA2022,31.786
+15:40,6,txt,167.685
+15:40,7,Happy Diwali,866.233
+15:40,8,Wタイガ,21.056
+15:40,9,VOTE BLACKPINKonMAMA,205.578
+15:40,10,内海くん,
+16:10,1,RishiSunak,33.013
+16:10,2,エルピス,19.108
+16:10,3,คุณชายEP7,27.839
+16:10,4,seventeen,232.634
+16:10,5,MAMA2022,36.302
+16:10,6,Happy Diwali,846.447
+16:10,7,VOTE BLACKPINKonMAMA,220.413
+16:10,8,プリキュア5,11.394
+16:10,9,Şartsız Tasfiye,
+16:10,10,Wタイガ,21.417
+16:40,1,RishiSunak,40.439
+16:40,2,エルピス,24.825
+16:40,3,คุณชายEP7,57.421
+16:40,4,seventeen,246.603
+16:40,5,MAMA2022,41.610
+16:40,6,Happy Diwali,904.702
+16:40,7,YANG JUNGWON,12.316
+16:40,8,PM of UK,33.421
+16:40,9,プリキュア5,12.348
+16:40,10,Şartsız Tasfiye,
+17:10,1,리노야_생일선물은_평생보자,97.025
+17:10,2,HappyLeeKnowDay,105.995
+17:10,3,るぅとくん誕生祭2022,81.363
+17:10,4,Rishi Sunak,292.746
+17:10,5,與那城奨を沖縄から世界へ,67.480
+17:10,6,HappyShoDay,73.646
+17:10,7,Happy Diwali,920.479
+17:10,8,PM of UK,37.802
+17:10,9,プリキュア5,14.051
+17:10,10,YANG JUNGWON,15.095
+17:40,1,리노야_생일선물은_평생보자,144.922
+17:40,2,HappyLeeKnowDay,156.933
+17:40,3,るぅとくん誕生祭2022,128.239
+17:40,4,Rishi Sunak,329.623
+17:40,5,HappyShoDay,139.933
+17:40,6,與那城奨を沖縄から世界へ,126.195
+17:40,7,Happy Diwali,939.282
+17:40,8,第277回,
+17:40,9,PM of UK,44.160
+17:40,10,トレイ先輩,
+18:10,1,리노야_생일선물은_평생보자,165.767
+18:10,2,HappyLeeKnowDay,180.551
+18:10,3,るぅとくん誕生祭2022,151.074
+18:10,4,Rishi Sunak,354.879
+18:10,5,HappyShoDay,160.600
+18:10,6,與那城奨を沖縄から世界へ,145.115
+18:10,7,Happy Diwali,969.932
+18:10,8,第277回,
+18:10,9,トレイ先輩,
+18:10,10,Gazi Turgut Aslan,
+18:40,1,리노야_생일선물은_평생보자,178.281
+18:40,2,AntManandTheWaspQuantumania,15.831
+18:40,3,Fifainu,
+18:40,4,DancingGodLeeKnowDay,167.443
+18:40,5,Rishi Sunak,382.273
+18:40,6,るぅとくん誕生祭2022,158.246
+18:40,7,Kang,72.188
+18:40,8,Happy Diwali,998.190
+18:40,9,第277回,
+18:40,10,Henry Cavill,14.166
+19:10,1,AntManandTheWaspQuantumania,22.417
+19:10,2,리노야_생일선물은_평생보자,186.650
+19:10,3,Fifainu,
+19:10,4,Rishi Sunak,403.458
+19:10,5,DancingGodLeeKnowDay,175.150
+19:10,6,るぅとくん誕生祭2022,160.408
+19:10,7,Kang,78.219
+19:10,8,Clarence Thomas,19.734
+19:10,9,Henry Cavill,22.529
+19:10,10,Happy Diwali,1.011.501
+19:40,1,AntManandTheWaspQuantumania,26.779
+19:40,2,리노야_생일선물은_평생보자,192.484
+19:40,3,Rishi Sunak,427.696
+19:40,4,DancingGodLeeKnowDay,180.978
+19:40,5,Fifainu,
+19:40,6,Clarence Thomas,39.357
+19:40,7,Kang,83.602
+19:40,8,るぅとくん誕生祭2022,162.375
+19:40,9,Henry Cavill,28.735
+19:40,10,Happy Diwali,1.000.603
+20:10,1,AntManandTheWaspQuantumania,30.181
+20:10,2,Rishi Sunak,448.196
+20:10,3,Clarence Thomas,55.400
+20:10,4,리노야_생일선물은_평생보자,197.262
+20:10,5,Fifainu,
+20:10,6,DancingGodLeeKnowDay,185.454
+20:10,7,Kang,86.785
+20:10,8,SnRTErdoğan StatüDeğişikliği,
+20:10,9,Superman,11.426
+20:10,10,Happy Diwali,1.007.732
+20:40,1,AntManandTheWaspQuantumania,32.618
+20:40,2,Leslie Jordan,19.156
+20:40,3,Clarence Thomas,71.464
+20:40,4,Rishi Sunak,468.244
+20:40,5,리노야_생일선물은_평생보자,201.404
+20:40,6,Fifainu,
+20:40,7,DancingGodLeeKnowDay,189.372
+20:40,8,Kang,90.388
+20:40,9,Henry Cavill,38.020
+20:40,10,حمدالله,19.986
+21:10,1,Valerianİsmaelİstifa,
+21:10,2,Leslie Jordan,66.464
+21:10,3,HTYvBJK,15.280
+21:10,4,AntManandTheWaspQuantumania,34.522
+21:10,5,Clarence Thomas,85.738
+21:10,6,Beşiktaş,326.054
+21:10,7,Rishi Sunak,478.569
+21:10,8,리노야_생일선물은_평생보자,204.807
+21:10,9,Kang,92.652
+21:10,10,Matt Ryan,13.206
+21:40,1,Leslie Jordan,107.556
+21:40,2,Valerianİsmaelİstifa,
+21:40,3,HTYvBJK,16.317
+21:40,4,Beşiktaş,343.064
+21:40,5,AntManandTheWaspQuantumania,36.705
+21:40,6,Clarence Thomas,98.676
+21:40,7,Unai Emery,27.433
+21:40,8,Rishi Sunak,496.228
+21:40,9,Will & Grace,24.940
+21:40,10,Şenol Güneş,
+22:10,1,Leslie Jordan,135.970
+22:10,2,Valerianİsmaelİstifa,
+22:10,3,Unai Emery,33.318
+22:10,4,Beşiktaş,343.812
+22:10,5,Clarence Thomas,109.685
+22:10,6,WHUBOU,
+22:10,7,AntManandTheWaspQuantumania,38.292
+22:10,8,HTYvBJK,16.988
+22:10,9,Will & Grace,30.112
+22:10,10,Rishi Sunak,504.396
+22:40,1,Leslie Jordan,158.102
+22:40,2,Valerianİsmaelİstifa,
+22:40,3,Unai Emery,36.797
+22:40,4,Clarence Thomas,119.527
+22:40,5,Will & Grace,33.837
+22:40,6,WHUBOU,
+22:40,7,Beşiktaş,353.912
+22:40,8,AntManandTheWaspQuantumania,39.685
+22:40,9,HTYvBJK,17.350
+22:40,10,Rishi Sunak,518.783
+23:10,1,Leslie Jordan,175.828
+23:10,2,Valerianİsmaelİstifa,
+23:10,3,WHUBOU,
+23:10,4,Unai Emery,39.301
+23:10,5,Will & Grace,36.707
+23:10,6,Clarence Thomas,127.844
+23:10,7,Beşiktaş,349.270
+23:10,8,AntManandTheWaspQuantumania,41.161
+23:10,9,West Ham,18.607
+23:10,10,adp2022,
+23:40,1,Leslie Jordan,190.429
+23:40,2,Valerianİsmaelİstifa,
+23:40,3,ティファニー,17.850
+23:40,4,WHUBOU,
+23:40,5,Clarence Thomas,135.864
+23:40,6,Will & Grace,39.026
+23:40,7,Unai Emery,41.137
+23:40,8,West Ham,
+23:40,9,Beşiktaş,357.802
+23:40,10,AntManandTheWaspQuantumania,42.433

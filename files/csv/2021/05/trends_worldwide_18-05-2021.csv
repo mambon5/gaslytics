@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,ariana,313.856
+00:10,2,isola,40.477
+00:10,3,ComeToTrabzonSörloth,65.621
+00:10,4,Kane,120.447
+00:10,5,ConexionHonduras6,22.280
+00:10,6,Survivor2021,118.776
+00:10,7,MaskSinger,
+00:10,8,Ceuta,68.858
+00:10,9,Marruecos,49.461
+00:10,10,dalton,47.567
+00:41,1,ariana,325.834
+00:41,2,isola,47.689
+00:41,3,ConexionHonduras6,30.417
+00:41,4,ComeToTrabzonSörloth,71.392
+00:41,5,Kane,125.921
+00:41,6,Ceuta,82.801
+00:41,7,三ツ矢サイダー,18.839
+00:41,8,Survivor2021,132.459
+00:41,9,Marruecos,57.405
+00:41,10,Wilder,11.685
+01:10,1,ariana,334.226
+01:10,2,isola,53.528
+01:10,3,ConexionHonduras6,35.181
+01:10,4,ComeToTrabzonSörloth,74.610
+01:10,5,Ceuta,94.583
+01:10,6,Kane,129.102
+01:10,7,SalveSeQuemPuder,
+01:10,8,三ツ矢サイダー,22.028
+01:10,9,Marruecos,63.100
+01:10,10,めめあべCM,
+01:41,1,ariana,344.176
+01:41,2,SalveSeQuemPuder,19.565
+01:41,3,isola,56.289
+01:41,4,ConexionHonduras6,41.882
+01:41,5,Ceuta,104.965
+01:41,6,三ツ矢サイダー,24.890
+01:41,7,ComeToTrabzonSörloth,76.396
+01:41,8,Kane,132.238
+01:41,9,Marruecos,67.693
+01:41,10,Bonner,
+02:10,1,ariana,350.697
+02:10,2,Bonner,
+02:10,3,SalveSeQuemPuder,21.152
+02:10,4,Ceuta,113.582
+02:10,5,三ツ矢サイダー,26.761
+02:10,6,ConexionHonduras6,44.640
+02:10,7,isola,56.589
+02:10,8,ComeToTrabzonSörloth,77.506
+02:10,9,Marruecos,71.271
+02:10,10,Kane,134.033
+02:41,1,Showmatch,
+02:41,2,Tinelli,12.951
+02:41,3,maria becerra,
+02:41,4,ariana,363.210
+02:41,5,Bonner,11.177
+02:41,6,Pampita,
+02:41,7,Ceuta,119.052
+02:41,8,SalveSeQuemPuder,21.948
+02:41,9,三ツ矢サイダー,28.173
+02:41,10,LaCamisetaNoSeMancha,15.357
+03:10,1,Tinelli,20.459
+03:10,2,Showmatch,14.211
+03:10,3,maria becerra,14.586
+03:10,4,JULIETTE EMBAIXADORA DA AVON,52.591
+03:10,5,ariana,380.819
+03:10,6,Bonner,12.604
+03:10,7,911onFOX,10.947
+03:10,8,Pampita,
+03:10,9,LaCamisetaNoSeMancha,19.824
+03:10,10,Ceuta,122.247
+03:41,1,Tinelli,29.387
+03:41,2,Showmatch,19.948
+03:41,3,JULIETTE EMBAIXADORA DA AVON,83.409
+03:41,4,maria becerra,18.016
+03:41,5,Pillar,16.943
+03:41,6,ariana,395.461
+03:41,7,911onFOX,12.113
+03:41,8,Bonner,13.928
+03:41,9,Pampita,
+03:41,10,LaCamisetaNoSeMancha,24.527
+04:10,1,Tinelli,37.842
+04:10,2,Showmatch,24.683
+04:10,3,JULIETTE EMBAIXADORA DA AVON,99.828
+04:10,4,maria becerra,21.008
+04:10,5,Pillar,18.560
+04:10,6,WWERaw,30.444
+04:10,7,LaCamisetaNoSeMancha,28.607
+04:10,8,ariana,405.437
+04:10,9,PapoDeSegundaNoGNT,
+04:10,10,MasterChefArgentina,
+04:41,1,Tinelli,46.924
+04:41,2,bucciovertimechallenge,
+04:41,3,Showmatch,27.581
+04:41,4,JULIETTE EMBAIXADORA DA AVON,109.146
+04:41,5,PapoDeSegundaNoGNT,
+04:41,6,Bruins,13.559
+04:41,7,WWERaw,37.920
+04:41,8,MulheresPower,
+04:41,9,Marchand,
+04:41,10,maria becerra,24.161
+05:10,1,Tinelli,54.297
+05:10,2,bucciovertimechallenge,
+05:10,3,Showmatch,28.910
+05:10,4,PapoDeSegundaNoGNT,10.010
+05:10,5,WWERaw,44.209
+05:10,6,MulheresPower,10.877
+05:10,7,JULIETTE EMBAIXADORA DA AVON,113.231
+05:10,8,gfriend,37.007
+05:10,9,Bruins,14.780
+05:10,10,Marchand,
+05:41,1,gfriend,84.449
+05:41,2,Tinelli,59.655
+05:41,3,شربل_وهبه,67.358
+05:41,4,ENHYPEN_ASC,12.044
+05:41,5,PapoDeSegundaNoGNT,12.044
+05:41,6,bucciovertimechallenge,
+05:41,7,Showmatch,29.745
+05:41,8,Bermejo,20.342
+05:41,9,JULIETTE EMBAIXADORA DA AVON,115.802
+05:41,10,Bruins,15.298
+06:10,1,gfriend,122.624
+06:10,2,Tinelli,63.617
+06:10,3,شربل_وهبه,77.233
+06:10,4,ENHYPEN_ASC,15.146
+06:10,5,Bermejo,26.986
+06:10,6,お菓子10種プレゼント,15.298
+06:10,7,bucciovertimechallenge,
+06:10,8,PapoDeSegundaNoGNT,12.789
+06:10,9,SQLインジェクション,14.584
+06:10,10,フジテレビ,28.440
+06:41,1,gfriend,156.985
+06:41,2,Tinelli,66.599
+06:41,3,شربل_وهبه,87.726
+06:41,4,Bermejo,32.806
+06:41,5,ENHYPEN_ASC,16.665
+06:41,6,お菓子10種プレゼント,18.999
+06:41,7,Nudy,
+06:41,8,GoAvsGo,
+06:41,9,camillanospace,
+06:41,10,SQLインジェクション,15.945
+07:10,1,gfriend,183.431
+07:10,2,شربل_وهبه,98.456
+07:10,3,Bermejo,37.324
+07:10,4,LiveAtLunchSS2xOff,12.076
+07:10,5,Tinelli,68.475
+07:10,6,お菓子10種プレゼント,21.737
+07:10,7,GoAvsGo,11.121
+07:10,8,Nudy,
+07:10,9,ENHYPEN_ASC,17.222
+07:10,10,Binnington,
+07:41,1,gfriend,213.584
+07:41,2,شربل_وهبه,110.592
+07:41,3,LiveAtLunchSS2xOff,32.292
+07:41,4,Bermejo,40.799
+07:41,5,お菓子10種プレゼント,24.010
+07:41,6,Nudy,10.269
+07:41,7,Tinelli,69.733
+07:41,8,GoAvsGo,11.744
+07:41,9,ダレハナ,
+07:41,10,手ピカジェル,
+08:10,1,gfriend,253.628
+08:10,2,LiveAtLunchSS2xOff,58.038
+08:10,3,شربل_وهبه,121.621
+08:10,4,Bermejo,42.916
+08:10,5,お菓子10種プレゼント,26.025
+08:10,6,여자친구사랑해,32.574
+08:10,7,Nudy,10.894
+08:10,8,ออฟจุมพล,42.677
+08:10,9,Tinelli,70.516
+08:10,10,ヨチン解散,
+08:41,1,gfriend,282.925
+08:41,2,Battiato,
+08:41,3,شربل_وهبه,131.802
+08:41,4,LiveAtLunchSS2xOff,68.190
+08:41,5,여자친구사랑해,40.658
+08:41,6,ชมพู่อารยา,251.439
+08:41,7,Bermejo,44.440
+08:41,8,Nudy,11.468
+08:41,9,ヨチン解散,
+08:41,10,フジテレビ,35.989
+09:10,1,Battiato,
+09:10,2,gfriend,298.943
+09:10,3,شربل_وهبه,141.159
+09:10,4,LiveAtLunchSS2xOff,72.101
+09:10,5,ชมพู่อารยา,301.479
+09:10,6,여자친구사랑해,43.086
+09:10,7,Maestro,39.009
+09:10,8,Ceuta,175.275
+09:10,9,Bermejo,45.225
+09:10,10,Nudy,11.947
+09:41,1,Battiato,12.949
+09:41,2,gfriend,315.568
+09:41,3,شربل_وهبه,151.486
+09:41,4,Maestro,43.503
+09:41,5,TürkanSaylan,
+09:41,6,ชมพู่อารยา,358.826
+09:41,7,Ceuta,188.716
+09:41,8,CongressToolkitExposed,23.674
+09:41,9,Marruecos,116.099
+09:41,10,照カミ配信,
+10:10,1,Battiato,16.590
+10:10,2,gfriend,327.211
+10:10,3,CongressToolkitExposed,40.992
+10:10,4,شربل_وهبه,161.574
+10:10,5,Ceuta,200.629
+10:10,6,TürkanSaylan,
+10:10,7,حنا_بدو,23.882
+10:10,8,Marruecos,123.121
+10:10,9,Maestro,46.057
+10:10,10,緑野原学園,
+10:41,1,Battiato,19.718
+10:41,2,CongressToolkitExposed,66.423
+10:41,3,حنا_بدو,30.927
+10:41,4,Ceuta,215.671
+10:41,5,Marruecos,133.170
+10:41,6,gfriend,339.344
+10:41,7,شربل_وهبه,173.434
+10:41,8,TürkanSaylan,11.781
+10:41,9,Maestro,49.041
+10:41,10,詫び石150,
+11:10,1,Battiato,22.415
+11:10,2,CongressToolkitExposed,91.535
+11:10,3,Ceuta,230.473
+11:10,4,Marruecos,141.885
+11:10,5,حنا_بدو,35.796
+11:10,6,شربل_وهبه,185.432
+11:10,7,TürkanSaylan,13.374
+11:10,8,gfriend,346.960
+11:10,9,詫び石150,
+11:10,10,Maestro,50.685
+11:41,1,Battiato,25.093
+11:41,2,CongressToolkitExposed,126.442
+11:41,3,TAEMIN,128.613
+11:41,4,Ceuta,246.207
+11:41,5,Marruecos,152.278
+11:41,6,حنا_بدو,41.446
+11:41,7,詫び石150,
+11:41,8,TürkanSaylan,14.969
+11:41,9,gfriend,357.601
+11:41,10,Benzema,67.308
+12:41,1,NetanYahuSensinSeralBOT,
+12:41,2,CongressToolkitExposed,198.366
+12:41,3,Benzema,108.499
+12:41,4,Battiato,29.237
+12:41,5,JUMP会議,10.427
+12:41,6,taemin,331.336
+12:41,7,Ceuta,278.205
+12:41,8,HSJオンラインミーティング,
+12:41,9,Marruecos,174.301
+12:41,10,エウルア,48.057
+13:10,1,Benzema,138.446
+13:10,2,JUMP会議,17.537
+13:10,3,HSJオンラインミーティング,14.154
+13:10,4,NetanYahuSensinSeralBOT,
+13:10,5,CongressToolkitExposed,231.897
+13:10,6,Battiato,31.009
+13:10,7,Ceuta,294.131
+13:10,8,Marruecos,188.961
+13:10,9,taemin,347.276
+13:10,10,Deschamps,47.515
+13:41,1,うたコン,16.691
+13:41,2,Benzema,169.085
+13:41,3,JUMP会議,22.221
+13:41,4,CongressToolkitExposed,264.084
+13:41,5,HSJオンラインミーティング,16.401
+13:41,6,NetanYahuSensinSeralBOT,
+13:41,7,Marruecos,204.646
+13:41,8,Ceuta,312.684
+13:41,9,Deschamps,56.188
+13:41,10,taemin,363.870
+14:10,1,古畑任三郎,97.625
+14:10,2,田村正和さん,140.984
+14:10,3,Benzema,194.630
+14:10,4,共同通信,33.562
+14:10,5,眠狂四郎,
+14:10,6,うたコン,18.814
+14:10,7,ニュースキャスター,
+14:10,8,JUMP会議,23.395
+14:10,9,CongressToolkitExposed,291.608
+14:10,10,田村さん,148.361
+14:41,1,古畑任三郎,140.702
+14:41,2,田村正和さん,193.741
+14:41,3,眠狂四郎,21.521
+14:41,4,Benzema,219.109
+14:41,5,ニュースキャスター,10.484
+14:41,6,共同通信,35.322
+14:41,7,田村さん,204.203
+14:41,8,俳優さん,147.238
+14:41,9,NetanYahuSensinMeral,36.152
+14:41,10,うたコン,19.883
+15:10,1,古畑任三郎,159.596
+15:10,2,田村正和さん,217.661
+15:10,3,眠狂四郎,26.409
+15:10,4,大豆田とわ子と三人の元夫,20.237
+15:10,5,ニュースキャスター,12.802
+15:10,6,Benzema,240.058
+15:10,7,NetanYahuSensinMeral,43.995
+15:10,8,共同通信,35.669
+15:10,9,田村さん,229.627
+15:10,10,俳優さん,159.359
+15:41,1,古畑任三郎,173.842
+15:41,2,田村正和さん,234.551
+15:41,3,Lifetime,84.274
+15:41,4,眠狂四郎,29.753
+15:41,5,大豆田とわ子と三人の元夫,23.314
+15:41,6,Benzema,261.937
+15:41,7,ニュースキャスター,14.274
+15:41,8,NetanYahuSensinMeral,52.079
+15:41,9,Ernesto Araújo,22.682
+15:41,10,Marruecos,276.911
+16:10,1,古畑任三郎,183.453
+16:10,2,田村正和さん,246.387
+16:10,3,着飾る恋には理由があって,34.479
+16:10,4,Ernesto Araújo,32.881
+16:10,5,Lifetime,90.429
+16:10,6,眠狂四郎,31.513
+16:10,7,大豆田とわ子と三人の元夫,25.071
+16:10,8,NetanYahuSensinMeral,58.853
+16:10,9,Benzema,282.431
+16:10,10,ニュースキャスター,15.476
+16:41,1,ButterVideoTeaser,429.199
+16:41,2,古畑任三郎,190.155
+16:41,3,田村正和さん,254.284
+16:41,4,Ernesto Araújo,44.268
+16:41,5,着飾る恋には理由があって,37.522
+16:41,6,Lifetime,100.143
+16:41,7,NetanYahuSensinMeral,67.124
+16:41,8,Benzema,303.766
+16:41,9,大豆田とわ子と三人の元夫,26.266
+16:41,10,Marruecos,311.366
+17:10,1,ButterVideoTeaser,930.299
+17:10,2,古畑任三郎,195.557
+17:10,3,방탄소년단,956.109
+17:10,4,田村正和さん,260.322
+17:10,5,Ernesto Araújo,52.500
+17:10,6,B.I WATERFALL TRACKLIST,52.690
+17:10,7,GET IT LET IT ROLL,40.026
+17:10,8,OneOfAKindPerformerJIHYO,80.066
+17:10,9,着飾る恋には理由があって,39.159
+17:10,10,무대장인_박지효_사랑해,80.753
+17:41,1,ButterVideoTeaser,1.312.299
+17:41,2,방탄소년단,1.149.537
+17:41,3,Katia Abreu,44.381
+17:41,4,古畑任三郎,199.359
+17:41,5,GET IT LET IT ROLL,129.139
+17:41,6,Ernesto Araújo,65.816
+17:41,7,田村正和さん,264.704
+17:41,8,OneOfAKindPerformerJIHYO,117.064
+17:41,9,무대장인_박지효_사랑해,114.147
+17:41,10,CPIdaCovid,23.331
+18:10,1,ButterVideoTeaser,1.509.261
+18:10,2,방탄소년단,1.203.119
+18:10,3,Katia Abreu,59.556
+18:10,4,GET IT LET IT ROLL,164.065
+18:10,5,Ernesto Araújo,75.861
+18:10,6,古畑任三郎,201.952
+18:10,7,PolemikYapmaGetirSandığı,
+18:10,8,FFXIVAlienwareSweepstakes,13.189
+18:10,9,CPIdaCovid,26.639
+18:10,10,田村正和さん,267.566
+18:41,1,ButterVideoTeaser,1.638.112
+18:41,2,방탄소년단,1.256.231
+18:41,3,Katia Abreu,71.013
+18:41,4,GET IT LET IT ROLL,187.520
+18:41,5,Evan Hansen,
+18:41,6,Ernesto Araújo,83.950
+18:41,7,FFXIVAlienwareSweepstakes,16.669
+18:41,8,PolemikYapmaGetirSandığı,
+18:41,9,CPIdaCovid,29.801
+18:41,10,古畑任三郎,203.975
+19:10,1,ButterVideoTeaser,1.708.898
+19:10,2,방탄소년단,1.257.931
+19:10,3,Katia Abreu,79.118
+19:10,4,Evan Hansen,10.739
+19:10,5,Ernesto Araújo,91.431
+19:10,6,FFXIVAlienwareSweepstakes,19.445
+19:10,7,Santrich,32.453
+19:10,8,GET IT LET IT ROLL,200.627
+19:10,9,PolemikYapmaGetirSandığı,
+19:10,10,NetanYahuSensinMeral,108.852
+19:41,1,ButterVideoTeaser,1.769.982
+19:41,2,Cavani,70.719
+19:41,3,MUNFUL,30.999
+19:41,4,Evan Hansen,13.207
+19:41,5,Santrich,47.066
+19:41,6,GoogleIO,13.432
+19:41,7,Katia Abreu,86.795
+19:41,8,방탄소년단,1.295.884
+19:41,9,Ernesto Araújo,99.371
+19:41,10,FFXIVAlienwareSweepstakes,21.708
+20:10,1,ButterVideoTeaser,1.816.197
+20:10,2,Cavani,92.533
+20:10,3,MUNFUL,38.494
+20:10,4,Santrich,59.870
+20:10,5,Evan Hansen,15.185
+20:10,6,GoogleIO,17.233
+20:10,7,Katia Abreu,92.408
+20:10,8,FFXIVAlienwareSweepstakes,23.619
+20:10,9,Ernesto Araújo,105.616
+20:10,10,Old Trafford,30.634
+20:41,1,ButterVideoTeaser,1.854.893
+20:41,2,Cavani,103.173
+20:41,3,Benzema,626.945
+20:41,4,MUNFUL,44.421
+20:41,5,SeninleyizSavcıEyyupAkbulut,58.601
+20:41,6,GoogleIO,22.617
+20:41,7,Santrich,69.898
+20:41,8,Evan Hansen,17.332
+20:41,9,listedes26,
+20:41,10,Charles Grodin,11.073
+21:10,1,Eurovision,64.181
+21:10,2,Benzema,749.611
+21:10,3,ButterVideoTeaser,1.885.889
+21:10,4,Cavani,109.399
+21:10,5,MUNFUL,49.015
+21:10,6,SeninleyizSavcıEyyupAkbulut,87.849
+21:10,7,Charles Grodin,17.187
+21:10,8,GoogleIO,26.537
+21:10,9,Midnight Run,
+21:10,10,Evan Hansen,19.027
+21:41,1,Eurovision,159.805
+21:41,2,Benzema,840.067
+21:41,3,SeninleyizSavcıEyyupAkbulut,115.282
+21:41,4,Cavani,115.476
+21:41,5,GEORGE LORE,18.731
+21:41,6,ButterVideoTeaser,1.912.161
+21:41,7,EuroSemi1,12.628
+21:41,8,MUNFUL,51.730
+21:41,9,Charles Grodin,22.495
+21:41,10,Midnight Run,
+22:10,1,Eurovision,261.593
+22:10,2,Werner,44.861
+22:10,3,Benzema,937.593
+22:10,4,CHELEI,35.053
+22:10,5,İkiKupaTekŞampiyon,
+22:10,6,EuroSemi1,26.468
+22:10,7,SeninleyizSavcıEyyupAkbulut,141.243
+22:10,8,GEORGE LORE,25.333
+22:10,9,Cavani,118.592
+22:10,10,NIKI,52.336
+22:41,1,Eurovision,352.014
+22:41,2,Werner,56.229
+22:41,3,EuroSemi1,39.453
+22:41,4,İkiKupaTekŞampiyon,
+22:41,5,CHELEI,47.528
+22:41,6,SeninleyizSavcıEyyupAkbulut,164.734
+22:41,7,Benzema,997.900
+22:41,8,Mike Dean,11.177
+22:41,9,GEORGE LORE,27.391
+22:41,10,Ukraine,33.301
+23:10,1,Eurovision,421.652
+23:10,2,CHELEI,57.328
+23:10,3,SüleymanSoyluİrtifa,
+23:10,4,Werner,61.965
+23:10,5,EuroSemi1,48.488
+23:10,6,İkiKupaTekŞampiyon,
+23:10,7,Benzema,1.039.590
+23:10,8,Ukraine,38.608
+23:10,9,Charles Grodin,35.823
+23:10,10,Mike Dean,12.481
+23:41,1,Eurovision,451.051
+23:41,2,CHELEI,71.167
+23:41,3,seninleyizsoylu,24.964
+23:41,4,SüleymanSoyluİrtifa,
+23:41,5,EuroSemi1,52.144
+23:41,6,Werner,67.085
+23:41,7,Ukraine,41.229
+23:41,8,Benzema,1.076.934
+23:41,9,Rudiger,24.017
+23:41,10,Croatia,16.512

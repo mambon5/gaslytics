@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,InterLiverpool,32.373
+00:10,2,PasionDeGavilanes,27.272
+00:10,3,INTLIV,58.907
+00:10,4,Firmino,24.039
+00:10,5,MichelleImpossible,14.162
+00:10,6,Konate,15.514
+00:10,7,Bayern,100.967
+00:10,8,シェアハウス,11.964
+00:10,9,TopChef,12.142
+00:10,10,Diaz,82.486
+00:40,1,InterLiverpool,32.996
+00:40,2,PasionDeGavilanes,32.741
+00:40,3,INTLIV,59.837
+00:40,4,シェアハウス,14.478
+00:40,5,MichelleImpossible,15.161
+00:40,6,Firmino,24.900
+00:40,7,Konate,16.223
+00:40,8,Bayern,102.745
+00:40,9,Petrópolis,263.995
+00:40,10,TopChef,13.209
+01:10,1,InterLiverpool,33.258
+01:10,2,PasionDeGavilanes,35.065
+01:10,3,Petrópolis,265.721
+01:10,4,シェアハウス,16.351
+01:10,5,INTLIV,60.427
+01:10,6,MichelleImpossible,15.709
+01:10,7,Firmino,25.411
+01:10,8,Konate,16.790
+01:10,9,União Frederiquense,
+01:10,10,Bayern,102.838
+01:40,1,Petrópolis,271.916
+01:40,2,PasionDeGavilanes,35.957
+01:40,3,シェアハウス,17.959
+01:40,4,InterLiverpool,33.427
+01:40,5,Wordle 243 X,
+01:40,6,HAJA CHOPP POTIGUAR,24.264
+01:40,7,INTLIV,60.599
+01:40,8,MichelleImpossible,15.889
+01:40,9,União Frederiquense,
+01:40,10,firmino,25.784
+02:10,1,Julián Álvarez,
+02:10,2,Petrópolis,265.357
+02:10,3,シェアハウス,19.976
+02:10,4,Wordle 243 X,
+02:10,5,PasionDeGavilanes,36.401
+02:10,6,InterLiverpool,33.492
+02:10,7,スノシェア,34.233
+02:10,8,HAJA CHOPP POTIGUAR,25.160
+02:10,9,INTLIV,60.807
+02:10,10,União Frederiquense,
+02:40,1,AEWDynamite,20.758
+02:40,2,Julián Álvarez,
+02:40,3,シェアハウス,21.747
+02:40,4,Wordle 243 X,
+02:40,5,Petrópolis,270.537
+02:40,6,Danielson,
+02:40,7,PasionDeGavilanes,36.730
+02:40,8,Taison,
+02:40,9,Willian,10.527
+02:40,10,InterLiverpool,33.563
+03:10,1,AEWDynamite,33.244
+03:10,2,Roger Guedes,12.308
+03:10,3,Willian,15.504
+03:10,4,Larissa,177.127
+03:10,5,Julián Álvarez,13.013
+03:10,6,MarriedAtFirstSight,
+03:10,7,Paulo Vieira,
+03:10,8,MAFS,12.969
+03:10,9,Rutgers,
+03:10,10,Danielson,
+03:40,1,AEWDynamite,43.392
+03:40,2,Roger Guedes,17.462
+03:40,3,Willian,21.164
+03:40,4,Julián Álvarez,16.877
+03:40,5,Larissa,180.503
+03:40,6,SistasOnBET,
+03:40,7,MarriedAtFirstSight,
+03:40,8,MAFS,16.152
+03:40,9,Solari,
+03:40,10,Rutgers,
+04:10,1,Knicks,21.826
+04:10,2,AEWDynamite,52.966
+04:10,3,Cam Thomas,
+04:10,4,Roger Guedes,19.206
+04:10,5,MAFS,21.739
+04:10,6,Willian,22.719
+04:10,7,MarriedAtFirstSight,14.296
+04:10,8,Julián Álvarez,19.252
+04:10,9,Pistons,
+04:10,10,SistasOnBET,
+04:40,1,Knicks,35.929
+04:40,2,Cam Thomas,14.095
+04:40,3,AEWDynamite,55.794
+04:40,4,Roger Guedes,19.767
+04:40,5,MAFS,23.036
+04:40,6,Solari,
+04:40,7,MarriedAtFirstSight,15.196
+04:40,8,Pistons,10.367
+04:40,9,Willian,23.281
+04:40,10,Thibs,
+05:10,1,Knicks,41.411
+05:10,2,cam thomas,15.896
+05:10,3,AEWDynamite,57.293
+05:10,4,Roger Guedes,20.009
+05:10,5,Solari,
+05:10,6,MAFS,23.798
+05:10,7,Thibs,
+05:10,8,MarriedAtFirstSight,15.682
+05:10,9,Pistons,10.979
+05:10,10,Julián Álvarez,21.891
+05:40,1,Knicks,44.325
+05:40,2,Anthony Davis,11.991
+05:40,3,Cam Thomas,16.801
+05:40,4,AEWDynamite,58.630
+05:40,5,Solari,
+05:40,6,MAFS,24.545
+05:40,7,Roger Guedes,20.211
+05:40,8,MarriedAtFirstSight,16.334
+05:40,9,Thibs,
+05:40,10,Pistons,11.459
+06:10,1,Knicks,46.144
+06:10,2,Anthony Davis,16.581
+06:10,3,Cam Thomas,17.315
+06:10,4,AEWDynamite,59.317
+06:10,5,Solari,10.450
+06:10,6,Pot Roast,
+06:10,7,ソウルハッカーズ,
+06:10,8,契約解除,15.010
+06:10,9,MAFS,25.016
+06:10,10,TeamCanada,
+06:40,1,Knicks,47.317
+06:40,2,Anthony Davis,17.795
+06:40,3,Cam Thomas,17.663
+06:40,4,Wordle 243 X,
+06:40,5,AEWDynamite,60.018
+06:40,6,TeamCanada,
+06:40,7,ソウルハッカーズ,11.662
+06:40,8,契約解除,17.993
+06:40,9,Pot Roast,
+06:40,10,Poulin,
+07:10,1,Knicks,48.235
+07:10,2,LakeShow,
+07:10,3,Anthony Davis,18.883
+07:10,4,Wordle 243 X,
+07:10,5,Austin Reaves,
+07:10,6,Cam Thomas,17.969
+07:10,7,契約解除,21.155
+07:10,8,ソウルハッカーズ,13.986
+07:10,9,Jokic,12.588
+07:10,10,TeamCanada,10.423
+07:40,1,TeamCanada,17.014
+07:40,2,Wordle 243 X,10.186
+07:40,3,Knicks,48.900
+07:40,4,LakeShow,
+07:40,5,Anthony Davis,19.529
+07:40,6,契約解除,24.474
+07:40,7,CANvsUSA,
+07:40,8,Austin Reaves,
+07:40,9,ソウルハッカーズ,15.932
+07:40,10,WomensHockey,
+08:10,1,TeamCanada,19.131
+08:10,2,Wordle 243 X,10.998
+08:10,3,LakeShow,
+08:10,4,Knicks,49.320
+08:10,5,Anthony Davis,20.004
+08:10,6,契約解除,27.060
+08:10,7,ソウルハッカーズ,17.194
+08:10,8,CANvsUSA,
+08:10,9,WomensHockey,
+08:10,10,Austin Reaves,
+08:40,1,Wordle 243 X,11.914
+08:40,2,TeamCanada,20.168
+08:40,3,契約解除,29.196
+08:40,4,LakeShow,
+08:40,5,JISOO DIOR ADDICT CAMPAIGN,50.577
+08:40,6,Anthony Davis,20.413
+08:40,7,Knicks,49.747
+08:40,8,ソウルハッカーズ,18.342
+08:40,9,漫談家の松鶴家千,
+08:40,10,HekimlerNedenEylemde,
+09:10,1,Wordle 243 X,12.882
+09:10,2,TeamCanada,20.737
+09:10,3,JISOO DIOR ADDICT CAMPAIGN,80.570
+09:10,4,契約解除,30.825
+09:10,5,HekimlerNedenEylemde,10.616
+09:10,6,感度3000倍,
+09:10,7,ステルスオミクロン,
+09:10,8,DünyaKedilerGünü,
+09:10,9,ソウルハッカーズ,19.414
+09:10,10,漫談家の松鶴家千,
+09:40,1,Wordle 243 X,13.861
+09:40,2,スウェーデン,18.281
+09:40,3,Wチャンスに挑戦,
+09:40,4,株のタイムセール,
+09:40,5,LINE証券,
+09:40,6,対象銘柄,
+09:40,7,キャンペーン詳細,249.204
+09:40,8,DünyaKedilerGünü,
+09:40,9,JISOO DIOR ADDICT CAMPAIGN,101.446
+09:40,10,HekimlerNedenEylemde,14.587
+10:10,1,スウェーデン,29.307
+10:10,2,準決勝進出,20.556
+10:10,3,Wordle 243 X,14.709
+10:10,4,SHOCK,81.999
+10:10,5,DünyaKedilerGünü,
+10:10,6,Wチャンスに挑戦,
+10:10,7,株のタイムセール,
+10:10,8,LINE証券,
+10:10,9,対象銘柄,
+10:10,10,キャンペーン詳細,245.379
+10:40,1,GetWellSoonYeonjun,26.027
+10:40,2,スウェーデン,31.670
+10:40,3,SHOCK,89.920
+10:40,4,準決勝進出,25.601
+10:40,5,Wordle 243 X,15.442
+10:40,6,DünyaKedilerGünü,
+10:40,7,オリンピックレコード,
+10:40,8,高木美帆,
+10:40,9,Wチャンスに挑戦,
+10:40,10,株のタイムセール,
+11:10,1,GetWellSoonYeonjun,36.693
+11:10,2,高木美帆,29.371
+11:10,3,スピードスケート,22.489
+11:10,4,SHOCK,93.075
+11:10,5,スウェーデン,32.601
+11:10,6,準決勝進出,28.991
+11:10,7,Wordle 243 X,16.097
+11:10,8,DünyaKedilerGünü,
+11:10,9,オリンピックレコード,
+11:10,10,エクシーズフェスティバル,10.849
+11:40,1,GetWellSoonYeonjun,40.053
+11:40,2,高木美帆,34.034
+11:40,3,SHOCK,97.778
+11:40,4,スピードスケート,28.039
+11:40,5,DünyaKedilerGünü,
+11:40,6,Wordle 243 X,16.819
+11:40,7,スウェーデン,34.222
+11:40,8,準決勝進出,31.528
+11:40,9,勝利くん,12.942
+11:40,10,VIVIZ2ndWin,13.374
+12:10,1,GetWellSoonYeonjun,43.555
+12:10,2,金メダル,59.104
+12:10,3,SHOCK,99.451
+12:10,4,DünyaKedilerGünü,
+12:10,5,ぐるナイ,
+12:10,6,あなたにとってゲームとは,
+12:10,7,スピードスケート,31.130
+12:10,8,Wordle 243 X,17.484
+12:10,9,勝利くん,14.258
+12:10,10,準決勝進出,33.042
+12:40,1,GetWellSoonYeonjun,46.648
+12:40,2,ソウルハッカーズ,25.632
+12:40,3,金メダル,62.963
+12:40,4,好きな悪魔を教えてください,
+12:40,5,ぐるナイ,10.581
+12:40,6,SHOCK,103.270
+12:40,7,DünyaKedilerGünü,
+12:40,8,Wordle 243 X,18.295
+12:40,9,勝利くん,15.454
+12:40,10,Aion,21.505
+13:10,1,GetWellSoonYeonjun,48.886
+13:10,2,ノルディック複合,13.692
+13:10,3,ソウルハッカーズ,28.133
+13:10,4,素のまんま,11.018
+13:10,5,ぐるナイ,13.728
+13:10,6,高木美帆,39.966
+13:10,7,SHOCK,103.838
+13:10,8,Wordle 243 X,19.262
+13:10,9,Aion,23.791
+13:10,10,あなたの言葉,16.270
+13:40,1,素のまんま,38.696
+13:40,2,アキロゼ生誕祭2022,35.189
+13:40,3,GetWellSoonYeonjun,51.452
+13:40,4,ノルディック複合,16.903
+13:40,5,ソウルハッカーズ,29.531
+13:40,6,Wordle 243 X,20.426
+13:40,7,SHOCK,107.334
+13:40,8,高木美帆,41.263
+13:40,9,Aion,25.125
+13:40,10,REFRESH,25.286
+14:10,1,アキロゼ生誕祭2022,53.108
+14:10,2,素のまんま,42.823
+14:10,3,Ayuso,135.085
+14:10,4,GetWellSoonYeonjun,53.386
+14:10,5,Wordle 243 X,21.589
+14:10,6,ノルディック複合,18.390
+14:10,7,ソウルハッカーズ,30.437
+14:10,8,SHOCK,107.157
+14:10,9,REFRESH,28.818
+14:10,10,Aion,25.921
+14:40,1,Ayuso,157.121
+14:40,2,アキロゼ生誕祭2022,56.457
+14:40,3,素のまんま,44.321
+14:40,4,フィギュアスケート,52.256
+14:40,5,Ferrari,43.804
+14:40,6,Wordle 243 X,22.852
+14:40,7,新葉ちゃん,
+14:40,8,GetWellSoonYeonjun,55.300
+14:40,9,トゥルソワ,
+14:40,10,ライオンキング,
+15:10,1,銅メダル,61.619
+15:10,2,フィギュアスケート,85.777
+15:10,3,Ayuso,176.614
+15:10,4,ワリエワ,72.979
+15:10,5,Ferrari,47.828
+15:10,6,葉ちゃん,17.418
+15:10,7,Wordle 243 X,24.018
+15:10,8,織田くん,
+15:10,9,アキロゼ生誕祭2022,58.733
+15:10,10,素のまんま,45.157
+15:40,1,銅メダル,85.995
+15:40,2,HOBI,405.592
+15:40,3,フィギュアスケート,111.957
+15:40,4,Ayuso,205.616
+15:40,5,ワリエワ,96.233
+15:40,6,소중한_정환이의_빛나는_열여덟,171.380
+15:40,7,happybirthdayjhope,136.269
+15:40,8,Shining18_JunghwanDay,165.029
+15:40,9,Ferrari,52.591
+15:40,10,النصر_الباطن,40.760
+16:10,1,happybirthdayjhope,252.230
+16:10,2,uarourhope,175.919
+16:10,3,HopeRightHere,142.469
+16:10,4,OurEternalHope,63.848
+16:10,5,소중한_정환이의_빛나는_열여덟,292.228
+16:10,6,Ayuso,229.594
+16:10,7,銅メダル,98.843
+16:10,8,hoseok,213.150
+16:10,9,ワリエワ,105.288
+16:10,10,坂本花織,64.381
+16:40,1,happybirthdayjhope,367.200
+16:40,2,uarourhope,236.874
+16:40,3,HopeRightHere,184.906
+16:40,4,OurEternalHope,92.925
+16:40,5,OurFebruaryMiracle,163.216
+16:40,6,hoseok,264.612
+16:40,7,Ayuso,250.582
+16:40,8,タコピー,34.760
+16:40,9,vernon,253.903
+16:40,10,銅メダル,103.894
+17:10,1,happybirthdayjhope,477.442
+17:10,2,uarourhope,288.695
+17:10,3,HopeRightHere,225.406
+17:10,4,OurEternalHope,118.219
+17:10,5,OurFebruaryMiracle,189.323
+17:10,6,hoseok,306.352
+17:10,7,タコピー,49.469
+17:10,8,Ayuso,269.313
+17:10,9,vernon,280.485
+17:10,10,junmyeon,96.186
+17:40,1,happybirthdayjhope,547.157
+17:40,2,hobi,916.956
+17:40,3,uarourhope,321.238
+17:40,4,HopeRightHere,252.390
+17:40,5,OurEternalHope,133.540
+17:40,6,OurFebruaryMiracle,208.710
+17:40,7,stranger things,63.024
+17:40,8,タコピー,58.242
+17:40,9,hoseok,338.770
+17:40,10,Ayuso,288.231
+18:10,1,happybirthdayjhope,593.769
+18:10,2,uarourhope,343.139
+18:10,3,HopeRightHere,270.252
+18:10,4,OurEternalHope,144.367
+18:10,5,OurFebruaryMiracle,221.354
+18:10,6,stranger things,78.716
+18:10,7,タコピー,63.948
+18:10,8,Ayuso,305.565
+18:10,9,hoseok,355.761
+18:10,10,vernon,310.114
+18:40,1,happybirthdayjhope,626.630
+18:40,2,uarourhope,356.614
+18:40,3,HopeRightHere,281.012
+18:40,4,OurEternalHope,151.939
+18:40,5,OurFebruaryMiracle,228.178
+18:40,6,stranger things,88.862
+18:40,7,Ayuso,325.737
+18:40,8,タコピー,67.601
+18:40,9,hoseok,371.703
+18:40,10,vernon,319.172
+19:10,1,happybirthdayjhope,653.013
+19:10,2,uarourhope,366.413
+19:10,3,HopeRightHere,288.869
+19:10,4,OurEternalHope,157.320
+19:10,5,stranger things,96.297
+19:10,6,OurFebruaryMiracle,232.641
+19:10,7,Ayuso,342.966
+19:10,8,タコピー,69.990
+19:10,9,hoseok,377.941
+19:10,10,Tarkan,24.973
+19:40,1,happybirthdayjhope,674.340
+19:40,2,الهلال_الشباب,105.723
+19:40,3,uarourhope,374.450
+19:40,4,Tarkan,48.206
+19:40,5,geççek,22.643
+19:40,6,HopeRightHere,295.188
+19:40,7,stranger things,102.773
+19:40,8,Ferran,19.637
+19:40,9,Ayuso,361.901
+19:40,10,Dortmund,27.488
+20:10,1,happybirthdayjhope,690.774
+20:10,2,Tarkan,73.754
+20:10,3,الهلال_الشباب,117.738
+20:10,4,Dortmund,41.134
+20:10,5,geççek,36.624
+20:10,6,uarourhope,380.987
+20:10,7,Ferran,30.242
+20:10,8,Rangers,44.976
+20:10,9,HopeRightHere,300.052
+20:10,10,stranger things,107.549
+20:40,1,happybirthdayjhope,708.393
+20:40,2,Ferran,53.414
+20:40,3,Tarkan,98.488
+20:40,4,الهلال_الشباب,138.056
+20:40,5,geccek,47.997
+20:40,6,Dortmund,48.486
+20:40,7,FBvSLA,10.907
+20:40,8,Rangers,49.751
+20:40,9,uarourhope,386.957
+20:40,10,Dembele,16.597
+21:10,1,Ferran,83.956
+21:10,2,Tarkan,120.260
+21:10,3,الهلال_الشباب,157.129
+21:10,4,happybirthdayjhope,724.620
+21:10,5,geccek,58.425
+21:10,6,Dortmund,57.845
+21:10,7,FBvSLA,13.079
+21:10,8,AliKocİstifa,
+21:10,9,Rangers,59.671
+21:10,10,Dembele,21.801
+21:40,1,Tarkan,139.389
+21:40,2,Ferran,92.703
+21:40,3,geccek,67.352
+21:40,4,الهلال_الشباب,172.717
+21:40,5,HappyBirthdayJhope,739.094
+21:40,6,AliKocİstifa,
+21:40,7,Dortmund,61.676
+21:40,8,FBvSLA,13.531
+21:40,9,Rangers,63.970
+21:40,10,Dembele,24.666
+22:10,1,Tarkan,160.269
+22:10,2,Ferran,98.278
+22:10,3,geççek,76.516
+22:10,4,الهلال_الشباب,178.701
+22:10,5,HappyBirthdayJhope,751.913
+22:10,6,AliKocİstifa,
+22:10,7,Dortmund,64.137
+22:10,8,GNTM,16.562
+22:10,9,Ayuso,458.915
+22:10,10,Rangers,65.986
+22:40,1,Tarkan,177.892
+22:40,2,TheApprentice,
+22:40,3,geccek,84.982
+22:40,4,Ferran,102.298
+22:40,5,HappyBirthdayJhope,767.119
+22:40,6,الهلال_الشباب,187.946
+22:40,7,gitçek,11.466
+22:40,8,Dortmund,66.602
+22:40,9,Ayuso,479.867
+22:40,10,Rangers,68.663
+23:10,1,TheApprentice,11.923
+23:10,2,Tarkan,189.336
+23:10,3,geccek,90.689
+23:10,4,Ferran,105.727
+23:10,5,DocNelleTueMani2,15.494
+23:10,6,gitçek,13.485
+23:10,7,SecretGala5,
+23:10,8,Dortmund,68.446
+23:10,9,Ayuso,492.003
+23:10,10,Rangers,70.405
+23:40,1,TheApprentice,12.828
+23:40,2,Tarkan,197.712
+23:40,3,DocNelleTueMani2,20.245
+23:40,4,geccek,94.709
+23:40,5,SecretGala5,14.561
+23:40,6,gitçek,14.932
+23:40,7,Ferran,107.439
+23:40,8,Ayuso,507.822
+23:40,9,Carille,
+23:40,10,Gerwyn Price,

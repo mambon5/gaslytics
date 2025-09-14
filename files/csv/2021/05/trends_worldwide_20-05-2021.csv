@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,River,247.991
+00:10,2,Enzo Pérez,69.550
+00:10,3,Rogério Ceni,10.886
+00:10,4,karısının,15.592
+00:10,5,Fontana,
+00:10,6,عيديه_نجلاء_عبدالعزيز,34.594
+00:10,7,RocioVerdad11,89.071
+00:10,8,Santa Fe,42.556
+00:10,9,Taylor Hall,
+00:10,10,Spurs,73.364
+00:41,1,River,292.167
+00:41,2,Arão,31.796
+00:41,3,Enzo Pérez,92.542
+00:41,4,Santa Fe,68.253
+00:41,5,Gustavo Henrique,
+00:41,6,Rogério Ceni,14.881
+00:41,7,Carrascal,10.271
+00:41,8,Fontana,
+00:41,9,عيديه_نجلاء_عبدالعزيز,57.991
+00:41,10,AEWDynamite,18.395
+01:10,1,River,319.237
+01:10,2,Arão,35.243
+01:10,3,Enzo Pérez,114.871
+01:10,4,Santa Fe,95.376
+01:10,5,Flamengo,200.464
+01:10,6,Carrascal,19.349
+01:10,7,Rogério Ceni,21.116
+01:10,8,Gustavo Henrique,
+01:10,9,Fontana,11.343
+01:10,10,عيديه_نجلاء_عبدالعزيز,79.634
+01:41,1,River,337.291
+01:41,2,Flamengo,232.384
+01:41,3,Enzo Pérez,128.935
+01:41,4,Santa Fe,110.039
+01:41,5,Arão,37.979
+01:41,6,Rogério Ceni,34.742
+01:41,7,Carrascal,22.420
+01:41,8,Bruno Viana,11.857
+01:41,9,bucciovertimechallenge,
+01:41,10,AEWDynamite,31.586
+02:10,1,River,446.588
+02:10,2,Flamengo,283.675
+02:10,3,Enzo Pérez,185.416
+02:10,4,Santa Fe,141.518
+02:10,5,Rogério Ceni,55.049
+02:10,6,Carrascal,27.276
+02:10,7,Gustavo Henrique,24.927
+02:10,8,Arão,41.501
+02:10,9,Bruno Viana,14.229
+02:10,10,Arrascaeta,18.364
+02:41,1,River,516.114
+02:41,2,Flamengo,312.034
+02:41,3,Enzo Pérez,226.082
+02:41,4,Santa Fe,160.525
+02:41,5,Rogério Ceni,61.878
+02:41,6,Lakers,120.980
+02:41,7,Kluber,31.496
+02:41,8,Wiggins,12.412
+02:41,9,Carrascal,30.244
+02:41,10,Gustavo Henrique,26.503
+03:10,1,River,532.608
+03:10,2,Lakers,146.043
+03:10,3,Flamengo,313.019
+03:10,4,Enzo Pérez,242.616
+03:10,5,Santa Fe,168.855
+03:10,6,Rogério Ceni,65.487
+03:10,7,Lebron,84.831
+03:10,8,Warriors,144.142
+03:10,9,Kluber,41.767
+03:10,10,Wiggins,16.447
+03:41,1,Lakers,187.494
+03:41,2,ベルセルク,198.073
+03:41,3,Curry,128.094
+03:41,4,River,547.389
+03:41,5,Lebron,103.561
+03:41,6,Warriors,180.317
+03:41,7,DRPowerCouple,46.757
+03:41,8,Flamengo,319.942
+03:41,9,Enzo Pérez,255.248
+03:41,10,Draymond,24.719
+04:10,1,Lakers,212.973
+04:10,2,ベルセルク,300.154
+04:10,3,Curry,144.759
+04:10,4,Lebron,119.846
+04:10,5,Berserk,68.907
+04:10,6,River,558.363
+04:10,7,Kentaro Miura,50.840
+04:10,8,三浦先生,214.587
+04:10,9,Draymond,31.235
+04:10,10,Wiggins,26.574
+04:41,1,Lebron,204.013
+04:41,2,Lakers,249.443
+04:41,3,ベルセルク,361.440
+04:41,4,Curry,172.757
+04:41,5,Berserk,112.746
+04:41,6,Draymond,45.601
+04:41,7,Kentaro Miura,81.650
+04:41,8,三浦先生,257.088
+04:41,9,LakeShow,27.341
+04:41,10,River,568.286
+05:10,1,Lebron,320.779
+05:10,2,Lakers,326.110
+05:10,3,Curry,200.688
+05:10,4,ベルセルク,401.841
+05:10,5,Berserk,143.341
+05:10,6,Draymond,58.204
+05:10,7,LakeShow,38.923
+05:10,8,Kentaro Miura,103.896
+05:10,9,三浦先生,283.953
+05:10,10,Caruso,26.551
+05:41,1,Lebron,347.881
+05:41,2,Lakers,349.510
+05:41,3,ベルセルク,436.082
+05:41,4,Curry,208.588
+05:41,5,Berserk,172.432
+05:41,6,Kentaro Miura,125.452
+05:41,7,LakeShow,41.279
+05:41,8,Draymond,61.392
+05:41,9,三浦先生,305.070
+05:41,10,Caruso,28.464
+06:10,1,Lebron,359.608
+06:10,2,Lakers,358.887
+06:10,3,ベルセルク,463.429
+06:10,4,Curry,211.840
+06:10,5,Berserk,195.911
+06:10,6,Kentaro Miura,144.389
+06:10,7,LakeShow,42.539
+06:10,8,Draymond,63.107
+06:10,9,三浦先生,322.868
+06:10,10,Caruso,29.471
+06:41,1,Lebron,369.453
+06:41,2,ベルセルク,487.537
+06:41,3,Lakers,367.904
+06:41,4,Berserk,220.787
+06:41,5,Curry,215.258
+06:41,6,Kentaro Miura,165.029
+06:41,7,LakeShow,45.011
+06:41,8,Draymond,64.387
+06:41,9,三浦先生,338.448
+06:41,10,Caruso,30.221
+07:10,1,Lebron,376.491
+07:10,2,ベルセルク,506.219
+07:10,3,Lakers,373.198
+07:10,4,Berserk,242.615
+07:10,5,Kentaro Miura,184.096
+07:10,6,Curry,216.830
+07:10,7,LakeShow,46.158
+07:10,8,Draymond,65.335
+07:10,9,三浦先生,350.597
+07:10,10,Caruso,30.847
+07:41,1,Lebron,382.705
+07:41,2,ベルセルク,524.494
+07:41,3,Berserk,264.103
+07:41,4,Kentaro Miura,203.154
+07:41,5,Lakers,378.122
+07:41,6,Curry,219.354
+07:41,7,三浦先生,363.889
+07:41,8,LakeShow,46.992
+07:41,9,Draymond,66.092
+07:41,10,sedatpeker6,
+08:10,1,Lebron,383.951
+08:10,2,Berserk,281.969
+08:10,3,ベルセルク,540.579
+08:10,4,Kentaro Miura,219.287
+08:10,5,Lakers,381.071
+08:10,6,Curry,220.479
+08:10,7,sedatpeker6,
+08:10,8,三浦先生,375.207
+08:10,9,LakeShow,47.445
+08:10,10,Draymond,66.679
+08:41,1,Berserk,299.683
+08:41,2,ベルセルク,558.226
+08:41,3,Kentaro Miura,235.246
+08:41,4,Lebron,388.195
+08:41,5,sedatpeker6,
+08:41,6,Lakers,384.119
+08:41,7,WorldBeeDay,13.833
+08:41,8,三浦先生,386.171
+08:41,9,Curry,222.659
+08:41,10,LakeShow,47.880
+09:10,1,Berserk,315.933
+09:10,2,Kentaro Miura,249.122
+09:10,3,ベルセルク,577.648
+09:10,4,Lebron,390.760
+09:10,5,sedatpeker6,11.868
+09:10,6,WorldBeeDay,16.151
+09:10,7,Lakers,386.058
+09:10,8,三浦先生,396.299
+09:10,9,Curry,223.362
+09:10,10,iKONxLisaOnKingdom,13.771
+09:41,1,iKONxLisaOnKingdom,177.699
+09:41,2,Berserk,332.654
+09:41,3,Kentaro Miura,263.503
+09:41,4,ベルセルク,598.689
+09:41,5,sedatpeker6,14.510
+09:41,6,Lalisa Collab Stage,168.477
+09:41,7,SKZAllAroundTheWORLD,84.943
+09:41,8,SKZ WORLD DOMINATION,88.796
+09:41,9,WorldBeeDay,18.685
+09:41,10,Lebron,394.144
+10:10,1,iKONxLisaOnKingdom,334.221
+10:10,2,Berserk,347.991
+10:10,3,SKZAllAroundTheWORLD,169.918
+10:10,4,SKZ WORLD DOMINATION,173.535
+10:10,5,Kentaro Miura,276.092
+10:10,6,Lalisa Collab Stage,294.993
+10:10,7,ベルセルク,619.059
+10:10,8,sedatpeker6,17.191
+10:10,9,스트레이키즈,238.300
+10:10,10,WorldBeeDay,20.785
+10:41,1,HotSauce2ndWin,22.226
+10:41,2,iKONxLisaOnKingdom,481.140
+10:41,3,SKZAllAroundTheWORLD,251.521
+10:41,4,SKZ WORLD DOMINATION,248.493
+10:41,5,VS魂,15.001
+10:41,6,스트레이키즈,318.382
+10:41,7,Berserk,365.547
+10:41,8,Lalisa Collab Stage,409.609
+10:41,9,Kentaro Miura,289.756
+10:41,10,ベルセルク,638.676
+11:10,1,HotSauce2ndWin,399.340
+11:10,2,iKONxLisaOnKingdom,614.070
+11:10,3,SKZAllAroundTheWORLD,295.000
+11:10,4,SKZ WORLD DOMINATION,292.662
+11:10,5,스트레이키즈,361.203
+11:10,6,VS魂,25.191
+11:10,7,Lalisa Collab Stage,520.201
+11:10,8,Berserk,382.888
+11:10,9,Kentaro Miura,302.842
+11:10,10,ベルセルク,654.789
+11:41,1,HotSauce2ndWin,572.223
+11:41,2,iKONxLisaOnKingdom,781.239
+11:41,3,SKZAllAroundTheWORLD,309.258
+11:41,4,SKZ WORLD DOMINATION,305.753
+11:41,5,스트레이키즈,376.520
+11:41,6,VS魂,27.282
+11:41,7,Lalisa Collab Stage,649.198
+11:41,8,Berserk,401.351
+11:41,9,Kentaro Miura,317.619
+11:41,10,inseong,13.415
+12:10,1,HotSauce2ndWin,648.615
+12:10,2,iKONxLisaOnKingdom,926.059
+12:10,3,モニタリング,14.995
+12:10,4,SKZAllAroundTheWORLD,321.797
+12:10,5,SKZ WORLD DOMINATION,316.965
+12:10,6,스트레이키즈,405.172
+12:10,7,Inseong,28.017
+12:10,8,Lalisa Collab Stage,756.435
+12:10,9,Berserk,418.628
+12:10,10,れおほー,
+12:41,1,iKONxLisaOnKingdom,1.303.583
+12:41,2,HotSauce2ndWin,701.391
+12:41,3,モニタリング,26.698
+12:41,4,素のまんま,33.055
+12:41,5,SKZAllAroundTheWORLD,339.228
+12:41,6,SKZ WORLD DOMINATION,333.628
+12:41,7,Inseong,34.884
+12:41,8,Berserk,436.018
+12:41,9,種の保存,23.648
+12:41,10,れおほー,
+13:10,1,iKONxLisaOnKingdom,1.529.344
+13:10,2,HotSauce2ndWin,738.982
+13:10,3,モニタリング,30.932
+13:10,4,SKZAllAroundTheWORLD,356.393
+13:10,5,素のまんま,35.176
+13:10,6,SKZ WORLD DOMINATION,349.665
+13:10,7,Inseong,39.995
+13:10,8,Berserk,452.055
+13:10,9,種の保存,27.634
+13:10,10,衝撃的データ,
+13:41,1,iKONxLisaOnKingdom,1.661.268
+13:41,2,HotSauce2ndWin,830.205
+13:41,3,モニタリング,32.182
+13:41,4,StrayKids,607.269
+13:41,5,SKZAllAroundTheWORLD,362.117
+13:41,6,SKZ WORLD DOMINATION,355.235
+13:41,7,衝撃的データ,
+13:41,8,種の保存,31.576
+13:41,9,Inseong,44.284
+13:41,10,Berserk,470.595
+14:10,1,iKONxLisaOnKingdom,1.765.352
+14:10,2,HotSauce2ndWin,890.961
+14:10,3,Marcos Rogério,24.118
+14:10,4,モニタリング,33.102
+14:10,5,期限延長,
+14:10,6,衝撃的データ,
+14:10,7,StrayKids,629.749
+14:10,8,ゴジラSP,17.452
+14:10,9,SKZ WORLD DOMINATION,359.417
+14:10,10,種の保存,34.100
+14:41,1,iKONxLisaOnKingdom,1.847.529
+14:41,2,期限延長,
+14:41,3,HotSauce2ndWin,920.260
+14:41,4,SOUROlivia,
+14:41,5,Marcos Rogério,28.686
+14:41,6,Otto Alencar,21.083
+14:41,7,衝撃的データ,11.181
+14:41,8,モニタリング,33.669
+14:41,9,StrayKids,654.725
+14:41,10,種の保存,37.329
+15:10,1,iKONxLisaOnKingdom,1.916.587
+15:10,2,SOUROlivia,
+15:10,3,期限延長,11.355
+15:10,4,PRODUCE101JAPAN2,40.822
+15:10,5,뉴이스트_기둥_곽아론_생일축하해,27.953
+15:10,6,衝撃的データ,12.787
+15:10,7,CHECK OUT B.I LIVE FILM,40.940
+15:10,8,ゾンビランドサガ,16.152
+15:10,9,Marcos Rogério,31.424
+15:10,10,Otto Alencar,22.520
+15:41,1,ButterToday,94.241
+15:41,2,Taste_of_Love,146.826
+15:41,3,iKONxLisaOnKingdom,1.976.767
+15:41,4,SOUROlivia,10.936
+15:41,5,CHECK OUT B.I LIVE FILM,68.939
+15:41,6,ゾンビランドサガ,24.123
+15:41,7,Marcos do Val,
+15:41,8,B'zサブスク解禁,
+15:41,9,期限延長,12.594
+15:41,10,衝撃的データ,13.940
+16:10,1,ButterToday,140.963
+16:10,2,سمير_غانم,11.853
+16:10,3,Taste_of_Love,179.803
+16:10,4,SOUROlivia,14.163
+16:10,5,ゾンビランドサガ,28.609
+16:10,6,B'zサブスク解禁,
+16:10,7,CHECK OUT B.I LIVE FILM,79.553
+16:10,8,期限延長,13.286
+16:10,9,Marcos do Val,
+16:10,10,자캐 만들기,
+16:41,1,ButterToday,166.844
+16:41,2,سمير_غانم,21.685
+16:41,3,SOUROlivia,18.224
+16:41,4,Taste_of_Love,201.123
+16:41,5,HeartbreakAnthem,24.977
+16:41,6,B'zサブスク解禁,11.086
+16:41,7,Simone Tebet,
+16:41,8,CHECK OUT B.I LIVE FILM,84.988
+16:41,9,자캐 만들기,
+16:41,10,다음 커뮤,
+17:10,1,ButterToday,181.631
+17:10,2,سمير_غانم,27.831
+17:10,3,SOUROlivia,21.666
+17:10,4,HeartbreakAnthem,31.805
+17:10,5,Taste_of_Love,211.260
+17:10,6,B'zサブスク解禁,12.201
+17:10,7,Simone Tebet,
+17:10,8,자캐 만들기,
+17:10,9,다음 커뮤,
+17:10,10,CHECK OUT B.I LIVE FILM,87.624
+17:41,1,ButterToday,193.742
+17:41,2,سمير_غانم,34.738
+17:41,3,lana,61.980
+17:41,4,SOUROlivia,24.396
+17:41,5,HeartbreakAnthem,37.099
+17:41,6,الاتحاد_ابها,15.126
+17:41,7,B'zサブスク解禁,12.969
+17:41,8,Simone Tebet,11.122
+17:41,9,자캐 만들기,
+17:41,10,다음 커뮤,
+18:10,1,ButterToday,203.534
+18:10,2,lana,66.100
+18:10,3,سمير_غانم,40.515
+18:10,4,SOUROlivia,26.345
+18:10,5,الاتحاد_ابها,18.044
+18:10,6,HeartbreakAnthem,40.512
+18:10,7,SnSoyluAfada TeknikKadro,
+18:10,8,B'zサブスク解禁,13.422
+18:10,9,자캐 만들기,
+18:10,10,다음 커뮤,
+18:41,1,lana,72.577
+18:41,2,ButterToday,212.956
+18:41,3,سمير_غانم,45.057
+18:41,4,SOUROlivia,28.053
+18:41,5,الاتحاد_ابها,22.184
+18:41,6,UnitedForPalestine,132.826
+18:41,7,SnSoyluAfada TeknikKadro,
+18:41,8,INGRID ETERNO CACTO,
+18:41,9,B'zサブスク解禁,13.845
+18:41,10,SEEING GREEN FINALE,32.207
+19:10,1,lana,75.188
+19:10,2,ButterToday,221.368
+19:10,3,سمير_غانم,49.962
+19:10,4,Eurovision,53.718
+19:10,5,SOUROlivia,29.525
+19:10,6,EuroSemi2,
+19:10,7,Önemli SırAçıklandı,
+19:10,8,Gençlik Partisi,
+19:10,9,LaCasa DePapel,
+19:10,10,INGRID ETERNO CACTO,
+19:41,1,Eurovision,140.337
+19:41,2,EuroSemi2,15.721
+19:41,3,San Marino,13.858
+19:41,4,Flo Rida,10.220
+19:41,5,lana,79.443
+19:41,6,ButterToday,230.194
+19:41,7,Estonia,
+19:41,8,النصر_الرايد,49.375
+19:41,9,سمير_غانم,53.949
+19:41,10,Greece,28.434
+20:10,1,Eurovision,246.382
+20:10,2,EuroSemi2,30.739
+20:10,3,San Marino,14.958
+20:10,4,النصر_الرايد,63.238
+20:10,5,Iceland,18.258
+20:10,6,Finland,20.109
+20:10,7,Flo Rida,10.868
+20:10,8,lana,80.802
+20:10,9,ESCita,17.166
+20:10,10,ButterToday,238.091
+20:41,1,Eurovision,336.143
+20:41,2,EuroSemi2,43.908
+20:41,3,San Marino,19.568
+20:41,4,Finland,28.526
+20:41,5,Iceland,22.964
+20:41,6,النصر_الرايد,75.237
+20:41,7,Bulgaria,17.187
+20:41,8,Serbia,16.854
+20:41,9,ESCita,23.847
+20:41,10,SVGala7,
+21:10,1,Eurovision,398.099
+21:10,2,EuroSemi2,52.148
+21:10,3,Finland,31.955
+21:10,4,San Marino,23.365
+21:10,5,Iceland,26.430
+21:10,6,Portugal,65.806
+21:10,7,Bulgaria,19.180
+21:10,8,SVGala7,
+21:10,9,Serbia,19.786
+21:10,10,النصر_الرايد,83.249
+21:41,1,Eurovision,421.630
+21:41,2,EuroSemi2,54.971
+21:41,3,Finland,34.593
+21:41,4,San Marino,25.193
+21:41,5,Iceland,27.956
+21:41,6,Portugal,70.027
+21:41,7,SVGala7,12.319
+21:41,8,غزه_تنتصر,129.748
+21:41,9,ButterToday,261.443
+21:41,10,Bulgaria,20.145
+22:10,1,Eurovision,430.535
+22:10,2,EuroSemi2,56.309
+22:10,3,Finland,33.809
+22:10,4,SVGala7,17.465
+22:10,5,غزه_تنتصر,138.926
+22:10,6,San Marino,25.833
+22:10,7,Iceland,28.473
+22:10,8,emmnac,
+22:10,9,Portugal,69.824
+22:10,10,ARTHURPICOLI NA QUEM,107.230
+22:41,1,Eurovision,438.151
+22:41,2,غزه_تنتصر,155.970
+22:41,3,SVGala7,22.916
+22:41,4,EuroSemi2,57.190
+22:41,5,ButterToday,283.488
+22:41,6,Finland,34.449
+22:41,7,San Marino,26.535
+22:41,8,Iceland,29.206
+22:41,9,Rita Lee,
+22:41,10,Portugal,72.044
+23:10,1,Eurovision,441.658
+23:10,2,غزه_تنتصر,173.987
+23:10,3,SVGala7,30.748
+23:10,4,ButterToday,299.150
+23:10,5,SOUROlivia,53.552
+23:10,6,Finland,34.205
+23:10,7,LIVE MEK COM SARAH,59.497
+23:10,8,Rita Lee,
+23:10,9,San Marino,26.799
+23:10,10,Copa América,97.325
+23:41,1,غزه_تنتصر,217.281
+23:41,2,Eurovision,446.053
+23:41,3,ButterToday,316.879
+23:41,4,SVGala7,40.390
+23:41,5,فلسطين_تنتصر,116.951
+23:41,6,Alberto,96.539
+23:41,7,LIVE MEK COM SARAH,67.011
+23:41,8,Copa América,106.792
+23:41,9,Rita Lee,
+23:41,10,大雨警報,24.603

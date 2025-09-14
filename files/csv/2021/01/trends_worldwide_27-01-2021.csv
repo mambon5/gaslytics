@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Lukaku,164.926
+00:09,2,InterMilan,57.513
+00:09,3,Ibra,79.237
+00:09,4,Zlatan,111.110
+00:09,5,Granada,54.432
+00:09,6,Cedric,42.706
+00:09,7,Saka,90.505
+00:09,8,SOUARS,36.260
+00:09,9,GameStop,53.550
+00:09,10,survivorGR,52.043
+00:39,1,Lukaku,174.733
+00:39,2,Granada,71.323
+00:39,3,Ibra,83.439
+00:39,4,Zlatan,116.884
+00:39,5,InterMilan,59.300
+00:39,6,SpainRP2Years,13.891
+00:39,7,Cedric,43.539
+00:39,8,Saka,93.535
+00:39,9,GameStop,59.499
+00:39,10,Benitez,14.076
+01:09,1,Granada,83.541
+01:09,2,Lukaku,181.774
+01:09,3,SpainRP2Years,21.462
+01:09,4,Zlatan,120.873
+01:09,5,Ibra,86.069
+01:09,6,Benitez,22.173
+01:09,7,InterMilan,60.587
+01:09,8,GameStop,64.112
+01:09,9,Curt Schilling,10.817
+01:09,10,Cedric,42.307
+01:39,1,Granada,91.881
+01:39,2,Lukaku,186.887
+01:39,3,SpainRP2Years,25.939
+01:39,4,GameStop,69.598
+01:39,5,Zlatan,124.282
+01:39,6,Keno,
+01:39,7,Ibra,87.819
+01:39,8,Benitez,23.901
+01:39,9,Curt Schilling,12.759
+01:39,10,Clemens,
+02:09,1,Granada,97.081
+02:09,2,Lukaku,190.442
+02:09,3,SpainRP2Years,28.914
+02:09,4,GameStop,73.592
+02:09,5,Keno,10.667
+02:09,6,Curt Schilling,14.073
+02:09,7,Genesis06,21.407
+02:09,8,Clemens,
+02:09,9,Zlatan,126.351
+02:09,10,Benitez,25.535
+02:39,1,Granada,100.291
+02:39,2,GameStop,79.146
+02:39,3,SpainRP2Years,30.838
+02:39,4,Lukaku,193.272
+02:39,5,Curt Schilling,15.058
+02:39,6,Keno,11.404
+02:39,7,ProtectNayeon,16.181
+02:39,8,Clemens,
+02:39,9,Hall of Fame,32.365
+02:39,10,Genesis06,23.044
+03:09,1,Rafael Portugal,63.265
+03:09,2,Lucas,522.852
+03:09,3,BBBB21,85.278
+03:09,4,ProtectNayeon,46.989
+03:09,5,juliette,448.828
+03:09,6,Nego,310.187
+03:09,7,Sagasti,22.384
+03:09,8,maria fifi,17.811
+03:09,9,Caio,226.590
+03:09,10,GameStop,83.269
+03:39,1,Lucas,561.202
+03:39,2,Rafael Portugal,72.830
+03:39,3,BBBB21,106.980
+03:39,4,juliette,527.562
+03:39,5,ProtectNayeon,75.157
+03:39,6,Fiuk,1.144.032
+03:39,7,Projota,631.139
+03:39,8,Nego,332.483
+03:39,9,Sagasti,34.043
+03:39,10,Caio,240.712
+04:09,1,Lucas,564.005
+04:09,2,Lucas,564.005
+04:09,3,Caio,263.744
+04:09,4,BBBB21,114.084
+04:09,5,Fiuk,1.155.872
+04:09,6,juliette,524.282
+04:09,7,Rafael Portugal,73.318
+04:09,8,ProtectNayeon,89.537
+04:09,9,Austin Rivers,
+04:09,10,Nego,339.700
+04:39,1,Lucas,598.312
+04:39,2,Lucas,598.312
+04:39,3,Caio,281.403
+04:39,4,BBBB21,123.462
+04:39,5,Fiuk,1.242.984
+04:39,6,juliette,559.721
+04:39,7,Rafael Portugal,74.416
+04:39,8,ProtectNayeon,99.611
+04:39,9,watermelon sugar,17.286
+04:39,10,Austin Rivers,
+05:09,1,Lucas,599.626
+05:09,2,Lucas,599.626
+05:09,3,Caio,282.453
+05:09,4,Fiuk,1.217.627
+05:09,5,BBBB21,128.292
+05:09,6,juliette,525.143
+05:09,7,ProtectNayeon,111.770
+05:09,8,Rafael Portugal,74.580
+05:09,9,watermelon sugar,28.853
+05:09,10,Austin Rivers,
+05:39,1,Caio,293.291
+05:39,2,Lucas,611.086
+05:39,3,Fiuk,1.253.041
+05:39,4,BBBB21,133.206
+05:39,5,juliette,536.230
+05:39,6,ProtectNayeon,124.077
+05:39,7,Projota,711.252
+05:39,8,watermelon sugar,32.964
+05:39,9,Rafael Portugal,75.072
+05:39,10,初PCの思い出,13.473
+06:09,1,Caio,295.187
+06:09,2,Lucas,609.840
+06:09,3,Fiuk,1.224.803
+06:09,4,ProtectNayeon,132.668
+06:09,5,BBBB21,133.727
+06:09,6,セタンタ,11.809
+06:09,7,Juliette,517.908
+06:09,8,watermelon sugar,34.685
+06:09,9,Projota,697.053
+06:09,10,Rafael Portugal,74.986
+06:39,1,セタンタ,41.071
+06:39,2,アーケード,16.485
+06:39,3,Caio,299.104
+06:39,4,ProtectNayeon,140.231
+06:39,5,Lucas,615.629
+06:39,6,BBB21,1.465.118
+06:39,7,Fiuk,1.239.348
+06:39,8,生活保護,41.593
+06:39,9,Juliette,523.711
+06:39,10,watermelon sugar,35.968
+07:09,1,セタンタ,59.407
+07:09,2,アーケード,25.216
+07:09,3,Caio,296.772
+07:09,4,ProtectNayeon,144.966
+07:09,5,生活保護,44.871
+07:09,6,BBB21,1.459.177
+07:09,7,Gilberto,206.638
+07:09,8,Lucas,613.684
+07:09,9,初PCの思い出,17.417
+07:09,10,Fiuk,1.228.568
+07:39,1,セタンタ,74.170
+07:39,2,アーケード,30.415
+07:39,3,生活保護,51.223
+07:39,4,ProtectNayeon,148.888
+07:39,5,BBB21,1.469.451
+07:39,6,Caio,298.448
+07:39,7,初PCの思い出,18.529
+07:39,8,Lucas,617.804
+07:39,9,Gilberto,213.615
+07:39,10,SHINee,171.013
+08:09,1,セタンタ,86.253
+08:09,2,アーケード,33.917
+08:09,3,生活保護,56.246
+08:09,4,BBB21,1.462.389
+08:09,5,ProtectNayeon,152.561
+08:09,6,初PCの思い出,19.411
+08:09,7,Lucas,616.050
+08:09,8,Lifetime,68.374
+08:09,9,定額給付金の予定,17.729
+08:09,10,Çarşamba,
+08:39,1,セタンタ,95.868
+08:39,2,アーケード,36.981
+08:39,3,生活保護,62.659
+08:39,4,MazlumunSesiMecliste,
+08:39,5,カジノフォンテン,
+08:39,6,Lifetime,72.597
+08:39,7,川崎記念,13.331
+08:39,8,wednesdaythought,17.014
+08:39,9,ProtectNayeon,156.089
+08:39,10,xiao,143.681
+09:09,1,セタンタ,104.398
+09:09,2,アーケード,39.475
+09:09,3,NCT127DAY,198.871
+09:09,4,生活保護,67.893
+09:09,5,MazlumunSesiMecliste,
+09:09,6,カジノフォンテン,
+09:09,7,Lifetime,74.100
+09:09,8,아이유_Celebrity_6시발매,
+09:09,9,HolocaustMemorialDay,12.402
+09:09,10,川崎記念,13.862
+09:39,1,セタンタ,112.649
+09:39,2,아이유_Celebrity_6시발매,44.066
+09:39,3,アーケード,42.203
+09:39,4,NCT127DAY,221.055
+09:39,5,生活保護,74.790
+09:39,6,HolocaustMemorialDay,15.858
+09:39,7,Giornatadellamemoria,10.524
+09:39,8,WeRemember,25.625
+09:39,9,Lifetime,77.648
+09:39,10,OUR ICON OF GROWTH JAKE,50.171
+10:09,1,아이유_Celebrity_6시발매,72.329
+10:09,2,セタンタ,123.126
+10:09,3,HolocaustMemorialDay,19.921
+10:09,4,NCT127DAY,237.494
+10:09,5,アーケード,45.548
+10:09,6,WeRemember,28.746
+10:09,7,生活保護,80.734
+10:09,8,Giornatadellamemoria,12.251
+10:09,9,YG Plus,38.967
+10:09,10,GOT NO ONE BUT BEOMGYU,29.253
+10:39,1,아이유_Celebrity_6시발매,101.030
+10:39,2,セタンタ,132.624
+10:39,3,HolocaustMemorialDay,25.536
+10:39,4,bighit,309.378
+10:39,5,IU5ISCOMING,42.504
+10:39,6,NCT127DAY,259.561
+10:39,7,WeRemember,32.271
+10:39,8,アーケード,48.787
+10:39,9,YG Plus,71.166
+10:39,10,生活保護,88.031
+11:09,1,아이유_Celebrity_6시발매,122.631
+11:09,2,HolocaustMemorialDay,31.502
+11:09,3,セタンタ,140.749
+11:09,4,bighit,345.612
+11:09,5,WeRemember,35.874
+11:09,6,IU5ISCOMING,49.692
+11:09,7,NCT127DAY,277.271
+11:09,8,YG Plus,104.510
+11:09,9,アーケード,51.599
+11:09,10,生活保護,93.947
+11:39,1,아이유_Celebrity_6시발매,136.523
+11:39,2,HolocaustMemorialDay,37.742
+11:39,3,セタンタ,148.189
+11:39,4,bighit,374.349
+11:39,5,WeRemember,39.731
+11:39,6,有吉の壁,
+11:39,7,NCT127DAY,324.852
+11:39,8,生活保護,100.984
+11:39,9,YG Plus,124.085
+11:39,10,アーケード,54.092
+12:09,1,HolocaustMemorialDay,43.505
+12:09,2,아이유_Celebrity_6시발매,146.979
+12:09,3,WeRemember,43.584
+12:09,4,有吉の壁,
+12:09,5,セタンタ,155.605
+12:09,6,bighit,381.434
+12:09,7,東大王,
+12:09,8,生活保護,107.459
+12:09,9,Weverse,439.191
+12:09,10,YG Plus,140.335
+12:39,1,HolocaustMemorialDay,49.600
+12:39,2,아이유_Celebrity_6시발매,155.866
+12:39,3,WeRemember,47.988
+12:39,4,Fawad Alam,
+12:39,5,bighit,398.985
+12:39,6,有吉の壁,
+12:39,7,セタンタ,161.846
+12:39,8,ミラクル9,
+12:39,9,生活保護,115.773
+12:39,10,ロクシタン,15.836
+13:09,1,ThankYouBTSAESO,54.819
+13:09,2,HolocaustMemorialDay,55.403
+13:09,3,突然ですが占ってもいいですか,
+13:09,4,WeRemember,51.823
+13:09,5,MSIずしり,
+13:09,6,MSIゲーマーズ,
+13:09,7,Fawad Alam,12.103
+13:09,8,bighit,404.107
+13:09,9,セタンタ,168.136
+13:09,10,ロクシタン,19.180
+13:39,1,ThankYouBTSAESO,103.842
+13:39,2,突然ですが占ってもいいですか,11.463
+13:39,3,HolocaustMemorialDay,61.353
+13:39,4,MSIゲーマーズ,11.641
+13:39,5,PMQs,10.175
+13:39,6,Merciไบร์ทไลฟ์เพราะคิดถึง,115.239
+13:39,7,Fawad Alam,13.783
+13:39,8,ロクシタン,22.387
+13:39,9,bighit,417.103
+13:39,10,Auschwitz,120.226
+14:09,1,ThankYouBTSAESO,103.140
+14:09,2,突然ですが占ってもいいですか,18.656
+14:09,3,HolocaustMemorialDay,66.914
+14:09,4,PMQs,13.726
+14:09,5,MSIゲーマーズ,13.603
+14:09,6,Merciไบร์ทไลฟ์เพราะคิดถึง,175.307
+14:09,7,Fawad Alam,15.660
+14:09,8,ロクシタン,25.014
+14:09,9,Auschwitz,132.011
+14:09,10,bighit,419.238
+14:39,1,突然ですが占ってもいいですか,39.789
+14:39,2,ThankYouBTSAESO,98.770
+14:39,3,HolocaustMemorialDay,72.710
+14:39,4,Merciไบร์ทไลฟ์เพราะคิดถึง,248.371
+14:39,5,PMQs,16.058
+14:39,6,MSIゲーマーズ,14.616
+14:39,7,聡ちゃん,
+14:39,8,風磨くん,
+14:39,9,萩花ちゃん,
+14:39,10,Auschwitz,143.469
+15:09,1,突然ですが占ってもいいですか,45.517
+15:09,2,ThankYouBTSAESO,97.153
+15:09,3,HolocaustMemorialDay,78.360
+15:09,4,水曜日のダウンタウン,
+15:09,5,ünililersokağadökülecek,28.332
+15:09,6,MSIゲーマーズ,15.320
+15:09,7,聡ちゃん,11.202
+15:09,8,Efraín Ruales,11.265
+15:09,9,風磨くん,
+15:09,10,限界同人ヲタクビンゴ,
+15:39,1,突然ですが占ってもいいですか,49.196
+15:39,2,ThankYouBTSAESO,97.291
+15:39,3,HolocaustMemorialDay,83.943
+15:39,4,ünililersokağadökülecek,32.146
+15:39,5,Efraín Ruales,22.653
+15:39,6,水曜日のダウンタウン,
+15:39,7,聡ちゃん,12.226
+15:39,8,限界同人ヲタクビンゴ,
+15:39,9,Auschwitz,166.211
+15:39,10,風磨くん,
+16:09,1,突然ですが占ってもいいですか,51.114
+16:09,2,君はPUIPUIできるか,
+16:09,3,ThankYouBTSAESO,97.254
+16:09,4,HolocaustMemorialDay,89.902
+16:09,5,Efraín Ruales,33.882
+16:09,6,ünililersokağadökülecek,34.825
+16:09,7,GameStop,203.222
+16:09,8,Bucaram,
+16:09,9,Robinhood,
+16:09,10,Auschwitz,178.296
+16:39,1,君はPUIPUIできるか,
+16:39,2,突然ですが占ってもいいですか,52.234
+16:39,3,Efraín Ruales,45.381
+16:39,4,HolocaustMemorialDay,95.431
+16:39,5,GameStop,219.880
+16:39,6,ünililersokağadökülecek,37.221
+16:39,7,ThankYouBTSAESO,97.948
+16:39,8,Robinhood,
+16:39,9,Bucaram,14.666
+16:39,10,Wall Street,106.337
+17:09,1,君はPUIPUIできるか,
+17:09,2,GameStop,18.769
+17:09,3,HolocaustMemorialDay,101.347
+17:09,4,Efraín Ruales,55.335
+17:09,5,Robinhood,42.122
+17:09,6,突然ですが占ってもいいですか,52.919
+17:09,7,shadowandbone,
+17:09,8,ünililersokağadökülecek,40.226
+17:09,9,Bucaram,20.016
+17:09,10,Wall Street,117.175
+17:39,1,GameStop,20.746
+17:39,2,君はPUIPUIできるか,
+17:39,3,乃木坂46ann,11.469
+17:39,4,HolocaustRemembranceDay,73.191
+17:39,5,Wall Street,131.885
+17:39,6,Robinhood,
+17:39,7,Reddit,258.613
+17:39,8,Efraín Ruales,63.422
+17:39,9,ünililersokağadökülecek,43.392
+17:39,10,shadowandbone,
+18:09,1,GameStop,21.763
+18:09,2,乃木坂46ANN,14.570
+18:09,3,君はPUIPUIできるか,
+18:09,4,HolocaustRemembranceDay,80.021
+18:09,5,Wall Street,143.845
+18:09,6,Reddit,269.722
+18:09,7,Robinhood,49.343
+18:09,8,KabineTekte60BiniVer,344.625
+18:09,9,GenYfinalEP,96.456
+18:09,10,Efraín Ruales,69.524
+18:39,1,HALSEY,97.449
+18:39,2,GameStop,23.493
+18:39,3,WALLS350M,22.805
+18:39,4,Wall Street,10.372
+18:39,5,HolocaustRemembranceDay,87.498
+18:39,6,乃木坂46ANN,18.761
+18:39,7,Reddit,286.275
+18:39,8,CHEWOL,19.487
+18:39,9,شايب_عتيبه10,
+18:39,10,CNBC,80.143
+19:09,1,HALSEY,169.896
+19:09,2,WALLS350M,77.769
+19:09,3,GameStop,319.509
+19:09,4,CHEWOL,26.016
+19:09,5,Wall Street,170.677
+19:09,6,乃木坂46ANN,22.770
+19:09,7,Reddit,299.150
+19:09,8,CNBC,82.476
+19:09,9,HolocaustRemembranceDay,94.177
+19:09,10,PROUD OF LOUIS,10.911
+19:39,1,halsey,207.837
+19:39,2,WALLS350M,110.272
+19:39,3,GameStop,343.462
+19:39,4,CHEWOL,31.355
+19:39,5,PROUD OF LOUIS,27.772
+19:39,6,Chloe,69.179
+19:39,7,Wall Street,186.253
+19:39,8,Reddit,317.299
+19:39,9,HolocaustRemembranceDay,101.448
+19:39,10,YoNoMeVacuno,11.242
+20:09,1,halsey,232.775
+20:09,2,WALLS350M,126.421
+20:09,3,GameStop,369.698
+20:09,4,CHEWOL,38.000
+20:09,5,PROUD OF LOUIS,35.854
+20:09,6,Wall Street,200.143
+20:09,7,Chloe,72.447
+20:09,8,Reddit,331.501
+20:09,9,YoNoMeVacuno,14.265
+20:09,10,HolocaustRemembranceDay,107.699
+20:39,1,halsey,251.088
+20:39,2,WALLS350M,134.254
+20:39,3,GameStop,397.732
+20:39,4,CHEWOL,41.976
+20:39,5,Lumena,166.844
+20:39,6,PROUD OF LOUIS,39.935
+20:39,7,Wall Street,215.872
+20:39,8,Reddit,352.431
+20:39,9,Chloe,77.366
+20:39,10,silhouettechallenge,21.091
+21:09,1,halsey,265.087
+21:09,2,CHEWOL,47.521
+21:09,3,GameStop,32.219
+21:09,4,Lumena,216.400
+21:09,5,Trabzonspor,
+21:09,6,WALLS350M,137.516
+21:09,7,Reddit,367.829
+21:09,8,Wall Street,229.820
+21:09,9,silhouettechallenge,25.896
+21:09,10,PROUD OF LOUIS,41.892
+21:39,1,Halsey,276.334
+21:39,2,Trabzonspor,15.833
+21:39,3,Lumena,252.192
+21:39,4,GameStop,33.963
+21:39,5,CHEWOL,51.335
+21:39,6,WALLS350M,140.151
+21:39,7,Sadakatsiz,
+21:39,8,silhouettechallenge,31.661
+21:39,9,Reddit,386.705
+21:39,10,Wall Street,15.052
+22:09,1,Halsey,286.245
+22:09,2,MUNSHU,32.864
+22:09,3,Lumena,279.349
+22:09,4,Trabzonspor,18.993
+22:09,5,GameStop,466.427
+22:09,6,Martial,29.931
+22:09,7,De Gea,
+22:09,8,CHEWOL,53.891
+22:09,9,silhouettechallenge,38.006
+22:09,10,Sadakatsiz,
+22:39,1,Halsey,295.018
+22:39,2,MUNSHU,37.236
+22:39,3,Martial,37.590
+22:39,4,Lumena,301.369
+22:39,5,GameStop,494.001
+22:39,6,Trabzonspor,21.119
+22:39,7,Cavani,19.626
+22:39,8,De Gea,12.598
+22:39,9,LaCaserma,
+22:39,10,silhouettechallenge,45.480
+23:09,1,Martial,56.831
+23:09,2,MUNSHU,48.388
+23:09,3,Halsey,303.323
+23:09,4,Maguire,23.353
+23:09,5,Lumena,319.857
+23:09,6,GameStop,37.502
+23:09,7,Cavani,22.619
+23:09,8,De Gea,15.085
+23:09,9,Sheffield,52.151
+23:09,10,Tuanzebe,
+23:39,1,Martial,87.969
+23:39,2,MUNSHU,65.358
+23:39,3,Sheffield United,52.211
+23:39,4,MUFC,66.906
+23:39,5,Tuanzebe,15.731
+23:39,6,Halsey,311.225
+23:39,7,Cavani,26.877
+23:39,8,Maguire,26.416
+23:39,9,GameStop,39.239
+23:39,10,Lumena,336.905

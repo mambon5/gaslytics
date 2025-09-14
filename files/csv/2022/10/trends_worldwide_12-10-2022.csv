@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Angela Lansbury,152.266
+00:10,2,Murder She Wrote,52.255
+00:10,3,Rudiger,46.440
+00:10,4,Verlander,14.928
+00:10,5,PortfolioDay,201.688
+00:10,6,COYGIG,10.986
+00:10,7,Chelsea,221.346
+00:10,8,VoleiNoSporTV,54.906
+00:10,9,Jessica Fletcher,15.374
+00:10,10,NationalComingOutDay,48.240
+00:40,1,Angela Lansbury,163.640
+00:40,2,Murder She Wrote,55.411
+00:40,3,Rudiger,49.692
+00:40,4,PortfolioDay,211.859
+00:40,5,COYGIG,11.704
+00:40,6,Verlander,15.762
+00:40,7,NationalComingOutDay,50.110
+00:40,8,Chelsea,227.856
+00:40,9,Jessica Fletcher,16.534
+00:40,10,Bedknobs and Broomsticks,
+01:10,1,Angela Lansbury,173.502
+01:10,2,Murder She Wrote,58.562
+01:10,3,PortfolioDay,221.319
+01:10,4,Rudiger,51.891
+01:10,5,NationalComingOutDay,51.835
+01:10,6,COYGIG,12.108
+01:10,7,Nikolas,165.942
+01:10,8,Verlander,16.236
+01:10,9,Jessica Fletcher,17.418
+01:10,10,Mariners,43.269
+01:40,1,Angela Lansbury,183.244
+01:40,2,Robbie Ray,
+01:40,3,Astros,75.671
+01:40,4,Yordan,34.503
+01:40,5,Mariners,57.250
+01:40,6,LevelUp,14.124
+01:40,7,Murder She Wrote,61.982
+01:40,8,PortfolioDay,230.631
+01:40,9,Nikolas,189.268
+01:40,10,NationalComingOutDay,53.644
+02:10,1,Angela Lansbury,191.983
+02:10,2,Robbie Ray,
+02:10,3,Astros,86.609
+02:10,4,Yordan,42.121
+02:10,5,Mariners,60.205
+02:10,6,LevelUp,16.442
+02:10,7,Murder She Wrote,65.171
+02:10,8,PortfolioDay,239.778
+02:10,9,Nikolas,208.245
+02:10,10,人身事故,
+02:40,1,Angela Lansbury,199.418
+02:40,2,Robbie Ray,
+02:40,3,Astros,93.388
+02:40,4,Yordan,45.902
+02:40,5,Mariners,62.377
+02:40,6,Bob Costas,
+02:40,7,Gerrit Cole,
+02:40,8,LevelUp,17.644
+02:40,9,PortfolioDay,248.848
+02:40,10,Yankees,72.889
+03:10,1,Angela Lansbury,207.042
+03:10,2,Robbie Ray,
+03:10,3,Bader,13.242
+03:10,4,Astros,97.446
+03:10,5,Yordan,48.582
+03:10,6,Mariners,62.933
+03:10,7,Bob Costas,
+03:10,8,TheWinchesters,21.771
+03:10,9,RepBX,18.615
+03:10,10,Yankees,77.292
+03:40,1,Donaldson,
+03:40,2,Bob Costas,
+03:40,3,Rizzo,
+03:40,4,Angela Lansbury,213.716
+03:40,5,Yankees,
+03:40,6,RepBX,20.655
+03:40,7,Bader,13.897
+03:40,8,Robbie Ray,
+03:40,9,Astros,101.983
+03:40,10,Yordan,50.982
+04:10,1,Donaldson,
+04:10,2,Travessia,87.948
+04:10,3,Bob Costas,
+04:10,4,Rizzo,11.283
+04:10,5,BachelorInParadise,19.483
+04:10,6,Yankees,92.987
+04:10,7,Angela Lansbury,220.401
+04:10,8,RepBX,20.791
+04:10,9,ENGFA_SwimsuitMGI2022,103.164
+04:10,10,Bader,13.909
+04:40,1,RoçaAFazenda,32.511
+04:40,2,Bob Costas,
+04:40,3,Yankees,101.551
+04:40,4,Rizzo,12.724
+04:40,5,RepBX,24.016
+04:40,6,Donaldson,10.230
+04:40,7,Travessia,92.383
+04:40,8,ENGFA_SwimsuitMGI2022,152.125
+04:40,9,BachelorInParadise,20.052
+04:40,10,Trea,
+05:10,1,RoçaAFazenda,77.958
+05:10,2,LMD5,
+05:10,3,Yankees,107.319
+05:10,4,Dodgers,61.334
+05:10,5,RepBX,25.377
+05:10,6,Bob Costas,
+05:10,7,Rizzo,13.488
+05:10,8,ENGFA_SwimsuitMGI2022,189.742
+05:10,9,Donaldson,10.445
+05:10,10,Essa Bia,11.952
+05:40,1,RoçaAFazenda,116.490
+05:40,2,LMD5,11.141
+05:40,3,Dodgers,66.345
+05:40,4,Yankees,110.693
+05:40,5,Shay,34.777
+05:40,6,Tati,22.354
+05:40,7,RepBX,26.267
+05:40,8,Bob Costas,
+05:40,9,ENGFA_SwimsuitMGI2022,219.911
+05:40,10,Rizzo,13.830
+06:10,1,RoçaAFazenda,130.404
+06:10,2,LMD5,13.767
+06:10,3,Dodgers,67.088
+06:10,4,MARK LEE,30.203
+06:10,5,Tati,30.481
+06:10,6,ENGFA_SwimsuitMGI2022,263.938
+06:10,7,Shay,38.014
+06:10,8,VenmoMe,
+06:10,9,Yankees,111.938
+06:10,10,Bob Costas,
+06:40,1,RoçaAFazenda,137.428
+06:40,2,LMD5,14.791
+06:40,3,VenmoMe,
+06:40,4,MARK LEE,33.481
+06:40,5,Dodgers,70.355
+06:40,6,Tati,33.680
+06:40,7,ENGFA_SwimsuitMGI2022,281.719
+06:40,8,Shay,40.385
+06:40,9,まさつレスな僕ら,
+06:40,10,Olimpia,
+07:10,1,RoçaAFazenda,142.086
+07:10,2,Dodgers,77.992
+07:10,3,LMD5,15.344
+07:10,4,VenmoMe,
+07:10,5,MARK LEE,34.942
+07:10,6,AlwaysLA,
+07:10,7,Tati,35.120
+07:10,8,まさつレスな僕ら,
+07:10,9,JENNIE FOR PORSCHE,107.759
+07:10,10,Shay,41.562
+07:40,1,RoçaAFazenda,144.851
+07:40,2,Dodgers,83.054
+07:40,3,VenmoMe,
+07:40,4,LMD5,15.780
+07:40,5,MARK LEE,37.028
+07:40,6,GalaxyZFlip4xON,26.053
+07:40,7,あなたを武器女子化,
+07:40,8,JENNIE FOR PORSCHE,119.542
+07:40,9,Tati,36.243
+07:40,10,이데일리,
+08:10,1,あなたを武器女子化,
+08:10,2,Dodgers,84.432
+08:10,3,RoçaAFazenda,146.706
+08:10,4,VenmoMe,
+08:10,5,ZeeNuNewinKoreaD2,59.614
+08:10,6,LMD5,16.160
+08:10,7,MARK LEE,38.138
+08:10,8,이데일리,
+08:10,9,JENNIE FOR PORSCHE,129.180
+08:10,10,サイフォス,
+08:40,1,あなたを武器女子化,
+08:40,2,ZeeNuNewinKoreaD2,70.524
+08:40,3,WelcomeJAYBtoThailand,50.055
+08:40,4,Dodgers,85.553
+08:40,5,VenmoMe,
+08:40,6,RoçaAFazenda,147.867
+08:40,7,이데일리,
+08:40,8,MARK LEE,40.091
+08:40,9,FC2次,
+08:40,10,オケコン,
+09:10,1,あなたを武器女子化,
+09:10,2,WelcomeJAYBtoThailand,84.589
+09:10,3,ZeeNuNewinKoreaD2,79.503
+09:10,4,RocaAFazenda,148.558
+09:10,5,VenmoMe,
+09:10,6,Dodgers,86.098
+09:10,7,BELLE FOR MET TATHIONE,
+09:10,8,バスターソード女子,
+09:10,9,FC2次,
+09:10,10,オケコン,
+09:40,1,あなたを武器女子化,
+09:40,2,WelcomeJAYBtoThailand,105.255
+09:40,3,BELLE FOR MET TATHIONE,14.706
+09:40,4,Hispanidad,33.710
+09:40,5,ZeeNuNewinKoreaD2,86.233
+09:40,6,ShazamでSuperCali,
+09:40,7,Teni,14.808
+09:40,8,RocaAFazenda,149.078
+09:40,9,バスターソード女子,
+09:40,10,オケコン,
+10:10,1,Sinergi Prabowo Erick,
+10:10,2,Indonesia Kita Maju,
+10:10,3,Bangun NKRI Mandiri,
+10:10,4,あなたを武器女子化,
+10:10,5,MenBUMN Erick,
+10:10,6,WelcomeJAYBtoThailand,118.734
+10:10,7,Menhan Prabowo,
+10:10,8,Pak Erick,
+10:10,9,Pak Prabowo,
+10:10,10,Hispanidad,39.843
+10:40,1,あなたを武器女子化,
+10:40,2,Sinergi Prabowo Erick,
+10:40,3,Indonesia Kita Maju,
+10:40,4,Bangun NKRI Mandiri,
+10:40,5,すのちゅーぶ,
+10:40,6,Hispanidad,46.612
+10:40,7,MenBUMN Erick,
+10:40,8,WelcomeJAYBtoThailand,129.659
+10:40,9,Pak Erick,
+10:40,10,Teni,24.516
+11:10,1,あなたを武器女子化,
+11:10,2,パラライDM待ってる,
+11:10,3,Indonesia Kita Maju,
+11:10,4,Bangun NKRI Mandiri,
+11:10,5,Sinergi Prabowo Erick,
+11:10,6,すのちゅーぶ,11.232
+11:10,7,Hispanidad,53.767
+11:10,8,Teni,29.854
+11:10,9,WOWIndonesiaku,
+11:10,10,Viva España,20.328
+11:40,1,パラライDM待ってる,14.481
+11:40,2,あなたを武器女子化,10.814
+11:40,3,Hispanidad,61.843
+11:40,4,すのちゅーぶ,12.054
+11:40,5,Indonesia Kita Maju,
+11:40,6,Bangun NKRI Mandiri,
+11:40,7,Sinergi Prabowo Erick,
+11:40,8,Teni,34.472
+11:40,9,Viva España,23.161
+11:40,10,明石市長,15.238
+12:10,1,パラライDM待ってる,19.481
+12:10,2,あなたを武器女子化,12.162
+12:10,3,swallows,14.013
+12:10,4,Hispanidad,70.683
+12:10,5,明石市長,19.144
+12:10,6,Teni,38.347
+12:10,7,すのちゅーぶ,12.616
+12:10,8,12deOctubre,18.069
+12:10,9,オリコン1位,
+12:10,10,Viva España,26.201
+12:40,1,CASE143_1stWin,44.420
+12:40,2,사건발생_Case143_첫1위,34.954
+12:40,3,パラライDM待ってる,22.945
+12:40,4,あなたを武器女子化,13.395
+12:40,5,StrayKids14thWin,34.764
+12:40,6,プリテンダー,
+12:40,7,エリちゃん,
+12:40,8,Hispanidad,79.535
+12:40,9,Meral Akşener,52.069
+12:40,10,明石市長,22.447
+13:10,1,CASE143_1stWin,55.331
+13:10,2,押し出し,
+13:10,3,사건발생_Case143_첫1위,42.499
+13:10,4,パラライDM待ってる,25.850
+13:10,5,LaneigexBuildTa,112.396
+13:10,6,あなたを武器女子化,14.508
+13:10,7,プリテンダー,14.669
+13:10,8,エリちゃん,11.172
+13:10,9,封神演義,
+13:10,10,Hispanidad,87.903
+13:40,1,PMQs,19.804
+13:40,2,CASE143_1stWin,60.794
+13:40,3,LaneigexBuildTa,199.067
+13:40,4,사건발생_Case143_첫1위,45.898
+13:40,5,押し出し,10.548
+13:40,6,パラライDM待ってる,27.826
+13:40,7,封神演義,
+13:40,8,エリちゃん,12.998
+13:40,9,プリテンダー,16.682
+13:40,10,Hispanidad,96.819
+14:10,1,すわほー,
+14:10,2,DragRacePH,15.176
+14:10,3,PMQs,27.846
+14:10,4,LaneigexBuildTa,273.910
+14:10,5,swallows,23.299
+14:10,6,CASE143_1stWin,64.945
+14:10,7,マリノス,11.318
+14:10,8,封神演義,11.384
+14:10,9,押し出し,10.827
+14:10,10,エリちゃん,14.437
+14:40,1,すわほー,
+14:40,2,おりほー,
+14:40,3,DragRacePH,22.763
+14:40,4,相棒21,
+14:40,5,LaneigexBuildTa,357.245
+14:40,6,swallows,26.875
+14:40,7,PMQs,33.618
+14:40,8,マリノス,13.556
+14:40,9,封神演義,13.935
+14:40,10,山本由伸,14.929
+15:10,1,相棒21,12.807
+15:10,2,DragRacePH,28.356
+15:10,3,すわほー,
+15:10,4,おりほー,
+15:10,5,크래비티_선배가_궁금해,13.874
+15:10,6,Butter1B,36.996
+15:10,7,aibou,39.293
+15:10,8,マリノス,14.546
+15:10,9,封神演義,15.792
+15:10,10,アリプロ,
+15:40,1,相棒21,18.051
+15:40,2,アリプロ,
+15:40,3,DragRacePH,32.127
+15:40,4,크래비티_선배가_궁금해,52.288
+15:40,5,すわほー,
+15:40,6,おりほー,
+15:40,7,Butter1B,45.146
+15:40,8,aibou,48.665
+15:40,9,勇侠青春謳,13.934
+15:40,10,ナンジャモ,32.326
+16:10,1,相棒21,19.788
+16:10,2,アリプロ,
+16:10,3,親愛なる僕へ殺意をこめて,26.169
+16:10,4,DragRacePH,34.905
+16:10,5,크래비티_선배가_궁금해,67.337
+16:10,6,勇侠青春謳,18.461
+16:10,7,ナンジャモ,40.526
+16:10,8,すわほー,
+16:10,9,Butter1B,50.228
+16:10,10,おりほー,
+16:40,1,アリプロ,
+16:40,2,相棒21,20.766
+16:40,3,親愛なる僕へ殺意をこめて,28.101
+16:40,4,JIMINDAY,54.120
+16:40,5,DragRacePH,37.459
+16:40,6,勇侠青春謳,20.591
+16:40,7,ナンジャモ,46.857
+16:40,8,크래비티_선배가_궁금해,55.748
+16:40,9,すわほー,10.246
+16:40,10,Eden,147.778
+17:10,1,HappyBirthdayJimin,129.161
+17:10,2,JIMINDAY,93.358
+17:10,3,OurBelovedJimin,87.466
+17:10,4,AngelofOctober,83.126
+17:10,5,1013Blessing,76.935
+17:10,6,アリプロ,
+17:10,7,ナンジャモ,51.708
+17:10,8,勇侠青春謳,22.031
+17:10,9,초코파이,
+17:10,10,ジミンちゃん,13.161
+17:40,1,HappyBirthdayJimin,210.756
+17:40,2,JIMINDAY,218.364
+17:40,3,OurBelovedJimin,119.758
+17:40,4,AngelofOctober,113.178
+17:40,5,1013Blessing,101.375
+17:40,6,초코파이,
+17:40,7,ジミンちゃん,16.778
+17:40,8,찰떡파이,
+17:40,9,アリプロ,
+17:40,10,ナンジャモ,56.162
+18:10,1,HappyBirthdayJimin,261.097
+18:10,2,JIMINDAY,352.911
+18:10,3,OurBelovedJimin,137.126
+18:10,4,AngelofOctober,128.313
+18:10,5,1013Blessing,113.524
+18:10,6,hobi,145.083
+18:10,7,초코파이,
+18:10,8,ジミンちゃん,19.084
+18:10,9,찰떡파이,
+18:10,10,アリプロ,
+18:40,1,JIMINDAY,426.162
+18:40,2,HappyBirthdayJimin,308.930
+18:40,3,OurBelovedJimin,156.106
+18:40,4,AngelofOctober,142.215
+18:40,5,JiminOurPride,207.158
+18:40,6,hobi,159.606
+18:40,7,초코파이,
+18:40,8,ジミンちゃん,21.171
+18:40,9,찰떡파이,
+18:40,10,JIMIN JIMIN,1.634.152
+19:10,1,JIMINDAY,470.324
+19:10,2,HappyBirthdayJimin,339.652
+19:10,3,OurBelovedJimin,169.289
+19:10,4,Napoli,50.583
+19:10,5,AngelofOctober,150.006
+19:10,6,JiminOurPride,225.120
+19:10,7,hobi,163.246
+19:10,8,KamuEczacıları Umutlu,
+19:10,9,초코파이,
+19:10,10,찰떡파이,
+19:40,1,JIMINDAY,507.125
+19:40,2,HappyBirthdayJimin,364.736
+19:40,3,Napoli,63.984
+19:40,4,OurBelovedJimin,179.258
+19:40,5,AngelofOctober,155.841
+19:40,6,JiminOurPride,238.787
+19:40,7,hobi,
+19:40,8,KamuEczacıları Umutlu,13.311
+19:40,9,초코파이,
+19:40,10,찰떡파이,
+20:10,1,JIMINDAY,533.923
+20:10,2,HappyBirthdayJimin,383.439
+20:10,3,Napoli,71.163
+20:10,4,OurBelovedJimin,187.077
+20:10,5,AngelofOctober,160.097
+20:10,6,napaja,11.458
+20:10,7,VakifbankGvnlik TaşeronaSon,
+20:10,8,hobi,170.104
+20:10,9,초코파이,
+20:10,10,KamuEczacıları Umutlu,20.867
+20:40,1,JIMINDAY,555.474
+20:40,2,HappyBirthdayJimin,397.090
+20:40,3,Napoli,78.865
+20:40,4,OurBelovedJimin,192.975
+20:40,5,napaja,13.856
+20:40,6,AngelofOctober,163.427
+20:40,7,VakifbankGvnlik TaşeronaSon,
+20:40,8,Mignolet,
+20:40,9,Park Jimin,124.647
+20:40,10,hobi,174.125
+21:10,1,JIMINDAY,578.395
+21:10,2,HappyBirthdayJimin,409.006
+21:10,3,Napoli,88.399
+21:10,4,OurBelovedJimin,197.834
+21:10,5,napaja,14.767
+21:10,6,hobi,180.468
+21:10,7,AngelofOctober,166.206
+21:10,8,Mignolet,
+21:10,9,Simeone,
+21:10,10,Jiminie,167.440
+21:40,1,JIMINDAY,595.619
+21:40,2,HappyBirthdayJimin,418.994
+21:40,3,Napoli,92.772
+21:40,4,OurBelovedJimin,202.321
+21:40,5,RANLIV,19.062
+21:40,6,BarcaInter,47.000
+21:40,7,Firmino,
+21:40,8,hobi,185.533
+21:40,9,Esgaio,
+21:40,10,Diogo Costa,
+22:10,1,Alex Jones,69.621
+22:10,2,JIMINDAY,614.267
+22:10,3,HappyBirthdayJimin,429.382
+22:10,4,Dembele,32.950
+22:10,5,Sandy Hook,43.969
+22:10,6,JEON JUNGKOOK,48.669
+22:10,7,Napoli,94.952
+22:10,8,BarcaInter,55.873
+22:10,9,Raphinha,24.130
+22:10,10,Onana,
+22:40,1,Alex Jones,124.761
+22:40,2,Pique,90.636
+22:40,3,JUNGKOOK,477.459
+22:40,4,Barcelona,200.364
+22:40,5,Xavi,55.619
+22:40,6,Firmino,25.479
+22:40,7,Barca,173.390
+22:40,8,بيكيه,14.538
+22:40,9,Sandy Hook,74.549
+22:40,10,JIMINDAY,629.275
+23:10,1,Pique,136.661
+23:10,2,Barcelona,243.650
+23:10,3,Alex Jones,163.588
+23:10,4,Barca,233.820
+23:10,5,Xavi,83.453
+23:10,6,Lewandowski,50.550
+23:10,7,Dembele,54.393
+23:10,8,jungkook,506.336
+23:10,9,Lautaro,35.001
+23:10,10,Europa League,62.489
+23:40,1,Pique,174.814
+23:40,2,Alex Jones,193.526
+23:40,3,Barcelona,273.038
+23:40,4,Barca,277.143
+23:40,5,Xavi,119.141
+23:40,6,Europa League,88.676
+23:40,7,Lewandowski,60.566
+23:40,8,Dembele,59.602
+23:40,9,Bayern,79.027
+23:40,10,jungkook,538.069

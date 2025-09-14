@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Dolphins,115.503
+00:10,2,Madrid,499.885
+00:10,3,Barça,220.363
+00:10,4,Daniel Jones,15.147
+00:10,5,Bills,194.658
+00:10,6,Giants,106.382
+00:10,7,Gavi,236.326
+00:10,8,Vikings,73.166
+00:10,9,Flamengo,127.660
+00:10,10,BBTitans,152.961
+00:40,1,Daniel Jones,18.809
+00:40,2,Giants,117.166
+00:40,3,Dolphins,118.691
+00:40,4,Vikings,80.368
+00:40,5,Madrid,510.368
+00:40,6,Barça,230.222
+00:40,7,Bills,199.082
+00:40,8,Flamengo,139.862
+00:40,9,Gavi,242.406
+00:40,10,BBTitans,157.997
+01:10,1,Giants,121.730
+01:10,2,Vikings,86.361
+01:10,3,Daniel Jones,19.624
+01:10,4,Dolphins,120.247
+01:10,5,Madrid,512.787
+01:10,6,Barça,234.319
+01:10,7,Flamengo,145.652
+01:10,8,CriticsChoiceAwards,20.658
+01:10,9,Fantastico,
+01:10,10,Bills,198.389
+01:40,1,Giants,135.905
+01:40,2,Vikings,94.251
+01:40,3,Daniel Jones,23.540
+01:40,4,CriticsChoiceAwards,30.487
+01:40,5,Fantastico,11.190
+01:40,6,Dolphins,122.156
+01:40,7,PICKINGUPTHEBILLSSWEEPS,
+01:40,8,Madrid,519.771
+01:40,9,Saquon,27.077
+01:40,10,Barça,238.352
+02:10,1,Vikings,154.146
+02:10,2,Vikings,154.146
+02:10,3,Kirk Cousins,22.699
+02:10,4,Daniel Jones,34.752
+02:10,5,NYGvsMIN,18.142
+02:10,6,Fantastico,17.851
+02:10,7,SKOL,24.088
+02:10,8,CriticsChoiceAwards,39.811
+02:10,9,TogetherBlue,21.230
+02:10,10,Danny Dimes,
+02:40,1,Giants,241.452
+02:40,2,Kirk Cousins,26.343
+02:40,3,Daniel Jones,40.524
+02:40,4,Fantastico,29.310
+02:40,5,CriticsChoiceAwards,54.203
+02:40,6,NYGvsMIN,19.156
+02:40,7,SKOL,25.275
+02:40,8,TogetherBlue,22.963
+02:40,9,ゲッコウガ,29.206
+02:40,10,the last of us,123.302
+03:10,1,TheLastOfUs,73.275
+03:10,2,Giants,254.019
+03:10,3,Kirk Cousins,28.136
+03:10,4,Daniel Jones,44.303
+03:10,5,CriticsChoiceAwards,69.141
+03:10,6,Fantastico,35.675
+03:10,7,HBO Max,29.587
+03:10,8,RHOP,15.876
+03:10,9,Ravens,53.225
+03:10,10,SKOL,25.730
+03:40,1,TheLastOfUs,96.145
+03:40,2,Giants,263.646
+03:40,3,Vikings,187.964
+03:40,4,HBO Max,39.286
+03:40,5,CriticsChoiceAwards,85.766
+03:40,6,Kirk Cousins,29.489
+03:40,7,Ravens,64.721
+03:40,8,Daniel Jones,46.602
+03:40,9,RHOP,17.858
+03:40,10,Fantastico,40.219
+04:10,1,TheLastOfUs,110.340
+04:10,2,Thiago,170.498
+04:10,3,Daniela,47.363
+04:10,4,Giants,269.956
+04:10,5,Vikings,192.005
+04:10,6,CriticsChoiceAwards,109.578
+04:10,7,HBO Max,39.847
+04:10,8,Agustín,114.414
+04:10,9,Ravens,68.447
+04:10,10,Kirk Cousins,30.475
+04:40,1,TheLastOfUs,135.957
+04:40,2,Thiago,189.448
+04:40,3,Ravens,83.247
+04:40,4,Eli Apple,12.954
+04:40,5,Daniela,54.802
+04:40,6,Giants,274.599
+04:40,7,Huntley,16.562
+04:40,8,Vikings,196.464
+04:40,9,CriticsChoiceAwards,125.545
+04:40,10,Joel,49.764
+05:10,1,TheLastOfUs,179.505
+05:10,2,Ravens,91.768
+05:10,3,Thiago,194.683
+05:10,4,Joel,57.866
+05:10,5,Pedro Pascal,21.128
+05:10,6,Eli Apple,13.930
+05:10,7,Daniela,57.022
+05:10,8,Huntley,22.168
+05:10,9,Ellie,37.307
+05:10,10,TLOU,62.332
+05:40,1,TheLastOfUs,205.830
+05:40,2,Ravens,116.942
+05:40,3,Joel,65.087
+05:40,4,Thiago,199.863
+05:40,5,Pedro Pascal,24.631
+05:40,6,Huntley,26.802
+05:40,7,Ellie,42.364
+05:40,8,Eli Apple,14.573
+05:40,9,Daniela,59.179
+05:40,10,Greg Roman,11.784
+06:10,1,TheLastOfUs,224.829
+06:10,2,Ravens,122.551
+06:10,3,Russ,20.344
+06:10,4,Joel,70.384
+06:10,5,Pedro Pascal,27.466
+06:10,6,Thiago,200.513
+06:10,7,Ellie,44.983
+06:10,8,Huntley,28.322
+06:10,9,PJM1 IS COMING,88.407
+06:10,10,TLOU,72.504
+06:40,1,TheLastOfUs,238.570
+06:40,2,Ravens,127.448
+06:40,3,Russ,24.033
+06:40,4,Joel,75.127
+06:40,5,Pedro Pascal,29.502
+06:40,6,Ellie,47.850
+06:40,7,Huntley,30.257
+06:40,8,Thiago,203.228
+06:40,9,PJM1 IS COMING,98.431
+06:40,10,TLOU,75.838
+07:10,1,TheLastOfUs,247.083
+07:10,2,Ravens,129.502
+07:10,3,Russ,25.069
+07:10,4,Joel,77.793
+07:10,5,Pedro Pascal,30.998
+07:10,6,Ellie,49.227
+07:10,7,PJM1 IS COMING,106.083
+07:10,8,TLOU,77.632
+07:10,9,Huntley,31.239
+07:10,10,Thiago,203.679
+07:40,1,TheLastOfUs,256.845
+07:40,2,Ravens,131.271
+07:40,3,Russ,25.805
+07:40,4,Bengals,144.664
+07:40,5,Joel,80.928
+07:40,6,Pedro Pascal,32.044
+07:40,7,Ellie,50.897
+07:40,8,PJM1 IS COMING,112.580
+07:40,9,TLOU,
+07:40,10,Huntley,31.723
+08:10,1,TheLastOfUs,263.105
+08:10,2,Ravens,132.129
+08:10,3,Russ,26.075
+08:10,4,Joel,82.450
+08:10,5,Bengals,145.908
+08:10,6,Pedro Pascal,32.919
+08:10,7,Ellie,51.896
+08:10,8,PJM1 IS COMING,117.848
+08:10,9,BlueMonday,
+08:10,10,pazartesi,
+08:40,1,TheLastOfUs,269.020
+08:40,2,GYAO,22.377
+08:40,3,BlueMonday,
+08:40,4,Ravens,132.940
+08:40,5,Joel,84.609
+08:40,6,Russ,26.558
+08:40,7,MondayMotivation,60.947
+08:40,8,Pedro Pascal,33.684
+08:40,9,pazartesi,
+08:40,10,Bengals,146.934
+09:10,1,TheLastOfUs,272.701
+09:10,2,GYAO,34.010
+09:10,3,BlueMonday,
+09:10,4,MondayMotivation,64.160
+09:10,5,ポテナゲ2種の食べくらべ登場,
+09:10,6,Ravens,133.279
+09:10,7,Joel,85.547
+09:10,8,Russ,26.819
+09:10,9,pazartesi,
+09:10,10,Pedro Pascal,34.233
+09:40,1,GYAO,44.169
+09:40,2,BlueMonday,
+09:40,3,TheLastOfUs,276.586
+09:40,4,ポテトといえばミニストップ,
+09:40,5,MondayMotivation,67.563
+09:40,6,ポテナゲ2種の食べくらべ登場,
+09:40,7,Joel,86.521
+09:40,8,Russ,27.216
+09:40,9,Pedro Pascal,34.767
+09:40,10,Ravens,133.828
+10:10,1,GYAO,52.590
+10:10,2,BlueMonday,
+10:10,3,MatteoMessinaDenaro,
+10:10,4,TheLastOfUs,280.628
+10:10,5,ポテトといえばミニストップ,
+10:10,6,MondayMotivation,70.305
+10:10,7,CRカップ,23.839
+10:10,8,PUT YOUR STAMP ON IT,
+10:10,9,Joel,87.688
+10:10,10,PJM1 IS COMING,132.075
+10:40,1,GYAO,61.529
+10:40,2,BlueMonday,13.101
+10:40,3,MatteoMessinaDenaro,
+10:40,4,ポテトといえばミニストップ,10.501
+10:40,5,MondayMotivation,73.053
+10:40,6,GOT_StampOnIt,37.051
+10:40,7,CRカップ,38.563
+10:40,8,PKB Ulama Bersatu,
+10:40,9,帝王切開,16.735
+10:40,10,Xフライドポテト,
+11:10,1,BlueMonday,16.511
+11:10,2,GYAO,70.347
+11:10,3,MatteoMessinaDenaro,
+11:10,4,ディシア,28.857
+11:10,5,ポテトといえばミニストップ,11.841
+11:10,6,MondayMotivation,75.339
+11:10,7,CRカップ,51.786
+11:10,8,GOT_StampOnIt,44.131
+11:10,9,ミカくん,
+11:10,10,PKB Ulama Bersatu,
+11:40,1,ディシア,55.828
+11:40,2,BlueMonday,19.736
+11:40,3,GYAO,78.242
+11:40,4,MatteoMessinaDenaro,
+11:40,5,ミカくん,
+11:40,6,CDTVライブライブ,
+11:40,7,ポテトといえばミニストップ,12.978
+11:40,8,CRカップ,60.547
+11:40,9,MondayMotivation,78.015
+11:40,10,Dior,214.229
+12:10,1,ディシア,68.494
+12:10,2,BlueMonday,22.894
+12:10,3,GYAO,83.036
+12:10,4,MatteoMessinaDenaro,10.926
+12:10,5,CDTVライブライブ,12.433
+12:10,6,ミカくん,
+12:10,7,CRカップ,76.964
+12:10,8,ポテトといえばミニストップ,13.929
+12:10,9,DYODAYPARTY,35.181
+12:10,10,Dior,268.704
+12:40,1,BlueMonday,26.346
+12:40,2,ディシア,74.957
+12:40,3,GYAO,91.309
+12:40,4,MatteoMessinaDenaro,12.655
+12:40,5,CDTVライブライブ,15.767
+12:40,6,ニノさんとあそぼ,32.393
+12:40,7,CRカップ,87.988
+12:40,8,ミカくん,
+12:40,9,ポテトといえばミニストップ,15.053
+12:40,10,Dior,323.084
+13:10,1,BlueMonday,29.510
+13:10,2,ディシア,79.944
+13:10,3,GYAO,96.112
+13:10,4,MatteoMessinaDenaro,14.155
+13:10,5,CDTVライブライブ,19.404
+13:10,6,ニノさんとあそぼ,39.870
+13:10,7,JJPxYJBestFriend,64.529
+13:10,8,CRカップ,94.661
+13:10,9,ミカくん,
+13:10,10,Kyungsoo,110.015
+13:40,1,BlueMonday,32.330
+13:40,2,ディシア,83.700
+13:40,3,GYAO,101.784
+13:40,4,MatteoMessinaDenaro,15.778
+13:40,5,ニノさんとあそぼ,47.812
+13:40,6,IndomilkxBLACKPINK,
+13:40,7,CDTVライブライブ,25.806
+13:40,8,Giveaway Indomilk,
+13:40,9,CRカップ,101.442
+13:40,10,Gina Lollobrigida,
+14:10,1,BlueMonday,35.329
+14:10,2,ラウールInstagram,
+14:10,3,ニノさんとあそぼ,61.453
+14:10,4,罠の戦争,78.159
+14:10,5,GYAO,106.771
+14:10,6,ディシア,86.665
+14:10,7,MatteoMessinaDenaro,17.161
+14:10,8,Giveaway Indomilk,
+14:10,9,Gina Lollobrigida,
+14:10,10,ラウちゃん,13.611
+14:40,1,罠の戦争,102.550
+14:40,2,BlueMonday,38.326
+14:40,3,ラウールInstagram,
+14:40,4,GYAO,111.175
+14:40,5,ニノさんとあそぼ,64.880
+14:40,6,IndomilkxBLACKPINK,
+14:40,7,ディシア,89.095
+14:40,8,Gina Lollobrigida,12.467
+14:40,9,Giveaway Indomilk,
+14:40,10,ラウちゃん,14.879
+15:10,1,罠の戦争,124.628
+15:10,2,BlueMonday,41.239
+15:10,3,MLKDay,29.489
+15:10,4,ラウールInstagram,
+15:10,5,GYAO,115.234
+15:10,6,Gina Lollobrigida,15.654
+15:10,7,IndomilkxBLACKPINK,
+15:10,8,ディシア,91.265
+15:10,9,Giveaway Indomilk,
+15:10,10,Dr. Martin Luther King Jr.,53.793
+15:40,1,罠の戦争,156.649
+15:40,2,MLKDay,36.939
+15:40,3,BlueMonday,44.016
+15:40,4,บอลไทย,55.020
+15:40,5,Gina Lollobrigida,18.297
+15:40,6,Dr. Martin Luther King Jr.,60.077
+15:40,7,SHINGOxSEVENTEEN,16.802
+15:40,8,GYAO,118.396
+15:40,9,Dr. King,100.258
+15:40,10,Giveaway Indomilk,
+16:10,1,罠の戦争,171.689
+16:10,2,MLKDay,45.781
+16:10,3,BlueMonday,46.789
+16:10,4,บอลไทย,76.801
+16:10,5,Dr. Martin Luther King Jr.,67.621
+16:10,6,ダ・カーポしませんか,20.471
+16:10,7,Gina Lollobrigida,20.871
+16:10,8,Dr. King,109.086
+16:10,9,GYAO,120.870
+16:10,10,Ömer Çelik,
+16:40,1,罠の戦争,183.497
+16:40,2,MLKDay,53.908
+16:40,3,BlueMonday,49.412
+16:40,4,WayV_4thAnniversary,17.754
+16:40,5,Dr. Martin Luther King Jr.,75.823
+16:40,6,小泉花陽生誕祭2023,10.233
+16:40,7,Dr. King,119.424
+16:40,8,Gina Lollobrigida,23.107
+16:40,9,4EVER WITH WAYV,14.867
+16:40,10,第361回,
+17:10,1,MLKDay,64.239
+17:10,2,罠の戦争,188.769
+17:10,3,WayV_4thAnniversary,25.312
+17:10,4,BlueMonday,52.139
+17:10,5,Dr. King,130.644
+17:10,6,웨이션브이4주년축하해,21.435
+17:10,7,Dr. Martin Luther King Jr.,81.507
+17:10,8,Gina Lollobrigida,25.438
+17:10,9,4EVER WITH WAYV,20.528
+17:10,10,第361回,
+17:40,1,MLKDay,75.815
+17:40,2,罠の戦争,190.278
+17:40,3,WayV_4thAnniversary,31.112
+17:40,4,BlueMonday,54.726
+17:40,5,Dr. King,143.397
+17:40,6,웨이션브이4주년축하해,25.834
+17:40,7,Dr. Martin Luther King Jr.,89.533
+17:40,8,4EVER WITH WAYV,24.667
+17:40,9,Gina Lollobrigida,27.389
+17:40,10,第361回,
+18:10,1,MLKDay,86.596
+18:10,2,Dr. King,152.429
+18:10,3,BlueMonday,57.069
+18:10,4,WayV_4thAnniversary,34.421
+18:10,5,罠の戦争,193.204
+18:10,6,Dr. Martin Luther King Jr.,95.020
+18:10,7,威神V出道四周年快乐,29.688
+18:10,8,Gina Lollobrigida,29.401
+18:10,9,4EVER WITH WAYV,26.782
+18:10,10,CezaeviSaglikcilarUnutuldu,
+18:40,1,MLKDay,97.090
+18:40,2,Dr. King,164.587
+18:40,3,BlueMonday,60.001
+18:40,4,Dr. Martin Luther King Jr.,102.234
+18:40,5,WayV_4thAnniversary,36.432
+18:40,6,威神V出道四周年快乐,31.550
+18:40,7,웨이션브이4주년축하해,29.396
+18:40,8,NETFLIX CORRECT YOUR MISTAKE,22.705
+18:40,9,Gina Lollobrigida,31.107
+18:40,10,4EVER WITH WAYV,28.278
+19:10,1,MLKDay,101.378
+19:10,2,Dr. King,173.426
+19:10,3,BlueMonday,62.881
+19:10,4,Dr. Martin Luther King Jr.,107.045
+19:10,5,NETFLIX CORRECT YOUR MISTAKE,38.158
+19:10,6,WayV_4thAnniversary,37.977
+19:10,7,PcComponentesGoiko,
+19:10,8,TheMandalorian,
+19:10,9,Gina Lollobrigida,32.897
+19:10,10,Happy MLK,25.635
+19:40,1,MLKDay,115.188
+19:40,2,Dr. King,184.993
+19:40,3,BlueMonday,65.503
+19:40,4,Dr. Martin Luther King Jr.,113.626
+19:40,5,NETFLIX CORRECT YOUR MISTAKE,49.638
+19:40,6,PcComponentesGoiko,
+19:40,7,TheMandalorian,11.209
+19:40,8,WayV_4thAnniversary,38.814
+19:40,9,Happy MLK,28.326
+19:40,10,Gina Lollobrigida,34.530
+20:10,1,MLKDay,122.271
+20:10,2,Dr. King,
+20:10,3,BlueMonday,68.107
+20:10,4,زيزو,
+20:10,5,NETFLIX CORRECT YOUR MISTAKE,58.271
+20:10,6,معاك_يا_احمرنا,
+20:10,7,Dr. Martin Luther King Jr.,116.665
+20:10,8,KHKlarGidecek,18.309
+20:10,9,الزمالك,22.650
+20:10,10,PcComponentesGoiko,
+20:40,1,MLKDay,129.880
+20:40,2,معاك_يا_احمرنا,
+20:40,3,Dr. King,199.833
+20:40,4,BlueMonday,70.761
+20:40,5,NETFLIX CORRECT YOUR MISTAKE,64.721
+20:40,6,خليجي_25,22.601
+20:40,7,البحرين_عمان,
+20:40,8,زيزو,
+20:40,9,Dr. Martin Luther King Jr.,122.545
+20:40,10,الزمالك,26.489
+21:10,1,MLKDay,137.054
+21:10,2,معاك_يا_احمرنا,
+21:10,3,Dr. King,205.519
+21:10,4,BlueMonday,73.276
+21:10,5,NETFLIX CORRECT YOUR MISTAKE,70.775
+21:10,6,KHKlarGidecek,28.787
+21:10,7,البحرين_عمان,
+21:10,8,Dr. Martin Luther King Jr.,125.440
+21:10,9,الزمالك,28.868
+21:10,10,زيزو,
+21:40,1,MLKDay,143.903
+21:40,2,معاك_يا_احمرنا,
+21:40,3,Dr. King,213.709
+21:40,4,Jayson Tatum,
+21:40,5,BlueMonday,75.688
+21:40,6,NETFLIX CORRECT YOUR MISTAKE,76.256
+21:40,7,البزنس41,56.069
+21:40,8,KHKlarGidecek,32.148
+21:40,9,Zema,19.601
+21:40,10,Dr. Martin Luther King Jr.,130.382
+22:10,1,LoveIsland,
+22:10,2,MLKDay,144.785
+22:10,3,البزنس41,63.465
+22:10,4,معاك_يا_احمرنا,
+22:10,5,Dr. King,218.702
+22:10,6,NETFLIX CORRECT YOUR MISTAKE,81.662
+22:10,7,阪神淡路大震災から28年,
+22:10,8,Jayson Tatum,11.170
+22:10,9,Thomsen,
+22:10,10,Scotland,79.254
+22:40,1,LoveIsland,48.345
+22:40,2,MLKDay,156.291
+22:40,3,Maya Jama,
+22:40,4,Thomsen,
+22:40,5,البزنس41,68.926
+22:40,6,阪神淡路大震災から28年,
+22:40,7,NETFLIX CORRECT YOUR MISTAKE,86.540
+22:40,8,Dr. King,227.588
+22:40,9,معاك_يا_احمرنا,
+22:40,10,Shaq,23.187
+23:10,1,LoveIsland,90.582
+23:10,2,MLKDay,161.431
+23:10,3,Maya Jama,
+23:10,4,Tanyel,
+23:10,5,Thomsen,
+23:10,6,Olivia,35.099
+23:10,7,Sinemin Osuruğu,
+23:10,8,Shaq,26.123
+23:10,9,البزنس41,73.296
+23:10,10,Tanya,37.507
+23:40,1,LoveIsland,119.781
+23:40,2,Maya Jama,11.792
+23:40,3,MLKDay,166.966
+23:40,4,Thomsen,11.675
+23:40,5,Tanyel,
+23:40,6,阪神淡路大震災,53.062
+23:40,7,Olivia,36.804
+23:40,8,Shaq,28.127
+23:40,9,Tanya,39.262
+23:40,10,Sinemin Osuruğu,

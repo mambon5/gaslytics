@@ -1,0 +1,241 @@
+hora,posicio,trend,volum
+00:10,1,Monaco,57.153
+00:10,2,Auba,27.350
+00:10,3,WBAARS,23.600
+00:10,4,Bayern,57.659
+00:10,5,West Brom,27.256
+00:10,6,WhyIChime,
+00:10,7,Saints Row,29.381
+00:10,8,異物混入,19.234
+00:10,9,ShakhtarASM,
+00:10,10,CarabaoCup,
+00:41,1,WBAARS,24.524
+00:41,2,Auba,28.259
+00:41,3,West Brom,28.078
+00:41,4,Bayern,60.471
+00:41,5,WhyIChime,
+00:41,6,Saints Row,30.728
+00:41,7,gamescom2021,40.575
+00:41,8,الاهلي_ضمك,49.987
+00:41,9,Monaco,59.086
+00:41,10,OpeningNightLive,46.775
+01:10,1,Auba,29.655
+01:10,2,WBAARS,25.127
+01:10,3,West Brom,28.580
+01:10,4,Bayern,61.507
+01:10,5,WhyIChime,
+01:10,6,Saints Row,31.547
+01:10,7,Monaco,59.995
+01:10,8,gamescom2021,41.641
+01:10,9,الاهلي_ضمك,50.892
+01:10,10,ShakhtarASM,
+01:41,1,Auba,30.723
+01:41,2,WBAARS,25.709
+01:41,3,Bayern,63.038
+01:41,4,West Brom,
+01:41,5,WhyIChime,
+01:41,6,Monaco,60.791
+01:41,7,Saints Row,33.060
+01:41,8,ClaroQueAmamosAJungkook,137.639
+01:41,9,異物混入,36.431
+01:41,10,gamescom2021,42.945
+02:10,1,ClaroQueAmamosAJungkook,151.083
+02:10,2,Auba,31.355
+02:10,3,WBAARS,25.975
+02:10,4,Bayern,63.563
+02:10,5,West Brom,29.451
+02:10,6,WhyIChime,
+02:10,7,異物混入,40.184
+02:10,8,Monaco,61.045
+02:10,9,Saints Row,33.968
+02:10,10,ShakhtarASM,
+02:41,1,ClaroQueAmamosAJungkook,159.386
+02:41,2,Auba,31.871
+02:41,3,異物混入,44.588
+02:41,4,WBAARS,26.212
+02:41,5,Bayern,64.492
+02:41,6,AbreOPerfilPacheco,36.272
+02:41,7,WhyIChime,10.041
+02:41,8,West Brom,
+02:41,9,Monaco,61.417
+02:41,10,Saints Row,34.969
+03:10,1,desk27,96.014
+03:10,2,AEWDynamite,39.355
+03:10,3,ClaroQueAmamosAJungkook,165.470
+03:10,4,Douglas Costa,
+03:10,5,Rafinha,
+03:10,6,AbreOPerfilPacheco,41.394
+03:10,7,Bruno Viana,17.705
+03:10,8,RHOBH,12.204
+03:10,9,Everton Ribeiro,
+03:10,10,gremio,80.815
+03:41,1,Flamengo,192.857
+03:41,2,Isla,52.502
+03:41,3,arrascaeta,13.068
+03:41,4,AEWDynamite,55.751
+03:41,5,Gabigol,33.458
+03:41,6,desk27,97.077
+03:41,7,Renato,38.247
+03:41,8,Rafinha,12.505
+03:41,9,Everton Ribeiro,12.976
+03:41,10,Douglas Costa,10.834
+04:10,1,Flamengo,216.803
+04:10,2,Bruno Viana,44.708
+04:10,3,Rigoni,13.508
+04:10,4,AEWDynamite,65.763
+04:10,5,Gabigol,36.593
+04:10,6,Isla,53.854
+04:10,7,arrascaeta,13.760
+04:10,8,Everton Ribeiro,19.155
+04:10,9,Renato,39.858
+04:10,10,Rafinha,15.496
+04:41,1,Flamengo,373.945
+04:41,2,Vitinho,62.731
+04:41,3,Volpi,27.686
+04:41,4,Rigoni,35.541
+04:41,5,Rafinha,33.763
+04:41,6,Gabigol,
+04:41,7,Bruno Viana,71.392
+04:41,8,gremio,222.655
+04:41,9,Renato,59.796
+04:41,10,Felipão,16.107
+05:10,1,ClaroQueAmamosAJungkook,178.841
+05:10,2,desk27,96.223
+05:10,3,AEWDynamite,69.882
+05:10,4,AbreOPerfilPacheco,54.386
+05:10,5,おかえりモネ,39.257
+05:10,6,異物混入,66.424
+05:10,7,AHS DOUBLE FEATURE,16.025
+05:10,8,Bruno Viana,81.496
+05:10,9,Diniz,13.562
+05:10,10,りょーちん,20.361
+05:41,1,Flamengo,453.662
+05:41,2,Vitinho,84.157
+05:41,3,Volpi,35.037
+05:41,4,Rigoni,38.476
+05:41,5,Rafinha,40.780
+05:41,6,Gabigol,70.372
+05:41,7,gremio,262.268
+05:41,8,Bruno Viana,84.237
+05:41,9,Renato,73.777
+05:41,10,Felipão,22.387
+06:10,1,Flamengo,465.458
+06:10,2,Vitinho,86.010
+06:10,3,Volpi,35.734
+06:10,4,Rigoni,38.992
+06:10,5,Rafinha,41.525
+06:10,6,gremio,266.235
+06:10,7,Gabigol,72.492
+06:10,8,Bruno Viana,85.402
+06:10,9,Renato,75.343
+06:10,10,Felipão,23.016
+06:41,1,AEWDynamite,72.961
+06:41,2,desk27,96.284
+06:41,3,ClaroQueAmamosAJungkook,183.380
+06:41,4,Isla,71.187
+06:41,5,Bruno Viana,86.110
+06:41,6,RHOBH,20.665
+06:41,7,AbreOPerfilPacheco,57.365
+06:41,8,Rafinha,41.928
+06:41,9,Douglas Costa,13.201
+06:41,10,Everton Ribeiro,22.786
+07:10,1,AEWDynamite,73.577
+07:10,2,desk27,96.334
+07:10,3,Bruno Viana,86.470
+07:10,4,ClaroQueAmamosAJungkook,184.418
+07:10,5,Rigoni,39.327
+07:10,6,Isla,71.225
+07:10,7,RHOBH,21.221
+07:10,8,Rafinha,42.117
+07:10,9,Everton Ribeiro,22.832
+07:10,10,AbreOPerfilPacheco,57.809
+07:41,1,Flamengo,478.844
+07:41,2,8MBrightsHug,292.603
+07:41,3,Vitinho,88.216
+07:41,4,Volpi,36.463
+07:41,5,Rigoni,39.406
+07:41,6,Rafinha,42.325
+07:41,7,IRENE,40.299
+07:41,8,WENDY,48.560
+07:41,9,YERI,21.747
+07:41,10,gremio,271.460
+08:10,1,Flamengo,479.524
+08:10,2,8MBrightsHug,354.031
+08:10,3,Vitinho,88.395
+08:10,4,Rodinei,70.740
+08:10,5,Michael,235.379
+08:10,6,Volpi,36.534
+08:10,7,IRENE,41.963
+08:10,8,bbrightvc,428.131
+08:10,9,YERI,23.780
+08:10,10,WENDY,50.964
+08:41,1,8MBrightsHug,394.963
+08:41,2,Flamengo,480.630
+08:41,3,Vitinho,88.550
+08:41,4,Rodinei,70.847
+08:41,5,ベスト4,
+08:41,6,IRENE,45.035
+08:41,7,YERI,26.337
+08:41,8,WENDY,53.760
+08:41,9,bbrightvc,465.949
+08:41,10,Michael,237.731
+09:10,1,Flamengo,480.823
+09:10,2,Vitinho,88.661
+09:10,3,Rigoni,39.487
+09:10,4,Volpi,36.622
+09:10,5,Rafinha,42.597
+09:10,6,AEWDynamite,75.962
+09:10,7,Gabigol,75.809
+09:10,8,Bruno Viana,87.082
+09:10,9,gremio,272.541
+09:10,10,Isla,71.308
+09:41,1,Flamengo,481.426
+09:41,2,Rodinei,71.020
+09:41,3,Rigoni,39.529
+09:41,4,Volpi,36.690
+09:41,5,Gabigol,75.942
+09:41,6,Rafinha,42.639
+09:41,7,AEWDynamite,76.537
+09:41,8,gremio,272.808
+09:41,9,Bruno Viana,87.146
+09:41,10,Isla,71.539
+10:10,1,Flamengo,481.196
+10:10,2,Vitinho,88.858
+10:10,3,Volpi,36.724
+10:10,4,Rigoni,39.566
+10:10,5,Rafinha,42.644
+10:10,6,Gabigol,76.001
+10:10,7,gremio,272.741
+10:10,8,Bruno Viana,87.184
+10:10,9,AEWDynamite,76.868
+10:10,10,Renato,77.543
+10:41,1,BTW_JAYBisHereNow,74.256
+10:41,2,범내려온다_제이비_솔로앨범,71.949
+10:41,3,Dodgers,59.223
+10:41,4,InternationalDogDay,14.949
+10:41,5,MalazgirtZaferi,26.655
+10:41,6,BLEACH,44.205
+10:41,7,8MBrightsHug,506.024
+10:41,8,ベスト4,12.112
+10:41,9,Flamengo,481.988
+10:41,10,Sultan Alparslan,41.293
+11:10,1,BTW_JAYBisHereNow,138.101
+11:10,2,범내려온다_제이비_솔로앨범,132.769
+11:10,3,InternationalDogDay,17.123
+11:10,4,Dodgers,60.005
+11:10,5,MalazgirtZaferi,30.650
+11:10,6,Thunderous_ComebackStage,45.946
+11:10,7,SKZ ON MCOUNTDOWN,38.046
+11:10,8,BLEACH,45.009
+11:10,9,ベスト4,12.408
+11:10,10,Sultan Alparslan,43.954
+11:41,1,BTW_JAYBisHereNow,218.219
+11:41,2,범내려온다_제이비_솔로앨범,205.641
+11:41,3,InternationalDogDay,19.445
+11:41,4,神戸国際,20.834
+11:41,5,MalazgirtZaferi,35.873
+11:41,6,祝_登録者数50万人おめでとう,27.897
+11:41,7,SKZ ON MCOUNTDOWN,46.033
+11:41,8,Dodgers,60.619
+11:41,9,BLEACH,46.638
+11:41,10,ベスト4,14.149

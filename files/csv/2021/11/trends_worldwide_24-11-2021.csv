@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,singyourdialect,38.784
+00:10,2,Benfica,94.892
+00:10,3,Chelsea,231.622
+00:10,4,Reece James,48.246
+00:10,5,Seferovic,39.354
+00:10,6,SalarioRosa,54.172
+00:10,7,DevletiminYanindayim,748.098
+00:10,8,CashApp13plus,60.068
+00:10,9,Bayern,80.398
+00:10,10,Otamendi,22.586
+00:41,1,singyourdialect,49.945
+00:41,2,Benfica,97.176
+00:41,3,SalarioRosa,56.852
+00:41,4,Chelsea,241.989
+00:41,5,Reece James,51.143
+00:41,6,CashApp13plus,65.445
+00:41,7,Seferovic,41.806
+00:41,8,DevletiminYanindayim,761.724
+00:41,9,Bayern,83.377
+00:41,10,Otamendi,23.145
+01:10,1,singyourdialect,51.759
+01:10,2,SalarioRosa,59.011
+01:10,3,CashApp13plus,70.418
+01:10,4,Benfica,97.587
+01:10,5,Chelsea,245.710
+01:10,6,Reece James,52.707
+01:10,7,Seferovic,43.068
+01:10,8,Bayern,84.278
+01:10,9,DevletiminYanindayim,770.147
+01:10,10,SecretCuentaAtrás11,54.620
+01:41,1,Wanda,30.518
+01:41,2,singyourdialect,52.463
+01:41,3,CashApp13plus,75.241
+01:41,4,SalarioRosa,60.977
+01:41,5,Benfica,98.873
+01:41,6,Vitor Gabriel,
+01:41,7,Chelsea,250.464
+01:41,8,Reece James,53.820
+01:41,9,Seferovic,44.063
+01:41,10,SecretCuentaAtrás11,64.561
+02:10,1,Wanda,42.357
+02:10,2,CashApp13plus,91.018
+02:10,3,Vitor Gabriel,11.333
+02:10,4,singyourdialect,52.109
+02:10,5,Deyverson,
+02:10,6,SalarioRosa,62.732
+02:10,7,Guga,
+02:10,8,Icardi,12.091
+02:10,9,Mauro,18.466
+02:10,10,Zaracho,
+02:41,1,Vitinho,24.493
+02:41,2,Wanda,47.033
+02:41,3,Arrascaeta,17.367
+02:41,4,CashApp13plus,97.787
+02:41,5,Susana,27.034
+02:41,6,Vitor Gabriel,15.162
+02:41,7,Renato,31.324
+02:41,8,Renê,23.849
+02:41,9,gremio,71.526
+02:41,10,Kenedy,
+03:10,1,Renato,105.580
+03:10,2,Flamengo,291.323
+03:10,3,Vitinho,32.379
+03:10,4,Wanda,49.848
+03:10,5,Arrascaeta,18.987
+03:10,6,gremio,109.981
+03:10,7,CashApp13plus,100.254
+03:10,8,Deyverson,
+03:10,9,Susana,28.491
+03:10,10,Vitor Gabriel,15.558
+03:41,1,Renato,136.809
+03:41,2,Flamengo,317.994
+03:41,3,Vitinho,35.550
+03:41,4,Wanda,52.911
+03:41,5,RoçaAFazenda,18.718
+03:41,6,Arrascaeta,20.088
+03:41,7,Deyverson,12.199
+03:41,8,gremio,126.464
+03:41,9,CashApp13plus,104.069
+03:41,10,TheBachelorette,15.589
+04:10,1,Renato,147.187
+04:10,2,Flamengo,316.056
+04:10,3,Vitinho,37.144
+04:10,4,RoçaAFazenda,54.281
+04:10,5,Wanda,54.545
+04:10,6,CashApp13plus,105.445
+04:10,7,DementeGranFinal,
+04:10,8,Deyverson,12.969
+04:10,9,Solange,24.649
+04:10,10,gremio,130.003
+04:41,1,Renato,153.399
+04:41,2,Flamengo,323.126
+04:41,3,RoçaAFazenda,79.419
+04:41,4,Vitinho,38.110
+04:41,5,Marina,74.665
+04:41,6,MasterChefBR,
+04:41,7,Gonzaga,14.925
+04:41,8,CashApp13plus,108.302
+04:41,9,Wanda,56.731
+04:41,10,Solange,28.407
+05:10,1,Renato,155.728
+05:10,2,Flamengo,322.209
+05:10,3,RoçaAFazenda,84.668
+05:10,4,Vitinho,38.515
+05:10,5,LMD4,
+05:10,6,Gonzaga,18.126
+05:10,7,MasterChefBR,
+05:10,8,UCLA,19.065
+05:10,9,Marina,76.452
+05:10,10,CashApp13plus,109.527
+05:41,1,Renato,157.547
+05:41,2,Flamengo,324.721
+05:41,3,RoçaAFazenda,87.345
+05:41,4,LMD4,16.057
+05:41,5,Vitinho,38.844
+05:41,6,Gonzaga,20.201
+05:41,7,UCLA,20.969
+05:41,8,CashApp13plus,111.754
+05:41,9,Dickie V,
+05:41,10,MasterChefBR,
+06:10,1,Renato,158.249
+06:10,2,Flamengo,324.031
+06:10,3,LMD4,19.271
+06:10,4,RoçaAFazenda,88.526
+06:10,5,Gonzaga,21.488
+06:10,6,Vitinho,38.976
+06:10,7,UCLA,22.175
+06:10,8,kpopfightsspace,
+06:10,9,JOKERGULFISHERE,146.570
+06:10,10,CashApp13plus,113.076
+06:41,1,Renato,158.975
+06:41,2,LMD4,20.858
+06:41,3,RoçaAFazenda,89.262
+06:41,4,Flamengo,325.010
+06:41,5,Gonzaga,23.473
+06:41,6,kpopfightsspace,
+06:41,7,ÖğretmenlerGünü,28.632
+06:41,8,淫夢かちいかわかクイズ,
+06:41,9,UCLA,24.105
+06:41,10,Vitinho,39.123
+07:10,1,ÖğretmenlerGünü,33.908
+07:10,2,BTSxLateLate,151.906
+07:10,3,Renato,159.228
+07:10,4,LMD4,21.860
+07:10,5,淫夢かちいかわかクイズ,
+07:10,6,RoçaAFazenda,89.675
+07:10,7,クイズメーカー,
+07:10,8,Gonzaga,24.146
+07:10,9,Flamengo,324.546
+07:10,10,UCLA,24.642
+07:41,1,NAMJOON,497.417
+07:41,2,ÖğretmenlerGünü,41.509
+07:41,3,BTSxLateLate,254.255
+07:41,4,淫夢かちいかわかクイズ,
+07:41,5,クイズメーカー,
+07:41,6,LMD4,22.650
+07:41,7,Renato,159.595
+07:41,8,Paul George,
+07:41,9,RoçaAFazenda,89.944
+07:41,10,Mavs,
+08:10,1,Namjoon,683.073
+08:10,2,ÖğretmenlerGünü,49.281
+08:10,3,BTSxLateLate,489.219
+08:10,4,淫夢かちいかわかクイズ,
+08:10,5,クイズメーカー,
+08:10,6,LMD4,23.214
+08:10,7,james corden,544.243
+08:10,8,Mustafa Kemal Atatürk,44.830
+08:10,9,roçaafazenda,90.137
+08:10,10,Renato,159.622
+08:41,1,Namjoon,771.987
+08:41,2,ÖğretmenlerGünü,57.706
+08:41,3,BTSxLateLate,563.208
+08:41,4,淫夢かちいかわかクイズ,
+08:41,5,クイズメーカー,
+08:41,6,realme8iLaunch,
+08:41,7,Mustafa Kemal Atatürk,50.024
+08:41,8,James Corden,562.915
+08:41,9,dolar50,
+08:41,10,全問正解,
+09:10,1,Namjoon,815.267
+09:10,2,ÖğretmenlerGünü,65.385
+09:10,3,BTSxLateLate,608.111
+09:10,4,淫夢かちいかわかクイズ,10.925
+09:10,5,クイズメーカー,
+09:10,6,realme8iLaunch,10.633
+09:10,7,Mustafa Kemal Atatürk,54.173
+09:10,8,Hawkeye,40.627
+09:10,9,全問正解,
+09:10,10,James Corden,575.175
+09:41,1,Namjoon,858.394
+09:41,2,ÖğretmenlerGünü,73.567
+09:41,3,Got_BTS_right_behind_us,
+09:41,4,クイズメーカー,10.568
+09:41,5,淫夢かちいかわかクイズ,12.134
+09:41,6,BTSxLateLate,647.841
+09:41,7,realme8iLaunch,12.004
+09:41,8,Mustafa Kemal Atatürk,58.185
+09:41,9,全問正解,
+09:41,10,OUR GUILTY PLEASURE HWASA,23.121
+10:10,1,ÖğretmenlerGünü,81.293
+10:10,2,Namjoon,884.437
+10:10,3,クイズメーカー,11.609
+10:10,4,淫夢かちいかわかクイズ,13.252
+10:10,5,Hawkeye,45.801
+10:10,6,got_bts_right_behind_us,11.362
+10:10,7,ImA빛MusicVideo,44.532
+10:10,8,OUR GUILTY PLEASURE HWASA,44.004
+10:10,9,GUILTY PLEASURE OUT NOW,44.391
+10:10,10,Mustafa Kemal Atatürk,62.332
+10:41,1,ÖğretmenlerGünü,89.326
+10:41,2,Namjoon,916.972
+10:41,3,RushHour2ndWin,20.389
+10:41,4,ImA빛MusicVideo,64.949
+10:41,5,Hawkeye,49.391
+10:41,6,クイズメーカー,12.701
+10:41,7,淫夢かちいかわかクイズ,14.473
+10:41,8,OUR GUILTY PLEASURE HWASA,62.347
+10:41,9,GUILTY PLEASURE OUT NOW,62.528
+10:41,10,全問正解,
+11:10,1,ÖğretmenlerGünü,95.512
+11:10,2,Namjoon,938.015
+11:10,3,RushHour2ndWin,40.503
+11:10,4,Hawkeye,52.962
+11:10,5,ImA빛MusicVideo,74.883
+11:10,6,クイズメーカー,13.630
+11:10,7,淫夢かちいかわかクイズ,15.401
+11:10,8,OUR GUILTY PLEASURE HWASA,71.142
+11:10,9,GUILTY PLEASURE OUT NOW,71.713
+11:10,10,全問正解,10.125
+11:41,1,ÖğretmenlerGünü,102.315
+11:41,2,Namjoon,970.133
+11:41,3,RushHour2ndWin,49.661
+11:41,4,Hawkeye,56.423
+11:41,5,GetWellSoonLisa,15.997
+11:41,6,ImA빛MusicVideo,81.957
+11:41,7,淫夢かちいかわかクイズ,16.397
+11:41,8,OUR GUILTY PLEASURE HWASA,77.561
+11:41,9,GUILTY PLEASURE OUT NOW,78.263
+11:41,10,STAY SAFE ROSÉ,32.953
+12:10,1,GetWellSoonLisa,43.358
+12:10,2,ÖğretmenlerGünü,107.424
+12:10,3,Hawkeye,58.472
+12:10,4,Namjoon,991.685
+12:10,5,RushHour2ndWin,54.512
+12:10,6,うたわれ20周年,10.109
+12:10,7,淫夢かちいかわかクイズ,17.138
+12:10,8,STAY SAFE BLACKPINK,39.319
+12:10,9,GUILTY PLEASURE OUT NOW,82.195
+12:10,10,OUR GUILTY PLEASURE HWASA,81.056
+12:41,1,GetWellSoonLisa,69.446
+12:41,2,ÖğretmenlerGünü,112.746
+12:41,3,Hawkeye,61.846
+12:41,4,うたわれ20周年,15.151
+12:41,5,PedazoCatálogo,
+12:41,6,namjoon,1.021.052
+12:41,7,STAY SAFE BLACKPINK,51.345
+12:41,8,淫夢かちいかわかクイズ,18.105
+12:41,9,THREE DAYS TO OUR ZONE,21.516
+12:41,10,Justin AWARD,16.244
+13:10,1,GetWellSoonLisa,90.568
+13:10,2,Hawkeye,63.889
+13:10,3,すわほー,14.434
+13:10,4,ÖğretmenlerGünü,117.106
+13:10,5,うたわれ20周年,19.316
+13:10,6,ChollometroBlackWeek,
+13:10,7,STAY SAFE BLACKPINK,61.187
+13:10,8,ヤクルト,70.000
+13:10,9,namjoon,1.037.812
+13:10,10,淫夢かちいかわかクイズ,18.834
+13:41,1,GetwellsoonLisa,110.923
+13:41,2,PMQs,
+13:41,3,Hawkeye,67.822
+13:41,4,ChollometroBlackWeek,
+13:41,5,今夜くらべてみました,14.012
+13:41,6,すわほー,17.401
+13:41,7,STAY SAFE BLACKPINK,71.550
+13:41,8,ヤクルト,78.459
+13:41,9,クリスマスデート権,
+13:41,10,namjoon,1.065.308
+14:10,1,GetwellsoonLisa,127.217
+14:10,2,Hawkeye,69.892
+14:10,3,PMQs,13.807
+14:10,4,今夜くらべてみました,19.163
+14:10,5,白銀ノエル誕生日凸待ち,13.727
+14:10,6,STAY SAFE BLACKPINK,81.240
+14:10,7,すわほー,14.494
+14:10,8,7MONTHS WITH PAIPAI,87.390
+14:10,9,ヤクルト,69.656
+14:10,10,クリスマスデート権,
+14:41,1,GetwellsoonLisa,141.912
+14:41,2,水曜日のダウンタウン,
+14:41,3,Hawkeye,73.720
+14:41,4,恋です,22.092
+14:41,5,PMQs,17.514
+14:41,6,STAY SAFE BLACKPINK,91.718
+14:41,7,7MONTHS WITH PAIPAI,129.911
+14:41,8,すわほー,15.112
+14:41,9,クリスマスデート権,
+14:41,10,ヤクルト,72.655
+15:10,1,水曜日のダウンタウン,18.879
+15:10,2,恋です,32.376
+15:10,3,Koalitionsvertrag,
+15:10,4,Lisa,684.248
+15:10,5,Hawkeye,76.371
+15:10,6,StaySelcaDay,28.796
+15:10,7,STAY SAFE BLACKPINK,102.355
+15:10,8,尾形さん,
+15:10,9,クリスマスデート権,
+15:10,10,7MONTHS WITH PAIPAI,143.153
+15:41,1,Koalitionsvertrag,12.160
+15:41,2,水曜日のダウンタウン,20.077
+15:41,3,stayselcaday,47.406
+15:41,4,恋です,35.586
+15:41,5,Hawkeye,81.539
+15:41,6,Lisa,722.082
+15:41,7,STAY SAFE BLACKPINK,113.361
+15:41,8,クリスマスデート権,
+15:41,9,尾形さん,
+15:41,10,Happy Thanksgiving,66.782
+16:10,1,Koalitionsvertrag,16.372
+16:10,2,NCTショウタロウ_お誕生日おめでタロ,109.455
+16:10,3,stayselcaday,66.332
+16:10,4,水曜日のダウンタウン,20.740
+16:10,5,Hawkeye,85.312
+16:10,6,Lisa,737.090
+16:10,7,Happy Thanksgiving,68.927
+16:10,8,STAY SAFE BLACKPINK,123.833
+16:10,9,クリスマスデート権,
+16:10,10,KAI MOOD SAMPLER 3,43.700
+16:41,1,Koalitionsvertrag,20.047
+16:41,2,NCTショウタロウ_お誕生日おめでタロ,147.411
+16:41,3,stayselcaday,83.466
+16:41,4,JAYBsRNBxYugyeom,51.625
+16:41,5,HAPPYSHOTARODAY,223.722
+16:41,6,Happy Thanksgiving,73.737
+16:41,7,GET WELL SOON LISA,263.224
+16:41,8,KAI MOOD SAMPLER 3,126.356
+16:41,9,STAY SAFE BLACKPINK,133.254
+16:41,10,Melody,36.807
+17:10,1,Koalitionsvertrag,22.915
+17:10,2,NCTショウタロウ_お誕生日おめでタロ,160.305
+17:10,3,stayselcaday,94.588
+17:10,4,JAYBsRNBxYugyeom,97.543
+17:10,5,Hawkeye,94.556
+17:10,6,Happy Thanksgiving,76.289
+17:10,7,GET WELL SOON LISA,274.432
+17:10,8,Melody,37.720
+17:10,9,STAY SAFE BLACKPINK,140.124
+17:10,10,KAI MOOD SAMPLER 3,152.079
+17:41,1,Koalitionsvertrag,26.004
+17:41,2,NCTショウタロウ_お誕生日おめでタロ,167.535
+17:41,3,Thanksgiving,643.083
+17:41,4,stayselcaday,103.661
+17:41,5,منجز7_كاس_اسيا,
+17:41,6,JAYBsRNBxYugyeom,124.388
+17:41,7,Lo Espejo,14.168
+17:41,8,PROFUMO DAYANEANDYOU,34.287
+17:41,9,Melody,39.487
+17:41,10,GET WELL SOON LISA,284.119
+18:10,1,Thanksgiving,644.487
+18:10,2,Koalitionsvertrag,28.297
+18:10,3,NCTショウタロウ_お誕生日おめでタロ,171.653
+18:10,4,stayselcaday,109.546
+18:10,5,Lo Espejo,20.961
+18:10,6,Hawkeye,101.923
+18:10,7,منجز7_كاس_اسيا,
+18:10,8,PROFUMO DAYANEANDYOU,54.483
+18:10,9,Melody,39.849
+18:10,10,GET WELL SOON LISA,290.907
+18:41,1,Thanksgiving,679.422
+18:41,2,Koalitionsvertrag,30.595
+18:41,3,CaveSpace,
+18:41,4,Lo Espejo,27.552
+18:41,5,NCTショウタロウ_お誕生日おめでタロ,174.686
+18:41,6,StaySelcaDay,113.797
+18:41,7,PlayItForward,
+18:41,8,PROFUMO DAYANEANDYOU,75.240
+18:41,9,Melody,41.161
+18:41,10,Everson Griffen,
+19:10,1,Thanksgiving,680.680
+19:10,2,Koalitionsvertrag,32.443
+19:10,3,CaveSpace,
+19:10,4,Lo Espejo,33.532
+19:10,5,PlayItForward,
+19:10,6,Hawkeye,110.287
+19:10,7,StaySelcaDay,116.912
+19:10,8,JUNG HOSEOK,38.323
+19:10,9,PROFUMO DAYANEANDYOU,90.193
+19:10,10,Melody,40.973
+19:41,1,Thanksgiving,714.776
+19:41,2,Larin,
+19:41,3,Koalitionsvertrag,34.131
+19:41,4,احتفاليه_زعيم_اسيا,
+19:41,5,PlayItForward,
+19:41,6,Hawkeye,115.954
+19:41,7,Lo Espejo,39.162
+19:41,8,CaveSpace,
+19:41,9,JUNG HOSEOK,42.726
+19:41,10,PROFUMO DAYANEANDYOU,106.341
+20:10,1,AhmaudArbery,40.135
+20:10,2,Thanksgiving,716.354
+20:10,3,Larin,11.389
+20:10,4,Travis McMichael,54.611
+20:10,5,احتفاليه_زعيم_اسيا,
+20:10,6,InterShakhtar,
+20:10,7,Koalitionsvertrag,35.634
+20:10,8,besaja,
+20:10,9,Greg McMichael,15.605
+20:10,10,Hobi,162.838
+20:41,1,AhmaudArbery,57.691
+20:41,2,Thanksgiving,748.467
+20:41,3,Larin,13.407
+20:41,4,Haller,17.550
+20:41,5,Travis McMichael,73.093
+20:41,6,InterShakhtar,
+20:41,7,احتفاليه_زعيم_اسيا,
+20:41,8,Ajax,44.826
+20:41,9,besaja,
+20:41,10,BJKAJA,14.013
+21:10,1,AhmaudArbery,66.917
+21:10,2,Thanksgiving,752.869
+21:10,3,Larin,14.850
+21:10,4,احتفاليه_زعيم_اسيا,13.844
+21:10,5,kadıköymetro,10.904
+21:10,6,Haller,23.079
+21:10,7,InterShakhtar,10.782
+21:10,8,Travis McMichael,81.299
+21:10,9,MCIPSG,42.093
+21:10,10,Ajax,49.098
+21:41,1,Thanksgiving,786.211
+21:41,2,AhmaudArbery,75.316
+21:41,3,HBOMax,15.285
+21:41,4,MCIPSG,51.057
+21:41,5,kadıköymetro,21.633
+21:41,6,احتفاليه_زعيم_اسيا,17.349
+21:41,7,Alaba,11.032
+21:41,8,Mahrez,12.502
+21:41,9,Larin,15.303
+21:41,10,Ajax,52.383
+22:10,1,MCIPSG,65.065
+22:10,2,Thanksgiving,787.301
+22:10,3,kadıköymetro,31.208
+22:10,4,AhmaudArbery,80.448
+22:10,5,HBOMax,15.876
+22:10,6,Kroos,18.103
+22:10,7,Mbappe,41.562
+22:10,8,Alaba,17.040
+22:10,9,Mahrez,15.903
+22:10,10,احتفاليه_زعيم_اسيا,20.519
+22:41,1,Neymar,61.832
+22:41,2,MCIPSG,78.580
+22:41,3,Thanksgiving,820.633
+22:41,4,kadıköymetro,39.563
+22:41,5,Messi,185.822
+22:41,6,LaIslaDeLasTentaciones3,
+22:41,7,AhmaudArbery,85.765
+22:41,8,Thiago,74.004
+22:41,9,Bernardo Silva,
+22:41,10,Gabriel Jesus,
+23:10,1,Neymar,73.663
+23:10,2,MCIPSG,83.394
+23:10,3,Thanksgiving,821.943
+23:10,4,kadıköymetro,45.817
+23:10,5,Messi,202.652
+23:10,6,LaIslaDeLasTentaciones3,19.446
+23:10,7,Thiago,71.139
+23:10,8,Milan,61.445
+23:10,9,Gabriel Jesus,10.889
+23:10,10,AhmaudArbery,89.099
+23:41,1,Thanksgiving,854.721
+23:41,2,Neymar,80.601
+23:41,3,MCIPSG,85.121
+23:41,4,kadıköymetro,50.728
+23:41,5,LaIslaDeLasTentaciones3,28.118
+23:41,6,Messi,219.073
+23:41,7,Thiago,77.419
+23:41,8,Milan,71.353
+23:41,9,Milan,71.353
+23:41,10,Mbappe,70.274

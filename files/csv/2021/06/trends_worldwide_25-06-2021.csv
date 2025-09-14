@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Ka3na,33.782
+00:10,2,KpopVZ,11.589
+00:10,3,FriendsReunion,12.774
+00:10,4,Lucy,43.582
+00:10,5,Tochi,13.923
+00:10,6,survior2021,27.913
+00:10,7,Windows 11,68.493
+00:10,8,PSL6final,18.549
+00:10,9,PayMeInBitcoin,25.421
+00:10,10,CANTA MAIS JULIETTE,15.579
+00:41,1,KpopVZ,17.478
+00:41,2,Cavani,
+00:41,3,Ka3na,42.871
+00:41,4,Tochi,18.693
+00:41,5,Torres,37.754
+00:41,6,Lucy,50.007
+00:41,7,CANTA MAIS JULIETTE,34.351
+00:41,8,FriendsReunion,13.086
+00:41,9,bbcqt,
+00:41,10,Windows 11,136.668
+01:10,1,Torres,41.939
+01:10,2,Cavani,10.391
+01:10,3,KpopVZ,21.024
+01:10,4,Ka3na,45.968
+01:10,5,CANTA MAIS JULIETTE,44.391
+01:10,6,Tochi,20.281
+01:10,7,STREAM ONLY THE BRAVE,34.970
+01:10,8,Lucy,53.178
+01:10,9,Windows 11,74.484
+01:10,10,Ocampo,
+01:41,1,Torres,44.131
+01:41,2,KpopVZ,24.747
+01:41,3,STREAM ONLY THE BRAVE,60.713
+01:41,4,Cavani,11.438
+01:41,5,CANTA MAIS JULIETTE,52.802
+01:41,6,Ka3na,48.795
+01:41,7,Tyler,79.498
+01:41,8,Windows 11,77.334
+01:41,9,Lucy,55.694
+01:41,10,Tochi,21.398
+02:10,1,Everson,
+02:10,2,BatidaoTropical,23.277
+02:10,3,Ramiro,
+02:10,4,STREAM ONLY THE BRAVE,70.735
+02:10,5,Torres,43.629
+02:10,6,KpopVZ,27.330
+02:10,7,Tyler,81.626
+02:10,8,Cavani,11.910
+02:10,9,CANTA MAIS JULIETTE,56.935
+02:10,10,誕生魚診断,
+02:41,1,BatidãoTropical,40.302
+02:41,2,Everson,11.637
+02:41,3,ChileVsParaguay,
+02:41,4,Pabllo,27.899
+02:41,5,STREAM ONLY THE BRAVE,75.783
+02:41,6,誕生魚診断,
+02:41,7,マルハニチロ,
+02:41,8,わたしの誕生魚,
+02:41,9,自分の魚,
+02:41,10,Ramiro,
+03:10,1,BatidaoTropical,52.504
+03:10,2,ChileVsParaguay,10.978
+03:10,3,Cruzeiro,46.883
+03:10,4,Matheus Henrique,
+03:10,5,Camacho,
+03:10,6,Pabllo,36.460
+03:10,7,Everson,12.322
+03:10,8,Marcos Guilherme,
+03:10,9,Pinares,
+03:10,10,Matheus Barbosa,
+03:41,1,ChileVsParaguay,23.562
+03:41,2,BatidaoTropical,60.616
+03:41,3,Cruzeiro,53.396
+03:41,4,Matheus Henrique,
+03:41,5,Pinares,11.126
+03:41,6,Pabllo,43.670
+03:41,7,MasterChefArgentina,56.989
+03:41,8,誕生魚診断,12.914
+03:41,9,ShangChi,25.334
+03:41,10,わたしの誕生魚,12.629
+04:10,1,ChileVsParaguay,35.775
+04:10,2,GASTON,78.920
+04:10,3,BatidaoTropical,66.301
+04:10,4,MasterChefArgentina,57.834
+04:10,5,LaVozArgentina,13.826
+04:10,6,Cruzeiro,57.249
+04:10,7,Marinho,
+04:10,8,Lali,23.698
+04:10,9,DO_SOLOISCOMING,45.708
+04:10,10,Pinares,13.423
+04:41,1,ChileVsParaguay,38.490
+04:41,2,LaVozArgentina,26.656
+04:41,3,Cruzeiro,68.137
+04:41,4,GASTON,84.592
+04:41,5,BatidaoTropical,70.885
+04:41,6,Lali,34.634
+04:41,7,DO_SOLOISCOMING,88.966
+04:41,8,Marinho,12.260
+04:41,9,MasterChefArgentina,60.761
+04:41,10,わたしの誕生魚,16.497
+05:10,1,Lali,56.154
+05:10,2,LaVozArgentina,43.566
+05:10,3,ChileVsParaguay,39.414
+05:10,4,Cruzeiro,71.361
+05:10,5,DO_SOLOISCOMING,115.146
+05:10,6,gaston,82.757
+05:10,7,GoHabsGo,38.845
+05:10,8,BatidaoTropical,73.891
+05:10,9,Marinho,12.995
+05:10,10,わたしの誕生魚,19.038
+05:41,1,GoHabsGo,57.755
+05:41,2,Lali,67.098
+05:41,3,LaVozArgentina,50.405
+05:41,4,DO_SOLOISCOMING,135.896
+05:41,5,ChileVsParaguay,39.880
+05:41,6,Reggie Jackson,
+05:41,7,Cruzeiro,75.007
+05:41,8,Montreal,38.957
+05:41,9,EliminaçãoPowerCouple,32.586
+05:41,10,gaston,85.381
+06:10,1,GoHabsGo,64.625
+06:10,2,Lali,71.253
+06:10,3,tyler,121.181
+06:10,4,LaVozArgentina,52.636
+06:10,5,DO_SOLOISCOMING,148.381
+06:10,6,Reggie Jackson,10.172
+06:10,7,誕生魚診断,24.158
+06:10,8,Montreal,43.272
+06:10,9,ChileVsParaguay,40.052
+06:10,10,わたしの誕生魚,23.672
+06:41,1,Tyler,163.260
+06:41,2,GoHabsGo,68.799
+06:41,3,Lali,73.701
+06:41,4,Doja,116.659
+06:41,5,PlanetHer,20.033
+06:41,6,LaVozArgentina,53.692
+06:41,7,DO_SOLOISCOMING,158.912
+06:41,8,Reggie Jackson,10.970
+06:41,9,誕生魚診断,25.400
+06:41,10,わたしの誕生魚,24.932
+07:10,1,Tyler,192.519
+07:10,2,GoHabsGo,71.112
+07:10,3,Doja,133.873
+07:10,4,PlanetHer,25.541
+07:10,5,Lali,74.848
+07:10,6,DO_SOLOISCOMING,167.201
+07:10,7,LaVozArgentina,54.182
+07:10,8,BadHabits,15.506
+07:10,9,わたしの誕生魚,25.464
+07:10,10,自分の魚,26.418
+07:41,1,Tyler,213.505
+07:41,2,Doja,146.474
+07:41,3,GoHabsGo,72.931
+07:41,4,PlanetHer,28.761
+07:41,5,LALxแก๊งเพื่อนไทน์,126.915
+07:41,6,DO_SOLOISCOMING,174.310
+07:41,7,Lali,76.035
+07:41,8,Dodgers,36.321
+07:41,9,BadHabits,17.331
+07:41,10,わたしの誕生魚,25.871
+08:10,1,Tyler,225.428
+08:10,2,AskSRK,
+08:10,3,Doja,153.411
+08:10,4,PlanetHer,30.799
+08:10,5,GoHabsGo,74.211
+08:10,6,LALxแก๊งเพื่อนไทน์,173.857
+08:10,7,DO_SOLOISCOMING,180.067
+08:10,8,Dodgers,36.814
+08:10,9,Lali,75.848
+08:10,10,Cubs,30.093
+08:41,1,Tyler,236.074
+08:41,2,AskSRK,31.639
+08:41,3,Doja,159.846
+08:41,4,PlanetHer,32.166
+08:41,5,LALxแก๊งเพื่อนไทน์,194.474
+08:41,6,GoHabsGo,75.304
+08:41,7,DarkDaysOfEmergency,78.874
+08:41,8,Dodgers,38.320
+08:41,9,わたしの誕生魚,27.048
+08:41,10,自分の魚,27.989
+09:10,1,Tyler,241.665
+09:10,2,AskSRK,35.145
+09:10,3,Doja,164.293
+09:10,4,PlanetHer,33.501
+09:10,5,ArrestKejriwal,22.916
+09:10,6,DarkDaysOfEmergency,86.967
+09:10,7,LALxแก๊งเพื่อนไทน์,203.340
+09:10,8,Dodgers,38.353
+09:10,9,わたしの誕生魚,27.654
+09:10,10,自分の魚,28.606
+09:41,1,Tyler,247.578
+09:41,2,AskSRK,37.954
+09:41,3,Doja,168.439
+09:41,4,ArrestKejriwal,30.614
+09:41,5,matthanock,
+09:41,6,มิวฮึบกรึ๊บแบรนด์,91.350
+09:41,7,team악당_TXT,25.645
+09:41,8,TXT LEAGUE OF VILLAINS,25.176
+09:41,9,onちゃん,15.209
+09:41,10,わたしの誕生魚,28.181
+10:10,1,Tyler,251.860
+10:10,2,AskSRK,40.453
+10:10,3,TXTonMusicBank,53.048
+10:10,4,team악당_TXT,53.018
+10:10,5,TXT LEAGUE OF VILLAINS,52.766
+10:10,6,ENVillainsOnMusicBank,167.291
+10:10,7,ArrestKejriwal,37.916
+10:10,8,ENHYPEN THE SINISTER SEVEN,169.545
+10:10,9,Doja,171.544
+10:10,10,HARLEY QUINN,10.473
+10:41,1,Tyler,256.223
+10:41,2,AskSRK,42.515
+10:41,3,TXTonMusicBank,63.961
+10:41,4,team악당_TXT,63.760
+10:41,5,TXT LEAGUE OF VILLAINS,63.623
+10:41,6,ENVillainsOnMusicBank,197.300
+10:41,7,桃色の絶対領域,
+10:41,8,ENHYPEN THE SINISTER SEVEN,198.958
+10:41,9,ArrestKejriwal,47.953
+10:41,10,Katarlı,27.433
+11:10,1,Tyler,259.295
+11:10,2,TXTonMusicBank,72.212
+11:10,3,AskSRK,44.467
+11:10,4,Katarlı,41.448
+11:10,5,team악당_TXT,71.582
+11:10,6,TXT LEAGUE OF VILLAINS,71.610
+11:10,7,HELLO FUTURE,876.145
+11:10,8,0X1LOVESONG_REMIX,26.181
+11:10,9,桃色の絶対領域,
+11:10,10,0X1LOVESONG REMIX OUT NOW,24.632
+11:41,1,ReadytoLove1stwin,90.601
+11:41,2,キャストリア,17.896
+11:41,3,Katarlı,55.014
+11:41,4,Hello Future,1.004.485
+11:41,5,Tyler,263.156
+11:41,6,米津の好きな曲5つあげると性癖がわかる,
+11:41,7,0X1LOVESONG_REMIX,34.208
+11:41,8,TXTonMusicBank,74.499
+11:41,9,走れソニック,15.466
+11:41,10,桃色の絶対領域,10.632
+12:10,1,ReadytoLove1stwin,156.762
+12:10,2,キャストリア,26.071
+12:10,3,katarlı,
+12:10,4,米津の好きな曲5つあげると性癖がわかる,
+12:10,5,ぴったんこカンカン,15.481
+12:10,6,Hello Future,1.058.608
+12:10,7,走れソニック,19.428
+12:10,8,Tyler,266.084
+12:10,9,桃色の絶対領域,12.502
+12:10,10,0X1LOVESONG REMIX OUT NOW,33.546
+12:41,1,ReadytoLove1stwin,185.688
+12:41,2,キャストリア,32.540
+12:41,3,米津の好きな曲5つあげると性癖がわかる,
+12:41,4,katarlı,
+12:41,5,ProtestoEdiyorum,14.285
+12:41,6,ぴったんこカンカン,25.724
+12:41,7,Hello Future,1.096.136
+12:41,8,السعوديه الخضراء,15.829
+12:41,9,الشرق الاوسط الاخضر,11.533
+12:41,10,桃色の絶対領域,13.954
+13:10,1,ReadytoLove1stwin,198.978
+13:10,2,キャストリア,37.110
+13:10,3,ProtestoEdiyorum,18.928
+13:10,4,米津の好きな曲5つあげると性癖がわかる,
+13:10,5,プロセカ生放送,
+13:10,6,katarlı,
+13:10,7,السعوديه الخضراء,22.930
+13:10,8,الشرق الاوسط الاخضر,17.567
+13:10,9,Hello Future,1.111.855
+13:10,10,じゃま虫II,
+13:41,1,プロセカ生放送,76.681
+13:41,2,ProtestoEdiyorum,23.590
+13:41,3,ReadytoLove1stwin,207.644
+13:41,4,米津の好きな曲5つあげると性癖がわかる,
+13:41,5,キャストリア,41.842
+13:41,6,走れソニック,33.659
+13:41,7,kemuさん,
+13:41,8,地球最後の告白,
+13:41,9,男子100m決勝,
+13:41,10,السعوديه الخضراء,29.206
+14:10,1,プロセカ生放送,128.075
+14:10,2,米津の好きな曲5つあげると性癖がわかる,
+14:10,3,ProtestoEdiyorum,27.006
+14:10,4,キャストリア,45.456
+14:10,5,ReadytoLove1stwin,214.474
+14:10,6,走れソニック,42.231
+14:10,7,ピーターラビット,35.253
+14:10,8,横浜優勝,
+14:10,9,れおほー,
+14:10,10,地球最後の告白,11.324
+14:41,1,白雪巴3D,43.191
+14:41,2,米津の好きな曲5つあげると性癖がわかる,
+14:41,3,ピーターラビット,57.039
+14:41,4,プロセカ生放送,145.317
+14:41,5,ProtestoEdiyorum,30.301
+14:41,6,VSホロカート,24.800
+14:41,7,キャストリア,48.639
+14:41,8,横浜優勝,
+14:41,9,れおほー,
+14:41,10,地球最後の告白,13.356
+15:10,1,白雪巴3D,66.946
+15:10,2,ピーターラビット,
+15:10,3,米津の好きな曲5つあげると性癖がわかる,
+15:10,4,JohnnysVillage3,18.927
+15:10,5,WIBTVSHOWJuni,85.489
+15:10,6,NCTDreamdiWIBTVSHOW,105.971
+15:10,7,キャストリア,51.071
+15:10,8,SELALU ADA SELALU BISA,72.678
+15:10,9,横浜優勝,
+15:10,10,地球最後の告白,14.520
+15:41,1,白雪巴3D,77.421
+15:41,2,ピーターラビット,104.774
+15:41,3,米津の好きな曲5つあげると性癖がわかる,
+15:41,4,JohnnysVillage3,30.871
+15:41,5,金スマ,27.557
+15:41,6,WIBTVSHOWJuni,172.643
+15:41,7,SELALU ADA SELALU BISA,152.951
+15:41,8,キャストリア,53.268
+15:41,9,横浜優勝,
+15:41,10,小池氏過労,
+16:10,1,ピーターラビット,134.261
+16:10,2,白雪巴3D,80.976
+16:10,3,米津の好きな曲5つあげると性癖がわかる,10.111
+16:10,4,NCTDreamdiWIBTVSHOW,248.230
+16:10,5,JohnnysVillage3,39.372
+16:10,6,ラブライブANN,23.519
+16:10,7,SELALU ADA SELALU BISA,190.612
+16:10,8,キャストリア,54.988
+16:10,9,じらいちゃん,
+16:10,10,小池氏過労,
+16:41,1,ピーターラビット,148.308
+16:41,2,JohnnysVillage3,51.484
+16:41,3,米津の好きな曲5つあげると性癖がわかる,10.864
+16:41,4,ラブライブANN,33.174
+16:41,5,NCTDreamdiWIBTVSHOW,283.847
+16:41,6,白雪巴3D,87.375
+16:41,7,KIM TAEHYUNG,41.946
+16:41,8,SELALU ADA SELALU BISA,219.915
+16:41,9,ラフメイカー,
+16:41,10,じらいちゃん,
+17:10,1,花江爆誕30,25.574
+17:10,2,KIM TAEHYUNG,78.711
+17:10,3,JohnnysVillage3,55.319
+17:10,4,ピーターラビット,153.788
+17:10,5,HYUNJIN,162.426
+17:10,6,米津の好きな曲5つあげると性癖がわかる,11.416
+17:10,7,ラブライブANN,42.250
+17:10,8,花江夏樹と小野賢章,12.402
+17:10,9,SELALU ADA SELALU BISA,238.349
+17:10,10,펜트하우스,
+17:41,1,HYUNJIN,465.560
+17:41,2,花江爆誕30,39.829
+17:41,3,KIM TAEHYUNG,101.318
+17:41,4,JohnnysVillage3,56.181
+17:41,5,渡辺翔太入所16周年,
+17:41,6,kahraman4381,107.752
+17:41,7,ピーターラビット,157.655
+17:41,8,花江夏樹と小野賢章,15.047
+17:41,9,花江さん,
+17:41,10,JISOO BEST GIRL,42.561
+18:10,1,HYUNJIN,813.887
+18:10,2,花江爆誕30,44.466
+18:10,3,LoveStay,235.897
+18:10,4,StrayKids,559.140
+18:10,5,KIM TAEHYUNG,111.926
+18:10,6,kahraman4381,143.511
+18:10,7,渡辺翔太入所16周年,
+18:10,8,ピーターラビット,159.545
+18:10,9,8 IS FATE,62.893
+18:10,10,花江さん,
+18:41,1,HYUNJIN,996.418
+18:41,2,StrayKids,623.318
+18:41,3,LoveStay,315.962
+18:41,4,花江爆誕30,48.168
+18:41,5,AgustD500MSpotify,27.926
+18:41,6,SKZOT8Forever,86.024
+18:41,7,KIM TAEHYUNG,120.577
+18:41,8,8 IS FATE,78.602
+18:41,9,ピーターラビット,161.104
+18:41,10,PROUD OF YOONGI,
+19:10,1,HYUNJIN,1.085.807
+19:10,2,StrayKids,646.478
+19:10,3,LoveStay,335.571
+19:10,4,AgustD500MSpotify,38.415
+19:10,5,花江爆誕30,49.466
+19:10,6,hakkımıhelaletmiyorum,13.588
+19:10,7,KIM TAEHYUNG,125.627
+19:10,8,8 IS FATE,88.232
+19:10,9,PROUD OF YOONGI,14.052
+19:10,10,Sabit DüzDünya,
+19:41,1,Hyunjin,1.152.510
+19:41,2,AgustD500MSpotify,44.749
+19:41,3,hakkımıhelaletmiyorum,17.230
+19:41,4,StrayKids,673.164
+19:41,5,LoveStay,344.938
+19:41,6,PLTPayDay,
+19:41,7,PROUD OF YOONGI,16.810
+19:41,8,KIM TAEHYUNG,131.156
+19:41,9,8 IS FATE,92.824
+19:41,10,É MENTIRA,35.289
+20:10,1,HYUNJIN,1.182.807
+20:10,2,VoleiNoSportTV,10.454
+20:10,3,hakkımıhelaletmiyorum,21.086
+20:10,4,AgustD500MSpotify,49.313
+20:10,5,StrayKids,686.081
+20:10,6,btsdivine,15.385
+20:10,7,HAVAIANAS DE JULIETTE,22.915
+20:10,8,UstayıBitiren Yönetmelik,
+20:10,9,ÇekeHapis CezasıKalksın,
+20:10,10,PROUD OF YOONGI,19.034
+20:41,1,HYUNJIN,1.219.544
+20:41,2,FreeCodeFridayContest,
+20:41,3,VoleiNoSportTV,19.097
+20:41,4,hakkımıhelaletmiyorum,25.195
+20:41,5,btsdivine,20.791
+20:41,6,HAVAIANAS DE JULIETTE,38.628
+20:41,7,Tandara,
+20:41,8,yks2021,64.785
+20:41,9,NC State,
+20:41,10,UstayıBitiren Yönetmelik,
+21:10,1,FreeCodeFridayContest,
+21:10,2,Elazığ,
+21:10,3,VoleiNoSportTV,24.020
+21:10,4,HYUNJIN,1.217.157
+21:10,5,hakkımıhelaletmiyorum,28.838
+21:10,6,yks2021,68.930
+21:10,7,HAVAIANAS DE JULIETTE,44.788
+21:10,8,Tandara,
+21:10,9,Derek Chauvin,47.414
+21:10,10,NC State,
+21:41,1,Chauvin,95.475
+21:41,2,deprem,11.324
+21:41,3,Elazığ,
+21:41,4,Bingöl,
+21:41,5,FreeCodeFridayContest,
+21:41,6,VoleiNoSportTV,30.559
+21:41,7,George Floyd,82.497
+21:41,8,Fernando Bezerra,
+21:41,9,Hyunjin,1.245.744
+21:41,10,NC State,
+22:10,1,Derek Chauvin,121.282
+22:10,2,GeorgeFloyd,16.908
+22:10,3,yks2021,84.444
+22:10,4,VoleiNoSporTV,36.387
+22:10,5,deprem,13.491
+22:10,6,CPIdaCovid,51.958
+22:10,7,Fernando Bezerra,
+22:10,8,NC State,
+22:10,9,HYUNJIN,1.244.499
+22:10,10,Tandara,10.100
+22:41,1,Derek Chauvin,168.061
+22:41,2,George Floyd,170.425
+22:41,3,yks2021,93.178
+22:41,4,deprem,15.956
+22:41,5,CPIdaCovid,58.725
+22:41,6,VoleiNoSporTV,40.236
+22:41,7,Bingöl,11.176
+22:41,8,NC State,
+22:41,9,Fernando Bezerra,10.812
+22:41,10,Hyunjin,1.259.135
+23:10,1,Derek Chauvin,200.272
+23:10,2,George Floyd,200.667
+23:10,3,yks2021,98.488
+23:10,4,CPIdaCovid,66.256
+23:10,5,deprem,17.783
+23:10,6,voleinosportv,40.746
+23:10,7,Bingöl,12.420
+23:10,8,NC State,10.363
+23:10,9,Fernando Bezerra,11.592
+23:10,10,Marcos Rogério,14.934
+23:41,1,Derek Chauvin,242.081
+23:41,2,George Floyd,237.680
+23:41,3,yks2021,104.607
+23:41,4,CPIdaCovid,80.437
+23:41,5,Marcos Rogério,27.287
+23:41,6,deprem,19.176
+23:41,7,Fernando Bezerra,15.196
+23:41,8,Aaron Nola,
+23:41,9,Bingöl,13.242
+23:41,10,birdilekfenerigonderiyoruz,

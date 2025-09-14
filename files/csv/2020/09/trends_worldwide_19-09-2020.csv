@@ -1,0 +1,321 @@
+hora,posicio,trend,volum
+00:02,1,KohLanta,49.495
+00:02,2,Schalke,62.983
+00:02,3,KırmızOda,
+00:02,4,GFVIP,59.940
+00:02,5,Puerto Rico,142.631
+00:02,6,FreeCodeFridayContest,
+00:02,7,FCBS04,43.203
+00:02,8,Giannis,145.807
+00:02,9,Gnabry,28.418
+00:02,10,Jota,122.932
+00:37,1,KohLanta,50.782
+00:37,2,Schalke,65.954
+00:37,3,GFVIP,68.594
+00:37,4,AtatürkDiktatördür,
+00:37,5,Puerto Rico,155.869
+00:37,6,KırmızOda,
+00:37,7,LaVozAudiciones2,15.011
+00:37,8,Gaga,306.187
+00:37,9,Jota,131.463
+00:37,10,Giannis,150.202
+01:07,1,KohLanta2020,66.438
+01:07,2,AtatürkDiktatördür,
+01:07,3,LaVozAudiciones2,17.314
+01:07,4,Puerto Rico,167.159
+01:07,5,GFVIP,74.912
+01:07,6,Schalke,68.447
+01:07,7,AskFantoms,16.104
+01:07,8,Jota,135.573
+01:07,9,Gaga,305.006
+01:07,10,INTERSCOPE RESPECT SELENA,34.414
+01:37,1,AtatürkDiktatördür,10.495
+01:37,2,FaZeThome,22.380
+01:37,3,KohLanta,51.647
+01:37,4,Puerto Rico,183.454
+01:37,5,ملكه_كابلي,
+01:37,6,LaVozAudiciones2,18.903
+01:37,7,Schalke,70.175
+01:37,8,INTERSCOPE RESPECT SELENA,41.108
+01:37,9,Jota,139.084
+01:37,10,Ruth Bader Ginsburg,21.745
+02:02,1,RIPRBG,21.871
+02:02,2,Ruth Bader Ginsburg,361.401
+02:02,3,Rest In Peace,79.272
+02:02,4,NotoriousRBG,
+02:02,5,SCOTUS,32.064
+02:02,6,McConnell,143.404
+02:02,7,Merrick Garland,12.746
+02:02,8,FaZeThome,28.426
+02:02,9,ملكه_كابلي,
+02:02,10,AtatürkDiktatördür,10.893
+02:37,1,RIPRBG,54.470
+02:37,2,Supreme Court,464.011
+02:37,3,Rest In Peace,135.027
+02:37,4,Justice Ginsburg,140.978
+02:37,5,SCOTUS,100.853
+02:37,6,Merrick Garland,27.460
+02:37,7,Not RBG,12.204
+02:37,8,Scalia,37.878
+02:37,9,Mitch,207.675
+02:37,10,WeLoveYouAuron,13.688
+03:06,1,RIPRBG,73.581
+03:06,2,Ruth Bader Ginsburg,825.329
+03:06,3,Supreme Court,596.183
+03:06,4,Rest In Peace,163.488
+03:06,5,McConnell,366.636
+03:06,6,SCOTUS,149.439
+03:06,7,Senate,326.182
+03:06,8,Merrick Garland,38.027
+03:06,9,Mitch,272.881
+03:06,10,Collins,68.900
+03:31,1,RIPRBG,88.835
+03:31,2,Supreme Court,711.142
+03:31,3,McConnell,476.810
+03:31,4,Rest In Peace,181.465
+03:31,5,SCOTUS,170.977
+03:31,6,Justice Ginsburg,221.378
+03:31,7,Senate,414.155
+03:31,8,RuthBaderGinsberg,11.326
+03:31,9,Mitch,347.134
+03:31,10,Republicans,302.921
+04:06,1,RIPRBG,108.660
+04:06,2,Supreme Court,841.926
+04:06,3,Ruth Bader Ginsburg,1.085.585
+04:06,4,McConnell,596.235
+04:06,5,SCOTUS,215.346
+04:06,6,Rest In Peace,200.634
+04:06,7,Dwight,33.749
+04:06,8,Mitch,428.215
+04:06,9,LeaderOfYouthBTS,134.413
+04:06,10,Republicans,318.458
+04:31,1,RIPRBG,120.429
+04:31,2,Supreme Court,934.413
+04:31,3,Ruth Bader Ginsburg,1.170.316
+04:31,4,McConnell,663.211
+04:31,5,Senate,588.816
+04:31,6,Dwight,40.811
+04:31,7,Rest In Peace,211.845
+04:31,8,Mitch,472.764
+04:31,9,FinaEstampa,27.222
+04:31,10,LeaderOfYouthBTS,169.010
+05:01,1,RIPRBG,132.409
+05:01,2,Supreme Court,1.044.681
+05:01,3,McConnell,732.600
+05:01,4,SCOTUS,275.743
+05:01,5,Dwight,48.999
+05:01,6,Mitch,519.474
+05:01,7,Justice Ginsburg,326.043
+05:01,8,LeaderOfYouthBTS,193.178
+05:01,9,LakeShow,26.617
+05:01,10,FinaEstampa,29.282
+05:31,1,RIPRBG,142.202
+05:31,2,Lakers,209.522
+05:31,3,Supreme Court,1.137.678
+05:31,4,Rondo,35.424
+05:31,5,Dwight,54.041
+05:31,6,iHeartFestival2020,381.762
+05:31,7,Merrick Garland,87.487
+05:31,8,LeaderOfYouthBTS,209.612
+05:31,9,VamosChilenos,16.052
+05:31,10,FinaEstampa,30.388
+06:06,1,Lakers,245.944
+06:06,2,RIPRBG,151.140
+06:06,3,Supreme Court,1.225.685
+06:06,4,Dwight,57.459
+06:06,5,iHeartFestival2020,471.655
+06:06,6,RuthBaderGinsberg,27.156
+06:06,7,Merrick Garland,95.616
+06:06,8,VamosChilenos,18.572
+06:06,9,LeaderOfYouthBTS,223.269
+06:06,10,Jokic,41.157
+06:36,1,Lakers,257.812
+06:36,2,RIPRBG,157.454
+06:36,3,Supreme Court,1.286.760
+06:36,4,Ruth Bader Ginsburg,1.510.005
+06:36,5,Rondo,46.931
+06:36,6,Senate,853.980
+06:36,7,iHeartFestival2020,515.434
+06:36,8,VamosChilenos,20.584
+06:36,9,Rest In Peace,246.174
+06:36,10,FestaAFazenda,16.253
+07:01,1,Lakers,262.793
+07:01,2,RIPRBG,162.700
+07:01,3,Supreme Court,1.328.217
+07:01,4,Ruth Bader Ginsburg,1.554.094
+07:01,5,SCOTUS,364.339
+07:01,6,Mitch,647.486
+07:01,7,iHeartFestival2020,542.852
+07:01,8,FestaAFazenda,21.139
+07:01,9,VamosChilenos,22.178
+07:01,10,Republicans,418.749
+07:31,1,Lakers,268.291
+07:31,2,RIPRBG,167.939
+07:31,3,Supreme Court,1.372.048
+07:31,4,Ruth Bader Ginsburg,1.597.346
+07:31,5,FestaAFazenda,33.032
+07:31,6,SCOTUS,377.463
+07:31,7,Mitch,666.610
+07:31,8,iHeartFestival2020,569.131
+07:31,9,VamosChilenos,23.596
+07:31,10,Lebron,238.573
+07:51,1,Lakers,271.207
+07:51,2,RIPRBG,170.968
+07:51,3,Supreme Court,1.396.919
+07:51,4,FestaAFazenda,41.032
+07:51,5,Ruth Bader Ginsburg,1.622.560
+07:51,6,McConnell,981.342
+07:51,7,Mitch,677.290
+07:51,8,iHeartFestival2020,584.760
+07:51,9,VamosChilenos,24.525
+07:51,10,19กันยาทวงอํานาจคืนราษฏร,872.399
+16:32,1,Everton,132.063
+16:32,2,MIvCSK,109.260
+16:32,3,嵐にしやがれ,47.692
+16:32,4,私はどこの寮生かリプで教えてください,
+16:32,5,Koeman,56.546
+16:32,6,CSKvsMI,46.918
+16:32,7,nhkらじらー,104.115
+16:32,8,Calvert Lewin,24.324
+16:32,9,Pickford,
+16:32,10,Ancelotti,14.129
+17:02,1,SixTONESANN,93.296
+17:02,2,Everton,135.145
+17:02,3,IPL2020,193.969
+17:02,4,私はどこの寮生かリプで教えてください,
+17:02,5,LEEFUL,
+17:02,6,Koeman,60.753
+17:02,7,嵐にしやがれ,49.495
+17:02,8,Lewin,27.604
+17:02,9,Pickford,
+17:02,10,Mitrovic,
+17:32,1,Fulham,31.182
+17:32,2,IPL2020,208.312
+17:32,3,SixTONESANN,171.146
+17:32,4,sao_anime,77.838
+17:32,5,LEEFUL,13.048
+17:32,6,MIvCSK,131.921
+17:32,7,Bamford,11.566
+17:32,8,Everton,140.306
+17:32,9,Koeman,64.614
+17:32,10,Mitrovic,
+18:02,1,Leeds,70.896
+18:02,2,sao_anime,114.248
+18:02,3,IPL2020,216.458
+18:02,4,SixTONESANN,233.284
+18:02,5,MIvCSK,146.295
+18:02,6,プログレッシブ,39.855
+18:02,7,Bamford,13.301
+18:02,8,TwitterWelcomesNawazSharif,26.642
+18:02,9,Everton,140.471
+18:02,10,Mitrovic,
+18:32,1,TDF2020,86.286
+18:32,2,Leeds,77.956
+18:32,3,sao_anime,126.879
+18:32,4,IPL2020,227.538
+18:32,5,SixTONESANN,237.060
+18:32,6,WayZenNi_1stAnniversary,132.914
+18:32,7,プログレッシブ,47.020
+18:32,8,Mitrovic,
+18:32,9,Everton,145.929
+18:32,10,Koeman,71.512
+19:04,1,TDF2020,94.622
+19:04,2,MUNCRY,48.584
+19:04,3,Leeds,80.230
+19:04,4,ArrestAnuragKashyap,98.966
+19:04,5,sao_anime,134.018
+19:04,6,IPL2020,232.053
+19:04,7,Bamford,15.300
+19:04,8,De Gea,
+19:04,9,Dan James,
+19:04,10,McTominay,
+19:34,1,MUNCRY,60.696
+19:34,2,Pogacar,51.687
+19:34,3,Leeds,82.644
+19:34,4,BatmanDay,94.682
+19:34,5,IPL2020,243.755
+19:34,6,Dan James,10.581
+19:34,7,MUFC,91.017
+19:34,8,sao_anime,139.036
+19:34,9,McTominay,
+19:34,10,Bamford,15.669
+20:04,1,MUNCRY,71.473
+20:04,2,CSKvMI,21.730
+20:04,3,Pogba,28.622
+20:04,4,Pogacar,54.301
+20:04,5,BatmanDay,103.547
+20:04,6,Dan James,12.395
+20:04,7,Leeds,83.320
+20:04,8,TwitterWelcomesNawazSharif,60.134
+20:04,9,Bale,166.454
+20:04,10,sao_anime,142.872
+20:34,1,MUNCRY,115.198
+20:34,2,Lindelof,41.477
+20:34,3,Zaha,40.388
+20:34,4,CSKvMI,30.869
+20:34,5,Manchester United,88.859
+20:34,6,Man U,22.384
+20:34,7,Pogba,36.442
+20:34,8,Ayew,11.819
+20:34,9,Pogacar,56.537
+20:34,10,BatmanDay,113.676
+21:04,1,MUNCRY,135.417
+21:04,2,Lindelof,53.522
+21:04,3,Zaha,52.093
+21:04,4,Manchester United,102.516
+21:04,5,Man U,27.584
+21:04,6,Pogba,44.516
+21:04,7,CSKvMI,35.077
+21:04,8,Ayew,12.535
+21:04,9,BatmanDay,121.919
+21:04,10,Pogacar,58.184
+21:34,1,MUNCRY,146.796
+21:34,2,Lindelof,58.714
+21:34,3,Pogba,49.013
+21:34,4,ARSWHU,27.544
+21:34,5,CSKvMI,36.729
+21:34,6,BatmanDay,129.543
+21:34,7,Ayew,12.853
+21:34,8,Rashford,36.742
+21:34,9,ManUtd,
+21:34,10,Sancho,55.937
+22:04,1,MUNCRY,153.425
+22:04,2,Lindelof,62.864
+22:04,3,ARSWHU,33.934
+22:04,4,Manchester United,114.651
+22:04,5,Pogba,51.684
+22:04,6,BatmanDay,136.599
+22:04,7,CSKvMI,37.596
+22:04,8,Kolasinac,
+22:04,9,Rashford,38.305
+22:04,10,Ayew,13.102
+22:34,1,MUNCRY,156.828
+22:34,2,Lindelof,65.427
+22:34,3,ARSWHU,37.537
+22:34,4,Zaha,61.263
+22:34,5,Man U,32.757
+22:34,6,BatmanDay,143.011
+22:34,7,Pogba,53.763
+22:34,8,GbeduWithLaycon,26.325
+22:34,9,CSKvMI,38.064
+22:34,10,West Ham,43.501
+23:04,1,MUNCRY,159.585
+23:04,2,ARSWHU,52.013
+23:04,3,Lindelof,67.214
+23:04,4,COYG,10.492
+23:04,5,Ceballos,14.431
+23:04,6,West Ham,49.753
+23:04,7,Kolasinac,16.381
+23:04,8,Saka,40.307
+23:04,9,MUFC,126.445
+23:04,10,BatmanDay,150.848
+23:34,1,ARSWHU,56.620
+23:34,2,MUNCRY,162.817
+23:34,3,COYG,11.942
+23:34,4,Lindelof,68.994
+23:34,5,Ceballos,18.005
+23:34,6,West Ham,53.673
+23:34,7,Kolasinac,18.611
+23:34,8,GbeduWithLaycon,42.818
+23:34,9,BatmanDay,157.848
+23:34,10,Man U,34.624

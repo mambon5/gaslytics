@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Cuca,57.977
+00:09,2,Marinho,78.678
+00:09,3,Bayern,61.270
+00:09,4,CePostaPerTe,42.909
+00:09,5,Breno Lopes,21.004
+00:09,6,EurovisionFrance,42.767
+00:09,7,Felipe Melo,26.592
+00:09,8,Rony,38.019
+00:09,9,River,101.531
+00:09,10,scripturechallenge,63.152
+00:39,1,Cuca,59.984
+00:39,2,Marinho,82.143
+00:39,3,Bayern,66.785
+00:39,4,CePostaPerTe,49.450
+00:39,5,Breno Lopes,23.074
+00:39,6,EurovisionFrance,43.958
+00:39,7,scripturechallenge,66.790
+00:39,8,Felipe Melo,28.856
+00:39,9,Rony,39.722
+00:39,10,River,104.934
+01:09,1,Cuca,60.922
+01:09,2,Marinho,82.758
+01:09,3,precure,36.541
+01:09,4,Bayern,70.105
+01:09,5,CePostaPerTe,50.549
+01:09,6,1YearOfWalls,376.013
+01:09,7,Breno Lopes,24.574
+01:09,8,Karol,489.173
+01:09,9,scripturechallenge,69.168
+01:09,10,Felipe Melo,30.392
+01:39,1,Cuca,61.867
+01:39,2,Marinho,84.583
+01:39,3,1YearOfWalls,389.868
+01:39,4,仮面ライダーセイバー,19.619
+01:39,5,precure,43.077
+01:39,6,Bayern,73.093
+01:39,7,nitiasa,30.519
+01:39,8,CePostaPerTe,50.763
+01:39,9,Karol,508.332
+01:39,10,Breno Lopes,25.779
+02:09,1,キラメイジャー,37.086
+02:09,2,クランチュラ,35.590
+02:09,3,1YearOfWalls,416.604
+02:09,4,Cuca,62.358
+02:09,5,Marinho,84.714
+02:09,6,nitiasa,56.999
+02:09,7,WendyWilliamsMovie,
+02:09,8,仮面ライダーセイバー,21.088
+02:09,9,Bayern,75.532
+02:09,10,PROUD OF LOUIS,56.786
+02:39,1,WendyWilliamsMovie,14.652
+02:39,2,1YearOfWalls,435.041
+02:39,3,キラメイジャー,43.175
+02:39,4,クランチュラ,40.034
+02:39,5,Cuca,63.029
+02:39,6,PROUD OF LOUIS,76.890
+02:39,7,THESHOWToday,41.733
+02:39,8,Marinho,85.937
+02:39,9,nitiasa,62.011
+02:39,10,McDavid,
+03:09,1,WendyWilliamsMovie,28.355
+03:09,2,Karol,558.920
+03:09,3,1YearOfWalls,443.460
+03:09,4,THESHOWToday,55.572
+03:09,5,キラメイジャー,45.141
+03:09,6,クランチュラ,41.640
+03:09,7,PROUD OF LOUIS,84.434
+03:09,8,Lucas,869.900
+03:09,9,Celtics,73.488
+03:09,10,ワイドナショー,
+03:39,1,WendyWilliamsMovie,39.964
+03:39,2,THESHOWToday,73.053
+03:39,3,Karol,599.873
+03:39,4,1YearOfWalls,449.930
+03:39,5,PROUD OF LOUIS,89.470
+03:39,6,Celtics,78.192
+03:39,7,キラメイジャー,46.884
+03:39,8,クランチュラ,43.142
+03:39,9,Lucas,890.457
+03:39,10,ワイドナショー,
+04:09,1,WendyWilliamsMovie,53.418
+04:09,2,Rams,44.581
+04:09,3,THESHOWToday,89.707
+04:09,4,Karol,607.986
+04:09,5,1YearOfWalls,455.524
+04:09,6,Goff,36.538
+04:09,7,selfieforjacob,
+04:09,8,PROUD OF LOUIS,93.315
+04:09,9,Celtics,81.366
+04:09,10,McDavid,
+04:39,1,Rams,90.200
+04:39,2,Goff,80.541
+04:39,3,WendyWilliamsMovie,58.940
+04:39,4,Lions,61.938
+04:39,5,THESHOWToday,112.942
+04:39,6,Detroit,52.171
+04:39,7,Watson,55.794
+04:39,8,1YearOfWalls,462.075
+04:39,9,三点リーダー症候群,
+04:39,10,selfieforjacob,
+05:09,1,Rams,107.844
+05:09,2,Goff,99.022
+05:09,3,Kemba,18.595
+05:09,4,Lions,72.584
+05:09,5,WendyWilliamsMovie,61.847
+05:09,6,Lakers,74.523
+05:09,7,THESHOWToday,140.324
+05:09,8,Tatum,25.360
+05:09,9,Detroit,58.610
+05:09,10,Watson,59.945
+05:39,1,Rams,117.904
+05:39,2,Goff,109.686
+05:39,3,THESHOWToday,174.433
+05:39,4,Lions,78.974
+05:39,5,Kemba,21.180
+05:39,6,WendyWilliamsMovie,64.124
+05:39,7,Lakers,80.153
+05:39,8,Detroit,62.589
+05:39,9,Watson,63.683
+05:39,10,三点リーダー症候群,13.360
+06:09,1,Rams,123.967
+06:09,2,THESHOWToday,225.639
+06:09,3,Goff,116.323
+06:09,4,Lions,82.592
+06:09,5,Kemba,22.156
+06:09,6,WendyWilliamsMovie,66.282
+06:09,7,三点リーダー症候群,17.016
+06:09,8,Detroit,64.841
+06:09,9,Lakers,82.358
+06:09,10,Watson,64.891
+06:39,1,THESHOWToday,333.561
+06:39,2,JISOO,214.973
+06:39,3,Rams,128.981
+06:39,4,LISA,378.039
+06:39,5,Goff,121.818
+06:39,6,Stafford,144.586
+06:39,7,Lions,86.015
+06:39,8,三点リーダー症候群,20.453
+06:39,9,Kemba,22.794
+06:39,10,WendyWilliamsMovie,67.525
+07:09,1,THESHOWToday,497.799
+07:09,2,jisoo,242.102
+07:09,3,LISA,418.485
+07:09,4,Rams,132.412
+07:09,5,jennie,243.540
+07:09,6,Goff,125.476
+07:09,7,Stafford,148.914
+07:09,8,三点リーダー症候群,23.353
+07:09,9,Lions,87.951
+07:09,10,Kemba,23.178
+07:39,1,THESHOWToday,675.143
+07:39,2,jisoo,312.120
+07:39,3,LISA,537.389
+07:39,4,jennie,346.467
+07:39,5,Rams,135.377
+07:39,6,Goff,128.417
+07:39,7,Stafford,152.297
+07:39,8,三点リーダー症候群,25.787
+07:39,9,Lions,89.983
+07:39,10,ヒプマイ2ndバトルライブ,37.221
+08:09,1,THESHOWToday,865.057
+08:09,2,JISOO,401.336
+08:09,3,Lisa,680.145
+08:09,4,jennie,454.122
+08:09,5,ヒプマイ2ndバトルライブ,53.752
+08:09,6,Rams,137.281
+08:09,7,Goff,130.380
+08:09,8,Stafford,154.630
+08:09,9,三点リーダー症候群,29.687
+08:09,10,MarkTuan,435.983
+08:39,1,THESHOWToday,953.956
+08:39,2,ヒプマイ2ndバトルライブ,81.795
+08:39,3,Jisoo,456.782
+08:39,4,jennie,529.675
+08:39,5,Lisa,795.811
+08:39,6,Rams,139.071
+08:39,7,Goff,132.124
+08:39,8,Stafford,156.666
+08:39,9,三点リーダー症候群,32.769
+08:39,10,MarkTuan,554.507
+09:09,1,THESHOWToday,1.009.797
+09:09,2,ヒプマイ2ndバトルライブ,110.859
+09:09,3,Jisoo,484.027
+09:09,4,jennie,567.901
+09:09,5,Lisa,864.112
+09:09,6,Rams,140.252
+09:09,7,三点リーダー症候群,35.273
+09:09,8,MarkTuan,633.978
+09:09,9,Goff,133.398
+09:09,10,Stafford,158.107
+09:39,1,THESHOWToday,1.061.306
+09:39,2,ヒプマイ2ndバトルライブ,135.171
+09:39,3,Jisoo,509.007
+09:39,4,Jennie,594.655
+09:39,5,Lisa,923.167
+09:39,6,MIN YOONGI,30.989
+09:39,7,OPPOReno5Series5G_BKPP,69.172
+09:39,8,三点リーダー症候群,37.735
+09:39,9,MarkTuan,687.125
+09:39,10,TREASURE_at_SMA,96.225
+10:09,1,ヒプマイ2ndバトルライブ,154.793
+10:09,2,THESHOWToday,1.103.151
+10:09,3,MIN YOONGI,45.339
+10:09,4,TREASURE_at_SMA,156.896
+10:09,5,imas_cg一挙配信DAY2,18.223
+10:09,6,OPPOReno5Series5G_BKPP,121.024
+10:09,7,Jisoo,518.070
+10:09,8,jennie,613.970
+10:09,9,Lisa,980.844
+10:09,10,三点リーダー症候群,40.275
+10:39,1,ヒプマイ2ndバトルライブ,159.818
+10:39,2,THESHOWToday,1.141.934
+10:39,3,SHINee_THE_RINGTONE,40.981
+10:39,4,ToMyOnlyXiu,79.771
+10:39,5,imas_cg一挙配信DAY2,24.003
+10:39,6,MIN YOONGI,54.618
+10:39,7,オオサカ,56.863
+10:39,8,jennie,632.718
+10:39,9,Jisoo,535.038
+10:39,10,三点リーダー症候群,42.785
+11:09,1,SHINee_THE_RINGTONE,60.747
+11:09,2,ヒプマイ2ndバトルライブ,161.390
+11:09,3,더링톤_샤이니가_돌아왔다,58.821
+11:09,4,ToMyOnlyXiu,117.250
+11:09,5,TREASURE_at_SMA,229.219
+11:09,6,MIN YOONGI,60.215
+11:09,7,政権交代,16.320
+11:09,8,オオサカ,57.721
+11:09,9,三点リーダー症候群,45.093
+11:09,10,THE EPITOME OF TENACITY TXT,88.878
+11:39,1,SHINee_THE_RINGTONE,74.415
+11:39,2,JEONGYEON,60.319
+11:39,3,더링톤_샤이니가_돌아왔다,69.071
+11:39,4,StrayKids_2021SMA,180.698
+11:39,5,ヒプマイ2ndバトルライブ,163.305
+11:39,6,imas_cg一挙配信DAY2,34.568
+11:39,7,MIN YOONGI,65.930
+11:39,8,政権交代,18.732
+11:39,9,三点リーダー症候群,47.890
+11:39,10,THE EPITOME OF TENACITY TXT,95.497
+12:09,1,SHINee_THE_RINGTONE,90.149
+12:09,2,麒麟がくる,28.873
+12:09,3,StrayKids_2021SMA,220.586
+12:09,4,JEONGYEON,87.637
+12:09,5,ENHYPEN4thROTY,75.734
+12:09,6,더링톤_샤이니가_돌아왔다,79.718
+12:09,7,SHINING MEGA ARTISTS ENHYPEN,226.493
+12:09,8,政権交代,20.775
+12:09,9,jessi,19.919
+12:09,10,MIN YOONGI,70.404
+12:39,1,麒麟がくる,65.290
+12:39,2,桃鈴ねね新ビジュアル,43.099
+12:39,3,SHINee_THE_RINGTONE,99.949
+12:39,4,ENHYPEN4thROTY,148.636
+12:39,5,StrayKids_2021SMA,267.760
+12:39,6,Alonso,21.732
+12:39,7,イッテQ,
+12:39,8,THE EPITOME OF TENACITY TXT,120.173
+12:39,9,SHINING MEGA ARTISTS ENHYPEN,273.856
+12:39,10,政権交代,23.047
+13:09,1,麒麟がくる,120.598
+13:09,2,桃鈴ねね新ビジュアル,59.553
+13:09,3,SHINee_THE_RINGTONE,118.332
+13:09,4,ENHYPEN4thROTY,173.617
+13:09,5,StrayKids_2021SMA,290.451
+13:09,6,Alonso,24.095
+13:09,7,イッテQ,
+13:09,8,本能寺の変,10.086
+13:09,9,Marry You,41.884
+13:09,10,in fact,173.776
+13:39,1,麒麟がくる,136.817
+13:39,2,桃鈴ねね新ビジュアル,64.957
+13:39,3,SHINee_THE_RINGTONE,125.280
+13:39,4,MewGulfMusicFesbyUD,218.142
+13:39,5,ENHYPEN4thROTY,185.123
+13:39,6,Alonso,25.965
+13:39,7,イッテQ,
+13:39,8,本能寺の変,13.101
+13:39,9,PROUD OF LOUIS,218.184
+13:39,10,Marry You,53.851
+14:09,1,麒麟がくる,144.924
+14:09,2,天国と地獄,20.961
+14:09,3,桃鈴ねね新ビジュアル,68.211
+14:09,4,CHEBUR,25.477
+14:09,5,MewGulfMusicFesbyUD,341.484
+14:09,6,Alonso,27.834
+14:09,7,PROUD OF LOUIS,237.252
+14:09,8,TREASURE 6TH ROTY AWARD,235.000
+14:09,9,本能寺の変,14.672
+14:09,10,イッテQ,
+14:39,1,麒麟がくる,150.866
+14:39,2,天国と地獄,23.087
+14:39,3,CHEBUR,29.206
+14:39,4,MewGulfMusicFesbyUD,477.584
+14:39,5,Werner,23.702
+14:39,6,桃鈴ねね新ビジュアル,69.960
+14:39,7,JEONGYEON,160.385
+14:39,8,Alonso,28.787
+14:39,9,PROUD OF LOUIS,262.355
+14:39,10,ダンまち4期,
+15:09,1,CHEBUR,40.833
+15:09,2,Alonso,58.557
+15:09,3,麒麟がくる,155.390
+15:09,4,天国と地獄,24.029
+15:09,5,MewGulfMusicFesbyUD,608.114
+15:09,6,Werner,26.130
+15:09,7,JEONGYEON,182.058
+15:09,8,桃鈴ねね新ビジュアル,71.293
+15:09,9,PROUD OF LOUIS,284.276
+15:09,10,MARK AWARDS,104.624
+15:39,1,Alonso,66.821
+15:39,2,CHEBUR,45.848
+15:39,3,麒麟がくる,158.995
+15:39,4,MewGulfMusicFesbyUD,683.976
+15:39,5,天国と地獄,24.685
+15:39,6,JEONGYEON,200.979
+15:39,7,Werner,27.539
+15:39,8,PROUD OF LOUIS,295.292
+15:39,9,GoBolsonaroMundial,38.107
+15:39,10,Mark Awards,128.503
+16:09,1,OurPreciousDoyoungDay,490.160
+16:09,2,분명히_더행복할_26살_도영이,477.098
+16:09,3,CutestGirlJihyoDay,110.043
+16:09,4,해맑은_앙글이_축하해,107.192
+16:09,5,분명히_더행복할_스물여섯_도영이,73.456
+16:09,6,Alonso,70.783
+16:09,7,PROUD OF LOUIS,323.117
+16:09,8,JEONGYEON,211.111
+16:09,9,Werner,28.188
+16:09,10,APOLOGIZE TO KIM HANBIN,29.716
+16:39,1,OurPreciousDoyoungDay,690.709
+16:39,2,분명히_더행복할_26살_도영이,592.375
+16:39,3,CutestGirlJihyoDay,147.299
+16:39,4,해맑은_앙글이_축하해,143.338
+16:39,5,乃木坂工事中,30.907
+16:39,6,Bamford,10.470
+16:39,7,Alonso,73.722
+16:39,8,PROUD OF LOUIS,357.831
+16:39,9,Jeongyeon,219.432
+16:39,10,APOLOGIZE TO KIM HANBIN,43.077
+17:09,1,OurPreciousDoyoungDay,803.301
+17:09,2,분명히_더행복할_26살_도영이,656.508
+17:09,3,CutestGirlJihyoDay,162.021
+17:09,4,Bamford,21.853
+17:09,5,해맑은_앙글이_축하해,157.556
+17:09,6,분명히_더행복할_스물여섯_도영이,175.617
+17:09,7,Leeds,37.151
+17:09,8,PROUD OF LOUIS,410.281
+17:09,9,Lorient,15.876
+17:09,10,Origi,
+17:39,1,OurPreciousDoyoungDay,881.369
+17:39,2,분명히_더행복할_26살_도영이,697.722
+17:39,3,CutestGirlJihyoDay,170.774
+17:39,4,1YearOfWalls,991.447
+17:39,5,Bamford,25.739
+17:39,6,해맑은_앙글이_축하해,165.123
+17:39,7,Leeds,41.176
+17:39,8,PROUD OF LOUIS,430.190
+17:39,9,Origi,
+17:39,10,sasha,90.644
+18:09,1,OurPreciousDoyoungDay,937.876
+18:09,2,분명히_더행복할_26살_도영이,726.014
+18:09,3,1YearOfWalls,1.006.193
+18:09,4,CutestGirlJihyoDay,176.360
+18:09,5,BJKvTS,22.200
+18:09,6,Bamford,27.623
+18:09,7,Origi,10.251
+18:09,8,sasha,102.163
+18:09,9,PROUD OF LOUIS,451.897
+18:09,10,Leeds,42.889
+18:39,1,OurPreciousDoyoungDay,972.691
+18:39,2,Origi,18.112
+18:39,3,1YearOfWalls,1.030.863
+18:39,4,분명히_더행복할_26살_도영이,745.823
+18:39,5,Direnİrfan,
+18:39,6,BJKvTS,24.250
+18:39,7,Gedson Fernandes,44.818
+18:39,8,Bamford,29.045
+18:39,9,sasha,113.282
+18:39,10,PROUD OF LOUIS,466.224
+19:09,1,WHULIV,28.984
+19:09,2,BJKvTS,30.496
+19:09,3,OurPreciousDoyoungDay,996.643
+19:09,4,Origi,20.599
+19:09,5,Direnİrfan,
+19:09,6,1YearOfWalls,921.795
+19:09,7,Gedson Fernandes,61.236
+19:09,8,Sasha,121.963
+19:09,9,Captain Tom,10.818
+19:09,10,Uğurcan,14.608
+19:39,1,BJKvTS,36.437
+19:39,2,WHULIV,36.124
+19:39,3,OurPreciousDoyoungDay,1.012.212
+19:39,4,Origi,21.598
+19:39,5,Direnİrfan,
+19:39,6,thevoicemais,
+19:39,7,Gedson Fernandes,74.164
+19:39,8,Captain Tom,14.852
+19:39,9,Uğurcan,20.682
+19:39,10,Sasha,137.180
+20:09,1,BJKvTS,37.674
+20:09,2,WHULIV,38.059
+20:09,3,OnlarİsterFenerAlır,
+20:09,4,OurPreciousDoyoungDay,1.022.417
+20:09,5,Direnİrfan,
+20:09,6,Origi,21.933
+20:09,7,Gaby,51.901
+20:09,8,Captain Tom,17.833
+20:09,9,Gedson Fernandes,83.141
+20:09,10,Sasha,153.669
+20:39,1,OnlarİsterFenerAlır,
+20:39,2,BJKvTS,38.533
+20:39,3,WHULIV,39.534
+20:39,4,Direnİrfan,
+20:39,5,sowon,24.080
+20:39,6,Gaby,62.205
+20:39,7,OurPreciousDoyoungDay,1.029.574
+20:39,8,Sasha,173.050
+20:39,9,Captain Tom,20.329
+20:39,10,Gedson Fernandes,91.613
+21:09,1,OnlarİsterFenerAlır,11.869
+21:09,2,BJKvTS,38.938
+21:09,3,sowon,30.095
+21:09,4,WHULIV,40.640
+21:09,5,irfancankahveci,
+21:09,6,Sasha,189.572
+21:09,7,minanawehouse,
+21:09,8,Gaby,69.027
+21:09,9,Brighton,22.588
+21:09,10,Ben Davies,14.261
+21:39,1,OnlarİsterFenerAlır,12.889
+21:39,2,irfancankahveci,14.501
+21:39,3,KabeyiSavunanFişleniyor,34.748
+21:39,4,Messi,363.822
+21:39,5,sowon,35.676
+21:39,6,minanawehouse,12.002
+21:39,7,Sasha,207.484
+21:39,8,BJKvTS,39.354
+21:39,9,Brighton,25.460
+21:39,10,Ben Davies,16.766
+22:09,1,KabeyiSavunanFişleniyor,60.724
+22:09,2,irfancankahveci,18.854
+22:09,3,Diniz,24.866
+22:09,4,OnlarİsterFenerAlır,13.668
+22:09,5,Castan,10.420
+22:09,6,Messi,397.656
+22:09,7,sowon,40.596
+22:09,8,Brighton,30.978
+22:09,9,Sasha,222.418
+22:09,10,Spurs,50.787
+22:39,1,KabeyiSavunanFişleniyor,90.098
+22:39,2,irfancankahveci,21.255
+22:39,3,Diniz,28.774
+22:39,4,Sasha,249.266
+22:39,5,Brighton,38.951
+22:39,6,Spurs,61.006
+22:39,7,OnlarİsterFenerAlır,14.518
+22:39,8,Castan,12.995
+22:39,9,Messi,410.038
+22:39,10,ShingekiNoKyojin,50.745
+23:09,1,KabeyiSavunanFişleniyor,115.497
+23:09,2,Sasha,274.047
+23:09,3,irfancankahveci,22.611
+23:09,4,Diniz,30.250
+23:09,5,ShingekiNoKyojin,60.609
+23:09,6,Gabi,138.876
+23:09,7,Spurs,63.894
+23:09,8,Brighton,41.708
+23:09,9,Messi,425.826
+23:09,10,Jokic,20.858
+23:39,1,KabeyiSavunanFişleniyor,133.505
+23:39,2,Sasha,296.833
+23:39,3,Gabi,155.037
+23:39,4,ShingekiNoKyojin,70.809
+23:39,5,irfancankahveci,23.537
+23:39,6,DebateCATrtve,32.202
+23:39,7,Diniz,32.433
+23:39,8,Jokic,23.686
+23:39,9,Messi,443.182
+23:39,10,Bragantino,12.944

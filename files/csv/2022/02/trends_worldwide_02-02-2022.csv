@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Sanremo2022,734.066
+00:10,2,Brian Flores,88.163
+00:10,3,LaRojaxCHV,18.997
+00:10,4,LaRojaxCHV,18.997
+00:10,5,DragRaceUK,13.642
+00:10,6,OLOM,39.519
+00:10,7,Alexis,41.374
+00:10,8,Lasarte,11.743
+00:10,9,Rooney,14.959
+00:10,10,Ana Mena,20.672
+00:40,1,Sanremo2022,776.117
+00:40,2,Brian Flores,101.775
+00:40,3,LaRojaxCHV,19.323
+00:40,4,DragRaceUK,15.044
+00:40,5,Bolivia,54.795
+00:40,6,Pellistri,
+00:40,7,OLOM,41.074
+00:40,8,Alexis,42.942
+00:40,9,Uruguay,46.978
+00:40,10,Rooney,16.529
+01:10,1,Sanremo2022,803.485
+01:10,2,Flores,199.601
+01:10,3,Lautaro,13.455
+01:10,4,Uruguay,55.491
+01:10,5,LaRojaxCHV,19.533
+01:10,6,Tesillo,
+01:10,7,Pellistri,
+01:10,8,Bolivia,55.998
+01:10,9,DragRaceUK,16.242
+01:10,10,Cuadrado,
+01:40,1,Sanremo2022,824.242
+01:40,2,Flores,214.933
+01:40,3,Borja,14.161
+01:40,4,Uruguay,62.943
+01:40,5,Lautaro,19.113
+01:40,6,Cuadrado,10.457
+01:40,7,Tesillo,
+01:40,8,Rueda,25.911
+01:40,9,Montiel,
+01:40,10,Pellistri,10.839
+02:10,1,Marquinhos,12.363
+02:10,2,Sanremo2022,829.200
+02:10,3,Flores,225.742
+02:10,4,Raphinha,23.234
+02:10,5,Borja,15.894
+02:10,6,Cuadrado,13.376
+02:10,7,Coutinho,10.329
+02:10,8,Daniel Alves,
+02:10,9,Colombia,240.794
+02:10,10,Uruguay,68.274
+02:40,1,Coutinho,16.135
+02:40,2,Marquinhos,14.096
+02:40,3,Colombia,271.303
+02:40,4,Flores,237.314
+02:40,5,Rueda,42.021
+02:40,6,Cuadrado,17.699
+02:40,7,Sanremo2022,831.937
+02:40,8,Borja,18.513
+02:40,9,Montiel,14.895
+02:40,10,Raphinha,27.090
+03:10,1,Coutinho,87.272
+03:10,2,Marquinhos,19.663
+03:10,3,Colombia,278.157
+03:10,4,Rueda,48.389
+03:10,5,Flores,245.506
+03:10,6,Gabriel Jesus,
+03:10,7,Argentina,215.633
+03:10,8,Cuadrado,19.582
+03:10,9,Paquetá,23.226
+03:10,10,Montiel,17.564
+03:40,1,Coutinho,106.410
+03:40,2,Antony,34.536
+03:40,3,Gabriel Jesus,14.125
+03:40,4,Paraguai,23.672
+03:40,5,Marquinhos,22.087
+03:40,6,Colombia,290.105
+03:40,7,Rueda,53.194
+03:40,8,Flores,254.637
+03:40,9,Argentina,227.392
+03:40,10,Paquetá,26.569
+04:10,1,Coutinho,113.929
+04:10,2,Antony,36.817
+04:10,3,Brunna,97.908
+04:10,4,Gabriel Jesus,15.694
+04:10,5,Paraguai,25.837
+04:10,6,Marquinhos,23.243
+04:10,7,Colombia,289.041
+04:10,8,Ormeño,16.187
+04:10,9,Ecuador,106.273
+04:10,10,Rueda,55.907
+04:40,1,Tadeu,259.844
+04:40,2,jessi,169.249
+04:40,3,Rodrigo,429.019
+04:40,4,Coutinho,117.905
+04:40,5,Antony,38.052
+04:40,6,Brunna,105.945
+04:40,7,Thiaguinho,14.264
+04:40,8,Dani Calabresa,
+04:40,9,peruvsecuador,25.625
+04:40,10,Paraguai,26.795
+05:10,1,Tadeu,268.290
+05:10,2,jessi,180.551
+05:10,3,Rodrigo,435.874
+05:10,4,Coutinho,120.056
+05:10,5,Antony,38.928
+05:10,6,Brunna,107.378
+05:10,7,Thiaguinho,19.638
+05:10,8,Ecuador,125.061
+05:10,9,Dani Calabresa,
+05:10,10,ツインテールの日,66.882
+05:40,1,Tadeu,276.281
+05:40,2,jessi,185.977
+05:40,3,Rodrigo,449.844
+05:40,4,Coutinho,121.214
+05:40,5,Antony,39.539
+05:40,6,Ecuador,133.395
+05:40,7,Thiaguinho,20.823
+05:40,8,Brunna,109.197
+05:40,9,ツインテールの日,75.561
+05:40,10,Dani Calabresa,
+06:10,1,Tadeu,274.658
+06:10,2,jessi,191.733
+06:10,3,Rodrigo,445.500
+06:10,4,Coutinho,122.139
+06:10,5,Antony,39.819
+06:10,6,ツインテールの日,83.025
+06:10,7,Ecuador,135.325
+06:10,8,Thiaguinho,21.306
+06:10,9,Brunna,110.292
+06:10,10,Ormeño,22.173
+06:40,1,Tadeu,277.497
+06:40,2,Jessi,195.459
+06:40,3,Rodrigo,449.803
+06:40,4,Coutinho,123.175
+06:40,5,ツインテールの日,90.080
+06:40,6,Antony,40.088
+06:40,7,Ecuador,137.818
+06:40,8,Thiaguinho,21.636
+06:40,9,PROUD OF LOUIS,44.981
+06:40,10,Brunna,111.048
+07:10,1,Tadeu,276.209
+07:10,2,Jessi,196.687
+07:10,3,Coutinho,123.990
+07:10,4,Rodrigo,446.860
+07:10,5,ツインテールの日,97.067
+07:10,6,Antony,40.088
+07:10,7,さよならおさつスナック,13.293
+07:10,8,Thiaguinho,21.787
+07:10,9,Ecuador,138.242
+07:10,10,PROUD OF LOUIS,47.447
+07:40,1,Tadeu,277.396
+07:40,2,Jessi,197.954
+07:40,3,滝沢歌舞伎,14.894
+07:40,4,Rodrigo,448.655
+07:40,5,Coutinho,124.987
+07:40,6,ツインテールの日,104.909
+07:40,7,さよならおさつスナック,14.741
+07:40,8,ValimaiFromFeb24,94.845
+07:40,9,Antony,40.271
+07:40,10,Thiaguinho,21.878
+08:10,1,Tadeu,276.458
+08:10,2,滝沢歌舞伎,20.429
+08:10,3,ツインテールの日,112.178
+08:10,4,Jessi,198.071
+08:10,5,Rodrigo,447.141
+08:10,6,Coutinho,125.970
+08:10,7,さよならおさつスナック,15.928
+08:10,8,川崎記念,19.372
+08:10,9,ValimaiFromFeb24,109.210
+08:10,10,名古屋の難読地名クイズ,
+08:40,1,滝沢歌舞伎,24.368
+08:40,2,Tadeu,277.055
+08:40,3,ツインテールの日,121.260
+08:40,4,Rodrigo,448.253
+08:40,5,川崎記念,21.010
+08:40,6,Jessi,198.786
+08:40,7,さよならおさつスナック,16.999
+08:40,8,チュウワウィザード,
+08:40,9,ValimaiFromFeb24,121.208
+08:40,10,Coutinho,127.379
+09:10,1,滝沢歌舞伎,27.382
+09:10,2,ツインテールの日,130.495
+09:10,3,Rodrigo,446.647
+09:10,4,Tadeu,276.065
+09:10,5,川崎記念,21.533
+09:10,6,さよならおさつスナック,18.004
+09:10,7,HerkesFloryaya,13.264
+09:10,8,名古屋の難読地名クイズ,
+09:10,9,エセ名古屋人,
+09:10,10,Jessi,198.727
+09:40,1,滝沢歌舞伎,29.993
+09:40,2,ツインテールの日,143.712
+09:40,3,HerkesFloryaya,15.526
+09:40,4,名古屋の難読地名クイズ,
+09:40,5,エセ名古屋人,
+09:40,6,川崎記念,22.354
+09:40,7,Tadeu,276.581
+09:40,8,さよならおさつスナック,18.976
+09:40,9,LeniWalangAatrasan,
+09:40,10,初の2万人超,
+10:10,1,ツインテールの日,158.550
+10:10,2,滝沢歌舞伎,32.736
+10:10,3,HerkesFloryaya,17.875
+10:10,4,LeniWalangAatrasan,11.146
+10:10,5,gedsonfernandes,
+10:10,6,名古屋の難読地名クイズ,
+10:10,7,エセ名古屋人,
+10:10,8,Dave Filoni,
+10:10,9,Tadeu,274.336
+10:10,10,さよならおさつスナック,19.937
+10:40,1,ツインテールの日,176.116
+10:40,2,滝沢歌舞伎,35.284
+10:40,3,LeniWalangAatrasan,16.820
+10:40,4,HerkesFloryaya,19.724
+10:40,5,名古屋の難読地名クイズ,
+10:40,6,エセ名古屋人,
+10:40,7,gedsonfernandes,
+10:40,8,Dave Filoni,
+10:40,9,BurakElmasİstifa,
+10:40,10,KISSES GreenZeal Awardee,28.100
+11:10,1,TheBookOfBobaFett,30.684
+11:10,2,ツインテールの日,197.350
+11:10,3,LeniWalangAatrasan,22.414
+11:10,4,滝沢歌舞伎,37.535
+11:10,5,HerkesFloryaya,21.005
+11:10,6,BurakElmasİstifa,
+11:10,7,エセ名古屋人,
+11:10,8,名古屋の難読地名クイズ,
+11:10,9,Dave Filoni,
+11:10,10,恵方巻き,27.516
+11:40,1,ツインテールの日,221.874
+11:40,2,TheBookOfBobaFett,33.955
+11:40,3,LeniWalangAatrasan,28.746
+11:40,4,BurakElmasİstifa,
+11:40,5,滝沢歌舞伎,39.299
+11:40,6,有吉の壁,
+11:40,7,エセ名古屋人,
+11:40,8,名古屋の難読地名クイズ,
+11:40,9,恵方巻き,29.695
+11:40,10,Dave Filoni,
+12:10,1,ツインテールの日,250.237
+12:10,2,TheBookOfBobaFett,36.443
+12:10,3,有吉の壁,
+12:10,4,BurakElmasİstifa,
+12:10,5,LeniWalangAatrasan,32.886
+12:10,6,エセ名古屋人,
+12:10,7,名古屋の難読地名クイズ,
+12:10,8,滝沢歌舞伎,40.986
+12:10,9,恵方巻き,30.588
+12:10,10,Dave Filoni,
+12:40,1,ツインテールの日,281.612
+12:40,2,TheBookOfBobaFett,39.398
+12:40,3,有吉の壁,
+12:40,4,MonicaVitti,
+12:40,5,BurakElmasİstifa,
+12:40,6,エセ名古屋人,
+12:40,7,名古屋の難読地名クイズ,
+12:40,8,恵方巻き,32.804
+12:40,9,ガッテン,
+12:40,10,滝沢歌舞伎,42.634
+13:10,1,ツインテールの日,319.704
+13:10,2,TheBookOfBobaFett,41.856
+13:10,3,MonicaVitti,
+13:10,4,刀剣乱舞無双通信,
+13:10,5,東大王,
+13:10,6,恵方巻き,33.876
+13:10,7,エセ名古屋人,
+13:10,8,名古屋の難読地名クイズ,
+13:10,9,ガッテン,
+13:10,10,ハッチポッチステーション,15.690
+13:40,1,ツインテールの日,358.301
+13:40,2,TokopediaTVShow,39.340
+13:40,3,CantikFest,38.517
+13:40,4,TEUMESayangTREASURE,33.064
+13:40,5,PMQs,17.097
+13:40,6,恵方巻き,36.079
+13:40,7,ヒプアニ2期,
+13:40,8,エセ名古屋人,
+13:40,9,名古屋の難読地名クイズ,
+13:40,10,M@GIC,
+14:10,1,ツインテールの日,396.637
+14:10,2,TokopediaTVShow,74.872
+14:10,3,CantikFest,72.800
+14:10,4,TEUMESayangTREASURE,62.100
+14:10,5,PMQs,26.596
+14:10,6,M@GIC,10.218
+14:10,7,恵方巻き,37.069
+14:10,8,ヒプアニ2期,
+14:10,9,エセ名古屋人,
+14:10,10,リチャ末,
+14:40,1,ツインテールの日,439.308
+14:40,2,CantikFest,107.258
+14:40,3,TokopediaTVShow,108.739
+14:40,4,TEUMESayangTREASURE,90.379
+14:40,5,GroundhogDay,22.434
+14:40,6,TOTO,33.827
+14:40,7,Washington Commanders,29.488
+14:40,8,M@GIC,12.243
+14:40,9,Punxsutawney Phil,12.779
+14:40,10,Washington Football Team,12.424
+15:10,1,ツインテールの日,480.899
+15:10,2,TokopediaTVShow,132.071
+15:10,3,CantikFest,131.004
+15:10,4,TEUMESayangTREASURE,111.282
+15:10,5,GroundhogDay,25.424
+15:10,6,Washington Commanders,38.286
+15:10,7,TOTO,38.849
+15:10,8,Punxsutawney Phil,14.470
+15:10,9,M@GIC,13.718
+15:10,10,Redskins,
+15:40,1,ツインテールの日,521.395
+15:40,2,TokopediaTVShow,143.126
+15:40,3,CantikFest,141.812
+15:40,4,TEUMESayangTREASURE,120.916
+15:40,5,Washington Commanders,45.066
+15:40,6,GroundhogDay,27.999
+15:40,7,Punxsutawney Phil,16.182
+15:40,8,TOTO,43.795
+15:40,9,M@GIC,15.265
+15:40,10,Redskins,10.531
+16:10,1,ツインテールの日,553.173
+16:10,2,GroundhogDay,31.581
+16:10,3,Commanders,110.687
+16:10,4,OurReiOfSunshine,29.082
+16:10,5,규현이의_첫페이지_시작된날,29.913
+16:10,6,TokopediaTVShow,147.113
+16:10,7,Punxsutawney Phil,17.846
+16:10,8,TRACKLIST IS OUT NOW,32.849
+16:10,9,TOTO,45.954
+16:10,10,Redskins,11.683
+16:40,1,ツインテールの日,580.536
+16:40,2,Wordle 229,10.052
+16:40,3,GroundhogDay,34.611
+16:40,4,TREASURE_JIKJIN_D12,120.585
+16:40,5,Commanders,124.420
+16:40,6,OurReiOfSunshine,34.618
+16:40,7,규현이의_첫페이지_시작된날,38.185
+16:40,8,TRACKLIST IS OUT NOW,118.679
+16:40,9,GET READY FOR BTOB,16.202
+16:40,10,Nike app,
+17:10,1,Wordle 229,14.514
+17:10,2,ツインテールの日,596.165
+17:10,3,GroundhogDay,37.541
+17:10,4,Commanders,135.803
+17:10,5,TREASURE_JIKJIN_D12,146.234
+17:10,6,TRACKLIST IS OUT NOW,141.102
+17:10,7,夏油傑誕生祭2022,28.842
+17:10,8,규현이의_첫페이지_시작된날,42.116
+17:10,9,Punxsutawney Phil,20.839
+17:10,10,Nike app,
+17:40,1,Wordle 229,18.928
+17:40,2,乃木坂46ANN,15.575
+17:40,3,GroundhogDay,40.088
+17:40,4,Commanders,145.187
+17:40,5,ツインテールの日,610.382
+17:40,6,Jeff Zucker,15.335
+17:40,7,TREASURE_JIKJIN_D12,158.405
+17:40,8,TRACKLIST IS OUT NOW,150.941
+17:40,9,夏油傑誕生祭2022,34.016
+17:40,10,Punxsutawney Phil,22.263
+18:10,1,Wordle 229,21.632
+18:10,2,Jeff Zucker,26.857
+18:10,3,乃木坂46ANN,21.608
+18:10,4,GroundhogDay,42.593
+18:10,5,Commanders,153.225
+18:10,6,BookofBobaFett,24.228
+18:10,7,NGWSD,
+18:10,8,Da_iCEmusicLab,23.326
+18:10,9,TRACKLIST IS OUT NOW,154.681
+18:10,10,Punxsutawney Phil,23.665
+18:40,1,乃木坂46ANN,29.570
+18:40,2,Jeff Zucker,36.825
+18:40,3,Wordle 229,24.162
+18:40,4,GroundhogDay,44.757
+18:40,5,NGWSD,11.576
+18:40,6,BookofBobaFett,25.838
+18:40,7,Commanders,160.808
+18:40,8,Da_iCEmusicLab,27.730
+18:40,9,Punxsutawney Phil,25.039
+18:40,10,TRACKLIST IS OUT NOW,156.698
+19:10,1,InvestInYou,
+19:10,2,乃木坂46ANN,36.473
+19:10,3,Jeff Zucker,43.656
+19:10,4,NGWSD,13.809
+19:10,5,BookofBobaFett,27.436
+19:10,6,Wordle 229,25.905
+19:10,7,TheChase,
+19:10,8,Commanders,168.229
+19:10,9,Punxsutawney Phil,26.040
+19:10,10,Summer Walker,19.181
+19:40,1,InvestInYou,15.372
+19:40,2,乃木坂46ANN,37.215
+19:40,3,NGWSD,15.919
+19:40,4,Jeff Zucker,50.345
+19:40,5,BookofBobaFett,28.846
+19:40,6,GroundhogDay,48.631
+19:40,7,Wordle 229,28.647
+19:40,8,Commanders,175.111
+19:40,9,Erin O'Toole,15.787
+19:40,10,Punxsutawney Phil,27.111
+20:10,1,InvestInYou,23.534
+20:10,2,OrgulloEdomex,
+20:10,3,NGWSD,17.986
+20:10,4,Jeff Zucker,55.920
+20:10,5,BookofBobaFett,30.107
+20:10,6,乃木坂46ANN,37.492
+20:10,7,Erin O'Toole,18.941
+20:10,8,Wordle 229,32.932
+20:10,9,Commanders,180.311
+20:10,10,Punxsutawney Phil,27.955
+20:40,1,InvestInYou,27.974
+20:40,2,OrgulloEdomex,10.178
+20:40,3,NGWSD,19.982
+20:40,4,BookofBobaFett,31.389
+20:40,5,Jeff Zucker,61.137
+20:40,6,BFASEN,
+20:40,7,Erin O'Toole,21.405
+20:40,8,Berni,
+20:40,9,Commanders,185.220
+20:40,10,Wordle 229,35.528
+21:10,1,InvestInYou,31.866
+21:10,2,OrgulloEdomex,13.605
+21:10,3,BFASEN,
+21:10,4,KCORPWIN,12.509
+21:10,5,NGWSD,21.972
+21:10,6,Jeff Zucker,65.901
+21:10,7,Rangers,52.454
+21:10,8,Berni,
+21:10,9,Erin O'Toole,22.581
+21:10,10,Star Wars,52.023
+21:40,1,InvestInYou,34.933
+21:40,2,OrgulloEdomex,16.259
+21:40,3,CELRAN,
+21:40,4,Rangers,59.558
+21:40,5,BFASEN,
+21:40,6,NGWSD,23.780
+21:40,7,Hatate,
+21:40,8,Barisic,
+21:40,9,Zucker,101.523
+21:40,10,Berni,
+22:10,1,OrgulloEdomex,18.619
+22:10,2,InvestInYou,37.514
+22:10,3,Rangers,61.635
+22:10,4,TeamSenegal,36.321
+22:10,5,CELRAN,11.582
+22:10,6,BFASEN,11.316
+22:10,7,Benfica,38.188
+22:10,8,Mane,78.342
+22:10,9,Checco Zalone,18.416
+22:10,10,Burkina Faso,37.661
+22:40,1,OrgulloEdomex,20.721
+22:40,2,InvestInYou,40.663
+22:40,3,TeamSenegal,43.868
+22:40,4,Sanremo2022,703.353
+22:40,5,Rangers,63.963
+22:40,6,CELRAN,12.614
+22:40,7,Benfica,42.587
+22:40,8,Mane,91.770
+22:40,9,Emma,78.675
+22:40,10,Burkina Faso,39.919
+23:10,1,Sanremo2022,588.370
+23:10,2,OrgulloEdomex,22.399
+23:10,3,SecretGala3,14.767
+23:10,4,InvestInYou,43.915
+23:10,5,Rangers,65.645
+23:10,6,CELRAN,16.470
+23:10,7,Benfica,43.292
+23:10,8,Hugo Duro,
+23:10,9,Mane,98.009
+23:10,10,Elisa,31.156
+23:40,1,SecretGala3,23.841
+23:40,2,Sanremo2022,645.143
+23:40,3,OrgulloEdomex,23.672
+23:40,4,InvestInYou,46.185
+23:40,5,CheccoZalone,
+23:40,6,Rangers,67.562
+23:40,7,Elisa,43.112
+23:40,8,Vitinho,
+23:40,9,Benfica,45.296
+23:40,10,Hugo Duro,

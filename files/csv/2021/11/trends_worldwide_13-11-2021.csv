@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Britney,263.480
+00:10,2,Bannon,255.375
+00:10,3,ItaliaSvizzera,29.736
+00:10,4,DALS,26.278
+00:10,5,gfvip,74.246
+00:10,6,Albania,44.622
+00:10,7,TCMS2,
+00:10,8,Los40MusicAwards2021,20.694
+00:10,9,Dani Alves,96.770
+00:10,10,Dolar 10,86.670
+00:41,1,Britney,316.619
+00:41,2,Bannon,284.704
+00:41,3,gfvip,82.241
+00:41,4,Di María,17.835
+00:41,5,ItaliaSvizzera,30.089
+00:41,6,DALS,26.896
+00:41,7,TCMS2,11.264
+00:41,8,Dybala,
+00:41,9,Albania,45.736
+00:41,10,Dani Alves,99.916
+01:10,1,Britney,350.342
+01:10,2,AllTooWellTheShortFilm,66.386
+01:10,3,Bannon,303.912
+01:10,4,Di María,20.452
+01:10,5,gfvip,86.344
+01:10,6,Dybala,
+01:10,7,TCMS2,13.248
+01:10,8,DALS,27.192
+01:10,9,ItaliaSvizzera,30.273
+01:10,10,Uruguay,50.503
+01:41,1,AllTooWellTheShortFilm,157.648
+01:41,2,Britney,379.339
+01:41,3,sadie,117.304
+01:41,4,Bannon,326.329
+01:41,5,Di María,21.359
+01:41,6,gfvip,90.188
+01:41,7,Dybala,10.611
+01:41,8,jake,415.104
+01:41,9,Uruguay,54.116
+01:41,10,TCMS2,13.962
+02:10,1,AllTooWellTheShortFilm,203.227
+02:10,2,Britney,398.562
+02:10,3,sadie,148.350
+02:10,4,Uruguay,61.907
+02:10,5,Bannon,338.600
+02:10,6,jake,441.818
+02:10,7,Di María,24.005
+02:10,8,ダイの大冒険,13.838
+02:10,9,Argentina,203.462
+02:10,10,gfvip,92.037
+02:41,1,AllTooWellTheShortFilm,231.085
+02:41,2,sadie,196.203
+02:41,3,Britney,418.222
+02:41,4,Uruguay,67.789
+02:41,5,SmackDown,14.583
+02:41,6,Bannon,355.929
+02:41,7,jake,467.188
+02:41,8,UmLugarAoSol,16.956
+02:41,9,بندر_يناشد_فايز_المالكي,
+02:41,10,Di María,25.438
+03:10,1,AllTooWellTheShortFilm,248.202
+03:10,2,sadie,221.194
+03:10,3,Britney,432.803
+03:10,4,SmackDown,21.175
+03:10,5,Uruguay,68.824
+03:10,6,Jake,479.430
+03:10,7,UmLugarAoSol,20.831
+03:10,8,Bannon,366.930
+03:10,9,spacesgottalent,
+03:10,10,بندر_يناشد_فايز_المالكي,
+03:41,1,AllTooWellTheShortFilm,263.783
+03:41,2,sadie,240.510
+03:41,3,Britney,447.669
+03:41,4,SmackDown,27.515
+03:41,5,USAvMEX,
+03:41,6,Jake,498.305
+03:41,7,Randle,
+03:41,8,Uruguay,71.781
+03:41,9,USMNT,
+03:41,10,spacesgottalent,
+04:10,1,AllTooWellTheShortFilm,275.662
+04:10,2,sadie,254.252
+04:10,3,Britney,458.639
+04:10,4,dylan,287.045
+04:10,5,SmackDown,34.240
+04:10,6,USAvMEX,
+04:10,7,Grayson Allen,
+04:10,8,USMNT,
+04:10,9,いただきハイジャンプ,23.082
+04:10,10,Maynor,
+04:41,1,AllTooWellTheShortFilm,286.944
+04:41,2,tannie,19.420
+04:41,3,sadie,267.193
+04:41,4,dylan,301.323
+04:41,5,Britney,470.460
+04:41,6,USAvMEX,10.353
+04:41,7,SmackDown,37.275
+04:41,8,AEWRampage,15.766
+04:41,9,USMNT,
+04:41,10,taylor,1.953.553
+05:10,1,USAvMEX,27.928
+05:10,2,USMNT,15.441
+05:10,3,Pulisic,24.909
+05:10,4,DOS A CERO,23.006
+05:10,5,tannie,29.795
+05:10,6,AllTooWellTheShortFilm,296.555
+05:10,7,sadie,277.182
+05:10,8,dylan,312.097
+05:10,9,Britney,479.664
+05:10,10,Chaka,10.803
+05:41,1,USAvMEX,33.265
+05:41,2,USMNT,18.052
+05:41,3,Pulisic,32.524
+05:41,4,Dos a Cero,31.236
+05:41,5,tannie,36.536
+05:41,6,AllTooWellTheShortFilm,305.739
+05:41,7,sadie,286.635
+05:41,8,Tata,48.934
+05:41,9,Chaka,12.813
+05:41,10,dylan,322.890
+06:10,1,USAvMEX,34.545
+06:10,2,USMNT,18.841
+06:10,3,Pulisic,36.607
+06:10,4,Dos a Cero,33.049
+06:10,5,tannie,41.101
+06:10,6,AllTooWellTheShortFilm,314.133
+06:10,7,sadie,292.353
+06:10,8,Warriors,69.306
+06:10,9,Tata,49.772
+06:10,10,dylan,328.329
+06:41,1,USAvMEX,35.476
+06:41,2,USMNT,19.318
+06:41,3,Warriors,86.344
+06:41,4,tannie,45.427
+06:41,5,Pulisic,39.007
+06:41,6,Dos a Cero,34.226
+06:41,7,AllTooWellTheShortFilm,323.147
+06:41,8,Curry,62.133
+06:41,9,sadie,299.952
+06:41,10,Tata,51.355
+07:10,1,USAvMEX,35.943
+07:10,2,tannie,48.788
+07:10,3,USMNT,19.681
+07:10,4,Warriors,93.185
+07:10,5,Pulisic,40.448
+07:10,6,Dos a Cero,34.841
+07:10,7,AllTooWellTheShortFilm,327.680
+07:10,8,Curry,66.576
+07:10,9,sadie,302.214
+07:10,10,Tata,51.256
+07:41,1,tannie,52.477
+07:41,2,Warriors,98.215
+07:41,3,USAvMEX,36.278
+07:41,4,USMNT,19.963
+07:41,5,Pulisic,41.599
+07:41,6,Dos a Cero,35.266
+07:41,7,AllTooWellTheShortFilm,335.602
+07:41,8,INI_1ST_FANMEETING,40.445
+07:41,9,UCLA,
+07:41,10,Steph,57.012
+08:10,1,UCLA,12.016
+08:10,2,tannie,48.437
+08:10,3,Warriors,100.325
+08:10,4,USAvMEX,36.493
+08:10,5,USMNT,20.201
+08:10,6,INI_1ST_FANMEETING,50.426
+08:10,7,BBMSARA2022,32.686
+08:10,8,Dos a Cero,35.562
+08:10,9,AllTooWellTheShortFilm,341.157
+08:10,10,Pulisic,42.332
+08:41,1,MAVERICK4thWin,23.749
+08:41,2,INI_1ST_FANMEETING,62.371
+08:41,3,UCLA,12.677
+08:41,4,BBMSARA2022,39.891
+08:41,5,THEBOYZ14thWin,17.812
+08:41,6,tannie,51.027
+08:41,7,جده_الان,
+08:41,8,Warriors,102.903
+08:41,9,Dos a Cero,35.795
+08:41,10,Pulisic,43.085
+09:10,1,MAVERICK4thWin,40.271
+09:10,2,THEBOYZ14thWin,31.309
+09:10,3,جده_الان,
+09:10,4,BBMSARA2022,45.307
+09:10,5,INI_1ST_FANMEETING,68.984
+09:10,6,UCLA,12.957
+09:10,7,tannie,53.191
+09:10,8,Warriors,104.064
+09:10,9,UNSTOPPABLE UMAR RIAZ,516.955
+09:10,10,Pulisic,43.583
+09:41,1,MAVERICK4thWin,45.392
+09:41,2,جده_الان,
+09:41,3,THEBOYZ14thWin,34.396
+09:41,4,BBMSARA2022,49.969
+09:41,5,NoToDuterteMarcos2022,
+09:41,6,UCLA,13.148
+09:41,7,tannie,55.365
+09:41,8,UNSTOPPABLE UMAR RIAZ,596.418
+09:41,9,Warriors,106.042
+09:41,10,Steph,64.058
+10:10,1,maverick4thwin,47.636
+10:10,2,NoToDuterteMarcos2022,10.892
+10:10,3,جده_الان,11.229
+10:10,4,BBMSARA2022,52.806
+10:10,5,LeniKiko2022,21.261
+10:10,6,Gizlenen Müjde,
+10:10,7,UNSTOPPABLE UMAR RIAZ,669.739
+10:10,8,UCLA,13.271
+10:10,9,tannie,56.389
+10:10,10,Pilipinas,12.257
+10:41,1,NoToDuterteMarcos2022,13.955
+10:41,2,MAVERICK4thWin,48.982
+10:41,3,جده_الان,13.530
+10:41,4,LeniKiko2022,23.474
+10:41,5,WorldKindnessDay,40.123
+10:41,6,Pilipinas,14.187
+10:41,7,UNSTOPPABLE UMAR RIAZ,755.144
+10:41,8,CONGRATULATIONS LIQUOROSE,
+10:41,9,Gizlenen Müjde,
+10:41,10,Taejin,17.464
+11:10,1,جده_الان,16.499
+11:10,2,竜王奪取,13.940
+11:10,3,NoToDuterteMarcos2022,16.210
+11:10,4,藤井四冠,31.240
+11:10,5,藤井聡太,34.315
+11:10,6,WorldKindnessDay,42.605
+11:10,7,MAVERICK4thWin,49.939
+11:10,8,BEFIRSTチャットパーティー,
+11:10,9,藤井三冠,32.228
+11:10,10,最年少四冠達成,
+11:41,1,BEFIRSTチャットパーティー,13.683
+11:41,2,جده_الان,19.370
+11:41,3,竜王奪取,18.572
+11:41,4,なにわ男子ANNP,17.866
+11:41,5,藤井四冠,43.148
+11:41,6,藤井聡太,44.373
+11:41,7,WorldKindnessDay,44.518
+11:41,8,NoToDuterteMarcos2022,18.358
+11:41,9,藤井三冠,41.531
+11:41,10,最年少四冠達成,
+12:10,1,BEFIRSTチャットパーティー,27.328
+12:10,2,جده_الان,22.163
+12:10,3,njbosj,
+12:10,4,睡眠の彼方,
+12:10,5,اجمل_بيت_شعر_تحفظه,
+12:10,6,竜王奪取,21.308
+12:10,7,藤井四冠,49.819
+12:10,8,藤井聡太,50.071
+12:10,9,藤井三冠,46.493
+12:10,10,CONGRATULATIONS LIQUOROSE,36.488
+12:41,1,BEFIRSTチャットパーティー,36.103
+12:41,2,睡眠の彼方,
+12:41,3,新しいカギ,11.116
+12:41,4,جده_الان,25.492
+12:41,5,njbosj,11.837
+12:41,6,竜王奪取,23.251
+12:41,7,3racha,14.377
+12:41,8,藤井四冠,54.639
+12:41,9,藤井聡太,55.235
+12:41,10,猫適性検査テスト,
+13:10,1,DeKlerkMemorialService,
+13:10,2,睡眠の彼方,12.880
+13:10,3,BEFIRSTチャットパーティー,39.246
+13:10,4,新しいカギ,19.552
+13:10,5,なにわ男子ANNP,49.384
+13:10,6,3racha,22.019
+13:10,7,竜王奪取,24.590
+13:10,8,藤井四冠,58.079
+13:10,9,藤井聡太,58.862
+13:10,10,Kumar Kerhane,
+13:41,1,DeKlerkMemorialService,
+13:41,2,PBB2ndEvictionNight,17.790
+13:41,3,睡眠の彼方,13.492
+13:41,4,BEFIRSTチャットパーティー,41.578
+13:41,5,新しいカギ,21.258
+13:41,6,3racha,30.101
+13:41,7,luhan,
+13:41,8,HAN JISUNG,14.242
+13:41,9,Ellips Ke Newyork,
+13:41,10,竜王奪取,25.766
+14:10,1,DeKlerkMemorialService,
+14:10,2,PBB2ndEvictionNight,29.742
+14:10,3,潤羽るしあ新衣装,12.952
+14:10,4,だってうって大丈夫が出た人は疲れてる,
+14:10,5,3racha,40.592
+14:10,6,Albie,62.308
+14:10,7,睡眠の彼方,13.880
+14:10,8,luhan,
+14:10,9,ファイナルソード,
+14:10,10,Han Jisung,16.965
+14:41,1,DeKlerkMemorialService,
+14:41,2,PBB2ndEvictionNight,34.210
+14:41,3,潤羽るしあ新衣装,15.979
+14:41,4,だってうって大丈夫が出た人は疲れてる,
+14:41,5,日向坂高校放送部,10.043
+14:41,6,猫適性検査テスト,
+14:41,7,Albie,70.786
+14:41,8,luhan,
+14:41,9,3racha,45.511
+14:41,10,HOMCHA REWATCH EP3,21.077
+15:10,1,DeKlerkMemorialService,
+15:10,2,だってうって大丈夫が出た人は疲れてる,
+15:10,3,PBB2ndEvictionNight,36.659
+15:10,4,潤羽るしあ新衣装,17.678
+15:10,5,SCOvRSA,
+15:10,6,luhan,
+15:10,7,Albie,71.201
+15:10,8,3racha,48.975
+15:10,9,THANK YOU FOR WAITING PENIEL,23.365
+15:10,10,HOMCHA REWATCH EP3,24.233
+15:41,1,SixTONESANN,26.146
+15:41,2,シブヤノオト,18.239
+15:41,3,マツコ会議,
+15:41,4,だってうって大丈夫が出た人は疲れてる,
+15:41,5,DeKlerkMemorialService,
+15:41,6,luhan,
+15:41,7,Albie,74.622
+15:41,8,3racha,52.253
+15:41,9,HYUNSIK SUNGJAE ARE BACK,17.236
+15:41,10,Buat Ayah,
+16:10,1,SixTONESANN,92.916
+16:10,2,消えた初恋,87.169
+16:10,3,シブヤノオト,29.162
+16:10,4,SCOvRSA,
+16:10,5,だってうって大丈夫が出た人は疲れてる,
+16:10,6,井田くん,11.416
+16:10,7,HYUNSIK SUNGJAE ARE BACK,25.220
+16:10,8,luhan,10.264
+16:10,9,Albie,73.004
+16:10,10,3racha,54.587
+16:41,1,SixTONESANN,148.053
+16:41,2,消えた初恋,97.228
+16:41,3,IREvNZL,
+16:41,4,シブヤノオト,32.840
+16:41,5,だってうって大丈夫が出た人は疲れてる,
+16:41,6,HYUNSIK SUNGJAE ARE BACK,28.739
+16:41,7,井田くん,12.595
+16:41,8,Luhan,11.799
+16:41,9,FROST SPECIAL PERFORMANCE,50.797
+16:41,10,D-11,215.059
+17:10,1,SixTONESANN,192.041
+17:10,2,IREvNZL,
+17:10,3,消えた初恋,100.551
+17:10,4,Huuhkajat,
+17:10,5,シブヤノオト,33.890
+17:10,6,FROST SPECIAL PERFORMANCE,57.096
+17:10,7,RYUJIN NO LIMIT,33.568
+17:10,8,D-11,221.451
+17:10,9,HYUNSIK SUNGJAE ARE BACK,30.035
+17:10,10,Jayce,16.176
+17:41,1,IREvNZL,
+17:41,2,SixTONESANN,194.165
+17:41,3,消えた初恋,103.025
+17:41,4,Huuhkajat,
+17:41,5,مدارس_الشلايل_للبنين,
+17:41,6,All Blacks,
+17:41,7,FROST SPECIAL PERFORMANCE,61.036
+17:41,8,Jayce,17.504
+17:41,9,D-11,231.485
+17:41,10,Caitlyn,19.837
+18:10,1,IREvNZL,10.707
+18:10,2,Hamstercoin Yourfavor,
+18:10,3,SixTONESANN,195.190
+18:10,4,MOA Globe,17.187
+18:10,5,SingleAndMingle,
+18:10,6,ワールドトリガー,13.149
+18:10,7,ポプテピピック,
+18:10,8,Lane Kiffin,
+18:10,9,Hamilton,121.101
+18:10,10,All Blacks,
+18:41,1,IREvNZL,18.127
+18:41,2,MOA Globe,40.634
+18:41,3,Burak,10.663
+18:41,4,Hamilton,146.398
+18:41,5,Ireland,54.254
+18:41,6,Hamstercoin Yourfavor,
+18:41,7,SixTONESANN,195.529
+18:41,8,All Blacks,
+18:41,9,James Franklin,
+18:41,10,Kerem,15.712
+19:10,1,IREvNZL,19.730
+19:10,2,MOA Globe,52.948
+19:10,3,Burak,12.079
+19:10,4,Hamilton,152.722
+19:10,5,BizimCocuklar,
+19:10,6,عنزه_التربيه,
+19:10,7,Ireland,53.492
+19:10,8,Kerem,19.323
+19:10,9,Baylor,
+19:10,10,James Franklin,
+19:41,1,IREvNZL,20.547
+19:41,2,Samford,
+19:41,3,MOA Globe,60.635
+19:41,4,Burak,13.884
+19:41,5,Hamilton,158.646
+19:41,6,BizimCocuklar,
+19:41,7,isencaneLengane,
+19:41,8,Dan Mullen,
+19:41,9,Baylor,
+19:41,10,Robert Woods,12.914
+20:10,1,BizimCocuklar,14.004
+20:10,2,IREvNZL,21.103
+20:10,3,Samford,11.282
+20:10,4,Dan Mullen,
+20:10,5,Rıdvan,
+20:10,6,MOA Globe,64.285
+20:10,7,اوليه_افطار_طوال_اليوم3,
+20:10,8,Baylor,
+20:10,9,Hamilton,157.313
+20:10,10,Burak,14.008
+20:41,1,Strictly,
+20:41,2,BizimCocuklar,19.072
+20:41,3,Samford,12.974
+20:41,4,IREvNZL,21.621
+20:41,5,KünefeKatmerZadeAnkara,
+20:41,6,Baylor,11.264
+20:41,7,Dan Mullen,
+20:41,8,Hamilton,163.240
+20:41,9,ENGvAUS,
+20:41,10,Rıdvan,10.610
+21:10,1,Strictly,14.418
+21:10,2,Hamilton,174.326
+21:10,3,FRAKAZ,13.253
+21:10,4,F1Sprint,21.990
+21:10,5,BrazilGP,135.703
+21:10,6,Bottas,21.163
+21:10,7,Baylor,14.186
+21:10,8,BizimCocuklar,21.917
+21:10,9,Senso Coin,
+21:10,10,Samford,14.481
+21:41,1,Strictly,16.279
+21:41,2,Baylor,22.133
+21:41,3,FRAKAZ,20.892
+21:41,4,Hamilton,192.545
+21:41,5,F1Sprint,30.172
+21:41,6,BrazilGP,149.939
+21:41,7,Bottas,26.085
+21:41,8,Auburn,13.534
+21:41,9,Coman,19.685
+21:41,10,DünyaİyilikGünü,
+22:10,1,FRAKAZ,26.640
+22:10,2,Strictly,17.276
+22:10,3,Baylor,24.376
+22:10,4,Hamilton,192.577
+22:10,5,Auburn,16.667
+22:10,6,F1Sprint,33.908
+22:10,7,BrazilGP,152.221
+22:10,8,Coman,22.398
+22:10,9,Bottas,27.318
+22:10,10,j2us,10.077
+22:41,1,FRAKAZ,40.604
+22:41,2,Calamidade,36.936
+22:41,3,Strictly,18.029
+22:41,4,Baylor,25.725
+22:41,5,MNENED,
+22:41,6,Hamilton,197.270
+22:41,7,Kazakhstan,21.483
+22:41,8,Auburn,18.010
+22:41,9,Coman,25.315
+22:41,10,F1Sprint,36.653
+23:10,1,FRAKAZ,46.728
+23:10,2,Calamidade,45.232
+23:10,3,MNENED,
+23:10,4,Strictly,18.540
+23:10,5,Baylor,26.543
+23:10,6,Kazakhstan,24.792
+23:10,7,UFCVegas42,22.608
+23:10,8,Hamilton,192.016
+23:10,9,Auburn,18.532
+23:10,10,Coman,26.311
+23:41,1,FRAKAZ,49.231
+23:41,2,Calamidade,54.423
+23:41,3,UFCVegas42,26.222
+23:41,4,BallandoConLeStelle,
+23:41,5,Cortez,12.134
+23:41,6,MNENED,
+23:41,7,Kazakhstan,26.483
+23:41,8,Baylor,27.404
+23:41,9,Hamilton,194.955
+23:41,10,Auburn,19.227

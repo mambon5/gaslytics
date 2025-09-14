@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,FaceABaba,92.489
+00:10,2,Saul,33.890
+00:10,3,SeMurioLaVieja,91.812
+00:10,4,Trent,50.611
+00:10,5,SecretGala14,37.136
+00:10,6,PayPal,111.726
+00:10,7,unprofessore,119.507
+00:10,8,LIVNEW,33.597
+00:10,9,Everton,69.759
+00:10,10,Mike Dean,
+00:40,1,FaceABaba,102.541
+00:40,2,SecretGala14,51.002
+00:40,3,PayPal,116.371
+00:40,4,Saul,34.925
+00:40,5,SeMurioLaVieja,94.698
+00:40,6,Trent,52.384
+00:40,7,unprofessore,124.751
+00:40,8,bbcqt,
+00:40,9,Everton,71.429
+00:40,10,Mike Dean,
+01:10,1,SecretGala14,60.325
+01:10,2,FaceABaba,117.703
+01:10,3,PayPal,116.656
+01:10,4,SeMurioLaVieja,97.301
+01:10,5,Saul,35.435
+01:10,6,Trent,52.395
+01:10,7,bbcqt,
+01:10,8,unprofessore,126.874
+01:10,9,Spider-Man,295.082
+01:10,10,CORINGA NO ESPORTS BRASIL,20.615
+01:40,1,SecretGala14,70.956
+01:40,2,FaceABaba,125.218
+01:40,3,PayPal,120.734
+01:40,4,SeMurioLaVieja,99.802
+01:40,5,SpiderMan,118.242
+01:40,6,Trent,53.792
+01:40,7,Saul,36.028
+01:40,8,bbcqt,11.015
+01:40,9,DULCE FEAT MARILIA,28.625
+01:40,10,CORINGA NO ESPORTS BRASIL,24.981
+02:10,1,SecretGala14,82.916
+02:10,2,SpiderMan,120.659
+02:10,3,FaceABaba,128.610
+02:10,4,PayPal,120.793
+02:10,5,Rock in Rio,
+02:10,6,SeMurioLaVieja,101.768
+02:10,7,Avril Lavigne,
+02:10,8,DULCE FEAT MARILIA,30.870
+02:10,9,Trent,53.314
+02:10,10,Saul,36.241
+02:40,1,Chargers,37.645
+02:40,2,SecretGala14,86.354
+02:40,3,SpiderMan,125.070
+02:40,4,Parham,
+02:40,5,Slack,
+02:40,6,PayPal,124.157
+02:40,7,Rock in Rio,10.717
+02:40,8,KCvsLAC,
+02:40,9,FaceABaba,130.833
+02:40,10,Avril Lavigne,
+03:10,1,Chargers,41.696
+03:10,2,Parham,12.066
+03:10,3,FinalAFazenda,
+03:10,4,SpiderMan,126.535
+03:10,5,SecretGala14,88.174
+03:10,6,CazeDay,
+03:10,7,KCvsLAC,
+03:10,8,Slack,
+03:10,9,Rock in Rio,11.671
+03:10,10,PayPal,124.304
+03:40,1,FinalAFazenda,24.028
+03:40,2,Chargers,49.361
+03:40,3,Parham,16.996
+03:40,4,Joe Buck,
+03:40,5,TheVoiceBrasil,
+03:40,6,SpiderMan,131.324
+03:40,7,KCvsLAC,
+03:40,8,CazeDay,
+03:40,9,Herbert,22.689
+03:40,10,Slack,
+04:10,1,FinalAFazenda,43.896
+04:10,2,Chargers,55.447
+04:10,3,TheVoiceBrasil,
+04:10,4,心肺停止,10.163
+04:10,5,Parham,18.827
+04:10,6,Joe Buck,
+04:10,7,GreysAnatomy,13.779
+04:10,8,SpiderMan,133.077
+04:10,9,KCvsLAC,
+04:10,10,ビル火災,13.348
+04:40,1,FinalAFazenda,91.588
+04:40,2,Chargers,65.870
+04:40,3,Mahomes,78.094
+04:40,4,心肺停止,22.022
+04:40,5,KCvsLAC,11.435
+04:40,6,RicoCampeao,42.308
+04:40,7,Staley,
+04:40,8,Spider-Man,331.865
+04:40,9,TheVoiceBrasil,
+04:40,10,ビル火災,25.398
+05:10,1,FinalAFazenda,103.144
+05:10,2,Chargers,81.683
+05:10,3,Mahomes,89.055
+05:10,4,心肺停止,29.327
+05:10,5,KCvsLAC,15.753
+05:10,6,Herbert,30.384
+05:10,7,RicoCampeao,45.274
+05:10,8,Spider-Man,332.501
+05:10,9,Staley,
+05:10,10,放火の疑い,
+05:40,1,Chargers,100.303
+05:40,2,Chargers,100.303
+05:40,3,FinalAFazenda,108.413
+05:40,4,Mahomes,100.341
+05:40,5,Kelce,33.991
+05:40,6,KCvsLAC,20.506
+05:40,7,Herbert,37.653
+05:40,8,心肺停止,33.213
+05:40,9,Spider-Man,343.937
+05:40,10,Staley,10.946
+06:10,1,Chargers,110.736
+06:10,2,Chargers,110.736
+06:10,3,Kelce,45.600
+06:10,4,Mahomes,108.906
+06:10,5,FinalAFazenda,110.554
+06:10,6,KCvsLAC,22.467
+06:10,7,Herbert,39.527
+06:10,8,心肺停止,35.630
+06:10,9,Spider-Man,344.295
+06:10,10,Staley,13.051
+06:40,1,Chargers,114.389
+06:40,2,Chargers,114.389
+06:40,3,Kelce,49.112
+06:40,4,Mahomes,112.003
+06:40,5,FinalAFazenda,111.870
+06:40,6,KCvsLAC,23.127
+06:40,7,Roddy,25.335
+06:40,8,Herbert,40.433
+06:40,9,Spider-Man,354.587
+06:40,10,心肺停止,37.541
+07:10,1,Chargers,115.830
+07:10,2,Chargers,115.830
+07:10,3,BTSCrosswalk,175.063
+07:10,4,Kelce,50.708
+07:10,5,Mahomes,113.458
+07:10,6,FinalAFazenda,112.584
+07:10,7,Roddy,28.846
+07:10,8,Spider-Man,355.885
+07:10,9,KCvsLAC,23.591
+07:10,10,Herbert,40.516
+07:40,1,BTSCrosswalk,250.505
+07:40,2,Chargers,117.009
+07:40,3,Chargers,117.009
+07:40,4,Kelce,51.941
+07:40,5,Roddy,31.296
+07:40,6,Mahomes,114.613
+07:40,7,FinalAFazenda,113.064
+07:40,8,Spider-Man,365.884
+07:40,9,カウコン,12.400
+07:40,10,KCvsLAC,23.886
+08:10,1,BTSCrosswalk,353.037
+08:10,2,Chargers,117.718
+08:10,3,Chargers,117.718
+08:10,4,Roddy,32.699
+08:10,5,Kelce,52.569
+08:10,6,Spider-Man,367.403
+08:10,7,Mahomes,115.234
+08:10,8,Dolar16TL,18.612
+08:10,9,カウコン,13.613
+08:10,10,FinalAFazenda,113.340
+08:40,1,BTSCrosswalk,393.441
+08:40,2,Chargers,118.464
+08:40,3,Roddy,34.060
+08:40,4,Dolar16TL,21.461
+08:40,5,Spider-Man,375.595
+08:40,6,Kelce,53.104
+08:40,7,カウコン,14.801
+08:40,8,North Shropshire,75.722
+08:40,9,Mahomes,115.734
+08:40,10,Chiefs,126.543
+09:10,1,BTSCrosswalk,438.250
+09:10,2,Dolar16TL,23.382
+09:10,3,Roddy,34.707
+09:10,4,North Shropshire,81.289
+09:10,5,Spider-Man,375.868
+09:10,6,Chargers,118.789
+09:10,7,カウコン,15.765
+09:10,8,Kelce,53.296
+09:10,9,BreakTheCode,11.822
+09:10,10,SinLuz,
+09:40,1,BTSCrosswalk,474.169
+09:40,2,North Shropshire,89.970
+09:40,3,Dolar16TL,25.067
+09:40,4,BreakTheCode,15.244
+09:40,5,Roddy,35.607
+09:40,6,カウコン,16.933
+09:40,7,Spider-Man,383.042
+09:40,8,Chargers,119.270
+09:40,9,SinLuz,
+09:40,10,ThePartyIsOver,
+10:10,1,BTSCrosswalk,521.830
+10:10,2,North Shropshire,93.913
+10:10,3,Dolar16TL,26.841
+10:10,4,BreakTheCode,18.098
+10:10,5,カウコン,17.960
+10:10,6,Roddy,36.133
+10:10,7,Spider-Man,381.990
+10:10,8,ThePartyIsOver,
+10:10,9,SinLuz,10.052
+10:10,10,MAKE WAY FOR TXT,11.735
+10:40,1,North Shropshire,101.167
+10:40,2,BTSCrosswalk,543.798
+10:40,3,新刀剣男士,27.869
+10:40,4,Dolar16TL,28.793
+10:40,5,TXTonKBSSongFest_RedCarpet,22.301
+10:40,6,MAKE WAY FOR TXT,22.268
+10:40,7,カウコン,19.106
+10:40,8,KBS_SongFestivalWITH_TXT,18.271
+10:40,9,BreakTheCode,18.929
+10:40,10,メリュジーヌ,
+11:10,1,新刀剣男士,38.935
+11:10,2,North Shropshire,103.919
+11:10,3,Dolar16TL,30.834
+11:10,4,メリュジーヌ,
+11:10,5,BTSCrosswalk,561.232
+11:10,6,TXTonKBSSongFest_RedCarpet,26.647
+11:10,7,MAKE WAY FOR TXT,26.393
+11:10,8,カウコン,20.014
+11:10,9,少プレ,
+11:10,10,ONEPIECE1035,
+11:40,1,Ashes,29.616
+11:40,2,新刀剣男士,46.905
+11:40,3,Dolar16TL,33.197
+11:40,4,North Shropshire,109.576
+11:40,5,メリュジーヌ,11.040
+11:40,6,Rory Burns,
+11:40,7,ONEPIECE1035,
+11:40,8,Tories,83.639
+11:40,9,TXTonKBSSongFest_RedCarpet,29.730
+11:40,10,カウコン,20.945
+12:10,1,ทุกวันได้ไหมTeaser,32.588
+12:10,2,Ashes,27.553
+12:10,3,新刀剣男士,53.430
+12:10,4,金スマ,18.990
+12:10,5,Dolar16TL,35.277
+12:10,6,North Shropshire,112.121
+12:10,7,メリュジーヌ,12.384
+12:10,8,GULF X BOW,27.482
+12:10,9,オオカミ少年,10.230
+12:10,10,Rory Burns,
+12:40,1,金スマ,30.071
+12:40,2,ทุกวันได้ไหมTeaser,91.359
+12:40,3,小学5年生より賢いの,
+12:40,4,キンプる,
+12:40,5,ジャニフェス配信,
+12:40,6,Dolar16TL,37.471
+12:40,7,GULF X BOW,76.386
+12:40,8,新刀剣男士,58.424
+12:40,9,中居くん,
+12:40,10,阿部ちゃん,
+13:10,1,キンプる,61.527
+13:10,2,金スマ,39.724
+13:10,3,小学5年生より賢いの,13.308
+13:10,4,阿部ちゃん,15.027
+13:10,5,ทุกวันได้ไหมTeaser,121.356
+13:10,6,中居くん,10.608
+13:10,7,阿部亮平,24.749
+13:10,8,ジャニフェス配信,
+13:10,9,ARIN,16.168
+13:10,10,トレンド1位,14.339
+13:40,1,金スマ,53.417
+13:40,2,キンプる,82.035
+13:40,3,中居くん,15.776
+13:40,4,SMAP,24.480
+13:40,5,小学5年生より賢いの,13.747
+13:40,6,小野町春香3D,14.353
+13:40,7,ทุกวันได้ไหมTeaser,141.182
+13:40,8,가요대축제,272.981
+13:40,9,阿部ちゃん,15.802
+13:40,10,トレンド1位,20.831
+14:10,1,金スマ,61.746
+14:10,2,キンプる,91.678
+14:10,3,小野町春香3D,21.189
+14:10,4,中居くん,18.586
+14:10,5,SMAP,26.032
+14:10,6,Dolar17TL,
+14:10,7,가요대축제,290.399
+14:10,8,SSholoX,13.858
+14:10,9,ARIN,26.224
+14:10,10,阿部ちゃん,15.988
+14:40,1,最愛ドラマ,48.033
+14:40,2,金スマ,64.930
+14:40,3,キンプる,99.837
+14:40,4,Merz,
+14:40,5,加瀬さん,
+14:40,6,Dolar17TL,
+14:40,7,가요대축제,329.332
+14:40,8,中居くん,20.077
+14:40,9,SMAP,27.953
+14:40,10,ボスベイビー,13.698
+15:10,1,最愛ドラマ,90.224
+15:10,2,加瀬さん,28.600
+15:10,3,Merz,
+15:10,4,BadBuddySeriesEP8,267.052
+15:10,5,金スマ,65.309
+15:10,6,キンプる,104.043
+15:10,7,가요대축제,377.206
+15:10,8,sunmi,17.895
+15:10,9,中居くん,20.899
+15:10,10,SMAP,28.589
+15:40,1,最愛ドラマ,106.353
+15:40,2,加瀬さん,35.548
+15:40,3,MUSICBLOOD,82.248
+15:40,4,BadBuddySeriesEP8,377.534
+15:40,5,Merz,
+15:40,6,Dolar17TL,13.667
+15:40,7,가요대축제,543.303
+15:40,8,sunmi,22.377
+15:40,9,中居くん,21.714
+15:40,10,ボスベイビー,16.815
+16:10,1,最愛ドラマ,114.606
+16:10,2,加瀬さん,38.967
+16:10,3,MUSICBLOOD,114.439
+16:10,4,BadBuddySeriesEP8,469.981
+16:10,5,Merz,11.192
+16:10,6,Dolar17TL,15.685
+16:10,7,가요대축제,717.223
+16:10,8,sunmi,24.208
+16:10,9,SEVENTEEN,425.071
+16:10,10,soobin,86.275
+16:40,1,最愛ドラマ,120.158
+16:40,2,BadBuddySeriesEP8,541.621
+16:40,3,加瀬さん,41.106
+16:40,4,MUSICBLOOD,128.909
+16:40,5,Merz,12.661
+16:40,6,Dolar17TL,17.915
+16:40,7,가요대축제,814.400
+16:40,8,イデア氏,
+16:40,9,soobin,94.289
+16:40,10,The Witcher,44.140
+17:10,1,BadBuddySeriesEP8,597.101
+17:10,2,最愛ドラマ,123.699
+17:10,3,加瀬さん,42.637
+17:10,4,MUSICBLOOD,135.920
+17:10,5,Merz,13.938
+17:10,6,Dolar17TL,20.012
+17:10,7,The Witcher,45.197
+17:10,8,イデア氏,10.618
+17:10,9,Paul Maurice,
+17:10,10,soobin,99.550
+17:40,1,BadBuddySeriesEP8,651.032
+17:40,2,最愛ドラマ,126.127
+17:40,3,加瀬さん,43.645
+17:40,4,hukumetistifa,
+17:40,5,Merz,15.143
+17:40,6,Dolar17TL,22.067
+17:40,7,Paul Maurice,
+17:40,8,The Witcher,47.467
+17:40,9,Roddy,51.147
+17:40,10,Máximo,87.538
+18:10,1,BadBuddySeriesEP8,704.311
+18:10,2,hukumetistifa,
+18:10,3,最愛ドラマ,127.602
+18:10,4,加瀬さん,44.393
+18:10,5,Merz,16.155
+18:10,6,Dolar17TL,23.947
+18:10,7,Paul Maurice,
+18:10,8,The Witcher,48.195
+18:10,9,Rever,22.291
+18:10,10,Roddy,51.892
+18:40,1,BadBuddySeriesEP8,737.088
+18:40,2,hukumetistifa,12.871
+18:40,3,最愛ドラマ,128.552
+18:40,4,Merz,17.005
+18:40,5,Dolar17TL,25.871
+18:40,6,加瀬さん,44.810
+18:40,7,Paul Maurice,
+18:40,8,Rever,24.413
+18:40,9,The Witcher,50.138
+18:40,10,Roddy,53.376
+19:10,1,hukumetistifa,15.211
+19:10,2,BadBuddySeriesEP8,759.640
+19:10,3,bananamoon,16.133
+19:10,4,HappyTripleNDay2021,38.374
+19:10,5,Merz,17.825
+19:10,6,Rever,25.684
+19:10,7,加瀬さん,45.083
+19:10,8,Paul Maurice,
+19:10,9,Roddy,53.826
+19:10,10,Jonghyun,35.831
+19:40,1,hukumetistifa,16.779
+19:40,2,BadBuddySeriesEP8,779.650
+19:40,3,HappyTripleNDay2021,46.824
+19:40,4,Yüzde50Zamİstiyoruz,
+19:40,5,HailDiablo,10.005
+19:40,6,Rever,27.777
+19:40,7,Roddy,55.504
+19:40,8,Kim Potter,
+19:40,9,Paul Maurice,
+19:40,10,Jonghyun,38.584
+20:10,1,hukumetistifa,17.805
+20:10,2,EnineBoyuna,
+20:10,3,BadBuddySeriesEP8,793.554
+20:10,4,HailDiablo,13.708
+20:10,5,DiabloPromo,
+20:10,6,Rever,30.107
+20:10,7,Roddy,56.121
+20:10,8,Kim Potter,
+20:10,9,EvimiYıkma DuyunBizi,
+20:10,10,Simon Case,27.272
+20:40,1,passvaccinal,11.347
+20:40,2,EnineBoyuna,
+20:40,3,hukumetistifa,18.696
+20:40,4,Dolar20TL,
+20:40,5,Castex,
+20:40,6,Sundowns,
+20:40,7,Rever,32.555
+20:40,8,TE AMAMOS DAY,18.853
+20:40,9,Pirates,30.570
+20:40,10,Roddy,57.668
+21:10,1,passvaccinal,19.578
+21:10,2,EnineBoyuna,
+21:10,3,Dolar20TL,
+21:10,4,TE AMAMOS DAY,44.914
+21:10,5,HailDiablo,18.832
+21:10,6,DiabloPromo,
+21:10,7,Sundowns,11.386
+21:10,8,Rever,34.434
+21:10,9,Andile Mpisane,
+21:10,10,Pirates,31.628
+21:40,1,passvaccinal,27.077
+21:40,2,Dolar20TL,11.414
+21:40,3,TE AMAMOS DAY,68.948
+21:40,4,EnineBoyuna,
+21:40,5,FreeCodeFridayContest,
+21:40,6,KaderiminOyunu,78.133
+21:40,7,Andile Mpisane,
+21:40,8,Sundowns,12.315
+21:40,9,Rever,36.451
+21:40,10,Simon Case,36.184
+22:10,1,CashAppGifting,
+22:10,2,passvaccinal,34.829
+22:10,3,TE AMAMOS DAY,88.512
+22:10,4,Dolar20TL,13.323
+22:10,5,SalernitanaInter,
+22:10,6,FreeCodeFridayContest,
+22:10,7,Eagles,30.224
+22:10,8,Andile Mpisane,10.398
+22:10,9,Rever,37.688
+22:10,10,Sundowns,12.812
+22:40,1,CashAppGifting,13.737
+22:40,2,passvaccinal,41.843
+22:40,3,TE AMAMOS DAY,109.389
+22:40,4,SalernitanaInter,
+22:40,5,PFCOL,
+22:40,6,Dolar20TL,14.822
+22:40,7,Borland,
+22:40,8,Eagles,32.453
+22:40,9,Andile Mpisane,11.640
+22:40,10,Rick Perry,
+23:10,1,CashAppGifting,15.804
+23:10,2,PFCOL,
+23:10,3,passvaccinal,48.034
+23:10,4,TE AMAMOS DAY,127.641
+23:10,5,SalernitanaInter,
+23:10,6,Gomorra5,
+23:10,7,Borland,10.876
+23:10,8,Rick Perry,
+23:10,9,Eagles,33.023
+23:10,10,José Pablo Feinmann,
+23:40,1,Kyrie,28.335
+23:40,2,CashAppGifting,16.966
+23:40,3,PFCOL,
+23:40,4,TCMS7,
+23:40,5,TE AMAMOS DAY,142.779
+23:40,6,PassVaccinal,53.745
+23:40,7,Gomorra5,
+23:40,8,Rick Perry,10.637
+23:40,9,Borland,13.557
+23:40,10,José Pablo Feinmann,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Trump,4.320.000
+00:01,2,Réal,3.080.000
+00:01,3,Happy Pride,2.420.000
+00:01,4,Madrid,2.360.000
+00:01,5,Biden,1.880.000
+00:01,6,Happy Pride Month,1.759.999
+00:01,7,الهلال,1.279.999
+00:01,8,Real Madrid,1.140.000
+00:01,9,Champions,981.000
+00:01,10,Dortmund,697.000
+00:31,1,Trump,4.320.000
+00:31,2,Réal,3.440.000
+00:31,3,Madrid,2.600.000
+00:31,4,Happy Pride,2.480.000
+00:31,5,Biden,1.880.000
+00:31,6,Happy Pride Month,1.859.999
+00:31,7,Real Madrid,1.299.999
+00:31,8,Champions,1.100.000
+00:31,9,الهلال,902.000
+00:31,10,Dortmund,710.000
+01:01,1,Trump,4.000.000
+01:01,2,Réal,3.440.000
+01:01,3,Happy Pride,2.680.000
+01:01,4,Madrid,2.600.000
+01:01,5,Happy Pride Month,1.940.000
+01:01,6,Biden,1.799.999
+01:01,7,Real Madrid,1.400.000
+01:01,8,Champions,1.120.000
+01:01,9,الهلال,902.000
+01:01,10,Dortmund,721.000
+01:31,1,Trump,3.980.000
+01:31,2,Réal,3.440.000
+01:31,3,Madrid,2.760.000
+01:31,4,Happy Pride,2.680.000
+01:31,5,Happy Pride Month,2.000.000
+01:31,6,Biden,1.799.999
+01:31,7,Real Madrid,1.460.000
+01:31,8,Champions,1.319.999
+01:31,9,الهلال,902.000
+01:31,10,Dortmund,726.000
+02:01,1,Trump,3.980.000
+02:01,2,Réal,3.440.000
+02:01,3,Happy Pride,2.940.000
+02:01,4,Madrid,2.900.000
+02:01,5,Happy Pride Month,2.060.000
+02:01,6,Biden,1.740.000
+02:01,7,Real Madrid,1.540.000
+02:01,8,Champions,1.319.999
+02:01,9,الهلال,753.000
+02:01,10,Dortmund,732.000
+02:31,1,Trump,3.980.000
+02:31,2,Happy Pride,2.940.000
+02:31,3,Madrid,2.760.000
+02:31,4,Réal,2.500.000
+02:31,5,Happy Pride Month,2.120.000
+02:31,6,Biden,1.740.000
+02:31,7,Real Madrid,1.580.000
+02:31,8,Champions,1.420.000
+02:31,9,الهلال,753.000
+02:31,10,Dortmund,734.000
+03:01,1,Trump,3.780.000
+03:01,2,Happy Pride,2.940.000
+03:01,3,Madrid,2.760.000
+03:01,4,Réal,2.500.000
+03:01,5,Happy Pride Month,2.140.000
+03:01,6,Biden,1.680.000
+03:01,7,Real Madrid,1.580.000
+03:01,8,Champions,1.440.000
+03:01,9,Dortmund,738.000
+03:01,10,Champions League,701.000
+03:31,1,Trump,3.780.000
+03:31,2,Happy Pride,2.940.000
+03:31,3,Réal,2.300.000
+03:31,4,Madrid,2.240.000
+03:31,5,Happy Pride Month,2.140.000
+03:31,6,Biden,1.680.000
+03:31,7,Real Madrid,1.580.000
+03:31,8,Champions,1.460.000
+03:31,9,Dortmund,739.000
+03:31,10,Champions League,716.000
+04:01,1,Trump,3.599.999
+04:01,2,Happy Pride,2.940.000
+04:01,3,Madrid,2.880.000
+04:01,4,Réal,2.400.000
+04:01,5,Happy Pride Month,2.140.000
+04:01,6,Biden,1.620.000
+04:01,7,Real Madrid,1.580.000
+04:01,8,Champions,1.540.000
+04:01,9,Dortmund,739.000
+04:01,10,Champions League,725.000
+04:31,1,Trump,3.599.999
+04:31,2,Happy Pride,2.680.000
+04:31,3,Réal,2.400.000
+04:31,4,Madrid,2.240.000
+04:31,5,Happy Pride Month,2.140.000
+04:31,6,Biden,1.620.000
+04:31,7,Champions,1.540.000
+04:31,8,Real Madrid,1.380.000
+04:31,9,Dortmund,743.000
+04:31,10,Champions League,725.000
+05:01,1,Trump,2.760.000
+05:01,2,Happy Pride,2.600.000
+05:01,3,Réal,2.420.000
+05:01,4,Madrid,2.340.000
+05:01,5,Happy Pride Month,2.100.000
+05:01,6,Champions,1.620.000
+05:01,7,Biden,1.560.000
+05:01,8,Real Madrid,1.380.000
+05:01,9,Dortmund,745.000
+05:01,10,Champions League,725.000
+05:31,1,Trump,2.760.000
+05:31,2,Réal,2.640.000
+05:31,3,Happy Pride,2.440.000
+05:31,4,Madrid,2.360.000
+05:31,5,Happy Pride Month,2.080.000
+05:31,6,Champions,1.640.000
+05:31,7,Biden,1.560.000
+05:31,8,Real Madrid,1.299.999
+05:31,9,Dortmund,745.000
+05:31,10,Champions League,744.000
+06:01,1,Réal,2.800.000
+06:01,2,Madrid,2.400.000
+06:01,3,Trump,2.120.000
+06:01,4,Happy Pride Month,2.080.000
+06:01,5,Happy Pride,1.819.999
+06:01,6,Champions,1.640.000
+06:01,7,Biden,1.560.000
+06:01,8,Real Madrid,1.240.000
+06:01,9,Champions League,751.000
+06:01,10,Dortmund,745.000
+06:31,1,Réal,2.860.000
+06:31,2,Madrid,2.460.000
+06:31,3,Trump,2.280.000
+06:31,4,Happy Pride Month,1.740.000
+06:31,5,Champions,1.640.000
+06:31,6,Biden,1.560.000
+06:31,7,Happy Pride,1.359.999
+06:31,8,Real Madrid,1.240.000
+06:31,9,Champions League,755.000
+06:31,10,Dortmund,746.000
+07:01,1,Réal,2.860.000
+07:01,2,Madrid,2.500.000
+07:01,3,Trump,2.420.000
+07:01,4,Champions,1.640.000
+07:01,5,Biden,1.500.000
+07:01,6,Happy Pride,1.400.000
+07:01,7,Real Madrid,1.240.000
+07:01,8,Happy Pride Month,1.160.000
+07:01,9,Champions League,757.000
+07:01,10,Dortmund,748.000
+07:31,1,Réal,2.860.000
+07:31,2,Madrid,2.540.000
+07:31,3,Trump,2.420.000
+07:31,4,Champions,1.640.000
+07:31,5,Happy Pride,1.560.000
+07:31,6,Biden,1.480.000
+07:31,7,Real Madrid,1.240.000
+07:31,8,Happy Pride Month,1.160.000
+07:31,9,Champions League,757.000
+07:31,10,Dortmund,748.000
+08:01,1,Réal,2.860.000
+08:01,2,Trump,2.620.000
+08:01,3,Madrid,2.580.000
+08:01,4,Champions,1.640.000
+08:01,5,Happy Pride,1.620.000
+08:01,6,Biden,1.480.000
+08:01,7,Real Madrid,1.299.999
+08:01,8,Happy Pride Month,946.000
+08:01,9,Champions League,768.000
+08:01,10,Dortmund,750.000
+08:31,1,Réal,2.860.000
+08:31,2,Madrid,2.620.000
+08:31,3,Trump,2.600.000
+08:31,4,Champions,1.700.000
+08:31,5,Happy Pride,1.620.000
+08:31,6,Biden,1.480.000
+08:31,7,Real Madrid,1.440.000
+08:31,8,Happy Pride Month,1.400.000
+08:31,9,Champions League,768.000
+08:31,10,Dortmund,750.000
+09:01,1,Trump,2.880.000
+09:01,2,Madrid,2.620.000
+09:01,3,Réal,2.500.000
+09:01,4,Happy Pride,2.180.000
+09:01,5,Happy Pride Month,2.080.000
+09:01,6,Real Madrid,1.819.999
+09:01,7,Champions,1.779.999
+09:01,8,Biden,1.500.000
+09:01,9,Champions League,791.000
+09:01,10,Dortmund,750.000
+09:31,1,Réal,3.320.000
+09:31,2,Trump,2.880.000
+09:31,3,Madrid,2.700.000
+09:31,4,Happy Pride,2.180.000
+09:31,5,Happy Pride Month,2.100.000
+09:31,6,Real Madrid,1.819.999
+09:31,7,Champions,1.779.999
+09:31,8,Biden,1.500.000
+09:31,9,Champions League,791.000
+09:31,10,Dortmund,750.000
+10:01,1,Trump,3.639.999
+10:01,2,Réal,3.320.000
+10:01,3,Madrid,2.700.000
+10:01,4,Happy Pride,2.580.000
+10:01,5,Happy Pride Month,2.340.000
+10:01,6,Real Madrid,1.900.000
+10:01,7,Champions,1.839.999
+10:01,8,Biden,1.500.000
+10:01,9,Champions League,797.000
+10:01,10,Dortmund,750.000
+10:31,1,Trump,3.639.999
+10:31,2,Réal,3.320.000
+10:31,3,Madrid,2.700.000
+10:31,4,Happy Pride,2.580.000
+10:31,5,Happy Pride Month,2.440.000
+10:31,6,Real Madrid,1.900.000
+10:31,7,Champions,1.859.999
+10:31,8,Biden,1.500.000
+10:31,9,Champions League,797.000
+10:31,10,Dortmund,750.000
+11:01,1,Trump,3.639.999
+11:01,2,Réal,3.320.000
+11:01,3,Happy Pride,2.639.999
+11:01,4,Madrid,2.580.000
+11:01,5,Happy Pride Month,2.480.000
+11:01,6,Real Madrid,1.940.000
+11:01,7,Champions,1.900.000
+11:01,8,Biden,1.500.000
+11:01,9,Champions League,797.000
+11:01,10,Dortmund,748.000
+11:31,1,Trump,3.860.000
+11:31,2,Réal,3.300.000
+11:31,3,Happy Pride,2.639.999
+11:31,4,Madrid,2.599.999
+11:31,5,Happy Pride Month,2.480.000
+11:31,6,Real Madrid,1.940.000
+11:31,7,Champions,1.900.000
+11:31,8,Biden,1.500.000
+11:31,9,Champions League,817.000
+11:31,10,Dortmund,748.000
+12:01,1,Trump,3.860.000
+12:01,2,Réal,3.300.000
+12:01,3,Madrid,2.639.999
+12:01,4,Happy Pride,2.620.000
+12:01,5,Happy Pride Month,2.480.000
+12:01,6,Real Madrid,1.960.000
+12:01,7,Champions,1.940.000
+12:01,8,Biden,1.480.000
+12:01,9,Champions League,825.000
+12:01,10,Dortmund,745.000
+12:31,1,Pride,4.600.000
+12:31,2,Trump,3.860.000
+12:31,3,Réal,3.300.000
+12:31,4,Madrid,2.639.999
+12:31,5,Happy Pride,2.620.000
+12:31,6,Happy Pride Month,2.480.000
+12:31,7,Real Madrid,1.960.000
+12:31,8,Champions,1.940.000
+12:31,9,Biden,1.480.000
+12:31,10,Champions League,827.000
+13:01,1,Pride,4.680.000
+13:01,2,Trump,3.860.000
+13:01,3,Réal,3.360.000
+13:01,4,Madrid,2.679.999
+13:01,5,Happy Pride,2.620.000
+13:01,6,Happy Pride Month,2.460.000
+13:01,7,Real Madrid,2.000.000
+13:01,8,Champions,1.980.000
+13:01,9,Biden,1.480.000
+13:01,10,Champions League,837.000
+13:31,1,Pride,4.680.000
+13:31,2,Réal,3.400.000
+13:31,3,Trump,3.320.000
+13:31,4,Madrid,2.780.000
+13:31,5,Happy Pride,2.519.999
+13:31,6,Happy Pride Month,2.460.000
+13:31,7,Real Madrid,2.100.000
+13:31,8,Champions,2.040.000
+13:31,9,Biden,1.480.000
+13:31,10,Champions League,863.000
+14:01,1,Pride,4.680.000
+14:01,2,Trump,3.980.000
+14:01,3,Réal,3.540.000
+14:01,4,Madrid,2.900.000
+14:01,5,Happy Pride,2.580.000
+14:01,6,Happy Pride Month,2.440.000
+14:01,7,Real Madrid,2.180.000
+14:01,8,Champions,2.040.000
+14:01,9,Biden,1.460.000
+14:01,10,Champions League,885.000
+14:31,1,Pride,4.680.000
+14:31,2,Trump,3.980.000
+14:31,3,Réal,3.540.000
+14:31,4,Madrid,2.900.000
+14:31,5,Happy Pride,2.580.000
+14:31,6,Happy Pride Month,2.440.000
+14:31,7,Real Madrid,2.200.000
+14:31,8,Champions,2.120.000
+14:31,9,Biden,1.460.000
+14:31,10,Champions League,894.000
+15:01,1,Pride,4.400.000
+15:01,2,Trump,3.980.000
+15:01,3,Réal,3.559.999
+15:01,4,Madrid,2.920.000
+15:01,5,Happy Pride,2.580.000
+15:01,6,Happy Pride Month,2.400.000
+15:01,7,Real Madrid,2.260.000
+15:01,8,Champions,2.120.000
+15:01,9,Biden,1.440.000
+15:01,10,Champions League,908.000
+15:31,1,Pride,4.360.000
+15:31,2,Trump,3.980.000
+15:31,3,Réal,3.559.999
+15:31,4,Madrid,2.980.000
+15:31,5,Happy Pride,2.580.000
+15:31,6,Happy Pride Month,2.400.000
+15:31,7,Real Madrid,2.260.000
+15:31,8,Champions,2.120.000
+15:31,9,Biden,1.440.000
+15:31,10,Champions League,911.000
+16:01,1,Pride,4.360.000
+16:01,2,Trump,3.820.000
+16:01,3,Réal,3.559.999
+16:01,4,Madrid,3.059.999
+16:01,5,Happy Pride,2.500.000
+16:01,6,Real Madrid,2.320.000
+16:01,7,Happy Pride Month,2.300.000
+16:01,8,Champions,2.220.000
+16:01,9,Biden,1.359.999
+16:01,10,Champions League,923.000
+16:31,1,Pride,4.360.000
+16:31,2,Trump,3.820.000
+16:31,3,Réal,3.559.999
+16:31,4,Madrid,3.059.999
+16:31,5,Happy Pride,2.500.000
+16:31,6,Real Madrid,2.320.000
+16:31,7,Champions,2.220.000
+16:31,8,Happy Pride Month,2.200.000
+16:31,9,Champions League,923.000
+16:31,10,ดวงใจเทวพรหมSportsDay,845.000
+17:01,1,Pride,3.840.000
+17:01,2,Trump,3.820.000
+17:01,3,Réal,3.440.000
+17:01,4,Madrid,3.059.999
+17:01,5,Happy Pride,2.960.000
+17:01,6,Real Madrid,2.360.000
+17:01,7,Champions,2.220.000
+17:01,8,Happy Pride Month,2.180.000
+17:01,9,Champions League,934.000
+17:01,10,ดวงใจเทวพรหมSportsDay,889.000
+17:31,1,Pride,3.840.000
+17:31,2,Trump,3.820.000
+17:31,3,Réal,3.440.000
+17:31,4,Madrid,3.059.999
+17:31,5,Happy Pride,2.960.000
+17:31,6,Real Madrid,2.360.000
+17:31,7,Champions,2.260.000
+17:31,8,Happy Pride Month,2.100.000
+17:31,9,Champions League,934.000
+17:31,10,ดวงใจเทวพรหมSportsDay,889.000
+18:01,1,Trump,3.719.999
+18:01,2,Réal,3.420.000
+18:01,3,Madrid,3.139.999
+18:01,4,Happy Pride,2.980.000
+18:01,5,Real Madrid,2.360.000
+18:01,6,Champions,2.260.000
+18:01,7,Happy Pride Month,2.060.000
+18:01,8,Champions League,934.000
+18:01,9,ดวงใจเทวพรหมSportsDay,910.000
+18:01,10,UCLfinal,687.000
+18:31,1,Réal,3.740.000
+18:31,2,Trump,3.719.999
+18:31,3,Madrid,3.139.999
+18:31,4,Happy Pride,2.960.000
+18:31,5,Real Madrid,2.360.000
+18:31,6,Champions,2.260.000
+18:31,7,Happy Pride Month,1.980.000
+18:31,8,Champions League,938.000
+18:31,9,ดวงใจเทวพรหมSportsDay,910.000
+18:31,10,UCLfinal,687.000
+19:01,1,Trump,3.980.000
+19:01,2,Réal,3.740.000
+19:01,3,Madrid,3.139.999
+19:01,4,Happy Pride,2.620.000
+19:01,5,Real Madrid,2.360.000
+19:01,6,Champions,2.280.000
+19:01,7,Happy Pride Month,1.980.000
+19:01,8,ดวงใจเทวพรหมSportsDay,990.000
+19:01,9,Champions League,938.000
+19:01,10,Palestine,708.000
+19:31,1,Trump,3.980.000
+19:31,2,Réal,3.740.000
+19:31,3,Madrid,3.139.999
+19:31,4,Happy Pride,2.700.000
+19:31,5,Real Madrid,2.360.000
+19:31,6,Champions,2.280.000
+19:31,7,Happy Pride Month,1.980.000
+19:31,8,ดวงใจเทวพรหมSportsDay,990.000
+19:31,9,Champions League,938.000
+19:31,10,Palestine,708.000
+20:01,1,Trump,3.980.000
+20:01,2,Réal,3.740.000
+20:01,3,Madrid,3.099.999
+20:01,4,Happy Pride,2.820.000
+20:01,5,Real Madrid,2.360.000
+20:01,6,Champions,2.260.000
+20:01,7,Happy Pride Month,1.819.999
+20:01,8,ดวงใจเทวพรหมSportsDay,1.020.000
+20:01,9,Champions League,935.000
+20:01,10,Palestine,708.000
+20:31,1,Trump,3.980.000
+20:31,2,Madrid,3.099.999
+20:31,3,Happy Pride,2.820.000
+20:31,4,Real Madrid,2.360.000
+20:31,5,Champions,2.260.000
+20:31,6,Happy Pride Month,1.819.999
+20:31,7,ดวงใจเทวพรหมSportsDay,1.040.000
+20:31,8,Champions League,935.000
+20:31,9,Palestine,708.000
+20:31,10,JUNGKOOK,673.000
+21:01,1,Trump,3.860.000
+21:01,2,Madrid,3.080.000
+21:01,3,Happy Pride,2.820.000
+21:01,4,Real Madrid,2.320.000
+21:01,5,Champions,2.260.000
+21:01,6,Happy Pride Month,1.700.000
+21:01,7,ดวงใจเทวพรหมSportsDay,1.060.000
+21:01,8,Champions League,929.000
+21:01,9,Palestine,704.000
+21:01,10,JUNGKOOK,690.000
+21:31,1,Trump,3.860.000
+21:31,2,Madrid,3.080.000
+21:31,3,Happy Pride,2.820.000
+21:31,4,Real Madrid,2.320.000
+21:31,5,Champions,2.260.000
+21:31,6,Happy Pride Month,1.700.000
+21:31,7,ดวงใจเทวพรหมSportsDay,1.080.000
+21:31,8,Champions League,929.000
+21:31,9,México,712.000
+21:31,10,Palestine,704.000
+22:01,1,Trump,3.740.000
+22:01,2,Pride,3.219.999
+22:01,3,Madrid,2.960.000
+22:01,4,Happy Pride,2.600.000
+22:01,5,Real Madrid,2.260.000
+22:01,6,Champions,2.200.000
+22:01,7,Happy Pride Month,1.580.000
+22:01,8,ดวงใจเทวพรหมSportsDay,1.080.000
+22:01,9,México,747.000
+22:01,10,JUNGKOOK,710.000
+22:31,1,Pride,3.920.000
+22:31,2,Trump,3.740.000
+22:31,3,Madrid,2.960.000
+22:31,4,Happy Pride,2.520.000
+22:31,5,Real Madrid,2.260.000
+22:31,6,Champions,2.200.000
+22:31,7,Happy Pride Month,1.580.000
+22:31,8,ดวงใจเทวพรหมSportsDay,1.080.000
+22:31,9,México,747.000
+22:31,10,JUNGKOOK,715.000
+23:01,1,Pride,3.920.000
+23:01,2,Trump,3.740.000
+23:01,3,Madrid,2.719.999
+23:01,4,Happy Pride,2.520.000
+23:01,5,Real Madrid,2.120.000
+23:01,6,Champions,2.100.000
+23:01,7,Happy Pride Month,1.460.000
+23:01,8,ดวงใจเทวพรหมSportsDay,1.100.000
+23:01,9,México,790.000
+23:01,10,JUNGKOOK,726.000
+23:31,1,Pride,3.920.000
+23:31,2,Trump,3.880.000
+23:31,3,Madrid,2.719.999
+23:31,4,Happy Pride,2.520.000
+23:31,5,Real Madrid,2.120.000
+23:31,6,Champions,2.100.000
+23:31,7,Happy Pride Month,1.460.000
+23:31,8,ดวงใจเทวพรหมSportsDay,1.100.000
+23:31,9,México,790.000
+23:31,10,JUNGKOOK,729.000

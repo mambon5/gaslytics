@@ -1,0 +1,431 @@
+hora,posicio,trend,volum
+01:39,1,CuidemosTodosDeTodos,15.461
+01:39,2,EndSARS,1.870.358
+01:39,3,GFVIP,147.841
+01:39,4,LindseyGrahamHasCovid,34.511
+01:39,5,hatayyaniyor,21.121
+01:39,6,Bob Dole,22.598
+01:39,7,Hillary,366.109
+01:39,8,Lapadula,
+01:39,9,Pompeo,158.482
+01:39,10,Marcus Rashford,19.955
+03:09,1,CuidemosTodosDeTodos,22.620
+03:09,2,Marquinhos,10.905
+03:09,3,Arias,41.093
+03:09,4,SmackDown,40.540
+03:09,5,Bolívia,102.313
+03:09,6,Cebolinha,
+03:09,7,Firmino,10.043
+03:09,8,Muriel,16.927
+03:09,9,Neymar,30.688
+03:09,10,ダイの大冒険,14.804
+03:39,1,CuidemosTodosDeTodos,24.084
+03:39,2,LakeShow,60.220
+03:39,3,SmackDown,55.292
+03:39,4,Bolívia,113.297
+03:39,5,Neymar,36.922
+03:39,6,Arias,44.472
+03:39,7,Marquinhos,11.990
+03:39,8,Dwight,20.913
+03:39,9,Cebolinha,
+03:39,10,Firmino,12.768
+04:09,1,Neymar,53.472
+04:09,2,Firmino,21.135
+04:09,3,Bolívia,120.147
+04:09,4,LakeShow,64.098
+04:09,5,Coutinho,20.394
+04:09,6,CuidemosTodosDeTodos,25.274
+04:09,7,SmackDown,64.500
+04:09,8,Achilles,15.165
+04:09,9,Cebolinha,10.792
+04:09,10,Arias,47.299
+04:39,1,Neymar,73.069
+04:39,2,Chapman,26.824
+04:39,3,Bolívia,133.667
+04:39,4,Yankees,136.032
+04:39,5,LakeShow,68.042
+04:39,6,Firmino,22.937
+04:39,7,Coutinho,24.575
+04:39,8,CuidemosTodosDeTodos,26.589
+04:39,9,Kuzma,15.966
+04:39,10,Everton Ribeiro,22.741
+05:09,1,Kuzma,49.845
+05:09,2,Lebron,247.983
+05:09,3,Neymar,79.724
+05:09,4,Yankees,162.622
+05:09,5,NBAFinals,92.361
+05:09,6,Chapman,35.444
+05:09,7,Duncan Robinson,10.762
+05:09,8,Dwight,34.006
+05:09,9,Bolívia,138.665
+05:09,10,LakeShow,71.654
+05:39,1,Lebron,314.839
+05:39,2,Lakers,370.134
+05:39,3,NBAFinals,128.140
+05:39,4,Danny Green,30.435
+05:39,5,Kuzma,59.795
+05:39,6,Butler,94.155
+05:39,7,Neymar,83.070
+05:39,8,LakeShow,83.127
+05:39,9,Duncan Robinson,18.215
+05:39,10,Yankees,172.933
+06:09,1,Danny Green,287.180
+06:09,2,Lebron,420.870
+06:09,3,Lakers,477.974
+06:09,4,Morris,127.563
+06:09,5,NBAFinals,174.923
+06:09,6,Jimmy Butler,115.190
+06:09,7,Kuzma,79.000
+06:09,8,Heat,266.372
+06:09,9,Game 6,80.171
+06:09,10,Duncan Robinson,26.186
+06:39,1,Danny Green,353.816
+06:39,2,Lebron,462.482
+06:39,3,Lakers,509.234
+06:39,4,Morris,146.556
+06:39,5,NBAFinals,186.473
+06:39,6,Jimmy Butler,133.046
+06:39,7,Kuzma,85.503
+06:39,8,Heat,286.510
+06:39,9,Duncan Robinson,30.234
+06:39,10,Kobe,138.516
+07:09,1,Danny Green,385.965
+07:09,2,Lebron,481.139
+07:09,3,Lakers,521.177
+07:09,4,Morris,153.585
+07:09,5,NBAFinals,192.363
+07:09,6,Jimmy Butler,143.485
+07:09,7,Kuzma,87.916
+07:09,8,Heat,292.318
+07:09,9,Kobe,142.609
+07:09,10,Duncan Robinson,32.137
+07:39,1,Danny Green,404.662
+07:39,2,Lebron,494.762
+07:39,3,Lakers,531.523
+07:39,4,Morris,158.834
+07:39,5,NBAFinals,198.080
+07:39,6,Jimmy Butler,151.361
+07:39,7,Kuzma,89.566
+07:39,8,Heat,298.844
+07:39,9,Game 6,96.903
+07:39,10,Kobe,146.687
+08:09,1,Danny Green,417.802
+08:09,2,Lebron,503.197
+08:09,3,Lakers,536.349
+08:09,4,Morris,161.874
+08:09,5,NBAFinals,201.213
+08:09,6,Jimmy Butler,156.347
+08:09,7,Heat,301.410
+08:09,8,Kuzma,91.012
+08:09,9,Game 6,98.789
+08:09,10,Kobe,148.404
+08:39,1,Danny Green,428.412
+08:39,2,Lebron,519.792
+08:39,3,Lakers,541.889
+08:39,4,Morris,164.523
+08:39,5,NBAFinals,204.244
+08:39,6,Jimmy Butler,160.366
+08:39,7,Heat,314.755
+08:39,8,Kuzma,92.141
+08:39,9,PHBLINKsLightUpTheSky,78.965
+08:39,10,BLACKPINKLightUpTheSky,75.063
+09:09,1,Danny Green,436.675
+09:09,2,Lebron,529.439
+09:09,3,Lakers,544.581
+09:09,4,Morris,166.175
+09:09,5,NBAFinals,206.699
+09:09,6,Jimmy Butler,163.579
+09:09,7,WorldMentalHealthDay,141.465
+09:09,8,PHBLINKsLightUpTheSky,107.203
+09:09,9,BLACKPINKLightUpTheSky,101.555
+09:09,10,GlobeKmmunityPH,112.707
+09:39,1,Danny Green,443.852
+09:39,2,Lebron,537.489
+09:39,3,Lakers,548.283
+09:39,4,WorldMentalHealthDay,156.173
+09:39,5,Morris,167.976
+09:39,6,NBAFinals,209.161
+09:39,7,MapOfTheSoulOne,183.015
+09:39,8,PHBLINKsLightUpTheSky,125.885
+09:39,9,BLACKPINKLightUpTheSky,119.022
+09:39,10,Jimmy Butler,166.091
+10:09,1,WorldMentalHealthDay,171.247
+10:09,2,Danny Green,448.671
+10:09,3,Lebron,542.258
+10:09,4,MapOfTheSoulOne,199.037
+10:09,5,Lakers,549.965
+10:09,6,Morris,169.170
+10:09,7,PHBLINKsLightUpTheSky,136.675
+10:09,8,BLACKPINKLightUpTheSky,129.059
+10:09,9,ひな図書,14.712
+10:09,10,Jimmy Butler,168.283
+10:39,1,WorldMentalHealthDay,189.253
+10:39,2,MapOfTheSoulOne,223.680
+10:39,3,Danny Green,453.314
+10:39,4,TharnType2Teaser,119.903
+10:39,5,Dynamite18thWin,48.022
+10:39,6,Lebron,547.772
+10:39,7,キンプリランド,21.277
+10:39,8,Lakers,552.610
+10:39,9,Morris,170.598
+10:39,10,横浜優勝,
+11:09,1,WorldMentalHealthDay,207.684
+11:09,2,MapOfTheSoulOne,259.230
+11:09,3,半妖の夜叉姫,20.809
+11:09,4,TharnType2Teaser,169.361
+11:09,5,Danny Green,457.466
+11:09,6,Dynamite18thWin,66.808
+11:09,7,Lakers,553.726
+11:09,8,Lebron,551.452
+11:09,9,横浜優勝,
+11:09,10,kiel,19.266
+11:39,1,MapOfTheSoulOne,311.008
+11:39,2,WorldMentalHealthDay,226.415
+11:39,3,LOSTWORLD_DAY1,24.508
+11:39,4,EndSARS,2.472.511
+11:39,5,半妖の夜叉姫,24.117
+11:39,6,Danny Green,460.936
+11:39,7,kiel,24.188
+11:39,8,横浜優勝,
+11:39,9,警察学校組,
+11:39,10,RefundSisters_Debut,61.867
+12:09,1,MapOfTheSoulOne,392.331
+12:09,2,LOSTWORLD_DAY1,52.596
+12:09,3,WorldMentalHealthDay,243.700
+12:09,4,EndSARS,2.805.581
+12:09,5,RefundSisters_Debut,73.452
+12:09,6,Lakers,556.673
+12:09,7,Lebron,558.221
+12:09,8,警察学校組,
+12:09,9,Danny Green,464.238
+12:09,10,Kiel,27.706
+12:39,1,MapOfTheSoulOne,548.771
+12:39,2,LOSTWORLD_DAY1,109.755
+12:39,3,WorldMentalHealthDay,261.385
+12:39,4,HOSEOK,148.696
+12:39,5,YOONGIS,10.820
+12:39,6,JOON,59.083
+12:39,7,キスマイANNP,26.516
+12:39,8,東方25年,
+12:39,9,JIMINS,11.345
+12:39,10,Lakers,558.656
+13:09,1,MapOfTheSoulOne,719.178
+13:09,2,LOSTWORLD_DAY1,174.329
+13:09,3,WorldMentalHealthDay,276.738
+13:09,4,PARK JIMIN,98.883
+13:09,5,JUNGKOOKS,26.445
+13:09,6,東方25年,14.051
+13:09,7,YOONGIS,14.277
+13:09,8,HatayYanıyor,77.354
+13:09,9,JOON,59.629
+13:09,10,JIMINS,19.805
+13:39,1,MapOfTheSoulOne,938.323
+13:39,2,LOSTWORLD_DAY1,237.459
+13:39,3,WorldMentalHealthDay,294.179
+13:39,4,HOBI,148.955
+13:39,5,PARK JIMIN,163.507
+13:39,6,HatayYanıyor,97.560
+13:39,7,東方25年,20.021
+13:39,8,JEON JUNGKOOK,55.907
+13:39,9,MIN YOONGI,62.976
+13:39,10,INNER CHILD,154.267
+14:09,1,MapOfTheSoulOne,1.088.576
+14:09,2,LOSTWORLD_DAY1,286.133
+14:09,3,WorldMentalHealthDay,308.760
+14:09,4,HatayYanıyor,118.727
+14:09,5,PARK JIMIN,199.628
+14:09,6,東方25年,29.719
+14:09,7,MY TIME,828.903
+14:09,8,INNER CHILD,190.329
+14:09,9,joon,63.860
+14:09,10,MIN YOONGI,67.763
+14:39,1,MapOfTheSoulOne,1.277.401
+14:39,2,LOSTWORLD_DAY1,294.241
+14:39,3,WorldMentalHealthDay,326.804
+14:39,4,HatayYanıyor,140.450
+14:39,5,PARK JIMIN,252.767
+14:39,6,東方25年,42.641
+14:39,7,鬼滅の刃,122.436
+14:39,8,joon,79.223
+14:39,9,JEON JUNGKOOK,81.934
+14:39,10,SEOKJIN,341.387
+15:09,1,MapOfTheSoulOne,1.599.338
+15:09,2,WorldMentalHealthDay,344.693
+15:09,3,HatayYanıyor,160.587
+15:09,4,WeAreNotSevenWithYou,65.678
+15:09,5,PARK JIMIN,353.558
+15:09,6,LOSTWORLD_DAY1,297.643
+15:09,7,鬼滅の刃,134.060
+15:09,8,WE LOVE YOU JIMIN,56.499
+15:09,9,joon,91.760
+15:09,10,JEON JUNGKOOK,112.719
+15:39,1,MapOfTheSoulOne,1.772.661
+15:39,2,WorldMentalHealthDay,365.676
+15:39,3,gochiusa,99.853
+15:39,4,WeAreNotSevenWithYou,87.607
+15:39,5,HatayYanıyor,178.821
+15:39,6,鬼滅の刃,153.333
+15:39,7,PARK JIMIN,409.247
+15:39,8,namjoon,350.110
+15:39,9,DX日輪刀,
+15:39,10,鱗滝さん,
+16:09,1,MapOfTheSoulOne,1.952.161
+16:09,2,シブヤノオト,47.894
+16:09,3,虹ヶ咲,122.091
+16:09,4,WorldMentalHealthDay,384.901
+16:09,5,鬼滅の刃,169.707
+16:09,6,HatayıPKKYaktı,53.844
+16:09,7,PARK JIMIN,444.229
+16:09,8,namjoon,369.219
+16:09,9,鱗滝さん,14.486
+16:09,10,DX日輪刀,
+16:39,1,MapOfTheSoulOne,2.049.974
+16:39,2,シブヤノオト,71.876
+16:39,3,鬼滅の刃,211.019
+16:39,4,WorldMentalHealthDay,408.777
+16:39,5,HatayıPKKYaktı,65.199
+16:39,6,虹ヶ咲,142.098
+16:39,7,jungkook,1.048.431
+16:39,8,PARK JIMIN,471.904
+16:39,9,鱗滝さん,16.916
+16:39,10,Hobi,201.960
+17:09,1,MapOfTheSoulOne,2.114.677
+17:09,2,シブヤノオト,78.820
+17:09,3,SixTONESANN,98.923
+17:09,4,HatayıPKKYaktı,76.980
+17:09,5,WorldMentalHealthDay,445.749
+17:09,6,鬼滅の刃,224.088
+17:09,7,jungkook,1.089.787
+17:09,8,PARK JIMIN,491.327
+17:09,9,HEIZE,
+17:09,10,鱗滝さん,18.059
+17:39,1,シブヤノオト,90.154
+17:39,2,MissUniverseThailand2020,286.374
+17:39,3,SixTONESANN,147.410
+17:39,4,WorldMentalHealthDay,477.042
+17:39,5,MapOfTheSoulOne,2.172.694
+17:39,6,鬼滅の刃,234.350
+17:39,7,HEIZE,17.694
+17:39,8,jungkook,1.144.359
+17:39,9,DAHYUN,47.111
+17:39,10,Park Jimin,510.585
+18:09,1,MissUniverseThailand2020,500.060
+18:09,2,シブヤノオト,96.951
+18:09,3,SixTONESANN,210.174
+18:09,4,WorldMentalHealthDay,500.311
+18:09,5,hatayyaniyor,254.320
+18:09,6,鬼滅の刃,239.511
+18:09,7,Heize,23.213
+18:09,8,HatayıPKKYaktı,99.262
+18:09,9,神様になった日,48.303
+18:09,10,MapOfTheSoulOne,2.218.214
+18:39,1,MissUniverseThailand2020,661.147
+18:39,2,WorldMentalHealthDay,524.381
+18:39,3,hatayyaniyor,269.352
+18:39,4,シブヤノオト,100.253
+18:39,5,SixTONESANN,212.617
+18:39,6,Kyle Pitts,
+18:39,7,鬼滅の刃,243.903
+18:39,8,HEIZE,27.010
+18:39,9,DAHYUN,57.254
+18:39,10,HatayıPKKYaktı,113.169
+19:09,1,MissUniverseThailand2020,749.448
+19:09,2,WorldMentalHealthDay,544.435
+19:09,3,hatayyaniyor,282.659
+19:09,4,シブヤノオト,105.327
+19:09,5,SixTONESANN,213.225
+19:09,6,Kyle Pitts,
+19:09,7,鬼滅の刃,246.218
+19:09,8,HEIZE,28.880
+19:09,9,Spencer Rattler,
+19:09,10,DAHYUN,58.946
+19:39,1,WorldMentalHealthDay,566.888
+19:39,2,hatayyaniyor,294.911
+19:39,3,MissUniverseThailand2020,807.066
+19:39,4,HatayiPkkYakti,136.527
+19:39,5,CSKvsRCB,39.409
+19:39,6,Spencer Rattler,
+19:39,7,Kyle Pitts,
+19:39,8,Texas,331.850
+19:39,9,HEIZE,30.402
+19:39,10,鬼滅の刃,248.308
+20:09,1,WorldMentalHealthDay,586.639
+20:09,2,hatayyaniyor,306.509
+20:09,3,CSKvRCB,81.006
+20:09,4,HatayiPkkYakti,147.699
+20:09,5,MissUniverseThailand2020,846.194
+20:09,6,Rattler,
+20:09,7,Texas,326.138
+20:09,8,Kyle Pitts,
+20:09,9,Jimoh Isiaq,219.396
+20:09,10,上海ハニー,
+20:39,1,WorldMentalHealthDay,609.636
+20:39,2,hatayyaniyor,318.373
+20:39,3,CSKvRCB,89.604
+20:39,4,HatayiPkkYakti,157.786
+20:39,5,atesincocukları,15.708
+20:39,6,Texas A&M,11.084
+20:39,7,Jimoh Isiaq,277.767
+20:39,8,Rattler,
+20:39,9,Uribe,154.993
+20:39,10,Mizzou,
+21:09,1,WorldMentalHealthDay,628.940
+21:09,2,hatayyaniyor,328.343
+21:09,3,HatayiPkkYakti,168.546
+21:09,4,CSKvRCB,93.618
+21:09,5,atesincocukları,17.706
+21:09,6,Texas,331.722
+21:09,7,Jimoh Isiaq,331.072
+21:09,8,Uribe,159.808
+21:09,9,Mizzou,
+21:09,10,Candace Owens,25.873
+21:39,1,WorldMentalHealthDay,652.030
+21:39,2,Léo Pereira,
+21:39,3,hatayyaniyor,339.634
+21:39,4,HatayiPkkYakti,179.739
+21:39,5,Mizzou,
+21:39,6,Texas A&M,17.164
+21:39,7,widm,
+21:39,8,atesincocukları,19.775
+21:39,9,Jimbo,16.064
+21:39,10,Gators,14.535
+22:09,1,Texas,338.923
+22:09,2,Léo Pereira,12.320
+22:09,3,WorldMentalHealthDay,669.992
+22:09,4,Mizzou,15.040
+22:09,5,hatayyaniyor,345.117
+22:09,6,HatayiPkkYakti,191.012
+22:09,7,bgtfinal,
+22:09,8,Florida,372.199
+22:09,9,Gus Johnson,
+22:09,10,widm,
+22:39,1,Léo Pereira,20.946
+22:39,2,bgtfinal,
+22:39,3,Texas,360.226
+22:39,4,WorldMentalHealthDay,688.373
+22:39,5,Oklahoma,32.277
+22:39,6,Mizzou,16.654
+22:39,7,hatayyaniyor,354.088
+22:39,8,HatayiPkkYakti,200.056
+22:39,9,Natan,11.018
+22:39,10,RedRiverShootOut,
+23:09,1,Léo Pereira,33.688
+23:09,2,Texas,369.319
+23:09,3,900kTrajeados,25.314
+23:09,4,bgtfinal,
+23:09,5,RedRiverShootOut,
+23:09,6,Oklahoma,38.868
+23:09,7,Arão,13.851
+23:09,8,WorldMentalHealthDay,705.512
+23:09,9,Gerson,16.356
+23:09,10,Gus Johnson,
+23:39,1,Flamengo,207.871
+23:39,2,Léo Pereira,45.119
+23:39,3,900kTrajeados,39.230
+23:39,4,Texas,380.338
+23:39,5,Bruno Henrique,30.674
+23:39,6,bgtfinal,11.120
+23:39,7,Arão,16.175
+23:39,8,RedRiverShootOut,
+23:39,9,Fernando Miguel,
+23:39,10,Taliban,78.477

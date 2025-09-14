@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:03,1,BHACHE,115.920
+00:03,2,Reece James,32.753
+00:03,3,Werner,96.803
+00:03,4,GFVIP,65.937
+00:03,5,الهلال_بختاكور,175.144
+00:03,6,Loftus,32.062
+00:03,7,Lamptey,36.167
+00:03,8,Kepa,42.985
+00:03,9,RIPJKRowling,71.869
+00:03,10,Venus,311.590
+00:33,1,BHACHE,118.536
+00:33,2,Chelsea,244.236
+00:33,3,GFVIP,79.003
+00:33,4,Reece James,34.908
+00:33,5,Havertz,112.231
+00:33,6,الهلال_بختاكور,182.088
+00:33,7,Loftus,33.541
+00:33,8,Lamptey,37.860
+00:33,9,RIPJKRowling,76.574
+00:33,10,Venus,319.817
+01:08,1,BHACHE,120.417
+01:08,2,Chelsea,248.814
+01:08,3,GFVIP,85.722
+01:08,4,Reece James,36.783
+01:08,5,Paul Rudd,36.520
+01:08,6,RIPJKRowling,81.599
+01:08,7,Werner,102.570
+01:08,8,Venus,327.275
+01:08,9,الهلال_بختاكور,188.029
+01:08,10,Loftus,34.483
+01:33,1,Steelers,68.264
+01:33,2,HereWeGo,24.233
+01:33,3,Giants,78.010
+01:33,4,BHACHE,122.513
+01:33,5,GFVIP,89.288
+01:33,6,Paul Rudd,40.602
+01:33,7,Chelsea,252.664
+01:33,8,RIPJKRowling,85.093
+01:33,9,Reece James,37.614
+01:33,10,Venus,335.933
+02:08,1,SalarioRosa,39.039
+02:08,2,Steelers,84.355
+02:08,3,Thiago Neves,
+02:08,4,HereWeGo,27.648
+02:08,5,Daniel Jones,
+02:08,6,TJ Watt,
+02:08,7,Danny Dimes,
+02:08,8,PITvsNYG,
+02:08,9,DWTS,
+02:08,10,Paul Rudd,45.564
+02:33,1,SalarioRosa,49.310
+02:33,2,Thiago Neves,22.367
+02:33,3,DWTS,12.501
+02:33,4,Steelers,92.395
+02:33,5,Giants,96.297
+02:33,6,Saquon,14.569
+02:33,7,LoveYouReborn,11.843
+02:33,8,HereWeGo,29.231
+02:33,9,Daniel Jones,
+02:33,10,PITvsNYG,10.189
+03:03,1,Thiago Neves,43.427
+03:03,2,SalarioRosa,59.634
+03:03,3,DWTS,20.045
+03:03,4,Steelers,101.844
+03:03,5,Giants,100.408
+03:03,6,LoveYouReborn,20.910
+03:03,7,HereWeGo,32.181
+03:03,8,WWERaw,19.770
+03:03,9,Cazares,
+03:03,10,Daniel Jones,
+03:33,1,Thiago Neves,62.099
+03:33,2,SalarioRosa,68.206
+03:33,3,DWTS,27.439
+03:33,4,Daniel Jones,14.705
+03:33,5,Giants,111.213
+03:33,6,WWERaw,27.574
+03:33,7,NCT 2020,77.258
+03:33,8,LoveYouReborn,26.771
+03:33,9,Big Ben,12.878
+03:33,10,HereWeGo,34.542
+04:08,1,Thiago Neves,81.025
+04:08,2,SalarioRosa,76.905
+04:08,3,DWTS,37.313
+04:08,4,NCT 2020,179.818
+04:08,5,Daniel Jones,16.266
+04:08,6,Steelers,126.861
+04:08,7,WWERaw,35.626
+04:08,8,HereWeGo,39.634
+04:08,9,LoveYouReborn,29.576
+04:08,10,Kanye,58.500
+04:33,1,Thiago Neves,87.628
+04:33,2,SalarioRosa,86.320
+04:33,3,DWTS,40.344
+04:33,4,NCT 2020,245.791
+04:33,5,Giants,130.220
+04:33,6,ProvaDeFogo,10.544
+04:33,7,HereWeGo,45.717
+04:33,8,WWERaw,41.910
+04:33,9,Big Ben,18.633
+04:33,10,Saquon,29.483
+05:03,1,SalarioRosa,99.079
+05:03,2,bucciovertimechallenge,
+05:03,3,Thiago Neves,92.461
+05:03,4,DWTS,42.463
+05:03,5,NCT 2020,314.454
+05:03,6,ProvaDeFogo,19.914
+05:03,7,Giants,131.729
+05:03,8,CavaniEnGrêmio,23.940
+05:03,9,Drew Lock,
+05:03,10,Kanye,62.886
+05:33,1,SalarioRosa,108.725
+05:33,2,Thiago Neves,95.298
+05:33,3,bucciovertimechallenge,
+05:33,4,GoStars,29.851
+05:33,5,NCT 2020,369.831
+05:33,6,DWTS,44.261
+05:33,7,ProvaDeFogo,22.281
+05:33,8,Giants,134.585
+05:33,9,Drew Lock,
+05:33,10,Big Ben,20.936
+06:03,1,SalarioRosa,115.493
+06:03,2,Thiago Neves,97.015
+06:03,3,bucciovertimechallenge,
+06:03,4,GoStars,32.997
+06:03,5,NCT 2020,418.885
+06:03,6,DWTS,45.614
+06:03,7,cavaniENgremio,38.489
+06:03,8,Giants,135.007
+06:03,9,Drew Lock,10.630
+06:03,10,Broncos,49.902
+06:33,1,SalarioRosa,119.299
+06:33,2,bucciovertimechallenge,
+06:33,3,Gostkowski,
+06:33,4,Thiago Neves,98.155
+06:33,5,Titans,95.869
+06:33,6,nct 2020,464.790
+06:33,7,GoStars,34.813
+06:33,8,cavaniENgremio,43.346
+06:33,9,DWTS,46.815
+06:33,10,Broncos,53.715
+07:03,1,Gostkowski,24.691
+07:03,2,Titans,112.571
+07:03,3,SalarioRosa,121.497
+07:03,4,bucciovertimechallenge,
+07:03,5,NCT 2020,508.963
+07:03,6,cavaniENgremio,46.614
+07:03,7,GoStars,36.138
+07:03,8,EngineersDay,46.785
+07:03,9,Thiago Neves,98.806
+07:03,10,岸部四郎,
+07:33,1,Gostkowski,35.930
+07:33,2,Broncos,70.815
+07:33,3,SalarioRosa,122.497
+07:33,4,EngineersDay,53.069
+07:33,5,Fangio,
+07:33,6,bucciovertimechallenge,
+07:33,7,NCT 2020,546.191
+07:33,8,cavaniENgremio,48.654
+07:33,9,PedoTrump,64.811
+07:33,10,岸部四郎,17.116
+08:03,1,Gostkowski,39.168
+08:03,2,Broncos,74.808
+08:03,3,EngineersDay,59.439
+08:03,4,SalarioRosa,122.909
+08:03,5,NCT 2020,580.612
+08:03,6,bucciovertimechallenge,
+08:03,7,PedoTrump,77.664
+08:03,8,岸部四郎,22.690
+08:03,9,cavaniENgremio,49.913
+08:03,10,Jeudy,14.320
+08:33,1,Gostkowski,40.040
+08:33,2,Broncos,76.022
+08:33,3,EngineersDay,64.569
+08:33,4,17xPINKSWEATS,27.267
+08:33,5,JayaBachchan,17.072
+08:33,6,SalarioRosa,123.231
+08:33,7,NCT 2020,608.966
+08:33,8,岸部四郎,26.256
+08:33,9,TuesdayThoughts,15.991
+08:33,10,Jeudy,14.847
+09:08,1,Gostkowski,40.768
+09:08,2,JayaBachchan,28.862
+09:08,3,EngineersDay2020,26.286
+09:08,4,17xPINKSWEATS,37.559
+09:08,5,Fangio,11.415
+09:08,6,TuesdayThoughts,18.578
+09:08,7,salı,
+09:08,8,NCT 2020,637.948
+09:08,9,岸部四郎,28.956
+09:08,10,TvitimGt Açıldı,
+09:33,1,JayaBachchan,39.405
+09:33,2,Gostkowski,41.094
+09:33,3,EngineersDay2020,28.900
+09:33,4,17xPINKSWEATS,42.544
+09:33,5,salı,
+09:33,6,TuesdayThoughts,20.009
+09:33,7,NCT 2020,656.338
+09:33,8,岸部四郎,30.404
+09:33,9,Fangio,11.527
+09:33,10,TvitimGt Açıldı,
+10:03,1,JayaBachchan,51.722
+10:03,2,EngineersDay2020,32.025
+10:03,3,Gostkowski,41.383
+10:03,4,17xPINKSWEATS,46.279
+10:03,5,声優アワード,
+10:03,6,salı,
+10:03,7,岸部四郎,31.902
+10:03,8,Fangio,11.634
+10:03,9,NCT 2020,677.141
+10:03,10,TvitimGt Açıldı,
+10:33,1,JayaBachchan,62.980
+10:33,2,EngineersDay2020,34.793
+10:33,3,声優アワード,
+10:33,4,17xPINKSWEATS,48.801
+10:33,5,Gostkowski,41.590
+10:33,6,PraewxBamBam,86.232
+10:33,7,アラフェス,
+10:33,8,岸部四郎,33.508
+10:33,9,NCT 2020,696.352
+10:33,10,Suna Kıraç,
+11:03,1,JayaBachchan,74.569
+11:03,2,アラフェス,17.993
+11:03,3,EngineersDay2020,36.988
+11:03,4,声優アワード,
+11:03,5,おじさん文章ジェネレーター,
+11:03,6,ırkcıKadınTutuklansın,22.304
+11:03,7,Gostkowski,41.771
+11:03,8,IU BEST GIRL,
+11:03,9,情報過多,
+11:03,10,オリジナルアルバム,
+11:33,1,JayaBachchan,86.829
+11:33,2,おじさん文章ジェネレーター,
+11:33,3,초이스,19.913
+11:33,4,アラフェス,24.354
+11:33,5,声優アワード,
+11:33,6,EngineersDay,87.109
+11:33,7,السلطان_هيثم_بن_طارق,
+11:33,8,IU BEST GIRL,
+11:33,9,Teşekkürler Twitkep,
+11:33,10,Gostkowski,42.020
+12:03,1,JayaBachchan,98.907
+12:03,2,おじさん文章ジェネレーター,
+12:03,3,アラフェス,29.048
+12:03,4,초이스,21.110
+12:03,5,声優アワード,
+12:03,6,السلطان_هيثم_بن_طارق,
+12:03,7,EngineersDay,89.985
+12:03,8,IU BEST GIRL,11.165
+12:03,9,六角家,
+12:03,10,ライビュ,
+12:33,1,AppleEvent,25.510
+12:33,2,おじさん文章ジェネレーター,
+12:33,3,JayaBachchan,109.873
+12:33,4,声優アワード,
+12:33,5,アラフェス,32.614
+12:33,6,IU BEST GIRL,14.118
+12:33,7,السلطان_هيثم_بن_طارق,
+12:33,8,초이스,21.607
+12:33,9,六角家,
+12:33,10,情報過多,
+13:03,1,AppleEvent,33.741
+13:03,2,おじさん文章ジェネレーター,
+13:03,3,JayaBachchan,120.323
+13:03,4,IU BEST GIRL,17.461
+13:03,5,声優アワード,
+13:03,6,DefolCengiz,
+13:03,7,アラフェス,35.379
+13:03,8,ヌッパン,
+13:03,9,초이스,21.626
+13:03,10,六角家,
+13:33,1,AppleEvent,49.231
+13:33,2,うたコン,13.392
+13:33,3,おじさん文章ジェネレーター,
+13:33,4,JayaBachchan,130.478
+13:33,5,教えてもらう前と後,12.018
+13:33,6,IU BEST GIRL,20.550
+13:33,7,ヌッパン,
+13:33,8,アラフェス,37.488
+13:33,9,六角家,10.486
+13:33,10,スパンジー,
+14:03,1,AppleEvent,70.425
+14:03,2,うたコン,19.131
+14:03,3,おじさん文章ジェネレーター,
+14:03,4,DefolCengiz,14.657
+14:03,5,教えてもらう前と後,14.804
+14:03,6,IU BEST GIRL,23.803
+14:03,7,ニュース速報,16.490
+14:03,8,れおほー,
+14:03,9,スパンジー,
+14:03,10,ヌッパン,
+14:34,1,AppleEvent,98.340
+14:34,2,おじさん文章ジェネレーター,10.595
+14:34,3,うたコン,21.115
+14:34,4,1CollaXMewSuppasit,129.594
+14:34,5,マジック点灯,16.089
+14:34,6,DefolCengiz,16.889
+14:34,7,IU BEST GIRL,27.021
+14:34,8,うさほー,
+14:34,9,타르트,
+14:34,10,こいほー,
+15:04,1,AppleEvent,128.286
+15:04,2,おじさん文章ジェネレーター,11.769
+15:04,3,1CollaXMewSuppasit,185.594
+15:04,4,FelizMartes,16.575
+15:04,5,DefolCengiz,19.271
+15:04,6,マジック点灯,21.031
+15:04,7,横浜優勝,
+15:04,8,IU BEST GIRL,29.642
+15:04,9,菅野11連勝,
+15:04,10,うさほー,
+15:34,1,AppleEvent,162.424
+15:34,2,カネ恋,35.560
+15:34,3,ImTeeMeTooMediacon,14.866
+15:34,4,BrightWinInboxEP4,153.818
+15:34,5,おカネの切れ目が恋のはじまり,11.393
+15:34,6,マジック点灯,24.112
+15:34,7,IU BEST GIRL,31.716
+15:34,8,横浜優勝,
+15:34,9,菅野11連勝,
+15:34,10,うさほー,
+16:04,1,AppleEvent,196.702
+16:04,2,カネ恋,48.039
+16:04,3,竜の道,26.023
+16:04,4,BrightWinInboxEP4,271.854
+16:04,5,ImTeeMeTooMediacon,24.732
+16:04,6,マジック点灯,26.292
+16:04,7,IU BEST GIRL,34.097
+16:04,8,横浜優勝,
+16:04,9,Viva México,18.578
+16:04,10,菅野11連勝,
+16:34,1,AppleEvent,230.215
+16:34,2,カネ恋,69.158
+16:34,3,ImTeeMeTooMediacon,40.350
+16:34,4,TheMandalorian,33.375
+16:34,5,竜の道,27.846
+16:34,6,Viva México,21.028
+16:34,7,IU BEST GIRL,36.718
+16:34,8,Renda Brasil,
+16:34,9,マジック点灯,27.985
+16:34,10,Hagrid,13.733
+17:04,1,AppleEvent,264.315
+17:04,2,カネ恋,75.753
+17:04,3,TheMandalorian,53.444
+17:04,4,ImTeeMeTooMediacon,47.599
+17:04,5,FelizMartes,25.170
+17:04,6,Viva México,24.046
+17:04,7,Sasha Banks,
+17:04,8,Renda Brasil,
+17:04,9,IU BEST GIRL,38.905
+17:04,10,Hagrid,14.882
+17:34,1,AppleEvent,298.897
+17:34,2,TheMandalorian,67.056
+17:34,3,カネ恋,79.341
+17:34,4,AubaSigns,12.728
+17:34,5,JAKENCHV,24.994
+17:34,6,Viva México,28.193
+17:34,7,Sasha Banks,
+17:34,8,My Captain,
+17:34,9,Ahsoka,
+17:34,10,Liella,
+18:04,1,AppleEvent,331.023
+18:04,2,TheMandalorian,77.366
+18:04,3,AubaSigns,16.117
+18:04,4,TWICE3_TBTIED,17.877
+18:04,5,カネ恋,81.636
+18:04,6,Viva México,32.012
+18:04,7,iPhone 12,35.163
+18:04,8,My Captain,
+18:04,9,Sasha Banks,
+18:04,10,Cavani,43.448
+18:34,1,AppleEvent,362.836
+18:34,2,BlueberryEyesMVOutNow,98.485
+18:34,3,TheMandalorian,85.912
+18:34,4,AubaSigns,18.423
+18:34,5,TWICE3_TBTIED,19.913
+18:34,6,Viva México,36.407
+18:34,7,Jim Cramer,18.094
+18:34,8,Cavani,45.868
+18:34,9,My Captain,
+18:34,10,Hidiv Kasrı,
+19:04,1,AppleEvent,405.528
+19:04,2,BlueberryEyesMVOutNow,142.743
+19:04,3,TheMandalorian,92.568
+19:04,4,AubaSigns,20.024
+19:04,5,TWICE3_TBTIED,20.969
+19:04,6,Viva México,41.008
+19:04,7,Jim Cramer,28.075
+19:04,8,Gallardo,12.005
+19:04,9,yoongis,11.941
+19:04,10,Cavani,47.309
+19:34,1,AppleEvent,493.421
+19:34,2,BlueberryEyesMVOutNow,181.930
+19:34,3,TheMandalorian,98.121
+19:34,4,AubaSigns,21.111
+19:34,5,JuntosSomos,16.427
+19:34,6,Viva México,46.134
+19:34,7,Jim Cramer,37.348
+19:34,8,Gallardo,15.392
+19:34,9,Series 6,26.069
+19:34,10,Scientific American,68.725
+20:04,1,AppleEvent,599.874
+20:04,2,BlueberryEyesMVOutNow,207.908
+20:04,3,welcomebackwdw,
+20:04,4,JuntosSomos,18.311
+20:04,5,Viva México,51.180
+20:04,6,TheMandalorian,102.561
+20:04,7,Jim Cramer,45.540
+20:04,8,Gallardo,17.157
+20:04,9,Scientific American,80.302
+20:04,10,Yoongi,647.314
+20:34,1,AppleEvent,
+20:34,2,BlueberryEyesMVOutNow,
+20:34,3,النصر_سباهان,
+20:34,4,welcomebackwdw,
+20:34,5,TrumpisaPedo,60.799
+20:34,6,Viva México,
+20:34,7,Jim Cramer,
+20:34,8,Gallardo,
+20:34,9,Seferovic,
+20:34,10,Scientific American,89.718
+21:04,1,AppleEvent,
+21:04,2,BlueberryEyesMVOutNow,
+21:04,3,النصر_سباهان,
+21:04,4,welcomebackwdw,14.672
+21:04,5,TrumpisaPedo,76.469
+21:04,6,Viva México,
+21:04,7,Jim Cramer,
+21:04,8,Benfica,
+21:04,9,الصليهم,
+21:04,10,Seferovic,
+21:34,1,AppleEvent,735.198
+21:34,2,iPad Air,95.071
+21:34,3,النصر_سباهان,108.244
+21:34,4,BlueberryEyesMVOutNow,246.125
+21:34,5,Benfica,34.709
+21:34,6,MasumlarApartmanı,
+21:34,7,TrumpisaPedo,91.111
+21:34,8,Viva México,65.153
+21:34,9,Seferovic,
+21:34,10,Touch ID,23.474
+22:04,1,AppleEvent,752.816
+22:04,2,Benfica,58.119
+22:04,3,النصر_سباهان,128.467
+22:04,4,iPad Air,99.772
+22:04,5,iPhone 12,99.137
+22:04,6,Jorge Jesus,10.424
+22:04,7,BlueberryEyesMVOutNow,253.414
+22:04,8,MasumlarApartmanı,
+22:04,9,welcomebackwdw,21.217
+22:04,10,Viva México,69.838
+22:34,1,AppleEvent,767.276
+22:34,2,Benfica,72.576
+22:34,3,النصر_سباهان,158.650
+22:34,4,iPad Air,103.653
+22:34,5,JuntosSomos,29.670
+22:34,6,MCCelebrity,
+22:34,7,MHSCOL,
+22:34,8,Offset,34.520
+22:34,9,Viva México,74.866
+22:34,10,Bale,76.420
+23:04,1,AppleEvent,780.582
+23:04,2,Benfica,79.918
+23:04,3,Cardi,150.173
+23:04,4,النصر_سباهان,178.239
+23:04,5,MCCelebrity,10.294
+23:04,6,iPad Air,106.652
+23:04,7,JuntosSomos,32.484
+23:04,8,MHSCOL,10.961
+23:04,9,Viva México,79.528
+23:04,10,Bale,81.112
+23:34,1,AppleEvent,793.511
+23:34,2,Benfica,85.959
+23:34,3,Cardi,172.562
+23:34,4,MCCelebrity,17.996
+23:34,5,النصر_سباهان,198.490
+23:34,6,JuntosSomos,35.947
+23:34,7,iPad Air,109.741
+23:34,8,iPhone 12,112.629
+23:34,9,MHSCOL,11.660
+23:34,10,Viva México,84.872

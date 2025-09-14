@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,GBBO,21.875
+00:10,2,Perú,122.900
+00:10,3,Gallese,20.095
+00:10,4,Uruguay,54.020
+00:10,5,Bolivia,54.651
+00:10,6,SecretCuentaAtrás10,42.493
+00:10,7,NEDNOR,11.820
+00:10,8,Lapadula,19.421
+00:10,9,BizimÇocuklar,31.371
+00:10,10,Bragantino,13.340
+00:41,1,GBBO,22.379
+00:41,2,Perú,131.410
+00:41,3,Argentina,209.319
+00:41,4,Gallese,22.653
+00:41,5,Uruguay,56.112
+00:41,6,SecretCuentaAtrás10,54.739
+00:41,7,Bolivia,57.413
+00:41,8,Lapadula,22.059
+00:41,9,NEDNOR,11.903
+00:41,10,Bragantino,13.993
+01:10,1,Otamendi,13.038
+01:10,2,Argentina,215.130
+01:10,3,Cuadrado,
+01:10,4,GBBO,22.752
+01:10,5,Perú,132.203
+01:10,6,Muriel,
+01:10,7,Vini Jr,
+01:10,8,Gallese,23.724
+01:10,9,SecretCuentaAtrás10,61.484
+01:10,10,Uruguay,56.400
+01:41,1,Otamendi,61.377
+01:41,2,Argentina,253.280
+01:41,3,Di Maria,17.512
+01:41,4,Raphinha,18.280
+01:41,5,Fabinho,
+01:41,6,Cuadrado,
+01:41,7,LaRojaxCHV,
+01:41,8,SecretCuentaAtrás10,76.907
+01:41,9,Vini Jr,
+01:41,10,SpiderManNoWayHome,192.518
+02:10,1,Otamendi,69.320
+02:10,2,Argentina,261.806
+02:10,3,Vini Jr,17.086
+02:10,4,SpiderManNoWayHome,205.914
+02:10,5,Fabinho,
+02:10,6,LaRojaxCHV,
+02:10,7,Rueda,29.227
+02:10,8,Cuadrado,12.128
+02:10,9,Di Maria,21.032
+02:10,10,De Paul,25.245
+02:41,1,SpiderManNoWayHome,389.005
+02:41,2,Otamendi,77.893
+02:41,3,Tobey,87.592
+02:41,4,Tobey,87.592
+02:41,5,Argentina,285.266
+02:41,6,Fabinho,14.565
+02:41,7,Messi,151.370
+02:41,8,De Paul,33.829
+02:41,9,Vini Jr,20.699
+02:41,10,Peter Parker,16.821
+03:10,1,SpiderManNoWayHome,676.682
+03:10,2,Andrew,229.946
+03:10,3,Otamendi,83.355
+03:10,4,Peter Parker,63.600
+03:10,5,Marvel,177.526
+03:10,6,Gwen,40.626
+03:10,7,Tom Holland,77.532
+03:10,8,Argentina,288.021
+03:10,9,Fabinho,16.679
+03:10,10,Messi,154.130
+03:41,1,SpiderManNoWayHome,834.554
+03:41,2,Andrew,289.078
+03:41,3,Marvel,205.430
+03:41,4,Peter Parker,88.020
+03:41,5,Otamendi,87.868
+03:41,6,Gwen,51.353
+03:41,7,Argentina,331.991
+03:41,8,Tom Holland,94.775
+03:41,9,RoçaAFazenda,48.005
+03:41,10,Curry,67.265
+04:10,1,SpiderManNoWayHome,918.931
+04:10,2,Andrew,316.202
+04:10,3,RoçaAFazenda,121.529
+04:10,4,Marvel,214.649
+04:10,5,Peter Parker,99.879
+04:10,6,Curry,89.128
+04:10,7,Otamendi,91.383
+04:10,8,Gwen,56.171
+04:10,9,Tom Holland,103.578
+04:10,10,Argentina,344.392
+04:41,1,SpiderManNoWayHome,978.537
+04:41,2,Andrew,337.052
+04:41,3,RoçaAFazenda,156.723
+04:41,4,Marvel,225.269
+04:41,5,Ochoa,20.144
+04:41,6,Peter Parker,107.892
+04:41,7,Curry,97.836
+04:41,8,Gwen,60.039
+04:41,9,Tom Holland,111.537
+04:41,10,Otamendi,94.307
+05:10,1,SpiderManNoWayHome,1.015.767
+05:10,2,Andrew,348.811
+05:10,3,RoçaAFazenda,164.251
+05:10,4,Ochoa,23.773
+05:10,5,Marvel,228.148
+05:10,6,Peter Parker,112.834
+05:10,7,Curry,101.920
+05:10,8,Gwen,62.250
+05:10,9,Tom Holland,115.928
+05:10,10,HAVE A SAFE FLIGHT,99.803
+05:41,1,SpiderManNoWayHome,1.053.421
+05:41,2,Andrew,359.850
+05:41,3,HAVE A SAFE FLIGHT,215.444
+05:41,4,Ochoa,28.383
+05:41,5,RoçaAFazenda,169.034
+05:41,6,CANMNT,30.513
+05:41,7,Marvel,234.007
+05:41,8,Peter Parker,116.785
+05:41,9,Curry,105.370
+05:41,10,Gwen,64.582
+06:10,1,SpiderManNoWayHome,1.077.370
+06:10,2,HAVE A SAFE FLIGHT,339.949
+06:10,3,Andrew,365.382
+06:10,4,Ochoa,30.050
+06:10,5,RoçaAFazenda,171.629
+06:10,6,CANMNT,32.461
+06:10,7,Peter Parker,119.449
+06:10,8,LMD4,13.562
+06:10,9,Marvel,234.873
+06:10,10,Gwen,65.741
+06:41,1,SpiderManNoWayHome,1.102.728
+06:41,2,HAVE A SAFE FLIGHT,403.081
+06:41,3,Andrew,372.983
+06:41,4,LMD4,17.728
+06:41,5,Ochoa,31.127
+06:41,6,Staples Center,16.805
+06:41,7,RoçaAFazenda,173.578
+06:41,8,CANMNT,33.965
+06:41,9,Peter Parker,121.915
+06:41,10,Marvel,238.774
+07:10,1,haveasafeflightBTS,135.904
+07:10,2,SpiderManNoWayHome,1.119.987
+07:10,3,Andrew,377.004
+07:10,4,LMD4,21.844
+07:10,5,Staples Center,21.377
+07:10,6,Ochoa,31.802
+07:10,7,GGvBG,
+07:10,8,RoçaAFazenda,174.549
+07:10,9,Peter Parker,123.789
+07:10,10,Marvel,239.014
+07:41,1,haveasafeflightBTS,141.864
+07:41,2,SpiderManNoWayHome,1.142.496
+07:41,3,Andrew,383.303
+07:41,4,Staples Center,25.604
+07:41,5,LMD4,23.066
+07:41,6,GGvBG,13.081
+07:41,7,Ochoa,32.264
+07:41,8,RoçaAFazenda,174.889
+07:41,9,Peter Parker,125.854
+07:41,10,冬のボーナス,
+08:10,1,haveasafeflightBTS,145.679
+08:10,2,SpiderManNoWayHome,1.157.875
+08:10,3,Staples Center,28.208
+08:10,4,Andrew,387.199
+08:10,5,LMD4,23.600
+08:10,6,GGvBG,13.686
+08:10,7,Ochoa,32.530
+08:10,8,冬のボーナス,
+08:10,9,PUBGMアーケイン,
+08:10,10,Twitter Pro,265.403
+08:41,1,haveasafeflightBTS,148.800
+08:41,2,SpiderManNoWayHome,1.176.401
+08:41,3,Staples Center,30.412
+08:41,4,Andrew,393.408
+08:41,5,LMD4,24.022
+08:41,6,GGvBG,14.475
+08:41,7,冬のボーナス,
+08:41,8,Twitter Pro,270.209
+08:41,9,PUBGMアーケイン,10.302
+08:41,10,Ochoa,32.751
+09:10,1,ATINYDAY,157.184
+09:10,2,haveasafeflightBTS,151.256
+09:10,3,SpiderManNoWayHome,1.184.221
+09:10,4,Staples Center,31.816
+09:10,5,Andrew,397.166
+09:10,6,ArtıkYeter,
+09:10,7,LMD4,24.324
+09:10,8,冬のボーナス,
+09:10,9,Twitter Pro,267.735
+09:10,10,SLOBS,15.266
+09:41,1,ATINYDAY,256.106
+09:41,2,haveasafeflightBTS,153.292
+09:41,3,SpiderManNoWayHome,1.202.195
+09:41,4,Staples Center,33.270
+09:41,5,ArtıkYeter,
+09:41,6,冬のボーナス,
+09:41,7,Andrew,404.326
+09:41,8,PINKxBAMBAM,31.643
+09:41,9,Twitter Pro,272.527
+09:41,10,SLOBS,16.132
+10:10,1,ATINYDAY,294.820
+10:10,2,haveasafeflightBTS,155.362
+10:10,3,SpiderManNoWayHome,1.219.691
+10:10,4,Staples Center,34.286
+10:10,5,冬のボーナス,
+10:10,6,ArtıkYeter,
+10:10,7,PINKxBAMBAM,46.901
+10:10,8,Twitter Pro,270.530
+10:10,9,Andrew,408.189
+10:10,10,私の語彙力,14.066
+10:41,1,ATINYDAY,299.513
+10:41,2,ONEUS1stwin,19.589
+10:41,3,LUNA1stWin,13.998
+10:41,4,SpiderManNoWayHome,1.236.458
+10:41,5,haveasafeflightBTS,157.013
+10:41,6,冬のボーナス,
+10:41,7,Staples Center,35.330
+10:41,8,Twitter Pro,276.684
+10:41,9,私の語彙力,15.023
+10:41,10,Andrew,415.927
+11:10,1,ONEUS1stwin,43.636
+11:10,2,ATINYDAY,303.218
+11:10,3,ベストアーティスト,138.185
+11:10,4,LUNA1stWin,34.610
+11:10,5,インスタミニライブ,20.397
+11:10,6,冬のボーナス,
+11:10,7,私の語彙力,
+11:10,8,ハッチポッチステーション,11.312
+11:10,9,Twitter Pro,273.284
+11:10,10,Staples Center,36.130
+11:41,1,ベストアーティスト,178.782
+11:41,2,ONEUS1stwin,56.492
+11:41,3,LUNA1stWin,45.335
+11:41,4,ATINYDAY,307.539
+11:41,5,ののかちゃん,132.487
+11:41,6,インスタミニライブ,24.101
+11:41,7,出雲阿国,
+11:41,8,謎の蘭丸X,
+11:41,9,以蔵さん,
+11:41,10,冬のボーナス,
+12:10,1,ベストアーティスト,213.175
+12:10,2,ONEUS1stwin,66.019
+12:10,3,LUNA1stWin,52.520
+12:10,4,以蔵さん,23.129
+12:10,5,出雲阿国,20.278
+12:10,6,ののかちゃん,129.200
+12:10,7,ATINYDAY,310.929
+12:10,8,謎の蘭丸X,15.718
+12:10,9,インスタミニライブ,32.937
+12:10,10,ピックアップ2,
+12:41,1,ベストアーティスト2021,48.115
+12:41,2,ONEUS1stwin,72.011
+12:41,3,スバルのすぺーす,18.017
+12:41,4,出雲阿国,28.401
+12:41,5,以蔵さん,28.422
+12:41,6,LUNA1stwin,57.561
+12:41,7,MerryMunchkin,28.825
+12:41,8,Josh Cullen MOOD,29.182
+12:41,9,ののかちゃん,138.686
+12:41,10,マフィア梶田,10.498
+13:10,1,ベストアーティスト,286.804
+13:10,2,KATTUN,25.836
+13:10,3,スバルのすぺーす,28.279
+13:10,4,ONEUS1stwin,77.014
+13:10,5,以蔵さん,31.554
+13:10,6,出雲阿国,38.023
+13:10,7,KingandPrince,96.753
+13:10,8,Josh Cullen MOOD,40.532
+13:10,9,ののかちゃん,135.087
+13:10,10,マフィア梶田,15.572
+13:41,1,ベストアーティスト,317.372
+13:41,2,KATTUN,28.614
+13:41,3,PMQs,
+13:41,4,PcComponentesBlackFridayMSI,
+13:41,5,BlackFridayChollometroViene,
+13:41,6,以蔵さん,34.704
+13:41,7,出雲阿国,44.287
+13:41,8,Josh Cullen MOOD,47.540
+13:41,9,Patrick CN Music Awards,41.226
+13:41,10,マフィア梶田,19.392
+14:10,1,deprem,14.259
+14:10,2,ベストアーティスト,351.973
+14:10,3,BlackFridayChollometroViene,
+14:10,4,PcComponentesBlackFridayMSI,
+14:10,5,MarcosHindiBayani,14.422
+14:10,6,KAT-TUN,
+14:10,7,Düzce,12.132
+14:10,8,Patrick CN Music Awards,136.856
+14:10,9,出雲阿国,48.610
+14:10,10,以蔵さん,36.932
+14:41,1,deprem,19.981
+14:41,2,ベストアーティスト,401.863
+14:41,3,BlackFridayChollometroViene,
+14:41,4,MarcosHindiBayani,21.186
+14:41,5,PcComponentesBlackFridayMSI,
+14:41,6,Düzce,19.070
+14:41,7,Davido,43.293
+14:41,8,KAT-TUN,
+14:41,9,Patrick CN Music Awards,194.689
+14:41,10,以蔵さん,39.084
+15:10,1,deprem,22.706
+15:10,2,ベストアーティスト,428.274
+15:10,3,BlackFridayChollometroViene,
+15:10,4,Davido,61.844
+15:10,5,PcComponentesBlackFridayMSI,
+15:10,6,MarcosHindiBayani,23.022
+15:10,7,Düzce,22.578
+15:10,8,KAT-TUN,
+15:10,9,メガネの人,10.872
+15:10,10,Patrick CN Music Awards,214.739
+15:41,1,deprem,24.746
+15:41,2,ベストアーティスト,445.969
+15:41,3,Davido,80.452
+15:41,4,BlackFridayChollometroViene,
+15:41,5,PcComponentesBlackFridayMSI,
+15:41,6,ErkenSeçim,
+15:41,7,Düzce,24.922
+15:41,8,junmyeon,14.853
+15:41,9,きょもじゅり,
+15:41,10,KAT-TUN,
+16:10,1,deprem,26.193
+16:10,2,ベストアーティスト,452.613
+16:10,3,ErkenSeçim,10.285
+16:10,4,Davido,102.452
+16:10,5,KırıkkaleHukukMagdur,
+16:10,6,BlackFridayChollometroViene,
+16:10,7,KAI COMEBACK BEGINS,24.819
+16:10,8,Düzce,26.575
+16:10,9,junmyeon,20.627
+16:10,10,COLDPLAY,140.800
+16:41,1,ErkenSeçim,16.547
+16:41,2,Davido,124.169
+16:41,3,deprem,27.363
+16:41,4,KAI COMEBACK BEGINS,128.749
+16:41,5,ベストアーティスト,460.079
+16:41,6,KırıkkaleHukukMagdur,
+16:41,7,Coldplay,287.900
+16:41,8,กระเช้าสีดาEp15,41.782
+16:41,9,My Universe,267.137
+16:41,10,junmyeon,23.668
+17:10,1,ErkenSeçim,21.689
+17:10,2,Davido,149.627
+17:10,3,KAI COMEBACK BEGINS,155.560
+17:10,4,deprem,28.390
+17:10,5,Coldplay,349.133
+17:10,6,StandUpForIndia,42.818
+17:10,7,ベストアーティスト,462.136
+17:10,8,مبارك_الوعلان_ومسلم_البراك,
+17:10,9,AMAs,535.335
+17:10,10,Flacco,
+17:41,1,ErkenSeçim,25.793
+17:41,2,Davido,177.901
+17:41,3,乃木坂46ANN,24.140
+17:41,4,KAI COMEBACK BEGINS,166.287
+17:41,5,StandUpForIndia,55.094
+17:41,6,deprem,29.348
+17:41,7,Coldplay,388.527
+17:41,8,مسلم_البراك,33.538
+17:41,9,AMAs,582.040
+17:41,10,Flacco,
+18:10,1,Fortune4Days,44.497
+18:10,2,Davido,204.430
+18:10,3,乃木坂46ANN,42.239
+18:10,4,ErkenSeçim,28.720
+18:10,5,DogeYellow TokenÇıktı,
+18:10,6,KAI COMEBACK BEGINS,170.432
+18:10,7,مسلم_البراك,38.942
+18:10,8,StandUpForIndia,60.030
+18:10,9,Coldplay,414.375
+18:10,10,まいちゅん,
+18:41,1,Fortune4Days,62.663
+18:41,2,Davido,231.565
+18:41,3,乃木坂46ANN,51.731
+18:41,4,ErkenSeçim,31.624
+18:41,5,مشاهير_في_كهف_الجن,
+18:41,6,مسلم_البراك,45.462
+18:41,7,DogeYellow TokenÇıktı,
+18:41,8,KAI COMEBACK BEGINS,173.638
+18:41,9,QAnon Shaman,18.623
+18:41,10,Coldplay,436.474
+19:10,1,Fortune4Days,65.239
+19:10,2,Davido,256.445
+19:10,3,乃木坂46ANN,61.798
+19:10,4,ErkenSeçim,34.096
+19:10,5,TürkEvladı,
+19:10,6,WelcomeToLA_BTS,23.932
+19:10,7,Camila Queiroz,
+19:10,8,DogeYellow TokenÇıktı,
+19:10,9,QAnon Shaman,23.916
+19:10,10,KAI COMEBACK BEGINS,175.621
+19:41,1,Fortune4Days,71.543
+19:41,2,Davido,281.806
+19:41,3,WelcomeToLA_BTS,32.692
+19:41,4,CashApp13plus,10.495
+19:41,5,Camila Queiroz,10.748
+19:41,6,乃木坂46ANN,64.202
+19:41,7,مسلم_البراك,58.551
+19:41,8,DogeYellow TokenÇıktı,
+19:41,9,QAnon Shaman,29.223
+19:41,10,Jacob Chansley,25.582
+20:10,1,WelcomeToLA_BTS,49.906
+20:10,2,Fortune4Days,73.195
+20:10,3,Dolph,
+20:10,4,Davido,305.243
+20:10,5,Camila Queiroz,15.895
+20:10,6,CashApp13Plus,15.330
+20:10,7,EvimiYıkma HalkPerişan,
+20:10,8,OrrospuÇocuğu Bekorot31Çekti,
+20:10,9,مسلم_البراك,63.987
+20:10,10,Derrotapalooza,45.355
+20:41,1,Dolph,173.720
+20:41,2,WelcomeToLA_BTS,59.716
+20:41,3,Fortune4Days,76.664
+20:41,4,Camila Queiroz,20.666
+20:41,5,Davido,326.511
+20:41,6,CashApp13Plus,18.456
+20:41,7,TürkEvladı,
+20:41,8,Memphis,58.023
+20:41,9,EvimiYıkma HalkPerişan,
+20:41,10,مسلم_البراك,70.813
+21:10,1,Dolph,404.693
+21:10,2,Memphis,104.951
+21:10,3,WelcomeToLA_BTS,64.493
+21:10,4,Fortune4Days,77.034
+21:10,5,Camila Queiroz,24.401
+21:10,6,CashApp13Plus,20.953
+21:10,7,Davido,344.501
+21:10,8,Key Glock,
+21:10,9,TürkEvladı,
+21:10,10,Derrotapalooza,56.783
+21:41,1,Dolph,579.903
+21:41,2,SalarioRosa,19.302
+21:41,3,Memphis,132.293
+21:41,4,Key Glock,
+21:41,5,WelcomeToLA_BTS,68.605
+21:41,6,Camila Queiroz,28.071
+21:41,7,CashApp13Plus,23.395
+21:41,8,Fortune4Days,79.167
+21:41,9,Davido,365.508
+21:41,10,Derrotapalooza,64.226
+22:10,1,Dolph,697.767
+22:10,2,SalarioRosa,28.064
+22:10,3,Memphis,147.865
+22:10,4,Key Glock,17.459
+22:10,5,Camila Queiroz,31.321
+22:10,6,CashApp13plus,25.562
+22:10,7,WelcomeToLA_BTS,71.312
+22:10,8,Davido,381.667
+22:10,9,Derrotapalooza,69.565
+22:10,10,Fortune4Days,77.977
+22:41,1,Dolph,797.074
+22:41,2,SalarioRosa,36.487
+22:41,3,Memphis,163.970
+22:41,4,LaIslaDeLasTentaciones2,
+22:41,5,Key Glock,19.995
+22:41,6,Camila Queiroz,34.873
+22:41,7,Gosar,214.472
+22:41,8,CashApp13plus,27.303
+22:41,9,WelcomeToLA_BTS,73.661
+22:41,10,Derrotapalooza,74.153
+23:10,1,Dolph,871.528
+23:10,2,SalarioRosa,42.634
+23:10,3,Memphis,176.664
+23:10,4,LaIslaDeLasTentaciones2,14.344
+23:10,5,ابتسمت_الكويت_اليوم,
+23:10,6,Gosar,236.980
+23:10,7,Camila Queiroz,37.678
+23:10,8,Key Glock,22.232
+23:10,9,CashApp13plus,28.763
+23:10,10,Stockport,
+23:41,1,Dolph,939.221
+23:41,2,SalarioRosa,47.787
+23:41,3,LaIslaDeLasTentaciones2,25.001
+23:41,4,Memphis,188.515
+23:41,5,TwitterMaliciousDMCA,50.713
+23:41,6,Stockport,
+23:41,7,Gosar,261.511
+23:41,8,ابتسمت_الكويت_اليوم,
+23:41,9,VioliNation,10.761
+23:41,10,Camila Queiroz,40.577

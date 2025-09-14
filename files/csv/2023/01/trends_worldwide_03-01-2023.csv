@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Tulane,56.026
+00:10,2,gfvip,148.926
+00:10,3,CottonBowl,
+00:10,4,Lincoln Riley,11.053
+00:10,5,Liverpool,232.402
+00:10,6,Brentford,129.547
+00:10,7,Caleb Williams,
+00:10,8,RoseBowl,
+00:10,9,Green Wave,
+00:10,10,WinterClassic,15.624
+00:40,1,Tulane,58.712
+00:40,2,gfvip,162.891
+00:40,3,Lincoln Riley,12.162
+00:40,4,CottonBowl,
+00:40,5,Liverpool,236.076
+00:40,6,RoseBowl,
+00:40,7,Caleb Williams,
+00:40,8,Brentford,131.272
+00:40,9,Penn State,10.155
+00:40,10,1899Netflix,
+01:10,1,Tulane,60.644
+01:10,2,gfvip,168.438
+01:10,3,Lincoln Riley,13.209
+01:10,4,CottonBowl,
+01:10,5,RoseBowl,
+01:10,6,Liverpool,237.834
+01:10,7,Caleb Williams,
+01:10,8,Penn State,10.427
+01:10,9,Luana Piovani,
+01:10,10,Brentford,132.500
+01:40,1,Tulane,62.529
+01:40,2,gfvip,177.267
+01:40,3,Lincoln Riley,13.965
+01:40,4,RoseBowl,
+01:40,5,CottonBowl,
+01:40,6,Penn State,11.528
+01:40,7,Luana Piovani,
+01:40,8,Liverpool,240.791
+01:40,9,Utah,22.574
+01:40,10,Caleb Williams,10.292
+02:10,1,Tulane,64.202
+02:10,2,WWERaw,
+02:10,3,RoseBowl,
+02:10,4,gfvip,178.315
+02:10,5,Penn State,13.491
+02:10,6,Asuman MuzuYedi,
+02:10,7,Utah,25.403
+02:10,8,Lincoln Riley,14.517
+02:10,9,Luana Piovani,10.958
+02:10,10,CottonBowl,
+02:40,1,WWERaw,17.581
+02:40,2,Kyrie,20.510
+02:40,3,Ubfal,15.693
+02:40,4,RoseBowl,
+02:40,5,Penn State,16.072
+02:40,6,Tulane,65.501
+02:40,7,Bengals,44.141
+02:40,8,Sean Clifford,
+02:40,9,Utah,28.433
+02:40,10,BillsMafia,18.941
+03:10,1,Hamlin,24.540
+03:10,2,WWERaw,27.936
+03:10,3,Bengals,52.719
+03:10,4,Kyrie,25.749
+03:10,5,BillsMafia,20.720
+03:10,6,Ubfal,19.483
+03:10,7,BUFvsCIN,
+03:10,8,Penn State,18.375
+03:10,9,RoseBowl,
+03:10,10,Tulane,66.536
+03:40,1,Damar Hamlin,274.207
+03:40,2,Bills,239.210
+03:40,3,skaflic,
+03:40,4,WWERaw,33.004
+03:40,5,MondayNightFootball,
+03:40,6,BUFvsCIN,12.358
+03:40,7,Ken Block,
+03:40,8,Kyrie,28.996
+03:40,9,Cincinnati,21.495
+03:40,10,Connor Bedard,
+04:10,1,Damar Hamlin,576.181
+04:10,2,Skip,73.424
+04:10,3,Donovan Mitchell,30.422
+04:10,4,Bills,380.073
+04:10,5,Ken Block,25.042
+04:10,6,The NFL,251.685
+04:10,7,MondayNightFootball,10.999
+04:10,8,Goodell,14.970
+04:10,9,WWERaw,38.557
+04:10,10,BUFvsCIN,15.023
+04:40,1,Damar Hamlin,824.241
+04:40,2,Skip,110.719
+04:40,3,Donovan Mitchell,59.616
+04:40,4,BillsMafia,57.635
+04:40,5,Ken Block,44.352
+04:40,6,The NFL,314.199
+04:40,7,MondayNightFootball,15.357
+04:40,8,WWERaw,44.875
+04:40,9,ESPN,133.085
+04:40,10,Goodell,19.900
+05:10,1,Damar Hamlin,985.190
+05:10,2,Skip,133.909
+05:10,3,BillsMafia,66.171
+05:10,4,Ken Block,59.442
+05:10,5,Donovan Mitchell,72.395
+05:10,6,The NFL,350.937
+05:10,7,Ryan Clark,24.393
+05:10,8,ESPN,148.504
+05:10,9,WWERaw,50.049
+05:10,10,MondayNightFootball,17.437
+05:40,1,Damar Hamlin,1.089.685
+05:40,2,Skip,144.753
+05:40,3,Ken Block,72.505
+05:40,4,BillsMafia,72.923
+05:40,5,Donovan Mitchell,81.586
+05:40,6,The NFL,385.105
+05:40,7,Ryan Clark,32.614
+05:40,8,ESPN,161.711
+05:40,9,箱根駅伝,208.503
+05:40,10,WWERaw,52.487
+06:10,1,Damar Hamlin,1.179.634
+06:10,2,Skip,150.528
+06:10,3,Ken Block,83.173
+06:10,4,BillsMafia,77.135
+06:10,5,Donovan Mitchell,88.883
+06:10,6,箱根駅伝,216.241
+06:10,7,The NFL,400.724
+06:10,8,Ryan Clark,36.707
+06:10,9,ESPN,173.249
+06:10,10,駒澤大学,35.162
+06:40,1,Damar Hamlin,1.229.605
+06:40,2,Skip,155.179
+06:40,3,Ken Block,92.417
+06:40,4,BillsMafia,79.955
+06:40,5,Donovan Mitchell,93.738
+06:40,6,Klay,27.628
+06:40,7,箱根駅伝,224.460
+06:40,8,Ryan Clark,40.156
+06:40,9,The NFL,412.391
+06:40,10,Poole,11.997
+07:10,1,Damar Hamlin,1.262.248
+07:10,2,Klay,41.964
+07:10,3,Ken Block,99.726
+07:10,4,Skip,157.268
+07:10,5,BillsMafia,81.659
+07:10,6,Poole,19.211
+07:10,7,Donovan Mitchell,97.732
+07:10,8,Warriors,63.648
+07:10,9,Draymond,
+07:10,10,Ryan Clark,43.213
+07:40,1,Damar Hamlin,1.287.751
+07:40,2,Klay,48.373
+07:40,3,Ken Block,105.943
+07:40,4,Skip,159.762
+07:40,5,BillsMafia,83.022
+07:40,6,Poole,20.064
+07:40,7,Warriors,70.398
+07:40,8,Donovan Mitchell,101.054
+07:40,9,Draymond,
+07:40,10,Ryan Clark,44.707
+08:10,1,Damar Hamlin,1.319.796
+08:10,2,Klay,51.185
+08:10,3,Ken Block,112.167
+08:10,4,Skip,160.756
+08:10,5,ミリシタ運試し2023,
+08:10,6,BillsMafia,84.116
+08:10,7,Poole,20.393
+08:10,8,Warriors,73.693
+08:10,9,Donovan Mitchell,103.767
+08:10,10,MOONLIGHTSUNRISE,29.780
+09:10,1,Damar Hamlin,1.332.615
+09:10,2,enflasyon,
+09:10,3,Ken Block,124.791
+09:10,4,Klay,54.972
+09:10,5,ミリシタ運試し2023,
+09:10,6,Skip,162.932
+09:10,7,BillsMafia,86.156
+09:10,8,二宮ん家,
+09:10,9,HerşeyeZamMemuraGam,
+09:10,10,TÜİK,
+09:40,1,enflasyon,13.137
+09:40,2,Damar Hamlin,1.361.399
+09:40,3,Ken Block,130.500
+09:40,4,HerşeyeZamMemuraGam,15.077
+09:40,5,ミリシタ運試し2023,
+09:40,6,Klay,56.246
+09:40,7,二宮ん家,11.273
+09:40,8,TÜİK,
+09:40,9,Skip,164.405
+09:40,10,CutiePie2You2gether,37.750
+10:10,1,enflasyon,15.903
+10:10,2,Ken Block,135.984
+10:10,3,HerşeyeZamMemuraGam,19.148
+10:10,4,Damar Hamlin,1.378.342
+10:10,5,ミリシタ運試し2023,
+10:10,6,SikKafalı ElonMussk,
+10:10,7,二宮ん家,13.933
+10:10,8,VS魂,15.588
+10:10,9,Klay,56.913
+10:10,10,TÜİK,
+10:40,1,VS魂,27.415
+10:40,2,enflasyon,17.985
+10:40,3,Ken Block,141.075
+10:40,4,HerşeyeZamMemuraGam,22.145
+10:40,5,ミリシタ運試し2023,
+10:40,6,Damar Hamlin,1.386.231
+10:40,7,SikKafalı ElonMussk,
+10:40,8,二宮ん家,15.171
+10:40,9,TÜİK,
+10:40,10,Klay,57.940
+11:10,1,enflasyon,20.253
+11:10,2,VS魂,32.136
+11:10,3,Ken Block,146.348
+11:10,4,HerşeyeZamMemuraGam,24.961
+11:10,5,ミリシタ運試し2023,
+11:10,6,SikKafalı ElonMussk,
+11:10,7,TÜİK,
+11:10,8,Damar Hamlin,1.392.526
+11:10,9,emekli,
+11:10,10,Zampa,
+11:40,1,VS魂,38.433
+11:40,2,enflasyon,22.241
+11:40,3,Ken Block,151.802
+11:40,4,HerşeyeZamMemuraGam,26.752
+11:40,5,SikKafalı ElonMussk,
+11:40,6,仰天ニュース,
+11:40,7,ミリシタ運試し2023,
+11:40,8,Damar Hamlin,1.395.629
+11:40,9,TÜİK,
+11:40,10,Zampa,
+12:10,1,VS魂,46.942
+12:10,2,enflasyon,23.941
+12:10,3,Ken Block,156.725
+12:10,4,仰天ニュース,10.669
+12:10,5,博士ちゃん,
+12:10,6,emekli,
+12:10,7,Zampa,
+12:10,8,ババ抜き,
+12:10,9,Damar Hamlin,1.412.799
+12:10,10,TÜİK,
+12:40,1,VS魂,53.891
+12:40,2,lovelive,52.359
+12:40,3,Ken Block,161.677
+12:40,4,ババ抜き,10.385
+12:40,5,enflasyon,25.070
+12:40,6,VarisuTralier,12.983
+12:40,7,仰天ニュース,12.008
+12:40,8,Loading Çocuklarım,
+12:40,9,Zampa,
+12:40,10,Damar Hamlin,1.422.480
+13:10,1,VS魂,61.067
+13:10,2,lovelive,77.414
+13:10,3,ババ抜き,13.889
+13:10,4,常闇トワ3周年記念LIVE,
+13:10,5,Yüzde 25,
+13:10,6,VarisuTralier,22.711
+13:10,7,博士ちゃん,
+13:10,8,Ken Block,167.239
+13:10,9,Loading Çocuklarım,
+13:10,10,500Bin Kadro Tamam,
+13:40,1,Yüzde 25,22.384
+13:40,2,マツコの知らない世界,11.964
+13:40,3,lovelive,103.544
+13:40,4,常闇トワ3周年記念LIVE,23.855
+13:40,5,VS魂,64.649
+13:40,6,emekli,11.342
+13:40,7,ババ抜き,16.565
+13:40,8,SUGIZO,14.556
+13:40,9,Ken Block,171.891
+13:40,10,Müjde,73.106
+14:10,1,マツコの知らない世界,14.471
+14:10,2,常闇トワ3周年記念LIVE,38.744
+14:10,3,Yüzde 25,35.305
+14:10,4,lovelive,108.354
+14:10,5,emekli,13.034
+14:10,6,VS魂,65.782
+14:10,7,ババ抜き,17.307
+14:10,8,SUGIZO,15.821
+14:10,9,IKKOさん,
+14:10,10,Müjde,76.410
+14:40,1,マツコの知らない世界,17.922
+14:40,2,Yüzde 25,44.736
+14:40,3,常闇トワ3周年記念LIVE,42.927
+14:40,4,emekli,14.985
+14:40,5,lovelive,112.194
+14:40,6,memur,
+14:40,7,IKKOさん,
+14:40,8,ババ抜き,17.807
+14:40,9,SUGIZO,16.469
+14:40,10,Müjde,81.463
+15:10,1,マツコの知らない世界,20.280
+15:10,2,Yüzde 25,52.611
+15:10,3,常闇トワ3周年記念LIVE,44.250
+15:10,4,NeverLetMeGoSeriesEP4,46.391
+15:10,5,コンフィデンスマンJP,11.871
+15:10,6,ห้องท้ายบ้าน,28.935
+15:10,7,IKKOさん,
+15:10,8,Müjde,82.925
+15:10,9,ババ抜き,18.118
+15:10,10,SUGIZO,16.324
+15:40,1,マツコの知らない世界,20.985
+15:40,2,笑いダネ,21.156
+15:40,3,コンフィデンスマンJP,17.311
+15:40,4,NeverLetMeGoSeriesEP4,79.523
+15:40,5,Yüzde 25,59.410
+15:40,6,ห้องท้ายบ้าน,45.194
+15:40,7,IKKOさん,
+15:40,8,Gerson,18.225
+15:40,9,Müjde,86.727
+15:40,10,マツコさん,
+16:10,1,笑いダネ,25.158
+16:10,2,NeverLetMeGoSeriesEP4,105.051
+16:10,3,コンフィデンスマンJP,18.861
+16:10,4,マツコの知らない世界,21.013
+16:10,5,アンミカ,
+16:10,6,Yüzde 25,65.484
+16:10,7,ห้องท้ายบ้าน,58.572
+16:10,8,Gerson,21.455
+16:10,9,IKKOさん,
+16:10,10,Müjde,85.980
+16:40,1,笑いダネ,34.091
+16:40,2,ゴッドタン,14.505
+16:40,3,NeverLetMeGoSeriesEP4,120.242
+16:40,4,Gerson,24.514
+16:40,5,TümVARKayıtlarıAcıklansın,
+16:40,6,Yüzde 25,73.352
+16:40,7,アンミカ,
+16:40,8,マツコの知らない世界,21.232
+16:40,9,第348回,
+16:40,10,Ofsaytımsı,11.701
+17:10,1,ゴッドタン,20.389
+17:10,2,笑いダネ,35.547
+17:10,3,NeverLetMeGoSeriesEP4,130.219
+17:10,4,サムライ駅伝,17.232
+17:10,5,Gerson,26.400
+17:10,6,TümVARKayıtlarıAcıklansın,11.589
+17:10,7,Yüzde 25,82.178
+17:10,8,アンミカ,
+17:10,9,McCarthy,200.265
+17:10,10,アサちゃん,
+17:40,1,ゴッドタン,20.791
+17:40,2,AlZammınıBaşınaÇal,25.011
+17:40,3,笑いダネ,36.451
+17:40,4,NeverLetMeGoSeriesEP4,138.142
+17:40,5,サムライ駅伝,32.797
+17:40,6,Gerson,28.322
+17:40,7,Yüzde 25,89.971
+17:40,8,McCarthy,213.325
+17:40,9,アンミカ,
+17:40,10,Silvio Almeida,10.450
+18:10,1,وليد عبدالله,
+18:10,2,AlZammınıBaşınaÇal,32.421
+18:10,3,misganasganan,
+18:10,4,Elena Huelva,13.254
+18:10,5,25Yetmez,10.316
+18:10,6,INDvSL,25.438
+18:10,7,McCarthy,232.162
+18:10,8,ClimbCoin,
+18:10,9,Gerson,28.902
+18:10,10,Yüzde 25,96.722
+18:40,1,25Yetmez,64.194
+18:40,2,INDvSL,31.692
+18:40,3,misganasganan,10.967
+18:40,4,وليد عبدالله,
+18:40,5,Elena Huelva,21.372
+18:40,6,ANTvFB,
+18:40,7,AlZammınıBaşınaÇal,39.732
+18:40,8,رونالدو,379.439
+18:40,9,McCarthy,251.742
+18:40,10,Speaker,277.806
+19:10,1,25Yetmez,102.616
+19:10,2,misganasganan,14.568
+19:10,3,ANTvFB,11.146
+19:10,4,INDvSL,33.883
+19:10,5,McCarthy,266.136
+19:10,6,وليد عبدالله,
+19:10,7,رونالدو,394.430
+19:10,8,AlZammınıBaşınaÇal,45.131
+19:10,9,Lincoln,44.914
+19:10,10,Speaker,291.143
+19:40,1,25Yetmez,133.732
+19:40,2,ANTvFB,15.047
+19:40,3,McCarthy,307.705
+19:40,4,misganasganan,17.196
+19:40,5,Jeffries,32.758
+19:40,6,Speaker,328.999
+19:40,7,INDvSL,34.992
+19:40,8,Elena Huelva,30.367
+19:40,9,رونالدو,417.556
+19:40,10,وليد عبدالله,
+20:10,1,McCarthy,350.032
+20:10,2,ANTvFB,19.813
+20:10,3,25Yetmez,156.595
+20:10,4,Speaker,359.823
+20:10,5,Jeffries,47.306
+20:10,6,misganasganan,19.447
+20:10,7,Elena Huelva,32.864
+20:10,8,رونالدو,413.779
+20:10,9,INDvSL,35.225
+20:10,10,مرسول_بارك,49.152
+20:40,1,AntalyadaKaraGece,38.621
+20:40,2,ANTvFB,30.642
+20:40,3,McCarthy,391.652
+20:40,4,25Yetmez,172.984
+20:40,5,Speaker,397.812
+20:40,6,Jim Jordan,79.544
+20:40,7,Jeffries,57.339
+20:40,8,Rossi,20.981
+20:40,9,misganasganan,21.404
+20:40,10,Maguire,14.728
+21:10,1,AntalyadaKaraGece,50.111
+21:10,2,McCarthy,430.933
+21:10,3,ANTvFB,34.828
+21:10,4,Speaker,430.814
+21:10,5,Jim Jordan,95.667
+21:10,6,Jeffries,65.043
+21:10,7,25Yetmez,183.518
+21:10,8,ARSNEW,21.916
+21:10,9,Rossi,23.788
+21:10,10,Republicans,267.147
+21:40,1,McCarthy,480.839
+21:40,2,AntalyadaKaraGece,56.835
+21:40,3,ARSNEW,32.751
+21:40,4,Casemiro,23.737
+21:40,5,ANTvFB,37.295
+21:40,6,Speaker,473.393
+21:40,7,Newcastle,108.696
+21:40,8,Jim Jordan,113.620
+21:40,9,Jeffries,75.889
+21:40,10,Maguire,17.984
+22:10,1,McCarthy,515.625
+22:10,2,ARSNEW,39.666
+22:10,3,AntalyadaKaraGece,61.910
+22:10,4,Casemiro,30.242
+22:10,5,Newcastle,118.973
+22:10,6,Speaker,500.925
+22:10,7,Lampard,
+22:10,8,Jim Jordan,127.021
+22:10,9,Jeffries,84.419
+22:10,10,ANTvFB,38.806
+22:40,1,McCarthy,567.242
+22:40,2,ARSNEW,46.014
+22:40,3,Newcastle,130.873
+22:40,4,Lampard,10.476
+22:40,5,Speaker,547.323
+22:40,6,AntalyadaKaraGece,64.230
+22:40,7,Casemiro,32.949
+22:40,8,Jim Jordan,146.325
+22:40,9,Everton,47.473
+22:40,10,Jeffries,93.084
+23:10,1,Newcastle,146.317
+23:10,2,ARSNEW,44.121
+23:10,3,McCarthy,609.735
+23:10,4,Arsenal,243.951
+23:10,5,Casemiro,40.405
+23:10,6,Speaker,582.991
+23:10,7,Lampard,12.635
+23:10,8,Jim Jordan,164.891
+23:10,9,Jeffries,102.184
+23:10,10,Luke Shaw,14.642
+23:40,1,McCarthy,652.322
+23:40,2,Newcastle,155.552
+23:40,3,ARSNEW,46.459
+23:40,4,Arsenal,258.040
+23:40,5,Michael Smith,54.091
+23:40,6,Speaker,629.189
+23:40,7,Casemiro,46.892
+23:40,8,Jim Jordan,182.342
+23:40,9,Jeffries,112.733
+23:40,10,Lampard,14.251

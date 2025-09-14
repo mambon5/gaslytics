@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,Paulo Londra,26.869
+00:10,2,Drake,2.153.889
+00:10,3,CashAppFriday,15.159
+00:10,4,BolsonaroCorno,69.637
+00:10,5,Alcaraz,11.032
+00:10,6,ClasesYVacunacionEdomex,14.932
+00:10,7,askimaginedragons,
+00:10,8,GiveawayAudi,38.902
+00:10,9,Tsitsipas,10.528
+00:10,10,Kitty Kat,14.169
+00:41,1,Paulo Londra,44.391
+00:41,2,Drake,2.190.211
+00:41,3,CashAppFriday,15.476
+00:41,4,Alcaraz,12.743
+00:41,5,BolsonaroCorno,73.066
+00:41,6,askimaginedragons,
+00:41,7,ClasesYVacunacionEdomex,15.301
+00:41,8,ウチカフェしよう,
+00:41,9,Tsitsipas,11.407
+00:41,10,Zé Trovão,30.913
+01:10,1,Alcaraz,27.608
+01:10,2,Paulo Londra,58.822
+01:10,3,USOpen,37.676
+01:10,4,Tsitsipas,18.517
+01:10,5,Drake,2.190.277
+01:10,6,CashAppFriday,15.926
+01:10,7,BolsonaroCorno,75.901
+01:10,8,ウチカフェしよう,
+01:10,9,askimaginedragons,
+01:10,10,Zé Trovão,36.550
+01:41,1,Paulo Londra,73.932
+01:41,2,Alcaraz,34.302
+01:41,3,USOpen,42.150
+01:41,4,Tsitsipas,22.717
+01:41,5,Cano,14.550
+01:41,6,Vanderlei,
+01:41,7,Lakers,35.651
+01:41,8,CashAppFriday,16.411
+01:41,9,BolsonaroCorno,78.436
+01:41,10,ウチカフェしよう,
+02:10,1,Paulo Londra,86.876
+02:10,2,Alcaraz,36.121
+02:10,3,ウルトラマントリガー,13.923
+02:10,4,Cano,15.411
+02:10,5,USOpen,41.474
+02:10,6,Tsitsipas,23.919
+02:10,7,Lakers,37.529
+02:10,8,Vanderlei,
+02:10,9,Sam Howell,
+02:10,10,ウチカフェしよう,
+02:41,1,Paulo Londra,100.336
+02:41,2,SmackDown,20.949
+02:41,3,ウルトラマントリガー,30.266
+02:41,4,Alcaraz,37.423
+02:41,5,Cano,16.706
+02:41,6,Sam Howell,
+02:41,7,Vanderlei,
+02:41,8,Lakers,39.562
+02:41,9,USOpen,42.647
+02:41,10,Tsitsipas,24.769
+03:10,1,SmackDown,28.700
+03:10,2,Paulo Londra,111.205
+03:10,3,ウルトラマントリガー,36.124
+03:10,4,Sam Howell,
+03:10,5,Carlos Alcaraz,19.045
+03:10,6,Cano,16.560
+03:10,7,lembrançasLGBTQ,
+03:10,8,ダイの大冒険,
+03:10,9,東京ディズニーシー20周年,21.383
+03:10,10,Lakers,39.951
+03:41,1,SmackDown,40.753
+03:41,2,Sam Howell,
+03:41,3,Paulo Londra,120.330
+03:41,4,ウルトラマントリガー,39.699
+03:41,5,Mack Brown,
+03:41,6,東京ディズニーシー20周年,26.151
+03:41,7,lembrançasLGBTQ,
+03:41,8,LaCasaDePapael5,
+03:41,9,Cano,16.987
+03:41,10,Alcaraz,39.057
+04:10,1,SmackDown,50.360
+04:10,2,Sam Howell,
+04:10,3,Paulo Londra,127.718
+04:10,4,ウルトラマントリガー,41.839
+04:10,5,USOpen,46.561
+04:10,6,Osaka,48.134
+04:10,7,東京ディズニーシー20周年,28.967
+04:10,8,LaCasaDePapael5,
+04:10,9,Mack Brown,
+04:10,10,Northwestern,
+04:41,1,AEWRampage,17.028
+04:41,2,SmackDown,53.141
+04:41,3,Sam Howell,
+04:41,4,Paulo Londra,134.637
+04:41,5,ジャにのちゃんねる,10.657
+04:41,6,ウルトラマントリガー,43.743
+04:41,7,USOpen,49.342
+04:41,8,Osaka,51.816
+04:41,9,Northwestern,
+04:41,10,Leylah Fernandez,
+05:10,1,AEWRampage,24.911
+05:10,2,SmackDown,54.745
+05:10,3,ジャにのちゃんねる,14.853
+05:10,4,科捜研全国ジャック中,
+05:10,5,Sam Howell,
+05:10,6,p81dance,
+05:10,7,Paulo Londra,140.092
+05:10,8,Osaka,52.344
+05:10,9,Love so sweet,13.829
+05:10,10,Northwestern,
+05:41,1,AEWRampage,27.356
+05:41,2,p81dance,15.045
+05:41,3,TravisJapan,38.139
+05:41,4,HappyBirthdayBeyonce,12.872
+05:41,5,SmackDown,56.213
+05:41,6,Love so sweet,20.385
+05:41,7,Paulo Londra,145.589
+05:41,8,ドーブネ,
+05:41,9,Sam Howell,
+05:41,10,Osaka,54.938
+06:10,1,AEWRampage,28.462
+06:10,2,HappyBirthdayBeyonce,18.043
+06:10,3,p81dance,18.132
+06:10,4,TravisJapan,40.426
+06:10,5,LaCasaDePapael5,12.178
+06:10,6,Love so sweet,22.620
+06:10,7,ドーブネ,10.592
+06:10,8,MISS DIOR JISOO,33.748
+06:10,9,Paulo Londra,149.811
+06:10,10,Sam Howell,
+06:41,1,藤井風,
+06:41,2,HappyBirthdayBeyonce,22.601
+06:41,3,p81dance,20.166
+06:41,4,AEWRampage,29.384
+06:41,5,LaCasaDePapael5,13.591
+06:41,6,Love so sweet,24.754
+06:41,7,MISS DIOR JISOO,47.133
+06:41,8,ドーブネ,12.251
+06:41,9,ネイリスト,
+06:41,10,中身のおおらかさ,
+07:10,1,藤井風,14.419
+07:10,2,HappyBirthdayBeyonce,25.038
+07:10,3,マイナビTGC,15.101
+07:10,4,p81dance,21.544
+07:10,5,LaCasaDePapael5,14.609
+07:10,6,Jansen,
+07:10,7,MISS DIOR JISOO,53.915
+07:10,8,Love so sweet,25.831
+07:10,9,見た目のおおらかさ,
+07:10,10,見た目のサイコパスさ,
+07:41,1,藤井風,21.912
+07:41,2,マイナビTGC,19.372
+07:41,3,FujiiKazeFreeLive21,
+07:41,4,HappyBirthdayBeyonce,26.898
+07:41,5,ManishNarwal,
+07:41,6,Jansen,
+07:41,7,見た目のおおらかさ,
+07:41,8,見た目のサイコパスさ,
+07:41,9,中身のおおらかさ,
+07:41,10,中身のサイコパスさ,
+08:10,1,藤井風,23.477
+08:10,2,Sehun,102.771
+08:10,3,マイナビTGC,22.779
+08:10,4,FujiiKazeFreeLive21,
+08:10,5,HappyBirthdayBeyonce,28.129
+08:10,6,声優パジャマ会議,
+08:10,7,見た目のおおらかさ,
+08:10,8,見た目のサイコパスさ,
+08:10,9,中身のおおらかさ,
+08:10,10,中身のサイコパスさ,
+08:41,1,藤井風,24.550
+08:41,2,Sehun,135.656
+08:41,3,マイナビTGC,25.664
+08:41,4,Dodgers,33.246
+08:41,5,ダークエクリプス,
+08:41,6,BeatLA,
+08:41,7,Giants,59.607
+08:41,8,HappyBirthdayBeyonce,29.148
+08:41,9,FujiiKazeFreeLive21,
+08:41,10,ジオグリフ,
+09:10,1,HappyBirthdayMarkTuan,302.156
+09:10,2,TuanInAMillionDay,307.119
+09:10,3,藤井風,25.522
+09:10,4,Sehun,146.976
+09:10,5,マイナビTGC,29.206
+09:10,6,あ行に結婚相手がいる,
+09:10,7,ダークエクリプス,13.362
+09:10,8,Dodgers,33.987
+09:10,9,ジオグリフ,
+09:10,10,Giants,59.363
+09:41,1,HappyBirthdayMarkTuan,369.200
+09:41,2,TuanInAMillionDay,372.778
+09:41,3,Queendom5thWin,18.179
+09:41,4,あ行に結婚相手がいる,
+09:41,5,Sehun,163.148
+09:41,6,藤井風,26.570
+09:41,7,ダークエクリプス,16.094
+09:41,8,ジオグリフ,
+09:41,9,Dodgers,34.520
+09:41,10,マダラ蝶,
+10:10,1,HappyBirthdayMarkTuan,410.581
+10:10,2,TuanInAMillionDay,410.935
+10:10,3,あ行に結婚相手がいる,
+10:10,4,Queendom5thWin,31.237
+10:10,5,シンデレラ1st上映会_day1,
+10:10,6,Sehun,165.600
+10:10,7,栗山さん,
+10:10,8,栗山さん,
+10:10,9,たかほー,
+10:10,10,ダークエクリプス,18.015
+10:41,1,シンデレラ1st上映会_day1,19.309
+10:41,2,HappyBirthdayMarkTuan,453.446
+10:41,3,TuanInAMillionDay,450.156
+10:41,4,njwgsDay1,10.457
+10:41,5,あ行に結婚相手がいる,
+10:41,6,栗山さん,
+10:41,7,栗山さん,
+10:41,8,Sehun,174.571
+10:41,9,わしほー,
+10:41,10,Kubica,
+11:10,1,シンデレラ1st上映会_day1,30.422
+11:10,2,HappyBirthdayMarkTuan,485.358
+11:10,3,njwgsDay1,16.719
+11:10,4,TuanInAMillionDay,479.267
+11:10,5,あ行に結婚相手がいる,
+11:10,6,キリショー結婚,
+11:10,7,トゥワイス,11.119
+11:10,8,栗山さん,10.750
+11:10,9,感染者高止まり,
+11:10,10,鬼龍院さん,
+11:41,1,シンデレラ1st上映会_day1,42.268
+11:41,2,njwgsDay1,22.166
+11:41,3,HappyBirthdayMarkTuan,509.270
+11:41,4,あ行に結婚相手がいる,
+11:41,5,キリショー結婚,
+11:41,6,TuanInAMillionDay,501.173
+11:41,7,感染者高止まり,
+11:41,8,トゥワイス,12.290
+11:41,9,鬼龍院さん,
+11:41,10,栗山さん,11.749
+12:10,1,シンデレラ1st上映会_day1,53.677
+12:10,2,あ行に結婚相手がいる,
+12:10,3,キリショー結婚,
+12:10,4,njwgsDay1,25.305
+12:10,5,HappyBirthdayMarkTuan,529.159
+12:10,6,TuanInAMillionDay,518.246
+12:10,7,Salarha Tüneli,
+12:10,8,感染者高止まり,
+12:10,9,鬼龍院さん,
+12:10,10,トゥワイス,12.670
+12:41,1,シンデレラ1st上映会_day1,67.009
+12:41,2,あ行に結婚相手がいる,
+12:41,3,キリショー結婚,
+12:41,4,njwgsDay1,29.216
+12:41,5,HappyBirthdayMarkTuan,550.229
+12:41,6,AFLLionsDogs,
+12:41,7,Gルート,
+12:41,8,Salarha Tüneli,
+12:41,9,SB19xDunkin TheOneMV,28.991
+12:41,10,梅ちゃん,
+13:10,1,Gルート,11.307
+13:10,2,星野源ANN,16.041
+13:10,3,あ行に結婚相手がいる,
+13:10,4,シンデレラ1st上映会_day1,69.982
+13:10,5,キリショー,16.206
+13:10,6,njwgsDay1,33.214
+13:10,7,AFLLionsDogs,
+13:10,8,SB19xDunkin TheOneMV,44.280
+13:10,9,Salarha Tüneli,
+13:10,10,梅ちゃん,
+13:41,1,Gルート,15.052
+13:41,2,星野源ANN,27.639
+13:41,3,あ行に結婚相手がいる,
+13:41,4,癒月ちょこ3周年,11.508
+13:41,5,シンデレラ1st上映会_day1,71.737
+13:41,6,SB19xDunkin TheOneMV,71.121
+13:41,7,乃木坂配信中,13.127
+13:41,8,キリショー,17.414
+13:41,9,ARMY TMA DOMINATION,92.447
+13:41,10,試験総合順位,
+14:10,1,Gルート,17.769
+14:10,2,乃木坂配信中,23.455
+14:10,3,星野源ANN,40.905
+14:10,4,AFLLionsDogs,
+14:10,5,あ行に結婚相手がいる,
+14:10,6,癒月ちょこ3周年,18.325
+14:10,7,ARMY TMA DOMINATION,178.857
+14:10,8,思い出ファーストのMV,
+14:10,9,SB19xDunkin TheOneMV,82.678
+14:10,10,キリショー,18.733
+14:41,1,乃木坂配信中,38.144
+14:41,2,AFLLionsDogs,
+14:41,3,声優パジャマ会議,97.864
+14:41,4,恋降る月夜に君想ふ,46.873
+14:41,5,Gルート,19.765
+14:41,6,思い出ファースト,36.028
+14:41,7,ARMY TMA DOMINATION,243.462
+14:41,8,ホームラン,42.786
+14:41,9,国枝選手,
+14:41,10,SB19xDunkin TheOneMV,90.857
+15:10,1,国枝選手,31.691
+15:10,2,車いすテニス,45.660
+15:10,3,声優パジャマ会議,163.439
+15:10,4,恋降る月夜に君想ふ,60.903
+15:10,5,思い出ファースト,50.052
+15:10,6,乃木坂配信中,42.007
+15:10,7,Gルート,21.139
+15:10,8,ARMY TMA DOMINATION,273.124
+15:10,9,ホームラン,46.812
+15:10,10,首位奪還,
+15:41,1,国枝選手,38.139
+15:41,2,声優パジャマ会議,244.797
+15:41,3,車いすテニス,51.046
+15:41,4,恋降る月夜に君想ふ,70.439
+15:41,5,DutchGP,91.737
+15:41,6,ボイス2,26.084
+15:41,7,Perez,51.979
+15:41,8,Gルート,22.433
+15:41,9,ARMY TMA DOMINATION,290.801
+15:41,10,Checo,
+16:10,1,声優パジャマ会議,311.653
+16:10,2,ボイス2,39.682
+16:10,3,DutchGP,97.619
+16:10,4,国枝選手,40.533
+16:10,5,車いすテニス,47.360
+16:10,6,恋降る月夜に君想ふ,75.940
+16:10,7,透ちゃん,14.275
+16:10,8,Perez,52.000
+16:10,9,Latifi,
+16:10,10,Gルート,23.275
+17:10,1,SixTONESANN,99.146
+17:10,2,DutchGP,123.287
+17:10,3,ハイヒロ,137.936
+17:10,4,声優パジャマ会議,368.558
+17:10,5,RohitSharma,30.505
+17:10,6,CATCH ME IF YOU CAN,55.304
+17:10,7,国枝選手,43.404
+17:10,8,透ちゃん,16.785
+17:10,9,Verstappen,25.958
+17:10,10,Perez,53.716
+17:41,1,CATCH ME IF YOU CAN,228.025
+17:41,2,SixTONESANN,156.108
+17:41,3,PresaveLS1Now,176.801
+17:41,4,4YearsWithSerendipity,100.840
+17:41,5,세렌디피티4주년축하해,89.845
+17:41,6,DutchGP,128.313
+17:41,7,JIMIN OUR SERENDIPITY,68.982
+17:41,8,国枝選手,44.285
+17:41,9,THE BEST CONCEPT PHOTO,35.798
+17:41,10,Kyungsoo,58.242
+18:10,1,CATCH ME IF YOU CAN,294.486
+18:10,2,4YearsWithSerendipity,136.033
+18:10,3,PresaveLS1Now,227.672
+18:10,4,SixTONESANN,195.339
+18:10,5,세렌디피티4주년축하해,118.935
+18:10,6,5YearsWithBegin,40.105
+18:10,7,WE BEGIN WITH JUNGKOOK,25.427
+18:10,8,Movistar,10.939
+18:10,9,Kyungsoo,60.911
+18:10,10,Team 3,43.000
+18:41,1,CATCH ME IF YOU CAN,328.845
+18:41,2,4YearsWithSerendipity,158.591
+18:41,3,PresaveLS1Now,253.464
+18:41,4,세렌디피티4주년축하해,137.754
+18:41,5,SixTONESANN,198.866
+18:41,6,5YearsWithBegin,61.011
+18:41,7,WE BEGIN WITH JUNGKOOK,42.101
+18:41,8,Tulane,10.467
+18:41,9,Movistar,13.505
+18:41,10,kyungsoo,63.525
+19:10,1,4YearsWithSerendipity,176.967
+19:10,2,CATCH ME IF YOU CAN,350.148
+19:10,3,세렌디피티4주년축하해,150.871
+19:10,4,PresaveLS1Now,267.493
+19:10,5,5YearsWithBegin,74.357
+19:10,6,FileninSultanlari,82.800
+19:10,7,Tulane,12.596
+19:10,8,WE BEGIN WITH JUNGKOOK,52.939
+19:10,9,Ronnie Bell,
+19:10,10,Oklahoma,44.741
+19:41,1,4YearsWithSerendipity,189.649
+19:41,2,FileninSultanlari,93.446
+19:41,3,세렌디피티4주년축하해,159.111
+19:41,4,CATCH ME IF YOU CAN,363.871
+19:41,5,5YearsWithBegin,83.910
+19:41,6,Tulane,14.410
+19:41,7,CBLOL,
+19:41,8,Wisconsin,37.060
+19:41,9,Penn State,13.242
+19:41,10,WE BEGIN WITH JUNGKOOK,60.956
+20:10,1,4YearsWithSerendipity,198.456
+20:10,2,FileninSultanlari,87.823
+20:10,3,5YearsWithBegin,90.154
+20:10,4,세렌디피티4주년축하해,164.570
+20:10,5,Wisconsin,38.878
+20:10,6,Penn State,15.463
+20:10,7,Tulane,15.436
+20:10,8,CATCH ME IF YOU CAN,373.389
+20:10,9,CBLOL,
+20:10,10,WE BEGIN WITH JUNGKOOK,66.021
+20:41,1,4YearsWithSerendipity,204.744
+20:41,2,Penn State,17.868
+20:41,3,Wisconsin,41.354
+20:41,4,SoccerAid,
+20:41,5,5YearsWithBegin,94.437
+20:41,6,FileninSultanlari,93.664
+20:41,7,세렌디피티4주년축하해,168.332
+20:41,8,CATCH ME IF YOU CAN,380.759
+20:41,9,Tulane,16.155
+20:41,10,WE BEGIN WITH JUNGKOOK,69.457
+21:10,1,AwayFromHome,109.747
+21:10,2,SoccerAid,
+21:10,3,Enes Ünal,
+21:10,4,الدمام,12.228
+21:10,5,LouisLive,61.792
+21:10,6,Wisconsin,43.744
+21:10,7,LouisTomlinson,86.984
+21:10,8,Penn State,19.250
+21:10,9,Jump Around,
+21:10,10,Tulane,16.922
+21:41,1,UKRFRA,18.559
+21:41,2,AwayFromHome,130.151
+21:41,3,Enes Ünal,
+21:41,4,SoccerAid,
+21:41,5,Tulane,24.422
+21:41,6,الدمام,25.615
+21:41,7,Martial,25.940
+21:41,8,Penn State,23.315
+21:41,9,Wisconsin,49.177
+21:41,10,LouisLive,79.704
+22:10,1,UKRFRA,25.175
+22:10,2,italiaserbia,25.683
+22:10,3,AwayFromHome,146.817
+22:10,4,Tulane,30.300
+22:10,5,SoccerAid,10.376
+22:10,6,Enes Ünal,10.361
+22:10,7,الدمام,36.893
+22:10,8,Penn State,27.804
+22:10,9,Martial,33.007
+22:10,10,Wisconsin,52.235
+22:41,1,UKRFRA,29.953
+22:41,2,AwayFromHomeFestival,349.839
+22:41,3,italiaserbia,34.703
+22:41,4,UFCVegas36,26.565
+22:41,5,SoccerAid,13.142
+22:41,6,Paddy,21.473
+22:41,7,Tulane,31.895
+22:41,8,Enes Ünal,11.111
+22:41,9,Bama,21.803
+22:41,10,Penn State,29.054
+23:10,1,UKRFRA,34.012
+23:10,2,AwayFromHomeFestival,383.504
+23:10,3,Calamidade,61.480
+23:10,4,italiaserbia,38.230
+23:10,5,UFCVegas36,31.683
+23:10,6,Bama,26.940
+23:10,7,Paddy,23.380
+23:10,8,helene,48.658
+23:10,9,Tulane,32.788
+23:10,10,Enes Ünal,11.777
+23:41,1,AwayFromHomeFestival,448.278
+23:41,2,CaldeiraoDoMion,22.440
+23:41,3,Calamidade,88.718
+23:41,4,UKRFRA,35.290
+23:41,5,helene,73.975
+23:41,6,UFCVegas36,34.608
+23:41,7,Bama,29.327
+23:41,8,PROUD OF LOUIS,110.254
+23:41,9,Paddy,24.653
+23:41,10,Tulane,33.754

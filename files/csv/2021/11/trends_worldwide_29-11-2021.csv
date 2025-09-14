@@ -1,0 +1,451 @@
+hora,posicio,trend,volum
+00:10,1,Virgil,694.456
+00:10,2,Vinicius,107.341
+00:10,3,Lincoln Riley,51.887
+00:10,4,Steph,47.013
+00:10,5,Happy Hanukkah,66.300
+00:10,6,Colts,48.056
+00:10,7,VamosColoColoCTM,
+00:10,8,Sevilla,64.669
+00:10,9,annewill,15.111
+00:10,10,Reagor,31.981
+01:10,1,Rams,36.041
+01:10,2,Virgil,753.012
+01:10,3,Stafford,18.950
+01:10,4,Happy Hanukkah,76.504
+01:10,5,Vinicius,117.812
+01:10,6,Packers,44.700
+01:10,7,Steph,59.576
+01:10,8,GoPackGo,22.110
+01:10,9,Deebo,14.805
+01:10,10,Lincoln Riley,56.797
+01:41,1,Rams,39.708
+01:41,2,Happy Hanukkah,81.514
+01:41,3,Stafford,21.348
+01:41,4,Virgil,778.288
+01:41,5,Packers,48.643
+01:41,6,MEGAN,168.435
+01:41,7,GoPackGo,23.830
+01:41,8,Vinicius,121.482
+01:41,9,Deebo,16.300
+01:41,10,Steph,63.055
+02:10,1,Rams,45.899
+02:10,2,Happy Hanukkah,86.107
+02:10,3,GoPackGo,28.874
+02:10,4,Packers,57.591
+02:10,5,RHOPReunion,12.909
+02:10,6,Stafford,23.313
+02:10,7,megan,181.046
+02:10,8,Virgil,793.435
+02:10,9,Deebo,17.285
+02:10,10,Vinicius,122.886
+02:41,1,RHOPReunion,27.936
+02:41,2,Rams,48.162
+02:41,3,SoulTrainAwards,
+02:41,4,Happy Hanukkah,90.813
+02:41,5,Nicki,35.707
+02:41,6,GoPackGo,30.791
+02:41,7,Packers,60.964
+02:41,8,Browns,10.534
+02:41,9,Stafford,24.340
+02:41,10,megan,194.079
+03:10,1,RHOPReunion,40.637
+03:10,2,SoulTrainAwards,15.248
+03:10,3,Browns,43.476
+03:10,4,Nicki,40.644
+03:10,5,Rams,49.186
+03:10,6,Happy Hanukkah,95.193
+03:10,7,Ravens,30.419
+03:10,8,GoPackGo,32.058
+03:10,9,Packers,62.864
+03:10,10,SNOWDROP SCRIPT READING,52.118
+03:41,1,RHOPReunion,43.869
+03:41,2,Browns,51.681
+03:41,3,MITCH,20.377
+03:41,4,SoulTrainAwards,21.656
+03:41,5,Ashanti,
+03:41,6,Happy Hanukkah,99.219
+03:41,7,PorshasFamilyMatters,
+03:41,8,Nicki,42.798
+03:41,9,Rams,52.134
+03:41,10,Ravens,34.002
+04:10,1,Lamar,31.298
+04:10,2,Browns,65.627
+04:10,3,InsecureHBO,
+04:10,4,Ravens,41.077
+04:10,5,RHOPReunion,45.252
+04:10,6,SoulTrainAwards,28.150
+04:10,7,MITCH,21.864
+04:10,8,CLEvsBAL,
+04:10,9,PorshasFamilyMatters,
+04:10,10,Happy Hanukkah,102.678
+04:41,1,Lamar,40.692
+04:41,2,Browns,73.894
+04:41,3,InsecureHBO,15.657
+04:41,4,Baker,42.522
+04:41,5,SoulTrainAwards,34.436
+04:41,6,Ravens,47.364
+04:41,7,Issa,24.471
+04:41,8,RHOPReunion,46.579
+04:41,9,ConfessSpace,11.775
+04:41,10,CLEvsBAL,
+05:10,1,Lamar,48.557
+05:10,2,Browns,82.117
+05:10,3,InsecureHBO,19.648
+05:10,4,Baker,45.045
+05:10,5,Ravens,50.985
+05:10,6,Issa,26.223
+05:10,7,SoulTrainAwards,37.347
+05:10,8,ConfessSpace,15.577
+05:10,9,CLEvsBAL,11.427
+05:10,10,MITCH,24.082
+05:41,1,Lamar,54.704
+05:41,2,Browns,94.125
+05:41,3,Baker,52.918
+05:41,4,InsecureHBO,22.242
+05:41,5,Ravens,58.671
+05:41,6,MEGAN,227.742
+05:41,7,Issa,27.935
+05:41,8,ConfessSpace,19.427
+05:41,9,入国停止,
+05:41,10,MITCH,27.807
+06:10,1,MEGAN,529.148
+06:10,2,Lamar,58.431
+06:10,3,Browns,101.971
+06:10,4,Baker,57.760
+06:10,5,InsecureHBO,23.897
+06:10,6,Ravens,64.855
+06:10,7,入国停止,36.462
+06:10,8,Issa,28.526
+06:10,9,mitch,30.481
+06:10,10,外国人の新規入国,18.106
+06:41,1,MEGAN,608.722
+06:41,2,SpiderManNoWayHome,66.013
+06:41,3,Lamar,59.964
+06:41,4,Browns,104.812
+06:41,5,Baker,59.782
+06:41,6,InsecureHBO,25.262
+06:41,7,入国停止,44.368
+06:41,8,Ravens,67.032
+06:41,9,PTD_ON_STAGE_LA_Day2,314.294
+06:41,10,Issa,29.913
+07:10,1,SpiderManNoWayHome,78.282
+07:10,2,MEGAN,652.114
+07:10,3,Lamar,60.445
+07:10,4,Browns,105.645
+07:10,5,Baker,60.221
+07:10,6,Cinépolis,18.077
+07:10,7,InsecureHBO,26.266
+07:10,8,PTD_ON_STAGE_LA_Day2,376.037
+07:10,9,入国停止,50.538
+07:10,10,Spider-Man,74.916
+07:41,1,SpiderManNoWayHome,95.861
+07:41,2,MEGAN,705.493
+07:41,3,Cinépolis,32.256
+07:41,4,PTD_ON_STAGE_LA_Day2,453.409
+07:41,5,Lamar,61.090
+07:41,6,Browns,106.298
+07:41,7,入国停止,
+07:41,8,Baker,60.960
+07:41,9,InsecureHBO,27.250
+07:41,10,Pazartesi,
+08:10,1,SpiderManNoWayHome,105.198
+08:10,2,MEGAN,726.454
+08:10,3,Cinépolis,39.151
+08:10,4,PTD_ON_STAGE_LA_Day2,482.759
+08:10,5,Lamar,61.258
+08:10,6,入国停止,59.702
+08:10,7,Pazartesi,
+08:10,8,Browns,106.603
+08:10,9,InsecureHBO,27.880
+08:10,10,Baker,61.127
+08:41,1,SpiderManNoWayHome,112.874
+08:41,2,MEGAN,886.582
+08:41,3,Cinépolis,42.991
+08:41,4,PTD_ON_STAGE_LA_Day2,511.605
+08:41,5,Pazartesi,
+08:41,6,入国停止,63.957
+08:41,7,MondayMotivation,36.541
+08:41,8,SixTONES_FeeldaCITY,
+08:41,9,Quavo,
+08:41,10,Lamar,61.726
+09:10,1,SpiderManNoWayHome,117.646
+09:10,2,MEGAN,935.417
+09:10,3,Cinépolis,45.453
+09:10,4,SixTONES_FeeldaCITY,
+09:10,5,PTD_ON_STAGE_LA_Day2,531.212
+09:10,6,MondayMotivation,39.066
+09:10,7,Pazartesi,
+09:10,8,入国停止,
+09:10,9,Quavo,
+09:10,10,Lamar,61.420
+09:41,1,SpiderManNoWayHome,122.942
+09:41,2,SixTONES_FeeldaCITY,11.881
+09:41,3,MEGAN,971.172
+09:41,4,VenmoMe,
+09:41,5,スシロー禁断の90円,10.979
+09:41,6,あなたを焼肉の部位に例えると,
+09:41,7,Cinépolis,46.977
+09:41,8,入国停止,70.806
+09:41,9,Quavo,
+09:41,10,CHRISTMAS EVEL WITH SKZ,25.617
+10:10,1,SpiderManNoWayHome,126.436
+10:10,2,스키즈의_겨울_WinterFalls,137.885
+10:10,3,ChristmasEveLOutNow,132.796
+10:10,4,SixTONES_FeeldaCITY,15.181
+10:10,5,VenmoMe,
+10:10,6,MEGAN,992.476
+10:10,7,Cinépolis,47.998
+10:10,8,ドM体質,
+10:10,9,入国停止,74.359
+10:10,10,Quavo,
+10:41,1,SpiderManNoWayHome,129.316
+10:41,2,ChristmasEveLOutNow,165.306
+10:41,3,스키즈의_겨울_WinterFalls,166.954
+10:41,4,SixTONES_FeeldaCITY,17.815
+10:41,5,あなたを焼肉の部位に例えると,
+10:41,6,Megan,1.023.541
+10:41,7,ドM体質,
+10:41,8,Cinépolis,49.236
+10:41,9,入国停止,
+10:41,10,岡田准一,23.278
+11:10,1,SpiderManNoWayHome,131.482
+11:10,2,ChristmasEveLOutNow,176.145
+11:10,3,스키즈의_겨울_WinterFalls,176.648
+11:10,4,あなたを焼肉の部位に例えると,
+11:10,5,SixTONES_FeeldaCITY,20.133
+11:10,6,ドM体質,
+11:10,7,MEGAN,1.044.031
+11:10,8,수능 결과,
+11:10,9,Kerokan Pake Plossa,
+11:10,10,誰かのための自分,
+11:41,1,ChristmasEveLOutNow,181.952
+11:41,2,SpiderManNoWayHome,133.845
+11:41,3,스키즈의_겨울_WinterFalls,180.696
+11:41,4,あなたを焼肉の部位に例えると,
+11:41,5,NotmeSeries,127.939
+11:41,6,ドM体質,
+11:41,7,FGO限定星5所持チェッカー,
+11:41,8,セイヤさん,
+11:41,9,誰かのための自分,
+11:41,10,Megan,1.072.146
+12:10,1,あなたを焼肉の部位に例えると,
+12:10,2,INDvsNZTestSeries,
+12:10,3,NotmeTrailer,91.630
+12:10,4,ChristmasEveLOutNow,185.410
+12:10,5,SpiderManNoWayHome,135.301
+12:10,6,ドM体質,
+12:10,7,FGO限定星5所持チェッカー,
+12:10,8,Ravindra,
+12:10,9,副キャプテン,
+12:10,10,誰かのための自分,
+12:41,1,あなたを焼肉の部位に例えると,
+12:41,2,CathyDollBrightSkinWinMyHeart,135.839
+12:41,3,INDvsNZTestSeries,
+12:41,4,NotmeTrailer,122.749
+12:41,5,PinkMondayWithPLT,10.851
+12:41,6,ドM体質,
+12:41,7,FGO限定星5所持チェッカー,
+12:41,8,副キャプテン,
+12:41,9,SB19 Proudly Homegrown,46.576
+12:41,10,誰かのための自分,
+13:10,1,あなたを焼肉の部位に例えると,
+13:10,2,CathyDollBrightSkinWinMyHeart,196.212
+13:10,3,またまたさかまた,18.610
+13:10,4,INDvsNZTestSeries,
+13:10,5,HOWEXMEW,48.363
+13:10,6,ドM体質,
+13:10,7,FGO限定星5所持チェッカー,
+13:10,8,BUTTERVOTE ON DAESANG,73.428
+13:10,9,EXILE,38.549
+13:10,10,副キャプテン,
+13:41,1,またまたさかまた,72.221
+13:41,2,CDTVライブライブ,29.008
+13:41,3,あなたを焼肉の部位に例えると,
+13:41,4,HOWEXMEW,135.254
+13:41,5,CathyDollBrightSkinWinMyHeart,245.510
+13:41,6,EXILE,50.390
+13:41,7,ドM体質,
+13:41,8,FGO限定星5所持チェッカー,
+13:41,9,BUTTERVOTE ON DAESANG,92.542
+13:41,10,Osman Kuzucu,
+14:41,1,またまたさかまた,154.383
+14:41,2,CDTVライブライブ,65.761
+14:41,3,DOGEorTesla,14.655
+14:41,4,HOWEXMEW,272.494
+14:41,5,CyberMondayEnChollometro,
+14:41,6,EXILE,57.954
+14:41,7,FGO限定星5所持チェッカー,
+14:41,8,ドM体質,
+14:41,9,Aristides,25.419
+14:41,10,SB19 Proudly Homegrown,138.849
+15:10,1,DOGEorTesla,32.172
+15:10,2,またまたさかまた,163.268
+15:10,3,Binance,125.855
+15:10,4,엠제이_계세요_더트롯쇼1위,40.176
+15:10,5,CDTVライブライブ,68.976
+15:10,6,しゃべくり,
+15:10,7,CONGRATULATIONS MJ,20.164
+15:10,8,Aristides,27.369
+15:10,9,FGO限定星5所持チェッカー,
+15:10,10,EXILE,60.081
+15:41,1,DOGEorTesla,45.275
+15:41,2,Binance,141.465
+15:41,3,またまたさかまた,170.783
+15:41,4,엠제이_계세요_더트롯쇼1위,51.703
+15:41,5,Fırtına,26.885
+15:41,6,しゃべくり,14.789
+15:41,7,CONGRATULATIONS MJ,25.321
+15:41,8,Aristides,29.862
+15:41,9,FGO限定星5所持チェッカー,
+15:41,10,OUR ONE YEAR LOVE ENHYPEN,97.846
+16:10,1,Happy1stENniversary,364.646
+16:10,2,Happy1stENniversary,364.646
+16:10,3,DOGEorTesla,54.003
+16:10,4,エンハイプン祝デビュー1周年,350.528
+16:10,5,데이원으로_시작한_엔하이픈의_365일,360.917
+16:10,6,しゃべくり,16.540
+16:10,7,Jack Dorsey,18.748
+16:10,8,Aristides,32.389
+16:10,9,CONGRATULATIONS MJ,27.061
+16:10,10,FGO限定星5所持チェッカー,
+16:41,1,Happy1stENniversary,465.120
+16:41,2,Happy1stENniversary,465.120
+16:41,3,데이원으로_시작한_엔하이픈의_365일,445.929
+16:41,4,エンハイプン祝デビュー1周年,428.892
+16:41,5,DOGEorTesla,61.902
+16:41,6,Jack Dorsey,29.248
+16:41,7,しゃべくり,17.698
+16:41,8,Aristides,35.548
+16:41,9,jeno,168.823
+16:41,10,나레이션,
+17:10,1,Happy1stENniversary,508.558
+17:10,2,Happy1stENniversary,508.558
+17:10,3,데이원으로_시작한_엔하이픈의_365일,484.156
+17:10,4,エンハイプン祝デビュー1周年,461.353
+17:10,5,DOGEorTesla,67.928
+17:10,6,Jack Dorsey,45.341
+17:10,7,homem aranha,27.578
+17:10,8,Cabo Verde,12.963
+17:10,9,Aristides,37.669
+17:10,10,CEO of Twitter,33.307
+17:41,1,Happy1stENniversary,530.348
+17:41,2,Happy1stENniversary,530.348
+17:41,3,데이원으로_시작한_엔하이픈의_365일,502.456
+17:41,4,エンハイプン祝デビュー1周年,476.409
+17:41,5,DOGEorTesla,73.391
+17:41,6,Jack Dorsey,61.500
+17:41,7,Cabo Verde,17.746
+17:41,8,homem aranha,32.781
+17:41,9,Parag Agrawal,11.600
+17:41,10,CEO of Twitter,40.571
+18:10,1,Happy1stENniversary,542.145
+18:10,2,Happy1stENniversary,542.145
+18:10,3,데이원으로_시작한_엔하이픈의_365일,511.791
+18:10,4,Jack Dorsey,72.686
+18:10,5,DOGEorTesla,78.062
+18:10,6,エンハイプン祝デビュー1周年,484.218
+18:10,7,Cabo Verde,21.772
+18:10,8,homem aranha,35.484
+18:10,9,CEO of Twitter,48.856
+18:10,10,Messi,303.199
+19:10,1,BallonDor,170.309
+19:10,2,Happy1stENniversary,556.718
+19:10,3,Jack Dorsey,91.180
+19:10,4,DOGEorTesla,85.966
+19:10,5,CyberMonday,76.030
+19:10,6,GÖZvFB,
+19:10,7,Cabo Verde,29.701
+19:10,8,Messi,330.875
+19:10,9,Mets,102.128
+19:10,10,Mesut,11.391
+19:40,1,BallonDor,198.162
+19:40,2,Jack Dorsey,97.435
+19:40,3,Happy1stENniversary,560.762
+19:40,4,GÖZvFB,
+19:40,5,Messi,357.934
+19:40,6,CyberMonday,80.379
+19:40,7,DOGEorTesla,89.494
+19:40,8,Cabo Verde,33.037
+19:40,9,Mets,108.681
+19:40,10,homem aranha,43.658
+20:10,1,BallonDor,230.953
+20:10,2,GÖZvFB,12.204
+20:10,3,Ali Koç,10.303
+20:10,4,Messi,373.134
+20:10,5,Jack Dorsey,103.339
+20:10,6,Tom Holland,54.774
+20:10,7,CyberMonday,83.440
+20:10,8,Happy1stENniversary,564.110
+20:10,9,DolarMıVatanMı,20.906
+20:10,10,Mesut,15.361
+20:40,1,BallonDor,297.607
+20:40,2,Messi,454.021
+20:40,3,GÖZvFB,13.105
+20:40,4,Ali Koç,14.177
+20:40,5,DolarMıVatanMı,27.091
+20:40,6,Tom Holland,64.375
+20:40,7,Lewandowski,113.023
+20:40,8,Zendaya,23.715
+20:40,9,Jack Dorsey,108.207
+20:40,10,CyberMonday,86.329
+21:10,1,BallonDor,372.918
+21:10,2,Messi,494.244
+21:10,3,Pedri,104.389
+21:10,4,Lewandowski,138.500
+21:10,5,Ali Koç,16.067
+21:10,6,Ocon,
+21:10,7,DolarMıVatanMı,33.556
+21:10,8,Tom Holland,72.406
+21:10,9,Zendaya,33.134
+21:10,10,GÖZvFB,12.969
+21:40,1,BallonDor,477.402
+21:40,2,Messi,540.991
+21:40,3,Pedri,127.374
+21:40,4,BalondeOro,37.441
+21:40,5,Lewandowski,167.217
+21:40,6,Alexia,54.824
+21:40,7,Mendy,41.468
+21:40,8,Donnarumma,20.588
+21:40,9,DolarMıVatanMı,39.678
+21:40,10,Ali Koç,17.608
+22:10,1,Messi,941.817
+22:10,2,BallonDor,729.374
+22:10,3,Lewandowski,258.680
+22:10,4,Azzaro,19.645
+22:10,5,Benzema,169.231
+22:10,6,Mendy,65.212
+22:10,7,ميسي,93.669
+22:10,8,Pedri,139.614
+22:10,9,France Football,67.703
+22:10,10,Kante,42.544
+22:40,1,Messi,1.305.145
+22:40,2,Messi,1.305.145
+22:40,3,Lewandowski,344.124
+22:40,4,Azzaro,36.255
+22:40,5,Benzema,194.813
+22:40,6,ميسي,118.751
+22:40,7,Mendy,74.386
+22:40,8,France Football,87.168
+22:40,9,Kante,50.711
+22:40,10,Ronaldo,238.657
+23:10,1,Messi,1.453.956
+23:10,2,BallonDor,982.618
+23:10,3,Lewandowski,382.240
+23:10,4,Azzaro,42.159
+23:10,5,Benzema,198.809
+23:10,6,ميسي,128.805
+23:10,7,Mendy,77.895
+23:10,8,gfvip,47.730
+23:10,9,France Football,95.696
+23:10,10,Ronaldo,253.928
+23:40,1,Messi,1.400.440
+23:40,2,BallonDor,1.031.070
+23:40,3,Lewandowski,405.556
+23:40,4,Azzaro,46.139
+23:40,5,gfvip,60.917
+23:40,6,Benzema,209.070
+23:40,7,MCCelebrity,
+23:40,8,ميسي,135.681
+23:40,9,Seager,32.367
+23:40,10,Mendy,80.989

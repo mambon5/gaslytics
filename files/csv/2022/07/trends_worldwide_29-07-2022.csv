@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,ilhanirem,29.371
+00:10,2,CommonwealthGames2022,22.444
+00:10,3,SVFinal,28.458
+00:10,4,Partey,42.210
+00:10,5,Davide,20.286
+00:10,6,Massa,178.212
+00:10,7,BBNajia,46.153
+00:10,8,RENAISSANCE,120.232
+00:10,9,Duran Duran,20.999
+00:10,10,Jon Stewart,50.902
+00:40,1,ilhanirem,31.066
+00:40,2,SVFinal,33.041
+00:40,3,CommonwealthGames2022,23.202
+00:40,4,Partey,45.643
+00:40,5,RENAISSANCE,128.533
+00:40,6,Davide,21.074
+00:40,7,NickiDocumentary,14.901
+00:40,8,Massa,189.760
+00:40,9,Kelis,12.343
+00:40,10,Duran Duran,21.850
+01:10,1,ilhanirem,32.119
+01:10,2,SVFinal,43.101
+01:10,3,Kelis,18.895
+01:10,4,RENAISSANCE,135.961
+01:10,5,NickiDocumentary,20.937
+01:10,6,CommonwealthGames2022,23.734
+01:10,7,Partey,48.002
+01:10,8,Massa,186.987
+01:10,9,Davide,21.238
+01:10,10,Beyoncé,271.040
+01:40,1,Andrey,18.543
+01:40,2,SVFinal,54.380
+01:40,3,ilhanirem,32.835
+01:40,4,Kelis,25.771
+01:40,5,RENAISSANCE,145.715
+01:40,6,Massa,196.759
+01:40,7,KızlarModel ErkekSever,
+01:40,8,NickiDocumentary,24.305
+01:40,9,Beyoncé,286.050
+01:40,10,Partey,50.050
+02:10,1,SVFinal,65.727
+02:10,2,Kelis,32.147
+02:10,3,Andrey,21.864
+02:10,4,ilhanirem,33.219
+02:10,5,RENAISSANCE,152.562
+02:10,6,Luciano,14.617
+02:10,7,Massa,192.038
+02:10,8,Supervivientes2022,15.712
+02:10,9,Ganso,
+02:10,10,Beyoncé,291.086
+02:40,1,SVFinal,69.077
+02:40,2,Kelis,38.012
+02:40,3,Andrey,24.425
+02:40,4,Thiago Couto,
+02:40,5,RENAISSANCE,159.173
+02:40,6,Luciano,16.397
+02:40,7,ilhanirem,33.619
+02:40,8,Maidana,
+02:40,9,Massa,200.584
+02:40,10,Beyoncé,303.662
+03:10,1,Kelis,42.940
+03:10,2,SVFinal,70.112
+03:10,3,Luciano,18.469
+03:10,4,RENAISSANCE,163.249
+03:10,5,Thiago Couto,
+03:10,6,Andrey,25.493
+03:10,7,Maidana,
+03:10,8,Massa,197.985
+03:10,9,ilhanirem,33.931
+03:10,10,Beyoncé,308.557
+03:40,1,Kelis,47.469
+03:40,2,BB24,124.739
+03:40,3,RENAISSANCE,167.919
+03:40,4,Luciano,19.971
+03:40,5,SVFinal,70.563
+03:40,6,Diniz,
+03:40,7,Thiago Couto,
+03:40,8,Maidana,
+03:40,9,cashappamerica,
+03:40,10,Andrey,26.499
+04:10,1,BB24,139.344
+04:10,2,Kelis,51.312
+04:10,3,cashappamerica,
+04:10,4,RENAISSANCE,172.956
+04:10,5,Luciano,20.183
+04:10,6,Diniz,
+04:10,7,14MProudOfWIN,74.684
+04:10,8,Maidana,
+04:10,9,Aaron Judge,
+04:10,10,Thiago Couto,
+04:40,1,BB24,146.166
+04:40,2,Kelis,55.010
+04:40,3,cashappamerica,10.354
+04:40,4,RENAISSANCE,183.331
+04:40,5,14MProudOfWIN,99.496
+04:40,6,Aaron Judge,10.282
+04:40,7,Beyoncé,340.200
+04:40,8,Luciano,20.837
+04:40,9,Diniz,
+04:40,10,Massa,212.270
+05:10,1,RENAISSANCE,200.156
+05:10,2,Kelis,57.684
+05:10,3,Beyonce,60.932
+05:10,4,cashappamerica,11.320
+05:10,5,BB24,142.708
+05:10,6,THE HU,
+05:10,7,READY FOR LOVE OUT TODAY,60.088
+05:10,8,14MProudOfWIN,113.836
+05:10,9,Aaron Judge,10.779
+05:10,10,Massa,213.009
+05:40,1,RENAISSANCE,229.255
+05:40,2,Beyonce,68.028
+05:40,3,READY FOR LOVE OUT TODAY,103.063
+05:40,4,BLACKPINKxPUBGM,167.853
+05:40,5,Kelis,61.179
+05:40,6,cashappamerica,12.013
+05:40,7,Tony Dize,
+05:40,8,THE HU,
+05:40,9,BB24,145.803
+05:40,10,ATEEZ GUERRILLA IS OUT,29.764
+06:10,1,RENAISSANCE,261.063
+06:10,2,BLACKPINKxPUBGM,253.785
+06:10,3,READY FOR LOVE OUT TODAY,195.053
+06:10,4,Beyoncé,422.878
+06:10,5,100Indecisos,
+06:10,6,ATEEZ GUERRILLA IS OUT,55.375
+06:10,7,ATEEZ_MOVEMENT,55.327
+06:10,8,Kelis,64.459
+06:10,9,JISOO,62.114
+06:10,10,Bad Bunny,58.689
+06:40,1,RENAISSANCE,312.988
+06:40,2,BLACKPINKxPUBGM,401.494
+06:40,3,Beyoncé,533.525
+06:40,4,READY FOR LOVE OUT TODAY,325.985
+06:40,5,Cuff It,23.611
+06:40,6,JISOO,105.717
+06:40,7,100Indecisos,21.246
+06:40,8,Church Girl,26.300
+06:40,9,ATEEZ_MOVEMENT,78.286
+06:40,10,Alien Superstar,28.712
+07:10,1,RENAISSANCE,351.218
+07:10,2,Beyoncé,594.919
+07:10,3,BLACKPINKxPUBGM,467.127
+07:10,4,READY FOR LOVE OUT TODAY,402.325
+07:10,5,JISOO,132.826
+07:10,6,Church Girl,32.077
+07:10,7,Cuff It,27.483
+07:10,8,100Indecisos,30.724
+07:10,9,ATEEZ_MOVEMENT,91.422
+07:10,10,Virgo's Groove,14.523
+07:40,1,RENAISSANCE,375.057
+07:40,2,Beyoncé,646.399
+07:40,3,BLACKPINKxPUBGM,515.704
+07:40,4,READY FOR LOVE OUT TODAY,445.556
+07:40,5,Church Girl,37.396
+07:40,6,Cuff It,30.803
+07:40,7,JISOO,157.511
+07:40,8,Virgo's Groove,16.917
+07:40,9,100Indecisos,34.294
+07:40,10,Alien Superstar,36.151
+08:10,1,RENAISSANCE,390.310
+08:10,2,Beyoncé,678.252
+08:10,3,BLACKPINKxPUBGM,539.225
+08:10,4,READY FOR LOVE OUT TODAY,475.002
+08:10,5,Church Girl,40.706
+08:10,6,Cuff It,32.806
+08:10,7,JISOO,170.364
+08:10,8,Virgo's Groove,18.459
+08:10,9,Alien Superstar,38.727
+08:10,10,ATEEZ_MOVEMENT,105.718
+08:40,1,RENAISSANCE,401.549
+08:40,2,Beyoncé,706.575
+08:40,3,BLACKPINKxPUBGM,564.376
+08:40,4,READY FOR LOVE OUT TODAY,499.219
+08:40,5,Church Girl,42.801
+08:40,6,JISOO,194.113
+08:40,7,Cuff It,34.102
+08:40,8,Virgo's Groove,19.452
+08:40,9,Alien Superstar,40.463
+08:40,10,Bad Bunny,113.437
+09:10,1,RENAISSANCE,410.239
+09:10,2,Beyoncé,726.447
+09:10,3,BLACKPINKxPUBGM,575.614
+09:10,4,READY FOR LOVE OUT TODAY,516.279
+09:10,5,Church Girl,44.399
+09:10,6,jisoo,205.180
+09:10,7,Cuff It,35.273
+09:10,8,Virgo's Groove,20.198
+09:10,9,Alien Superstar,41.831
+09:10,10,Bad Bunny,119.360
+09:40,1,RENAISSANCE,417.310
+09:40,2,Beyoncé,745.633
+09:40,3,BLACKPINKxPUBGM,589.088
+09:40,4,READY FOR LOVE OUT TODAY,528.635
+09:40,5,KDDI,21.027
+09:40,6,Church Girl,46.098
+09:40,7,jisoo,214.395
+09:40,8,Cuff It,36.105
+09:40,9,Virgo's Groove,20.712
+09:40,10,Alien Superstar,42.979
+10:10,1,RENAISSANCE,422.369
+10:10,2,Beyoncé,757.720
+10:10,3,BLACKPINKxPUBGM,596.065
+10:10,4,KDDI,24.879
+10:10,5,READY FOR LOVE OUT TODAY,539.688
+10:10,6,Church Girl,47.292
+10:10,7,jisoo,220.607
+10:10,8,Night Tempo,
+10:10,9,Cuff It,36.722
+10:10,10,InternationalTigerDay,21.340
+10:40,1,RENAISSANCE,427.472
+10:40,2,Beyoncé,772.405
+10:40,3,クラムボン,
+10:40,4,KDDI,28.461
+10:40,5,BLACKPINKxPUBGM,607.703
+10:40,6,READY FOR LOVE OUT TODAY,550.217
+10:40,7,Night Tempo,
+10:40,8,ONEPIECE1055,24.971
+10:40,9,Church Girl,48.538
+10:40,10,fujirock,20.548
+11:10,1,RENAISSANCE,431.437
+11:10,2,クラムボン,
+11:10,3,Beyoncé,782.493
+11:10,4,KDDI,31.784
+11:10,5,BLACKPINKxPUBGM,611.707
+11:10,6,ONEPIECE1055,26.493
+11:10,7,지효_OST_IFLY_6시발매,
+11:10,8,TodaysOST_JIHYO_IFLY,
+11:10,9,Hayırlı Cumalar,37.955
+11:10,10,I FLY BY JIHYO,
+11:40,1,_WORLD3rdWin,15.382
+11:40,2,RENAISSANCE,437.174
+11:40,3,クラムボン,
+11:40,4,Beyoncé,796.865
+11:40,5,KDDI,34.578
+11:40,6,BamBam_KpopMasterzMNL,70.308
+11:40,7,Awich,
+11:40,8,少クラ,
+11:40,9,지효_OST_IFLY_6시발매,12.796
+11:40,10,I FLY BY JIHYO,12.382
+12:10,1,_WORLD3rdWin,28.504
+12:10,2,少クラ,15.827
+12:10,3,RENAISSANCE,441.628
+12:10,4,BamBam_KpopMasterzMNL,123.017
+12:10,5,クラムボン,
+12:10,6,Awich,
+12:10,7,KDDI,36.812
+12:10,8,Beyoncé,806.250
+12:10,9,D.A.N,97.514
+12:10,10,オンガク,15.402
+12:40,1,_WORLD3rdWin,34.411
+12:40,2,蒼の追想,
+12:40,3,少クラ,20.238
+12:40,4,BamBam_KpopMasterzMNL,175.004
+12:40,5,新刀剣男士,
+12:40,6,NRLEelsPanthers,
+12:40,7,文久土佐,
+12:40,8,KDDI,39.010
+12:40,9,Awich,
+12:40,10,クラムボン,
+13:10,1,_WORLD3rdWin,37.285
+13:10,2,LaneigexBibleBuild,30.219
+13:10,3,蒼の追想,10.676
+13:10,4,BamBam_KpopMasterzMNL,227.909
+13:10,5,少クラ,22.709
+13:10,6,新刀剣男士,
+13:10,7,文久土佐,
+13:10,8,BAMBAM PERFORMANCE MNL,188.901
+13:10,9,KDDI,40.861
+13:10,10,Alex Yee,
+13:40,1,LaneigexBibleBuild,102.792
+13:40,2,JonasBlue,
+13:40,3,蒼の追想,11.960
+13:40,4,_WORLD3rdWin,39.325
+13:40,5,wagathachristie,
+13:40,6,ノーノー,
+13:40,7,新刀剣男士,
+13:40,8,Rebekah Vardy,
+13:40,9,BAMBAM PERFORMANCE MNL,228.292
+13:40,10,文久土佐,
+14:10,1,LaneigexBibleBuild,172.350
+14:10,2,レオス3D,26.102
+14:10,3,JonasBlue,
+14:10,4,沸騰ワード10,14.069
+14:10,5,ノーノー,
+14:10,6,wagathachristie,
+14:10,7,ビシエド,12.233
+14:10,8,Rebekah Vardy,
+14:10,9,ENEOS,
+14:10,10,Macarena Olona,
+14:40,1,LaneigexBibleBuild,252.013
+14:40,2,レオス3D,49.437
+14:40,3,DearDREAMWeLoveYou,16.707
+14:40,4,どらほー,
+14:40,5,JonasBlue,12.250
+14:40,6,れおほー,
+14:40,7,Vampire Weekend,
+14:40,8,wagathachristie,
+14:40,9,ノーノー,
+14:40,10,ENEOS,13.427
+15:10,1,レオス3D,79.095
+15:10,2,DearDREAMWeLoveYou,35.941
+15:10,3,LaneigexBibleBuild,296.112
+15:10,4,まめねこ3D,32.963
+15:10,5,どらほー,
+15:10,6,Vampire Weekend,
+15:10,7,HIHEAR US OUT,48.826
+15:10,8,れおほー,
+15:10,9,wagathachristie,
+15:10,10,Macarena Olona,17.900
+15:40,1,レオス3D,91.361
+15:40,2,DearDREAMWeLoveYou,46.892
+15:40,3,LaneigexBibleBuild,326.217
+15:40,4,まめねこ3D,40.417
+15:40,5,石子と羽男,18.613
+15:40,6,Vampire Weekend,
+15:40,7,HIHEAR US OUT,73.157
+15:40,8,どらほー,
+15:40,9,bonobo,
+15:40,10,Beyoncé,913.402
+16:10,1,レオス3D,95.447
+16:10,2,DearDREAMWeLoveYou,49.259
+16:10,3,石子と羽男,25.102
+16:10,4,おりほー,
+16:10,5,LaneigexBibleBuild,352.466
+16:10,6,Vampire Weekend,
+16:10,7,bonobo,
+16:10,8,まめねこ3D,42.578
+16:10,9,HIHEAR US OUT,86.981
+16:10,10,Beyoncé,935.613
+16:40,1,レオス3D,97.799
+16:40,2,DearDREAMWeLoveYou,50.329
+16:40,3,石子と羽男,26.868
+16:40,4,bonobo,
+16:40,5,おりほー,
+16:40,6,Beyoncé,963.266
+16:40,7,StarAndSkySpecialEP,89.810
+16:40,8,LaneigexBibleBuild,374.580
+16:40,9,HIHEAR US OUT,95.206
+16:40,10,Vampire Weekend,
+17:10,1,レオス3D,99.521
+17:10,2,Beyoncé,973.989
+17:10,3,石子と羽男,27.817
+17:10,4,DearDREAMWeLoveYou,51.209
+17:10,5,bonobo,
+17:10,6,ساعه_استجابه,30.829
+17:10,7,StarAndSkySpecialEP,117.357
+17:10,8,HIHEAR US OUT,101.696
+17:10,9,おりほー,
+17:10,10,Vampire Weekend,
+17:40,1,NICEFLIGHT,75.552
+17:40,2,ساعه_استجابه,40.356
+17:40,3,スイスイ粋くんスマイル,23.755
+17:40,4,Beyoncé,1.001.226
+17:40,5,小瀧望誕生祭,
+17:40,6,レオス3D,103.173
+17:40,7,Will Smith,11.839
+17:40,8,bonobo,
+17:40,9,HIHEAR US OUT,105.590
+17:40,10,第190回,
+18:10,1,NICEFLIGHT,80.568
+18:10,2,Will Smith,15.581
+18:10,3,ساعه_استجابه,46.387
+18:10,4,Beyoncé,1.014.717
+18:10,5,スイスイ粋くんスマイル,26.562
+18:10,6,小瀧望誕生祭,
+18:10,7,フロイニ,
+18:10,8,第190回,
+18:10,9,HIHEAR US OUT,107.291
+18:10,10,bonobo,
+18:40,1,Will Smith,19.475
+18:40,2,Beyoncé,1.041.619
+18:40,3,フロイニ,20.115
+18:40,4,NICEFLIGHT,82.980
+18:40,5,ساعه_استجابه,49.444
+18:40,6,HungarianGP,48.481
+18:40,7,小瀧望誕生祭,
+18:40,8,第190回,
+18:40,9,LOUIS YOU MADE IT,
+18:40,10,HIHEAR US OUT,108.284
+19:10,1,Will Smith,22.694
+19:10,2,フロイニ,34.096
+19:10,3,Beyoncé,1.055.739
+19:10,4,Chris Rock,12.666
+19:10,5,LOUIS YOU MADE IT,13.021
+19:10,6,NICEFLIGHT,84.607
+19:10,7,ساعه_استجابه,51.667
+19:10,8,HungarianGP,48.411
+19:10,9,Rennaissance,
+19:10,10,第190回,
+19:40,1,Will Smith,25.832
+19:40,2,フロイニ,45.800
+19:40,3,elbistanfest devamediyor,
+19:40,4,Beyoncé,1.080.597
+19:40,5,ŞansDeğil BahisCasino,
+19:40,6,Chris Rock,14.418
+19:40,7,LOUIS YOU MADE IT,15.959
+19:40,8,Rennaissance,
+19:40,9,CapitaoNoPrimeiroTurno,32.255
+19:40,10,NICEFLIGHT,85.482
+20:10,1,Will Smith,28.211
+20:10,2,フロイニ,55.927
+20:10,3,Beyoncé,1.069.064
+20:10,4,elbistanfest devamediyor,
+20:10,5,ŞansDeğil BahisCasino,
+20:10,6,Chris Rock,15.825
+20:10,7,Rennaissance,
+20:10,8,LOUIS YOU MADE IT,18.097
+20:10,9,CapitaoNoPrimeiroTurno,35.004
+20:10,10,Shakira,34.940
+20:40,1,Will Smith,30.544
+20:40,2,samsummerfridays,
+20:40,3,Beyoncé,1.089.806
+20:40,4,フロイニ,57.350
+20:40,5,totp,
+20:40,6,Rennaissance,
+20:40,7,Chris Rock,17.110
+20:40,8,LOUIS YOU MADE IT,19.552
+20:40,9,Shakira,37.690
+20:40,10,Elbistanfest DevamEdiyor,
+21:10,1,Will Smith,32.399
+21:10,2,freecodefridaycontest,
+21:10,3,samsummerfridays,
+21:10,4,BumAssCorbin,
+21:10,5,Beyoncé,1.084.500
+21:10,6,totp,
+21:10,7,Rennaissance,
+21:10,8,Chris Rock,18.153
+21:10,9,Level 1,124.804
+21:10,10,Burnley,
+21:40,1,Burnley,13.122
+21:40,2,freecodefridaycontest,
+21:40,3,Level 2,31.982
+21:40,4,Emirhan,
+21:40,5,Will Smith,34.320
+21:40,6,BumAssCorbin,
+21:40,7,HUDBUR,
+21:40,8,M60BVB,
+21:40,9,Kante,15.216
+21:40,10,BBNajia,72.913
+22:10,1,Burnley,15.572
+22:10,2,freecodefridaycontest,
+22:10,3,Mendy,14.756
+22:10,4,Emirhan,11.046
+22:10,5,Level 2,34.046
+22:10,6,Huddersfield,
+22:10,7,SePegaronEnLaCabeza,
+22:10,8,Will Smith,35.879
+22:10,9,BBNajia,74.950
+22:10,10,kante,16.803
+22:40,1,Burnley,16.812
+22:40,2,freecodefridaycontest,
+22:40,3,Neighbours,12.454
+22:40,4,Emirhan,13.729
+22:40,5,Sterling,30.771
+22:40,6,Mendy,15.895
+22:40,7,SePegaronEnLaCabeza,
+22:40,8,Level 2,36.356
+22:40,9,Huddersfield,
+22:40,10,Kante,18.375
+23:10,1,NeighboursFinale,11.897
+23:10,2,Burnley,18.504
+23:10,3,freecodefridaycontest,
+23:10,4,Davide,22.601
+23:10,5,Emirhan,15.835
+23:10,6,Sterling,33.466
+23:10,7,SePegaronEnLaCabeza,
+23:10,8,Hermes,35.112
+23:10,9,Mendy,16.176
+23:10,10,Gemma and Luca,
+23:40,1,NeighboursFinale,14.116
+23:40,2,Burnley,19.391
+23:40,3,APolicyForLabour,
+23:40,4,Davide,24.976
+23:40,5,freecodefridaycontest,
+23:40,6,Emirhan,17.529
+23:40,7,عام_هجري_جديد_١٤٤٤ه,15.531
+23:40,8,Sterling,36.399
+23:40,9,SePegaronEnLaCabeza,11.573
+23:40,10,Gemma and Luca,11.124

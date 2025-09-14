@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosaVePorMas,58.242
+00:10,2,Batgirl,37.145
+00:10,3,Alpine,183.538
+00:10,4,Warner,28.997
+00:10,5,Bernd,23.509
+00:10,6,Taiwan,1.344.189
+00:10,7,Emily,51.594
+00:10,8,China,1.083.822
+00:10,9,AudacyAOTS,141.428
+00:10,10,HBO Max,10.833
+00:40,1,SalarioRosaVePorMas,69.848
+00:40,2,Batgirl,46.414
+00:40,3,Bader,17.208
+00:40,4,Warner Bros,16.732
+00:40,5,Alpine,189.707
+00:40,6,Monty,11.332
+00:40,7,Bernd,25.661
+00:40,8,NationalBoobDay,
+00:40,9,Corinthians,139.904
+00:40,10,Emily,53.786
+01:10,1,SalarioRosaVePorMas,82.696
+01:10,2,Batgirl,55.001
+01:10,3,Bader,19.194
+01:10,4,NationalBoobDay,
+01:10,5,Warner,36.477
+01:10,6,Monty,12.589
+01:10,7,Corinthians,140.372
+01:10,8,Alpine,193.855
+01:10,9,Alex Jones,69.676
+01:10,10,HBO Max,11.587
+01:40,1,SalarioRosaVePorMas,91.495
+01:40,2,Batgirl,62.911
+01:40,3,Corinthians,154.426
+01:40,4,Bader,20.483
+01:40,5,NationalBoobDay,
+01:40,6,Monty,13.708
+01:40,7,Warner,39.899
+01:40,8,deGrom,20.651
+01:40,9,Alex Jones,75.998
+01:40,10,Rand Paul,34.077
+02:10,1,SalarioRosaVePorMas,98.470
+02:10,2,Batgirl,69.947
+02:10,3,Corinthians,160.740
+02:10,4,deGrom,23.011
+02:10,5,NationalBoobDay,
+02:10,6,Bader,21.217
+02:10,7,Monty,14.245
+02:10,8,Warner,42.228
+02:10,9,Rand Paul,41.404
+02:10,10,Alex Jones,79.171
+02:40,1,SalarioRosaVePorMas,103.894
+02:40,2,Corinthians,180.348
+02:40,3,Batgirl,75.855
+02:40,4,deGrom,24.848
+02:40,5,Suarez,38.611
+02:40,6,NationalBoobDay,10.907
+02:40,7,Rand Paul,49.242
+02:40,8,Monty,14.854
+02:40,9,Bader,22.007
+02:40,10,Warner,45.001
+03:10,1,Flamengo,242.385
+03:10,2,Flamengo,242.385
+03:10,3,SalarioRosaVePorMas,108.958
+03:10,4,Rodinei,
+03:10,5,Batgirl,82.924
+03:10,6,Thiago Maia,
+03:10,7,deGrom,26.697
+03:10,8,Maycon,
+03:10,9,Cássio,15.278
+03:10,10,Rand Paul,55.931
+03:40,1,arrascaeta,89.175
+03:40,2,Flamengo,285.584
+03:40,3,Flamengo,285.584
+03:40,4,SalarioRosaVePorMas,122.232
+03:40,5,Rodinei,
+03:40,6,Thiago Maia,
+03:40,7,Pantanal,23.766
+03:40,8,Batgirl,87.633
+03:40,9,João Gomes,
+03:40,10,Cássio,17.785
+04:10,1,Arrascaeta,102.753
+04:10,2,Corinthians,271.837
+04:10,3,Flamengo,325.081
+04:10,4,Gabigol,38.874
+04:10,5,SalarioRosaVePorMas,135.723
+04:10,6,Rodinei,12.851
+04:10,7,Vidal,25.430
+04:10,8,Thiago Maia,
+04:10,9,João Gomes,11.321
+04:10,10,Cássio,23.285
+04:40,1,Flamengo,404.464
+04:40,2,Corinthians,346.875
+04:40,3,Arrascaeta,125.371
+04:40,4,Gabigol,51.533
+04:40,5,SalarioRosaVePorMas,145.744
+04:40,6,Rodinei,16.071
+04:40,7,Kansas,168.693
+04:40,8,Vidal,31.134
+04:40,9,Cássio,29.974
+04:40,10,Yuri Alberto,16.799
+05:10,1,Flamengo,437.327
+05:10,2,Corinthians,364.774
+05:10,3,Arrascaeta,138.693
+05:10,4,Kansas,228.238
+05:10,5,Gabigol,58.620
+05:10,6,SalarioRosaVePorMas,153.025
+05:10,7,Rodinei,17.875
+05:10,8,Vidal,33.773
+05:10,9,Cássio,31.803
+05:10,10,Yuri Alberto,18.284
+05:40,1,Flamengo,469.440
+05:40,2,Corinthians,378.263
+05:40,3,Arrascaeta,144.542
+05:40,4,Vin Scully,31.224
+05:40,5,Kansas,270.592
+05:40,6,Gabigol,63.929
+05:40,7,SalarioRosaVePorMas,157.908
+05:40,8,Rodinei,18.884
+05:40,9,Vidal,36.129
+05:40,10,Cássio,32.690
+06:10,1,Flamengo,482.852
+06:10,2,Vin Scully,78.219
+06:10,3,Corinthians,381.829
+06:10,4,Arrascaeta,147.461
+06:10,5,Kansas,306.069
+06:10,6,Gabigol,66.589
+06:10,7,SalarioRosaVePorMas,161.345
+06:10,8,Rodinei,19.339
+06:10,9,Vidal,37.323
+06:10,10,ワンピースコラボ,13.601
+06:40,1,Vin Scully,104.078
+06:40,2,Flamengo,492.105
+06:40,3,Corinthians,385.281
+06:40,4,Kansas,333.943
+06:40,5,Arrascaeta,149.213
+06:40,6,Gabigol,68.187
+06:40,7,SalarioRosaVePorMas,163.311
+06:40,8,ワンピースコラボ,15.713
+06:40,9,Rodinei,19.671
+06:40,10,Dodger,13.062
+07:10,1,Vin Scully,121.478
+07:10,2,Flamengo,496.089
+07:10,3,Kansas,352.309
+07:10,4,Corinthians,386.024
+07:10,5,Arrascaeta,150.256
+07:10,6,Gabigol,69.012
+07:10,7,SalarioRosaVePorMas,164.385
+07:10,8,Ucuzdan TTVerilir,
+07:10,9,ワンピースコラボ,17.407
+07:10,10,Dodger,14.049
+07:40,1,Vin Scully,132.755
+07:40,2,Kansas,367.815
+07:40,3,Flamengo,493.458
+07:40,4,Corinthians,387.421
+07:40,5,Arrascaeta,150.903
+07:40,6,Ucuzdan TTVerilir,
+07:40,7,Gabigol,69.599
+07:40,8,ワンピースコラボ,18.659
+07:40,9,Dodger,15.231
+07:40,10,MHA362,
+08:10,1,Vin Scully,141.054
+08:10,2,Kansas,378.840
+08:10,3,Flamengo,500.506
+08:10,4,Corinthians,387.439
+08:10,5,Arrascaeta,151.387
+08:10,6,MHA362,
+08:10,7,MHASpoilers,
+08:10,8,Ucuzdan TTVerilir,
+08:10,9,ワンピースコラボ,19.682
+08:10,10,Dodger,15.878
+08:40,1,Vin Scully,146.124
+08:40,2,Kansas,388.347
+08:40,3,MHA362,12.197
+08:40,4,Flamengo,501.879
+08:40,5,Corinthians,388.020
+08:40,6,Arrascaeta,151.686
+08:40,7,MHASpoilers,
+08:40,8,Ucuzdan TTVerilir,
+08:40,9,ワンピースコラボ,20.479
+08:40,10,ILYxZeeNuNew,22.479
+09:10,1,Vin Scully,149.794
+09:10,2,Kansas,395.807
+09:10,3,MHA362,15.596
+09:10,4,SAFE FLIGHT DONBELLE,24.880
+09:10,5,MHASpoilers,12.288
+09:10,6,Flamengo,501.810
+09:10,7,Corinthians,387.621
+09:10,8,Arrascaeta,151.837
+09:10,9,IOH5GBali,
+09:10,10,ILYxZeeNuNew,47.630
+09:40,1,Vin Scully,152.567
+09:40,2,わたしの冒険者力,
+09:40,3,FF14冒険者力測定,
+09:40,4,MHA362,18.261
+09:40,5,Kansas,402.903
+09:40,6,SAFE FLIGHT DONBELLE,40.236
+09:40,7,mhaspoilers,14.650
+09:40,8,Flamengo,502.354
+09:40,9,enflasyon,
+09:40,10,Corinthians,387.809
+10:10,1,FF14冒険者力測定,
+10:10,2,わたしの冒険者力,
+10:10,3,Vin Scully,154.596
+10:10,4,SAFE FLIGHT DONBELLE,60.652
+10:10,5,MHA362,20.899
+10:10,6,enflasyon,
+10:10,7,Kansas,408.242
+10:10,8,MHASpoilers,16.828
+10:10,9,すのちゅーぶ,
+10:10,10,Flamengo,501.730
+10:40,1,FF14冒険者力測定,
+10:40,2,わたしの冒険者力,
+10:40,3,SAFE FLIGHT DONBELLE,88.130
+10:40,4,すのちゅーぶ,
+10:40,5,Vin Scully,156.419
+10:40,6,MHA362,23.038
+10:40,7,enflasyon,
+10:40,8,kpss2022iptaledilsin,12.327
+10:40,9,Kansas,413.772
+10:40,10,アジアツアー,
+11:10,1,FF14冒険者力測定,
+11:10,2,わたしの冒険者力,
+11:10,3,SAFE FLIGHT DONBELLE,110.385
+11:10,4,すのちゅーぶ,
+11:10,5,kpss2022iptaledilsin,18.088
+11:10,6,MHA362,24.751
+11:10,7,Vin Scully,157.809
+11:10,8,アジアツアー,
+11:10,9,SnowMan,36.576
+11:10,10,約束の場所,
+11:40,1,FF14冒険者力測定,
+11:40,2,わたしの冒険者力,
+11:40,3,SAFE FLIGHT DONBELLE,129.888
+11:40,4,kpss2022iptaledilsin,23.720
+11:40,5,すのちゅーぶ,
+11:40,6,MHA362,26.470
+11:40,7,アジアツアー,
+11:40,8,SnowMan,40.158
+11:40,9,スタバの新作,41.295
+11:40,10,約束の場所,
+12:10,1,FF14冒険者力測定,
+12:10,2,わたしの冒険者力,
+12:10,3,kpss2022iptaledilsin,27.909
+12:10,4,SAFE FLIGHT DONBELLE,141.808
+12:10,5,すのちゅーぶ,
+12:10,6,MHA362,28.092
+12:10,7,アジアツアー,
+12:10,8,スタバの新作,45.046
+12:10,9,SnowMan,41.720
+12:10,10,約束の場所,
+12:40,1,Guerrilla2ndWin,40.915
+12:40,2,FF14冒険者力測定,10.216
+12:40,3,わたしの冒険者力,
+12:40,4,kpss2022iptaledilsin,32.813
+12:40,5,ATEEZ8thWin,27.340
+12:40,6,すのちゅーぶ,
+12:40,7,SAFE FLIGHT DONBELLE,147.566
+12:40,8,大雨特別警報,
+12:40,9,スタバの新作,49.223
+12:40,10,アジアツアー,
+13:10,1,Guerrilla2ndWin,52.004
+13:10,2,FF14冒険者力測定,10.782
+13:10,3,わたしの冒険者力,
+13:10,4,kpss2022iptaledilsin,36.848
+13:10,5,ATEEZ8thWin,34.259
+13:10,6,SAFE FLIGHT DONBELLE,158.694
+13:10,7,すのちゅーぶ,
+13:10,8,大雨特別警報,11.549
+13:10,9,スタバの新作,53.119
+13:10,10,アジアツアー,
+13:40,1,Guerrilla2ndWin,56.861
+13:40,2,FF14冒険者力測定,11.319
+13:40,3,わたしの冒険者力,
+13:40,4,kpss2022iptaledilsin,41.020
+13:40,5,有吉の壁,10.563
+13:40,6,ATEEZ8thWin,37.162
+13:40,7,tagsen hanggang dulo,45.445
+13:40,8,大雨特別警報,14.758
+13:40,9,スタバの新作,56.667
+13:40,10,アジアツアー,
+14:10,1,Guerrilla2ndWin,60.690
+14:10,2,FF14冒険者力測定,11.945
+14:10,3,わたしの冒険者力,10.224
+14:10,4,kpss2022iptaledilsin,44.489
+14:10,5,有吉の壁,12.357
+14:10,6,TAGSEN HANGGANG DULO,61.899
+14:10,7,MAXayangNakilalaKa,61.570
+14:10,8,れおほー,
+14:10,9,大雨特別警報,17.119
+14:10,10,スタバの新作,59.422
+14:40,1,Guerrilla2ndWin,63.666
+14:40,2,BPLS2,
+14:40,3,FF14冒険者力測定,12.464
+14:40,4,わたしの冒険者力,10.541
+14:40,5,kpss2022iptaledilsin,47.656
+14:40,6,ポケモンウォチパ,
+14:40,7,ニャオハ,27.552
+14:40,8,TAGSEN HANGGANG DULO,67.773
+14:40,9,大雨特別警報,18.624
+14:40,10,れおほー,
+15:10,1,横浜優勝,
+15:10,2,GulfThe1stAsiaTour2022,36.978
+15:10,3,PokemonPresents,
+15:10,4,ポケモンプレゼンツ,20.116
+15:10,5,ニャオハ,34.046
+15:10,6,BPLS2,13.520
+15:10,7,Guerrilla2ndWin,66.113
+15:10,8,わしほー,
+15:10,9,すわほー,
+15:10,10,わたしの冒険者力,10.771
+15:40,1,テラスタル,36.633
+15:40,2,PokemonScarletViolet,17.161
+15:40,3,ポケモンプレゼンツ,119.114
+15:40,4,ニャオハ,60.365
+15:40,5,横浜優勝,
+15:40,6,GulfThe1stAsiaTour2022,67.246
+15:40,7,コライドン,17.754
+15:40,8,パピモッチ,19.824
+15:40,9,คืนนับดาวตอนจบ,70.626
+15:40,10,テラスタイプ,10.978
+16:10,1,PokemonScarletViolet,28.005
+16:10,2,テラスタル,52.675
+16:10,3,ポケモンプレゼンツ,147.665
+16:10,4,ニャオハ,69.711
+16:10,5,คืนนับดาวตอนจบ,138.869
+16:10,6,コライドン,26.391
+16:10,7,パピモッチ,28.606
+16:10,8,KPWorldTourBTS2,77.861
+16:10,9,テラスタイプ,15.095
+16:10,10,横浜優勝,
+16:40,1,PokemonScarletViolet,38.399
+16:40,2,テラスタル,61.478
+16:40,3,ポケモン,260.154
+16:40,4,ニャオハ,76.588
+16:40,5,คืนนับดาวตอนจบ,200.094
+16:40,6,コライドン,31.525
+16:40,7,パピモッチ,34.330
+16:40,8,Fidough,18.309
+16:40,9,KPWorldTourBTS2,100.708
+16:40,10,テラスタイプ,16.780
+17:10,1,PokemonScarletViolet,48.080
+17:10,2,テラスタル,66.500
+17:10,3,ポケモン,274.394
+17:10,4,JO1ANNX,19.191
+17:10,5,ニャオハ,81.447
+17:10,6,คืนนับดาวตอนจบ,245.263
+17:10,7,BadDecisionsTrailer2,51.935
+17:10,8,ExtraordinaryAttorneyWooEp11,24.016
+17:10,9,コライドン,35.120
+17:10,10,Fidough,23.414
+17:40,1,PokemonScarletViolet,58.087
+17:40,2,JO1ANNX,55.669
+17:40,3,テラスタル,69.901
+17:40,4,ポケモン,286.444
+17:40,5,ExtraordinaryAttorneyWooEp11,32.671
+17:40,6,ニャオハ,85.483
+17:40,7,BadDecisionsTrailer2,61.261
+17:40,8,คืนนับดาวตอนจบ,266.942
+17:40,9,Fidough,28.492
+17:40,10,コライドン,37.493
+18:10,1,PokemonScarletViolet,65.842
+18:10,2,JO1ANNX,84.338
+18:10,3,ExtraordinaryAttorneyWooEp11,41.362
+18:10,4,テラスタル,72.090
+18:10,5,ポケモン,293.533
+18:10,6,BadDecisionsTrailer2,65.155
+18:10,7,ニャオハ,88.327
+18:10,8,Fidough,32.361
+18:10,9,คืนนับดาวตอนจบ,279.281
+18:10,10,コライドン,39.220
+18:40,1,PokemonScarletViolet,72.029
+18:40,2,JO1ANNX,91.244
+18:40,3,ExtraordinaryAttorneyWooEp11,49.186
+18:40,4,ポケモン,299.728
+18:40,5,テラスタル,73.693
+18:40,6,乃木坂46ANN,11.959
+18:40,7,EterNINEtyWithJSLs,11.909
+18:40,8,Fidough,35.523
+18:40,9,ニャオハ,90.419
+18:40,10,第195回,
+19:10,1,PokemonScarletViolet,77.290
+19:10,2,ExtraordinaryAttorneyWooEp11,56.356
+19:10,3,JO1ANNX,93.733
+19:10,4,Face Meta,
+19:10,5,乃木坂46ANN,16.209
+19:10,6,テラスタル,74.735
+19:10,7,ポケモン,303.341
+19:10,8,Alex Jones,149.269
+19:10,9,EterNINEtyWithJSLs,15.592
+19:10,10,Fidough,38.372
+19:40,1,Gerrit Cole,
+19:40,2,PokemonScarletViolet,82.304
+19:40,3,ExtraordinaryAttorneyWooEp11,61.888
+19:40,4,Alex Jones,171.908
+19:40,5,Face Meta,
+19:40,6,乃木坂46ANN,20.408
+19:40,7,JO1ANNX,94.832
+19:40,8,BDBarcodeTin18th,
+19:40,9,Fidough,40.954
+19:40,10,テラスタル,75.505
+20:10,1,Alex Jones,192.608
+20:10,2,Gerrit Cole,
+20:10,3,ExtraordinaryAttorneyWooEp11,66.570
+20:10,4,PokemonScarletViolet,86.546
+20:10,5,BDBarcodeTin18th,
+20:10,6,乃木坂46ANN,23.704
+20:10,7,JO1ANNX,95.416
+20:10,8,Face Meta,
+20:10,9,Fidough,43.591
+20:10,10,Sandy Hook,110.365
+20:40,1,Alex Jones,217.732
+20:40,2,Gerrit Cole,
+20:40,3,ExtraordinaryAttorneyWooEp11,70.444
+20:40,4,PokemonScarletViolet,91.368
+20:40,5,BDBarcodeTin18th,
+20:40,6,Kayıp1000Gün,15.710
+20:40,7,乃木坂46ANN,23.847
+20:40,8,Sandy Hook,125.111
+20:40,9,Colwill,37.166
+20:40,10,Face Meta,
+21:10,1,Alex Jones,235.631
+21:10,2,Gerrit Cole,
+21:10,3,Colwill,53.119
+21:10,4,Pokémon,397.515
+21:10,5,ExtraordinaryAttorneyWooEp11,73.152
+21:10,6,BDBarcodeTin18th,
+21:10,7,HBO Max,59.787
+21:10,8,Kayıp1000Gün,18.887
+21:10,9,Sandy Hook,135.988
+21:10,10,TheHundred,
+21:40,1,Alex Jones,255.432
+21:40,2,Eilish McColgan,
+21:40,3,HBO Max,33.699
+21:40,4,Colwill,59.999
+21:40,5,Gerrit Cole,
+21:40,6,Pokémon,409.019
+21:40,7,kpss2022iptaledilsin,90.460
+21:40,8,Kayıp1000Gün,22.901
+21:40,9,Sandy Hook,149.367
+21:40,10,ExtraordinaryAttorneyWooEp11,75.147
+22:10,1,Alex Jones,274.679
+22:10,2,Eilish McColgan,
+22:10,3,HBO Max,34.327
+22:10,4,Fabrizio,16.484
+22:10,5,Cucurella,121.294
+22:10,6,Colwill,64.102
+22:10,7,kpss2022iptaledilsin,95.188
+22:10,8,Brighton,84.209
+22:10,9,PekinExpress,
+22:10,10,Sandy Hook,159.046
+22:40,1,Alex Jones,301.131
+22:40,2,Fabrizio,25.104
+22:40,3,HBO Max,35.988
+22:40,4,Brighton,95.539
+22:40,5,Cucurella,135.520
+22:40,6,Eilish McColgan,
+22:40,7,Colwill,67.714
+22:40,8,Sandy Hook,171.716
+22:40,9,PekinExpress,
+22:40,10,kpss2022iptaledilsin,100.098
+23:10,1,Alex Jones,313.234
+23:10,2,Fabrizio,30.237
+23:10,3,Brighton,102.338
+23:10,4,HBO Max,71.533
+23:10,5,Cucurella,142.573
+23:10,6,CommonwealthGames2022,69.588
+23:10,7,Jackie Walorski,14.862
+23:10,8,PekinExpress,
+23:10,9,Eilish McColgan,
+23:10,10,Sandy Hook,178.036
+23:40,1,Alex Jones,337.733
+23:40,2,Fabrizio,33.625
+23:40,3,HBO Max,37.801
+23:40,4,Brighton,107.465
+23:40,5,PekinExpress,
+23:40,6,Cucurella,148.351
+23:40,7,Jackie Walorski,18.232
+23:40,8,CommonwealthGames2022,70.970
+23:40,9,Sandy Hook,188.834
+23:40,10,Discovery,91.455

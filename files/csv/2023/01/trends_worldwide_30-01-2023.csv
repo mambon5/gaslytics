@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,49ers,273.834
+00:10,2,Niners,81.920
+00:10,3,Trent Williams,19.527
+00:10,4,Super Bowl,72.440
+00:10,5,Purdy,97.727
+00:10,6,Josh Johnson,41.557
+00:10,7,Philly,86.406
+00:10,8,SFvsPHI,54.913
+00:10,9,NFCChampionship,15.375
+00:10,10,Jalen,36.888
+00:40,1,49ers,310.804
+00:40,2,49ers,310.804
+00:40,3,Super Bowl,46.539
+00:40,4,Niners,91.804
+00:40,5,Trent Williams,25.555
+00:40,6,Purdy,108.706
+00:40,7,Philly,98.861
+00:40,8,Jalen,50.309
+00:40,9,Josh Johnson,43.760
+00:40,10,Bengals,127.491
+01:10,1,49ers,322.808
+01:10,2,49ers,322.808
+01:10,3,Super Bowl,48.788
+01:10,4,Niners,95.189
+01:10,5,Purdy,113.498
+01:10,6,Trent Williams,27.663
+01:10,7,Philly,104.407
+01:10,8,Bengals,138.059
+01:10,9,Corinthians,137.742
+01:10,10,Jalen,56.079
+01:40,1,Eagles,
+01:40,2,Super Bowl,162.942
+01:40,3,Niners,97.814
+01:40,4,Bengals,152.699
+01:40,5,Philly,111.279
+01:40,6,Purdy,117.196
+01:40,7,Trent Williams,28.838
+01:40,8,Corinthians,145.995
+01:40,9,Jalen,60.927
+01:40,10,esland2023,108.691
+02:10,1,Eagles,
+02:10,2,Super Bowl,173.812
+02:10,3,Bengals,164.009
+02:10,4,Niners,99.475
+02:10,5,Philly,115.405
+02:10,6,Purdy,119.815
+02:10,7,Trent Williams,29.760
+02:10,8,Corinthians,149.338
+02:10,9,Jalen,63.822
+02:10,10,Kelce,36.531
+02:40,1,Eagles,
+02:40,2,Super Bowl,53.596
+02:40,3,Bengals,177.382
+02:40,4,Tee Higgins,
+02:40,5,Niners,101.459
+02:40,6,Philly,119.597
+02:40,7,Purdy,122.916
+02:40,8,Corinthians,152.855
+02:40,9,Trent Williams,30.672
+02:40,10,Burrow,57.275
+03:10,1,Mahomes,72.920
+03:10,2,Eagles,
+03:10,3,49ers,356.909
+03:10,4,Bengals,187.488
+03:10,5,Super Bowl,195.137
+03:10,6,Tee Higgins,10.423
+03:10,7,Fantastico,11.954
+03:10,8,Philly,121.261
+03:10,9,Niners,102.523
+03:10,10,AFCChampionship,12.369
+03:40,1,Mahomes,91.522
+03:40,2,Bengals,218.411
+03:40,3,Eli Apple,14.908
+03:40,4,Eagles,579.642
+03:40,5,Super Bowl,55.988
+03:40,6,49ers,359.570
+03:40,7,AFCChampionshipGame,
+03:40,8,Tony Romo,
+03:40,9,Tee Higgins,11.054
+03:40,10,Burrow,73.014
+04:10,1,Chiefs,284.393
+04:10,2,Mahomes,136.530
+04:10,3,Super Bowl,248.621
+04:10,4,Eagles,607.900
+04:10,5,AFCChampionshipGame,
+04:10,6,Eli Apple,19.065
+04:10,7,Ossai,14.994
+04:10,8,agustin,130.109
+04:10,9,Tony Romo,14.296
+04:10,10,Burrow,96.477
+04:40,1,TheLastOfUs,118.450
+04:40,2,Chiefs,388.957
+04:40,3,Chiefs,388.957
+04:40,4,Mahomes,185.256
+04:40,5,Super Bowl,305.936
+04:40,6,Kelce,113.295
+04:40,7,AFCChampionshipGame,14.116
+04:40,8,ForaGabriel,42.282
+04:40,9,Frank,92.306
+04:40,10,Ossai,29.602
+05:10,1,TheLastOfUs,162.513
+05:10,2,Chiefs,428.582
+05:10,3,Mahomes,204.902
+05:10,4,Super Bowl,75.385
+05:10,5,Frank,104.207
+05:10,6,ForaGabriel,60.040
+05:10,7,Eagles,672.437
+05:10,8,Kelce,128.572
+05:10,9,AFCChampionshipGame,15.204
+05:10,10,Ossai,34.125
+05:40,1,TheLastOfUs,189.753
+05:40,2,Chiefs,455.229
+05:40,3,Mahomes,217.633
+05:40,4,Super Bowl,77.645
+05:40,5,Frank,114.331
+05:40,6,ForaGabriel,68.902
+05:40,7,Eagles,680.390
+05:40,8,AFCChampionshipGame,15.739
+05:40,9,Kelce,135.041
+05:40,10,Ossai,37.666
+06:10,1,TheLastOfUs,218.291
+06:10,2,Chiefs,471.103
+06:10,3,Mahomes,
+06:10,4,Super Bowl,359.224
+06:10,5,Frank,121.271
+06:10,6,ForaGabriel,73.967
+06:10,7,tlou,20.105
+06:10,8,Eagles,691.965
+06:10,9,Kelce,140.012
+06:10,10,Ossai,40.296
+06:40,1,TheLastOfUs,238.426
+06:40,2,Chiefs,486.259
+06:40,3,Frank,128.586
+06:40,4,Mahomes,231.443
+06:40,5,Super Bowl,80.062
+06:40,6,ForaGabriel,76.886
+06:40,7,回転寿司,180.414
+06:40,8,tlou,21.963
+06:40,9,Ossai,42.364
+06:40,10,Kelce,143.103
+07:10,1,TheLastOfUs,252.875
+07:10,2,Frank,130.479
+07:10,3,Chiefs,493.880
+07:10,4,Mahomes,235.421
+07:10,5,Super Bowl,374.077
+07:10,6,回転寿司,188.114
+07:10,7,tlou,23.272
+07:10,8,ForaGabriel,78.551
+07:10,9,MahatmaGandhi,18.515
+07:10,10,Ossai,43.696
+07:40,1,TheLastOfUs,265.525
+07:40,2,Frank,134.764
+07:40,3,Chiefs,501.507
+07:40,4,Mahomes,238.150
+07:40,5,Super Bowl,378.598
+07:40,6,回転寿司,197.298
+07:40,7,MahatmaGandhi,21.514
+07:40,8,tlou,24.205
+07:40,9,ForaGabriel,79.660
+07:40,10,महात्मा गांधी,39.741
+08:10,1,TheLastOfUs,274.476
+08:10,2,Frank,135.660
+08:10,3,回転寿司,199.674
+08:10,4,Chiefs,505.065
+08:10,5,Mahomes,240.033
+08:10,6,Super Bowl,376.713
+08:10,7,MahatmaGandhi,24.371
+08:10,8,Motor Listrik Militer,
+08:10,9,Siap Mengaspal,
+08:10,10,E-Tactical SERGAP,
+08:40,1,TheLastOfUs,282.439
+08:40,2,Frank,140.118
+08:40,3,回転寿司,213.903
+08:40,4,MahatmaGandhi,26.839
+08:40,5,Chiefs,502.552
+08:40,6,Mahomes,241.820
+08:40,7,महात्मा गांधी,47.661
+08:40,8,Super Bowl,81.319
+08:40,9,Motor Listrik Militer,
+08:40,10,Siap Mengaspal,
+09:10,1,TheLastOfUs,
+09:10,2,回転寿司,218.739
+09:10,3,Frank,139.388
+09:10,4,MahatmaGandhi,28.831
+09:10,5,MondayMotivation,12.173
+09:10,6,महात्मा गांधी,51.059
+09:10,7,スシロー,170.420
+09:10,8,ギヴン完結,
+09:10,9,Chiefs,503.882
+09:10,10,Mahomes,242.908
+09:40,1,TheLastOfUs,292.446
+09:40,2,回転寿司,221.889
+09:40,3,NCT127_Say_AyYo,23.420
+09:40,4,鮎川さん,
+09:40,5,Frank,143.144
+09:40,6,I SAY AY-YO OUT NOW,21.184
+09:40,7,MondayMotivation,13.950
+09:40,8,그냥_들어봐_Ay_Yo,10.143
+09:40,9,MahatmaGandhi,30.883
+09:40,10,スシロー,169.405
+10:10,1,NCT127_Say_AyYo,53.496
+10:10,2,鮎川さん,10.349
+10:10,3,그냥_들어봐_Ay_Yo,35.761
+10:10,4,TheLastOfUs,295.334
+10:10,5,I SAY AY-YO OUT NOW,47.996
+10:10,6,回転寿司,231.565
+10:10,7,シーナ&ロケッツ,11.255
+10:10,8,EmeklilikteYaşaTakılanlar,164.229
+10:10,9,MondayMotivation,15.242
+10:10,10,スシロー,177.529
+10:40,1,NCT127_Say_AyYo,80.008
+10:40,2,鮎川さん,16.233
+10:40,3,シーナ&ロケッツ,17.305
+10:40,4,回転寿司,242.631
+10:40,5,Peshawar,
+10:40,6,TheLastOfUs,299.968
+10:40,7,シーナさん,11.208
+10:40,8,EmeklilikteYaşaTakılanlar,173.398
+10:40,9,MondayMotivation,16.737
+10:40,10,スシロー,185.879
+11:10,1,NCT127_Say_AyYo,91.232
+11:10,2,鮎川さん,21.259
+11:10,3,シーナ&ロケッツ,21.504
+11:10,4,Peshawarblast,
+11:10,5,回転寿司,252.007
+11:10,6,シーナさん,14.223
+11:10,7,EmeklilikteYaşaTakılanlar,181.136
+11:10,8,TheLastOfUs,303.511
+11:10,9,CDTVライブライブ,14.107
+11:10,10,シナロケ,
+11:40,1,鮎川さん,26.223
+11:40,2,NCT127_Say_AyYo,99.497
+11:40,3,Peshawarblast,16.044
+11:40,4,シーナ&ロケッツ,25.294
+11:40,5,CDTVライブライブ,21.563
+11:40,6,回転寿司,261.034
+11:40,7,シーナさん,17.202
+11:40,8,マイルーム,
+11:40,9,EmeklilikteYaşaTakılanlar,188.426
+11:40,10,MondayMotivation,19.078
+12:10,1,CDTVライブライブ,28.582
+12:10,2,鮎川さん,31.419
+12:10,3,Peshawarblast,23.605
+12:10,4,NCT127_Say_AyYo,105.337
+12:10,5,シーナ&ロケッツ,28.466
+12:10,6,回転寿司,261.999
+12:10,7,マイルーム,
+12:10,8,ColorMagicのAI,
+12:10,9,カラーパレット,
+12:10,10,シーナさん,19.455
+12:40,1,CDTVライブライブ,64.846
+12:40,2,Peshawarblast,30.736
+12:40,3,鮎川さん,35.614
+12:40,4,TV初披露NewDay_INI,21.747
+12:40,5,NCT127_Say_AyYo,111.208
+12:40,6,シーナ&ロケッツ,31.040
+12:40,7,ColorMagicのAI,
+12:40,8,カラーパレット,
+12:40,9,尾丸ポルカ生誕祭2023,22.010
+12:40,10,マイルーム,
+13:10,1,CDTVライブライブ,84.674
+13:10,2,Peshawarblast,37.964
+13:10,3,鮎川さん,39.047
+13:10,4,ColorMagicのAI,
+13:10,5,カラーパレット,
+13:10,6,尾丸ポルカ生誕祭2023,28.326
+13:10,7,シーナ&ロケッツ,33.023
+13:10,8,TV初披露NewDay_INI,27.489
+13:10,9,NCT127_Say_AyYo,115.680
+13:10,10,マイルーム,
+13:40,1,CDTVライブライブ,102.863
+13:40,2,Peshawarblast,42.442
+13:40,3,鮎川さん,42.453
+13:40,4,ColorMagicのAI,
+13:40,5,カラーパレット,
+13:40,6,Thalapathy67,206.053
+13:40,7,尾丸ポルカ生誕祭2023,29.719
+13:40,8,シーナ&ロケッツ,34.786
+13:40,9,Cancelo,19.861
+13:40,10,TV初披露NewDay_INI,32.902
+14:10,1,CDTVライブライブ,112.818
+14:10,2,Thalapathy67,336.210
+14:10,3,PeshawarBlast,48.697
+14:10,4,罠の戦争,27.999
+14:10,5,Cancelo,31.594
+14:10,6,鮎川さん,45.861
+14:10,7,カラーパレット,
+14:10,8,ColorMagicのAI,
+14:10,9,カンセロ,
+14:10,10,しゃべくり007,
+14:40,1,罠の戦争,42.197
+14:40,2,Thalapathy67,392.769
+14:40,3,CDTVライブライブ,118.994
+14:40,4,Peshawarblast,54.799
+14:40,5,Cancelo,41.658
+14:40,6,鮎川さん,48.600
+14:40,7,Florence,13.737
+14:40,8,しゃべくり007,
+14:40,9,カンセロ,
+14:40,10,カラーパレット,
+15:10,1,罠の戦争,60.732
+15:10,2,Peshawarblast,60.826
+15:10,3,Thalapathy67,422.859
+15:10,4,Cancelo,48.269
+15:10,5,Florence,15.081
+15:10,6,CDTVライブライブ,123.580
+15:10,7,TLRS最高,
+15:10,8,カンセロ,
+15:10,9,鮎川さん,51.025
+15:10,10,カラーパレット,
+15:40,1,罠の戦争,68.903
+15:40,2,TLRS最高,
+15:40,3,Peshawarblast,67.305
+15:40,4,Florence,16.442
+15:40,5,Thalapathy67,460.122
+15:40,6,Cancelo,53.608
+15:40,7,CDTVライブライブ,127.927
+15:40,8,カンセロ,
+15:40,9,ミラさん,
+15:40,10,鮎川さん,52.863
+16:10,1,罠の戦争,71.978
+16:10,2,TLRS最高,
+16:10,3,Peshawarblast,73.339
+16:10,4,Florence,17.140
+16:10,5,Cancelo,60.244
+16:10,6,Thalapathy67,478.538
+16:10,7,ダ・カーポしませんか,14.371
+16:10,8,カンセロ,
+16:10,9,MITA,12.260
+16:10,10,ミラさん,
+16:40,1,罠の戦争,74.233
+16:40,2,TLRS最高,
+16:40,3,Peshawarblast,78.924
+16:40,4,Cancelo,71.559
+16:40,5,薮宏太誕生祭,
+16:40,6,TheLastRockstarsNYC,
+16:40,7,Florence,18.270
+16:40,8,カンセロ,
+16:40,9,MITA,13.437
+16:40,10,Gallagher,18.245
+17:10,1,Peshawarblast,84.952
+17:10,2,TLRS最高,
+17:10,3,罠の戦争,75.417
+17:10,4,Cancelo,77.672
+17:10,5,TheLastRockStarsNYC,
+17:10,6,Florence,18.869
+17:10,7,薮宏太誕生祭,
+17:10,8,Gallagher,21.033
+17:10,9,MITA,14.415
+17:10,10,カンセロ,
+17:40,1,Peshawarblast,91.527
+17:40,2,Cancelo,84.264
+17:40,3,TLRS最高,
+17:40,4,YeterSöz100BinÖğretmenin,130.111
+17:40,5,Florence,19.758
+17:40,6,罠の戦争,76.253
+17:40,7,TheLastRockStarsNYC,
+17:40,8,Bobby Hull,
+17:40,9,Gallagher,23.250
+17:40,10,MITA,15.625
+18:10,1,Peshawarblast,98.523
+18:10,2,FenereORTAlarLALEden,15.909
+18:10,3,Cancelo,88.909
+18:10,4,YeterSöz100BinÖğretmenin,161.694
+18:10,5,Bobby Hull,
+18:10,6,kulakver,
+18:10,7,TLRS最高,
+18:10,8,Florence,20.055
+18:10,9,DenklikHakkımızıİstiyoruz,
+18:10,10,MITA,16.377
+18:40,1,Peshawarblast,
+18:40,2,FenereORTAlarLALEden,19.665
+18:40,3,Bobby Hull,
+18:40,4,Cancelo,94.385
+18:40,5,YeterSöz100BinÖğretmenin,192.387
+18:40,6,TekCareEkZam,26.379
+18:40,7,すきすきワンワン,62.215
+18:40,8,Florence,20.758
+18:40,9,MITA,17.201
+18:40,10,Gallagher,25.710
+19:10,1,Peshawarblast,111.001
+19:10,2,Bobby Hull,
+19:10,3,FenereORTAlarLALEden,22.031
+19:10,4,YeterSöz100BinÖğretmenin,225.478
+19:10,5,Cancelo,98.914
+19:10,6,TekCareEkZam,32.903
+19:10,7,すきすきワンワン,63.306
+19:10,8,Florence,20.948
+19:10,9,Gallagher,26.779
+19:10,10,MITA,17.752
+19:40,1,Peshawarblast,115.725
+19:40,2,Bobby Hull,11.223
+19:40,3,FenereORTAlarLALEden,23.627
+19:40,4,TekCareEkZam,38.474
+19:40,5,YeterSöz100BinÖğretmenin,257.478
+19:40,6,Cancelo,102.802
+19:40,7,مقلوبه_اني_وداني,
+19:40,8,Florence,21.549
+19:40,9,Enzo,216.125
+19:40,10,Gallagher,27.669
+20:10,1,Peshawarblast,119.943
+20:10,2,TekCareEkZam,44.308
+20:10,3,Bobby Hull,12.269
+20:10,4,YeterSöz100BinÖğretmenin,289.033
+20:10,5,FenereORTAlarLALEden,24.928
+20:10,6,Cancelo,106.169
+20:10,7,مقلوبه_اني_وداني,
+20:10,8,Enzo,201.071
+20:10,9,Gallagher,28.684
+20:10,10,Voro,
+20:40,1,Peshawarblast,123.252
+20:40,2,TekCareEkZam,49.125
+20:40,3,TSErasCollection,
+20:40,4,Bobby Hull,13.175
+20:40,5,YeterSöz100BinÖğretmenin,322.099
+20:40,6,TedavimiVerin,30.062
+20:40,7,Cancelo,109.835
+20:40,8,Enzo,210.052
+20:40,9,W1st,
+20:40,10,Derby,17.456
+21:10,1,TekCareEkZam,54.772
+21:10,2,Peshawarblast,125.857
+21:10,3,Bobby Hull,13.989
+21:10,4,TSErasCollection,
+21:10,5,99ÖncesiHaklarımızıİstiyoruz,
+21:10,6,TedavimiVerin,43.489
+21:10,7,Cancelo,112.351
+21:10,8,W1st,
+21:10,9,Enzo,199.561
+21:10,10,Khosicle,
+21:40,1,TekCareEkZam,58.925
+21:40,2,99ÖncesiHaklarımızıİstiyoruz,
+21:40,3,Bobby Hull,14.686
+21:40,4,TedavimiVerin,57.586
+21:40,5,Peshawarblast,127.841
+21:40,6,رساله_لقلبك,20.913
+21:40,7,TekBaşrol Elsed,67.700
+21:40,8,Enzo,208.442
+21:40,9,W1st,
+21:40,10,Cancelo,114.939
+22:10,1,تدليس_المعارضه_الوهميه,
+22:10,2,TekCareEkZam,63.507
+22:10,3,99ÖncesiHaklarımızıİstiyoruz,
+22:10,4,رساله_لقلبك,22.704
+22:10,5,AcıkveNet,
+22:10,6,Bobby Hull,15.323
+22:10,7,TekBaşrol Elsed,91.961
+22:10,8,W1st,
+22:10,9,Jazz Chisholm,
+22:10,10,Enzo,204.063
+22:40,1,LaIslaDeLasTentaciones2,
+22:40,2,تدليس_المعارضه_الوهميه,
+22:40,3,AcıkveNet,
+22:40,4,Ziyech,32.488
+22:40,5,COAC2023P10,
+22:40,6,رساله_لقلبك,24.292
+22:40,7,Ellie,103.084
+22:40,8,Tanyel,
+22:40,9,DeSantis,125.129
+22:40,10,Chris and Patrick,
+23:10,1,LaIslaDeLasTentaciones2,
+23:10,2,ジュレーム,
+23:10,3,COAC2023P10,
+23:10,4,Ziyech,36.711
+23:10,5,Tanyel,
+23:10,6,TheLastOfUs,451.796
+23:10,7,Ellie,103.245
+23:10,8,Chris and Patrick,10.351
+23:10,9,Lana,91.567
+23:10,10,رساله_لقلبك,25.603
+23:40,1,LaIslaDeLasTentaciones2,14.301
+23:40,2,ジュレーム,11.769
+23:40,3,TheLastOfUs,460.777
+23:40,4,W1st,
+23:40,5,COAC2023P10,
+23:40,6,BlackOutLaSerie,
+23:40,7,رساله_لقلبك,26.910
+23:40,8,Chris and Patrick,12.366
+23:40,9,Schaffrillas,14.896
+23:40,10,Ziyech,39.043

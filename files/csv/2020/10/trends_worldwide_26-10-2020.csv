@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Flamengo,237.636
+00:09,2,Galhardo,36.465
+00:09,3,Gustavo Henrique,26.568
+00:09,4,Gerson,19.985
+00:09,5,Arsenal,234.323
+00:09,6,Patriots,157.864
+00:09,7,ARSLEI,70.770
+00:09,8,HIAC,26.745
+00:09,9,Cowboys,110.190
+00:09,10,TentacionesDBT5,25.415
+00:39,1,Flamengo,328.347
+00:39,2,Gerson,38.986
+00:39,3,Galhardo,43.872
+00:39,4,HIAC,39.998
+00:39,5,Gustavo Henrique,31.927
+00:39,6,Everton Ribeiro,20.657
+00:39,7,Patriots,169.083
+00:39,8,Brady,53.451
+00:39,9,Musto,
+00:39,10,TentacionesDBT5,30.915
+01:09,1,Flamengo,354.013
+01:09,2,HIAC,66.868
+01:09,3,Gerson,43.490
+01:09,4,TentacionesDBT5,39.055
+01:09,5,Everton Ribeiro,22.012
+01:09,6,Brady,57.423
+01:09,7,Patriots,168.354
+01:09,8,Macron,625.967
+01:09,9,Musto,
+01:09,10,Justin Herbert,11.209
+01:39,1,Flamengo,368.181
+01:39,2,HIAC,88.433
+01:39,3,Piñera,57.702
+01:39,4,Galhardo,50.385
+01:39,5,60Minutes,29.180
+01:39,6,TentacionesDBT5,46.578
+01:39,7,Gustavo Henrique,33.980
+01:39,8,AprueboGanaHoy,
+01:39,9,Chile,365.560
+01:39,10,Macron,689.755
+02:09,1,Flamengo,375.036
+02:09,2,HIAC,114.032
+02:09,3,Piñera,68.688
+02:09,4,Brenner,14.170
+02:09,5,Chile,390.521
+02:09,6,60Minutes,47.248
+02:09,7,Galhardo,52.652
+02:09,8,TentacionesDBT5,54.052
+02:09,9,Volpi,
+02:09,10,AprueboGanaHoy,14.869
+02:39,1,HIAC,132.197
+02:39,2,DK Metcalf,23.004
+02:39,3,Flamengo,386.208
+02:39,4,Chile,433.132
+02:39,5,Brenner,16.831
+02:39,6,Piñera,74.879
+02:39,7,Fortaleza,28.678
+02:39,8,Volpi,
+02:39,9,Daniel Alves,
+02:39,10,RHOP,
+03:09,1,HIAC,152.782
+03:09,2,DK Metcalf,32.269
+03:09,3,Volpi,16.975
+03:09,4,Fortaleza,40.836
+03:09,5,Chile,465.680
+03:09,6,Flamengo,386.225
+03:09,7,Fede Bal,
+03:09,8,RHOP,17.524
+03:09,9,LesVolamoslaRaja,17.504
+03:09,10,Russell Wilson,12.018
+03:39,1,Fede Bal,19.260
+03:39,2,HIAC,160.533
+03:39,3,Chile,506.770
+03:39,4,DK Metcalf,37.056
+03:39,5,Volpi,18.013
+03:39,6,LesVolamoslaRaja,26.063
+03:39,7,Flamengo,391.871
+03:39,8,RHOP,19.535
+03:39,9,Kershaw,34.267
+03:39,10,Russell Wilson,13.027
+04:09,1,Chile,532.231
+04:09,2,Fede Bal,22.983
+04:09,3,HIAC,164.827
+04:09,4,LesVolamoslaRaja,32.668
+04:09,5,DK Metcalf,39.824
+04:09,6,Volpi,18.476
+04:09,7,Fortaleza,44.826
+04:09,8,MasterChefCelebrity,15.454
+04:09,9,RHOP,20.626
+04:09,10,Kershaw,36.958
+04:39,1,Chile,564.784
+04:39,2,Fede Bal,23.968
+04:39,3,Lockett,25.176
+04:39,4,LesVolamoslaRaja,38.331
+04:39,5,HIAC,168.700
+04:39,6,DK Metcalf,41.729
+04:39,7,Volpi,18.791
+04:39,8,MasterChefCelebrity,16.077
+04:39,9,ToleranciaCero,
+04:39,10,Russ,22.952
+05:09,1,Chile,581.507
+05:09,2,Cardinals,42.306
+05:09,3,Seahawks,80.508
+05:09,4,SEAvsAZ,27.535
+05:09,5,Lockett,28.101
+05:09,6,fede bal,24.861
+05:09,7,LesVolamoslaRaja,42.340
+05:09,8,Russ,26.605
+05:09,9,Dodgers,49.336
+05:09,10,DK Metcalf,43.077
+05:39,1,Cardinals,57.039
+05:39,2,Seahawks,103.339
+05:39,3,SEAvsAZ,33.226
+05:39,4,Russ,33.495
+05:39,5,Chile,601.968
+05:39,6,Lockett,31.508
+05:39,7,LesVolamoslaRaja,45.119
+05:39,8,Kyler Murray,14.114
+05:39,9,Fede Bal,25.478
+05:39,10,Dodgers,51.354
+06:09,1,Cardinals,59.190
+06:09,2,Chile,611.872
+06:09,3,Lockett,32.595
+06:09,4,Seahawks,25.946
+06:09,5,LesVolamoslaRaja,47.031
+06:09,6,Russell Wilson,22.276
+06:09,7,Kyler Murray,15.005
+06:09,8,Fede Bal,25.931
+06:09,9,ダースビター,18.726
+06:09,10,Seattle,51.044
+06:39,1,Cardinals,60.425
+06:39,2,Chile,624.026
+06:39,3,Lockett,33.143
+06:39,4,Seahawks,26.325
+06:39,5,LesVolamoslaRaja,48.247
+06:39,6,Russell Wilson,22.737
+06:39,7,ダースビター,19.707
+06:39,8,Fede Bal,26.266
+06:39,9,pazartesi,
+06:39,10,Kyler,36.062
+07:09,1,Cardinals,61.150
+07:09,2,Seahawks,111.148
+07:09,3,BLACKPINK MILLION SELLER,37.558
+07:09,4,Chile,629.911
+07:09,5,世界に羽ばたけ虎者達,13.897
+07:09,6,pazartesi,
+07:09,7,프사한테_풀파워로_맞고_10억받기,
+07:09,8,Tyler Lockett,16.678
+07:09,9,ダースビター,20.601
+07:09,10,LesVolamoslaRaja,49.016
+07:39,1,BLACKPINK MILLION SELLER,77.017
+07:39,2,Cardinals,61.705
+07:39,3,Seahawks,112.191
+07:39,4,pazartesi,
+07:39,5,世界に羽ばたけ虎者達,15.278
+07:39,6,프사한테_풀파워로_맞고_10억받기,
+07:39,7,Chile,638.168
+07:39,8,ダースビター,21.362
+07:39,9,Tyler Lockett,16.975
+07:39,10,スパダリ,22.164
+08:09,1,BLACKPINK MILLION SELLER,107.980
+08:09,2,BlueHourMediaShowcase,13.907
+08:09,3,Dolar 8,
+08:09,4,pazartesi,
+08:09,5,프사한테_풀파워로_맞고_10억받기,
+08:09,6,ドラフト指名されったー,
+08:09,7,Cardinals,62.112
+08:09,8,Seahawks,112.735
+08:09,9,世界に羽ばたけ虎者達,15.863
+08:09,10,Chile,642.906
+08:39,1,BlueHourMediaShowcase,63.435
+08:39,2,Dolar 8,13.944
+08:39,3,BLACKPINK MILLION SELLER,127.035
+08:39,4,ドラフト指名されったー,
+08:39,5,MondayMotivation,35.680
+08:39,6,프사한테_풀파워로_맞고_10억받기,
+08:39,7,Cardinals,62.493
+08:39,8,Seahawks,113.351
+08:39,9,世界に羽ばたけ虎者達,16.196
+08:39,10,Fashola,84.563
+09:09,1,BlueHourMediaShowcase,112.745
+09:09,2,Dolar 8,19.902
+09:09,3,ドラフト指名されったー,
+09:09,4,BLACKPINK MILLION SELLER,140.564
+09:09,5,MondayMotivation,39.724
+09:09,6,TWICE_CANT_STOP_US,
+09:09,7,pazartesi,12.837
+09:09,8,ドラフト会議,30.763
+09:09,9,Fashola,101.049
+09:09,10,煉獄さん100億の男,
+09:39,1,TWICE_CANT_STOP_US,108.227
+09:39,2,ドラフト会議2020,21.723
+09:39,3,BlueHourMediaShowcase,141.548
+09:39,4,Dolar 8,25.450
+09:39,5,ドラフト指名されったー,
+09:39,6,MondayMotivation,43.649
+09:39,7,BLACKPINK MILLION SELLER,150.830
+09:39,8,一本釣り,14.851
+09:39,9,佐藤くん,
+09:39,10,早川くん,
+10:09,1,TWICE_CANT_STOP_US,217.141
+10:09,2,AtTheSkyOf553WeFoundTXT,97.088
+10:09,3,ドラフト会議,35.708
+10:09,4,Dolar 8,31.153
+10:09,5,BlueHour,218.889
+10:09,6,ドラフト指名されったー,
+10:09,7,BLACKPINK MILLION SELLER,159.049
+10:09,8,佐藤くん,
+10:09,9,一本釣り,16.852
+10:09,10,早川くん,
+10:39,1,TWICE_CANT_STOP_US,330.165
+10:39,2,AtTheSkyOf553WeFoundTXT,179.602
+10:39,3,BlueHour,307.925
+10:39,4,ドラフト,188.989
+10:39,5,Dolar 8,36.093
+10:39,6,MondayMotivation,51.208
+10:39,7,オリックス,23.523
+10:39,8,Fashola,165.570
+10:39,9,佐藤くん,10.555
+10:39,10,TXT_ComebackShow,67.924
+11:09,1,TWICE_CANT_STOP_US,394.793
+11:09,2,AtTheSkyOf553WeFoundTXT,219.747
+11:09,3,BlueHourOutNow,206.688
+11:09,4,ドラフト,215.553
+11:09,5,Dolar 8,40.890
+11:09,6,MondayMotivation,54.537
+11:09,7,JUNMYEON,41.992
+11:09,8,nayeon,69.388
+11:09,9,OURSKYbyMOA,85.682
+11:09,10,PROUD OF LIAM,21.035
+11:39,1,TWICE_CANT_STOP_US,425.808
+11:39,2,AtTheSkyOf553WeFoundTXT,233.586
+11:39,3,BlueHourOutNow,218.919
+11:39,4,ドラフト,242.598
+11:39,5,junmyeon,66.687
+11:39,6,PROUD OF LIAM,42.436
+11:39,7,Dolar 8,44.635
+11:39,8,MondayMotivation,57.919
+11:39,9,JONGDAE,35.262
+11:39,10,Fashola,208.740
+12:09,1,TWICE_CANT_STOP_US,445.873
+12:09,2,BlueHour,399.001
+12:09,3,ドラフト,273.502
+12:09,4,PROUD OF LIAM,67.039
+12:09,5,junmyeon,72.280
+12:09,6,坂本勇人,19.619
+12:09,7,MondayMotivation,61.225
+12:09,8,اختبار_الشفشفه,
+12:09,9,jongdae,339.887
+12:09,10,Dolar 8,47.807
+12:39,1,TWICE_CANT_STOP_US,460.747
+12:39,2,BlueHour,422.057
+12:39,3,PROUD OF LIAM,88.991
+12:39,4,ドラフト,302.379
+12:39,5,ICANTSTOPME,439.643
+12:39,6,坂本勇人,34.551
+12:39,7,junmyeon,82.346
+12:39,8,NOTFOUNDフルで聴け_SZ,
+12:39,9,اختبار_الشفشفه,
+12:39,10,jihyo,58.840
+13:09,1,TWICE_CANT_STOP_US,472.846
+13:09,2,NOTFOUNDフルで聴け_SZ,25.026
+13:09,3,BlueHour,434.995
+13:09,4,PROUD OF LIAM,99.709
+13:09,5,ドラフト,315.469
+13:09,6,十万円でできるかな,18.711
+13:09,7,اختبار_الشفشفه,
+13:09,8,junmyeon,89.005
+13:09,9,jihyo,63.359
+13:09,10,Dolar 8,53.099
+13:39,1,NOTFOUNDフルで聴け_SZ,70.538
+13:39,2,TWICE_CANT_STOP_US,483.510
+13:39,3,PROUD OF LIAM,116.342
+13:39,4,CDTVライブライブ,34.650
+13:39,5,BlueHour,449.273
+13:39,6,十万円でできるかな,33.034
+13:39,7,ドラフト,326.377
+13:39,8,junmyeon,94.480
+13:39,9,jihyo,71.325
+13:39,10,Dolar 8,55.721
+14:09,1,CDTVライブライブ,58.674
+14:09,2,NOTFOUNDフルで聴け_SZ,83.126
+14:09,3,PROUD OF LIAM,135.613
+14:09,4,TWICE_CANT_STOP_US,494.258
+14:09,5,十万円でできるかな,39.056
+14:09,6,はあちゃま新衣装,15.832
+14:09,7,ラブライナー,
+14:09,8,ドラフト,332.235
+14:09,9,坂本勇人,43.948
+14:09,10,Fransız,42.219
+14:39,1,CDTVライブライブ,67.488
+14:39,2,NOTFOUNDフルで聴け_SZ,87.492
+14:39,3,PROUD OF LIAM,152.623
+14:39,4,ラブライナー,15.580
+14:39,5,お宝映像アワード,
+14:39,6,AMAs,110.338
+14:39,7,TWICE_CANT_STOP_US,505.505
+14:39,8,Fransız,50.508
+14:39,9,ドラフト,340.039
+14:39,10,坂本勇人,45.479
+15:09,1,AMAs,677.380
+15:09,2,CDTVライブライブ,75.788
+15:09,3,PROUD OF LIAM,161.378
+15:09,4,NOTFOUNDフルで聴け_SZ,89.270
+15:09,5,ラブライナー,22.578
+15:09,6,共演NG,29.927
+15:09,7,お宝映像アワード,
+15:09,8,Fransız,56.964
+15:09,9,Rasさん,
+15:09,10,Favorite Social Artist,281.611
+15:39,1,AMAs,1.368.775
+15:39,2,CDTVライブライブ,81.786
+15:39,3,PROUD OF LIAM,166.439
+15:39,4,ラブライナー,27.225
+15:39,5,BTS for Favorite Social Artist,380.627
+15:39,6,Fransız,64.235
+15:39,7,WallsViennettaxWin,61.113
+15:39,8,FelizLunes,24.113
+15:39,9,共演NG,31.325
+15:39,10,Rasさん,
+16:09,1,AMAs,1.865.093
+16:09,2,CDTVライブライブ,85.613
+16:09,3,Favorite Social Artist,941.631
+16:09,4,MyWayToGFRIEND,78.405
+16:09,5,BeautifulWooseokDay,91.573
+16:09,6,PROUD OF LIAM,170.713
+16:09,7,ラブライナー,29.847
+16:09,8,WallsViennettaxWin,97.351
+16:09,9,Fransız,69.728
+16:09,10,Rasさん,
+16:39,1,AMAs,2.150.568
+16:39,2,TREASURE YOU,114.444
+16:39,3,MyWayToGFRIEND,111.427
+16:39,4,BeautifulWooseokDay,114.592
+16:39,5,Favorite Social Artist,1.082.844
+16:39,6,AYAisComing,17.353
+16:39,7,Fransız,76.249
+16:39,8,CDTVライブライブ,87.637
+16:39,9,PROUD OF LIAM,173.907
+16:39,10,ラブライナー,31.291
+17:09,1,AMAs,2.227.825
+17:09,2,Golden,209.795
+17:09,3,TREASURE YOU,202.401
+17:09,4,MyWayToGFRIEND,126.092
+17:09,5,BeautifulWooseokDay,125.971
+17:09,6,Favorite Social Artist,1.166.163
+17:09,7,Fransız,82.201
+17:09,8,AYAisComing,26.414
+17:09,9,PROUD OF LIAM,175.418
+17:09,10,ラブライナー,32.205
+17:39,1,Golden,398.021
+17:39,2,AMAs,1.992.465
+17:39,3,3erInformeEdomex,15.346
+17:39,4,TREASURE YOU,236.589
+17:39,5,MyWayToGFRIEND,130.308
+17:39,6,Fransız,90.050
+17:39,7,BeautifulWooseokDay,129.896
+17:39,8,Favorite Social Artist,1.225.223
+17:39,9,Cudi,
+17:39,10,Jared Kushner,67.933
+18:09,1,Golden,460.238
+18:09,2,3erInformeEdomex,33.050
+18:09,3,AMAs,2.133.162
+18:09,4,TREASURE YOU,247.595
+18:09,5,Cudi,12.329
+18:09,6,Fransız,95.715
+18:09,7,RekorBütçeye60bin,140.806
+18:09,8,BTS for Favorite Social Artist,637.475
+18:09,9,おそ松さん,29.516
+18:09,10,Jared Kushner,75.595
+18:39,1,Golden,507.495
+18:39,2,3erInformeEdomex,44.434
+18:39,3,AMAs,1.577.455
+18:39,4,RekorBütçeye60bin,202.210
+18:39,5,TREASURE YOU,252.661
+18:39,6,cudi,15.835
+18:39,7,Fransız,102.917
+18:39,8,Moon Knight,
+18:39,9,KKRvKXIP,13.456
+18:39,10,George Lopez,22.678
+19:09,1,Golden,526.611
+19:09,2,3erInformeEdomex,51.277
+19:09,3,AMAs,1.535.751
+19:09,4,RekorBütçeye60bin,254.358
+19:09,5,Oscar Isaac,11.371
+19:09,6,cudi,18.622
+19:09,7,Fransız,107.686
+19:09,8,NASA,148.506
+19:09,9,George Lopez,25.815
+19:09,10,TREASURE YOU,254.938
+19:39,1,Golden,546.032
+19:39,2,3erInformeEdomex,56.721
+19:39,3,AMAs,1.587.435
+19:39,4,iskenderun,
+19:39,5,Moon Knight,13.803
+19:39,6,RekorBütçeye60bin,298.515
+19:39,7,Cudi,20.831
+19:39,8,George Lopez,28.806
+19:39,9,NASA,160.635
+19:39,10,Fransız,114.023
+20:09,1,Golden,555.445
+20:09,2,harry styles,603.136
+20:09,3,iskenderun,15.772
+20:09,4,3erInformeEdomex,60.851
+20:09,5,AMAs,1.633.356
+20:09,6,Moon Knight,15.728
+20:09,7,RekorBütçeye60bin,313.658
+20:09,8,George Lopez,31.213
+20:09,9,NASA,168.845
+20:09,10,Cudi,22.280
+20:39,1,iskenderun,28.021
+20:39,2,Golden,568.818
+20:39,3,3erInformeEdomex,64.299
+20:39,4,AMAs,1.673.908
+20:39,5,George Lopez,34.456
+20:39,6,Moon Knight,17.229
+20:39,7,NASA,177.086
+20:39,8,RekorBütçeye60bin,320.450
+20:39,9,Cudi,23.764
+20:39,10,Fransız,122.229
+21:09,1,iskenderun,41.644
+21:09,2,Golden,577.115
+21:09,3,harry styles,636.247
+21:09,4,3erInformeEdomex,67.608
+21:09,5,AMAs,1.706.769
+21:09,6,George Lopez,36.817
+21:09,7,MilanRoma,
+21:09,8,Moon Knight,18.549
+21:09,9,NASA,181.929
+21:09,10,Ibra,11.837
+21:39,1,iskenderun,53.960
+21:39,2,Harry Styles,654.544
+21:39,3,Golden,587.809
+21:39,4,3erInformeEdomex,72.683
+21:39,5,AMAs,1.739.433
+21:39,6,MilanRoma,11.847
+21:39,7,George Lopez,40.178
+21:39,8,Zlatan,13.239
+21:39,9,Moon Knight,19.723
+21:39,10,NASA,188.811
+22:09,1,iskenderun,63.951
+22:09,2,harry styles,653.272
+22:09,3,3erInformeEdomex,78.207
+22:09,4,Golden,592.424
+22:09,5,AMAs,1.768.655
+22:09,6,MilanRoma,14.375
+22:09,7,George Lopez,43.077
+22:09,8,Amish,17.662
+22:09,9,CANCELADOS DO BIEL,114.557
+22:09,10,Zlatan,15.115
+22:39,1,iskenderun,70.371
+22:39,2,GobiernoQueNoSeDetiene,34.527
+22:39,3,MilanRoma,22.504
+22:39,4,harry styles,660.440
+22:39,5,3erInformeEdomex,82.361
+22:39,6,BURTOT,
+22:39,7,Zlatan,19.650
+22:39,8,Kane,38.898
+22:39,9,Guenda,24.994
+22:39,10,Ibra,16.929
+23:09,1,GobiernoQueNoSeDetiene,37.441
+23:09,2,iskenderun,74.097
+23:09,3,MilanRoma,26.798
+23:09,4,Kane,47.631
+23:09,5,COYS,14.816
+23:09,6,BURTOT,12.588
+23:09,7,harry styles,673.417
+23:09,8,Levante,21.090
+23:09,9,Zlatan,22.805
+23:09,10,niki,40.603
+23:39,1,GobiernoQueNoSeDetiene,40.048
+23:39,2,iskenderun,76.844
+23:39,3,GFVIP,202.153
+23:39,4,MilanRoma,28.335
+23:39,5,Kane,53.448
+23:39,6,COYS,18.132
+23:39,7,harry styles,678.513
+23:39,8,Levante,22.458
+23:39,9,niki,45.597
+23:39,10,Zlatan,25.647

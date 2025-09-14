@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Presidente,935.000
+00:01,2,Hybe,818.000
+00:01,3,Congress,689.000
+00:01,4,Hamas,549.000
+00:01,5,Pedro Sánchez,460.000
+00:01,6,KFCxBamBam,407.000
+00:01,7,Supreme Court,404.000
+00:01,8,Aespa,391.000
+00:01,9,Joe Biden,358.000
+00:01,10,RightPlaceWrongPerson,344.000
+00:31,1,Presidente,935.000
+00:31,2,Hybe,823.000
+00:31,3,Congress,689.000
+00:31,4,Hamas,549.000
+00:31,5,Pedro Sánchez,442.000
+00:31,6,Supreme Court,408.000
+00:31,7,KFCxBamBam,406.000
+00:31,8,Aespa,392.000
+00:31,9,Joe Biden,358.000
+00:31,10,RightPlaceWrongPerson,350.000
+01:01,1,The US,1.299.999
+01:01,2,Presidente,935.000
+01:01,3,Hybe,831.000
+01:01,4,Congress,684.000
+01:01,5,Hamas,544.000
+01:01,6,Pedro Sánchez,442.000
+01:01,7,Supreme Court,408.000
+01:01,8,KFCxBamBam,406.000
+01:01,9,Aespa,392.000
+01:01,10,RightPlaceWrongPerson,356.000
+01:31,1,The US,2.240.000
+01:31,2,Presidente,935.000
+01:31,3,Hybe,835.000
+01:31,4,Congress,684.000
+01:31,5,Hamas,544.000
+01:31,6,Texas,523.000
+01:31,7,Pedro Sánchez,442.000
+01:31,8,Supreme Court,427.000
+01:31,9,KFCxBamBam,406.000
+01:31,10,Aespa,392.000
+02:01,1,The US,2.240.000
+02:01,2,Presidente,922.000
+02:01,3,Hybe,835.000
+02:01,4,Congress,683.000
+02:01,5,Hamas,539.000
+02:01,6,Texas,530.000
+02:01,7,Supreme Court,440.000
+02:01,8,Pedro Sánchez,417.000
+02:01,9,KFCxBamBam,404.000
+02:01,10,Aespa,392.000
+02:31,1,The US,2.240.000
+02:31,2,Presidente,922.000
+02:31,3,Hybe,849.000
+02:31,4,Congress,683.000
+02:31,5,$XTER,606.000
+02:31,6,Hamas,539.000
+02:31,7,Texas,530.000
+02:31,8,Supreme Court,440.000
+02:31,9,Pedro Sánchez,417.000
+02:31,10,KFCxBamBam,400.000
+03:01,1,The US,2.240.000
+03:01,2,Presidente,922.000
+03:01,3,Hybe,858.000
+03:01,4,Congress,680.000
+03:01,5,$XTER,609.000
+03:01,6,Hamas,534.000
+03:01,7,Texas,530.000
+03:01,8,Supreme Court,440.000
+03:01,9,Pedro Sánchez,417.000
+03:01,10,KFCxBamBam,400.000
+03:31,1,Presidente,922.000
+03:31,2,Hybe,861.000
+03:31,3,Congress,680.000
+03:31,4,$XTER,609.000
+03:31,5,Hamas,534.000
+03:31,6,Texas,530.000
+03:31,7,Supreme Court,440.000
+03:31,8,Pedro Sánchez,417.000
+03:31,9,RightPlaceWrongPerson,404.000
+03:31,10,KFCxBamBam,400.000
+04:01,1,Presidente,918.000
+04:01,2,Hybe,872.000
+04:01,3,Congress,676.000
+04:01,4,$XTER,609.000
+04:01,5,Hamas,532.000
+04:01,6,RightPlaceWrongPerson,417.000
+04:01,7,Pedro Sánchez,413.000
+04:01,8,KFCxBamBam,389.000
+04:01,9,namjoon,384.000
+04:01,10,ซินเทจ,359.000
+04:31,1,Presidente,918.000
+04:31,2,Hybe,876.000
+04:31,3,Congress,676.000
+04:31,4,$XTER,609.000
+04:31,5,Hamas,532.000
+04:31,6,Supreme Court,481.000
+04:31,7,RightPlaceWrongPerson,436.000
+04:31,8,Pedro Sánchez,413.000
+04:31,9,namjoon,390.000
+04:31,10,KFCxBamBam,389.000
+05:01,1,Presidente,909.000
+05:01,2,Hybe,886.000
+05:01,3,Right Place,748.000
+05:01,4,Congress,661.000
+05:01,5,$XTER,606.000
+05:01,6,Hamas,529.000
+05:01,7,Supreme Court,481.000
+05:01,8,RightPlaceWrongPerson,455.000
+05:01,9,Pedro Sánchez,412.000
+05:01,10,namjoon,396.000
+05:31,1,Presidente,909.000
+05:31,2,Hybe,888.000
+05:31,3,Right Place,769.000
+05:31,4,$XTER,606.000
+05:31,5,Hamas,529.000
+05:31,6,Supreme Court,481.000
+05:31,7,RightPlaceWrongPerson,471.000
+05:31,8,Pedro Sánchez,412.000
+05:31,9,namjoon,402.000
+05:31,10,ซินเทจ,390.000
+06:01,1,Biden,1.299.999
+06:01,2,Presidente,901.000
+06:01,3,Hybe,900.000
+06:01,4,Right Place,769.000
+06:01,5,$XTER,605.000
+06:01,6,Hamas,526.000
+06:01,7,RightPlaceWrongPerson,483.000
+06:01,8,Supreme Court,481.000
+06:01,9,Aespa,422.000
+06:01,10,Pedro Sánchez,410.000
+06:31,1,Biden,1.319.999
+06:31,2,Presidente,901.000
+06:31,3,Hybe,900.000
+06:31,4,Right Place,769.000
+06:31,5,$XTER,605.000
+06:31,6,Hamas,526.000
+06:31,7,RightPlaceWrongPerson,493.000
+06:31,8,Aespa,422.000
+06:31,9,namjoon,414.000
+06:31,10,ซินเทจ,411.000
+07:01,1,Biden,1.359.999
+07:01,2,Hybe,900.000
+07:01,3,Presidente,896.000
+07:01,4,Right Place,788.000
+07:01,5,$XTER,595.000
+07:01,6,Hamas,523.000
+07:01,7,RightPlaceWrongPerson,502.000
+07:01,8,Aespa,422.000
+07:01,9,namjoon,420.000
+07:01,10,ซินเทจ,411.000
+07:31,1,Biden,1.359.999
+07:31,2,Hybe,900.000
+07:31,3,Presidente,896.000
+07:31,4,Right Place,825.000
+07:31,5,Hamas,523.000
+07:31,6,RightPlaceWrongPerson,510.000
+07:31,7,ซินเทจ,432.000
+07:31,8,namjoon,424.000
+07:31,9,Aespa,422.000
+07:31,10,Pedro Sánchez,406.000
+08:01,1,Biden,1.359.999
+08:01,2,Hybe,919.000
+08:01,3,Presidente,893.000
+08:01,4,Right Place,837.000
+08:01,5,Sánchez,714.000
+08:01,6,Hamas,520.000
+08:01,7,RightPlaceWrongPerson,510.000
+08:01,8,ซินเทจ,452.000
+08:01,9,namjoon,429.000
+08:01,10,Pedro Sánchez,406.000
+08:31,1,Biden,1.359.999
+08:31,2,Hybe,919.000
+08:31,3,Presidente,893.000
+08:31,4,Right Place,847.000
+08:31,5,Sánchez,714.000
+08:31,6,Hamas,520.000
+08:31,7,RightPlaceWrongPerson,512.000
+08:31,8,ซินเทจ,452.000
+08:31,9,namjoon,433.000
+08:31,10,Pedro Sánchez,406.000
+09:01,1,Biden,1.319.999
+09:01,2,Hybe,919.000
+09:01,3,Presidente,887.000
+09:01,4,Right Place,856.000
+09:01,5,Sánchez,714.000
+09:01,6,RightPlaceWrongPerson,530.000
+09:01,7,Hamas,518.000
+09:01,8,ซินเทจ,468.000
+09:01,9,namjoon,436.000
+09:01,10,$DOG,401.000
+09:31,1,Hybe,919.000
+09:31,2,Presidente,887.000
+09:31,3,Right Place,863.000
+09:31,4,Sánchez,714.000
+09:31,5,RightPlaceWrongPerson,535.000
+09:31,6,Hamas,518.000
+09:31,7,ซินเทจ,468.000
+09:31,8,namjoon,437.000
+09:31,9,$DOG,401.000
+09:31,10,기자회견,379.000
+10:01,1,Presidente,881.000
+10:01,2,Right Place,871.000
+10:01,3,Hybe,866.000
+10:01,4,Sánchez,703.000
+10:01,5,RightPlaceWrongPerson,535.000
+10:01,6,Hamas,516.000
+10:01,7,ซินเทจ,482.000
+10:01,8,namjoon,440.000
+10:01,9,$DOG,384.000
+10:01,10,기자회견,379.000
+10:31,1,Presidente,881.000
+10:31,2,Right Place,871.000
+10:31,3,Hybe,861.000
+10:31,4,Sánchez,703.000
+10:31,5,RightPlaceWrongPerson,544.000
+10:31,6,Hamas,516.000
+10:31,7,ซินเทจ,482.000
+10:31,8,namjoon,440.000
+10:31,9,$DOG,384.000
+10:31,10,기자회견,379.000
+11:01,1,Presidente,874.000
+11:01,2,Right Place,871.000
+11:01,3,Hybe,861.000
+11:01,4,Sánchez,691.000
+11:01,5,RightPlaceWrongPerson,549.000
+11:01,6,Hamas,514.000
+11:01,7,ซินเทจ,482.000
+11:01,8,namjoon,442.000
+11:01,9,기자회견,357.000
+11:01,10,$DOG,356.000
+11:31,1,Presidente,874.000
+11:31,2,Right Place,871.000
+11:31,3,Hybe,861.000
+11:31,4,Sánchez,691.000
+11:31,5,RightPlaceWrongPerson,554.000
+11:31,6,Hamas,514.000
+11:31,7,ซินเทจ,482.000
+11:31,8,namjoon,442.000
+11:31,9,기자회견,357.000
+11:31,10,$DOG,356.000
+12:01,1,Presidente,866.000
+12:01,2,Hybe,805.000
+12:01,3,Sánchez,677.000
+12:01,4,RightPlaceWrongPerson,559.000
+12:01,5,namjoon,445.000
+12:01,6,Jennie,366.000
+12:01,7,محمد,349.000
+12:01,8,CHANGE2561ORIGINAL,340.000
+12:01,9,$DOG,326.000
+12:01,10,기자회견,310.000
+12:31,1,Presidente,866.000
+12:31,2,Hybe,805.000
+12:31,3,Sánchez,677.000
+12:31,4,RightPlaceWrongPerson,564.000
+12:31,5,namjoon,445.000
+12:31,6,Namjoon,444.000
+12:31,7,Jennie,414.000
+12:31,8,محمد,371.000
+12:31,9,CHANGE2561ORIGINAL,340.000
+12:31,10,$DOG,326.000
+13:01,1,Presidente,856.000
+13:01,2,Sánchez,652.000
+13:01,3,RightPlaceWrongPerson,568.000
+13:01,4,Supreme Court,536.000
+13:01,5,namjoon,448.000
+13:01,6,Jennie,447.000
+13:01,7,Namjoon,444.000
+13:01,8,محمد,385.000
+13:01,9,$DOG,321.000
+13:01,10,FunkGeneration,317.000
+13:31,1,Presidente,856.000
+13:31,2,America,835.000
+13:31,3,Sánchez,650.000
+13:31,4,RightPlaceWrongPerson,573.000
+13:31,5,Supreme Court,547.000
+13:31,6,Jennie,485.000
+13:31,7,namjoon,448.000
+13:31,8,Namjoon,444.000
+13:31,9,Indonesia,428.000
+13:31,10,محمد,388.000
+14:01,1,America,850.000
+14:01,2,Presidente,847.000
+14:01,3,Sánchez,650.000
+14:01,4,RightPlaceWrongPerson,579.000
+14:01,5,Supreme Court,555.000
+14:01,6,jennie,516.000
+14:01,7,Jennie,485.000
+14:01,8,Namjoon,455.000
+14:01,9,namjoon,448.000
+14:01,10,Indonesia,435.000
+14:31,1,America,850.000
+14:31,2,Presidente,847.000
+14:31,3,Sánchez,650.000
+14:31,4,RightPlaceWrongPerson,585.000
+14:31,5,Supreme Court,555.000
+14:31,6,jennie,548.000
+14:31,7,Jennie,485.000
+14:31,8,Namjoon,455.000
+14:31,9,namjoon,448.000
+14:31,10,Indonesia,435.000
+15:01,1,America,850.000
+15:01,2,Presidente,837.000
+15:01,3,Sánchez,619.000
+15:01,4,RightPlaceWrongPerson,591.000
+15:01,5,Jennie,577.000
+15:01,6,Supreme Court,555.000
+15:01,7,jennie,548.000
+15:01,8,Namjoon,459.000
+15:01,9,namjoon,448.000
+15:01,10,Indonesia,439.000
+15:31,1,America,850.000
+15:31,2,Presidente,837.000
+15:31,3,Sánchez,609.000
+15:31,4,jennie,600.000
+15:31,5,RightPlaceWrongPerson,599.000
+15:31,6,Jennie,577.000
+15:31,7,Supreme Court,557.000
+15:31,8,namjoon,460.000
+15:31,9,Namjoon,459.000
+15:31,10,Indonesia,439.000
+16:01,1,America,847.000
+16:01,2,Presidente,821.000
+16:01,3,jennie,626.000
+16:01,4,RightPlaceWrongPerson,610.000
+16:01,5,Sánchez,609.000
+16:01,6,Jennie,577.000
+16:01,7,Supreme Court,566.000
+16:01,8,namjoon,468.000
+16:01,9,Namjoon,459.000
+16:01,10,Indonesia,439.000
+16:31,1,America,847.000
+16:31,2,Presidente,830.000
+16:31,3,jennie,640.000
+16:31,4,RightPlaceWrongPerson,624.000
+16:31,5,Sánchez,609.000
+16:31,6,Jennie,577.000
+16:31,7,Supreme Court,566.000
+16:31,8,namjoon,470.000
+16:31,9,Namjoon,459.000
+16:31,10,Indonesia,439.000
+17:01,1,Presidente,821.000
+17:01,2,jennie,661.000
+17:01,3,RightPlaceWrongPerson,637.000
+17:01,4,Sánchez,592.000
+17:01,5,Supreme Court,566.000
+17:01,6,namjoon,478.000
+17:01,7,NCTDREAM_THEDREAMSHOW3_in_BKK,451.000
+17:01,8,Google,428.000
+17:01,9,محمد,423.000
+17:01,10,The Call,408.000
+17:31,1,Presidente,821.000
+17:31,2,jennie,661.000
+17:31,3,RightPlaceWrongPerson,637.000
+17:31,4,Sánchez,592.000
+17:31,5,Supreme Court,566.000
+17:31,6,NCTDREAM_THEDREAMSHOW3_in_BKK,495.000
+17:31,7,namjoon,478.000
+17:31,8,Google,428.000
+17:31,9,محمد,423.000
+17:31,10,$DOG,414.000
+18:01,1,Presidente,813.000
+18:01,2,jennie,682.000
+18:01,3,RightPlaceWrongPerson,637.000
+18:01,4,NCTDREAM_THEDREAMSHOW3_in_BKK,596.000
+18:01,5,Sánchez,575.000
+18:01,6,Supreme Court,552.000
+18:01,7,namjoon,478.000
+18:01,8,Google,434.000
+18:01,9,محمد,426.000
+18:01,10,$DOG,414.000
+18:31,1,Presidente,813.000
+18:31,2,jennie,694.000
+18:31,3,RightPlaceWrongPerson,637.000
+18:31,4,NCTDREAM_THEDREAMSHOW3_in_BKK,596.000
+18:31,5,Sánchez,575.000
+18:31,6,Supreme Court,538.000
+18:31,7,namjoon,478.000
+18:31,8,Google,434.000
+18:31,9,محمد,426.000
+18:31,10,$DOG,414.000
+19:01,1,Presidente,806.000
+19:01,2,jennie,697.000
+19:01,3,NCTDREAM_THEDREAMSHOW3_in_BKK,625.000
+19:01,4,Sánchez,562.000
+19:01,5,RightPlaceWrongPerson,545.000
+19:01,6,Supreme Court,538.000
+19:01,7,Google,434.000
+19:01,8,محمد,427.000
+19:01,9,namjoon,400.000
+19:01,10,23point5EP8,398.000
+19:31,1,Presidente,806.000
+19:31,2,jennie,717.000
+19:31,3,NCTDREAM_THEDREAMSHOW3_in_BKK,679.000
+19:31,4,Sánchez,562.000
+19:31,5,RightPlaceWrongPerson,545.000
+19:31,6,Supreme Court,538.000
+19:31,7,Google,434.000
+19:31,8,23point5EP8,432.000
+19:31,9,محمد,427.000
+19:31,10,namjoon,400.000
+20:01,1,Presidente,777.000
+20:01,2,jennie,728.000
+20:01,3,NCTDREAM_THEDREAMSHOW3_in_BKK,707.000
+20:01,4,Sánchez,547.000
+20:01,5,Supreme Court,496.000
+20:01,6,RightPlaceWrongPerson,491.000
+20:01,7,23point5EP8,462.000
+20:01,8,محمد,427.000
+20:01,9,ฉันนี่แหละท่านขุนที่สวยที่สุด,399.000
+20:01,10,Korea,387.000
+20:31,1,Presidente,747.000
+20:31,2,NCTDREAM_THEDREAMSHOW3_in_BKK,735.000
+20:31,3,jennie,728.000
+20:31,4,Sánchez,547.000
+20:31,5,Supreme Court,496.000
+20:31,6,RightPlaceWrongPerson,491.000
+20:31,7,23point5EP8,483.000
+20:31,8,محمد,427.000
+20:31,9,ฉันนี่แหละท่านขุนที่สวยที่สุด,399.000
+20:31,10,Korea,387.000
+21:01,1,NCTDREAM_THEDREAMSHOW3_in_BKK,752.000
+21:01,2,jennie,746.000
+21:01,3,$XTER,540.000
+21:01,4,Sánchez,532.000
+21:01,5,23point5EP8,498.000
+21:01,6,Supreme Court,484.000
+21:01,7,RightPlaceWrongPerson,470.000
+21:01,8,محمد,425.000
+21:01,9,ฉันนี่แหละท่านขุนที่สวยที่สุด,405.000
+21:01,10,Korea,384.000
+21:31,1,NCTDREAM_THEDREAMSHOW3_in_BKK,777.000
+21:31,2,jennie,760.000
+21:31,3,Presidente,748.000
+21:31,4,$XTER,552.000
+21:31,5,Sánchez,532.000
+21:31,6,23point5EP8,512.000
+21:31,7,Supreme Court,475.000
+21:31,8,RightPlaceWrongPerson,470.000
+21:31,9,محمد,425.000
+21:31,10,ฉันนี่แหละท่านขุนที่สวยที่สุด,405.000
+22:01,1,NCTDREAM_THEDREAMSHOW3_in_BKK,777.000
+22:01,2,jennie,769.000
+22:01,3,Presidente,748.000
+22:01,4,$XTER,552.000
+22:01,5,23point5EP8,523.000
+22:01,6,Sánchez,514.000
+22:01,7,Supreme Court,470.000
+22:01,8,RightPlaceWrongPerson,461.000
+22:01,9,محمد,421.000
+22:01,10,ฉันนี่แหละท่านขุนที่สวยที่สุด,405.000
+22:31,1,NCTDREAM_THEDREAMSHOW3_in_BKK,785.000
+22:31,2,jennie,769.000
+22:31,3,Presidente,748.000
+22:31,4,$XTER,552.000
+22:31,5,23point5EP8,532.000
+22:31,6,Sánchez,514.000
+22:31,7,Supreme Court,470.000
+22:31,8,RightPlaceWrongPerson,461.000
+22:31,9,Hamas,443.000
+22:31,10,محمد,421.000
+23:01,1,NCTDREAM_THEDREAMSHOW3_in_BKK,785.000
+23:01,2,jennie,782.000
+23:01,3,Presidente,748.000
+23:01,4,23point5EP8,539.000
+23:01,5,$XTER,534.000
+23:01,6,Sánchez,514.000
+23:01,7,RightPlaceWrongPerson,455.000
+23:01,8,Hamas,453.000
+23:01,9,Supreme Court,428.000
+23:01,10,محمد,418.000
+23:31,1,NCTDREAM_THEDREAMSHOW3_in_BKK,792.000
+23:31,2,jennie,786.000
+23:31,3,23point5EP8,546.000
+23:31,4,$XTER,543.000
+23:31,5,Sánchez,514.000
+23:31,6,RightPlaceWrongPerson,455.000
+23:31,7,Hamas,453.000
+23:31,8,Supreme Court,428.000
+23:31,9,محمد,418.000
+23:31,10,ฉันนี่แหละท่านขุนที่สวยที่สุด,411.000

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Messi,2.980.000
+00:01,2,Barbie,2.820.000
+00:01,3,จัดตั้งรัฐบาล,1.940.000
+00:01,4,ROAR LIKE ABHISHEK,1.000.000
+00:01,5,ElvishBBWinner,982.000
+00:01,6,Oppenheimer,691.000
+00:01,7,เพื่อไทย,648.000
+00:01,8,pianoandithefirstconcert,624.000
+00:01,9,Miami,576.000
+00:01,10,Manipur,515.000
+00:31,1,Messi,2.980.000
+00:31,2,Barbie,2.820.000
+00:31,3,จัดตั้งรัฐบาล,1.940.000
+00:31,4,ROAR LIKE ABHISHEK,1.040.000
+00:31,5,ElvishBBWinner,988.000
+00:31,6,Oppenheimer,691.000
+00:31,7,BelleBelovedConcert,684.000
+00:31,8,เพื่อไทย,650.000
+00:31,9,pianoandithefirstconcert,627.000
+00:31,10,Miami,576.000
+01:01,1,Messi,2.980.000
+01:01,2,Barbie,2.820.000
+01:01,3,จัดตั้งรัฐบาล,1.960.000
+01:01,4,ROAR LIKE ABHISHEK,1.040.000
+01:01,5,ElvishBBWinner,988.000
+01:01,6,BelleBelovedConcert,684.000
+01:01,7,Oppenheimer,683.000
+01:01,8,เพื่อไทย,650.000
+01:01,9,pianoandithefirstconcert,631.000
+01:01,10,Miami,575.000
+01:31,1,Messi,2.980.000
+01:31,2,Barbie,2.760.000
+01:31,3,จัดตั้งรัฐบาล,1.960.000
+01:31,4,ROAR LIKE ABHISHEK,1.040.000
+01:31,5,ElvishBBWinner,988.000
+01:31,6,BelleBelovedConcert,692.000
+01:31,7,Oppenheimer,683.000
+01:31,8,เพื่อไทย,652.000
+01:31,9,pianoandithefirstconcert,635.000
+01:31,10,Miami,569.000
+02:01,1,Messi,2.960.000
+02:01,2,Barbie,2.760.000
+02:01,3,จัดตั้งรัฐบาล,1.960.000
+02:01,4,ROAR LIKE ABHISHEK,1.040.000
+02:01,5,ElvishBBWinner,988.000
+02:01,6,BelleBelovedConcert,697.000
+02:01,7,Oppenheimer,678.000
+02:01,8,เพื่อไทย,652.000
+02:01,9,pianoandithefirstconcert,640.000
+02:01,10,Miami,569.000
+02:31,1,Messi,2.960.000
+02:31,2,Barbie,2.760.000
+02:31,3,จัดตั้งรัฐบาล,1.960.000
+02:31,4,ROAR LIKE ABHISHEK,1.040.000
+02:31,5,BelleBelovedConcert,701.000
+02:31,6,Oppenheimer,678.000
+02:31,7,เพื่อไทย,652.000
+02:31,8,pianoandithefirstconcert,645.000
+02:31,9,Miami,569.000
+02:31,10,BELLE IS BELOVED,566.000
+03:01,1,Messi,2.920.000
+03:01,2,Barbie,2.740.000
+03:01,3,จัดตั้งรัฐบาล,1.960.000
+03:01,4,ROAR LIKE ABHISHEK,1.060.000
+03:01,5,ElvishBBWinner,1.000.000
+03:01,6,BelleBelovedConcert,708.000
+03:01,7,Oppenheimer,674.000
+03:01,8,เพื่อไทย,656.000
+03:01,9,pianoandithefirstconcert,652.000
+03:01,10,BELLE IS BELOVED,573.000
+03:31,1,Messi,2.920.000
+03:31,2,Barbie,2.740.000
+03:31,3,จัดตั้งรัฐบาล,1.980.000
+03:31,4,ROAR LIKE ABHISHEK,1.060.000
+03:31,5,ElvishBBWinner,1.000.000
+03:31,6,BelleBelovedConcert,708.000
+03:31,7,Oppenheimer,674.000
+03:31,8,เพื่อไทย,662.000
+03:31,9,pianoandithefirstconcert,659.000
+03:31,10,BELLE IS BELOVED,573.000
+04:01,1,Barbie,2.960.000
+04:01,2,Messi,2.920.000
+04:01,3,จัดตั้งรัฐบาล,1.980.000
+04:01,4,ROAR LIKE ABHISHEK,1.060.000
+04:01,5,ElvishBBWinner,1.000.000
+04:01,6,BelleBelovedConcert,708.000
+04:01,7,Oppenheimer,673.000
+04:01,8,เพื่อไทย,662.000
+04:01,9,pianoandithefirstconcert,659.000
+04:01,10,BELLE IS BELOVED,579.000
+04:31,1,Barbie,2.960.000
+04:31,2,Messi,2.920.000
+04:31,3,จัดตั้งรัฐบาล,2.000.000
+04:31,4,ROAR LIKE ABHISHEK,1.060.000
+04:31,5,ElvishBBWinner,1.000.000
+04:31,6,BelleBelovedConcert,708.000
+04:31,7,Oppenheimer,673.000
+04:31,8,เพื่อไทย,670.000
+04:31,9,pianoandithefirstconcert,661.000
+04:31,10,BELLE IS BELOVED,584.000
+05:01,1,Barbie,2.960.000
+05:01,2,Messi,2.800.000
+05:01,3,จัดตั้งรัฐบาล,2.000.000
+05:01,4,ROAR LIKE ABHISHEK,1.060.000
+05:01,5,BelleBelovedConcert,678.000
+05:01,6,Oppenheimer,672.000
+05:01,7,เพื่อไทย,670.000
+05:01,8,pianoandithefirstconcert,667.000
+05:01,9,BELLE IS BELOVED,589.000
+05:01,10,Miami,514.000
+05:31,1,Barbie,2.960.000
+05:31,2,Messi,2.800.000
+05:31,3,จัดตั้งรัฐบาล,2.020.000
+05:31,4,เพื่อไทย,680.000
+05:31,5,BelleBelovedConcert,678.000
+05:31,6,pianoandithefirstconcert,677.000
+05:31,7,Oppenheimer,672.000
+05:31,8,BELLE IS BELOVED,594.000
+05:31,9,Manipur,498.000
+05:31,10,BelovedBelleDay,406.000
+06:01,1,Barbie,2.740.000
+06:01,2,จัดตั้งรัฐบาล,2.020.000
+06:01,3,Messi,1.880.000
+06:01,4,pianoandithefirstconcert,683.000
+06:01,5,เพื่อไทย,682.000
+06:01,6,BelleBelovedConcert,672.000
+06:01,7,Oppenheimer,671.000
+06:01,8,BELLE IS BELOVED,598.000
+06:01,9,Manipur,482.000
+06:01,10,Miami,404.000
+06:31,1,Barbie,2.740.000
+06:31,2,จัดตั้งรัฐบาล,2.060.000
+06:31,3,Messi,1.880.000
+06:31,4,pianoandithefirstconcert,686.000
+06:31,5,เพื่อไทย,682.000
+06:31,6,BelleBelovedConcert,672.000
+06:31,7,Oppenheimer,671.000
+06:31,8,BELLE IS BELOVED,602.000
+06:31,9,Miami,404.000
+06:31,10,BelovedBelleDay,384.000
+07:01,1,Barbie,2.700.000
+07:01,2,จัดตั้งรัฐบาล,2.060.000
+07:01,3,Messi,1.580.000
+07:01,4,pianoandithefirstconcert,690.000
+07:01,5,เพื่อไทย,682.000
+07:01,6,Oppenheimer,670.000
+07:01,7,BelleBelovedConcert,669.000
+07:01,8,BELLE IS BELOVED,607.000
+07:01,9,BelovedBelleDay,384.000
+07:01,10,Miami,365.000
+07:31,1,Barbie,2.700.000
+07:31,2,จัดตั้งรัฐบาล,2.080.000
+07:31,3,Messi,1.580.000
+07:31,4,เพื่อไทย,698.000
+07:31,5,pianoandithefirstconcert,694.000
+07:31,6,Oppenheimer,670.000
+07:31,7,BelleBelovedConcert,669.000
+07:31,8,BELLE IS BELOVED,611.000
+07:31,9,BelovedBelleDay,384.000
+07:31,10,Miami,365.000
+08:01,1,Barbie,2.700.000
+08:01,2,จัดตั้งรัฐบาล,2.080.000
+08:01,3,Messi,1.400.000
+08:01,4,เพื่อไทย,698.000
+08:01,5,pianoandithefirstconcert,697.000
+08:01,6,BelleBelovedConcert,668.000
+08:01,7,Oppenheimer,666.000
+08:01,8,BELLE IS BELOVED,615.000
+08:01,9,Bitcoin,418.000
+08:01,10,BelovedBelleDay,375.000
+08:31,1,Barbie,2.700.000
+08:31,2,จัดตั้งรัฐบาล,2.100.000
+08:31,3,Messi,1.400.000
+08:31,4,Claim,1.380.000
+08:31,5,pianoandithefirstconcert,701.000
+08:31,6,BelleBelovedConcert,668.000
+08:31,7,Oppenheimer,666.000
+08:31,8,BELLE IS BELOVED,618.000
+08:31,9,Bitcoin,418.000
+08:31,10,BelovedBelleDay,369.000
+09:01,1,Barbie,2.620.000
+09:01,2,จัดตั้งรัฐบาล,2.100.000
+09:01,3,Claim,1.480.000
+09:01,4,Messi,1.220.000
+09:01,5,pianoandithefirstconcert,706.000
+09:01,6,BelleBelovedConcert,668.000
+09:01,7,Oppenheimer,664.000
+09:01,8,BELLE IS BELOVED,621.000
+09:01,9,Bitcoin,418.000
+09:01,10,BelovedBelleDay,369.000
+09:31,1,Barbie,2.639.999
+09:31,2,จัดตั้งรัฐบาล,2.100.000
+09:31,3,Claim,1.480.000
+09:31,4,Messi,1.140.000
+09:31,5,pianoandithefirstconcert,706.000
+09:31,6,BelleBelovedConcert,668.000
+09:31,7,Oppenheimer,664.000
+09:31,8,BELLE IS BELOVED,623.000
+09:31,9,Bitcoin,406.000
+09:31,10,BelovedBelleDay,365.000
+10:01,1,Barbie,2.639.999
+10:01,2,จัดตั้งรัฐบาล,2.060.000
+10:01,3,Claim,1.480.000
+10:01,4,Messi,1.060.000
+10:01,5,pianoandithefirstconcert,706.000
+10:01,6,เพื่อไทย,676.000
+10:01,7,BelleBelovedConcert,667.000
+10:01,8,Oppenheimer,658.000
+10:01,9,BELLE IS BELOVED,625.000
+10:01,10,Ukraine,410.000
+10:31,1,Barbie,2.639.999
+10:31,2,จัดตั้งรัฐบาล,2.000.000
+10:31,3,Claim,1.480.000
+10:31,4,Messi,1.060.000
+10:31,5,pianoandithefirstconcert,706.000
+10:31,6,เพื่อไทย,676.000
+10:31,7,BelleBelovedConcert,667.000
+10:31,8,Oppenheimer,658.000
+10:31,9,BELLE IS BELOVED,625.000
+10:31,10,Ukraine,410.000
+11:01,1,Barbie,2.639.999
+11:01,2,จัดตั้งรัฐบาล,2.000.000
+11:01,3,Messi,947.000
+11:01,4,pianoandithefirstconcert,702.000
+11:01,5,เพื่อไทย,676.000
+11:01,6,BelleBelovedConcert,665.000
+11:01,7,Oppenheimer,655.000
+11:01,8,BELLE IS BELOVED,625.000
+11:01,9,Ukraine,410.000
+11:01,10,BelovedBelleDay,337.000
+11:31,1,Barbie,2.440.000
+11:31,2,จัดตั้งรัฐบาล,1.839.999
+11:31,3,Messi,947.000
+11:31,4,pianoandithefirstconcert,702.000
+11:31,5,BelleBelovedConcert,665.000
+11:31,6,Oppenheimer,655.000
+11:31,7,BELLE IS BELOVED,625.000
+11:31,8,Ukraine,410.000
+11:31,9,BelovedBelleDay,337.000
+11:31,10,Arsenal,322.000
+12:01,1,Barbie,2.940.000
+12:01,2,จัดตั้งรัฐบาล,1.839.999
+12:01,3,Messi,870.000
+12:01,4,Oppenheimer,652.000
+12:01,5,pianoandithefirstconcert,643.000
+12:01,6,BelleBelovedConcert,629.000
+12:01,7,BELLE IS BELOVED,601.000
+12:01,8,Ukraine,406.000
+12:01,9,BelovedBelleDay,337.000
+12:01,10,Arsenal,323.000
+12:31,1,Barbie,2.940.000
+12:31,2,จัดตั้งรัฐบาล,1.839.999
+12:31,3,Messi,870.000
+12:31,4,Oppenheimer,652.000
+12:31,5,pianoandithefirstconcert,643.000
+12:31,6,BelleBelovedConcert,626.000
+12:31,7,BELLE IS BELOVED,601.000
+12:31,8,ENGLOT1stFanmeetInPHL,377.000
+12:31,9,Arsenal,323.000
+12:31,10,BelovedBelleDay,309.000
+13:01,1,Barbie,2.940.000
+13:01,2,จัดตั้งรัฐบาล,1.640.000
+13:01,3,Messi,803.000
+13:01,4,Oppenheimer,649.000
+13:01,5,pianoandithefirstconcert,590.000
+13:01,6,BelleBelovedConcert,563.000
+13:01,7,BELLE IS BELOVED,516.000
+13:01,8,ENGLOT1stFanmeetInPHL,448.000
+13:01,9,Arsenal,325.000
+13:01,10,BelovedBelleDay,309.000
+13:31,1,Barbie,2.940.000
+13:31,2,จัดตั้งรัฐบาล,1.640.000
+13:31,3,Messi,803.000
+13:31,4,Oppenheimer,649.000
+13:31,5,pianoandithefirstconcert,590.000
+13:31,6,ENGLOT1stFanmeetInPHL,552.000
+13:31,7,BelleBelovedConcert,547.000
+13:31,8,BELLE IS BELOVED,516.000
+13:31,9,Kanguva,506.000
+13:31,10,Arsenal,325.000
+14:01,1,Barbie,2.700.000
+14:01,2,จัดตั้งรัฐบาล,1.480.000
+14:01,3,Messi,746.000
+14:01,4,ENGLOT1stFanmeetInPHL,700.000
+14:01,5,Oppenheimer,645.000
+14:01,6,pianoandithefirstconcert,555.000
+14:01,7,BelleBelovedConcert,547.000
+14:01,8,BELLE IS BELOVED,516.000
+14:01,9,Kanguva,506.000
+14:01,10,Arsenal,326.000
+14:31,1,Barbie,2.700.000
+14:31,2,จัดตั้งรัฐบาล,1.480.000
+14:31,3,Messi,746.000
+14:31,4,ENGLOT1stFanmeetInPHL,700.000
+14:31,5,Oppenheimer,645.000
+14:31,6,pianoandithefirstconcert,555.000
+14:31,7,BelleBelovedConcert,547.000
+14:31,8,BELLE IS BELOVED,516.000
+14:31,9,Kanguva,511.000
+14:31,10,Arsenal,326.000
+15:01,1,Barbie,2.700.000
+15:01,2,จัดตั้งรัฐบาล,1.279.999
+15:01,3,ENGLOT1stFanmeetInPHL,756.000
+15:01,4,Messi,696.000
+15:01,5,Oppenheimer,636.000
+15:01,6,pianoandithefirstconcert,532.000
+15:01,7,Kanguva,522.000
+15:01,8,BelleBelovedConcert,503.000
+15:01,9,BELLE IS BELOVED,474.000
+15:01,10,Arsenal,326.000
+15:31,1,Barbie,2.700.000
+15:31,2,จัดตั้งรัฐบาล,1.279.999
+15:31,3,ENGLOT1stFanmeetInPHL,756.000
+15:31,4,Messi,696.000
+15:31,5,Oppenheimer,636.000
+15:31,6,pianoandithefirstconcert,532.000
+15:31,7,Kanguva,522.000
+15:31,8,BELLE IS BELOVED,474.000
+15:31,9,BelleBelovedConcert,425.000
+15:31,10,Arsenal,326.000
+16:01,1,Barbie,2.700.000
+16:01,2,Twitter X,1.359.999
+16:01,3,จัดตั้งรัฐบาล,1.080.000
+16:01,4,ENGLOT1stFanmeetInPHL,872.000
+16:01,5,Messi,647.000
+16:01,6,Oppenheimer,636.000
+16:01,7,Kanguva,522.000
+16:01,8,Japan,436.000
+16:01,9,BelleBelovedConcert,425.000
+16:01,10,BELLE IS BELOVED,396.000
+16:31,1,Barbie,2.700.000
+16:31,2,Twitter X,1.359.999
+16:31,3,จัดตั้งรัฐบาล,1.080.000
+16:31,4,ENGLOT1stFanmeetInPHL,921.000
+16:31,5,Messi,647.000
+16:31,6,Oppenheimer,636.000
+16:31,7,Kanguva,522.000
+16:31,8,Japan,448.000
+16:31,9,BelleBelovedConcert,425.000
+16:31,10,BELLE IS BELOVED,396.000
+17:01,1,Barbie,2.719.999
+17:01,2,Twitter X,1.359.999
+17:01,3,จัดตั้งรัฐบาล,950.000
+17:01,4,ENGLOT1stFanmeetInPHL,947.000
+17:01,5,Oppenheimer,632.000
+17:01,6,Messi,600.000
+17:01,7,Kanguva,506.000
+17:01,8,Japan,448.000
+17:01,9,BelleBelovedConcert,331.000
+17:01,10,Arsenal,327.000
+17:31,1,Barbie,2.719.999
+17:31,2,Twitter X,1.359.999
+17:31,3,ENGLOT1stFanmeetInPHL,984.000
+17:31,4,จัดตั้งรัฐบาล,950.000
+17:31,5,Friends,819.000
+17:31,6,Oppenheimer,632.000
+17:31,7,Messi,600.000
+17:31,8,Kanguva,506.000
+17:31,9,Japan,448.000
+17:31,10,BelleBelovedConcert,331.000
+18:01,1,Barbie,2.719.999
+18:01,2,Twitter X,1.299.999
+18:01,3,ENGLOT1stFanmeetInPHL,1.060.000
+18:01,4,จัดตั้งรัฐบาล,851.000
+18:01,5,Friends,819.000
+18:01,6,Oppenheimer,634.000
+18:01,7,Messi,556.000
+18:01,8,Kanguva,483.000
+18:01,9,Japan,440.000
+18:01,10,ม็อบ23กรกฎา66,330.000
+18:31,1,Barbie,2.719.999
+18:31,2,Twitter X,1.299.999
+18:31,3,ENGLOT1stFanmeetInPHL,1.120.000
+18:31,4,Friends,819.000
+18:31,5,จัดตั้งรัฐบาล,790.000
+18:31,6,Oppenheimer,634.000
+18:31,7,Messi,556.000
+18:31,8,Kanguva,483.000
+18:31,9,Japan,440.000
+18:31,10,ม็อบ23กรกฎา66,349.000
+19:01,1,Barbie,2.740.000
+19:01,2,Twitter X,1.359.999
+19:01,3,ENGLOT1stFanmeetInPHL,1.160.000
+19:01,4,Friends,809.000
+19:01,5,จัดตั้งรัฐบาล,790.000
+19:01,6,Oppenheimer,634.000
+19:01,7,Messi,515.000
+19:01,8,Kanguva,461.000
+19:01,9,Japan,432.000
+19:01,10,ม็อบ23กรกฎา66,364.000
+19:31,1,Barbie,2.740.000
+19:31,2,Twitter X,1.359.999
+19:31,3,ENGLOT1stFanmeetInPHL,1.200.000
+19:31,4,Friends,830.000
+19:31,5,จัดตั้งรัฐบาล,790.000
+19:31,6,Oppenheimer,634.000
+19:31,7,Messi,515.000
+19:31,8,Japan,437.000
+19:31,9,ม็อบ23กรกฎา66,377.000
+19:31,10,Arsenal,326.000
+20:01,1,Barbie,2.740.000
+20:01,2,Twitter X,1.359.999
+20:01,3,ENGLOT1stFanmeetInPHL,1.220.000
+20:01,4,Friends,830.000
+20:01,5,จัดตั้งรัฐบาล,737.000
+20:01,6,Oppenheimer,634.000
+20:01,7,Messi,473.000
+20:01,8,Japan,448.000
+20:01,9,ม็อบ23กรกฎา66,387.000
+20:01,10,Arsenal,324.000
+20:31,1,Barbie,2.740.000
+20:31,2,ENGLOT1stFanmeetInPHL,1.240.000
+20:31,3,Friends,830.000
+20:31,4,จัดตั้งรัฐบาล,737.000
+20:31,5,Twitter X,708.000
+20:31,6,Oppenheimer,634.000
+20:31,7,Messi,473.000
+20:31,8,FloodRelief_by_SantRampalJi,457.000
+20:31,9,Japan,448.000
+20:31,10,ม็อบ23กรกฎา66,394.000
+21:01,1,Barbie,2.760.000
+21:01,2,ENGLOT1stFanmeetInPHL,1.259.999
+21:01,3,Twitter X,1.140.000
+21:01,4,Claim,960.000
+21:01,5,Friends,830.000
+21:01,6,จัดตั้งรัฐบาล,702.000
+21:01,7,Oppenheimer,632.000
+21:01,8,FloodRelief_by_SantRampalJi,459.000
+21:01,9,Japan,451.000
+21:01,10,Messi,430.000
+21:31,1,Barbie,2.760.000
+21:31,2,ENGLOT1stFanmeetInPHL,1.259.999
+21:31,3,Twitter X,1.140.000
+21:31,4,Claim,989.000
+21:31,5,Friends,830.000
+21:31,6,จัดตั้งรัฐบาล,702.000
+21:31,7,Oppenheimer,632.000
+21:31,8,FloodRelief_by_SantRampalJi,459.000
+21:31,9,Japan,451.000
+21:31,10,Messi,437.000
+22:01,1,Barbie,2.920.000
+22:01,2,ENGLOT1stFanmeetInPHL,1.259.999
+22:01,3,Twitter X,1.140.000
+22:01,4,Claim,989.000
+22:01,5,Friends,812.000
+22:01,6,จัดตั้งรัฐบาล,678.000
+22:01,7,Oppenheimer,629.000
+22:01,8,FloodRelief_by_SantRampalJi,459.000
+22:01,9,Japan,451.000
+22:01,10,ม็อบ23กรกฎา66,408.000
+22:31,1,Barbie,2.920.000
+22:31,2,ENGLOT1stFanmeetInPHL,1.259.999
+22:31,3,Claim,989.000
+22:31,4,Friends,828.000
+22:31,5,Twitter X,694.000
+22:31,6,จัดตั้งรัฐบาล,668.000
+22:31,7,Oppenheimer,629.000
+22:31,8,FloodRelief_by_SantRampalJi,459.000
+22:31,9,Japan,451.000
+22:31,10,ม็อบ23กรกฎา66,411.000
+23:01,1,Barbie,2.920.000
+23:01,2,ENGLOT1stFanmeetInPHL,1.279.999
+23:01,3,Claim,908.000
+23:01,4,Friends,828.000
+23:01,5,Twitter X,694.000
+23:01,6,จัดตั้งรัฐบาล,668.000
+23:01,7,Oppenheimer,627.000
+23:01,8,FloodRelief_by_SantRampalJi,460.000
+23:01,9,Japan,451.000
+23:01,10,España,418.000
+23:31,1,Barbie,2.920.000
+23:31,2,ENGLOT1stFanmeetInPHL,1.279.999
+23:31,3,Claim,918.000
+23:31,4,Friends,828.000
+23:31,5,Twitter X,694.000
+23:31,6,จัดตั้งรัฐบาล,668.000
+23:31,7,Oppenheimer,627.000
+23:31,8,España,463.000
+23:31,9,FloodRelief_by_SantRampalJi,460.000
+23:31,10,Japan,451.000

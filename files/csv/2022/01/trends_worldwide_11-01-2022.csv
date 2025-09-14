@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Rashford,60.746
+00:10,2,PaidInBitcoin,88.591
+00:10,3,MUNAVL,20.840
+00:10,4,EnesKara,16.543
+00:10,5,MUFC,62.371
+00:10,6,Villa,102.528
+00:10,7,BLACKPINKCOMEBACKNOW,195.602
+00:10,8,Cavani,22.464
+00:10,9,Elanga,
+00:10,10,McTominay,15.834
+00:40,1,Rashford,62.381
+00:40,2,gfvip,108.281
+00:40,3,PaidInBitcoin,92.390
+00:40,4,EnesKara,18.311
+00:40,5,MUNAVL,21.116
+00:40,6,MUFC,63.829
+00:40,7,Villa,104.172
+00:40,8,Cavani,22.992
+00:40,9,Elanga,
+00:40,10,Bama,25.400
+01:10,1,Rashford,63.404
+01:10,2,gfvip,119.071
+01:10,3,PaidInBitcoin,96.131
+01:10,4,EnesKara,19.415
+01:10,5,MUNAVL,21.275
+01:10,6,STOPDELAYINGBLACKPINK,247.688
+01:10,7,Greenwood,22.273
+01:10,8,Bama,27.132
+01:10,9,Villa,103.940
+01:10,10,Andrew Luck,
+01:40,1,Rashford,64.306
+01:40,2,gfvip,128.428
+01:40,3,PaidInBitcoin,99.200
+01:40,4,EnesKara,20.179
+01:40,5,Caze100k,
+01:40,6,MUNAVL,21.331
+01:40,7,Bama,30.335
+01:40,8,Andrew Luck,10.680
+01:40,9,Greenwood,22.616
+01:40,10,連休明け,29.685
+02:10,1,Bama,35.532
+02:10,2,Caze100k,
+02:10,3,PaidInBitcoin,101.928
+02:10,4,Rashford,64.950
+02:10,5,gfvip,132.211
+02:10,6,RollTide,28.320
+02:10,7,NationalChampionship,30.800
+02:10,8,Andrew Luck,10.959
+02:10,9,連休明け,31.587
+02:10,10,Snorlax,15.892
+02:40,1,Bama,44.960
+02:40,2,NationalChampionship,38.872
+02:40,3,deprem,
+02:40,4,CFBPlayoff,21.770
+02:40,5,TheBachelor,
+02:40,6,RollTide,33.206
+02:40,7,Rashford,65.432
+02:40,8,Stetson Bennett,
+02:40,9,Andrew Luck,12.176
+02:40,10,Cassidy,
+03:10,1,Bama,49.828
+03:10,2,NationalChampionship,43.989
+03:10,3,CFBPlayoff,23.813
+03:10,4,deprem,
+03:10,5,TheBachelor,12.713
+03:10,6,WWERaw,25.261
+03:10,7,Stetson Bennett,
+03:10,8,Pickens,
+03:10,9,Chano,
+03:10,10,Cassidy,
+03:40,1,Bama,56.397
+03:40,2,CFBPlayoff,26.861
+03:40,3,NationalChampionship,49.336
+03:40,4,TheBachelor,17.911
+03:40,5,deprem,
+03:40,6,WWERaw,30.753
+03:40,7,Jameson Williams,
+03:40,8,Stetson Bennett,
+03:40,9,Will Anderson,
+03:40,10,Chano,
+04:10,1,Bama,60.660
+04:10,2,CFBPlayoff,29.016
+04:10,3,NationalChampionship,54.069
+04:10,4,TheBachelor,23.509
+04:10,5,WWERaw,38.679
+04:10,6,deprem,
+04:10,7,Jameson Williams,
+04:10,8,Katy Perry,14.951
+04:10,9,Stetson Bennett,
+04:10,10,Will Anderson,
+04:40,1,Bama,66.343
+04:40,2,NationalChampionship,58.853
+04:40,3,Katy Perry,22.709
+04:40,4,CFBPlayoff,30.497
+04:40,5,WWERaw,46.729
+04:40,6,TheBachelor,24.311
+04:40,7,deprem,
+04:40,8,Stetson Bennett,
+04:40,9,Will Anderson,
+04:40,10,Jameson Williams,
+05:10,1,Bama,75.372
+05:10,2,NationalChampionship,65.302
+05:10,3,CFBPlayoff,33.078
+05:10,4,WWERaw,55.269
+05:10,5,Katy Perry,27.255
+05:10,6,TheBachelor,24.932
+05:10,7,GoDawgs,43.312
+05:10,8,Bryce Young,11.619
+05:10,9,Stetson Bennett,
+05:10,10,Will Anderson,
+05:40,1,Bama,91.967
+05:40,2,NationalChampionship,74.195
+05:40,3,CFBPlayoff,36.678
+05:40,4,Stetson Bennett,14.525
+05:40,5,Katy Perry,35.528
+05:40,6,WWERaw,58.138
+05:40,7,GoDawgs,47.439
+05:40,8,TheBachelor,25.704
+05:40,9,Bryce Young,14.464
+05:40,10,WHEN I'M GONE,51.495
+06:10,1,Bama,125.506
+06:10,2,NationalChampionship,108.342
+06:10,3,GoDawgs,77.410
+06:10,4,Stetson Bennett,28.642
+06:10,5,CFBPlayoff,40.970
+06:10,6,Bryce Young,23.127
+06:10,7,Braves,14.086
+06:10,8,CFBChampionship,
+06:10,9,Kirby,36.558
+06:10,10,Saban,36.703
+06:40,1,Bama,135.204
+06:40,2,NationalChampionship,125.890
+06:40,3,GoDawgs,93.889
+06:40,4,Stetson Bennett,36.329
+06:40,5,Braves,18.694
+06:40,6,CFBPlayoff,43.294
+06:40,7,Bryce Young,25.002
+06:40,8,Kirby,43.795
+06:40,9,Saban,41.751
+06:40,10,CFBChampionship,
+07:10,1,Bama,139.171
+07:10,2,GoDawgs,102.934
+07:10,3,NationalChampionship,134.497
+07:10,4,Stetson Bennett,39.677
+07:10,5,Braves,20.746
+07:10,6,CFBPlayoff,44.963
+07:10,7,Bryce Young,25.976
+07:10,8,Kirby,46.606
+07:10,9,Saban,43.834
+07:10,10,CFBChampionship,
+07:40,1,Bama,141.385
+07:40,2,GoDawgs,108.756
+07:40,3,NationalChampionship,140.153
+07:40,4,Stetson Bennett,41.784
+07:40,5,Braves,22.142
+07:40,6,Bryce Young,26.641
+07:40,7,CFBPlayoff,46.089
+07:40,8,Kirby,49.088
+07:40,9,Saban,45.123
+07:40,10,CFBChampionship,
+08:10,1,Bama,142.461
+08:10,2,GoDawgs,112.558
+08:10,3,NationalChampionship,143.704
+08:10,4,Stetson Bennett,42.945
+08:10,5,DavidSassoli,
+08:10,6,Braves,22.778
+08:10,7,EnesKara,33.780
+08:10,8,Kirby,49.950
+08:10,9,Bryce Young,27.054
+08:10,10,CFBPlayoff,46.617
+08:40,1,Bama,143.192
+08:40,2,GoDawgs,115.190
+08:40,3,DavidSassoli,
+08:40,4,NationalChampionship,146.098
+08:40,5,EnesKara,36.346
+08:40,6,Stetson Bennett,43.715
+08:40,7,Braves,23.158
+08:40,8,Kirby,50.970
+08:40,9,CemaatYurtlarıKapatılsın,
+08:40,10,Bryce Young,27.352
+09:10,1,Ahmet Çalık,12.070
+09:10,2,Bama,143.677
+09:10,3,DavidSassoli,
+09:10,4,GoDawgs,116.917
+09:10,5,EnesKara,39.293
+09:10,6,NationalChampionship,147.867
+09:10,7,Stetson Bennett,44.159
+09:10,8,CemaatYurtlarıKapatılsın,
+09:10,9,確定ガチャ,22.716
+09:10,10,Braves,23.395
+09:40,1,Ahmet Çalık,29.588
+09:40,2,DavidSassoli,11.460
+09:40,3,Bama,144.060
+09:40,4,EnesKara,42.114
+09:40,5,GoDawgs,117.988
+09:40,6,CemaatYurtlarıKapatılsın,
+09:40,7,NationalChampionship,149.076
+09:40,8,確定ガチャ,23.923
+09:40,9,Stetson Bennett,44.476
+09:40,10,Konyaspor,21.531
+10:10,1,Ahmet Çalık,41.380
+10:10,2,DavidSassoli,14.071
+10:10,3,EnesKara,45.037
+10:10,4,Bama,144.292
+10:10,5,CemaatYurtlarıKapatılsın,
+10:10,6,Konyaspor,31.515
+10:10,7,確定ガチャ,24.761
+10:10,8,GoDawgs,118.764
+10:10,9,DilaraYıldız,
+10:10,10,ありちゃん,18.768
+10:40,1,Ahmet Çalık,50.616
+10:40,2,DavidSassoli,16.304
+10:40,3,EnesKara,47.496
+10:40,4,CemaatYurtlarıKapatılsın,11.157
+10:40,5,みずほ銀行ATMチャレンジ,
+10:40,6,DilaraYıldız,
+10:40,7,確定ガチャ,26.012
+10:40,8,Konyaspor,38.614
+10:40,9,Bama,144.544
+10:40,10,ありちゃん,19.818
+11:10,1,Ahmet Çalık,58.930
+11:10,2,DavidSassoli,18.338
+11:10,3,みずほ銀行ATMチャレンジ,
+11:10,4,EnesKara,50.129
+11:10,5,DilaraYıldız,
+11:10,6,CemaatYurtlarıKapatılsın,12.962
+11:10,7,確定ガチャ,26.758
+11:10,8,Konyaspor,45.053
+11:10,9,Sue Gray,21.370
+11:10,10,ありちゃん,19.757
+11:40,1,Ahmet Çalık,66.593
+11:40,2,DavidSassoli,19.920
+11:40,3,みずほ銀行ATMチャレンジ,
+11:40,4,DilaraYıldız,
+11:40,5,EnesKara,53.067
+11:40,6,CemaatYurtlarıKapatılsın,15.104
+11:40,7,確定ガチャ,27.794
+11:40,8,Sue Gray,23.569
+11:40,9,ミスチル,
+11:40,10,Konyaspor,50.912
+12:10,1,Ahmet Çalık,73.665
+12:10,2,DavidSassoli,21.596
+12:10,3,みずほ銀行ATMチャレンジ,
+12:10,4,DilaraYıldız,
+12:10,5,CemaatYurtlarıKapatılsın,17.859
+12:10,6,EnesKara,56.239
+12:10,7,確定ガチャ,28.511
+12:10,8,Sue Gray,25.727
+12:10,9,ハッシュポテト,
+12:10,10,ミスチル,
+12:40,1,Ahmet Çalık,79.293
+12:40,2,DilaraYıldız,
+12:40,3,DavidSassoli,23.103
+12:40,4,みずほ銀行ATMチャレンジ,
+12:40,5,CemaatYurtlarıKapatılsın,20.619
+12:40,6,バナナサンド,
+12:40,7,確定ガチャ,29.518
+12:40,8,ハッシュポテト,10.686
+12:40,9,jeonghan,58.443
+12:40,10,Sue Gray,27.953
+13:10,1,Ahmet Çalık,84.649
+13:10,2,DilaraYıldız,11.832
+13:10,3,みずほ銀行ATMチャレンジ,
+13:10,4,CemaatYurtlarıKapatılsın,23.315
+13:10,5,DavidSassoli,24.377
+13:10,6,EnesKara,64.034
+13:10,7,ハッシュポテト,11.727
+13:10,8,Boris,161.792
+13:10,9,確定ガチャ,29.943
+13:10,10,jeonghan,65.475
+13:40,1,JEON JUNGKOOK,55.236
+13:40,2,マツコの知らない世界,
+13:40,3,みずほ銀行ATMチャレンジ,
+13:40,4,DilaraYıldız,13.710
+13:40,5,nhk_jsclub,12.361
+13:40,6,Ahmet Çalık,89.607
+13:40,7,CemaatYurtlarıKapatılsın,26.014
+13:40,8,Boris,169.932
+13:40,9,ハッシュポテト,12.818
+13:40,10,Sue Gray,31.836
+14:10,1,ファイトソング,30.293
+14:10,2,マツコの知らない世界,
+14:10,3,JEON JUNGKOOK,62.465
+14:10,4,みずほ銀行ATMチャレンジ,
+14:10,5,DilaraYıldız,15.242
+14:10,6,Nissy,
+14:10,7,Ahmet Çalık,94.280
+14:10,8,Boris,176.515
+14:10,9,Michael Ellis,
+14:10,10,Sue Gray,34.592
+14:40,1,ファイトソング,52.884
+14:40,2,華大さんと千鳥くん,
+14:40,3,JEON JUNGKOOK,69.309
+14:40,4,マツコの知らない世界,
+14:40,5,みずほ銀行ATMチャレンジ,
+14:40,6,DilaraYıldız,16.895
+14:40,7,Ahmet Çalık,99.084
+14:40,8,レッツダンス,
+14:40,9,Michael Ellis,
+14:40,10,Martín Carrizo,
+15:10,1,ファイトソング,75.315
+15:10,2,PortfolioDay,14.103
+15:10,3,الطايي_الهلال,39.674
+15:10,4,華大さんと千鳥くん,10.165
+15:10,5,JEON JUNGKOOK,74.087
+15:10,6,ALGSLE,
+15:10,7,Sierra Leone,13.414
+15:10,8,STAR TRAIN,
+15:10,9,Michael Ellis,
+15:10,10,Martín Carrizo,
+15:40,1,ファイトソング,97.419
+15:40,2,해피됴데이_2022,109.599
+15:40,3,30RosesForDO,118.084
+15:40,4,겨울에_피는_로즈_도경수,98.044
+15:40,5,PortfolioDay,18.196
+15:40,6,Sierra Leone,16.589
+15:40,7,STAR TRAIN,
+15:40,8,JEON JUNGKOOK,79.168
+15:40,9,Happy Birthday Kyungsoo,112.958
+15:40,10,Brahimi,
+16:10,1,해피됴데이_2022,213.491
+16:10,2,30RosesForDO,233.104
+16:10,3,겨울에_피는_로즈_도경수,195.302
+16:10,4,ファイトソング,102.354
+16:10,5,Sierra Leone,26.101
+16:10,6,Happy Birthday Kyungsoo,204.364
+16:10,7,PortfolioDay,23.027
+16:10,8,PLAY MV TEASER 1,26.855
+16:10,9,STAR TRAIN,
+16:10,10,FOREVER WITH JIMIN,
+16:40,1,30RosesForDO,335.575
+16:40,2,해피됴데이_2022,308.625
+16:40,3,겨울에_피는_로즈_도경수,286.439
+16:40,4,ファイトソング,104.405
+16:40,5,Happy9YearsWithJimin,55.724
+16:40,6,Sierra Leone,32.093
+16:40,7,Happy Birthday Kyungsoo,270.821
+16:40,8,FOREVER WITH JIMIN,45.000
+16:40,9,PLAY MV TEASER 1,33.131
+16:40,10,STAR TRAIN,
+17:10,1,30RosesForDO,387.228
+17:10,2,해피됴데이_2022,355.255
+17:10,3,겨울에_피는_로즈_도경수,331.751
+17:10,4,Happy9YearsWithJimin,82.553
+17:10,5,ファイトソング,105.608
+17:10,6,Sierra Leone,35.387
+17:10,7,FOREVER WITH JIMIN,65.248
+17:10,8,Happy Birthday Kyungsoo,304.443
+17:10,9,スノーフォール,
+17:10,10,PLAY MV TEASER 1,35.782
+17:40,1,30RosesForDO,418.521
+17:40,2,해피됴데이_2022,383.823
+17:40,3,겨울에_피는_로즈_도경수,358.694
+17:40,4,Happy9YearsWithJimin,99.781
+17:40,5,PortfolioDay,41.351
+17:40,6,Rand Paul,41.809
+17:40,7,FOREVER WITH JIMIN,77.535
+17:40,8,Kyungsoo,437.254
+17:40,9,Sierra Leone,37.690
+17:40,10,Iheanacho,
+18:10,1,30RosesForDO,437.476
+18:10,2,해피됴데이_2022,400.586
+18:10,3,겨울에_피는_로즈_도경수,375.011
+18:10,4,Happy9YearsWithJimin,112.495
+18:10,5,TeamNigeria,28.685
+18:10,6,Rand Paul,56.325
+18:10,7,FOREVER WITH JIMIN,86.303
+18:10,8,Iheanacho,13.894
+18:10,9,Fauci,299.110
+18:10,10,Moses Simon,
+18:40,1,30RosesForDO,450.088
+18:40,2,해피됴데이_2022,411.069
+18:40,3,겨울에_피는_로즈_도경수,385.067
+18:40,4,Rand Paul,71.668
+18:40,5,Happy9YearsWithJimin,122.871
+18:40,6,PortfolioDay,58.817
+18:40,7,Nigeria,121.715
+18:40,8,Fauci,334.233
+18:40,9,Iheanacho,16.963
+18:40,10,Moses Simon,
+19:10,1,30RosesForDO,458.898
+19:10,2,TeamNigeria,41.026
+19:10,3,Rand Paul,86.920
+19:10,4,PortfolioDay,68.628
+19:10,5,해피됴데이_2022,418.492
+19:10,6,겨울에_피는_로즈_도경수,392.209
+19:10,7,Fauci,361.837
+19:10,8,Moses Simon,
+19:10,9,Iheanacho,20.089
+19:10,10,FOREVER WITH JIMIN,97.147
+19:40,1,Rand Paul,101.599
+19:40,2,TeamNigeria,48.774
+19:40,3,PortfolioDay,78.456
+19:40,4,30RosesForDO,464.738
+19:40,5,Fauci,392.884
+19:40,6,해피됴데이_2022,423.354
+19:40,7,겨울에_피는_로즈_도경수,396.973
+19:40,8,Moses Simon,
+19:40,9,Super Eagles,29.777
+19:40,10,FOREVER WITH JIMIN,101.077
+20:10,1,Rand Paul,114.810
+20:10,2,PortfolioDay,88.295
+20:10,3,TeamNigeria,52.757
+20:10,4,Fauci,418.424
+20:10,5,30RosesForDO,469.646
+20:10,6,Happy9YearsWithJimin,143.354
+20:10,7,NGAEGY,19.264
+20:10,8,Chris Wood,
+20:10,9,Moses Simon,
+20:10,10,FOREVER WITH JIMIN,104.282
+20:40,1,Rand Paul,127.570
+20:40,2,PortfolioDay,97.809
+20:40,3,Fauci,449.479
+20:40,4,TeamNigeria,55.943
+20:40,5,Chris Wood,
+20:40,6,30RosesForDO,473.417
+20:40,7,Happy9YearsWithJimin,147.629
+20:40,8,CorteDeLuz,13.675
+20:40,9,FOREVER WITH JIMIN,107.121
+20:40,10,Moses Simon,
+21:10,1,Rand Paul,140.310
+21:10,2,PortfolioDay,106.579
+21:10,3,Fauci,475.729
+21:10,4,Chris Wood,
+21:10,5,Burnley,
+21:10,6,TeamNigeria,57.816
+21:10,7,Happy9YearsWithJimin,151.707
+21:10,8,30RosesForDO,477.081
+21:10,9,EnesKara,180.898
+21:10,10,FOREVER WITH JIMIN,109.400
+21:40,1,Rand Paul,151.736
+21:40,2,PortfolioDay,115.586
+21:40,3,Fauci,503.732
+21:40,4,Chris Wood,10.985
+21:40,5,Burnley,10.896
+21:40,6,EnesKara,188.579
+21:40,7,TeamNigeria,59.473
+21:40,8,Happy9YearsWithJimin,154.772
+21:40,9,WSMDS,
+21:40,10,Edenor,27.443
+22:10,1,Rand Paul,159.509
+22:10,2,PortfolioDay,124.223
+22:10,3,Fauci,528.006
+22:10,4,Chris Wood,11.844
+22:10,5,Burnley,11.511
+22:10,6,EnesKara,189.407
+22:10,7,WSMDS,
+22:10,8,Sissi,
+22:10,9,Happy9YearsWithJimin,157.535
+22:10,10,House 3,15.685
+22:40,1,PortfolioDay,133.386
+22:40,2,Rand Paul,167.890
+22:40,3,Fauci,552.571
+22:40,4,Chris Wood,12.626
+22:40,5,Burnley,12.147
+22:40,6,Sissi,
+22:40,7,EnesKara,195.195
+22:40,8,WSMDS,
+22:40,9,AcıkveNet,10.285
+22:40,10,Ugarte,
+23:10,1,PortfolioDay,141.612
+23:10,2,Rand Paul,172.761
+23:10,3,Fauci,569.730
+23:10,4,LaIslaDeLasTentaciones10,
+23:10,5,Chris Wood,13.275
+23:10,6,Sissi,
+23:10,7,Burnley,12.460
+23:10,8,انتصر_الحب_ولا_باقي,
+23:10,9,EnesKara,192.481
+23:10,10,House 3,16.376
+23:40,1,LaIslaDeLasTentaciones10,
+23:40,2,PortfolioDay,149.866
+23:40,3,Rand Paul,180.346
+23:40,4,Fauci,593.263
+23:40,5,Sissi,11.814
+23:40,6,شكرا_اداره_انمار_وكعكي,
+23:40,7,Chris Wood,13.882
+23:40,8,ローソンでいちご狩り,
+23:40,9,Burnley,12.896
+23:40,10,Figueiredo,

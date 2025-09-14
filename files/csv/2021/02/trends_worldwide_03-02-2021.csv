@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,MUNSOU,146.317
+00:09,2,Southampton,167.569
+00:09,3,UefaTurkishFootballCheckOver,670.236
+00:09,4,Jeff Bezos,113.027
+00:09,5,MUFC,132.782
+00:09,6,DevletiminYanindayim,604.256
+00:09,7,Draghi,40.068
+00:09,8,Martial,64.815
+00:09,9,Arsenal,243.760
+00:09,10,Mike Dean,13.883
+00:39,1,MUNSOU,155.272
+00:39,2,Southampton,176.598
+00:39,3,UefaTurkishFootballCheckOver,711.269
+00:39,4,Jeff Bezos,125.915
+00:39,5,MUFC,142.500
+00:39,6,Draghi,42.908
+00:39,7,DevletiminYanindayim,615.975
+00:39,8,Newsmax,82.904
+00:39,9,Martial,68.519
+00:39,10,Arsenal,248.107
+01:09,1,MUNSOU,160.904
+01:09,2,Southampton,180.257
+01:09,3,UefaTurkishFootballCheckOver,743.288
+01:09,4,Jeff Bezos,136.218
+01:09,5,Draghi,44.480
+01:09,6,MUFC,147.885
+01:09,7,Newsmax,91.919
+01:09,8,DevletiminYanindayim,620.906
+01:09,9,Martial,70.205
+01:09,10,Mike Dean,15.283
+01:39,1,MUNSOU,165.792
+01:39,2,Southampton,183.850
+01:39,3,Jeff Bezos,145.131
+01:39,4,UefaTurkishFootballCheckOver,763.975
+01:39,5,Newsmax,101.029
+01:39,6,Draghi,45.495
+01:39,7,Space Force,35.610
+01:39,8,MUFC,152.224
+01:39,9,DevletiminYanindayim,624.986
+01:39,10,Martial,71.507
+02:09,1,MUNSOU,168.636
+02:09,2,Southampton,183.920
+02:09,3,Jeff Bezos,152.642
+02:09,4,Space Force,42.776
+02:09,5,Newsmax,106.602
+02:09,6,UefaTurkishFootballCheckOver,779.181
+02:09,7,BTSSUGA,22.896
+02:09,8,Draghi,46.063
+02:09,9,MUFC,154.749
+02:09,10,Clippers,16.159
+02:39,1,Space Force,49.888
+02:39,2,MUNSOU,170.800
+02:39,3,Jeff Bezos,159.852
+02:39,4,Newsmax,117.850
+02:39,5,Southampton,185.653
+02:39,6,Clippers,18.125
+02:39,7,BTSSUGA,25.553
+02:39,8,ลูกบอลสองขวบแล้ว,67.213
+02:39,9,UefaTurkishFootballCheckOver,791.777
+02:39,10,CALUM,20.823
+03:09,1,Space Force,56.632
+03:09,2,Newsmax,126.742
+03:09,3,Jeff Bezos,166.413
+03:09,4,Clippers,19.821
+03:09,5,ลูกบอลสองขวบแล้ว,119.399
+03:09,6,Hive,63.857
+03:09,7,MUNSOU,172.620
+03:09,8,CHANYEOL,114.323
+03:09,9,BTSSUGA,28.578
+03:09,10,CALUM,22.697
+03:39,1,Juliette,1.134.990
+03:39,2,Rafael Portugal,33.835
+03:39,3,xiao,340.068
+03:39,4,Kyrie,20.487
+03:39,5,Space Force,61.866
+03:39,6,Clippers,22.157
+03:39,7,chanyeol,145.773
+03:39,8,Fred VanVleet,19.721
+03:39,9,Hive,75.161
+03:39,10,RedeBBB,136.935
+04:09,1,Juliette,1.020.608
+04:09,2,Kyrie,37.047
+04:09,3,Sarah,952.263
+04:09,4,Rafael Portugal,45.159
+04:09,5,xiao,349.319
+04:09,6,Kerline,296.146
+04:09,7,Rodolfo,91.036
+04:09,8,Clippers,26.920
+04:09,9,BBB221,50.029
+04:09,10,Tiago,366.636
+04:39,1,Juliette,1.392.419
+04:39,2,BBB21,2.308.683
+04:39,3,Kyrie,48.190
+04:39,4,Sarah,980.581
+04:39,5,xiao,364.012
+04:39,6,Rafael Portugal,46.495
+04:39,7,Kerline,329.271
+04:39,8,Clippers,33.063
+04:39,9,Rodolfo,98.041
+04:39,10,Space Force,71.046
+05:09,1,Juliette,1.460.572
+05:09,2,BBB21,1.555.502
+05:09,3,Kyrie,51.418
+05:09,4,xiao,346.512
+05:09,5,Sarah,769.532
+05:09,6,Rafael Portugal,46.976
+05:09,7,Kerline,329.351
+05:09,8,Clippers,34.339
+05:09,9,Rodolfo,94.434
+05:09,10,Viih Tube,225.175
+05:39,1,Juliette,1.527.095
+05:39,2,BBB21,1.820.848
+05:39,3,xiao,358.348
+05:39,4,Kyrie,53.996
+05:39,5,Sarah,780.352
+05:39,6,Nego,316.556
+05:39,7,Rafael Portugal,47.322
+05:39,8,Viih Tube,261.602
+05:39,9,Kerline,338.935
+05:39,10,Clippers,35.356
+06:09,1,Juliette,1.600.608
+06:09,2,BBB21,1.992.432
+06:09,3,xiao,351.607
+06:09,4,Kyrie,55.649
+06:09,5,Sarah,742.979
+06:09,6,Nego,334.373
+06:09,7,Viih Tube,275.455
+06:09,8,Lumena,460.243
+06:09,9,Rafael Portugal,47.530
+06:09,10,Clippers,35.805
+06:39,1,Juliette,1.696.659
+06:39,2,xiao,362.097
+06:39,3,BBB21,1.790.151
+06:39,4,Kyrie,57.125
+06:39,5,Nego,348.003
+06:39,6,Curry,60.238
+06:39,7,Sarah,749.563
+06:39,8,Viih Tube,286.528
+06:39,9,الحظر_الكلي,21.754
+06:39,10,Lumena,476.615
+07:09,1,Juliette,1.690.920
+07:09,2,xiao,358.393
+07:09,3,BBB21,1.894.727
+07:09,4,Kyrie,58.258
+07:09,5,Curry,61.925
+07:09,6,GivenMovie,12.444
+07:09,7,Sarah,730.041
+07:09,8,الحظر_الكلي,24.352
+07:09,9,Nego,351.532
+07:09,10,CHANYEOL,145.101
+07:39,1,Juliette,1.686.374
+07:39,2,XIAO,367.730
+07:39,3,BBB21,1.857.102
+07:39,4,GivenMovie,15.561
+07:39,5,박찬열_소중해,107.909
+07:39,6,FarmersProtest,836.626
+07:39,7,CHANYEOL,188.968
+07:39,8,Kyrie,59.384
+07:39,9,Sarah,733.067
+07:39,10,Curry,63.374
+08:09,1,Juliette,1.711.124
+08:09,2,xiao,364.096
+08:09,3,BBB21,1.910.994
+08:09,4,FarmersProtest,872.459
+08:09,5,박찬열_소중해,138.110
+08:09,6,GivenMovie,18.448
+08:09,7,あなたをお弁当に例えると,
+08:09,8,Sarah,724.006
+08:09,9,Kyrie,60.452
+08:09,10,Mia Khalifa,15.115
+08:39,1,Juliette,1.709.493
+08:39,2,xiao,372.373
+08:39,3,FarmersProtest,916.510
+08:39,4,BBB21,1.884.211
+08:39,5,IndiaWithModi,24.940
+08:39,6,あなたをお弁当に例えると,
+08:39,7,박찬열_소중해,159.573
+08:39,8,Kemurnian Bear Brand,
+08:39,9,Mia Khalifa,22.135
+08:39,10,Steph,41.710
+09:09,1,Juliette,1.715.312
+09:09,2,IndiaWithModi,40.990
+09:09,3,FarmersProtest,956.705
+09:09,4,xiao,367.129
+09:09,5,あなたをお弁当に例えると,
+09:09,6,HerYerBogaziciHerYerDirenis,62.479
+09:09,7,الحظر_الكلي,34.687
+09:09,8,Mia Khalifa,28.725
+09:09,9,Kemurnian Bear Brand,
+09:09,10,けーくん,
+09:39,1,IndiaWithModi,57.512
+09:39,2,HerYerBogaziciHerYerDirenis,65.918
+09:39,3,الاحساء,
+09:39,4,FarmersProtest,1.000.883
+09:39,5,Juliette,1.719.221
+09:39,6,あなたをお弁当に例えると,
+09:39,7,xiao,374.399
+09:39,8,Mia Khalifa,34.898
+09:39,9,Kemurnian Bear Brand,
+09:39,10,けーくん,
+10:09,1,IndiaWithModi,74.143
+10:09,2,차은우_여신강림_LoveSoFine,29.968
+10:09,3,الاحساء,
+10:09,4,HerYerBogaziciHerYerDirenis,70.356
+10:09,5,COCOA,31.842
+10:09,6,聖杯戦線,
+10:09,7,FarmersProtest,1.032.546
+10:09,8,Juliette,1.723.366
+10:09,9,Jiminie,21.430
+10:09,10,Mia Khalifa,39.923
+10:39,1,聖杯戦線,21.024
+10:39,2,차은우_여신강림_LoveSoFine,42.219
+10:39,3,COCOA,38.638
+10:39,4,IndiaWithModi,90.523
+10:39,5,HerYerBogaziciHerYerDirenis,75.466
+10:39,6,الاحساء,
+10:39,7,IndiaTogether,84.711
+10:39,8,Juliette,1.730.121
+10:39,9,Jiminie,24.767
+10:39,10,カゲプロ,
+11:09,1,聖杯戦線,29.332
+11:09,2,COCOA,43.518
+11:09,3,IndiaTogether,124.121
+11:09,4,차은우_여신강림_LoveSoFine,51.595
+11:09,5,IndiaAgainstPropaganda,100.311
+11:09,6,IndiaWithModi,107.808
+11:09,7,HerYerBogaziciHerYerDirenis,82.490
+11:09,8,カゲプロ10周年,
+11:09,9,Juliette,1.743.701
+11:09,10,Jiminie,27.201
+11:39,1,聖杯戦線,34.773
+11:39,2,IndiaTogether,158.697
+11:39,3,IndiaAgainstPropaganda,132.137
+11:39,4,COCOA,48.321
+11:39,5,IndiaWithModi,121.928
+11:39,6,차은우_여신강림_LoveSoFine,58.642
+11:39,7,HerYerBogaziciHerYerDirenis,89.561
+11:39,8,カゲプロ10周年,
+11:39,9,Suchmos,
+11:39,10,Switchカップ,
+12:09,1,聖杯戦線,38.677
+12:09,2,IndiaTogether,190.261
+12:09,3,IndiaAgainstPropaganda,160.313
+12:09,4,COCOA,52.033
+12:09,5,有吉の壁,
+12:09,6,BurnIt2ndWin,27.932
+12:09,7,IndiaWithModi,133.692
+12:09,8,カゲプロ10周年,
+12:09,9,Suchmos,
+12:09,10,Draghi,159.516
+12:39,1,聖杯戦線,41.794
+12:39,2,IndiaAgainstPropaganda,185.033
+12:39,3,IndiaTogether,217.523
+12:39,4,虹ヶ咲,31.934
+12:39,5,COCOA,56.382
+12:39,6,BurnIt2ndWin,35.720
+12:39,7,IndiaWithModi,144.026
+12:39,8,カゲプロ10周年,
+12:39,9,Suchmos,11.365
+12:39,10,森喜朗氏,14.703
+13:09,1,IndiaAgainstPropaganda,210.600
+13:09,2,虹ヶ咲,42.225
+13:09,3,聖杯戦線,44.297
+13:09,4,IndiaTogether,244.143
+13:09,5,COCOA,58.913
+13:09,6,カゲプロ10周年,
+13:09,7,HerYerBogaziciHerYerDirenis,113.375
+13:09,8,IndiaWithModi,153.831
+13:09,9,森喜朗氏,20.310
+13:09,10,Suchmos,12.483
+13:39,1,IndiaAgainstPropaganda,235.049
+13:39,2,虹ヶ咲,49.620
+13:39,3,IndiaTogether,265.250
+13:39,4,聖杯戦線,46.260
+13:39,5,PMQs,
+13:39,6,COCOA,62.338
+13:39,7,カゲプロ10周年,
+13:39,8,lynch,
+13:39,9,森喜朗氏,26.565
+13:39,10,Suchmos,13.423
+14:09,1,IndiaAgainstPropaganda,254.738
+14:09,2,IndiaTogether,285.153
+14:09,3,虹ヶ咲,52.644
+14:09,4,PMQs,10.639
+14:09,5,聖杯戦線,48.048
+14:09,6,カゲプロ10周年,
+14:09,7,COCOA,64.902
+14:09,8,TYMLiveLoud,17.078
+14:09,9,森喜朗氏,31.567
+14:09,10,Suchmos,14.291
+14:39,1,水曜日のダウンタウン,
+14:39,2,IndiaAgainstPropaganda,275.492
+14:39,3,IndiaTogether,304.879
+14:39,4,カゲプロ10周年,
+14:39,5,COCOA,70.186
+14:39,6,PMQs,13.290
+14:39,7,聖杯戦線,49.533
+14:39,8,forzadayane,14.376
+14:39,9,森喜朗氏,37.039
+14:39,10,Suchmos,14.942
+15:09,1,GoldenGlobes,35.630
+15:09,2,水曜日のダウンタウン,14.121
+15:09,3,IndiaAgainstPropaganda,315.348
+15:09,4,ウチカレ,23.235
+15:09,5,IndiaTogether,343.812
+15:09,6,カゲプロ10周年,
+15:09,7,COCOA,73.456
+15:09,8,クロちゃん,11.378
+15:09,9,Emily in Paris,
+15:09,10,聖杯戦線,50.889
+15:39,1,GoldenGlobes,56.133
+15:39,2,IndiaAgainstPropaganda,370.714
+15:39,3,水曜日のダウンタウン,14.997
+15:39,4,IndiaTogether,394.300
+15:39,5,Emily in Paris,
+15:39,6,ウチカレ,25.524
+15:39,7,James Corden,
+15:39,8,カゲプロ10周年,
+15:39,9,COCOA,76.981
+15:39,10,クロちゃん,12.582
+16:09,1,GoldenGlobes,70.386
+16:09,2,IndiaAgainstPropaganda,434.973
+16:09,3,Emily in Paris,
+16:09,4,IndiaTogether,448.946
+16:09,5,2MGrowWithWIN,33.648
+16:09,6,TrueBeautyEp15,53.195
+16:09,7,James Corden,
+16:09,8,I May Destroy You,
+16:09,9,COCOA,79.341
+16:09,10,カゲプロ10周年,
+16:39,1,GoldenGlobes,83.192
+16:39,2,IndiaAgainstPropaganda,513.194
+16:39,3,コムドット100万人達成,17.857
+16:39,4,IndiaTogether,517.817
+16:39,5,2MGrowWithWIN,86.290
+16:39,6,Emily in Paris,11.581
+16:39,7,けーくん,34.021
+16:39,8,Hazard,44.924
+16:39,9,I May Destroy You,
+16:39,10,James Corden,
+17:09,1,GoldenGlobes,94.889
+17:09,2,IndiaAgainstPropaganda,601.991
+17:09,3,IndiaTogether,588.962
+17:09,4,Emily in Paris,14.946
+17:09,5,2MGrowWithWIN,120.712
+17:09,6,コムドット100万人達成,20.015
+17:09,7,Hazard,51.151
+17:09,8,けーくん,38.190
+17:09,9,I May Destroy You,
+17:09,10,James Corden,
+17:39,1,GoldenGlobes,105.029
+17:39,2,IndiaAgainstPropaganda,703.430
+17:39,3,GretaThunbergExposed,85.725
+17:39,4,IndiaTogether,669.221
+17:39,5,Trey Songz,13.813
+17:39,6,Emily in Paris,18.227
+17:39,7,2MGrowWithWIN,145.438
+17:39,8,Hazard,57.457
+17:39,9,I May Destroy You,12.489
+17:39,10,けーくん,40.597
+18:09,1,IndiaAgainstPropaganda,820.869
+18:09,2,GoldenGlobes,113.518
+18:09,3,GretaThunbergExposed,160.130
+18:09,4,Trey Songz,22.731
+18:09,5,IndiaTogether,758.932
+18:09,6,Emily in Paris,21.259
+18:09,7,2MGrowWithWIN,160.726
+18:09,8,I May Destroy You,15.903
+18:09,9,Hazard,61.590
+18:09,10,けーくん,41.692
+18:39,1,IndiaAgainstPropaganda,921.580
+18:39,2,GoldenGlobes,120.707
+18:39,3,Trey Songz,30.708
+18:39,4,GretaThunbergExposed,205.933
+18:39,5,IndiaTogether,850.053
+18:39,6,ripchrispratt,
+18:39,7,Emily in Paris,23.822
+18:39,8,I May Destroy You,18.579
+18:39,9,Hazard,66.901
+18:39,10,PARK JIMIN,90.640
+19:09,1,IndiaAgainstPropaganda,1.007.662
+19:09,2,Trey Songz,38.165
+19:09,3,GretaThunbergExposed,242.884
+19:09,4,IndiaTogether,930.168
+19:09,5,GoldenGlobes,127.550
+19:09,6,ANTvBJK,23.088
+19:09,7,Emily in Paris,26.152
+19:09,8,ZiyaHcmİlİçİ ÖzreİlçeEmri,
+19:09,9,I May Destroy You,20.914
+19:09,10,Hazard,69.988
+19:39,1,IndiaAgainstPropaganda,1.073.811
+19:39,2,Trey Songz,45.328
+19:39,3,HakemlerBeşiktaşıYineÜzmüyor,29.237
+19:39,4,GretaThunbergExposed,269.517
+19:39,5,IndiaTogether,996.230
+19:39,6,GoldenGlobes,132.971
+19:39,7,Emily in Paris,28.542
+19:39,8,I May Destroy You,22.884
+19:39,9,Thelma,57.510
+19:39,10,ZiyaHcmİlİçİ ÖzreİlçeEmri,
+20:09,1,IndiaAgainstPropaganda,1.127.187
+20:09,2,Trey Songz,51.289
+20:09,3,HakemlerBeşiktaşıYineÜzmüyor,33.856
+20:09,4,GretaThunbergExposed,292.553
+20:09,5,IndiaTogether,1.046.035
+20:09,6,GoldenGlobes,137.730
+20:09,7,Emily in Paris,30.785
+20:09,8,Sergen,27.520
+20:09,9,Morgan Wallen,27.616
+20:09,10,I May Destroy You,24.749
+20:39,1,IndiaAgainstPropaganda,1.163.810
+20:39,2,Trey Songz,56.123
+20:39,3,HakemlerBeşiktaşıYineÜzmüyor,36.925
+20:39,4,GretaThunbergExposed,307.397
+20:39,5,IndiaTogether,1.080.368
+20:39,6,GoldenGlobes,142.035
+20:39,7,Emily in Paris,32.604
+20:39,8,Morgan Wallen,30.013
+20:39,9,Sergen,32.892
+20:39,10,I May Destroy You,26.462
+21:09,1,Trey Songz,61.344
+21:09,2,IndiaAgainstPropaganda,1.187.768
+21:09,3,HakemlerBeşiktaşıYineÜzmüyor,39.062
+21:09,4,GretaThunbergExposed,317.341
+21:09,5,IndiaTogether,1.102.477
+21:09,6,GoldenGlobes,146.173
+21:09,7,Morgan Wallen,32.070
+21:09,8,Emily in Paris,34.665
+21:09,9,Sergen,37.002
+21:09,10,Lil Uzi,48.767
+21:39,1,Sadakatsiz,
+21:39,2,Trey Songz,66.555
+21:39,3,HakemlerBeşiktaşıYineÜzmüyor,40.550
+21:39,4,IndiaAgainstPropaganda,1.203.384
+21:39,5,MelihBuluYalnızDeğildir,23.865
+21:39,6,GretaThunbergExposed,324.515
+21:39,7,Umtiti,
+21:39,8,Morgan Wallen,33.971
+21:39,9,Emily in Paris,36.523
+21:39,10,Lil Uzi,53.954
+22:09,1,Umtiti,14.086
+22:09,2,Sadakatsiz,10.715
+22:09,3,Trey Songz,71.604
+22:09,4,RCLOM,13.740
+22:09,5,MelihBuluYalnızDeğildir,30.931
+22:09,6,Granada,29.728
+22:09,7,Arkadaşlarımızıİstiyoruz,11.489
+22:09,8,Lingard,
+22:09,9,LIVBHA,14.529
+22:09,10,Trincao,
+22:39,1,Lingard,18.092
+22:39,2,Umtiti,19.060
+22:39,3,Sadakatsiz,11.791
+22:39,4,MelihBuluYalnızDeğildir,38.785
+22:39,5,RCLOM,16.642
+22:39,6,Granada,35.813
+22:39,7,Trey Songz,75.759
+22:39,8,AlexandriaOcasioSmollett,44.919
+22:39,9,chilhavisto,
+22:39,10,Trincao,10.160
+23:09,1,Lingard,46.147
+23:09,2,Granada,49.232
+23:09,3,Griezmann,23.405
+23:09,4,Origi,10.194
+23:09,5,Brighton,43.432
+23:09,6,Umtiti,20.978
+23:09,7,LIVBHA,21.211
+23:09,8,AlexandriaOcasioSmollett,67.026
+23:09,9,RCLOM,19.087
+23:09,10,MelihBuluYalnızDeğildir,42.724
+23:39,1,Lingard,68.137
+23:39,2,Liverpool,132.477
+23:39,3,Granada,71.150
+23:39,4,Griezmann,47.950
+23:39,5,Brighton,61.639
+23:39,6,LIVBHA,26.800
+23:39,7,Origi,15.371
+23:39,8,Barcelona,101.175
+23:39,9,Anfield,26.529
+23:39,10,West Ham,36.156

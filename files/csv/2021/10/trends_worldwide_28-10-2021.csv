@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Bayern,125.107
+00:10,2,Stateofplay,14.459
+00:10,3,Star Ocean,
+00:10,4,Osasuna,25.069
+00:10,5,BMGFCB,22.767
+00:10,6,Koeman,133.946
+00:10,7,PCAs,1.544.771
+00:10,8,LaÚltimaTentación7,21.240
+00:10,9,West Ham,35.772
+00:10,10,ŞebnemŞirin,159.421
+00:41,1,Koeman,233.417
+00:41,2,Xavi,52.899
+00:41,3,Bayern,130.313
+00:41,4,Stateofplay,15.280
+00:41,5,Star Ocean,11.727
+00:41,6,Barcelona,205.456
+00:41,7,PCAs,1.593.800
+00:41,8,Osasuna,26.450
+00:41,9,Kyle Beach,
+00:41,10,LaÚltimaTentación7,24.882
+01:10,1,Koeman,269.914
+01:10,2,Xavi,75.274
+01:10,3,Bayern,133.192
+01:10,4,Kyle Beach,13.674
+01:10,5,Stateofplay,15.863
+01:10,6,Barcelona,233.581
+01:10,7,Star Ocean,12.880
+01:10,8,PCAs,1.639.945
+01:10,9,Barça,174.325
+01:10,10,LaÚltimaTentación7,27.877
+01:41,1,Xavi,86.454
+01:41,2,Koeman,289.555
+01:41,3,Kyle Beach,18.963
+01:41,4,Barcelona,249.563
+01:41,5,Bayern,136.006
+01:41,6,Star Ocean,13.861
+01:41,7,PCAs,1.700.823
+01:41,8,Stateofplay,16.534
+01:41,9,Barça,183.661
+01:41,10,Manchin,104.589
+02:10,1,Xavi,92.248
+02:10,2,Koeman,300.100
+02:10,3,Kyle Beach,22.184
+02:10,4,SKZ2021_OUT_NOW,
+02:10,5,Barcelona,257.853
+02:10,6,PCAs,1.766.512
+02:10,7,Star Ocean,14.572
+02:10,8,Bayern,137.494
+02:10,9,FECHADOS COM DAY,105.123
+02:10,10,Jada,20.880
+02:41,1,Xavi,96.976
+02:41,2,AEWDynamite,19.073
+02:41,3,Koeman,308.354
+02:41,4,Kyle Beach,24.529
+02:41,5,SKZ2021_OUT_NOW,
+02:41,6,MAFS,
+02:41,7,PCAs,1.833.443
+02:41,8,Leo Pereira,
+02:41,9,Barcelona,265.449
+02:41,10,Jada,23.642
+03:10,1,Flamengo,236.106
+03:10,2,Léo Pereira,24.908
+03:10,3,Xavi,100.151
+03:10,4,AEWDynamite,25.391
+03:10,5,Athletico,13.270
+03:10,6,SKZ2021_OUT_NOW,
+03:10,7,Kyle Beach,26.687
+03:10,8,Diego Ribas,10.472
+03:10,9,Diego Alves,
+03:10,10,Koeman,314.251
+03:41,1,Flamengo,335.035
+03:41,2,Renato,63.250
+03:41,3,Andreas,29.247
+03:41,4,Diego Alves,14.290
+03:41,5,Léo Pereira,32.955
+03:41,6,Athletico,20.086
+03:41,7,AEWDynamite,36.484
+03:41,8,Maracanã,41.426
+03:41,9,AKITA,
+03:41,10,Gabigol,32.114
+04:10,1,Flamengo,376.563
+04:10,2,Renato,76.615
+04:10,3,Michael,175.607
+04:10,4,Gabigol,38.633
+04:10,5,Andreas,30.683
+04:10,6,Léo Pereira,35.969
+04:10,7,Diego Alves,15.490
+04:10,8,AEWDynamite,49.537
+04:10,9,Athletico,22.957
+04:10,10,Diego Costa,
+04:41,1,Flamengo,516.546
+04:41,2,Renato,167.305
+04:41,3,Gabigol,55.769
+04:41,4,Maracanã,62.128
+04:41,5,Michael,181.679
+04:41,6,Athletico,34.500
+04:41,7,Andreas,32.980
+04:41,8,Alberto Valentim,11.422
+04:41,9,Diego Alves,17.667
+04:41,10,Léo Pereira,40.341
+05:10,1,Flamengo,575.128
+05:10,2,Renato,206.279
+05:10,3,Gabigol,64.534
+05:10,4,Maracanã,65.803
+05:10,5,Lakers,100.511
+05:10,6,Michael,180.972
+05:10,7,Athletico,39.316
+05:10,8,ProvaDoFazendeiro,40.585
+05:10,9,Alberto Valentim,13.971
+05:10,10,Diego Alves,19.097
+05:41,1,Flamengo,606.132
+05:41,2,Renato,224.156
+05:41,3,Gabigol,68.285
+05:41,4,Maracanã,68.350
+05:41,5,ProvaDoFazendeiro,60.903
+05:41,6,Lakers,106.351
+05:41,7,Michael,184.727
+05:41,8,Athletico,41.969
+05:41,9,Alberto Valentim,14.909
+05:41,10,Diego Alves,19.772
+06:10,1,Flamengo,614.891
+06:10,2,Renato,230.515
+06:10,3,Gabigol,70.355
+06:10,4,Maracanã,68.913
+06:10,5,ProvaDoFazendeiro,63.694
+06:10,6,Lakers,102.807
+06:10,7,Michael,181.818
+06:10,8,Athletico,43.132
+06:10,9,Alberto Valentim,15.392
+06:10,10,Diego Alves,20.037
+06:41,1,Flamengo,622.214
+06:41,2,Renato,234.138
+06:41,3,Gabigol,71.566
+06:41,4,Maracanã,69.483
+06:41,5,ProvaDoFazendeiro,65.120
+06:41,6,Lakers,105.479
+06:41,7,Michael,184.060
+06:41,8,Athletico,43.849
+06:41,9,Alberto Valentim,15.565
+06:41,10,Diego Alves,20.216
+07:10,1,Flamengo,624.037
+07:10,2,Renato,235.323
+07:10,3,Gabigol,71.967
+07:10,4,Maracanã,69.705
+07:10,5,Lakers,103.771
+07:10,6,ProvaDoFazendeiro,65.978
+07:10,7,Michael,181.008
+07:10,8,Athletico,44.274
+07:10,9,Harrison Barnes,
+07:10,10,Alberto Valentim,15.690
+07:41,1,Flamengo,627.224
+07:41,2,Renato,237.586
+07:41,3,Gabigol,72.380
+07:41,4,Lakers,105.433
+07:41,5,Maracanã,69.924
+07:41,6,ProvaDoFazendeiro,66.533
+07:41,7,Michael,182.782
+07:41,8,Athletico,44.542
+07:41,9,Selamat Hari Sumpah Pemuda,21.087
+07:41,10,Harrison Barnes,
+08:10,1,Flamengo,628.810
+08:10,2,Renato,239.460
+08:10,3,Gabigol,72.668
+08:10,4,Lakers,104.229
+08:10,5,ProvaDoFazendeiro,66.572
+08:10,6,Maracanã,70.113
+08:10,7,Selamat Hari Sumpah Pemuda,22.315
+08:10,8,Michael,180.097
+08:10,9,Athletico,44.685
+08:10,10,HappyVirus,51.304
+08:41,1,Flamengo,630.256
+08:41,2,Renato,240.467
+08:41,3,Gabigol,72.868
+08:41,4,Lakers,105.438
+08:41,5,Maracanã,70.235
+08:41,6,ProvaDoFazendeiro,66.720
+08:41,7,Selamat Hari Sumpah Pemuda,23.684
+08:41,8,あなたは老若男女誰にモテるか,
+08:41,9,年下人気,
+08:41,10,Athletico,44.801
+09:10,1,Flamengo,630.336
+09:10,2,Renato,240.816
+09:10,3,TuYaheenHai,15.066
+09:10,4,Efendiler,10.434
+09:10,5,Gabigol,72.958
+09:10,6,Selamat Hari Sumpah Pemuda,24.844
+09:10,7,あなたは老若男女誰にモテるか,
+09:10,8,Lakers,104.726
+09:10,9,年下人気,
+09:10,10,年上人気,
+09:41,1,Flamengo,631.215
+09:41,2,TuYaheenHai,51.503
+09:41,3,Renato,241.308
+09:41,4,Efendiler,14.296
+09:41,5,WELCOME BACK SHEHNAAZ,30.768
+09:41,6,あなたは老若男女誰にモテるか,
+09:41,7,年下人気,
+09:41,8,年上人気,
+09:41,9,男性人気,
+09:41,10,女性人気,
+10:10,1,Flamengo,630.150
+10:10,2,TuYaheenHai,82.188
+10:10,3,Efendiler,17.429
+10:10,4,WELCOME BACK SHEHNAAZ,47.147
+10:10,5,あなたは老若男女誰にモテるか,
+10:10,6,年下人気,
+10:10,7,男性人気,
+10:10,8,年上人気,
+10:10,9,女性人気,
+10:10,10,Renato,241.659
+10:41,1,檸檬堂二周年に乾杯,
+10:41,2,TuYaheenHai,111.348
+10:41,3,Flamengo,631.343
+10:41,4,Efendiler,20.384
+10:41,5,WELCOME BACK SHEHNAAZ,63.039
+10:41,6,あなたは老若男女誰にモテるか,
+10:41,7,AhmetKaya,11.706
+10:41,8,年下人気,
+10:41,9,年上人気,
+10:41,10,男性人気,
+11:10,1,檸檬堂二周年に乾杯,10.319
+11:10,2,TuYaheenHai,136.032
+11:10,3,いいねかRTで気になった人フォローする,14.614
+11:10,4,Flamengo,630.145
+11:10,5,MilletinBahçesi,
+11:10,6,Efendiler,22.861
+11:10,7,WELCOME BACK SHEHNAAZ,77.316
+11:10,8,naotalk,
+11:10,9,年下人気,
+11:10,10,年上人気,
+11:41,1,檸檬堂二周年に乾杯,17.993
+11:41,2,いいねかRTで気になった人フォローする,22.734
+11:41,3,TuYaheenHai,157.397
+11:41,4,Flamengo,633.244
+11:41,5,乃木坂28thSGアンダーライブ最終日,
+11:41,6,naotalk,
+11:41,7,Efendiler,25.411
+11:41,8,Kosmemask,
+11:41,9,WELCOME BACK SHEHNAAZ,87.934
+11:41,10,2ND AnniversaRAWR COUNTDOWN,
+12:10,1,檸檬堂二周年に乾杯,21.805
+12:10,2,いいねかRTで気になった人フォローする,27.287
+12:10,3,TuYaheenHai,176.403
+12:10,4,乃木坂28thSGアンダーライブ最終日,
+12:10,5,VS魂,
+12:10,6,Efendiler,27.687
+12:10,7,Kosmemask,
+12:10,8,2ND AnniversaRAWR COUNTDOWN,22.474
+12:10,9,WELCOME BACK SHEHNAAZ,97.349
+12:10,10,ちいかわアニメ化,13.260
+12:41,1,RockWithYou1stWin,46.709
+12:41,2,檸檬堂二周年に乾杯,25.074
+12:41,3,VS魂,14.287
+12:41,4,ちいかわアニメ化,38.808
+12:41,5,突破ファイル,19.330
+12:41,6,BAZINGA MV BUKAS NA,58.391
+12:41,7,突破クイズ,
+12:41,8,Efendiler,29.751
+12:41,9,ゴミ箱の蓋の裏,
+12:41,10,2ND AnniversaRAWR COUNTDOWN,25.486
+13:10,1,RockWithYou1stWin,135.437
+13:10,2,檸檬堂二周年に乾杯,27.803
+13:10,3,VS魂,22.444
+13:10,4,ちいかわアニメ化,52.146
+13:10,5,ShareTheLoveWithGulf,50.039
+13:10,6,BAZINGA MV BUKAS NA,77.260
+13:10,7,突破ファイル,23.307
+13:10,8,Efendiler,33.042
+13:10,9,THEBODYSHOP X GULF,28.902
+13:10,10,2ND AnniversaRAWR COUNTDOWN,
+13:41,1,RockWithYou1stWin,162.095
+13:41,2,檸檬堂二周年に乾杯,29.871
+13:41,3,AryanKhanBail,
+13:41,4,突破ファイル,29.546
+13:41,5,felix,93.391
+13:41,6,ShareTheLoveWithGulf,100.427
+13:41,7,BAZINGA MV BUKAS NA,92.513
+13:41,8,ちいかわアニメ化,62.003
+13:41,9,THEBODYSHOP X GULF,69.483
+13:41,10,Efendiler,39.077
+14:10,1,RockWithYou1stWin,191.955
+14:10,2,プロセカ生放送,
+14:10,3,AryanKhanBail,15.228
+14:10,4,MIRROR MIRROR MV OUT NOW,33.259
+14:10,5,MirrorMirror_MV,62.857
+14:10,6,FHEROxMILLIxChangbin,67.615
+14:10,7,FELIX,94.856
+14:10,8,BAZINGA MV BUKAS NA,101.780
+14:10,9,ちいかわアニメ化,70.555
+14:10,10,SPORTSMAN PAIPAI,52.254
+14:41,1,Rockwithyou1stwin,210.064
+14:41,2,FHEROxMILLIxChangbin,91.799
+14:41,3,MirrorMirror_MV,86.886
+14:41,4,プロセカ生放送,51.618
+14:41,5,MIRROR MIRROR MV OUT NOW,49.330
+14:41,6,AskCesc,
+14:41,7,BAZINGA MV BUKAS NA,108.642
+14:41,8,ぬゆりさん,
+14:41,9,felix,99.810
+14:41,10,ちいかわアニメ化,76.830
+15:10,1,Rockwithyou1stwin,221.319
+15:10,2,BEFIRST_SO_MV2000万回,54.073
+15:10,3,FHEROxMILLIxChangbin,103.068
+15:10,4,MirrorMirror_MV,96.968
+15:10,5,プロセカ生放送,109.434
+15:10,6,MIRROR MIRROR MV OUT NOW,53.756
+15:10,7,リアルライブ,
+15:10,8,Artist of the Year,91.039
+15:10,9,BAZINGA MV BUKAS NA,115.843
+15:10,10,ぬゆりさん,13.375
+15:41,1,PROUD OF HARRY,40.405
+15:41,2,BEFIRST_SO_MV2000万回,73.227
+15:41,3,FHEROxMILLIxChangbin,112.279
+15:41,4,MirrorMirror_MV,104.644
+15:41,5,RockWithYou1stWin,229.413
+15:41,6,AryanKhanBail,33.888
+15:41,7,MIRROR MIRROR MV OUT NOW,56.602
+15:41,8,リアルライブ,17.884
+15:41,9,Artist of the Year,138.140
+15:41,10,ぬゆりさん,16.217
+16:10,1,PROUD OF HARRY,88.521
+16:10,2,OneDaywithMINHYUK,18.376
+16:10,3,BEFIRST_SO_MV2000万回,83.724
+16:10,4,AryanKhanBail,38.712
+16:10,5,FHEROxMILLIxChangbin,109.934
+16:10,6,AMAs,257.703
+16:10,7,MIRROR MIRROR MV OUT NOW,58.362
+16:10,8,Artist of the Year,176.120
+16:10,9,リアルライブ,21.236
+16:10,10,NISA,11.781
+16:41,1,OneDaywithMINHYUK,65.218
+16:41,2,PROUD OF HARRY,124.080
+16:41,3,AlwaysWithIIIZONE,94.224
+16:41,4,하나가되는순간_모두가주목해,93.879
+16:41,5,AryanKhanBail,45.438
+16:41,6,AMAs,293.007
+16:41,7,NISA,16.090
+16:41,8,MIRROR MIRROR MV OUT NOW,59.450
+16:41,9,Artist of the Year,204.805
+16:41,10,リアルライブ,23.152
+17:10,1,OneDaywithIM,57.950
+17:10,2,PROUD OF HARRY,144.461
+17:10,3,AlwaysWithIIIZONE,127.146
+17:10,4,하나가되는순간_모두가주목해,125.749
+17:10,5,ういのスペース,
+17:10,6,AryanKhanBail,51.003
+17:10,7,NISA,19.429
+17:10,8,JK of BTS,33.990
+17:10,9,Original Song,35.389
+17:10,10,Lolla,13.714
+17:41,1,jungkook,676.156
+17:41,2,Lolla,37.299
+17:41,3,OneDaywithIM,60.708
+17:41,4,PROUD OF HARRY,156.977
+17:41,5,AlwaysWithIIIZONE,146.097
+17:41,6,Doja,48.379
+17:41,7,하나가되는순간_모두가주목해,144.887
+17:41,8,Miley Cyrus,12.402
+17:41,9,JK of BTS,86.581
+17:41,10,Falling,242.997
+18:10,1,Jungkook,797.334
+18:10,2,Lolla,52.534
+18:10,3,Doja,57.853
+18:10,4,PROUD OF HARRY,163.398
+18:10,5,OneDaywithIM,62.105
+18:10,6,Miley Cyrus,15.029
+18:10,7,AlwaysWithIIIZONE,155.268
+18:10,8,하나가되는순간_모두가주목해,153.393
+18:10,9,Harry Styles,274.450
+18:10,10,JK of BTS,104.905
+18:41,1,jungkook,889.583
+18:41,2,jungkook,889.583
+18:41,3,Lolla,63.766
+18:41,4,Doja,65.873
+18:41,5,Miley Cyrus,17.926
+18:41,6,PROUD OF HARRY,168.807
+18:41,7,OneDaywithIM,62.743
+18:41,8,AlwaysWithIIIZONE,161.219
+18:41,9,하나가되는순간_모두가주목해,159.087
+18:41,10,Harry Styles,303.164
+19:10,1,jungkook,941.010
+19:10,2,Lolla,71.866
+19:10,3,Doja,71.386
+19:10,4,Miley Cyrus,19.932
+19:10,5,PROUD OF HARRY,172.253
+19:10,6,الاتحاد_الحزم,33.129
+19:10,7,AlwaysWithIIIZONE,164.187
+19:10,8,OneDaywithIM,63.375
+19:10,9,Harry Styles,307.415
+19:10,10,JK of BTS,130.548
+19:41,1,jungkook,988.398
+19:41,2,Lolla,79.126
+19:41,3,KaiMmmh100M,62.872
+19:41,4,Doja,77.043
+19:41,5,카이_음_1억뷰됐mmmh,58.753
+19:41,6,Miley Cyrus,22.193
+19:41,7,الاتحاد_الحزم,35.067
+19:41,8,PROUD OF HARRY,174.843
+19:41,9,AlwaysWithIIIZONE,166.578
+19:41,10,Harry Styles,335.361
+20:10,1,jungkook,1.012.482
+20:10,2,Lolla,84.228
+20:10,3,DogeArmyToken,
+20:10,4,KaiMmmh100M,84.888
+20:10,5,카이_음_1억뷰됐mmmh,78.227
+20:10,6,Doja,80.508
+20:10,7,Miley Cyrus,23.716
+20:10,8,الاتحاد_الحزم,37.934
+20:10,9,PROUD OF HARRY,176.854
+20:10,10,YeşilçamSezon2,
+20:41,1,Meta,146.489
+20:41,2,jungkook,1.045.531
+20:41,3,Lolla,88.933
+20:41,4,DogeArmyToken,
+20:41,5,KaiMmmh100M,93.654
+20:41,6,카이_음_1억뷰됐mmmh,85.267
+20:41,7,Doja,84.626
+20:41,8,Miley Cyrus,25.547
+20:41,9,Ted Lasso,12.350
+20:41,10,HYBE RESPECT JIMIN,18.937
+21:10,1,Meta,208.796
+21:10,2,jungkook,1.058.271
+21:10,3,Lolla,92.887
+21:10,4,DogeArmyToken,
+21:10,5,Mark Zuckerberg,29.309
+21:10,6,KaiMmmh100M,98.093
+21:10,7,카이_음_1억뷰됐mmmh,88.960
+21:10,8,HYBE RESPECT JIMIN,26.642
+21:10,9,Doja,86.730
+21:10,10,Ron Artest,
+21:41,1,Meta,260.957
+21:41,2,jungkook,1.081.470
+21:41,3,Lolla,96.458
+21:41,4,Mark Zuckerberg,36.175
+21:41,5,XF2021,
+21:41,6,yolanda,54.239
+21:41,7,gigi,41.659
+21:41,8,DogeArmyToken,
+21:41,9,DragRaceUK,
+21:41,10,HYBE RESPECT JIMIN,33.868
+22:10,1,Meta,297.853
+22:10,2,jungkook,1.089.171
+22:10,3,yolanda,60.842
+22:10,4,XF2021,
+22:10,5,Mark Zuckerberg,40.148
+22:10,6,gigi,47.275
+22:10,7,Lolla,99.136
+22:10,8,DragRaceUK,
+22:10,9,29Ekim,39.540
+22:10,10,Alphabet,12.087
+22:41,1,Meta,337.382
+22:41,2,yolanda,70.613
+22:41,3,XF2021,13.721
+22:41,4,Mark Zuckerberg,45.319
+22:41,5,SecretGala7,19.258
+22:41,6,gigi,54.109
+22:41,7,jungkook,1.107.490
+22:41,8,DragRaceUK,
+22:41,9,Lolla,102.437
+22:41,10,ZEVENT2021,19.910
+23:10,1,Meta,362.750
+23:10,2,yolanda,76.332
+23:10,3,XF2021,17.540
+23:10,4,SecretGala7,25.283
+23:10,5,Mark Zuckerberg,48.153
+23:10,6,gigi,58.416
+23:10,7,DragRaceUK,
+23:10,8,29Ekim,47.465
+23:10,9,jungkook,1.111.544
+23:10,10,ZEVENT2021,21.122
+23:41,1,Meta,391.294
+23:41,2,29Ekim,56.606
+23:41,3,yolanda,83.474
+23:41,4,SecretGala7,34.508
+23:41,5,XF2021,21.028
+23:41,6,Mark Zuckerberg,52.154
+23:41,7,gigi,64.279
+23:41,8,DragRaceUK,
+23:41,9,ZEVENT2021,24.251
+23:41,10,Levante,27.616

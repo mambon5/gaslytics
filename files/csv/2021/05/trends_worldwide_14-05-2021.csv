@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MUNLIV,109.756
+00:10,2,aşılıyım,13.616
+00:10,3,Liverpool,216.589
+00:10,4,Maguire,40.733
+00:10,5,SVGala6,33.203
+00:10,6,GenocideinGaza,27.303
+00:10,7,Henderson,25.855
+00:10,8,Rashford,28.720
+00:10,9,Trent,29.022
+00:10,10,Pogba,26.624
+00:41,1,MUNLIV,111.567
+00:41,2,GenocideinGaza,87.592
+00:41,3,aşılıyım,19.468
+00:41,4,Liverpool,222.770
+00:41,5,SVGala6,42.979
+00:41,6,Maguire,42.873
+00:41,7,bbcqt,
+00:41,8,Henderson,26.994
+00:41,9,GIL DA VIGOR,70.835
+00:41,10,The CDC,215.963
+01:10,1,GenocideinGaza,174.494
+01:10,2,aşılıyım,22.957
+01:10,3,MUNLIV,113.054
+01:10,4,SVGala6,49.605
+01:10,5,Liverpool,225.680
+01:10,6,bbcqt,
+01:10,7,The CDC,231.146
+01:10,8,Maguire,43.946
+01:10,9,TE AMAMOS JULIETTE,97.001
+01:10,10,GIL DA VIGOR,81.515
+01:41,1,GenocideinGaza,300.683
+01:41,2,aşılıyım,25.186
+01:41,3,MUNLIV,114.205
+01:41,4,SVGala6,58.820
+01:41,5,The CDC,250.513
+01:41,6,おちょやん,31.881
+01:41,7,Liverpool,228.396
+01:41,8,TE AMAMOS JULIETTE,109.434
+01:41,9,GIL DA VIGOR,88.646
+01:41,10,Maguire,44.934
+02:10,1,GenocideinGaza,400.187
+02:10,2,aşılıyım,26.635
+02:10,3,SVGala6,63.328
+02:10,4,MUNLIV,115.019
+02:10,5,The CDC,265.920
+02:10,6,TE AMAMOS JULIETTE,116.485
+02:10,7,おちょやん,34.405
+02:10,8,NICKI DAY,124.583
+02:10,9,GIL DA VIGOR,95.168
+02:10,10,Liverpool,229.487
+02:41,1,GenocideinGaza,486.208
+02:41,2,NICKI DAY,156.598
+02:41,3,aşılıyım,27.647
+02:41,4,Haslem,
+02:41,5,SVGala6,64.498
+02:41,6,ラヴィット,22.505
+02:41,7,The CDC,283.245
+02:41,8,MUNLIV,115.656
+02:41,9,TE AMAMOS JULIETTE,121.823
+02:41,10,Hulk,18.352
+03:10,1,GenocideinGaza,546.390
+03:10,2,NICKI DAY,173.310
+03:10,3,AribaRabiya,72.068
+03:10,4,aşılıyım,28.280
+03:10,5,Haslem,15.659
+03:10,6,北海道・岡山・広島,11.649
+03:10,7,ラヴィット,26.301
+03:10,8,Mancini,
+03:10,9,The CDC,298.206
+03:10,10,Leo Suárez,
+03:41,1,GenocideinGaza,596.438
+03:41,2,NICKI DAY,186.730
+03:41,3,Colômbia,535.373
+03:41,4,AribaRabiya,82.104
+03:41,5,Mancini,
+03:41,6,北海道・岡山・広島,15.355
+03:41,7,Haslem,18.936
+03:41,8,Peñarol,20.501
+03:41,9,The CDC,316.386
+03:41,10,aşılıyım,28.779
+04:10,1,GenocideinGaza,639.859
+04:10,2,Corinthians,94.239
+04:10,3,Mancini,15.099
+04:10,4,NICKI DAY,200.156
+04:10,5,Colômbia,519.780
+04:10,6,AribaRabiya,88.955
+04:10,7,Peñarol,26.255
+04:10,8,Jorge Sánchez,
+04:10,9,Olimpia,21.670
+04:10,10,北海道・岡山・広島,17.536
+04:41,1,Corinthians,124.095
+04:41,2,GenocideinGaza,686.418
+04:41,3,PowerCouple,27.956
+04:41,4,Mancini,20.800
+04:41,5,NICKI DAY,218.953
+04:41,6,Peñarol,34.486
+04:41,7,Vargas,41.087
+04:41,8,AribaRabiya,96.536
+04:41,9,Colômbia,539.274
+04:41,10,Olimpia,28.250
+05:10,1,Nicki,385.794
+05:10,2,Corinthians,132.558
+05:10,3,GenocideinGaza,716.904
+05:10,4,PowerCouple,34.110
+05:10,5,Mancini,23.139
+05:10,6,Peñarol,37.525
+05:10,7,AribaRabiya,104.271
+05:10,8,Vargas,41.920
+05:10,9,Ortega,18.777
+05:10,10,Colômbia,521.219
+05:41,1,Nicki,456.584
+05:41,2,Corinthians,137.258
+05:41,3,GenocideinGaza,742.768
+05:41,4,PowerCouple,39.504
+05:41,5,Mancini,24.460
+05:41,6,AribaRabiya,111.543
+05:41,7,Peñarol,40.528
+05:41,8,RecompensaTribus,17.938
+05:41,9,もしも私がドラゴンだったら,
+05:41,10,Ortega,19.573
+06:10,1,Nicki,504.321
+06:10,2,Corinthians,138.851
+06:10,3,GotItLikeThatWithBI,69.292
+06:10,4,タウラス杯,30.175
+06:10,5,GenocideinGaza,761.382
+06:10,6,비아이_솔로싱글_가릿라잌댓,69.516
+06:10,7,YADINHO,
+06:10,8,PowerCouple,39.642
+06:10,9,B.I GLOBAL SINGLE OUT NOW,73.778
+06:10,10,Scotty,20.145
+06:41,1,Nicki,600.415
+06:41,2,J Cole,158.962
+06:41,3,GotItLikeThatWithBI,118.438
+06:41,4,YADINHO,21.378
+06:41,5,비아이_솔로싱글_가릿라잌댓,112.191
+06:41,6,Scotty,33.784
+06:41,7,TheOffSeason,13.220
+06:41,8,タウラス杯,37.744
+06:41,9,B.I GLOBAL SINGLE OUT NOW,122.775
+06:41,10,Seeing Green,25.950
+07:10,1,Nicki,667.455
+07:10,2,J Cole,186.470
+07:10,3,GotItLikeThatWithBI,150.076
+07:10,4,YADINHO,29.681
+07:10,5,TheOffSeason,18.105
+07:10,6,비아이_솔로싱글_가릿라잌댓,139.209
+07:10,7,Scotty,43.617
+07:10,8,タウラス杯,42.467
+07:10,9,olivia rodrigo,91.971
+07:10,10,Seeing Green,35.912
+07:41,1,Nicki,717.989
+07:41,2,J Cole,210.151
+07:41,3,GotItLikeThatWithBI,169.820
+07:41,4,YADINHO,33.657
+07:41,5,TheOffSeason,21.246
+07:41,6,Scotty,49.491
+07:41,7,비아이_솔로싱글_가릿라잌댓,155.429
+07:41,8,タウラス杯,44.992
+07:41,9,Wayne,81.741
+07:41,10,Seeing Green,45.072
+08:10,1,Nicki,753.345
+08:10,2,J Cole,219.880
+08:10,3,GotItLikeThatWithBI,184.340
+08:10,4,YADINHO,35.316
+08:10,5,TheOffSeason,23.167
+08:10,6,Scotty,52.590
+08:10,7,タウラス杯,47.852
+08:10,8,Wayne,91.199
+08:10,9,Seeing Green,54.635
+08:10,10,비아이_솔로싱글_가릿라잌댓,166.712
+08:41,1,Nicki,783.285
+08:41,2,J Cole,231.843
+08:41,3,Drake,169.095
+08:41,4,GotItLikeThatWithBI,194.938
+08:41,5,TheOffSeason,24.927
+08:41,6,YADINHO,36.438
+08:41,7,タウラス杯,50.918
+08:41,8,Seeing Green,62.105
+08:41,9,Wayne,100.242
+08:41,10,Scotty,55.020
+09:10,1,Nicki,805.461
+09:10,2,J Cole,237.389
+09:10,3,Drake,178.273
+09:10,4,TurizmBakanıİstifaBOOT,
+09:10,5,TheOffSeason,26.359
+09:10,6,GotItLikeThatWithBI,202.798
+09:10,7,YADINHO,37.109
+09:10,8,タウラス杯,53.183
+09:10,9,Seeing Green,66.617
+09:10,10,Wayne,106.615
+09:41,1,Nicki,827.927
+09:41,2,J Cole,247.704
+09:41,3,Drake,187.385
+09:41,4,TurizmBakanıİstifaBOOT,
+09:41,5,TheOffSeason,27.680
+09:41,6,GotItLikeThatWithBI,209.345
+09:41,7,タウラス杯,55.570
+09:41,8,YADINHO,37.605
+09:41,9,ゲーム依存,
+09:41,10,GenocideinGaza,911.881
+10:10,1,Nicki,844.458
+10:10,2,J Cole,253.095
+10:10,3,Drake,194.397
+10:10,4,TurizmBakanıİstifa,
+10:10,5,GenocideinGaza,949.297
+10:10,6,TheOffSeason,28.659
+10:10,7,ゲーム依存,
+10:10,8,TürkümÖzürDilerim,20.745
+10:10,9,タウラス杯,57.708
+10:10,10,アルコール依存,
+10:41,1,Nicki,863.557
+10:41,2,J Cole,261.671
+10:41,3,TurizmBakanıİstifa,
+10:41,4,キスマイHOME_Day1,
+10:41,5,GenocideinGaza,994.953
+10:41,6,Drake,201.519
+10:41,7,TürkümÖzürDilerim,23.609
+10:41,8,JAYB_SOLO_SWITCHITUP,27.820
+10:41,9,ゲーム依存,
+10:41,10,浮気依存,
+11:10,1,キスマイHOME_Day1,26.891
+11:10,2,JAYB_SOLO_SWITCHITUP,63.464
+11:10,3,Nicki,877.489
+11:10,4,제이비_솔로데뷔_스위치잇업,53.579
+11:10,5,TurizmBakanıİstifa,
+11:10,6,IT'S LISA,90.763
+11:10,7,GenocideinGaza,1.041.724
+11:10,8,J Cole,266.623
+11:10,9,ゲーム依存,
+11:10,10,スマホ依存,
+11:41,1,JAYB_SOLO_SWITCHITUP,153.513
+11:41,2,キスマイHOME_Day1,49.505
+11:41,3,제이비_솔로데뷔_스위치잇업,105.002
+11:41,4,IT'S LISA,173.421
+11:41,5,Nicki,893.842
+11:41,6,GenocideinGaza,1.094.689
+11:41,7,TurizmBakanıİstifa,
+11:41,8,ゲーム依存,
+11:41,9,スマホ依存,
+11:41,10,ギャンブル依存,
+12:10,1,JAYB_SOLO_SWITCHITUP,214.483
+12:10,2,キスマイHOME_Day1,66.250
+12:10,3,제이비_솔로데뷔_스위치잇업,139.703
+12:10,4,少クラ,10.993
+12:10,5,IT'S LISA,226.126
+12:10,6,GenocideinGaza,1.144.367
+12:10,7,Nicki,905.347
+12:10,8,ゲーム依存,
+12:10,9,スマホ依存,
+12:10,10,浮気依存,
+12:41,1,JAYB_SOLO_SWITCHITUP,267.610
+12:41,2,キスマイHOME_Day1,80.846
+12:41,3,TurizmBakanıİstifa,
+12:41,4,제이비_솔로데뷔_스위치잇업,172.997
+12:41,5,オオカミ少年,12.425
+12:41,6,IT'S LISA,256.489
+12:41,7,ゲーム依存,
+12:41,8,スマホ依存,
+12:41,9,恋愛依存,
+12:41,10,浮気依存,
+13:10,1,JAYB_SOLO_SWITCHITUP,307.996
+13:10,2,キスマイHOME_Day1,98.036
+13:10,3,TurizmBakanıİstifa,
+13:10,4,オオカミ少年,19.308
+13:10,5,제이비_솔로데뷔_스위치잇업,196.511
+13:10,6,IT'S LISA,277.584
+13:10,7,ミスフル,
+13:10,8,ゲーム依存,
+13:10,9,恋愛依存,
+13:10,10,スマホ依存,
+13:41,1,JAYB_SOLO_SWITCHITUP,337.456
+13:41,2,TurizmBakanıİstifa,
+13:41,3,キスマイHOME_Day1,113.256
+13:41,4,虹ヶ咲,63.847
+13:41,5,ぴったんこカンカン,
+13:41,6,IT'S LISA,298.907
+13:41,7,ミスフル,
+13:41,8,BuŞahıslara Dikkat,
+13:41,9,ゲーム依存,10.521
+13:41,10,スマホ依存,
+14:10,1,キスマイHOME_Day1,125.502
+14:10,2,タイタニック,43.744
+14:10,3,Mステ,15.594
+14:10,4,TurizmBakanıİstifa,
+14:10,5,JAYB_SOLO_SWITCHITUP,362.556
+14:10,6,虹ヶ咲,85.024
+14:10,7,すわほー,
+14:10,8,ミスフル,
+14:10,9,IT'S LISA,315.853
+14:10,10,ゲーム依存,11.087
+14:41,1,タイタニック,72.448
+14:41,2,Mステ,28.751
+14:41,3,HelalEtmiyorum,
+14:41,4,愛園3D,20.796
+14:41,5,キスマイHOME_Day1,133.350
+14:41,6,TurizmBakanıİstifa,
+14:41,7,すわほー,
+14:41,8,ミスフル,10.372
+14:41,9,こいほー,
+14:41,10,おりほー,
+15:10,1,タイタニック,105.336
+15:10,2,Mステ,39.156
+15:10,3,HelalEtmiyorum,16.456
+15:10,4,愛園3D,29.588
+15:10,5,ぴったんこカンカン,13.364
+15:10,6,あなたのつーぶろはどこから,
+15:10,7,フワちゃん,
+15:10,8,すわほー,
+15:10,9,こいほー,
+15:10,10,ミスフル,11.264
+15:41,1,タイタニック,169.604
+15:41,2,HelalEtmiyorum,33.292
+15:41,3,Mステ,47.820
+15:41,4,あなたのつーぶろはどこから,
+15:41,5,netflixiptal,
+15:41,6,愛園3D,31.620
+15:41,7,ジャック,36.435
+15:41,8,フワちゃん,10.191
+15:41,9,すわほー,
+15:41,10,こいほー,
+16:10,1,タイタニック,256.810
+16:10,2,HelalEtmiyorum,56.066
+16:10,3,ジャック,60.215
+16:10,4,Mステ,52.082
+16:10,5,リコカツ,17.926
+16:10,6,netflixiptal,
+16:10,7,あなたのつーぶろはどこから,
+16:10,8,アラジン,14.251
+16:10,9,ディカプリオ,21.235
+16:10,10,フワちゃん,10.683
+16:41,1,タイタニック,313.299
+16:41,2,HelalEtmiyorum,80.683
+16:41,3,Everton Ribeiro,14.704
+16:41,4,Gerson,13.055
+16:41,5,ジャック,77.050
+16:41,6,BeautifulYoshiDay,232.098
+16:41,7,まだ見ぬ世界へヨシくんと,230.599
+16:41,8,아기호랑이_요시노리_생일축하해,246.801
+16:41,9,YADINHO,98.210
+16:41,10,YOSHINORI AT 21,214.409
+17:10,1,タイタニック,342.102
+17:10,2,HelalEtmiyorum,103.578
+17:10,3,BeautifulYoshiDay,392.041
+17:10,4,まだ見ぬ世界へヨシくんと,391.832
+17:10,5,아기호랑이_요시노리_생일축하해,407.378
+17:10,6,Everton Ribeiro,20.253
+17:10,7,Gerson,17.760
+17:10,8,YADINHO,118.843
+17:10,9,ジャック,84.147
+17:10,10,Alex Sandro,
+17:41,1,HelalEtmiyorum,134.196
+17:41,2,タイタニック,361.421
+17:41,3,BeautifulYoshiDay,523.208
+17:41,4,まだ見ぬ世界へヨシくんと,520.933
+17:41,5,아기호랑이_요시노리_생일축하해,538.507
+17:41,6,Gerson,22.443
+17:41,7,Everton Ribeiro,24.430
+17:41,8,YADINHO,146.140
+17:41,9,LEAN ON US JUNGKOOK,53.848
+17:41,10,YOU ARE PERFECT JUNGKOOK,51.092
+18:10,1,HelalEtmiyorum,161.132
+18:10,2,タイタニック,372.883
+18:10,3,BeautifulYoshiDay,607.473
+18:10,4,まだ見ぬ世界へヨシくんと,599.445
+18:10,5,아기호랑이_요시노리_생일축하해,618.842
+18:10,6,Gerson,27.173
+18:10,7,YADINHO,175.050
+18:10,8,Everton Ribeiro,27.112
+18:10,9,LEAN ON US JUNGKOOK,85.880
+18:10,10,YOU ARE PERFECT JUNGKOOK,80.311
+18:41,1,HelalEtmiyorum,191.253
+18:41,2,BeautifulYoshiDay,662.522
+18:41,3,YADINHO,205.243
+18:41,4,タイタニック,381.044
+18:41,5,まだ見ぬ世界へヨシくんと,654.435
+18:41,6,Gerson,30.504
+18:41,7,아기호랑이_요시노리_생일축하해,671.994
+18:41,8,Everton Ribeiro,29.363
+18:41,9,LEAN ON US JUNGKOOK,119.841
+18:41,10,YOU ARE PERFECT JUNGKOOK,111.922
+19:10,1,HelalEtmiyorum,216.026
+19:10,2,YADINHO,228.713
+19:10,3,BeautifulYoshiDay,699.020
+19:10,4,Gerson,32.235
+19:10,5,まだ見ぬ世界へヨシくんと,689.074
+19:10,6,아기호랑이_요시노리_생일축하해,709.182
+19:10,7,タイタニック,386.303
+19:10,8,LEAN ON US JUNGKOOK,147.773
+19:10,9,YOU ARE PERFECT JUNGKOOK,137.781
+19:10,10,Everton Ribeiro,30.710
+19:41,1,HelalEtmiyorum,241.505
+19:41,2,YADINHO,246.231
+19:41,3,BeautifulYoshiDay,726.684
+19:41,4,Gerson,33.672
+19:41,5,LEAN ON US JUNGKOOK,170.138
+19:41,6,まだ見ぬ世界へヨシくんと,717.127
+19:41,7,아기호랑이_요시노리_생일축하해,735.647
+19:41,8,YOU ARE PERFECT JUNGKOOK,158.509
+19:41,9,タイタニック,390.200
+19:41,10,Everton Ribeiro,31.799
+20:10,1,HelalEtmiyorum,266.104
+20:10,2,YADINHO,257.570
+20:10,3,bananamoon,25.898
+20:10,4,LEAN ON US JUNGKOOK,184.486
+20:10,5,BeautifulYoshiDay,746.032
+20:10,6,Gerson,34.482
+20:10,7,YOU ARE PERFECT JUNGKOOK,172.636
+20:10,8,まだ見ぬ世界へヨシくんと,735.518
+20:10,9,タイタニック,392.827
+20:10,10,Everton Ribeiro,32.498
+20:41,1,HelalEtmiyorum,291.319
+20:41,2,FreeCodeFridayContest,
+20:41,3,YADINHO,271.126
+20:41,4,askashe,
+20:41,5,bananamoon,26.780
+20:41,6,LEAN ON US JUNGKOOK,196.497
+20:41,7,Scott Carson,
+20:41,8,Gerson,36.003
+20:41,9,YOU ARE PERFECT JUNGKOOK,183.772
+20:41,10,タイタニック,394.990
+21:10,1,HelalEtmiyorum,314.236
+21:10,2,FreeCodeFridayContest,
+21:10,3,YADINHO,296.008
+21:10,4,Scott Carson,
+21:10,5,HearGaza,64.402
+21:10,6,askashe,11.237
+21:10,7,LEAN ON US JUNGKOOK,204.475
+21:10,8,Gerson,38.639
+21:10,9,YOU ARE PERFECT JUNGKOOK,191.512
+21:10,10,BizeYasak TuristeSerbest,
+21:41,1,HelalEtmiyorum,341.704
+21:41,2,MilletinAdamı,29.824
+21:41,3,FreeCodeFridayContest,
+21:41,4,YADINHO,313.387
+21:41,5,HearGaza,88.900
+21:41,6,Scott Carson,11.263
+21:41,7,GIL MERECE RESPEITO,11.082
+21:41,8,Gerson,42.478
+21:41,9,LEAN ON US JUNGKOOK,211.719
+21:41,10,YOU ARE PERFECT JUNGKOOK,197.924
+22:10,1,KohLanta,24.237
+22:10,2,HelalEtmiyorum,367.652
+22:10,3,MilletinAdamı,64.165
+22:10,4,FreeCodeFridayContest,
+22:10,5,الهلال_الباطن,37.436
+22:10,6,Scott Carson,12.801
+22:10,7,GIL MERECE RESPEITO,16.330
+22:10,8,Jonathan,29.789
+22:10,9,Ferran Torres,
+22:10,10,Gerson,45.887
+22:41,1,KohLanta,37.748
+22:41,2,MilletinAdamı,103.048
+22:41,3,HelalEtmiyorum,394.395
+22:41,4,NEWMCI,14.217
+22:41,5,FreeCodeFridayContest,
+22:41,6,Ferran Torres,
+22:41,7,Thomas,86.281
+22:41,8,GIL MERECE RESPEITO,20.705
+22:41,9,Scott Carson,14.315
+22:41,10,Arnaud,
+23:10,1,KohLanta,52.733
+23:10,2,MilletinAdamı,142.383
+23:10,3,HelalEtmiyorum,421.876
+23:10,4,CıbıldakAlpay,
+23:10,5,NEWMCI,16.277
+23:10,6,Ferran Torres,12.150
+23:10,7,Thomas,88.335
+23:10,8,GIL MERECE RESPEITO,24.447
+23:10,9,Newcastle,35.592
+23:10,10,Scott Carson,15.624
+23:41,1,MilletinAdamı,178.665
+23:41,2,KohLanta,61.992
+23:41,3,HelalEtmiyorum,450.160
+23:41,4,BugünGünlerdenGALATASARAY,19.772
+23:41,5,CıbıldakAlpay,
+23:41,6,Thomas,95.086
+23:41,7,Ferran Torres,14.972
+23:41,8,GIL MERECE RESPEITO,27.858
+23:41,9,Flavio,41.945
+23:41,10,Newcastle,37.986

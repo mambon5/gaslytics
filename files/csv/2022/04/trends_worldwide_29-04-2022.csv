@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,WhatsApp,445.981
+00:10,2,MUNCHE,112.966
+00:10,3,Ronaldo,232.028
+00:10,4,SVGala2,22.642
+00:10,5,Chelsea,266.463
+00:10,6,FEYOM,40.199
+00:10,7,Rashford,38.289
+00:10,8,Patrick,117.571
+00:10,9,Reece James,22.729
+00:10,10,توہین_مسجد_نبوی_نامنظور,301.061
+00:40,1,WhatsApp,458.954
+00:40,2,Gabigol,18.776
+00:40,3,Arão,
+00:40,4,Arrascaeta,
+00:40,5,SVGala2,30.265
+00:40,6,MUNCHE,114.790
+00:40,7,Ronaldo,245.801
+00:40,8,MoldyPennies,
+00:40,9,Patrick,119.523
+00:40,10,bbcqt,
+01:10,1,WhatsApp,461.611
+01:10,2,Arão,11.957
+01:10,3,Gabigol,25.861
+01:10,4,Arrascaeta,
+01:10,5,SVGala2,34.921
+01:10,6,MoldyPennies,
+01:10,7,Patrick,119.045
+01:10,8,Ronaldo,254.642
+01:10,9,MUNCHE,115.457
+01:10,10,bbcqt,10.277
+01:40,1,WhatsApp,470.444
+01:40,2,Arrascaeta,13.760
+01:40,3,Arão,12.990
+01:40,4,Gabigol,27.602
+01:40,5,SVGala2,39.686
+01:40,6,MoldyPennies,
+01:40,7,Paulo Sousa,
+01:40,8,Patrick,120.866
+01:40,9,NFLDraft,89.869
+01:40,10,توہین_مسجد_نبوی_نامنظور,402.748
+02:10,1,Flamengo,150.656
+02:10,2,WhatsApp,470.264
+02:10,3,NFLDraft,99.704
+02:10,4,Arrascaeta,15.748
+02:10,5,Paulo Sousa,10.215
+02:10,6,Gabigol,33.172
+02:10,7,Arão,13.783
+02:10,8,MoldyPennies,10.744
+02:10,9,SVGala2,42.395
+02:10,10,Patrick,119.841
+02:40,1,NFLDraft,133.986
+02:40,2,Flamengo,164.311
+02:40,3,WhatsApp,477.206
+02:40,4,Arrascaeta,17.022
+02:40,5,Texans,18.616
+02:40,6,Paulo Sousa,11.213
+02:40,7,Travon Walker,17.547
+02:40,8,Jags,10.827
+02:40,9,Gabigol,37.048
+02:40,10,Arão,14.408
+03:10,1,NFLDraft,159.542
+03:10,2,Giants,117.440
+03:10,3,Flamengo,171.702
+03:10,4,Falcons,16.429
+03:10,5,Drake London,12.761
+03:10,6,WhatsApp,474.533
+03:10,7,Sauce,90.149
+03:10,8,Jets,44.439
+03:10,9,Neal,31.077
+03:10,10,Texans,20.192
+03:40,1,NFLDraft,187.813
+03:40,2,Giants,126.946
+03:40,3,Lions,78.455
+03:40,4,Jets,56.828
+03:40,5,Flamengo,181.625
+03:40,6,Falcons,19.779
+03:40,7,Saints,56.646
+03:40,8,Raptors,42.888
+03:40,9,Drake London,16.021
+03:40,10,Olave,29.278
+04:10,1,Jessi,45.707
+04:10,2,BBB101,49.878
+04:10,3,NFLDraft,212.891
+04:10,4,AJ Brown,27.385
+04:10,5,Chris Paul,25.572
+04:10,6,Ravens,46.553
+04:10,7,Pelicans,25.059
+04:10,8,Giants,130.134
+04:10,9,Titans,62.334
+04:10,10,Kyle Hamilton,18.129
+04:40,1,BBB101,88.206
+04:40,2,Jessi,74.837
+04:40,3,NFLDraft,243.740
+04:40,4,AJ Brown,44.910
+04:40,5,Ravens,55.705
+04:40,6,Chris Paul,32.094
+04:40,7,Titans,81.049
+04:40,8,Steelers,54.362
+04:40,9,Kenny Pickett,28.051
+04:40,10,Pelicans,30.470
+05:10,1,BBB101,103.725
+05:10,2,Jessi,92.916
+05:10,3,NFLDraft,262.302
+05:10,4,AJ Brown,50.324
+05:10,5,Ravens,71.163
+05:10,6,Eagles,139.889
+05:10,7,Jets,82.059
+05:10,8,Titans,89.117
+05:10,9,Chris Paul,34.964
+05:10,10,PMSSeatGeekSpectacular125k,
+05:40,1,BBB101,112.342
+05:40,2,Jessi,106.841
+05:40,3,NFLDraft,279.257
+05:40,4,JusticeTourBangkok,465.081
+05:40,5,Packers,67.778
+05:40,6,Ravens,77.972
+05:40,7,AJ Brown,54.261
+05:40,8,Jets,89.963
+05:40,9,Eagles,146.031
+05:40,10,Titans,93.261
+06:10,1,JusticeTourBangkok,592.384
+06:10,2,NFLDraft,287.841
+06:10,3,Jessi,115.365
+06:10,4,BBB101,116.798
+06:10,5,Packers,72.720
+06:10,6,Ravens,82.346
+06:10,7,Jets,94.265
+06:10,8,AJ Brown,57.710
+06:10,9,Eagles,150.952
+06:10,10,Titans,95.496
+06:40,1,JusticeTourBangkok,720.890
+06:40,2,Mavs,30.324
+06:40,3,Jessi,120.307
+06:40,4,NFLDraft,292.625
+06:40,5,BBB101,119.513
+06:40,6,Packers,75.619
+06:40,7,Ravens,84.655
+06:40,8,Conley,
+06:40,9,MFFL,
+06:40,10,Jets,97.120
+07:10,1,JusticeTourBangkok,827.126
+07:10,2,Mavs,35.099
+07:10,3,Jessi,123.462
+07:10,4,BBB101,121.277
+07:10,5,NFLDraft,294.914
+07:10,6,MFFL,11.076
+07:10,7,Packers,77.144
+07:10,8,Conley,10.487
+07:10,9,Ravens,85.697
+07:10,10,AJ Brown,60.913
+07:40,1,JusticeTourBangkok,912.680
+07:40,2,Mavs,36.876
+07:40,3,Jessi,126.210
+07:40,4,SECAwards,342.965
+07:40,5,BBB101,122.679
+07:40,6,NFLDraft,296.969
+07:40,7,MFFL,11.552
+07:40,8,Conley,10.875
+07:40,9,Packers,78.312
+07:40,10,Ravens,86.636
+08:10,1,JusticeTourBangkok,973.832
+08:10,2,Mavs,37.826
+08:10,3,MarcosDuwag,12.013
+08:10,4,SECAwards,397.985
+08:10,5,Jessi,127.950
+08:10,6,BBB101,123.263
+08:10,7,MFFL,11.772
+08:10,8,Conley,10.939
+08:10,9,GW初日,79.560
+08:10,10,Packers,78.853
+08:40,1,JusticeTourBangkok,1.033.470
+08:40,2,MarcosDuwag,14.382
+08:40,3,SECAwards,447.775
+08:40,4,Mavs,38.615
+08:40,5,GW初日,82.577
+08:40,6,Jessi,129.538
+08:40,7,GrupoMusical,217.730
+08:40,8,MFFL,11.970
+08:40,9,Conley,11.069
+08:40,10,Burna,83.336
+09:10,1,JusticeTourBangkok,1.073.280
+09:10,2,MarcosDuwag,16.231
+09:10,3,SECAwards,488.934
+09:10,4,GW初日,85.345
+09:10,5,Mavs,38.975
+09:10,6,GrupoMusical,242.392
+09:10,7,Burna,88.795
+09:10,8,リクステ,
+09:10,9,RUNTOME TEASER OUT NOW,102.809
+09:10,10,Conley,11.033
+09:40,1,JusticeTourBangkok,1.129.285
+09:40,2,AskSam,
+09:40,3,MarcosDuwag,17.919
+09:40,4,SECAwards,525.043
+09:40,5,GW初日,88.332
+09:40,6,Burna,96.808
+09:40,7,GrupoMusical,266.386
+09:40,8,Mavs,39.326
+09:40,9,RUNTOME TEASER OUT NOW,109.831
+09:40,10,Jazz,71.865
+10:10,1,AskSam,
+10:10,2,JusticeTourBangkok,1.164.640
+10:10,3,MarcosDuwag,19.319
+10:10,4,リクステ,
+10:10,5,SECAwards,557.102
+10:10,6,GW初日,90.553
+10:10,7,Burna,102.770
+10:10,8,ALGS,27.296
+10:10,9,RUNTOME TEASER OUT NOW,114.503
+10:10,10,Jazz,71.577
+10:40,1,AskSam,
+10:40,2,JusticeTourBangkok,1.201.359
+10:40,3,ALGS,31.896
+10:40,4,GW初日,94.167
+10:40,5,Burna,106.610
+10:40,6,CRWIN,20.220
+10:40,7,MarcosDuwag,20.517
+10:40,8,SECAwards,587.292
+10:40,9,DONBELLE IS PINK,55.447
+10:40,10,Jazz,72.509
+11:10,1,ThatThatFeatSUGA,146.909
+11:10,2,싸이슈가_댓댓_아이라익댓,45.395
+11:10,3,AskSam,
+11:10,4,ALGS,34.714
+11:10,5,MIN YOONGI,50.032
+11:10,6,JusticeTourBangkok,1.228.940
+11:10,7,GW初日,97.163
+11:10,8,リクステ,
+11:10,9,Burna,116.647
+11:10,10,DONBELLE IS PINK,73.465
+11:40,1,ThatThatFeatSUGA,230.468
+11:40,2,MIN YOONGI,115.176
+11:40,3,싸이슈가_댓댓_아이라익댓,65.093
+11:40,4,AskSam,
+11:40,5,ALGS,37.074
+11:40,6,RobinsonxMSS,73.467
+11:40,7,少クラ,
+11:40,8,GW初日,101.099
+11:40,9,Burna,124.479
+11:40,10,YOONGIS,10.351
+12:10,1,ThatThatFeatSUGA,275.323
+12:10,2,MIN YOONGI,147.265
+12:10,3,싸이슈가_댓댓_아이라익댓,75.424
+12:10,4,AskSam,
+12:10,5,ALGS,34.682
+12:10,6,少クラ,11.366
+12:10,7,春のTravisJapanスペシャル,
+12:10,8,GW初日,103.589
+12:10,9,Burna,129.608
+12:10,10,YOONGI MARRY ME,28.020
+12:40,1,ThatThatFeatSUGA,310.184
+12:40,2,MIN YOONGI,168.210
+12:40,3,싸이슈가_댓댓_아이라익댓,82.141
+12:40,4,CRWIN,29.582
+12:40,5,ALGS,36.155
+12:40,6,AskSam,
+12:40,7,アニポケ,12.280
+12:40,8,BiliniyoDijital GündemeTaşır,
+12:40,9,GW初日,107.050
+12:40,10,ゲッコウガ,12.124
+13:10,1,ThatThatFeatSUGA,332.888
+13:10,2,MIN YOONGI,180.601
+13:10,3,싸이슈가_댓댓_아이라익댓,86.703
+13:10,4,少クラ,11.952
+13:10,5,春のTravisJapanスペシャル,
+13:10,6,LOVEDIVE6thWin,10.230
+13:10,7,ノーアウト満塁,
+13:10,8,Robinson Salesation x MEW,141.977
+13:10,9,YOONGI MARRY ME,35.352
+13:10,10,GW初日,110.264
+13:40,1,ThatThatFeatSUGA,355.126
+13:40,2,Min Yoongi,192.930
+13:40,3,CRWIN,32.833
+13:40,4,싸이슈가_댓댓_아이라익댓,90.537
+13:40,5,AFLEaglesTigers,
+13:40,6,ホロGGW,22.959
+13:40,7,自由視点映像,
+13:40,8,ALGS,39.898
+13:40,9,biliniyodijital gündemetaşır,
+13:40,10,GW初日,113.764
+14:10,1,ThatThatFeatSUGA,372.099
+14:10,2,Min Yoongi,200.919
+14:10,3,魔女の宅急便,22.964
+14:10,4,こいほー,
+14:10,5,FELIX,130.041
+14:10,6,AFLEaglesTigers,
+14:10,7,CRWIN,34.313
+14:10,8,やりすぎ都市伝説,
+14:10,9,싸이슈가_댓댓_아이라익댓,94.463
+14:10,10,おりほー,
+14:40,1,ThatThatFeatSUGA,392.539
+14:40,2,魔女の宅急便,27.273
+14:40,3,Min Yoongi,210.807
+14:40,4,やりすぎ都市伝説,
+14:40,5,FELIX,146.768
+14:40,6,AFLEaglesTigers,
+14:40,7,阪神タイガース,29.079
+14:40,8,こいほー,
+14:40,9,青柳さん,
+14:40,10,おりほー,
+15:10,1,魔女の宅急便,40.741
+15:10,2,ThatThatFeatSUGA,408.327
+15:10,3,Min Yoongi,217.268
+15:10,4,FELIX,162.902
+15:10,5,AFLEaglesTigers,
+15:10,6,やりすぎ都市伝説,
+15:10,7,金曜ロードショー,13.833
+15:10,8,青柳さん,
+15:10,9,こいほー,
+15:10,10,おりほー,
+15:40,1,魔女の宅急便,56.453
+15:40,2,ThatThatFeatSUGA,427.098
+15:40,3,Burak Elmas İstikrar,
+15:40,4,ストチューブ,
+15:40,5,大倉くん,
+15:40,6,Min Yoongi,227.663
+15:40,7,インビジブル,10.594
+15:40,8,とまビ,19.375
+15:40,9,FELIX,176.121
+15:40,10,ニシンのパイ,11.237
+16:10,1,魔女の宅急便,76.342
+16:10,2,ThatThatFeatSUGA,441.479
+16:10,3,大倉くん,
+16:10,4,とまビ,31.991
+16:10,5,WONWOO,53.735
+16:10,6,Burak Elmas İstikrar,
+16:10,7,インビジブル,15.112
+16:10,8,ストチューブ,
+16:10,9,felix,199.135
+16:10,10,ニシンのパイ,13.768
+16:40,1,魔女の宅急便,87.950
+16:40,2,ThatThatFeatSUGA,456.727
+16:40,3,wonwoo,60.509
+16:40,4,StarInMyMindEP4,102.648
+16:40,5,大倉くん,11.343
+16:40,6,hoshi,69.893
+16:40,7,とまビ,38.163
+16:40,8,ストチューブ,
+16:40,9,Burak Elmas İstikrar,
+16:40,10,Egan,17.549
+17:10,1,魔女の宅急便,93.731
+17:10,2,ThatThatFeatSUGA,469.524
+17:10,3,wonwoo,62.860
+17:10,4,StarInMyMindEP4,136.231
+17:10,5,hoshi,73.482
+17:10,6,大倉くん,12.447
+17:10,7,FaceTheSun_D27,44.305
+17:10,8,BorisBecker,
+17:10,9,Egan,20.376
+17:10,10,Neil Parish,
+17:40,1,魔女の宅急便,97.935
+17:40,2,ให้ฉันเป็นของเธอ,146.966
+17:40,3,StarInMyMindEP4,153.427
+17:40,4,ThatThatFeatSUGA,479.536
+17:40,5,wonwoo,66.412
+17:40,6,第99回,
+17:40,7,BorisBecker,
+17:40,8,hoshi,78.221
+17:40,9,Egan,24.108
+17:40,10,大倉くん,13.130
+18:10,1,ให้ฉันเป็นของเธอ,234.563
+18:10,2,魔女の宅急便,101.260
+18:10,3,第99回,
+18:10,4,StarInMyMindEP4,167.650
+18:10,5,Boris Becker,10.591
+18:10,6,Egan,27.330
+18:10,7,ThatThatFeatSUGA,493.165
+18:10,8,wonwoo,67.578
+18:10,9,KızlarYakışıklıErkekSever,
+18:10,10,Neil Parish,13.595
+18:40,1,ให้ฉันเป็นของเธอ,276.120
+18:40,2,第99回,
+18:40,3,魔女の宅急便,103.927
+18:40,4,Boris Becker,12.363
+18:40,5,TPMM,
+18:40,6,Egan,31.098
+18:40,7,StarInMyMindEP4,181.178
+18:40,8,Neil Parish,16.812
+18:40,9,DoctorStrangeXboxSweepstakes,
+18:40,10,wonwoo,70.308
+19:10,1,TPMM,
+19:10,2,ให้ฉันเป็นของเธอ,302.003
+19:10,3,Egan,34.738
+19:10,4,第99回,
+19:10,5,Boris Becker,13.839
+19:10,6,StarInMyMindEP4,191.517
+19:10,7,魔女の宅急便,105.652
+19:10,8,フロイニ,69.884
+19:10,9,Neil Parish,19.758
+19:10,10,wonwoo,70.966
+19:40,1,TPMM,
+19:40,2,Egan,38.616
+19:40,3,Boris Becker,15.087
+19:40,4,第99回,
+19:40,5,ให้ฉันเป็นของเธอ,318.058
+19:40,6,StarInMyMindEP4,201.509
+19:40,7,turkissessizkalmaz,
+19:40,8,HappyLovelyPPday,54.056
+19:40,9,Neil Parish,22.991
+19:40,10,Ministry of Truth,275.870
+20:10,1,TPMM,
+20:10,2,Neal Adams,
+20:10,3,Egan,42.467
+20:10,4,turkissessizkalmaz,
+20:10,5,Boris Becker,16.292
+20:10,6,第99回,
+20:10,7,DoctorStrangeXboxSweepstakes,13.414
+20:10,8,TanglawLagunaRally,155.755
+20:10,9,ให้ฉันเป็นของเธอ,329.143
+20:10,10,Neil Parish,25.887
+20:40,1,Neal Adams,
+20:40,2,TPMM,
+20:40,3,Egan,46.736
+20:40,4,turkissessizkalmaz,
+20:40,5,VamosLaU,
+20:40,6,Boris Becker,17.314
+20:40,7,FBvGFK,
+20:40,8,DoctorStrangeXboxSweepstakes,14.748
+20:40,9,第99回,
+20:40,10,Neil Parish,28.488
+21:10,1,Neal Adams,13.514
+21:10,2,VamosLaU,
+21:10,3,TPMM,
+21:10,4,Egan,50.759
+21:10,5,FBvGFK,
+21:10,6,HappyBirthdayRohit,19.783
+21:10,7,turkissessizkalmaz,
+21:10,8,Boris Becker,18.237
+21:10,9,لام كلثوم,
+21:10,10,Neil Parish,30.755
+21:40,1,Neal Adams,17.672
+21:40,2,Bauer,16.491
+21:40,3,whentaylorswift,
+21:40,4,FBvGFK,
+21:40,5,VamosLaU,
+21:40,6,freecodefridaycontest,
+21:40,7,RCSAPSG,10.722
+21:40,8,Egan,54.545
+21:40,9,لام كلثوم,
+21:40,10,Boris Becker,19.192
+22:10,1,Neal Adams,21.378
+22:10,2,VamosLaU,
+22:10,3,Bauer,21.668
+22:10,4,whentaylorswift,
+22:10,5,FBvGFK,
+22:10,6,totp,
+22:10,7,freecodefridaycontest,
+22:10,8,Egan,57.758
+22:10,9,Escobar,19.279
+22:10,10,Ozuna,
+22:40,1,Neal Adams,24.361
+22:40,2,Bauer,24.703
+22:40,3,VamosLaU,
+22:40,4,whentaylorswift,
+22:40,5,MaskSinger,
+22:40,6,RCSAPSG,15.645
+22:40,7,FreeCodeFridayContest,
+22:40,8,Dakota Kai,
+22:40,9,Egan,61.177
+22:40,10,Escobar,20.203
+23:10,1,Neal Adams,26.947
+23:10,2,Bauer,26.609
+23:10,3,RCSAPSG,18.270
+23:10,4,MaskSinger,
+23:10,5,whentaylorswift,
+23:10,6,VamosLaU,
+23:10,7,Strasbourg,24.669
+23:10,8,Dakota Kai,
+23:10,9,FreeCodeFridayContest,
+23:10,10,Lucas Pérez,
+23:40,1,MaskSinger,
+23:40,2,Neal Adams,29.493
+23:40,3,Bauer,28.091
+23:40,4,isola,11.781
+23:40,5,من_شارع_الهرم_الي,
+23:40,6,RCSAPSG,19.217
+23:40,7,Dakota Kai,
+23:40,8,whentaylorswift,
+23:40,9,Strasbourg,25.921
+23:40,10,Jon Watts,

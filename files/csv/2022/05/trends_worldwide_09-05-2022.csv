@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MiamiGP,240.548
+00:10,2,Mother's Day,1.263.200
+00:10,3,Luka,57.106
+00:10,4,Mavs,22.709
+00:10,5,Verstappen,62.866
+00:10,6,Eleksyon2022,
+00:10,7,Cruzeiro,77.162
+00:10,8,Mick,25.999
+00:10,9,Black Widow,18.085
+00:10,10,Finney-Smith,
+00:40,1,MiamiGP,247.142
+00:40,2,Mother's Day,1.306.095
+00:40,3,Mavs,32.327
+00:40,4,Luka,66.426
+00:40,5,Eleksyon2022,10.092
+00:40,6,Chris Paul,18.135
+00:40,7,MFFL,10.145
+00:40,8,LosCruzados,
+00:40,9,Verstappen,66.099
+00:40,10,Black Widow,19.066
+01:10,1,Mother's Day,1.272.967
+01:10,2,Eleksyon2022,13.082
+01:10,3,MiamiGP,246.797
+01:10,4,Mavs,34.965
+01:10,5,Luka,69.283
+01:10,6,Halalan2022,30.883
+01:10,7,Chris Paul,19.627
+01:10,8,Suns,56.043
+01:10,9,MFFL,11.071
+01:10,10,LosCruzados,
+01:40,1,Eleksyon2022,17.006
+01:40,2,Mother's Day,1.332.383
+01:40,3,MiamiGP,250.563
+01:40,4,Mavs,36.701
+01:40,5,Halalan2022,33.508
+01:40,6,Luka,72.244
+01:40,7,LosCruzados,
+01:40,8,Logano,
+01:40,9,Igor Gomes,
+01:40,10,DancaDosFamosos,
+02:10,1,Eleksyon2022,21.200
+02:10,2,Mother's Day,1.390.967
+02:10,3,Halalan2022,36.024
+02:10,4,WMBacklash,16.488
+02:10,5,MiamiGP,250.255
+02:10,6,Mavs,37.791
+02:10,7,LosCruzados,
+02:10,8,連休明け,46.896
+02:10,9,Luka,73.253
+02:10,10,Logano,
+02:40,1,Kendrick,56.544
+02:40,2,Eleksyon2022,27.429
+02:40,3,WMBacklash,27.766
+02:40,4,Mother's Day,1.449.705
+02:40,5,Halalan2022,41.598
+02:40,6,連休明け,50.544
+02:40,7,Mavs,39.306
+02:40,8,MiamiGP,253.589
+02:40,9,GW明け,52.397
+02:40,10,LosCruzados,
+03:10,1,Kendrick,81.629
+03:10,2,Eleksyon2022,36.684
+03:10,3,WMBacklash,37.349
+03:10,4,Halalan2022,47.296
+03:10,5,Mother's Day,1.505.699
+03:10,6,RHOA,14.554
+03:10,7,連休明け,53.457
+03:10,8,The Heart Part 5,57.016
+03:10,9,Danny Green,
+03:10,10,Ralph,18.309
+03:40,1,Kendrick,102.728
+03:40,2,Eleksyon2022,47.969
+03:40,3,WMBacklash,51.808
+03:40,4,Halalan2022,54.561
+03:40,5,Mother's Day,1.729.131
+03:40,6,RHOA,15.826
+03:40,7,VoteSAFEPilipinas,12.740
+03:40,8,The Heart Part 5,69.117
+03:40,9,連休明け,56.433
+03:40,10,Nipsey,
+04:10,1,Kendrick,118.484
+04:10,2,Eleksyon2022,59.367
+04:10,3,WMBacklash,66.754
+04:10,4,Halalan2022,61.182
+04:10,5,Mother's Day,2.300.006
+04:10,6,RHOA,16.614
+04:10,7,VoteSAFEPilipinas,16.177
+04:10,8,The Heart Part 5,77.255
+04:10,9,Nipsey,12.448
+04:10,10,連休明け,58.493
+04:40,1,Harden,48.742
+04:40,2,Kendrick,133.146
+04:40,3,Eleksyon2022,71.040
+04:40,4,WMBacklash,77.264
+04:40,5,Halalan2022,70.908
+04:40,6,Chivas,50.626
+04:40,7,Mother's Day,2.342.904
+04:40,8,VoteSAFEPilipinas,18.825
+04:40,9,LeniRobredoForPresident,46.361
+04:40,10,Jimmy Butler,
+05:10,1,Harden,62.988
+05:10,2,Kendrick,142.936
+05:10,3,Eleksyon2022,83.529
+05:10,4,WMBacklash,89.351
+05:10,5,Halalan2022,80.333
+05:10,6,Chivas,57.803
+05:10,7,Mother's Day,2.439.144
+05:10,8,VoteSAFEPilipinas,20.943
+05:10,9,LeniRobredoForPresident,51.400
+05:10,10,アイネスフウジン,17.614
+05:40,1,Kendrick,152.545
+05:40,2,Harden,67.604
+05:40,3,Eleksyon2022,95.277
+05:40,4,Halalan2022,89.832
+05:40,5,WMBacklash,94.216
+05:40,6,アイネスフウジン,33.232
+05:40,7,Chivas,62.574
+05:40,8,VoteSAFEPilipinas,23.383
+05:40,9,Mother's Day,2.823.017
+05:40,10,LeniRobredoForPresident,58.297
+06:10,1,Kendrick,160.301
+06:10,2,Eleksyon2022,105.284
+06:10,3,Harden,70.390
+06:10,4,HALALAN2022,97.517
+06:10,5,WMBacklash,97.381
+06:10,6,アイネスフウジン,40.092
+06:10,7,VoteSAFEPilipinas,24.930
+06:10,8,Chivas,65.130
+06:10,9,LeniRobredoForPresident,65.534
+06:10,10,Mother's Day,2.797.299
+06:40,1,Kendrick,168.376
+06:40,2,Eleksyon2022,114.745
+06:40,3,Harden,72.430
+06:40,4,HALALAN2022,105.512
+06:40,5,アイネスフウジン,43.735
+06:40,6,WMBacklash,99.320
+06:40,7,VoteSAFEPilipinas,26.542
+06:40,8,LeniRobredoForPresident,71.444
+06:40,9,Chivas,67.382
+06:40,10,Mother's Day,2.830.266
+07:10,1,Kendrick,174.887
+07:10,2,Eleksyon2022,122.442
+07:10,3,Halalan2022,112.290
+07:10,4,Harden,73.672
+07:10,5,アイネスフウジン,46.158
+07:10,6,LeniRobredoForPresident,76.150
+07:10,7,VoteSAFEPilipinas,27.621
+07:10,8,WMBacklash,100.963
+07:10,9,Mother's Day,2.784.279
+07:10,10,Chivas,68.653
+07:40,1,Kendrick,180.319
+07:40,2,Eleksyon2022,129.451
+07:40,3,Halalan2022,120.136
+07:40,4,Harden,74.866
+07:40,5,LeniRobredoForPresident,81.051
+07:40,6,アイネスフウジン,48.359
+07:40,7,VoteSAFEPilipinas,28.565
+07:40,8,AlparslanHocaGözaltında,28.270
+07:40,9,TXT COMEBACK D-DAY,96.084
+07:40,10,Mother's Day,2.811.297
+08:10,1,Halalan2022,126.043
+08:10,2,Eleksyon2022,134.501
+08:10,3,Kendrick,186.819
+08:10,4,LeniRobredoForPresident,84.799
+08:10,5,Harden,75.806
+08:10,6,TXT COMEBACK D-DAY,123.178
+08:10,7,pazartesi,
+08:10,8,AlparslanHocaGözaltında,41.283
+08:10,9,アイネスフウジン,50.793
+08:10,10,COMELEC,205.765
+08:40,1,Halalan2022,133.088
+08:40,2,Eleksyon2022,140.970
+08:40,3,Kendrick,193.917
+08:40,4,SwitchToLeni,
+08:40,5,TXT COMEBACK D-DAY,135.794
+08:40,6,pazartesi,
+08:40,7,MondayMotivation,43.790
+08:40,8,TXT SHOWCASE GONE BAD,54.365
+08:40,9,Harden,76.741
+08:40,10,アイネスフウジン,53.028
+09:10,1,Halalan2022,139.559
+09:10,2,Eleksyon2022,146.369
+09:10,3,SwitchToLeni,15.821
+09:10,4,Kendrick,200.036
+09:10,5,MondayMotivation,46.730
+09:10,6,TXT COMEBACK D-DAY,143.686
+09:10,7,pazartesi,
+09:10,8,TXT SHOWCASE GONE BAD,67.171
+09:10,9,M6.6,
+09:10,10,M8.0,
+09:40,1,Halalan2022,148.980
+09:40,2,SwitchToLeni,22.630
+09:40,3,Eleksyon2022,151.460
+09:40,4,Kendrick,206.833
+09:40,5,MondayMotivation,49.707
+09:40,6,pazartesi,
+09:40,7,TXT COMEBACK D-DAY,149.304
+09:40,8,TXT SHOWCASE GONE BAD,74.327
+09:40,9,NAMA Bikin Cerah,
+09:40,10,COMELEC,232.222
+10:10,1,Halalan2022,157.781
+10:10,2,SwitchToLeni,29.795
+10:10,3,Eleksyon2022,156.045
+10:10,4,MondayMotivation,52.561
+10:10,5,Kendrick,212.526
+10:10,6,pazartesi,
+10:10,7,TXT COMEBACK D-DAY,163.351
+10:10,8,TXT SHOWCASE GONE BAD,83.862
+10:10,9,NAMA Bikin Cerah,
+10:10,10,COMELEC,239.114
+10:40,1,Halalan2022,168.212
+10:40,2,SwitchToLeni,37.652
+10:40,3,Eleksyon2022,160.228
+10:40,4,TXT COMEBACK D-DAY,196.278
+10:40,5,MondayMotivation,55.727
+10:40,6,Kendrick,218.582
+10:40,7,ShaheenBagh,13.724
+10:40,8,JOIN THE PREMIERE,51.895
+10:40,9,TXT SHOWCASE GONE BAD,102.421
+10:40,10,NAMA Bikin Cerah,
+11:10,1,GOOD_BOY_GONE_BAD,320.514
+11:10,2,SwitchToLeni,45.947
+11:10,3,Halalan2022,176.820
+11:10,4,TOMORROW_X_TOGETHER,432.598
+11:10,5,THURSDAY'S CHILD OUT NOW,43.411
+11:10,6,すの日常TheMovie,
+11:10,7,TXT COMEBACK D-DAY,216.173
+11:10,8,JOIN THE PREMIERE,96.222
+11:10,9,異常震域,
+11:10,10,Kendrick,223.626
+11:40,1,GOOD_BOY_GONE_BAD,422.867
+11:40,2,TOMORROW_X_TOGETHER,524.922
+11:40,3,Thursdays_Child,263.079
+11:40,4,SwitchToLeni,54.158
+11:40,5,Halalan2022,185.524
+11:40,6,YEONJUN,191.997
+11:40,7,TXT COMEBACK D-DAY,221.055
+11:40,8,JOIN THE PREMIERE,98.420
+11:40,9,Trust Fund Baby,38.459
+11:40,10,OPENING SEQUENCE,20.623
+12:10,1,GOOD_BOY_GONE_BAD,470.843
+12:10,2,TOMORROW_X_TOGETHER,561.152
+12:10,3,SwitchToLeni,61.475
+12:10,4,Thursdays_Child,292.343
+12:10,5,Halalan2022,193.320
+12:10,6,yeonjun,201.559
+12:10,7,TXT COMEBACK D-DAY,224.537
+12:10,8,Opening Sequence,29.331
+12:10,9,Trust Fund Baby,48.092
+12:10,10,異常震域,
+12:40,1,GOOD_BOY_GONE_BAD,510.041
+12:40,2,TOMORROW_X_TOGETHER,589.758
+12:40,3,SwitchToLeni,68.515
+12:40,4,Thursdays_Child,312.914
+12:40,5,Halalan2022,203.090
+12:40,6,yeonjun,210.648
+12:40,7,Trust Fund Baby,54.614
+12:40,8,Opening Sequence,35.551
+12:40,9,熱愛報道,
+12:40,10,見守り型,
+13:10,1,GOOD_BOY_GONE_BAD,535.076
+13:10,2,SwitchToLeni,75.342
+13:10,3,TOMORROW_X_TOGETHER,605.999
+13:10,4,Halalan2022,213.640
+13:10,5,ExtendVotingHoursPH,21.090
+13:10,6,COMELEC,324.191
+13:10,7,Opening Sequence,41.180
+13:10,8,熱愛報道,
+13:10,9,rionさん,
+13:10,10,サプチケ,
+13:40,1,ExtendVotingHoursPH,35.734
+13:40,2,GOOD_BOY_GONE_BAD,547.103
+13:40,3,SwitchToLeni,80.091
+13:40,4,Halalan2022,240.755
+13:40,5,あなたのオタクタイプ診断,
+13:40,6,COMELEC,368.624
+13:40,7,THURSDAY'S CHILD OUT NOW,70.768
+13:40,8,熱愛報道,
+13:40,9,見守り型,
+13:40,10,推しの幸せ,
+14:10,1,ExtendVotingHoursPH,49.646
+14:10,2,GOOD_BOY_GONE_BAD,558.785
+14:10,3,Halalan2022,264.920
+14:10,4,SwitchToLeni,84.009
+14:10,5,あなたのオタクタイプ診断,
+14:10,6,COMELEC,407.029
+14:10,7,熱愛報道,
+14:10,8,見守り型,
+14:10,9,推しの幸せ,
+14:10,10,Haaland,64.317
+14:40,1,Robin Padilla,28.669
+14:40,2,ExtendVotingHoursPH,57.850
+14:40,3,WhyDontYouStayJeffSatur,83.436
+14:40,4,Halalan2022,284.669
+14:40,5,ジャにのちゃんねる,11.646
+14:40,6,あなたのオタクタイプ診断,
+14:40,7,Leni,647.617
+14:40,8,COMELEC,436.998
+14:40,9,告白の日,
+14:40,10,熱愛報道,
+15:10,1,Robin Padilla,111.180
+15:10,2,Pilipinas,178.002
+15:10,3,Pilipinas,178.002
+15:10,4,Election2022PH,40.965
+15:10,5,ジャにのちゃんねる,19.241
+15:10,6,Halalan2022,316.469
+15:10,7,Philippines,168.034
+15:10,8,Jokic,23.395
+15:10,9,WhyDontYouStayJeffSatur,124.522
+15:10,10,CDTVライブライブ,13.734
+15:40,1,Robin Padilla,194.070
+15:40,2,Pilipinas,257.319
+15:40,3,Pilipinas,257.319
+15:40,4,Robin,310.706
+15:40,5,Philippines,201.602
+15:40,6,Jokic,35.166
+15:40,7,Halalan2022,344.269
+15:40,8,Pilipino,47.414
+15:40,9,Election2022PH,51.475
+15:40,10,ジャにのちゃんねる,21.915
+16:10,1,Pilipinas,341.635
+16:10,2,Robin Padilla,247.981
+16:10,3,Robin,389.458
+16:10,4,Philippines,240.181
+16:10,5,恋マジ,69.241
+16:10,6,Jokic,43.955
+16:10,7,Pilipino,56.884
+16:10,8,Halalan2022,368.468
+16:10,9,Leni,946.678
+16:10,10,Election2022PH,56.566
+16:40,1,Pilipinas,400.502
+16:40,2,Robin Padilla,284.279
+16:40,3,Philippines,280.426
+16:40,4,Pilipino,66.943
+16:40,5,Jokic,51.311
+16:40,6,恋マジ,74.696
+16:40,7,Chel Diokno,203.108
+16:40,8,Halalan2022,386.489
+16:40,9,Leni,1.074.457
+16:40,10,同じ人が描いたとは思えない絵を貼る,17.626
+17:10,1,Pilipinas,446.011
+17:10,2,Robin Padilla,309.528
+17:10,3,RUN BTS,96.059
+17:10,4,PROOF_TRACKLIST2,185.895
+17:10,5,Philippines,311.002
+17:10,6,Pilipino,75.082
+17:10,7,Jokic,57.414
+17:10,8,恋マジ,78.411
+17:10,9,Chel Diokno,221.791
+17:10,10,Leni,1.178.764
+17:40,1,Pilipinas,489.785
+17:40,2,RUN BTS,193.155
+17:40,3,PROOF_TRACKLIST2,236.957
+17:40,4,Robin Padilla,328.474
+17:40,5,Philippines,342.370
+17:40,6,Pilipino,83.087
+17:40,7,Jokic,63.115
+17:40,8,Chel Diokno,238.999
+17:40,9,恋マジ,80.878
+17:40,10,Leni,1.293.293
+18:10,1,Pilipinas,524.972
+18:10,2,RUN BTS,217.285
+18:10,3,PROOF_TRACKLIST2,252.102
+18:10,4,Robin Padilla,343.840
+18:10,5,Philippines,368.650
+18:10,6,Jokic,68.710
+18:10,7,Pilipino,89.898
+18:10,8,Chel Diokno,252.913
+18:10,9,Leni,1.369.540
+18:10,10,恋マジ,82.119
+18:40,1,Pilipinas,554.433
+18:40,2,RUN BTS,233.258
+18:40,3,PROOF_TRACKLIST2,259.639
+18:40,4,Robin Padilla,354.776
+18:40,5,Philippines,393.057
+18:40,6,Jokic,73.669
+18:40,7,Pilipino,96.240
+18:40,8,MIvsKKR,10.115
+18:40,9,Chel Diokno,263.769
+18:40,10,NCTzenSelcaDay,161.384
+19:10,1,Pilipinas,575.431
+19:10,2,RUN BTS,243.909
+19:10,3,PROOF_TRACKLIST2,264.895
+19:10,4,Robin,549.073
+19:10,5,Philippines,410.796
+19:10,6,Jokic,78.331
+19:10,7,Pilipino,100.656
+19:10,8,NCTzenSelcaDay,172.499
+19:10,9,Haaland,148.542
+19:10,10,MIvsKKR,11.986
+19:40,1,Pilipinas,594.219
+19:40,2,RUN BTS,252.309
+19:40,3,PROOF_TRACKLIST2,268.786
+19:40,4,Robin,563.330
+19:40,5,Jokic,82.146
+19:40,6,Haaland,171.536
+19:40,7,Philippines,431.699
+19:40,8,MIvsKKR,13.905
+19:40,9,Pilipino,104.261
+19:40,10,NCTzenSelcaDay,179.278
+20:10,1,Pilipinas,606.909
+20:10,2,Haaland,188.585
+20:10,3,RUN BTS,258.630
+20:10,4,Jokic,85.800
+20:10,5,PROOF_TRACKLIST2,272.274
+20:10,6,Robin,571.198
+20:10,7,MIvsKKR,16.108
+20:10,8,Philippines,445.554
+20:10,9,NCTzenSelcaDay,182.708
+20:10,10,Pilipino,107.112
+20:40,1,Pilipinas,618.180
+20:40,2,Haaland,203.245
+20:40,3,RUN BTS,263.663
+20:40,4,Jokic,89.257
+20:40,5,PROOF_TRACKLIST2,275.240
+20:40,6,Robin,581.721
+20:40,7,MIvsKKR,17.241
+20:40,8,Philippines,457.884
+20:40,9,Tuğba,11.280
+20:40,10,NCTzenSelcaDay,184.373
+21:10,1,Haaland,214.614
+21:10,2,Pilipinas,625.874
+21:10,3,Jokic,92.050
+21:10,4,RUN BTS,266.488
+21:10,5,PROOF_TRACKLIST2,277.836
+21:10,6,MIvsKKR,17.788
+21:10,7,Robin,586.550
+21:10,8,ErdoğanıDurduramayacaksınız,15.784
+21:10,9,Philippines,465.896
+21:10,10,MondayEveningWord,10.141
+21:40,1,Haaland,225.299
+21:40,2,Jokic,95.269
+21:40,3,Pilipinas,631.353
+21:40,4,showedupjustintime,
+21:40,5,ErdoğanıDurduramayacaksınız,20.326
+21:40,6,Nestor,15.813
+21:40,7,RUN BTS,270.500
+21:40,8,DahaNe Bekliyorsunuz,26.895
+21:40,9,MondayEveningWord,13.105
+21:40,10,PROOF_TRACKLIST2,280.005
+22:10,1,Haaland,233.170
+22:10,2,StopCafCorruption,69.623
+22:10,3,showedupjustintime,
+22:10,4,ErdoğanıDurduramayacaksınız,24.896
+22:10,5,Jokic,97.928
+22:10,6,Nestor,17.243
+22:10,7,FiorentinaRoma,
+22:10,8,Pilipinas,634.511
+22:10,9,FUNERALGREY,
+22:10,10,DahaNe Bekliyorsunuz,33.209
+22:40,1,StopCafCorruption,314.979
+22:40,2,Haaland,240.446
+22:40,3,ErdoğanıDurduramayacaksınız,28.513
+22:40,4,konut,
+22:40,5,showedupjustintime,
+22:40,6,TheGames,
+22:40,7,Shaq,21.001
+22:40,8,Jokic,100.773
+22:40,9,Pulitzer,17.123
+22:40,10,Nestor,18.393
+23:10,1,StopCafCorruption,488.369
+23:10,2,Sunderland,11.603
+23:10,3,konut,
+23:10,4,Shaq,21.628
+23:10,5,Haaland,246.150
+23:10,6,thegames,
+23:10,7,ErdoğanıDurduramayacaksınız,31.818
+23:10,8,FiorentinaRoma,
+23:10,9,Pulitzer,20.341
+23:10,10,Jokic,103.229
+23:40,1,StopCafCorruption,618.998
+23:40,2,konut,
+23:40,3,Shaq,23.633
+23:40,4,TheGames,
+23:40,5,Sunderland,12.737
+23:40,6,MasterChef10,
+23:40,7,Haaland,252.120
+23:40,8,ErdoğanıDurduramayacaksınız,34.683
+23:40,9,Pulitzer,23.307
+23:40,10,Jokic,105.745

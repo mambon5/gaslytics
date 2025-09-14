@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Christmas,6.699.999
+00:01,2,Merry Christmas,4.900.000
+00:01,3,Fresh News,3.420.000
+00:01,4,Gaza,2.340.000
+00:01,5,Jesús,846.000
+00:01,6,Jesus,845.000
+00:01,7,Santa,839.000
+00:01,8,サンタさん,779.000
+00:01,9,Feliz Navidad,766.000
+00:01,10,Happy Holidays,689.000
+00:31,1,Christmas,7.560.000
+00:31,2,Merry Christmas,4.900.000
+00:31,3,Gaza,2.340.000
+00:31,4,HikingBeckyDayFanCamping,1.060.000
+00:31,5,Jesus,858.000
+00:31,6,Jesús,857.000
+00:31,7,Santa,843.000
+00:31,8,Feliz Navidad,797.000
+00:31,9,サンタさん,779.000
+00:31,10,Happy Holidays,697.000
+01:01,1,Christmas,7.560.000
+01:01,2,Merry Christmas,4.900.000
+01:01,3,Gaza,2.340.000
+01:01,4,HikingBeckyDayFanCamping,1.080.000
+01:01,5,Jesús,885.000
+01:01,6,Jesus,883.000
+01:01,7,Santa,868.000
+01:01,8,Feliz Navidad,842.000
+01:01,9,サンタさん,779.000
+01:01,10,Happy Holidays,717.000
+01:31,1,Christmas,7.560.000
+01:31,2,Merry Christmas,4.760.000
+01:31,3,Fresh News,3.540.000
+01:31,4,Gaza,2.340.000
+01:31,5,HikingBeckyDayFanCamping,1.100.000
+01:31,6,Jesus,896.000
+01:31,7,Jesús,894.000
+01:31,8,Feliz Navidad,877.000
+01:31,9,Santa,873.000
+01:31,10,サンタさん,791.000
+02:01,1,Christmas,7.560.000
+02:01,2,Merry Christmas,4.800.000
+02:01,3,Fresh News,3.540.000
+02:01,4,Gaza,2.340.000
+02:01,5,HikingBeckyDayFanCamping,1.100.000
+02:01,6,Jesús,924.000
+02:01,7,Jesus,923.000
+02:01,8,Feliz Navidad,922.000
+02:01,9,Santa,899.000
+02:01,10,サンタさん,809.000
+02:31,1,Christmas,6.779.999
+02:31,2,Merry Christmas,4.800.000
+02:31,3,Fresh News,3.540.000
+02:31,4,Gaza,2.400.000
+02:31,5,HikingBeckyDayFanCamping,1.100.000
+02:31,6,Feliz Navidad,953.000
+02:31,7,Jesus,926.000
+02:31,8,Jesús,924.000
+02:31,9,Santa,902.000
+02:31,10,サンタさん,809.000
+03:01,1,Christmas,4.980.000
+03:01,2,Merry Christmas,4.800.000
+03:01,3,Fresh News,3.540.000
+03:01,4,Gaza,2.400.000
+03:01,5,Rebecca,1.120.000
+03:01,6,HikingBeckyDayFanCamping,1.100.000
+03:01,7,Feliz Navidad,996.000
+03:01,8,Jesus,978.000
+03:01,9,Jesús,974.000
+03:01,10,Santa,932.000
+03:31,1,Christmas,4.980.000
+03:31,2,Fresh News,3.540.000
+03:31,3,Merry Christmas,2.960.000
+03:31,4,Gaza,2.400.000
+03:31,5,Rebecca,1.120.000
+03:31,6,Feliz Navidad,1.060.000
+03:31,7,Jesus,1.020.000
+03:31,8,Jesús,976.000
+03:31,9,Santa,937.000
+03:31,10,サンタさん,814.000
+04:01,1,Christmas,4.980.000
+04:01,2,Merry Christmas,3.080.000
+04:01,3,Gaza,2.400.000
+04:01,4,HikingBeckyDayFanCamping,1.200.000
+04:01,5,Jesus,1.180.000
+04:01,6,Jesús,1.160.000
+04:01,7,Rebecca,1.120.000
+04:01,8,Feliz Navidad,1.060.000
+04:01,9,Santa,969.000
+04:01,10,サンタさん,818.000
+04:31,1,Christmas,4.960.000
+04:31,2,Merry Christmas,3.280.000
+04:31,3,Gaza,2.440.000
+04:31,4,Feliz Navidad,1.259.999
+04:31,5,Jesus,1.240.000
+04:31,6,HikingBeckyDayFanCamping,1.220.000
+04:31,7,Jesús,1.160.000
+04:31,8,Santa,979.000
+04:31,9,サンタさん,818.000
+04:31,10,Happy Holidays,815.000
+05:01,1,Christmas,4.960.000
+05:01,2,Merry Christmas,3.540.000
+05:01,3,Gaza,2.540.000
+05:01,4,Feliz Navidad,1.420.000
+05:01,5,Jesus,1.359.999
+05:01,6,HikingBeckyDayFanCamping,1.240.000
+05:01,7,Jesús,1.160.000
+05:01,8,Santa,1.000.000
+05:01,9,Happy Holidays,834.000
+05:01,10,サンタさん,829.000
+05:31,1,Christmas,4.860.000
+05:31,2,Merry Christmas,3.660.000
+05:31,3,Gaza,2.540.000
+05:31,4,Feliz Navidad,1.460.000
+05:31,5,Jesus,1.380.000
+05:31,6,Jesús,1.359.999
+05:31,7,HikingBeckyDayFanCamping,1.240.000
+05:31,8,Santa,1.020.000
+05:31,9,Happy Holidays,840.000
+05:31,10,サンタさん,829.000
+06:01,1,Christmas,4.940.000
+06:01,2,Merry Christmas,3.679.999
+06:01,3,Gaza,2.540.000
+06:01,4,Jesús,1.500.000
+06:01,5,Jesus,1.460.000
+06:01,6,Feliz Navidad,1.400.000
+06:01,7,HikingBeckyDayFanCamping,1.279.999
+06:01,8,Santa,1.100.000
+06:01,9,Happy Holidays,876.000
+06:01,10,La Navidad,841.000
+06:31,1,Christmas,4.940.000
+06:31,2,Merry Christmas,3.760.000
+06:31,3,Gaza,2.540.000
+06:31,4,Jesús,1.540.000
+06:31,5,Jesus,1.480.000
+06:31,6,Feliz Navidad,1.400.000
+06:31,7,HikingBeckyDayFanCamping,1.279.999
+06:31,8,Rebecca Birthday Solo Stage,1.180.000
+06:31,9,Santa,1.120.000
+06:31,10,Happy Holidays,876.000
+07:01,1,Christmas,4.940.000
+07:01,2,Merry Christmas,3.760.000
+07:01,3,Gaza,2.160.000
+07:01,4,Jesús,1.620.000
+07:01,5,Jesus,1.460.000
+07:01,6,Feliz Navidad,1.380.000
+07:01,7,HikingBeckyDayFanCamping,1.319.999
+07:01,8,Rebecca Birthday Solo Stage,1.200.000
+07:01,9,Santa,1.180.000
+07:01,10,Happy Holidays,925.000
+07:31,1,Christmas,4.940.000
+07:31,2,Merry Christmas,3.760.000
+07:31,3,Jesús,1.660.000
+07:31,4,Jesus,1.540.000
+07:31,5,Feliz Navidad,1.380.000
+07:31,6,HikingBeckyDayFanCamping,1.339.999
+07:31,7,Rebecca Birthday Solo Stage,1.200.000
+07:31,8,Santa,1.120.000
+07:31,9,Happy Holidays,931.000
+07:31,10,Feliz Natal,843.000
+08:01,1,Christmas,4.940.000
+08:01,2,Merry Christmas,3.840.000
+08:01,3,Feliz Navidad,1.880.000
+08:01,4,Jesus,1.700.000
+08:01,5,Jesús,1.680.000
+08:01,6,HikingBeckyDayFanCamping,1.339.999
+08:01,7,Santa,1.240.000
+08:01,8,Rebecca Birthday Solo Stage,1.200.000
+08:01,9,Happy Holidays,952.000
+08:01,10,La Navidad,888.000
+08:31,1,Air Drop,7.560.000
+08:31,2,Christmas,6.359.999
+08:31,3,Merry Christmas,4.600.000
+08:31,4,Feliz Navidad,2.040.000
+08:31,5,Jesús,1.759.999
+08:31,6,Jesus,1.720.000
+08:31,7,HikingBeckyDayFanCamping,1.359.999
+08:31,8,Santa,1.259.999
+08:31,9,Rebecca Birthday Solo Stage,1.200.000
+08:31,10,Happy Holidays,962.000
+09:01,1,Christmas,8.140.000
+09:01,2,Air Drop,7.600.000
+09:01,3,Merry Christmas,4.600.000
+09:01,4,Feliz Navidad,2.080.000
+09:01,5,Jesus,1.819.999
+09:01,6,Jesús,1.759.999
+09:01,7,HikingBeckyDayFanCamping,1.380.000
+09:01,8,Santa,1.299.999
+09:01,9,Rebecca Birthday Solo Stage,1.240.000
+09:01,10,Happy Holidays,982.000
+09:31,1,Christmas,9.300.000
+09:31,2,Air Drop,7.600.000
+09:31,3,air drop,6.560.000
+09:31,4,Merry Christmas,6.480.000
+09:31,5,Feliz Navidad,2.140.000
+09:31,6,Jesus,1.839.999
+09:31,7,Jesús,1.819.999
+09:31,8,HikingBeckyDayFanCamping,1.380.000
+09:31,9,Santa,1.299.999
+09:31,10,Rebecca Birthday Solo Stage,1.240.000
+10:01,1,Christmas,9.300.000
+10:01,2,Air Drop,7.600.000
+10:01,3,Merry Christmas,7.180.000
+10:01,4,air drop,6.660.000
+10:01,5,Feliz Navidad,2.180.000
+10:01,6,Jesus,1.900.000
+10:01,7,Jesús,1.839.999
+10:01,8,HikingBeckyDayFanCamping,1.380.000
+10:01,9,Santa,1.299.999
+10:01,10,Rebecca Birthday Solo Stage,1.240.000
+10:31,1,Christmas,9.300.000
+10:31,2,Air Drop,7.600.000
+10:31,3,Merry Christmas,7.180.000
+10:31,4,air drop,6.660.000
+10:31,5,Feliz Navidad,2.180.000
+10:31,6,Jesus,1.920.000
+10:31,7,Jesús,1.859.999
+10:31,8,HikingBeckyDayFanCamping,1.380.000
+10:31,9,Santa,1.359.999
+10:31,10,Rebecca Birthday Solo Stage,1.240.000
+11:01,1,Christmas,9.300.000
+11:01,2,Merry Christmas,7.180.000
+11:01,3,air drop,6.660.000
+11:01,4,Feliz Navidad,2.220.000
+11:01,5,Jesus,1.980.000
+11:01,6,Jesús,1.920.000
+11:01,7,Santa,1.400.000
+11:01,8,HikingBeckyDayFanCamping,1.259.999
+11:01,9,Rebecca Birthday Solo Stage,1.120.000
+11:01,10,Happy Holidays,1.060.000
+11:31,1,Merry Christmas,7.180.000
+11:31,2,Christmas,7.060.000
+11:31,3,air drop,6.660.000
+11:31,4,Feliz Navidad,2.220.000
+11:31,5,Jesús,1.980.000
+11:31,6,Jesus,1.960.000
+11:31,7,Santa,1.400.000
+11:31,8,HikingBeckyDayFanCamping,1.200.000
+11:31,9,Happy Holidays,1.060.000
+11:31,10,La Navidad,953.000
+12:01,1,Merry Christmas,6.180.000
+12:01,2,Christmas,5.520.000
+12:01,3,air drop,4.580.000
+12:01,4,Israel,2.400.000
+12:01,5,Feliz Navidad,2.260.000
+12:01,6,Jesús,2.040.000
+12:01,7,Jesus,1.960.000
+12:01,8,Santa,1.440.000
+12:01,9,HikingBeckyDayFanCamping,1.200.000
+12:01,10,Happy Holidays,1.100.000
+12:31,1,Merry Christmas,4.080.000
+12:31,2,Christmas,3.800.000
+12:31,3,air drop,2.940.000
+12:31,4,Israel,2.400.000
+12:31,5,Feliz Navidad,2.260.000
+12:31,6,Jesús,2.040.000
+12:31,7,Jesus,1.960.000
+12:31,8,Santa,1.440.000
+12:31,9,HikingBeckyDayFanCamping,1.200.000
+12:31,10,Happy Holidays,1.100.000
+13:01,1,Christmas,4.300.000
+13:01,2,Merry Christmas,3.120.000
+13:01,3,air drop,2.940.000
+13:01,4,Israel,2.400.000
+13:01,5,Feliz Navidad,2.260.000
+13:01,6,Jesus,2.100.000
+13:01,7,Jesús,2.040.000
+13:01,8,Santa,1.480.000
+13:01,9,Happy Holidays,1.140.000
+13:01,10,HikingBeckyDayFanCamping,1.040.000
+13:31,1,Christmas,4.880.000
+13:31,2,Merry Christmas,2.700.000
+13:31,3,air drop,2.560.000
+13:31,4,Israel,2.400.000
+13:31,5,Feliz Navidad,2.260.000
+13:31,6,Jesús,2.100.000
+13:31,7,Jesus,1.980.000
+13:31,8,Santa,1.480.000
+13:31,9,Happy Holidays,1.140.000
+13:31,10,HikingBeckyDayFanCamping,1.040.000
+14:01,1,Christmas,4.940.000
+14:01,2,Merry Christmas,3.260.000
+14:01,3,air drop,2.620.000
+14:01,4,Feliz Navidad,2.320.000
+14:01,5,Jesus,2.180.000
+14:01,6,Jesús,2.100.000
+14:01,7,Santa,1.480.000
+14:01,8,가요대전,1.240.000
+14:01,9,Happy Holidays,1.140.000
+14:01,10,La Navidad,977.000
+14:31,1,Christmas,4.940.000
+14:31,2,Merry Christmas,3.620.000
+14:31,3,air drop,2.620.000
+14:31,4,Feliz Navidad,2.320.000
+14:31,5,Jesús,2.180.000
+14:31,6,Jesus,2.160.000
+14:31,7,Santa,1.500.000
+14:31,8,가요대전,1.240.000
+14:31,9,Happy Holidays,1.160.000
+14:31,10,La Navidad,977.000
+15:01,1,Christmas,4.940.000
+15:01,2,Merry Christmas,3.620.000
+15:01,3,air drop,2.620.000
+15:01,4,Feliz Navidad,2.340.000
+15:01,5,Jesús,2.180.000
+15:01,6,Jesus,2.160.000
+15:01,7,가요대전,1.700.000
+15:01,8,Santa,1.580.000
+15:01,9,Happy Holidays,1.240.000
+15:01,10,Palestine,995.000
+15:31,1,Christmas,4.940.000
+15:31,2,Merry Christmas,3.620.000
+15:31,3,air drop,2.620.000
+15:31,4,Israel,2.360.000
+15:31,5,Feliz Navidad,2.340.000
+15:31,6,Jesús,2.280.000
+15:31,7,Jesus,2.260.000
+15:31,8,가요대전,1.819.999
+15:31,9,Santa,1.580.000
+15:31,10,Happy Holidays,1.240.000
+16:01,1,Christmas,4.740.000
+16:01,2,Merry Christmas,3.639.999
+16:01,3,Air Drop,2.780.000
+16:01,4,Feliz Navidad,2.380.000
+16:01,5,Jesus,2.360.000
+16:01,6,Jesús,2.280.000
+16:01,7,가요대전,1.859.999
+16:01,8,Santa,1.640.000
+16:01,9,Happy Holidays,1.319.999
+16:01,10,Palestine,1.100.000
+16:31,1,Christmas,4.740.000
+16:31,2,Merry Christmas,3.840.000
+16:31,3,Air Drop,2.780.000
+16:31,4,Jesús,2.380.000
+16:31,5,Jesus,2.360.000
+16:31,6,Feliz Navidad,2.340.000
+16:31,7,가요대전,1.960.000
+16:31,8,Santa,1.640.000
+16:31,9,Happy Holidays,1.319.999
+16:31,10,Palestine,1.120.000
+17:01,1,Christmas,4.680.000
+17:01,2,Merry Christmas,3.840.000
+17:01,3,Air Drop,2.780.000
+17:01,4,Jesús,2.480.000
+17:01,5,Feliz Navidad,2.420.000
+17:01,6,Jesus,2.360.000
+17:01,7,가요대전,2.100.000
+17:01,8,Santa,1.700.000
+17:01,9,Happy Holidays,1.359.999
+17:01,10,Palestine,1.200.000
+17:31,1,Christmas,4.660.000
+17:31,2,Merry Christmas,3.840.000
+17:31,3,Air Drop,2.780.000
+17:31,4,Jesús,2.480.000
+17:31,5,Jesus,2.460.000
+17:31,6,Feliz Navidad,2.420.000
+17:31,7,가요대전,2.200.000
+17:31,8,Santa,1.700.000
+17:31,9,Happy Holidays,1.359.999
+17:31,10,Palestine,1.200.000
+18:01,1,Christmas,4.820.000
+18:01,2,Merry Christmas,3.840.000
+18:01,3,Jesus,2.540.000
+18:01,4,Jesús,2.480.000
+18:01,5,Feliz Navidad,2.440.000
+18:01,6,가요대전,2.100.000
+18:01,7,Santa,1.740.000
+18:01,8,Happy Holidays,1.380.000
+18:01,9,Palestine,1.200.000
+18:01,10,La Navidad,1.020.000
+18:31,1,Christmas,6.740.000
+18:31,2,Merry Christmas,3.700.000
+18:31,3,Jesús,2.540.000
+18:31,4,Jesus,2.520.000
+18:31,5,Feliz Navidad,2.440.000
+18:31,6,가요대전,2.100.000
+18:31,7,Santa,1.740.000
+18:31,8,Happy Holidays,1.380.000
+18:31,9,Palestine,1.240.000
+18:31,10,La Navidad,1.020.000
+19:01,1,Christmas,7.279.999
+19:01,2,Merry Christmas,6.140.000
+19:01,3,Jesus,2.580.000
+19:01,4,Jesús,2.540.000
+19:01,5,Feliz Navidad,2.440.000
+19:01,6,가요대전,1.859.999
+19:01,7,Santa,1.779.999
+19:01,8,Happy Holidays,1.400.000
+19:01,9,Palestine,1.240.000
+19:01,10,La Navidad,1.040.000
+19:31,1,Christmas,7.279.999
+19:31,2,Merry Christmas,6.140.000
+19:31,3,Jesús,2.580.000
+19:31,4,Jesus,2.560.000
+19:31,5,Feliz Navidad,2.440.000
+19:31,6,가요대전,2.020.000
+19:31,7,Santa,1.779.999
+19:31,8,Happy Holidays,1.400.000
+19:31,9,Palestine,1.259.999
+19:31,10,LINEMANxENGFA,1.040.000
+20:01,1,Christmas,7.279.999
+20:01,2,Merry Christmas,6.740.000
+20:01,3,Jesus,2.620.000
+20:01,4,Jesús,2.600.000
+20:01,5,가요대전,2.540.000
+20:01,6,Israel,2.440.000
+20:01,7,Feliz Navidad,2.380.000
+20:01,8,Santa,1.799.999
+20:01,9,Happy Holidays,1.420.000
+20:01,10,Palestine,1.319.999
+20:31,1,Christmas,7.279.999
+20:31,2,Merry Christmas,6.740.000
+20:31,3,가요대전,2.640.000
+20:31,4,Jesus,2.620.000
+20:31,5,Jesús,2.600.000
+20:31,6,Israel,2.440.000
+20:31,7,Feliz Navidad,2.380.000
+20:31,8,Air Drop,2.000.000
+20:31,9,Santa,1.799.999
+20:31,10,Happy Holidays,1.420.000
+21:01,1,Merry Christmas,6.740.000
+21:01,2,Christmas,6.680.000
+21:01,3,Air Drop,2.900.000
+21:01,4,가요대전,2.660.000
+21:01,5,Jesus,2.620.000
+21:01,6,Jesús,2.600.000
+21:01,7,Feliz Navidad,2.440.000
+21:01,8,Santa,1.839.999
+21:01,9,Happy Holidays,1.440.000
+21:01,10,Palestine,1.319.999
+21:31,1,Christmas,7.119.999
+21:31,2,Merry Christmas,6.740.000
+21:31,3,Air Drop,2.900.000
+21:31,4,가요대전,2.680.000
+21:31,5,Jesús,2.620.000
+21:31,6,Jesus,2.500.000
+21:31,7,Feliz Navidad,2.460.000
+21:31,8,Santa,1.839.999
+21:31,9,Happy Holidays,1.440.000
+21:31,10,Palestine,1.319.999
+22:01,1,Christmas,7.640.000
+22:01,2,Merry Christmas,5.699.999
+22:01,3,Air Drop,2.900.000
+22:01,4,가요대전,2.700.000
+22:01,5,Jesús,2.620.000
+22:01,6,Jesus,2.600.000
+22:01,7,Feliz Navidad,2.440.000
+22:01,8,Santa,1.839.999
+22:01,9,Happy Holidays,1.440.000
+22:01,10,Palestine,1.339.999
+22:31,1,Christmas,7.980.000
+22:31,2,Merry Christmas,5.699.999
+22:31,3,Air Drop,2.900.000
+22:31,4,가요대전,2.700.000
+22:31,5,Jesús,2.620.000
+22:31,6,Jesus,2.560.000
+22:31,7,Feliz Navidad,2.440.000
+22:31,8,Santa,1.839.999
+22:31,9,Happy Holidays,1.440.000
+22:31,10,Palestine,1.339.999
+23:01,1,Christmas,7.980.000
+23:01,2,Merry Christmas,6.560.000
+23:01,3,가요대전,2.720.000
+23:01,4,Israel,2.660.000
+23:01,5,Jesús,2.600.000
+23:01,6,Jesus,2.560.000
+23:01,7,Feliz Navidad,2.420.000
+23:01,8,Santa,1.839.999
+23:01,9,Happy Holidays,1.440.000
+23:01,10,Palestine,1.339.999
+23:31,1,Merry Christmas,8.300.000
+23:31,2,Christmas,7.980.000
+23:31,3,가요대전,2.740.000
+23:31,4,Israel,2.660.000
+23:31,5,Jesús,2.600.000
+23:31,6,Jesus,2.560.000
+23:31,7,Feliz Navidad,2.420.000
+23:31,8,Santa,1.839.999
+23:31,9,Happy Holidays,1.440.000
+23:31,10,Palestine,1.339.999

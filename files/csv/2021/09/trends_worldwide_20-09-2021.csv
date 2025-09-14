@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Messi,347.336
+00:10,2,ItaliaSlovenia,53.903
+00:10,3,Pochettino,72.579
+00:10,4,Cruzeiro,60.075
+00:10,5,PSGOL,96.351
+00:10,6,Vinicius,67.618
+00:10,7,Benzema,75.022
+00:10,8,SecretNoche2,21.508
+00:10,9,Triell,86.579
+00:10,10,Kyler Murray,11.316
+00:41,1,Messi,361.712
+00:41,2,Pochettino,76.937
+00:41,3,ItaliaSlovenia,56.316
+00:41,4,Cowboys,46.263
+00:41,5,Cruzeiro,62.746
+00:41,6,PSGOL,98.510
+00:41,7,SecretNoche2,25.970
+00:41,8,Chargers,32.006
+00:41,9,Vinicius,71.120
+00:41,10,Kyler Murray,12.738
+01:10,1,Messi,369.030
+01:10,2,Cowboys,53.449
+01:10,3,Chargers,41.468
+01:10,4,Pochettino,79.939
+01:10,5,ItaliaSlovenia,57.309
+01:10,6,Gabby,146.518
+01:10,7,Kyler Murray,15.437
+01:10,8,Falcons,25.246
+01:10,9,Cruzeiro,63.691
+01:10,10,SecretNoche2,29.078
+01:41,1,Cowboys,76.127
+01:41,2,Chargers,54.026
+01:41,3,Vikings,55.564
+01:41,4,Emmys,54.311
+01:41,5,Messi,377.565
+01:41,6,Gabby,176.733
+01:41,7,Corinthians,84.224
+01:41,8,Derrick Henry,
+01:41,9,Falcons,27.580
+01:41,10,Pochettino,82.431
+02:10,1,Cowboys,80.947
+02:10,2,Emmys2021,34.370
+02:10,3,Chargers,56.871
+02:10,4,Vikings,59.764
+02:10,5,Vitinho,
+02:10,6,Titans,68.020
+02:10,7,Seahawks,48.220
+02:10,8,Messi,381.068
+02:10,9,Derrick Henry,10.137
+02:10,10,Gabby,197.767
+02:41,1,Emmys2021,61.766
+02:41,2,Borja,23.560
+02:41,3,Vitinho,17.447
+02:41,4,Cowboys,84.244
+02:41,5,Gabigol,23.155
+02:41,6,Ted Lasso,21.756
+02:41,7,Chargers,58.654
+02:41,8,Vikings,63.474
+02:41,9,Evan Peters,16.898
+02:41,10,Rodrigo Caio,
+03:10,1,Emmys,169.800
+03:10,2,Lamar,44.290
+03:10,3,Vitinho,21.278
+03:10,4,Borja,25.057
+03:10,5,Cowboys,85.928
+03:10,6,Gabigol,26.140
+03:10,7,The Crown,48.770
+03:10,8,Renato,32.042
+03:10,9,Ted Lasso,24.251
+03:10,10,Mahomes,21.860
+03:41,1,Flamengo,194.007
+03:41,2,Emmys,202.186
+03:41,3,Renato,52.101
+03:41,4,Borja,33.729
+03:41,5,Lamar,47.767
+03:41,6,Gabigol,31.673
+03:41,7,Vitinho,23.399
+03:41,8,GotARMYRightBehindYou,23.716
+03:41,9,btsdivine,28.581
+03:41,10,btsdiscography,28.337
+04:10,1,Flamengo,214.378
+04:10,2,Emmys,235.538
+04:10,3,GotARMYRightBehindYou,60.284
+04:10,4,Renato,60.314
+04:10,5,Borja,38.182
+04:10,6,Gabigol,37.575
+04:10,7,Lamar,49.212
+04:10,8,Vitinho,25.481
+04:10,9,btsdivine,38.954
+04:10,10,btsdiamond,40.636
+04:41,1,Emmys,292.133
+04:41,2,Flamengo,223.206
+04:41,3,GotARMYRightBehindYou,90.148
+04:41,4,Renato,64.513
+04:41,5,Lamar,56.936
+04:41,6,Borja,40.136
+04:41,7,Kelce,17.702
+04:41,8,Ravens,65.587
+04:41,9,Gabigol,39.902
+04:41,10,btsdiamond,45.940
+05:10,1,Emmys,334.469
+05:10,2,GotARMYRightBehindYou,119.471
+05:10,3,Flamengo,219.229
+05:10,4,Lamar,66.320
+05:10,5,Ravens,75.048
+05:10,6,Renato,65.583
+05:10,7,BakeOffArgentina,16.362
+05:10,8,The Crown,69.699
+05:10,9,VoleiNoSporTV,42.286
+05:10,10,Borja,40.944
+05:41,1,Lamar,120.927
+05:41,2,Emmys,368.348
+05:41,3,Ravens,126.385
+05:41,4,GotARMYRightBehindYou,154.756
+05:41,5,Chiefs,111.310
+05:41,6,Flamengo,221.912
+05:41,7,Mahomes,52.507
+05:41,8,The Crown,79.748
+05:41,9,MasterChefColombia,18.866
+05:41,10,KCvsBAL,21.365
+06:10,1,Lamar,135.246
+06:10,2,Emmys,383.209
+06:10,3,Ravens,141.715
+06:10,4,GotARMYRightBehindYou,175.908
+06:10,5,Chiefs,119.941
+06:10,6,Flamengo,221.108
+06:10,7,Mahomes,57.377
+06:10,8,The Crown,82.747
+06:10,9,MasterChefColombia,20.001
+06:10,10,KCvsBAL,22.129
+06:41,1,Lamar,141.934
+06:41,2,Emmys,396.265
+06:41,3,GotARMYRightBehindYou,191.929
+06:41,4,Ravens,148.615
+06:41,5,Chiefs,124.280
+06:41,6,Flamengo,222.421
+06:41,7,Mahomes,59.644
+06:41,8,The Crown,85.378
+06:41,9,MasterChefColombia,20.340
+06:41,10,Ted Lasso,50.425
+07:10,1,GotARMYRightBehindYou,203.637
+07:10,2,Lamar,145.324
+07:10,3,Emmys,405.478
+07:10,4,Ravens,152.208
+07:10,5,Chiefs,125.776
+07:10,6,Mahomes,61.025
+07:10,7,Flamengo,221.744
+07:10,8,The Crown,86.760
+07:10,9,人生で一番遊んだゲーム,
+07:10,10,MasterChefColombia,20.523
+07:41,1,GotARMYRightBehindYou,214.412
+07:41,2,Lamar,147.931
+07:41,3,Emmys,414.410
+07:41,4,Ravens,155.007
+07:41,5,Chiefs,127.844
+07:41,6,人生で一番遊んだゲーム,10.563
+07:41,7,The Crown,88.690
+07:41,8,Mahomes,61.973
+07:41,9,pazartesi,
+07:41,10,Flamengo,222.079
+08:10,1,GotARMYRightBehindYou,224.295
+08:10,2,Emmys,421.254
+08:10,3,Lamar,149.286
+08:10,4,Ravens,156.636
+08:10,5,Chiefs,128.107
+08:10,6,人生で一番遊んだゲーム,11.669
+08:10,7,pazartesi,
+08:10,8,MondayMotivation,32.777
+08:10,9,The Crown,89.658
+08:10,10,敬老の日,97.496
+08:41,1,GotARMYRightBehindYou,235.177
+08:41,2,Emmys,427.656
+08:41,3,Lamar,150.591
+08:41,4,Ravens,158.009
+08:41,5,pazartesi,
+08:41,6,人生で一番遊んだゲーム,12.578
+08:41,7,握力から20を引いた数だけ文字が打てる,
+08:41,8,Chiefs,129.264
+08:41,9,敬老の日,100.833
+08:41,10,TwitırKuşum Açıldı,
+09:10,1,アサマノイタズラ,
+09:10,2,GotARMYRightBehindYou,243.240
+09:10,3,pazartesi,
+09:10,4,Emmys,432.926
+09:10,5,人生で一番遊んだゲーム,13.423
+09:10,6,MondayMotivation,39.254
+09:10,7,Lamar,151.295
+09:10,8,セントライト記念,20.285
+09:10,9,タイトルホルダー,12.362
+09:10,10,Ravens,158.897
+09:41,1,アサマノイタズラ,12.422
+09:41,2,GotARMYRightBehindYou,250.861
+09:41,3,オンラインパパラッチ,
+09:41,4,MondayMotivation,42.279
+09:41,5,横浜優勝,
+09:41,6,pazartesi,
+09:41,7,人生で一番遊んだゲーム,14.452
+09:41,8,ロメロ完封,
+09:41,9,CHANYEOL,73.381
+09:41,10,セントライト記念,21.617
+10:10,1,CHANYEOL,111.544
+10:10,2,オンラインパパラッチ,17.239
+10:10,3,アサマノイタズラ,13.700
+10:10,4,GotARMYRightBehindYou,257.158
+10:10,5,横浜優勝,
+10:10,6,MondayMotivation,45.038
+10:10,7,pazartesi,
+10:10,8,人生で一番遊んだゲーム,15.301
+10:10,9,ロメロ完封,
+10:10,10,佐伯かよ,
+10:41,1,CHANYEOL,159.921
+10:41,2,オンラインパパラッチ,24.142
+10:41,3,アサマノイタズラ,14.637
+10:41,4,MondayMotivation,48.048
+10:41,5,GotARMYRightBehindYou,263.224
+10:41,6,YatacakYerinizYok,16.963
+10:41,7,横浜優勝,
+10:41,8,佐伯かよ,10.749
+10:41,9,握力から20を引いた数だけ文字が打てる,
+10:41,10,まりほー,
+11:10,1,CHANYEOL,194.653
+11:10,2,オンラインパパラッチ,22.017
+11:10,3,MondayMotivation,50.908
+11:10,4,YatacakYerinizYok,20.364
+11:10,5,佐伯かよ,12.893
+11:10,6,TXTxGreeeeN,19.141
+11:10,7,TXT_in_らせんの迷宮,19.024
+11:10,8,TXT 1ST JPN DRAMA OP,19.538
+11:10,9,アサマノイタズラ,15.241
+11:10,10,横浜優勝,
+11:41,1,CHANYEOL,218.587
+11:41,2,超絶Apex,
+11:41,3,YatacakYerinizYok,24.103
+11:41,4,佐伯かよ,14.869
+11:41,5,MondayMotivation,53.573
+11:41,6,TXT_in_らせんの迷宮,24.200
+11:41,7,TXTxGreeeeN,24.301
+11:41,8,TXT 1ST JPN DRAMA OP,24.791
+11:41,9,アサマノイタズラ,15.891
+11:41,10,横浜優勝,
+12:10,1,一番遠い親戚さん,12.557
+12:10,2,Chanyeol,234.125
+12:10,3,超絶Apex,
+12:10,4,佐伯かよ,17.053
+12:10,5,YatacakYerinizYok,27.434
+12:10,6,MondayMotivation,55.788
+12:10,7,推しがあなたを褒めてくれる,
+12:10,8,Başınız,
+12:10,9,TXT 1ST JPN DRAMA OP,27.050
+12:10,10,中秋の名月,39.358
+12:41,1,一番遠い親戚さん,22.859
+12:41,2,ワルイコあつまれ,29.116
+12:41,3,ぱかライブTV,18.511
+12:41,4,Başınız,
+12:41,5,中秋の名月,44.515
+12:41,6,ToTheMaxPartyXBright,81.003
+12:41,7,京本大我,17.365
+12:41,8,佐伯かよ,18.886
+12:41,9,Chanyeol,247.803
+12:41,10,TXT 1ST JPN DRAMA OP,28.226
+13:10,1,ワルイコあつまれ,46.164
+13:10,2,一番遠い親戚さん,27.866
+13:10,3,ぱかライブTV,25.833
+13:10,4,冒険少年,36.682
+13:10,5,中秋の名月,43.892
+13:10,6,Başınız,
+13:10,7,超絶Apex,
+13:10,8,佐伯かよ,20.383
+13:10,9,Chanyeol,259.228
+13:10,10,キタサン3凸,
+13:41,1,ワルイコあつまれ,52.781
+13:41,2,一番遠い親戚さん,31.833
+13:41,3,UNGA,166.409
+13:41,4,GotARMYRightBehindYou,383.479
+13:41,5,重大告知をするのは私です,12.832
+13:41,6,中秋の名月,48.787
+13:41,7,Başınız,
+13:41,8,キタサン3凸,
+13:41,9,佐伯かよ,21.716
+13:41,10,Nation's Treasure Jungkook,26.692
+14:10,1,BTSatUNGA,334.489
+14:10,2,OurPrideBTS,326.416
+14:10,3,YouthToday,539.693
+14:10,4,YouthStories,308.791
+14:10,5,GotARMYRightBehindYou,644.428
+14:10,6,中秋の名月,49.492
+14:10,7,Başınız,
+14:10,8,Nation's Treasure Jungkook,42.405
+14:10,9,キタサン3凸,10.196
+14:10,10,佐伯かよ,22.812
+14:41,1,BTSatUNGA,490.302
+14:41,2,OurPrideBTS,423.554
+14:41,3,YouthToday,657.184
+14:41,4,YouthStories,371.242
+14:41,5,GotARMYRightBehindYou,729.667
+14:41,6,中秋の名月,53.858
+14:41,7,Nation's Treasure Jungkook,61.222
+14:41,8,Başınız,10.387
+14:41,9,President Moon,35.427
+14:41,10,OUR PRIDE JIMIN,19.556
+15:10,1,BTSatUNGA,922.308
+15:10,2,OurPrideBTS,591.346
+15:10,3,YouthToday,1.032.263
+15:10,4,GotARMYRightBehindYou,849.702
+15:10,5,YouthStories,441.013
+15:10,6,Permission to Dance,276.535
+15:10,7,中秋の名月,54.699
+15:10,8,Nation's Treasure Jungkook,88.029
+15:10,9,SO PROUD OF YOU,226.573
+15:10,10,OUR PRIDE JIMIN,52.353
+15:41,1,BTSatUNGA,1.183.756
+15:41,2,OurPrideBTS,701.583
+15:41,3,YouthToday,1.392.415
+15:41,4,GotARMYRightBehindYou,907.722
+15:41,5,YouthStories,479.742
+15:41,6,Permission to Dance,355.954
+15:41,7,中秋の名月,58.654
+15:41,8,SO PROUD OF YOU,286.084
+15:41,9,OUR PRIDE JIMIN,76.517
+15:41,10,Nation's Treasure Jungkook,105.732
+16:10,1,BTSatUNGA,1.378.095
+16:10,2,OurPrideBTS,783.525
+16:10,3,YouthToday,1.565.267
+16:10,4,GotARMYRightBehindYou,941.342
+16:10,5,YouthStories,501.884
+16:10,6,Permission to Dance,427.277
+16:10,7,SO PROUD OF YOU,329.104
+16:10,8,中秋の名月,60.076
+16:10,9,OUR PRIDE JIMIN,94.029
+16:10,10,SEOKJIN,284.707
+16:41,1,BTSatUNGA,1.500.818
+16:41,2,OurPrideBTS,473.029
+16:41,3,YouthToday,1.647.367
+16:41,4,YouthStories,518.090
+16:41,5,GotARMYRightBehindYou,967.206
+16:41,6,Permission to Dance,499.996
+16:41,7,中秋の名月,63.365
+16:41,8,SO PROUD OF YOU,348.821
+16:41,9,OUR PRIDE JIMIN,105.184
+16:41,10,seokjin,313.562
+17:10,1,BTSatUNGA,1.570.240
+17:10,2,HappySunshineDae,256.789
+17:10,3,OurPrideBTS,868.338
+17:10,4,YouthToday,1.684.568
+17:10,5,YouthStories,529.590
+17:10,6,ATEEZ BB200 DEBUT,42.775
+17:10,7,ルビィちゃん,10.778
+17:10,8,Permission to Dance,533.759
+17:10,9,中秋の名月,64.609
+17:10,10,SO PROUD OF YOU,371.148
+17:41,1,BTSatUNGA,1.547.554
+17:41,2,HappySunshineDae,448.032
+17:41,3,OurPrideBTS,900.633
+17:41,4,HappyChenDay,461.926
+17:41,5,YouthToday,1.691.643
+17:41,6,ATEEZ BB200 DEBUT,69.699
+17:41,7,ルビィちゃん,22.386
+17:41,8,jongdae,103.346
+17:41,9,SO PROUD OF YOU,395.076
+17:41,10,SWIPE TO ITZY,28.392
+18:10,1,HappySunshineDae,544.862
+18:10,2,BTSatUNGA,1.628.961
+18:10,3,OurPrideBTS,911.261
+18:10,4,HappyChenDay,563.307
+18:10,5,ATEEZonBB200,97.075
+18:10,6,ATEEZ BB200 DEBUT,81.567
+18:10,7,Jongdae,128.514
+18:10,8,ルビィちゃん,26.544
+18:10,9,EngelliÖğrt PesEtmeyecek,
+18:10,10,천둥번개,
+18:41,1,HappySunshineDae,597.985
+18:41,2,BTSatUNGA,1.708.520
+18:41,3,HappyChenDay,615.727
+18:41,4,OurPrideBTS,941.439
+18:41,5,ATEEZonBB200,108.603
+18:41,6,ATEEZ BB200 DEBUT,89.860
+18:41,7,Jongdae,144.248
+18:41,8,ルビィちゃん,28.714
+18:41,9,EngelliÖğrt PesEtmeyecek,
+18:41,10,Owen Hart,
+19:10,1,HappySunshineDae,623.844
+19:10,2,BTSatUNGA,1.727.592
+19:10,3,CuartoInformeEdomex,
+19:10,4,4toInformeEdomex,93.431
+19:10,5,HappyChenDay,643.945
+19:10,6,ATEEZ BB200 DEBUT,94.220
+19:10,7,Jongdae,152.429
+19:10,8,ルビィちゃん,30.584
+19:10,9,苦手科目,
+19:10,10,Owen Hart,10.016
+19:41,1,HappySunshineDae,641.527
+19:41,2,4toInformeEdomex,105.889
+19:41,3,BTSatUNGA,1.753.864
+19:41,4,CuartoInformeEdomex,
+19:41,5,iOS15,13.450
+19:41,6,ATEEZ BB200 DEBUT,97.490
+19:41,7,Jongdae,158.389
+19:41,8,苦手科目,
+19:41,9,Owen Hart,11.384
+19:41,10,Recep Tayyip Erdoğan,18.645
+20:10,1,HappySunshineDae,653.488
+20:10,2,4toInformeEdomex,109.027
+20:10,3,iOS15,16.555
+20:10,4,CuartoInformeEdomex,
+20:10,5,BTSatUNGA,1.726.017
+20:10,6,ATEEZ BB200 DEBUT,99.593
+20:10,7,苦手科目,
+20:10,8,Recep Tayyip Erdoğan,22.772
+20:10,9,Jongdae,161.810
+20:10,10,Owen Hart,12.630
+20:41,1,HappySunshineDae,661.868
+20:41,2,4toInformeEdomex,115.434
+20:41,3,iOS15,21.454
+20:41,4,CuartoInformeEdomex,
+20:41,5,KenetlenGalatasaraylı,18.320
+20:41,6,Weigl,
+20:41,7,BILLBOARD HOT DEBUT LISA,
+20:41,8,Recep Tayyip Erdoğan,27.553
+20:41,9,ATEEZ BB200 DEBUT,101.298
+20:41,10,Owen Hart,13.922
+21:10,1,iOS15,26.127
+21:10,2,4toInformeEdomex,114.703
+21:10,3,HappySunshineDae,666.845
+21:10,4,KenetlenGalatasaraylı,24.268
+21:10,5,Emmanuel,49.544
+21:10,6,CuartoInformeEdomex,
+21:10,7,BILLBOARD HOT DEBUT LISA,20.522
+21:10,8,Granada,24.090
+21:10,9,Weigl,
+21:10,10,Recep Tayyip Erdoğan,30.208
+21:41,1,iOS15,30.712
+21:41,2,KenetlenGalatasaraylı,29.699
+21:41,3,Marta,24.255
+21:41,4,4toInformeEdomex,119.281
+21:41,5,HappySunshineDae,671.780
+21:41,6,Emmanuel,55.751
+21:41,7,ARMYvaccinatedtoo,10.166
+21:41,8,Granada,30.280
+21:41,9,BILLBOARD HOT DEBUT LISA,32.945
+21:41,10,Sergi Roberto,
+22:10,1,Marta,26.976
+22:10,2,iOS15,34.084
+22:10,3,KenetlenGalatasaraylı,32.751
+22:10,4,4toInformeEdomex,121.175
+22:10,5,Pabllo,88.543
+22:10,6,Granada,35.198
+22:10,7,Koeman,32.364
+22:10,8,ARMYvaccinatedtoo,11.750
+22:10,9,Emmanuel,56.254
+22:10,10,HappySunshineDae,675.902
+22:41,1,Koeman,39.707
+22:41,2,iOS15,36.969
+22:41,3,Pabllo,104.860
+22:41,4,4toInformeEdomex,128.453
+22:41,5,Marta,29.583
+22:41,6,KenetlenGalatasaraylı,34.857
+22:41,7,Granada,39.265
+22:41,8,ARMYvaccinatedtoo,13.526
+22:41,9,KalpKrizleriSalgını,23.360
+22:41,10,Emmanuel,58.859
+23:10,1,Araujo,50.351
+23:10,2,Koeman,62.375
+23:10,3,Granada,51.919
+23:10,4,4toInformeEdomex,134.075
+23:10,5,Piqué,32.327
+23:10,6,iOS 15,47.751
+23:10,7,gfvip,44.494
+23:10,8,Pabllo,110.590
+23:10,9,KenetlenGalatasaraylı,36.168
+23:10,10,Luuk de Jong,13.182
+23:41,1,Araujo,59.559
+23:41,2,Koeman,77.536
+23:41,3,Granada,59.613
+23:41,4,MCCelebrity,
+23:41,5,gfvip,55.204
+23:41,6,4toInformeEdomex,141.954
+23:41,7,iOS 15,50.570
+23:41,8,Piqué,37.898
+23:41,9,MAFSUK,
+23:41,10,Pabllo,115.693

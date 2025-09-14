@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Everton,156.511
+00:10,2,كاس_خادم_الحرمين_الشريفين,85.931
+00:10,3,الهلال_الفيحاء,212.283
+00:10,4,EVECRY,27.018
+00:10,5,Rihanna,176.530
+00:10,6,HarrysHouse,77.425
+00:10,7,Burnley,35.590
+00:10,8,SVGala5,11.603
+00:10,9,Vangelis,90.277
+00:10,10,Pulisic,15.277
+00:40,1,Everton,167.016
+00:40,2,كاس_خادم_الحرمين_الشريفين,95.891
+00:40,3,الهلال_الفيحاء,220.702
+00:40,4,HarrysHouse,93.843
+00:40,5,Rihanna,185.355
+00:40,6,EVECRY,27.839
+00:40,7,bbcqt,
+00:40,8,Matilda,28.723
+00:40,9,Burnley,36.091
+00:40,10,Dark MAGA,17.678
+01:10,1,HarrysHouse,106.956
+01:10,2,Everton,174.747
+01:10,3,كاس_خادم_الحرمين_الشريفين,100.245
+01:10,4,الهلال_الفيحاء,221.139
+01:10,5,Matilda,34.574
+01:10,6,SVGala5,16.178
+01:10,7,Rihanna,193.069
+01:10,8,Dark MAGA,20.729
+01:10,9,bbcqt,
+01:10,10,Vangelis,98.337
+01:40,1,HarrysHouse,115.848
+01:40,2,Everton,181.226
+01:40,3,كاس_خادم_الحرمين_الشريفين,104.317
+01:40,4,Matilda,40.643
+01:40,5,الهلال_الفيحاء,225.679
+01:40,6,Rihanna,201.146
+01:40,7,SVGala5,16.874
+01:40,8,Dark MAGA,23.281
+01:40,9,tini,23.655
+01:40,10,Ademir,
+02:10,1,HarrysHouse,121.209
+02:10,2,Everton,185.127
+02:10,3,matilda,44.086
+02:10,4,كاس_خادم_الحرمين_الشريفين,106.942
+02:10,5,الهلال_الفيحاء,226.576
+02:10,6,Savinho,
+02:10,7,Tini,25.047
+02:10,8,Rihanna,207.343
+02:10,9,Dark MAGA,25.716
+02:10,10,SVGala5,17.141
+02:40,1,harryshouse,126.467
+02:40,2,Matilda,46.413
+02:40,3,Everton,188.474
+02:40,4,Tini,27.760
+02:40,5,كاس_خادم_الحرمين_الشريفين,108.723
+02:40,6,Savinho,
+02:40,7,الهلال_الفيحاء,229.213
+02:40,8,Rihanna,214.566
+02:40,9,あさイチ,
+02:40,10,Dark MAGA,28.177
+03:10,1,harryshouse,130.413
+03:10,2,Nestor,17.905
+03:10,3,Matilda,47.591
+03:10,4,Tini,28.864
+03:10,5,VamosColoColo,
+03:10,6,Everton,191.578
+03:10,7,Station19,20.593
+03:10,8,Irma,29.353
+03:10,9,Herro,
+03:10,10,あさイチ,
+03:40,1,Pantanal,45.483
+03:40,2,River,113.750
+03:40,3,VamosColoColo,
+03:40,4,harryshouse,133.807
+03:40,5,Irma,34.111
+03:40,6,Nestor,19.136
+03:40,7,Tini,30.510
+03:40,8,Matilda,48.822
+03:40,9,Herro,
+03:40,10,Bruaca,
+04:10,1,River,120.609
+04:10,2,VamosColoColo,
+04:10,3,Pantanal,46.604
+04:10,4,HarrysHouse,136.581
+04:10,5,GoBolts,
+04:10,6,Irma,33.526
+04:10,7,Tini,31.589
+04:10,8,Nestor,18.295
+04:10,9,520SayLoveToGulf,33.357
+04:10,10,Raniel,
+04:40,1,River,127.554
+04:40,2,Marcus Smart,14.541
+04:40,3,NoLimite,
+04:40,4,VamosColoColo,
+04:40,5,Pantanal,48.544
+04:40,6,EliminaçãoPowerCouple,12.316
+04:40,7,HarrysHouse,139.570
+04:40,8,Trevor Story,
+04:40,9,Zé Ricardo,
+04:40,10,Tini,32.988
+05:10,1,NoLimite,13.295
+05:10,2,Marcus Smart,21.832
+05:10,3,EliminaçãoPowerCouple,28.908
+05:10,4,River,126.514
+05:10,5,HarrysHouse,147.207
+05:10,6,Trevor Story,
+05:10,7,VamosColoColo,
+05:10,8,Heat,125.272
+05:10,9,Pantanal,47.608
+05:10,10,Zé Ricardo,
+05:40,1,matilda,71.544
+05:40,2,HarrysHouse,162.416
+05:40,3,NoLimite,13.995
+05:40,4,Marcus Smart,24.963
+05:40,5,LITTLE FREAK,38.619
+05:40,6,EliminaçãoPowerCouple,32.659
+05:40,7,River,130.237
+05:40,8,harry styles,142.731
+05:40,9,Trevor Story,
+05:40,10,Heat,129.797
+06:10,1,HarrysHouse,181.472
+06:10,2,matilda,81.914
+06:10,3,LOVE OF MY LIFE,57.544
+06:10,4,little freak,43.224
+06:10,5,Marcus Smart,26.446
+06:10,6,NoLimite,14.255
+06:10,7,EliminaçãoPowerCouple,33.794
+06:10,8,River,129.533
+06:10,9,缪isLuvFiveTwoO,123.891
+06:10,10,キンキ25円でCM出演,18.476
+06:40,1,matilda,108.214
+06:40,2,HarrysHouse,219.952
+06:40,3,LITTLE FREAK,63.376
+06:40,4,love of my life,63.523
+06:40,5,Marcus Smart,27.323
+06:40,6,NoLimite,14.370
+06:40,7,EliminaçãoPowerCouple,34.542
+06:40,8,Late Night Talking,47.301
+06:40,9,River,131.661
+06:40,10,MUSIC FOR A SUSHI RESTAURANT,35.912
+07:10,1,Matilda,147.617
+07:10,2,HarrysHouse,246.879
+07:10,3,LITTLE FREAK,72.664
+07:10,4,LOVE OF MY LIFE,73.009
+07:10,5,Late Night Talking,51.690
+07:10,6,Marcus Smart,27.891
+07:10,7,NoLimite,14.368
+07:10,8,ShowtimeVeryFunny,
+07:10,9,MUSIC FOR A SUSHI RESTAURANT,40.663
+07:10,10,EliminaçãoPowerCouple,34.887
+07:40,1,Matilda,171.394
+07:40,2,HarrysHouse,272.924
+07:40,3,LOVE OF MY LIFE,91.036
+07:40,4,Little Freak,81.161
+07:40,5,Late Night Talking,55.770
+07:40,6,ShowtimeVeryFunny,
+07:40,7,Music For a Sushi Restaurant,44.670
+07:40,8,Marcus Smart,28.331
+07:40,9,nolimite,14.480
+07:40,10,Keep Driving,41.134
+08:10,1,Matilda,187.708
+08:10,2,HarrysHouse,287.630
+08:10,3,LOVE OF MY LIFE,97.177
+08:10,4,KingandPrinceガキキタイ2,
+08:10,5,BreakTheCode,20.367
+08:10,6,Little Freak,86.944
+08:10,7,BLCKforGOLD,19.561
+08:10,8,Late Night Talking,58.078
+08:10,9,ShowtimeVeryFunny,
+08:10,10,Music For a Sushi Restaurant,47.134
+08:40,1,Matilda,198.429
+08:40,2,HarrysHouse,303.973
+08:40,3,KingandPrinceガキキタイ2,
+08:40,4,BreakTheCode,24.463
+08:40,5,LOVE OF MY LIFE,100.862
+08:40,6,Little Freak,90.474
+08:40,7,BLCKforGOLD,23.124
+08:40,8,Late Night Talking,59.610
+08:40,9,HayırlıCumalar,
+08:40,10,Music for a Sushi Restaurant,48.716
+09:10,1,HarrysHouse,315.387
+09:10,2,Matilda,205.772
+09:10,3,KingandPrinceガキキタイ2,10.596
+09:10,4,BreakTheCode,25.412
+09:10,5,LOVE OF MY LIFE,102.815
+09:10,6,Little Freak,93.091
+09:10,7,BLCKforGOLD,23.907
+09:10,8,HayırlıCumalar,10.041
+09:10,9,Late Night Talking,60.522
+09:10,10,Music for a Sushi Restaurant,49.729
+09:40,1,HarrysHouse,323.309
+09:40,2,Matilda,211.405
+09:40,3,KingandPrinceガキキタイ2,12.750
+09:40,4,JuackeandoFinetwork22,
+09:40,5,BreakTheCode,26.271
+09:40,6,HayırlıCumalar,11.733
+09:40,7,LOVE OF MY LIFE,104.713
+09:40,8,Little Freak,95.237
+09:40,9,GROOVY MC SUNGHOON,28.294
+09:40,10,Vieira,41.931
+10:10,1,HarrysHouse,328.872
+10:10,2,Matilda,215.531
+10:10,3,KingandPrinceガキキタイ2,14.658
+10:10,4,JuackeandoFinetwork22,
+10:10,5,WorldBeeDay,
+10:10,6,HayırlıCumalar,13.263
+10:10,7,Vieira,44.179
+10:10,8,GROOVY MC SUNGHOON,31.938
+10:10,9,Little Freak,97.009
+10:10,10,TXT AT MUSIC BANK,
+10:40,1,HarrysHouse,334.034
+10:40,2,KingandPrinceガキキタイ2,16.352
+10:40,3,Matilda,219.406
+10:40,4,WorldBeeDay,11.002
+10:40,5,JuackeandoFinetwork22,
+10:40,6,TXT AT MUSIC BANK,
+10:40,7,Vieira,46.601
+10:40,8,キールズUFCで触れたくなる肌,
+10:40,9,STOP USING SIDHARTH SHUKLA,23.670
+10:40,10,GROOVY MC SUNGHOON,34.827
+11:10,1,KingandPrinceガキキタイ2,18.065
+11:10,2,HarrysHouse,337.960
+11:10,3,Matilda,222.916
+11:10,4,WorldBeeDay,12.470
+11:10,5,G2WIN,
+11:10,6,Harry Styles,256.155
+11:10,7,キールズUFCで触れたくなる肌,
+11:10,8,TXT AT MUSIC BANK,10.607
+11:10,9,Vieira,48.768
+11:10,10,STOP USING SIDHARTH SHUKLA,45.160
+11:40,1,GBGB1stWin,41.689
+11:40,2,KingandPrinceガキキタイ2,19.894
+11:40,3,TXT14thWin,25.931
+11:40,4,짱바투_1위_부셔부셔놔,
+11:40,5,HarrysHouse,344.144
+11:40,6,Matilda,227.075
+11:40,7,GOOD BOY GONE BAD 1ST WIN,21.375
+11:40,8,TXT AT MUSIC BANK,16.102
+11:40,9,STOP USING SIDHARTH SHUKLA,63.419
+11:40,10,Vieira,50.976
+12:10,1,GBGB1stWin,61.728
+12:10,2,TXT14thWin,35.277
+12:10,3,KingandPrinceガキキタイ2,21.525
+12:10,4,짱바투_1위_부셔부셔놔,16.329
+12:10,5,少プレ,11.118
+12:10,6,GOOD BOY GONE BAD 1ST WIN,29.053
+12:10,7,Matilda,232.255
+12:10,8,STOP USING SIDHARTH SHUKLA,79.138
+12:10,9,Mbappe,244.684
+12:10,10,TXT AT MUSIC BANK,19.494
+12:40,1,GBGB1stWin,81.945
+12:40,2,TXT14thWin,38.712
+12:40,3,KingandPrinceガキキタイ2,22.834
+12:40,4,짱바투_1위_부셔부셔놔,32.154
+12:40,5,WorldBeeDay,17.485
+12:40,6,520 ILY PaiPai,19.450
+12:40,7,Mbappe,259.341
+12:40,8,GOOD BOY GONE BAD 1ST WIN,31.562
+12:40,9,STOP USING SIDHARTH SHUKLA,91.927
+12:40,10,WANIMA,
+13:10,1,GBGB1stWin,91.420
+13:10,2,AFLBluesSwans,
+13:10,3,KingandPrinceガキキタイ2,24.046
+13:10,4,TXT14thWin,41.006
+13:10,5,WorldBeeDay,19.084
+13:10,6,520 ILY PaiPai,45.080
+13:10,7,Mbappe,265.696
+13:10,8,WANIMA,
+13:10,9,GOOD BOY GONE BAD 1ST WIN,33.192
+13:10,10,STOP USING SIDHARTH SHUKLA,101.573
+13:40,1,GBGB1stWin,97.432
+13:40,2,AFLBluesSwans,
+13:40,3,KingandPrinceガキキタイ2,25.147
+13:40,4,TXT14thWin,42.686
+13:40,5,BolsoMusk,24.855
+13:40,6,Mbappe,282.795
+13:40,7,横浜優勝,
+13:40,8,Terzic,
+13:40,9,WANIMA,
+13:40,10,520 ILY PaiPai,51.061
+14:10,1,黄金青春_セクゾ,11.676
+14:10,2,GBGB1stWin,102.282
+14:10,3,BolsoMusk,30.682
+14:10,4,ショーシャンクの空,19.264
+14:10,5,横浜優勝,
+14:10,6,ゆめくろ生放送,15.333
+14:10,7,山神カルタ3D,17.629
+14:10,8,おりほー,
+14:10,9,Mbappe,291.405
+14:10,10,こいほー,
+14:40,1,黄金青春_セクゾ,34.385
+14:40,2,Mステ,14.697
+14:40,3,ショーシャンクの空,23.074
+14:40,4,BolsoMusk,36.187
+14:40,5,山神カルタ3D,27.963
+14:40,6,AFLBluesSwans,
+14:40,7,おりほー,
+14:40,8,横浜優勝,
+14:40,9,デラロサ,
+14:40,10,Mbappe,306.537
+15:10,1,Mステ,26.202
+15:10,2,黄金青春_セクゾ,41.036
+15:10,3,ショーシャンクの空に,14.954
+15:10,4,山神カルタ3D,40.243
+15:10,5,BolsoMusk,42.144
+15:10,6,おりほー,
+15:10,7,xiao,57.017
+15:10,8,Mbappe,317.520
+15:10,9,Mana様,
+15:10,10,横浜優勝,
+15:40,1,ショーシャンクの空に,21.511
+15:40,2,Mステ,33.769
+15:40,3,丈長の休み時間,13.136
+15:40,4,山神カルタ3D,49.758
+15:40,5,黄金青春_セクゾ,42.436
+15:40,6,Mbappe,336.674
+15:40,7,Xiao,62.615
+15:40,8,Mana様,
+15:40,9,WELCOME RED VELVET,10.789
+15:40,10,おりほー,
+16:10,1,ショーシャンクの空に,28.822
+16:10,2,BolsoMusk,56.520
+16:10,3,丈長の休み時間,14.484
+16:10,4,Mステ,36.958
+16:10,5,山神カルタ3D,54.783
+16:10,6,Mbappe,348.880
+16:10,7,WELCOME RED VELVET,16.660
+16:10,8,Xiao,64.902
+16:10,9,Mana様,
+16:10,10,Amazônia,16.891
+16:40,1,ショーシャンクの空に,41.774
+16:40,2,MUSICBLOOD,31.918
+16:40,3,BolsoMusk,66.667
+16:40,4,JO1と共に行くよWith_Us,
+16:40,5,OvernightSensation,
+16:40,6,Mbappe,365.677
+16:40,7,Amazônia,20.872
+16:40,8,WELCOME RED VELVET,21.086
+16:40,9,xiao,69.087
+16:40,10,Caspar,
+17:10,1,MUSICBLOOD,87.402
+17:10,2,ショーシャンクの空に,45.864
+17:10,3,JO1と共に行くよWith_Us,48.495
+17:10,4,BolsoMusk,79.913
+17:10,5,OvernightSensation,44.865
+17:10,6,Pap Ndiaye,
+17:10,7,Amazônia,25.427
+17:10,8,Mbappe,375.253
+17:10,9,GOT7 ARE ON THEIR WAY,33.700
+17:10,10,Caspar,
+17:40,1,MUSICBLOOD,112.621
+17:40,2,ショーシャンクの空に,47.389
+17:40,3,Proof_of_RM,135.383
+17:40,4,BolsoMusk,94.463
+17:40,5,namjoon,164.985
+17:40,6,NANANA_MVTrailer,81.857
+17:40,7,Pap Ndiaye,10.403
+17:40,8,GOT7 ARE ON THEIR WAY,72.153
+17:40,9,Amazônia,32.397
+17:40,10,Mbappe,389.138
+18:10,1,MUSICBLOOD,120.640
+18:10,2,BolsoMusk,107.231
+18:10,3,Proof_of_RM,157.436
+18:10,4,ショーシャンクの空に,48.322
+18:10,5,namjoon,178.013
+18:10,6,NANANA_MVTrailer,103.951
+18:10,7,Pap Ndiaye,15.863
+18:10,8,Amazônia,39.723
+18:10,9,GOT7 ARE ON THEIR WAY,90.040
+18:10,10,第120回,
+18:40,1,BolsoMusk,119.759
+18:40,2,Proof_of_RM,169.083
+18:40,3,MUSICBLOOD,124.601
+18:40,4,namjoon,187.892
+18:40,5,ショーシャンクの空に,48.723
+18:40,6,NANANA_MVTrailer,114.807
+18:40,7,Pap Ndiaye,20.915
+18:40,8,Amazônia,47.043
+18:40,9,jaemin,477.298
+18:40,10,第120回,
+19:10,1,Belito,21.232
+19:10,2,BolsoMusk,130.948
+19:10,3,hobi,64.554
+19:10,4,フロイニ,62.453
+19:10,5,Proof_of_RM,177.558
+19:10,6,istirhamederim,
+19:10,7,Selçuk Tepeli,
+19:10,8,Amazônia,53.428
+19:10,9,FOXHaber,
+19:10,10,namjoon,188.852
+19:40,1,Belito,39.240
+19:40,2,FOXHaber,
+19:40,3,hobi,70.492
+19:40,4,BolsoMusk,141.191
+19:40,5,Selçuk Tepeli,12.241
+19:40,6,フロイニ,81.949
+19:40,7,Amazônia,59.715
+19:40,8,Pap Ndiaye,29.415
+19:40,9,hoseok,65.332
+19:40,10,Proof_of_RM,183.579
+20:10,1,Belito,54.011
+20:10,2,Selçuk Tepeli,19.121
+20:10,3,FOXHaber,
+20:10,4,hobi,72.964
+20:10,5,BolsoMusk,150.615
+20:10,6,Amazônia,65.289
+20:10,7,フロイニ,96.101
+20:10,8,Pap Ndiaye,33.163
+20:10,9,hoseok,67.759
+20:10,10,RRvCSK,44.023
+20:40,1,Belito,65.212
+20:40,2,Selçuk Tepeli,24.989
+20:40,3,FOXHaber,10.537
+20:40,4,BolsoMusk,158.479
+20:40,5,hobi,76.432
+20:40,6,Amazônia,70.185
+20:40,7,フロイニ,100.132
+20:40,8,Pap Ndiaye,36.669
+20:40,9,hoseok,70.693
+20:40,10,NationalRescueDogDay,
+21:10,1,Belito,73.809
+21:10,2,Selçuk Tepeli,30.360
+21:10,3,FOXHaber,12.575
+21:10,4,BolsoMusk,166.556
+21:10,5,hobi,78.070
+21:10,6,Amazônia,74.991
+21:10,7,FCKSGD,
+21:10,8,Pap Ndiaye,39.844
+21:10,9,AleCelebrityChef,10.236
+21:10,10,NationalRescueDogDay,
+21:40,1,Belito,80.947
+21:40,2,Selçuk Tepeli,35.150
+21:40,3,FreeCodeFridayContest,
+21:40,4,FOXHaber,14.229
+21:40,5,totp,
+21:40,6,BolsoMusk,174.541
+21:40,7,PMSAliens,
+21:40,8,Amazônia,79.741
+21:40,9,hobi,80.603
+21:40,10,Wimbledon,
+22:10,1,Belito,87.177
+22:10,2,Selçuk Tepeli,40.174
+22:10,3,FreeCodeFridayContest,
+22:10,4,totp,
+22:10,5,FOXHaber,15.919
+22:10,6,PMSAliens,
+22:10,7,BolsoMusk,180.733
+22:10,8,Amazônia,83.848
+22:10,9,Wimbledon,10.633
+22:10,10,Hotto,
+22:40,1,Belito,92.696
+22:40,2,Selçuk Tepeli,44.393
+22:40,3,FreeCodeFridayContest,
+22:40,4,totp,
+22:40,5,FOXHaber,17.488
+22:40,6,FCKSGD,
+22:40,7,Amazônia,88.382
+22:40,8,QuestaECasaMia,10.185
+22:40,9,Wimbledon,12.141
+22:40,10,Hotto,
+23:10,1,Belito,97.506
+23:10,2,FreeCodeFridayContest,
+23:10,3,Selçuk Tepeli,48.179
+23:10,4,SVNominaciones,
+23:10,5,TorinoRoma,
+23:10,6,Isco,10.991
+23:10,7,Hotto,
+23:10,8,Marcelo,37.159
+23:10,9,totp,
+23:10,10,Amazônia,92.914
+23:40,1,Belito,102.315
+23:40,2,isola,
+23:40,3,Selçuk Tepeli,50.975
+23:40,4,FreeCodeFridayContest,
+23:40,5,OClone,
+23:40,6,SVNominaciones,
+23:40,7,Isco,14.426
+23:40,8,Marcelo,44.191
+23:40,9,Hotto,
+23:40,10,COAC2022P5,

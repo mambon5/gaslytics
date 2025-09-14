@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,TheApprentice,13.225
+00:10,2,SecretGala5,22.203
+00:10,3,Tarkan,203.673
+00:10,4,gfvip,102.036
+00:10,5,Carille,
+00:10,6,DocNelleTueMani2,22.060
+00:10,7,geccek,97.676
+00:10,8,Mirassol,
+00:10,9,Ferran,109.227
+00:10,10,Ayuso,515.867
+00:40,1,SecretGala5,29.948
+00:40,2,gfvip,116.746
+00:40,3,TheApprentice,13.571
+00:40,4,Tarkan,208.215
+00:40,5,bbcqt,
+00:40,6,Carille,
+00:40,7,Mirassol,
+00:40,8,DocNelleTueMani2,22.716
+00:40,9,Ferran,110.909
+00:40,10,Ayuso,526.560
+01:10,1,SecretGala5,38.980
+01:10,2,gfvip,124.322
+01:10,3,あさイチ,
+01:10,4,Carille,
+01:10,5,TheApprentice,13.855
+01:10,6,Tarkan,211.322
+01:10,7,bbcqt,
+01:10,8,Mirassol,
+01:10,9,CASA REVIRADA,32.333
+01:10,10,Ferran,112.214
+01:40,1,SecretGala5,49.816
+01:40,2,gfvip,132.428
+01:40,3,あさイチ,
+01:40,4,Carille,
+01:40,5,TheApprentice,14.020
+01:40,6,bbcqt,
+01:40,7,Tarkan,213.939
+01:40,8,Mirassol,
+01:40,9,Wordle 244 X,
+01:40,10,LLAMADA PERDIDA,
+02:10,1,SecretGala5,57.999
+02:10,2,Nenê,75.523
+02:10,3,gfvip,135.578
+02:10,4,あさイチ,
+02:10,5,Carille,
+02:10,6,TheApprentice,14.165
+02:10,7,bbcqt,
+02:10,8,Mirassol,
+02:10,9,Tarkan,215.503
+02:10,10,Wordle 244 X,
+02:40,1,Nenê,79.694
+02:40,2,SecretGala5,60.399
+02:40,3,Nestor,11.983
+02:40,4,gfvip,137.411
+02:40,5,Carille,10.161
+02:40,6,あさイチ,
+02:40,7,Peñarol,
+02:40,8,FaZe1,10.309
+02:40,9,Wordle 244 X,
+02:40,10,PaulistaoNaHBOMax,
+03:10,1,Nenê,80.779
+03:10,2,Eliezer,40.320
+03:10,3,SecretGala5,61.620
+03:10,4,Nestor,11.890
+03:10,5,UmLugarAoSol,
+03:10,6,Peñarol,
+03:10,7,Pizarro,
+03:10,8,Wordle 244 X,
+03:10,9,FaZe1,10.663
+03:10,10,Carille,10.224
+03:40,1,Gustavo,177.959
+03:40,2,ProvaDoLider,
+03:40,3,Eliezer,42.124
+03:40,4,Nenê,82.927
+03:40,5,SecretGala5,62.161
+03:40,6,Nestor,12.294
+03:40,7,RED VELVET,32.779
+03:40,8,Pizarro,
+03:40,9,好きな揚げ物いう,
+03:40,10,Tadeu narrando,
+04:10,1,Lucas,175.453
+04:10,2,Lucas,175.453
+04:10,3,Gustavo,203.894
+04:10,4,Barão,29.646
+04:10,5,Sungas,
+04:10,6,RED VELVET,49.748
+04:10,7,Hornets,10.706
+04:10,8,Lowry,
+04:10,9,Eliezer,42.964
+04:10,10,Xepa,24.819
+04:40,1,Lucas,223.604
+04:40,2,Lucas,223.604
+04:40,3,Gustavo,207.871
+04:40,4,Tiago,53.329
+04:40,5,Eslo,102.563
+04:40,6,Barão,41.150
+04:40,7,Sungas,
+04:40,8,GeezAndAnnSeries,
+04:40,9,GeezAndAnnDiVidio,
+04:40,10,RED VELVET MARCH COMEBACK,30.587
+05:10,1,Lucas,228.257
+05:10,2,Lucas,228.257
+05:10,3,Gustavo,200.972
+05:10,4,Tiago,53.779
+05:10,5,Giannis,28.078
+05:10,6,Eslo,88.716
+05:10,7,Barão,42.447
+05:10,8,Middleton,
+05:10,9,RED VELVET MARCH COMEBACK,39.616
+05:10,10,Sungas,
+05:40,1,Lucas,233.881
+05:40,2,Gustavo,202.532
+05:40,3,Tiago,54.667
+05:40,4,Giannis,30.609
+05:40,5,Eslo,90.038
+05:40,6,Embiid,22.828
+05:40,7,Middleton,
+05:40,8,Barão,43.386
+05:40,9,ProvaDoLider,
+05:40,10,RED VELVET MARCH COMEBACK,46.505
+06:10,1,Lucas,235.381
+06:10,2,Gustavo,195.409
+06:10,3,Tiago,53.711
+06:10,4,Giannis,31.312
+06:10,5,Embiid,24.142
+06:10,6,Eslo,86.147
+06:10,7,ProvaDoLider,
+06:10,8,ヴェノムからの挑戦状,
+06:10,9,RED VELVET MARCH COMEBACK,50.441
+06:10,10,Middleton,
+06:40,1,Lucas,238.750
+06:40,2,Gustavo,196.333
+06:40,3,Tiago,54.036
+06:40,4,Giannis,32.060
+06:40,5,Eslo,87.285
+06:40,6,Embiid,25.121
+06:40,7,ヴェノムからの挑戦状,
+06:40,8,好きな揚げ物いう,
+06:40,9,BachchhanPaandeyTrailer,25.379
+06:40,10,RED VELVET MARCH COMEBACK,52.906
+07:10,1,Lucas,238.386
+07:10,2,Gustavo,194.582
+07:10,3,Tiago,53.596
+07:10,4,拷問部屋,
+07:10,5,BachchhanPaandeyTrailer,31.132
+07:10,6,HayırlıCumalar,
+07:10,7,Donda 2,
+07:10,8,Eslo,84.100
+07:10,9,ヴェノムからの挑戦状,
+07:10,10,Giannis,32.434
+07:40,1,Lucas,240.071
+07:40,2,Gustavo,195.374
+07:40,3,拷問部屋,
+07:40,4,HayırlıCumalar,11.194
+07:40,5,TarkanYalnızDeğildir,
+07:40,6,Tiago,53.897
+07:40,7,BachchhanPaandeyTrailer,35.032
+07:40,8,Wordle 244 X,
+07:40,9,春一番にしたいこと,
+07:40,10,Leijonat,
+08:10,1,Lucas,238.694
+08:10,2,TarkanYalnızDeğildir,
+08:10,3,拷問部屋,
+08:10,4,HayırlıCumalar,13.101
+08:10,5,Wordle 244 X,
+08:10,6,BachchhanPaandeyTrailer,38.105
+08:10,7,春一番にしたいこと,
+08:10,8,視聴覚室,
+08:10,9,RHODurban,
+08:10,10,Gustavo,194.134
+08:40,1,Lucas,240.179
+08:40,2,TarkanYalnızDeğildir,
+08:40,3,拷問部屋,
+08:40,4,HayırlıCumalar,14.950
+08:40,5,Wordle 244 X,
+08:40,6,CriticalRoleSpoilers,
+08:40,7,Gitcek,26.589
+08:40,8,視聴覚室,
+08:40,9,春一番にしたいこと,
+08:40,10,子供部屋,
+09:10,1,TarkanYalnızDeğildir,10.559
+09:10,2,StormEunice,66.955
+09:10,3,CriticalRoleSpoilers,10.089
+09:10,4,拷問部屋,
+09:10,5,Gitcek,28.566
+09:10,6,Wordle 244 X,
+09:10,7,HayırlıCumalar,16.835
+09:10,8,Lucas,238.930
+09:10,9,視聴覚室,
+09:10,10,子供部屋,
+09:40,1,StormEunice,72.597
+09:40,2,TarkanYalnızDeğildir,12.227
+09:40,3,Gitcek,30.580
+09:40,4,Wordle 244 X,
+09:40,5,拷問部屋,
+09:40,6,CriticalRoleSpoilers,10.498
+09:40,7,HayırlıCumalar,18.650
+09:40,8,視聴覚室,
+09:40,9,Lucas,240.447
+09:40,10,子供部屋,
+10:10,1,StormEunice,77.767
+10:10,2,TarkanYalnızDeğildir,14.167
+10:10,3,Gitcek,33.316
+10:10,4,Wordle 244 X,10.154
+10:10,5,拷問部屋,
+10:10,6,日曜日はおうちde物産展,
+10:10,7,HayırlıCumalar,20.534
+10:10,8,視聴覚室,
+10:10,9,Lucas,238.912
+10:10,10,子供部屋,
+10:40,1,StormEunice,84.049
+10:40,2,TarkanYalnızDeğildir,16.405
+10:40,3,Gitcek,36.195
+10:40,4,日曜日はおうちde物産展,
+10:40,5,拷問部屋,
+10:40,6,Wordle 244 X,10.478
+10:40,7,FridayFeeling,16.217
+10:40,8,OUR LOVE FOR SUNGHOON,47.249
+10:40,9,ソロ3曲目,
+10:40,10,視聴覚室,
+11:10,1,StormEunice,89.172
+11:10,2,TarkanYalnızDeğildir,18.459
+11:10,3,Gitcek,38.739
+11:10,4,يوم_الجمعه,66.181
+11:10,5,拷問部屋,
+11:10,6,少プレ,
+11:10,7,Wordle 244 X,10.797
+11:10,8,محمد,465.894
+11:10,9,ソロ3曲目,
+11:10,10,OUR LOVE FOR SUNGHOON,54.896
+11:40,1,StormEunice,95.726
+11:40,2,TarkanYalnızDeğildir,20.137
+11:40,3,Gitcek,40.709
+11:40,4,يوم_الجمعه,73.789
+11:40,5,BreakTheCode,
+11:40,6,拷問部屋,
+11:40,7,محمد,487.378
+11:40,8,Wordle 244 X,11.120
+11:40,9,松木くん,
+11:40,10,ソロ3曲目,
+12:10,1,StormEunice,100.824
+12:10,2,TarkanYalnızDeğildir,21.958
+12:10,3,คณาวุฒิFoodEvening,32.980
+12:10,4,オオカミ少年,
+12:10,5,あなたの癒しを教えてください,
+12:10,6,Kost Kilat Banjir Diskon,
+12:10,7,拷問部屋,
+12:10,8,محمد,493.660
+12:10,9,Wordle 244 X,11.486
+12:10,10,FC東京,10.366
+12:40,1,StormEunice,108.380
+12:40,2,คิดถึงBBS,29.787
+12:40,3,りくりゅう,
+12:40,4,คณาวุฒิFoodEvening,67.158
+12:40,5,HorizonEnGAME,
+12:40,6,冬のアズ生,11.475
+12:40,7,Kost Kilat Banjir Diskon,
+12:40,8,Heathrow,
+12:40,9,محمد,511.915
+12:40,10,拷問部屋,
+13:10,1,StormEunice,114.912
+13:10,2,チャーリー,17.238
+13:10,3,Heathrow,
+13:10,4,คิดถึงBBS,47.806
+13:10,5,HorizonEnGAME,
+13:10,6,りくりゅう,
+13:10,7,คณาวุฒิFoodEvening,97.880
+13:10,8,Big Jet TV,
+13:10,9,冬のアズ生,18.868
+13:10,10,ダミアン,
+13:40,1,StormEunice,124.463
+13:40,2,チャーリー,28.827
+13:40,3,Heathrow,
+13:40,4,Big Jet TV,
+13:40,5,คิดถึงBBS,69.861
+13:40,6,HorizonEnGAME,
+13:40,7,チャリチョコ,
+13:40,8,GiftedDays,
+13:40,9,金スマ,
+13:40,10,りくりゅう,10.185
+14:10,1,StormEunice,131.852
+14:10,2,チャーリーとチョコレート工場,20.482
+14:10,3,Big Jet TV,
+14:10,4,Heathrow,13.697
+14:10,5,คิดถึงBBS,88.856
+14:10,6,SixTONES_FASHION,
+14:10,7,チャリチョコ,11.947
+14:10,8,GiftedDays,
+14:10,9,jake,204.751
+14:10,10,WELCOME DJ SUNWON,63.379
+14:40,1,StormEunice,144.049
+14:40,2,Big Jet TV,13.910
+14:40,3,チャーリーとチョコレート工場,28.796
+14:40,4,SixTONES_FASHION,19.533
+14:40,5,カーリング,36.345
+14:40,6,Heathrow,17.909
+14:40,7,ラブライブANN,11.555
+14:40,8,ビッグエンド,
+14:40,9,チャリチョコ,15.768
+14:40,10,jake,224.197
+15:10,1,StormEunice,153.712
+15:10,2,Big Jet TV,18.441
+15:10,3,チャーリーとチョコレート工場,34.875
+15:10,4,カーリング,45.322
+15:10,5,SixTONES_FASHION,29.245
+15:10,6,Heathrow,22.005
+15:10,7,ラブライブANN,18.299
+15:10,8,チャリチョコ,18.460
+15:10,9,ビッグエンド,
+15:10,10,jake,229.287
+15:40,1,カーリング,66.176
+15:40,2,StormEunice,164.305
+15:40,3,Big Jet TV,21.819
+15:40,4,범_접할수없는_정우의_스물다섯,100.364
+15:40,5,チャーリーとチョコレート工場,36.751
+15:40,6,SixTONES_FASHION,36.095
+15:40,7,Heathrow,25.246
+15:40,8,チャリチョコ,19.383
+15:40,9,jake,243.845
+15:40,10,最終エンド,
+16:10,1,カーリング,127.577
+16:10,2,범_접할수없는_정우의_스물다섯,214.222
+16:10,3,SmilingAngelJUNGWOOday,216.066
+16:10,4,StormEunice,171.280
+16:10,5,メダル確定,
+16:10,6,Big Jet TV,24.156
+16:10,7,銀メダル以上確定,20.164
+16:10,8,SixTONES_FASHION,39.661
+16:10,9,Heathrow,27.890
+16:10,10,イギリス,29.657
+16:40,1,カーリング,139.461
+16:40,2,범_접할수없는_정우의_스물다섯,304.074
+16:40,3,SmilingAngelJUNGWOOday,304.593
+16:40,4,StormEunice,181.408
+16:40,5,Big Jet TV,25.870
+16:40,6,メダル確定,
+16:40,7,Wordle 245,
+16:40,8,イギリス,33.850
+16:40,9,銀メダル以上確定,23.675
+16:40,10,Heathrow,30.300
+17:10,1,カーリング,143.171
+17:10,2,범_접할수없는_정우의_스물다섯,346.491
+17:10,3,SmilingAngelJUNGWOOday,348.366
+17:10,4,StormEunice,187.055
+17:10,5,Wordle 245,11.166
+17:10,6,Big Jet TV,27.268
+17:10,7,メダル確定,
+17:10,8,イギリス,34.183
+17:10,9,Heathrow,32.345
+17:10,10,銀メダル以上確定,24.908
+17:40,1,범_접할수없는_정우의_스물다섯,370.139
+17:40,2,カーリング,145.400
+17:40,3,SmilingAngelJUNGWOOday,373.133
+17:40,4,StormEunice,195.866
+17:40,5,Wordle 245,14.818
+17:40,6,フロイニ,42.168
+17:40,7,Big Jet TV,28.485
+17:40,8,メダル確定,
+17:40,9,Heathrow,34.379
+17:40,10,イギリス,34.908
+18:10,1,범_접할수없는_정우의_스물다섯,384.433
+18:10,2,SmilingAngelJUNGWOOday,387.572
+18:10,3,カーリング,146.452
+18:10,4,決勝進出,76.371
+18:10,5,StormEunice,199.433
+18:10,6,Wordle 245,17.356
+18:10,7,フロイニ,70.738
+18:10,8,Kim Potter,
+18:10,9,Big Jet TV,
+18:10,10,Heathrow,35.960
+18:40,1,범_접할수없는_정우의_스물다섯,394.449
+18:40,2,SmilingAngelJUNGWOOday,397.982
+18:40,3,決勝進出,76.991
+18:40,4,決勝進出,76.991
+18:40,5,Eunice,51.375
+18:40,6,Kim Potter,19.310
+18:40,7,INDvWI,38.077
+18:40,8,フロイニ,93.522
+18:40,9,Wordle 245,19.611
+18:40,10,Daunte Wright,15.251
+19:10,1,범_접할수없는_정우의_스물다섯,401.829
+19:10,2,SmilingAngelJUNGWOOday,405.867
+19:10,3,Kim Potter,26.675
+19:10,4,Eunice,54.174
+19:10,5,決勝進出,77.405
+19:10,6,INDvWI,43.332
+19:10,7,Daunte Wright,21.168
+19:10,8,Wordle 245,21.254
+19:10,9,フロイニ,111.238
+19:10,10,Donetsk,67.860
+19:40,1,범_접할수없는_정우의_스물다섯,406.853
+19:40,2,SmilingAngelJUNGWOOday,410.935
+19:40,3,Kim Potter,32.687
+19:40,4,Eunice,57.373
+19:40,5,القادسيه_العربي,
+19:40,6,LQvKK,15.385
+19:40,7,Daunte Wright,25.986
+19:40,8,決勝進出,77.804
+19:40,9,Wordle 245,23.215
+19:40,10,Donetsk,72.495
+20:10,1,Kim Potter,38.010
+20:10,2,القادسيه_العربي,12.119
+20:10,3,LQvKK,18.055
+20:10,4,Eunice,59.858
+20:10,5,범_접할수없는_정우의_스물다섯,410.224
+20:10,6,SmilingAngelJUNGWOOday,414.492
+20:10,7,Daunte Wright,30.142
+20:10,8,Wordle 245 X,
+20:10,9,決勝進出,78.173
+20:10,10,Donetsk,77.551
+20:40,1,freecodefridaycontest,
+20:40,2,القادسيه_العربي,13.989
+20:40,3,Kim Potter,42.855
+20:40,4,LQvKK,19.162
+20:40,5,Eunice,62.427
+20:40,6,범_접할수없는_정우의_스물다섯,413.252
+20:40,7,Daunte Wright,33.802
+20:40,8,Wordle 245 X,
+20:40,9,決勝進出,78.572
+20:40,10,Donetsk,82.564
+21:10,1,freecodefridaycontest,
+21:10,2,TPMP,
+21:10,3,JuveToro,
+21:10,4,Kim Potter,46.755
+21:10,5,القادسيه_العربي,15.216
+21:10,6,Eunice,64.108
+21:10,7,Daunte Wright,37.097
+21:10,8,Wordle 245 X,
+21:10,9,Shaina,
+21:10,10,Nodal,17.361
+21:40,1,TPMP,17.561
+21:40,2,freecodefridaycontest,
+21:40,3,JuveToro,
+21:40,4,totp,
+21:40,5,StarsADomicile,
+21:40,6,Kim Potter,50.191
+21:40,7,Wordle 245 X,
+21:40,8,Daunte Wright,39.657
+21:40,9,Shaina,
+21:40,10,Wilbur,11.007
+22:10,1,TPMP,19.828
+22:10,2,freecodefridaycontest,
+22:10,3,JuveToro,
+22:10,4,IlCantanteMascherato,
+22:10,5,totp,
+22:10,6,Kim Potter,53.431
+22:10,7,Wilbur,13.042
+22:10,8,Shaina,10.334
+22:10,9,Wordle 245 X,
+22:10,10,Daunte Wright,42.089
+22:40,1,JuveToro,10.634
+22:40,2,IlCantanteMascherato,
+22:40,3,StarsADomicile,
+22:40,4,TPMP,21.307
+22:40,5,freecodefridaycontest,
+22:40,6,Kim Potter,56.349
+22:40,7,Shaina,10.958
+22:40,8,Wordle 245 X,
+22:40,9,Wilbur,14.130
+22:40,10,Bremer,
+23:10,1,JuveToro,12.687
+23:10,2,IlCantanteMascherato,
+23:10,3,LicenciaParaHablar,22.491
+23:10,4,StarsADomicile,
+23:10,5,propagandalive,
+23:10,6,Vlahovic,
+23:10,7,Allegri,
+23:10,8,Bremer,
+23:10,9,ひーくん,
+23:10,10,Shaina,11.361
+23:40,1,JuveToro,13.279
+23:40,2,LicenciaParaHablar,31.587
+23:40,3,IlCantanteMascherato,
+23:40,4,StarsADomicile,
+23:40,5,Benfica,15.912
+23:40,6,ASloganForHull,
+23:40,7,Allegri,
+23:40,8,ひーくん,
+23:40,9,Vlahovic,
+23:40,10,Bremer,

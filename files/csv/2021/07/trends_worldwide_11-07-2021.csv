@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Cruzeiro,43.456
+00:10,2,Chay,35.009
+00:10,3,Botafogo,30.255
+00:10,4,Chapecó,13.569
+00:10,5,Cortez,12.185
+00:10,6,Renato,107.079
+00:10,7,Argentina,574.846
+00:10,8,Marcos Rocha,
+00:10,9,CopaAmericaFINAL,13.563
+00:10,10,Alisson,11.324
+00:41,1,Cruzeiro,44.962
+00:41,2,Argentina,602.032
+00:41,3,Messi,505.960
+00:41,4,Chay,35.660
+00:41,5,Renato,120.394
+00:41,6,Botafogo,31.795
+00:41,7,Chapecó,14.200
+00:41,8,CopaAmericaFINAL,15.547
+00:41,9,UFC264,67.836
+00:41,10,Cortez,12.541
+01:10,1,Argentina,610.275
+01:10,2,Messi,519.542
+01:10,3,UFC264,69.307
+01:10,4,Cruzeiro,44.884
+01:10,5,CopaAmericaFINAL,18.139
+01:10,6,Renato,125.625
+01:10,7,Chay,35.186
+01:10,8,Botafogo,32.853
+01:10,9,arveles,
+01:10,10,PreguntaPaMissa,
+01:41,1,Argentina,656.525
+01:41,2,Messi,553.243
+01:41,3,CopaAmericaFINAL,23.630
+01:41,4,UFC264,75.193
+01:41,5,precure,14.991
+01:41,6,Lucca,10.468
+01:41,7,Cruzeiro,45.590
+01:41,8,MostRequestedLive,25.373
+01:41,9,PreguntaPaMissa,
+01:41,10,Renato,130.715
+02:10,1,Argentina,724.734
+02:10,2,CopaAmericaFINAL,42.999
+02:10,3,Messi,588.935
+02:10,4,Neymar,205.081
+02:10,5,UFC264,77.789
+02:10,6,precure,39.446
+02:10,7,البرازيل_الارجنتين,40.376
+02:10,8,Lucca,12.745
+02:10,9,BRAxARG,
+02:10,10,ميسي,88.281
+02:41,1,Argentina,867.357
+02:41,2,Neymar,294.867
+02:41,3,Di Maria,116.473
+02:41,4,CopaAmericaFINAL,72.695
+02:41,5,Messi,635.790
+02:41,6,ARGBRA,19.676
+02:41,7,UFC264,88.979
+02:41,8,仮面ライダーセイバー,40.709
+02:41,9,Renan Lodi,11.197
+02:41,10,Otamendi,22.632
+03:10,1,Argentina,970.835
+03:10,2,Neymar,367.416
+03:10,3,CopaAmericaFINAL,96.133
+03:10,4,Di Maria,156.570
+03:10,5,Messi,676.689
+03:10,6,Cebolinha,16.070
+03:10,7,UFC264,99.643
+03:10,8,ARGBRA,25.480
+03:10,9,Otamendi,34.931
+03:10,10,Gabigol,23.474
+03:41,1,Neymar,480.664
+03:41,2,Argentina,1.067.065
+03:41,3,CopaAmericaFINAL,115.783
+03:41,4,gabigol,56.533
+03:41,5,Di Maria,172.998
+03:41,6,Messi,724.000
+03:41,7,Otamendi,54.213
+03:41,8,UFC264,116.250
+03:41,9,De Paul,54.958
+03:41,10,Cebolinha,20.409
+04:10,1,Messi,1.457.737
+04:10,2,Argentina,1.613.168
+04:10,3,Neymar,730.642
+04:10,4,CopaAmericaFINAL,177.835
+04:10,5,gabigol,75.079
+04:10,6,Di Maria,228.796
+04:10,7,De Paul,108.915
+04:10,8,Firmino,34.493
+04:10,9,Otamendi,68.924
+04:10,10,Montiel,47.855
+04:41,1,Messi,1.686.557
+04:41,2,Messi,1.686.557
+04:41,3,Neymar,856.370
+04:41,4,CopaAmericaFINAL,212.804
+04:41,5,Gabigol,82.456
+04:41,6,De Paul,132.020
+04:41,7,Di Maria,271.391
+04:41,8,Montiel,72.178
+04:41,9,Firmino,39.504
+04:41,10,Otamendi,77.420
+05:10,1,Messi,2.027.983
+05:10,2,Messi,2.027.983
+05:10,3,Neymar,906.974
+05:10,4,CopaAmericaFINAL,231.247
+05:10,5,UFC264,185.497
+05:10,6,De Paul,144.084
+05:10,7,Gabigol,85.760
+05:10,8,Moutinho,31.268
+05:10,9,Di Maria,294.880
+05:10,10,Montiel,85.219
+05:41,1,Messi,2.158.212
+05:41,2,Messi,2.158.212
+05:41,3,Neymar,955.216
+05:41,4,UFC264,230.950
+05:41,5,CopaAmericaFINAL,243.691
+05:41,6,De Paul,152.880
+05:41,7,Gabigol,87.823
+05:41,8,Moutinho,33.285
+05:41,9,Di Maria,309.689
+05:41,10,Greg Hardy,23.776
+06:10,1,Messi,2.295.175
+06:10,2,Argentina,2.143.184
+06:10,3,Neymar,985.629
+06:10,4,UFC264,257.242
+06:10,5,CopaAmericaFINAL,251.860
+06:10,6,De Paul,158.677
+06:10,7,Gabigol,89.062
+06:10,8,Moutinho,33.971
+06:10,9,Di Maria,321.042
+06:10,10,Montiel,102.809
+06:41,1,Messi,2.395.063
+06:41,2,UFC264,347.039
+06:41,3,Argentina,2.228.770
+06:41,4,McGregor,191.600
+06:41,5,Neymar,1.003.567
+06:41,6,CopaAmericaFINAL,259.761
+06:41,7,De Paul,163.374
+06:41,8,Montiel,108.719
+06:41,9,Di Maria,329.736
+06:41,10,Gabigol,90.232
+07:10,1,UFC264,406.702
+07:10,2,Messi,2.487.404
+07:10,3,McGregor,266.453
+07:10,4,Argentina,2.295.064
+07:10,5,Neymar,1.022.839
+07:10,6,CopaAmericaFINAL,265.568
+07:10,7,De Paul,166.717
+07:10,8,Montiel,113.430
+07:10,9,Ufc246,
+07:10,10,Greg Hardy,29.808
+07:41,1,UFC264,432.388
+07:41,2,Messi,2.561.743
+07:41,3,McGregor,296.534
+07:41,4,Argentina,2.343.817
+07:41,5,Neymar,1.030.666
+07:41,6,CopaAmericaFINAL,271.150
+07:41,7,曲名の一部をもやしにすると弱い,
+07:41,8,De Paul,169.896
+07:41,9,Montiel,117.059
+07:41,10,Ufc246,
+08:10,1,UFC264,444.664
+08:10,2,McGregor,310.585
+08:10,3,Messi,2.624.075
+08:10,4,Argentina,2.400.988
+08:10,5,Neymar,1.044.104
+08:10,6,CopaAmericaFINAL,276.256
+08:10,7,曲名の一部をもやしにすると弱い,
+08:10,8,ASAPKapamilyaForever,275.698
+08:10,9,De Paul,172.063
+08:10,10,Ufc246,
+08:41,1,UFC264,455.091
+08:41,2,McGregor,321.912
+08:41,3,Messi,2.700.662
+08:41,4,Argentina,2.440.644
+08:41,5,Neymar,1.048.421
+08:41,6,曲名の一部をもやしにすると弱い,
+08:41,7,CopaAmericaFINAL,282.313
+08:41,8,ABCお笑いグランプリ,15.880
+08:41,9,ASAPKapamilyaForever,303.900
+08:41,10,De Paul,174.178
+09:10,1,McGregor,328.518
+09:10,2,UFC264,460.628
+09:10,3,Messi,2.716.966
+09:10,4,Argentina,2.426.683
+09:10,5,曲名の一部をもやしにすると弱い,
+09:10,6,Neymar,1.057.498
+09:10,7,ABCお笑いグランプリ,19.849
+09:10,8,CopaAmericaFINAL,287.397
+09:10,9,ASAPKapamilyaForever,315.614
+09:10,10,トーラスジェミニ,
+09:41,1,McGregor,335.535
+09:41,2,UFC264,466.784
+09:41,3,Messi,2.647.832
+09:41,4,Argentina,2.411.090
+09:41,5,曲名の一部をもやしにすると弱い,
+09:41,6,WKEYAKIFES_DAY3,29.176
+09:41,7,ABCお笑いグランプリ,25.249
+09:41,8,ゲリラ豪雨,23.331
+09:41,9,Neymar,1.064.888
+09:41,10,開運IVC決勝運試し,
+10:10,1,HelloFuture4thWin,170.455
+10:10,2,WKEYAKIFES_DAY3,43.594
+10:10,3,McGregor,339.454
+10:10,4,UFC264,470.267
+10:10,5,Messi,2.968.488
+10:10,6,Argentina,2.598.445
+10:10,7,曲名の一部をもやしにすると弱い,10.598
+10:10,8,ABCお笑いグランプリ,29.768
+10:10,9,ゲリラ豪雨,28.259
+10:10,10,Neymar,1.066.951
+10:41,1,HelloFuture4thWin,308.174
+10:41,2,WKEYAKIFES_DAY3,65.037
+10:41,3,SZ10TH,26.167
+10:41,4,PermissionToDance100M,98.607
+10:41,5,McGregor,344.785
+10:41,6,Messi,3.174.488
+10:41,7,ABCお笑いグランプリ,37.573
+10:41,8,Argentina,2.769.676
+10:41,9,オズワルド,18.202
+10:41,10,ゲリラ豪雨,35.890
+11:10,1,HelloFuture4thWin,418.683
+11:10,2,WKEYAKIFES_DAY3,79.719
+11:10,3,SZ10TH,36.777
+11:10,4,PermissionToDance100M,141.895
+11:10,5,Srebrenitsa,26.862
+11:10,6,Messi,3.037.683
+11:10,7,McGregor,348.064
+11:10,8,Argentina,2.876.800
+11:10,9,ゲリラ豪雨,40.378
+11:10,10,オズワルド,20.956
+11:41,1,HelloFuture4thWin,463.057
+11:41,2,WKEYAKIFES_DAY3,93.700
+11:41,3,SZ10TH,54.155
+11:41,4,フジキセキ,15.666
+11:41,5,Srebrenitsa,33.789
+11:41,6,PermissionToDance100M,158.116
+11:41,7,ASMR動画,
+11:41,8,Messi,3.308.563
+11:41,9,ゲリラ豪雨,44.174
+11:41,10,オズワルド,23.318
+12:10,1,lovelive,67.157
+12:10,2,フジキセキ,31.475
+12:10,3,WKEYAKIFES_DAY3,107.449
+12:10,4,Liella,38.948
+12:10,5,HelloFuture4thWin,490.846
+12:10,6,Srebrenitsa,40.692
+12:10,7,Sound Sultan,12.764
+12:10,8,ASMR動画,
+12:10,9,ゲリラ豪雨,47.141
+12:10,10,ラブライブ,51.070
+12:41,1,lovelive,124.092
+12:41,2,フジキセキ,45.737
+12:41,3,Liella,65.493
+12:41,4,ラブライブ,72.749
+12:41,5,Sound Sultan,29.703
+12:41,6,Srebrenitsa,47.992
+12:41,7,Euro2020Final,41.151
+12:41,8,WKEYAKIFES_DAY3,121.289
+12:41,9,ASMR動画,11.141
+12:41,10,キャンサー杯,15.877
+13:10,1,lovelive,140.143
+13:10,2,フジキセキ,62.559
+13:10,3,Sound Sultan,43.162
+13:10,4,WKEYAKIFES_DAY3,140.160
+13:10,5,Euro2020Final,44.687
+13:10,6,ラブライブ,84.216
+13:10,7,Liella,78.118
+13:10,8,青天を衝け,31.056
+13:10,9,ASMR動画,12.343
+13:10,10,キャンサー杯,19.425
+13:41,1,lovelive,148.496
+13:41,2,SZ10TH,103.718
+13:41,3,カレーメシSUMMER,18.942
+13:41,4,青天を衝け,66.444
+13:41,5,フジキセキ,71.165
+13:41,6,Sound Sultan,53.835
+13:41,7,WKEYAKIFES_DAY3,146.122
+13:41,8,ラブライブ,90.176
+13:41,9,ASMR動画,13.778
+13:41,10,イッテQ,10.028
+14:10,1,カレーメシSUMMER,44.627
+14:10,2,青天を衝け,93.312
+14:10,3,SZ10TH,114.525
+14:10,4,lovelive,154.067
+14:10,5,Euro2020Final,52.324
+14:10,6,スパロボ,53.719
+14:10,7,Sound Sultan,62.027
+14:10,8,フジキセキ,76.732
+14:10,9,グリッドマン,11.498
+14:10,10,ラブライブ,93.419
+14:41,1,カレーメシSUMMER,57.519
+14:41,2,青天を衝け,104.378
+14:41,3,SZ10TH,121.315
+14:41,4,スパロボ,80.290
+14:41,5,ValimaiMotionPoster,549.637
+14:41,6,Euro2020Final,57.246
+14:41,7,Sound Sultan,69.541
+14:41,8,フジキセキ,81.832
+14:41,9,グリッドマン,16.014
+14:41,10,chan,329.671
+15:10,1,ValimaiMotionPoster,733.544
+15:10,2,スパロボ,107.100
+15:10,3,みんなで見ようVALIANT_DAY2,62.869
+15:10,4,Euro2020Final,60.784
+15:10,5,カレーメシSUMMER,63.872
+15:10,6,SZ10TH,125.156
+15:10,7,Profiline Bakanlar,
+15:10,8,chan,347.667
+15:10,9,Sound Sultan,75.972
+15:10,10,グリッドマン,19.184
+15:41,1,スパロボ,126.071
+15:41,2,Chan,398.868
+15:41,3,ValimaiMotionPoster,888.632
+15:41,4,Euro2020Final,65.371
+15:41,5,TOKYOMER,19.121
+15:41,6,みんなで見ようVALIANT_DAY2,64.109
+15:41,7,Profiline Bakanlar,
+15:41,8,カレーメシSUMMER,67.115
+15:41,9,グリッドマン,21.284
+15:41,10,Sound Sultan,81.869
+16:10,1,BinibiningPilipinas2021,10.504
+16:10,2,スパロボ,143.532
+16:10,3,Euro2020Final,68.329
+16:10,4,ValimaiMotionPoster,984.973
+16:10,5,Chan,404.040
+16:10,6,BerrettiniDjokovic,
+16:10,7,WimbledonFinal,
+16:10,8,Profiline Bakanlar,
+16:10,9,グリッドマン,23.167
+16:10,10,Sound Sultan,86.411
+16:41,1,BinibiningPilipinas2021,25.133
+16:41,2,WimbledonFinal,
+16:41,3,BerrettiniDjokovic,11.037
+16:41,4,スパロボ,159.368
+16:41,5,Euro2020Final,72.828
+16:41,6,ValimaiMotionPoster,1.068.275
+16:41,7,Chan,421.047
+16:41,8,Sound Sultan,90.675
+16:41,9,グリッドマン,24.621
+16:41,10,Profiline Bakanlar,
+17:10,1,BinibiningPilipinas2021,36.624
+17:10,2,WimbledonFinal,
+17:10,3,BerrettiniDjokovic,14.376
+17:10,4,Euro2020Final,76.273
+17:10,5,スパロボ,168.311
+17:10,6,Unity22,25.937
+17:10,7,Chan,419.625
+17:10,8,Richard Branson,28.969
+17:10,9,関ジャム,
+17:10,10,グリッドマン,25.612
+17:41,1,BinibiningPilipinas2021,50.413
+17:41,2,乃木坂工事中,29.220
+17:41,3,Unity22,34.661
+17:41,4,Wimbledon,108.516
+17:41,5,BerrettiniDjokovic,17.264
+17:41,6,Richard Branson,37.298
+17:41,7,スパロボ,175.703
+17:41,8,Chan,432.042
+17:41,9,The 1st Mini Album,14.078
+17:41,10,Knightsの日,
+18:10,1,BinibiningPilipinas2021,72.318
+18:10,2,Unity22,42.547
+18:10,3,Wimbledon,110.733
+18:10,4,乃木坂工事中,32.321
+18:10,5,VirginGalactic,11.815
+18:10,6,Richard Branson,51.094
+18:10,7,スパロボ,180.763
+18:10,8,SerenayAktas KalpYarasında,
+18:10,9,EnglliÖğtmene SahipÇık,
+18:10,10,Tito Boy,
+18:41,1,Wimbledon,139.419
+18:41,2,BinibiningPilipinas2021,94.475
+18:41,3,Djokovic,76.559
+18:41,4,Unity22,48.552
+18:41,5,Euro2020Final,91.481
+18:41,6,乃木坂工事中,33.682
+18:41,7,Richard Branson,59.795
+18:41,8,スパロボ,186.204
+18:41,9,Tito Boy,
+18:41,10,ジョコビッチ,
+19:10,1,Wimbledon,176.179
+19:10,2,Djokovic,112.931
+19:10,3,BinibiningPilipinas2021,102.993
+19:10,4,Unity22,53.207
+19:10,5,Euro2020Final,97.755
+19:10,6,Nadal,33.655
+19:10,7,Richard Branson,66.345
+19:10,8,VirginGalactic,14.788
+19:10,9,Nole,17.971
+19:10,10,Leicester Square,12.793
+19:41,1,Wimbledon,197.704
+19:41,2,Djokovic,128.926
+19:41,3,Euro2020Final,107.692
+19:41,4,BinibiningPilipinas2021,106.508
+19:41,5,Unity22,57.225
+19:41,6,Nadal,40.994
+19:41,7,Richard Branson,73.567
+19:41,8,GelenekselFikstürOyunları,19.895
+19:41,9,Leicester Square,15.475
+19:41,10,Nole,20.264
+20:10,1,Wimbledon,205.128
+20:10,2,Euro2020Final,120.507
+20:10,3,Djokovic,137.557
+20:10,4,ITAENG,85.237
+20:10,5,BinibiningPilipinas2021,108.203
+20:10,6,Italy,321.847
+20:10,7,Wembley,135.207
+20:10,8,ENGITA,47.713
+20:10,9,Nadal,44.517
+20:10,10,Richard Branson,78.099
+20:41,1,Euro2020Final,141.460
+20:41,2,England,981.617
+20:41,3,FamilyMeeting,26.000
+20:41,4,ITAENG,98.327
+20:41,5,Wimbledon,213.750
+20:41,6,ENGITA,54.613
+20:41,7,Wembley,159.226
+20:41,8,Djokovic,144.178
+20:41,9,Nadal,47.458
+20:41,10,Richard Branson,84.226
+21:10,1,Euro2020Final,208.221
+21:10,2,ITAENG,135.613
+21:10,3,England,1.081.856
+21:10,4,ENGITA,74.727
+21:10,5,Luke Shaw,37.347
+21:10,6,Inglaterra,125.698
+21:10,7,Wembley,186.502
+21:10,8,FamilyMeeting,31.343
+21:10,9,ItsComingHome,88.434
+21:10,10,Djokovic,148.126
+21:41,1,Euro2020Final,266.543
+21:41,2,ITAENG,166.372
+21:41,3,England,1.185.545
+21:41,4,Luke Shaw,71.479
+21:41,5,Wembley,206.842
+21:41,6,Tom Cruise,25.048
+21:41,7,FamilyMeeting,33.740
+21:41,8,Chiesa,56.819
+21:41,9,ItsComingHome,93.647
+21:41,10,Trippier,18.691
+22:10,1,Euro2020Final,328.416
+22:10,2,England,1.261.254
+22:10,3,ITAENG,189.687
+22:10,4,Luke Shaw,95.107
+22:10,5,Inglaterra,184.993
+22:10,6,Wembley,227.204
+22:10,7,Chiesa,80.481
+22:10,8,Tom Cruise,33.196
+22:10,9,ItsComingHome,97.905
+22:10,10,Immobile,40.808
+22:41,1,Euro2020Final,404.062
+22:41,2,Italy,580.185
+22:41,3,ITAENG,227.223
+22:41,4,ENGITA,118.466
+22:41,5,Inglaterra,219.428
+22:41,6,Chiesa,133.438
+22:41,7,Luke Shaw,100.157
+22:41,8,Bonucci,65.072
+22:41,9,Wembley,247.460
+22:41,10,Pickford,29.703
+23:10,1,Euro2020Final,479.890
+23:10,2,Italy,630.315
+23:10,3,ITAENG,264.603
+23:10,4,Chiesa,225.584
+23:10,5,Inglaterra,244.476
+23:10,6,ENGITA,128.282
+23:10,7,Chiellini,98.887
+23:10,8,Grealish,68.623
+23:10,9,Grealish,68.623
+23:10,10,Sterling,150.505
+23:41,1,Euro2020Final,545.680
+23:41,2,Italy,678.902
+23:41,3,ITAENG,292.917
+23:41,4,Grealish,115.932
+23:41,5,Rashford,72.814
+23:41,6,Inglaterra,268.089
+23:41,7,Chiellini,140.036
+23:41,8,ENGITA,139.900
+23:41,9,Chiesa,236.341
+23:41,10,Sancho,65.156

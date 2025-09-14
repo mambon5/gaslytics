@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,MiniFootballPump,
+00:10,2,Columbus,236.231
+00:10,3,credit suisse inu,
+00:10,4,IndigenousPeoplesDay,111.235
+00:10,5,AVFC,13.617
+00:10,6,DiaMundialdelaSaludMental,68.955
+00:10,7,Thanksgiving,146.804
+00:10,8,DraftKingsMNF,
+00:10,9,James brown,35.271
+00:10,10,Weverton,
+00:40,1,MiniFootballPump,
+00:40,2,Columbus,247.267
+00:40,3,credit suisse inu,
+00:40,4,DraftKingsMNF,
+00:40,5,Lampe,
+00:40,6,IndigenousPeoplesDay,114.906
+00:40,7,DiaMundialdelaSaludMental,71.107
+00:40,8,AVFC,13.862
+00:40,9,Thanksgiving,149.595
+00:40,10,Rex Orange County,29.923
+01:10,1,MiniFootballPump,
+01:10,2,Columbus,255.692
+01:10,3,DraftKingsMNF,
+01:10,4,credit suisse inu,
+01:10,5,Lampe,
+01:10,6,連休明け,30.865
+01:10,7,DiaMundialdelaSaludMental,73.066
+01:10,8,IndigenousPeoplesDay,117.551
+01:10,9,Thanksgiving,148.079
+01:10,10,MCCelebrity,
+01:40,1,minifootballpump,
+01:40,2,Columbus,265.922
+01:40,3,ZeeNuNewGo2KoreaJapan,14.077
+01:40,4,連休明け,36.123
+01:40,5,Navarro,10.535
+01:40,6,DraftKingsMNF,
+01:40,7,ラヴィット,20.334
+01:40,8,DiaMundialdelaSaludMental,74.806
+01:40,9,Art Laboe,
+01:40,10,Lampe,
+02:10,1,WWERaw,23.807
+02:10,2,MiniFootballPump,
+02:10,3,ZeeNuNewGo2KoreaJapan,54.825
+02:10,4,Columbus,273.656
+02:10,5,連休明け,40.129
+02:10,6,Raiders,39.010
+02:10,7,Navarro,11.542
+02:10,8,ラヴィット,18.609
+02:10,9,DraftKingsMNF,
+02:10,10,Art Laboe,
+02:40,1,WWERaw,37.647
+02:40,2,Raiders,49.272
+02:40,3,Travessia,13.653
+02:40,4,ZeeNuNewGo2KoreaJapan,115.401
+02:40,5,RaiderNation,11.185
+02:40,6,minifootballpump,
+02:40,7,Columbus,283.373
+02:40,8,Chiefs,53.026
+02:40,9,連休明け,43.490
+02:40,10,Carr,11.336
+03:10,1,Travessia,42.465
+03:10,2,WWERaw,47.740
+03:10,3,Raiders,60.072
+03:10,4,Raiders,60.072
+03:10,5,Grazi,11.072
+03:10,6,BachelorInParadise,
+03:10,7,Carr,13.935
+03:10,8,Adams,36.513
+03:10,9,ZeeNuNewGo2KoreaJapan,163.806
+03:10,10,Josh Jacobs,
+03:40,1,Travessia,69.033
+03:40,2,WWERaw,68.295
+03:40,3,Raiders,69.862
+03:40,4,Grazi,20.590
+03:40,5,BachelorInParadise,
+03:40,6,Carr,16.340
+03:40,7,Josh Jacobs,
+03:40,8,RaiderNation,15.229
+03:40,9,DebateNaBand,12.301
+03:40,10,Gallows,
+04:10,1,Travessia,108.719
+04:10,2,WWERaw,85.088
+04:10,3,Raiders,83.387
+04:10,4,Grazi,30.114
+04:10,5,Carr,22.230
+04:10,6,Chris Jones,21.169
+04:10,7,BachelorInParadise,12.701
+04:10,8,The NFL,165.159
+04:10,9,LVvsKC,12.101
+04:10,10,DebateNaBand,20.573
+04:40,1,Travessia,122.630
+04:40,2,Raiders,97.553
+04:40,3,WWERaw,111.019
+04:40,4,Kelce,27.564
+04:40,5,Grazi,32.364
+04:40,6,Carr,26.923
+04:40,7,Mahomes,29.725
+04:40,8,Chris Jones,25.186
+04:40,9,DebateNaBand,29.623
+04:40,10,BachelorInParadise,13.088
+05:10,1,Raiders,114.485
+05:10,2,Kelce,46.693
+05:10,3,Travessia,126.182
+05:10,4,WWERaw,127.038
+05:10,5,Carr,32.952
+05:10,6,Adams,47.336
+05:10,7,Grazi,33.490
+05:10,8,DebateNaBand,37.672
+05:10,9,連載再開,105.746
+05:10,10,LVvsKC,16.699
+05:40,1,Raiders,148.651
+05:40,2,Kelce,53.714
+05:40,3,Travessia,128.058
+05:40,4,WWERaw,133.003
+05:40,5,Adams,57.030
+05:40,6,Carr,37.962
+05:40,7,Josh McDaniels,
+05:40,8,連載再開,130.968
+05:40,9,Jacobs,27.506
+05:40,10,Renfrow,
+06:10,1,Raiders,163.300
+06:10,2,Kelce,56.734
+06:10,3,Adams,71.699
+06:10,4,WWERaw,136.347
+06:10,5,Travessia,129.315
+06:10,6,Carr,40.028
+06:10,7,Josh McDaniels,
+06:10,8,連載再開,148.044
+06:10,9,Renfrow,
+06:10,10,Chris Jones,31.234
+06:40,1,Raiders,170.580
+06:40,2,Raiders,170.580
+06:40,3,Kelce,58.505
+06:40,4,Adams,78.497
+06:40,5,WWERaw,138.841
+06:40,6,Travessia,130.153
+06:40,7,Carr,41.101
+06:40,8,Josh McDaniels,
+06:40,9,連載再開,159.612
+06:40,10,Renfrow,
+07:10,1,Raiders,174.345
+07:10,2,Kelce,59.495
+07:10,3,Adams,81.453
+07:10,4,WWERaw,140.869
+07:10,5,Travessia,130.726
+07:10,6,Carr,41.746
+07:10,7,Josh McDaniels,
+07:10,8,連載再開,167.498
+07:10,9,PakvsNz,
+07:10,10,Renfrow,
+07:40,1,Raiders,177.423
+07:40,2,Kelce,60.268
+07:40,3,Adams,83.844
+07:40,4,WWERaw,142.722
+07:40,5,Travessia,131.422
+07:40,6,Carr,42.185
+07:40,7,Mahomes,47.584
+07:40,8,連載再開,174.107
+07:40,9,Josh McDaniels,
+07:40,10,PakvsNz,
+08:10,1,Raiders,178.987
+08:10,2,Kelce,60.767
+08:10,3,Adams,84.493
+08:10,4,WWERaw,144.079
+08:10,5,HappyBirthdayAmitabhBachchan,
+08:10,6,連載再開,180.733
+08:10,7,Carr,42.412
+08:10,8,Travessia,131.777
+08:10,9,Mahomes,48.033
+08:10,10,Josh McDaniels,
+08:40,1,Raiders,180.566
+08:40,2,Kelce,61.112
+08:40,3,เปิดตัวได้แล้ว,13.627
+08:40,4,HappyBirthdayAmitabhBachchan,
+08:40,5,Adams,85.744
+08:40,6,連載再開,186.428
+08:40,7,WWERaw,145.430
+08:40,8,Carr,42.638
+08:40,9,InternationalDayOfGirlChild,77.314
+08:40,10,salı,
+09:10,1,Raiders,181.313
+09:10,2,เปิดตัวได้แล้ว,42.013
+09:10,3,TwitterrTT HizmetiVerilir,
+09:10,4,Kelce,61.345
+09:10,5,HappyBirthdayAmitabhBachchan,10.409
+09:10,6,DünyaKızÇocuklarıGünü,
+09:10,7,RamSetuTrailer,29.040
+09:10,8,InternationalDayOfGirlChild,82.201
+09:10,9,Adams,86.021
+09:10,10,連載再開,192.056
+09:40,1,Raiders,182.176
+09:40,2,เปิดตัวได้แล้ว,56.206
+09:40,3,DünyaKızÇocuklarıGünü,
+09:40,4,twitterrtt hizmetiverilir,
+09:40,5,あなたのコミュ障レベル診断,
+09:40,6,対人恐怖症,
+09:40,7,RamSetuTrailer,35.142
+09:40,8,HappyBirthdayAmitabhBachchan,11.353
+09:40,9,ガラスのハート,
+09:40,10,Kelce,61.617
+10:10,1,DünyaKızÇocuklarıGünü,
+10:10,2,あなたのコミュ障レベル診断,
+10:10,3,เปิดตัวได้แล้ว,66.478
+10:10,4,対人恐怖症,
+10:10,5,ガラスのハート,
+10:10,6,Raiders,182.717
+10:10,7,twitterrtt hizmetiverilir,
+10:10,8,RamSetuTrailer,39.598
+10:10,9,挙動不審,
+10:10,10,HappyBirthdayAmitabhBachchan,12.366
+10:40,1,DünyaKızÇocuklarıGünü,
+10:40,2,あなたのコミュ障レベル診断,
+10:40,3,対人恐怖症,
+10:40,4,ガラスのハート,
+10:40,5,挙動不審,
+10:40,6,เปิดตัวได้แล้ว,73.620
+10:40,7,twitterrtt hizmetiverilir,
+10:40,8,Metaverse Face,
+10:40,9,PVL2022,
+10:40,10,映画の絶望的な瞬間を貼る,
+11:10,1,DünyaKızÇocuklarıGünü,10.995
+11:10,2,MAMAMOOMicOn_OutNow,21.717
+11:10,3,あなたのコミュ障レベル診断,
+11:10,4,ガラスのハート,
+11:10,5,ILLELLA MUSIC VIDEO,25.225
+11:10,6,挙動不審,
+11:10,7,イマソラ,18.663
+11:10,8,対人恐怖症,
+11:10,9,映画の絶望的な瞬間を貼る,
+11:10,10,Mehmet Ali Çelebi,
+11:40,1,DünyaKızÇocuklarıGünü,13.557
+11:40,2,MAMAMOOMicOn_OutNow,32.914
+11:40,3,あなたのコミュ障レベル診断,
+11:40,4,ガラスのハート,
+11:40,5,映画の絶望的な瞬間を貼る,
+11:40,6,Mehmet Ali Çelebi,
+11:40,7,挙動不審,10.315
+11:40,8,イマソラ,19.479
+11:40,9,対人恐怖症,
+11:40,10,Rubiales,
+12:10,1,DünyaKızÇocuklarıGünü,15.832
+12:10,2,MAMAMOOMicOn_OutNow,40.846
+12:10,3,映画の絶望的な瞬間を貼る,
+12:10,4,Mehmet Ali Çelebi,12.206
+12:10,5,あなたのコミュ障レベル診断,
+12:10,6,ガラスのハート,
+12:10,7,NetflixTeeThaiTeeMun,27.727
+12:10,8,挙動不審,11.466
+12:10,9,対人恐怖症,
+12:10,10,Rubiales,11.307
+12:40,1,DünyaKızÇocuklarıGünü,17.822
+12:40,2,NHK沼,
+12:40,3,映画の絶望的な瞬間を貼る,
+12:40,4,Mehmet Ali Çelebi,16.169
+12:40,5,NetflixTeeThaiTeeMun,55.083
+12:40,6,ENGFA_BalineseCostume,21.922
+12:40,7,ガラスのハート,
+12:40,8,挙動不審,12.570
+12:40,9,大包平の女さん,
+12:40,10,エキサイト翻訳,19.297
+13:10,1,ENGFA_BalineseCostume,139.533
+13:10,2,ツキヨミ,23.574
+13:10,3,NHK沼,16.877
+13:10,4,DünyaKızÇocuklarıGünü,20.047
+13:10,5,映画の絶望的な瞬間を貼る,12.331
+13:10,6,Mehmet Ali Çelebi,19.615
+13:10,7,ガラスのハート,
+13:10,8,Aurora Ribero,
+13:10,9,挙動不審,13.477
+13:10,10,大包平の女さん,
+13:40,1,ツキヨミ,48.115
+13:40,2,ENGFA_BalineseCostume,218.607
+13:40,3,BEFIRST,62.571
+13:40,4,うたコン,
+13:40,5,映画の絶望的な瞬間を貼る,15.176
+13:40,6,Mehmet Ali Çelebi,22.655
+13:40,7,Rubiales,19.071
+13:40,8,ジュノン,
+13:40,9,ガラスのハート,
+13:40,10,大包平の女さん,
+14:10,1,ツキヨミ,61.725
+14:10,2,BEFIRST,63.913
+14:10,3,ENGFA_BalineseCostume,274.236
+14:10,4,うたコン,
+14:10,5,Galileo Galilei,
+14:10,6,映画の絶望的な瞬間を貼る,17.911
+14:10,7,Mehmet Ali Çelebi,25.157
+14:10,8,ジュノン,
+14:10,9,Rubiales,21.814
+14:10,10,BELLE WHEN IN KOREA,12.352
+14:40,1,ツキヨミ,72.210
+14:40,2,ENGFA_BalineseCostume,324.181
+14:40,3,BEFIRST,68.913
+14:40,4,さんま御殿,19.223
+14:40,5,Galileo Galilei,
+14:40,6,nhk_jsclub,12.968
+14:40,7,Tulsi,15.115
+14:40,8,Mehmet Ali Çelebi,27.790
+14:40,9,Blink 182,
+14:40,10,チェンソーマン,143.955
+15:10,1,ツキヨミ,78.982
+15:10,2,ENGFA_BalineseCostume,401.678
+15:10,3,さんま御殿,26.072
+15:10,4,BEFIRST,71.406
+15:10,5,Galileo Galilei,12.536
+15:10,6,RunBTS,11.577
+15:10,7,Blink 182,15.271
+15:10,8,Tulsi,23.700
+15:10,9,Lolla,16.149
+15:10,10,16Ekim BüyükEczacıMitingi,
+15:40,1,Lolla,31.915
+15:40,2,billie,34.327
+15:40,3,Blink 182,22.428
+15:40,4,ツキヨミ,85.040
+15:40,5,RunBTS,16.596
+15:40,6,ENGFA_BalineseCostume,454.471
+15:40,7,Galileo Galilei,14.930
+15:40,8,さんま御殿,27.989
+15:40,9,befirst,76.011
+15:40,10,Tulsi,33.965
+16:10,1,Lolla,42.822
+16:10,2,Billie,39.785
+16:10,3,Blink 182,30.437
+16:10,4,Mbappe,84.147
+16:10,5,Drake,42.442
+16:10,6,RunBTS,37.319
+16:10,7,ツキヨミ,89.954
+16:10,8,Tulsi,44.903
+16:10,9,kali uchis,
+16:10,10,Galileo Galilei,17.019
+16:40,1,Lolla,51.043
+16:40,2,Billie,44.666
+16:40,3,Mbappe,112.921
+16:40,4,Blink 182,38.213
+16:40,5,Drake,45.538
+16:40,6,Tulsi,56.579
+16:40,7,PortfolioDay,42.523
+16:40,8,melanie,24.203
+16:40,9,RunBTS,53.180
+16:40,10,kali uchis,
+17:10,1,チェンソーマン,156.205
+17:10,2,Mbappe,146.694
+17:10,3,Lolla,57.410
+17:10,4,billie,47.606
+17:10,5,Blink 182,45.683
+17:10,6,chainsawman,130.527
+17:10,7,아기햇살_막둥이종호_생일축하해,46.850
+17:10,8,PortfolioDay,50.261
+17:10,9,MIDNIGHT_SUN発売おめでとう,25.499
+17:10,10,Drake,46.896
+17:40,1,チェンソーマン,242.380
+17:40,2,chainsawman,191.371
+17:40,3,Mbappe,178.414
+17:40,4,Lolla,63.067
+17:40,5,billie,51.396
+17:40,6,Blink 182,52.416
+17:40,7,아기햇살_막둥이종호_생일축하해,62.211
+17:40,8,PortfolioDay,59.222
+17:40,9,MIDNIGHT_SUN発売おめでとう,57.875
+17:40,10,Vaundy,14.402
+18:10,1,チェンソーマン,295.234
+18:10,2,chainsawman,236.324
+18:10,3,Mbappe,202.245
+18:10,4,Lolla,67.629
+18:10,5,PortfolioDay,68.662
+18:10,6,billie,53.456
+18:10,7,Blink 182,59.222
+18:10,8,MAPPA,22.517
+18:10,9,아기햇살_막둥이종호_생일축하해,70.980
+18:10,10,MIDNIGHT_SUN発売おめでとう,67.198
+18:40,1,チェンソーマン,321.978
+18:40,2,chainsawman,262.948
+18:40,3,Mbappe,226.111
+18:40,4,PortfolioDay,78.320
+18:40,5,Lolla,72.501
+18:40,6,FileninSultanları,
+18:40,7,deprem,
+18:40,8,Blink 182,65.663
+18:40,9,billie,56.561
+18:40,10,MAPPA,26.427
+19:10,1,チェンソーマン,340.697
+19:10,2,chainsawman,288.672
+19:10,3,Mbappe,245.557
+19:10,4,FileninSultanları,10.486
+19:10,5,PortfolioDay,89.103
+19:10,6,NationalComingOutDay,22.779
+19:10,7,Lolla,76.173
+19:10,8,MAPPA,31.023
+19:10,9,Blink 182,71.420
+19:10,10,billie,58.252
+19:40,1,チェンソーマン,353.551
+19:40,2,chainsawman,310.554
+19:40,3,Mbappe,264.988
+19:40,4,PortfolioDay,101.404
+19:40,5,Juventus,48.847
+19:40,6,FileninSultanları,10.904
+19:40,7,NationalComingOutDay,26.318
+19:40,8,Mahrez,13.552
+19:40,9,Lolla,79.873
+19:40,10,Blink 182,76.579
+20:10,1,chainsawman,327.046
+20:10,2,チェンソーマン,361.753
+20:10,3,Juventus,61.179
+20:10,4,PortfolioDay,112.573
+20:10,5,Mbappe,284.053
+20:10,6,NationalComingOutDay,29.032
+20:10,7,FileninSultanları,11.361
+20:10,8,Mahrez,15.659
+20:10,9,Allegri,17.084
+20:10,10,Tulsi,131.677
+20:40,1,chainsawman,342.913
+20:40,2,Juventus,70.484
+20:40,3,チェンソーマン,369.437
+20:40,4,PortfolioDay,124.299
+20:40,5,Mbappe,300.161
+20:40,6,NationalComingOutDay,31.463
+20:40,7,Allegri,21.313
+20:40,8,النصر_العداله,60.387
+20:40,9,Mahrez,16.542
+20:40,10,Tulsi,139.871
+21:10,1,Juventus,85.859
+21:10,2,chainsawman,355.148
+21:10,3,PortfolioDay,135.993
+21:10,4,Allegri,30.950
+21:10,5,チェンソーマン,375.197
+21:10,6,NationalComingOutDay,34.231
+21:10,7,VoleiNoSporTV,19.256
+21:10,8,Mbappe,312.865
+21:10,9,Phillies,35.856
+21:10,10,Braves,49.596
+21:40,1,Tomori,21.173
+21:40,2,MilanChelsea,10.700
+21:40,3,Juventus,94.230
+21:40,4,chainsawman,367.963
+21:40,5,النصر_العداله,81.420
+21:40,6,PortfolioDay,147.303
+21:40,7,MILCHE,
+21:40,8,Allegri,37.893
+21:40,9,Phillies,39.141
+21:40,10,Mbappe,322.941
+22:10,1,Angela Lansbury,61.305
+22:10,2,Tomori,29.734
+22:10,3,MilanChelsea,15.941
+22:10,4,Murder She Wrote,23.367
+22:10,5,VoleiNoSporTV,31.791
+22:10,6,PortfolioDay,158.507
+22:10,7,chainsawman,377.364
+22:10,8,MILCHE,
+22:10,9,Juventus,98.736
+22:10,10,Allegri,41.220
+22:40,1,Angela Lansbury,96.900
+22:40,2,VoleiNoSporTV,48.773
+22:40,3,Murder She Wrote,35.953
+22:40,4,Tomori,32.328
+22:40,5,MilanChelsea,19.407
+22:40,6,PortfolioDay,169.636
+22:40,7,Jessica Fletcher,
+22:40,8,Verlander,
+22:40,9,chainsawman,388.736
+22:40,10,MILCHE,
+23:10,1,Angela Lansbury,119.309
+23:10,2,Rudiger,28.469
+23:10,3,Murder She Wrote,42.853
+23:10,4,VoleiNoSporTV,52.174
+23:10,5,Verlander,12.107
+23:10,6,MilanChelsea,22.027
+23:10,7,COYGIG,
+23:10,8,Tomori,34.477
+23:10,9,PortfolioDay,180.974
+23:10,10,Phillies,51.855
+23:40,1,Angela Lansbury,137.616
+23:40,2,Rudiger,40.045
+23:40,3,Murder She Wrote,48.162
+23:40,4,COYGIG,10.020
+23:40,5,Verlander,13.983
+23:40,6,VoleiNoSporTV,53.718
+23:40,7,Chelsea,214.945
+23:40,8,PortfolioDay,191.791
+23:40,9,Jessica Fletcher,13.918
+23:40,10,Tomori,37.405

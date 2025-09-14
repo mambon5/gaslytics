@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,大谷翔平,22.715
+00:10,2,大谷翔平,22.715
+00:10,3,Molina,152.557
+00:10,4,SecretGala10,57.493
+00:10,5,Adele30,22.896
+00:10,6,bbcqt,
+00:10,7,イチロー,35.255
+00:10,8,Bryce Harper,11.825
+00:10,9,大谷くん,
+00:10,10,オフ8冠,
+00:41,1,大谷翔平,32.765
+00:41,2,大谷翔平,32.765
+00:41,3,Molina,165.621
+00:41,4,SecretGala10,67.485
+00:41,5,Adele30,26.233
+00:41,6,PATROAS NA FORBES,38.130
+00:41,7,イチロー,44.457
+00:41,8,bbcqt,10.524
+00:41,9,David Guetta,50.429
+00:41,10,Bryce Harper,13.664
+01:10,1,大谷翔平,38.698
+01:10,2,Molina,172.747
+01:10,3,SecretGala10,77.309
+01:10,4,PATROAS NA FORBES,50.733
+01:10,5,Adele30,27.771
+01:10,6,イチロー,49.591
+01:10,7,MVP,19.336
+01:10,8,LatinGRAMMY,23.162
+01:10,9,David Guetta,62.998
+01:10,10,Bryce Harper,14.694
+01:41,1,大谷翔平,43.242
+01:41,2,LatinGRAMMY,29.631
+01:41,3,PATROAS NA FORBES,53.723
+01:41,4,Molina,180.477
+01:41,5,Adele30,29.463
+01:41,6,SecretGala10,81.616
+01:41,7,SnowdropExclusiveTeaser,44.076
+01:41,8,SNOWDROP SECOND TEASER,45.901
+01:41,9,イチロー,53.350
+01:41,10,Falcons,25.188
+02:10,1,LatinGRAMMY,35.028
+02:10,2,大谷翔平,46.351
+02:10,3,Falcons,27.550
+02:10,4,station19,26.745
+02:10,5,TheVoiceBrasil,
+02:10,6,PATROAS NA FORBES,54.805
+02:10,7,Adele30,30.738
+02:10,8,SNOWDROP SECOND TEASER,60.128
+02:10,9,Molina,185.084
+02:10,10,イチロー,55.512
+02:41,1,Falcons,33.833
+02:41,2,Matt Ryan,
+02:41,3,LatinGRAMMY,41.427
+02:41,4,EliminaçãoAFazenda,26.071
+02:41,5,VERZUZ,
+02:41,6,BieberWave,11.769
+02:41,7,TheVoiceBrasil,
+02:41,8,大谷翔平,84.145
+02:41,9,Hit Row,
+02:41,10,PATROAS NA FORBES,55.593
+03:10,1,EliminaçãoAFazenda,63.315
+03:10,2,LatinGRAMMY,49.067
+03:10,3,Falcons,36.786
+03:10,4,VERZUZ,
+03:10,5,Aline,102.038
+03:10,6,Matt Ryan,
+03:10,7,Norm Ender,
+03:10,8,Hit Row,
+03:10,9,Valentina,277.521
+03:10,10,BieberWave,16.281
+03:41,1,EliminaçãoAFazenda,101.541
+03:41,2,Aline,132.450
+03:41,3,VERZUZ,18.784
+03:41,4,Falcons,42.789
+03:41,5,Matt Ryan,10.909
+03:41,6,LatinGRAMMY,58.106
+03:41,7,Chaka,17.101
+03:41,8,Adele30,42.422
+03:41,9,紅白歌合戦,16.876
+03:41,10,Hit Row,
+04:10,1,VERZUZ,26.030
+04:10,2,EliminaçãoAFazenda,111.873
+04:10,3,Falcons,47.902
+04:10,4,Matt Ryan,13.578
+04:10,5,Aline,135.738
+04:10,6,LatinGRAMMY,65.845
+04:10,7,FarmLaws,
+04:10,8,SurvivingSophia,10.685
+04:10,9,Chaka,21.485
+04:10,10,Hit Row,
+04:41,1,FarmLaws,36.052
+04:41,2,Falcons,60.278
+04:41,3,FarmersProtest,50.736
+04:41,4,SurvivingSophia,19.825
+04:41,5,VERZUZ,32.909
+04:41,6,Matt Ryan,15.567
+04:41,7,Aline,144.678
+04:41,8,EliminaçãoAFazenda,118.487
+04:41,9,Patriots,98.557
+04:41,10,Chaka,25.584
+05:10,1,FarmLaws,64.199
+05:10,2,SurvivingSophia,29.146
+05:10,3,Falcons,62.303
+05:10,4,FarmersProtest,72.269
+05:10,5,VERZUZ,34.878
+05:10,6,Adele30,55.683
+05:10,7,Matt Ryan,16.132
+05:10,8,Aline,147.376
+05:10,9,Patriots,101.614
+05:10,10,Chaka,27.158
+05:41,1,FarmLaws,89.232
+05:41,2,SurvivingSophia,37.412
+05:41,3,Adele30,66.564
+05:41,4,FarmersProtest,90.661
+05:41,5,Falcons,63.776
+05:41,6,VERZUZ,35.603
+05:41,7,Matt Ryan,16.527
+05:41,8,Kevin McCarthy,155.579
+05:41,9,Aline,149.380
+05:41,10,紅白出場,208.222
+06:10,1,FarmLaws,113.608
+06:10,2,Adele,243.609
+06:10,3,SurvivingSophia,40.095
+06:10,4,FarmersProtest,104.268
+06:10,5,Falcons,64.369
+06:10,6,RushHour,139.507
+06:10,7,Survivingstupidy,
+06:10,8,Kevin McCarthy,168.011
+06:10,9,Matt Ryan,16.727
+06:10,10,紅白出場,220.221
+06:41,1,FarmLaws,134.032
+06:41,2,Adele,258.410
+06:41,3,SurvivingSophia,43.192
+06:41,4,Falcons,65.056
+06:41,5,Survivingstupidy,
+06:41,6,RushHour,156.698
+06:41,7,GuruNanakJayanti,38.867
+06:41,8,Kevin McCarthy,179.083
+06:41,9,My Little Love,28.396
+06:41,10,紅白出場,231.505
+07:10,1,FarmLaws,149.065
+07:10,2,Adele,261.224
+07:10,3,SurvivingSophia,45.789
+07:10,4,Survivingstupidy,10.195
+07:10,5,RushHour,169.585
+07:10,6,GuruNanakJayanti,41.618
+07:10,7,Falcons,65.382
+07:10,8,Kevin McCarthy,186.474
+07:10,9,My Little Love,29.681
+07:10,10,Punjab,49.009
+07:41,1,FarmLaws,163.980
+07:41,2,Adele,270.201
+07:41,3,SurvivingSophia,47.760
+07:41,4,InternationalMensDay,65.845
+07:41,5,EclipseLunar,13.948
+07:41,6,ABDevilliers,
+07:41,7,Kevin McCarthy,193.312
+07:41,8,Punjab,52.360
+07:41,9,Falcons,65.720
+07:41,10,My Little Love,30.974
+08:10,1,FarmLawsRepealed,47.418
+08:10,2,Adele,271.246
+08:10,3,FarmersProtest,143.596
+08:10,4,ABDevilliers,
+08:10,5,SurvivingSophia,49.220
+08:10,6,InternationalMensDay,68.098
+08:10,7,Modi,200.802
+08:10,8,三日月宗近,30.011
+08:10,9,紅白出場,260.838
+08:10,10,Punjab,52.977
+08:41,1,FarmLawsRepealed,55.503
+08:41,2,Adele,278.169
+08:41,3,FarmersProtest,152.105
+08:41,4,ABDevilliers,
+08:41,5,皆既月食,66.183
+08:41,6,InternationalMensDay,71.462
+08:41,7,SurvivingSophia,50.573
+08:41,8,Modi,211.698
+08:41,9,部分月食,80.969
+08:41,10,HUENING KAI SPECIAL MC,36.727
+09:10,1,皆既月食,86.976
+09:10,2,FarmLawsRepealed,64.339
+09:10,3,部分月食,95.906
+09:10,4,Adele,279.892
+09:10,5,ABDevilliers,12.062
+09:10,6,FarmersProtest,158.601
+09:10,7,InternationalMensDay,74.300
+09:10,8,EclipseLunar,20.289
+09:10,9,Modi,216.661
+09:10,10,ポケモン,379.523
+09:41,1,皆既月食,116.114
+09:41,2,部分月食,115.200
+09:41,3,FarmLawsRepealed,73.536
+09:41,4,EclipseLunar,24.335
+09:41,5,ABDevilliers,14.984
+09:41,6,Adele,285.928
+09:41,7,InternationalMensDay,78.214
+09:41,8,FarmersProtest,165.377
+09:41,9,皆既日食,
+09:41,10,BOUND TO MEET ENHYPEN,111.378
+10:10,1,皆既月食,131.300
+10:10,2,部分月食,126.749
+10:10,3,FarmLawsRepealed,81.355
+10:10,4,LunarEclipse,14.907
+10:10,5,InternationalMensDay,81.712
+10:10,6,ABDevilliers,17.479
+10:10,7,Adele,287.044
+10:10,8,Müslüme,
+10:10,9,皆既日食,
+10:10,10,BOUND TO MEET ENHYPEN,119.122
+10:41,1,皆既月食,144.292
+10:41,2,部分月食,138.768
+10:41,3,Müslüme,
+10:41,4,Farmlawsrepealed,88.999
+10:41,5,InternationalMensDay,85.639
+10:41,6,LunarEclipse,16.480
+10:41,7,ABDevilliers,19.236
+10:41,8,皆既日食,
+10:41,9,Adele,293.553
+10:41,10,ポケモン,411.469
+11:10,1,皆既月食,151.648
+11:10,2,Müslüme,10.271
+11:10,3,部分月食,144.259
+11:10,4,Farmlawsrepealed,96.422
+11:10,5,InternationalMensDay,88.591
+11:10,6,LunarEclipse,17.342
+11:10,7,ABDevilliers,20.772
+11:10,8,ポケモン,414.573
+11:10,9,皆既日食,10.049
+11:10,10,Adele,294.744
+11:41,1,皆既月食,160.969
+11:41,2,Müslüme,15.038
+11:41,3,部分月食,152.025
+11:41,4,InternationalMensDay,93.255
+11:41,5,FarmLawsRepealed,107.913
+11:41,6,BlackFridayChollometroIsOn,
+11:41,7,ポケモン,431.889
+11:41,8,ความรักทั้ง7Mของเมธวิน,113.591
+11:41,9,Adele,301.719
+11:41,10,皆既日食,10.513
+12:10,1,皆既月食,165.231
+12:10,2,Müslüme,19.010
+12:10,3,アナ雪2,20.562
+12:10,4,部分月食,153.858
+12:10,5,InternationalMensDay,97.000
+12:10,6,FarmLawsRepealed,118.271
+12:10,7,EndViolence,38.406
+12:10,8,BlackFridayChollometroIsOn,
+12:10,9,ポケモン,436.613
+12:10,10,Adele,303.313
+12:41,1,皆既月食,171.900
+12:41,2,Müslüme,22.585
+12:41,3,アナ雪2,27.040
+12:41,4,EndViolence,80.362
+12:41,5,部分月食,160.153
+12:41,6,InternationalMensDay,101.916
+12:41,7,BlackFridayChollometroIsOn,
+12:41,8,BANGLADESH,108.321
+12:41,9,FarmLawsRepealed,128.485
+12:41,10,ポケモン,457.822
+13:10,1,EndViolence,150.348
+13:10,2,アナ雪2,32.591
+13:10,3,Müslüme,25.477
+13:10,4,皆既月食,174.993
+13:10,5,Mステ,28.460
+13:10,6,BANGLADESH,168.507
+13:10,7,InternationalMensDay,106.616
+13:10,8,BlackFridayChollometroIsOn,
+13:10,9,クリストフ,10.734
+13:10,10,部分月食,160.399
+13:41,1,EndViolence,222.881
+13:41,2,アナ雪2,38.432
+13:41,3,Müslüme,28.258
+13:41,4,WE STAND WITH BANGLADESH ARMY,131.307
+13:41,5,皆既月食,181.240
+13:41,6,Erzurum,
+13:41,7,InternationalMensDay,110.888
+13:41,8,TheMysteriousClassEP2,63.283
+13:41,9,クリストフ,14.247
+13:41,10,Adele,324.911
+14:10,1,EndViolence,280.190
+14:10,2,アナ雪2,46.884
+14:10,3,WE STAND WITH BANGLADESH ARMY,168.522
+14:10,4,Müslüme,30.754
+14:10,5,Erzurum,
+14:10,6,皆既月食,184.812
+14:10,7,TheMysteriousClassEP2,87.500
+14:10,8,InternationalMensDay,113.376
+14:10,9,Adele,328.879
+14:10,10,クリストフ,17.897
+14:41,1,EndViolence,328.888
+14:41,2,アナ雪2,50.522
+14:41,3,WE STAND WITH BANGLADESH ARMY,200.086
+14:41,4,Erzurum,
+14:41,5,Müslüme,33.225
+14:41,6,Adele,342.020
+14:41,7,TheMysteriousClassEP2,107.549
+14:41,8,InternationalMensDay,117.845
+14:41,9,皆既月食,190.666
+14:41,10,クリストフ,19.185
+15:10,1,EndViolence,369.647
+15:10,2,WE STAND WITH BANGLADESH ARMY,227.235
+15:10,3,アナ雪2,52.093
+15:10,4,Adele,346.649
+15:10,5,Erzurum,
+15:10,6,Müslüme,35.307
+15:10,7,BadBuddySeriesEP4,57.754
+15:10,8,InternationalMensDay,117.376
+15:10,9,皆既月食,194.513
+15:10,10,KAI TEASER IMAGE 1,17.389
+15:41,1,EndViolence,405.583
+15:41,2,WE STAND WITH BANGLADESH ARMY,251.768
+15:41,3,Adele,359.883
+15:41,4,アナ雪2,53.190
+15:41,5,BadBuddySeriesEP4,72.107
+15:41,6,당도최고_카이네복숭아,110.401
+15:41,7,Erzurum,
+15:41,8,InternationalMensDay,121.832
+15:41,9,KAI TEASER IMAGE 1,105.152
+15:41,10,Senate,113.248
+16:10,1,EndViolence,432.084
+16:10,2,Adele,369.241
+16:10,3,BadBuddySeriesEP4,80.010
+16:10,4,انا_,
+16:10,5,InternationalMensDay,119.626
+16:10,6,アナ雪2,53.808
+16:10,7,1YearWithBE,16.273
+16:10,8,KAI TEASER IMAGE 1,123.690
+16:10,9,Senate,107.485
+16:10,10,Kamala Harris,78.462
+16:41,1,EndViolence,460.184
+16:41,2,EndViolence,460.184
+16:41,3,Adele,385.111
+16:41,4,1YearWithBE,24.947
+16:41,5,BadBuddySeriesEP4,88.377
+16:41,6,InternationalMensDay,123.940
+16:41,7,Senate,115.349
+16:41,8,アナ雪2,54.310
+16:41,9,Kamala Harris,88.830
+16:41,10,KAI TEASER IMAGE 1,129.991
+17:10,1,EndViolence,474.650
+17:10,2,Adele,389.139
+17:10,3,1YearWithBE,32.199
+17:10,4,BadBuddySeriesEP4,97.027
+17:10,5,DiaInternacionalDelHombre,
+17:10,6,Fortune4Days,143.148
+17:10,7,Kamala Harris,97.361
+17:10,8,Senate,115.910
+17:10,9,Cowboy Bebop,25.128
+17:10,10,アナ雪2,54.636
+17:41,1,EndViolence,483.954
+17:41,2,Adele,403.018
+17:41,3,1YearWithBE,38.431
+17:41,4,FreeCodeFridayContest,
+17:41,5,BadBuddySeriesEP4,104.415
+17:41,6,DiaInternacionalDelHombre,10.872
+17:41,7,Kamala Harris,107.625
+17:41,8,Senate,121.772
+17:41,9,Cowboy Bebop,26.943
+17:41,10,زيزو,
+18:10,1,Adele,406.587
+18:10,2,EndViolence,485.134
+18:10,3,FreeCodeFridayContest,
+18:10,4,1YearWithBE,43.226
+18:10,5,قصه_كفاح_بن_تركي,
+18:10,6,DiaInternacionalDelHombre,12.080
+18:10,7,Kamala Harris,114.715
+18:10,8,Cowboy Bebop,28.417
+18:10,9,Senate,123.549
+18:10,10,La Argentina,51.828
+18:41,1,Kyle Rittenhouse,377.815
+18:41,2,Kenosha,136.005
+18:41,3,WhitePrivilege,13.860
+18:41,4,Adele,418.394
+18:41,5,FreeCodeFridayContest,
+18:41,6,Wisconsin,72.592
+18:41,7,Justice,380.751
+18:41,8,EndViolence,493.644
+18:41,9,1YearWithBE,47.516
+18:41,10,PomeranianCoin,
+19:10,1,Kyle Rittenhouse,570.663
+19:10,2,America,608.430
+19:10,3,Kenosha,159.970
+19:10,4,Wisconsin,84.328
+19:10,5,WhitePrivilege,23.220
+19:10,6,Justice,464.334
+19:10,7,FreeCodeFridayContest,
+19:10,8,Adele,419.986
+19:10,9,George Zimmerman,
+19:10,10,اوليه_افطار_طوال_اليوم9,
+19:41,1,Kyle Rittenhouse,731.690
+19:41,2,America,663.701
+19:41,3,Kenosha,189.124
+19:41,4,Wisconsin,96.883
+19:41,5,AR-15,67.667
+19:41,6,Justice,533.174
+19:41,7,WhitePrivilege,29.830
+19:41,8,AeroFla,52.739
+19:41,9,George Zimmerman,
+19:41,10,Adele,428.661
+20:10,1,Kyle Rittenhouse,820.987
+20:10,2,America,677.774
+20:10,3,Kenosha,202.008
+20:10,4,Wisconsin,101.226
+20:10,5,AR-15,77.138
+20:10,6,Justice,564.417
+20:10,7,WhitePrivilege,33.182
+20:10,8,AeroFla,59.049
+20:10,9,coelho,10.390
+20:10,10,George Zimmerman,
+20:41,1,Kyle Rittenhouse,912.251
+20:41,2,America,715.295
+20:41,3,Kenosha,223.170
+20:41,4,Wisconsin,108.889
+20:41,5,AR-15,87.144
+20:41,6,Justice,610.203
+20:41,7,AeroFla,65.717
+20:41,8,WhitePrivilege,34.676
+20:41,9,coelho,11.321
+20:41,10,DALS,
+21:10,1,Kyle Rittenhouse,971.583
+21:10,2,America,721.656
+21:10,3,Kenosha,233.094
+21:10,4,Wisconsin,111.553
+21:10,5,AR-15,93.443
+21:10,6,DALS,10.304
+21:10,7,Justice,636.839
+21:10,8,AeroFla,73.548
+21:10,9,ortasayfa,
+21:10,10,Rotterdam,15.193
+21:41,1,Kyle Rittenhouse,1.021.138
+21:41,2,America,752.910
+21:41,3,Kenosha,248.640
+21:41,4,Not Guilty,532.623
+21:41,5,Wisconsin,117.460
+21:41,6,DALS,14.866
+21:41,7,Rotterdam,24.100
+21:41,8,AR-15,100.505
+21:41,9,ortasayfa,
+21:41,10,Justice,670.570
+22:10,1,Kyle Rittenhouse,1.043.947
+22:10,2,America,752.205
+22:10,3,Kenosha,255.590
+22:10,4,Rotterdam,33.169
+22:10,5,DALS,19.683
+22:10,6,Wisconsin,118.654
+22:10,7,NOT GUILTY,552.601
+22:10,8,AR-15,105.897
+22:10,9,ortasayfa,
+22:10,10,coelho,13.427
+22:41,1,Kyle Rittenhouse,1.094.338
+22:41,2,America,775.763
+22:41,3,Kenosha,268.153
+22:41,4,Rotterdam,42.108
+22:41,5,DALS,22.990
+22:41,6,Wisconsin,124.476
+22:41,7,AR-15,111.576
+22:41,8,NOT GUILTY,576.373
+22:41,9,coelho,14.463
+22:41,10,Resmi Gazete,17.675
+23:10,1,Kyle Rittenhouse,1.144.827
+23:10,2,America,769.292
+23:10,3,Rotterdam,48.833
+23:10,4,Kenosha,271.502
+23:10,5,DALS,23.769
+23:10,6,Wisconsin,126.082
+23:10,7,TCMS3,
+23:10,8,coelho,15.015
+23:10,9,AR-15,114.934
+23:10,10,Resmi Gazete,19.240
+23:41,1,Kyle,1.532.663
+23:41,2,Rotterdam,54.769
+23:41,3,America,790.914
+23:41,4,Kenosha,282.186
+23:41,5,TCMS3,10.292
+23:41,6,coelho,15.917
+23:41,7,Wisconsin,130.975
+23:41,8,AR-15,120.120
+23:41,9,DALS,24.225
+23:41,10,NOT GUILTY,612.941

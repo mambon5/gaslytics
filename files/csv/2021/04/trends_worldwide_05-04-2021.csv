@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Happy Easter,1.291.956
+00:10,2,LineOfDuty,25.192
+00:10,3,RocioVerdad3,46.879
+00:10,4,DateRush,30.352
+00:10,5,النصر_الفيصلي,165.496
+00:10,6,SapıkAlihanTutuklansın,11.526
+00:10,7,Páscoa,932.179
+00:10,8,Sevilla,58.568
+00:10,9,Nacho,32.566
+00:10,10,Spieth,
+00:41,1,SapıkAlihanTutuklansın,23.027
+00:41,2,Happy Easter,1.130.081
+00:41,3,RocioVerdad3,56.054
+00:41,4,DateRush,39.738
+00:41,5,LineofDuty,26.500
+00:41,6,النصر_الفيصلي,171.183
+00:41,7,Páscoa,955.889
+00:41,8,Faustão,58.230
+00:41,9,Sevilla,60.516
+00:41,10,Spieth,
+01:10,1,SapıkAlihanTutuklansın,33.457
+01:10,2,RocioVerdad3,64.073
+01:10,3,Easter,1.726.489
+01:10,4,DateRush,44.741
+01:10,5,LineOfDuty,27.282
+01:10,6,Faustão,61.548
+01:10,7,paribu,10.115
+01:10,8,Páscoa,964.992
+01:10,9,Atleti,35.597
+01:10,10,Román,56.074
+01:41,1,SapıkAlihanTutuklansın,39.922
+01:41,2,RocioVerdad3,76.348
+01:41,3,Easter,1.813.301
+01:41,4,MamataConnection,22.645
+01:41,5,DateRush,45.953
+01:41,6,LineofDuty,27.882
+01:41,7,Faustão,64.281
+01:41,8,Páscoa,985.455
+01:41,9,BTS IS COMING,13.912
+01:41,10,Román,58.774
+02:10,1,SapıkAlihanTutuklansın,43.343
+02:10,2,RocioVerdad3,84.453
+02:10,3,MamataConnection,38.284
+02:10,4,Easter,1.888.567
+02:10,5,Stanford,18.530
+02:10,6,Verzuz,10.374
+02:10,7,ncaaW,11.594
+02:10,8,Profiline BakanIar,
+02:10,9,Arizona,35.161
+02:10,10,Páscoa,991.482
+02:41,1,Verzuz,35.634
+02:41,2,Stanford,30.597
+02:41,3,SapıkAlihanTutuklansın,45.358
+02:41,4,MamataConnection,54.522
+02:41,5,ncaaW,17.350
+02:41,6,Steve Harvey,
+02:41,7,RocioVerdad3,89.079
+02:41,8,Easter,1.962.088
+02:41,9,Ron Isley,
+02:41,10,Arizona,43.421
+03:10,1,Verzuz,71.145
+03:10,2,Steve Harvey,10.283
+03:10,3,MamataConnection,71.784
+03:10,4,Stanford,32.350
+03:10,5,SapıkAlihanTutuklansın,46.443
+03:10,6,Ron Isley,
+03:10,7,Ohtani,20.585
+03:10,8,ncaaW,18.137
+03:10,9,RHOA,11.421
+03:10,10,Easter,1.988.422
+03:41,1,Verzuz,113.465
+03:41,2,Steve Harvey,19.216
+03:41,3,MamataConnection,90.682
+03:41,4,BTS IS COMING,75.400
+03:41,5,Ron Isley,10.652
+03:41,6,Ohtani,29.919
+03:41,7,ARMYSelcaDay,74.523
+03:41,8,SAGAwards,23.586
+03:41,9,ARSD,77.580
+03:41,10,Stanford,33.654
+04:10,1,Verzuz,149.818
+04:10,2,Steve Harvey,28.732
+04:10,3,BTS IS COMING,99.463
+04:10,4,MamataConnection,105.887
+04:10,5,Ron Isley,11.467
+04:10,6,Ohtani,35.962
+04:10,7,ARMYSelcaDay,89.275
+04:10,8,SAGAwards,36.844
+04:10,9,ARSD,93.799
+04:10,10,Stanford,34.219
+04:41,1,Caio,196.566
+04:41,2,Verzuz,184.378
+04:41,3,Fiuk,265.331
+04:41,4,Viih Tube,166.769
+04:41,5,Steve Harvey,33.363
+04:41,6,BTS IS COMING,115.625
+04:41,7,MamataConnection,119.978
+04:41,8,BBB221,
+04:41,9,Ron Isley,13.814
+04:41,10,Gil e Juliette,132.400
+05:10,1,Caio,380.113
+05:10,2,Juliette,992.813
+05:10,3,Verzuz,221.886
+05:10,4,FicaGil,31.760
+05:10,5,Viih Tube,191.142
+05:10,6,Fiuk,255.719
+05:10,7,Bastião,82.878
+05:10,8,ForaGil,17.822
+05:10,9,Steve Harvey,39.547
+05:10,10,Pocah,154.653
+05:41,1,Caio,445.196
+05:41,2,Juliette,1.115.994
+05:41,3,Verzuz,256.853
+05:41,4,FicaGil,39.661
+05:41,5,Thais,197.407
+05:41,6,Viih Tube,229.811
+05:41,7,Fiuk,263.812
+05:41,8,ForaGil,22.190
+05:41,9,Bastião,91.572
+05:41,10,ONE_OUT_NOW,48.462
+06:10,1,Caio,470.602
+06:10,2,Juliette,1.137.157
+06:10,3,Verzuz,293.522
+06:10,4,FicaGil,43.540
+06:10,5,Viih Tube,233.416
+06:10,6,Thais,192.509
+06:10,7,ONE_OUT_NOW,86.753
+06:10,8,ExatlonGranFinal,27.558
+06:10,9,Fiuk,261.132
+06:10,10,ForaGil,24.062
+06:41,1,Caio,493.341
+06:41,2,Juliette,1.174.707
+06:41,3,Verzuz,312.499
+06:41,4,FicaGil,45.716
+06:41,5,Thais,194.653
+06:41,6,ExatlonGranFinal,35.136
+06:41,7,Viih Tube,238.416
+06:41,8,ONE_OUT_NOW,108.036
+06:41,9,ASTRO,370.475
+06:41,10,Fiuk,264.384
+07:10,1,Caio,501.019
+07:10,2,Juliette,1.179.228
+07:10,3,Verzuz,322.494
+07:10,4,FicaGil,47.099
+07:10,5,neyday,29.860
+07:10,6,ONE_OUT_NOW,120.031
+07:10,7,ExatlonGranFinal,38.777
+07:10,8,Thais,198.443
+07:10,9,Viih Tube,48.452
+07:10,10,Fiuk,261.040
+07:41,1,Caio,507.356
+07:41,2,Juliette,1.197.597
+07:41,3,Verzuz,329.430
+07:41,4,neyday,46.625
+07:41,5,FicaGil,48.192
+07:41,6,ONE_OUT_NOW,129.018
+07:41,7,exatlongranfinal,40.298
+07:41,8,Thais,207.478
+07:41,9,Viih Tube,240.374
+07:41,10,Fiuk,263.636
+08:10,1,Caio,511.047
+08:10,2,Juliette,1.192.875
+08:10,3,Verzuz,333.965
+08:10,4,neyday,59.778
+08:10,5,ONE_OUT_NOW,136.660
+08:10,6,FicaGil,48.842
+08:10,7,Thais,204.539
+08:10,8,ASTRO,406.320
+08:10,9,Fiuk,258.257
+08:10,10,Viih Tube,238.377
+08:41,1,Caio,514.759
+08:41,2,Juliette,1.200.115
+08:41,3,neyday,69.505
+08:41,4,Verzuz,337.948
+08:41,5,pazartesi,
+08:41,6,ONE_OUT_NOW,143.999
+08:41,7,EkonomiyeDEVABabacan,
+08:41,8,Thais,205.630
+08:41,9,Viih Tube,239.482
+08:41,10,BOYFRIEND REVEAL,59.084
+09:10,1,Caio,516.043
+09:10,2,Juliette,1.194.104
+09:10,3,neyday,74.896
+09:10,4,pazartesi,
+09:10,5,Verzuz,340.472
+09:10,6,EkonomiyeDEVABabacan,
+09:10,7,ONE_OUT_NOW,150.035
+09:10,8,Thais,202.219
+09:10,9,BOYFRIEND REVEAL,60.877
+09:10,10,水有利古戦場準備シート,
+09:41,1,ForaRodolffo,324.105
+09:41,2,ForaRodolffo,324.105
+09:41,3,Juliette,1.198.876
+09:41,4,neyday,78.393
+09:41,5,pazartesi,11.332
+09:41,6,EkonomiyeDEVABabacan,
+09:41,7,Thais,202.854
+09:41,8,Aykut Erdoğdu,
+09:41,9,水有利古戦場準備シート,
+09:41,10,BOYFRIEND REVEAL,63.148
+10:10,1,ForaRodolffo,325.042
+10:10,2,Caio,518.545
+10:10,3,Juliette,1.196.269
+10:10,4,AFLCatsHawks,
+10:10,5,neyday,79.911
+10:10,6,脚本家の橋田寿賀子さん死去,
+10:10,7,TodayIs_WendySolo,
+10:10,8,AvukatlarGünü,
+10:10,9,サーバーエラー,
+10:10,10,LIKE WATER OUT NOW,
+10:41,1,TodayIs_WendySolo,51.230
+10:41,2,LIKE WATER OUT NOW,41.735
+10:41,3,AvukatlarGünü,10.823
+10:41,4,Juliette,1.198.962
+10:41,5,橋田壽賀子さん,12.764
+10:41,6,ForaRodolffo,325.848
+10:41,7,AFLCatsHawks,
+10:41,8,pazartesi,14.206
+10:41,9,Caio,519.738
+10:41,10,サーバーエラー,
+11:10,1,TodayIs_WendySolo,97.623
+11:10,2,LIKE WATER OUT NOW,75.830
+11:10,3,Profilimi KimEngelledi,
+11:10,4,AvukatlarGünü,13.277
+11:10,5,橋田壽賀子さん,17.654
+11:10,6,Juliette,1.195.518
+11:10,7,Profilime KimlerBaktı,
+11:10,8,EasterMonday,
+11:10,9,MondayMotivation,31.126
+11:10,10,alex quackity,
+11:41,1,TodayIs_WendySolo,136.903
+11:41,2,LIKE WATER OUT NOW,101.523
+11:41,3,RedVelvet,213.564
+11:41,4,AvukatlarGünü,15.581
+11:41,5,profilimi kimengelledi,
+11:41,6,橋田壽賀子さん,21.223
+11:41,7,EasterMonday,
+11:41,8,Juliette,1.199.336
+11:41,9,めけぽんビンゴ,
+11:41,10,Profilime KimlerBaktı,
+12:10,1,TodayIs_WendySolo,158.869
+12:10,2,LIKE WATER OUT NOW,113.499
+12:10,3,RedVelvet,238.741
+12:10,4,AvukatlarGünü,18.346
+12:10,5,NHK沼,
+12:10,6,profilimi kimengelledi,
+12:10,7,EasterMonday,10.374
+12:10,8,橋田壽賀子さん,23.684
+12:10,9,VSOPE,27.824
+12:10,10,イベスト20話,
+12:41,1,TodayIs_WendySolo,176.070
+12:41,2,hobi,165.036
+12:41,3,LIKE WATER OUT NOW,120.880
+12:41,4,BamBamVliveisHere,36.088
+12:41,5,NHK沼,
+12:41,6,RedVelvet,268.037
+12:41,7,AvukatlarGünü,21.049
+12:41,8,VSOPE,61.373
+12:41,9,橋田壽賀子さん,25.661
+12:41,10,イベスト20話,
+13:10,1,TodayIs_WendySolo,186.951
+13:10,2,hobi,172.440
+13:10,3,BamBamVliveisHere,70.327
+13:10,4,LIKE WATER OUT NOW,126.098
+13:10,5,クイズTHE違和感,12.314
+13:10,6,RedVelvet,273.211
+13:10,7,VSOPE,77.735
+13:10,8,AvukatlarGünü,23.333
+13:10,9,YargıPaketinde KamuAvukatı,
+13:10,10,橋田壽賀子さん,27.076
+13:41,1,TodayIs_WendySolo,197.725
+13:41,2,クイズTHE違和感,19.093
+13:41,3,hobi,184.357
+13:41,4,BamBamVliveisHere,104.295
+13:41,5,LIKE WATER OUT NOW,131.497
+13:41,6,Dolaplarda NeGizleniyor,
+13:41,7,DayBeforeTomorrow,33.862
+13:41,8,AvukatlarGünü,26.078
+13:41,9,VSOPE,90.815
+13:41,10,YargıPaketinde KamuAvukatı,
+14:10,1,earthquake,12.551
+14:10,2,TodayIs_WendySolo,206.726
+14:10,3,クイズTHE違和感,21.318
+14:10,4,教えてもらう前と後,
+14:10,5,BamBamVliveisHere,125.832
+14:10,6,hobi,189.560
+14:10,7,Favoribahis Papara20TL,
+14:10,8,コーヒークッキー,
+14:10,9,帰れま10,
+14:10,10,LIKE WATER OUT NOW,136.341
+14:41,1,教えてもらう前と後,26.773
+14:41,2,earthquake,14.199
+14:41,3,イチケイのカラス,18.890
+14:41,4,TodayIs_WendySolo,213.956
+14:41,5,クイズTHE違和感,21.791
+14:41,6,帰れま10,
+14:41,7,コーヒークッキー,13.724
+14:41,8,hobi,199.515
+14:41,9,favoribahis papara20tl,
+14:41,10,ジブリ作品の中,
+15:10,1,教えてもらう前と後,44.502
+15:10,2,イチケイのカラス,21.857
+15:10,3,earthquake,14.949
+15:10,4,neyday,136.365
+15:10,5,平均50,
+15:10,6,胸のサイズ,
+15:10,7,女子化ボタン見た人はやれ,
+15:10,8,恋愛対象,
+15:10,9,顔面偏差値,
+15:10,10,帰れま10,
+15:41,1,教えてもらう前と後,56.117
+15:41,2,Loki,30.508
+15:41,3,イチケイのカラス,25.409
+15:41,4,平均50,
+15:41,5,胸のサイズ,
+15:41,6,女子化ボタン見た人はやれ,
+15:41,7,neyday,151.639
+15:41,8,恋愛対象,
+15:41,9,顔面偏差値,
+15:41,10,徳井さん,
+16:10,1,Loki,50.395
+16:10,2,教えてもらう前と後,59.117
+16:10,3,平均50,
+16:10,4,胸のサイズ,
+16:10,5,女子化ボタン見た人はやれ,
+16:10,6,neyday,167.511
+16:10,7,ARSD,251.530
+16:10,8,恋愛対象,
+16:10,9,顔面偏差値,
+16:10,10,JUMP,172.762
+16:41,1,Loki,67.831
+16:41,2,내사랑_민규_생일축하한다는거야,57.078
+16:41,3,ARSD,278.183
+16:41,4,胸のサイズ,
+16:41,5,平均50,
+16:41,6,女子化ボタン見た人はやれ,
+16:41,7,neyday,184.717
+16:41,8,恋愛対象,
+16:41,9,顔面偏差値,
+16:41,10,HOBI,256.408
+17:10,1,내사랑_민규_생일축하한다는거야,139.217
+17:10,2,Our_Buddy_Mingyu_Day,128.870
+17:10,3,Loki,82.003
+17:10,4,ARSD,307.843
+17:10,5,ARMYSelcaDay,290.521
+17:10,6,胸のサイズ,
+17:10,7,平均50,
+17:10,8,恋愛対象,
+17:10,9,HOBI,271.032
+17:10,10,顔面偏差値,
+17:41,1,내사랑_민규_생일축하한다는거야,208.372
+17:41,2,Our_Buddy_Mingyu_Day,198.093
+17:41,3,ARSD,343.411
+17:41,4,ARMYSelcaDay,320.706
+17:41,5,Loki,94.909
+17:41,6,胸のサイズ,
+17:41,7,平均50,
+17:41,8,Krzysztof Krawczyk,
+17:41,9,恋愛対象,
+17:41,10,顔面偏差値,
+18:10,1,내사랑_민규_생일축하한다는거야,238.714
+18:10,2,Our_Buddy_Mingyu_Day,229.471
+18:10,3,ARSD,370.067
+18:10,4,ARMYSelcaDay,345.372
+18:10,5,EstrategiaDeVacunacionEdomex,
+18:10,6,Krzysztof Krawczyk,13.007
+18:10,7,胸のサイズ,
+18:10,8,平均50,
+18:10,9,恋愛対象,
+18:10,10,顔面偏差値,
+18:41,1,내사랑_민규_생일축하한다는거야,256.144
+18:41,2,Our_Buddy_Mingyu_Day,247.325
+18:41,3,EstrategiaDeVacunacionEdomex,
+18:41,4,ARMYSelcaDay,366.804
+18:41,5,ARSD,393.208
+18:41,6,Loki,200.895
+18:41,7,Krzysztof Krawczyk,15.406
+18:41,8,TOP IS COMING,25.249
+18:41,9,胸のサイズ,
+18:41,10,平均50,
+19:10,1,EstrategiaDeVacunacionEdomex,13.803
+19:10,2,Our_Buddy_Mingyu_Day,257.710
+19:10,3,내사랑_민규_생일축하한다는거야,266.127
+19:10,4,ARMYSelcaDay,382.538
+19:10,5,ARSD,409.437
+19:10,6,Loki,212.233
+19:10,7,TOP IS COMING,33.432
+19:10,8,Krzysztof Krawczyk,17.123
+19:10,9,Samatta,
+19:10,10,胸のサイズ,
+19:41,1,EstrategiaDeVacunacionEdomex,18.636
+19:41,2,Our_Buddy_Mingyu_Day,265.487
+19:41,3,내사랑_민규_생일축하한다는거야,273.314
+19:41,4,ARMYSelcaDay,397.632
+19:41,5,ARSD,425.112
+19:41,6,Samatta,15.155
+19:41,7,TOP IS COMING,41.771
+19:41,8,Loki,225.044
+19:41,9,Krzysztof Krawczyk,18.972
+19:41,10,胸のサイズ,
+20:10,1,EstrategiaDeVacunacionEdomex,21.893
+20:10,2,FBvDNZ,18.767
+20:10,3,ARMYSelcaDay,410.200
+20:10,4,Our_Buddy_Mingyu_Day,270.186
+20:10,5,내사랑_민규_생일축하한다는거야,277.835
+20:10,6,Samatta,19.577
+20:10,7,TOP IS COMING,49.294
+20:10,8,Loki,234.252
+20:10,9,Krzysztof Krawczyk,20.247
+20:10,10,Richarlison,
+20:41,1,EstrategiaDeVacunacionEdomex,24.444
+20:41,2,FBvDNZ,21.814
+20:41,3,ARMYSelcaDay,421.797
+20:41,4,Samatta,22.995
+20:41,5,ARSD,451.219
+20:41,6,TOP IS COMING,55.521
+20:41,7,Our_Buddy_Mingyu_Day,273.781
+20:41,8,Loki,244.040
+20:41,9,CLANCY,11.263
+20:41,10,Krzysztof Krawczyk,21.467
+21:10,1,EstrategiaDeVacunacionEdomex,26.277
+21:10,2,FBvDNZ,22.071
+21:10,3,ARMYSelcaDay,432.235
+21:10,4,TOP IS COMING,61.062
+21:10,5,ARSD,462.407
+21:10,6,Samatta,24.094
+21:10,7,Our_Buddy_Mingyu_Day,276.237
+21:10,8,clancy,13.620
+21:10,9,Everton,32.748
+21:10,10,Loki,251.526
+21:41,1,EstrategiaDeVacunacionEdomex,27.866
+21:41,2,Lingard,20.658
+21:41,3,FBvDNZ,22.820
+21:41,4,WOLWHU,
+21:41,5,TOP IS COMING,65.614
+21:41,6,ARMYSelcaDay,439.988
+21:41,7,West Ham,
+21:41,8,ARSD,470.701
+21:41,9,Nelson Cruz,
+21:41,10,clancy,15.652
+22:10,1,Lingard,38.216
+22:10,2,EstrategiaDeVacunacionEdomex,29.006
+22:10,3,West Ham,25.956
+22:10,4,WOLWHU,11.450
+22:10,5,Darnold,16.454
+22:10,6,Panthers,29.264
+22:10,7,FBvDNZ,22.902
+22:10,8,TOP IS COMING,67.926
+22:10,9,ARMYSelcaDay,446.959
+22:10,10,Wolves,31.467
+22:41,1,Lingard,46.595
+22:41,2,Darnold,34.837
+22:41,3,EstrategiaDeVacunacionEdomex,30.029
+22:41,4,West Ham,30.408
+22:41,5,Jets,52.151
+22:41,6,Panthers,48.067
+22:41,7,WOLWHU,13.182
+22:41,8,Carolina,60.408
+22:41,9,Valladolid,30.653
+22:41,10,TheDancerEstreno,
+23:10,1,Dembele,41.926
+23:10,2,Lingard,50.688
+23:10,3,Valladolid,46.739
+23:10,4,Darnold,43.250
+23:10,5,isola,43.924
+23:10,6,celasun,55.099
+23:10,7,West Ham,34.524
+23:10,8,Jets,58.436
+23:10,9,EstrategiaDeVacunacionEdomex,30.845
+23:10,10,Panthers,54.388
+23:41,1,isola,58.114
+23:41,2,Dembele,53.835
+23:41,3,Valladolid,55.901
+23:41,4,Lingard,55.919
+23:41,5,Darnold,48.905
+23:41,6,West Ham,39.672
+23:41,7,celasun,59.298
+23:41,8,Jets,63.059
+23:41,9,TheDancerEstreno,10.350
+23:41,10,Panthers,59.245

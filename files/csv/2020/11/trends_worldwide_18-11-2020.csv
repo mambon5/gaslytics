@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Ecuador,109.358
+00:09,2,SalarioRosa,69.838
+00:09,3,EdomexFuerte,25.330
+00:09,4,LaRojaxCHV,12.340
+00:09,5,Queiroz,44.386
+00:09,6,GBBO,32.768
+00:09,7,Alemania,66.048
+00:09,8,ESPGER,32.835
+00:09,9,Rueda,25.234
+00:09,10,Disney,748.404
+00:39,1,Ecuador,125.491
+00:39,2,SalarioRosa,75.927
+00:39,3,EdomexFuerte,27.829
+00:39,4,Queiroz,52.153
+00:39,5,LaRojaxCHV,13.559
+00:39,6,Rueda,30.193
+00:39,7,GBBO,33.496
+00:39,8,Disney,768.623
+00:39,9,Alemania,69.108
+00:39,10,ESPGER,33.551
+01:09,1,SalarioRosa,80.242
+01:09,2,Ecuador,131.615
+01:09,3,EdomexFuerte,29.707
+01:09,4,Queiroz,56.651
+01:09,5,Disney,776.556
+01:09,6,LaRojaxCHV,13.918
+01:09,7,Rueda,32.174
+01:09,8,SIEMPRE HE ESTADO AQUI,69.079
+01:09,9,GBBO,33.921
+01:09,10,MCCelebrity,11.961
+01:39,1,SalarioRosa,84.110
+01:39,2,Ecuador,137.471
+01:39,3,SIEMPRE HE ESTADO AQUI,89.349
+01:39,4,EdomexFuerte,31.278
+01:39,5,Disney,796.231
+01:39,6,Queiroz,60.046
+01:39,7,Cavani,
+01:39,8,Rueda,33.866
+01:39,9,LaRojaxCHV,14.155
+01:39,10,MCCelebrity,13.343
+02:09,1,SalarioRosa,87.689
+02:09,2,SIEMPRE HE ESTADO AQUI,103.374
+02:09,3,Disney,804.261
+02:09,4,EdomexFuerte,32.721
+02:09,5,Colombia,254.637
+02:09,6,Queiroz,62.372
+02:09,7,Cavani,11.133
+02:09,8,Nico González,
+02:09,9,RBDisBack,10.030
+02:09,10,Rueda,34.569
+02:39,1,TheBachelorette,14.035
+02:39,2,Disney,824.915
+02:39,3,SIEMPRE HE ESTADO AQUI,110.620
+02:39,4,SalarioRosa,90.464
+02:39,5,Nico González,
+02:39,6,EdomexFuerte,33.850
+02:39,7,Colombia,262.480
+02:39,8,Ecuador,145.042
+02:39,9,RBDisBack,11.967
+02:39,10,Queiroz,65.185
+03:09,1,TheBachelorette,26.886
+03:09,2,Disney,829.730
+03:09,3,Nico González,10.259
+03:09,4,SIEMPRE HE ESTADO AQUI,118.021
+03:09,5,SalarioRosa,92.537
+03:09,6,EdomexFuerte,35.011
+03:09,7,RBDisBack,13.752
+03:09,8,Lo Celso,
+03:09,9,Lapadula,13.629
+03:09,10,Colombia,258.591
+03:39,1,TheBachelorette,38.646
+03:39,2,RoçaAFazenda,59.276
+03:39,3,Disney,848.683
+03:39,4,Wayne County,230.509
+03:39,5,Nico González,12.418
+03:39,6,Lapadula,20.202
+03:39,7,SalarioRosa,97.403
+03:39,8,SIEMPRE HE ESTADO AQUI,122.006
+03:39,9,Lo Celso,
+03:39,10,Chasen,10.783
+04:09,1,RoçaAFazenda,103.956
+04:09,2,TheBachelorette,47.896
+04:09,3,SalarioRosa,107.638
+04:09,4,Disney,823.197
+04:09,5,Wayne County,278.291
+04:09,6,ThisIsUs,12.343
+04:09,7,Lapadula,24.462
+04:09,8,Nico González,13.660
+04:09,9,Tays,93.089
+04:09,10,TheVoiceBrasil,
+04:39,1,RoçaAFazenda,163.881
+04:39,2,Mariano,71.559
+04:39,3,TheBachelorette,49.656
+04:39,4,Mirella,93.185
+04:39,5,SalarioRosa,116.414
+04:39,6,LOONA_STAR,47.587
+04:39,7,Wayne County,321.438
+04:39,8,Tays,110.738
+04:39,9,Lipe,34.814
+04:39,10,Disney,839.546
+05:09,1,RoçaAFazenda,180.645
+05:09,2,Mariano,78.013
+05:09,3,Mirella,103.722
+05:09,4,TheBachelorette,50.817
+05:09,5,SalarioRosa,122.170
+05:09,6,Lipe,45.994
+05:09,7,LOONA_STAR,59.918
+05:09,8,Disney,815.825
+05:09,9,Wayne County,351.972
+05:09,10,Tays,113.515
+05:39,1,RoçaAFazenda,190.111
+05:39,2,Mariano,83.710
+05:39,3,Mirella,113.185
+05:39,4,SalarioRosa,126.171
+05:39,5,TheBachelorette,51.997
+05:39,6,Lipe,50.193
+05:39,7,LOONA_STAR,66.786
+05:39,8,Disney,827.810
+05:39,9,LaMasDraga3,
+05:39,10,Wayne County,374.000
+06:09,1,RoçaAFazenda,195.129
+06:09,2,Mariano,86.915
+06:09,3,Mirella,117.665
+06:09,4,SalarioRosa,128.528
+06:09,5,TheBachelorette,53.088
+06:09,6,BringBackTrueIndology,44.344
+06:09,7,LaMasDraga3,
+06:09,8,Lipe,51.754
+06:09,9,Disney,811.059
+06:09,10,Wayne County,393.482
+06:39,1,RoçaAFazenda,197.752
+06:39,2,BringBackTrueIndology,58.961
+06:39,3,Mirella,121.056
+06:39,4,SalarioRosa,129.922
+06:39,5,Mariano,89.125
+06:39,6,TheBachelorette,53.930
+06:39,7,ゲーミングPCでしたいこと,18.913
+06:39,8,Lipe,52.799
+06:39,9,Disney,819.356
+06:39,10,Wayne County,408.866
+07:09,1,RoçaAFazenda,199.143
+07:09,2,BringBackTrueIndology,75.375
+07:09,3,過去最多,26.920
+07:09,4,ゲーミングPCでしたいこと,21.021
+07:09,5,東京493人,31.378
+07:09,6,LaMasDraga3,11.610
+07:09,7,TheBachelorette,54.774
+07:09,8,Mirella,122.468
+07:09,9,Mariano,89.957
+07:09,10,Disney,808.001
+07:39,1,BringBackTrueIndology,94.727
+07:39,2,RoçaAFazenda,199.873
+07:39,3,過去最多,31.592
+07:39,4,ゲーミングPCでしたいこと,22.952
+07:39,5,東京493人,38.998
+07:39,6,LaMasDraga3,12.122
+07:39,7,التحديث_الجديد,22.719
+07:39,8,좀비사태,
+07:39,9,Mirella,123.153
+07:39,10,사망 원인,
+08:09,1,BringBackTrueIndology,113.944
+08:09,2,過去最多,
+08:09,3,ゲーミングPCでしたいこと,24.680
+08:09,4,RoçaAFazenda,200.352
+08:09,5,東京493人,44.088
+08:09,6,좀비사태,
+08:09,7,사망 원인,
+08:09,8,التحديث_الجديد,24.886
+08:09,9,시신 위치,
+08:09,10,생존 시간,
+08:39,1,BringBackTrueIndology,131.451
+08:39,2,ゲーミングPCでしたいこと,26.385
+08:39,3,過去最多,36.521
+08:39,4,좀비사태,
+08:39,5,التحديث_الجديد,27.148
+08:39,6,東京493人,47.695
+08:39,7,시신 위치,
+08:39,8,사망 원인,
+08:39,9,생존 시간,
+08:39,10,wednesdaythought,13.106
+09:09,1,BringBackTrueIndology,147.014
+09:09,2,ゲーミングPCでしたいこと,28.054
+09:09,3,過去最多,38.142
+09:09,4,wednesdaythought,14.877
+09:09,5,التحديث_الجديد,29.400
+09:09,6,スワロフスキー,
+09:09,7,좀비사태,
+09:09,8,MilletinSesiAkşener,
+09:09,9,사망 원인,
+09:09,10,시신 위치,
+09:39,1,BringBackTrueIndology,162.606
+09:39,2,過去最多,42.542
+09:39,3,ゲーミングPCでしたいこと,29.618
+09:39,4,スワロフスキー,
+09:39,5,wednesdaythought,16.969
+09:39,6,我慢の3連休,
+09:39,7,التحديث_الجديد,31.277
+09:39,8,좀비사태,
+09:39,9,EssbareSerien,
+09:39,10,ハニプレ,39.250
+10:09,1,BringBackTrueIndology,177.896
+10:09,2,スワロフスキー,
+10:09,3,過去最多,46.109
+10:09,4,我慢の3連休,
+10:09,5,wednesdaythought,18.873
+10:09,6,ゲーミングPCでしたいこと,31.045
+10:09,7,ハニプレ,40.605
+10:09,8,日本のコロナは自民党の人災,
+10:09,9,EssbareSerien,
+10:09,10,좀비사태,
+10:39,1,최우수상,
+10:39,2,BringBackTrueIndology,190.954
+10:39,3,Origin,
+10:39,4,我慢の3連休,
+10:39,5,スワロフスキー,
+10:39,6,過去最多,51.020
+10:39,7,日本のコロナは自民党の人災,11.297
+10:39,8,LekkiMassaccre,20.465
+10:39,9,wednesdaythought,20.627
+10:39,10,ハニプレ,43.903
+11:09,1,최우수상,30.943
+11:09,2,Origin,
+11:09,3,BringBackTrueIndology,203.041
+11:09,4,我慢の3連休,
+11:09,5,日本のコロナは自民党の人災,16.016
+11:09,6,スワロフスキー,11.187
+11:09,7,LekkiMassaccre,31.501
+11:09,8,ม็อบ18พฤศจิกา,1.063.903
+11:09,9,過去最多,53.431
+11:09,10,ハニプレ,46.102
+11:39,1,최우수상,49.256
+11:39,2,嫌いボタン,11.728
+11:39,3,Origin,
+11:39,4,LekkiMassaccre,44.813
+11:39,5,MAGO2ndWin,15.216
+11:39,6,日本のコロナは自民党の人災,20.950
+11:39,7,BringBackTrueIndology,214.053
+11:39,8,我慢の3連休,10.144
+11:39,9,スワロフスキー,12.862
+11:39,10,過去最多,55.839
+12:09,1,嫌いボタン,24.728
+12:09,2,Origin,
+12:09,3,최우수상,66.645
+12:09,4,有吉の壁,
+12:09,5,LekkiMassaccre,60.004
+12:09,6,MAGO2ndWin,25.016
+12:09,7,笑ってコラえて,
+12:09,8,KOUGU維新,
+12:09,9,我慢の3連休,11.747
+12:09,10,スワロフスキー,13.909
+12:39,1,嫌いボタン,41.336
+12:39,2,Origin,10.208
+12:39,3,笑ってコラえて,16.761
+12:39,4,최우수상,76.210
+12:39,5,LekkiMassaccre,73.679
+12:39,6,b1811,26.898
+12:39,7,有吉の壁,10.038
+12:39,8,新型BRZ,
+12:39,9,KOUGU維新,
+12:39,10,我慢の3連休,13.341
+13:09,1,嫌いボタン,60.814
+13:09,2,Origin,11.173
+13:09,3,b1811,32.054
+13:09,4,LekkiMassaccre,84.639
+13:09,5,笑ってコラえて,17.510
+13:09,6,최우수상,82.685
+13:09,7,東大王,
+13:09,8,Daisuke,12.335
+13:09,9,新型BRZ,
+13:09,10,dislike,61.402
+13:39,1,嫌いボタン,77.988
+13:39,2,b1811,37.075
+13:39,3,PMQs,
+13:39,4,LekkiMassaccre,95.760
+13:39,5,夜なラブ,
+13:39,6,IntelYPcComponentesDeBlack,
+13:39,7,Daisuke,14.871
+13:39,8,최우수상,88.844
+13:39,9,新型BRZ,
+13:39,10,dislike,64.570
+14:09,1,嫌いボタン,95.171
+14:09,2,b1811,41.975
+14:09,3,夜なラブ,12.465
+14:09,4,Daisuke,16.727
+14:09,5,PMQs,10.810
+14:09,6,IntelYPcComponentesDeBlack,
+14:09,7,LekkiMassaccre,106.514
+14:09,8,新型BRZ,
+14:09,9,dislike,66.571
+14:09,10,최우수상,94.142
+14:39,1,嫌いボタン,110.361
+14:39,2,リモラブ,20.932
+14:39,3,夜なラブ,15.695
+14:39,4,b1811,46.321
+14:39,5,Daisuke,18.635
+14:39,6,嵐ジオ,
+14:39,7,ม็อบ18พฤศจิกา,2.250.108
+14:39,8,dislike,70.249
+14:39,9,新型BRZ,10.306
+14:39,10,BlackFridayChollometroViene,
+15:09,1,嫌いボタン,125.220
+15:09,2,リモラブ,33.557
+15:09,3,夜なラブ,23.140
+15:09,4,b1811,50.671
+15:09,5,Daisuke,19.620
+15:09,6,嵐ジオ,
+15:09,7,IntelYPcComponentesDeBlack,
+15:09,8,野呂ちゃん,
+15:09,9,BlackFridayChollometroViene,
+15:09,10,dislike,71.628
+15:39,1,嫌いボタン,137.424
+15:39,2,リモラブ,35.887
+15:39,3,夜なラブ,23.802
+15:39,4,b1811,55.075
+15:39,5,Daisuke,21.225
+15:39,6,嵐ジオ,
+15:39,7,IntelYPcComponentesDeBlack,
+15:39,8,BlackFridayChollometroViene,
+15:39,9,野呂ちゃん,
+15:39,10,新型BRZ,13.128
+16:09,1,嫌いボタン,146.838
+16:09,2,HappyRukiDay,23.290
+16:09,3,JO1白岩瑠姫誕生祭,19.138
+16:09,4,リモラブ,36.789
+16:09,5,夜なラブ,24.037
+16:09,6,b1811,58.701
+16:09,7,Daisuke,22.256
+16:09,8,BlackFridayChollometroViene,
+16:09,9,新型BRZ,14.266
+16:09,10,NAO GOSTO DA DAY,23.141
+16:39,1,LifeGoesOnTeaser2,167.151
+16:39,2,嫌いボタン,153.260
+16:39,3,1DayBEforeBE,152.856
+16:39,4,InTheMoodWithKAI,122.362
+16:39,5,HappyRukiDay,45.341
+16:39,6,JO1白岩瑠姫誕生祭,38.605
+16:39,7,I REMEMBER,307.820
+16:39,8,瑠姫くん,27.145
+16:39,9,Daisuke,23.371
+16:39,10,BlackFridayChollometroViene,
+17:09,1,LifeGoesOnTeaser2,203.147
+17:09,2,1DayBEforeBE,180.672
+17:09,3,嫌いボタン,157.636
+17:09,4,InTheMoodWithKAI,169.522
+17:09,5,HappyRukiDay,53.593
+17:09,6,JO1白岩瑠姫誕生祭,45.941
+17:09,7,I REMEMBER,316.133
+17:09,8,真ちゃん,10.529
+17:09,9,瑠姫くん,31.813
+17:09,10,Daisuke,24.111
+17:39,1,lifeGoesOnTeaser2,215.712
+17:39,2,1DayBEforeBE,188.696
+17:39,3,InTheMoodWithKAI,196.725
+17:39,4,嫌いボタン,161.108
+17:39,5,HappyRukiDay,57.053
+17:39,6,JO1白岩瑠姫誕生祭,49.005
+17:39,7,I REMEMBER,329.955
+17:39,8,真ちゃん,11.296
+17:39,9,瑠姫くん,33.752
+17:39,10,Daisuke,24.968
+18:09,1,LifeGoesOnTeaser2,223.274
+18:09,2,InTheMoodWithKAI,212.024
+18:09,3,1DayBEforeBE,193.247
+18:09,4,嫌いボタン,163.967
+18:09,5,乃木坂46ANN,12.377
+18:09,6,HayvanHaklarıYasasıHemen,
+18:09,7,Taylor Lautner,
+18:09,8,I REMEMBER,327.808
+18:09,9,真ちゃん,11.491
+18:09,10,ASSISTA LOUD MOB,
+18:39,1,LifeGoesOnTeaser2,229.132
+18:39,2,HayvanHaklarıYasasıHemen,
+18:39,3,InTheMoodWithKAI,224.265
+18:39,4,1DayBEforeBE,197.288
+18:39,5,GOTY,17.289
+18:39,6,嫌いボタン,165.871
+18:39,7,乃木坂46ANN,15.693
+18:39,8,Taylor Lautner,
+18:39,9,Hades,34.580
+18:39,10,Sharkboy,
+19:09,1,GOTY,21.635
+19:09,2,LifeGoesOnTeaser2,233.780
+19:09,3,HayvanHaklarıYasasıHemen,11.924
+19:09,4,Hades,39.335
+19:09,5,1DayBEforeBE,201.863
+19:09,6,乃木坂46ANN,19.314
+19:09,7,InTheMoodWithKAI,231.677
+19:09,8,Taylor Lautner,
+19:09,9,Animal Crossing,47.879
+19:09,10,Sharkboy,11.055
+19:39,1,GOTY,25.201
+19:39,2,HayvanHaklarıYasasıHemen,15.284
+19:39,3,Hades,43.643
+19:39,4,LOWKEYASHELL,
+19:39,5,LifeGoesOnTeaser2,237.171
+19:39,6,Animal Crossing,51.141
+19:39,7,Taylor Lautner,10.185
+19:39,8,TheGameAwards,23.490
+19:39,9,Sharkboy,14.219
+19:39,10,1DayBEforeBE,205.096
+20:09,1,GOTY,27.905
+20:09,2,HayvanHaklarıYasasıHemen,19.013
+20:09,3,Hades,45.475
+20:09,4,LOWKEYASHELL,11.993
+20:09,5,Animal Crossing,50.522
+20:09,6,Taylor Lautner,12.745
+20:09,7,TheGameAwards,27.284
+20:09,8,Sharkboy,17.117
+20:09,9,LifeGoesOnTeaser2,239.594
+20:09,10,Ghost of Tsushima,16.581
+20:39,1,GOTY,30.133
+20:39,2,HayvanHaklarıYasasıHemen,22.606
+20:39,3,Hades,48.108
+20:39,4,LOWKEYASHELL,14.282
+20:39,5,Animal Crossing,52.704
+20:39,6,Taylor Lautner,15.206
+20:39,7,MurphyBreakdown,22.323
+20:39,8,TheGameAwards,30.925
+20:39,9,Sharkboy,20.161
+20:39,10,Ghost of Tsushima,17.748
+21:09,1,POLNED,
+21:09,2,HayvanHaklarıYasasıHemen,26.730
+21:09,3,GOTY,32.054
+21:09,4,PS5LeStream,
+21:09,5,Hades,49.335
+21:09,6,MurphyBreakdown,29.435
+21:09,7,TheGameAwards,33.542
+21:09,8,Animal Crossing,51.552
+21:09,9,Sharkboy,22.878
+21:09,10,Taylor Lautner,17.624
+21:39,1,POLNED,
+21:39,2,HayvanHaklarıYasasıHemen,31.312
+21:39,3,PS5LeStream,
+21:39,4,GOTY,33.797
+21:39,5,Diego Souza,
+21:39,6,Hades,51.430
+21:39,7,ENGICE,
+21:39,8,sadakatsiz,
+21:39,9,Sharkboy,25.149
+21:39,10,Animal Crossing,53.340
+22:09,1,POLNED,
+22:09,2,HayvanHaklarıYasasıHemen,35.502
+22:09,3,PS5LeStream,10.406
+22:09,4,GOTY,35.263
+22:09,5,chilhavisto,
+22:09,6,CrookedKelly,39.073
+22:09,7,Mets,29.747
+22:09,8,Diego Souza,
+22:09,9,Hades,51.934
+22:09,10,Robinson Cano,
+22:39,1,POLNED,11.994
+22:39,2,Foden,
+22:39,3,HayvanHaklarıYasasıHemen,38.559
+22:39,4,PS5LeStream,12.040
+22:39,5,Şenol Güneş,
+22:39,6,HaydiMilliTakım,24.577
+22:39,7,chilhavisto,
+22:39,8,GOTY,36.532
+22:39,9,Mets,33.057
+22:39,10,Cano,26.542
+23:09,1,MaskSinger3,
+23:09,2,Şenol Güneş,15.791
+23:09,3,POLNED,13.194
+23:09,4,Foden,12.932
+23:09,5,HaydiMilliTakım,27.558
+23:09,6,topmodel,
+23:09,7,PS5LeStream,13.618
+23:09,8,Pastora Soler,
+23:09,9,GOTY,37.668
+23:09,10,Mets,33.877
+23:39,1,MaskSinger3,26.060
+23:39,2,Şenol Güneş,17.659
+23:39,3,Danny Green,16.624
+23:39,4,fernando tejero,
+23:39,5,Foden,14.650
+23:39,6,POLNED,13.512
+23:39,7,Horford,17.285
+23:39,8,HaydiMilliTakım,28.175
+23:39,9,Pastora Soler,
+23:39,10,PS5LeStream,14.663

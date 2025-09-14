@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Halloween,2.585.616
+00:10,2,緊急地震速報,39.273
+00:10,3,RomaMilan,29.467
+00:10,4,gremio,146.372
+00:10,5,SecretNoche8,31.932
+00:10,6,Jets,114.891
+00:10,7,Bengals,64.963
+00:10,8,Saints,64.465
+00:10,9,Rigoni,
+00:10,10,Mike White,32.360
+00:41,1,Halloween,3.151.533
+00:41,2,Brady,56.616
+00:41,3,Saints,91.067
+00:41,4,Bucs,25.933
+00:41,5,Sean Payton,
+00:41,6,緊急地震速報,40.724
+00:41,7,WhoDat,
+00:41,8,SecretNoche8,39.189
+00:41,9,カムカムエヴリバディ,30.425
+00:41,10,RomaMilan,30.668
+01:10,1,Halloween,2.706.826
+01:10,2,ZEVENT2021,319.314
+01:10,3,Brady,63.115
+01:10,4,Saints,104.694
+01:10,5,Bucs,28.566
+01:10,6,10 MILLIONS,42.861
+01:10,7,WhoDat,
+01:10,8,Sean Payton,
+01:10,9,SecretNoche8,43.636
+01:10,10,緊急地震速報,41.697
+01:41,1,Halloween,2.520.307
+01:41,2,ZEVENT2021,365.972
+01:41,3,Brady,66.268
+01:41,4,Saints,113.701
+01:41,5,Grand Slam,21.169
+01:41,6,RHOP,12.003
+01:41,7,Duvall,13.367
+01:41,8,Bucs,29.742
+01:41,9,10 MILLIONS,53.390
+01:41,10,WhoDat,
+02:10,1,Halloween,2.741.373
+02:10,2,ZEVENT2021,378.368
+02:10,3,Brady,67.545
+02:10,4,RHOP,19.215
+02:10,5,Saints,117.932
+02:10,6,Grand Slam,29.440
+02:10,7,Duvall,20.845
+02:10,8,Cowboys,31.339
+02:10,9,Cooper Rush,11.902
+02:10,10,Bucs,30.364
+02:41,1,Halloween,2.322.593
+02:41,2,ZEVENT2021,393.227
+02:41,3,RHOP,20.716
+02:41,4,Brady,69.064
+02:41,5,Grand Slam,31.249
+02:41,6,Saints,122.324
+02:41,7,britney,33.516
+02:41,8,Cooper Rush,13.938
+02:41,9,Cowboys,33.915
+02:41,10,Mikael,
+03:10,1,Halloween,2.639.993
+03:10,2,Cooper Rush,17.207
+03:10,3,ZEVENT2021,398.359
+03:10,4,RHOP,21.548
+03:10,5,Valentina,55.088
+03:10,6,Cowboys,36.651
+03:10,7,Brady,70.087
+03:10,8,britney,33.681
+03:10,9,WorldSeries,78.764
+03:10,10,Saints,125.922
+03:41,1,Halloween,2.814.848
+03:41,2,Insecure,
+03:41,3,Cooper Rush,18.975
+03:41,4,Cowboys,39.612
+03:41,5,RHOP,22.437
+03:41,6,WorldSeries,82.603
+03:41,7,Valentina,61.424
+03:41,8,ZEVENT2021,403.126
+03:41,9,Brady,71.368
+03:41,10,Special_Books_On_Diwali,111.678
+04:10,1,Halloween,2.510.351
+04:10,2,Insecure,
+04:10,3,Cooper Rush,20.773
+04:10,4,AFazenda,131.382
+04:10,5,Cowboys,43.260
+04:10,6,Vikings,42.043
+04:10,7,HarryweenN2,23.973
+04:10,8,RHOP,23.167
+04:10,9,Special_Books_On_Diwali,146.745
+04:10,10,Valentina,63.867
+04:41,1,Cowboys,68.382
+04:41,2,Halloween,5.775.468
+04:41,3,Cooper Rush,34.774
+04:41,4,Insecure,
+04:41,5,Zimmer,11.493
+04:41,6,Kirk Cousins,
+04:41,7,AFazenda,150.840
+04:41,8,Zeke,15.192
+04:41,9,DALvsMIN,24.674
+04:41,10,HarryweenN2,27.387
+05:10,1,Cowboys,85.753
+05:10,2,Cooper Rush,43.228
+05:10,3,Halloween,7.214.079
+05:10,4,Insecure,
+05:10,5,Zimmer,15.145
+05:10,6,AFazenda,166.566
+05:10,7,Kirk Cousins,
+05:10,8,Zeke,15.997
+05:10,9,DALvsMIN,32.949
+05:10,10,QuiénEsLaMáscara,13.837
+05:41,1,Cowboys,91.646
+05:41,2,Halloween,5.411.939
+05:41,3,Cooper Rush,46.960
+05:41,4,Insecure,
+05:41,5,AFazenda,183.965
+05:41,6,Zimmer,16.277
+05:41,7,QuiénEsLaMáscara,22.411
+05:41,8,Kirk Cousins,
+05:41,9,Christmas,218.859
+05:41,10,Zeke,16.539
+06:10,1,Cowboys,94.430
+06:10,2,Cooper Rush,48.562
+06:10,3,Insecure,
+06:10,4,AFazenda,194.454
+06:10,5,QuiénEsLaMáscara,31.022
+06:10,6,Christmas,221.777
+06:10,7,Zimmer,16.846
+06:10,8,Kirk Cousins,
+06:10,9,Pazartesi,
+06:10,10,Special_Books_On_Diwali,230.060
+06:41,1,Cowboys,96.723
+06:41,2,Cooper Rush,49.560
+06:41,3,Christmas,229.845
+06:41,4,Insecure,10.198
+06:41,5,AFazenda,202.036
+06:41,6,RRRGlimpse,172.436
+06:41,7,Pazartesi,
+06:41,8,QuiénEsLaMáscara,32.191
+06:41,9,Zimmer,17.197
+06:41,10,Kirk Cousins,
+07:10,1,Cowboys,97.971
+07:10,2,RRRGlimpse,208.384
+07:10,3,Cooper Rush,50.270
+07:10,4,Pazartesi,
+07:10,5,Christmas,230.997
+07:10,6,Insecure,10.390
+07:10,7,AFazenda,204.952
+07:10,8,QuiénEsLaMáscara,32.522
+07:10,9,Zimmer,17.356
+07:10,10,Happy New Month,19.902
+07:41,1,Cowboys,98.986
+07:41,2,RRRGlimpse,234.737
+07:41,3,Pazartesi,
+07:41,4,Christmas,237.123
+07:41,5,Cooper Rush,50.781
+07:41,6,Happy New Month,24.606
+07:41,7,NoNutNovember,13.993
+07:41,8,بنك_مسقط,
+07:41,9,TerimaKasihSahabatBSI,
+07:41,10,No.1感謝,10.632
+08:10,1,Pazartesi,
+08:10,2,RRRGlimpse,251.284
+08:10,3,Cowboys,99.414
+08:10,4,Christmas,237.477
+08:10,5,Happy New Month,29.694
+08:10,6,بنك_مسقط,
+08:10,7,doğalgaz,
+08:10,8,NoNutNovember,15.236
+08:10,9,Cooper Rush,51.074
+08:10,10,Vikings,79.898
+08:41,1,Pazartesi,
+08:41,2,RRRGlimpse,264.784
+08:41,3,doğalgaz,
+08:41,4,Happy New Month,36.180
+08:41,5,بنك_مسقط,
+08:41,6,Christmas,243.456
+08:41,7,Cowboys,99.946
+08:41,8,العيال_سكر_نبات,
+08:41,9,THE BOYZ ROYAL COMEBACK,37.239
+08:41,10,No.1感謝,14.271
+09:10,1,doğalgaz,
+09:10,2,MAVERICK_ALBUM_RELEASE,71.450
+09:10,3,Pazartesi,
+09:10,4,THE BOYZ ROYAL COMEBACK,71.487
+09:10,5,Happy New Month,42.273
+09:10,6,بنك_مسقط,
+09:10,7,RRRGlimpse,273.709
+09:10,8,Christmas,243.416
+09:10,9,Kasım,66.953
+09:10,10,東京9人,
+09:41,1,doğalgaz,
+09:41,2,MAVERICK_ALBUM_RELEASE,101.856
+09:41,3,THE BOYZ ROYAL COMEBACK,101.735
+09:41,4,V6ありがとう,28.200
+09:41,5,Pazartesi,
+09:41,6,Happy New Month,48.738
+09:41,7,بنك_مسقط,
+09:41,8,東京9人,12.104
+09:41,9,Kasım,
+09:41,10,Christmas,248.889
+10:10,1,V6groove,30.563
+10:10,2,V6ありがとう,33.636
+10:10,3,MAVERICK_ALBUM_RELEASE,118.960
+10:10,4,doğalgaz,
+10:10,5,THE BOYZ ROYAL COMEBACK,118.620
+10:10,6,더보이즈_매버릭_접속완료,27.537
+10:10,7,Happy New Month,54.570
+10:10,8,Kasım,73.567
+10:10,9,東京9人,14.724
+10:10,10,初10人,
+10:41,1,V6groove,39.571
+10:41,2,MAVERICK_ALBUM_RELEASE,124.952
+10:41,3,V6ありがとう,35.933
+10:41,4,doğalgaz,10.542
+10:41,5,THE BOYZ ROYAL COMEBACK,123.069
+10:41,6,더보이즈_매버릭_접속완료,31.001
+10:41,7,邪馬台国復刻,10.504
+10:41,8,Happy New Month,60.564
+10:41,9,Kasım,77.330
+10:41,10,Feiertag,
+11:10,1,V6groove,47.307
+11:10,2,MAVERICK_ALBUM_RELEASE,127.287
+11:10,3,邪馬台国復刻,17.412
+11:10,4,doğalgaz,12.280
+11:10,5,THEBOYZ,146.487
+11:10,6,V6ありがとう,37.745
+11:10,7,Nuno,61.115
+11:10,8,Happy New Month,64.697
+11:10,9,Kasım,79.421
+11:10,10,甘利幹事長の後任,
+11:41,1,Conte,81.067
+11:41,2,V6groove,54.079
+11:41,3,Nuno,78.796
+11:41,4,MAVERICK,243.660
+11:41,5,邪馬台国復刻,22.391
+11:41,6,doğalgaz,13.962
+11:41,7,ネプリーグ,18.080
+11:41,8,THEBOYZ,166.539
+11:41,9,Levy,26.339
+11:41,10,Tottenham,70.287
+12:10,1,Conte,99.506
+12:10,2,まんが王国はお得感No1,
+12:10,3,全マンガ最大80パーセント還元,
+12:10,4,まんが王国お得爆発DAY,
+12:10,5,一気読み,
+12:10,6,Nuno,89.366
+12:10,7,V6groove,58.760
+12:10,8,ネプリーグ,23.868
+12:10,9,邪馬台国復刻,25.124
+12:10,10,hobi,319.825
+12:41,1,Conte,118.358
+12:41,2,全マンガ最大80パーセント還元,
+12:41,3,まんが王国お得爆発DAY,
+12:41,4,まんが王国はお得感No1,
+12:41,5,一気読み,
+12:41,6,Nuno,98.141
+12:41,7,V6groove,65.695
+12:41,8,COP26,345.317
+12:41,9,hobi,334.269
+12:41,10,Levy,29.188
+13:10,1,Conte,129.991
+13:10,2,V6groove,79.757
+13:10,3,全マンガ最大80パーセント還元,
+13:10,4,まんが王国はお得感No1,
+13:10,5,まんが王国お得爆発DAY,
+13:10,6,V6ありがとう,59.991
+13:10,7,一気読み,
+13:10,8,Nuno,103.290
+13:10,9,Tottenham,96.405
+13:10,10,hobi,280.016
+13:41,1,Conte,142.754
+13:41,2,V6groove,89.268
+13:41,3,V6ありがとう,71.124
+13:41,4,全マンガ最大80パーセント還元,
+13:41,5,まんが王国はお得感No1,
+13:41,6,まんが王国お得爆発DAY,
+13:41,7,一気読み,
+13:41,8,Nuno,108.046
+13:41,9,Tottenham,103.138
+13:41,10,Levy,31.146
+14:10,1,Conte,150.419
+14:10,2,V6groove,94.155
+14:10,3,V6ありがとう,83.903
+14:10,4,ARSD,173.228
+14:10,5,全マンガ最大80パーセント還元,
+14:10,6,COP26,356.548
+14:10,7,一気読み,
+14:10,8,hobi,233.500
+14:10,9,Nuno,108.737
+14:10,10,VLTN RESIGNIFY PATRICK,21.637
+14:41,1,Conte,161.829
+14:41,2,ARSD,195.959
+14:41,3,COP26,378.307
+14:41,4,V6ありがとう,96.828
+14:41,5,V6groove,104.495
+14:41,6,PraCimaDeles,
+14:41,7,hobi,242.858
+14:41,8,一気読み,
+14:41,9,VLTN RESIGNIFY PATRICK,88.668
+14:41,10,Nuno,112.643
+15:10,1,Conte,170.768
+15:10,2,ARMYSelcaDay,209.517
+15:10,3,COP26,381.143
+15:10,4,V6ありがとう,106.119
+15:10,5,PraCimaDeles,12.008
+15:10,6,V6groove,111.133
+15:10,7,Christmas,302.776
+15:10,8,hobi,215.783
+15:10,9,一気読み,
+15:10,10,VLTN RESIGNIFY PATRICK,125.582
+15:41,1,ARMYSelcaDay,223.602
+15:41,2,Conte,180.700
+15:41,3,COP26,400.449
+15:41,4,PraCimaDeles,16.034
+15:41,5,V6ありがとう,113.012
+15:41,6,TheBookOfBobaFett,18.644
+15:41,7,Christmas,317.398
+15:41,8,Spurs,113.580
+15:41,9,Derrick Henry,15.957
+15:41,10,hobi,221.006
+16:10,1,ARMYSelcaDay,240.003
+16:10,2,COP26,404.373
+16:10,3,PraCimaDeles,19.710
+16:10,4,Conte,186.272
+16:10,5,V6ありがとう,119.965
+16:10,6,TheBookOfBobaFett,25.133
+16:10,7,Christmas,321.723
+16:10,8,Spurs,115.039
+16:10,9,Thanksgiving,52.644
+16:10,10,Derrick Henry,17.288
+16:41,1,ARMYSelcaDay,259.893
+16:41,2,COP26,426.187
+16:41,3,PraCimaDeles,23.352
+16:41,4,Christmas,337.387
+16:41,5,高本彩花生誕祭,
+16:41,6,HappyBirthdaySRK,146.003
+16:41,7,Conte,193.364
+16:41,8,Thanksgiving,57.503
+16:41,9,Derrick Henry,19.616
+16:41,10,Spurs,119.098
+17:10,1,ARMYSelcaDay,274.706
+17:10,2,ENGvSL,12.346
+17:10,3,Jos Buttler,
+17:10,4,Christmas,341.797
+17:10,5,COP26,432.849
+17:10,6,PraCimaDeles,26.184
+17:10,7,HappyBirthdaySRK,190.061
+17:10,8,Conte,196.834
+17:10,9,Thanksgiving,61.012
+17:10,10,Derrick Henry,20.710
+17:41,1,Rams,40.284
+17:41,2,ARMYSelcaDay,287.066
+17:41,3,ENGvSL,14.173
+17:41,4,Christmas,356.693
+17:41,5,Jos Buttler,
+17:41,6,COP26,454.147
+17:41,7,HappyBirthdaySRK,233.982
+17:41,8,PraCimaDeles,29.408
+17:41,9,Thanksgiving,65.554
+17:41,10,Conte,203.110
+18:10,1,Rams,55.934
+18:10,2,ARMYSelcaDay,295.424
+18:10,3,ARSD,295.443
+18:10,4,Christmas,361.080
+18:10,5,ENGvSL,15.510
+18:10,6,YorumYap ParaGelsin,
+18:10,7,COP26,456.820
+18:10,8,HappyBirthdaySRK,269.517
+18:10,9,Jos Buttler,10.530
+18:10,10,Thanksgiving,67.958
+18:41,1,Rams,64.487
+18:41,2,ARMYSelcaDay,303.126
+18:41,3,Christmas,375.524
+18:41,4,MağdurvarAdaletyok,
+18:41,5,ARSD,302.510
+18:41,6,ENGvSL,17.077
+18:41,7,COP26,479.643
+18:41,8,YorumYap ParaGelsin,
+18:41,9,Thanksgiving,71.465
+18:41,10,Jos Buttler,11.412
+19:10,1,Rams,67.656
+19:10,2,Christmas,379.535
+19:10,3,ARMYSelcaDay,308.474
+19:10,4,ENGvSL,19.467
+19:10,5,ARSD,307.773
+19:10,6,COP26,482.980
+19:10,7,MağdurvarAdaletyok,
+19:10,8,Thanksgiving,73.739
+19:10,9,YorumYap ParaGelsin,
+19:10,10,Jos Buttler,12.348
+19:41,1,Rams,72.013
+19:41,2,Christmas,392.834
+19:41,3,ARMYSelcaDay,313.455
+19:41,4,ÜçKuruş,24.227
+19:41,5,HappyBirthdaySRK,370.924
+19:41,6,NFTSoccerGames,
+19:41,7,COP26,505.567
+19:41,8,Thanksgiving,76.870
+19:41,9,YorumYap ParaGelsin,
+19:41,10,UNIÃO MELLOS,57.099
+20:10,1,Rams,71.643
+20:10,2,Christmas,394.950
+20:10,3,HappyBirthdaySRK,406.408
+20:10,4,ÜçKuruş,27.948
+20:10,5,COP26,509.811
+20:10,6,ARMYSelcaDay,317.699
+20:10,7,Thanksgiving,78.168
+20:10,8,NFTSoccerGames,
+20:10,9,YorumYap ParaGelsin,
+20:10,10,UNIÃO MELLOS,75.250
+20:41,1,Rams,74.295
+20:41,2,Christmas,416.810
+20:41,3,HappyBirthdaySRK,435.759
+20:41,4,pitbulltoken,
+20:41,5,ÜçKuruş,30.314
+20:41,6,COP26,532.939
+20:41,7,MONEY HOT100 DEBUT,18.597
+20:41,8,ARMYSelcaDay,322.086
+20:41,9,Thanksgiving,81.503
+20:41,10,UNIÃO MELLOS,99.749
+21:10,1,PaidInBitcoin,
+21:10,2,Rams,74.919
+21:10,3,Christmas,420.018
+21:10,4,MONEY HOT100 DEBUT,42.521
+21:10,5,HappyBirthdaySRK,455.188
+21:10,6,COP26,537.703
+21:10,7,ÜçKuruş,31.593
+21:10,8,pitbulltoken,
+21:10,9,Thanksgiving,82.974
+21:10,10,UNIÃO MELLOS,116.607
+21:41,1,PaidInBitcoin,19.232
+21:41,2,Everton,23.939
+21:41,3,Christmas,433.348
+21:41,4,MONEY HOT100 DEBUT,57.101
+21:41,5,Rams,77.448
+21:41,6,HappyBirthdaySRK,470.828
+21:41,7,COP26,558.404
+21:41,8,WOLEVE,
+21:41,9,ÜçKuruş,32.838
+21:41,10,Von Miller,54.614
+22:10,1,PaidInBitcoin,26.942
+22:10,2,Chris Pratt,
+22:10,3,Everton,28.265
+22:10,4,Christmas,436.335
+22:10,5,Garfield,14.712
+22:10,6,MONEY HOT100 DEBUT,65.458
+22:10,7,Rams,78.573
+22:10,8,WOLEVE,
+22:10,9,COP26,561.377
+22:10,10,HappyBirthdaySRK,482.777
+22:41,1,PaidInBitcoin,33.777
+22:41,2,Chris Pratt,17.176
+22:41,3,Garfield,20.287
+22:41,4,Everton,31.126
+22:41,5,Christmas,448.925
+22:41,6,MONEY HOT100 DEBUT,71.175
+22:41,7,WOLEVE,
+22:41,8,Iwobi,
+22:41,9,Rams,80.526
+22:41,10,بوليفارد_رياض_سيتي,25.390
+23:10,1,PaidInBitcoin,39.066
+23:10,2,Chris Pratt,24.407
+23:10,3,Garfield,23.813
+23:10,4,Everton,33.544
+23:10,5,Christmas,447.205
+23:10,6,SecretUH14,26.851
+23:10,7,MONEY HOT100 DEBUT,75.245
+23:10,8,WOLEVE,
+23:10,9,MCCelebrity,
+23:10,10,24hoursinpolicecustody,
+23:41,1,PaidInBitcoin,45.314
+23:41,2,Chris Pratt,30.514
+23:41,3,Garfield,27.221
+23:41,4,gfvip,70.757
+23:41,5,Everton,35.548
+23:41,6,Christmas,459.620
+23:41,7,MCCelebrity,
+23:41,8,SecretUH14,32.774
+23:41,9,MONEY HOT100 DEBUT,80.691
+23:41,10,24hoursinpolicecustody,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,الاتحاد_الهلال,381.838
+00:10,2,كلاسيكو_السعوديه,66.978
+00:10,3,HSVBSC,15.847
+00:10,4,isola,16.212
+00:10,5,MasterChef10,
+00:10,6,DEMI LOVATO,19.088
+00:10,7,LOS GRANDES NO CBLOL,17.886
+00:10,8,Peter Bone,
+00:10,9,Hertha,13.382
+00:10,10,سالم,40.677
+00:40,1,الاتحاد_الهلال,386.800
+00:40,2,كلاسيكو_السعوديه,68.397
+00:40,3,Ali Koç,21.203
+00:40,4,isola,21.790
+00:40,5,HSVBSC,15.964
+00:40,6,MasterChef10,
+00:40,7,Rasim,
+00:40,8,DEMI LOVATO,20.475
+00:40,9,LOS GRANDES NO CBLOL,22.290
+00:40,10,Peter Bone,
+01:10,1,Ali Koç,31.559
+01:10,2,الاتحاد_الهلال,391.690
+01:10,3,كلاسيكو_السعوديه,70.211
+01:10,4,isola,24.290
+01:10,5,hsvbsc,16.014
+01:10,6,MasterChef10,
+01:10,7,Rasim,14.675
+01:10,8,DEMI LOVATO,21.444
+01:10,9,LOS GRANDES NO CBLOL,24.307
+01:10,10,Feletti,12.019
+01:40,1,Ali Koç,37.245
+01:40,2,الاتحاد_الهلال,396.336
+01:40,3,isola,26.155
+01:40,4,كلاسيكو_السعوديه,71.273
+01:40,5,MasterChef10,
+01:40,6,HSVBSC,16.064
+01:40,7,Rasim,17.584
+01:40,8,LOS GRANDES NO CBLOL,25.378
+01:40,9,Feletti,12.974
+01:40,10,稲ちゃん,
+02:10,1,Ali Koç,39.371
+02:10,2,الاتحاد_الهلال,397.611
+02:10,3,isola,26.483
+02:10,4,HSVBSC,16.103
+02:10,5,CristianRey,
+02:10,6,MasterChef10,
+02:10,7,Rasim,18.855
+02:10,8,ママ活DM,
+02:10,9,稲ちゃん,
+02:10,10,Gerrit Cole,
+02:40,1,WWERaw,12.279
+02:40,2,Ali Koç,40.511
+02:40,3,AllAmerican,
+02:40,4,PetroGanaDebate,
+02:40,5,CristianRey,
+02:40,6,الاتحاد_الهلال,400.272
+02:40,7,ママ活DM,11.149
+02:40,8,Rasim,19.571
+02:40,9,Riddle,
+02:40,10,State Farm,18.920
+03:10,1,WWERaw,18.438
+03:10,2,Derrick White,
+03:10,3,Aaron Judge,
+03:10,4,ElDebateDefinitivo,
+03:10,5,Ali Koç,41.239
+03:10,6,PetroGanaDebate,
+03:10,7,ThorLoveAndThunder,11.677
+03:10,8,Maria Bruaca,
+03:10,9,DebateElTiempoSemana,
+03:10,10,Tenório,
+03:40,1,ElDebateDefinitivo,14.356
+03:40,2,WWERaw,25.577
+03:40,3,ThorLoveAndThunder,15.038
+03:40,4,DebateElTiempoSemana,
+03:40,5,PetroGanaDebate,
+03:40,6,Derrick White,
+03:40,7,Maria Bruaca,
+03:40,8,Juma,13.408
+03:40,9,Fajardo,82.262
+03:40,10,Tenório,
+04:10,1,ThorLoveAndThunder,62.865
+04:10,2,ElDebateDefinitivo,25.202
+04:10,3,WWERaw,33.161
+04:10,4,Fajardo,93.632
+04:10,5,GoBolts,
+04:10,6,Panthers,19.890
+04:10,7,Christian Bale,
+04:10,8,DebateElTiempoSemana,
+04:10,9,Derrick White,
+04:10,10,Oladipo,
+04:40,1,ThorLoveAndThunder,98.035
+04:40,2,ElDebateDefinitivo,35.812
+04:40,3,Christian Bale,19.260
+04:40,4,BetterCallSaul,10.760
+04:40,5,WWERaw,38.902
+04:40,6,Fajardo,104.793
+04:40,7,Panthers,22.160
+04:40,8,MulheresPower,
+04:40,9,Jane,57.614
+04:40,10,Oladipo,
+05:10,1,ThorLoveAndThunder,119.326
+05:10,2,ElDebateDefinitivo,47.128
+05:10,3,Fajardo,121.381
+05:10,4,Fajardo,121.381
+05:10,5,Christian Bale,24.786
+05:10,6,BetterCallSaul,11.807
+05:10,7,MulheresPower,11.763
+05:10,8,WWERaw,44.266
+05:10,9,Kadri,15.328
+05:10,10,Panthers,22.952
+05:40,1,ThorLoveAndThunder,135.274
+05:40,2,ElDebateDefinitivo,60.650
+05:40,3,Fajardo,143.876
+05:40,4,BetterCallSaul,12.998
+05:40,5,Christian Bale,29.039
+05:40,6,Gorr,33.960
+05:40,7,PetroGanaDebate,34.629
+05:40,8,MulheresPower,12.760
+05:40,9,Kadri,19.052
+05:40,10,Perron,
+06:10,1,ThorLoveAndThunder,148.140
+06:10,2,ElDebateDefinitivo,72.296
+06:10,3,Fajardo,160.479
+06:10,4,Kadri,23.620
+06:10,5,BetterCallSaul,13.958
+06:10,6,Christian Bale,32.131
+06:10,7,GoAvsGo,11.586
+06:10,8,Gorr,37.877
+06:10,9,PetroGanaDebate,41.660
+06:10,10,Perron,
+06:40,1,ThorLoveAndThunder,158.085
+06:40,2,ElDebateDefinitivo,78.335
+06:40,3,Fajardo,171.273
+06:40,4,Kadri,28.179
+06:40,5,GoAvsGo,14.686
+06:40,6,BetterCallSaul,15.202
+06:40,7,Christian Bale,34.664
+06:40,8,Gorr,40.742
+06:40,9,Petro,365.725
+06:40,10,Perron,
+07:10,1,ThorLoveAndThunder,166.473
+07:10,2,ElDebateDefinitivo,81.812
+07:10,3,Fajardo,177.148
+07:10,4,BetterCallSaul,16.232
+07:10,5,Kadri,31.847
+07:10,6,GoAvsGo,15.774
+07:10,7,Christian Bale,37.003
+07:10,8,Gorr,43.397
+07:10,9,Petro,369.831
+07:10,10,Perron,
+07:40,1,ThorLoveAndThunder,174.551
+07:40,2,BetterCallSaul,17.317
+07:40,3,ElDebateDefinitivo,84.041
+07:40,4,Fajardo,181.144
+07:40,5,Christian Bale,39.143
+07:40,6,Kadri,33.446
+07:40,7,GoAvsGo,16.319
+07:40,8,Gorr,45.709
+07:40,9,祝_With_Us_MV300万回再生,17.060
+07:40,10,HappyFresh,
+08:10,1,ThorLoveAndThunder,181.930
+08:10,2,BetterCallSaul,18.196
+08:10,3,ElDebateDefinitivo,85.397
+08:10,4,Fajardo,183.162
+08:10,5,Christian Bale,41.032
+08:10,6,Kadri,34.117
+08:10,7,Gorr,47.792
+08:10,8,GoAvsGo,16.527
+08:10,9,egzaminosmoklasisty2022,27.521
+08:10,10,HappyFresh,
+08:40,1,ThorLoveAndThunder,188.746
+08:40,2,BetterCallSaul,18.953
+08:40,3,nomin,26.243
+08:40,4,GalaxyTabS8,
+08:40,5,Christian Bale,42.776
+08:40,6,HappyFresh,
+08:40,7,ElDebateDefinitivo,86.413
+08:40,8,Fajardo,184.754
+08:40,9,Gorr,49.835
+08:40,10,Kadri,34.685
+09:10,1,ThorLoveAndThunder,194.940
+09:10,2,nomin,58.614
+09:10,3,BetterCallSaul,19.544
+09:10,4,GalaxyTabS8,
+09:10,5,HappyFresh,
+09:10,6,Christian Bale,44.394
+09:10,7,Gorr,51.640
+09:10,8,egzaminosmoklasisty2022,28.144
+09:10,9,Fajardo,185.703
+09:10,10,自動ログアウト,
+09:40,1,nomin,81.432
+09:40,2,ThorLoveAndThunder,200.939
+09:40,3,GalaxyTabS8,
+09:40,4,BetterCallSaul,20.036
+09:40,5,Grant Shapps,
+09:40,6,RikimaruWelcomeBack,14.632
+09:40,7,Christian Bale,45.982
+09:40,8,HappyFresh,
+09:40,9,Ali Koç,64.339
+09:40,10,自動ログアウト,
+10:10,1,nomin,96.929
+10:10,2,ThorLoveAndThunder,206.592
+10:10,3,ElizabethLine,
+10:10,4,Grant Shapps,
+10:10,5,GalaxyTabS8,
+10:10,6,Ali Koç,67.644
+10:10,7,BetterCallSaul,20.742
+10:10,8,Christian Bale,47.524
+10:10,9,自動ログアウト,
+10:10,10,HappyFresh,
+10:40,1,nomin,109.527
+10:40,2,ThorLoveAndThunder,212.463
+10:40,3,ElizabethLine,
+10:40,4,DolarTL,20.782
+10:40,5,hobi,75.043
+10:40,6,zuluecho5,23.050
+10:40,7,Grant Shapps,
+10:40,8,Ali Koç,70.566
+10:40,9,自動ログアウト,
+10:40,10,Christian Bale,49.112
+11:10,1,トム来日,
+11:10,2,nomin,119.637
+11:10,3,ThorLoveAndThunder,217.924
+11:10,4,hobi,76.786
+11:10,5,ElizabethLine,
+11:10,6,DolarTL,20.910
+11:10,7,Ali Koç,73.723
+11:10,8,Grant Shapps,
+11:10,9,モンハン持ち,
+11:10,10,自動ログアウト,
+11:40,1,トム来日,
+11:40,2,egzaminosmoklasisty2022,32.147
+11:40,3,YAIZOO,
+11:40,4,Ali Koç,77.620
+11:40,5,ElizabethLine,
+11:40,6,mingyu,76.424
+11:40,7,DolarTL,22.742
+11:40,8,hobi,80.020
+11:40,9,モンハン持ち,
+11:40,10,grant shapps,
+12:10,1,トム来日,
+12:10,2,egzaminosmoklasisty2022,34.168
+12:10,3,トップガン胸熱,20.352
+12:10,4,プロメア,34.970
+12:10,5,mingyu,87.157
+12:10,6,YAIZOO,
+12:10,7,Ali Koç,80.868
+12:10,8,ElizabethLine,
+12:10,9,モンハン持ち,
+12:10,10,hobi,79.965
+12:40,1,CandySugarPop_1stWin,19.813
+12:40,2,WortenChampions,
+12:40,3,トム来日,
+12:40,4,プロメア,41.448
+12:40,5,egzaminosmoklasisty2022,36.748
+12:40,6,トップガン胸熱,23.268
+12:40,7,ノーアウト3塁,
+12:40,8,mingyu,97.129
+12:40,9,Ali Koç,84.881
+12:40,10,モンハン持ち,
+13:10,1,CandySugarPop_1stWin,32.167
+13:10,2,WortenChampions,
+13:10,3,プロメア,46.925
+13:10,4,うたコン,
+13:10,5,ASTRO10thWin,13.722
+13:10,6,BOSJ,11.461
+13:10,7,冨樫先生,
+13:10,8,mingyu,99.975
+13:10,9,ノーアウト3塁,
+13:10,10,Ali Koç,88.509
+13:40,1,色の見え方,
+13:40,2,あなたの年齢,
+13:40,3,CandySugarPop_1stWin,36.225
+13:40,4,うたコン,11.288
+13:40,5,サロメ満点配信ですわ,
+13:40,6,WortenChampions,
+13:40,7,冨樫先生,20.269
+13:40,8,귀여운_김태형_대회,25.622
+13:40,9,プロメア,52.678
+13:40,10,壱百満天原サロメ,22.261
+14:10,1,色の見え方,
+14:10,2,あなたの年齢,
+14:10,3,プロメア,61.627
+14:10,4,うたコン,14.894
+14:10,5,귀여운_김태형_대회,40.305
+14:10,6,冨樫先生,32.904
+14:10,7,CandySugarPop_1stWin,38.411
+14:10,8,サロメ満点配信ですわ,
+14:10,9,WortenChampions,
+14:10,10,Nissy,20.315
+14:40,1,色の見え方,12.706
+14:40,2,あなたの年齢,13.784
+14:40,3,横浜優勝,
+14:40,4,プロメア,66.725
+14:40,5,冨樫先生,45.573
+14:40,6,nhk_jsclub,14.199
+14:40,7,귀여운_김태형_대회,54.398
+14:40,8,baystars,23.204
+14:40,9,BOSJ,20.322
+14:40,10,LISAxRollingStone,48.157
+15:10,1,色の見え方,17.227
+15:10,2,あなたの年齢,18.110
+15:10,3,冨樫先生,66.573
+15:10,4,横浜優勝,
+15:10,5,連載再開,14.126
+15:10,6,あと4話,64.168
+15:10,7,LISAxRollingStone,86.073
+15:10,8,귀여운_김태형_대회,75.853
+15:10,9,れおほー,
+15:10,10,プロメア,70.927
+15:40,1,色の見え方,21.955
+15:40,2,あなたの年齢,22.948
+15:40,3,冨樫先生,85.611
+15:40,4,連載再開,22.314
+15:40,5,あと4話,88.451
+15:40,6,swallows,33.844
+15:40,7,Togashi,17.056
+15:40,8,すわほー,
+15:40,9,귀여운_김태형_대회,99.278
+15:40,10,LISAxRollingStone,115.327
+16:10,1,色の見え方,26.379
+16:10,2,あなたの年齢,27.231
+16:10,3,冨樫先生,99.849
+16:10,4,Togashi,24.995
+16:10,5,連載再開,29.216
+16:10,6,連載再開,29.216
+16:10,7,あと4話,108.689
+16:10,8,じぞ恋,15.012
+16:10,9,stayselcaday,30.937
+16:10,10,swallows,40.512
+16:40,1,色の見え方,30.178
+16:40,2,あなたの年齢,31.097
+16:40,3,冨樫先生,110.554
+16:40,4,Togashi,33.145
+16:40,5,連載再開,35.076
+16:40,6,連載再開,35.076
+16:40,7,あと4話,124.978
+16:40,8,stayselcaday,43.809
+16:40,9,じぞ恋,16.631
+16:40,10,귀여운_김태형_대회,135.172
+17:10,1,色の見え方,33.365
+17:10,2,あなたの年齢,34.249
+17:10,3,Hunter x Hunter,52.361
+17:10,4,Togashi,40.880
+17:10,5,stayselcaday,57.755
+17:10,6,冨樫先生,119.106
+17:10,7,あと4話,138.712
+17:10,8,FaceTheSun_D2,75.196
+17:10,9,メンテの日なのでssを貼る,21.449
+17:10,10,HOT OFFICIAL TEASER 2,94.344
+17:40,1,色の見え方,35.979
+17:40,2,あなたの年齢,37.014
+17:40,3,Hunter x Hunter,67.088
+17:40,4,Togashi,45.638
+17:40,5,stayselcaday,71.006
+17:40,6,冨樫先生,122.540
+17:40,7,連載再開,42.307
+17:40,8,14th_SHINee_Day,27.757
+17:40,9,メンテの日なのでssを貼る,28.314
+17:40,10,Tsonga,10.268
+18:10,1,色の見え方,38.022
+18:10,2,あなたの年齢,39.080
+18:10,3,Hunter x Hunter,81.033
+18:10,4,Togashi,52.544
+18:10,5,stayselcaday,80.223
+18:10,6,Tsonga,15.953
+18:10,7,14th_SHINee_Day,33.279
+18:10,8,冨樫先生,126.608
+18:10,9,メンテの日なのでssを貼る,32.476
+18:10,10,連載再開,45.698
+18:40,1,Hunter x Hunter,95.528
+18:40,2,色の見え方,39.341
+18:40,3,あなたの年齢,40.478
+18:40,4,Togashi,58.752
+18:40,5,stayselcaday,86.220
+18:40,6,Tsonga,18.261
+18:40,7,14th_SHINee_Day,36.431
+18:40,8,ElVasoDeQuilmes,
+18:40,9,PEC206nao,29.793
+18:40,10,Kissinger,42.061
+19:10,1,Hunter x Hunter,109.508
+19:10,2,色の見え方,40.341
+19:10,3,あなたの年齢,41.475
+19:10,4,Togashi,64.368
+19:10,5,stayselcaday,90.642
+19:10,6,PEC206nao,35.286
+19:10,7,ElVasoDeQuilmes,
+19:10,8,Kissinger,45.976
+19:10,9,Ricky Gervais,27.795
+19:10,10,Tsonga,19.655
+19:40,1,Hunter x Hunter,122.999
+19:40,2,Togashi,69.633
+19:40,3,色の見え方,41.118
+19:40,4,あなたの年齢,42.300
+19:40,5,PEC206nao,41.140
+19:40,6,stayselcaday,93.725
+19:40,7,Ricky Gervais,31.425
+19:40,8,Kissinger,49.835
+19:40,9,ElVasoDeQuilmes,
+19:40,10,OMajorÉNosso,
+20:10,1,GTvsRR,11.324
+20:10,2,Hunter x Hunter,136.061
+20:10,3,Togashi,73.925
+20:10,4,PEC206nao,45.778
+20:10,5,色の見え方,41.664
+20:10,6,あなたの年齢,42.838
+20:10,7,Ricky Gervais,34.467
+20:10,8,StaySelcaDay,95.935
+20:10,9,Kissinger,53.458
+20:10,10,omajorénosso,
+20:40,1,GTvsRR,13.819
+20:40,2,Hunter x Hunter,149.209
+20:40,3,PEC206nao,49.945
+20:40,4,Panorama,
+20:40,5,Togashi,78.045
+20:40,6,Ricky Gervais,37.535
+20:40,7,Miller,70.924
+20:40,8,Hugo Gaston,
+20:40,9,Kissinger,56.957
+20:40,10,RRvGT,
+21:10,1,Hunter x Hunter,160.143
+21:10,2,Panorama,10.764
+21:10,3,GTvsRR,14.425
+21:10,4,PEC206nao,54.315
+21:10,5,Ricky Gervais,40.566
+21:10,6,Togashi,81.336
+21:10,7,SGDFCK,
+21:10,8,KACAMAYACAKSINIZ,
+21:10,9,Kissinger,60.156
+21:10,10,Hugo Gaston,
+21:40,1,Panorama,14.783
+21:40,2,Hunter x Hunter,170.295
+21:40,3,GTvsRR,14.727
+21:40,4,KACAMAYACAKSINIZ,
+21:40,5,PEC206nao,59.063
+21:40,6,BirKaçışPlanıAnatomisi,
+21:40,7,Ricky Gervais,43.185
+21:40,8,Togashi,84.563
+21:40,9,Kissinger,63.214
+21:40,10,Coldplay,37.654
+22:10,1,KohLanta,
+22:10,2,Panorama,18.065
+22:10,3,Hunter x Hunter,180.750
+22:10,4,BirKaçışPlanıAnatomisi,
+22:10,5,KACAMAYACAKSINIZ,
+22:10,6,SGDFCK,
+22:10,7,Ricky Gervais,45.574
+22:10,8,Uvalde,28.062
+22:10,9,Kissinger,65.592
+22:10,10,Shurastey,
+22:40,1,SGDFCK,
+22:40,2,Uvalde,61.531
+22:40,3,KohLanta,
+22:40,4,KACAMAYACAKSINIZ,
+22:40,5,Hunter X Hunter,190.254
+22:40,6,Panorama,20.713
+22:40,7,BirKaçışPlanıAnatomisi,
+22:40,8,Sandy Hook,
+22:40,9,Shurastey,
+22:40,10,Ricky Gervais,47.933
+23:10,1,Texas,297.092
+23:10,2,Sandy Hook,17.375
+23:10,3,SGDFCK,
+23:10,4,GunControlNow,
+23:10,5,KohLanta,10.260
+23:10,6,EndGunViolence,
+23:10,7,MasumlarApartmanıFinal,
+23:10,8,Greg Abbott,23.039
+23:10,9,Hunter x Hunter,199.196
+23:10,10,Elementary,167.825
+23:40,1,Texas,429.283
+23:40,2,Sandy Hook,41.948
+23:40,3,GunControlNow,
+23:40,4,EndGunViolence,
+23:40,5,SGDFCK,
+23:40,6,Greg Abbott,46.218
+23:40,7,TierraDeNadie4,
+23:40,8,KohLanta,10.546
+23:40,9,Elementary,268.487
+23:40,10,14 CHILDREN,77.963

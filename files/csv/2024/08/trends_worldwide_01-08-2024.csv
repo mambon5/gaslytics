@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:00,1,MetaCensorship,416.000
+00:00,2,Léon Marchand,173.000
+00:00,3,NABJ,330.000
+00:00,4,South Sudan,38.000
+00:00,5,Vybz Kartel,67.000
+00:00,6,Katie Ledecky,36.000
+00:00,7,بيت_السعد,
+00:00,8,alertemédaille,44.000
+00:00,9,Jamaican,32.000
+00:00,10,Curry,30.000
+00:30,1,NABJ,382.000
+00:30,2,MetaCensorship,448.000
+00:30,3,Léon Marchand,198.000
+00:30,4,Jamaican,40.000
+00:30,5,South Sudan,42.000
+00:30,6,Vybz Kartel,84.000
+00:30,7,Rachel Scott,59.000
+00:30,8,Katie Ledecky,40.000
+00:30,9,بيت_السعد,
+00:30,10,الاتحاد_فارينزي,
+01:00,1,NABJ,382.000
+01:00,2,MetaCensorship,448.000
+01:00,3,Léon Marchand,198.000
+01:00,4,Jamaican,40.000
+01:00,5,South Sudan,42.000
+01:00,6,Vybz Kartel,84.000
+01:00,7,Rachel Scott,59.000
+01:00,8,Katie Ledecky,40.000
+01:00,9,بيت_السعد,
+01:00,10,الاتحاد_فارينزي,
+01:30,1,Jamaican,47.000
+01:30,2,NABJ,428.000
+01:30,3,めざましディズニー,
+01:30,4,MetaCensorship,460.000
+01:30,5,Vybz Kartel,94.000
+01:30,6,Léon Marchand,210.000
+01:30,7,WhenITurnedBlack,10.000
+01:30,8,Caio Paulista,
+01:30,9,South Sudan,43.000
+01:30,10,La OEA,356.000
+02:00,1,Jamaican,47.000
+02:00,2,NABJ,428.000
+02:00,3,めざましディズニー,
+02:00,4,MetaCensorship,460.000
+02:00,5,Vybz Kartel,94.000
+02:00,6,Léon Marchand,210.000
+02:00,7,WhenITurnedBlack,10.000
+02:00,8,Caio Paulista,
+02:00,9,South Sudan,43.000
+02:00,10,La OEA,356.000
+02:30,1,Rony,16.000
+02:30,2,Cebolinha,
+02:30,3,Jamaican,53.000
+02:30,4,Flamengo,154.000
+02:30,5,Weverton,
+02:30,6,NABJ,465.000
+02:30,7,ラヴィット人狼,
+02:30,8,La OEA,509.000
+02:30,9,Cavani,
+02:30,10,Veiga,
+03:00,1,Rony,16.000
+03:00,2,Cebolinha,
+03:00,3,Jamaican,53.000
+03:00,4,Flamengo,154.000
+03:00,5,Weverton,
+03:00,6,NABJ,465.000
+03:00,7,ラヴィット人狼,
+03:00,8,La OEA,509.000
+03:00,9,Cavani,
+03:00,10,Veiga,
+03:30,1,Flamengo,192.000
+03:30,2,Abel,38.000
+03:30,3,Rony,23.000
+03:30,4,Luiz Araújo,14.000
+03:30,5,Rojas,20.000
+03:30,6,Gerson,
+03:30,7,Yuri Alberto,
+03:30,8,Black,1.500.000
+03:30,9,Jamaican,58.000
+03:30,10,AEWDynamite,13.000
+04:00,1,Flamengo,192.000
+04:00,2,Abel,38.000
+04:00,3,Rony,23.000
+04:00,4,Luiz Araújo,14.000
+04:00,5,Rojas,20.000
+04:00,6,Gerson,
+04:00,7,Yuri Alberto,
+04:00,8,Black,1.500.000
+04:00,9,Jamaican,58.000
+04:00,10,AEWDynamite,13.000
+04:30,1,Flamengo,234.000
+04:30,2,Abel,47.000
+04:30,3,Yuri Alberto,
+04:30,4,Raniele,
+04:30,5,AEWDynamite,23.000
+04:30,6,Rony,26.000
+04:30,7,Rojas,23.000
+04:30,8,Luiz Araújo,21.000
+04:30,9,Gerson,13.000
+04:30,10,Coutinho,
+05:00,1,Corinthians,66.000
+05:00,2,Flamengo,250.000
+05:00,3,Reinaldo,12.000
+05:00,4,Vegetti,13.000
+05:00,5,Amad,19.000
+05:00,6,Yuri Alberto,11.000
+05:00,7,Raniele,
+05:00,8,ピッコマでマンガ読んでポイ活,
+05:00,9,総額3億円分,
+05:00,10,Abel,47.000
+05:30,1,Corinthians,66.000
+05:30,2,Flamengo,250.000
+05:30,3,Reinaldo,12.000
+05:30,4,Vegetti,13.000
+05:30,5,Amad,19.000
+05:30,6,Yuri Alberto,11.000
+05:30,7,Raniele,
+05:30,8,ピッコマでマンガ読んでポイ活,
+05:30,9,総額3億円分,
+05:30,10,Abel,47.000
+06:00,1,ピッコマでマンガ読んでポイ活,11.000
+06:00,2,総額3億円分,
+06:00,3,Corinthians,70.000
+06:00,4,jjk265,50.000
+06:00,5,MHA430,40.000
+06:00,6,Reinaldo,13.000
+06:00,7,Flamengo,257.000
+06:00,8,BAMESISSHOWCASEINBKK,23.000
+06:00,9,Vegetti,17.000
+06:00,10,Amad,25.000
+06:30,1,ピッコマでマンガ読んでポイ活,11.000
+06:30,2,総額3億円分,
+06:30,3,Corinthians,70.000
+06:30,4,jjk265,50.000
+06:30,5,MHA430,40.000
+06:30,6,Reinaldo,13.000
+06:30,7,Flamengo,257.000
+06:30,8,BAMESISSHOWCASEINBKK,23.000
+06:30,9,Vegetti,17.000
+06:30,10,Amad,25.000
+07:00,1,ピッコマでマンガ読んでポイ活,16.000
+07:00,2,総額3億円分,
+07:00,3,jjk265,80.000
+07:00,4,MHA430,62.000
+07:00,5,Yuji,75.000
+07:00,6,BAMESISSHOWCASEINBKK,37.000
+07:00,7,Corinthians,71.000
+07:00,8,無課金おじさん,69.000
+07:00,9,水着ガレヲン,
+07:00,10,Reinaldo,13.000
+07:30,1,ピッコマでマンガ読んでポイ活,16.000
+07:30,2,総額3億円分,
+07:30,3,jjk265,80.000
+07:30,4,MHA430,62.000
+07:30,5,Yuji,75.000
+07:30,6,BAMESISSHOWCASEINBKK,37.000
+07:30,7,Corinthians,71.000
+07:30,8,無課金おじさん,69.000
+07:30,9,水着ガレヲン,
+07:30,10,Reinaldo,13.000
+08:00,1,LaCasadelosfamososMX,130.000
+08:00,2,ピッコマでマンガ読んでポイ活,19.000
+08:00,3,総額3億円分,11.000
+08:00,4,MHA430,92.000
+08:00,5,jjk265,100.000
+08:00,6,Yuji,86.000
+08:00,7,Karime,42.000
+08:00,8,無課金おじさん,83.000
+08:00,9,Gala,57.000
+08:00,10,水着ガレヲン,
+08:30,1,LaCasadelosfamososMX,130.000
+08:30,2,ピッコマでマンガ読んでポイ活,19.000
+08:30,3,総額3億円分,11.000
+08:30,4,MHA430,92.000
+08:30,5,jjk265,100.000
+08:30,6,Yuji,86.000
+08:30,7,Karime,42.000
+08:30,8,無課金おじさん,83.000
+08:30,9,Gala,57.000
+08:30,10,水着ガレヲン,
+09:00,1,LaCasadelosfamososMX,153.000
+09:00,2,ピッコマでマンガ読んでポイ活,23.000
+09:00,3,総額3億円分,13.000
+09:00,4,MHA430,120.000
+09:00,5,jjk265,113.000
+09:00,6,Karime,52.000
+09:00,7,Gala,62.000
+09:00,8,無課金おじさん,95.000
+09:00,9,Happy New Month,39.000
+09:00,10,Yuji,91.000
+09:30,1,ピッコマでマンガ読んでポイ活,26.000
+09:30,2,総額3億円分,14.000
+09:30,3,MHA430,149.000
+09:30,4,LaCasaDeLosFamososMx,163.000
+09:30,5,Happy New Month,52.000
+09:30,6,MHASpoilers,75.000
+09:30,7,無課金おじさん,108.000
+09:30,8,Karime,61.000
+09:30,9,ROCKSTAR SPECIAL STAGE,90.000
+09:30,10,Gala,64.000
+10:00,1,ピッコマでマンガ読んでポイ活,26.000
+10:00,2,総額3億円分,14.000
+10:00,3,MHA430,149.000
+10:00,4,LaCasaDeLosFamososMx,163.000
+10:00,5,Happy New Month,52.000
+10:00,6,MHASpoilers,75.000
+10:00,7,無課金おじさん,108.000
+10:00,8,Karime,61.000
+10:00,9,ROCKSTAR SPECIAL STAGE,90.000
+10:00,10,Gala,64.000
+10:30,1,ピッコマでマンガ読んでポイ活,29.000
+10:30,2,総額3億円分,16.000
+10:30,3,Happy New Month,64.000
+10:30,4,FileninSultanlari,
+10:30,5,MHA430,163.000
+10:30,6,افضل3_ترند_Oち558ち9281,
+10:30,7,無課金おじさん,124.000
+10:30,8,Álvaro Martín,
+10:30,9,Vargas,18.000
+10:30,10,Caio Bonfim,
+11:00,1,ピッコマでマンガ読んでポイ活,29.000
+11:00,2,総額3億円分,16.000
+11:00,3,Happy New Month,64.000
+11:00,4,FileninSultanlari,
+11:00,5,MHA430,163.000
+11:00,6,افضل3_ترند_Oち558ち9281,
+11:00,7,無課金おじさん,124.000
+11:00,8,Álvaro Martín,
+11:00,9,Vargas,18.000
+11:00,10,Caio Bonfim,
+11:30,1,FileninSultanları,21.000
+11:30,2,ترندك_مضمون_О59О2О5946,
+11:30,3,SwapnilKusale,
+11:30,4,EndBadGovernaceInNigeria,35.000
+11:30,5,شركه_مصنع_الرياض_للاثاث,
+11:30,6,Happy New Month,75.000
+11:30,7,Vargas,23.000
+11:30,8,無課金おじさん,146.000
+11:30,9,İlkin,
+11:30,10,Álvaro Martín,
+12:00,1,FileninSultanları,21.000
+12:00,2,ترندك_مضمون_О59О2О5946,
+12:00,3,SwapnilKusale,
+12:00,4,EndBadGovernaceInNigeria,35.000
+12:00,5,شركه_مصنع_الرياض_للاثاث,
+12:00,6,Happy New Month,75.000
+12:00,7,Vargas,23.000
+12:00,8,無課金おじさん,146.000
+12:00,9,İlkin,
+12:00,10,Álvaro Martín,
+12:30,1,FileninSultanları,26.000
+12:30,2,Number_1,18.000
+12:30,3,SwapnilKusale,13.000
+12:30,4,EndBadGovernanceInNigeria,201.000
+12:30,5,Number_i_NewVisuals,14.000
+12:30,6,Happy New Month,85.000
+12:30,7,無課金おじさん,166.000
+12:30,8,María Pérez,
+12:30,9,GenG,12.000
+12:30,10,女子バスケ,
+13:00,1,FileninSultanları,26.000
+13:00,2,Number_1,18.000
+13:00,3,SwapnilKusale,13.000
+13:00,4,EndBadGovernanceInNigeria,201.000
+13:00,5,Number_i_NewVisuals,14.000
+13:00,6,Happy New Month,85.000
+13:00,7,無課金おじさん,166.000
+13:00,8,María Pérez,
+13:00,9,GenG,12.000
+13:00,10,女子バスケ,
+13:30,1,EndBadGovernanceInNigeria,283.000
+13:30,2,Number_1,25.000
+13:30,3,女子バスケ,
+13:30,4,SwapnilKusale,16.000
+13:30,5,ビーズリー,
+13:30,6,無課金おじさん,186.000
+13:30,7,FileninSultanları,29.000
+13:30,8,エブリン,
+13:30,9,ピッコマでマンガ読んでポイ活,39.000
+13:30,10,Happy New Month,93.000
+14:00,1,EndBadGovernanceInNigeria,393.000
+14:00,2,Ana Cristina,
+14:00,3,Rosamaria,
+14:00,4,ヒカキン,14.000
+14:00,5,Carini,
+14:00,6,Number_1,30.000
+14:00,7,女子バレー,
+14:00,8,無課金おじさん,207.000
+14:00,9,女子バスケ,
+14:00,10,VoleiNoSporTV,
+14:30,1,EndBadGovernanceInNigeria,393.000
+14:30,2,Ana Cristina,
+14:30,3,Rosamaria,
+14:30,4,ヒカキン,14.000
+14:30,5,Carini,
+14:30,6,Number_1,30.000
+14:30,7,女子バレー,
+14:30,8,無課金おじさん,207.000
+14:30,9,女子バスケ,
+14:30,10,VoleiNoSporTV,
+15:00,1,EndBadGovernanceInNigeria,516.000
+15:00,2,Gabi,50.000
+15:00,3,Ana Cristina,16.000
+15:00,4,Japão,127.000
+15:00,5,Carol,34.000
+15:00,6,ヒカキン,31.000
+15:00,7,Angela Carini,127.000
+15:00,8,モニタリング,11.000
+15:00,9,女子バレー,
+15:00,10,VoleiNaGlobo,19.000
+15:30,1,EndBadGovernanceInNigeria,516.000
+15:30,2,Gabi,50.000
+15:30,3,Ana Cristina,16.000
+15:30,4,Japão,127.000
+15:30,5,Carol,34.000
+15:30,6,ヒカキン,31.000
+15:30,7,Angela Carini,127.000
+15:30,8,モニタリング,11.000
+15:30,9,女子バレー,
+15:30,10,VoleiNaGlobo,19.000
+16:00,1,EndBadGovernanceInNigeria,609.000
+16:00,2,IStandWithAngelaCarini,77.000
+16:00,3,Imane Khelif,190.000
+16:00,4,Gabi,55.000
+16:00,5,ヒカキン,41.000
+16:00,6,Japão,147.000
+16:00,7,THE夜会,10.000
+16:00,8,ana cristina,19.000
+16:00,9,Kano,107.000
+16:00,10,さくらみこ6周年,36.000
+16:30,1,EndBadGovernanceInNigeria,609.000
+16:30,2,IStandWithAngelaCarini,77.000
+16:30,3,Imane Khelif,190.000
+16:30,4,Gabi,55.000
+16:30,5,ヒカキン,41.000
+16:30,6,Japão,147.000
+16:30,7,THE夜会,10.000
+16:30,8,ana cristina,19.000
+16:30,9,Kano,107.000
+16:30,10,さくらみこ6周年,36.000
+17:00,1,IStandWithAngelaCarini,121.000
+17:00,2,EndBadGovernaceInNigeria,301.000
+17:00,3,Imane Khelif,270.000
+17:00,4,OurRockStarMarkDay,27.000
+17:00,5,마크생일_200만큼_축하해,26.000
+17:00,6,Algeria,47.000
+17:00,7,Kano,126.000
+17:00,8,THE夜会,14.000
+17:00,9,ヒカキン,51.000
+17:00,10,トランスジェンダー,79.000
+17:30,1,IStandWithAngelaCarini,121.000
+17:30,2,EndBadGovernaceInNigeria,301.000
+17:30,3,Imane Khelif,270.000
+17:30,4,OurRockStarMarkDay,27.000
+17:30,5,마크생일_200만큼_축하해,26.000
+17:30,6,Algeria,47.000
+17:30,7,Kano,126.000
+17:30,8,THE夜会,14.000
+17:30,9,ヒカキン,51.000
+17:30,10,トランスジェンダー,79.000
+18:00,1,마크생일_200만큼_축하해,110.000
+18:00,2,OurRockStarMarkDay,106.000
+18:00,3,Imane Khelif,347.000
+18:00,4,IStandWithAngelaCarini,165.000
+18:00,5,EndBadGovernaceInNigeria,352.000
+18:00,6,وش_معيارتك_وانت_صغير,
+18:00,7,Algeria,63.000
+18:00,8,ダンジョンの中のひと,
+18:00,9,TZUYU,79.000
+18:00,10,Argelia,19.000
+18:30,1,OurRockStarMarkDay,157.000
+18:30,2,마크생일_200만큼_축하해,158.000
+18:30,3,Imane Khelif,443.000
+18:30,4,IStandWithAngelaCarini,202.000
+18:30,5,EndBadGovernaceInNigeria,394.000
+18:30,6,Algeria,83.000
+18:30,7,ダンジョンの中のひと,
+18:30,8,Argelia,33.000
+18:30,9,TZUYU,138.000
+18:30,10,張本くん,
+19:00,1,OurRockStarMarkDay,157.000
+19:00,2,마크생일_200만큼_축하해,158.000
+19:00,3,Imane Khelif,443.000
+19:00,4,IStandWithAngelaCarini,202.000
+19:00,5,EndBadGovernaceInNigeria,394.000
+19:00,6,Algeria,83.000
+19:00,7,ダンジョンの中のひと,
+19:00,8,Argelia,33.000
+19:00,9,TZUYU,138.000
+19:00,10,張本くん,
+19:30,1,Rebeca,215.000
+19:30,2,Simone,241.000
+19:30,3,Imane Khelif,525.000
+19:30,4,OurRockStarMarkDay,179.000
+19:30,5,마크생일_200만큼_축하해,180.000
+19:30,6,IStandWithAngelaCarini,233.000
+19:30,7,Algeria,102.000
+19:30,8,AtletaAMB,
+19:30,9,FLAVIA,57.000
+19:30,10,EndBadGovernaceInNigeria,437.000
+20:00,1,Rebeca,215.000
+20:00,2,Simone,241.000
+20:00,3,Imane Khelif,525.000
+20:00,4,OurRockStarMarkDay,179.000
+20:00,5,마크생일_200만큼_축하해,180.000
+20:00,6,IStandWithAngelaCarini,233.000
+20:00,7,Algeria,102.000
+20:00,8,AtletaAMB,
+20:00,9,FLAVIA,57.000
+20:00,10,EndBadGovernaceInNigeria,437.000
+20:30,1,Rebeca,351.000
+20:30,2,Simone,383.000
+20:30,3,Imane Khelif,599.000
+20:30,4,GinasticaArtistica,56.000
+20:30,5,flavia,95.000
+20:30,6,Algeria,121.000
+20:30,7,OurRockStarMarkDay,189.000
+20:30,8,마크생일_200만큼_축하해,190.000
+20:30,9,IStandWithAngelaCarini,255.000
+20:30,10,Argelia,59.000
+21:00,1,Rebeca,351.000
+21:00,2,Simone,383.000
+21:00,3,Imane Khelif,599.000
+21:00,4,GinasticaArtistica,56.000
+21:00,5,flavia,95.000
+21:00,6,Algeria,121.000
+21:00,7,OurRockStarMarkDay,189.000
+21:00,8,마크생일_200만큼_축하해,190.000
+21:00,9,IStandWithAngelaCarini,255.000
+21:00,10,Argelia,59.000
+21:30,1,Rebeca,685.000
+21:30,2,Simone,636.000
+21:30,3,Simone,636.000
+21:30,4,GinasticaArtistica,89.000
+21:30,5,Imane Khelif,666.000
+21:30,6,Algeria,139.000
+21:30,7,$DOOGLE,
+21:30,8,flavia,119.000
+21:30,9,Argelia,67.000
+21:30,10,IStandWithAngelaCarini,272.000
+22:00,1,Rebeca,685.000
+22:00,2,Simone,636.000
+22:00,3,Simone,636.000
+22:00,4,GinasticaArtistica,89.000
+22:00,5,Imane Khelif,666.000
+22:00,6,Algeria,139.000
+22:00,7,$DOOGLE,
+22:00,8,flavia,119.000
+22:00,9,Argelia,67.000
+22:00,10,IStandWithAngelaCarini,272.000
+22:30,1,Rebeca,767.000
+22:30,2,Simone,727.000
+22:30,3,Simone,727.000
+22:30,4,Imane Khelif,731.000
+22:30,5,GinasticaArtistica,97.000
+22:30,6,Algeria,156.000
+22:30,7,Andy Murray,15.000
+22:30,8,Flavinha,204.000
+22:30,9,$DOOGLE,
+22:30,10,Argelia,77.000
+23:00,1,Rebeca,812.000
+23:00,2,Simone,769.000
+23:00,3,Simone,769.000
+23:00,4,Imane Khelif,794.000
+23:00,5,Algeria,170.000
+23:00,6,Andy Murray,30.000
+23:00,7,حمل_تطبييق_استقرار_وتزوج,
+23:00,8,GinasticaArtistica,103.000
+23:00,9,Logan Paul,23.000
+23:00,10,Argelia,87.000
+23:30,1,Rebeca,812.000
+23:30,2,Simone,769.000
+23:30,3,Simone,769.000
+23:30,4,Imane Khelif,794.000
+23:30,5,Algeria,170.000
+23:30,6,Andy Murray,30.000
+23:30,7,حمل_تطبييق_استقرار_وتزوج,
+23:30,8,GinasticaArtistica,103.000
+23:30,9,Logan Paul,23.000
+23:30,10,Argelia,87.000

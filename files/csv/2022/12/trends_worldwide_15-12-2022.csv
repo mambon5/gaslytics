@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Morocco,734.186
+00:10,2,Morocco,734.186
+00:10,3,FRAMAR,316.002
+00:10,4,Marruecos,269.429
+00:10,5,Mbappe,586.174
+00:10,6,Marrocos,205.413
+00:10,7,Griezmann,140.107
+00:10,8,المغرب_فرنسا,312.546
+00:10,9,フランス,137.466
+00:10,10,Kelsey,37.322
+00:40,1,Morocco,755.944
+00:40,2,Morocco,755.944
+00:40,3,FRAMAR,322.369
+00:40,4,Marruecos,273.920
+00:40,5,Mbappe,613.809
+00:40,6,Marrocos,207.556
+00:40,7,Griezmann,145.507
+00:40,8,Kelsey,42.828
+00:40,9,フランス,142.315
+00:40,10,المغرب_فرنسا,314.605
+01:10,1,Francia,405.786
+01:10,2,FRAMAR,324.766
+01:10,3,Mbappe,626.523
+01:10,4,Marruecos,272.293
+01:10,5,Kelsey,46.245
+01:10,6,Marrocos,207.058
+01:10,7,Griezmann,149.291
+01:10,8,フランス,144.349
+01:10,9,Gunna,71.319
+01:10,10,舞いあがれ,34.748
+01:40,1,Francia,417.396
+01:40,2,Morocco,765.891
+01:40,3,FRAMAR,328.140
+01:40,4,Mbappe,641.436
+01:40,5,Kelsey,50.641
+01:40,6,Marruecos,275.567
+01:40,7,Gunna,77.893
+01:40,8,Griezmann,152.511
+01:40,9,フランス,147.488
+01:40,10,Marrocos,208.484
+02:10,1,Francia,422.310
+02:10,2,Morocco,769.770
+02:10,3,Kelsey,53.053
+02:10,4,FRAMAR,329.883
+02:10,5,Mbappe,649.842
+02:10,6,スッキリ,
+02:10,7,Gunna,81.716
+02:10,8,Marruecos,273.688
+02:10,9,フランス,148.606
+02:10,10,鈴木亮平,20.669
+02:40,1,AEWDynamite,13.638
+02:40,2,Francia,432.660
+02:40,3,Kelsey,56.012
+02:40,4,Survivor,
+02:40,5,Morocco,769.992
+02:40,6,Mbappe,662.688
+02:40,7,Gunna,85.942
+02:40,8,スッキリ,
+02:40,9,FRAMAR,331.474
+02:40,10,鈴木亮平,22.473
+03:10,1,AEWDynamite,21.738
+03:10,2,Coti,34.899
+03:10,3,Survivor,
+03:10,4,Superman,30.952
+03:10,5,Henry Cavill,
+03:10,6,Francia,433.988
+03:10,7,GranHernano2022,
+03:10,8,Kelsey,58.666
+03:10,9,Cone,14.432
+03:10,10,Morocco,780.146
+03:40,1,Superman,57.140
+03:40,2,Coti,61.311
+03:40,3,AEWDynamite,34.398
+03:40,4,Julieta,40.224
+03:40,5,Daniela,44.670
+03:40,6,Survivor,12.831
+03:40,7,James Gunn,21.365
+03:40,8,Coty,19.560
+03:40,9,The Witcher,24.324
+03:40,10,GranHernano2022,
+04:10,1,Superman,77.508
+04:10,2,Coti,72.215
+04:10,3,AEWDynamite,41.262
+04:10,4,Julieta,46.315
+04:10,5,James Gunn,27.610
+04:10,6,Daniela,48.614
+04:10,7,Survivor,16.748
+04:10,8,The Witcher,27.932
+04:10,9,Coty,22.564
+04:10,10,Cone,20.777
+04:40,1,Superman,94.162
+04:40,2,Survivor,26.900
+04:40,3,Coti,80.157
+04:40,4,James Gunn,32.549
+04:40,5,Julieta,51.366
+04:40,6,AEWDynamite,43.410
+04:40,7,Daniela,54.790
+04:40,8,The Witcher,30.815
+04:40,9,Brunson,10.276
+04:40,10,Gabler,
+05:10,1,Superman,106.396
+05:10,2,Survivor,30.790
+05:10,3,Coti,84.791
+05:10,4,James Gunn,36.391
+05:10,5,Julieta,54.422
+05:10,6,Daniela,57.174
+05:10,7,AEWDynamite,44.625
+05:10,8,The Witcher,33.059
+05:10,9,DCEU,
+05:10,10,Brunson,11.602
+05:40,1,Superman,117.679
+05:40,2,Survivor,32.507
+05:40,3,James Gunn,39.561
+05:40,4,Coti,89.879
+05:40,5,Julieta,58.937
+05:40,6,Witcher,42.074
+05:40,7,Daniela,59.457
+05:40,8,AEWDynamite,45.595
+05:40,9,DCEU,10.742
+05:40,10,Gabler,
+06:10,1,Superman,127.030
+06:10,2,Survivor,33.719
+06:10,3,James Gunn,42.126
+06:10,4,Coti,92.371
+06:10,5,Witcher,43.719
+06:10,6,Julieta,61.437
+06:10,7,Daniela,60.460
+06:10,8,AEWDynamite,46.308
+06:10,9,DCEU,11.599
+06:10,10,Black Adam,11.667
+06:40,1,Superman,135.724
+06:40,2,Survivor,34.618
+06:40,3,James Gunn,44.662
+06:40,4,Witcher,45.671
+06:40,5,Coti,94.435
+06:40,6,Julieta,64.209
+06:40,7,Daniela,62.324
+06:40,8,DCEU,12.263
+06:40,9,AEWDynamite,47.168
+06:40,10,Black Adam,12.554
+07:10,1,Superman,143.135
+07:10,2,James Gunn,46.613
+07:10,3,Survivor,35.374
+07:10,4,Witcher,46.938
+07:10,5,Coti,95.489
+07:10,6,DCEU,13.058
+07:10,7,Julieta,65.824
+07:10,8,Daniela,63.089
+07:10,9,Black Adam,13.253
+07:10,10,都民レベル,
+07:40,1,Superman,150.794
+07:40,2,James Gunn,48.600
+07:40,3,Survivor,36.265
+07:40,4,Witcher,48.832
+07:40,5,Julieta,69.037
+07:40,6,DCEU,13.773
+07:40,7,AarYaPaarOnHotstar,
+07:40,8,東京の激,
+07:40,9,駅名クイズ,
+07:40,10,都民レベル,
+08:10,1,Superman,157.962
+08:10,2,Prabowo Menangkan Rakyat,
+08:10,3,NKRI Maju Sejahtera,
+08:10,4,Untuk Indonesia Kedepan,
+08:10,5,Pak Prabowo,
+08:10,6,Menhan Prabowo,
+08:10,7,James Gunn,50.353
+08:10,8,Survivor,36.915
+08:10,9,Witcher,50.368
+08:10,10,AarYaPaarOnHotstar,
+08:40,1,Superman,165.096
+08:40,2,NKRI Maju Sejahtera,
+08:40,3,Untuk Indonesia Kedepan,
+08:40,4,Prabowo Menangkan Rakyat,
+08:40,5,Menhan Prabowo,
+08:40,6,Pak Prabowo,
+08:40,7,リゼロコラボ,
+08:40,8,AarYaPaarOnHotstar,
+08:40,9,James Gunn,52.181
+08:40,10,Witcher,52.707
+09:10,1,Superman,171.527
+09:10,2,NKRI Maju Sejahtera,
+09:10,3,Untuk Indonesia Kedepan,
+09:10,4,Prabowo Menangkan Rakyat,
+09:10,5,リゼロコラボ,
+09:10,6,Menhan Prabowo,
+09:10,7,Pak Prabowo,
+09:10,8,James Gunn,53.700
+09:10,9,AarYaPaarOnHotstar,
+09:10,10,Witcher,54.328
+09:40,1,Superman,178.470
+09:40,2,NKRI Maju Sejahtera,
+09:40,3,Untuk Indonesia Kedepan,
+09:40,4,Prabowo Menangkan Rakyat,
+09:40,5,リゼロコラボ,
+09:40,6,NursesStrike,10.185
+09:40,7,James Gunn,55.343
+09:40,8,Menhan Prabowo,
+09:40,9,Pak Prabowo,
+09:40,10,ボンゴレリング,
+10:10,1,Superman,184.117
+10:10,2,NursesStrike,11.926
+10:10,3,Prabowo Menangkan Rakyat,
+10:10,4,リゼロコラボ,
+10:10,5,NKRI Maju Sejahtera,
+10:10,6,Untuk Indonesia Kedepan,
+10:10,7,슈퍼주니어_11집_완전_Celebration,13.224
+10:10,8,CelebrateWithSUPERJUNIOR,
+10:10,9,SUPER JUNIOR CELEBRATION,19.446
+10:10,10,ViVi国宝級イケメンランキング,13.844
+10:40,1,Superman,190.276
+10:40,2,NursesStrike,14.138
+10:40,3,CelebrateWithSUPERJUNIOR,12.760
+10:40,4,슈퍼주니어_11집_완전_Celebration,17.901
+10:40,5,リゼロコラボ,
+10:40,6,NKRI Maju Sejahtera,
+10:40,7,Untuk Indonesia Kedepan,
+10:40,8,Prabowo Menangkan Rakyat,
+10:40,9,ViVi国宝級イケメンランキング,17.409
+10:40,10,ボンゴレリング,10.144
+11:10,1,NursesStrike,15.922
+11:10,2,Superman,196.335
+11:10,3,CelebrateWithSUPERJUNIOR,15.063
+11:10,4,슈퍼주니어_11집_완전_Celebration,20.379
+11:10,5,AarYaPaarOnHotstar,
+11:10,6,NKRI Maju Sejahtera,
+11:10,7,Untuk Indonesia Kedepan,
+11:10,8,リゼロコラボ,
+11:10,9,ViVi国宝級イケメンランキング,20.615
+11:10,10,Prabowo Menangkan Rakyat,
+11:40,1,NursesStrike,18.239
+11:40,2,Superman,202.514
+11:40,3,CelebrateWithSUPERJUNIOR,16.353
+11:40,4,슈퍼주니어_11집_완전_Celebration,21.685
+11:40,5,AarYaPaarOnHotstar,
+11:40,6,シャトラ,10.015
+11:40,7,DMMGAMESFES2022,
+11:40,8,盛り上げの一言,
+11:40,9,リゼロコラボ,
+11:40,10,Prabowo Menangkan Rakyat,
+12:10,1,VS魂,18.207
+12:10,2,NursesStrike,20.458
+12:10,3,Superman,208.063
+12:10,4,おいでよみこち,
+12:10,5,CelebrateWithSUPERJUNIOR,17.270
+12:10,6,SB19atCCPBinurda,26.909
+12:10,7,シャトラ,11.786
+12:10,8,盛り上げの一言,
+12:10,9,ボンゴレリング,14.644
+12:10,10,Prabowo Menangkan Rakyat,
+12:40,1,NursesStrike,23.229
+12:40,2,VS魂,21.631
+12:40,3,Superman,214.421
+12:40,4,SB19atCCPBinurda,42.787
+12:40,5,おいでよみこち,
+12:40,6,Henry Cavill,133.463
+12:40,7,Mick,83.544
+12:40,8,CelebrateWithSUPERJUNIOR,17.874
+12:40,9,盛り上げの一言,
+12:40,10,シャトラ,13.079
+13:10,1,ぐるナイ,
+13:10,2,silentラストエピソード,
+13:10,3,NursesStrike,25.687
+13:10,4,SB19atCCPBinurda,57.088
+13:10,5,素のまんま,
+13:10,6,Mick,85.969
+13:10,7,Superman,220.673
+13:10,8,Henry Cavill,137.691
+13:10,9,盛り上げの一言,
+13:10,10,Azgın,
+13:40,1,silentラストエピソード,10.791
+13:40,2,素のまんま,18.437
+13:40,3,ViVi国宝級イケメンランキング,46.452
+13:40,4,ぐるナイ,10.265
+13:40,5,NursesStrike,28.032
+13:40,6,Mick,90.519
+13:40,7,Superman,227.776
+13:40,8,Henry Cavill,142.373
+13:40,9,Azgın,
+13:40,10,盛り上げの一言,
+14:10,1,silent,57.497
+14:10,2,WanDayXBuild,99.513
+14:10,3,ViVi国宝級イケメンランキング,53.262
+14:10,4,素のまんま,20.871
+14:10,5,ドリフ大感謝祭,
+14:10,6,Mick,90.451
+14:10,7,Superman,234.851
+14:10,8,Azgın,
+14:10,9,Henry Cavill,147.697
+14:10,10,盛り上げの一言,
+14:40,1,silent,88.492
+14:40,2,WanDayXBuild,169.847
+14:40,3,ViVi国宝級イケメンランキング,57.572
+14:40,4,현현_본방사수_5회,
+14:40,5,素のまんま,21.676
+14:40,6,Mick,94.246
+14:40,7,Superman,242.216
+14:40,8,Azgın,10.708
+14:40,9,Henry Cavill,152.671
+14:40,10,leighton,13.036
+15:10,1,silent,132.516
+15:10,2,WanDayXBuild,246.246
+15:10,3,ViVi国宝級イケメンランキング,61.804
+15:10,4,ダウンタウンDX,11.229
+15:10,5,현현_본방사수_5회,
+15:10,6,紬ちゃん,
+15:10,7,Mick,93.680
+15:10,8,Superman,248.823
+15:10,9,佐倉くん,
+15:10,10,湊斗くん,
+15:40,1,silent,150.209
+15:40,2,WanDayXBuild,298.849
+15:40,3,トークィーンズ,12.268
+15:40,4,ViVi国宝級イケメンランキング,66.470
+15:40,5,Sarachanedeyiz,10.260
+15:40,6,紬ちゃん,
+15:40,7,佐倉くん,
+15:40,8,Mick,97.092
+15:40,9,Superman,257.104
+15:40,10,湊斗くん,
+16:10,1,silent,157.800
+16:10,2,WanDayXBuild,338.263
+16:10,3,近江彼方生誕祭2022,
+16:10,4,トークィーンズ,15.238
+16:10,5,Sarachanedeyiz,12.048
+16:10,6,Endrick,31.099
+16:10,7,Romero,52.342
+16:10,8,VERNON,43.115
+16:10,9,彼方ちゃん,
+16:10,10,leighton,15.694
+16:40,1,silent,162.594
+16:40,2,RMLiveinSeoul,149.410
+16:40,3,近江彼方生誕祭2022,19.316
+16:40,4,WanDayXBuild,364.516
+16:40,5,アキバ冥途戦争,14.455
+16:40,6,Endrick,37.927
+16:40,7,VERNON,59.623
+16:40,8,Paul Blanco,
+16:40,9,Romero,55.918
+16:40,10,彼方ちゃん,17.119
+17:10,1,silent,165.029
+17:10,2,RMLiveinSeoul,203.118
+17:10,3,AngSebongAySumapit,13.796
+17:10,4,近江彼方生誕祭2022,24.462
+17:10,5,Endrick,42.157
+17:10,6,WanDayXBuild,385.838
+17:10,7,KIM NAMJOON,26.799
+17:10,8,VERNON,66.030
+17:10,9,Romero,58.199
+17:10,10,Paul Blanco,
+17:40,1,silent,167.292
+17:40,2,RMLiveinSeoul,235.521
+17:40,3,AngSebongAySumapit,16.757
+17:40,4,MajorAnnouncement,
+17:40,5,Endrick,45.653
+17:40,6,近江彼方生誕祭2022,27.307
+17:40,7,KIM NAMJOON,34.157
+17:40,8,Romero,61.025
+17:40,9,VERNON,70.122
+17:40,10,Paul Blanco,10.091
+18:10,1,silent,168.677
+18:10,2,RMLiveinSeoul,254.435
+18:10,3,AngSebongAySumapit,17.369
+18:10,4,CbSubata5binVetHekim,
+18:10,5,MajorAnnouncement,
+18:10,6,KamuEczacıları YÖkteMağdur,
+18:10,7,Endrick,48.646
+18:10,8,Romero,62.489
+18:10,9,KIM NAMJOON,36.759
+18:10,10,VERNON,72.079
+18:40,1,CbSubata5binVetHekim,15.354
+18:40,2,RMLiveinSeoul,265.641
+18:40,3,silent,169.897
+18:40,4,MajorAnnouncement,
+18:40,5,AngSebongAySumapit,17.845
+18:40,6,KamuEczacıları YÖkteMağdur,
+18:40,7,Endrick,51.339
+18:40,8,Romero,64.473
+18:40,9,Only $99,15.863
+18:40,10,Trump NFTs,
+19:10,1,CbSubata5binVetHekim,27.301
+19:10,2,MajorAnnouncement,
+19:10,3,Zekatla Bereketlensin,
+19:10,4,NFTs,645.951
+19:10,5,RMLiveinSeoul,273.319
+19:10,6,silent,170.514
+19:10,7,AngSebongAySumapit,17.084
+19:10,8,Endrick,53.426
+19:10,9,KamuEczacıları YÖkteMağdur,
+19:10,10,Only $99,16.301
+19:40,1,MajorAnnouncement,10.680
+19:40,2,CbSubata5binVetHekim,33.896
+19:40,3,NFTs,661.625
+19:40,4,atmoscollectorsclub,
+19:40,5,Zekatla Bereketlensin,
+19:40,6,RMLiveinSeoul,281.040
+19:40,7,AngSebongAySumapit,17.227
+19:40,8,Only $99,17.237
+19:40,9,Endrick,55.757
+19:40,10,Gunna,168.772
+20:10,1,MajorAnnouncement,12.556
+20:10,2,NFTs,652.413
+20:10,3,atmoscollectorsclub,
+20:10,4,CbSubata5binVetHekim,39.929
+20:10,5,RCG2outnow,
+20:10,6,TrumpAnnouncement,
+20:10,7,Zekatla Bereketlensin,
+20:10,8,Herkesİçin Hukuk,
+20:10,9,Gunna,165.081
+20:10,10,Only $99,17.388
+20:40,1,NFTs,667.172
+20:40,2,MajorAnnouncement,14.018
+20:40,3,RCG2outnow,
+20:40,4,atmoscollectorsclub,
+20:40,5,SenHepGül,
+20:40,6,CbSubata5binVetHekim,43.913
+20:40,7,Gunna,169.599
+20:40,8,Herkesİçin Hukuk,
+20:40,9,Zekatla Bereketlensin,
+20:40,10,Endrick,61.178
+21:10,1,NFTs,653.648
+21:10,2,MajorAnnouncement,15.403
+21:10,3,RCG2outnow,
+21:10,4,TrumpAnnouncement,
+21:10,5,SenHepGül,11.262
+21:10,6,atmoscollectorsclub,
+21:10,7,Gunna,165.318
+21:10,8,Herkesİçin Hukuk,
+21:10,9,Zekatla Bereketlensin,
+21:10,10,Endrick,63.022
+21:40,1,NFTs,668.082
+21:40,2,MajorAnnouncement,17.291
+21:40,3,RCG2outnow,
+21:40,4,TrumpAnnouncement,
+21:40,5,MasterChefIt,
+21:40,6,hobi,84.844
+21:40,7,HarryandMeganNetflix,28.072
+21:40,8,Gunna,169.333
+21:40,9,hoseok,30.752
+21:40,10,Jair,55.325
+22:10,1,NFTs,656.831
+22:10,2,MasterChefIt,
+22:10,3,TrumpAnnouncement,
+22:10,4,RCG2outnow,
+22:10,5,hobi,88.377
+22:10,6,MajorAnnouncement,18.394
+22:10,7,HarryandMeganNetflix,29.770
+22:10,8,Club Renaissance,
+22:10,9,Jair,54.478
+22:10,10,hoseok,34.135
+22:40,1,LaIslaDeLasTentaciones13,
+22:40,2,MasterChefIt,
+22:40,3,NFTs,672.993
+22:40,4,Maestro,
+22:40,5,TrumpAnnouncement,
+22:40,6,TheTraitors,
+22:40,7,hobi,92.130
+22:40,8,Club Renaissance,
+22:40,9,Hibs,
+22:40,10,Jair,57.035
+23:10,1,LaIslaDeLasTentaciones13,
+23:10,2,Maestro,
+23:10,3,MasterChefIt,
+23:10,4,TheTraitors,
+23:10,5,NFTs,659.508
+23:10,6,TrumpAnnouncement,10.397
+23:10,7,hobi,93.929
+23:10,8,Hibs,
+23:10,9,Javi,14.126
+23:10,10,Jair,55.922
+23:40,1,LaIslaDeLasTentaciones13,12.780
+23:40,2,Maestro,
+23:40,3,MasterChefIt,
+23:40,4,TheTraitors,
+23:40,5,NFTs,676.252
+23:40,6,Hobi,97.811
+23:40,7,今年もおいしい来年もおいしい,
+23:40,8,Hibs,
+23:40,9,Javi,15.168
+23:40,10,Jair,58.334

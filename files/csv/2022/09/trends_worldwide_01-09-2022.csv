@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Haaland,325.508
+00:10,2,LIVNEW,71.887
+00:10,3,Newcastle,125.536
+00:10,4,Carvalho,50.864
+00:10,5,Arsenal,344.386
+00:10,6,Isak,52.242
+00:10,7,Klopp,39.581
+00:10,8,JUNGKOOKDAY,1.087.519
+00:10,9,NUFC,29.316
+00:10,10,ARSAVL,81.746
+00:40,1,Haaland,335.246
+00:40,2,LIVNEW,73.540
+00:40,3,Newcastle,129.995
+00:40,4,Carvalho,53.240
+00:40,5,Arsenal,354.723
+00:40,6,doğalgaz,
+00:40,7,Isak,53.379
+00:40,8,JUNGKOOKDAY,1.107.496
+00:40,9,Klopp,41.479
+00:40,10,NUFC,30.399
+01:10,1,Haaland,341.734
+01:10,2,Newcastle,132.349
+01:10,3,LIVNEW,74.964
+01:10,4,doğalgaz,
+01:10,5,Carvalho,54.823
+01:10,6,JUNGKOOKDAY,1.125.505
+01:10,7,Arsenal,359.986
+01:10,8,Isak,54.022
+01:10,9,Klopp,41.642
+01:10,10,NUFC,30.934
+01:40,1,Haaland,347.229
+01:40,2,Newcastle,134.416
+01:40,3,LIVNEW,75.312
+01:40,4,JUNGKOOKDAY,1.148.761
+01:40,5,doğalgaz,
+01:40,6,Carvalho,55.563
+01:40,7,Arsenal,365.071
+01:40,8,Nenê,61.439
+01:40,9,Isak,54.571
+01:40,10,EsteSacodeweaAprueba,10.794
+02:10,1,Haaland,351.737
+02:10,2,Newcastle,135.608
+02:10,3,LIVNEW,75.934
+02:10,4,Serena,45.025
+02:10,5,JUNGKOOKDAY,1.170.743
+02:10,6,doğalgaz,
+02:10,7,Carvalho,55.926
+02:10,8,EsteSacodeweaAprueba,12.748
+02:10,9,防災の日,23.906
+02:10,10,Nenê,61.715
+02:40,1,AEWDynamite,21.762
+02:40,2,Serena,56.393
+02:40,3,Sarah Palin,38.881
+02:40,4,Alaska,57.281
+02:40,5,Haaland,355.523
+02:40,6,Newcastle,136.731
+02:40,7,JUNGKOOKDAY,1.193.490
+02:40,8,LIVNEW,76.515
+02:40,9,USOpen2022,10.208
+02:40,10,Mary Peltola,37.322
+03:10,1,AEWDynamite,34.313
+03:10,2,Alaska,92.534
+03:10,3,Serena,60.688
+03:10,4,Léo Pereira,
+03:10,5,Sarah Palin,67.572
+03:10,6,Velez,66.413
+03:10,7,RHOBH,12.309
+03:10,8,Nimmo,
+03:10,9,Mary Peltola,59.269
+03:10,10,CM Punk,
+03:40,1,Flamengo,223.417
+03:40,2,Serena,74.324
+03:40,3,AEWDynamite,45.052
+03:40,4,Alaska,118.900
+03:40,5,Velez,81.533
+03:40,6,Sarah Palin,88.529
+03:40,7,Léo Pereira,12.085
+03:40,8,USOpen,54.435
+03:40,9,Everton Ribeiro,
+03:40,10,RHOBH,14.421
+04:10,1,Flamengo,265.105
+04:10,2,Gabigol,46.016
+04:10,3,Serena,144.404
+04:10,4,USOpen,74.328
+04:10,5,AEWDynamite,55.746
+04:10,6,Velez,93.874
+04:10,7,Gabriel,133.829
+04:10,8,Alaska,141.264
+04:10,9,Rodinei,
+04:10,10,Sarah Palin,104.306
+04:40,1,Flamengo,365.798
+04:40,2,Gabigol,59.179
+04:40,3,Serena,163.850
+04:40,4,Velez,118.307
+04:40,5,USOpen,80.335
+04:40,6,AEWDynamite,58.841
+04:40,7,Gabriel,139.992
+04:40,8,Alaska,161.082
+04:40,9,Rodinei,
+04:40,10,Solari,22.321
+05:10,1,Flamengo,398.713
+05:10,2,Gabigol,67.340
+05:10,3,Serena,173.553
+05:10,4,Velez,124.700
+05:10,5,USOpen,81.314
+05:10,6,Alaska,176.469
+05:10,7,AEWDynamite,60.643
+05:10,8,Rodinei,
+05:10,9,Solari,25.833
+05:10,10,Gabriel,140.262
+05:40,1,Flamengo,425.734
+05:40,2,Gabigol,72.344
+05:40,3,Serena,181.319
+05:40,4,Velez,131.247
+05:40,5,Alaska,189.027
+05:40,6,USOpen,83.903
+05:40,7,AEWDynamite,62.267
+05:40,8,Rodinei,11.120
+05:40,9,Solari,27.391
+05:40,10,Sarah Palin,137.798
+06:10,1,Flamengo,442.836
+06:10,2,Gabigol,74.189
+06:10,3,Serena,185.448
+06:10,4,Velez,133.799
+06:10,5,Alaska,200.975
+06:10,6,USOpen,83.557
+06:10,7,Sarah Palin,145.425
+06:10,8,100Indecisos,
+06:10,9,AEWDynamite,63.415
+06:10,10,Rodinei,11.688
+06:40,1,Flamengo,453.609
+06:40,2,Gabigol,75.417
+06:40,3,Serena,189.685
+06:40,4,100Indecisos,15.214
+06:40,5,Alaska,210.443
+06:40,6,Velez,135.952
+06:40,7,Sarah Palin,151.472
+06:40,8,パズドラ,89.168
+06:40,9,AEWDynamite,64.660
+06:40,10,USOpen,85.005
+07:10,1,Flamengo,459.139
+07:10,2,Gabigol,75.953
+07:10,3,Serena,192.255
+07:10,4,100Indecisos,22.801
+07:10,5,Alaska,218.030
+07:10,6,Velez,136.839
+07:10,7,パズドラ,62.178
+07:10,8,Sarah Palin,156.596
+07:10,9,ผลไม้อบกรอบZeeFruit,102.105
+07:10,10,AEWDynamite,65.386
+07:40,1,Flamengo,463.017
+07:40,2,Gabigol,76.402
+07:40,3,100Indecisos,26.704
+07:40,4,Serena,195.809
+07:40,5,Alaska,224.191
+07:40,6,JaponSena Gazladı,
+07:40,7,パズドラ,63.911
+07:40,8,ผลไม้อบกรอบZeeFruit,114.833
+07:40,9,Velez,137.641
+07:40,10,Sarah Palin,160.663
+08:10,1,Flamengo,464.760
+08:10,2,Gabigol,76.506
+08:10,3,100Indecisos,28.943
+08:10,4,Serena,197.435
+08:10,5,Alaska,229.151
+08:10,6,パズドラ,64.029
+08:10,7,Happy New Month,31.189
+08:10,8,JaponSena Gazladı,
+08:10,9,suga hyung,33.983
+08:10,10,ผลไม้อบกรอบZeeFruit,131.176
+08:40,1,Flamengo,466.252
+08:40,2,Happy New Month,38.687
+08:40,3,Gabigol,76.719
+08:40,4,パズドラ,64.904
+08:40,5,100Indecisos,29.641
+08:40,6,Eylül,
+08:40,7,JaponSena Gazladı,
+08:40,8,suga hyung,36.257
+08:40,9,Alaska,232.891
+08:40,10,モリオ,
+09:10,1,Happy New Month,48.019
+09:10,2,Flamengo,466.874
+09:10,3,Eylül,
+09:10,4,September1st,
+09:10,5,パズドラ,65.076
+09:10,6,ZamGeldi,
+09:10,7,JaponSena Gazladı,
+09:10,8,vpixiv,28.083
+09:10,9,suga hyung,37.849
+09:10,10,あなたのクズ人間度,
+09:40,1,Happy New Month,60.380
+09:40,2,Eylül,
+09:40,3,September1st,
+09:40,4,ZamGeldi,
+09:40,5,Flamengo,467.837
+09:40,6,パズドラ,65.743
+09:40,7,1settembre,
+09:40,8,vpixiv,33.705
+09:40,9,無料50連,
+09:40,10,suga hyung,39.195
+10:10,1,Happy New Month,71.806
+10:10,2,HarryStylesLoveOnTourWarszawa,11.297
+10:10,3,Eylül,
+10:10,4,September1st,
+10:10,5,ZamGeldi,
+10:10,6,Bill Turnbull,
+10:10,7,無料50連,
+10:10,8,DeadlineDay,24.201
+10:10,9,タイバニ,
+10:10,10,Flamengo,467.874
+10:40,1,Happy New Month,83.508
+10:40,2,HarryStylesLoveOnTourWarszawa,14.412
+10:40,3,Bill Turnbull,
+10:40,4,Eylül,10.215
+10:40,5,September1st,
+10:40,6,DeadlineDay,30.417
+10:40,7,ZamGeldi,
+10:40,8,岩永さん,
+10:40,9,伊達さん,
+10:40,10,Zenly,
+11:10,1,HarryStylesLoveOnTour,11.776
+11:10,2,Happy New Month,93.606
+11:10,3,Bill Turnbull,
+11:10,4,岩永さん,
+11:10,5,DeadlineDay,39.650
+11:10,6,伊達さん,
+11:10,7,北斗學園,
+11:10,8,IndonesiaBertutur2022,
+11:10,9,Eylül,11.086
+11:10,10,Zenly,
+11:40,1,HarryStylesLoveOnTour,14.263
+11:40,2,SEXYNUKIM,450.409
+11:40,3,Happy New Month,101.923
+11:40,4,Bill Turnbull,
+11:40,5,岩永さん,
+11:40,6,DeadlineDay,49.712
+11:40,7,伊達さん,10.394
+11:40,8,北斗學園,
+11:40,9,Arthur Melo,15.645
+11:40,10,Zenly,
+12:10,1,HarryStylesLoveOnTour,16.107
+12:10,2,SEXYNUKIM,481.884
+12:10,3,Happy New Month,108.414
+12:10,4,DeadlineDay,61.155
+12:10,5,北斗學園,
+12:10,6,岩永さん,
+12:10,7,伊達さん,11.694
+12:10,8,Bill Turnbull,
+12:10,9,Zenly,
+12:10,10,VS魂,
+12:40,1,HarryStylesLoveOnTour,17.977
+12:40,2,SEXYNUKIM,525.304
+12:40,3,Happy New Month,114.589
+12:40,4,VS魂,14.519
+12:40,5,とびユニPUS,
+12:40,6,DeadlineDay,72.180
+12:40,7,Zenly,10.253
+12:40,8,岩永さん,
+12:40,9,伊達さん,12.742
+12:40,10,Bill Turnbull,
+13:10,1,まんが王国はお得感No1,
+13:10,2,全マンガ最大80パーセント還元,
+13:10,3,まんが王国お得爆発DAY,
+13:10,4,一気読み,
+13:10,5,HarryStylesLoveOnTour,19.049
+13:10,6,UTAGE,23.247
+13:10,7,Happy New Month,119.959
+13:10,8,Zenly,11.389
+13:10,9,岩永さん,
+13:10,10,伊達さん,13.609
+13:40,1,まんが王国お得爆発DAY,11.216
+13:40,2,まんが王国はお得感No1,
+13:40,3,全マンガ最大80パーセント還元,
+13:40,4,一気読み,
+13:40,5,UTAGE,36.959
+13:40,6,HarryStylesLoveOnTour,20.206
+13:40,7,Happy New Month,124.396
+13:40,8,Zenly,14.198
+13:40,9,D-1 SB19 WYAT RELEASE,205.857
+13:40,10,岩永さん,
+14:10,1,ZETAWIN,28.986
+14:10,2,UTAGE,49.684
+14:10,3,まんが王国お得爆発DAY,12.167
+14:10,4,まんが王国はお得感No1,
+14:10,5,全マンガ最大80パーセント還元,
+14:10,6,一気読み,
+14:10,7,Zenly,18.021
+14:10,8,TENNN,
+14:10,9,Happy New Month,128.077
+14:10,10,D-1 SB19 WYAT RELEASE,228.552
+14:40,1,ZETAWIN,42.163
+14:40,2,UTAGE,66.970
+14:40,3,まんが王国お得爆発DAY,12.325
+14:40,4,まんが王国はお得感No1,
+14:40,5,全マンガ最大80パーセント還元,
+14:40,6,一気読み,
+14:40,7,TENNN,
+14:40,8,Zenly,22.111
+14:40,9,コールド,
+14:40,10,Setembro,298.250
+15:10,1,BiggerThanMe,274.086
+15:10,2,UTAGE,81.941
+15:10,3,ZETAWIN,45.975
+15:10,4,素のまんま,33.777
+15:10,5,まんが王国はお得感No1,
+15:10,6,一気読み,
+15:10,7,Toxic Girl,13.979
+15:10,8,Zenly,25.457
+15:10,9,わしほー,
+15:10,10,TENNN,
+15:40,1,BiggerThanMe,364.178
+15:40,2,UTAGE,96.397
+15:40,3,ZETAWIN,48.238
+15:40,4,ミリシタ夏祭りライブ上映会6thSSA,20.237
+15:40,5,ContigoCHV,18.626
+15:40,6,一気読み,
+15:40,7,Toxic Girl,15.119
+15:40,8,横浜優勝,
+15:40,9,Auba,76.014
+15:40,10,わしほー,
+16:10,1,BiggerThanMe,395.616
+16:10,2,UTAGE,111.679
+16:10,3,ZETAWIN,50.736
+16:10,4,ミリシタ夏祭りライブ上映会6thSSA,33.318
+16:10,5,純愛ディソナンス,31.109
+16:10,6,Auba,68.704
+16:10,7,Toxic Girl,15.707
+16:10,8,Zenly,30.877
+16:10,9,Bellerin,47.416
+16:10,10,横浜優勝,
+16:40,1,BiggerThanMe,435.996
+16:40,2,UTAGE,116.418
+16:40,3,ZETAWIN,51.969
+16:40,4,ミリシタ夏祭りライブ上映会6thSSA,42.315
+16:40,5,純愛ディソナンス,33.520
+16:40,6,Auba,72.774
+16:40,7,Bellerin,53.486
+16:40,8,Zenly,33.950
+16:40,9,JUST ONE DAY,48.444
+16:40,10,Toxic Girl,16.112
+17:10,1,BiggerThanMe,464.118
+17:10,2,UTAGE,118.505
+17:10,3,ZETAWIN,52.225
+17:10,4,ミリシタ夏祭りライブ上映会6thSSA,54.529
+17:10,5,LOUDER THAN BOMBS,38.068
+17:10,6,jungkook,2.803.729
+17:10,7,純愛ディソナンス,34.741
+17:10,8,AUTUMN LEAVES,19.670
+17:10,9,LOVE IS NOT OVER,21.402
+17:10,10,Bellerin,57.772
+17:40,1,BiggerThanMe,484.170
+17:40,2,jungkook,1.346.585
+17:40,3,Magic Shop,51.092
+17:40,4,ミリシタ夏祭りライブ上映会6thSSA,64.681
+17:40,5,LOUDER THAN BOMBS,74.537
+17:40,6,UTAGE,119.907
+17:40,7,ZETAWIN,52.512
+17:40,8,คือเธอEP14,41.185
+17:40,9,I'LL SHOW YOU,28.760
+17:40,10,Love is not over,30.294
+18:10,1,BiggerThanMe,494.514
+18:10,2,jungkook,1.493.700
+18:10,3,Magic Shop,60.020
+18:10,4,量産型リコ,25.037
+18:10,5,ミリシタ夏祭りライブ上映会6thSSA,72.647
+18:10,6,LOUDER THAN BOMBS,88.374
+18:10,7,TvitterTT HizmetiVerilir,
+18:10,8,SheHulk,60.889
+18:10,9,UTAGE,120.788
+18:10,10,Weverse,612.613
+18:40,1,BiggerThanMe,508.486
+18:40,2,量産型リコ,27.801
+18:40,3,ÖğretmenlerGeleceğinizdir,
+18:40,4,jungkook,1.526.410
+18:40,5,Magic Shop,64.302
+18:40,6,ミリシタ夏祭りライブ上映会6thSSA,77.798
+18:40,7,SheHulk,64.691
+18:40,8,tvittertt hizmetiverilir,
+18:40,9,LOUDER THAN BOMBS,96.946
+18:40,10,Noa Lang,
+19:10,1,BiggerThanMe,520.199
+19:10,2,ミリシタ夏祭りライブ上映会6thSSA,84.759
+19:10,3,量産型リコ,28.591
+19:10,4,SheHulk,68.445
+19:10,5,jungkook,2.291.161
+19:10,6,ÖğretmenlerGeleceğinizdir,
+19:10,7,Magic Shop,66.602
+19:10,8,tvittertt hizmetiverilir,
+19:10,9,Noa Lang,
+19:10,10,Gilmour,22.416
+19:40,1,BiggerThanMe,533.345
+19:40,2,SheHulk,73.137
+19:40,3,量産型リコ,28.940
+19:40,4,DeadlineDay,268.947
+19:40,5,ミリシタ夏祭りライブ上映会6thSSA,85.617
+19:40,6,jungkook,2.125.855
+19:40,7,Gilmour,24.524
+19:40,8,Ginni Thomas,61.043
+19:40,9,tvittertt hizmetiverilir,
+19:40,10,Noa Lang,
+20:10,1,SLvBAN,
+20:10,2,AsiaCupT20,10.475
+20:10,3,BiggerThanMe,508.541
+20:10,4,Zakaria,31.665
+20:10,5,SheHulk,77.163
+20:10,6,HayeAllah,34.585
+20:10,7,Fekir,10.425
+20:10,8,Bangladesh,29.080
+20:10,9,Ginni Thomas,72.478
+20:10,10,Gilmour,25.660
+20:40,1,SLvBAN,10.571
+20:40,2,Zakaria,42.107
+20:40,3,AsiaCupT20,12.400
+20:40,4,HBDJanaSenaniPawanKalyan,155.873
+20:40,5,SheHulk,81.321
+20:40,6,Ronaldo,132.639
+20:40,7,Payaslı,
+20:40,8,McTominay,
+20:40,9,Simón Boric,
+20:40,10,Fekir,14.378
+21:10,1,LEIMUN,40.137
+21:10,2,Ronaldo,137.475
+21:10,3,HBDJanaSenaniPawanKalyan,181.872
+21:10,4,Zakaria,49.943
+21:10,5,SLvBAN,11.235
+21:10,6,McTominay,
+21:10,7,Simón Boric,19.267
+21:10,8,AsiaCupT20,12.859
+21:10,9,SheHulk,84.305
+21:10,10,Fekir,15.779
+21:40,1,LEIMUN,60.465
+21:40,2,Cavs,
+21:40,3,Ronaldo,149.836
+21:40,4,Leicester,111.921
+21:40,5,McTominay,10.862
+21:40,6,SuperFreakyGirlVideo,17.054
+21:40,7,Knicks,10.364
+21:40,8,HBDJanaSenaniPawanKalyan,196.210
+21:40,9,Zakaria,53.618
+21:40,10,Simón Boric,25.623
+22:10,1,Cavs,39.392
+22:10,2,Knicks,26.946
+22:10,3,LEIMUN,75.138
+22:10,4,Cleveland,64.259
+22:10,5,Mobley,10.733
+22:10,6,Rashford,25.714
+22:10,7,Sancho,36.335
+22:10,8,Ronaldo,154.662
+22:10,9,Elanga,18.435
+22:10,10,Leicester,124.405
+22:40,1,Cavs,50.904
+22:40,2,Knicks,33.453
+22:40,3,Rashford,33.882
+22:40,4,LEIMUN,88.391
+22:40,5,Mitchell,104.221
+22:40,6,Cleveland,73.048
+22:40,7,Mobley,14.539
+22:40,8,Sancho,39.695
+22:40,9,Leicester,138.181
+22:40,10,McTominay,16.971
+23:10,1,Cavs,58.082
+23:10,2,LEIMUN,104.163
+23:10,3,Rashford,38.811
+23:10,4,Knicks,36.947
+23:10,5,Cleveland,77.392
+23:10,6,Cleveland,77.392
+23:10,7,Mitchell,112.589
+23:10,8,Leicester,148.102
+23:10,9,Ronaldo,180.654
+23:10,10,MUFC,297.491
+23:40,1,Cavs,63.241
+23:40,2,LEIMUN,111.291
+23:40,3,Rashford,41.979
+23:40,4,Knicks,40.187
+23:40,5,Cleveland,80.896
+23:40,6,Cleveland,80.896
+23:40,7,Mitchell,119.353
+23:40,8,Leicester,153.044
+23:40,9,Ronaldo,192.230
+23:40,10,MUFC,310.949

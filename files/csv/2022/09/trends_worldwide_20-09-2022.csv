@@ -1,0 +1,471 @@
+hora,posicio,trend,volum
+00:10,1,gfvip,67.269
+00:10,2,sismo,193.301
+00:10,3,Temblor,100.403
+00:10,4,Adam Levine,24.907
+00:10,5,Michoacán,108.423
+00:10,6,Adnan Syed,34.665
+00:10,7,CashAppBoostWeek,12.845
+00:10,8,gntmgr,18.387
+00:10,9,Serial,43.460
+00:10,10,Claudia Raia,
+00:40,1,gfvip,75.117
+00:40,2,sismo,200.232
+00:40,3,Adam Levine,30.328
+00:40,4,Temblor,102.663
+00:40,5,Adnan Syed,37.763
+00:40,6,Michoacán,113.687
+00:40,7,MCCelebrity,
+00:40,8,Serial,45.900
+00:40,9,CashAppBoostWeek,13.372
+00:40,10,Claudia Raia,
+01:10,1,gfvip,82.045
+01:10,2,sismo,206.039
+01:10,3,Adam Levine,36.781
+01:10,4,Temblor,104.634
+01:10,5,Adnan Syed,39.942
+01:10,6,MCCelebrity,
+01:10,7,Molinas,
+01:10,8,CDMX,111.677
+01:10,9,Michoacán,117.303
+01:10,10,台風一過,14.926
+01:40,1,gfvip,86.204
+01:40,2,Adam Levine,43.205
+01:40,3,sismo,211.605
+01:40,4,BillsMafia,17.043
+01:40,5,Molinas,
+01:40,6,台風一過,16.959
+01:40,7,MCCelebrity,
+01:40,8,CiroNoRatinho,14.182
+01:40,9,Adnan Syed,41.951
+01:40,10,Reggie Gilliam,
+02:10,1,CashAppBoostWeek,26.294
+02:10,2,Adam Levine,49.762
+02:10,3,gfvip,87.705
+02:10,4,Orsini,
+02:10,5,BillsMafia,18.098
+02:10,6,sismo,216.966
+02:10,7,Titans,
+02:10,8,台風一過,18.238
+02:10,9,Molinas,
+02:10,10,Pedro Henrique,
+02:40,1,CashAppBoostWeek,33.045
+02:40,2,WWERaw,15.748
+02:40,3,Adam Levine,57.044
+02:40,4,Bills,117.848
+02:40,5,Titans,46.785
+02:40,6,DWTS,
+02:40,7,Orsini,
+02:40,8,gfvip,88.881
+02:40,9,911onFOX,
+02:40,10,台風一過,19.880
+03:10,1,WWERaw,23.156
+03:10,2,FlyEaglesFly,16.498
+03:10,3,Dane Jackson,10.209
+03:10,4,CashAppBoostWeek,35.572
+03:10,5,Jalen,14.106
+03:10,6,BillsMafia,23.101
+03:10,7,Adam Levine,64.769
+03:10,8,Titans,50.925
+03:10,9,DWTS,10.607
+03:10,10,Vikings,41.207
+03:40,1,Jalen,24.943
+03:40,2,Bills,134.766
+03:40,3,Titans,60.065
+03:40,4,Eagles,73.551
+03:40,5,Diggs,23.386
+03:40,6,WWERaw,28.389
+03:40,7,Vikings,47.448
+03:40,8,DWTS,13.936
+03:40,9,Dane Jackson,12.417
+03:40,10,Adam Levine,72.887
+04:10,1,Jalen,43.615
+04:10,2,Bills,150.380
+04:10,3,Diggs,33.435
+04:10,4,Titans,76.001
+04:10,5,Eagles,88.831
+04:10,6,Vikings,56.372
+04:10,7,WWERaw,35.351
+04:10,8,Tannehill,
+04:10,9,Malik Willis,
+04:10,10,DWTS,17.316
+04:40,1,Jalen,47.754
+04:40,2,Bills,160.965
+04:40,3,Eagles,102.898
+04:40,4,Titans,84.692
+04:40,5,Diggs,36.248
+04:40,6,Kirk Cousins,14.687
+04:40,7,Vikings,65.341
+04:40,8,WWERaw,42.999
+04:40,9,Tannehill,
+04:40,10,Malik Willis,
+05:10,1,Kirk Cousins,31.955
+05:10,2,Jalen,51.269
+05:10,3,Eagles,117.633
+05:10,4,Eagles,117.633
+05:10,5,Bills,165.363
+05:10,6,Titans,88.288
+05:10,7,Diggs,37.787
+05:10,8,Darius Slay,13.892
+05:10,9,WWERaw,49.182
+05:10,10,ProvaDeFogo,10.290
+05:40,1,Kirk Cousins,40.946
+05:40,2,Eagles,136.988
+05:40,3,Eagles,136.988
+05:40,4,Jalen,56.507
+05:40,5,Bills,170.892
+05:40,6,Titans,90.828
+05:40,7,Diggs,39.615
+05:40,8,Darius Slay,20.043
+05:40,9,WWERaw,51.533
+05:40,10,ProvaDeFogo,12.613
+06:10,1,Kirk Cousins,45.422
+06:10,2,Eagles,146.903
+06:10,3,Eagles,146.903
+06:10,4,Jalen,59.234
+06:10,5,Bills,172.853
+06:10,6,Titans,91.920
+06:10,7,Diggs,40.401
+06:10,8,Darius Slay,22.881
+06:10,9,WWERaw,52.937
+06:10,10,Adam Levine,118.576
+06:40,1,Kirk Cousins,47.761
+06:40,2,Eagles,152.053
+06:40,3,Eagles,152.053
+06:40,4,Jalen,60.927
+06:40,5,Bills,175.998
+06:40,6,Titans,93.090
+06:40,7,Diggs,41.125
+06:40,8,Darius Slay,24.437
+06:40,9,Adam Levine,129.565
+06:40,10,WWERaw,53.980
+07:10,1,Kirk Cousins,49.427
+07:10,2,Eagles,154.633
+07:10,3,Eagles,154.633
+07:10,4,Jalen,61.968
+07:10,5,Bills,176.544
+07:10,6,BLACKPINKxJimmyKimmel,113.296
+07:10,7,Adam Levine,140.672
+07:10,8,Titans,93.568
+07:10,9,Diggs,41.379
+07:10,10,SB19WYATonShowtime,16.834
+07:40,1,Kirk Cousins,50.552
+07:40,2,Eagles,157.017
+07:40,3,Eagles,157.017
+07:40,4,Jalen,62.755
+07:40,5,SB19WYATonShowtime,52.647
+07:40,6,BLACKPINKxJimmyKimmel,141.246
+07:40,7,Adam Levine,151.856
+07:40,8,Bills,178.454
+07:40,9,VitCCharlotte,51.778
+07:40,10,Titans,94.332
+08:10,1,SB19WYATonShowtime,79.107
+08:10,2,Kirk Cousins,51.249
+08:10,3,Eagles,157.840
+08:10,4,Eagles,157.840
+08:10,5,BLACKPINKxJimmyKimmel,154.447
+08:10,6,Jalen,63.259
+08:10,7,Adam Levine,163.011
+08:10,8,A'TIN RADIO DAY,43.125
+08:10,9,Bills,178.337
+08:10,10,VitCCharlotte,67.812
+08:40,1,SB19WYATonShowtime,95.565
+08:40,2,Kirk Cousins,51.702
+08:40,3,Adam Levine,173.283
+08:40,4,Eagles,158.990
+08:40,5,BLACKPINKxJimmyKimmel,162.952
+08:40,6,A'TIN RADIO DAY,52.182
+08:40,7,Jalen,63.586
+08:40,8,salı,
+08:40,9,Vikings,90.017
+08:40,10,VitCCharlotte,79.885
+09:10,1,SB19WYATonShowtime,106.322
+09:10,2,Adam Levine,183.739
+09:10,3,Kirk Cousins,52.012
+09:10,4,BLACKPINKxJimmyKimmel,170.097
+09:10,5,salı,
+09:10,6,A'TIN RADIO DAY,58.641
+09:10,7,Eagles,159.330
+09:10,8,gengflannel,
+09:10,9,Jalen,63.848
+09:10,10,VitCCharlotte,89.122
+09:40,1,SB19WYATonShowtime,114.024
+09:40,2,Adam Levine,193.711
+09:40,3,salı,
+09:40,4,KarmYuddhOnHotstar,
+09:40,5,Kirk Cousins,52.255
+09:40,6,BLACKPINKxJimmyKimmel,175.098
+09:40,7,A'TIN RADIO DAY,63.170
+09:40,8,gengflannel,
+09:40,9,Eagles,160.221
+09:40,10,LALISA BEST PERFORMER,180.842
+10:10,1,SB19WYATonShowtime,119.223
+10:10,2,Adam Levine,204.114
+10:10,3,THCleanerSharperBolder,
+10:10,4,HBDKailashChoudhary,
+10:10,5,MokoMokoSkinCare,
+10:10,6,Your Skin Craves More,
+10:10,7,TheHinduMakesMorningsBetter,
+10:10,8,Kirk Cousins,52.463
+10:10,9,A'TIN RADIO DAY,66.165
+10:10,10,Reza Arap,38.244
+10:40,1,GENBLOK,
+10:40,2,SB19WYATonShowtime,126.702
+10:40,3,Adam Levine,214.165
+10:40,4,EquipaTuCocinaConLidl,
+10:40,5,KarmYuddhOnHotstar,
+10:40,6,今夜は家族にポテナゲおみやげ,
+10:40,7,Your Skin Craves More,
+10:40,8,Fk2020 AtamaSözünüTut,16.665
+10:40,9,Osmaniyede BüyükZulüm,23.820
+10:40,10,A'TIN RADIO DAY,68.921
+11:10,1,GENBLOK,
+11:10,2,EquipaTuCocinaConLidl,
+11:10,3,StrayKids_HEYDAY,
+11:10,4,今夜は家族にポテナゲおみやげ,
+11:10,5,Adam Levine,223.989
+11:10,6,SKZ FOR STREET MAN FIGHTER,
+11:10,7,prinsjesdag,
+11:10,8,Fk2020 AtamaSözünüTut,56.570
+11:10,9,Mr Bayo,
+11:10,10,Osmaniyede BüyükZulüm,34.020
+11:40,1,GENBLOK,
+11:40,2,ThisMorning,
+11:40,3,StrayKids_HEYDAY,13.858
+11:40,4,SKZ FOR STREET MAN FIGHTER,13.500
+11:40,5,EquipaTuCocinaConLidl,
+11:40,6,Mr Bayo,
+11:40,7,ロンフーあつし,
+11:40,8,3racha,12.755
+11:40,9,Adam Levine,233.652
+11:40,10,トレカ100枚,
+12:10,1,GENBLOK,
+12:10,2,ThisMorning,
+12:10,3,StrayKids_HEYDAY,18.479
+12:10,4,SKZ FOR STREET MAN FIGHTER,17.824
+12:10,5,EquipaTuCocinaConLidl,
+12:10,6,3racha,18.558
+12:10,7,Mr Bayo,
+12:10,8,ChupBookingsOpen,
+12:10,9,トレカ100枚,
+12:10,10,Adam Levine,243.336
+12:40,1,ThisMorning,
+12:40,2,StrayKids_HEYDAY,21.431
+12:40,3,GENBLOK,
+12:40,4,SameScent4thWin,
+12:40,5,夢8生配信,
+12:40,6,SKZ FOR STREET MAN FIGHTER,20.381
+12:40,7,3racha,22.801
+12:40,8,トレカ100枚,
+12:40,9,Mr Bayo,
+12:40,10,킬링보이스,30.247
+13:10,1,ZOZOマリン,
+13:10,2,鳥の群れ,
+13:10,3,ThisMorning,10.236
+13:10,4,StrayKids_HEYDAY,24.453
+13:10,5,SameScent4thWin,
+13:10,6,GENBLOK,
+13:10,7,夢8生配信,
+13:10,8,SKZ FOR STREET MAN FIGHTER,22.399
+13:10,9,킬링보이스,39.136
+13:10,10,トレカ100枚,
+14:10,1,れおほー,
+14:10,2,prinsjesdag,13.879
+14:10,3,jisung,128.141
+14:10,4,うたコン,
+14:10,5,丈橋ときょものインスタライブ,
+14:10,6,ZOZOマリン,12.370
+14:10,7,troonrede,
+14:10,8,ThaiCaveRescueNetflix,67.869
+14:10,9,THAI CAVE RESCUE X MEW,68.585
+14:10,10,鳥の群れ,10.895
+14:40,1,prinsjesdag,16.628
+14:40,2,れおほー,
+14:40,3,nhk_jsclub,
+14:40,4,丈橋ときょものインスタライブ,
+14:40,5,jisung,139.450
+14:40,6,仰天ニュース,
+14:40,7,chibalotte,31.358
+14:40,8,THAI CAVE RESCUE X MEW,94.521
+14:40,9,ZOZOマリン,13.602
+14:40,10,うさほー,
+15:10,1,丈橋ときょものインスタライブ,16.045
+15:10,2,横浜優勝,
+15:10,3,prinsjesdag,18.821
+15:10,4,阪神タイガース,21.689
+15:10,5,지구에서23년지성아환영해,
+15:10,6,れおほー,
+15:10,7,仰天ニュース,
+15:10,8,jisung,134.913
+15:10,9,インライ,16.500
+15:10,10,おりほー,
+15:40,1,丈橋ときょものインスタライブ,18.527
+15:40,2,横浜優勝,
+15:40,3,オリバーな犬,
+15:40,4,prinsjesdag,21.217
+15:40,5,マツコの知らない世界,
+15:40,6,阪神タイガース,22.689
+15:40,7,れおほー,
+15:40,8,インライ,18.206
+15:40,9,松田兄弟,
+15:40,10,jisung,141.246
+16:10,1,丈橋ときょものインスタライブ,20.038
+16:10,2,オリバーな犬,
+16:10,3,どらほー,
+16:10,4,横浜優勝,
+16:10,5,INDvsAUS,15.015
+16:10,6,仰天ニュース,14.616
+16:10,7,PATROAS NO GRAMMY,
+16:10,8,マツコの知らない世界,
+16:10,9,松田兄弟,
+16:10,10,れおほー,
+16:40,1,丈橋ときょものインスタライブ,23.572
+16:40,2,PATROAS NO GRAMMY,27.343
+16:40,3,INDvsAUS,17.679
+16:40,4,Eliezer,
+16:40,5,オリバーな犬,
+16:40,6,どらほー,
+16:40,7,NationalVoterRegistrationDay,11.113
+16:40,8,横浜優勝,
+16:40,9,記憶を無くしてもう一回聴きたい曲選手権,
+16:40,10,Viih Tube,
+17:10,1,31stBloomingDae,28.755
+17:10,2,Eliezer,
+17:10,3,첸_가을밤을_수놓은_별,23.981
+17:10,4,INDvsAUS,20.321
+17:10,5,PATROAS NO GRAMMY,34.793
+17:10,6,丈橋ときょものインスタライブ,25.450
+17:10,7,Viih Tube,15.414
+17:10,8,NationalVoterRegistrationDay,14.652
+17:10,9,どらほー,
+17:10,10,横浜優勝,
+17:40,1,31stBloomingDae,67.871
+17:40,2,첸_가을밤을_수놓은_별,57.746
+17:40,3,INDvsAUS,27.332
+17:40,4,Eliezer,14.971
+17:40,5,SalarioRosaVePorMas,11.854
+17:40,6,黒澤ルビィ生誕祭2022,16.771
+17:40,7,Viih Tube,21.936
+17:40,8,PATROAS NO GRAMMY,37.489
+17:40,9,jongdae,26.424
+17:40,10,ルビィちゃん,14.748
+18:10,1,31stBloomingDae,82.996
+18:10,2,첸_가을밤을_수놓은_별,70.629
+18:10,3,INDvsAUS,30.902
+18:10,4,Eliezer,20.050
+18:10,5,SalarioRosaVePorMas,20.256
+18:10,6,HappyChenDay,91.789
+18:10,7,Viih Tube,27.962
+18:10,8,SEHUN,90.411
+18:10,9,PATROAS NO GRAMMY,38.732
+18:10,10,jongdae,32.730
+18:40,1,31stBloomingDae,91.374
+18:40,2,INDvsAUS,36.410
+18:40,3,SalarioRosaVePorMas,29.804
+18:40,4,첸_가을밤을_수놓은_별,79.506
+18:40,5,Eliezer,24.534
+18:40,6,NationalVoterRegistrationDay,24.542
+18:40,7,SEHUN,111.897
+18:40,8,Viih Tube,33.098
+18:40,9,Poesia 13,22.124
+18:40,10,PATROAS NO GRAMMY,39.794
+19:10,1,INDvsAUS,48.759
+19:10,2,SalarioRosaVePorMas,37.207
+19:10,3,31stBloomingDae,96.175
+19:10,4,첸_가을밤을_수놓은_별,83.508
+19:10,5,Eliezer,29.172
+19:10,6,BeyondFast,18.477
+19:10,7,SEHUN,126.550
+19:10,8,Poesia 13,28.473
+19:10,9,Bhuvi,10.067
+19:10,10,Viih Tube,37.976
+19:40,1,INDvsAUS,61.288
+19:40,2,SalarioRosaVePorMas,42.450
+19:40,3,31stBloomingDae,99.070
+19:40,4,BeyondFast,24.335
+19:40,5,첸_가을밤을_수놓은_별,85.740
+19:40,6,Eliezer,32.993
+19:40,7,Bhuvi,18.581
+19:40,8,Poesia 13,33.955
+19:40,9,SEHUN,136.720
+19:40,10,Viih Tube,42.200
+20:10,1,INDvsAUS,66.962
+20:10,2,SalarioRosaVePorMas,49.379
+20:10,3,BeyondFast,28.671
+20:10,4,31stBloomingDae,101.157
+20:10,5,Eliezer,36.434
+20:10,6,첸_가을밤을_수놓은_별,87.536
+20:10,7,Bhuvi,22.261
+20:10,8,Target,249.913
+20:10,9,Poesia 13,38.479
+20:10,10,SEHUN,143.183
+20:40,1,INDvsAUS,70.279
+20:40,2,SalarioRosaVePorMas,57.386
+20:40,3,BeyondFast,32.761
+20:40,4,Target,257.713
+20:40,5,kpss2022iptaledilsin,22.906
+20:40,6,31stBloomingDae,102.893
+20:40,7,NyQuil,
+20:40,8,Eliezer,39.222
+20:40,9,Poesia 13,42.860
+20:40,10,Bhuvi,23.914
+21:10,1,INDvsAUS,72.553
+21:10,2,SalarioRosaVePorMas,64.285
+21:10,3,BeyondFast,35.787
+21:10,4,NyQuil,10.712
+21:10,5,kpss2022iptaledilsin,26.366
+21:10,6,Target,252.756
+21:10,7,NationalVoterRegistrationDay,37.835
+21:10,8,Poesia 13,46.294
+21:10,9,Eliezer,41.701
+21:10,10,Bhuvi,24.948
+21:40,1,SalarioRosaVePorMas,71.037
+21:40,2,INDvsAUS,73.826
+21:40,3,NyQuil,13.145
+21:40,4,BeyondFast,38.483
+21:40,5,GBBO,
+21:40,6,kpss2022iptaledilsin,29.546
+21:40,7,Target,259.653
+21:40,8,Poesia 13,50.283
+21:40,9,Eliezer,41.008
+21:40,10,Bhuvi,25.649
+22:10,1,SalarioRosaVePorMas,77.282
+22:10,2,GBBO,
+22:10,3,INDvsAUS,74.712
+22:10,4,NyQuil,15.434
+22:10,5,BeyondFast,40.766
+22:10,6,kpss2022iptaledilsin,32.381
+22:10,7,Petro,208.623
+22:10,8,Target,255.194
+22:10,9,Poesia 13,53.561
+22:10,10,Eliezer,43.284
+22:40,1,SalarioRosaVePorMas,85.048
+22:40,2,GBBO,
+22:40,3,NyQuil,17.804
+22:40,4,INDvsAUS,75.439
+22:40,5,kpss2022iptaledilsin,35.081
+22:40,6,BeyondFast,42.740
+22:40,7,Petro,219.304
+22:40,8,Poesia 13,57.534
+22:40,9,Target,261.380
+22:40,10,Eliezer,45.438
+23:10,1,SalarioRosaVePorMas,92.556
+23:10,2,NyQuil,19.332
+23:10,3,GBBO,
+23:10,4,kpss2022iptaledilsin,37.391
+23:10,5,BeyondFast,44.624
+23:10,6,خلك_نبيه,
+23:10,7,Petro,224.064
+23:10,8,Poesia 13,60.900
+23:10,9,Judge Dearie,125.222
+23:10,10,Target,256.752
+23:40,1,SalarioRosaVePorMas,99.041
+23:40,2,NyQuil,21.244
+23:40,3,GBBO,
+23:40,4,kpss2022iptaledilsin,38.930
+23:40,5,MaskSinger,
+23:40,6,خلك_نبيه,
+23:40,7,Petro,234.764
+23:40,8,Kevin Bacon,
+23:40,9,Poesia 13,65.069
+23:40,10,Judge Dearie,132.625

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SalarioRosaEstaContigo,71.991
+00:10,2,Jacques,92.965
+00:10,3,PortfolioDay,222.562
+00:10,4,Paige,50.724
+00:10,5,TierraDeNadie11,
+00:10,6,Emmy,262.292
+00:10,7,John Bolton,16.710
+00:10,8,January6thHearings,26.838
+00:10,9,goLOUD,11.156
+00:10,10,Keal Harry,
+00:40,1,SalarioRosaEstaContigo,74.313
+00:40,2,Jacques,95.353
+00:40,3,PortfolioDay,234.156
+00:40,4,Paige,51.888
+00:40,5,TierraDeNadie11,
+00:40,6,John Bolton,20.793
+00:40,7,Emmy,270.905
+00:40,8,Mitchell,33.539
+00:40,9,goLOUD,11.798
+00:40,10,January6thCommitteeHearings,29.941
+01:10,1,SalarioRosaEstaContigo,76.332
+01:10,2,Jacques,96.418
+01:10,3,PortfolioDay,244.983
+01:10,4,Paige,51.753
+01:10,5,Mitchell,34.927
+01:10,6,TierraDeNadie11,11.006
+01:10,7,John Bolton,25.147
+01:10,8,Emmy,278.265
+01:10,9,goLOUD,13.045
+01:10,10,Keal Harry,
+01:40,1,SalarioRosaEstaContigo,78.181
+01:40,2,PortfolioDay,255.651
+01:40,3,Jacques,97.663
+01:40,4,TierraDeNadie11,12.530
+01:40,5,Mitchell,36.796
+01:40,6,John Bolton,28.442
+01:40,7,Emmy,286.355
+01:40,8,Paige,52.559
+01:40,9,goLOUD,13.668
+01:40,10,Uvalde,
+02:10,1,SalarioRosaEstaContigo,79.722
+02:10,2,PortfolioDay,265.153
+02:10,3,Jacques,98.027
+02:10,4,TierraDeNadie11,13.758
+02:10,5,Mitchell,37.489
+02:10,6,John Bolton,31.183
+02:10,7,Emmy,292.778
+02:10,8,Bahia,17.299
+02:10,9,Uvalde,
+02:10,10,Paige,52.228
+02:40,1,SalarioRosaEstaContigo,81.412
+02:40,2,Cruzeiro,45.970
+02:40,3,PortfolioDay,274.640
+02:40,4,Ganso,
+02:40,5,Fábio,27.422
+02:40,6,Jacques,98.792
+02:40,7,Mitchell,38.968
+02:40,8,Uvalde,74.330
+02:40,9,Bahia,18.643
+02:40,10,TierraDeNadie11,14.276
+03:10,1,Cruzeiro,54.017
+03:10,2,SalarioRosaEstaContigo,89.206
+03:10,3,PortfolioDay,283.509
+03:10,4,Ganso,
+03:10,5,Fábio,27.470
+03:10,6,Uvalde,85.698
+03:10,7,AGT,19.603
+03:10,8,Bahia,18.967
+03:10,9,Caio Paulista,
+03:10,10,Pezzolano,
+03:40,1,Cruzeiro,62.396
+03:40,2,NickiFreakyGirl,25.569
+03:40,3,SalarioRosaEstaContigo,98.711
+03:40,4,Bahia,21.924
+03:40,5,Ganso,
+03:40,6,TE AMAMOS MARILIA,13.023
+03:40,7,TBMonogramxBrightWin,24.278
+03:40,8,PortfolioDay,292.721
+03:40,9,Fábio,29.288
+03:40,10,Athletico,
+04:10,1,Cruzeiro,86.786
+04:10,2,NickiFreakyGirl,48.199
+04:10,3,SalarioRosaEstaContigo,105.879
+04:10,4,Cano,21.910
+04:10,5,Nathan,45.372
+04:10,6,TBMonogramxBrightWin,94.145
+04:10,7,TE AMAMOS MARILIA,46.834
+04:10,8,MasterChefBR,
+04:10,9,Mineirão,24.012
+04:10,10,Ganso,
+04:40,1,Cruzeiro,101.990
+04:40,2,NickiFreakyGirl,67.332
+04:40,3,SalarioRosaEstaContigo,111.325
+04:40,4,Cano,26.178
+04:40,5,Nathan,48.793
+04:40,6,TBMonogramxBrightWin,166.202
+04:40,7,MasterChefCelebritycolombia,11.624
+04:40,8,MasterChefBR,
+04:40,9,TE AMAMOS MARILIA,58.269
+04:40,10,Diniz,
+05:10,1,Cruzeiro,107.208
+05:10,2,NickiFreakyGirl,76.439
+05:10,3,SalarioRosaEstaContigo,115.654
+05:10,4,Cano,27.655
+05:10,5,TBMonogramxBrightWin,217.769
+05:10,6,GULFXTBMonogram,92.668
+05:10,7,Nathan,49.343
+05:10,8,MasterChefBR,
+05:10,9,TE AMAMOS MARILIA,66.342
+05:10,10,Diniz,10.080
+05:40,1,Cruzeiro,111.255
+05:40,2,NickiFreakyGirl,82.057
+05:40,3,SalarioRosaEstaContigo,118.710
+05:40,4,TBMonogramxBrightWin,300.107
+05:40,5,GULFXTBMonogram,143.028
+05:40,6,MasterChefBR,
+05:40,7,Cano,28.785
+05:40,8,Nathan,50.114
+05:40,9,Clay Holmes,
+05:40,10,गुरु पूर्णिमा,66.024
+06:10,1,Cruzeiro,113.860
+06:10,2,TBMonogramxBrightWin,469.895
+06:10,3,NickiFreakyGirl,87.211
+06:10,4,SalarioRosaEstaContigo,118.937
+06:10,5,GULFXTBMonogram,172.968
+06:10,6,BeTheSuninManilaPRESALE,12.588
+06:10,7,Cano,29.258
+06:10,8,マイ数珠,13.989
+06:10,9,गुरु पूर्णिमा,82.199
+06:10,10,Nathan,50.025
+06:40,1,Cruzeiro,115.565
+06:40,2,TBMonogramxBrightWin,632.791
+06:40,3,NickiFreakyGirl,90.741
+06:40,4,GuruPurnima,72.935
+06:40,5,BeTheSuninManilaPRESALE,14.336
+06:40,6,GULFXTBMonogram,197.647
+06:40,7,マイ数珠,16.663
+06:40,8,गुरु पूर्णिमा,97.430
+06:40,9,Cano,29.839
+06:40,10,平蔵くん,
+07:10,1,TBMonogramxBrightWin,748.869
+07:10,2,Cruzeiro,116.449
+07:10,3,GuruPurnima2022,30.674
+07:10,4,NickiFreakyGirl,93.536
+07:10,5,BeTheSuninManilaPRESALE,16.201
+07:10,6,マイ数珠,19.178
+07:10,7,GULFXTBMonogram,218.843
+07:10,8,गुरु पूर्णिमा,112.190
+07:10,9,平蔵くん,
+07:10,10,Heizou,49.605
+07:40,1,TBMonogramxBrightWin,843.916
+07:40,2,GuruPurnima2022,35.777
+07:40,3,Cruzeiro,116.962
+07:40,4,गुरु पूर्णिमा,125.549
+07:40,5,BeTheSuninManilaPRESALE,18.328
+07:40,6,マイ数珠,21.299
+07:40,7,GULFXTBMonogram,238.434
+07:40,8,NickiFreakyGirl,95.985
+07:40,9,Heizou,53.390
+07:40,10,平蔵くん,
+08:10,1,GuruPurnima,94.457
+08:10,2,TBMonogramxBrightWin,905.283
+08:10,3,गुरु पूर्णिमा,137.670
+08:10,4,マイ数珠,23.184
+08:10,5,BeTheSuninManilaPRESALE,20.347
+08:10,6,SkiesForBeomgyu,
+08:10,7,Cruzeiro,117.350
+08:10,8,Heizou,56.364
+08:10,9,激むず京都弁クイズ,
+08:10,10,平蔵くん,10.705
+08:40,1,GuruPurnima,102.713
+08:40,2,TBMonogramxBrightWin,960.470
+08:40,3,गुरु पूर्णिमा,149.475
+08:40,4,マイ数珠,24.904
+08:40,5,激むず京都弁クイズ,
+08:40,6,BeTheSuninManilaPRESALE,21.651
+08:40,7,SkiesForBeomgyu,
+08:40,8,Heizou,59.432
+08:40,9,平蔵くん,11.467
+08:40,10,Kazuha,143.875
+09:10,1,GuruPurnima,109.896
+09:10,2,गुरु पूर्णिमा,159.505
+09:10,3,激むず京都弁クイズ,
+09:10,4,TBMonogramxBrightWin,1.008.541
+09:10,5,マイ数珠,26.431
+09:10,6,JUNG HOSEOK,24.295
+09:10,7,BeTheSuninManilaPRESALE,23.618
+09:10,8,Heizou,61.713
+09:10,9,SkiesForBeomgyu,10.097
+09:10,10,平蔵くん,12.149
+09:40,1,GuruPurnima,116.182
+09:40,2,激むず京都弁クイズ,
+09:40,3,गुरु पूर्णिमा,169.743
+09:40,4,マイ数珠,27.749
+09:40,5,TBMonogramxBrightWin,1.055.142
+09:40,6,JUNG HOSEOK,26.235
+09:40,7,Heizou,64.327
+09:40,8,SkiesForBeomgyu,10.437
+09:40,9,여섯시_재찬이의_봄을_들려줘,14.577
+09:40,10,平蔵くん,12.769
+10:10,1,MsMarvel,22.242
+10:10,2,GuruPurnima,121.886
+10:10,3,激むず京都弁クイズ,
+10:10,4,गुरु पूर्णिमा,177.946
+10:10,5,GSBKitapKart,17.001
+10:10,6,マイ数珠,29.026
+10:10,7,Heizou,66.449
+10:10,8,JUNG HOSEOK,27.509
+10:10,9,JAECHAN_1st_OST,21.734
+10:10,10,生粋の京都人,
+10:40,1,MsMarvel,27.582
+10:40,2,GSBKitapKart,21.831
+10:40,3,GuruPurnima,127.545
+10:40,4,激むず京都弁クイズ,
+10:40,5,गुरु पूर्णिमा,186.467
+10:40,6,올여름_SF9_스크림_들려,
+10:40,7,生粋の京都人,
+10:40,8,SCREAM OUT NOW,
+10:40,9,マイ数珠,30.338
+10:40,10,Heizou,68.857
+11:10,1,MsMarvel,31.673
+11:10,2,GSBKitapKart,25.833
+11:10,3,激むず京都弁クイズ,
+11:10,4,GuruPurnima,133.018
+11:10,5,SF9riseTHEWAVEOF9,
+11:10,6,SCREAM OUT NOW,
+11:10,7,生粋の京都人,
+11:10,8,गुरु पूर्णिमा,193.955
+11:10,9,ド級の京都人,
+11:10,10,マイ数珠,32.666
+11:40,1,MsMarvel,35.343
+11:40,2,FNS歌謡祭夏,82.408
+11:40,3,GSBKitapKart,27.547
+11:40,4,激むず京都弁クイズ,
+11:40,5,SF9riseTHEWAVEOF9,12.181
+11:40,6,SCREAM OUT NOW,11.677
+11:40,7,HIH2 ON THE RUN,20.197
+11:40,8,生粋の京都人,
+11:40,9,カーマちゃん,
+11:40,10,ド級の京都人,
+12:10,1,FNS歌謡祭夏,107.294
+12:10,2,MsMarvel,38.854
+12:10,3,GSBKitapKart,28.759
+12:10,4,激むず京都弁クイズ,
+12:10,5,日本で一番コワい夜,
+12:10,6,SCREAM OUT NOW,12.915
+12:10,7,HIH2 ON THE RUN,33.808
+12:10,8,カーマちゃん,
+12:10,9,weeeek,20.758
+12:10,10,生粋の京都人,
+12:40,1,FNS歌謡祭夏,130.276
+12:40,2,MsMarvel,42.147
+12:40,3,StateofOrigin,
+12:40,4,GSBKitapKart,29.783
+12:40,5,เจอซีพฤกษ์ที่บิวเทรี่ยม,74.280
+12:40,6,HIH2 ON THE RUN,49.076
+12:40,7,山田くん,
+12:40,8,カーマちゃん,
+12:40,9,SCREAM OUT NOW,13.472
+12:40,10,Plea,23.688
+13:10,1,FNS歌謡祭夏,144.720
+13:10,2,MsMarvel,45.503
+13:10,3,StateofOrigin,
+13:10,4,日本で一番コワい夜,
+13:10,5,เจอซีพฤกษ์ที่บิวเทรี่ยม,113.451
+13:10,6,ウタちゃん,
+13:10,7,HIH2 ON THE RUN,60.849
+13:10,8,ノーアウト満塁,
+13:10,9,ジャパンダートダービー,52.591
+13:10,10,カーマちゃん,11.279
+13:40,1,FNS歌謡祭夏,175.557
+13:40,2,PMQs,15.896
+13:40,3,MsMarvel,49.235
+13:40,4,FNSで初披露ドキドキTwoasOne,
+13:40,5,StateofOrigin,
+13:40,6,ノットゥルノ,12.864
+13:40,7,ジャパンダートダービー,58.814
+13:40,8,たかほー,
+13:40,9,トニセン,11.373
+13:40,10,HIH2 ON THE RUN,69.663
+14:10,1,FNS歌謡祭夏,200.457
+14:10,2,PMQs,21.760
+14:10,3,MsMarvel,52.940
+14:10,4,FNSで初披露ドキドキTwoasOne,18.304
+14:10,5,Origin,
+14:10,6,リンライ,
+14:10,7,トニセン,16.477
+14:10,8,ノットゥルノ,16.165
+14:10,9,れおほー,
+14:10,10,どらほー,
+14:40,1,FNS歌謡祭夏,217.178
+14:40,2,Origin,
+14:40,3,VoleiNoSporTV,
+14:40,4,PMQs,25.348
+14:40,5,MsMarvel,57.104
+14:40,6,リンライ,10.617
+14:40,7,どらほー,
+14:40,8,スタライ,20.938
+14:40,9,リングライト,11.108
+14:40,10,れおほー,
+15:10,1,FNS歌謡祭夏,234.355
+15:10,2,FNS歌謡祭夏,234.355
+15:10,3,VoleiNoSporTV,12.377
+15:10,4,摩擦係数,
+15:10,5,Origin,10.072
+15:10,6,リンライ,14.319
+15:10,7,スタライ,26.048
+15:10,8,リングライト,14.679
+15:10,9,どらほー,
+15:10,10,スーパームーン,56.985
+15:40,1,FNS歌謡祭夏,244.467
+15:40,2,摩擦係数,23.513
+15:40,3,VoleiNoSporTV,17.986
+15:40,4,櫻坂46,38.852
+15:40,5,Asyouknow,16.947
+15:40,6,リンライ,17.415
+15:40,7,Bayonetta 3,10.633
+15:40,8,スタライ,30.386
+15:40,9,リングライト,18.062
+15:40,10,スーパームーン,60.547
+16:10,1,摩擦係数,28.333
+16:10,2,FNS歌謡祭夏,249.365
+16:10,3,VoleiNoSporTV,24.866
+16:10,4,櫻坂46,42.394
+16:10,5,MsMarvel,70.246
+16:10,6,Bayonetta 3,15.122
+16:10,7,リンライ,20.294
+16:10,8,スタライ,33.928
+16:10,9,リングライト,20.969
+16:10,10,Karen Rojo,
+16:40,1,摩擦係数,30.874
+16:40,2,VoleiNoSporTV,29.051
+16:40,3,FNS歌謡祭夏,254.021
+16:40,4,MsMarvel,75.230
+16:40,5,櫻坂46,45.142
+16:40,6,Bayonetta 3,18.478
+16:40,7,Karen Rojo,
+16:40,8,リンライ,22.370
+16:40,9,リングライト,23.143
+16:40,10,スーパームーン,66.529
+17:10,1,TDF2022,55.403
+17:10,2,Pogacar,20.168
+17:10,3,JO1ANNX,21.758
+17:10,4,摩擦係数,32.219
+17:10,5,MsMarvel,80.109
+17:10,6,VoleiNoSporTV,29.793
+17:10,7,Bayonetta 3,21.250
+17:10,8,Vingegaard,13.045
+17:10,9,Karen Rojo,10.082
+17:10,10,Jumbo,18.370
+17:40,1,TDF2022,61.939
+17:40,2,jhope_Arson,224.752
+17:40,3,JO1ANNX,58.271
+17:40,4,Pogacar,23.391
+17:40,5,MsMarvel,84.993
+17:40,6,jhope_방화,153.624
+17:40,7,Vingegaard,16.740
+17:40,8,Bayonetta 3,23.812
+17:40,9,Karen Rojo,12.702
+17:40,10,Nairo,
+18:10,1,jhope_Arson,262.603
+18:10,2,TDF2022,63.436
+18:10,3,JO1ANNX,84.663
+18:10,4,MsMarvel,89.471
+18:10,5,Pogacar,24.522
+18:10,6,LateNightTalking,39.729
+18:10,7,Bayonetta 3,26.051
+18:10,8,Vingegaard,18.845
+18:10,9,Karen Rojo,15.006
+18:10,10,Nairo,
+18:40,1,LateNightTalking,74.883
+18:40,2,HarryStyles,45.787
+18:40,3,jhope_Arson,284.777
+18:40,4,TDF2022,66.200
+18:40,5,JO1ANNX,92.729
+18:40,6,Pogacar,25.843
+18:40,7,Bayonetta 3,28.091
+18:40,8,Vingegaard,20.580
+18:40,9,Sterling,104.052
+18:40,10,Karen Rojo,17.197
+19:10,1,LateNightTalking,87.020
+19:10,2,HarryStyles,49.201
+19:10,3,jhope_Arson,296.278
+19:10,4,MsMarvel,99.237
+19:10,5,TDF2022,66.013
+19:10,6,Pogacar,26.426
+19:10,7,Sterling,112.630
+19:10,8,Bayonetta 3,29.894
+19:10,9,5sos,48.443
+19:10,10,Karen Rojo,19.086
+19:40,1,LateNightTalking,95.246
+19:40,2,HarryStyles,53.565
+19:40,3,jhope_Arson,305.992
+19:40,4,MsMarvel,103.736
+19:40,5,Pablo Torre,
+19:40,6,乃木坂46ANN,28.618
+19:40,7,Sterling,123.390
+19:40,8,Pogacar,27.222
+19:40,9,Bayonetta 3,32.005
+19:40,10,5sos,52.786
+20:10,1,LateNightTalking,97.307
+20:10,2,harry styles,93.559
+20:10,3,Pablo Torre,10.632
+20:10,4,MsMarvel,107.718
+20:10,5,jhope_Arson,311.730
+20:10,6,乃木坂46ANN,33.473
+20:10,7,VoleiNoSportTV,
+20:10,8,Sterling,129.521
+20:10,9,Sérvia,18.233
+20:10,10,Bayonetta 3,33.605
+20:40,1,LateNightTalking,100.554
+20:40,2,harry styles,97.239
+20:40,3,Kimpembe,23.247
+20:40,4,pablo torre,12.335
+20:40,5,MsMarvel,111.468
+20:40,6,PastorWantsAWife,
+20:40,7,Colwill,
+20:40,8,Sterling,135.487
+20:40,9,jhope_Arson,318.302
+20:40,10,乃木坂46ANN,33.984
+21:10,1,LateNightTalking,101.821
+21:10,2,CashApp20Qs,
+21:10,3,Kimpembe,26.795
+21:10,4,Colwill,11.921
+21:10,5,harry styles,98.211
+21:10,6,MsMarvel,114.583
+21:10,7,Pablo Torre,12.938
+21:10,8,صادق_الوعد,13.480
+21:10,9,PastorWantsAWife,
+21:10,10,Belén Succi,
+21:40,1,CashApp20Qs,10.686
+21:40,2,LateNightTalking,103.820
+21:40,3,Colwill,14.570
+21:40,4,Kimpembe,29.612
+21:40,5,MsMarvel,117.856
+21:40,6,NEDPOR,
+21:40,7,harry styles,101.004
+21:40,8,صادق_الوعد,16.467
+21:40,9,Pablo Torre,14.090
+21:40,10,Sterling,142.729
+22:10,1,CashApp20Qs,11.107
+22:10,2,LateNightTalking,104.234
+22:10,3,NEDPOR,
+22:10,4,Colwill,16.498
+22:10,5,Kimpembe,31.454
+22:10,6,MsMarvel,120.568
+22:10,7,İstihdamRekoru,
+22:10,8,harry styles,101.108
+22:10,9,Pablo Torre,14.501
+22:10,10,Buğra Tolga Gülcan,
+22:40,1,cashapp20qs,11.242
+22:40,2,NEDPOR,
+22:40,3,Ekin,24.964
+22:40,4,Louis Vuitton,
+22:40,5,LateNightTalking,105.298
+22:40,6,Colwill,17.799
+22:40,7,MsMarvel,123.741
+22:40,8,chilhavisto,
+22:40,9,Kimpembe,33.039
+22:40,10,Kehlani,
+23:10,1,Davide,34.459
+23:10,2,Danica,21.851
+23:10,3,NEDPOR,
+23:10,4,CashApp20Qs,11.400
+23:10,5,Belgrano,10.629
+23:10,6,SalvameMediafest4,
+23:10,7,Ekin,26.707
+23:10,8,sessizistila,15.177
+23:10,9,Gemma and Luca,
+23:10,10,Dolunay,
+23:40,1,Davide,36.059
+23:40,2,Danica,24.010
+23:40,3,Becky Hill,
+23:40,4,NEDPOR,
+23:40,5,Belgrano,12.788
+23:40,6,SalvameMediafest4,
+23:40,7,CashApp20Qs,11.559
+23:40,8,PekinExpress,
+23:40,9,Dolunay,
+23:40,10,Kehlani,12.883

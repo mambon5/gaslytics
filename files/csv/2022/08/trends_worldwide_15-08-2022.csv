@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Flamengo,224.803
+00:10,2,Alaba,53.338
+00:10,3,Marinho,21.995
+00:10,4,Tuchel,336.147
+00:10,5,Almería,77.153
+00:10,6,Beşiktaş,159.993
+00:10,7,ALYvBJK,21.036
+00:10,8,ريال_مدريد_الميريا,14.377
+00:10,9,Rayssa,10.877
+00:10,10,الابا,
+00:40,1,Flamengo,235.117
+00:40,2,Alaba,61.212
+00:40,3,Marinho,22.957
+00:40,4,Almería,80.578
+00:40,5,Beşiktaş,169.968
+00:40,6,Tuchel,342.171
+00:40,7,ريال_مدريد_الميريا,14.467
+00:40,8,ALYvBJK,21.435
+00:40,9,Rayssa,12.196
+00:40,10,HalaMadrid,12.336
+01:10,1,Flamengo,241.373
+01:10,2,Alaba,64.761
+01:10,3,Marinho,23.651
+01:10,4,Willy Z,
+01:10,5,Almería,82.197
+01:10,6,VamosColoColo,
+01:10,7,Beşiktaş,172.989
+01:10,8,Tuchel,351.132
+01:10,9,ريال_مدريد_الميريا,15.224
+01:10,10,Zalatoris,
+01:40,1,Flamengo,248.615
+01:40,2,Felipe Melo,
+01:40,3,Alaba,67.541
+01:40,4,VamosColoColo,
+01:40,5,Paulo Vieira,
+01:40,6,Diniz,
+01:40,7,Knicks,
+01:40,8,BatalhaDoLipSync,
+01:40,9,Domingao,
+01:40,10,Marinho,24.281
+02:10,1,Felipe Melo,10.039
+02:10,2,Flamengo,252.974
+02:10,3,Diniz,
+02:10,4,Knicks,10.417
+02:10,5,Alaba,69.065
+02:10,6,VamosColoColo,
+02:10,7,Paulo Vieira,
+02:10,8,StreamSFG,11.338
+02:10,9,BatalhaDoLipSync,
+02:10,10,Domingao,
+02:40,1,Felipe Melo,10.799
+02:40,2,Flamengo,260.607
+02:40,3,Knicks,12.021
+02:40,4,Diniz,
+02:40,5,Alaba,70.301
+02:40,6,90DayFiance,
+02:40,7,VamosColoColo,
+02:40,8,Benedetto,
+02:40,9,Paulo Vieira,
+02:40,10,Racing,57.240
+03:10,1,Felipe Melo,11.204
+03:10,2,Benedetto,
+03:10,3,RHOA,10.681
+03:10,4,Flamengo,265.504
+03:10,5,Knicks,13.118
+03:10,6,90DayFiance,
+03:10,7,Diniz,10.068
+03:10,8,Racing,57.694
+03:10,9,Return of the Mack,
+03:10,10,Alaba,71.206
+03:40,1,Benedetto,12.472
+03:40,2,Rapallini,
+03:40,3,Felipe Melo,12.428
+03:40,4,Racing,62.576
+03:40,5,RHOA,11.785
+03:40,6,LaAcademiaGranFinal,
+03:40,7,Knicks,13.996
+03:40,8,90DayFiance,11.078
+03:40,9,Flamengo,272.416
+03:40,10,Return of the Mack,
+04:10,1,Rapallini,15.892
+04:10,2,Benedetto,18.536
+04:10,3,LaAcademiaGranFinal,14.780
+04:10,4,Racing,67.349
+04:10,5,IndiaAt75,190.578
+04:10,6,Felipe Melo,15.895
+04:10,7,RHOA,12.402
+04:10,8,仙台育英,15.428
+04:10,9,90DayFiance,13.377
+04:10,10,IndependenceDay2022,90.259
+04:40,1,LaAcademiaGranFinal,24.293
+04:40,2,Rapallini,19.225
+04:40,3,Benedetto,22.224
+04:40,4,IndiaAt75,214.180
+04:40,5,IndependenceDay,203.062
+04:40,6,Racing,68.761
+04:40,7,Westworld,
+04:40,8,仙台育英,16.768
+04:40,9,RHOA,13.071
+04:40,10,Worst Concert,
+05:10,1,LaAcademiaGranFinal,34.793
+05:10,2,IndiaAt75,240.284
+05:10,3,IndependenceDay,218.448
+05:10,4,Benedetto,25.425
+05:10,5,Rapallini,20.847
+05:10,6,Racing,69.122
+05:10,7,Westworld,
+05:10,8,स्वतंत्रतादिवस,33.344
+05:10,9,Best Concert,
+05:10,10,Worst Concert,
+05:40,1,IndiaAt75,273.432
+05:40,2,IndependenceDay2022,127.233
+05:40,3,LaAcademiaGranFinal,43.808
+05:40,4,プリコネ住民診断,15.757
+05:40,5,Benedetto,27.943
+05:40,6,Rapallini,21.978
+05:40,7,स्वतंत्रतादिवस,42.894
+05:40,8,終戦記念日,49.714
+05:40,9,Racing,70.995
+05:40,10,Best Concert,
+06:10,1,IndiaAt75,308.350
+06:10,2,IndependenceDay2022,144.249
+06:10,3,LaAcademiaGranFinal,54.604
+06:10,4,プリコネ住民診断,21.579
+06:10,5,स्वतंत्रतादिवस,53.205
+06:10,6,Benedetto,29.956
+06:10,7,Jai Hind,140.875
+06:10,8,Rapallini,22.731
+06:10,9,終戦記念日,52.579
+06:10,10,Best Concert,
+06:40,1,LaAcademiaGranFinal,98.735
+06:40,2,IndependenceDay2022,164.801
+06:40,3,IndiaAt75,346.725
+06:40,4,Nelson,56.334
+06:40,5,プリコネ住民診断,25.901
+06:40,6,स्वतंत्रतादिवस,63.645
+06:40,7,Cesia,25.249
+06:40,8,Jai Hind,154.219
+06:40,9,Andrés,66.043
+06:40,10,Benedetto,31.418
+07:10,1,LaAcademiaGranFinal,123.259
+07:10,2,IndiaAt75,378.420
+07:10,3,IndependenceDay2022,181.361
+07:10,4,Nelson,68.637
+07:10,5,Cesia,34.900
+07:10,6,プリコネ住民診断,29.254
+07:10,7,स्वतंत्रतादिवस,72.489
+07:10,8,Jai Hind,165.266
+07:10,9,Andrés,69.639
+07:10,10,Benedetto,32.404
+07:40,1,IndependenceDay,310.705
+07:40,2,LaAcademiaGranFinal,130.889
+07:40,3,IndiaAt75,415.435
+07:40,4,Nelson,74.050
+07:40,5,Cesia,39.074
+07:40,6,プリコネ住民診断,31.718
+07:40,7,स्वतंत्रतादिवस,81.689
+07:40,8,Jai Hind,179.551
+07:40,9,Andrés,71.475
+07:40,10,終戦記念日,60.687
+08:10,1,IndependenceDay,327.849
+08:10,2,IndiaAt75,444.436
+08:10,3,LaAcademiaGranFinal,133.960
+08:10,4,tercih2022,36.734
+08:10,5,Nelson,75.462
+08:10,6,Jai Hind,189.532
+08:10,7,स्वतंत्रतादिवस,90.163
+08:10,8,Cesia,40.716
+08:10,9,Andrés,71.436
+08:10,10,終戦記念日,62.417
+08:40,1,IndependenceDay,352.078
+08:40,2,IndiaAt75,484.660
+08:40,3,tercih2022,39.942
+08:40,4,LaAcademiaGranFinal,135.643
+08:40,5,acıklandı,
+08:40,6,Jai Hind,202.681
+08:40,7,Nelson,76.921
+08:40,8,Cesia,41.706
+08:40,9,Buon Ferragosto,10.551
+08:40,10,終戦記念日,64.512
+09:10,1,IndependenceDay,364.080
+09:10,2,IndiaAt75,518.533
+09:10,3,tercih2022,43.244
+09:10,4,acıklandı,
+09:10,5,LaAcademiaGranFinal,136.851
+09:10,6,Jai Hind,208.853
+09:10,7,Nelson,77.145
+09:10,8,Cesia,42.125
+09:10,9,Buon Ferragosto,13.298
+09:10,10,愛工大名電,11.064
+09:40,1,IndependenceDay,382.957
+09:40,2,IndiaAt75,554.715
+09:40,3,tercih2022,47.371
+09:40,4,acıklandı,
+09:40,5,ACIKLANDI,
+09:40,6,TwitterTT HizmetiVerilir,
+09:40,7,Jai Hind,217.437
+09:40,8,Buon Ferragosto,16.502
+09:40,9,愛工大名電,12.748
+09:40,10,Nelson,77.780
+10:10,1,tercih2022,51.848
+10:10,2,IndependenceDay,391.551
+10:10,3,IndiaAt75,580.126
+10:10,4,acıklandı,10.079
+10:10,5,ACIKLANDI,10.103
+10:10,6,TwitterTT HizmetiVerilir,
+10:10,7,Buon Ferragosto,19.787
+10:10,8,Jai Hind,220.973
+10:10,9,愛工大名電,13.368
+10:10,10,Tebrik,18.946
+10:40,1,tercih2022,56.492
+10:40,2,IndiaAt75,611.732
+10:40,3,IndependenceDay,406.355
+10:40,4,ACIKLANDI,12.016
+10:40,5,acıklandı,12.077
+10:40,6,Buon Ferragosto,23.033
+10:40,7,twittertt hizmetiverilir,
+10:40,8,Jai Hind,228.603
+10:40,9,Tebrik,20.727
+10:40,10,Garner,
+11:10,1,tercih2022,60.979
+11:10,2,IndiaAt75,646.253
+11:10,3,ACIKLANDI,13.743
+11:10,4,IndependenceDay,412.963
+11:10,5,acıklandı,13.748
+11:10,6,Buon Ferragosto,25.978
+11:10,7,twittertt hizmetiverilir,
+11:10,8,Jai Hind,230.677
+11:10,9,Garner,11.593
+11:10,10,ふっかさん,
+11:40,1,tercih2022,65.870
+11:40,2,満塁ホームラン,
+11:40,3,ACIKLANDI,15.348
+11:40,4,IndependenceDay2022,300.607
+11:40,5,IndiaAt75,671.732
+11:40,6,Bright_LostandFoundMV,45.494
+11:40,7,Buon Ferragosto,28.540
+11:40,8,Garner,13.871
+11:40,9,ふっかさん,
+11:40,10,Jai Hind,236.638
+12:10,1,tercih2022,70.129
+12:10,2,ACIKLANDI,16.457
+12:10,3,満塁ホームラン,11.448
+12:10,4,Bright_LostandFoundMV,70.652
+12:10,5,IndependenceDay2022,308.455
+12:10,6,IndiaAt75,692.348
+12:10,7,Buon Ferragosto,30.968
+12:10,8,Garner,15.663
+12:10,9,ふっかさん,
+12:10,10,水着スカディ,11.469
+12:40,1,tercih2022,74.268
+12:40,2,ACIKLANDI,17.286
+12:40,3,満塁ホームラン,12.575
+12:40,4,Bright_LostandFoundMV,91.164
+12:40,5,MondayMotivation,18.509
+12:40,6,IndependenceDay2022,318.216
+12:40,7,山田くん,12.733
+12:40,8,Buon Ferragosto,33.004
+12:40,9,Garner,17.371
+12:40,10,水着スカディ,13.488
+13:10,1,tercih2022,77.026
+13:10,2,Bright_LostandFoundMV,124.121
+13:10,3,ACIKLANDI,17.824
+13:10,4,満塁ホームラン,13.243
+13:10,5,MondayMotivation,19.749
+13:10,6,yks2022,13.409
+13:10,7,Buon Ferragosto,34.742
+13:10,8,Garner,18.569
+13:10,9,水着スカディ,14.458
+13:10,10,山田くん,13.102
+13:40,1,tercih2022,79.722
+13:40,2,Bright_LostandFoundMV,157.969
+13:40,3,ACIKLANDI,18.173
+13:40,4,MondayMotivation,21.195
+13:40,5,有吉ゼミ,
+13:40,6,満塁ホームラン,13.831
+13:40,7,水着スカディ,15.627
+13:40,8,Garner,19.990
+13:40,9,Buon Ferragosto,36.569
+13:40,10,山田くん,14.266
+14:10,1,tercih2022,81.273
+14:10,2,Bright_LostandFoundMV,183.819
+14:10,3,山本彩,
+14:10,4,ACIKLANDI,18.505
+14:10,5,MondayMotivation,22.640
+14:10,6,満塁ホームラン,14.252
+14:10,7,水着スカディ,16.093
+14:10,8,Garner,21.316
+14:10,9,Buon Ferragosto,38.222
+14:10,10,山田くん,14.342
+14:40,1,Darna,12.954
+14:40,2,JO1いつもありがとう,13.616
+14:40,3,tercih2022,83.059
+14:40,4,Bright_LostandFoundMV,209.718
+14:40,5,JO1が元気になりますように,
+14:40,6,Garner,22.697
+14:40,7,水着スカディ,16.732
+14:40,8,ACEITA QUE É LULA,
+14:40,9,満塁ホームラン,14.632
+14:40,10,Buon Ferragosto,39.750
+15:10,1,JO1いつもありがとう,24.989
+15:10,2,Darna,21.406
+15:10,3,JO1が元気になりますように,18.797
+15:10,4,Bright_LostandFoundMV,237.441
+15:10,5,tercih2022,83.885
+15:10,6,Bomas,80.535
+15:10,7,Garner,23.738
+15:10,8,1 YEAR OF SIDNAAZ ON BB OTT,94.820
+15:10,9,ACEITA QUE É LULA,
+15:10,10,水着スカディ,16.921
+15:40,1,月曜から夜ふかし,
+15:40,2,JO1いつもありがとう,36.207
+15:40,3,JO1が元気になりますように,27.923
+15:40,4,魔法のリノベ,22.654
+15:40,5,Darna,26.599
+15:40,6,Leticia Ramírez,
+15:40,7,Bomas,89.990
+15:40,8,愛媛県民,
+15:40,9,ムササビ,
+15:40,10,1 YEAR OF SIDNAAZ ON BB OTT,107.518
+16:10,1,月曜から夜ふかし,
+16:10,2,JO1いつもありがとう,44.137
+16:10,3,魔法のリノベ,27.746
+16:10,4,JO1が元気になりますように,34.531
+16:10,5,더보이즈_위스퍼_준비완료,53.925
+16:10,6,SKZ 3BILLION SPOTIFY STREAMS,17.970
+16:10,7,Bomas,97.591
+16:10,8,Leticia Ramírez,
+16:10,9,愛媛県民,
+16:10,10,케이팝 모의고사,
+16:40,1,突然ですが占ってもいいですか,20.340
+16:40,2,月曜から夜ふかし,
+16:40,3,JO1いつもありがとう,50.190
+16:40,4,StrayKids3BillionStreams,31.513
+16:40,5,SKZ_3BillionOnSpotify,31.383
+16:40,6,SKZ 3BILLION SPOTIFY STREAMS,29.152
+16:40,7,Bomas,108.089
+16:40,8,PARK JIMIN,33.775
+16:40,9,IEBC,65.395
+16:40,10,케이팝 모의고사,
+17:10,1,PARK JIMIN,47.870
+17:10,2,kenyaelections2022,47.821
+17:10,3,突然ですが占ってもいいですか,31.694
+17:10,4,StrayKids3BillionStreams,38.557
+17:10,5,SKZ_3BillionOnSpotify,38.369
+17:10,6,SKZ 3BILLION SPOTIFY STREAMS,35.367
+17:10,7,月曜から夜ふかし,
+17:10,8,ジュンくん,
+17:10,9,IEBC,79.082
+17:10,10,Chebukati,72.653
+17:40,1,kenyaelections2022,55.925
+17:40,2,PARK JIMIN,61.022
+17:40,3,ジュンくん,11.030
+17:40,4,sp813,10.858
+17:40,5,突然ですが占ってもいいですか,33.995
+17:40,6,StrayKids3BillionStreams,42.850
+17:40,7,SKZ_3BillionOnSpotify,42.452
+17:40,8,SKZ 3BILLION SPOTIFY STREAMS,38.854
+17:40,9,Ruto,189.781
+17:40,10,Bomas,117.685
+18:10,1,kenyaelections2022,59.853
+18:10,2,PARK JIMIN,68.910
+18:10,3,ジュンくん,13.338
+18:10,4,sp813,15.204
+18:10,5,Ruto,205.187
+18:10,6,jwave,16.285
+18:10,7,StrayKids3BillionStreams,44.857
+18:10,8,SKZ_3BillionOnSpotify,44.403
+18:10,9,SKZ 3BILLION SPOTIFY STREAMS,40.350
+18:10,10,第207回,
+18:40,1,kenyaelections2022,64.102
+18:40,2,PARK JIMIN,75.299
+18:40,3,ジュンくん,14.520
+18:40,4,sp813,16.577
+18:40,5,Ruto,221.464
+18:40,6,คิดถึงนะนิ่งเฮีย,43.433
+18:40,7,StrayKids3BillionStreams,46.119
+18:40,8,thatsmoney,
+18:40,9,第207回,
+18:40,10,VMARMY VOTE DOMINATION,55.647
+19:10,1,kenyaelections2022,64.767
+19:10,2,VMARMY VOTE DOMINATION,97.657
+19:10,3,PARK JIMIN,79.248
+19:10,4,ジュンくん,15.166
+19:10,5,Ruto,228.783
+19:10,6,RIPKaushikLM,11.562
+19:10,7,sp813,16.908
+19:10,8,thatsmoney,
+19:10,9,คิดถึงนะนิ่งเฮีย,49.214
+19:10,10,第207回,
+19:40,1,VMARMY VOTE DOMINATION,120.573
+19:40,2,kenyaelections2022,68.406
+19:40,3,VeronaNapoli,
+19:40,4,PARK JIMIN,82.931
+19:40,5,RIPKaushikLM,15.166
+19:40,6,Ruto,242.915
+19:40,7,ROGxBOUL,
+19:40,8,thatsmoney,
+19:40,9,ジュンくん,15.618
+19:40,10,VMAs,576.579
+20:10,1,Nat Phillips,
+20:10,2,BBNaijaS7,41.243
+20:10,3,VMARMY VOTE DOMINATION,131.663
+20:10,4,Kenya,242.499
+20:10,5,VeronaNapoli,10.221
+20:10,6,Morata,
+20:10,7,Gomez,61.115
+20:10,8,RIPKaushikLM,17.294
+20:10,9,Eloswag,
+20:10,10,ROGxBOUL,
+20:40,1,BBNaijaS7,46.498
+20:40,2,VeronaNapoli,12.176
+20:40,3,Nat Phillips,
+20:40,4,Gomez,63.681
+20:40,5,Eloswag,10.783
+20:40,6,Morata,
+20:40,7,Kenya,252.694
+20:40,8,Level 2,36.376
+20:40,9,VMARMY VOTE DOMINATION,137.374
+20:40,10,BadDecisionsTop10HOT100,19.651
+21:10,1,Morata,13.514
+21:10,2,Milner,
+21:10,3,LIVCRY,35.436
+21:10,4,BBNaijaS7,47.185
+21:10,5,Nat Phillips,
+21:10,6,VeronaNapoli,12.867
+21:10,7,JuveSassuolo,13.310
+21:10,8,Gomez,62.996
+21:10,9,Kess,
+21:10,10,Eloswag,12.453
+21:40,1,LIVCRY,53.893
+21:40,2,Zaha,13.025
+21:40,3,Morata,15.969
+21:40,4,Milner,
+21:40,5,Valencia,39.542
+21:40,6,JuveSassuolo,21.626
+21:40,7,Nat Phillips,
+21:40,8,Palace,95.435
+21:40,9,KASvFB,
+21:40,10,BBNaijaS7,49.705
+22:10,1,LIVCRY,66.156
+22:10,2,Liverpool,169.818
+22:10,3,Zaha,21.773
+22:10,4,Nunez,62.140
+22:10,5,Milner,
+22:10,6,Palace,111.507
+22:10,7,Morata,17.551
+22:10,8,JuveSassuolo,26.553
+22:10,9,Nat Phillips,
+22:10,10,Fabinho,
+22:40,1,Nunez,108.624
+22:40,2,LIVCRY,84.734
+22:40,3,Liverpool,200.772
+22:40,4,Diaz,92.678
+22:40,5,Zaha,26.757
+22:40,6,Palace,131.230
+22:40,7,Milner,
+22:40,8,KASvFB,
+22:40,9,JuveSassuolo,29.321
+22:40,10,Trent,22.098
+23:10,1,Liverpool,218.420
+23:10,2,Nunez,125.927
+23:10,3,LIVCRY,83.301
+23:10,4,Zaha,33.672
+23:10,5,Diaz,102.717
+23:10,6,Palace,132.854
+23:10,7,KASvFB,13.662
+23:10,8,Arda Güler,18.675
+23:10,9,Klopp,36.498
+23:10,10,Milner,10.872
+23:40,1,Liverpool,239.461
+23:40,2,Nunez,139.151
+23:40,3,LIVCRY,84.531
+23:40,4,Zaha,35.402
+23:40,5,Diaz,110.716
+23:40,6,Palace,138.446
+23:40,7,Arda Güler,23.965
+23:40,8,Klopp,41.099
+23:40,9,KASvFB,14.405
+23:40,10,Mane,51.116

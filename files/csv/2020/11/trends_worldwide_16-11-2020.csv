@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,ImACeleb,58.150
+00:09,2,Grealish,34.162
+00:09,3,Boulos,137.139
+00:09,4,BELENG,16.654
+00:09,5,Harden,38.883
+00:09,6,LaCasaFuerte5,12.300
+00:09,7,AhmetKaya,
+00:09,8,Southgate,23.915
+00:09,9,Crivella,55.186
+00:09,10,England,126.722
+00:39,1,ImACeleb,60.185
+00:39,2,Harden,43.694
+00:39,3,Boulos,144.576
+00:39,4,Kyler Murray,
+00:39,5,Crivella,60.154
+00:39,6,Grealish,35.880
+00:39,7,LaCasaFuerte5,14.319
+00:39,8,AhmetKaya,
+00:39,9,Southgate,24.572
+00:39,10,BELENG,16.913
+01:09,1,ImACeleb,61.233
+01:09,2,Harden,45.601
+01:09,3,Crivella,61.706
+01:09,4,Boulos,148.079
+01:09,5,LaCasaFuerte5,17.159
+01:09,6,Kyler Murray,
+01:09,7,bbtvi,34.505
+01:09,8,Jameis,
+01:09,9,AhmetKaya,
+01:09,10,Seahawks,30.154
+01:39,1,Hopkins,63.629
+01:39,2,Cardinals,22.216
+01:39,3,ImACeleb,61.586
+01:39,4,SpaceLaunchLIVE,
+01:39,5,Bills,74.461
+01:39,6,D Hop,
+01:39,7,LaunchAmerica,45.581
+01:39,8,Diggs,11.657
+01:39,9,SpaceX,11.756
+01:39,10,Josh Allen,14.467
+02:09,1,Hopkins,84.757
+02:09,2,Hopkins,84.757
+02:09,3,Cardinals,26.678
+02:09,4,SpaceLaunchLIVE,
+02:09,5,Bills,79.649
+02:09,6,LaunchAmerica,56.967
+02:09,7,D Hop,11.959
+02:09,8,ImACeleb,62.216
+02:09,9,HereWeGo,33.447
+02:09,10,SpaceX,14.588
+02:39,1,Hopkins,92.923
+02:39,2,Cardinals,28.368
+02:39,3,Kyler Murray,22.396
+02:39,4,Bills,83.296
+02:39,5,SpaceLaunchLIVE,
+02:39,6,D Hop,12.690
+02:39,7,LaunchAmerica,61.428
+02:39,8,HereWeGo,36.859
+02:39,9,COLIN,52.807
+02:39,10,ImACeleb,62.453
+03:09,1,Hopkins,97.451
+03:09,2,Cardinals,29.072
+03:09,3,Kyler Murray,23.272
+03:09,4,Bills,83.702
+03:09,5,D Hop,13.081
+03:09,6,SpaceLaunchLIVE,10.236
+03:09,7,LaunchAmerica,64.136
+03:09,8,RHOP,
+03:09,9,colin,53.921
+03:09,10,HereWeGo,38.719
+03:39,1,Hopkins,101.150
+03:39,2,PCAs,42.886
+03:39,3,Cardinals,29.744
+03:39,4,Marengo,
+03:39,5,Delfino,
+03:39,6,Boulos,185.792
+03:39,7,MasterChefArgetina,
+03:39,8,Crivella,79.553
+03:39,9,Kyler Murray,23.957
+03:39,10,Bills,86.101
+04:09,1,PCAs,58.482
+04:09,2,Marengo,16.484
+04:09,3,Hopkins,104.100
+04:09,4,Ravens,36.454
+04:09,5,Boulos,198.301
+04:09,6,MasterChefArgetina,
+04:09,7,Crivella,81.918
+04:09,8,90DayFiance,
+04:09,9,Cardinals,30.287
+04:09,10,Delfino,
+04:39,1,Ravens,45.182
+04:39,2,PCAs,72.573
+04:39,3,Boulos,210.451
+04:39,4,Marengo,17.744
+04:39,5,Hopkins,106.495
+04:39,6,NHK紅白,46.688
+04:39,7,พี่ไม่หล่อลวง,143.131
+04:39,8,MasterChefArgetina,10.319
+04:39,9,Lamar,31.069
+04:39,10,紅白出場,75.203
+05:09,1,Ravens,49.184
+05:09,2,PCAs,88.567
+05:09,3,紅白出場,120.176
+05:09,4,NHK紅白,81.691
+05:09,5,Boulos,216.494
+05:09,6,ミスチル,
+05:09,7,Lamar,34.154
+05:09,8,NiziU,27.995
+05:09,9,พี่ไม่หล่อลวง,198.914
+05:09,10,東京事変,10.520
+05:39,1,Ravens,63.635
+05:39,2,PCAs,125.360
+05:39,3,Lamar,41.497
+05:39,4,紅白出場,140.727
+05:39,5,GoPats,15.206
+05:39,6,NHK紅白,96.848
+05:39,7,NiziU,31.316
+05:39,8,ミスチル,11.676
+05:39,9,Patriots,256.126
+05:39,10,東京事変,12.536
+06:09,1,Ravens,66.885
+06:09,2,PCAs,176.507
+06:09,3,紅白出場,154.486
+06:09,4,Lamar,43.055
+06:09,5,NHK紅白,105.679
+06:09,6,NiziU,33.307
+06:09,7,ミスチル,13.075
+06:09,8,GoPats,16.087
+06:09,9,東京事変,14.039
+06:09,10,Patriots,251.018
+06:39,1,Ravens,68.392
+06:39,2,PCAs,206.423
+06:39,3,紅白出場,165.302
+06:39,4,NHK紅白,112.586
+06:39,5,NiziU,35.384
+06:39,6,ミスチル,14.268
+06:39,7,Lamar,44.098
+06:39,8,東京事変,15.548
+06:39,9,MyRoboCrush,
+06:39,10,紅白発表,13.014
+07:09,1,Ravens,69.064
+07:09,2,紅白出場,175.349
+07:09,3,PCAs,231.262
+07:09,4,NiziU,37.484
+07:09,5,NHK紅白,119.073
+07:09,6,ミスチル,15.083
+07:09,7,pazartesi,
+07:09,8,東京事変,16.566
+07:09,9,MyRoboCrush,
+07:09,10,BhaiDooj,18.889
+07:39,1,アンドロメダ,12.574
+07:39,2,Ravens,69.897
+07:39,3,YouMakeStrayKidsStay,28.621
+07:39,4,紅白出場,186.651
+07:39,5,pazartesi,
+07:39,6,NiziU,40.526
+07:39,7,NHK紅白,126.175
+07:39,8,PCAs,249.456
+07:39,9,BhaiDooj,20.966
+07:39,10,ミスチル,15.902
+08:09,1,アンドロメダ,17.979
+08:09,2,YouMakeStrayKidsStay,72.558
+08:09,3,pazartesi,
+08:09,4,Ravens,70.409
+08:09,5,紅白出場,196.590
+08:09,6,mondaythoughts,12.759
+08:09,7,NiziU,42.775
+08:09,8,NHK紅白,133.328
+08:09,9,BhaiDooj,22.592
+08:09,10,東京事変,18.342
+08:39,1,アンドロメダ,22.054
+08:39,2,YouMakeStrayKidsStay,107.568
+08:39,3,pazartesi,10.580
+08:39,4,mondaythoughts,15.336
+08:39,5,紅白出場,206.945
+08:39,6,NiziU,45.025
+08:39,7,StrayKids_Apologize_To_STAYC,
+08:39,8,Ravens,70.777
+08:39,9,NHK紅白,139.524
+08:39,10,Kishimoto,13.092
+09:09,1,YouMakeStrayKidsStay,132.478
+09:09,2,アンドロメダ,25.267
+09:09,3,mondaythoughts,17.638
+09:09,4,pazartesi,12.050
+09:09,5,紅白出場,216.803
+09:09,6,AhmetKaya,17.826
+09:09,7,StrayKids_Apologize_To_STAYC,
+09:09,8,NiziU,46.660
+09:09,9,Kishimoto,14.947
+09:09,10,Urfa Barosu Başkanı,
+09:39,1,YouMakeStrayKidsStay,152.385
+09:39,2,MondayMotivation,25.532
+09:39,3,アンドロメダ,28.124
+09:39,4,mondaythoughts,20.057
+09:39,5,pazartesi,13.644
+09:39,6,AhmetKaya,19.253
+09:39,7,紅白出場,227.323
+09:39,8,NiziU,49.127
+09:39,9,Kanal İstanbul,
+09:39,10,Kishimoto,16.748
+10:09,1,MondayMotivation,29.151
+10:09,2,YouMakeStrayKidsStay,166.616
+10:09,3,アンドロメダ,30.655
+10:09,4,mondaythoughts,22.349
+10:09,5,비투비4U_ShowYourLove,41.420
+10:09,6,BTOB4U_INSIDE_DEBUT,24.762
+10:09,7,Kanal İstanbul,
+10:09,8,紅白出場,236.521
+10:09,9,NiziU,50.573
+10:09,10,Kishimoto,18.603
+10:39,1,MondayMotivation,32.230
+10:39,2,YouMakeStrayKidsStay,179.990
+10:39,3,비투비4U_ShowYourLove,51.285
+10:39,4,BTOB4U_INSIDE_DEBUT,34.386
+10:39,5,アンドロメダ,32.870
+10:39,6,mondaythoughts,24.270
+10:39,7,Kanal İstanbul,
+10:39,8,紅白出場,245.089
+10:39,9,NiziU,52.681
+10:39,10,華ちゃん,
+11:09,1,MondayMotivation,35.098
+11:09,2,PS5yMediaMarkt,
+11:09,3,YouMakeStrayKidsStay,190.274
+11:09,4,비투비4U_ShowYourLove,58.824
+11:09,5,BTOB4U_INSIDE_DEBUT,41.482
+11:09,6,アンドロメダ,34.687
+11:09,7,フェザー,
+11:09,8,Kanal İstanbul,
+11:09,9,ルームウェア,23.890
+11:09,10,紅白出場,253.238
+11:39,1,フェザー,15.574
+11:39,2,MondayMotivation,38.043
+11:39,3,PS5yMediaMarkt,
+11:39,4,YouMakeStrayKidsStay,196.772
+11:39,5,İmamoğluBenim,
+11:39,6,BTOB4U_INSIDE_DEBUT,46.135
+11:39,7,アンドロメダ,36.356
+11:39,8,Kanal İstanbul,
+11:39,9,メイフ3D,
+11:39,10,Space Karen,
+12:09,1,PS5yMediaMarkt,
+12:09,2,フェザー,18.229
+12:09,3,MondayMotivation,40.620
+12:09,4,一番やりやすいRP晒す,
+12:09,5,İmamoğluBenim,
+12:09,6,SaintSnow,
+12:09,7,Kanal İstanbul,
+12:09,8,アンドロメダ,37.664
+12:09,9,メイフ3D,
+12:09,10,Space Karen,
+12:39,1,SaintSnow,13.411
+12:39,2,PS5yMediaMarkt,
+12:39,3,一番やりやすいRP晒す,
+12:39,4,フェザー,19.903
+12:39,5,MondayMotivation,43.246
+12:39,6,İmamoğluBenim,
+12:39,7,Kanal İstanbul,
+12:39,8,メイフ3D,
+12:39,9,アンドロメダ,38.906
+12:39,10,ぺこみこ大戦争,
+13:09,1,SaintSnow,21.453
+13:09,2,十万円でできるかな,13.596
+13:09,3,PS5yMediaMarkt,
+13:09,4,一番やりやすいRP晒す,
+13:09,5,İmamoğluBenim,
+13:09,6,フェザー,21.037
+13:09,7,Kanal İstanbul,
+13:09,8,Space Karen,
+13:09,9,Barnaby,
+13:09,10,メイフ3D,
+13:39,1,Moderna,48.911
+13:39,2,十万円でできるかな,22.843
+13:39,3,SaintSnow,24.074
+13:39,4,PS5yMediaMarkt,
+13:39,5,KIM TAEHYUNG,48.754
+13:39,6,一番やりやすいRP晒す,
+13:39,7,İmamoğluBenim,
+13:39,8,フェザー,21.826
+13:39,9,日野さん,
+13:39,10,Kanal İstanbul,
+14:09,1,Moderna,78.464
+14:09,2,しゃべくり007,
+14:09,3,KIM TAEHYUNG,64.178
+14:09,4,十万円でできるかな,26.381
+14:09,5,PS5yMediaMarkt,
+14:09,6,MondayMotivation,50.744
+14:09,7,SaintSnow,24.923
+14:09,8,日野さん,
+14:09,9,えいたそ卒業,
+14:09,10,Vcut,273.259
+14:39,1,しゃべくり007,19.724
+14:39,2,Moderna,104.600
+14:39,3,KIM TAEHYUNG,75.509
+14:39,4,花澤さん,12.275
+14:39,5,EstoyDeBlackEnPcComponentes,
+14:39,6,PS5yMediaMarkt,
+14:39,7,十万円でできるかな,27.250
+14:39,8,MondayMotivation,53.523
+14:39,9,ざーさん,
+14:39,10,日野さん,11.344
+15:09,1,しゃべくり007,27.005
+15:09,2,Moderna,124.877
+15:09,3,EstoyDeBlackEnPcComponentes,
+15:09,4,İbrahimAtabeyTutuklansın,
+15:09,5,KIM TAEHYUNG,81.898
+15:09,6,花澤さん,14.870
+15:09,7,PS5yMediaMarkt,
+15:09,8,MondayMotivation,56.767
+15:09,9,ざーさん,10.532
+15:09,10,日野さん,13.332
+15:39,1,しゃべくり007,29.768
+15:39,2,Moderna,155.625
+15:39,3,İbrahimAtabeyTutuklansın,
+15:39,4,関ジャニクロニクルF,10.000
+15:39,5,EstoyDeBlackEnPcComponentes,
+15:39,6,Kim Taehyung,89.146
+15:39,7,MondayMotivation,60.341
+15:39,8,花澤さん,16.666
+15:39,9,PSYCHO-PASS,
+15:39,10,日野さん,14.961
+16:09,1,TrustInYugyeomDay,68.642
+16:09,2,아가새의민들레_유겸아생일축하해,33.909
+16:09,3,Moderna,182.269
+16:09,4,3DaysBEforeBE,42.793
+16:09,5,İbrahimAtabeyTutuklansın,
+16:09,6,しゃべくり007,31.492
+16:09,7,Wrexham,11.945
+16:09,8,Kim Taehyung,94.571
+16:09,9,PSYCHO-PASS,
+16:09,10,Space Karen,17.556
+16:39,1,TrustInYugyeomDay,153.849
+16:39,2,아가새의민들레_유겸아생일축하해,79.778
+16:39,3,3DaysBEforeBE,113.006
+16:39,4,TXTonBillboard200,61.450
+16:39,5,NotElevatorButStairs,60.090
+16:39,6,Moderna,206.385
+16:39,7,Wrexham,15.355
+16:39,8,Space Karen,20.154
+16:39,9,PSYCHO-PASS,
+16:39,10,Kim Taehyung,100.565
+17:09,1,TrustInYugyeomDay,210.512
+17:09,2,TXTonBillboard200,111.709
+17:09,3,아가새의민들레_유겸아생일축하해,113.347
+17:09,4,NotElevatorButStairs,105.523
+17:09,5,3DaysBEforeBE,125.842
+17:09,6,Moderna,226.906
+17:09,7,Wrexham,17.847
+17:09,8,TXT 4TH GEN LEADERS,17.620
+17:09,9,Space Karen,22.045
+17:09,10,Providencia,31.631
+17:39,1,TrustInYugyeomDay,239.789
+17:39,2,TXTonBillboard200,139.624
+17:39,3,NotElevatorButStairs,130.424
+17:39,4,아가새의민들레_유겸아생일축하해,130.248
+17:39,5,3DaysBEforeBE,132.725
+17:39,6,Moderna,245.162
+17:39,7,Wrexham,20.022
+17:39,8,TXT 4TH GEN LEADERS,23.588
+17:39,9,Providencia,34.612
+17:39,10,Space Karen,23.363
+18:09,1,TrustInYugyeomDay,256.967
+18:09,2,TXTonBillboard200,152.665
+18:09,3,HappyBirthdayEricNam,
+18:09,4,NotElevatorButStairs,141.607
+18:09,5,아가새의민들레_유겸아생일축하해,139.979
+18:09,6,Moderna,262.373
+18:09,7,Harden,85.612
+18:09,8,Wrexham,21.942
+18:09,9,TXT 4TH GEN LEADERS,26.696
+18:09,10,Providencia,37.131
+18:39,1,TrustInYugyeomDay,271.459
+18:39,2,HappyBirthdayEricNam,
+18:39,3,TXTonBillboard200,163.900
+18:39,4,NotElevatorButStairs,150.791
+18:39,5,İbrahimAtabeyTutuklansın,11.357
+18:39,6,Moderna,277.769
+18:39,7,Harden,92.395
+18:39,8,Wrexham,23.657
+18:39,9,TXT 4TH GEN LEADERS,29.122
+18:39,10,Candace Owens,34.244
+19:09,1,TrustInYugyeomDay,281.945
+19:09,2,HappyBirthdayEricNam,10.683
+19:09,3,TXTonBillboard200,169.533
+19:09,4,DavidoInfinixNote8,
+19:09,5,İbrahimAtabeyTutuklansın,12.359
+19:09,6,Moderna,291.167
+19:09,7,Harden,96.653
+19:09,8,Martin Amidu,
+19:09,9,Wrexham,25.166
+19:09,10,Candace Owens,37.491
+19:39,1,Suns,52.369
+19:39,2,DavidoInfinixNote8,
+19:39,3,TrustInYugyeomDay,289.113
+19:39,4,HappyBirthdayEricNam,11.321
+19:39,5,TXTonBillboard200,172.927
+19:39,6,İbrahimAtabeyTutuklansın,13.398
+19:39,7,Oubre,23.521
+19:39,8,Booker,17.687
+19:39,9,Harden,101.827
+19:39,10,Moderna,303.164
+20:09,1,Suns,65.838
+20:09,2,DavidoInfinixNote8,11.598
+20:09,3,Oubre,30.199
+20:09,4,TrustInYugyeomDay,294.523
+20:09,5,İbrahimAtabeyTutuklansın,14.320
+20:09,6,HappyBirthdayEricNam,11.824
+20:09,7,Booker,21.825
+20:09,8,TXTonBillboard200,175.261
+20:09,9,Harden,105.012
+20:09,10,Sam Presti,
+20:39,1,Suns,73.140
+20:39,2,DavidoInfinixNote8,14.082
+20:39,3,Oubre,33.370
+20:39,4,İbrahimAtabeyTutuklansın,15.241
+20:39,5,TrustInYugyeomDay,298.680
+20:39,6,Booker,24.071
+20:39,7,HappyBirthdayEricNam,12.285
+20:39,8,WhiteHouseKaren,39.801
+20:39,9,Ben Shapiro,21.134
+20:39,10,Sam Presti,
+21:09,1,DavidoInfinixNote8,16.329
+21:09,2,Suns,77.641
+21:09,3,Chris Paul,65.168
+21:09,4,Monster,27.940
+21:09,5,SagastiPresidente,18.939
+21:09,6,AMAs,3.145.325
+21:09,7,Harden,118.748
+21:09,8,Oubre,35.470
+21:09,9,İbrahimAtabeyTutuklansın,15.955
+21:09,10,Ben Shapiro,27.514
+21:39,1,Monster,40.393
+21:39,2,shawn,76.318
+21:39,3,DavidoInfinixNote8,17.538
+21:39,4,SagastiPresidente,28.545
+21:39,5,Suns,81.045
+21:39,6,Chris Paul,67.695
+21:39,7,Harden,125.297
+21:39,8,YasakElma,
+21:39,9,gntmgr,
+21:39,10,Ben Shapiro,33.548
+22:09,1,shawn,77.892
+22:09,2,Monster,45.734
+22:09,3,SagastiPresidente,34.091
+22:09,4,DavidoInfinixNote8,18.315
+22:09,5,Suns,83.430
+22:09,6,Chris Paul,69.588
+22:09,7,TEAM STERELLA,42.104
+22:09,8,Harden,125.365
+22:09,9,gntmgr,
+22:09,10,YasakElma,
+22:39,1,ImACeleb,60.157
+22:39,2,TEAM STERELLA,227.500
+22:39,3,shawn,82.377
+22:39,4,SagastiPresidente,38.573
+22:39,5,Monster,49.536
+22:39,6,WILBUR,39.101
+22:39,7,TOMMY,81.458
+22:39,8,DavidoInfinixNote8,19.171
+22:39,9,Suns,85.547
+22:39,10,gntmgr,10.010
+23:09,1,ImACeleb,58.122
+23:09,2,Jordan,181.012
+23:09,3,Turf Moor,
+23:09,4,TEAM STERELLA,388.235
+23:09,5,WILBUR,51.902
+23:09,6,shawn,81.411
+23:09,7,November16th,
+23:09,8,SagastiPresidente,42.598
+23:09,9,Monster,52.280
+23:09,10,TOMMY,84.407
+23:39,1,ImACeleb,61.061
+23:39,2,Jordan,188.748
+23:39,3,Turf Moor,
+23:39,4,November16th,12.091
+23:39,5,TEAM STERELLA,503.714
+23:39,6,JUNTOS COM JOISSA,106.635
+23:39,7,Nana,137.236
+23:39,8,wilbur,58.803
+23:39,9,Sagasti,189.895
+23:39,10,shawn,84.382

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,KohLanta,102.745
+00:10,2,Carlitos,42.191
+00:10,3,TwitterBan,45.170
+00:10,4,hoşkal,100.692
+00:10,5,YachtShouldWeNameIt,
+00:10,6,Lucie,23.901
+00:10,7,Morata,29.612
+00:10,8,ForaTite,137.654
+00:10,9,Maxine,25.165
+00:10,10,Levy,19.470
+00:41,1,KohLanta,104.504
+00:41,2,Carlitos,49.771
+00:41,3,TwitterBan,46.333
+00:41,4,ForaTite,145.506
+00:41,5,TwitterSuspendBuharisAccount,92.057
+00:41,6,hoşkal,102.660
+00:41,7,Lucie,24.208
+00:41,8,Morata,30.458
+00:41,9,Maxine,25.561
+00:41,10,Levy,21.288
+01:10,1,KohLanta,105.378
+01:10,2,Carlitos,54.620
+01:10,3,TwitterBan,53.318
+01:10,4,ForaTite,153.035
+01:10,5,قصيميه_ولا_جنوبيه,
+01:10,6,İkincielaraba,10.333
+01:10,7,Levy,21.496
+01:10,8,Morata,31.029
+01:10,9,Maxine,25.489
+01:10,10,Lucie,24.205
+01:41,1,Carlitos,58.039
+01:41,2,KohLanta,106.077
+01:41,3,TwitterBan,56.894
+01:41,4,ForaTite,161.700
+01:41,5,قصيميه_ولا_جنوبيه,
+01:41,6,ウチカフェしよう,
+01:41,7,Colón,48.067
+01:41,8,Bernardi,
+01:41,9,Levy,23.553
+01:41,10,Morata,31.444
+02:10,1,Colón,79.515
+02:10,2,Racing,76.401
+02:10,3,Carlitos,60.471
+02:10,4,KohLanta,106.555
+02:10,5,Pizzi,
+02:10,6,TwitterBan,61.562
+02:10,7,Pitana,
+02:10,8,Tevez,118.076
+02:10,9,ForaTite,168.977
+02:10,10,ウチカフェしよう,
+02:41,1,Colón,96.798
+02:41,2,Racing,84.022
+02:41,3,Gabigol,29.082
+02:41,4,Carlitos,62.827
+02:41,5,TwitterBan,65.882
+02:41,6,SmackDown,14.048
+02:41,7,Pizzi,
+02:41,8,Pitana,
+02:41,9,MêsDoOrgulhoLGBTQ,
+02:41,10,ウチカフェしよう,
+03:10,1,Gabigol,41.289
+03:10,2,Colón,105.147
+03:10,3,Neymar,44.981
+03:10,4,Racing,85.797
+03:10,5,SmackDown,21.742
+03:10,6,Equador,13.926
+03:10,7,Paquetá,
+03:10,8,TwitterBan,69.353
+03:10,9,Carlitos,64.087
+03:10,10,spacesgottalent,
+03:41,1,Gabigol,60.234
+03:41,2,Neymar,59.820
+03:41,3,Colón,113.419
+03:41,4,Paquetá,14.106
+03:41,5,Equador,17.951
+03:41,6,SmackDown,27.769
+03:41,7,TheLastDriveIn,
+03:41,8,Racing,89.045
+03:41,9,spacesgottalent,11.199
+03:41,10,MêsDoOrgulhoLGBTQ,13.445
+04:10,1,gabigol,97.276
+04:10,2,Neymar,64.400
+04:10,3,Richarlison,13.957
+04:10,4,Firmino,
+04:10,5,Colón,118.632
+04:10,6,Equador,23.238
+04:10,7,Paquetá,19.218
+04:10,8,Gabriel Barbosa,
+04:10,9,SmackDown,32.645
+04:10,10,Gabriel Jesus,
+04:41,1,gabigol,133.000
+04:41,2,Neymar,116.150
+04:41,3,Casemiro,25.491
+04:41,4,Firmino,13.836
+04:41,5,Equador,31.571
+04:41,6,Richarlison,17.675
+04:41,7,Paquetá,30.679
+04:41,8,AEWDynamite,19.850
+04:41,9,Gabriel Jesus,12.479
+04:41,10,Andrade,21.682
+05:10,1,Gabigol,140.334
+05:10,2,Neymar,114.686
+05:10,3,Casemiro,38.949
+05:10,4,AEWDynamite,25.753
+05:10,5,Equador,35.219
+05:10,6,Firmino,12.248
+05:10,7,Paquetá,33.097
+05:10,8,Richarlison,19.510
+05:10,9,Gabriel Jesus,12.729
+05:10,10,Andrade,22.611
+05:41,1,Kawhi,87.140
+05:41,2,Gabigol,146.500
+05:41,3,Neymar,126.216
+05:41,4,Casemiro,43.900
+05:41,5,AEWDynamite,33.299
+05:41,6,Luka,83.507
+05:41,7,Mavs,41.157
+05:41,8,Equador,36.726
+05:41,9,Firmino,15.194
+05:41,10,Paquetá,34.073
+06:10,1,Kawhi,115.026
+06:10,2,Gabigol,149.784
+06:10,3,Neymar,127.002
+06:10,4,Casemiro,46.156
+06:10,5,Clippers,64.961
+06:10,6,AEWDynamite,38.330
+06:10,7,Luka,90.130
+06:10,8,WorldEnvironmentDay,103.077
+06:10,9,Equador,37.609
+06:10,10,Richarlison,21.507
+06:41,1,Kawhi,123.032
+06:41,2,gabigol,152.058
+06:41,3,Neymar,128.523
+06:41,4,WorldEnvironmentDay,120.705
+06:41,5,Casemiro,47.822
+06:41,6,Clippers,80.011
+06:41,7,AEWDynamite,40.030
+06:41,8,Luka,93.254
+06:41,9,Game 7,44.285
+06:41,10,ニュースな会,
+07:10,1,Kawhi,123.260
+07:10,2,Gabigol,153.238
+07:10,3,Neymar,129.025
+07:10,4,WorldEnvironmentDay,130.756
+07:10,5,Casemiro,48.670
+07:10,6,Clippers,74.749
+07:10,7,AEWDynamite,40.874
+07:10,8,Luka,89.327
+07:10,9,刃牙かちいかわかクイズ,
+07:10,10,विश्व_पर्यावरण_दिवस,20.171
+07:41,1,Kawhi,125.726
+07:41,2,WorldEnvironmentDay,130.756
+07:41,3,Gabigol,153.238
+07:41,4,Neymar,129.759
+07:41,5,Casemiro,49.274
+07:41,6,AEWDynamite,41.589
+07:41,7,विश्व_पर्यावरण_दिवस,20.171
+07:41,8,刃牙かちいかわかクイズ,
+07:41,9,यूपी_बेरोजगार_दिवस,164.795
+07:41,10,Clippers,76.124
+08:10,1,WorldEnvironmentDay,185.008
+08:10,2,Kawhi,125.962
+08:10,3,Gabigol,154.762
+08:10,4,Neymar,129.759
+08:10,5,यूपी_बेरोजगार_दिवस,297.013
+08:10,6,विश्व_पर्यावरण_दिवस,29.292
+08:10,7,刃牙かちいかわかクイズ,
+08:10,8,Casemiro,49.607
+08:10,9,指定暴力団組織,
+08:10,10,SECAwards,202.571
+08:41,1,WorldEnvironmentDay,213.302
+08:41,2,Kawhi,127.799
+08:41,3,gabigol,155.325
+08:41,4,यूपी_बेरोजगार_दिवस,420.986
+08:41,5,Neymar,130.536
+08:41,6,鳴尾記念,15.530
+08:41,7,TwitterBan,106.266
+08:41,8,cumartesi,
+08:41,9,विश्व_पर्यावरण_दिवस,32.521
+08:41,10,刃牙かちいかわかクイズ,
+09:10,1,WorldEnvironmentDay,237.439
+09:10,2,Kawhi,128.780
+09:10,3,यूपी_बेरोजगार_दिवस,517.527
+09:10,4,鳴尾記念,18.276
+09:10,5,TwitterBan,118.636
+09:10,6,ユニコーンライオン,
+09:10,7,gabigol,155.592
+09:10,8,DünyaÇevreGünü,
+09:10,9,cumartesi,
+09:10,10,Neymar,130.490
+09:41,1,WorldEnvironmentDay,262.224
+09:41,2,TwitterBan,133.091
+09:41,3,DünyaÇevreGünü,
+09:41,4,यूपी_बेरोजगार_दिवस,597.757
+09:41,5,Kawhi,130.277
+09:41,6,鳴尾記念,19.269
+09:41,7,cumartesi,
+09:41,8,ユニコーンライオン,
+09:41,9,ちいかわかBloodborne,
+09:41,10,Thank God for VPN,12.674
+10:10,1,WorldEnvironmentDay,284.287
+10:10,2,我ナポの夏,19.689
+10:10,3,Butter5thWin,54.527
+10:10,4,TwitterBan,148.153
+10:10,5,DünyaÇevreGünü,11.534
+10:10,6,れおほー,
+10:10,7,鳴尾記念,19.600
+10:10,8,Kawhi,131.102
+10:10,9,ちいかわかBloodborne,
+10:10,10,Thank God for VPN,15.730
+10:41,1,WorldEnvironmentDay,269.789
+10:41,2,我ナポの夏,24.176
+10:41,3,TwitterBan,161.790
+10:41,4,Butter5thWin,72.939
+10:41,5,DünyaÇevreGünü,16.034
+10:41,6,れおほー,
+10:41,7,ちいかわかBloodborne,
+10:41,8,Thank God for VPN,18.695
+10:41,9,たかほー,
+10:41,10,鳴尾記念,20.094
+11:10,1,WorldEnvironmentDay,328.990
+11:10,2,我ナポの夏,24.176
+11:10,3,TwitterBan,161.790
+11:10,4,DünyaÇevreGünü,21.756
+11:10,5,Butter5thWin,81.613
+11:10,6,TEAM LUNAR,57.163
+11:10,7,横浜優勝,
+11:10,8,れおほー,
+11:10,9,たかほー,
+11:10,10,ちいかわかBloodborne,
+11:41,1,WorldEnvironmentDay,351.081
+11:41,2,我ナポの夏,44.692
+11:41,3,DünyaÇevreGünü,27.942
+11:41,4,TwitterBan,192.503
+11:41,5,TwitterBan,192.503
+11:41,6,TEAM LUNAR,89.810
+11:41,7,横浜優勝,
+11:41,8,れおほー,
+11:41,9,TEAM SOLAR,99.097
+11:41,10,たかほー,
+12:10,1,WorldEnvironmentDay,371.030
+12:10,2,我ナポの夏,51.892
+12:10,3,DünyaÇevreGünü,33.131
+12:10,4,EXO_LUNARECLIPSE,79.951
+12:10,5,TwitterBan,204.545
+12:10,6,TEAM LUNAR,116.247
+12:10,7,TEAM SOLAR,128.688
+12:10,8,横浜優勝,
+12:10,9,れおほー,
+12:10,10,ちいかわかBloodborne,
+12:41,1,WorldEnvironmentDay,396.332
+12:41,2,我ナポの夏,59.050
+12:41,3,EXO_LUNARECLIPSE,100.212
+12:41,4,ÇevresiKötü,
+12:41,5,DünyaÇevreGünü,38.624
+12:41,6,TEAM SOLAR,157.224
+12:41,7,ちいかわかBloodborne,
+12:41,8,横浜優勝,
+12:41,9,れおほー,
+12:41,10,SWEETHEART JIMIN,12.962
+13:10,1,WorldEnvironmentDay,418.657
+13:10,2,我ナポの夏,63.037
+13:10,3,EXO_LUNARECLIPSE,114.789
+13:10,4,DünyaÇevreGünü,41.803
+13:10,5,ÇevresiKötü,
+13:10,6,TEAM LUNAR,165.070
+13:10,7,TEAM SOLAR,178.163
+13:10,8,満塁ホームラン,
+13:10,9,ちいかわかBloodborne,
+13:10,10,SWEETHEART JIMIN,17.552
+13:41,1,WorldEnvironmentDay,442.270
+13:41,2,EXO_LUNARECLIPSE,126.169
+13:41,3,ÇevresiKötü,
+13:41,4,我ナポの夏,63.037
+13:41,5,DünyaÇevreGünü,41.803
+13:41,6,ÜlkeNereye Gidiyor,
+13:41,7,TEAM SOLAR,196.694
+13:41,8,JEON HEEJIN,
+13:41,9,亀井さん,
+13:41,10,LET ME TREASURE U SHOPEE,25.440
+14:10,1,WorldEnvironmentDay,442.957
+14:10,2,EXO_LUNARECLIPSE,134.627
+14:10,3,ÇevresiKötü,
+14:10,4,nhkらじらー,16.697
+14:10,5,我ナポの夏,73.483
+14:10,6,TEAM LUNAR,173.360
+14:10,7,ÜlkeNereye Gidiyor,
+14:10,8,亀井さん,
+14:10,9,LET ME TREASURE U SHOPEE,52.518
+14:10,10,TEAM SOLAR,211.521
+14:41,1,AzerbaijanGP,63.831
+14:41,2,WorldEnvironmentDay,481.230
+14:41,3,EXO_LUNARECLIPSE,144.222
+14:41,4,GulfDaywithJenim,163.782
+14:41,5,INTO1xHappyCamp,58.397
+14:41,6,Turn 15,
+14:41,7,TEAM LUNAR,220.582
+14:41,8,Patrick Plays Happy,83.099
+14:41,9,LET ME TREASURE U SHOPEE,66.946
+14:41,10,Stroll,
+15:10,1,AzerbaijanGP,69.202
+15:10,2,f1jp,14.429
+15:10,3,INTO1xHappyCamp,95.682
+15:10,4,EXO_LUNARECLIPSE,151.968
+15:10,5,WorldEnvironmentDay,495.494
+15:10,6,Ricciardo,
+15:10,7,Patrick Plays Happy,158.434
+15:10,8,Turn 15,
+15:10,9,TEAM LUNAR,202.896
+15:10,10,LET ME TREASURE U SHOPEE,72.433
+15:41,1,AzerbaijanGP,98.480
+15:41,2,f1jp,29.946
+15:41,3,Leclerc,39.619
+15:41,4,INTO1xHappyCamp,149.093
+15:41,5,コントが始まる,19.401
+15:41,6,nhkらじらー,58.503
+15:41,7,Tsunoda,
+15:41,8,Bottas,
+15:41,9,Patrick Plays Happy,227.577
+15:41,10,Sainz,
+16:10,1,AzerbaijanGP,107.249
+16:10,2,コントが始まる,27.014
+16:10,3,PHARMYLOVESBTS,82.267
+16:10,4,Leclerc,48.417
+16:10,5,INTO1xHappyCamp,208.036
+16:10,6,f1jp,30.960
+16:10,7,Tsunoda,10.546
+16:10,8,マツコ会議,24.276
+16:10,9,Bottas,
+16:10,10,Sainz,10.719
+16:41,1,AzerbaijanGP,113.856
+16:41,2,SixTONESANN,24.848
+16:41,3,マツコ会議,35.498
+16:41,4,コントが始まる,29.062
+16:41,5,PHARMYLOVESBTS,106.152
+16:41,6,Leclerc,52.808
+16:41,7,マツコさん,21.638
+16:41,8,Tsunoda,11.542
+16:41,9,莉犬くん,30.673
+16:41,10,Bottas,
+17:10,1,AllRounderHAECHANDay,477.918
+17:10,2,해찬아_우린널_사랑이라_불러,126.979
+17:10,3,SixTONESANN,83.729
+17:10,4,AzerbaijanGP,116.408
+17:10,5,マツコ会議,42.858
+17:10,6,マツコさん,24.809
+17:10,7,Leclerc,54.311
+17:10,8,Tsunoda,12.034
+17:10,9,ナイスゥ,11.417
+17:10,10,BTS THE BEST,90.815
+17:41,1,AllRounderHAECHANDay,666.254
+17:41,2,해찬아_우린널_사랑이라_불러,231.064
+17:41,3,SixTONESANN,89.814
+17:41,4,YIXING,56.850
+17:41,5,CHANYEOL_TeaserQuest,330.004
+17:41,6,SEHUN_TeaserQuest,320.529
+17:41,7,D1 TO EXO COMEBACK,322.136
+17:41,8,Leclerc,56.668
+17:41,9,マツコさん,25.951
+17:41,10,Tsunoda,12.485
+18:10,1,AllRounderHAECHANDay,750.056
+18:10,2,해찬아_우린널_사랑이라_불러,294.304
+18:10,3,SixTONESANN,164.098
+18:10,4,YIXING,73.196
+18:10,5,CHANYEOL_TeaserQuest,453.234
+18:10,6,SEHUN_TeaserQuest,442.654
+18:10,7,D1 TO EXO COMEBACK,437.193
+18:10,8,Adam Kirby,
+18:10,9,Leclerc,57.722
+18:10,10,マツコさん,26.345
+18:41,1,AllRounderHAECHANDay,794.248
+18:41,2,해찬아_우린널_사랑이라_불러,334.477
+18:41,3,SixTONESANN,166.599
+18:41,4,SmaugsToken,
+18:41,5,annkw,15.229
+18:41,6,YIXING,83.179
+18:41,7,D1 TO EXO COMEBACK,473.823
+18:41,8,クミさん,
+18:41,9,Buendia,18.988
+18:41,10,Sushant Lives On,35.111
+19:10,1,AllRounderHAECHANDay,815.820
+19:10,2,해찬아_우린널_사랑이라_불러,358.191
+19:10,3,KeepitOn,147.446
+19:10,4,SixTONESANN,166.979
+19:10,5,annkw,20.186
+19:10,6,yixing,86.751
+19:10,7,Buendia,22.921
+19:10,8,Aston Villa,14.193
+19:10,9,D1 TO EXO COMEBACK,456.581
+19:10,10,Luci,13.642
+19:41,1,AllRounderHAECHANDay,829.270
+19:41,2,해찬아_우린널_사랑이라_불러,368.697
+19:41,3,KeepitOn,170.015
+19:41,4,annkw,24.735
+19:41,5,Buendia,22.921
+19:41,6,SixTONESANN,166.979
+19:41,7,Villa,60.836
+19:41,8,yixing,86.751
+19:41,9,Gerson,43.798
+19:41,10,D1 TO EXO COMEBACK,494.253
+20:10,1,AllRounderHAECHANDay,837.784
+20:10,2,해찬아_우린널_사랑이라_불러,384.977
+20:10,3,KeepitOn,192.119
+20:10,4,annkw,28.315
+20:10,5,Buendia,35.204
+20:10,6,MilletinSesiHalkTvde,
+20:10,7,Villa,71.148
+20:10,8,Cabo Verde,19.928
+20:10,9,YIXING,93.904
+20:10,10,Gerson,47.259
+20:41,1,AllRounderHAECHANDay,844.323
+20:41,2,해찬아_우린널_사랑이라_불러,393.655
+20:41,3,KeepitOn,219.239
+20:41,4,السعوديه_اليمن,31.526
+20:41,5,Claudinho,
+20:41,6,Buendia,37.076
+20:41,7,annkw,28.498
+20:41,8,Villa,75.966
+20:41,9,Cabo Verde,21.611
+20:41,10,فهد المولد,
+21:10,1,Cabo Verde,31.092
+21:10,2,KeepitOn,242.749
+21:10,3,السعوديه_اليمن,38.510
+21:10,4,AllRounderHAECHANDay,849.597
+21:10,5,해찬아_우린널_사랑이라_불러,400.269
+21:10,6,Claudinho,
+21:10,7,sedatpeker9,13.434
+21:10,8,Buendia,40.584
+21:10,9,Villa,76.525
+21:10,10,Hepsi DeşifreOluyor,
+21:41,1,Cabo Verde,33.474
+21:41,2,السعوديه_اليمن,45.349
+21:41,3,KeepitOn,269.032
+21:41,4,AllRounderHAECHANDay,853.055
+21:41,5,sedatpeker9,17.983
+21:41,6,해찬아_우린널_사랑이라_불러,404.813
+21:41,7,Claudinho,
+21:41,8,Buendia,42.745
+21:41,9,Villa,79.696
+21:41,10,Bonnie Langford,
+22:10,1,السعوديه_اليمن,51.829
+22:10,2,Cabo Verde,33.783
+22:10,3,KeepitOn,290.661
+22:10,4,sedatpeker9,21.899
+22:10,5,MaskedDancerUK,
+22:10,6,نزل_القاطع_لترفع_كرامتك,11.666
+22:10,7,Bonnie Langford,
+22:10,8,Buendia,44.004
+22:10,9,Claudinho,
+22:10,10,Villa,79.923
+22:41,1,KeepitOn,317.485
+22:41,2,السعوديه_اليمن,49.437
+22:41,3,Cabo Verde,34.908
+22:41,4,sedatpeker9,25.737
+22:41,5,freesehinsah,14.883
+22:41,6,MaskedDancerUK,
+22:41,7,Buendia,45.940
+22:41,8,Bonnie Langford,
+22:41,9,Villa,81.000
+22:41,10,Claudinho,
+23:10,1,KeepitOn,342.834
+23:10,2,السعوديه_اليمن,64.355
+23:10,3,sedatpeker9,26.610
+23:10,4,Cabo Verde,34.911
+23:10,5,freesehinsah,16.967
+23:10,6,LaChansonDeLannee,
+23:10,7,Buendia,45.940
+23:10,8,Bonnie Langford,
+23:10,9,Villa,81.000
+23:10,10,Dawkins,
+23:41,1,KeepitOn,371.230
+23:41,2,UFCVegas28,
+23:41,3,sedatpeker9,31.331
+23:41,4,freesehinsah,18.645
+23:41,5,السعوديه_اليمن,66.081
+23:41,6,El Salvador,60.479
+23:41,7,Cabo Verde,35.773
+23:41,8,Federer,13.067
+23:41,9,Dudamel,
+23:41,10,HalilveSümbülün BüyükAşkı,

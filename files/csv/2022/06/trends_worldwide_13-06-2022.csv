@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,SoccerAid,31.290
+00:10,2,Cruzeiro,64.058
+00:10,3,Starfield,70.929
+00:10,4,Rory,20.576
+00:10,5,XboxBethesda,176.791
+00:10,6,BTS9thAnniversary,1.210.180
+00:10,7,Luca,40.777
+00:10,8,conexionhonduras8,18.119
+00:10,9,Davide,16.927
+00:10,10,Jacques,14.711
+00:40,1,SoccerAid,31.888
+00:40,2,Cruzeiro,66.465
+00:40,3,ConexionHonduras8,22.344
+00:40,4,Rory,22.200
+00:40,5,Starfield,73.406
+00:40,6,Xbox,285.775
+00:40,7,BTS9thAnniversary,1.233.364
+00:40,8,PrideGaming,
+00:40,9,Luca,41.563
+00:40,10,zzccmxtp,
+01:10,1,ConexionHonduras8,25.883
+01:10,2,PrideGaming,
+01:10,3,BTS9thAnniversary,1.257.160
+01:10,4,Cruzeiro,67.596
+01:10,5,Starfield,75.888
+01:10,6,SoccerAid,32.229
+01:10,7,Rory,23.037
+01:10,8,Xbox,291.017
+01:10,9,zzccmxtp,
+01:10,10,Luca,41.012
+01:40,1,ConexionHonduras8,28.884
+01:40,2,PrideGaming,
+01:40,3,BTS9thAnniversary,1.248.247
+01:40,4,Starfield,77.966
+01:40,5,NASCAR,11.155
+01:40,6,Rory,24.141
+01:40,7,Cruzeiro,69.139
+01:40,8,Xbox,298.502
+01:40,9,Omaha,29.424
+01:40,10,SoccerAid,32.566
+02:10,1,TonyAwards2022,
+02:10,2,ConexionHonduras8,30.754
+02:10,3,PrideGaming,
+02:10,4,BTS9thAnniversary,1.306.839
+02:10,5,Omaha,30.906
+02:10,6,Starfield,79.865
+02:10,7,NASCAR,11.068
+02:10,8,Rory,24.681
+02:10,9,Xbox,302.569
+02:10,10,Cruzeiro,69.221
+02:40,1,TonyAwards2022,
+02:40,2,90DayFiance,
+02:40,3,PrideGaming,
+02:40,4,baco,
+02:40,5,BTS9thAnniversary,1.331.042
+02:40,6,ConexionHonduras8,31.537
+02:40,7,Ramirez,18.651
+02:40,8,Omaha,32.544
+02:40,9,Starfield,81.515
+02:40,10,Kitchen,59.787
+03:10,1,TonyAwards2022,
+03:10,2,RHOA,12.956
+03:10,3,Marlo,
+03:10,4,baco,
+03:10,5,Orsini,
+03:10,6,90DayFiance,
+03:10,7,Rossi,20.768
+03:10,8,PrideGaming,
+03:10,9,Ramirez,19.034
+03:10,10,BTS9thAnniversary,1.352.296
+03:40,1,TonyAwards,25.585
+03:40,2,RHOA,14.626
+03:40,3,Orsini,
+03:40,4,Baco,
+03:40,5,LaAcademia,
+03:40,6,90DayFiance,
+03:40,7,Marlo,
+03:40,8,Ramirez,20.549
+03:40,9,Rossi,21.838
+03:40,10,BTS9thAnniversary,1.378.311
+04:10,1,TonyAwards,30.860
+04:10,2,LaAcademia,11.513
+04:10,3,RHOA,15.433
+04:10,4,Orsini,
+04:10,5,baco,
+04:10,6,90DayFiance,11.507
+04:10,7,Marlo,
+04:10,8,Fantastico,
+04:10,9,Ramirez,20.603
+04:10,10,Rossi,22.383
+04:40,1,TonyAwards,37.121
+04:40,2,LaAcademia,15.830
+04:40,3,RHOA,16.314
+04:40,4,baco,10.242
+04:40,5,Orsini,
+04:40,6,90DayFiance,12.018
+04:40,7,Fantastico,
+04:40,8,Marlo,
+04:40,9,luisa,25.421
+04:40,10,Ramirez,21.131
+05:10,1,TonyAwards,44.743
+05:10,2,LaAcademia,18.715
+05:10,3,Barry,
+05:10,4,RHOA,17.156
+05:10,5,Baco,10.788
+05:10,6,Orsini,
+05:10,7,90DayFiance,12.346
+05:10,8,Marlo,
+05:10,9,luisa,25.832
+05:10,10,ARK無料,26.077
+05:40,1,TonyAwards,49.506
+05:40,2,LaAcademia,21.832
+05:40,3,Barry,
+05:40,4,TheVoiceCHV,
+05:40,5,RHOA,18.131
+05:40,6,Baco,11.341
+05:40,7,EGOT,
+05:40,8,Celsius,15.779
+05:40,9,ARK無料,29.227
+05:40,10,Orsini,
+06:10,1,LaAcademia,25.374
+06:10,2,TonyAwards,52.318
+06:10,3,TheVoiceCHV,
+06:10,4,Barry,
+06:10,5,体は_で出来ている,
+06:10,6,EGOT,15.445
+06:10,7,Celsius,18.270
+06:10,8,Baco,11.653
+06:10,9,ARK無料,31.853
+06:10,10,Jennifer Hudson,14.615
+06:40,1,LaAcademia,29.996
+06:40,2,TonyAwards,54.283
+06:40,3,Barry,
+06:40,4,TheVoiceCHV,
+06:40,5,体は_で出来ている,
+06:40,6,Celsius,20.895
+06:40,7,EGOT,19.314
+06:40,8,豆ちゃん,
+06:40,9,Baco,12.025
+06:40,10,ARK無料,33.619
+07:10,1,LaAcademia,31.276
+07:10,2,Barry,
+07:10,3,体は_で出来ている,
+07:10,4,TonyAwards,55.807
+07:10,5,TheVoiceCHV,
+07:10,6,Celsius,22.599
+07:10,7,EGOT,22.134
+07:10,8,豆ちゃん,
+07:10,9,ARK無料,35.075
+07:10,10,れなち卒業,
+07:40,1,LaAcademia,31.934
+07:40,2,IndiaWithRahulGandhi,30.895
+07:40,3,体は_で出来ている,
+07:40,4,Barry,
+07:40,5,Celsius,25.270
+07:40,6,pazartesi,
+07:40,7,豆ちゃん,11.756
+07:40,8,EGOT,24.162
+07:40,9,れなち卒業,
+07:40,10,ARK無料,36.636
+08:10,1,IndiaWithRahulGandhi,42.973
+08:10,2,体は_で出来ている,
+08:10,3,pazartesi,
+08:10,4,LaAcademia,32.323
+08:10,5,Barry,
+08:10,6,Celsius,27.077
+08:10,7,豆ちゃん,13.715
+08:10,8,れなち卒業,
+08:10,9,EGOT,25.735
+08:10,10,Diplomasi Global Menhan,
+08:40,1,IndiaWithRahulGandhi,56.082
+08:40,2,MondayMotivation,35.121
+08:40,3,pazartesi,
+08:40,4,お前らの2次元初恋って誰だったの,
+08:40,5,体は_で出来ている,
+08:40,6,ジュンくん,
+08:40,7,Celsius,29.056
+08:40,8,豆ちゃん,15.785
+08:40,9,れなち卒業,
+08:40,10,絢音ちゃん,
+09:10,1,IndiaWithRahulGandhi,70.981
+09:10,2,お前らの2次元初恋って誰だったの,
+09:10,3,MondayMotivation,37.616
+09:10,4,pazartesi,
+09:10,5,ジュンくん,
+09:10,6,体は_で出来ている,
+09:10,7,豆ちゃん,18.123
+09:10,8,Celsius,30.726
+09:10,9,れなち卒業,
+09:10,10,絢音ちゃん,
+09:40,1,お前らの2次元初恋って誰だったの,
+09:40,2,MondayMotivation,40.134
+09:40,3,IndiaWithRahulGandhi,84.252
+09:40,4,pazartesi,
+09:40,5,THETRAD,
+09:40,6,ジュンくん,
+09:40,7,豆ちゃん,20.423
+09:40,8,Celsius,32.579
+09:40,9,退団会見,
+09:40,10,雪組トップ娘役・朝月希和,
+10:10,1,お前らの2次元初恋って誰だったの,
+10:10,2,MondayMotivation,42.644
+10:10,3,AFLPiesDees,
+10:10,4,IndiaWithRahulGandhi,96.091
+10:10,5,NRLBulldogsEels,
+10:10,6,ジュンくん,
+10:10,7,退団会見,
+10:10,8,Celsius,34.270
+10:10,9,雪組トップ娘役・朝月希和,
+10:10,10,豆ちゃん,21.970
+10:40,1,お前らの2次元初恋って誰だったの,
+10:40,2,MondayMotivation,44.978
+10:40,3,AFLPiesDees,
+10:40,4,IndiaWithRahulGandhi,106.929
+10:40,5,体は_で出来ている,
+10:40,6,ジュンくん,
+10:40,7,退団会見,
+10:40,8,雪組トップ娘役・朝月希和,
+10:40,9,Celsius,36.315
+10:40,10,豆ちゃん,23.780
+11:10,1,お前らの2次元初恋って誰だったの,
+11:10,2,MondayMotivation,46.876
+11:10,3,IndiaWithRahulGandhi,116.464
+11:10,4,体は_で出来ている,
+11:10,5,MYCHILLINGROOMMATEPREMIERE,19.104
+11:10,6,ジュンくん,
+11:10,7,WONHO FACADE OUT NOW,
+11:10,8,ACTOR CHANWOO COMEBACK,10.093
+11:10,9,ハイランダー,
+11:10,10,Celsius,38.260
+11:40,1,お前らの2次元初恋って誰だったの,
+11:40,2,MondayMotivation,48.495
+11:40,3,CRAZY_for_WONHO,10.240
+11:40,4,体は_で出来ている,10.232
+11:40,5,IndiaWithRahulGandhi,126.155
+11:40,6,Arron Banks,25.639
+11:40,7,Haaland,67.872
+11:40,8,WONHO FACADE OUT NOW,
+11:40,9,ジュンくん,10.221
+11:40,10,きわちゃん,
+12:10,1,お前らの2次元初恋って誰だったの,
+12:10,2,Haaland,78.763
+12:10,3,体は_で出来ている,10.886
+12:10,4,MondayMotivation,50.089
+12:10,5,Carole,45.491
+12:10,6,Arron Banks,34.189
+12:10,7,CRAZY_for_WONHO,12.078
+12:10,8,Cryptocrash,26.632
+12:10,9,wonho facade out now,
+12:10,10,ジュンくん,10.672
+12:40,1,お前らの2次元初恋って誰だったの,10.780
+12:40,2,SenzoMeyiwatrial,
+12:40,3,冒険少年,17.724
+12:40,4,Nanaくん,
+12:40,5,Haaland,88.431
+12:40,6,体は_で出来ている,11.646
+12:40,7,Carole,52.005
+12:40,8,Arron Banks,41.178
+12:40,9,Adv Teffo,
+12:40,10,Cryptocrash,28.231
+13:10,1,お前らの2次元初恋って誰だったの,12.192
+13:10,2,沙花叉クロヱ3D,23.480
+13:10,3,冒険少年,23.984
+13:10,4,SenzoMeyiwatrial,
+13:10,5,Haaland,96.123
+13:10,6,Nanaくん,
+13:10,7,体は_で出来ている,12.366
+13:10,8,Carole,55.734
+13:10,9,WITH YOU,2.392.741
+13:10,10,Arron Banks,45.824
+13:40,1,沙花叉クロヱ3D,77.824
+13:40,2,お前らの2次元初恋って誰だったの,13.734
+13:40,3,関ジャニ喝采,11.575
+13:40,4,冒険少年,25.912
+13:40,5,Haaland,103.919
+13:40,6,SenzoMeyiwatrial,
+13:40,7,Nanaくん,
+13:40,8,Carole,59.946
+13:40,9,Arron Banks,50.180
+13:40,10,WITH YOU,2.477.731
+14:10,1,沙花叉クロヱ3D,102.326
+14:10,2,ANDERSON PAAK,19.995
+14:10,3,お前らの2次元初恋って誰だったの,15.225
+14:10,4,関ジャニ喝采,13.458
+14:10,5,Haaland,108.880
+14:10,6,冒険少年,27.073
+14:10,7,有吉ゼミ,
+14:10,8,Kim Taehyung,61.585
+14:10,9,Proof Live,185.253
+14:10,10,Carole,62.480
+14:40,1,沙花叉クロヱ3D,121.453
+14:40,2,ANDERSON PAAK,83.139
+14:40,3,お前らの2次元初恋って誰だったの,16.765
+14:40,4,ProofLive,
+14:40,5,ぺこらいぶ,
+14:40,6,関ジャニ喝采,16.002
+14:40,7,Haaland,114.799
+14:40,8,NO RUN BTS,18.587
+14:40,9,Born Singer,56.378
+14:40,10,Kim Taehyung,78.101
+15:10,1,ANDERSON PAAK,116.000
+15:10,2,沙花叉クロヱ3D,126.956
+15:10,3,お前らの2次元初恋って誰だったの,18.178
+15:10,4,元彼の遺言状,
+15:10,5,ProofLive,
+15:10,6,For Youth,194.378
+15:10,7,しゃべくり007,
+15:10,8,投手転向,
+15:10,9,Haaland,118.630
+15:10,10,UzmCvslara KadroVerilsin,
+15:40,1,恋マジ,32.413
+15:40,2,DevilSisterEP17,64.085
+15:40,3,Escape,
+15:40,4,ChollometroConmigoSiempre,
+15:40,5,MISTINE618xTayNew,45.420
+15:40,6,投手転向,12.114
+15:40,7,Dom e Bruno,47.926
+15:40,8,Bill Stepien,16.282
+15:40,9,Moses Simon,
+15:40,10,The Spot,202.636
+16:10,1,恋マジ,47.033
+16:10,2,DevilSisterEP17,121.834
+16:10,3,ChollometroConmigoSiempre,
+16:10,4,お前らの2次元初恋って誰だったの,20.801
+16:10,5,スイッチインタビュー,
+16:10,6,Dom e Bruno,56.056
+16:10,7,投手転向,14.106
+16:10,8,Bill Stepien,17.782
+16:10,9,Bruno Pereira,42.083
+16:10,10,亀梨くん,
+16:40,1,이쯔쯔하_해피쯔위데이,44.942
+16:40,2,ThinkAboutTzu,43.648
+16:40,3,恋マジ,49.367
+16:40,4,DevilSisterEP17,174.937
+16:40,5,お前らの2次元初恋って誰だったの,21.811
+16:40,6,ANDERSON PAAK,154.320
+16:40,7,END HYPEN,
+16:40,8,Dom e Bruno,64.717
+16:40,9,Jisoo,145.288
+16:40,10,Marcelo,114.330
+17:10,1,ThinkAboutTzu,78.962
+17:10,2,이쯔쯔하_해피쯔위데이,81.381
+17:10,3,생일축하_태일이가_받아야대,96.927
+17:10,4,OurStarlightTAEILDay,97.147
+17:10,5,แฉxอาโปไบเบิ้ล,40.949
+17:10,6,TZUYU,124.005
+17:10,7,Rudy Giuliani,12.442
+17:10,8,END HYPEN,20.149
+17:10,9,Super Eagles,
+17:10,10,ANDERSON PAAK,163.305
+17:40,1,생일축하_태일이가_받아야대,127.420
+17:40,2,ThinkAboutTzu,102.437
+17:40,3,이쯔쯔하_해피쯔위데이,105.395
+17:40,4,OurStarlightTAEILDay,127.378
+17:40,5,MANIFESTO_DAY1,210.547
+17:40,6,TZUYU,159.203
+17:40,7,Rudy Giuliani,21.151
+17:40,8,第144回,
+17:40,9,Super Eagles,10.734
+17:40,10,키스데이,
+18:10,1,생일축하_태일이가_받아야대,139.020
+18:10,2,ThinkAboutTzu,113.285
+18:10,3,이쯔쯔하_해피쯔위데이,116.415
+18:10,4,OurStarlightTAEILDay,139.354
+18:10,5,แฉxอาโปไบเบิ้ล,130.338
+18:10,6,TZUYU,175.924
+18:10,7,Bill Barr,18.104
+18:10,8,Rudy Giuliani,27.478
+18:10,9,第144回,
+18:10,10,키스데이,10.322
+18:40,1,생일축하_태일이가_받아야대,145.639
+18:40,2,ThinkAboutTzu,119.818
+18:40,3,OurStarlightTAEILDay,145.964
+18:40,4,이쯔쯔하_해피쯔위데이,123.142
+18:40,5,January6thHearings,28.748
+18:40,6,Bill Barr,28.750
+18:40,7,tzuyu,187.494
+18:40,8,Rudy Giuliani,34.063
+18:40,9,第144回,
+18:40,10,키스데이,11.271
+19:10,1,January6thHearings,37.176
+19:10,2,생일축하_태일이가_받아야대,149.981
+19:10,3,ThinkAboutTzu,124.595
+19:10,4,OurStarlightTAEILDay,150.362
+19:10,5,이쯔쯔하_해피쯔위데이,128.153
+19:10,6,Bill Barr,36.118
+19:10,7,tzuyu,195.077
+19:10,8,Rudy Giuliani,38.556
+19:10,9,Perú,110.034
+19:10,10,第144回,
+19:40,1,January6thHearings,43.783
+19:40,2,생일축하_태일이가_받아야대,152.952
+19:40,3,ThinkAboutTzu,128.059
+19:40,4,Bill Barr,44.050
+19:40,5,OurStarlightTAEILDay,153.414
+19:40,6,이쯔쯔하_해피쯔위데이,131.755
+19:40,7,Perú,119.848
+19:40,8,tzuyu,201.125
+19:40,9,Rudy Giuliani,43.286
+19:40,10,Philip Baker Hall,
+20:10,1,Perú,138.357
+20:10,2,SapıkDedeTutuklansın,
+20:10,3,January6thHearings,47.053
+20:10,4,Bill Barr,50.446
+20:10,5,생일축하_태일이가_받아야대,154.711
+20:10,6,ThinkAboutTzu,130.121
+20:10,7,OurStarlightTAEILDay,155.446
+20:10,8,Philip Baker Hall,
+20:10,9,Rudy Giuliani,46.781
+20:10,10,tzuyu,204.758
+20:40,1,Perú,157.691
+20:40,2,SapıkDedeTutuklansın,12.366
+20:40,3,January6thHearings,50.395
+20:40,4,Bill Barr,56.537
+20:40,5,ThinkAboutTzu,131.627
+20:40,6,생일축하_태일이가_받아야대,156.449
+20:40,7,OurStarlightTAEILDay,157.123
+20:40,8,Philip Baker Hall,
+20:40,9,Jeff Hardy,
+20:40,10,Rudy Giuliani,51.029
+21:10,1,FRACRO,13.334
+21:10,2,Perú,175.396
+21:10,3,SapıkDedeTutuklansın,16.774
+21:10,4,Jeff Hardy,
+21:10,5,Gareca,
+21:10,6,January6thHearings,53.375
+21:10,7,Barr,121.756
+21:10,8,AUSvPER,
+21:10,9,Peña,133.849
+21:10,10,Philip Baker Hall,10.903
+21:40,1,FenerbahceBeko,
+21:40,2,FRACRO,19.466
+21:40,3,Perú,192.234
+21:40,4,SapıkDedeTutuklansın,20.079
+21:40,5,Jeff Hardy,
+21:40,6,Kamara,
+21:40,7,Carrillo,
+21:40,8,Ergin,10.618
+21:40,9,Gareca,10.412
+21:40,10,Barr,132.603
+22:10,1,FenerbahceBeko,16.053
+22:10,2,FRACRO,25.785
+22:10,3,Perú,211.838
+22:10,4,SapıkDedeTutuklansın,23.313
+22:10,5,ElDebateDecisivo,17.623
+22:10,6,Jeff Hardy,
+22:10,7,AUSvPER,
+22:10,8,Kamara,10.601
+22:10,9,Gareca,12.560
+22:10,10,Ergin,13.826
+22:40,1,FRACRO,33.293
+22:40,2,FenerbahceBeko,19.010
+22:40,3,Perú,238.326
+22:40,4,SapıkDedeTutuklansın,26.255
+22:40,5,ElDebateDecisivo,31.706
+22:40,6,Davide,17.767
+22:40,7,Jeff Hardy,10.050
+22:40,8,AUSvPER,
+22:40,9,Gallese,
+22:40,10,Gareca,14.186
+23:10,1,Perú,294.900
+23:10,2,LoveIsland,132.738
+23:10,3,FRACRO,38.601
+23:10,4,Advincula,15.738
+23:10,5,FenerbahceBeko,20.271
+23:10,6,AUSvPER,10.838
+23:10,7,Gallese,22.055
+23:10,8,Afia,14.605
+23:10,9,ElDebateDecisivo,47.516
+23:10,10,Gareca,20.183
+23:40,1,Perú,323.115
+23:40,2,loveisland,139.729
+23:40,3,Advincula,25.413
+23:40,4,FRACRO,39.734
+23:40,5,Gareca,27.496
+23:40,6,FenerbahceBeko,21.027
+23:40,7,AUSvPER,12.083
+23:40,8,ElDebateDecisivo,63.233
+23:40,9,Gallese,23.492
+23:40,10,Afia,15.391

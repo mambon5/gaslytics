@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Rihanna,151.274
+00:10,2,Barcelona,265.141
+00:10,3,Frankfurt,181.712
+00:10,4,Camp Nou,109.352
+00:10,5,Xavi,115.241
+00:10,6,West Ham,36.297
+00:10,7,Europa League,116.295
+00:10,8,FCBSGE,53.445
+00:10,9,PekinExpress,16.252
+00:10,10,ASAP Rocky,45.304
+00:40,1,Rihanna,190.477
+00:40,2,Barcelona,276.345
+00:40,3,Frankfurt,190.207
+00:40,4,Camp Nou,117.325
+00:40,5,Xavi,123.680
+00:40,6,Europa League,123.238
+00:40,7,West Ham,39.430
+00:40,8,ASAP Rocky,60.331
+00:40,9,FCBSGE,55.267
+00:40,10,riri,32.203
+01:10,1,Rihanna,228.044
+01:10,2,Barcelona,281.478
+01:10,3,Frankfurt,195.905
+01:10,4,Camp Nou,123.433
+01:10,5,Xavi,128.724
+01:10,6,goLOUD,18.921
+01:10,7,Europa League,127.779
+01:10,8,West Ham,74.348
+01:10,9,CashApp4U,
+01:10,10,ASAP Rocky,74.107
+01:40,1,Rihanna,265.209
+01:40,2,Barcelona,287.747
+01:40,3,CashApp4U,
+01:40,4,Frankfurt,200.052
+01:40,5,goLOUD,21.241
+01:40,6,riri,35.704
+01:40,7,Camp Nou,128.038
+01:40,8,Xavi,133.771
+01:40,9,ASAP Rocky,87.322
+01:40,10,Europa League,131.918
+02:10,1,Rihanna,297.139
+02:10,2,CashApp4U,
+02:10,3,Barcelona,290.949
+02:10,4,riri,37.096
+02:10,5,Frankfurt,203.528
+02:10,6,goLOUD,21.503
+02:10,7,Rocky,202.876
+02:10,8,Camp Nou,131.448
+02:10,9,Xavi,136.498
+02:10,10,Europa League,134.719
+02:40,1,Rihanna,327.704
+02:40,2,riri,38.955
+02:40,3,CashApp4U,
+02:40,4,Barcelona,294.982
+02:40,5,Rocky,217.437
+02:40,6,Frankfurt,206.243
+02:40,7,goLOUD,21.722
+02:40,8,Cardi,38.849
+02:40,9,Camp Nou,134.097
+02:40,10,Xavi,139.004
+03:10,1,Rihanna,360.531
+03:10,2,riri,39.924
+03:10,3,CashApp4U,
+03:10,4,Maria Marruá,13.669
+03:10,5,Rocky,228.538
+03:10,6,Elon,1.280.197
+03:10,7,Cardi,41.071
+03:10,8,Frankfurt,208.274
+03:10,9,goLOUD,21.453
+03:10,10,Barça,304.977
+03:40,1,Rihanna,389.580
+03:40,2,Pantanal,34.670
+03:40,3,riri,41.601
+03:40,4,CashApp4U,
+03:40,5,Maria Marruá,15.877
+03:40,6,Rocky,241.187
+03:40,7,Elon,1.310.243
+03:40,8,Cardi,43.505
+03:40,9,Medina,50.865
+03:40,10,Jove,
+04:10,1,Rihanna,417.343
+04:10,2,Pantanal,37.925
+04:10,3,riri,42.282
+04:10,4,Medina,51.709
+04:10,5,CashApp4U,10.478
+04:10,6,Rocky,249.510
+04:10,7,Maria Marruá,16.330
+04:10,8,Elon,1.336.665
+04:10,9,Cardi,45.216
+04:10,10,Legacies,14.859
+04:40,1,Rihanna,444.492
+04:40,2,Pantanal,39.255
+04:40,3,Medina,54.129
+04:40,4,riri,43.808
+04:40,5,CashApp4U,10.791
+04:40,6,Rocky,261.759
+04:40,7,ريبون_تعدي_الخيال,15.174
+04:40,8,Elon,1.366.337
+04:40,9,Cardi,47.508
+04:40,10,Maria Marruá,17.007
+05:10,1,Rihanna,470.355
+05:10,2,ريبون_تعدي_الخيال,94.017
+05:10,3,Medina,54.736
+05:10,4,Pantanal,39.359
+05:10,5,riri,44.209
+05:10,6,provadolíder,
+05:10,7,Darling,166.943
+05:10,8,Good Friday,72.209
+05:10,9,CashApp4U,11.054
+05:10,10,Jumat Agung,
+05:40,1,Rihanna,495.261
+05:40,2,ريبون_تعدي_الخيال,86.757
+05:40,3,Chapman,
+05:40,4,Our_DARLING_SEVENTEEN,16.382
+05:40,5,Medina,56.012
+05:40,6,riri,45.802
+05:40,7,Pantanal,40.087
+05:40,8,どうする家康,23.679
+05:40,9,Good Friday,79.183
+05:40,10,LadyNight,
+06:10,1,Rihanna,516.424
+06:10,2,Our_DARLING_SEVENTEEN,45.091
+06:10,3,Chapman,
+06:10,4,MICHAEL KING,
+06:10,5,Medina,55.767
+06:10,6,ريبون_تعدي_الخيال,85.961
+06:10,7,riri,46.470
+06:10,8,GoodFriday,18.720
+06:10,9,ElDiaMenosPensadoEnTVN,
+06:10,10,どうする家康,29.488
+06:40,1,Darling,309.131
+06:40,2,Rihanna,538.695
+06:40,3,Chapman,
+06:40,4,GoodFriday,23.019
+06:40,5,lady gaga,48.391
+06:40,6,KCON,
+06:40,7,Michael King,
+06:40,8,ElDiaMenosPensadoEnTVN,
+06:40,9,riri,47.920
+06:40,10,議員辞職,15.131
+07:10,1,Darling,341.024
+07:10,2,Rihanna,559.696
+07:10,3,GoodFriday,27.141
+07:10,4,earthquake,
+07:10,5,Chapman,
+07:10,6,lady gaga,52.684
+07:10,7,KCON,10.762
+07:10,8,議員辞職,17.569
+07:10,9,عبودي_باد,
+07:10,10,المسجد_الاقصي,25.272
+07:40,1,Darling,378.395
+07:40,2,Rihanna,581.047
+07:40,3,GoodFriday,31.463
+07:40,4,KCON,12.154
+07:40,5,earthquake,
+07:40,6,lady gaga,56.060
+07:40,7,議員辞職,20.713
+07:40,8,Chapman,
+07:40,9,عبودي_باد,
+07:40,10,المسجد_الاقصي,28.011
+08:10,1,Darling,403.985
+08:10,2,Rihanna,600.621
+08:10,3,GoodFriday,36.190
+08:10,4,KCON,13.172
+08:10,5,SeribuKebaikan,
+08:10,6,キャラクター,84.801
+08:10,7,earthquake,
+08:10,8,lady gaga,57.677
+08:10,9,山本太郎,35.512
+08:10,10,議員辞職,23.254
+08:40,1,Darling,423.346
+08:40,2,GoodFriday,40.421
+08:40,3,Rihanna,620.109
+08:40,4,SeribuKebaikan,
+08:40,5,KCON,14.315
+08:40,6,キャラクター,87.253
+08:40,7,watsonsboykot,
+08:40,8,山本太郎,39.613
+08:40,9,ハケングミ,
+08:40,10,議員辞職,25.587
+09:10,1,GoodFriday,44.506
+09:10,2,Darling,433.358
+09:10,3,Rihanna,637.051
+09:10,4,SeribuKebaikan,
+09:10,5,KCON,15.098
+09:10,6,ハケングミ,
+09:10,7,watsonsboykot,
+09:10,8,キャラクター,85.783
+09:10,9,国連女性機関,10.593
+09:10,10,山本太郎,43.689
+09:40,1,GoodFriday,49.047
+09:40,2,Darling,445.628
+09:40,3,Rihanna,648.243
+09:40,4,SeribuKebaikan,
+09:40,5,Happy Easter,74.654
+09:40,6,watsonsboykot,
+09:40,7,ハケングミ,
+09:40,8,KCON,15.971
+09:40,9,国連女性機関,13.356
+09:40,10,キャラクター,87.964
+10:10,1,GoodFriday,53.399
+10:10,2,Darling,453.060
+10:10,3,hobi,130.858
+10:10,4,Happy Easter,78.021
+10:10,5,Rihanna,670.860
+10:10,6,SeribuKebaikan,
+10:10,7,watsonsboykot,
+10:10,8,RHODurban,
+10:10,9,lady gaga,78.552
+10:10,10,KCON,16.658
+10:40,1,GoodFriday,58.025
+10:40,2,iKON_MENTIONPARTY,31.728
+10:40,3,Happy Easter,82.887
+10:40,4,hobi,135.088
+10:40,5,Darling,463.466
+10:40,6,JFT97,
+10:40,7,Joe Root,
+10:40,8,Rihanna,690.412
+10:40,9,SeribuKebaikan,
+10:40,10,Burak Yesilmen,
+11:10,1,Good Friday,164.923
+11:10,2,iKON_MENTIONPARTY,42.785
+11:10,3,Happy Easter,86.482
+11:10,4,JFT97,
+11:10,5,hobi,136.711
+11:10,6,Joe Root,
+11:10,7,MarkTuan,30.719
+11:10,8,RHODurban,
+11:10,9,CRUvBLU,
+11:10,10,Rihanna,707.896
+11:40,1,Good Friday,174.418
+11:40,2,Happy Easter,92.558
+11:40,3,iKON_MENTIONPARTY,45.270
+11:40,4,JFT97,
+11:40,5,LOVEDIVE3rdWin,11.084
+11:40,6,少プレ,10.214
+11:40,7,Sean Dyche,
+11:40,8,AlAqsaUnderAttack,25.010
+11:40,9,Joe Root,
+11:40,10,hobi,140.096
+12:10,1,Burnley,18.217
+12:10,2,Sean Dyche,11.615
+12:10,3,Good Friday,182.191
+12:10,4,Happy Easter,96.189
+12:10,5,少プレ,14.877
+12:10,6,2ndPREMIUMLIVE_B_DAY1,91.105
+12:10,7,JFT97,
+12:10,8,AlAqsaUnderAttack,32.870
+12:10,9,LOVEDIVE3rdWin,15.686
+12:10,10,Big Sam,
+12:40,1,Burnley,26.289
+12:40,2,Sean Dyche,17.016
+12:40,3,Good Friday,191.493
+12:40,4,Happy Easter,101.359
+12:40,5,AlAqsaUnderAttack,40.646
+12:40,6,2ndPREMIUMLIVE_B_DAY1,150.949
+12:40,7,もうすぐシャニマス4th,
+12:40,8,GözümüzKulağımızAksada,13.468
+12:40,9,AFLEaglesSwans,
+12:40,10,Big Sam,
+13:10,1,Burnley,31.995
+13:10,2,Sean Dyche,21.566
+13:10,3,Good Friday,199.670
+13:10,4,Happy Easter,104.209
+13:10,5,AlAqsaUnderAttack,49.645
+13:10,6,GözümüzKulağımızAksada,23.154
+13:10,7,ロケット団ラジオ,19.177
+13:10,8,もうすぐシャニマス4th,10.624
+13:10,9,2ndPREMIUMLIVE_B_DAY1,249.838
+13:10,10,Big Sam,
+13:40,1,Burnley,36.664
+13:40,2,Sean Dyche,25.077
+13:40,3,Good Friday,210.485
+13:40,4,GözümüzKulağımızAksada,33.614
+13:40,5,AlAqsaUnderAttack,59.088
+13:40,6,もうすぐシャニマス4th,15.029
+13:40,7,Happy Easter,108.528
+13:40,8,ロケット団ラジオ,21.302
+13:40,9,わたしもリスナー,
+13:40,10,Jutaan Voucher Belanja,
+14:10,1,Burnley,41.336
+14:10,2,Sean Dyche,28.826
+14:10,3,Good Friday,220.684
+14:10,4,阪神タイガース,39.542
+14:10,5,AlAqsaUnderAttack,69.341
+14:10,6,GözümüzKulağımızAksada,42.924
+14:10,7,すわほー,
+14:10,8,Mステ,13.580
+14:10,9,Happy Easter,111.205
+14:10,10,ロケット団ラジオ,22.907
+14:40,1,Burnley,45.321
+14:40,2,Good Friday,233.337
+14:40,3,Mステ,22.433
+14:40,4,Sean Dyche,31.925
+14:40,5,阪神タイガース,44.209
+14:40,6,AlAqsaUnderAttack,79.656
+14:40,7,GözümüzKulağımızAksada,50.652
+14:40,8,本庁の刑事恋物語,19.960
+14:40,9,すわほー,
+14:40,10,Happy Easter,115.844
+15:10,1,Mステ,36.544
+15:10,2,Good Friday,245.207
+15:10,3,Burnley,48.787
+15:10,4,Sean Dyche,34.621
+15:10,5,ヒプマイリーダー集結決起会,21.785
+15:10,6,AlAqsaUnderAttack,88.326
+15:10,7,阪神タイガース,45.560
+15:10,8,GözümüzKulağımızAksada,56.874
+15:10,9,平成レトロ,
+15:10,10,高木刑事,19.070
+15:40,1,Good Friday,259.124
+15:40,2,Mステ,41.232
+15:40,3,Burnley,51.760
+15:40,4,インビジブル,21.875
+15:40,5,Sean Dyche,37.013
+15:40,6,ラブライブANN,11.298
+15:40,7,AlAqsaUnderAttack,96.020
+15:40,8,GözümüzKulağımızAksada,61.520
+15:40,9,Mike Bossy,
+15:40,10,Happy Easter,124.001
+16:10,1,Good Friday,272.222
+16:10,2,インビジブル,27.342
+16:10,3,Mステ,43.551
+16:10,4,Burnley,54.613
+16:10,5,本庁の刑事恋物語,36.593
+16:10,6,ラブライブANN,18.315
+16:10,7,ViernesSanto,16.215
+16:10,8,Mike Bossy,
+16:10,9,Sean Dyche,39.327
+16:10,10,高木刑事,27.080
+16:40,1,Good Friday,287.057
+16:40,2,インビジブル,31.230
+16:40,3,Mステ,45.188
+16:40,4,ViernesSanto,18.528
+16:40,5,MUSICBLOOD,11.316
+16:40,6,Mike Bossy,10.596
+16:40,7,Burnley,57.176
+16:40,8,ラブライブANN,24.010
+16:40,9,Sean Dyche,41.481
+16:40,10,Happy Easter,131.747
+17:10,1,Good Friday,300.573
+17:10,2,インビジブル,31.948
+17:10,3,ViernesSanto,20.728
+17:10,4,Mステ,46.183
+17:10,5,ساعه_استجابه,42.175
+17:10,6,Mike Bossy,12.378
+17:10,7,JackieRobinsonDay,
+17:10,8,Burnley,59.133
+17:10,9,Happy Easter,133.636
+17:10,10,Colts,15.332
+17:40,1,Good Friday,315.827
+17:40,2,세월호_8주기,16.342
+17:40,3,꽃이_진다고_그대를_잊은_적_없다,14.332
+17:40,4,ViernesSanto,22.806
+17:40,5,インビジブル,32.548
+17:40,6,ساعه_استجابه,51.360
+17:40,7,第85回,
+17:40,8,Mike Bossy,13.874
+17:40,9,Wordle 301,
+17:40,10,Happy Easter,138.447
+18:10,1,Good Friday,327.237
+18:10,2,세월호_8주기,23.748
+18:10,3,꽃이_진다고_그대를_잊은_적_없다,20.744
+18:10,4,REMEMBER_0416,21.164
+18:10,5,第85回,
+18:10,6,ViernesSanto,24.832
+18:10,7,JackieRobinsonDay,11.110
+18:10,8,Mike Bossy,15.133
+18:10,9,Wordle 301,
+18:10,10,Happy Easter,140.215
+18:40,1,Good Friday,340.268
+18:40,2,세월호_8주기,27.362
+18:40,3,꽃이_진다고_그대를_잊은_적_없다,24.114
+18:40,4,REMEMBER_0416,24.383
+18:40,5,第85回,
+18:40,6,ViernesSanto,26.824
+18:40,7,JackieRobinsonDay,12.654
+18:40,8,Mike Bossy,16.194
+18:40,9,Wordle 301,
+18:40,10,Happy Easter,145.186
+19:10,1,Good Friday,350.240
+19:10,2,세월호_8주기,29.791
+19:10,3,꽃이_진다고_그대를_잊은_적_없다,26.157
+19:10,4,ViernesSanto,28.836
+19:10,5,JackieRobinsonDay,14.260
+19:10,6,REMEMBER_0416,26.551
+19:10,7,第85回,
+19:10,8,Paul George,
+19:10,9,Happy Easter,147.128
+19:10,10,Wordle 301,
+19:40,1,Good Friday,361.875
+19:40,2,ViernesSanto,30.944
+19:40,3,세월호_8주기,31.361
+19:40,4,JackieRobinsonDay,15.609
+19:40,5,꽃이_진다고_그대를_잊은_적_없다,27.605
+19:40,6,Paul George,
+19:40,7,第85回,
+19:40,8,تتزوج_بنت_عمك_ولا_اجنبيه,
+19:40,9,Happy Easter,152.330
+19:40,10,NOVA ERA MAIARA E MARAISA,
+20:10,1,Good Friday,370.642
+20:10,2,NOVA ERA MAIARA E MARAISA,26.157
+20:10,3,ViernesSanto,33.356
+20:10,4,SRHvsKKR,
+20:10,5,JackieRobinsonDay,16.694
+20:10,6,Paul George,
+20:10,7,세월호_8주기,32.153
+20:10,8,تتزوج_بنت_عمك_ولا_اجنبيه,
+20:10,9,Happy Easter,154.305
+20:10,10,第85回,
+20:40,1,Good Friday,381.882
+20:40,2,NOVA ERA MAIARA E MARAISA,30.105
+20:40,3,ViernesSanto,35.402
+20:40,4,SpeziaInter,
+20:40,5,PMSHappyEaster,
+20:40,6,JackieRobinsonDay,17.984
+20:40,7,Paul George,10.553
+20:40,8,تتزوج_بنت_عمك_ولا_اجنبيه,
+20:40,9,第85回,
+20:40,10,Happy Passover,25.370
+21:10,1,Good Friday,389.302
+21:10,2,SpeziaInter,
+21:10,3,PMSHappyEaster,
+21:10,4,ViernesSanto,37.318
+21:10,5,NOVA ERA MAIARA E MARAISA,30.899
+21:10,6,JackieRobinsonDay,19.015
+21:10,7,FreeCodeFridayContest,
+21:10,8,Paul George,11.070
+21:10,9,Happy Passover,26.742
+21:10,10,Coachella,270.890
+21:40,1,FreeCodeFridayContest,
+21:40,2,Good Friday,398.765
+21:40,3,TSvFKG,
+21:40,4,SpeziaInter,
+21:40,5,CashAppTaxes,
+21:40,6,totp,
+21:40,7,Abdullah Avcı,
+21:40,8,NOVA ERA MAIARA E MARAISA,31.268
+21:40,9,Coachella,284.552
+21:40,10,RIP Nigel,
+22:10,1,FreeCodeFridayContest,
+22:10,2,Good Friday,404.792
+22:10,3,TSvFKG,
+22:10,4,CashAppTaxes,
+22:10,5,Abdullah Avcı,
+22:10,6,totp,
+22:10,7,SpeziaInter,
+22:10,8,Coachella,289.691
+22:10,9,Passover,82.424
+22:10,10,Amine,
+22:40,1,FreeCodeFridayContest,
+22:40,2,Good Friday,412.931
+22:40,3,TSvFKG,
+22:40,4,الهلال_استقلول,42.669
+22:40,5,Abdullah Avcı,
+22:40,6,MaskSinger,
+22:40,7,MilanGenoa,
+22:40,8,Coachella,305.200
+22:40,9,Passover,86.712
+22:40,10,Amine,10.193
+23:10,1,FreeCodeFridayContest,
+23:10,2,الهلال_استقلول,53.176
+23:10,3,MilanGenoa,10.594
+23:10,4,Good Friday,418.939
+23:10,5,MaskSinger,
+23:10,6,Coachella,311.723
+23:10,7,TSvFKG,
+23:10,8,Abdullah Avcı,
+23:10,9,Passover,90.448
+23:10,10,Tsitsipas,
+23:40,1,الهلال_استقلول,65.460
+23:40,2,FreeCodeFridayContest,
+23:40,3,fosstotounel,
+23:40,4,MilanGenoa,11.998
+23:40,5,GöçmenlerleYanYanayız,
+23:40,6,Good Friday,426.714
+23:40,7,بيريرا,12.593
+23:40,8,Coachella,325.040
+23:40,9,سلمان,68.057
+23:40,10,Passover,94.933

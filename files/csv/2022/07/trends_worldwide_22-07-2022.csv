@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Paige,28.015
+00:10,2,الزمالك,68.482
+00:10,3,SVGala14,11.261
+00:10,4,ONEPIECE1054,24.911
+00:10,5,GERAUT,
+00:10,6,allison,14.076
+00:10,7,CAFAwards2022,47.113
+00:10,8,teen wolf,16.951
+00:10,9,stiles,
+00:10,10,Nathalia,11.533
+00:40,1,SVGala14,15.546
+00:40,2,Paige,28.640
+00:40,3,allison,16.582
+00:40,4,teen wolf,22.370
+00:40,5,الزمالك,73.603
+00:40,6,stiles,
+00:40,7,ONEPIECE1054,26.717
+00:40,8,GERAUT,
+00:40,9,CAFAwards2022,49.774
+00:40,10,HAIM,25.754
+01:10,1,SVGala14,19.299
+01:10,2,allison,18.219
+01:10,3,teen wolf,26.697
+01:10,4,stiles,
+01:10,5,Paige,28.701
+01:10,6,الزمالك,77.137
+01:10,7,ONEPIECE1054,28.318
+01:10,8,Fábio Gomes,
+01:10,9,HAIM,29.261
+01:10,10,CAFAwards2022,51.706
+01:40,1,teen wolf,30.510
+01:40,2,allison,19.766
+01:40,3,SVGala14,23.042
+01:40,4,stiles,
+01:40,5,Fábio Gomes,
+01:40,6,الزمالك,82.048
+01:40,7,Paige,29.045
+01:40,8,ONEPIECE1054,30.120
+01:40,9,ALISSON,
+01:40,10,HAIM,31.985
+02:10,1,DecretosReais,38.923
+02:10,2,ForaTurco,
+02:10,3,Cuiabá,11.600
+02:10,4,teen wolf,33.513
+02:10,5,allison,20.712
+02:10,6,stiles,
+02:10,7,SVGala14,24.560
+02:10,8,Fábio Gomes,
+02:10,9,January6thHearing,
+02:10,10,ONEPIECE1054,31.658
+02:40,1,DecretosReais,62.226
+02:40,2,ForaTurco,13.019
+02:40,3,Scarpa,
+02:40,4,Marília,59.335
+02:40,5,January6thHearing,
+02:40,6,Cuiabá,12.766
+02:40,7,teen wolf,36.381
+02:40,8,allison,22.005
+02:40,9,stiles,
+02:40,10,Jan6thHearings,
+03:10,1,DecretosReais,79.052
+03:10,2,Pantanal,25.477
+03:10,3,Marília,75.236
+03:10,4,Scarpa,11.400
+03:10,5,ForaTurco,16.124
+03:10,6,January6thHearing,11.666
+03:10,7,Alcides,
+03:10,8,teen wolf,39.209
+03:10,9,Jan6thHearings,
+03:10,10,stiles,10.565
+03:40,1,Josh Hawley,51.191
+03:40,2,DecretosReais,88.009
+03:40,3,Pantanal,34.416
+03:40,4,Marília,87.480
+03:40,5,January6thCommitteeHearing,11.540
+03:40,6,Scarpa,13.426
+03:40,7,ForaTurco,17.684
+03:40,8,Alcides,
+03:40,9,Capitol,190.988
+03:40,10,teen wolf,42.063
+04:10,1,Josh Hawley,74.915
+04:10,2,DecretosReais,94.816
+04:10,3,January6thHearing,25.687
+04:10,4,Marília,94.338
+04:10,5,Pantanal,36.178
+04:10,6,Capitol,209.407
+04:10,7,Scarpa,14.236
+04:10,8,ForaTurco,18.450
+04:10,9,teen wolf,44.690
+04:10,10,Alcides,
+04:40,1,Josh Hawley,96.391
+04:40,2,Jan6thHearings,23.522
+04:40,3,Jan6thHearings,23.522
+04:40,4,DecretosReais,98.578
+04:40,5,Marília,100.586
+04:40,6,Pantanal,37.373
+04:40,7,Capitol,230.723
+04:40,8,DesafioNaIlha,
+04:40,9,Scarpa,14.848
+04:40,10,CNCO,68.159
+05:10,1,Josh Hawley,114.613
+05:10,2,Jan6thHearings,28.417
+05:10,3,Jan6thHearings,28.417
+05:10,4,DecretosReais,101.101
+05:10,5,Marília,105.345
+05:10,6,DesafioNaIlha,10.693
+05:10,7,Noah Lyles,
+05:10,8,Capitol,243.323
+05:10,9,Shericka,10.261
+05:10,10,Liz Cheney,66.312
+05:40,1,Josh Hawley,134.976
+05:40,2,Jan6thHearings,31.955
+05:40,3,Jan6thHearings,31.955
+05:40,4,Marília,112.204
+05:40,5,DecretosReais,102.256
+05:40,6,Noah Lyles,
+05:40,7,Capitol,258.808
+05:40,8,DesafioNaIlha,11.286
+05:40,9,Liz Cheney,74.129
+05:40,10,Shericka,13.556
+06:10,1,Josh Hawley,148.061
+06:10,2,Jan6thHearings,33.682
+06:10,3,January6thHearing,48.553
+06:10,4,100Indecisos,
+06:10,5,Marília,115.946
+06:10,6,DecretosReais,103.077
+06:10,7,Capitol,266.704
+06:10,8,Noah Lyles,
+06:10,9,DesafioNaIlha,11.463
+06:10,10,Liz Cheney,78.826
+06:40,1,Josh Hawley,157.637
+06:40,2,100Indecisos,14.855
+06:40,3,Jan6thHearings,34.935
+06:40,4,January6thHearing,50.895
+06:40,5,Marília,118.651
+06:40,6,Capitol,275.123
+06:40,7,Noah Lyles,
+06:40,8,DecretosReais,103.725
+06:40,9,Liz Cheney,82.837
+06:40,10,CNCO,82.604
+07:10,1,100Indecisos,23.746
+07:10,2,Josh Hawley,164.834
+07:10,3,Jan6thHearings,35.700
+07:10,4,UcuzFiyatda TTVerilir,
+07:10,5,January6thHearing,52.814
+07:10,6,Marília,120.138
+07:10,7,Capitol,280.129
+07:10,8,Noah Lyles,10.074
+07:10,9,DesafioNaIlha,11.566
+07:10,10,Liz Cheney,85.612
+07:40,1,100Indecisos,27.354
+07:40,2,Josh Hawley,170.715
+07:40,3,Mookie,
+07:40,4,ucuzfiyatda ttverilir,
+07:40,5,Jan6thHearings,36.492
+07:40,6,January6thHearing,54.273
+07:40,7,Giants,43.998
+07:40,8,ShamsheraBlockbusterLoading,
+07:40,9,tiago,19.118
+07:40,10,Capitol,285.865
+08:10,1,Mookie,12.613
+08:10,2,100Indecisos,29.639
+08:10,3,Josh Hawley,175.332
+08:10,4,ucuzfiyatda ttverilir,
+08:10,5,Dodgers,34.288
+08:10,6,Giants,44.532
+08:10,7,January6thHearing,55.502
+08:10,8,CBSE,
+08:10,9,Jan6thHearings,37.336
+08:10,10,Youngjae,58.938
+08:40,1,Mookie,13.817
+08:40,2,100Indecisos,31.008
+08:40,3,Josh Hawley,178.791
+08:40,4,ucuzfiyatda ttverilir,
+08:40,5,Dodgers,36.239
+08:40,6,CBSE,
+08:40,7,100MonsterDaysOfKGF2,
+08:40,8,fridaymorning,
+08:40,9,january6thhearing,56.560
+08:40,10,Giants,45.233
+09:10,1,Mookie,14.371
+09:10,2,100Indecisos,31.790
+09:10,3,Josh Hawley,181.715
+09:10,4,HayırlıCumalar,
+09:10,5,fridaymorning,
+09:10,6,CBSE,
+09:10,7,数百万人,
+09:10,8,損害賠償,
+09:10,9,LivinSukha,
+09:10,10,学校の怪談,
+09:40,1,Mookie,14.701
+09:40,2,YSLBEAUTYTHxBAMBAM,46.040
+09:40,3,HayırlıCumalar,10.765
+09:40,4,fridaymorning,10.130
+09:40,5,100Indecisos,32.397
+09:40,6,ケンティー,
+09:40,7,数百万人,
+09:40,8,ハメドリくんをハメ撮りくん,
+09:40,9,Josh Hawley,184.052
+09:40,10,損害賠償,
+10:10,1,YSLBEAUTYTHxBAMBAM,77.770
+10:10,2,Mookie,14.938
+10:10,3,ケンティー,
+10:10,4,ShamsheraBlockbusterLoading,
+10:10,5,HayırlıCumalar,12.119
+10:10,6,EVEANDBOYXอิงฟ้าชาล็อต,101.850
+10:10,7,fridaymorning,10.769
+10:10,8,数百万人,
+10:10,9,損害賠償,
+10:10,10,Cem Küçük,
+10:40,1,YSLBEAUTYTHxBAMBAM,111.215
+10:40,2,ケンティー,
+10:40,3,EVEANDBOYXอิงฟ้าชาล็อต,181.716
+10:40,4,レオス3D,
+10:40,5,HayırlıCumalar,13.535
+10:40,6,Dover,10.038
+10:40,7,ÇivisiÇıktıÜlkenin,
+10:40,8,ハメドリくんをハメ撮りくん,
+10:40,9,Mookie,15.163
+10:40,10,数百万人,10.981
+11:10,1,レオス3D,
+11:10,2,YSLBEAUTYTHxBAMBAM,139.365
+11:10,3,ケンティー,
+11:10,4,Dover,12.798
+11:10,5,EVEANDBOYXอิงฟ้าชาล็อต,234.211
+11:10,6,ÇivisiÇıktıÜlkenin,
+11:10,7,Hayırlı Cumalar,33.032
+11:10,8,RencanaWeekendBesok,
+11:10,9,DearXDoyoungOST,16.292
+11:10,10,Sabtu Minggu Healing,
+11:40,1,レオス3D,
+11:40,2,SNEAKERS_1stWin,14.399
+11:40,3,ITZY43rdWin,13.365
+11:40,4,新刀剣男士,22.058
+11:40,5,Dover,15.952
+11:40,6,Atiku,62.569
+11:40,7,ITZY SNEAKERS 1ST WIN,11.594
+11:40,8,ケンティー,
+11:40,9,YSLBEAUTYTHxBAMBAM,162.558
+11:40,10,EVEANDBOYXอิงฟ้าชาล็อต,273.919
+12:10,1,SNEAKERS_1stWin,24.432
+12:10,2,レオス3D,
+12:10,3,新刀剣男士,29.748
+12:10,4,ITZY43rdWin,22.269
+12:10,5,ま行に殺すをつけると色々とやばい,
+12:10,6,Dover,18.931
+12:10,7,Atiku,69.229
+12:10,8,ONEPIECEDAY,19.324
+12:10,9,ケンティー,
+12:10,10,アニポケ,
+12:40,1,ま行に殺すをつけると色々とやばい,
+12:40,2,SNEAKERS_1stWin,29.018
+12:40,3,アニポケ,16.601
+12:40,4,新刀剣男士,36.492
+12:40,5,レオス3D,
+12:40,6,Atiku,77.673
+12:40,7,Dover,22.062
+12:40,8,MayixOffGun,30.668
+12:40,9,ITZY43rdWin,26.172
+12:40,10,FRIENDCATION WITH V TODAY,41.792
+13:10,1,プロセカ生放送,
+13:10,2,ま行に殺すをつけると色々とやばい,
+13:10,3,夏色ReSTART,
+13:10,4,SNEAKERS_1stWin,31.819
+13:10,5,新刀剣男士,42.005
+13:10,6,Atiku,84.885
+13:10,7,アニポケ,20.315
+13:10,8,Dover,24.927
+13:10,9,レオス3D,
+13:10,10,ITZY SNEAKERS 1ST WIN,25.075
+13:40,1,SooraraiPottru,83.605
+13:40,2,プロセカ生放送,49.709
+13:40,3,夏色ReSTART,26.897
+13:40,4,NationalFilmAwards,35.945
+13:40,5,オオカミ少年,14.804
+13:40,6,APEX鯖落ち,
+13:40,7,新刀剣男士,46.859
+13:40,8,Atiku,93.433
+13:40,9,Dover,28.125
+13:40,10,レオス3D,
+14:10,1,SooraraiPottru,118.758
+14:10,2,NationalFilmAwards,54.580
+14:10,3,夏色ReSTART,39.983
+14:10,4,プロセカ生放送,97.621
+14:10,5,オオカミ少年,17.149
+14:10,6,Atiku,99.098
+14:10,7,新刀剣男士,50.754
+14:10,8,APEX鯖落ち,
+14:10,9,Dover,31.038
+14:10,10,Best Actor,77.180
+14:40,1,金スマ,20.036
+14:40,2,SooraraiPottru,148.541
+14:40,3,Mステ,23.348
+14:40,4,グウェル3D,39.558
+14:40,5,NationalFilmAwards,69.513
+14:40,6,ジュラシックワールド,
+14:40,7,Dover,34.519
+14:40,8,正門くん,
+14:40,9,Atiku,105.782
+14:40,10,新刀剣男士,54.027
+15:10,1,Mステ,37.077
+15:10,2,グウェル3D,62.108
+15:10,3,金スマ,23.668
+15:10,4,SooraraiPottru,173.133
+15:10,5,NationalFilmAwards,80.947
+15:10,6,正門くん,
+15:10,7,ジュラシックワールド,10.591
+15:10,8,れおほー,
+15:10,9,こいほー,
+15:10,10,TWICEちゃん,
+15:40,1,Mステ,47.175
+15:40,2,グウェル3D,75.093
+15:40,3,SooraraiPottru,197.673
+15:40,4,金スマ,24.673
+15:40,5,NationalFilmAwards,92.062
+15:40,6,正門くん,
+15:40,7,ジュラシックワールド,13.815
+15:40,8,れおほー,
+15:40,9,SA True Story,187.549
+15:40,10,こいほー,
+16:10,1,Mステ,51.434
+16:10,2,石子と羽男,30.209
+16:10,3,SooraraiPottru,216.468
+16:10,4,グウェル3D,77.560
+16:10,5,ラブライブANN,28.774
+16:10,6,ジュラシックワールド,16.873
+16:10,7,正門くん,
+16:10,8,SA True Story,260.240
+16:10,9,れおほー,
+16:10,10,Dover,43.243
+16:40,1,OurLeoJaehyukDay,90.429
+16:40,2,NICEFLIGHT,96.239
+16:40,3,ジェヒョクは世界を照らす夏の太陽,89.736
+16:40,4,재혁이의_그해_여름은,94.703
+16:40,5,YOONDERFUL JAEHYUK DAY,89.026
+16:40,6,CMPunjabElection,112.802
+16:40,7,正門くん,10.162
+16:40,8,SA True Story,300.183
+16:40,9,QUEEN HWASA DAY,
+16:40,10,れおほー,
+17:10,1,OurLeoJaehyukDay,148.732
+17:10,2,ジェヒョクは世界を照らす夏の太陽,147.843
+17:10,3,재혁이의_그해_여름은,157.592
+17:10,4,NICEFLIGHT,114.725
+17:10,5,CMPunjabElection,120.852
+17:10,6,QUEEN HWASA DAY,
+17:10,7,正門くん,10.608
+17:10,8,SA True Story,336.641
+17:10,9,DVSN,12.827
+17:10,10,夏目くん,10.380
+17:40,1,OurLeoJaehyukDay,183.727
+17:40,2,ジェヒョクは世界を照らす夏の太陽,179.735
+17:40,3,재혁이의_그해_여름은,193.105
+17:40,4,NICEFLIGHT,137.453
+17:40,5,OurLightHwasa,20.040
+17:40,6,QUEEN HWASA DAY,13.108
+17:40,7,第183回,
+17:40,8,ジュラシックワールド,24.030
+17:40,9,夏目くん,13.326
+17:40,10,SA True Story,379.937
+18:10,1,OurLeoJaehyukDay,198.823
+18:10,2,ジェヒョクは世界を照らす夏の太陽,193.766
+18:10,3,재혁이의_그해_여름은,207.634
+18:10,4,NICEFLIGHT,145.414
+18:10,5,CMPunjabElection,137.664
+18:10,6,第183回,
+18:10,7,Kimberly García,
+18:10,8,ジュラシックワールド,24.404
+18:10,9,DVSN,14.855
+18:10,10,夏目くん,14.201
+18:40,1,CMPunjabElection,163.448
+18:40,2,OurLeoJaehyukDay,205.100
+18:40,3,ジェヒョクは世界を照らす夏の太陽,199.525
+18:40,4,재혁이의_그해_여름은,213.527
+18:40,5,NICEFLIGHT,148.591
+18:40,6,Kimberly García,
+18:40,7,第183回,
+18:40,8,RIP Maria,
+18:40,9,DVSN,15.673
+18:40,10,ERDOĞAN YAPTI,
+19:10,1,CMPunjabElection,186.208
+19:10,2,OurLeoJaehyukDay,209.025
+19:10,3,ジェヒョクは世界を照らす夏の太陽,203.019
+19:10,4,재혁이의_그해_여름은,216.989
+19:10,5,SupremeCourtofpakistan,23.464
+19:10,6,Kimberly García,
+19:10,7,第183回,
+19:10,8,RIP Maria,
+19:10,9,DVSN,16.444
+19:10,10,Iván Velásquez,19.011
+19:40,1,CMPunjabElection,201.459
+19:40,2,SupremeCourtofpakistan,42.242
+19:40,3,OurLeoJaehyukDay,212.003
+19:40,4,ジェヒョクは世界を照らす夏の太陽,205.601
+19:40,5,재혁이의_그해_여름은,219.714
+19:40,6,YOONDERFUL JAEHYUK DAY,196.968
+19:40,7,Kimberly García,10.535
+19:40,8,RIP Maria,
+19:40,9,第183回,
+19:40,10,Stafford,
+20:10,1,CMPunjabElection,213.944
+20:10,2,SupremeCourtofpakistan,62.873
+20:10,3,OurLeoJaehyukDay,213.742
+20:10,4,ジェヒョクは世界を照らす夏の太陽,207.062
+20:10,5,12yearsofonedirection,60.678
+20:10,6,YOONDERFUL JAEHYUK DAY,198.031
+20:10,7,Kimberly García,11.856
+20:10,8,RIP Maria,
+20:10,9,Iván Velásquez,35.077
+20:10,10,Stafford,
+20:40,1,SupremeCourtofpakistan,82.324
+20:40,2,BLACKPINKxPUBGM,111.811
+20:40,3,CMPunjabElection,224.292
+20:40,4,ReadyForLove,26.387
+20:40,5,READY FOR BLACKPINK,68.898
+20:40,6,samsummerfridays,
+20:40,7,YOONDERFUL JAEHYUK DAY,198.850
+20:40,8,WE LOVE YOU NAMJOON,20.327
+20:40,9,Iván Velásquez,42.774
+20:40,10,Kimberly García,13.073
+21:10,1,BLACKPINKxPUBGM,126.452
+21:10,2,SupremeCourtofpakistan,98.224
+21:10,3,ReadyForLove,36.813
+21:10,4,CMPunjabElection,229.218
+21:10,5,READY FOR BLACKPINK,83.897
+21:10,6,Bannon,117.174
+21:10,7,samsummerfridays,
+21:10,8,WE LOVE YOU NAMJOON,33.843
+21:10,9,RIP Maria,
+21:10,10,YOONDERFUL JAEHYUK DAY,199.523
+21:40,1,Bannon,156.251
+21:40,2,SupremeCourtofpakistan,112.469
+21:40,3,BLACKPINKxPUBGM,134.964
+21:40,4,ReadyForLove,42.442
+21:40,5,WE LOVE YOU NAMJOON,50.262
+21:40,6,samsummerfridays,
+21:40,7,IAmGroot,13.433
+21:40,8,READY FOR BLACKPINK,91.697
+21:40,9,Sauron,
+21:40,10,RIP Maria,
+22:10,1,Bannon,178.689
+22:10,2,SupremeCourtofpakistan,122.415
+22:10,3,BLACKPINKxPUBGM,138.154
+22:10,4,WE LOVE YOU NAMJOON,63.069
+22:10,5,ReadyForLove,45.196
+22:10,6,samsummerfridays,
+22:10,7,freecodefridaycontest,
+22:10,8,READY FOR BLACKPINK,95.917
+22:10,9,Sauron,
+22:10,10,Captain Carter,
+22:40,1,Vince McMahon,13.880
+22:40,2,Nathalia,25.516
+22:40,3,Bannon,197.930
+22:40,4,WE LOVE YOU NAMJOON,74.639
+22:40,5,SupremeCourtofpakistan,131.359
+22:40,6,BLACKPINKxPUBGM,140.968
+22:40,7,freecodefridaycontest,
+22:40,8,آج_سازش_نہیں_چلے_گی,342.047
+22:40,9,XMen97,15.193
+22:40,10,Sauron,
+23:10,1,Vince,55.909
+23:10,2,Nathalia,25.031
+23:10,3,Bannon,213.720
+23:10,4,Ekin,36.557
+23:10,5,WE LOVE YOU NAMJOON,82.320
+23:10,6,YaramazKadın Ebru,
+23:10,7,SWEBEL,
+23:10,8,SupremeCourtofpakistan,137.524
+23:10,9,LaVozKidsFinal,
+23:10,10,freecodefridaycontest,
+23:40,1,Vince,71.936
+23:40,2,Nathalia,26.926
+23:40,3,Bannon,231.787
+23:40,4,Ekin,39.989
+23:40,5,Brock,16.859
+23:40,6,Reece,19.238
+23:40,7,LaVozKidsFinal,
+23:40,8,WE LOVE YOU NAMJOON,88.313
+23:40,9,YaramazKadın Ebru,
+23:40,10,Smackdown,11.418

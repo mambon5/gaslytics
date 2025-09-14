@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Messi,3.396.047
+00:10,2,Argentina,2.493.480
+00:10,3,Cowboys,89.890
+00:10,4,FIFAWorldCup,2.471.246
+00:10,5,FIFAWorldCup,2.471.246
+00:10,6,Mbappe,2.134.452
+00:10,7,Jags,30.410
+00:10,8,GOAT,917.981
+00:10,9,よなじゅんと白い恋人達,32.243
+00:10,10,Francia,979.262
+00:40,1,Messi,3.490.260
+00:40,2,Argentina,2.565.386
+00:40,3,Cowboys,92.864
+00:40,4,FIFAWorldCup,2.353.125
+00:40,5,Mbappe,1.695.730
+00:40,6,Jags,31.572
+00:40,7,Bucs,12.704
+00:40,8,Bengals,32.428
+00:40,9,Happy Hanukkah,55.090
+00:40,10,よなじゅんと白い恋人達,46.811
+01:10,1,Messi,3.175.586
+01:10,2,Argentina,2.597.824
+01:10,3,Cowboys,95.190
+01:10,4,FIFAWorldCup,2.463.527
+01:10,5,Bucs,15.876
+01:10,6,Bengals,37.411
+01:10,7,Happy Hanukkah,58.585
+01:10,8,Mbappe,2.132.796
+01:10,9,Jags,32.679
+01:10,10,Alberto,78.003
+01:40,1,Raiders,67.340
+01:40,2,Patriots,82.999
+01:40,3,Messi,3.542.338
+01:40,4,Argentina,2.748.517
+01:40,5,Cowboys,97.631
+01:40,6,Mac Jones,10.347
+01:40,7,RaiderNation,
+01:40,8,FIFAWorldCup,2.366.803
+01:40,9,Bengals,45.105
+01:40,10,Pats,16.164
+02:10,1,Raiders,83.223
+02:10,2,Patriots,94.176
+02:10,3,Messi,3.057.728
+02:10,4,Argentina,2.710.121
+02:10,5,Mac Jones,14.238
+02:10,6,Cowboys,99.603
+02:10,7,Pats,19.524
+02:10,8,FIFAWorldCup,2.406.506
+02:10,9,Chandler Jones,
+02:10,10,Bengals,51.527
+02:40,1,Raiders,90.551
+02:40,2,Patriots,100.327
+02:40,3,Messi,3.526.767
+02:40,4,Argentina,2.692.839
+02:40,5,Mac Jones,15.841
+02:40,6,Pats,20.777
+02:40,7,Cowboys,102.216
+02:40,8,Happy Hanukkah,69.782
+02:40,9,Alberto,87.279
+02:40,10,Chandler Jones,11.010
+03:10,1,Raiders,94.561
+03:10,2,Patriots,103.330
+03:10,3,Messi,3.326.283
+03:10,4,RHOP,11.680
+03:10,5,Mac Jones,16.738
+03:10,6,Happy Hanukkah,72.746
+03:10,7,Alberto,88.850
+03:10,8,Pats,21.537
+03:10,9,エースバーン,20.068
+03:10,10,RaiderNation,
+03:40,1,Raiders,97.897
+03:40,2,Patriots,106.512
+03:40,3,RHOP,12.698
+03:40,4,Mac Jones,17.510
+03:40,5,Happy Hanukkah,76.038
+03:40,6,エースバーン,24.616
+03:40,7,Alberto,92.069
+03:40,8,ArgentinaCampeonDelMundo,13.724
+03:40,9,Pats,22.230
+03:40,10,RaiderNation,10.133
+04:10,1,Raiders,100.372
+04:10,2,Patriots,108.426
+04:10,3,RHOP,13.507
+04:10,4,エースバーン,29.255
+04:10,5,ArgentinaCampeonDelMundo,15.181
+04:10,6,Happy Hanukkah,78.944
+04:10,7,Mac Jones,18.099
+04:10,8,Alberto,93.024
+04:10,9,MasterChefCelebritymx,
+04:10,10,MasterChefGranFinal,
+04:40,1,エースバーン,37.149
+04:40,2,Raiders,102.867
+04:40,3,Patriots,110.849
+04:40,4,RHOP,14.741
+04:40,5,ArgentinaCampeonDelMundo,16.506
+04:40,6,Jokic,
+04:40,7,MasterChefCelebritymx,
+04:40,8,Happy Hanukkah,81.744
+04:40,9,MasterChefGranFinal,
+04:40,10,Alberto,95.467
+05:10,1,エースバーン,42.628
+05:10,2,MasterChefGranFinal,
+05:10,3,RHOP,15.618
+05:10,4,Patriots,111.532
+05:10,5,Raiders,104.088
+05:10,6,ArgentinaCampeonDelMundo,17.694
+05:10,7,MasterChefCelebritymx,
+05:10,8,Jokic,12.988
+05:10,9,DODジャンボ,
+05:10,10,Happy Hanukkah,83.896
+05:40,1,Giants,77.220
+05:40,2,エースバーン,45.866
+05:40,3,MasterChefCelebritymx,
+05:40,4,MasterChefGranFinal,
+05:40,5,TogetherBlue,
+05:40,6,NYGvsWAS,
+05:40,7,RHOP,16.769
+05:40,8,ジョジョ9部,17.349
+05:40,9,Jokic,14.202
+05:40,10,Saquon,
+06:10,1,Giants,91.933
+06:10,2,MasterChefCelebritymx,10.592
+06:10,3,MasterChefGranFinal,10.894
+06:10,4,エースバーン,48.609
+06:10,5,TogetherBlue,
+06:10,6,NYGvsWAS,
+06:10,7,DODジャンボ,
+06:10,8,Commanders,41.169
+06:10,9,ジョジョ9部,19.426
+06:10,10,Jokic,14.974
+06:40,1,MasterChefCelebritymx,16.986
+06:40,2,Giants,97.912
+06:40,3,MasterChefGranFinal,17.697
+06:40,4,エースバーン,51.000
+06:40,5,DODジャンボ,
+06:40,6,TogetherBlue,
+06:40,7,ジョジョ9部,21.156
+06:40,8,ซีนุนิวxคุยแซ่บ,41.049
+06:40,9,Commanders,43.022
+06:40,10,Saquon,
+07:10,1,MasterChefCelebritymx,18.416
+07:10,2,Giants,100.089
+07:10,3,DODジャンボ,10.819
+07:10,4,エースバーン,52.986
+07:10,5,pazartesi,
+07:10,6,ซีนุนิวxคุยแซ่บ,67.938
+07:10,7,ジョジョ9部,22.755
+07:10,8,TogetherBlue,
+07:10,9,ネット文化クイズ,
+07:10,10,インターネットの申し子,
+07:40,1,MasterChefCelebritymx,18.866
+07:40,2,Giants,102.016
+07:40,3,MasterChefGranFinal,19.815
+07:40,4,DODジャンボ,11.996
+07:40,5,pazartesi,
+07:40,6,エースバーン,54.783
+07:40,7,realme10ProPlus5GonFlipkart,
+07:40,8,ネット文化クイズ,
+07:40,9,インターネットの申し子,
+07:40,10,平成生まれ,
+08:10,1,MasterChefCelebritymx,19.142
+08:10,2,Giants,102.675
+08:10,3,DODジャンボ,13.731
+08:10,4,pazartesi,
+08:10,5,MasterChefGranFinal,20.148
+08:10,6,ネット文化クイズ,
+08:10,7,インターネットの申し子,
+08:10,8,平成生まれ,
+08:10,9,エースバーン,56.370
+08:10,10,realme10ProPlus5GonFlipkart,
+08:40,1,MasterChefCelebritymx,19.352
+08:40,2,ネット文化クイズ,
+08:40,3,平成生まれ,
+08:40,4,インターネットの申し子,
+08:40,5,pazartesi,
+08:40,6,quackityspace,
+08:40,7,Giants,103.578
+08:40,8,MondayMotivation,64.303
+08:40,9,DODジャンボ,13.934
+08:40,10,エースバーン,57.784
+09:10,1,ElonMusk İstifaEdiyor,
+09:10,2,ネット文化クイズ,
+09:10,3,平成生まれ,
+09:10,4,インターネットの申し子,
+09:10,5,ジーユーちいかわ第2弾コラボ楽しみ,
+09:10,6,MasterChefCelebritymx,19.538
+09:10,7,pazartesi,
+09:10,8,MondayMotivation,67.025
+09:10,9,青汁王子,
+09:10,10,Giants,103.715
+09:40,1,ジーユーちいかわ第2弾コラボ楽しみ,
+09:40,2,ネット文化クイズ,
+09:40,3,平成生まれ,
+09:40,4,インターネットの申し子,
+09:40,5,CdiscountJoyeuxNoel,
+09:40,6,青汁王子,
+09:40,7,MondayMotivation,69.663
+09:40,8,ElonMusk İstifaEdiyor,
+09:40,9,pazartesi,
+09:40,10,エースバーン,60.638
+10:10,1,ジーユーちいかわ第2弾コラボ楽しみ,
+10:10,2,ネット文化クイズ,
+10:10,3,平成生まれ,
+10:10,4,インターネットの申し子,
+10:10,5,CdiscountJoyeuxNoel,
+10:10,6,青汁王子,10.099
+10:10,7,MondayMotivation,72.181
+10:10,8,DITTO_OUTNOW,12.795
+10:10,9,OH SAY IT DITTO,17.111
+10:10,10,ElonMusk İstifaEdiyor,
+10:40,1,NewJeans_Ditto,43.815
+10:40,2,ジーユーちいかわ第2弾コラボ楽しみ,
+10:40,3,DITTO_OUTNOW,24.871
+10:40,4,CdiscountJoyeuxNoel,10.248
+10:40,5,ネット文化クイズ,
+10:40,6,平成生まれ,
+10:40,7,インターネットの申し子,
+10:40,8,青汁王子,11.774
+10:40,9,光コヤン,
+10:40,10,OH SAY IT DITTO,25.188
+11:10,1,CDTVライブライブ,141.275
+11:10,2,NewJeans_Ditto,59.176
+11:10,3,ジーユーちいかわ第2弾コラボ楽しみ,
+11:10,4,ネット文化クイズ,
+11:10,5,DITTO_OUTNOW,33.474
+11:10,6,平成生まれ,
+11:10,7,インターネットの申し子,
+11:10,8,CdiscountJoyeuxNoel,12.342
+11:10,9,光コヤン,
+11:10,10,OH SAY IT DITTO,30.153
+11:40,1,CDTVライブライブ,191.073
+11:40,2,NewJeans_Ditto,72.692
+11:40,3,君とメリークリスマス,16.512
+11:40,4,ジーユーちいかわ第2弾コラボ楽しみ,
+11:40,5,ネット文化クイズ,
+11:40,6,平成生まれ,
+11:40,7,インターネットの申し子,
+11:40,8,CdiscountJoyeuxNoel,13.886
+11:40,9,光コヤン,
+11:40,10,ブラザービート,
+12:10,1,CDTVライブライブ,239.187
+12:10,2,SnowMan,97.632
+12:10,3,NewJeans_Ditto,82.831
+12:10,4,ジーユーちいかわ第2弾コラボ楽しみ,
+12:10,5,君とメリークリスマス,21.607
+12:10,6,ネット文化クイズ,
+12:10,7,平成生まれ,
+12:10,8,インターネットの申し子,
+12:10,9,光コヤン,
+12:10,10,オレンジkiss,22.127
+12:40,1,CDTVライブライブ,300.896
+12:40,2,SnowMan,115.762
+12:40,3,silentラストエピソード,
+12:40,4,NewJeans_Ditto,91.092
+12:40,5,KingandPrince,150.602
+12:40,6,オレンジkiss,34.061
+12:40,7,ネット文化クイズ,
+12:40,8,平成生まれ,
+12:40,9,インターネットの申し子,
+12:40,10,Fate or Destiny,
+13:10,1,CDTVライブライブ,358.033
+13:10,2,silentラストエピソード,13.992
+13:10,3,SnowMan,114.763
+13:10,4,なにわ男子,73.175
+13:10,5,SixTONES_GoodLuck,17.840
+13:10,6,ネット文化クイズ,
+13:10,7,平成生まれ,10.027
+13:10,8,インターネットの申し子,
+13:10,9,オレンジkiss,37.346
+13:10,10,HERMOSA MAÑANA VERDAD,15.933
+13:40,1,CDTVライブライブ,426.658
+13:40,2,silentラストエピソード,19.136
+13:40,3,KingandPrince,187.901
+13:40,4,ツキヨミ,32.147
+13:40,5,ウタちゃん,10.962
+13:40,6,SnowMan,119.989
+13:40,7,ネット文化クイズ,
+13:40,8,平成生まれ,10.765
+13:40,9,インターネットの申し子,
+13:40,10,麦わら帽子,
+14:10,1,CDTVライブライブ,504.252
+14:10,2,満開の想花,18.415
+14:10,3,silentラストエピソード,22.316
+14:10,4,KingandPrince,219.251
+14:10,5,ツキヨミ,55.411
+14:10,6,ウタちゃん,12.457
+14:10,7,Ateneo,17.586
+14:10,8,ネット文化クイズ,
+14:10,9,平成生まれ,11.381
+14:10,10,インターネットの申し子,
+14:40,1,CDTVライブライブ,626.764
+14:40,2,スパカリでJO1とハピメリ,53.948
+14:40,3,満開の想花,27.532
+14:40,4,silentラストエピソード,24.598
+14:40,5,KingandPrince,233.629
+14:40,6,Ateneo,23.603
+14:40,7,ウタちゃん,13.333
+14:40,8,ネット文化クイズ,
+14:40,9,平成生まれ,11.984
+14:40,10,インターネットの申し子,
+15:10,1,CDTVライブライブ,756.382
+15:10,2,スパカリでJO1とハピメリ,119.679
+15:10,3,エルピス,17.513
+15:10,4,silentラストエピソード,26.397
+15:10,5,満開の想花,31.508
+15:10,6,ストプリ,15.048
+15:10,7,村井さん,
+15:10,8,平成生まれ,12.474
+15:10,9,ネット文化クイズ,10.251
+15:10,10,インターネットの申し子,
+15:40,1,CDTVライブライブ,823.490
+15:40,2,スパカリでJO1とハピメリ,141.041
+15:40,3,エルピス,19.664
+15:40,4,silentラストエピソード,28.002
+15:40,5,ストプリ,20.414
+15:40,6,満開の想花,32.713
+15:40,7,村井さん,
+15:40,8,平成生まれ,12.935
+15:40,9,ネット文化クイズ,10.626
+15:40,10,インターネットの申し子,10.233
+16:10,1,CDTVライブライブ,851.186
+16:10,2,エルピス,20.875
+16:10,3,スパカリでJO1とハピメリ,148.581
+16:10,4,silentラストエピソード,29.201
+16:10,5,突然ですが占ってもいいですか,
+16:10,6,ストプリ,22.589
+16:10,7,İdil Solgun,
+16:10,8,村井さん,
+16:10,9,Rwanda,37.085
+16:10,10,平成生まれ,13.372
+16:40,1,CDTVライブライブ,859.516
+16:40,2,エルピス,21.625
+16:40,3,スパカリでJO1とハピメリ,151.431
+16:40,4,RBDISBACK,
+16:40,5,silentラストエピソード,30.099
+16:40,6,ストプリ,23.761
+16:40,7,Mutlu Çocuklar Uygulaması,
+16:40,8,Buğra Tolga,
+16:40,9,İdil Solgun,
+16:40,10,Rwanda,39.296
+17:10,1,CDTVライブライブ,869.157
+17:10,2,RBDISBACK,
+17:10,3,エルピス,22.300
+17:10,4,スパカリでJO1とハピメリ,152.936
+17:10,5,サンタさんこれが欲しいです,
+17:10,6,Mutlu Çocuklar Uygulaması,
+17:10,7,ストプリ,24.523
+17:10,8,Buğra Tolga,
+17:10,9,Rwanda,41.129
+17:10,10,İdil Solgun,
+17:40,1,CDTVライブライブ,875.672
+17:40,2,RBDISBACK,
+17:40,3,HÜDAPAR10Yaşında,14.886
+17:40,4,サンタさんこれが欲しいです,
+17:40,5,BLEACH_anime,16.815
+17:40,6,Mutlu Çocuklar Uygulaması,
+17:40,7,Rwanda,43.505
+17:40,8,Buğra Tolga,
+17:40,9,ストプリ,24.842
+17:40,10,第333回,
+18:10,1,CDTVライブライブ,879.242
+18:10,2,Twitter AgendaBroken,
+18:10,3,HÜDAPAR10Yaşında,21.958
+18:10,4,RBDISBACK,
+18:10,5,サンタさんこれが欲しいです,
+18:10,6,束の間の一花,40.038
+18:10,7,Rwanda,45.758
+18:10,8,ÇekeHapis CezasıKalksın,
+18:10,9,Mutlu Çocuklar Uygulaması,
+18:10,10,Buğra Tolga,
+18:40,1,HÜDAPAR10Yaşında,32.974
+18:40,2,Twitter AgendaBroken,
+18:40,3,CDTVライブライブ,884.622
+18:40,4,サンタさんこれが欲しいです,
+18:40,5,SendikaHakkımOylanamaz,
+18:40,6,RBD IS BACK,20.854
+18:40,7,束の間の一花,41.842
+18:40,8,Rwanda,48.809
+18:40,9,ÇekeHapis CezasıKalksın,
+18:40,10,Lira,56.466
+19:10,1,Çocuğa Zincirleme Taciz,
+19:10,2,HÜDAPAR10Yaşında,37.851
+19:10,3,RBDISBACK,
+19:10,4,Twitter AgendaBroken,
+19:10,5,サンタさんこれが欲しいです,
+19:10,6,SendikaHakkımOylanamaz,12.703
+19:10,7,Rwanda,51.145
+19:10,8,MaasAzDertCok,18.455
+19:10,9,Tom Cruise,33.409
+19:10,10,Lira,59.429
+19:40,1,Çocuğa Zincirleme Taciz,
+19:40,2,HÜDAPAR10Yaşında,39.479
+19:40,3,RBDISBACK,
+19:40,4,January6thCommittee,
+19:40,5,Twitter AgendaBroken,
+19:40,6,SendikaHakkımOylanamaz,16.843
+19:40,7,KHKlıHukuk İstiyor,
+19:40,8,Rwanda,53.801
+19:40,9,サンタさんこれが欲しいです,
+19:40,10,Tom Cruise,34.544
+20:10,1,January6thCommittee,
+20:10,2,KHKlıHukuk İstiyor,
+20:10,3,RBDISBACK,
+20:10,4,Çocuğa Zincirleme Taciz,
+20:10,5,HÜDAPAR10Yaşında,41.087
+20:10,6,Jan6Committee,
+20:10,7,Rwanda,55.656
+20:10,8,ŞartımızNet99Öncesi,516.537
+20:10,9,Pence,17.010
+20:10,10,Liz Cheney,14.482
+20:40,1,January6thCommittee,
+20:40,2,Jan6Committee,
+20:40,3,RBDISBACK,
+20:40,4,KHKlıHukuk İstiyor,
+20:40,5,ErdoğanıYıkamayacaksınız,19.141
+20:40,6,Pence,19.591
+20:40,7,ŞartımızNet99Öncesi,554.941
+20:40,8,Liz Cheney,19.976
+20:40,9,Raskin,12.874
+20:40,10,Rwanda,58.175
+21:10,1,January6thCommittee,11.487
+21:10,2,Jan6Committee,
+21:10,3,Polat Bora Mersin,
+21:10,4,ErdoğanıYıkamayacaksınız,21.905
+21:10,5,Pence,21.542
+21:10,6,Liz Cheney,25.808
+21:10,7,Esland,
+21:10,8,RBDISBACK,
+21:10,9,ŞartımızNet99Öncesi,592.874
+21:10,10,KHKlıHukuk İstiyor,
+21:40,1,January6thCommittee,13.847
+21:40,2,GiftRTX,17.039
+21:40,3,Polat Bora Mersin,
+21:40,4,دعوه_لنا,
+21:40,5,SUJUenlaArenaCDMX,
+21:40,6,Pence,23.937
+21:40,7,Esland,
+21:40,8,ErdoğanıYıkamayacaksınız,24.171
+21:40,9,Liz Cheney,31.347
+21:40,10,KHKlıHukuk İstiyor,
+22:10,1,January6thCommittee,15.484
+22:10,2,GiftRTX,18.276
+22:10,3,SUJUenlaArenaCDMX,10.213
+22:10,4,دعوه_لنا,
+22:10,5,Sporting,26.382
+22:10,6,Pence,26.034
+22:10,7,Concorde,
+22:10,8,Esland,
+22:10,9,Polat Bora Mersin,
+22:10,10,Liz Cheney,35.644
+22:40,1,GiftRTX,20.913
+22:40,2,January6thCommittee,16.887
+22:40,3,SUJUenlaArenaCDMX,13.789
+22:40,4,Sporting,27.997
+22:40,5,دعوه_لنا,
+22:40,6,Pence,28.005
+22:40,7,FiK61,
+22:40,8,Esland,10.681
+22:40,9,Liz Cheney,39.686
+22:40,10,Braga,
+23:10,1,GiftRTX,23.107
+23:10,2,SUJUenlaArenaCDMX,18.404
+23:10,3,Minshew,
+23:10,4,Feriado Nacional,30.214
+23:10,5,January6thCommittee,18.261
+23:10,6,El Constitucional,95.274
+23:10,7,gntmgr,
+23:10,8,Pence,29.711
+23:10,9,Esland,11.636
+23:10,10,Sporting,27.172
+23:40,1,GiftRTX,25.349
+23:40,2,SUJUenlaArenaCDMX,25.311
+23:40,3,Minshew,
+23:40,4,Feriado Nacional,36.569
+23:40,5,El Constitucional,109.785
+23:40,6,January6thCommittee,19.438
+23:40,7,Hurts,87.241
+23:40,8,ゆっくり寝ろこより,
+23:40,9,Pence,31.693
+23:40,10,すきすきワンワン,35.991

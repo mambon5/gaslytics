@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,LaIslaDeLasTentaciones8,181.113
+00:09,2,Lola,154.182
+00:09,3,LIVCHE,141.699
+00:09,4,Sanremo2021,514.008
+00:09,5,Liverpool,217.106
+00:09,6,SalarioRosa,58.141
+00:09,7,Klopp,47.992
+00:09,8,Chelsea,214.832
+00:09,9,Mason Mount,50.639
+00:09,10,Manuel,96.771
+00:39,1,LaIslaDeLasTentaciones8,238.105
+00:39,2,Lola,165.727
+00:39,3,LIVCHE,145.896
+00:39,4,Sanremo2021,555.501
+00:39,5,Liverpool,226.793
+00:39,6,Manuel,111.382
+00:39,7,Sandra,46.618
+00:39,8,SalarioRosa,60.345
+00:39,9,Klopp,51.068
+00:39,10,Chelsea,223.635
+01:09,1,LaIslaDeLasTentaciones8,271.422
+01:09,2,Lola,176.253
+01:09,3,Sanremo2021,550.192
+01:09,4,LIVCHE,148.425
+01:09,5,Liverpool,231.569
+01:09,6,Manuel,115.260
+01:09,7,Sandra,49.846
+01:09,8,SalarioRosa,62.142
+01:09,9,Klopp,52.496
+01:09,10,Chelsea,227.345
+01:39,1,LaIslaDeLasTentaciones8,281.022
+01:39,2,Lola,183.915
+01:39,3,Sanremo2021,571.316
+01:39,4,LIVCHE,150.420
+01:39,5,Liverpool,236.333
+01:39,6,Manuel,117.974
+01:39,7,Sandra,51.374
+01:39,8,SalarioRosa,63.872
+01:39,9,Klopp,53.773
+01:39,10,Booba,200.055
+02:09,1,LaIslaDeLasTentaciones8,283.986
+02:09,2,Lola,188.898
+02:09,3,Sanremo2021,596.175
+02:09,4,あさイチ,11.021
+02:09,5,LIVCHE,151.524
+02:09,6,Manuel,115.512
+02:09,7,Liverpool,238.711
+02:09,8,SalarioRosa,65.321
+02:09,9,Sandra,51.362
+02:09,10,Booba,207.600
+02:39,1,LaIslaDeLasTentaciones8,285.467
+02:39,2,Rubinho,15.003
+02:39,3,Lola,194.418
+02:39,4,AForcaDoQuerer,12.992
+02:39,5,Sanremo2021,604.762
+02:39,6,Bibi,44.227
+02:39,7,あさイチ,11.883
+02:39,8,Team LeBron,13.775
+02:39,9,SalarioRosa,66.881
+02:39,10,Manuel,116.868
+03:09,1,Rubinho,20.435
+03:09,2,Lebron,92.858
+03:09,3,LaIslaDeLasTentaciones8,286.164
+03:09,4,AForcaDoQuerer,17.507
+03:09,5,Bibi,49.089
+03:09,6,Lola,198.431
+03:09,7,あさイチ,12.230
+03:09,8,River,163.264
+03:09,9,HoldOnTonight,17.263
+03:09,10,Sanremo2021,605.993
+03:39,1,Rodolfo,69.520
+03:39,2,Lebron,99.173
+03:39,3,Rubinho,22.441
+03:39,4,ProvaDoLider,
+03:39,5,LaIslaDeLasTentaciones8,286.698
+03:39,6,AForcaDoQuerer,19.463
+03:39,7,HoldOnTonight,22.524
+03:39,8,Bibi,51.737
+03:39,9,River,169.936
+03:39,10,francis,42.068
+04:09,1,Rodolfo,101.299
+04:09,2,River,203.378
+04:09,3,João,151.665
+04:09,4,Racing,83.225
+04:09,5,ProvaDoLider,11.833
+04:09,6,Pizzi,
+04:09,7,Lebron,102.362
+04:09,8,Enzo Pérez,
+04:09,9,Rubinho,24.314
+04:09,10,Viih,55.103
+04:39,1,Rodolfo,108.646
+04:39,2,River,242.481
+04:39,3,João,161.100
+04:39,4,Racing,95.558
+04:39,5,Pizzi,12.852
+04:39,6,Enzo Pérez,16.671
+04:39,7,TREASURE_webdrama,127.092
+04:39,8,Lebron,106.296
+04:39,9,ProvaDoLider,12.653
+04:39,10,ITS OKAY ITS FRIENDSHIP,125.021
+05:09,1,Rodolfo,111.370
+05:09,2,River,253.530
+05:09,3,João,159.650
+05:09,4,Racing,99.981
+05:09,5,TREASURE_webdrama,149.106
+05:09,6,TalesFromTheSMP,16.015
+05:09,7,Enzo Pérez,19.653
+05:09,8,Pizzi,13.859
+05:09,9,ITS OKAY ITS FRIENDSHIP,140.068
+05:09,10,Lebron,108.331
+05:39,1,Rodolfo,114.218
+05:39,2,River,264.467
+05:39,3,João,162.274
+05:39,4,Racing,103.151
+05:39,5,TREASURE_webdrama,168.872
+05:39,6,TalesFromTheSMP,23.738
+05:39,7,HoldOn,36.964
+05:39,8,ITS OKAY ITS FRIENDSHIP,151.221
+05:39,9,Pizzi,14.431
+05:39,10,Enzo Pérez,20.978
+06:09,1,Rodolfo,114.541
+06:09,2,River,265.521
+06:09,3,Drake,314.030
+06:09,4,HoldOn,54.646
+06:09,5,TREASURE_webdrama,191.558
+06:09,6,Racing,104.029
+06:09,7,João,160.114
+06:09,8,TalesFromTheSMP,26.868
+06:09,9,ITS OKAY ITS FRIENDSHIP,159.148
+06:09,10,WandaVisionFinale,125.508
+06:39,1,Drake,380.302
+06:39,2,HoldOn,95.355
+06:39,3,Rodolfo,116.706
+06:39,4,River,271.161
+06:39,5,Lemon Pepper Freestyle,11.358
+06:39,6,TREASURE_webdrama,211.834
+06:39,7,SilkSonic,22.011
+06:39,8,Drizzy,
+06:39,9,Bruno Mars,37.277
+06:39,10,Racing,105.537
+07:09,1,Drake,407.967
+07:09,2,HoldOn,125.334
+07:09,3,Rodolfo,118.286
+07:09,4,Lemon Pepper Freestyle,17.872
+07:09,5,Bruno Mars,44.639
+07:09,6,Bruno Mars,44.639
+07:09,7,River,270.138
+07:09,8,SilkSonic,28.219
+07:09,9,TREASURE_webdrama,229.062
+07:09,10,Drizzy,
+07:39,1,Drake,431.966
+07:39,2,HoldOn,142.759
+07:39,3,Bruno Mars,51.606
+07:39,4,Bruno Mars,51.606
+07:39,5,Lemon Pepper Freestyle,21.324
+07:39,6,Rodolfo,119.533
+07:39,7,SilkSonic,31.498
+07:39,8,TREASURE_webdrama,243.876
+07:39,9,River,274.008
+07:39,10,WandaVisionFinale,138.173
+08:09,1,Drake,432.364
+08:09,2,HoldOn,151.477
+08:09,3,Bruno Mars,56.490
+08:09,4,Bruno Mars,56.490
+08:09,5,Lemon Pepper Freestyle,24.006
+08:09,6,WandaVisionFinale,143.989
+08:09,7,モルカーキャラ診断,
+08:09,8,SilkSonic,33.693
+08:09,9,TREASURE_webdrama,256.541
+08:09,10,Rodolfo,119.728
+08:39,1,Drake,457.764
+08:39,2,HoldOn,157.993
+08:39,3,WandaVisionFinale,151.771
+08:39,4,Bruno Mars,61.298
+08:39,5,モルカーキャラ診断,
+08:39,6,Lemon Pepper Freestyle,26.249
+08:39,7,Paak,27.888
+08:39,8,SilkSonic,35.237
+08:39,9,TREASURE_webdrama,266.985
+08:39,10,Lil Baby,40.640
+09:09,1,Drake,466.630
+09:09,2,WandaVisionFinale,166.792
+09:09,3,HoldOn,162.417
+09:09,4,モルカーキャラ診断,
+09:09,5,Bruno Mars,64.604
+09:09,6,Lemon Pepper Freestyle,28.001
+09:09,7,Paak,29.643
+09:09,8,haechan,184.393
+09:09,9,jaemin,306.626
+09:09,10,jeno,272.601
+09:39,1,Drake,478.779
+09:39,2,WandaVisionFinale,178.454
+09:39,3,モルカーキャラ診断,11.468
+09:39,4,HoldOn,166.087
+09:39,5,Bruno Mars,68.050
+09:39,6,ルナルナ,19.534
+09:39,7,Lemon Pepper Freestyle,29.364
+09:39,8,haechan,210.098
+09:39,9,jaemin,340.186
+09:39,10,jeno,304.552
+10:09,1,WandaVisionFinale,260.217
+10:09,2,Drake,485.164
+10:09,3,モルカーキャラ診断,13.399
+10:09,4,HoldOn,169.315
+10:09,5,ルナルナ,24.062
+10:09,6,Bruno Mars,70.343
+10:09,7,FreeSenegal,157.504
+10:09,8,HayırlıCumalar,22.679
+10:09,9,Lemon Pepper Freestyle,30.480
+10:09,10,haechan,216.395
+10:39,1,WandaVisionFinale,316.774
+10:39,2,Drake,495.012
+10:39,3,Dynamite32ndWin,27.952
+10:39,4,モルカーキャラ診断,14.846
+10:39,5,少クラ,
+10:39,6,GENE雨のち晴れreplyparty,10.125
+10:39,7,中間発表,
+10:39,8,ルナルナ,29.208
+10:39,9,Bruno Mars,73.597
+10:39,10,VRゴーグル,
+11:09,1,WandaVisionFinale,346.517
+11:09,2,Dynamite32ndWin,94.121
+11:09,3,Drake,501.094
+11:09,4,少クラ,15.725
+11:09,5,モルカーキャラ診断,16.446
+11:09,6,BigTrousers,
+11:09,7,中間発表,10.030
+11:09,8,ルナルナ,34.022
+11:09,9,Black Gold,14.321
+11:09,10,VRゴーグル,
+11:39,1,WandaVisionFinale,373.174
+11:39,2,Dynamite32ndWin,128.611
+11:39,3,少クラ,17.878
+11:39,4,Drake,509.791
+11:39,5,BigTrousers,
+11:39,6,モルカーキャラ診断,17.940
+11:39,7,中間発表,12.411
+11:39,8,ルナルナ,38.528
+11:39,9,Black Gold,16.017
+11:39,10,VRゴーグル,
+12:09,1,WandaVisionFinale,397.946
+12:09,2,INDvENG,66.420
+12:09,3,Dynamite32ndWin,151.000
+12:09,4,Rishabh Pant,19.661
+12:09,5,少クラ,19.185
+12:09,6,BigTrousers,
+12:09,7,Drake,514.119
+12:09,8,中間発表,14.349
+12:09,9,ルナルナ,42.997
+12:09,10,BuZulmü Alkışlamayın,
+12:39,1,WandaVisionFinale,422.623
+12:39,2,INDvENG,77.757
+12:39,3,Dynamite32ndWin,163.910
+12:39,4,BigTrousers,
+12:39,5,Rishabh Pant,25.951
+12:39,6,少クラ,20.240
+12:39,7,Drake,522.747
+12:39,8,ルナルナ,48.390
+12:39,9,中間発表,15.739
+12:39,10,min yoongi,32.050
+13:09,1,WandaVisionFinale,448.300
+13:09,2,INDvENG,85.804
+13:09,3,Mステ,33.039
+13:09,4,Dynamite32ndWin,174.849
+13:09,5,BigTrousers,
+13:09,6,Drake,562.561
+13:09,7,ルナルナ,52.908
+13:09,8,中間発表,16.717
+13:09,9,Min Yoongi,37.851
+13:09,10,グリム実装,
+13:39,1,WandaVisionFinale,474.693
+13:39,2,Mステ,45.042
+13:39,3,金スマ,12.389
+13:39,4,INDvENG,92.275
+13:39,5,テニチャ,14.596
+13:39,6,Drake,593.382
+13:39,7,ルナルナ,56.740
+13:39,8,ハン・ソロ,13.767
+13:39,9,中間発表,17.630
+13:39,10,カレンダー,139.167
+14:09,1,WandaVisionFinale,501.963
+14:09,2,Mステ,61.029
+14:09,3,金スマ,19.387
+14:09,4,KATTUN,37.256
+14:09,5,ForaSarah,
+14:09,6,Drake,608.328
+14:09,7,ハン・ソロ,16.313
+14:09,8,ルナルナ,59.828
+14:09,9,ソロMV,
+14:09,10,Marvel,194.800
+14:39,1,WandaVisionFinale,530.802
+14:39,2,Mステ,68.426
+14:39,3,ForaSarah,11.394
+14:39,4,俺の家の話,16.019
+14:39,5,金スマ,20.821
+14:39,6,Drake,626.920
+14:39,7,ハン・ソロ,18.490
+14:39,8,Tchau Sarah,
+14:39,9,ソロMV,11.619
+14:39,10,Marvel,202.740
+15:09,1,WandaVisionFinale,556.757
+15:09,2,俺の家の話,25.289
+15:09,3,ForaSarah,17.917
+15:09,4,Mステ,72.442
+15:09,5,นิทานพันดาวEP6,54.064
+15:09,6,Drake,614.945
+15:09,7,gigi,45.951
+15:09,8,Tchau Sarah,10.754
+15:09,9,Marvel,204.983
+15:09,10,音楽の日,18.146
+15:39,1,WandaVisionFinale,586.293
+15:39,2,ForaSarah,24.698
+15:39,3,俺の家の話,27.560
+15:39,4,นิทานพันดาวEP6,88.375
+15:39,5,Mステ,74.518
+15:39,6,펜트하우스,14.494
+15:39,7,Drake,632.586
+15:39,8,gigi,50.306
+15:39,9,Tchau Sarah,14.591
+15:39,10,Marvel,214.294
+16:09,1,WandaVisionFinale,608.417
+16:09,2,ForaSarah,31.716
+16:09,3,นิทานพันดาวEP6,114.573
+16:09,4,俺の家の話,28.622
+16:09,5,펜트하우스,19.840
+16:09,6,YUTA897,41.779
+16:09,7,Drake,593.195
+16:09,8,ハン・ソロ,25.519
+16:09,9,Marvel,215.721
+16:09,10,gigi,51.199
+16:39,1,Sarah,503.213
+16:39,2,WandaVisionFinale,637.481
+16:39,3,นิทานพันดาวEP6,130.693
+16:39,4,俺の家の話,29.277
+16:39,5,펜트하우스,22.610
+16:39,6,Drake,610.648
+16:39,7,YUTA897,46.513
+16:39,8,MDSD,28.267
+16:39,9,Marvel,224.543
+16:39,10,Bruno Mars,136.985
+17:09,1,Sarah,541.213
+17:09,2,WandaVisionFinale,654.092
+17:09,3,นิทานพันดาวEP6,139.142
+17:09,4,النصر_الاتفاق,16.477
+17:09,5,Drake,593.656
+17:09,6,CasinoBinTL BonusBetorder,
+17:09,7,俺の家の話,29.668
+17:09,8,RoadSafetyWorldSeries2021,
+17:09,9,펜트하우스,24.198
+17:09,10,Marvel,225.255
+17:39,1,Sarah,588.644
+17:39,2,WandaVisionFinale,679.755
+17:39,3,النصر_الاتفاق,22.711
+17:39,4,นิทานพันดาวEP6,147.976
+17:39,5,Drake,608.345
+17:39,6,okulöncesikontenjanınaneoldu,19.837
+17:39,7,RoadSafetyWorldSeries2021,
+17:39,8,casinobintl bonusbetorder,
+17:39,9,Marvel,235.379
+17:39,10,펜트하우스,25.512
+18:09,1,Sarah,621.818
+18:09,2,WandaVisionFinale,697.388
+18:09,3,النصر_الاتفاق,27.428
+18:09,4,ÖğretmenlerİçinArtıkYoksunuz,
+18:09,5,FormosaExplota,13.513
+18:09,6,นิทานพันดาวEP6,158.642
+18:09,7,Drake,602.252
+18:09,8,塩むすび,
+18:09,9,casinobintl bonusbetorder,
+18:09,10,八十八橋,
+18:39,1,Sarah,655.876
+18:39,2,WandaVisionFinale,720.076
+18:39,3,Formosa,47.276
+18:39,4,النصر_الاتفاق,32.819
+18:39,5,ÖğretmenlerİçinArtıkYoksunuz,
+18:39,6,ForaDoriaDitador,14.921
+18:39,7,FBJKninTATLIsıDEFOL,13.707
+18:39,8,Blake Griffin,13.881
+18:39,9,Drake,615.691
+18:39,10,八十八橋,
+19:09,1,Sarah,673.682
+19:09,2,WandaVision,445.126
+19:09,3,Formosa,64.456
+19:09,4,ÖğretmenlerİçinArtıkYoksunuz,
+19:09,5,ZiyaSelçuk Muafiyet2021,
+19:09,6,FBJKninTATLIsıDEFOL,20.080
+19:09,7,BeşiktaşSahadaSizMasada,26.131
+19:09,8,ForaDoriaDitador,21.703
+19:09,9,Blake Griffin,17.649
+19:09,10,Drake,614.819
+19:39,1,JEON JUNGKOOK,57.591
+19:39,2,Sarah,699.268
+19:39,3,Formosa,83.025
+19:39,4,WandaVision,462.193
+19:39,5,BeşiktaşSahadaSizMasada,34.759
+19:39,6,FBJKninTATLIsıDEFOL,24.604
+19:39,7,Blake Griffin,22.206
+19:39,8,ÖğretmenlerİçinArtıkYoksunuz,
+19:39,9,ForaDoriaDitador,27.014
+19:39,10,ZiyaSelçuk Muafiyet2021,
+20:09,1,JUNGKOOK,776.738
+20:09,2,Sarah,713.515
+20:09,3,Formosa,98.947
+20:09,4,الهلال_الرايد,42.611
+20:09,5,WandaVision,471.986
+20:09,6,BeşiktaşSahadaSizMasada,42.070
+20:09,7,FBJKninTATLIsıDEFOL,26.667
+20:09,8,البليهي,10.155
+20:09,9,الاتحاد_الوحده,20.627
+20:09,10,Blake Griffin,24.178
+20:39,1,JUNGKOOK,839.501
+20:39,2,الهلال_الرايد,63.400
+20:39,3,Sarah,734.327
+20:39,4,Formosa,115.024
+20:39,5,الاتحاد_الوحده,30.936
+20:39,6,BeşiktaşSahadaSizMasada,47.942
+20:39,7,روما,12.890
+20:39,8,WandaVision,485.373
+20:39,9,البليهي,13.338
+20:39,10,FBJKninTATLIsıDEFOL,28.054
+21:09,1,jungkook,867.025
+21:09,2,الهلال_الرايد,93.651
+21:09,3,Formosa,131.095
+21:09,4,Sarah,742.590
+21:09,5,الاتحاد_الوحده,39.601
+21:09,6,BeşiktaşSahadaSizMasada,51.896
+21:09,7,روما,15.283
+21:09,8,WandaVision,491.737
+21:09,9,ForaDoriaDitador,41.742
+21:09,10,البليهي,16.374
+21:39,1,jungkook,892.282
+21:39,2,الهلال_الرايد,106.944
+21:39,3,Formosa,145.658
+21:39,4,Sarah,761.036
+21:39,5,الاتحاد_الوحده,44.317
+21:39,6,WandaVision,504.581
+21:39,7,BeşiktaşSahadaSizMasada,54.521
+21:39,8,AlgıyıBırakGalatasaray,20.276
+21:39,9,روما,16.237
+21:39,10,سالم,36.248
+22:09,1,jungkook,899.182
+22:09,2,الهلال_الرايد,114.727
+22:09,3,Formosa,160.429
+22:09,4,NiceSenelere ÇağlaElifÖztok,
+22:09,5,Sarah,765.336
+22:09,6,KırmızıOda,
+22:09,7,الاخبار_الحلوه,
+22:09,8,TheVoiceKids,17.007
+22:09,9,AlgıyıBırakGalatasaray,23.730
+22:09,10,Sinema,83.526
+22:39,1,jungkook,917.000
+22:39,2,Formosa,175.198
+22:39,3,الهلال_الرايد,120.587
+22:39,4,tvoh,
+22:39,5,Sanremo2021,482.387
+22:39,6,الاخبار_الحلوه,11.967
+22:39,7,Sarah,782.395
+22:39,8,NiceSenelere ÇağlaElifÖztok,
+22:39,9,KırmızıOda,
+22:39,10,Sinema,95.116
+23:09,1,Sanremo2021,450.001
+23:09,2,jungkook,917.357
+23:09,3,Formosa,187.574
+23:09,4,الاخبار_الحلوه,15.618
+23:09,5,الهلال_الرايد,125.062
+23:09,6,tvoh,
+23:09,7,LesEnfoires,
+23:09,8,Sinema,105.117
+23:09,9,NiceSenelere ÇağlaElifÖztok,
+23:09,10,Sarah,778.221
+23:39,1,Sanremo2021,512.412
+23:39,2,Formosa,201.846
+23:39,3,jungkook,934.659
+23:39,4,الاخبار_الحلوه,18.498
+23:39,5,LesEnfoires,
+23:39,6,الاحد_القادم,12.977
+23:39,7,Sinema,116.779
+23:39,8,الهلال_الرايد,122.516
+23:39,9,NiceSenelere ÇağlaElifÖztok,
+23:39,10,Sarah,793.646

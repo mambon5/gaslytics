@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Danica,62.077
+00:10,2,Danica,62.077
+00:10,3,RonaldOM,24.808
+00:10,4,TierraDeNadie12,14.249
+00:10,5,CalmaKounde,11.863
+00:10,6,Tasha,53.610
+00:10,7,AskSabrinaEICS,19.023
+00:10,8,Nate,42.771
+00:10,9,MarrakechDuRire,
+00:10,10,Khamzat,12.007
+00:40,1,RonaldOM,33.112
+00:40,2,Danica,63.572
+00:40,3,TierraDeNadie12,17.276
+00:40,4,Dami,101.490
+00:40,5,CalmaKounde,14.013
+00:40,6,Nate,44.588
+00:40,7,Tasha,54.600
+00:40,8,AskSabrinaEICS,19.205
+00:40,9,MarrakechDuRire,
+00:40,10,Khamzat,12.807
+01:10,1,RonaldOM,38.843
+01:10,2,Danica,64.040
+01:10,3,TierraDeNadie12,19.637
+01:10,4,CalmaKounde,15.042
+01:10,5,Dami,100.107
+01:10,6,Nate,45.194
+01:10,7,AskSabrinaEICS,18.755
+01:10,8,Stray,374.110
+01:10,9,Tasha,53.859
+01:10,10,ローソンもちもちどらもっち,15.427
+01:40,1,RonaldOM,42.981
+01:40,2,Danica,65.125
+01:40,3,あさイチ,
+01:40,4,TierraDeNadie12,21.204
+01:40,5,CalmaKounde,15.554
+01:40,6,Diogo Barbosa,
+01:40,7,Nate,46.828
+01:40,8,Dami,101.213
+01:40,9,Stray,384.069
+01:40,10,KoundeIsBlue,10.973
+02:10,1,あさイチ,
+02:10,2,RonaldOM,45.061
+02:10,3,AllStarGame,36.556
+02:10,4,Danica,65.381
+02:10,5,Diogo Barbosa,
+02:10,6,TierraDeNadie12,22.374
+02:10,7,Brusque,
+02:10,8,Bahia,20.554
+02:10,9,Stray,387.059
+02:10,10,CalmaKounde,15.962
+02:40,1,AllStarGame,47.551
+02:40,2,あさイチ,10.645
+02:40,3,RonaldOM,46.483
+02:40,4,Tenório,
+02:40,5,Kessie,11.479
+02:40,6,MLBAllSTAR2022,
+02:40,7,Diogo Barbosa,
+02:40,8,Kershaw,
+02:40,9,Danica,65.806
+02:40,10,Murilo Benício,
+03:10,1,AllStarGame,55.961
+03:10,2,Kessie,17.041
+03:10,3,Ansu,18.990
+03:10,4,Alek Manoah,
+03:10,5,あさイチ,11.130
+03:10,6,Tenório,
+03:10,7,RonaldOM,47.202
+03:10,8,Ituano,
+03:10,9,WWENXT,10.312
+03:10,10,LoveIslandUSA,
+03:40,1,AllStarGame,64.647
+03:40,2,Stanton,
+03:40,3,Orsini,
+03:40,4,LoveIslandUSA,
+03:40,5,Ansu,20.610
+03:40,6,Alek Manoah,
+03:40,7,Kessie,18.051
+03:40,8,Ibarra,
+03:40,9,Juma,
+03:40,10,Ituano,
+04:10,1,AllStarGame,68.871
+04:10,2,MasterChefBR,
+04:10,3,LoveIslandUSA,
+04:10,4,Ibarra,
+04:10,5,WWENXT,17.025
+04:10,6,Orsini,
+04:10,7,Stanton,10.882
+04:10,8,Garam,50.096
+04:10,9,Zambrano,
+04:10,10,Ituano,
+04:40,1,AllStarGame,75.046
+04:40,2,MasterChefBR,
+04:40,3,Ibarra,10.776
+04:40,4,Zambrano,
+04:40,5,Ituano,
+04:40,6,LoveIslandUSA,10.487
+04:40,7,Garam,66.428
+04:40,8,Orsini,
+04:40,9,Raniel,
+04:40,10,WWENXT,18.421
+05:10,1,AllStarGame,79.649
+05:10,2,MasterChefBR,
+05:10,3,Ibarra,12.044
+05:10,4,HalloweenEnds,12.285
+05:10,5,Zambrano,
+05:10,6,Garam,79.917
+05:10,7,LoveIslandUSA,11.431
+05:10,8,Ituano,
+05:10,9,Orsini,
+05:10,10,Jose Trevino,
+05:40,1,AllStarGame,88.181
+05:40,2,MasterChefBR,
+05:40,3,HalloweenEnds,15.500
+05:40,4,Garam,92.096
+05:40,5,Alito,62.686
+05:40,6,Ibarra,12.866
+05:40,7,Zambrano,
+05:40,8,LoveIslandUSA,11.997
+05:40,9,わたしを作ったテレビドラマ5本,
+05:40,10,Stanton,15.217
+06:10,1,AllStarGame,95.017
+06:10,2,MasterChefBR,
+06:10,3,HalloweenEnds,17.667
+06:10,4,Alito,72.464
+06:10,5,Garam,101.679
+06:10,6,Stanton,19.964
+06:10,7,わたしを作ったテレビドラマ5本,
+06:10,8,Ibarra,13.203
+06:10,9,LoveIslandUSA,12.303
+06:10,10,デアリングタクト,
+06:40,1,AllStarGame,98.203
+06:40,2,MasterChefBR,
+06:40,3,HalloweenEnds,19.361
+06:40,4,Alito,81.541
+06:40,5,わたしを作ったテレビドラマ5本,
+06:40,6,えっちベルト,
+06:40,7,デアリングタクト,
+06:40,8,Garam,109.375
+06:40,9,TheVoiceCHV,
+06:40,10,Stanton,21.368
+07:10,1,AllStarGame,99.798
+07:10,2,えっちベルト,
+07:10,3,Alito,87.697
+07:10,4,HalloweenEnds,20.581
+07:10,5,MasterChefBR,
+07:10,6,わたしを作ったテレビドラマ5本,
+07:10,7,デアリングタクト,
+07:10,8,Garam,115.818
+07:10,9,TheVoiceCHV,
+07:10,10,Stanton,22.002
+07:40,1,AllStarGame,101.320
+07:40,2,えっちベルト,
+07:40,3,Alito,92.539
+07:40,4,わたしを作ったテレビドラマ5本,10.327
+07:40,5,HalloweenEnds,21.587
+07:40,6,MasterChefBR,
+07:40,7,デアリングタクト,10.285
+07:40,8,Garam,121.918
+07:40,9,INTO1BornToFly_MV,22.333
+07:40,10,Mariano González,18.996
+08:10,1,えっちベルト,11.539
+08:10,2,AllStarGame,102.127
+08:10,3,mha360,
+08:10,4,デアリングタクト,11.428
+08:10,5,Alito,95.694
+08:10,6,わたしを作ったテレビドラマ5本,10.733
+08:10,7,MasterChefBR,
+08:10,8,HalloweenEnds,22.407
+08:10,9,Garam,127.001
+08:10,10,Masa Depan NKRI,
+08:40,1,えっちベルト,14.097
+08:40,2,mha360,
+08:40,3,2DaysToShamshera,
+08:40,4,AllStarGame,103.006
+08:40,5,wednesdaythought,12.016
+08:40,6,わたしを作ったテレビドラマ5本,11.049
+08:40,7,デアリングタクト,12.307
+08:40,8,Alito,98.290
+08:40,9,過去最多,19.089
+08:40,10,Masa Depan NKRI,
+09:10,1,えっちベルト,16.844
+09:10,2,mha360,
+09:10,3,wednesdaythought,13.492
+09:10,4,KıbrısBarışHarekatı,
+09:10,5,FenerinMaçıVar,
+09:10,6,過去最多,23.104
+09:10,7,MellowMoveToChange,43.652
+09:10,8,デアリングタクト,13.007
+09:10,9,Wordle 396 X,
+09:10,10,Alito,99.953
+09:40,1,えっちベルト,19.557
+09:40,2,KıbrısBarışHarekatı,
+09:40,3,mha360,
+09:40,4,MellowMoveToChange,62.578
+09:40,5,過去最多,26.659
+09:40,6,FenerinMaçıVar,
+09:40,7,wednesdaythought,14.722
+09:40,8,Wordle 396 X,
+09:40,9,デアリングタクト,13.683
+09:40,10,Ranil Wickremesinghe,
+10:10,1,KıbrısBarışHarekatı,12.276
+10:10,2,えっちベルト,22.020
+10:10,3,MellowMoveToChange,79.071
+10:10,4,mha360,
+10:10,5,過去最多,30.338
+10:10,6,FenerinMaçıVar,
+10:10,7,PAKvSL,
+10:10,8,Wordle 396 X,
+10:10,9,ファイナルファンタジー7のキャラ,
+10:10,10,Ranil Wickremesinghe,
+10:40,1,KıbrısBarışHarekatı,15.613
+10:40,2,えっちベルト,24.942
+10:40,3,NuevoComienzoXenoblade,
+10:40,4,Senato,
+10:40,5,過去最多,35.538
+10:40,6,FenerinMaçıVar,
+10:40,7,MellowMoveToChange,93.081
+10:40,8,TEST ME OUT NOW,
+10:40,9,ファイナルファンタジー7のキャラ,
+10:40,10,Wordle 396 X,
+11:10,1,EşkiyalarŞehirde AdaletNerde,
+11:10,2,XdinaryHeroes_1stComeback,15.187
+11:10,3,안녕_세상아_엑디즈가_왔다,15.110
+11:10,4,NuevoComienzoXenoblade,
+11:10,5,KıbrısBarışHarekatı,18.976
+11:10,6,過去最多,40.830
+11:10,7,TEST ME OUT NOW,14.462
+11:10,8,えっちベルト,27.595
+11:10,9,Senato,
+11:10,10,ファイナルファンタジー7のキャラ,
+11:40,1,XdinaryHeroes_1stComeback,19.226
+11:40,2,안녕_세상아_엑디즈가_왔다,18.959
+11:40,3,PAKvSL,
+11:40,4,NuevoComienzoXenoblade,
+11:40,5,Draghi,32.617
+11:40,6,TEST ME OUT NOW,17.618
+11:40,7,EşkiyalarŞehirde AdaletNerde,
+11:40,8,過去最多,46.173
+11:40,9,Abdullah Shafique,15.455
+11:40,10,えっちベルト,30.819
+12:10,1,XdinaryHeroes_1stComeback,21.257
+12:10,2,NuevoComienzoXenoblade,
+12:10,3,Draghi,34.356
+12:10,4,KıbrısBarışHarekatı,25.331
+12:10,5,안녕_세상아_엑디즈가_왔다,20.884
+12:10,6,TEST ME OUT NOW,19.083
+12:10,7,過去最多,50.011
+12:10,8,EşkiyalarŞehirde AdaletNerde,
+12:10,9,えっちベルト,34.685
+12:10,10,HIH2 HUGOT NIGHT,31.320
+12:40,1,Girls1stWin,17.131
+12:40,2,Draghi,37.318
+12:40,3,KıbrısBarışHarekatı,28.451
+12:40,4,NuevoComienzoXenoblade,
+12:40,5,XdinaryHeroes_1stComeback,22.331
+12:40,6,TREASURE IN BORYEONG,28.743
+12:40,7,HIH2 HUGOT NIGHT,40.525
+12:40,8,過去最多,52.950
+12:40,9,TEST ME OUT NOW,19.738
+12:40,10,ネイマール,
+13:10,1,MUD_FESTIVAL_WITH_TREASURE,37.997
+13:10,2,Girls1stWin,22.671
+13:10,3,2022보령해양머드박람회,38.140
+13:10,4,TREASURE IN BORYEONG,38.942
+13:10,5,川崎フロンターレ,14.806
+13:10,6,Draghi,39.089
+13:10,7,HIH2 HUGOT NIGHT,47.659
+13:10,8,ネイマール,
+13:10,9,ファイナルファンタジー7のキャラ,
+13:10,10,過去最多,55.362
+13:40,1,PMQs,13.933
+13:40,2,ノーノー,
+13:40,3,笑ってコラえて,16.563
+13:40,4,MUD_FESTIVAL_WITH_TREASURE,43.059
+13:40,5,TEAMWANGxZeeNuNewJamesSu,19.880
+13:40,6,川崎フロンターレ,17.353
+13:40,7,TREASURE IN BORYEONG,42.679
+13:40,8,椋木くん,
+13:40,9,benny blanco,
+13:40,10,ネイマール,10.629
+14:10,1,PMQs,24.510
+14:10,2,PartyInTheBox,16.828
+14:10,3,ノーノー,
+14:10,4,TEAMWANGxZeeNuNewJamesSu,83.628
+14:10,5,笑ってコラえて,24.011
+14:10,6,MUD_FESTIVAL_WITH_TREASURE,46.163
+14:10,7,おりほー,
+14:10,8,椋木くん,
+14:10,9,benny blanco,10.434
+14:10,10,TREASURE IN BORYEONG,44.703
+14:40,1,PMQs,31.561
+14:40,2,PartyInTheBox,52.171
+14:40,3,TEAMWANGxZeeNuNewJamesSu,156.772
+14:40,4,ノーノー,
+14:40,5,笑ってコラえて,26.104
+14:40,6,MUD_FESTIVAL_WITH_TREASURE,52.370
+14:40,7,おりほー,
+14:40,8,TREASURE IN BORYEONG,48.727
+14:40,9,benny blanco,13.803
+14:40,10,椋木くん,
+15:10,1,PartyInTheBox,72.931
+15:10,2,PMQs,36.966
+15:10,3,TEAMWANGxZeeNuNewJamesSu,225.475
+15:10,4,ノーノー,
+15:10,5,MUD_FESTIVAL_WITH_TREASURE,59.954
+15:10,6,BPLS2,13.829
+15:10,7,TREASURE IN BORYEONG,52.785
+15:10,8,おりほー,
+15:10,9,benny blanco,17.126
+15:10,10,椋木くん,
+15:40,1,PartyInTheBox,81.262
+15:40,2,PMQs,41.505
+15:40,3,TEAMWANGxZeeNuNewJamesSu,297.634
+15:40,4,BPLS2,19.750
+15:40,5,MUD_FESTIVAL_WITH_TREASURE,85.743
+15:40,6,ノーノー,
+15:40,7,TREASURE IN BORYEONG,57.938
+15:40,8,benny blanco,20.342
+15:40,9,MasterCard,26.495
+15:40,10,椋木くん,
+16:10,1,PartyInTheBox,85.740
+16:10,2,PMQs,45.084
+16:10,3,TEAMWANGxZeeNuNewJamesSu,355.741
+16:10,4,BPLS2,20.710
+16:10,5,Aぇヤンタン,24.181
+16:10,6,ノーノー,
+16:10,7,MasterCard,29.982
+16:10,8,TREASURE IN BORYEONG,60.891
+16:10,9,권모술수 권민우,12.897
+16:10,10,HIH2 HUGOT NIGHT,73.164
+16:40,1,-,
+16:40,2,-,
+16:40,3,-,
+16:40,4,-,
+16:40,5,-,
+16:40,6,-,
+16:40,7,-,
+16:40,8,-,
+16:40,9,-,
+16:40,10,-,
+17:10,1,PartyInTheBox,92.069
+17:10,2,住んでる県がバレるツイートしろ,
+17:10,3,KinKiKidsYouTube,15.013
+17:10,4,PMQs,51.760
+17:10,5,Aぇヤンタン,34.892
+17:10,6,Sınavsız Üniversite,
+17:10,7,ノーノー,
+17:10,8,MasterCard,35.046
+17:10,9,McNulty,
+17:10,10,TREASURE IN BORYEONG,63.698
+17:40,1,KinKiKidsYouTube,31.066
+17:40,2,JO1ANNX,54.605
+17:40,3,BAD DECISIONS IS COMING,30.054
+17:40,4,住んでる県がバレるツイートしろ,10.165
+17:40,5,BTS IS COMING,46.187
+17:40,6,BTS X SNOOP X BENNY,36.058
+17:40,7,PartyInTheBox,94.451
+17:40,8,OurStarLiaDay,42.782
+17:40,9,HONEY LIA DAY,25.345
+17:40,10,McNulty,
+18:10,1,BAD DECISIONS IS COMING,68.730
+18:10,2,KinKiKidsYouTube,36.213
+18:10,3,BTS IS COMING,83.107
+18:10,4,JO1ANNX,90.309
+18:10,5,SNOOP,141.386
+18:10,6,住んでる県がバレるツイートしろ,10.925
+18:10,7,ExtraordinaryAttorneyWooEp7,25.987
+18:10,8,OurStarLiaDay,38.606
+18:10,9,ガッシュ2,
+18:10,10,HONEY LIA DAY,27.844
+18:40,1,BAD DECISIONS IS COMING,85.973
+18:40,2,BTS IS COMING,99.952
+18:40,3,KinKiKidsYouTube,37.957
+18:40,4,SNOOP,180.715
+18:40,5,JO1ANNX,100.708
+18:40,6,ExtraordinaryAttorneyWooEp7,31.574
+18:40,7,FIFA23,28.435
+18:40,8,住んでる県がバレるツイートしろ,11.521
+18:40,9,ガッシュ2,
+18:40,10,Truss,105.328
+19:10,1,BAD DECISIONS IS COMING,102.138
+19:10,2,BTS IS COMING,115.629
+19:10,3,SNOOP,207.677
+19:10,4,crisidigoverno,41.010
+19:10,5,KinKiKidsYouTube,38.528
+19:10,6,ExtraordinaryAttorneyWooEp7,36.524
+19:10,7,FIFA23,35.253
+19:10,8,JO1ANNX,103.652
+19:10,9,Truss,109.005
+19:10,10,ガッシュ2,
+19:40,1,crisidigoverno,47.112
+19:40,2,BAD DECISIONS IS COMING,110.916
+19:40,3,BTS IS COMING,124.523
+19:40,4,HouseoftheDragon,32.193
+19:40,5,SNOOP,223.967
+19:40,6,ExtraordinaryAttorneyWooEp7,40.632
+19:40,7,FIFA23,41.295
+19:40,8,KinKiKidsYouTube,38.824
+19:40,9,Truss,116.545
+19:40,10,ガッシュ2,
+20:10,1,crisidigoverno,53.450
+20:10,2,HouseoftheDragon,36.388
+20:10,3,BAD DECISIONS IS COMING,116.794
+20:10,4,BTS IS COMING,130.510
+20:10,5,SNOOP,234.834
+20:10,6,DKvFB,
+20:10,7,ExtraordinaryAttorneyWooEp7,43.841
+20:10,8,FIFA23,45.161
+20:10,9,Truss,118.788
+20:10,10,Bishops,32.583
+20:40,1,crisidigoverno,60.269
+20:40,2,HouseoftheDragon,40.302
+20:40,3,DKvFB,
+20:40,4,ÇokUygunFiyaatta TTVerilir,
+20:40,5,BAD DECISIONS IS COMING,122.159
+20:40,6,BTS IS COMING,136.124
+20:40,7,SNOOP,244.846
+20:40,8,ExtraordinaryAttorneyWooEp7,46.324
+20:40,9,FIFA23,48.516
+20:40,10,Bishops,39.584
+21:10,1,crisidigoverno,65.094
+21:10,2,DKvFB,10.980
+21:10,3,HouseoftheDragon,42.984
+21:10,4,Arao,
+21:10,5,ÇokUygunFiyaatta TTVerilir,
+21:10,6,İrfan,16.228
+21:10,7,Lionesses,
+21:10,8,BAD DECISIONS IS COMING,125.629
+21:10,9,famemma15,
+21:10,10,BTS IS COMING,139.392
+21:40,1,crisidigoverno,69.170
+21:40,2,DKvFB,12.583
+21:40,3,HouseoftheDragon,45.411
+21:40,4,Lionesses,
+21:40,5,ÇokUygunFiyaatta TTVerilir,
+21:40,6,Arao,
+21:40,7,famemma15,
+21:40,8,İrfan,16.696
+21:40,9,Arda,14.804
+21:40,10,Rossi,15.483
+22:10,1,crisidigoverno,72.980
+22:10,2,DKvFB,14.050
+22:10,3,HouseOfTheDragon,47.175
+22:10,4,Arao,
+22:10,5,ENGESP,
+22:10,6,BenBirİnsanım,
+22:10,7,Arda,15.757
+22:10,8,O'Malley,
+22:10,9,İrfan,16.748
+22:10,10,Bishops,60.241
+22:40,1,crisidigoverno,76.481
+22:40,2,Athenea,
+22:40,3,DKvFB,15.002
+22:40,4,ENGESP,
+22:40,5,Lionesses,
+22:40,6,luisa mell,
+22:40,7,Arao,11.207
+22:40,8,BenBirİnsanım,
+22:40,9,Datena,
+22:40,10,Esther,17.776
+23:10,1,ENGESP,
+23:10,2,WEURO2022,30.053
+23:10,3,LionessesLive,
+23:10,4,crisidigoverno,79.785
+23:10,5,Stanway,
+23:10,6,Athenea,
+23:10,7,luisa mell,
+23:10,8,Spain,75.595
+23:10,9,Nathalia,
+23:10,10,RENAISSANCE,19.932
+23:40,1,Lionesses,12.872
+23:40,2,ENGESP,
+23:40,3,WEURO2022,36.553
+23:40,4,ENGvSPA,
+23:40,5,luisa mell,
+23:40,6,DECRETOS REAIS,19.294
+23:40,7,Stanway,
+23:40,8,Spain,79.339
+23:40,9,Inglaterra,20.774
+23:40,10,Athenea,

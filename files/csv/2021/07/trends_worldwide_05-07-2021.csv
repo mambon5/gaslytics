@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Flamengo,182.944
+00:10,2,Vitinho,39.370
+00:10,3,Happy 4th,683.354
+00:10,4,Rogério Ceni,24.698
+00:10,5,Bruno Henrique,20.465
+00:10,6,Rachel,152.705
+00:10,7,Gustavo Henrique,
+00:10,8,Brad,45.704
+00:10,9,Chapman,12.162
+00:10,10,America,979.355
+00:41,1,Flamengo,189.430
+00:41,2,Vitinho,40.239
+00:41,3,Happy 4th,707.951
+00:41,4,Michael,168.403
+00:41,5,Rogério Ceni,26.496
+00:41,6,Bruno Henrique,20.783
+00:41,7,DateRush,16.533
+00:41,8,Rachel,157.011
+00:41,9,ConexionHonduras13,20.569
+00:41,10,Gustavo Henrique,
+01:10,1,Flamengo,191.845
+01:10,2,Happy 4th,726.043
+01:10,3,Vitinho,40.502
+01:10,4,Michael,164.801
+01:10,5,ButterOnEuro,18.126
+01:10,6,Rogério Ceni,27.443
+01:10,7,ConexionHonduras13,25.068
+01:10,8,ConvencionConstitucional,66.532
+01:10,9,Vitor Bueno,
+01:10,10,Bruno Henrique,20.927
+01:41,1,Flamengo,197.098
+01:41,2,Happy 4th,742.540
+01:41,3,ButterOnEuro,28.790
+01:41,4,Vitinho,41.061
+01:41,5,Vitor Bueno,
+01:41,6,Ceni,54.247
+01:41,7,ConexionHonduras13,28.013
+01:41,8,America,1.014.272
+01:41,9,Michael,167.898
+01:41,10,ConvencionConstitucional,70.232
+02:10,1,Flamengo,195.493
+02:10,2,Happy 4th,767.335
+02:10,3,ButterOnEuro,39.242
+02:10,4,BTSForUEFAEURO,50.249
+02:10,5,Vitinho,40.902
+02:10,6,America,1.020.898
+02:10,7,BTSforEURO2020,42.627
+02:10,8,ConexionHonduras13,29.927
+02:10,9,Vitor Bueno,
+02:10,10,Ceni,56.039
+02:41,1,Flamengo,199.645
+02:41,2,Happy 4th,791.135
+02:41,3,ButterOnEuro,50.633
+02:41,4,BTSForUEFAEURO,65.413
+02:41,5,BTSforEURO2020,55.968
+02:41,6,America,1.046.942
+02:41,7,ARSD,18.177
+02:41,8,Vitinho,41.534
+02:41,9,Ceni,58.040
+02:41,10,ボカロ歌え,
+03:10,1,Happy 4th,808.867
+03:10,2,ButterOnEuro,63.364
+03:10,3,Tiago Nunes,
+03:10,4,BTSForUEFAEURO,80.537
+03:10,5,ARSD,34.837
+03:10,6,Flamengo,200.094
+03:10,7,Diogo Barbosa,
+03:10,8,BTSforEURO2020,69.105
+03:10,9,gremio,51.497
+03:10,10,Alisson,
+03:41,1,Tiago Nunes,10.901
+03:41,2,ARSD,53.563
+03:41,3,BTSForUEFAEURO,97.577
+03:41,4,Happy 4th,831.659
+03:41,5,ButterOnEuro,76.846
+03:41,6,BTSforEURO2020,83.502
+03:41,7,gremio,71.024
+03:41,8,Diogo Barbosa,
+03:41,9,Flamengo,203.599
+03:41,10,America,1.064.756
+04:10,1,Tiago Nunes,15.816
+04:10,2,ARSD,68.546
+04:10,3,BTSForUEFAEURO,112.593
+04:10,4,Happy 4th,849.283
+04:10,5,LaVozAgentina,
+04:10,6,ButterOnEuro,87.783
+04:10,7,BTSforEURO2020,95.462
+04:10,8,gremio,82.053
+04:10,9,Felipão,
+04:10,10,Diogo Barbosa,
+04:41,1,Tiago Nunes,17.653
+04:41,2,LaVozAgentina,
+04:41,3,ARSD,80.529
+04:41,4,BTSForUEFAEURO,129.920
+04:41,5,Happy 4th,871.845
+04:41,6,BTSforEURO2020,109.805
+04:41,7,ButterOnEuro,98.947
+04:41,8,kill my mind,242.815
+04:41,9,Felipão,
+04:41,10,gremio,89.636
+05:10,1,MasterChefCelebrity,24.333
+05:10,2,LaVozAgentina,10.245
+05:10,3,Tiago Nunes,18.415
+05:10,4,ARSD,90.661
+05:10,5,BTSForUEFAEURO,147.104
+05:10,6,kill my mind,287.320
+05:10,7,Happy 4th,887.390
+05:10,8,BTSforEURO2020,122.683
+05:10,9,Felipão,
+05:10,10,Montaner,
+05:41,1,MasterChefCelebrity,31.614
+05:41,2,大島康徳,11.548
+05:41,3,kill my mind,344.529
+05:41,4,BTSForUEFAEURO,167.069
+05:41,5,LaVozAgentina,11.040
+05:41,6,ARSD,99.097
+05:41,7,Tiago Nunes,18.847
+05:41,8,バンヒス,21.321
+05:41,9,余命1年,
+05:41,10,大島さん,14.254
+06:10,1,大島康徳,15.425
+06:10,2,KILL MY MIND,392.270
+06:10,3,BTSForUEFAEURO,187.844
+06:10,4,MasterChefCelebrity,33.485
+06:10,5,バンヒス,28.726
+06:10,6,大島さん,18.634
+06:10,7,TodoPorSobrevivir,13.220
+06:10,8,ヒスバン,28.562
+06:10,9,余命1年,
+06:10,10,ButterOnEuro,133.648
+06:41,1,大島康徳,18.135
+06:41,2,KILL MY MIND,442.643
+06:41,3,BTSForUEFAEURO,211.257
+06:41,4,バンヒス,35.259
+06:41,5,ヒスバン,35.291
+06:41,6,MasterChefCelebrity,34.530
+06:41,7,大島さん,21.484
+06:41,8,ButterOnEuro,148.838
+06:41,9,YoSoyAllStars,
+06:41,10,余命1年,
+07:10,1,KILL MY MIND,488.320
+07:10,2,大島康徳,19.801
+07:10,3,バンヒス,40.282
+07:10,4,BTSForUEFAEURO,229.486
+07:10,5,ヒスバン,40.260
+07:10,6,ButterOnEuro,161.809
+07:10,7,大島さん,23.157
+07:10,8,YoSoyAllStars,
+07:10,9,MasterChefCelebrity,34.914
+07:10,10,4th of July,1.028.530
+07:41,1,KILL MY MIND,540.486
+07:41,2,大島康徳,21.409
+07:41,3,バンヒス,44.001
+07:41,4,BTSForUEFAEURO,243.848
+07:41,5,ヒスバン,44.054
+07:41,6,โรงงานกิ่งแก้วไฟไหม้,787.688
+07:41,7,ButterOnEuro,171.264
+07:41,8,pazartesi,
+07:41,9,大島さん,24.899
+07:41,10,4th of July,1.039.763
+08:10,1,KILL MY MIND,582.114
+08:10,2,BTSForUEFAEURO,255.174
+08:10,3,バンヒス,47.237
+08:10,4,大島康徳,22.669
+08:10,5,โรงงานกิ่งแก้วไฟไหม้,985.150
+08:10,6,ヒスバン,47.290
+08:10,7,pazartesi,
+08:10,8,MondayMotivation,39.521
+08:10,9,ButterOnEuro,177.769
+08:10,10,大島さん,26.175
+08:41,1,โรงงานกิ่งแก้วไฟไหม้,1.336.575
+08:41,2,KILL MY MIND,624.308
+08:41,3,pazartesi,
+08:41,4,BTSForUEFAEURO,265.467
+08:41,5,バンヒス,50.157
+08:41,6,大島康徳,23.776
+08:41,7,MondayMotivation,42.554
+08:41,8,ヒスバン,50.199
+08:41,9,mondaythoughts,18.403
+08:41,10,例の漫画,
+09:10,1,โรงงานกิ่งแก้วไฟไหม้,1.730.217
+09:10,2,pazartesi,
+09:10,3,matura2021,12.464
+09:10,4,MondayMotivation,45.012
+09:10,5,Kill My Mind,659.645
+09:10,6,BTSForUEFAEURO,273.611
+09:10,7,バンヒス,52.565
+09:10,8,木下ふみこ都議,
+09:10,9,大島康徳,24.836
+09:10,10,衝突事故,
+09:41,1,โรงงานกิ่งแก้วไฟไหม้,1.982.315
+09:41,2,matura2021,13.330
+09:41,3,pazartesi,
+09:41,4,MondayMotivation,48.499
+09:41,5,木下ふみこ都議,
+09:41,6,mondaythoughts,22.067
+09:41,7,無免許運転,
+09:41,8,衝突事故,
+09:41,9,Kill My Mind,698.806
+09:41,10,バンヒス,54.762
+10:10,1,โรงงานกิ่งแก้วไฟไหม้,2.277.017
+10:10,2,MondayMotivation,51.345
+10:10,3,matura2021,13.753
+10:10,4,pazartesi,
+10:10,5,無免許運転,11.970
+10:10,6,木下ふみこ都議,10.748
+10:10,7,SF9TearDropOutNow,26.213
+10:10,8,衝突事故,11.062
+10:10,9,SF9 IS BACK,24.867
+10:10,10,Kill My Mind,732.721
+10:41,1,LVMenFW21,142.974
+10:41,2,โรงงานกิ่งแก้วไฟไหม้,2.564.830
+10:41,3,이오데_차트_뚫고_지나가요,42.687
+10:41,4,DAY6_RightThroughMe,42.106
+10:41,5,荒野CUP,17.352
+10:41,6,無免許運転,14.805
+10:41,7,木下ふみこ都議,12.549
+10:41,8,SF9 IS BACK,33.184
+10:41,9,衝突事故,12.675
+10:41,10,外見のキモさ,
+11:10,1,LVMenFW21,198.429
+11:10,2,DAY6_RightThroughMe,63.655
+11:10,3,이오데_차트_뚫고_지나가요,64.301
+11:10,4,โรงงานกิ่งแก้วไฟไหม้,2.704.003
+11:10,5,LouisVuitton,187.230
+11:10,6,SF9 IS BACK,44.006
+11:10,7,無免許運転,17.686
+11:10,8,木下ふみこ都議,14.189
+11:10,9,衝突事故,14.069
+11:10,10,JEON SOYEON SOLO,30.114
+11:41,1,LVMenFW21,256.700
+11:41,2,DAY6_RightThroughMe,69.868
+11:41,3,이오데_차트_뚫고_지나가요,70.008
+11:41,4,LouisVuitton,224.719
+11:41,5,โรงงานกิ่งแก้วไฟไหม้,2.936.058
+11:41,6,SF9 IS BACK,48.616
+11:41,7,無免許運転,20.544
+11:41,8,木下ふみこ都議,15.601
+11:41,9,衝突事故,15.272
+11:41,10,JEON SOYEON SOLO,38.229
+12:10,1,LVMenFW21,321.901
+12:10,2,LouisVuitton,272.767
+12:10,3,DAY6_RightThroughMe,72.813
+12:10,4,이오데_차트_뚫고_지나가요,72.571
+12:10,5,荒野CUP,26.303
+12:10,6,SF9 IS BACK,51.020
+12:10,7,無免許運転,23.476
+12:10,8,木下ふみこ都議,16.864
+12:10,9,衝突事故,16.337
+12:10,10,JEON SOYEON SOLO,43.234
+12:41,1,LVMenFW21,389.056
+12:41,2,LouisVuitton,324.721
+12:41,3,冒険少年,30.799
+12:41,4,DAY6_RightThroughMe,74.708
+12:41,5,ppcnyzia,290.697
+12:41,6,Portfxden BinUSD,
+12:41,7,無免許運転,26.606
+12:41,8,SF9 IS BACK,52.613
+12:41,9,wonpil,37.828
+12:41,10,木下ふみこ都議,18.133
+13:10,1,LVMenFW21,441.796
+13:10,2,LouisVuitton,362.248
+13:10,3,ppcnyzia,361.363
+13:10,4,冒険少年,37.635
+13:10,5,โรงงานกิ่งแก้วไฟไหม้,3.089.713
+13:10,6,portfxden binusd,
+13:10,7,無免許運転,29.167
+13:10,8,SF9 IS BACK,53.613
+13:10,9,wonpil,39.192
+13:10,10,BL 제목,
+13:41,1,LVMenFW21,488.224
+13:41,2,โรงงานกิ่งแก้วไฟไหม้,3.010.092
+13:41,3,LouisVuitton,398.895
+13:41,4,帰れま10,
+13:41,5,ppcnyzia,441.320
+13:41,6,WOOGA SQUAD,50.924
+13:41,7,Dolapta NiyeGizleniyor,
+13:41,8,Portfxden BinUSD,
+13:41,9,まりほー,
+13:41,10,無免許運転,31.777
+14:10,1,LVMenFW21,528.545
+14:10,2,โรงงานกิ่งแก้วไฟไหม้,2.370.835
+14:10,3,LouisVuitton,429.995
+14:10,4,CDTV,13.992
+14:10,5,로하_아스트로세상_같이가자,46.234
+14:10,6,Wooga Squad,83.769
+14:10,7,まりほー,
+14:10,8,portfxden binusd,
+14:10,9,ASTRO ZONE IS COMING,23.312
+14:10,10,Dolapta NiyeGizleniyor,
+14:41,1,LVMenFW21,571.756
+14:41,2,CDTV,38.101
+14:41,3,音楽の日,19.793
+14:41,4,โรงงานกิ่งแก้วไฟไหม้,3.166.984
+14:41,5,LouisVuitton,463.685
+14:41,6,로하_아스트로세상_같이가자,52.827
+14:41,7,ヤムヤム,10.121
+14:41,8,Wooga Squad,107.080
+14:41,9,NiziU,61.391
+14:41,10,まりほー,
+15:10,1,音楽の日,29.664
+15:10,2,LVMenFW21,612.420
+15:10,3,CDTV,47.875
+15:10,4,โรงงานกิ่งแก้วไฟไหม้,3.056.381
+15:10,5,BoşGündemYaratmayın,
+15:10,6,ナイトドクター,18.553
+15:10,7,EnglliÖğrt SesiOlurMusun,
+15:10,8,ヤムヤム,12.086
+15:10,9,BurakolikCahit NiceSenelere,
+15:10,10,Grandeur2,
+15:41,1,音楽の日,38.189
+15:41,2,LVMenFW21,654.996
+15:41,3,しゃべくり007,26.107
+15:41,4,CDTV,52.269
+15:41,5,โรงงานกิ่งแก้วไฟไหม้,3.429.048
+15:41,6,BoşGündemYaratmayın,
+15:41,7,STREAM KILL MY MIND,64.050
+15:41,8,EnglliÖğrt SesiOlurMusun,
+15:41,9,ヤムヤム,13.749
+15:41,10,PROUD OF LOUIES,29.989
+16:10,1,音楽の日,42.591
+16:10,2,LVMenFW21,698.811
+16:10,3,しゃべくり007,32.319
+16:10,4,โรงงานกิ่งแก้วไฟไหม้,3.646.456
+16:10,5,CDTV,54.826
+16:10,6,ARSD,390.044
+16:10,7,STREAM KILL MY MIND,90.160
+16:10,8,jongin,55.499
+16:10,9,WE LOVE YOU JIN,14.127
+16:10,10,PROUD OF LOUIES,38.357
+16:41,1,LVMenFW21,745.561
+16:41,2,音楽の日,45.899
+16:41,3,ARSD,425.343
+16:41,4,โรงงานกิ่งแก้วไฟไหม้,3.798.446
+16:41,5,しゃべくり007,33.815
+16:41,6,STREAM KILL MY MIND,104.785
+16:41,7,LouisVuitton,597.256
+16:41,8,WE LOVE YOU JIN,65.620
+16:41,9,jongin,69.262
+16:41,10,Jorge Ramos,10.521
+17:10,1,LVMenFW21,796.625
+17:10,2,Raffaella Carrà,23.308
+17:10,3,ARSD,456.790
+17:10,4,音楽の日,46.759
+17:10,5,โรงงานกิ่งแก้วไฟไหม้,3.294.916
+17:10,6,しゃべくり007,34.676
+17:10,7,STREAM KILL MY MIND,115.537
+17:10,8,WE LOVE YOU JIN,117.227
+17:10,9,EuApoioVotoAuditavel,18.191
+17:10,10,jongin,73.141
+17:41,1,Raffaella Carrà,51.617
+17:41,2,ENHYPEN_JapanDebut,420.670
+17:41,3,ARSD,490.813
+17:41,4,LVMenFW21,844.763
+17:41,5,ミルクで仕上げるカルピスフラッペ,94.327
+17:41,6,EuApoioVotoAuditavel,29.363
+17:41,7,音楽の日,48.075
+17:41,8,WE LOVE YOU JIN,129.803
+17:41,9,STREAM KILL MY MIND,122.581
+17:41,10,Jorge Ramos,21.547
+18:10,1,Raffaella Carrà,68.123
+18:10,2,ENHYPEN_JapanDebut,477.969
+18:10,3,LVMenFW21,854.595
+18:10,4,ミルクで仕上げるカルピスフラッペ,93.825
+18:10,5,ファミマ,97.663
+18:10,6,ARSD,518.142
+18:10,7,WE LOVE YOU JIN,135.377
+18:10,8,音楽の日,48.818
+18:10,9,STREAM KILL MY MIND,127.107
+18:10,10,Jorge Ramos,26.766
+18:41,1,RaffaellaCarra,31.456
+18:41,2,ミルクで仕上げるカルピスフラッペ,96.787
+18:41,3,ファミマ,100.609
+18:41,4,LVMenFW21,694.011
+18:41,5,ENHYPEN_JapanDebut,501.189
+18:41,6,WE LOVE YOU JIN,139.803
+18:41,7,Jorge Ramos,32.192
+18:41,8,STREAM KILL MY MIND,131.254
+18:41,9,音楽の日,49.433
+18:41,10,SARAH NO FODCAST,28.354
+19:10,1,RaffaellaCarra,36.826
+19:10,2,SkeemSaam,
+19:10,3,ミルクで仕上げるカルピスフラッペ,96.197
+19:10,4,EuApoioVotoAuditavel,64.344
+19:10,5,ファミマ,99.980
+19:10,6,Jorge Ramos,37.239
+19:10,7,Ehliyet Affı,
+19:10,8,WE LOVE YOU JIN,143.229
+19:10,9,STREAM KILL MY MIND,134.359
+19:10,10,CONGRATULATIONS NAMJOON,58.966
+19:41,1,RaffaellaCarra,41.567
+19:41,2,EuApoioVotoAuditavel,75.235
+19:41,3,SkeemSaam,
+19:41,4,โรงงานกิ่งแก้วไฟไหม้,2.375.752
+19:41,5,LVMenFW21,954.852
+19:41,6,Jorge Ramos,42.513
+19:41,7,Boris Johnson,61.087
+19:41,8,Ehliyet Affı,
+19:41,9,Dulceida,
+19:41,10,128gb,
+20:10,1,RaffaellaCarra,45.544
+20:10,2,EuApoioVotoAuditavel,84.738
+20:10,3,โรงงานกิ่งแก้วไฟไหม้,4.201.627
+20:10,4,SkeemSaam,
+20:10,5,LVMenFW21,1.052.680
+20:10,6,Orhan İnandı,
+20:10,7,Jorge Ramos,47.887
+20:10,8,ÇekCezaları AfEdilsin,
+20:10,9,REQUEST,389.547
+20:10,10,Boris Johnson,65.211
+20:41,1,RaffaellaCarra,50.416
+20:41,2,EuApoioVotoAuditavel,96.787
+20:41,3,โรงงานกิ่งแก้วไฟไหม้,2.516.426
+20:41,4,ARSD,579.279
+20:41,5,ミルクで仕上げるカルピスフラッペ,98.340
+20:41,6,Boris,108.910
+20:41,7,Jorge Ramos,53.387
+20:41,8,Orhan İnandı,
+20:41,9,128gb,
+20:41,10,Dulceida,
+21:10,1,RaffaellaCarra,55.850
+21:10,2,EuApoioVotoAuditavel,108.177
+21:10,3,โรงงานกิ่งแก้วไฟไหม้,3.420.481
+21:10,4,ARSD,585.702
+21:10,5,JusticiaPorSamuel,13.144
+21:10,6,Vuk359 EkimeKalmasın,
+21:10,7,olivia wilde,12.553
+21:10,8,Günümüzü AnlatanHadisler,
+21:10,9,Jorge Ramos,58.226
+21:10,10,Boris,113.031
+21:41,1,RaffaellaCarra,62.396
+21:41,2,EuApoioVotoAuditavel,123.764
+21:41,3,JusticiaPorSamuel,19.006
+21:41,4,โรงงานกิ่งแก้วไฟไหม้,4.698.679
+21:41,5,ASSISTA YOUNG ROYALS,25.870
+21:41,6,ARSD,591.704
+21:41,7,olivia wilde,16.878
+21:41,8,Federer,22.386
+21:41,9,Jorge Ramos,62.824
+21:41,10,Vuk359 EkimeKalmasın,
+22:10,1,TemptationIsland,
+22:10,2,RaffaellaCarra,66.519
+22:10,3,EuApoioVotoAuditavel,138.750
+22:10,4,Richard Donner,
+22:10,5,ASSISTA YOUNG ROYALS,40.387
+22:10,6,JusticiaPorSamuel,24.802
+22:10,7,FixTheAlgorithm,18.077
+22:10,8,olivia wilde,19.875
+22:10,9,Federer,24.283
+22:10,10,Lethal Weapon,
+22:41,1,TemptationIsland,31.155
+22:41,2,Richard Donner,19.340
+22:41,3,Toby,25.374
+22:41,4,Wimbledon,60.628
+22:41,5,EuApoioVotoAuditavel,154.466
+22:41,6,RaffaellaCarra,70.370
+22:41,7,ASSISTA YOUNG ROYALS,50.097
+22:41,8,Tommaso,10.469
+22:41,9,JusticiaPorSamuel,30.978
+22:41,10,Valentina,13.105
+23:10,1,LoveIsland,133.458
+23:10,2,TemptationIsland,45.482
+23:10,3,Richard Donner,27.970
+23:10,4,Toby,29.143
+23:10,5,Faye,17.300
+23:10,6,EuApoioVotoAuditavel,170.803
+23:10,7,Wimbledon,62.369
+23:10,8,RaffaellaCarra,73.758
+23:10,9,Tommaso,14.677
+23:10,10,ASSISTA YOUNG ROYALS,56.817
+23:41,1,TemptationIsland,72.688
+23:41,2,LoveIsland,140.212
+23:41,3,Richard Donner,35.493
+23:41,4,EuApoioVotoAuditavel,188.928
+23:41,5,Tommaso,23.042
+23:41,6,Toby,30.423
+23:41,7,Faye,17.755
+23:41,8,MerveAkpınar,15.954
+23:41,9,Valentina,24.295
+23:41,10,ASSISTA YOUNG ROYALS,62.383

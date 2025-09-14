@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,BITCOINMEG,86.399
+00:09,2,Geno,29.344
+00:09,3,Sanremo2021,39.096
+00:09,4,TXTWeLoveYou,30.674
+00:09,5,LaCasaFuerte19,16.345
+00:09,6,Sakurai,26.444
+00:09,7,SHUMUN,48.785
+00:09,8,WILLOW PARTY,94.979
+00:09,9,セフィロスチャレンジ,
+00:09,10,Jeremy Bulloch,29.026
+00:39,1,BITCOINMEG,94.784
+00:39,2,Geno,32.719
+00:39,3,Sanremo2021,48.383
+00:39,4,Sephiroth,61.715
+00:39,5,TXTWeLoveYou,37.998
+00:39,6,LaCasaFuerte19,19.275
+00:39,7,TwitterEnY,13.813
+00:39,8,Sakurai,28.745
+00:39,9,セフィロスチャレンジ,10.966
+00:39,10,WILLOW PARTY,101.355
+01:09,1,BITCOINMEG,101.410
+01:09,2,Sanremo2021,56.226
+01:09,3,Geno,34.674
+01:09,4,Sephiroth,66.426
+01:09,5,TXTWeLoveYou,41.755
+01:09,6,TwitterEnY,16.603
+01:09,7,LaCasaFuerte19,20.963
+01:09,8,Simmons,15.766
+01:09,9,セフィロスチャレンジ,14.651
+01:09,10,Sakurai,30.046
+01:39,1,BITCOINMEG,107.489
+01:39,2,Sanremo2021,57.472
+01:39,3,Geno,36.681
+01:39,4,Sephiroth,72.496
+01:39,5,TXTWeLoveYou,43.973
+01:39,6,Simmons,20.727
+01:39,7,LaCasaFuerte19,23.645
+01:39,8,TwitterEnY,19.246
+01:39,9,Keenan Allen,
+01:39,10,セフィロスチャレンジ,17.401
+02:09,1,BITCOINMEG,112.364
+02:09,2,Carrascal,10.750
+02:09,3,Sanremo2021,58.170
+02:09,4,Geno,37.994
+02:09,5,Sephiroth,76.249
+02:09,6,Simmons,23.814
+02:09,7,10ล้านวิวคนนั้นต้องเป็นเธอ,51.090
+02:09,8,TXTWeLoveYou,46.066
+02:09,9,UcranizaBrasil,18.595
+02:09,10,Harden,44.356
+02:39,1,BITCOINMEG,121.346
+02:39,2,Carrascal,14.669
+02:39,3,Irene,68.082
+02:39,4,River,106.985
+02:39,5,Ritinha,12.655
+02:39,6,AForcadoQuerer,15.973
+02:39,7,Sephiroth,79.884
+02:39,8,10ล้านวิวคนนั้นต้องเป็นเธอ,78.271
+02:39,9,Joyce,20.886
+02:39,10,Sanremo2021,58.705
+03:09,1,BITCOINMEG,129.129
+03:09,2,Mariota,20.268
+03:09,3,River,113.759
+03:09,4,FinalAFazenda12,19.745
+03:09,5,Carr,16.493
+03:09,6,Station19,12.370
+03:09,7,Raiders,39.571
+03:09,8,Irene,69.020
+03:09,9,RaiderNation,10.023
+03:09,10,Herbert,20.398
+03:39,1,FinalAFazenda,59.956
+03:39,2,BITCOINMEG,135.898
+03:39,3,Mariota,25.649
+03:39,4,River,144.313
+03:39,5,Lipe,82.054
+03:39,6,Biel,71.963
+03:39,7,Raiders,46.906
+03:39,8,GreysAnatomy,18.575
+03:39,9,Herbert,27.560
+03:39,10,Carrascal,19.365
+04:09,1,FinalAFazenda,96.425
+04:09,2,BITCOINMEG,140.800
+04:09,3,Biel,82.251
+04:09,4,Mariota,29.715
+04:09,5,River,151.885
+04:09,6,Lipe,79.381
+04:09,7,GreysAnatomy,40.094
+04:09,8,Raiders,52.392
+04:09,9,TheVoiceBrasil,12.402
+04:09,10,Herbert,30.055
+04:39,1,FinalAFazenda,263.324
+04:39,2,Biel,170.062
+04:39,3,jojocampea,85.733
+04:39,4,BITCOINMEG,144.265
+04:39,5,JORDANA,30.116
+04:39,6,Lipe,90.506
+04:39,7,Mariota,32.299
+04:39,8,River,159.847
+04:39,9,GreysAnatomy,46.979
+04:39,10,BANGU,34.644
+05:09,1,FinalAFazenda,318.329
+05:09,2,Biel,196.065
+05:09,3,jojocampea,103.463
+05:09,4,Mariota,50.160
+05:09,5,BITCOINMEG,147.068
+05:09,6,JORDANA,36.372
+05:09,7,Raiders,67.350
+05:09,8,Chargers,49.816
+05:09,9,Bangu,53.193
+05:09,10,Lipe,94.897
+05:39,1,FinalAFazenda,329.914
+05:39,2,Biel,207.450
+05:39,3,Mariota,55.980
+05:39,4,Chargers,64.674
+05:39,5,jojocampea,106.690
+05:39,6,Raiders,80.500
+05:39,7,BITCOINMEG,149.165
+05:39,8,JORDANA,37.445
+05:39,9,Anthony Lynn,
+05:39,10,Herbert,41.599
+06:09,1,FinalAFazenda,334.642
+06:09,2,Biel,210.494
+06:09,3,Chargers,80.569
+06:09,4,Mariota,59.548
+06:09,5,jojocampea,107.491
+06:09,6,Herbert,53.587
+06:09,7,Anthony Lynn,
+06:09,8,BITCOINMEG,150.810
+06:09,9,Jordana,37.872
+06:09,10,Bangu,57.670
+06:39,1,FinalAFazenda,337.462
+06:39,2,Biel,212.862
+06:39,3,Raiders,101.788
+06:39,4,Chargers,84.636
+06:39,5,Mariota,61.043
+06:39,6,jojocampea,108.353
+06:39,7,Herbert,55.962
+06:39,8,BITCOINMEG,152.063
+06:39,9,Anthony Lynn,10.224
+06:39,10,Jordana,38.167
+07:09,1,FinalAFazenda,339.084
+07:09,2,Biel,213.644
+07:09,3,Raiders,103.526
+07:09,4,Chargers,86.244
+07:09,5,Mariota,61.901
+07:09,6,jojocampea,108.330
+07:09,7,Eminem,52.839
+07:09,8,Herbert,56.783
+07:09,9,BITCOINMEG,153.028
+07:09,10,Anthony Lynn,10.332
+07:39,1,FinalAFazenda,340.397
+07:39,2,Biel,214.578
+07:39,3,Raiders,104.989
+07:39,4,Chargers,87.495
+07:39,5,Eminem,62.012
+07:39,6,Mariota,62.525
+07:39,7,jojocampea,108.715
+07:39,8,Herbert,57.539
+07:39,9,田中俊太,
+07:39,10,TWICE_CRYFORME_RELEASE,32.778
+08:09,1,FinalAFazenda,341.106
+08:09,2,Biel,214.671
+08:09,3,Eminem,69.473
+08:09,4,Raiders,105.628
+08:09,5,Chargers,88.082
+08:09,6,Mariota,63.040
+08:09,7,jojocampea,108.722
+08:09,8,PAKvNZ,
+08:09,9,田中俊太,
+08:09,10,Herbert,57.916
+08:39,1,FinalAFazenda,341.746
+08:39,2,Eminem,75.677
+08:39,3,Raiders,106.431
+08:39,4,Chargers,88.701
+08:39,5,Biel,215.051
+08:39,6,Mariota,63.440
+08:39,7,HayırlıCumalar,16.811
+08:39,8,PAKvNZ,
+08:39,9,cheol,15.722
+08:39,10,자주 쓰는 기사,
+09:09,1,Eminem,80.421
+09:09,2,FinalAFazenda,342.281
+09:09,3,PAKvNZ,
+09:09,4,Raiders,106.753
+09:09,5,자주 쓰는 기사,
+09:09,6,cheol,18.217
+09:09,7,입덕기사,
+09:09,8,Chargers,88.977
+09:09,9,HayırlıCumalar,18.987
+09:09,10,Biel,214.972
+09:39,1,ガンダム動く,
+09:39,2,Eminem,85.436
+09:39,3,JEON JUNGKOOK,81.278
+09:39,4,PAKvNZ,
+09:39,5,자주 쓰는 기사,
+09:39,6,HayırlıCumalar,21.281
+09:39,7,cheol,20.504
+09:39,8,입덕기사,
+09:39,9,FinalAFazenda,342.581
+09:39,10,Chargers,89.291
+10:09,1,TheMandalorian,39.567
+10:09,2,ガンダム動く,12.751
+10:09,3,LouisTomlinsonWarsaw,
+10:09,4,Eminem,89.378
+10:09,5,アンダーライブ2020,11.663
+10:09,6,JEON JUNGKOOK,90.211
+10:09,7,자주 쓰는 기사,
+10:09,8,입덕기사,
+10:09,9,PAKvNZ,
+10:09,10,cheol,22.032
+10:39,1,TheMandalorian,52.377
+10:39,2,緊急地震速報,17.530
+10:39,3,LouisTomlinsonWarsaw,
+10:39,4,震度5弱,11.915
+10:39,5,ガンダム動く,13.717
+10:39,6,アンダーライブ2020,14.984
+10:39,7,伊豆諸島,
+10:39,8,Eminem,93.318
+10:39,9,JEON JUNGKOOK,98.958
+10:39,10,ナイモノネダリ,
+11:09,1,TheMandalorian,60.868
+11:09,2,LouisTomlinsonWarsaw,
+11:09,3,緊急地震速報,18.355
+11:09,4,震度5弱,13.758
+11:09,5,ナイモノネダリ,
+11:09,6,HadsizÖzgürÖzel,
+11:09,7,アンダーライブ2020,17.974
+11:09,8,cheol,26.044
+11:09,9,ガンダム動く,14.709
+11:09,10,ミュウツー,16.068
+11:39,1,TheMandalorian,68.374
+11:39,2,LouisTomlinsonWarsaw,10.035
+11:39,3,HadsizÖzgürÖzel,12.462
+11:39,4,緊急地震速報,19.054
+11:39,5,ナイモノネダリ,
+11:39,6,cheol,31.285
+11:39,7,震度5弱,14.702
+11:39,8,ミュウツー,18.690
+11:39,9,CDTV,
+11:39,10,アンダーライブ2020,20.997
+12:09,1,TheMandalorian,74.431
+12:09,2,HadsizÖzgürÖzel,18.372
+12:09,3,LouisTomlinsonWarsaw,12.448
+12:09,4,ナイモノネダリ,
+12:09,5,ミュウツー,21.046
+12:09,6,onepiece999,
+12:09,7,緊急地震速報,19.264
+12:09,8,cheol,34.334
+12:09,9,CDTV,10.705
+12:09,10,アンダーライブ2020,23.836
+12:39,1,TheMandalorian,80.193
+12:39,2,HadsizÖzgürÖzel,25.259
+12:39,3,緊急地震速報,31.444
+12:39,4,SideM,33.074
+12:39,5,LouisTomlinsonWarsaw,14.345
+12:39,6,onepiece999,
+12:39,7,ナイモノネダリ,10.820
+12:39,8,اليوم_العالمي_للغه_العربيه,46.852
+12:39,9,エムステ,10.855
+12:39,10,ミュウツー,21.858
+13:09,1,TheMandalorian,85.641
+13:09,2,緊急地震速報,40.985
+13:09,3,HadsizÖzgürÖzel,31.406
+13:09,4,SideM,45.182
+13:09,5,KBSGayoDaechukje,33.916
+13:09,6,onepiece999,
+13:09,7,エムステ,14.591
+13:09,8,LouisTomlinsonWarsaw,15.617
+13:09,9,ナイモノネダリ,13.186
+13:09,10,가요대축제,364.451
+13:39,1,jessi,84.879
+13:39,2,TheMandalorian,91.856
+13:39,3,緊急地震速報,41.754
+13:39,4,KBSGayoDaechukje,52.019
+13:39,5,HadsizÖzgürÖzel,37.280
+13:39,6,SideM,53.263
+13:39,7,STRAY KIDS WORLD DOMINATION,22.251
+13:39,8,onepiece999,
+13:39,9,MerciJeanPierre,
+13:39,10,가요대축제,421.152
+14:09,1,jessi,119.134
+14:09,2,TheMandalorian,97.922
+14:09,3,KBSGayoDaechukje,74.140
+14:09,4,STRAY KIDS WORLD DOMINATION,51.302
+14:09,5,緊急地震速報,43.061
+14:09,6,HadsizÖzgürÖzel,43.294
+14:09,7,MerciJeanPierre,
+14:09,8,SideM,58.902
+14:09,9,yuna,62.387
+14:09,10,onepiece999,11.569
+14:39,1,Jessi,141.884
+14:39,2,TheMandalorian,104.827
+14:39,3,KBSGayoDaechukje,103.154
+14:39,4,soobin,102.930
+14:39,5,MerciJeanPierre,14.831
+14:39,6,Dionysus,105.508
+14:39,7,STRAY KIDS WORLD DOMINATION,65.095
+14:39,8,CHAEYEON,23.771
+14:39,9,GFRIEND,112.693
+14:39,10,HadsizÖzgürÖzel,49.282
+15:09,1,TheMandalorian,112.426
+15:09,2,Jessi,157.989
+15:09,3,sunmi,44.143
+15:09,4,KBSGayoDaechukje,135.591
+15:09,5,soobin,112.752
+15:09,6,恋する母たち,15.937
+15:09,7,ミニ悲熊,18.971
+15:09,8,Dionysus,143.090
+15:09,9,MerciJeanPierre,18.076
+15:09,10,STRAY KIDS WORLD DOMINATION,73.077
+15:39,1,TheMandalorian,120.965
+15:39,2,KBSGayoDaechukje,163.062
+15:39,3,Jessi,169.783
+15:39,4,sunmi,50.757
+15:39,5,D4DJ_07,18.212
+15:39,6,영원한햇살_영현아_생일축하해,54.714
+15:39,7,Checo,22.062
+15:39,8,ミニ悲熊,20.911
+15:39,9,soobin,121.027
+15:39,10,Dionysus,159.913
+16:09,1,taemin,109.984
+16:09,2,I NEED U,177.397
+16:09,3,TheMandalorian,128.476
+16:09,4,영원한햇살_영현아_생일축하해,107.702
+16:09,5,KBSGayoDaechukje,203.606
+16:09,6,GOT7,805.704
+16:09,7,I NEED YOU,357.982
+16:09,8,Jessi,180.291
+16:09,9,Checo,26.674
+16:09,10,sunmi,53.162
+16:39,1,I NEED U,334.774
+16:39,2,영원한햇살_영현아_생일축하해,142.423
+16:39,3,taemin,123.276
+16:39,4,TheMandalorian,137.458
+16:39,5,KBSGayoDaechukje,240.705
+16:39,6,I NEED YOU,391.697
+16:39,7,ヒプアニ,41.630
+16:39,8,GOT7,906.758
+16:39,9,猗窩座のスカウト,
+16:39,10,m-flo,
+17:09,1,I NEED U,410.766
+17:09,2,TheMandalorian,145.419
+17:09,3,영원한햇살_영현아_생일축하해,154.625
+17:09,4,taemin,130.062
+17:09,5,KBSGayoDaechukje,259.397
+17:09,6,I NEED YOU,398.729
+17:09,7,猗窩座のスカウト,
+17:09,8,m-flo,
+17:09,9,ヒプアニ,60.566
+17:09,10,Checo,33.813
+17:39,1,TheMandalorian,154.674
+17:39,2,I NEED U,448.851
+17:39,3,영원한햇살_영현아_생일축하해,161.776
+17:39,4,taemin,136.329
+17:39,5,猗窩座のスカウト,
+17:39,6,KBSGayoDaechukje,271.011
+17:39,7,I NEED YOU,413.192
+17:39,8,m-flo,
+17:39,9,Sınavlariptalolsun,51.114
+17:39,10,Checo,36.147
+18:09,1,TheMandalorian,162.653
+18:09,2,I NEED U,469.389
+18:09,3,영원한햇살_영현아_생일축하해,165.458
+18:09,4,呪術廻戦,94.579
+18:09,5,taemin,139.961
+18:09,6,猗窩座のスカウト,
+18:09,7,TharnTypeSS2EP7,109.475
+18:09,8,じゅじゅさんぽ,
+18:09,9,I NEED YOU,411.632
+18:09,10,m-flo,
+18:39,1,TheMandalorian,171.864
+18:39,2,I NEED U,489.062
+18:39,3,영원한햇살_영현아_생일축하해,168.807
+18:39,4,呪術廻戦,100.936
+18:39,5,TharnTypeSS2EP7,137.511
+18:39,6,猗窩座のスカウト,
+18:39,7,taemin,143.875
+18:39,8,じゅじゅさんぽ,
+18:39,9,I NEED YOU,422.922
+18:39,10,Checo,39.572
+19:09,1,KGvGS,12.670
+19:09,2,TheMandalorian,179.635
+19:09,3,I NEED U,501.500
+19:09,4,TharnTypeSS2EP7,156.577
+19:09,5,영원한햇살_영현아_생일축하해,171.195
+19:09,6,呪術廻戦,103.015
+19:09,7,hobi,103.991
+19:09,8,Bütçedensonra Ünvliişçiler,
+19:09,9,Karagümrük,15.468
+19:09,10,taemin,146.110
+19:39,1,KGvGS,21.215
+19:39,2,TheMandalorian,188.056
+19:39,3,Karagümrük,25.199
+19:39,4,Karagümrük,25.199
+19:39,5,الاء_النعمان_تفاجي_بناتها,
+19:39,6,SemaforoRojo,
+19:39,7,TharnTypeSS2EP7,175.990
+19:39,8,I NEED U,511.975
+19:39,9,Galatasaray,35.262
+19:39,10,Hobi,107.309
+20:09,1,KGvGS,23.765
+20:09,2,TheMandalorian,195.513
+20:09,3,حفله_الاء_النعمان,
+20:09,4,SemaforoRojo,12.548
+20:09,5,Karagümrük,28.899
+20:09,6,EbubekirSifilYalnızDeğildir,14.845
+20:09,7,Galatasaray,39.798
+20:09,8,Fatih Terim,15.760
+20:09,9,I NEED U,518.696
+20:09,10,Cupcakke,24.500
+20:39,1,TheMandalorian,204.035
+20:39,2,KGvGS,25.258
+20:39,3,SemaforoRojo,15.299
+20:39,4,EbubekirSifilYalnızDeğildir,19.002
+20:39,5,حفله_الاء_النعمان,
+20:39,6,Karagümrük,31.311
+20:39,7,Galatasaray,42.359
+20:39,8,Fatih Terim,17.731
+20:39,9,محمد شريف,
+20:39,10,CDMX,68.399
+21:09,1,TheMandalorian,211.367
+21:09,2,KGvGS,26.262
+21:09,3,FreeCodeFridayContest,
+21:09,4,EbubekirSifilYalnızDeğildir,24.635
+21:09,5,SemaforoRojo,17.507
+21:09,6,Karagümrük,33.395
+21:09,7,Galatasaray,44.063
+21:09,8,Fatih Terim,19.509
+21:09,9,CDMX,69.372
+21:09,10,محمد شريف,
+21:39,1,FreeCodeFridayContest,
+21:39,2,TheMandalorian,219.524
+21:39,3,DPCM,
+21:39,4,EbubekirSifilYalnızDeğildir,30.310
+21:39,5,KGvGS,27.034
+21:39,6,Karagümrük,35.431
+21:39,7,Ron Johnson,83.258
+21:39,8,Galatasaray,45.689
+21:39,9,Merry Christmas,187.328
+21:39,10,CDMX,72.952
+22:09,1,FreeCodeFridayContest,
+22:09,2,DPCM,15.055
+22:09,3,TheMandalorian,225.037
+22:09,4,EbubekirSifilYalnızDeğildir,35.670
+22:09,5,OkuduğumKitap,11.164
+22:09,6,Star Wars,113.341
+22:09,7,Ron Johnson,88.787
+22:09,8,Merry Christmas,189.108
+22:09,9,Moukoko,
+22:09,10,Karagümrük,36.263
+22:39,1,FreeCodeFridayContest,
+22:39,2,DPCM,19.870
+22:39,3,TheMandalorian,231.832
+22:39,4,EbubekirSifilYalnızDeğildir,39.926
+22:39,5,FCUBVB,
+22:39,6,Samantha,25.192
+22:39,7,Jayda,
+22:39,8,Star Wars,117.017
+22:39,9,Nardi,16.568
+22:39,10,Maria Teresa,
+23:09,1,FreeCodeFridayContest,10.834
+23:09,2,DPCM,22.385
+23:09,3,Jayda,16.759
+23:09,4,TheMandalorian,238.327
+23:09,5,EdomexASemaforoRojo,
+23:09,6,EbubekirSifilYalnızDeğildir,43.722
+23:09,7,Samantha,26.845
+23:09,8,Star Wars,111.866
+23:09,9,Teanna,
+23:09,10,Paul Lim,
+23:39,1,EdomexASemaforoRojo,
+23:39,2,Jayda,25.251
+23:39,3,FreeCodeFridayContest,10.989
+23:39,4,DPCM,23.957
+23:39,5,TheMandalorian,244.418
+23:39,6,Dia22VaiSerGigante,59.385
+23:39,7,Teanna,
+23:39,8,Lil Baby,38.588
+23:39,9,Star Wars,115.814
+23:39,10,Guardians of the Galaxy,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LaIslaDeLasTentaciones1,42.046
+00:10,2,Cássio,18.580
+00:10,3,PermissionToGo,46.046
+00:10,4,Diego Costa,
+00:10,5,Zaracho,
+00:10,6,Corinthians,70.085
+00:10,7,Rittenhouse,625.095
+00:10,8,Sylvinho,
+00:10,9,Renato Augusto,
+00:10,10,ポッキーの日,90.922
+00:41,1,LaIslaDeLasTentaciones1,49.181
+00:41,2,Cássio,20.361
+00:41,3,Corinthians,84.663
+00:41,4,PermissionToGo,47.996
+00:41,5,Sylvinho,16.290
+00:41,6,Diego Costa,
+00:41,7,Zaracho,
+00:41,8,Rittenhouse,661.285
+00:41,9,ポッキーの日,101.910
+00:41,10,Keno,
+01:10,1,Corinthians,102.460
+01:10,2,LaIslaDeLasTentaciones1,55.076
+01:10,3,Cássio,21.573
+01:10,4,VamosColoColo,
+01:10,5,Sylvinho,25.429
+01:10,6,PermissionToGo,49.497
+01:10,7,ポッキーの日,109.879
+01:10,8,Rittenhouse,682.332
+01:10,9,Hulk,19.498
+01:10,10,Veiga,
+01:41,1,Corinthians,111.336
+01:41,2,LaIslaDeLasTentaciones1,57.757
+01:41,3,VamosColoColo,10.295
+01:41,4,Sylvinho,29.228
+01:41,5,Cássio,22.252
+01:41,6,ポッキーの日,118.260
+01:41,7,PermissionToGo,50.775
+01:41,8,Rittenhouse,716.321
+01:41,9,Veiga,
+01:41,10,Hulk,21.561
+02:10,1,Corinthians,113.688
+02:10,2,LaIslaDeLasTentaciones1,58.667
+02:10,3,ポッキーの日,125.370
+02:10,4,VamosColoColo,11.158
+02:10,5,Sylvinho,30.605
+02:10,6,Scarpa,
+02:10,7,Cássio,22.450
+02:10,8,Veiga,10.328
+02:10,9,PermissionToGo,51.987
+02:10,10,Rittenhouse,732.829
+02:41,1,Corinthians,117.330
+02:41,2,AEWDynamite,22.845
+02:41,3,ポッキー,235.147
+02:41,4,MAFS,
+02:41,5,LaIslaDeLasTentaciones1,59.113
+02:41,6,Shopee1111,
+02:41,7,VamosColoColo,11.875
+02:41,8,Scarpa,
+02:41,9,Sylvinho,31.782
+02:41,10,Rittenhouse,766.236
+03:10,1,AEWDynamite,32.688
+03:10,2,MAFS,10.919
+03:10,3,Corinthians,118.650
+03:10,4,ポッキー,246.549
+03:10,5,Survivor,
+03:10,6,MarriedAtFirstSight,
+03:10,7,CMAawards,14.325
+03:10,8,Juventude,
+03:10,9,Scarpa,
+03:10,10,Sylvinho,32.683
+03:41,1,AEWDynamite,43.234
+03:41,2,Benitez,13.229
+03:41,3,MAFS,17.364
+03:41,4,ポッキー,264.218
+03:41,5,O Vasco,40.065
+03:41,6,Juventude,11.533
+03:41,7,MarriedAtFirstSight,14.510
+03:41,8,Vitor Bueno,
+03:41,9,Corinthians,121.177
+03:41,10,CMAawards,17.783
+04:10,1,AEWDynamite,52.644
+04:10,2,ProvaDoFazendeiro,27.398
+04:10,3,Benitez,15.219
+04:10,4,MAFS,20.075
+04:10,5,ポッキー,280.388
+04:10,6,CMAawards,20.624
+04:10,7,O Vasco,42.834
+04:10,8,MarriedAtFirstSight,16.937
+04:10,9,Juventude,11.994
+04:10,10,Vitor Bueno,
+04:41,1,ProvaDoFazendeiro,41.954
+04:41,2,AEWDynamite,55.530
+04:41,3,ポッキー,310.991
+04:41,4,Benitez,15.934
+04:41,5,MAFS,20.735
+04:41,6,CMAawards,23.848
+04:41,7,DiscipuloGranFinal,
+04:41,8,O Vasco,44.505
+04:41,9,Juventude,12.334
+04:41,10,Lonzo,
+05:10,1,ProvaDoFazendeiro,43.980
+05:10,2,ポッキー,334.699
+05:10,3,瀬戸内寂聴さん,30.270
+05:10,4,AEWDynamite,56.732
+05:10,5,ElDiscipuloDelChefCHV,
+05:10,6,DiscipuloGranFinal,
+05:10,7,文化勲章受章者,
+05:10,8,作家・僧侶,10.684
+05:10,9,CMAawards,27.227
+05:10,10,Wiggins,
+05:41,1,瀬戸内寂聴さん,49.528
+05:41,2,ポッキー,355.389
+05:41,3,ProvaDoFazendeiro,44.933
+05:41,4,Wiggins,13.134
+05:41,5,文化勲章受章者,
+05:41,6,作家・僧侶,16.646
+05:41,7,ElDiscipuloDelChefCHV,
+05:41,8,AEWDynamite,57.955
+05:41,9,DiscipuloGranFinal,10.228
+05:41,10,CMAawards,29.161
+06:10,1,瀬戸内寂聴さん,59.400
+06:10,2,ポッキー,370.201
+06:10,3,ShopeeTalk1111xBamBam,30.129
+06:10,4,Wiggins,14.367
+06:10,5,ProvaDoFazendeiro,45.386
+06:10,6,文化勲章受章者,
+06:10,7,作家・僧侶,18.930
+06:10,8,DiscipuloGranFinal,10.351
+06:10,9,AEWDynamite,58.691
+06:10,10,ElDiscipuloDelChefCHV,
+06:41,1,Wiggins,25.191
+06:41,2,ShopeeTalk1111xBamBam,114.400
+06:41,3,Westbrook,13.149
+06:41,4,瀬戸内寂聴さん,66.499
+06:41,5,ポッキー,384.938
+06:41,6,ProvaDoFazendeiro,45.742
+06:41,7,文化勲章受章者,
+06:41,8,作家・僧侶,20.235
+06:41,9,Anthony Edwards,
+06:41,10,finalworkshopกลรักรุ่นพี่,69.969
+07:10,1,Lakers,74.962
+07:10,2,Westbrook,22.577
+07:10,3,ShopeeTalk1111xBamBam,180.317
+07:10,4,Wiggins,28.764
+07:10,5,Malik Monk,
+07:10,6,瀬戸内寂聴さん,72.689
+07:10,7,ポッキー,399.376
+07:10,8,Herro,14.260
+07:10,9,LakeShow,
+07:10,10,Melo,32.239
+07:41,1,Lakers,83.688
+07:41,2,Westbrook,25.371
+07:41,3,ShopeeTalk1111xBamBam,207.766
+07:41,4,Wiggins,30.955
+07:41,5,Malik Monk,
+07:41,6,ポッキー,417.272
+07:41,7,瀬戸内寂聴さん,78.374
+07:41,8,LakeShow,
+07:41,9,Herro,15.228
+07:41,10,Melo,32.775
+08:10,1,Lakers,86.114
+08:10,2,Westbrook,26.207
+08:10,3,ShopeeTalk1111xBamBam,229.997
+08:10,4,Wiggins,32.077
+08:10,5,ポッキー,432.901
+08:10,6,dolar10tl,
+08:10,7,瀬戸内寂聴さん,82.658
+08:10,8,Malik Monk,
+08:10,9,LakeShow,
+08:10,10,Herro,15.502
+08:41,1,Lakers,88.125
+08:41,2,dolar10tl,
+08:41,3,ShopeeTalk1111xBamBam,249.404
+08:41,4,Westbrook,26.951
+08:41,5,ポッキー,454.120
+08:41,6,Wiggins,32.912
+08:41,7,瀬戸内寂聴さん,86.528
+08:41,8,Malik Monk,
+08:41,9,LakeShow,
+08:41,10,Herro,15.700
+09:10,1,dolar10tl,
+09:10,2,ポッキー,474.731
+09:10,3,Lakers,88.848
+09:10,4,ShopeeTalk1111xBamBam,
+09:10,5,Westbrook,27.325
+09:10,6,basakcengiz,18.421
+09:10,7,瀬戸内寂聴さん,90.106
+09:10,8,Wiggins,33.601
+09:10,9,متضرري_شرا_مديونيه_الاهلي_2,
+09:10,10,RemembranceDay2021,
+09:41,1,dolar10tl,10.872
+09:41,2,ポッキー,505.113
+09:41,3,basakcengiz,22.878
+09:41,4,CosmosByBI,23.783
+09:41,5,RemembranceDay2021,11.470
+09:41,6,B.I COSMOS OUT NOW,23.077
+09:41,7,ShopeeTalk1111xBamBam,268.928
+09:41,8,Lakers,89.956
+09:41,9,Westbrook,27.684
+09:41,10,瀬戸内寂聴さん,93.794
+10:10,1,dolar10tl,13.780
+10:10,2,ポッキー,534.834
+10:10,3,CosmosByBI,49.554
+10:10,4,basakcengiz,27.994
+10:10,5,B.I COSMOS OUT NOW,51.669
+10:10,6,RemembranceDay2021,13.718
+10:10,7,LestWeForget,26.647
+10:10,8,瀬戸内寂聴さん,97.184
+10:10,9,Lakers,90.480
+10:10,10,シャーマンキング,
+10:41,1,CosmosByBI,65.648
+10:41,2,ポッキー,573.080
+10:41,3,dolar10tl,16.704
+10:41,4,B.I COSMOS OUT NOW,69.950
+10:41,5,السعوديه_استراليا,63.030
+10:41,6,basakcengiz,33.244
+10:41,7,RemembranceDay2021,16.519
+10:41,8,シャーマンキング,
+10:41,9,200M BEAUTIFUL STORIES FOR V,50.850
+10:41,10,瀬戸内寂聴さん,100.883
+11:10,1,ポッキー,606.835
+11:10,2,ベストヒット歌謡祭2021,12.984
+11:10,3,السعوديه_استراليا,76.174
+11:10,4,dolar10tl,19.518
+11:10,5,RemembranceDay2021,19.165
+11:10,6,CosmosByBI,73.381
+11:10,7,B.I COSMOS OUT NOW,78.118
+11:10,8,فهد المولد,
+11:10,9,200M BEAUTIFUL STORIES FOR V,57.554
+11:10,10,シャーマンキング,
+11:41,1,ベストヒット歌謡祭,304.755
+11:41,2,ポッキー,653.047
+11:41,3,Favorite3rdWin,47.199
+11:41,4,السعوديه_استراليا,88.352
+11:41,5,RemembranceDay2021,22.311
+11:41,6,LestWeForget,38.264
+11:41,7,B.I COSMOS OUT NOW,82.887
+11:41,8,Steven Gerrard,51.621
+11:41,9,فهد المولد,
+11:41,10,Aston Villa,51.199
+12:10,1,ベストヒット歌謡祭,398.932
+12:10,2,السعوديه_استراليا,99.382
+12:10,3,Favorite3rdWin,118.991
+12:10,4,RemembranceDay2021,27.396
+12:10,5,ポッキー,692.895
+12:10,6,LestWeForget,47.409
+12:10,7,FW de Klerk,
+12:10,8,فهد المولد,
+12:10,9,B.I COSMOS OUT NOW,86.746
+12:10,10,Steven Gerrard,60.072
+12:41,1,ベストヒット歌謡祭,460.833
+12:41,2,السعوديه_استراليا,107.476
+12:41,3,RemembranceDay2021,31.418
+12:41,4,ポッキー,742.084
+12:41,5,LestWeForget,53.931
+12:41,6,Favorite3rdWin,148.412
+12:41,7,FW de Klerk,18.071
+12:41,8,فهد المولد,
+12:41,9,Steven Gerrard,65.348
+12:41,10,Rangers,51.058
+13:10,1,ベストヒット歌謡祭,507.144
+13:10,2,ポッキー,789.437
+13:10,3,RemembranceDay2021,34.161
+13:10,4,السعوديه_استراليا,112.979
+13:10,5,LestWeForget,57.819
+13:10,6,basakcengiz,61.790
+13:10,7,FW de Klerk,27.632
+13:10,8,Veterans Day,57.925
+13:10,9,おりほー,
+13:10,10,Jamal,49.381
+13:41,1,ベストヒット歌謡祭,533.832
+13:41,2,ポッキー,849.231
+13:41,3,Veterans Day,67.008
+13:41,4,RemembranceDay2021,36.927
+13:41,5,LestWeForget,62.434
+13:41,6,السعوديه_استراليا,115.628
+13:41,7,basakcengiz,68.889
+13:41,8,FW de Klerk,36.605
+13:41,9,すわほー,
+13:41,10,Jamal,66.330
+14:10,1,Veterans Day,78.673
+14:10,2,ベストヒット歌謡祭,545.683
+14:10,3,ポッキー,894.388
+14:10,4,RemembranceDay2021,39.528
+14:10,5,LestWeForget,66.395
+14:10,6,basakcengiz,76.706
+14:10,7,オフサイド,12.275
+14:10,8,FW de Klerk,44.107
+14:10,9,11del11EnChollometro,
+14:10,10,Jamal,90.225
+14:41,1,VeteransDay,46.347
+14:41,2,ポッキー,948.506
+14:41,3,ベストヒット歌謡祭,558.239
+14:41,4,basakcengiz,84.819
+14:41,5,RemembranceDay2021,42.314
+14:41,6,LestWeForget,70.838
+14:41,7,FW de Klerk,51.150
+14:41,8,オフサイド,13.891
+14:41,9,Jamal,114.254
+14:41,10,Cristiana Lôbo,
+15:10,1,VeteransDay,60.949
+15:10,2,PAKvAUS,50.746
+15:10,3,ポッキー,989.055
+15:10,4,basakcengiz,93.364
+15:10,5,LestWeForget,75.272
+15:10,6,RemembranceDay2021,44.941
+15:10,7,ベトナム,46.970
+15:10,8,FW de Klerk,57.570
+15:10,9,オフサイド,14.671
+15:10,10,Jamal,129.971
+15:41,1,VeteransDay,78.390
+15:41,2,PAKvAUS,61.425
+15:41,3,basakcengiz,101.845
+15:41,4,ポッキー,1.039.724
+15:41,5,LestWeForget,79.958
+15:41,6,RemembranceDay2021,47.830
+15:41,7,JENNIE SOLO ANNIVERSARY,92.620
+15:41,8,Tiago Iorc,
+15:41,9,ベトナム,50.415
+15:41,10,FW de Klerk,63.650
+16:10,1,VeteransDay,98.439
+16:10,2,PAKvAUS,72.687
+16:10,3,basakcengiz,110.632
+16:10,4,우리의_햇살_션샤오팅_생일축하해,98.243
+16:10,5,OurSunshineXiaotingDay,97.926
+16:10,6,ポッキー,1.056.585
+16:10,7,Tiago Iorc,
+16:10,8,JENNIE SOLO ANNIVERSARY,151.955
+16:10,9,OUR BRIGHTEST STAR XIAOTING,89.938
+16:10,10,ベトナム,51.607
+16:41,1,VeteransDay,117.025
+16:41,2,PAKvAUS,88.848
+16:41,3,basakcengiz,119.208
+16:41,4,OurSunshineXiaotingDay,120.541
+16:41,5,우리의_햇살_션샤오팅_생일축하해,120.119
+16:41,6,Tiago Iorc,
+16:41,7,JENNIE SOLO ANNIVERSARY,192.057
+16:41,8,Rizwan,42.728
+16:41,9,ポッキー,1.085.476
+16:41,10,OUR BRIGHTEST STAR XIAOTING,105.790
+17:10,1,VeteransDay,134.683
+17:10,2,PAKvAUS,113.766
+17:10,3,basakcengiz,128.659
+17:10,4,joon,33.180
+17:10,5,OurSunshineXiaotingDay,128.267
+17:10,6,우리의_햇살_션샤오팅_생일축하해,127.314
+17:10,7,Tiago Iorc,
+17:10,8,JENNIE SOLO ANNIVERSARY,215.334
+17:10,9,Rizwan,49.132
+17:10,10,Fakhar Zaman,12.737
+17:41,1,VeteransDay,152.744
+17:41,2,PAKvAUS,128.722
+17:41,3,basakcengiz,139.213
+17:41,4,joon,42.066
+17:41,5,Tiago Iorc,
+17:41,6,OurSunshineXiaotingDay,132.727
+17:41,7,LestWeForget,98.412
+17:41,8,JENNIE SOLO ANNIVERSARY,230.606
+17:41,9,OUR BRIGHTEST STAR XIAOTING,113.578
+17:41,10,Rizwan,51.427
+18:10,1,VeteransDay,168.903
+18:10,2,PAKvAUS,154.082
+18:10,3,SalarioRosa,17.896
+18:10,4,Warner,52.259
+18:10,5,namjoon,168.658
+18:10,6,basakcengiz,150.075
+18:10,7,Tiago Iorc,
+18:10,8,LestWeForget,101.699
+18:10,9,JENNIE SOLO ANNIVERSARY,240.669
+18:10,10,Cam Newton,21.022
+18:41,1,VeteransDay,184.712
+18:41,2,SalarioRosa,27.985
+18:41,3,PAKvAUS,173.525
+18:41,4,basakcengiz,159.950
+18:41,5,namjoon,181.035
+18:41,6,Warner,58.464
+18:41,7,Cam Newton,49.920
+18:41,8,Panthers,78.805
+18:41,9,Tiago Iorc,
+18:41,10,LastBreathOutToday,129.954
+19:10,1,PAKVSAUS,164.930
+19:10,2,SalarioRosa,34.929
+19:10,3,VeteransDay,197.502
+19:10,4,Hassan Ali,49.015
+19:10,5,Australia,44.996
+19:10,6,T20WorldCup,172.223
+19:10,7,Wade,64.447
+19:10,8,Cam Newton,59.905
+19:10,9,Warner,63.212
+19:10,10,namjoon,184.106
+19:41,1,PAKVSAUS,231.774
+19:41,2,SalarioRosa,41.040
+19:41,3,VeteransDay,210.347
+19:41,4,Pakistan,92.547
+19:41,5,Hassan Ali,68.457
+19:41,6,T20WorldCup,198.478
+19:41,7,Wade,84.669
+19:41,8,Cam Newton,67.210
+19:41,9,Panthers,106.897
+19:41,10,Warner,67.273
+20:10,1,PAKVSAUS,259.285
+20:10,2,SalarioRosa,45.618
+20:10,3,VeteransDay,220.884
+20:10,4,Pakistan,103.682
+20:10,5,Hassan Ali,78.784
+20:10,6,T20WorldCup,205.861
+20:10,7,Wade,93.273
+20:10,8,Cam Newton,72.050
+20:10,9,Panthers,113.579
+20:10,10,Warner,69.273
+20:41,1,PAKVSAUS,274.479
+20:41,2,SalarioRosa,49.731
+20:41,3,VeteransDay,231.275
+20:41,4,Pakistan,115.133
+20:41,5,Hassan Ali,86.629
+20:41,6,T20WorldCup,214.681
+20:41,7,Wade,98.130
+20:41,8,Cam Newton,76.249
+20:41,9,Panthers,120.352
+20:41,10,namjoon,197.861
+21:10,1,PAKVSAUS,283.364
+21:10,2,SalarioRosa,52.688
+21:10,3,VeteransDay,239.384
+21:10,4,Pakistan,120.396
+21:10,5,Hassan Ali,92.074
+21:10,6,T20WorldCup,218.032
+21:10,7,Cam Newton,79.741
+21:10,8,Wade,100.640
+21:10,9,Panthers,123.640
+21:10,10,Chloe,40.726
+21:41,1,PAKVSAUS,288.839
+21:41,2,SalarioRosa,55.572
+21:41,3,VeteransDay,248.449
+21:41,4,Pakistan,125.743
+21:41,5,Hassan Ali,95.517
+21:41,6,basakcengiz,200.787
+21:41,7,Cam Newton,83.026
+21:41,8,Wade,102.553
+21:41,9,SUPERCORP KISSED,21.449
+21:41,10,Chloe,42.871
+22:10,1,Rams,50.108
+22:10,2,PAKVSAUS,292.373
+22:10,3,SalarioRosa,57.724
+22:10,4,VeteransDay,255.938
+22:10,5,Hassan Ali,97.970
+22:10,6,Pakistan,128.695
+22:10,7,XF2021,
+22:10,8,Kupp,
+22:10,9,Cam Newton,85.628
+22:10,10,SUPERCORP KISSED,28.313
+22:41,1,Rams,82.235
+22:41,2,SalarioRosa,59.874
+22:41,3,PAKVSAUS,294.311
+22:41,4,Veterans Day,388.082
+22:41,5,XF2021,
+22:41,6,SecretGala9,30.405
+22:41,7,Stafford,11.597
+22:41,8,Kupp,
+22:41,9,IRLPOR,
+22:41,10,Hassan Ali,99.788
+23:10,1,Rams,94.319
+23:10,2,SalarioRosa,61.632
+23:10,3,Veterans Day,396.950
+23:10,4,SecretGala9,39.338
+23:10,5,XF2021,10.892
+23:10,6,PAKVSAUS,295.408
+23:10,7,IRLPOR,
+23:10,8,Stafford,13.687
+23:10,9,Kupp,
+23:10,10,Fernando Santos,
+23:41,1,Rams,103.405
+23:41,2,SecretGala9,55.520
+23:41,3,XF2021,13.596
+23:41,4,Bahia,39.985
+23:41,5,SalarioRosa,63.283
+23:41,6,Veterans Day,408.731
+23:41,7,Stafford,15.220
+23:41,8,Tini,20.246
+23:41,9,IRLPOR,
+23:41,10,Cracker Barrel,

@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Arsenal,226.467
+00:09,2,ARSMCI,26.232
+00:09,3,JuveFiorentina,26.569
+00:09,4,Pedri,28.416
+00:09,5,MasumlarApartmanı,25.904
+00:09,6,Arteta,57.872
+00:09,7,Martinelli,38.886
+00:09,8,MCJunior,
+00:09,9,harrypottereidonidellamorte,12.527
+00:09,10,Mustafi,19.772
+00:39,1,Arsenal,232.733
+00:39,2,ARSMCI,26.818
+00:39,3,JuveFiorentina,27.045
+00:39,4,Pedri,32.116
+00:39,5,harrypottereidonidellamorte,15.945
+00:39,6,Arteta,60.672
+00:39,7,MasumlarApartmanı,26.287
+00:39,8,Martinelli,39.521
+00:39,9,MCJunior,
+00:39,10,Lakers,78.671
+01:09,1,Arsenal,236.160
+01:09,2,TUBBIRTHDAY,
+01:09,3,Pedri,33.906
+01:09,4,ARSMCI,27.269
+01:09,5,JuveFiorentina,27.400
+01:09,6,harrypottereidonidellamorte,16.758
+01:09,7,Lakers,79.986
+01:09,8,MCJunior,
+01:09,9,Arteta,62.389
+01:09,10,HAPPY BIRTHDAY TUBBO,
+01:39,1,Kyrie,28.076
+01:39,2,TUBBIRTHDAY,16.265
+01:39,3,Warriors,106.710
+01:39,4,Durant,51.826
+01:39,5,Nets,53.165
+01:39,6,Oubre,21.499
+01:39,7,Wiggins,10.965
+01:39,8,Curry,53.903
+01:39,9,HAPPY BIRTHDAY TUBBO,11.423
+01:39,10,Arsenal,239.606
+02:09,1,Kyrie,47.039
+02:09,2,Wiggins,33.263
+02:09,3,Warriors,116.527
+02:09,4,TUBBIRTHDAY,18.873
+02:09,5,Nets,64.575
+02:09,6,Durant,54.329
+02:09,7,Curry,58.943
+02:09,8,Oubre,25.817
+02:09,9,Lakers,87.982
+02:09,10,HAPPY BIRTHDAY TUBBO,13.263
+02:39,1,Kyrie,57.728
+02:39,2,Wiggins,44.363
+02:39,3,Warriors,126.678
+02:39,4,Nets,71.730
+02:39,5,TUBBIRTHDAY,20.202
+02:39,6,Curry,64.141
+02:39,7,TheBachelorette,60.354
+02:39,8,Durant,57.129
+02:39,9,Oubre,28.881
+02:39,10,Lakers,96.222
+03:09,1,Kyrie,61.983
+03:09,2,Wiggins,50.641
+03:09,3,Warriors,133.115
+03:09,4,Roberto Carlos,10.175
+03:09,5,Nets,77.846
+03:09,6,TheBachelorette,46.681
+03:09,7,Curry,68.531
+03:09,8,TUBBIRTHDAY,21.155
+03:09,9,Durant,59.421
+03:09,10,Oubre,30.769
+03:39,1,Roberto Carlos,16.947
+03:39,2,Kyrie,67.687
+03:39,3,Wiggins,55.006
+03:39,4,Warriors,142.370
+03:39,5,TheBachelorette,58.649
+03:39,6,Nets,84.666
+03:39,7,Cruzeiro,32.304
+03:39,8,Curry,73.713
+03:39,9,TUBBIRTHDAY,22.031
+03:39,10,Wiseman,21.126
+04:09,1,Roberto Carlos,20.708
+04:09,2,TheBachelorette,68.826
+04:09,3,Kyrie,69.790
+04:09,4,Lakers,158.236
+04:09,5,Cruzeiro,37.592
+04:09,6,Wiggins,57.336
+04:09,7,Warriors,143.072
+04:09,8,Nets,87.365
+04:09,9,LakeShow,14.485
+04:09,10,Curry,74.835
+04:39,1,Lakers,188.317
+04:39,2,Roberto Carlos,21.855
+04:39,3,TheBachelorette,73.014
+04:39,4,Clippers,56.184
+04:39,5,Kyrie,71.778
+04:39,6,Cruzeiro,40.070
+04:39,7,Warriors,146.349
+04:39,8,Paulo Gustavo,
+04:39,9,Wiggins,59.008
+04:39,10,LakeShow,16.591
+05:09,1,Lakers,204.277
+05:09,2,Roberto Carlos,22.084
+05:09,3,Paulo Gustavo,
+05:09,4,TheBachelorette,73.777
+05:09,5,Paul George,17.275
+05:09,6,Kyrie,73.436
+05:09,7,220Volts,
+05:09,8,LakeShow,17.818
+05:09,9,Cruzeiro,41.050
+05:09,10,Warriors,146.170
+05:39,1,Lakers,220.068
+05:39,2,Roberto Carlos,22.400
+05:39,3,Paulo Gustavo,10.644
+05:39,4,TheBachelorette,77.093
+05:39,5,Paul George,18.879
+05:39,6,Lebron,68.069
+05:39,7,220Volts,
+05:39,8,LakeShow,19.015
+05:39,9,Kyrie,74.636
+05:39,10,Cruzeiro,41.746
+06:09,1,Lakers,229.143
+06:09,2,Tigres,34.168
+06:09,3,Paul George,21.339
+06:09,4,Gignac,
+06:09,5,Roberto Carlos,22.565
+06:09,6,Lebron,71.700
+06:09,7,Paulo Gustavo,10.984
+06:09,8,TheBachelorette,76.933
+06:09,9,LAFC,29.194
+06:09,10,LakeShow,19.618
+06:39,1,Lakers,244.694
+06:39,2,Lakers,244.694
+06:39,3,Paul George,29.097
+06:39,4,Tigres,46.551
+06:39,5,Gignac,14.308
+06:39,6,Lebron,76.502
+06:39,7,Roberto Carlos,22.717
+06:39,8,LAFC,34.838
+06:39,9,Paulo Gustavo,11.192
+06:39,10,LakeShow,20.413
+07:09,1,Lakers,256.062
+07:09,2,Lakers,256.062
+07:09,3,Paul George,32.806
+07:09,4,Tigres,51.521
+07:09,5,Gignac,16.521
+07:09,6,Lebron,78.989
+07:09,7,guysplease,
+07:09,8,NationalFarmersDay,38.500
+07:09,9,LAFC,36.822
+07:09,10,Roberto Carlos,22.788
+07:39,1,Lakers,261.333
+07:39,2,Lakers,261.333
+07:39,3,Paul George,33.838
+07:39,4,Tigres,54.711
+07:39,5,Gignac,17.830
+07:39,6,guysplease,
+07:39,7,LeBron,80.501
+07:39,8,NationalFarmersDay,42.355
+07:39,9,KisanDiwas,29.064
+07:39,10,LAFC,37.931
+08:09,1,Lakers,263.714
+08:09,2,Clippers,93.859
+08:09,3,Paul George,34.135
+08:09,4,Tigres,56.445
+08:09,5,NationalFarmersDay,46.247
+08:09,6,guysplease,
+08:09,7,Gignac,18.558
+08:09,8,あなたをギャル化する,
+08:09,9,KisanDiwas,32.647
+08:09,10,LeBron,81.262
+08:39,1,Lakers,266.661
+08:39,2,Clippers,95.081
+08:39,3,Paul George,34.845
+08:39,4,Tigres,58.095
+08:39,5,あなたをギャル化する,
+08:39,6,OnurcanÖzcanHırka,
+08:39,7,NationalFarmersDay,50.366
+08:39,8,KisanDiwas,36.307
+08:39,9,GUYSPLEASE,
+08:39,10,Gignac,19.109
+09:09,1,Lakers,268.168
+09:09,2,Paul George,34.916
+09:09,3,Clippers,95.577
+09:09,4,あなたをギャル化する,
+09:09,5,NationalFarmersDay,53.635
+09:09,6,Tigres,59.071
+09:09,7,OnurcanÖzcanHırka,
+09:09,8,KisanDiwas,39.424
+09:09,9,HappyBirthdayTacha,233.656
+09:09,10,ハートのネックレス,
+09:39,1,あなたをギャル化する,
+09:39,2,全員濃厚接触者,
+09:39,3,うみんちゅ,
+09:39,4,Paul George,35.258
+09:39,5,Lakers,270.611
+09:39,6,Clippers,96.540
+09:39,7,NationalFarmersDay,56.772
+09:39,8,ハートのネックレス,
+09:39,9,Kubilay,
+09:39,10,KisanDiwas,42.270
+10:09,1,あなたをギャル化する,
+10:09,2,chenle,54.756
+10:09,3,dumeloxmas,
+10:09,4,ASUU,58.591
+10:09,5,全員濃厚接触者,
+10:09,6,クリスマス,1.482.842
+10:09,7,BillenKazanıırGooglePlayde,
+10:09,8,うみんちゅ,
+10:09,9,ハートのネックレス,
+10:09,10,Kubilay,
+10:39,1,dumeloxmas,
+10:39,2,chenle,75.610
+10:39,3,あなたをギャル化する,
+10:39,4,ASUU,72.709
+10:39,5,クリスマス,1.546.841
+10:39,6,ハートのネックレス,10.627
+10:39,7,全員濃厚接触者,11.633
+10:39,8,つるちゃん,
+10:39,9,うみんちゅ,
+10:39,10,billenkazanıırgoogleplayde,
+11:09,1,dumeloxmas,
+11:09,2,あなたをギャル化する,
+11:09,3,クリスマス,1.514.152
+11:09,4,chenle,91.284
+11:09,5,ASUU,79.453
+11:09,6,ハートのネックレス,12.406
+11:09,7,つるちゃん,
+11:09,8,安倍晋三の不起訴処分に抗議します,22.666
+11:09,9,全員濃厚接触者,13.105
+11:09,10,몬스타엑스주헌_런온OST,13.924
+11:39,1,クリスマス,1.578.730
+11:39,2,dumeloxmas,
+11:39,3,あなたをギャル化する,
+11:39,4,chenle,104.823
+11:39,5,ASUU,89.188
+11:39,6,安倍晋三の不起訴処分に抗議します,26.588
+11:39,7,İttifakHoldingDoymadınmı,
+11:39,8,ハートのネックレス,14.717
+11:39,9,新山女子,
+11:39,10,つるちゃん,
+12:09,1,プロセカ生放送,10.580
+12:09,2,クリスマス,1.561.539
+12:09,3,あなたをギャル化する,
+12:09,4,dumeloxmas,
+12:09,5,chenle,112.197
+12:09,6,新山女子,
+12:09,7,JEONGIN 4TH GEN VOCAL ACE,70.835
+12:09,8,安倍晋三の不起訴処分に抗議します,31.836
+12:09,9,Natsu,31.698
+12:09,10,ミラクル9,
+12:39,1,プロセカ生放送,76.950
+12:39,2,クリスマス,1.636.754
+12:39,3,あなたをギャル化する,
+12:39,4,dumeloxmas,
+12:39,5,フレンド機能,
+12:39,6,JEONGIN 4TH GEN VOCAL ACE,86.939
+12:39,7,新山女子,
+12:39,8,chenle,126.404
+12:39,9,GetYouAlone_Teaser1,24.317
+12:39,10,ミラクル9,
+13:09,1,プロセカ生放送,150.535
+13:09,2,クリスマス,1.611.847
+13:09,3,あなたをギャル化する,10.272
+13:09,4,GetYouAlone_Teaser1,44.230
+13:09,5,MewGulfMaybellineXMas,62.341
+13:09,6,MILOCANXKristSingtoOffGun,76.263
+13:09,7,フレンド機能,
+13:09,8,JEONGIN 4TH GEN VOCAL ACE,100.279
+13:09,9,新山女子,
+13:09,10,ドラマツルギー,12.976
+13:39,1,Grandeur,15.967
+13:39,2,プロセカ生放送,176.657
+13:39,3,全力で生きると絆になる,34.020
+13:39,4,クリスマス,1.684.336
+13:39,5,アベマでひなくり前夜祭,14.802
+13:39,6,さくらみこ新3Dお披露目,22.884
+13:39,7,フレンド機能,
+13:39,8,ドラマツルギー,15.394
+13:39,9,ODDS&ENDS,12.053
+13:39,10,JEONGIN 4TH GEN VOCAL ACE,109.434
+14:09,1,Grandeur,21.048
+14:09,2,全力で生きると絆になる,40.741
+14:09,3,クリスマス,1.669.253
+14:09,4,アベマでひなくり前夜祭,24.039
+14:09,5,さくらみこ新3Dお披露目,33.136
+14:09,6,プロセカ生放送,188.609
+14:09,7,SOAR HIgH HES INTO HER,30.166
+14:09,8,フレンド機能,
+14:09,9,ODDS&ENDS,13.010
+14:09,10,新山女子,
+14:39,1,Grandeur,23.722
+14:39,2,クリスマス,1.745.204
+14:39,3,全力で生きると絆になる,44.430
+14:39,4,アベマでひなくり前夜祭,24.895
+14:39,5,doten,202.020
+14:39,6,さくらみこ新3Dお披露目,35.095
+14:39,7,SOAR HIgH HES INTO HER,39.283
+14:39,8,サンタさん,146.916
+14:39,9,ODDS&ENDS,13.834
+14:39,10,フレンド機能,
+15:09,1,クリスマス,1.513.279
+15:09,2,Grandeur,25.635
+15:09,3,doten,269.949
+15:09,4,全力で生きると絆になる,45.981
+15:09,5,アベマでひなくり前夜祭,25.406
+15:09,6,ひとりじゃないって最強だ,20.451
+15:09,7,SOAR HIgH HES INTO HER,46.969
+15:09,8,サンタさん,147.173
+15:09,9,Happy Festivus,
+15:09,10,ODDS&ENDS,14.453
+15:39,1,クリスマス,1.313.252
+15:39,2,リモラブ,32.624
+15:39,3,Grandeur,27.116
+15:39,4,doten,314.236
+15:39,5,全力で生きると絆になる,48.330
+15:39,6,ひとりじゃないって最強だ,22.328
+15:39,7,SOAR HIgH HES INTO HER,52.941
+15:39,8,Haas,12.157
+15:39,9,Happy Festivus,
+15:39,10,サンタさん,154.867
+16:09,1,リモラブ,33.408
+16:09,2,クリスマス,1.123.384
+16:09,3,doten,344.886
+16:09,4,Grandeur,27.985
+16:09,5,マイクラ腕試しリベンジ,28.439
+16:09,6,全力で生きると絆になる,49.976
+16:09,7,SOAR HIgH HES INTO HER,55.848
+16:09,8,Haas,14.058
+16:09,9,Happy Festivus,10.491
+16:09,10,サンタさん,158.874
+16:39,1,リモラブ,34.097
+16:39,2,クリスマス,1.257.680
+16:39,3,WeSayNoToMazepin,23.711
+16:39,4,マイクラ腕試しリベンジ,30.601
+16:39,5,doten,364.136
+16:39,6,ももいろ歌合戦,14.068
+16:39,7,Haas,15.837
+16:39,8,SOAR HIgH HES INTO HER,58.354
+16:39,9,Happy Festivus,13.227
+16:39,10,サンタさん,171.380
+17:09,1,チャンありがとう,
+17:09,2,クリスマス,1.259.907
+17:09,3,AskMesut,
+17:09,4,lightsforlouis,72.929
+17:09,5,WeSayNoToMazepin,27.741
+17:09,6,リモラブ,34.417
+17:09,7,크리스마스 이브,35.958
+17:09,8,Haas,17.506
+17:09,9,Happy Festivus,15.776
+17:09,10,サンタさん,177.305
+17:39,1,AskMesut,
+17:39,2,lightsforlouis,103.070
+17:39,3,チャンありがとう,
+17:39,4,クリスマス,1.442.268
+17:39,5,WeSayNoToMazepin,31.290
+17:39,6,メンズ校,55.729
+17:39,7,크리스마스 이브,39.102
+17:39,8,Haas,19.038
+17:39,9,サンタさん,182.725
+17:39,10,Happy Festivus,18.379
+18:09,1,AskMesut,
+18:09,2,lightsforlouis,129.224
+18:09,3,チャンありがとう,
+18:09,4,クリスマスイブ,175.578
+18:09,5,Gustavo,61.575
+18:09,6,크리스마스 이브,40.587
+18:09,7,WeSayNoToMazepin,34.360
+18:09,8,FBvIBFK,
+18:09,9,Happy Festivus,20.717
+18:09,10,Haas,20.101
+18:39,1,lightsforlouis,155.604
+18:39,2,AskMesut,
+18:39,3,FBvIBFK,
+18:39,4,Gustavo,64.982
+18:39,5,チャンありがとう,
+18:39,6,クリスマスイブ,178.584
+18:39,7,크리스마스 이브,41.957
+18:39,8,乃木坂46ANN,11.993
+18:39,9,Happy Festivus,23.093
+18:39,10,Haas,21.002
+19:09,1,KadıköydeKaraGece,22.828
+19:09,2,FBvIBFK,
+19:09,3,lightsforlouis,174.145
+19:09,4,Bahattin Şimşek,20.827
+19:09,5,AskMesut,10.601
+19:09,6,Gustavo,74.474
+19:09,7,乃木坂46ANN,15.076
+19:09,8,Rafael,104.159
+19:09,9,Krediler Ötelensin,
+19:09,10,クリスマスイブ,180.406
+19:39,1,KadıköydeKaraGece,45.739
+19:39,2,FBvIBFK,
+19:39,3,lightsforlouis,190.855
+19:39,4,Bahattin Şimşek,30.086
+19:39,5,HalkınDeğilMafyanınHükümeti,
+19:39,6,Fenerbahçe,133.125
+19:39,7,AskMesut,11.775
+19:39,8,Gustavo,81.108
+19:39,9,Rafael,110.533
+19:39,10,Hakem,53.856
+20:09,1,KadıköydeKaraGece,54.689
+20:09,2,FBvIBFK,
+20:09,3,lightsforlouis,203.724
+20:09,4,Bahattin Şimşek,33.297
+20:09,5,Fenerbahçe,152.538
+20:09,6,HalkınDeğilMafyanınHükümeti,
+20:09,7,AskMesut,12.618
+20:09,8,Gustavo,82.561
+20:09,9,Merry Christmas,594.828
+20:09,10,Rafael,109.595
+20:39,1,KadıköydeKaraGece,61.676
+20:39,2,lightsforlouis,214.137
+20:39,3,FBvIBFK,
+20:39,4,Fenerbahçe,167.997
+20:39,5,Bahattin Şimşek,35.361
+20:39,6,راشد_والمهندس_في_ضيف_بدر,
+20:39,7,10yearswithjhope,21.819
+20:39,8,Merry Christmas,612.095
+20:39,9,Gustavo,85.131
+20:39,10,Stoke,16.415
+21:09,1,KadıköydeKaraGece,69.972
+21:09,2,lightsforlouis,221.595
+21:09,3,Fenerbahçe,182.819
+21:09,4,FBvIBFK,
+21:09,5,راشد_والمهندس_في_ضيف_بدر,
+21:09,6,GazilerSultanıGidiyor,
+21:09,7,Bahattin Şimşek,37.128
+21:09,8,Asensio,
+21:09,9,Merry Christmas,613.928
+21:09,10,Casemiro,
+21:39,1,KadıköydeKaraGece,75.677
+21:39,2,GazilerSultanıGidiyor,
+21:39,3,lightsforlouis,229.215
+21:39,4,راشد_والمهندس_في_ضيف_بدر,11.831
+21:39,5,Fenerbahçe,201.191
+21:39,6,AskMesut,22.419
+21:39,7,Merry Christmas,631.042
+21:39,8,Cavani,
+21:39,9,Bahattin Şimşek,38.083
+21:39,10,Asensio,
+22:09,1,KadıköydeKaraGece,80.825
+22:09,2,GazilerSultanıGidiyor,12.405
+22:09,3,راشد_والمهندس_في_ضيف_بدر,14.559
+22:09,4,lightsforlouis,236.625
+22:09,5,Fenerbahçe,255.201
+22:09,6,sadakatsiz,
+22:09,7,Merry Christmas,633.453
+22:09,8,Cavani,
+22:09,9,Casemiro,17.406
+22:09,10,Asensio,
+22:39,1,KadıköydeKaraGece,84.656
+22:39,2,راشد_والمهندس_في_ضيف_بدر,16.308
+22:39,3,GazilerSultanıGidiyor,13.283
+22:39,4,Cavani,13.566
+22:39,5,lightsforlouis,243.714
+22:39,6,EVEMUN,11.163
+22:39,7,Fenerbahçe,294.621
+22:39,8,Merry Christmas,653.489
+22:39,9,Otamendi,
+22:39,10,Bailly,
+23:09,1,Cavani,36.876
+23:09,2,EVEMUN,17.720
+23:09,3,Martial,58.121
+23:09,4,KadıköydeKaraGece,87.445
+23:09,5,MilanLazio,19.360
+23:09,6,MUFC,57.981
+23:09,7,Everton,51.003
+23:09,8,راشد_والمهندس_في_ضيف_بدر,17.535
+23:09,9,Merry Christmas,661.937
+23:09,10,Fenerbahçe,313.102
+23:39,1,Cavani,45.531
+23:39,2,MaskSingerFinal,
+23:39,3,EVEMUN,20.794
+23:39,4,Martial,64.974
+23:39,5,クリスマスイブ,234.146
+23:39,6,KadıköydeKaraGece,89.117
+23:39,7,MilanLazio,22.314
+23:39,8,MUFC,67.954
+23:39,9,Merry Christmas,687.186
+23:39,10,Everton,55.942

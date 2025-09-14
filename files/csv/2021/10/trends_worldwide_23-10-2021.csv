@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Arsenal,173.405
+00:10,2,ARSAVL,50.354
+00:10,3,DALS,17.694
+00:10,4,RedTaylorsVersion,25.254
+00:10,5,taleequaleshow,18.686
+00:10,6,Martinez,59.603
+00:10,7,ItsRedSeason,10.618
+00:10,8,Villa,80.867
+00:10,9,Smith Rowe,18.438
+00:10,10,Cole Cassidy,11.622
+00:41,1,gfvip,59.520
+00:41,2,Arsenal,178.407
+00:41,3,ARSAVL,51.761
+00:41,4,cashappfridaynight,
+00:41,5,RedTaylorsVersion,27.625
+00:41,6,DALS,18.254
+00:41,7,Martinez,61.461
+00:41,8,Villa,83.057
+00:41,9,Smith Rowe,19.732
+00:41,10,Cole Cassidy,12.565
+01:10,1,gfvip,64.649
+01:10,2,cashappfridaynight,
+01:10,3,Arsenal,180.426
+01:10,4,ARSAVL,52.856
+01:10,5,RedTaylorsVersion,29.063
+01:10,6,PrefiroCiro,12.658
+01:10,7,Anakin,16.458
+01:10,8,Martinez,61.020
+01:10,9,Villa,83.688
+01:10,10,Ahsoka,20.033
+01:41,1,gfvip,68.804
+01:41,2,cashappfridaynight,
+01:41,3,PrefiroCiro,17.865
+01:41,4,Arsenal,183.129
+01:41,5,RedTaylorsVersion,30.418
+01:41,6,ARSAVL,53.812
+01:41,7,Anakin,19.496
+01:41,8,Ahsoka,24.473
+01:41,9,ORIGEN DULCE MARIA,22.618
+01:41,10,ESTAMOS CONTIGO MAITE,11.657
+02:10,1,gfvip,70.070
+02:10,2,PrefiroCiro,22.045
+02:10,3,cashappfridaynight,
+02:10,4,TinderCactos,
+02:10,5,RedTaylorsVersion,31.465
+02:10,6,Arsenal,184.036
+02:10,7,Anakin,21.608
+02:10,8,ORIGEN DULCE MARIA,25.026
+02:10,9,Ahsoka,27.760
+02:10,10,ESTAMOS CONTIGO MAITE,13.140
+02:41,1,SmackDown,23.537
+02:41,2,PrefiroCiro,26.425
+02:41,3,TinderCactos,
+02:41,4,ウルトラマントリガー,15.898
+02:41,5,cashappfridaynight,
+02:41,6,Drummond,
+02:41,7,Brock,15.898
+02:41,8,Anakin,23.619
+02:41,9,Arsenal,185.579
+02:41,10,ORIGEN DULCE MARIA,26.781
+03:10,1,SmackDown,33.199
+03:10,2,PrefiroCiro,29.857
+03:10,3,HalloweenLGBTQ,
+03:10,4,TinderCactos,
+03:10,5,ウルトラマントリガー,18.261
+03:10,6,Brock,16.670
+03:10,7,Drummond,
+03:10,8,Anakin,25.411
+03:10,9,Dune,155.750
+03:10,10,Marner,
+03:41,1,SmackDown,42.195
+03:41,2,Cruzeiro,22.427
+03:41,3,PrefiroCiro,33.120
+03:41,4,HalloweenLGBTQ,
+03:41,5,Garcia,81.818
+03:41,6,Eovaldi,
+03:41,7,題名のない音楽会,
+03:41,8,Scottie Barnes,
+03:41,9,箱根駅伝予選会,
+03:41,10,Hit Row,
+04:10,1,Danny Green,
+04:10,2,SmackDown,49.658
+04:10,3,Cruzeiro,25.761
+04:10,4,Doc Rivers,
+04:10,5,Scottie Barnes,
+04:10,6,Garcia,83.567
+04:10,7,Sixers,27.142
+04:10,8,Eovaldi,
+04:10,9,Celtics,28.634
+04:10,10,PrefiroCiro,35.725
+04:41,1,Danny Green,
+04:41,2,Cruzeiro,31.360
+04:41,3,SmackDown,52.521
+04:41,4,temblor,
+04:41,5,Doc Rivers,10.844
+04:41,6,Bulls,38.060
+04:41,7,Sixers,30.483
+04:41,8,Scottie Barnes,
+04:41,9,箱根駅伝予選会,11.108
+04:41,10,Yordan,
+05:10,1,Cruzeiro,33.381
+05:10,2,Danny Green,
+05:10,3,AEWRampage,17.230
+05:10,4,SmackDown,54.009
+05:10,5,temblor,
+05:10,6,Bulls,38.524
+05:10,7,Doc Rivers,11.106
+05:10,8,ForTheH,19.042
+05:10,9,Sixers,31.019
+05:10,10,Scottie Barnes,
+05:41,1,Lakers,60.719
+05:41,2,ForTheH,33.899
+05:41,3,Astros,74.582
+05:41,4,Dwight,52.679
+05:41,5,Cruzeiro,34.870
+05:41,6,人気投票ガチャ,
+05:41,7,AEWRampage,18.493
+05:41,8,Danny Green,
+05:41,9,World Series,24.561
+05:41,10,SmackDown,55.284
+06:10,1,Lakers,86.674
+06:10,2,Astros,131.890
+06:10,3,Astros,131.890
+06:10,4,ForTheH,60.923
+06:10,5,Red Sox,29.385
+06:10,6,Dwight,55.498
+06:10,7,人気投票ガチャ,
+06:10,8,Dusty Baker,
+06:10,9,Lebron,36.112
+06:10,10,Cruzeiro,35.482
+06:41,1,Lakers,105.638
+06:41,2,Astros,149.270
+06:41,3,ForTheH,69.376
+06:41,4,World Series,56.799
+06:41,5,Red Sox,30.953
+06:41,6,人気投票ガチャ,
+06:41,7,Dwight,58.588
+06:41,8,Lebron,39.371
+06:41,9,Dusty Baker,
+06:41,10,Rondo,11.023
+07:10,1,Lakers,116.950
+07:10,2,Astros,158.526
+07:10,3,ForTheH,73.407
+07:10,4,World Series,60.322
+07:10,5,Red Sox,31.693
+07:10,6,人気投票ガチャ,
+07:10,7,Dwight,61.594
+07:10,8,Lebron,40.008
+07:10,9,Dusty Baker,
+07:10,10,Rondo,11.544
+07:41,1,Lakers,123.001
+07:41,2,Astros,165.497
+07:41,3,ForTheH,76.357
+07:41,4,World Series,63.098
+07:41,5,Red Sox,32.135
+07:41,6,人気投票ガチャ,
+07:41,7,Dwight,63.904
+07:41,8,Lebron,41.030
+07:41,9,Dusty Baker,
+07:41,10,HappyBirthdayPrabhas,520.252
+08:10,1,Lakers,125.929
+08:10,2,Astros,170.025
+08:10,3,ForTheH,78.661
+08:10,4,World Series,64.374
+08:10,5,シャニマス283フェス_DAY1,
+08:10,6,人気投票ガチャ,
+08:10,7,Red Sox,38.202
+08:10,8,HappyBirthdayPrabhas,544.142
+08:10,9,jade picon,13.818
+08:10,10,cumartesi,
+08:41,1,Lakers,129.099
+08:41,2,シャニマス283フェス_DAY1,19.331
+08:41,3,Astros,173.266
+08:41,4,ForTheH,80.015
+08:41,5,World Series,65.604
+08:41,6,مبادره_السعوديه_الخضراء,
+08:41,7,Vante,20.189
+08:41,8,人気投票ガチャ,
+08:41,9,cumartesi,
+08:41,10,jade picon,15.162
+09:10,1,Lakers,130.932
+09:10,2,مبادره_السعوديه_الخضراء,
+09:10,3,シャニマス283フェス_DAY1,28.234
+09:10,4,Astros,175.220
+09:10,5,Vante,26.820
+09:10,6,cumartesi,
+09:10,7,ソングライン,
+09:10,8,ForTheH,80.813
+09:10,9,World Series,66.178
+09:10,10,人気投票ガチャ,
+09:41,1,مبادره_السعوديه_الخضراء,12.165
+09:41,2,Lakers,133.044
+09:41,3,シャニマス283フェス_DAY1,37.623
+09:41,4,cumartesi,
+09:41,5,SaveBangladeshiHindus,233.165
+09:41,6,ソングライン,
+09:41,7,Vante,32.583
+09:41,8,BMเลิกเพ้อได้ยัง,119.220
+09:41,9,Astros,176.866
+09:41,10,World Series,66.970
+10:10,1,مبادره_السعوديه_الخضراء,14.519
+10:10,2,Lakers,134.058
+10:10,3,シャニマス283フェス_DAY1,44.865
+10:10,4,cumartesi,
+10:10,5,SaveBangladeshiHindus,267.016
+10:10,6,SONGSFORYOU,11.514
+10:10,7,ソングライン,
+10:10,8,Vante,36.619
+10:10,9,横浜優勝,
+10:10,10,Astros,177.929
+10:41,1,مبادره_السعوديه_الخضراء,16.996
+10:41,2,シャニマス283フェス_DAY1,56.059
+10:41,3,まりほー,
+10:41,4,Lakers,135.666
+10:41,5,cumartesi,
+10:41,6,SONGSFORYOU,14.508
+10:41,7,SaveBangladeshiHindus,302.691
+10:41,8,わしほー,
+10:41,9,モース硬度,
+10:41,10,特記事項,
+11:10,1,AZN_day1,15.142
+11:10,2,مبادره_السعوديه_الخضراء,18.943
+11:10,3,シャニマス283フェス_DAY1,63.980
+11:10,4,まりほー,
+11:10,5,ヰ世界情緒Anima,18.956
+11:10,6,cumartesi,
+11:10,7,Lakers,136.412
+11:10,8,モース硬度,
+11:10,9,特記事項,
+11:10,10,わしほー,
+11:41,1,ヰ世界情緒Anima,25.823
+11:41,2,AZN_day1,25.054
+11:41,3,MusicFairTheピーポー,14.419
+11:41,4,AskPau,
+11:41,5,مبادره_السعوديه_الخضراء,21.873
+11:41,6,まりほー,
+11:41,7,モース硬度,
+11:41,8,特記事項,
+11:41,9,わしほー,
+11:41,10,Lakers,137.810
+12:10,1,ヰ世界情緒Anima,31.668
+12:10,2,AskPau,
+12:10,3,AZN_day1,32.307
+12:10,4,MusicFairTheピーポー,16.706
+12:10,5,なにわ男子ANNP,
+12:10,6,モース硬度,
+12:10,7,特記事項,
+12:10,8,まりほー,
+12:10,9,Aqours,10.425
+12:10,10,Lakers,138.430
+12:41,1,AUSvSA,
+12:41,2,なにわ男子ANNP,18.839
+12:41,3,ヰ世界情緒Anima,37.886
+12:41,4,AskPau,
+12:41,5,AZN_day1,40.534
+12:41,6,Airlangga Hartarto 2024,
+12:41,7,モース硬度,
+12:41,8,特記事項,
+12:41,9,Rebeca Andrade,
+12:41,10,Aqours,11.029
+13:10,1,AUSvSA,
+13:10,2,ヰ世界情緒Anima,43.896
+13:10,3,Gulfファンミ,81.885
+13:10,4,なにわ男子ANNP,30.113
+13:10,5,ブラタモリ,
+13:10,6,特記事項,
+13:10,7,モース硬度,
+13:10,8,Airlangga Hartarto 2024,
+13:10,9,Rebeca Andrade,
+13:10,10,画像ツイート,45.935
+13:41,1,AUSvSA,
+13:41,2,ドッキリGP,
+13:41,3,Gulfファンミ,173.136
+13:41,4,ヰ世界情緒Anima,47.987
+13:41,5,AZN_day1,53.993
+13:41,6,ATTACCA COMEBACK SHOW,77.519
+13:41,7,Beyaz Tv,
+13:41,8,画像ツイート,48.867
+13:41,9,giselle,45.539
+13:41,10,KuranMucizeleri YasakMı,
+14:10,1,CHENOR,26.838
+14:10,2,AUSvSA,
+14:10,3,ドッキリGP,17.081
+14:10,4,세븐틴과_계속_가보자는거야_아타카,57.068
+14:10,5,ほん怖,18.115
+14:10,6,Mason Mount,
+14:10,7,ATTACCA COMEBACK SHOW,106.755
+14:10,8,Kovacic,
+14:10,9,Odoi,10.411
+14:10,10,わけほー,
+14:41,1,CHENOR,39.288
+14:41,2,ほん怖,32.256
+14:41,3,Chelsea,89.448
+14:41,4,Reece James,
+14:41,5,AUSvSA,10.918
+14:41,6,JirisanEp1,25.236
+14:41,7,ドッキリGP,18.781
+14:41,8,Mason Mount,11.309
+14:41,9,Kovacic,
+14:41,10,ATTACCA COMEBACK SHOW,121.186
+15:10,1,Norwich,57.370
+15:10,2,CHENOR,51.031
+15:10,3,ほん怖,47.819
+15:10,4,Chelsea,104.228
+15:10,5,JirisanEp1,66.158
+15:10,6,JinOSTSoon,73.653
+15:10,7,Chilwell,11.198
+15:10,8,AUSvSA,12.795
+15:10,9,Kovacic,10.401
+15:10,10,Reece James,
+15:41,1,Norwich,82.280
+15:41,2,Chelsea,148.406
+15:41,3,ほん怖,63.195
+15:41,4,JirisanEp1,94.224
+15:41,5,Mason Mount,32.767
+15:41,6,JinOSTSoon,103.143
+15:41,7,AUSvSA,15.325
+15:41,8,Chilwell,14.349
+15:41,9,Kovacic,13.602
+15:41,10,nhkらじらー,80.191
+16:10,1,Norwich,91.770
+16:10,2,Chelsea,169.871
+16:10,3,CHENOR,92.512
+16:10,4,ほん怖,78.829
+16:10,5,JirisanEp1,109.336
+16:10,6,JinOSTSoon,116.865
+16:10,7,Mason Mount,42.861
+16:10,8,AUSvSA,16.443
+16:10,9,Chilwell,16.419
+16:10,10,jade picon,37.874
+16:41,1,Norwich,97.286
+16:41,2,シブヤノオト,59.307
+16:41,3,Chelsea,184.416
+16:41,4,우리배는_삼년째_편도로만가,89.982
+16:41,5,ATEEZ_3rd_Anniversary,96.626
+16:41,6,CHENOR,96.990
+16:41,7,ほん怖,83.131
+16:41,8,Mason Mount,47.678
+16:41,9,jade picon,42.191
+16:41,10,Chilwell,17.964
+17:10,1,ATEEZ_3rd_Anniversary,163.154
+17:10,2,우리배는_삼년째_편도로만가,152.871
+17:10,3,Norwich,100.486
+17:10,4,シブヤノオト,90.855
+17:10,5,Chelsea,191.465
+17:10,6,SixTONESANN,90.894
+17:10,7,에이티즈,264.837
+17:10,8,Mason Mount,50.769
+17:10,9,jade picon,45.590
+17:10,10,West Indies,
+17:41,1,ATEEZ_3rd_Anniversary,204.958
+17:41,2,우리배는_삼년째_편도로만가,192.388
+17:41,3,에이티즈,308.594
+17:41,4,Norwich,103.520
+17:41,5,シブヤノオト,101.056
+17:41,6,SixTONESANN,144.054
+17:41,7,Chelsea,200.429
+17:41,8,JIN OST IS COMING,130.480
+17:41,9,West Indies,11.988
+17:41,10,jade picon,49.756
+18:10,1,ATEEZ_3rd_Anniversary,223.931
+18:10,2,우리배는_삼년째_편도로만가,210.698
+18:10,3,Everton,36.477
+18:10,4,Watford,20.310
+18:10,5,에이티즈,325.652
+18:10,6,SixTONESANN,191.626
+18:10,7,Norwich,105.552
+18:10,8,シブヤノオト,106.588
+18:10,9,Chelsea,204.245
+18:10,10,Bill Walton,
+18:41,1,ATEEZ_3rd_Anniversary,236.492
+18:41,2,우리배는_삼년째_편도로만가,222.139
+18:41,3,Everton,41.608
+18:41,4,DogeArmyCoin,
+18:41,5,Watford,23.249
+18:41,6,에이티즈,340.871
+18:41,7,SixTONESANN,194.669
+18:41,8,Norwich,107.572
+18:41,9,Chelsea,211.079
+18:41,10,Bill Walton,
+19:10,1,ATEEZ_3rd_Anniversary,244.197
+19:10,2,우리배는_삼년째_편도로만가,229.207
+19:10,3,Everton,43.718
+19:10,4,DogeArmyCoin,
+19:10,5,Watford,24.469
+19:10,6,에이티즈,347.151
+19:10,7,ENGvWI,11.956
+19:10,8,Charly,73.223
+19:10,9,Norwich,108.860
+19:10,10,jade picon,60.854
+19:41,1,ATEEZ_3rd_Anniversary,250.248
+19:41,2,우리배는_삼년째_편도로만가,234.654
+19:41,3,Everton,45.844
+19:41,4,Kansas,20.586
+19:41,5,Watford,25.756
+19:41,6,DogeArmyCoin,
+19:41,7,에이티즈,354.385
+19:41,8,Oklahoma,20.804
+19:41,9,Foden,19.016
+19:41,10,Charly,78.209
+20:10,1,ATEEZ_3rd_Anniversary,254.665
+20:10,2,Kansas,22.486
+20:10,3,우리배는_삼년째_편도로만가,238.256
+20:10,4,Everton,46.822
+20:10,5,الهلال_الرايد,53.321
+20:10,6,Oklahoma,22.150
+20:10,7,Charly,81.692
+20:10,8,Watford,26.375
+20:10,9,DogeArmyCoin,
+20:10,10,Foden,20.430
+20:41,1,Kansas,29.579
+20:41,2,الهلال_الرايد,62.694
+20:41,3,Strictly,
+20:41,4,Oklahoma,26.426
+20:41,5,ATEEZ_3rd_Anniversary,258.227
+20:41,6,BAŞBAKAN,
+20:41,7,우리배는_삼년째_편도로만가,241.230
+20:41,8,Foden,26.083
+20:41,9,Charly,86.379
+20:41,10,Everton,48.370
+21:10,1,الهلال_الرايد,84.159
+21:10,2,Kansas,33.499
+21:10,3,Strictly,
+21:10,4,Caleb Williams,
+21:10,5,Oklahoma,28.404
+21:10,6,BAŞBAKAN,
+21:10,7,ATEEZ_3rd_Anniversary,261.318
+21:10,8,Foden,29.427
+21:10,9,Charly,88.940
+21:10,10,isencaneLengane,
+21:41,1,الهلال_الرايد,100.669
+21:41,2,Strictly,12.539
+21:41,3,Kansas,37.824
+21:41,4,Caleb Williams,
+21:41,5,Oklahoma,32.263
+21:41,6,Penn State,
+21:41,7,j2us,
+21:41,8,UFCVegas41,12.225
+21:41,9,cuida,
+21:41,10,Charly,92.866
+22:10,1,الهلال_الرايد,110.374
+22:10,2,Strictly,14.599
+22:10,3,Penn State,14.892
+22:10,4,Kansas,38.542
+22:10,5,Caleb Williams,
+22:10,6,Oklahoma,32.799
+22:10,7,Boosie,
+22:10,8,BolognaMilan,
+22:10,9,UFCVegas41,14.325
+22:10,10,j2us,
+22:41,1,Penn State,33.333
+22:41,2,Boosie,12.287
+22:41,3,الهلال_الرايد,120.113
+22:41,4,Strictly,15.242
+22:41,5,BolognaMilan,10.546
+22:41,6,Kansas,39.547
+22:41,7,TheVoiceAllStars,
+22:41,8,Caleb Williams,
+22:41,9,9 OTs,
+22:41,10,Illini,
+23:10,1,Boosie,22.183
+23:10,2,Penn State,36.483
+23:10,3,Jean Mota,
+23:10,4,BolognaMilan,13.355
+23:10,5,Strictly,15.659
+23:10,6,الهلال_الرايد,128.045
+23:10,7,TheVoiceAllStars,10.966
+23:10,8,DearEarthWithBLACKPINK,55.344
+23:10,9,kian,
+23:10,10,SAVE EARTH WITH THE PINKS,54.601
+23:41,1,Boosie,33.106
+23:41,2,Penn State,38.461
+23:41,3,Calamidade,28.869
+23:41,4,kian,13.827
+23:41,5,DearEarthWithBLACKPINK,83.815
+23:41,6,SAVE EARTH WITH THE PINKS,83.127
+23:41,7,TheVoiceAllStars,13.885
+23:41,8,Jean Mota,
+23:41,9,BolognaMilan,14.483
+23:41,10,UFCVegas41,19.026

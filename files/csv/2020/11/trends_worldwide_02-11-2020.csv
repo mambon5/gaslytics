@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,Flamengo,492.466
+00:09,2,Louro José,111.263
+00:09,3,TentacionesDBT6,37.991
+00:09,4,Steelers,157.917
+00:09,5,Volpi,50.164
+00:09,6,İdil,
+00:09,7,Tom Veiga,46.287
+00:09,8,Ravens,91.533
+00:09,9,Packers,60.277
+00:09,10,DK Metcalf,
+00:39,1,Flamengo,498.626
+00:39,2,Louro José,117.542
+00:39,3,TentacionesDBT6,44.962
+00:39,4,Wims,18.723
+00:39,5,Steelers,161.937
+00:39,6,İdil,
+00:39,7,Volpi,50.655
+00:39,8,HereWeGo,64.694
+00:39,9,Bears,51.867
+00:39,10,Ravens,93.256
+01:09,1,Flamengo,488.542
+01:09,2,Louro José,122.700
+01:09,3,TentacionesDBT6,49.762
+01:09,4,Bears,59.664
+01:09,5,Wims,24.853
+01:09,6,Steelers,164.514
+01:09,7,İdil,
+01:09,8,bbtvi,37.331
+01:09,9,49ers,33.808
+01:09,10,Foles,11.488
+01:39,1,Chargers,35.047
+01:39,2,Flamengo,492.948
+01:39,3,Louro José,127.394
+01:39,4,Bears,68.649
+01:39,5,TentacionesDBT6,54.266
+01:39,6,Wims,27.618
+01:39,7,Broncos,30.983
+01:39,8,bbtvi,42.303
+01:39,9,49ers,37.423
+01:39,10,Foles,13.725
+02:09,1,Chargers,46.488
+02:09,2,Bears,75.992
+02:09,3,Flamengo,491.077
+02:09,4,Louro José,131.034
+02:09,5,Broncos,39.033
+02:09,6,Foles,18.196
+02:09,7,TentacionesDBT6,56.328
+02:09,8,Wims,29.677
+02:09,9,bbtvi,46.886
+02:09,10,Fantastico,
+02:39,1,Chargers,49.742
+02:39,2,Wentz,14.150
+02:39,3,Bears,79.306
+02:39,4,Louro José,136.947
+02:39,5,Flamengo,494.912
+02:39,6,Ribamar,
+02:39,7,Broncos,41.671
+02:39,8,Fantastico,
+02:39,9,ARMYSelcaDay,20.017
+02:39,10,Foles,19.265
+03:09,1,Wentz,22.367
+03:09,2,chargers,51.382
+03:09,3,ARMYSelcaDay,45.925
+03:09,4,Louro José,141.945
+03:09,5,Bears,80.320
+03:09,6,Eagles,82.642
+03:09,7,Flamengo,494.051
+03:09,8,Ribamar,
+03:09,9,DALvsPHI,12.291
+03:09,10,Fantastico,
+03:39,1,Wentz,31.189
+03:39,2,MasterChefArgentina,22.275
+03:39,3,ARMYSelcaDay,69.483
+03:39,4,Chargers,52.618
+03:39,5,RHOP,
+03:39,6,Louro José,145.063
+03:39,7,Bears,81.763
+03:39,8,90DayFiance,
+03:39,9,FlyEaglesFly,16.126
+03:39,10,doyoung,311.414
+04:09,1,Wentz,44.587
+04:09,2,MasterChefArgentina,26.974
+04:09,3,RHOP,16.149
+04:09,4,ARMYSelcaDay,92.385
+04:09,5,Chargers,53.446
+04:09,6,fede bal,
+04:09,7,MONSTA X WORLD DOMINATION,20.739
+04:09,8,NFC East,10.686
+04:09,9,FlyEaglesFly,17.418
+04:09,10,90DayFiance,10.481
+04:39,1,Wentz,64.366
+04:39,2,Cowboys,65.307
+04:39,3,Eagles,117.271
+04:39,4,ARMYSelcaDay,110.684
+04:39,5,RHOP,18.162
+04:39,6,MasterChefArgentina,27.802
+04:39,7,DALvsPHI,22.215
+04:39,8,MONSTA X WORLD DOMINATION,30.741
+04:39,9,Diggs,16.415
+04:39,10,Carson,40.945
+05:09,1,Wentz,67.237
+05:09,2,ARMYSelcaDay,122.200
+05:09,3,FATAL_LOVE,119.597
+05:09,4,RHOP,19.259
+05:09,5,MasterChefArgentina,28.257
+05:09,6,Diggs,16.698
+05:09,7,DiNucci,29.668
+05:09,8,NFC East,13.558
+05:09,9,FlyEaglesFly,21.614
+05:09,10,Jalen,10.365
+05:39,1,Cowboys,84.529
+05:39,2,FATAL_LOVE,162.529
+05:39,3,Carson Wentz,24.256
+05:39,4,ARMYSelcaDay,129.834
+05:39,5,FlyEaglesFly,25.429
+05:39,6,RHOP,20.052
+05:39,7,NFC East,16.074
+05:39,8,GDRAGONISCOMING,31.037
+05:39,9,DiNucci,33.540
+05:39,10,MONSTA,224.917
+06:09,1,Cowboys,88.800
+06:09,2,FATAL_LOVE,189.807
+06:09,3,Wentz,72.909
+06:09,4,GDRAGONISCOMING,38.672
+06:09,5,FlyEaglesFly,27.162
+06:09,6,ARMYSelcaDay,134.990
+06:09,7,LoveKilla,77.934
+06:09,8,MONSTA,256.993
+06:09,9,NFC East,16.977
+06:09,10,DiNucci,34.815
+06:39,1,Cowboys,90.869
+06:39,2,FATAL_LOVE,209.019
+06:39,3,Wentz,74.047
+06:39,4,GDRAGONISCOMING,46.275
+06:39,5,MONSTA X WORLD DOMINATION,62.763
+06:39,6,LoveKilla,88.118
+06:39,7,ARMYSelcaDay,138.159
+06:39,8,FlyEaglesFly,27.819
+06:39,9,NFC East,17.346
+06:39,10,Elif,17.055
+07:09,1,FATAL_LOVE,228.121
+07:09,2,Cowboys,91.850
+07:09,3,Elif,25.354
+07:09,4,GDRAGONISCOMING,52.628
+07:09,5,LoveKilla,102.616
+07:09,6,Carson Wentz,25.929
+07:09,7,gigiproietti,
+07:09,8,MONSTA,301.874
+07:09,9,pazartesi,
+07:09,10,NFC East,17.563
+07:39,1,FATAL_LOVE,241.782
+07:39,2,Elif,36.428
+07:39,3,Cowboys,92.714
+07:39,4,gigiproietti,
+07:39,5,GDRAGONISCOMING,58.287
+07:39,6,changkyun,35.247
+07:39,7,pazartesi,
+07:39,8,LoveKilla,110.622
+07:39,9,Carson Wentz,26.123
+07:39,10,MONSTA,317.249
+08:09,1,Elif,49.320
+08:09,2,gigiproietti,
+08:09,3,FATAL_LOVE,249.019
+08:09,4,Cowboys,93.098
+08:09,5,GDRAGONISCOMING,63.016
+08:09,6,pazartesi,
+08:09,7,LoveKilla,115.916
+08:09,8,고인의 명복,
+08:09,9,개그우먼,10.450
+08:09,10,Carson Wentz,26.235
+08:39,1,gigiproietti,13.581
+08:39,2,Elif,64.574
+08:39,3,고인의 명복,
+08:39,4,FATAL_LOVE,255.297
+08:39,5,GDRAGONISCOMING,67.052
+08:39,6,Cowboys,93.575
+08:39,7,pazartesi,
+08:39,8,mondaythoughts,13.243
+08:39,9,개그우먼,14.984
+08:39,10,Eagles,150.631
+09:09,1,Elif,83.831
+09:09,2,gigiproietti,17.787
+09:09,3,고인의 명복,15.248
+09:09,4,MondayMotivation,26.256
+09:09,5,FATAL_LOVE,260.434
+09:09,6,GDRAGONISCOMING,70.768
+09:09,7,やんちゃな100万円の使い方選手権,
+09:09,8,개그우먼,17.055
+09:09,9,Cowboys,93.835
+09:09,10,戦力外通告,
+09:39,1,Elif,104.564
+09:39,2,gigiproietti,21.803
+09:39,3,고인의 명복,25.163
+09:39,4,MondayMotivation,29.958
+09:39,5,やんちゃな100万円の使い方選手権,
+09:39,6,GDRAGONISCOMING,74.118
+09:39,7,FATAL_LOVE,272.630
+09:39,8,개그우먼,18.419
+09:39,9,戦力外通告,
+09:39,10,Öldürmeyen Allah,
+10:09,1,Elif,122.310
+10:09,2,gigiproietti,25.489
+10:09,3,고인의 명복,32.411
+10:09,4,MondayMotivation,33.913
+10:09,5,ቻンቻン振り回してる人と繋がりたい,
+10:09,6,やんちゃな100万円の使い方選手権,
+10:09,7,大泉洋司会の紅白でありそうなこと,
+10:09,8,戦力外通告,
+10:09,9,개그우먼,19.390
+10:09,10,Öldürmeyen Allah,
+10:39,1,Elif,138.278
+10:39,2,gigiproietti,29.155
+10:39,3,고인의 명복,38.925
+10:39,4,MondayMotivation,38.172
+10:39,5,ቻンቻン振り回してる人と繋がりたい,
+10:39,6,大泉洋司会の紅白でありそうなこと,
+10:39,7,やんちゃな100万円の使い方選手権,
+10:39,8,抽選販売,39.488
+10:39,9,戦力外通告,10.288
+10:39,10,Öldürmeyen Allah,
+11:09,1,Elif,152.760
+11:09,2,gigiproietti,32.758
+11:09,3,MondayMotivation,42.120
+11:09,4,ቻンቻン振り回してる人と繋がりたい,
+11:09,5,고인의 명복,44.275
+11:09,6,大泉洋司会の紅白でありそうなこと,
+11:09,7,ネプリーグ,28.552
+11:09,8,NHK沼,
+11:09,9,FOREVER WITH RED VELVET,11.549
+11:09,10,抽選販売,42.245
+11:39,1,Elif,165.451
+11:39,2,gigiproietti,35.743
+11:39,3,ネプリーグ,43.716
+11:39,4,MondayMotivation,45.874
+11:39,5,ቻンቻン振り回してる人と繋がりたい,
+11:39,6,고인의 명복,48.095
+11:39,7,オーーーン,11.377
+11:39,8,JusticeForJohnnyDepp,11.287
+11:39,9,大泉洋司会の紅白でありそうなこと,
+11:39,10,FOREVER WITH RED VELVET,20.658
+12:09,1,Elif,176.248
+12:09,2,ネプリーグ,52.909
+12:09,3,JusticeForJohnnyDepp,18.749
+12:09,4,gigiproietti,38.249
+12:09,5,MondayMotivation,49.502
+12:09,6,ቻンቻン振り回してる人と繋がりたい,
+12:09,7,オーーーン,16.794
+12:09,8,大泉洋司会の紅白でありそうなこと,11.002
+12:09,9,고인의 명복,51.318
+12:09,10,FOREVER WITH RED VELVET,27.203
+12:39,1,ネプリーグ,62.859
+12:39,2,Elif,189.459
+12:39,3,JusticeForJohnnyDepp,26.388
+12:39,4,MondayMotivation,53.404
+12:39,5,ቻンቻン振り回してる人と繋がりたい,10.927
+12:39,6,オーーーン,27.029
+12:39,7,gigiproietti,40.543
+12:39,8,大泉洋司会の紅白でありそうなこと,12.834
+12:39,9,FOREVER WITH RED VELVET,31.061
+12:39,10,고인의 명복,54.164
+13:09,1,ネプリーグ,82.998
+13:09,2,JusticeForJohnnyDepp,33.171
+13:09,3,Elif,199.945
+13:09,4,MondayMotivation,56.919
+13:09,5,ቻンቻン振り回してる人と繋がりたい,12.758
+13:09,6,大泉洋司会の紅白でありそうなこと,14.475
+13:09,7,gigiproietti,42.390
+13:09,8,FOREVER WITH RED VELVET,34.345
+13:09,9,고인의 명복,56.435
+13:09,10,れおほー,
+13:39,1,MaisVoce,
+13:39,2,監察医朝顔,15.408
+13:39,3,ネプリーグ,92.500
+13:39,4,オーーーン,42.199
+13:39,5,松田元太,11.080
+13:39,6,JusticeForJohnnyDepp,40.265
+13:39,7,MondayMotivation,60.554
+13:39,8,Elif,210.866
+13:39,9,FOREVER WITH RED VELVET,37.492
+13:39,10,れおほー,
+14:09,1,MaisVoce,24.854
+14:09,2,監察医朝顔,20.836
+14:09,3,Ana Maria Braga,21.714
+14:09,4,ネプリーグ,99.165
+14:09,5,松田元太,13.929
+14:09,6,JusticeForJohnnyDepp,45.345
+14:09,7,MondayMotivation,64.370
+14:09,8,Elif,230.459
+14:09,9,André Marques,
+14:09,10,FOREVER WITH RED VELVET,39.944
+14:39,1,MaisVoce,34.814
+14:39,2,監察医朝顔,26.979
+14:39,3,Ana Maria Braga,26.304
+14:39,4,松田元太,17.877
+14:39,5,球場で撮った野球じゃない写真選手権,
+14:39,6,PlaymorexMewGulf1st,106.622
+14:39,7,オーーーン,50.555
+14:39,8,Elif,244.800
+14:39,9,André Marques,
+14:39,10,D0Landirici Tuclk,
+15:09,1,MaisVoce,40.907
+15:09,2,Ana Maria,57.658
+15:09,3,監察医朝顔,28.707
+15:09,4,球場で撮った野球じゃない写真選手権,
+15:09,5,MondayMotivation,72.071
+15:09,6,SixTONESと同じ時代刻もう,
+15:09,7,Elif,255.670
+15:09,8,オーーーン,53.596
+15:09,9,BRIDGERTON ON CHRISTMAS,10.724
+15:09,10,Magna Carta,
+15:39,1,MaisVoce,45.312
+15:39,2,球場で撮った野球じゃない写真選手権,
+15:39,3,ARMYSelcaDay,325.555
+15:39,4,監察医朝顔,29.626
+15:39,5,Ana Maria Braga,31.771
+15:39,6,MondayMotivation,75.861
+15:39,7,Elif,266.180
+15:39,8,BRIDGERTON ON CHRISTMAS,13.662
+15:39,9,オーーーン,55.978
+15:39,10,Magna Carta,
+16:09,1,ARMYSelcaDay,353.486
+16:09,2,PARK JIMIN,52.750
+16:09,3,MaisVoce,48.859
+16:09,4,Ana Maria,64.269
+16:09,5,HBDtoMINHYUK,15.949
+16:09,6,球場で撮った野球じゃない写真選手権,
+16:09,7,LOONAonBillboard200,10.042
+16:09,8,BRIDGERTON ON CHRISTMAS,16.639
+16:09,9,Magna Carta,
+16:09,10,Elif,274.991
+16:39,1,Park Jimin,98.478
+16:39,2,ARMYSelcaDay,382.287
+16:39,3,HBDtoMINHYUK,45.342
+16:39,4,嵐デビュー21周年,11.209
+16:39,5,SomosMIBR,
+16:39,6,LOONAonBillboard200,15.736
+16:39,7,そらるさん,25.771
+16:39,8,Ana Maria,66.663
+16:39,9,BRIDGERTON ON CHRISTMAS,20.484
+16:39,10,Magna Carta,10.091
+17:09,1,ARMYSelcaDay,408.165
+17:09,2,PARK JIMIN,113.990
+17:09,3,HBDtoMINHYUK,60.196
+17:09,4,嵐デビュー21周年,14.283
+17:09,5,SomosMIBR,10.720
+17:09,6,LOONAonBillboard200,20.980
+17:09,7,そらるさん,30.397
+17:09,8,Ana Maria,68.711
+17:09,9,BRIDGERTON ON CHRISTMAS,23.350
+17:09,10,Magna Carta,11.338
+17:39,1,ARMYSelcaDay,431.782
+17:39,2,Park Jimin,123.266
+17:39,3,HBDtoMINHYUK,67.272
+17:39,4,嵐デビュー21周年,16.259
+17:39,5,SomosMIBR,15.264
+17:39,6,呪術廻戦第1回キャラクター診断,
+17:39,7,そらるさん,32.525
+17:39,8,Ana Maria,70.598
+17:39,9,BRIDGERTON ON CHRISTMAS,25.063
+17:39,10,Magna Carta,12.812
+18:09,1,ARMYSelcaDay,452.688
+18:09,2,Park Jimin,128.965
+18:09,3,SomosMIBR,17.382
+18:09,4,HBDtoMINHYUK,72.718
+18:09,5,嵐デビュー21周年,17.393
+18:09,6,مكه_الان,11.769
+18:09,7,そらるさん,33.533
+18:09,8,Abe Froman,
+18:09,9,Magna Carta,13.974
+18:09,10,BRIDGERTON ON CHRISTMAS,26.104
+18:39,1,ARMYSelcaDay,470.858
+18:39,2,SomosMIBR,19.981
+18:39,3,Park Jimin,135.036
+18:39,4,HBDtoMINHYUK,76.578
+18:39,5,DCvRCB,23.135
+18:39,6,嵐デビュー21周年,18.055
+18:39,7,Abe Froman,
+18:39,8,Magna Carta,15.160
+18:39,9,そらるさん,34.032
+18:39,10,Election Day,461.858
+19:09,1,SomosMIBR,23.597
+19:09,2,ARMYSelcaDay,484.093
+19:09,3,DCvRCB,25.604
+19:09,4,HBDtoMINHYUK,79.728
+19:09,5,Park Jimin,138.450
+19:09,6,Election2020,173.185
+19:09,7,Abe Froman,
+19:09,8,Magna Carta,16.032
+19:09,9,そらるさん,34.332
+19:09,10,Kwon,23.542
+19:39,1,SomosMIBR,26.374
+19:39,2,ARSD,485.526
+19:39,3,Election2020,189.048
+19:39,4,DCvRCB,26.714
+19:39,5,izmirdepreminde,36.617
+19:39,6,Park Jimin,142.265
+19:39,7,SWAT,84.495
+19:39,8,Kwon,26.766
+19:39,9,Abe Froman,
+19:39,10,Magna Carta,16.813
+20:09,1,SomosMIBR,28.421
+20:09,2,ARSD,495.314
+20:09,3,ANTvFB,
+20:09,4,Election2020,197.078
+20:09,5,SWAT,92.891
+20:09,6,izmirdepreminde,39.807
+20:09,7,Election Day,515.962
+20:09,8,Park Jimin,144.655
+20:09,9,Kwon,28.012
+20:09,10,Abe Froman,
+20:39,1,ANTvFB,12.086
+20:39,2,SomosMIBR,29.163
+20:39,3,ARSD,504.613
+20:39,4,ElectionDay,89.367
+20:39,5,SWAT,101.167
+20:39,6,izmirdepreminde,43.190
+20:39,7,Fulham,10.959
+20:39,8,Abe Froman,
+20:39,9,Perotti,
+20:39,10,Ivana Nadal,
+21:09,1,SomosMIBR,33.086
+21:09,2,sedadincer,27.794
+21:09,3,ANTvFB,12.690
+21:09,4,ARSD,512.081
+21:09,5,ElectionDay,92.460
+21:09,6,SWAT,107.764
+21:09,7,Ivana Nadal,
+21:09,8,Fulham,11.507
+21:09,9,Poch,
+21:09,10,Abe Froman,
+21:39,1,sedadincer,38.015
+21:39,2,SomosMIBR,38.653
+21:39,3,Vienna,18.949
+21:39,4,ElectionDay,99.744
+21:39,5,Leeds,28.071
+21:39,6,ANTvFB,13.235
+21:39,7,SWAT,114.993
+21:39,8,Ivana Nadal,
+21:39,9,Guga,
+21:39,10,Veiga,106.416
+22:09,1,sedadincer,44.668
+22:09,2,Vienna,38.959
+22:09,3,SomosMIBR,39.611
+22:09,4,Leeds,30.519
+22:09,5,LEELEI,
+22:09,6,ElectionDay,101.972
+22:09,7,Voted,526.154
+22:09,8,SWAT,120.540
+22:09,9,Ivana Nadal,
+22:09,10,Guga,
+22:39,1,Vienna,60.978
+22:39,2,sedadincer,50.757
+22:39,3,Wien,29.707
+22:39,4,Rony,13.391
+22:39,5,Sampaoli,
+22:39,6,SomosMIBR,41.387
+22:39,7,LEELEI,
+22:39,8,Voted,549.743
+22:39,9,Vardy,10.504
+22:39,10,Guga,
+23:09,1,Vienna,84.356
+23:09,2,Sampaoli,16.571
+23:09,3,sedadincer,53.424
+23:09,4,LEELEI,10.874
+23:09,5,Rony,15.628
+23:09,6,lufc,
+23:09,7,Voted,548.176
+23:09,8,Atlético,50.986
+23:09,9,Benfica,12.910
+23:09,10,Guga,
+23:39,1,Vienna,100.977
+23:39,2,Sampaoli,19.332
+23:39,3,sedadincer,55.902
+23:39,4,Leeds,39.749
+23:39,5,Benfica,15.132
+23:39,6,Voted,575.251
+23:39,7,Atlético,55.563
+23:39,8,Rony,16.483
+23:39,9,Election2020,256.708
+23:39,10,Austria,26.250

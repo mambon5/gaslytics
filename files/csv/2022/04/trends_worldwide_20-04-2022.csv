@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,LIVMUN,210.506
+00:10,2,Liverpool,535.877
+00:10,3,Thiago,95.726
+00:10,4,Maguire,174.491
+00:10,5,SalarioRosa,176.106
+00:10,6,InterMilan,36.825
+00:10,7,Rashford,42.031
+00:10,8,MUFC,139.370
+00:10,9,Man U,66.385
+00:10,10,Hannibal,36.112
+00:40,1,LIVMUN,211.265
+00:40,2,Liverpool,548.216
+00:40,3,Thiago,100.033
+00:40,4,Maguire,180.136
+00:40,5,SalarioRosa,185.130
+00:40,6,Manchester United,257.609
+00:40,7,InterMilan,37.887
+00:40,8,Rashford,43.774
+00:40,9,شكرا_محمد_بن_سلمان,
+00:40,10,MUFC,145.862
+01:10,1,LIVMUN,213.612
+01:10,2,Liverpool,556.280
+01:10,3,SalarioRosa,192.149
+01:10,4,Thiago,102.076
+01:10,5,Maguire,183.137
+01:10,6,Manchester United,261.131
+01:10,7,InterMilan,38.463
+01:10,8,Ezra Miller,16.723
+01:10,9,Rashford,44.913
+01:10,10,شكرا_محمد_بن_سلمان,10.129
+01:40,1,LIVMUN,215.662
+01:40,2,Liverpool,564.194
+01:40,3,SalarioRosa,198.880
+01:40,4,Thiago,104.599
+01:40,5,Maguire,186.123
+01:40,6,Ezra Miller,19.918
+01:40,7,Manchester United,265.557
+01:40,8,InterMilan,38.939
+01:40,9,Rashford,45.720
+01:40,10,شكرا_محمد_بن_سلمان,11.324
+02:10,1,LIVMUN,217.303
+02:10,2,SalarioRosa,210.597
+02:10,3,Liverpool,568.580
+02:10,4,Gerrit Cole,
+02:10,5,Ezra Miller,23.325
+02:10,6,Thiago,105.780
+02:10,7,Maguire,187.620
+02:10,8,Manchester United,267.380
+02:10,9,InterMilan,39.191
+02:10,10,شكرا_محمد_بن_سلمان,12.777
+02:40,1,SalarioRosa,222.322
+02:40,2,Gerrit Cole,
+02:40,3,LIVMUN,218.670
+02:40,4,Liverpool,573.917
+02:40,5,Ezra Miller,26.426
+02:40,6,Thiago,107.616
+02:40,7,Maguire,189.551
+02:40,8,Kyle Lowry,
+02:40,9,HaveASafeFlightAteez,
+02:40,10,Manchester United,269.641
+03:10,1,SalarioRosa,232.104
+03:10,2,Gerrit Cole,
+03:10,3,shawn,26.766
+03:10,4,Ezra Miller,29.557
+03:10,5,盛山卒業で新メンバーは東ブクロ,
+03:10,6,RHONJ,
+03:10,7,LIVMUN,219.754
+03:10,8,ラヴィット,18.777
+03:10,9,Liverpool,570.326
+03:10,10,Lowry,
+03:40,1,SalarioRosa,245.593
+03:40,2,Juma,16.337
+03:40,3,shawn,28.657
+03:40,4,Gerrit Cole,
+03:40,5,Ezra Miller,32.309
+03:40,6,blackish,
+03:40,7,HaveASafeFlightATEEZ,13.644
+03:40,8,RHONJ,
+03:40,9,盛山卒業で新メンバーは東ブクロ,
+03:40,10,Jimmy Butler,
+04:10,1,Jimmy Butler,17.772
+04:10,2,Pantanal,48.341
+04:10,3,SalarioRosa,259.704
+04:10,4,ThisIsUs,
+04:10,5,Marlon,11.475
+04:10,6,Juma,19.100
+04:10,7,Vila Nova,
+04:10,8,HEATCulture,
+04:10,9,Ezra Miller,35.102
+04:10,10,shawn,29.246
+04:40,1,Gustavo,252.540
+04:40,2,Eliezer,47.341
+04:40,3,Jimmy Butler,24.166
+04:40,4,Cruzeiro,45.284
+04:40,5,João Paulo,
+04:40,6,SalarioRosa,271.431
+04:40,7,Pantanal,50.261
+04:40,8,ThisIsUs,
+04:40,9,Marlon,12.936
+04:40,10,Remo,13.182
+05:10,1,Gustavo,264.542
+05:10,2,Eliezer,53.696
+05:10,3,Cruzeiro,47.355
+05:10,4,Tadeu,27.489
+05:10,5,Jimmy Butler,26.849
+05:10,6,Booker,18.986
+05:10,7,João Paulo,
+05:10,8,SalarioRosa,280.026
+05:10,9,Remo,14.395
+05:10,10,Fiuk,
+05:40,1,Gustavo,280.139
+05:40,2,Eliezer,62.093
+05:40,3,forascooby,21.687
+05:40,4,Booker,36.803
+05:40,5,Cruzeiro,48.600
+05:40,6,Tadeu,29.713
+05:40,7,Jimmy Butler,28.441
+05:40,8,ForaEli,23.575
+05:40,9,João Paulo,
+05:40,10,Fiuk,
+06:10,1,Gustavo,283.974
+06:10,2,forascooby,29.752
+06:10,3,Booker,44.994
+06:10,4,Eliezer,65.483
+06:10,5,justin bieber,59.975
+06:10,6,Cruzeiro,48.773
+06:10,7,Jimmy Butler,29.380
+06:10,8,Tadeu,30.209
+06:10,9,ForaEli,25.878
+06:10,10,MagalyTVLaFirme,
+06:40,1,Gustavo,292.714
+06:40,2,Pelicans,21.130
+06:40,3,Booker,53.581
+06:40,4,Ingram,14.936
+06:40,5,forascooby,34.994
+06:40,6,Eliezer,67.754
+06:40,7,justin bieber,65.103
+06:40,8,Suns,45.914
+06:40,9,ポプマス,
+06:40,10,Cruzeiro,49.108
+07:10,1,Gustavo,296.958
+07:10,2,Pelicans,24.276
+07:10,3,Booker,58.185
+07:10,4,Brandon Ingram,10.641
+07:10,5,forascooby,39.272
+07:10,6,Eliezer,68.995
+07:10,7,ポプマス,12.231
+07:10,8,Suns,50.146
+07:10,9,justin bieber,65.250
+07:10,10,Scott Foster,13.047
+07:40,1,Gustavo,300.873
+07:40,2,Pelicans,25.591
+07:40,3,Booker,60.906
+07:40,4,Brandon Ingram,11.796
+07:40,5,ポプマス,17.367
+07:40,6,forascooby,41.770
+07:40,7,Eliezer,70.086
+07:40,8,Suns,52.318
+07:40,9,Miyashiro,18.490
+07:40,10,justin bieber,66.253
+08:10,1,Gustavo,301.381
+08:10,2,Pelicans,26.326
+08:10,3,ポプマス,21.934
+08:10,4,Booker,62.374
+08:10,5,Brandon Ingram,12.566
+08:10,6,forascooby,43.316
+08:10,7,Bulldozer,17.070
+08:10,8,Eliezer,70.575
+08:10,9,Happy 420,14.234
+08:10,10,Suns,53.116
+08:40,1,Gustavo,303.045
+08:40,2,ポプマス,25.449
+08:40,3,Pelicans,26.949
+08:40,4,Bulldozer,22.619
+08:40,5,Booker,63.755
+08:40,6,LazadaLebaranMegaSale,
+08:40,7,Diskon Hingga 90%,
+08:40,8,Brandon Ingram,13.086
+08:40,9,forascooby,44.274
+08:40,10,Happy 420,16.405
+09:10,1,ポプマス,28.342
+09:10,2,Bulldozer,28.883
+09:10,3,Gustavo,302.709
+09:10,4,Pelicans,27.242
+09:10,5,Happy 420,19.375
+09:10,6,LazadaLebaranMegaSale,
+09:10,7,Diskon Hingga 90%,
+09:10,8,Booker,64.718
+09:10,9,Brandon Ingram,13.432
+09:10,10,GalaxyBook2Pro,
+09:40,1,Bulldozer,35.607
+09:40,2,ポプマス,30.829
+09:40,3,Happy 420,22.813
+09:40,4,Gustavo,303.644
+09:40,5,Pelicans,27.595
+09:40,6,LazadaLebaranMegaSale,
+09:40,7,Diskon Hingga 90%,
+09:40,8,Booker,65.694
+09:40,9,GalaxyBook2Pro,
+09:40,10,消費税19,18.320
+10:10,1,Bulldozer,41.617
+10:10,2,Happy 420,26.529
+10:10,3,ポプマス,33.367
+10:10,4,AdaletİçinAzKaldı,
+10:10,5,GalaxyBook2Pro,
+10:10,6,BengalMeansBusiness,
+10:10,7,xaviernaidoo,
+10:10,8,ローレン,
+10:10,9,消費税19,19.547
+10:10,10,Gustavo,303.120
+10:40,1,LevantateyJuega,
+10:40,2,NintendoSwitchSports,
+10:40,3,Happy 420,30.616
+10:40,4,Bulldozer,47.306
+10:40,5,ポプマス,35.913
+10:40,6,GalaxyBook2Pro,
+10:40,7,ローレン,
+10:40,8,AdaletİçinAzKaldı,
+10:40,9,消費税19,21.122
+10:40,10,ダイオウイカ,
+11:10,1,LevantateyJuega,
+11:10,2,NintendoSwitchSports,
+11:10,3,Happy 420,34.520
+11:10,4,Bulldozer,53.566
+11:10,5,ポプマス,38.941
+11:10,6,ローレン,
+11:10,7,ハーフミリオン,
+11:10,8,xaviernaidoo,
+11:10,9,Bursa,
+11:10,10,ダイオウイカ,
+11:40,1,LevantateyJuega,
+11:40,2,NintendoSwitchSports,
+11:40,3,Happy 420,38.860
+11:40,4,LeadersDebate,
+11:40,5,Bulldozer,58.859
+11:40,6,ローレン,
+11:40,7,Rubiales,47.141
+11:40,8,ポプマス,42.054
+11:40,9,420day,10.880
+11:40,10,ハーフミリオン,
+12:10,1,LevantateyJuega,12.173
+12:10,2,NintendoSwitchSports,13.084
+12:10,3,LeadersDebate,10.933
+12:10,4,Happy 420,42.853
+12:10,5,Rubiales,51.710
+12:10,6,ローレン,
+12:10,7,Bulldozer,64.109
+12:10,8,420day,12.127
+12:10,9,ダイオウイカ,14.285
+12:10,10,ポプマス,44.806
+12:40,1,DREAMCATCHER1stWin,46.088
+12:40,2,MoonKnight,62.964
+12:40,3,LevantateyJuega,15.492
+12:40,4,NintendoSwitchSports,16.505
+12:40,5,LeadersDebate,16.112
+12:40,6,Happy 420,47.011
+12:40,7,Rubiales,57.199
+12:40,8,ローレン,
+12:40,9,ダイオウイカ,16.748
+12:40,10,ポプマス,47.403
+13:10,1,DREAMCATCHER1stWin,95.592
+13:10,2,MoonKnight,67.525
+13:10,3,LevantateyJuega,17.915
+13:10,4,NintendoSwitchSports,18.953
+13:10,5,MAISON1stWin,31.414
+13:10,6,Happy 420,51.119
+13:10,7,Rubiales,60.265
+13:10,8,SA FRIDAY NA,37.585
+13:10,9,Anna,126.132
+13:10,10,ローレン,
+13:40,1,DREAMCATCHER1stWin,124.523
+13:40,2,Bizum20Millones,
+13:40,3,MoonKnight,72.932
+13:40,4,LevantateyJuega,20.553
+13:40,5,NintendoSwitchSports,21.635
+13:40,6,Happy 420,56.058
+13:40,7,Rubiales,64.938
+13:40,8,一平ちゃん,
+13:40,9,ポランコ,
+13:40,10,SA FRIDAY NA,45.094
+14:10,1,DREAMCATCHER1stWin,149.864
+14:10,2,Bizum20Millones,
+14:10,3,MoonKnight,77.987
+14:10,4,LevantateyJuega,22.731
+14:10,5,NintendoSwitchSports,23.850
+14:10,6,Happy 420,61.331
+14:10,7,わしほー,
+14:10,8,おりほー,
+14:10,9,れおほー,
+14:10,10,Rubiales,67.963
+14:40,1,DREAMCATCHER1stWin,170.247
+14:40,2,Bizum20Millones,
+14:40,3,特捜9,21.635
+14:40,4,BelanjadiBigRamadanSale,14.834
+14:40,5,どらほー,
+14:40,6,Happy 420,67.347
+14:40,7,横浜優勝,
+14:40,8,Ramadan Sama Shopee,14.040
+14:40,9,MoonKnight,83.700
+14:40,10,おりほー,
+15:10,1,DREAMCATCHER1stWin,195.499
+15:10,2,Bizum20Millones,
+15:10,3,特捜9,28.448
+15:10,4,BelanjadiBigRamadanSale,26.315
+15:10,5,Happy 420,73.721
+15:10,6,ShopeeGratisOngkirRp0,16.660
+15:10,7,Ramadan Sama Shopee,24.034
+15:10,8,どらほー,
+15:10,9,横浜優勝,
+15:10,10,PROMONYA BERLIPAT GANDA,26.070
+15:40,1,DREAMCATCHER1stWin,213.500
+15:40,2,Bizum20Millones,11.039
+15:40,3,BelanjadiBigRamadanSale,38.555
+15:40,4,Happy 420,81.930
+15:40,5,ShopeeGratisOngkirRp0,27.192
+15:40,6,特捜9,29.406
+15:40,7,Ramadan Sama Shopee,34.249
+15:40,8,どらほー,
+15:40,9,PROMONYA BERLIPAT GANDA,44.567
+15:40,10,横浜優勝,
+16:10,1,DREAMCATCHER1stWin,228.175
+16:10,2,Happy 420,90.575
+16:10,3,Bizum20Millones,12.298
+16:10,4,BelanjadiBigRamadanSale,46.201
+16:10,5,420day,28.684
+16:10,6,THEFIRSTTAKE,93.295
+16:10,7,Ramadan Sama Shopee,40.369
+16:10,8,PROMONYA BERLIPAT GANDA,62.549
+16:10,9,自力V消滅,
+16:10,10,どらほー,
+16:40,1,Happy 420,99.847
+16:40,2,DREAMCATCHER1stWin,240.148
+16:40,3,Bizum20Millones,13.653
+16:40,4,420day,32.227
+16:40,5,ヒョンソクはトゥメの同伴者,118.581
+16:40,6,THEFIRSTTAKE,107.696
+16:40,7,AMAZING CHOI HYUNSUK DAY,115.603
+16:40,8,Ramadan Sama Shopee,42.892
+16:40,9,自力V消滅,
+16:40,10,PROMONYA BERLIPAT GANDA,67.767
+17:10,1,ヒョンソクはトゥメの同伴者,200.229
+17:10,2,247FairyChoiHyunsukDay,202.730
+17:10,3,JAYBsRNBxJinyoung,52.549
+17:10,4,JO1ANNX,30.982
+17:10,5,Happy 420,108.625
+17:10,6,420day,35.648
+17:10,7,THURSDAY'S SPOILER,20.454
+17:10,8,Jett,17.160
+17:10,9,Sonic Origins,27.995
+17:10,10,自力V消滅,
+17:40,1,247FairyChoiHyunsukDay,267.580
+17:40,2,ヒョンソクはトゥメの同伴者,259.471
+17:40,3,JO1ANNX,78.897
+17:40,4,JAYBsRNBxJinyoung,154.478
+17:40,5,Happy 420,119.632
+17:40,6,420day,39.604
+17:40,7,第90回,
+17:40,8,Jett,19.449
+17:40,9,Sonic Origins,31.593
+17:40,10,THURSDAY'S SPOILER,21.344
+18:10,1,247FairyChoiHyunsukDay,297.425
+18:10,2,ヒョンソクはトゥメの同伴者,285.707
+18:10,3,JO1ANNX,117.007
+18:10,4,JAYBsRNBxJinyoung,241.812
+18:10,5,Happy 420,129.457
+18:10,6,420day,43.664
+18:10,7,第90回,
+18:10,8,Jett,21.131
+18:10,9,Wordle 306,
+18:10,10,Sonic Origins,34.814
+18:40,1,247FairyChoiHyunsukDay,312.381
+18:40,2,ヒョンソクはトゥメの同伴者,297.907
+18:40,3,Happy 420,139.304
+18:40,4,JAYBsRNBxJinyoung,296.579
+18:40,5,JO1ANNX,125.946
+18:40,6,420day,47.350
+18:40,7,第90回,
+18:40,8,Jett,22.850
+18:40,9,Sonic Origins,37.907
+18:40,10,Wordle 306,
+19:10,1,Deebo,41.239
+19:10,2,247FairyChoiHyunsukDay,322.031
+19:10,3,ヒョンソクはトゥメの同伴者,305.686
+19:10,4,Happy 420,149.215
+19:10,5,420day,50.701
+19:10,6,JAYBsRNBxJinyoung,326.464
+19:10,7,JO1ANNX,128.550
+19:10,8,49ers,21.639
+19:10,9,第90回,
+19:10,10,Jett,24.109
+19:40,1,Deebo,55.849
+19:40,2,Happy 420,160.048
+19:40,3,247FairyChoiHyunsukDay,327.721
+19:40,4,420day,54.338
+19:40,5,49ers,27.019
+19:40,6,ヒョンソクはトゥメの同伴者,309.920
+19:40,7,ChimeFinLIT,
+19:40,8,JAYBsRNBxJinyoung,344.422
+19:40,9,Niners,
+19:40,10,第90回,
+20:10,1,Deebo,65.070
+20:10,2,Happy 420,170.513
+20:10,3,49ers,29.969
+20:10,4,420day,57.038
+20:10,5,247FairyChoiHyunsukDay,331.754
+20:10,6,ChimeFinLIT,
+20:10,7,ヒョンソクはトゥメの同伴者,313.089
+20:10,8,乃木坂46ANN,25.951
+20:10,9,Niners,
+20:10,10,AMAZING CHOI HYUNSUK DAY,268.953
+20:40,1,Deebo,72.230
+20:40,2,Happy 420,181.082
+20:40,3,49ers,32.273
+20:40,4,ChimeFinLIT,
+20:40,5,420day,59.826
+20:40,6,247FairyChoiHyunsukDay,334.277
+20:40,7,CHEARS,35.970
+20:40,8,ImranKhanLIVE,105.180
+20:40,9,Niners,
+20:40,10,Elneny,
+21:10,1,Deebo,77.378
+21:10,2,Christensen,21.091
+21:10,3,CHEARS,55.409
+21:10,4,debatmacronlepen,27.494
+21:10,5,Ramsdale,
+21:10,6,Happy 420,189.959
+21:10,7,49ers,33.802
+21:10,8,Debat2022,
+21:10,9,420day,62.562
+21:10,10,ChimeFinLIT,
+21:40,1,debatmacronlepen,62.572
+21:40,2,CHEARS,75.659
+21:40,3,Arsenal,224.234
+21:40,4,Christensen,26.562
+21:40,5,Deebo,82.253
+21:40,6,Debat2022,16.961
+21:40,7,Xhaka,
+21:40,8,Tavares,
+21:40,9,Ramsdale,
+21:40,10,NiMarineNiLePen,30.842
+22:10,1,debatmacronlepen,149.204
+22:10,2,CHEARS,87.214
+22:10,3,Arsenal,241.748
+22:10,4,Christensen,28.770
+22:10,5,Debat2022,31.318
+22:10,6,Sarr,14.164
+22:10,7,Deebo,86.445
+22:10,8,Nketiah,22.891
+22:10,9,Lukaku,28.019
+22:10,10,Xhaka,
+22:40,1,debatmacronlepen,237.431
+22:40,2,CHEARS,97.784
+22:40,3,Arsenal,272.041
+22:40,4,Sarr,25.553
+22:40,5,Debat2022,42.559
+22:40,6,Christensen,30.820
+22:40,7,Saka,48.513
+22:40,8,Deebo,90.063
+22:40,9,Tavares,13.080
+22:40,10,Nketiah,27.228
+23:10,1,debatmacronlepen,324.759
+23:10,2,Arsenal,344.157
+23:10,3,CHEARS,124.526
+23:10,4,Sarr,36.156
+23:10,5,COYG,13.301
+23:10,6,Tuchel,42.826
+23:10,7,Debat2022,51.953
+23:10,8,Christensen,34.653
+23:10,9,Saka,61.146
+23:10,10,Nketiah,35.696
+23:40,1,debatmacronlepen,409.437
+23:40,2,Arsenal,384.075
+23:40,3,CHEARS,136.107
+23:40,4,Sarr,39.498
+23:40,5,Debat2022,61.844
+23:40,6,Tuchel,51.061
+23:40,7,COYG,20.963
+23:40,8,Christensen,37.083
+23:40,9,Saka,66.696
+23:40,10,Ceballos,14.548

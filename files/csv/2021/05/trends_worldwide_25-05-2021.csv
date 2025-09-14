@@ -1,0 +1,461 @@
+hora,posicio,trend,volum
+00:10,1,SoyluyaSoruyorum,181.368
+00:10,2,MaskSinger1,24.412
+00:10,3,AçıkveNetÖzel,139.242
+00:10,4,isola,27.917
+00:10,5,FueraMolano,109.317
+00:10,6,渡航中止,18.272
+00:10,7,Elliot,25.598
+00:10,8,Sedat Peker,319.259
+00:10,9,İsmail Saymaz,11.287
+00:10,10,الزمالك,81.911
+00:41,1,SoyluyaSoruyorum,186.925
+00:41,2,MaskSinger1,31.736
+00:41,3,isola,36.778
+00:41,4,FueraMolano,124.383
+00:41,5,AçıkveNetÖzel,143.141
+00:41,6,渡航中止,25.001
+00:41,7,Elliot,29.079
+00:41,8,Aurora Leone,
+00:41,9,Marcos Roto,
+00:41,10,Ignazio,
+01:10,1,MaskSinger1,41.067
+01:10,2,SoyluyaSoruyorum,190.319
+01:10,3,FueraMolano,137.667
+01:10,4,isola,40.029
+01:10,5,ConexionHonduras7,15.140
+01:10,6,渡航中止,31.336
+01:10,7,Aurora Leone,
+01:10,8,Elliot,31.466
+01:10,9,Donnarumma,12.321
+01:10,10,Toya Jackson,
+01:41,1,MaskSinger1,42.565
+01:41,2,SoyluyaSoruyorum,192.974
+01:41,3,FueraMolano,154.685
+01:41,4,isola,41.252
+01:41,5,渡航中止,37.802
+01:41,6,おひさまローソン,
+01:41,7,Macías,16.366
+01:41,8,Aurora Leone,
+01:41,9,Elliot,34.353
+01:41,10,Donnarumma,13.792
+02:10,1,MaskSinger1,43.043
+02:10,2,SoyluyaSoruyorum,194.590
+02:10,3,FueraMolano,168.230
+02:10,4,渡航中止,43.337
+02:10,5,911onFOX,
+02:10,6,おひさまローソン,
+02:10,7,Macías,19.222
+02:10,8,Elliot,36.558
+02:10,9,Bucks,30.640
+02:10,10,Aurora Leone,
+02:41,1,Bucks,49.081
+02:41,2,Bucks,49.081
+02:41,3,FueraMolano,183.844
+02:41,4,MaskSinger1,43.253
+02:41,5,Forbes,56.386
+02:41,6,SoyluyaSoruyorum,195.693
+02:41,7,911onFOX,12.519
+02:41,8,WWERaw,
+02:41,9,渡航中止,47.988
+02:41,10,Milwaukee,
+03:10,1,Bucks,56.288
+03:10,2,Bucks,56.288
+03:10,3,FueraMolano,198.850
+03:10,4,WWERaw,16.635
+03:10,5,911onFOX,20.251
+03:10,6,Bryn Forbes,
+03:10,7,MaskSinger1,43.332
+03:10,8,SoyluyaSoruyorum,196.368
+03:10,9,渡航中止,51.811
+03:10,10,Milwaukee,10.729
+03:41,1,Bucks,60.909
+03:41,2,FueraMolano,215.354
+03:41,3,WWERaw,21.357
+03:41,4,Heat,101.822
+03:41,5,911onFOX,21.873
+03:41,6,Bryn Forbes,
+03:41,7,Ariza,
+03:41,8,MaskSinger1,43.404
+03:41,9,البنات_ارجل_من_العيال,
+03:41,10,渡航中止,55.526
+04:10,1,FueraMolano,238.850
+04:10,2,Bucks,66.180
+04:10,3,WWERaw,24.994
+04:10,4,Heat,101.188
+04:10,5,911onFOX,22.737
+04:10,6,bucciovertimechallenge,
+04:10,7,MaskSinger1,43.493
+04:10,8,Ariza,
+04:10,9,Bryn Forbes,
+04:10,10,Giannis,18.892
+04:41,1,FueraMolano,268.622
+04:41,2,HomensPower,
+04:41,3,Bucks,73.893
+04:41,4,Jarry,
+04:41,5,WWERaw,31.348
+04:41,6,Heat,107.402
+04:41,7,HotSauce5thWin,
+04:41,8,Isles,
+04:41,9,MIU404,
+04:41,10,Giannis,22.441
+05:10,1,HotSauce5thWin,122.361
+05:10,2,River120,11.511
+05:10,3,FueraMolano,289.619
+05:10,4,HomensPower,13.660
+05:10,5,Jarry,
+05:10,6,WWERaw,37.356
+05:10,7,Bucks,76.759
+05:10,8,Heat,107.601
+05:10,9,MIU404,
+05:10,10,Spencer Knight,
+05:41,1,Dame,97.889
+05:41,2,Dame,97.889
+05:41,3,HotSauce5thWin,176.109
+05:41,4,River120,23.186
+05:41,5,FueraMolano,303.959
+05:41,6,Felices 120,
+05:41,7,Jarry,10.295
+05:41,8,HomensPower,14.364
+05:41,9,MIU404,11.413
+05:41,10,WWERaw,39.314
+06:10,1,Dame,101.944
+06:10,2,Dame,101.944
+06:10,3,HotSauce5thWin,209.695
+06:10,4,River120,29.461
+06:10,5,FueraMolano,314.787
+06:10,6,MIU404,14.198
+06:10,7,Felices 120,
+06:10,8,Jarry,10.676
+06:10,9,Jokic,10.190
+06:10,10,HomensPower,14.611
+06:41,1,Dame,106.862
+06:41,2,Dame,106.862
+06:41,3,HotSauce5thWin,234.660
+06:41,4,River120,32.537
+06:41,5,MIU404,16.293
+06:41,6,Felices 120,
+06:41,7,FueraMolano,323.795
+06:41,8,Jokic,12.092
+06:41,9,Viva la Patria,11.184
+06:41,10,bucciovertimechallenge,
+07:10,1,Dame,108.445
+07:10,2,Dame,108.445
+07:10,3,HotSauce5thWin,256.256
+07:10,4,River120,34.131
+07:10,5,MIU404,17.755
+07:10,6,Jokic,15.555
+07:10,7,Felices 120,
+07:10,8,FueraMolano,329.484
+07:10,9,Blazers,15.454
+07:10,10,Viva la Patria,11.993
+07:41,1,Dame,110.686
+07:41,2,HotSauce5thWin,276.400
+07:41,3,River120,35.320
+07:41,4,Lillard,34.843
+07:41,5,Butter200M,21.009
+07:41,6,MIU404,19.431
+07:41,7,Jokic,17.352
+07:41,8,Felices 120,
+07:41,9,Viva la Patria,12.630
+07:41,10,雨の日だからしたいこと,12.196
+08:10,1,Dame,110.468
+08:10,2,เจนนี่ออฟกลัฟเปิดแผงเคเอฟซี,67.370
+08:10,3,Butter200M,39.500
+08:10,4,HotSauce5thWin,293.294
+08:10,5,River120,36.078
+08:10,6,Lillard,35.423
+08:10,7,MIU404,20.806
+08:10,8,Jokic,18.424
+08:10,9,Jets,28.833
+08:10,10,tuesdaymotivations,21.464
+08:41,1,เจนนี่ออฟกลัฟเปิดแผงเคเอฟซี,141.374
+08:41,2,Butter200M,50.905
+08:41,3,Dame,111.984
+08:41,4,HotSauce5thWin,307.254
+08:41,5,River120,36.659
+08:41,6,MIU404,22.269
+08:41,7,Lillard,36.045
+08:41,8,LET IT ROLL WITH BTS,45.864
+08:41,9,Jets,31.181
+08:41,10,Oilers,23.719
+09:10,1,เจนนี่ออฟกลัฟเปิดแผงเคเอฟซี,189.792
+09:10,2,Butter200M,57.190
+09:10,3,HotSauce5thWin,317.709
+09:10,4,Dame,111.869
+09:10,5,AfricaDay,10.957
+09:10,6,KamustaButter,15.732
+09:10,7,LET IT ROLL WITH BTS,53.096
+09:10,8,MIU404,23.294
+09:10,9,MARK LEE,29.336
+09:10,10,Lillard,36.532
+09:41,1,เจนนี่ออฟกลัฟเปิดแผงเคเอฟซี,233.748
+09:41,2,Butter200M,62.605
+09:41,3,KamustaButter,27.229
+09:41,4,AfricaDay,12.987
+09:41,5,NamasteButter,22.965
+09:41,6,LET IT ROLL WITH BTS,59.400
+09:41,7,Dame,113.242
+09:41,8,MARK LEE,32.976
+09:41,9,MIU404,24.450
+09:41,10,Lillard,37.152
+10:10,1,AfricaDay,15.306
+10:10,2,IStandWithTwitterIndia,33.291
+10:10,3,NamasteButter,30.778
+10:10,4,เจนนี่ออฟกลัฟเปิดแผงเคเอฟซี,249.261
+10:10,5,KamustaButter,33.879
+10:10,6,YIXING,57.180
+10:10,7,LET IT ROLL WITH BTS,63.100
+10:10,8,MARK LEE,27.804
+10:10,9,MIU404,25.227
+10:10,10,Dame,113.069
+10:41,1,IStandWithTwitterIndia,55.443
+10:41,2,yixing,159.043
+10:41,3,AfricaDay,17.935
+10:41,4,auroraleone,
+10:41,5,BanTwitterInIndia,75.323
+10:41,6,NamasteButter,35.618
+10:41,7,LET IT ROLL WITH BTS,64.630
+10:41,8,MARK LEE,29.453
+10:41,9,MIU404,26.478
+10:41,10,デトロイト市警,
+11:10,1,yixing,222.709
+11:10,2,IStandWithTwitterIndia,76.242
+11:10,3,AfricaDay,20.132
+11:10,4,auroraleone,10.602
+11:10,5,BanTwitterInIndia,81.618
+11:10,6,LayZhang,148.131
+11:10,7,EVERGLOW FIRST,15.821
+11:10,8,LAY IS BACK,47.397
+11:10,9,損失1.8兆円,
+11:10,10,LET IT ROLL WITH BTS,65.798
+11:41,1,IStandWithTwitterIndia,97.023
+11:41,2,yixing,268.765
+11:41,3,AfricaDay,22.902
+11:41,4,auroraleone,12.691
+11:41,5,メンテ延長,
+11:41,6,LastMelodyOutNow,13.061
+11:41,7,LayZhang,183.195
+11:41,8,EVERGLOW FIRST,25.405
+11:41,9,損失1.8兆円,
+11:41,10,LAY IS BACK,63.256
+12:10,1,IStandWithTwitterIndia,114.335
+12:10,2,Yixing,299.557
+12:10,3,メンテ延長,
+12:10,4,AfricaDay,25.628
+12:10,5,auroraleone,14.660
+12:10,6,LastMelodyOutNow,15.905
+12:10,7,egzaminosmoklasisty2021,34.547
+12:10,8,損失1.8兆円,
+12:10,9,ラパンパラ,
+12:10,10,Everglow,81.196
+12:41,1,IStandWithTwitterIndia,131.297
+12:41,2,メンテ延長,
+12:41,3,yixing,326.156
+12:41,4,AfricaDay,29.038
+12:41,5,auroraleone,16.743
+12:41,6,ウィーラー,10.898
+12:41,7,egzaminosmoklasisty2021,38.583
+12:41,8,TwitterBan,11.727
+12:41,9,林家木久扇さん83歳,
+12:41,10,損失1.8兆円,
+13:10,1,IStandWithTwitterIndia,145.363
+13:10,2,メンテ延長,
+13:10,3,yixing,345.328
+13:10,4,AfricaDay,32.141
+13:10,5,auroraleone,18.651
+13:10,6,ウィーラー,13.460
+13:10,7,TwitterBan,13.453
+13:10,8,林家木久扇さん83歳,
+13:10,9,NecipFazılKısakürek,18.530
+13:10,10,皆既月食,45.821
+13:41,1,どらほー,
+13:41,2,IStandWithTwitterIndia,158.848
+13:41,3,AfricaDay,35.432
+13:41,4,yixing,362.097
+13:41,5,メンテ延長,
+13:41,6,FREEZESHOW_QnA,17.075
+13:41,7,マーティン,
+13:41,8,auroraleone,21.042
+13:41,9,潜在能力テスト,
+13:41,10,皆既月食,51.095
+14:10,1,横浜優勝,
+14:10,2,どらほー,
+14:10,3,IStandWithTwitterIndia,171.874
+14:10,4,ミッチー,
+14:10,5,AfricaDay,38.451
+14:10,6,マツコの知らない世界,
+14:10,7,LORDE,20.340
+14:10,8,yixing,373.714
+14:10,9,baystars,24.480
+14:10,10,FREEZESHOW_QnA,22.422
+14:41,1,マツコの知らない世界,
+14:41,2,ミッチー,13.737
+14:41,3,ナポリタン,14.790
+14:41,4,横浜優勝,
+14:41,5,大豆田とわ子と三人の元夫,12.087
+14:41,6,Southgate,18.565
+14:41,7,Bamford,
+14:41,8,Watkins,
+14:41,9,IStandWithTwitterIndia,186.053
+14:41,10,まめ夫,
+15:10,1,大豆田とわ子と三人の元夫,22.433
+15:10,2,マツコの知らない世界,10.834
+15:10,3,ナポリタン,21.147
+15:10,4,ミッチー,18.597
+15:10,5,まめ夫,16.345
+15:10,6,Southgate,21.635
+15:10,7,Watkins,
+15:10,8,LORDE,27.901
+15:10,9,Bamford,10.294
+15:10,10,IStandWithTwitterIndia,199.102
+15:41,1,大豆田とわ子と三人の元夫,25.362
+15:41,2,着飾る恋,25.591
+15:41,3,ナポリタン,23.109
+15:41,4,マツコの知らない世界,12.014
+15:41,5,ミッチー,20.449
+15:41,6,LORDE,32.109
+15:41,7,Southgate,24.645
+15:41,8,まめ夫,18.301
+15:41,9,Watkins,
+15:41,10,TwitterBan,29.054
+16:10,1,着飾る恋,45.808
+16:10,2,大豆田とわ子と三人の元夫,27.311
+16:10,3,lorde,35.410
+16:10,4,ナポリタン,23.986
+16:10,5,25deMayo,20.017
+16:10,6,マツコの知らない世界,12.714
+16:10,7,Southgate,26.537
+16:10,8,ミッチー,21.431
+16:10,9,TwitterBan,33.157
+16:10,10,Watkins,10.170
+16:41,1,6YearsOfLoveWithSEVENTEEN,196.750
+16:41,2,着飾る恋,49.983
+16:41,3,lorde,39.112
+16:41,4,大豆田とわ子と三人の元夫,28.881
+16:41,5,25deMayo,22.742
+16:41,6,OurAceYEJIDay,43.862
+16:41,7,Capitã Cloroquina,22.897
+16:41,8,Patria,171.180
+16:41,9,ナポリタン,24.840
+16:41,10,Southgate,28.458
+17:10,1,6YearsOfLoveWithSEVENTEEN,404.220
+17:10,2,6년째_웃음꽃_주는_세븐틴,222.555
+17:10,3,CHANYEOL_OnRadar,259.055
+17:10,4,SEHUN_OnRadar,255.259
+17:10,5,OurAceYEJIDay,88.274
+17:10,6,CHARMING YEJI DAY,54.831
+17:10,7,lorde,41.850
+17:10,8,FIVE DEGREES UNTIL FREEZE,92.773
+17:10,9,Capitã Cloroquina,28.458
+17:10,10,Patria,174.452
+17:41,1,6YearsOfLoveWithSEVENTEEN,520.689
+17:41,2,6년째_웃음꽃_주는_세븐틴,297.090
+17:41,3,CHANYEOL_OnRadar,722.589
+17:41,4,SEHUN_OnRadar,704.297
+17:41,5,OurAceYEJIDay,117.263
+17:41,6,EPISODE 01,1.450.553
+17:41,7,FIVE DEGREES UNTIL FREEZE,107.807
+17:41,8,EMERGENCY LANDING,1.540.638
+17:41,9,Happy 6th,121.147
+17:41,10,Capitã Cloroquina,35.449
+18:10,1,6YearsOfLoveWithSEVENTEEN,584.176
+18:10,2,6년째_웃음꽃_주는_세븐틴,338.168
+18:10,3,CHANYEOL_OnRadar,930.631
+18:10,4,SEHUN_OnRadar,907.142
+18:10,5,STREAMINGBUTTER,105.127
+18:10,6,EPISODE 01,1.601.661
+18:10,7,EMERGENCY LANDING,1.560.290
+18:10,8,FIVE DEGREES UNTIL FREEZE,110.524
+18:10,9,Capitã Cloroquina,41.214
+18:10,10,lorde,46.737
+18:41,1,6YearsOfLoveWithSEVENTEEN,619.247
+18:41,2,STREAMINGBUTTER,183.522
+18:41,3,6년째_웃음꽃_주는_세븐틴,360.009
+18:41,4,CHANYEOL_OnRadar,1.020.023
+18:41,5,SEHUN_OnRadar,995.967
+18:41,6,Marcos Rogério,11.807
+18:41,7,George Floyd,163.967
+18:41,8,EPISODE 01,1.647.870
+18:41,9,lorde,49.014
+18:41,10,EMERGENCY LANDING,1.687.682
+19:10,1,STREAMINGBUTTER,304.762
+19:10,2,6YearsOfLoveWithSEVENTEEN,639.927
+19:10,3,6년째_웃음꽃_주는_세븐틴,372.712
+19:10,4,星野源ANN,55.629
+19:10,5,CHANYEOL_OnRadar,1.056.154
+19:10,6,George Floyd,181.565
+19:10,7,Marcos Rogério,13.418
+19:10,8,lorde,50.704
+19:10,9,Edgar Wright,
+19:10,10,EPISODE 01,1.623.327
+19:41,1,STREAMINGBUTTER,434.820
+19:41,2,6YearsOfLoveWithSEVENTEEN,654.328
+19:41,3,6년째_웃음꽃_주는_세븐틴,381.374
+19:41,4,星野源ANN,63.512
+19:41,5,CHANYEOL_OnRadar,1.072.757
+19:41,6,George Floyd,202.838
+19:41,7,BUY KILL MY MIND ON ITUNES,63.633
+19:41,8,CasinonunAdresi Hititbet,
+19:41,9,Marcos Rogério,14.731
+19:41,10,Jill,21.283
+20:10,1,STREAMINGBUTTER,525.860
+20:10,2,6YearsOfLoveWithSEVENTEEN,664.355
+20:10,3,星野源ANN,77.279
+20:10,4,clifford,21.404
+20:10,5,6년째_웃음꽃_주는_세븐틴,387.411
+20:10,6,ComeBackToTrabzonSörloth,46.067
+20:10,7,BUY KILL MY MIND ON ITUNES,89.090
+20:10,8,Randolfe,16.743
+20:10,9,George Floyd,217.278
+20:10,10,MuhammedAli Yaşasın,
+20:41,1,STREAMINGBUTTER,629.857
+20:41,2,clifford,34.101
+20:41,3,6YearsOfLoveWithSEVENTEEN,671.323
+20:41,4,BUY KILL MY MIND ON ITUNES,138.106
+20:41,5,ComeBackToTrabzonSörloth,54.539
+20:41,6,星野源ANN,79.939
+20:41,7,6년째_웃음꽃_주는_세븐틴,391.426
+20:41,8,George Floyd,235.150
+20:41,9,Fiocruz,18.770
+20:41,10,Randolfe,20.090
+22:10,1,STREAMINGBUTTER,877.985
+22:10,2,النصر_الوحده,34.633
+22:10,3,BUY KILL MY MIND ON ITUNES,182.774
+22:10,4,clifford,47.756
+22:10,5,MasumlarApartmanı,
+22:10,6,ComeBackToTrabzonSörloth,70.775
+22:10,7,Fiocruz,30.588
+22:10,8,George Floyd,279.877
+22:10,9,BaydınArtıkSedat,23.511
+22:10,10,WhatsApp,354.570
+22:41,1,STREAMINGBUTTER,940.961
+22:41,2,النصر_الوحده,39.824
+22:41,3,MasumlarApartmanı,
+22:41,4,Fiocruz,36.259
+22:41,5,George Floyd,297.609
+22:41,6,BUY KILL MY MIND ON ITUNES,184.946
+22:41,7,clifford,50.027
+22:41,8,ComeBackToTrabzonSörloth,72.600
+22:41,9,VoleiNoSporTV,
+22:41,10,WhatsApp,366.333
+23:10,1,STREAMINGBUTTER,1.004.634
+23:10,2,MasumlarApartmanı,10.412
+23:10,3,النصر_الوحده,42.976
+23:10,4,Fiocruz,42.179
+23:10,5,TierraDeNadie7,
+23:10,6,George Floyd,312.711
+23:10,7,edho,
+23:10,8,Mia Khalifa,
+23:10,9,clifford,51.698
+23:10,10,BUY KILL MY MIND ON ITUNES,185.302
+23:41,1,STREAMINGBUTTER,1.048.593
+23:41,2,Survivor2021,108.522
+23:41,3,ButterListeningParty5,26.636
+23:41,4,TierraDeNadie7,11.904
+23:41,5,MasumlarApartmanı,11.489
+23:41,6,Fiocruz,48.134
+23:41,7,George Floyd,330.426
+23:41,8,Merve,39.249
+23:41,9,Mia Khalifa,
+23:41,10,WhatsApp,379.547

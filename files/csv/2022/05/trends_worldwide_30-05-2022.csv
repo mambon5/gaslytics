@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Rodolfo,73.252
+00:10,2,Rodolfo,73.252
+00:10,3,Rodolfo,73.252
+00:10,4,Veiga,27.001
+00:10,5,Andreas,20.723
+00:10,6,الاتحاد_الطايي,73.489
+00:10,7,الهلال_ابها,111.553
+00:10,8,Yargı,37.894
+00:10,9,ASSEAJA,30.589
+00:10,10,6AySonra,100.176
+00:40,1,Rodolfo,162.655
+00:40,2,Flamengo,144.673
+00:40,3,Hugo,64.458
+00:40,4,Andreas,26.560
+00:40,5,Veiga,27.871
+00:40,6,Gabigol,17.217
+00:40,7,Uribismo,67.223
+00:40,8,Arrascaeta,
+00:40,9,الاتحاد_الطايي,74.431
+00:40,10,الهلال_ابها,113.198
+01:10,1,Rodolfo,251.666
+01:10,2,Rodolfo,251.666
+01:10,3,Hugo,97.318
+01:10,4,Flamengo,166.902
+01:10,5,Colombia,553.307
+01:10,6,Gabigol,23.214
+01:10,7,Uribismo,95.574
+01:10,8,Uribe,60.249
+01:10,9,Veiga,28.427
+01:10,10,Paulo Sousa,16.377
+01:40,1,Rodolfo,320.622
+01:40,2,Rodolfo,320.622
+01:40,3,Hugo,108.190
+01:40,4,Flamengo,186.955
+01:40,5,Colombia,590.082
+01:40,6,Uribe,71.960
+01:40,7,Uribismo,116.975
+01:40,8,Gabigol,26.987
+01:40,9,Paulo Sousa,18.806
+01:40,10,Vichada,23.847
+02:10,1,Rodolfo,383.483
+02:10,2,Rodolfo,383.483
+02:10,3,Hugo,108.146
+02:10,4,Colombia,602.093
+02:10,5,Flamengo,190.681
+02:10,6,AEWDoN,35.892
+02:10,7,Uribe,79.416
+02:10,8,Uribismo,133.083
+02:10,9,Gabigol,28.856
+02:10,10,AEWDoubleOrNothing,
+02:40,1,Rodolfo,439.070
+02:40,2,Rodolfo,439.070
+02:40,3,Hugo,111.058
+02:40,4,AEWDoN,52.680
+02:40,5,Colombia,632.382
+02:40,6,Flamengo,196.603
+02:40,7,Uribe,88.858
+02:40,8,Uribismo,151.779
+02:40,9,AEWDoubleOrNothing,
+02:40,10,Vichada,30.556
+03:10,1,Rodolfo,481.092
+03:10,2,AEWDoN,73.830
+03:10,3,Petro,589.566
+03:10,4,Hugo,111.052
+03:10,5,Colombia,637.038
+03:10,6,Uribe,93.966
+03:10,7,Flamengo,197.274
+03:10,8,Uribismo,161.866
+03:10,9,AEWDoubleOrNothing,11.599
+03:10,10,Athena,12.074
+03:40,1,Rodolfo,522.548
+03:40,2,AEWDoN,91.047
+03:40,3,Petro,620.709
+03:40,4,Hugo,112.957
+03:40,5,Colombia,661.779
+03:40,6,Lowry,16.299
+03:40,7,AEWDoubleOrNothing,13.895
+03:40,8,Uribe,100.510
+03:40,9,Uribismo,175.663
+03:40,10,Flamengo,202.340
+04:10,1,Rodolfo,555.159
+04:10,2,AEWDoN,107.418
+04:10,3,Lowry,24.539
+04:10,4,Petro,626.207
+04:10,5,Heat,154.444
+04:10,6,Colombia,665.491
+04:10,7,Hugo,112.931
+04:10,8,AEWDoubleOrNothing,16.094
+04:10,9,Jimmy Butler,22.308
+04:10,10,Uribe,104.534
+04:40,1,Rodolfo,585.718
+04:40,2,Lowry,33.715
+04:40,3,AEWDoN,123.888
+04:40,4,Celtics,126.579
+04:40,5,Petro,647.518
+04:40,6,Tatum,41.592
+04:40,7,Pachuca,26.315
+04:40,8,Colombia,673.683
+04:40,9,AEWDoubleOrNothing,17.852
+04:40,10,Jimmy Butler,24.390
+05:10,1,Lowry,46.805
+05:10,2,Tatum,55.529
+05:10,3,Rodolfo,610.666
+05:10,4,Celtics,142.183
+05:10,5,AEWDoN,136.832
+05:10,6,Petro,641.826
+05:10,7,Jimmy Butler,30.406
+05:10,8,Pachuca,28.522
+05:10,9,BOSvsMIA,14.606
+05:10,10,AEWDoubleOrNothing,19.865
+05:40,1,Celtics,265.248
+05:40,2,Butler,108.147
+05:40,3,Tatum,82.033
+05:40,4,Lowry,51.912
+05:40,5,Atlas,86.893
+05:40,6,Rodolfo,632.484
+05:40,7,AEWDoN,158.296
+05:40,8,NBAFinals,10.234
+05:40,9,BleedGreen,15.645
+05:40,10,Marcus Smart,17.088
+06:10,1,Celtics,306.182
+06:10,2,Butler,116.321
+06:10,3,Atlas,108.114
+06:10,4,tatum,95.396
+06:10,5,Lowry,53.931
+06:10,6,AEWDoN,172.869
+06:10,7,NBAFinals,12.644
+06:10,8,Rodolfo,650.853
+06:10,9,BleedGreen,17.584
+06:10,10,Marcus Smart,18.474
+06:40,1,Celtics,326.640
+06:40,2,Atlas,118.290
+06:40,3,Butler,121.623
+06:40,4,Tatum,102.553
+06:40,5,AEWDoN,185.967
+06:40,6,Heat,221.682
+06:40,7,Lowry,55.054
+06:40,8,NBAFinals,13.789
+06:40,9,Rodolfo,666.707
+06:40,10,BleedGreen,19.104
+07:10,1,Celtics,341.658
+07:10,2,Celtics,341.658
+07:10,3,Atlas,121.573
+07:10,4,Butler,123.424
+07:10,5,Tatum,106.469
+07:10,6,AEWDoN,201.396
+07:10,7,Heat,222.685
+07:10,8,Lowry,55.754
+07:10,9,NBAFinals,14.471
+07:10,10,Pachuca,40.778
+07:40,1,Celtics,352.218
+07:40,2,Atlas,125.790
+07:40,3,Butler,125.714
+07:40,4,Tatum,109.674
+07:40,5,AEWDoN,205.409
+07:40,6,Heat,225.382
+07:40,7,NBAFinals,14.963
+07:40,8,Lowry,56.298
+07:40,9,Pachuca,41.339
+07:40,10,BleedGreen,21.045
+08:10,1,Celtics,361.734
+08:10,2,Atlas,127.232
+08:10,3,Butler,126.568
+08:10,4,Tatum,111.594
+08:10,5,AEWDoN,208.004
+08:10,6,NBAFinals,15.486
+08:10,7,Heat,225.095
+08:10,8,ジャニフェス,77.001
+08:10,9,Lowry,56.680
+08:10,10,pazartesi,
+08:40,1,Celtics,365.530
+08:40,2,Celtics,365.530
+08:40,3,Atlas,127.965
+08:40,4,Butler,127.994
+08:40,5,Tatum,113.650
+08:40,6,杏ちゃん,
+08:40,7,AEWDoN,210.166
+08:40,8,pazartesi,
+08:40,9,Marshall Inu,
+08:40,10,8YearsOfSeva,76.781
+09:10,1,Celtics,368.350
+09:10,2,Warriors,164.564
+09:10,3,Atlas,127.744
+09:10,4,杏ちゃん,10.094
+09:10,5,MondayMotivation,44.489
+09:10,6,pazartesi,
+09:10,7,Butler,128.300
+09:10,8,8YearsOfSeva,87.969
+09:10,9,Marshall Inu,
+09:10,10,Tatum,114.807
+09:40,1,Celtics,372.785
+09:40,2,MondayMotivation,46.964
+09:40,3,杏ちゃん,11.603
+09:40,4,Warriors,166.937
+09:40,5,pazartesi,
+09:40,6,Atlas,128.972
+09:40,7,8YearsOfSeva,98.531
+09:40,8,Marshall Inu,
+09:40,9,ジャニフェス,86.462
+09:40,10,Butler,129.393
+10:10,1,MondayMotivation,49.829
+10:10,2,Celtics,375.784
+10:10,3,杏ちゃん,12.971
+10:10,4,pazartesi,
+10:10,5,Warriors,167.388
+10:10,6,8YearsOfSeva,108.594
+10:10,7,Atlas,128.474
+10:10,8,FelizLunes,
+10:10,9,ジャニフェス,89.557
+10:10,10,Marshall Inu,
+10:40,1,MondayMotivation,52.713
+10:40,2,杏ちゃん,14.271
+10:40,3,Celtics,378.938
+10:40,4,pazartesi,
+10:40,5,8YearsOfSeva,116.394
+10:40,6,Warriors,169.256
+10:40,7,To My First,119.131
+10:40,8,FelizLunes,
+10:40,9,ジャニフェス,92.543
+10:40,10,あなたを召喚する魔法陣と詠唱セリフ,
+11:10,1,MondayMotivation,55.535
+11:10,2,杏ちゃん,15.365
+11:10,3,まなかん武道館,
+11:10,4,Celtics,381.058
+11:10,5,pazartesi,
+11:10,6,応援バズらせ隊,
+11:10,7,イノバズ,
+11:10,8,To My First,124.668
+11:10,9,召喚口上,
+11:10,10,魔法陣の属性,
+11:40,1,NCTDREAM_Beatbox,265.573
+11:40,2,MondayMotivation,58.834
+11:40,3,To My First,138.766
+11:40,4,杏ちゃん,16.623
+11:40,5,haechan,190.857
+11:40,6,chenle,116.319
+11:40,7,renjun,163.080
+11:40,8,応援バズらせ隊,
+11:40,9,イノバズ,
+11:40,10,UPSC,
+12:10,1,NCTDREAM_Beatbox,298.375
+12:10,2,MondayMotivation,61.482
+12:10,3,To My First,146.932
+12:10,4,UPSC,
+12:10,5,杏ちゃん,17.475
+12:10,6,BeşiktaşBitmez,
+12:10,7,haechan,191.766
+12:10,8,renjun,168.827
+12:10,9,chenle,115.739
+12:10,10,まなかん武道館,
+12:40,1,NCTDREAM_Beatbox,332.402
+12:40,2,FIRST SI DONNY,20.908
+12:40,3,MondayMotivation,64.899
+12:40,4,冒険少年,18.645
+12:40,5,UPSC,
+12:40,6,BeşiktaşBitmez,
+12:40,7,To My First,155.912
+12:40,8,杏ちゃん,18.493
+12:40,9,haechan,201.786
+12:40,10,Renjun,180.404
+13:10,1,冒険少年,32.232
+13:10,2,NCTDREAM_Beatbox,366.587
+13:10,3,シャニマス生配信,
+13:10,4,FIRST SI DONNY,29.671
+13:10,5,MondayMotivation,67.568
+13:10,6,BeşiktaşBitmez,
+13:10,7,To My First,158.284
+13:10,8,MSS X YOUNG YOUTH,25.444
+13:10,9,魔法陣の属性,
+13:10,10,召喚口上,
+13:40,1,シャニマス生配信,19.738
+13:40,2,冒険少年,37.216
+13:40,3,NCTDREAM_Beatbox,387.248
+13:40,4,FIRST SI DONNY,36.162
+13:40,5,MemorialDay,34.485
+13:40,6,十万円でできるかな,
+13:40,7,To My First,164.516
+13:40,8,MSS X YOUNG YOUTH,57.459
+13:40,9,オルトくん,
+13:40,10,魔法陣の属性,
+14:10,1,シャニマス生配信,28.974
+14:10,2,MemorialDay,41.978
+14:10,3,冒険少年,40.483
+14:10,4,十万円でできるかな,10.515
+14:10,5,NCTDREAM_Beatbox,401.538
+14:10,6,FIRST SI DONNY,39.110
+14:10,7,TO DO x TXT DAY IS BACK,
+14:10,8,MSS X YOUNG YOUTH,78.244
+14:10,9,To My First,164.517
+14:10,10,オルトくん,
+14:40,1,MemorialDay,51.454
+14:40,2,シャニマス生配信,29.617
+14:40,3,冒険少年,43.156
+14:40,4,十万円でできるかな,15.362
+14:40,5,Barcode1stSong,55.855
+14:40,6,シアター,14.884
+14:40,7,Theater Teaser,
+14:40,8,FIRST SI DONNY,40.581
+14:40,9,釘宮さん,
+14:40,10,TO DO x TXT DAY IS BACK,
+15:10,1,MemorialDay,65.522
+15:10,2,シアター,22.014
+15:10,3,シャニマス生配信,30.591
+15:10,4,十万円でできるかな,17.984
+15:10,5,Barcode1stSong,73.784
+15:10,6,冒険少年,46.013
+15:10,7,Theater Teaser,
+15:10,8,釘宮さん,
+15:10,9,Mona Lisa,21.517
+15:10,10,FIRST SI DONNY,41.724
+15:40,1,MemorialDay,79.542
+15:40,2,HEESEUNG_OFFMYFACE,103.826
+15:40,3,HEEling COVER,102.537
+15:40,4,엔하이픈_희승,101.682
+15:40,5,恋マジ,33.532
+15:40,6,シアター,24.544
+15:40,7,Barcode1stSong,85.521
+15:40,8,釘宮さん,
+15:40,9,Mona Lisa,27.199
+15:40,10,Theater Teaser,11.065
+16:10,1,MemorialDay,94.981
+16:10,2,HEESEUNG_OFFMYFACE,117.840
+16:10,3,HEEling COVER,115.483
+16:10,4,엔하이픈_희승,114.798
+16:10,5,恋マジ,51.397
+16:10,6,DevilSisterEP13,90.165
+16:10,7,シアター,25.966
+16:10,8,Mona Lisa,29.414
+16:10,9,釘宮さん,
+16:10,10,jongin,23.604
+16:40,1,MemorialDay,109.131
+16:40,2,HEESEUNG_OFFMYFACE,125.548
+16:40,3,엔하이픈_희승,120.626
+16:40,4,HEEling COVER,121.670
+16:40,5,恋マジ,54.748
+16:40,6,DevilSisterEP13,126.699
+16:40,7,Mona Lisa,23.331
+16:40,8,シアター,27.598
+16:40,9,Kağıt Kesikleri,
+16:40,10,Haftanın Yalanları,
+17:10,1,MemorialDay,124.348
+17:10,2,HEESEUNG_OFFMYFACE,130.973
+17:10,3,FELIX,132.333
+17:10,4,엔하이픈_희승,124.490
+17:10,5,HEEling COVER,125.986
+17:10,6,DOOR CONCEPT PHOTO 1,541.891
+17:10,7,恋マジ,56.207
+17:10,8,Mona Lisa,23.932
+17:10,9,DevilSisterEP13,144.081
+17:10,10,kağıt kesikleri,
+17:40,1,MemorialDay,139.113
+17:40,2,NAYEON,132.655
+17:40,3,NAYEON,132.655
+17:40,4,BTS_Proof,1.287.370
+17:40,5,HEESEUNG_OFFMYFACE,135.070
+17:40,6,DOOR CONCEPT PHOTO 1,768.380
+17:40,7,HEEling COVER,129.399
+17:40,8,엔하이픈_희승,127.382
+17:40,9,恋マジ,57.108
+17:40,10,Rune,18.242
+18:10,1,MemorialDay,152.949
+18:10,2,NAYEON,156.915
+18:10,3,NAYEON,156.915
+18:10,4,BTS_Proof,1.313.420
+18:10,5,HEESEUNG_OFFMYFACE,137.760
+18:10,6,DOOR CONCEPT PHOTO 1,835.891
+18:10,7,엔하이픈_희승,129.245
+18:10,8,HEEling COVER,131.474
+18:10,9,第130回,
+18:10,10,Mona Lisa,39.533
+18:40,1,MemorialDay,166.407
+18:40,2,nayeon,172.606
+18:40,3,felix,177.835
+18:40,4,BTS_Proof,1.435.118
+18:40,5,HEESEUNG_OFFMYFACE,139.883
+18:40,6,DOOR CONCEPT PHOTO 1,848.834
+18:40,7,第130回,
+18:40,8,엔하이픈_희승,130.670
+18:40,9,HEEling COVER,133.036
+18:40,10,Mona Lisa,41.869
+19:10,1,MemorialDay,176.923
+19:10,2,nayeon,181.437
+19:10,3,felix,180.052
+19:10,4,BTS_Proof,1.465.506
+19:10,5,HEESEUNG_OFFMYFACE,141.407
+19:10,6,Mona Lisa,44.321
+19:10,7,第130回,
+19:10,8,DOOR CONCEPT PHOTO 1,933.583
+19:10,9,엔하이픈_희승,131.629
+19:10,10,HEEling COVER,134.229
+19:40,1,MemorialDay,187.183
+19:40,2,jungkook,562.616
+19:40,3,nayeon,188.986
+19:40,4,felix,186.058
+19:40,5,BTS_Proof,1.497.874
+19:40,6,Mona Lisa,26.850
+19:40,7,HEESEUNG_OFFMYFACE,142.552
+19:40,8,Lake Lanier,
+19:40,9,第130回,
+19:40,10,ทริอาชTheSeriesEP7,24.930
+20:10,1,jungkook,594.574
+20:10,2,MemorialDay,195.930
+20:10,3,nayeon,193.152
+20:10,4,felix,181.553
+20:10,5,BTS_Proof,1.515.744
+20:10,6,Mona Lisa,49.167
+20:10,7,Jeff Gladney,
+20:10,8,Lake Lanier,
+20:10,9,HEESEUNG_OFFMYFACE,143.440
+20:10,10,Doest,
+20:40,1,jungkook,627.259
+20:40,2,MemorialDay,204.482
+20:40,3,nayeon,197.940
+20:40,4,felix,185.721
+20:40,5,Jeff Gladney,
+20:40,6,Mona Lisa,27.466
+20:40,7,KırmızıKart,14.544
+20:40,8,BTS_Proof,1.537.379
+20:40,9,Milton Gonçalves,
+20:40,10,ŞimdiBirlikZamanı,
+21:10,1,jungkook,643.761
+21:10,2,MemorialDay,211.651
+21:10,3,Milton Gonçalves,11.870
+21:10,4,nayeon,201.309
+21:10,5,felix,184.895
+21:10,6,Jeff Gladney,
+21:10,7,Mona Lisa,27.203
+21:10,8,ŞimdiBirlikZamanı,17.376
+21:10,9,KırmızıKart,19.106
+21:10,10,Coldplay,20.019
+21:40,1,jungkook,663.000
+21:40,2,MemorialDay,218.928
+21:40,3,Milton Gonçalves,18.537
+21:40,4,nayeon,205.316
+21:40,5,Jeff Gladney,13.494
+21:40,6,felix,188.346
+21:40,7,TPMP,
+21:40,8,ŞimdiBirlikZamanı,23.744
+21:40,9,Mona Lisa,55.815
+21:40,10,KırmızıKart,21.244
+22:10,1,jungkook,670.304
+22:10,2,MemorialDay,224.702
+22:10,3,Milton Gonçalves,23.199
+22:10,4,nayeon,207.704
+22:10,5,Jeff Gladney,16.897
+22:10,6,felix,188.317
+22:10,7,TPMP,
+22:10,8,ŞimdiBirlikZamanı,28.459
+22:10,9,Mona Lisa,57.016
+22:10,10,ŞakirÇakırTutuklansın,
+22:40,1,jungkook,685.433
+22:40,2,Milton Gonçalves,27.024
+22:40,3,MemorialDay,231.733
+22:40,4,Jeff Gladney,18.723
+22:40,5,nayeon,210.563
+22:40,6,COAC2022S4,
+22:40,7,ŞakirÇakırTutuklansın,
+22:40,8,TPMP,
+22:40,9,felix,191.109
+22:40,10,الوداد,55.068
+23:10,1,jungkook,689.392
+23:10,2,Milton Gonçalves,30.271
+23:10,3,MemorialDay,237.051
+23:10,4,ŞakirÇakırTutuklansın,
+23:10,5,COAC2022S4,
+23:10,6,الوداد,60.829
+23:10,7,Jeff Gladney,20.042
+23:10,8,Al Ahly,14.988
+23:10,9,CAFCLFinal,
+23:10,10,nayeon,212.593
+23:40,1,jungkook,702.660
+23:40,2,Milton Gonçalves,33.390
+23:40,3,MemorialDay,242.939
+23:40,4,ŞakirÇakırTutuklansın,11.771
+23:40,5,Maria Alice,
+23:40,6,COAC2022S4,
+23:40,7,الوداد,64.321
+23:40,8,Al Ahly,16.145
+23:40,9,Wydad,20.968
+23:40,10,Cilic,

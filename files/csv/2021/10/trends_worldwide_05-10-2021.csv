@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,WhatsApp,3.003.073
+00:10,2,telegram,1.353.853
+00:10,3,facebookdown,1.164.798
+00:10,4,InternetShutDown,129.696
+00:10,5,JIMIN JIMIN,1.245.027
+00:10,6,iMessage,250.324
+00:10,7,تويتر,489.152
+00:10,8,Mark Zuckerberg,678.221
+00:10,9,snap,140.560
+00:10,10,MySpace,81.204
+00:41,1,WhatsApp,3.161.157
+00:41,2,telegram,1.302.189
+00:41,3,facebookdown,1.190.070
+00:41,4,InternetShutDown,154.814
+00:41,5,JIMIN JIMIN,1.301.443
+00:41,6,iMessage,260.703
+00:41,7,Mark Zuckerberg,724.503
+00:41,8,تويتر,498.760
+00:41,9,snap,145.042
+00:41,10,Voltou,695.753
+01:10,1,WhatsApp,2.230.224
+01:10,2,telegram,1.260.102
+01:10,3,facebookdown,1.214.382
+01:10,4,InternetShutDown,167.060
+01:10,5,JIMIN JIMIN,1.282.182
+01:10,6,iMessage,266.293
+01:10,7,Voltou,841.691
+01:10,8,Mark Zuckerberg,739.848
+01:10,9,تويتر,501.164
+01:10,10,snap,145.315
+01:41,1,WhatsApp,3.423.664
+01:41,2,telegram,1.254.417
+01:41,3,facebookdown,1.213.295
+01:41,4,InternetShutDown,174.611
+01:41,5,JIMIN JIMIN,1.342.208
+01:41,6,iMessage,269.984
+01:41,7,Voltou,877.309
+01:41,8,Mark Zuckerberg,762.703
+01:41,9,تويتر,505.627
+01:41,10,snap,147.582
+02:10,1,WhatsApp,3.080.111
+02:10,2,telegram,1.365.166
+02:10,3,facebookdown,1.222.252
+02:10,4,InternetShutDown,179.708
+02:10,5,JIMIN JIMIN,1.343.401
+02:10,6,iMessage,272.459
+02:10,7,Voltou,890.026
+02:10,8,Mark Zuckerberg,773.816
+02:10,9,SNOWDROP IN DECEMBER,76.650
+02:10,10,تويتر,506.587
+02:41,1,WhatsApp,1.855.853
+02:41,2,facebookdown,1.240.365
+02:41,3,Telegram,1.327.960
+02:41,4,InternetShutDown,183.888
+02:41,5,JIMIN JIMIN,1.338.480
+02:41,6,SNOWDROP IN DECEMBER,121.757
+02:41,7,WWERaw,23.700
+02:41,8,Chargers,41.374
+02:41,9,iMessage,275.285
+02:41,10,Mark Zuckerberg,784.889
+03:10,1,WhatsApp,2.458.001
+03:10,2,facebookdown,1.208.375
+03:10,3,Telegram,1.212.731
+03:10,4,Chargers,49.894
+03:10,5,InternetShutDown,187.470
+03:10,6,WWERaw,35.664
+03:10,7,SNOWDROP IN DECEMBER,149.289
+03:10,8,JIMIN JIMIN,1.351.536
+03:10,9,Mark Zuckerberg,792.561
+03:10,10,Voltou,902.239
+03:41,1,WhatsApp,1.524.184
+03:41,2,Chargers,56.669
+03:41,3,Hunter Renfrow,
+03:41,4,MyUniverseNo1onHot100,31.690
+03:41,5,facebookdown,1.258.328
+03:41,6,Telegram,1.665.301
+03:41,7,WWERaw,45.852
+03:41,8,InternetShutDown,190.903
+03:41,9,SNOWDROP IN DECEMBER,169.221
+03:41,10,JIMIN JIMIN,1.379.118
+04:10,1,MyUniverseNo1onHot100,115.272
+04:10,2,WhatsApp,3.733.291
+04:10,3,Raiders,70.261
+04:10,4,WWERaw,55.093
+04:10,5,Hunter Renfrow,11.862
+04:10,6,facebookdown,1.278.763
+04:10,7,Telegram,1.688.015
+04:10,8,SNOWDROP IN DECEMBER,185.961
+04:10,9,DWTS,12.615
+04:10,10,BTS PAVED THE WAY,76.592
+04:41,1,MyUniverseNo1onHot100,166.217
+04:41,2,Raiders,82.957
+04:41,3,WhatsApp,5.697.845
+04:41,4,Herbert,32.522
+04:41,5,WWERaw,64.992
+04:41,6,ProvaDeFogo,11.010
+04:41,7,Hunter Renfrow,12.796
+04:41,8,Telegram,1.722.795
+04:41,9,BTS PAVED THE WAY,85.348
+04:41,10,SNOWDROP IN DECEMBER,204.329
+05:10,1,MyUniverseNo1onHot100,198.589
+05:10,2,Raiders,93.120
+05:10,3,WhatsApp,8.727.298
+05:10,4,ProvaDeFogo,25.985
+05:10,5,Herbert,34.999
+05:10,6,WWERaw,74.043
+05:10,7,Hunter Renfrow,14.292
+05:10,8,Waller,14.138
+05:10,9,Telegram,1.687.763
+05:10,10,BTS PAVED THE WAY,89.961
+05:41,1,Raiders,101.684
+05:41,2,MyUniverseNo1onHot100,220.425
+05:41,3,WhatsApp,8.734.359
+05:41,4,ProvaDeFogo,33.041
+05:41,5,Herbert,37.861
+05:41,6,Carr,21.898
+05:41,7,WWERaw,78.138
+05:41,8,Hunter Renfrow,14.835
+05:41,9,Waller,15.333
+05:41,10,Tati,35.668
+06:10,1,Raiders,110.065
+06:10,2,MyUniverseNo1onHot100,234.201
+06:10,3,WhatsApp,9.399.752
+06:10,4,ProvaDeFogo,33.798
+06:10,5,Herbert,41.428
+06:10,6,Carr,24.045
+06:10,7,BoltUp,17.338
+06:10,8,WWERaw,81.074
+06:10,9,Waller,15.894
+06:10,10,Jordan Poole,
+06:41,1,Raiders,113.326
+06:41,2,MyUniverseNo1onHot100,246.426
+06:41,3,ProvaDeFogo,34.367
+06:41,4,Herbert,43.496
+06:41,5,Carr,24.801
+06:41,6,BoltUp,18.375
+06:41,7,WWERaw,82.954
+06:41,8,Jordan Poole,
+06:41,9,Waller,16.123
+06:41,10,キルラキル,20.560
+07:10,1,Raiders,114.584
+07:10,2,MyUniverseNo1onHot100,255.203
+07:10,3,ProvaDeFogo,34.670
+07:10,4,Herbert,44.467
+07:10,5,BoltUp,18.907
+07:10,6,Carr,25.035
+07:10,7,Jordan Poole,
+07:10,8,WWERaw,84.432
+07:10,9,キルラキル,22.265
+07:10,10,TheFeels_ReComeback,33.677
+07:41,1,Raiders,115.847
+07:41,2,MyUniverseNo1onHot100,262.833
+07:41,3,Chargers,114.741
+07:41,4,ProvaDeFogo,34.831
+07:41,5,Herbert,45.440
+07:41,6,BoltUp,19.340
+07:41,7,Carr,25.693
+07:41,8,Jordan Poole,
+07:41,9,キルラキル,24.216
+07:41,10,भाजपा_के_आतंकवादी,102.303
+08:10,1,Raiders,116.514
+08:10,2,MyUniverseNo1onHot100,268.713
+08:10,3,Chargers,116.544
+08:10,4,ProvaDeFogo,34.976
+08:10,5,BoltUp,19.594
+08:10,6,Herbert,45.874
+08:10,7,DanForPM,
+08:10,8,Carr,26.026
+08:10,9,भाजपा_के_आतंकवादी,111.945
+08:10,10,キルラキル,25.779
+08:41,1,MyUniverseNo1onHot100,273.570
+08:41,2,Raiders,117.223
+08:41,3,Chargers,118.015
+08:41,4,DanForPM,
+08:41,5,WorldTeachersDay,
+08:41,6,sunwoo,55.646
+08:41,7,ハッピーなオタク,
+08:41,8,salı,
+08:41,9,Windows11,35.980
+08:41,10,キルラキル,27.122
+09:10,1,MyUniverseNo1onHot100,277.348
+09:10,2,DunkinPHxDonny,
+09:10,3,DunkinPHwelcomesDonny,
+09:10,4,Raiders,117.524
+09:10,5,Chargers,118.792
+09:10,6,WorldTeachersDay,
+09:10,7,ハッピーなオタク,
+09:10,8,sunwoo,60.571
+09:10,9,Windows11,36.970
+09:10,10,BGYO OT5 CONCEPT PHOTO,25.771
+09:41,1,YGLetLisadoHerWork,54.044
+09:41,2,JENNIEChanelPFW,33.600
+09:41,3,JENNIE FACE OF CHANEL,34.282
+09:41,4,JAEMIN,116.079
+09:41,5,markmin,15.096
+09:41,6,JUSTICE FOR LISA,27.849
+09:41,7,DunkinPHxDonny,13.159
+09:41,8,DunkinPHwelcomesDonny,13.115
+09:41,9,Raiders,117.902
+09:41,10,sunwoo,63.890
+10:10,1,YGLetLisadoHerWork,171.830
+10:10,2,JAEMIN,174.374
+10:10,3,JENNIEChanelPFW,155.744
+10:10,4,JENNIE FACE OF CHANEL,158.171
+10:10,5,JUSTICE FOR LISA,98.703
+10:10,6,VibinWithYoungjae,38.961
+10:10,7,영재의_색으로_물들시간,38.703
+10:10,8,DunkinPHxDonny,17.090
+10:10,9,岸田内閣の支持率49,
+10:10,10,ラストワン賞,
+10:41,1,YGLetLisadoHerWork,296.945
+10:41,2,JENNIEChanelPFW,300.226
+10:41,3,JENNIE FACE OF CHANEL,299.823
+10:41,4,jaemin,215.942
+10:41,5,JUSTICE FOR LISA,184.514
+10:41,6,markmin,189.154
+10:41,7,VibinWithYoungjae,70.678
+10:41,8,영재의_색으로_물들시간,69.256
+10:41,9,ラストワン賞,
+10:41,10,岸田内閣の支持率49,
+11:10,1,JENNIEChanelPFW,435.818
+11:10,2,YGLetLisadoHerWork,412.480
+11:10,3,aespaGoesSavage,94.081
+11:10,4,JENNIE FACE OF CHANEL,425.893
+11:10,5,에스파의_넥스트레벨은_세비지,97.465
+11:10,6,JUSTICE FOR LISA,259.300
+11:10,7,VibinWithYoungjae,103.812
+11:10,8,jaemin,238.578
+11:10,9,サトテル,
+11:10,10,ラストワン賞,
+11:41,1,aespaGoesSavage,168.624
+11:41,2,에스파의_넥스트레벨은_세비지,143.247
+11:41,3,YGLetLisadoHerWork,511.923
+11:41,4,VibinWithYoungjae,161.106
+11:41,5,JENNIEChanelPFW,530.393
+11:41,6,JENNIE FACE OF CHANEL,510.812
+11:41,7,JUSTICE FOR LISA,319.485
+11:41,8,giselle,103.691
+11:41,9,jaemin,256.664
+11:41,10,ningning,48.030
+12:10,1,aespaGoesSavage,213.060
+12:10,2,YGLetLisadoHerWork,615.101
+12:10,3,VibinWithYoungjae,197.338
+12:10,4,에스파의_넥스트레벨은_세비지,158.890
+12:10,5,JENNIEChanelPFW,605.616
+12:10,6,JUSTICE FOR LISA,375.477
+12:10,7,JENNIE FACE OF CHANEL,580.177
+12:10,8,giselle,112.705
+12:10,9,ノーベル物理学賞,14.937
+12:10,10,ラストワン賞,
+12:41,1,aespaGoesSavage,248.201
+12:41,2,YGLetLisadoHerWork,730.275
+12:41,3,VibinWithYoungjae,230.582
+12:41,4,JENNIEChanelPFW,674.923
+12:41,5,에스파의_넥스트레벨은_세비지,172.105
+12:41,6,JUSTICE FOR LISA,435.753
+12:41,7,ノーベル物理学賞,22.042
+12:41,8,giselle,119.503
+12:41,9,ラストワン賞,
+12:41,10,Operator Hediye10gb,
+13:10,1,aespaGoesSavage,268.620
+13:10,2,YGLetLisadoHerWork,840.125
+13:10,3,芸能人格付けチェック,24.488
+13:10,4,VibinWithYoungjae,254.837
+13:10,5,JENNIEChanelPFW,742.338
+13:10,6,JUSTICE FOR LISA,499.977
+13:10,7,ノーベル物理学賞,25.733
+13:10,8,ラストワン賞,
+13:10,9,giselle,124.616
+13:10,10,絶賛発売中,
+13:41,1,芸能人格付けチェック,35.217
+13:41,2,aespaGoesSavage,282.591
+13:41,3,YGLetLisadoHerWork,977.607
+13:41,4,うたコン,20.464
+13:41,5,HouseOfTheDragon,24.072
+13:41,6,JUSTICE FOR LISA,565.687
+13:41,7,ラストワン賞,
+13:41,8,ノーベル物理学賞,28.746
+13:41,9,まりほー,
+13:41,10,giselle,130.255
+14:10,1,うたコン,31.949
+14:10,2,芸能人格付けチェック,41.619
+14:10,3,YGLetLisadoHerWork,1.129.544
+14:10,4,aespaGoesSavage,294.835
+14:10,5,HouseOfTheDragon,30.460
+14:10,6,すわほー,
+14:10,7,ラストワン賞,
+14:10,8,JUSTICE FOR LISA,626.452
+14:10,9,ノーベル物理学賞,31.260
+14:10,10,まりほー,
+14:41,1,白上フブキ生誕LIVE,30.638
+14:41,2,REDWIN,16.019
+14:41,3,芸能人格付けチェック,49.821
+14:41,4,YGLetLisadoHerWork,1.276.215
+14:41,5,うたコン,34.535
+14:41,6,ラストワン賞,
+14:41,7,すわほー,
+14:41,8,どらほー,
+14:41,9,JUSTICE FOR LISA,708.602
+14:41,10,ノーベル物理学賞,34.236
+15:10,1,REDWIN,23.522
+15:10,2,白上フブキ生誕LIVE,52.725
+15:10,3,芸能人格付けチェック,55.447
+15:10,4,GoRED,
+15:10,5,WORLDS2021,30.124
+15:10,6,ラストワン賞,
+15:10,7,JUSTICE FOR LISA,780.509
+15:10,8,どらほー,
+15:10,9,すわほー,
+15:10,10,絶賛発売中,
+15:41,1,REDWIN,37.160
+15:41,2,白上フブキ生誕LIVE,57.047
+15:41,3,爆笑ターンテーブル,29.439
+15:41,4,GoRED,
+15:41,5,WORLDS2021,35.599
+15:41,6,ラストワン賞,
+15:41,7,JUSTICE FOR LISA,848.257
+15:41,8,どらほー,
+15:41,9,すわほー,
+15:41,10,Run BTS,164.378
+16:10,1,スマブラSP,51.619
+16:10,2,Sora,138.660
+16:10,3,Sora,138.660
+16:10,4,REDWIN,39.440
+16:10,5,白上フブキ生誕LIVE,58.279
+16:10,6,キングダムハーツ,17.206
+16:10,7,HouseOfTheDragon,57.203
+16:10,8,爆笑ターンテーブル,32.246
+16:10,9,最後のスペシャル番組,27.925
+16:10,10,DOOM,35.301
+16:41,1,Sora,214.580
+16:41,2,スマブラ,245.415
+16:41,3,キングダムハーツ,61.347
+16:41,4,ソラ参戦,60.790
+16:41,5,Adele,317.859
+16:41,6,キンハー,16.058
+16:41,7,Kingdom Hearts,27.138
+16:41,8,ThankYouSakurai,18.227
+16:41,9,桜井さん,27.703
+16:41,10,REDWIN,40.491
+17:10,1,Sora,316.738
+17:10,2,スマブラ,335.431
+17:10,3,ThankYouSakurai,55.268
+17:10,4,キングダムハーツ,111.469
+17:10,5,キングダムハーツ,111.469
+17:10,6,ソラ参戦,151.398
+17:10,7,桜井さん,91.937
+17:10,8,Kingdom Hearts,71.647
+17:10,9,Adele,350.143
+17:10,10,HBDtoJOOHONEY,30.684
+17:41,1,Sora,383.241
+17:41,2,スマブラ,387.027
+17:41,3,ThankYouSakurai,68.683
+17:41,4,キングダムハーツ,138.462
+17:41,5,ソラ参戦,200.124
+17:41,6,Switch,292.696
+17:41,7,Kingdom Hearts,92.708
+17:41,8,Adele,389.000
+17:41,9,HBDtoJOOHONEY,65.700
+17:41,10,桜井さん,106.418
+18:10,1,Sora,433.702
+18:10,2,スマブラ,411.064
+18:10,3,ThankYouSakurai,76.542
+18:10,4,キングダムハーツ,146.923
+18:10,5,ソラ参戦,227.076
+18:10,6,Switch,292.865
+18:10,7,Kingdom Hearts,107.166
+18:10,8,Adele,397.382
+18:10,9,HBDtoJOOHONEY,83.573
+18:10,10,桜井さん,113.891
+18:41,1,Sora,480.469
+18:41,2,スマブラ,426.487
+18:41,3,ThankYouSakurai,81.437
+18:41,4,キングダムハーツ,154.370
+18:41,5,ソラ参戦,243.329
+18:41,6,Switch,302.123
+18:41,7,Adele,421.423
+18:41,8,Kingdom Hearts,119.466
+18:41,9,HBDtoJOOHONEY,95.817
+18:41,10,JiminDayConEntel,103.583
+19:10,1,Sora,517.097
+19:10,2,スマブラ,434.848
+19:10,3,ThankYouSakurai,94.257
+19:10,4,ソラ参戦,252.569
+19:10,5,キングダムハーツ,158.384
+19:10,6,Adele,425.284
+19:10,7,Kingdom Hearts,129.619
+19:10,8,Switch,301.320
+19:10,9,HBDtoJOOHONEY,103.273
+19:10,10,JiminDayConEntel,121.617
+19:41,1,Sora,555.244
+19:41,2,スマブラ,441.335
+19:41,3,ThankYouSakurai,102.731
+19:41,4,Adele,442.417
+19:41,5,ソラ参戦,259.016
+19:41,6,Kingdom Hearts,139.069
+19:41,7,キングダムハーツ,161.235
+19:41,8,Switch,308.422
+19:41,9,JiminDayConEntel,133.967
+19:41,10,HBDtoJOOHONEY,108.972
+20:10,1,Sora,582.597
+20:10,2,SalarioRosa,17.563
+20:10,3,スマブラ,445.417
+20:10,4,ThankYouSakurai,110.815
+20:10,5,Adele,443.838
+20:10,6,Kingdom Hearts,145.777
+20:10,7,ソラ参戦,263.469
+20:10,8,キングダムハーツ,163.056
+20:10,9,JiminDayConEntel,139.649
+20:10,10,Switch,298.320
+20:41,1,SalarioRosa,24.392
+20:41,2,Sora,613.192
+20:41,3,スマブラ,448.889
+20:41,4,ThankYouSakurai,118.690
+20:41,5,Kingdom Hearts,153.140
+20:41,6,Adele,457.024
+20:41,7,ソラ参戦,267.002
+20:41,8,キングダムハーツ,164.492
+20:41,9,JiminDayConEntel,143.490
+20:41,10,震度5弱,
+21:10,1,SalarioRosa,29.454
+21:10,2,Sora,634.707
+21:10,3,ThankYouSakurai,123.528
+21:10,4,スマブラ,451.069
+21:10,5,Kingdom Hearts,159.340
+21:10,6,Adele,455.143
+21:10,7,ソラ参戦,269.602
+21:10,8,キングダムハーツ,165.365
+21:10,9,JiminDayConEntel,145.770
+21:10,10,震度5弱,
+21:41,1,SalarioRosa,34.041
+21:41,2,Sora,661.370
+21:41,3,ThankYouSakurai,127.966
+21:41,4,KohLanta,
+21:41,5,スマブラ,453.534
+21:41,6,GBBO,
+21:41,7,Kingdom Hearts,165.709
+21:41,8,Adele,464.844
+21:41,9,MasumlarApartmanı,
+21:41,10,ソラ参戦,271.886
+22:10,1,SalarioRosa,37.658
+22:10,2,Sora,681.808
+22:10,3,KohLanta,11.195
+22:10,4,GBBO,
+22:10,5,ThankYouSakurai,131.822
+22:10,6,スマブラ,455.319
+22:10,7,Kingdom Hearts,170.707
+22:10,8,MasumlarApartmanı,
+22:10,9,Adele,464.569
+22:10,10,Yasin Börü,
+22:41,1,SalarioRosa,40.511
+22:41,2,KohLanta,18.423
+22:41,3,Sora,705.678
+22:41,4,GBBO,
+22:41,5,MasumlarApartmanı,
+22:41,6,ThankYouSakurai,135.544
+22:41,7,スマブラ,457.724
+22:41,8,Kingdom Hearts,175.890
+22:41,9,Adele,472.910
+22:41,10,震度5強,17.793
+23:10,1,SalarioRosa,42.605
+23:10,2,KohLanta,27.315
+23:10,3,Sora,723.367
+23:10,4,GBBO,10.342
+23:10,5,MasumlarApartmanı,
+23:10,6,ThankYouSakurai,138.920
+23:10,7,Coumba,
+23:10,8,Kingdom Hearts,180.201
+23:10,9,震度5強,19.626
+23:10,10,スマブラ,460.180
+23:41,1,KohLanta,38.926
+23:41,2,SalarioRosa,44.917
+23:41,3,Sora,743.968
+23:41,4,asktommy,
+23:41,5,Coumba,10.691
+23:41,6,SecretCuentaAtrás4,36.525
+23:41,7,GBBO,10.671
+23:41,8,震度5強,21.827
+23:41,9,Claude,16.271
+23:41,10,Clémence,

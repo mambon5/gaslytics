@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,Trump,3.340.000
+00:01,2,Christmas,2.540.000
+00:01,3,Colorado,2.480.000
+00:01,4,SU'en,1.000.000
+00:01,5,Supreme Court,945.000
+00:01,6,Biden,923.000
+00:01,7,Bank,747.000
+00:01,8,CutepressLivexFreen,631.000
+00:01,9,FREEN FAV FRAGRANCE,625.000
+00:01,10,Cutepressหอมฟินกับฟรีน,617.000
+00:31,1,Trump,3.460.000
+00:31,2,Colorado,2.540.000
+00:31,3,Christmas,2.520.000
+00:31,4,SU'en,1.000.000
+00:31,5,Supreme Court,945.000
+00:31,6,Biden,925.000
+00:31,7,Bank,747.000
+00:31,8,CutepressLivexFreen,642.000
+00:31,9,FREEN FAV FRAGRANCE,636.000
+00:31,10,Cutepressหอมฟินกับฟรีน,628.000
+01:01,1,Binance,3.980.000
+01:01,2,Trump,3.460.000
+01:01,3,Christmas,2.560.000
+01:01,4,Colorado,2.540.000
+01:01,5,SU'en,1.040.000
+01:01,6,Supreme Court,945.000
+01:01,7,Biden,930.000
+01:01,8,Bank,747.000
+01:01,9,CutepressLivexFreen,656.000
+01:01,10,FREEN FAV FRAGRANCE,649.000
+01:31,1,Binance,3.980.000
+01:31,2,Trump,3.460.000
+01:31,3,Christmas,2.560.000
+01:31,4,Colorado,2.540.000
+01:31,5,SU'en,1.040.000
+01:31,6,Biden,932.000
+01:31,7,Supreme Court,853.000
+01:31,8,Bank,751.000
+01:31,9,CutepressLivexFreen,670.000
+01:31,10,FREEN FAV FRAGRANCE,662.000
+02:01,1,Binance,3.980.000
+02:01,2,Trump,3.300.000
+02:01,3,Christmas,2.580.000
+02:01,4,Colorado,2.380.000
+02:01,5,SU'en,1.040.000
+02:01,6,Biden,932.000
+02:01,7,Bank,751.000
+02:01,8,CutepressLivexFreen,684.000
+02:01,9,FREEN FAV FRAGRANCE,676.000
+02:01,10,Cutepressหอมฟินกับฟรีน,655.000
+02:31,1,Binance,4.040.000
+02:31,2,Trump,3.300.000
+02:31,3,Christmas,2.580.000
+02:31,4,Colorado,2.380.000
+02:31,5,SU'en,1.040.000
+02:31,6,su'en,1.000.000
+02:31,7,Biden,932.000
+02:31,8,Bank,751.000
+02:31,9,CutepressLivexFreen,698.000
+02:31,10,FREEN FAV FRAGRANCE,688.000
+03:01,1,Binance,4.120.000
+03:01,2,Trump,3.059.999
+03:01,3,Christmas,2.580.000
+03:01,4,Colorado,2.140.000
+03:01,5,su'en,1.060.000
+03:01,6,SU'en,1.040.000
+03:01,7,Biden,931.000
+03:01,8,Bank,752.000
+03:01,9,Supreme Court,728.000
+03:01,10,CutepressLivexFreen,714.000
+03:31,1,Binance,4.120.000
+03:31,2,Trump,3.059.999
+03:31,3,Christmas,2.580.000
+03:31,4,Colorado,2.140.000
+03:31,5,su'en,1.060.000
+03:31,6,SU'en,1.040.000
+03:31,7,Biden,931.000
+03:31,8,Bank,758.000
+03:31,9,CutepressLivexFreen,730.000
+03:31,10,Supreme Court,728.000
+04:01,1,Binance,4.120.000
+04:01,2,Trump,2.740.000
+04:01,3,Christmas,2.580.000
+04:01,4,Colorado,1.940.000
+04:01,5,su'en,1.060.000
+04:01,6,Biden,931.000
+04:01,7,Bank,758.000
+04:01,8,CutepressLivexFreen,748.000
+04:01,9,FREEN FAV FRAGRANCE,738.000
+04:01,10,Cutepressหอมฟินกับฟรีน,731.000
+04:31,1,Binance,4.120.000
+04:31,2,Trump,2.920.000
+04:31,3,Christmas,2.720.000
+04:31,4,Colorado,1.940.000
+04:31,5,su'en,1.060.000
+04:31,6,Biden,931.000
+04:31,7,CutepressLivexFreen,766.000
+04:31,8,Bank,758.000
+04:31,9,FREEN FAV FRAGRANCE,756.000
+04:31,10,Cutepressหอมฟินกับฟรีน,749.000
+05:01,1,Trump,2.920.000
+05:01,2,Christmas,2.620.000
+05:01,3,Colorado,1.779.999
+05:01,4,su'en,1.040.000
+05:01,5,Biden,932.000
+05:01,6,CutepressLivexFreen,783.000
+05:01,7,FREEN FAV FRAGRANCE,772.000
+05:01,8,Bank,757.000
+05:01,9,Cutepressหอมฟินกับฟรีน,749.000
+05:01,10,Milei,734.000
+05:31,1,Trump,2.920.000
+05:31,2,Christmas,2.620.000
+05:31,3,Colorado,1.779.999
+05:31,4,su'en,1.040.000
+05:31,5,Biden,932.000
+05:31,6,Milei,820.000
+05:31,7,FREEN FAV FRAGRANCE,788.000
+05:31,8,CutepressLivexFreen,783.000
+05:31,9,Cutepressหอมฟินกับฟรีน,781.000
+05:31,10,Bank,757.000
+06:01,1,Trump,2.920.000
+06:01,2,Christmas,2.620.000
+06:01,3,Colorado,1.640.000
+06:01,4,su'en,976.000
+06:01,5,Biden,933.000
+06:01,6,Milei,854.000
+06:01,7,CutepressLivexFreen,814.000
+06:01,8,FREEN FAV FRAGRANCE,803.000
+06:01,9,Cutepressหอมฟินกับฟรีน,798.000
+06:01,10,Bank,757.000
+06:31,1,Christmas,2.880.000
+06:31,2,Trump,2.660.000
+06:31,3,Colorado,1.640.000
+06:31,4,su'en,951.000
+06:31,5,Biden,933.000
+06:31,6,Milei,873.000
+06:31,7,CutepressLivexFreen,833.000
+06:31,8,FREEN FAV FRAGRANCE,819.000
+06:31,9,Cutepressหอมฟินกับฟรีน,815.000
+06:31,10,Bank,757.000
+07:01,1,Christmas,2.900.000
+07:01,2,My Twitter,2.880.000
+07:01,3,Trump,2.660.000
+07:01,4,Colorado,1.520.000
+07:01,5,su'en,1.080.000
+07:01,6,Biden,933.000
+07:01,7,Milei,873.000
+07:01,8,CutepressLivexFreen,833.000
+07:01,9,FREEN FAV FRAGRANCE,827.000
+07:01,10,Cutepressหอมฟินกับฟรีน,822.000
+07:31,1,My Twitter,3.120.000
+07:31,2,Christmas,2.940.000
+07:31,3,Trump,2.660.000
+07:31,4,Colorado,1.480.000
+07:31,5,su'en,1.080.000
+07:31,6,Biden,933.000
+07:31,7,Milei,873.000
+07:31,8,CutepressLivexFreen,842.000
+07:31,9,FREEN FAV FRAGRANCE,829.000
+07:31,10,Cutepressหอมฟินกับฟรีน,824.000
+08:01,1,My Twitter,4.400.000
+08:01,2,Christmas,2.940.000
+08:01,3,Trump,2.660.000
+08:01,4,Colorado,1.480.000
+08:01,5,su'en,1.080.000
+08:01,6,Biden,928.000
+08:01,7,Did Twitter,926.000
+08:01,8,Milei,879.000
+08:01,9,CutepressLivexFreen,850.000
+08:01,10,FREEN FAV FRAGRANCE,838.000
+08:31,1,My Twitter,4.720.000
+08:31,2,Christmas,2.940.000
+08:31,3,Trump,2.300.000
+08:31,4,Colorado,1.480.000
+08:31,5,su'en,1.080.000
+08:31,6,Did Twitter,935.000
+08:31,7,Biden,928.000
+08:31,8,Milei,884.000
+08:31,9,CutepressLivexFreen,871.000
+08:31,10,FREEN FAV FRAGRANCE,858.000
+09:01,1,My Twitter,4.940.000
+09:01,2,Christmas,2.940.000
+09:01,3,Trump,2.300.000
+09:01,4,Colorado,1.400.000
+09:01,5,su'en,1.080.000
+09:01,6,Did Twitter,952.000
+09:01,7,Biden,917.000
+09:01,8,Milei,893.000
+09:01,9,CutepressLivexFreen,892.000
+09:01,10,FREEN FAV FRAGRANCE,879.000
+09:31,1,My Twitter,4.940.000
+09:31,2,Trump,2.300.000
+09:31,3,Christmas,2.120.000
+09:31,4,Mi Twitter,1.600.000
+09:31,5,Colorado,1.400.000
+09:31,6,su'en,1.080.000
+09:31,7,Did Twitter,952.000
+09:31,8,Biden,917.000
+09:31,9,CutepressLivexFreen,912.000
+09:31,10,FREEN FAV FRAGRANCE,899.000
+10:01,1,My Twitter,4.940.000
+10:01,2,Not Twitter,2.960.000
+10:01,3,Trump,2.260.000
+10:01,4,Christmas,2.120.000
+10:01,5,Mi Twitter,1.700.000
+10:01,6,Colorado,1.359.999
+10:01,7,su'en,1.080.000
+10:01,8,Did Twitter,955.000
+10:01,9,CutepressLivexFreen,938.000
+10:01,10,FREEN FAV FRAGRANCE,923.000
+10:31,1,My Twitter,4.940.000
+10:31,2,Not Twitter,2.960.000
+10:31,3,Trump,2.260.000
+10:31,4,Christmas,2.160.000
+10:31,5,Mi Twitter,1.700.000
+10:31,6,Colorado,1.359.999
+10:31,7,su'en,1.080.000
+10:31,8,Did Twitter,955.000
+10:31,9,FREEN FAV FRAGRANCE,947.000
+10:31,10,CutepressLivexFreen,938.000
+11:01,1,My Twitter,3.700.000
+11:01,2,Not Twitter,2.960.000
+11:01,3,Christmas,2.260.000
+11:01,4,Trump,2.219.999
+11:01,5,Mi Twitter,1.700.000
+11:01,6,Colorado,1.339.999
+11:01,7,su'en,1.060.000
+11:01,8,CutepressLivexFreen,993.000
+11:01,9,FREEN FAV FRAGRANCE,976.000
+11:01,10,Cutepressหอมฟินกับฟรีน,973.000
+11:31,1,Not Twitter,2.960.000
+11:31,2,Christmas,2.260.000
+11:31,3,Trump,2.219.999
+11:31,4,My Twitter,1.799.999
+11:31,5,Mi Twitter,1.700.000
+11:31,6,Colorado,1.339.999
+11:31,7,CutepressLivexFreen,993.000
+11:31,8,FREEN FAV FRAGRANCE,976.000
+11:31,9,Cutepressหอมฟินกับฟรีน,973.000
+11:31,10,Did Twitter,955.000
+12:01,1,Not Twitter,2.460.000
+12:01,2,Christmas,2.300.000
+12:01,3,Trump,2.200.000
+12:01,4,Mi Twitter,1.680.000
+12:01,5,Colorado,1.299.999
+12:01,6,My Twitter,1.040.000
+12:01,7,CutepressLivexFreen,993.000
+12:01,8,FREEN FAV FRAGRANCE,976.000
+12:01,9,Cutepressหอมฟินกับฟรีน,973.000
+12:01,10,Did Twitter,955.000
+12:31,1,Christmas,2.300.000
+12:31,2,Trump,2.200.000
+12:31,3,Mi Twitter,1.680.000
+12:31,4,Colorado,1.299.999
+12:31,5,My Twitter,1.040.000
+12:31,6,CutepressLivexFreen,993.000
+12:31,7,FREEN FAV FRAGRANCE,976.000
+12:31,8,Cutepressหอมฟินกับฟรีน,973.000
+12:31,9,Did Twitter,955.000
+12:31,10,Biden,924.000
+13:01,1,Christmas,2.340.000
+13:01,2,Trump,2.160.000
+13:01,3,Colorado,1.259.999
+13:01,4,My Twitter,1.040.000
+13:01,5,Milei,984.000
+13:01,6,CutepressLivexFreen,966.000
+13:01,7,FREEN FAV FRAGRANCE,950.000
+13:01,8,Cutepressหอมฟินกับฟรีน,948.000
+13:01,9,Did Twitter,939.000
+13:01,10,Biden,926.000
+13:31,1,Christmas,2.340.000
+13:31,2,Trump,2.160.000
+13:31,3,Colorado,1.259.999
+13:31,4,Milei,996.000
+13:31,5,CutepressLivexFreen,966.000
+13:31,6,FREEN FAV FRAGRANCE,950.000
+13:31,7,Cutepressหอมฟินกับฟรีน,948.000
+13:31,8,Biden,926.000
+13:31,9,Presidente,681.000
+13:31,10,Dunki,680.000
+14:01,1,Christmas,2.380.000
+14:01,2,Trump,2.139.999
+14:01,3,Colorado,1.220.000
+14:01,4,Milei,1.040.000
+14:01,5,Biden,929.000
+14:01,6,CutepressLivexFreen,860.000
+14:01,7,FREEN FAV FRAGRANCE,847.000
+14:01,8,Cutepressหอมฟินกับฟรีน,843.000
+14:01,9,Presidente,681.000
+14:01,10,Dunki,680.000
+14:31,1,Trump,2.940.000
+14:31,2,Christmas,2.380.000
+14:31,3,Colorado,1.220.000
+14:31,4,Milei,1.060.000
+14:31,5,Biden,929.000
+14:31,6,CutepressLivexFreen,860.000
+14:31,7,FREEN FAV FRAGRANCE,847.000
+14:31,8,Cutepressหอมฟินกับฟรีน,823.000
+14:31,9,Presidente,681.000
+14:31,10,Dunki,680.000
+15:01,1,Trump,2.940.000
+15:01,2,Christmas,2.380.000
+15:01,3,Colorado,1.160.000
+15:01,4,Milei,1.120.000
+15:01,5,Biden,935.000
+15:01,6,Amazon,882.000
+15:01,7,CutepressLivexFreen,773.000
+15:01,8,Cutepressหอมฟินกับฟรีน,762.000
+15:01,9,FREEN FAV FRAGRANCE,698.000
+15:01,10,Dunki,671.000
+15:31,1,Trump,2.940.000
+15:31,2,Christmas,2.380.000
+15:31,3,Colorado,1.160.000
+15:31,4,Milei,1.120.000
+15:31,5,Biden,935.000
+15:31,6,Amazon,882.000
+15:31,7,CutepressLivexFreen,773.000
+15:31,8,Cutepressหอมฟินกับฟรีน,762.000
+15:31,9,Presidente,708.000
+15:31,10,FREEN FAV FRAGRANCE,698.000
+16:01,1,Trump,2.940.000
+16:01,2,Christmas,2.500.000
+16:01,3,Milei,1.220.000
+16:01,4,Colorado,1.080.000
+16:01,5,Biden,938.000
+16:01,6,Amazon,882.000
+16:01,7,Presidente,727.000
+16:01,8,CutepressLivexFreen,709.000
+16:01,9,Cutepressหอมฟินกับฟรีน,701.000
+16:01,10,FREEN FAV FRAGRANCE,698.000
+16:31,1,Trump,2.900.000
+16:31,2,Christmas,2.500.000
+16:31,3,Milei,1.240.000
+16:31,4,Colorado,1.080.000
+16:31,5,Biden,938.000
+16:31,6,Amazon,882.000
+16:31,7,Presidente,727.000
+16:31,8,CutepressLivexFreen,709.000
+16:31,9,Cutepressหอมฟินกับฟรีน,701.000
+16:31,10,FREEN FAV FRAGRANCE,699.000
+17:01,1,Trump,2.900.000
+17:01,2,Christmas,2.500.000
+17:01,3,Milei,1.299.999
+17:01,4,Colorado,983.000
+17:01,5,Biden,938.000
+17:01,6,Amazon,879.000
+17:01,7,Presidente,739.000
+17:01,8,Dunki,664.000
+17:01,9,cutepresslivexfreen,647.000
+17:01,10,Cutepressหอมฟินกับฟรีน,641.000
+17:31,1,Trump,2.900.000
+17:31,2,Israel,2.680.000
+17:31,3,Christmas,2.500.000
+17:31,4,Milei,1.299.999
+17:31,5,Colorado,983.000
+17:31,6,Biden,938.000
+17:31,7,Amazon,879.000
+17:31,8,Presidente,739.000
+17:31,9,Dunki,664.000
+17:31,10,Cutepressหอมฟินกับฟรีน,641.000
+18:01,1,Trump,2.840.000
+18:01,2,Israel,2.680.000
+18:01,3,Christmas,2.519.999
+18:01,4,Milei,1.380.000
+18:01,5,Biden,937.000
+18:01,6,Colorado,930.000
+18:01,7,Amazon,866.000
+18:01,8,Presidente,750.000
+18:01,9,Dunki,664.000
+18:01,10,Argentina,629.000
+18:31,1,Trump,2.840.000
+18:31,2,Israel,2.680.000
+18:31,3,Christmas,2.519.999
+18:31,4,Milei,1.380.000
+18:31,5,Biden,937.000
+18:31,6,Colorado,930.000
+18:31,7,Amazon,866.000
+18:31,8,Presidente,750.000
+18:31,9,Dunki,664.000
+18:31,10,Argentina,629.000
+19:01,1,Trump,2.780.000
+19:01,2,Christmas,2.760.000
+19:01,3,Israel,2.680.000
+19:01,4,Milei,1.460.000
+19:01,5,Biden,932.000
+19:01,6,Colorado,870.000
+19:01,7,Presidente,761.000
+19:01,8,Dunki,662.000
+19:01,9,Argentina,644.000
+19:01,10,Cutepressหอมฟินกับฟรีน,555.000
+19:31,1,Trump,2.780.000
+19:31,2,Christmas,2.760.000
+19:31,3,Israel,2.660.000
+19:31,4,Milei,1.460.000
+19:31,5,Biden,932.000
+19:31,6,Colorado,855.000
+19:31,7,Presidente,761.000
+19:31,8,Dunki,662.000
+19:31,9,Argentina,644.000
+19:31,10,Cutepressหอมฟินกับฟรีน,555.000
+20:01,1,Christmas,2.760.000
+20:01,2,Trump,2.700.000
+20:01,3,Israel,2.660.000
+20:01,4,Milei,1.500.000
+20:01,5,Biden,922.000
+20:01,6,Colorado,843.000
+20:01,7,Presidente,769.000
+20:01,8,Argentina,657.000
+20:01,9,Dunki,656.000
+20:01,10,CutepressLivexFreen,527.000
+20:31,1,Israel,2.760.000
+20:31,2,Trump,2.700.000
+20:31,3,Christmas,2.639.999
+20:31,4,Milei,1.500.000
+20:31,5,Biden,922.000
+20:31,6,Colorado,843.000
+20:31,7,Presidente,769.000
+20:31,8,Argentina,657.000
+20:31,9,Dunki,656.000
+20:31,10,CutepressLivexFreen,527.000
+21:01,1,Israel,2.760.000
+21:01,2,Christmas,2.679.999
+21:01,3,Trump,2.620.000
+21:01,4,Milei,1.540.000
+21:01,5,Biden,911.000
+21:01,6,Colorado,802.000
+21:01,7,Presidente,774.000
+21:01,8,Argentina,666.000
+21:01,9,Dunki,645.000
+21:01,10,CutepressLivexFreen,505.000
+21:31,1,Israel,2.760.000
+21:31,2,Christmas,2.679.999
+21:31,3,Trump,2.620.000
+21:31,4,The US,2.340.000
+21:31,5,Milei,1.540.000
+21:31,6,Biden,911.000
+21:31,7,Colorado,802.000
+21:31,8,Presidente,774.000
+21:31,9,Salaar,680.000
+21:31,10,Argentina,666.000
+22:01,1,Christmas,2.700.000
+22:01,2,Trump,2.520.000
+22:01,3,The US,2.340.000
+22:01,4,Milei,1.580.000
+22:01,5,Biden,902.000
+22:01,6,Presidente,780.000
+22:01,7,Colorado,762.000
+22:01,8,Salaar,718.000
+22:01,9,Argentina,670.000
+22:01,10,Dunki,640.000
+22:31,1,Christmas,2.700.000
+22:31,2,Trump,2.520.000
+22:31,3,The US,2.340.000
+22:31,4,Milei,1.580.000
+22:31,5,Biden,902.000
+22:31,6,Presidente,780.000
+22:31,7,Colorado,762.000
+22:31,8,Salaar,729.000
+22:31,9,Argentina,670.000
+22:31,10,Dunki,640.000
+23:01,1,Christmas,2.740.000
+23:01,2,Trump,2.440.000
+23:01,3,The US,2.320.000
+23:01,4,Milei,1.620.000
+23:01,5,Biden,890.000
+23:01,6,Presidente,780.000
+23:01,7,Salaar,742.000
+23:01,8,Colorado,721.000
+23:01,9,Argentina,674.000
+23:01,10,Dunki,639.000
+23:31,1,Christmas,2.740.000
+23:31,2,Trump,2.440.000
+23:31,3,The US,2.320.000
+23:31,4,Milei,1.620.000
+23:31,5,Biden,890.000
+23:31,6,Presidente,780.000
+23:31,7,Salaar,754.000
+23:31,8,Colorado,721.000
+23:31,9,Argentina,674.000
+23:31,10,Dunki,639.000

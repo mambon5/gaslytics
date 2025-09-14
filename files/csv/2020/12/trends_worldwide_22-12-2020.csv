@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:09,1,KKWHoliday,107.497
+00:09,2,Werner,59.411
+00:09,3,CHEWHU,51.847
+00:09,4,LaCasaFuerteFinal,21.008
+00:09,5,Kevin Greene,18.273
+00:09,6,Júpiter e Saturno,49.286
+00:09,7,John Mulaney,15.065
+00:09,8,Tammy,25.786
+00:09,9,Pat Robertson,10.207
+00:09,10,partner,30.430
+00:39,1,KKWHoliday,114.737
+00:39,2,GFVIP,212.594
+00:39,3,Werner,61.149
+00:39,4,John Mulaney,19.212
+00:39,5,Júpiter e Saturno,53.254
+00:39,6,Kevin Greene,22.357
+00:39,7,CHEWHU,52.792
+00:39,8,LaCasaFuerteFinal,23.461
+00:39,9,Pat Robertson,14.517
+00:39,10,Cazares,
+01:09,1,modoturbo,133.001
+01:09,2,GFVIP,227.628
+01:09,3,KKWHoliday,120.689
+01:09,4,John Mulaney,23.024
+01:09,5,Werner,61.767
+01:09,6,Júpiter e Saturno,55.987
+01:09,7,LaCasaFuerteFinal,27.721
+01:09,8,Kevin Greene,25.348
+01:09,9,Pat Robertson,18.047
+01:09,10,Cazares,
+01:39,1,modoturbo,176.610
+01:39,2,GFVIP,251.742
+01:39,3,Cazares,
+01:39,4,KKWHoliday,125.568
+01:39,5,Pro Bowl,25.302
+01:39,6,John Mulaney,26.682
+01:39,7,LaCasaFuerteFinal,32.732
+01:39,8,Júpiter e Saturno,58.618
+01:39,9,Pat Robertson,21.331
+01:39,10,Pabllo,56.968
+02:09,1,modoturbo,203.028
+02:09,2,GFVIP,257.209
+02:09,3,Cazares,10.360
+02:09,4,Pro Bowl,34.396
+02:09,5,Corinthians,56.617
+02:09,6,KKWHoliday,130.595
+02:09,7,Pabllo,63.102
+02:09,8,John Mulaney,29.977
+02:09,9,LaCasaFuerteFinal,35.624
+02:09,10,Cássio,
+02:39,1,modoturbo,221.428
+02:39,2,Pro Bowl,41.386
+02:39,3,Corinthians,65.090
+02:39,4,Cazares,11.863
+02:39,5,KKWHoliday,135.369
+02:39,6,GFVIP,262.350
+02:39,7,John Mulaney,32.843
+02:39,8,Pabllo,66.885
+02:39,9,Selamat Hari Ibu,26.814
+02:39,10,Anitta,146.893
+03:09,1,modoturbo,233.804
+03:09,2,TheBachelorette,18.763
+03:09,3,Steelers,61.748
+03:09,4,Bengals,31.713
+03:09,5,Pro Bowl,16.433
+03:09,6,Corinthians,67.425
+03:09,7,Cazares,12.532
+03:09,8,KKWHoliday,140.163
+03:09,9,Big Ben,
+03:09,10,Selamat Hari Ibu,33.136
+03:39,1,Steelers,100.815
+03:39,2,modoturbo,243.304
+03:39,3,TheBachelorette,31.105
+03:39,4,Big Ben,13.282
+03:39,5,Brendan,14.384
+03:39,6,PITvsCIN,10.701
+03:39,7,HereWeGo,15.900
+03:39,8,Pro Bowl,50.247
+03:39,9,Selamat Hari Ibu,39.756
+03:39,10,GranFinalYoSoy,
+04:09,1,Steelers,123.633
+04:09,2,TheBachelorette,41.595
+04:09,3,modoturbo,249.368
+04:09,4,Big Ben,16.720
+04:09,5,Brendan,16.778
+04:09,6,PITvsCIN,12.510
+04:09,7,BatallaDeFortaleza,17.812
+04:09,8,GranFinalYoSoy,
+04:09,9,Selamat Hari Ibu,47.009
+04:09,10,Pro Bowl,53.333
+04:39,1,Steelers,132.967
+04:39,2,Bengals,88.940
+04:39,3,TheBachelorette,43.080
+04:39,4,modoturbo,256.095
+04:39,5,Big Ben,17.569
+04:39,6,GranFinalYoSoy,
+04:39,7,Brendan,17.454
+04:39,8,PITvsCIN,13.679
+04:39,9,BatallaDeFortaleza,21.518
+04:39,10,Selamat Hari Ibu,54.556
+05:09,1,Steelers,146.413
+05:09,2,TheBachelorette,44.097
+05:09,3,modoturbo,260.531
+05:09,4,Big Ben,18.545
+05:09,5,GranFinalYoSoy,10.254
+05:09,6,Ryan Finley,
+05:09,7,PITvsCIN,15.580
+05:09,8,Extraordinário,47.134
+05:09,9,Selamat Hari Ibu,60.911
+05:09,10,Brendan,17.796
+05:39,1,Steelers,188.733
+05:39,2,Big Ben,20.985
+05:39,3,TheBachelorette,45.006
+05:39,4,Ryan Finley,
+05:39,5,modoturbo,263.507
+05:39,6,PITvsCIN,17.494
+05:39,7,GranFinalYoSoy,10.476
+05:39,8,WhoDey,
+05:39,9,Selamat Hari Ibu,67.286
+05:39,10,Extraordinário,49.011
+06:09,1,Steelers,199.496
+06:09,2,Big Ben,21.442
+06:09,3,TheBachelorette,45.712
+06:09,4,Ryan Finley,10.603
+06:09,5,modoturbo,265.679
+06:09,6,WhoDey,
+06:09,7,Selamat Hari Ibu,73.011
+06:09,8,PITvsCIN,17.963
+06:09,9,GranFinalYoSoy,10.510
+06:09,10,Extraordinário,49.710
+06:39,1,Steelers,204.701
+06:39,2,Big Ben,21.739
+06:39,3,TheBachelorette,46.333
+06:39,4,Carti,30.625
+06:39,5,Ryan Finley,10.858
+06:39,6,Selamat Hari Ibu,78.423
+06:39,7,WhoDey,
+06:39,8,modoturbo,267.239
+06:39,9,PITvsCIN,18.274
+06:39,10,GranFinalYoSoy,10.541
+07:09,1,Steelers,207.673
+07:09,2,Carti,36.195
+07:09,3,Big Ben,21.912
+07:09,4,TheBachelorette,47.150
+07:09,5,Selamat Hari Ibu,86.451
+07:09,6,Ryan Finley,11.041
+07:09,7,NationalMathematicsDay,13.874
+07:09,8,WhoDey,
+07:09,9,จะหอมไปไหน,28.016
+07:09,10,bighitclosethegyms,
+07:39,1,Steelers,209.738
+07:39,2,Bengals,145.962
+07:39,3,Carti,39.878
+07:39,4,BIGHITCLOSETHEGYMS,10.783
+07:39,5,ローソン鬼滅の刃キャンペーン,
+07:39,6,Selamat Hari Ibu,92.757
+07:39,7,Sarıkamış,10.685
+07:39,8,Big Ben,22.072
+07:39,9,TheBachelorette,47.652
+07:39,10,จะหอมไปไหน,38.849
+08:09,1,Steelers,210.930
+08:09,2,Bengals,147.380
+08:09,3,BIGHITCLOSETHEGYMS,18.267
+08:09,4,ローソン鬼滅の刃キャンペーン,
+08:09,5,Carti,41.103
+08:09,6,Sarıkamış,14.738
+08:09,7,22Aralık1914,
+08:09,8,Selamat Hari Ibu,98.312
+08:09,9,salı,
+08:09,10,Özkan Sümer,
+08:39,1,Steelers,211.958
+08:39,2,BIGHITCLOSETHEGYMS,25.530
+08:39,3,Sarıkamış,19.597
+08:39,4,ローソン鬼滅の刃キャンペーン,12.315
+08:39,5,YOONGI IS BACK,59.089
+08:39,6,MilletinSesiAkşener,
+08:39,7,Bengals,148.551
+08:39,8,22Aralık1914,
+08:39,9,Carti,42.780
+08:39,10,Selamat Hari Ibu,103.164
+09:09,1,Sarıkamış,25.619
+09:09,2,YOONGI IS BACK,85.768
+09:09,3,BIGHITCLOSETHEGYMS,31.533
+09:09,4,ローソン鬼滅の刃キャンペーン,15.835
+09:09,5,Steelers,212.709
+09:09,6,loteriadenavidad2020,
+09:09,7,22Aralık1914,11.037
+09:09,8,Carti,43.374
+09:09,9,Bengals,149.379
+09:09,10,불법사이트,30.686
+09:39,1,Sarıkamış,32.364
+09:39,2,loteriadenavidad2020,
+09:39,3,YOONGI IS BACK,94.071
+09:39,4,BIGHITCLOSETHEGYMS,36.454
+09:39,5,ローソン鬼滅の刃キャンペーン,18.729
+09:39,6,22Aralık1914,14.601
+09:39,7,三菱UFJ銀行,
+09:39,8,Steelers,213.388
+09:39,9,Carti,44.555
+09:39,10,불법사이트,35.824
+10:09,1,Sarıkamış,39.859
+10:09,2,loteriadenavidad2020,
+10:09,3,22Aralık1914,18.126
+10:09,4,YOONGI IS BACK,99.113
+10:09,5,BIGHITCLOSETHEGYMS,41.480
+10:09,6,ローソン鬼滅の刃キャンペーン,21.334
+10:09,7,三菱UFJ銀行,10.405
+10:09,8,シティーハンター,11.156
+10:09,9,自主退学,11.584
+10:09,10,半沢直樹,
+10:39,1,LoteriaRTVE,
+10:39,2,Sarıkamış,47.050
+10:39,3,22Aralık1914,21.929
+10:39,4,BIGHITCLOSETHEGYMS,45.954
+10:39,5,Crivella,
+10:39,6,三菱UFJ銀行,14.284
+10:39,7,ローソン鬼滅の刃キャンペーン,22.680
+10:39,8,YOONGI IS BACK,103.084
+10:39,9,モンスターハンターライズ,
+10:39,10,シティーハンター,13.250
+11:09,1,こえていくホロライブSTAGE2,125.483
+11:09,2,LoteriaRTVE,
+11:09,3,Crivella,12.665
+11:09,4,Sarıkamış,53.339
+11:09,5,モンハンライズ,15.291
+11:09,6,loteriadenavidad2020,10.138
+11:09,7,モンスターハンターライズ,
+11:09,8,三菱UFJ銀行,17.608
+11:09,9,YOONGI IS BACK,106.333
+11:09,10,モンストMVP人気投票,
+11:39,1,こえていくホロライブSTAGE2,209.717
+11:39,2,Crivella,22.260
+11:39,3,LoteriaRTVE,12.603
+11:39,4,モンハンライズ,17.440
+11:39,5,Sarıkamış,59.193
+11:39,6,モンスターハンターライズ,
+11:39,7,22Aralık1914,29.080
+11:39,8,三菱UFJ銀行,20.453
+11:39,9,モンストMVP人気投票,
+11:39,10,最強キャラ部門,
+12:09,1,Crivella,31.560
+12:09,2,こえていくホロライブSTAGE2,305.895
+12:09,3,LoteriaRTVE,15.965
+12:09,4,モンハンライズ,18.732
+12:09,5,モンスターハンターライズ,
+12:09,6,Sarıkamış,64.528
+12:09,7,お前を止められるのは,
+12:09,8,モンストMVP人気投票,
+12:09,9,最強キャラ部門,
+12:09,10,三菱UFJ銀行,22.607
+12:39,1,Crivella,41.790
+12:39,2,こえていくホロライブSTAGE2,410.272
+12:39,3,LoteriaRTVE,19.022
+12:39,4,シャニマス生配信,14.506
+12:39,5,モンハンライズ,20.225
+12:39,6,モンスターハンターライズ,10.788
+12:39,7,Sarıkamış,69.027
+12:39,8,モンストMVP人気投票,
+12:39,9,最強キャラ部門,
+12:39,10,三菱UFJ銀行,24.532
+13:09,1,Crivella,52.128
+13:09,2,こえていくホロライブSTAGE2,508.493
+13:09,3,LoteriaRTVE,21.258
+13:09,4,シャニマス生配信,22.585
+13:09,5,モンハンライズ,21.107
+13:09,6,モンスターハンターライズ,11.572
+13:09,7,ものまねグランプリ,
+13:09,8,モンストMVP人気投票,
+13:09,9,ベストイレブン,
+13:09,10,最強キャラ部門,
+13:39,1,Crivella,62.622
+13:39,2,こえていくホロライブSTAGE2,604.659
+13:39,3,姉ちゃんの恋人,21.606
+13:39,4,LoteriaRTVE,23.004
+13:39,5,シャニマス生配信,23.212
+13:39,6,MewGulfxDentisteChina,148.611
+13:39,7,オルンガ,13.265
+13:39,8,モンスターハンターライズ,12.624
+13:39,9,ベストイレブン,10.715
+13:39,10,モンストMVP人気投票,
+14:09,1,Crivella,73.145
+14:09,2,姉ちゃんの恋人,35.272
+14:09,3,こえていくホロライブSTAGE2,656.853
+14:09,4,ものまねグランプリ,11.374
+14:09,5,LoteriaRTVE,24.020
+14:09,6,MewGulfxDentisteChina,230.196
+14:09,7,オルンガ,15.626
+14:09,8,モンスターハンターライズ,13.523
+14:09,9,ベストイレブン,12.881
+14:09,10,アスベスト,26.404
+14:39,1,恋あた,56.807
+14:39,2,Crivella,83.086
+14:39,3,姉ちゃんの恋人,38.669
+14:39,4,こえていくホロライブSTAGE2,686.843
+14:39,5,まこっちゃん,
+14:39,6,ものまねグランプリ,13.565
+14:39,7,asgariücret,10.832
+14:39,8,モンスターハンターライズ,14.184
+14:39,9,オルンガ,16.888
+14:39,10,ベストイレブン,13.903
+15:09,1,恋あた,81.065
+15:09,2,Crivella,92.559
+15:09,3,姉ちゃんの恋人,40.450
+15:09,4,こえていくホロライブSTAGE2,702.438
+15:09,5,まこっちゃん,
+15:09,6,asgariücret,13.663
+15:09,7,ものまねグランプリ,15.588
+15:09,8,中村倫也,16.809
+15:09,9,ARuFa,
+15:09,10,モンスターハンターライズ,14.669
+15:39,1,恋あた,92.162
+15:39,2,Crivella,101.145
+15:39,3,風間くん,
+15:39,4,姉ちゃんの恋人,41.931
+15:39,5,asgariücret,16.420
+15:39,6,こえていくホロライブSTAGE2,715.127
+15:39,7,まこっちゃん,
+15:39,8,風間ぽん,
+15:39,9,アーニャ,
+15:39,10,Claude Brasseur,
+16:09,1,恋あた,97.563
+16:09,2,Crivella,109.506
+16:09,3,100FREEiPhone12,53.908
+16:09,4,風間くん,10.028
+16:09,5,アーニャ,
+16:09,6,姉ちゃんの恋人,42.850
+16:09,7,asgariücret,18.788
+16:09,8,風間ぽん,
+16:09,9,まこっちゃん,
+16:09,10,Claude Brasseur,
+16:39,1,100FREEiPhone12,1.370.112
+16:39,2,UnboxTherapy,201.101
+16:39,3,恋あた,102.219
+16:39,4,1YearWithPsycho,51.971
+16:39,5,Crivella,117.958
+16:39,6,DemirtaşİçinÖzgürlük,
+16:39,7,風間くん,11.065
+16:39,8,風間ぽん,
+16:39,9,NATAL DA MIRELLA,37.361
+16:39,10,Claude Brasseur,10.680
+17:09,1,100FREEiPhone12,4.287.851
+17:09,2,unboxtherapy,452.203
+17:09,3,1YearWithPsycho,75.036
+17:09,4,DemirtaşİçinÖzgürlük,
+17:09,5,恋あた,104.936
+17:09,6,Crivella,125.020
+17:09,7,風間くん,11.570
+17:09,8,NATAL DA MIRELLA,42.375
+17:09,9,7 OR NEVER,39.633
+17:09,10,ARuFa,16.554
+17:39,1,100FREEiPhone12,4.644.143
+17:39,2,unboxtherapy,771.747
+17:39,3,DemirtaşİçinÖzgürlük,
+17:39,4,1YearWithPsycho,88.292
+17:39,5,恋あた,106.930
+17:39,6,Crivella,132.098
+17:39,7,風間くん,11.829
+17:39,8,7 OR NEVER,51.369
+17:39,9,Claude Brasseur,13.725
+17:39,10,NATAL DA MIRELLA,43.674
+18:09,1,100FREEiPhone12,4.911.184
+18:09,2,unboxtherapy,1.043.693
+18:09,3,DemirtaşİçinÖzgürlük,10.433
+18:09,4,1YearWithPsycho,96.435
+18:09,5,JuveNapoli,
+18:09,6,Crivella,138.161
+18:09,7,7 OR NEVER,58.382
+18:09,8,FICA BEM TETÉ,20.714
+18:09,9,風間くん,11.971
+18:09,10,Claude Brasseur,15.156
+18:39,1,100FREEiPhone12,5.107.598
+18:39,2,unboxtherapy,1.262.379
+18:39,3,DemirtaşİçinÖzgürlük,11.494
+18:39,4,JuveNapoli,
+18:39,5,1YearWithPsycho,101.286
+18:39,6,Crivella,143.437
+18:39,7,Taylan,
+18:39,8,7 OR NEVER,62.974
+18:39,9,FICA BEM TETÉ,22.536
+18:39,10,Seattle,36.457
+19:09,1,100FREEiPhone12,4.343.784
+19:09,2,unboxtherapy,1.260.258
+19:09,3,DemirtaşİçinÖzgürlük,12.427
+19:09,4,JuveNapoli,
+19:09,5,sınavagelmiyorum,84.811
+19:09,6,Taylan,
+19:09,7,Crivella,148.083
+19:09,8,Boca Rosa,18.344
+19:09,9,Seattle,37.029
+19:09,10,7 OR NEVER,65.779
+19:39,1,100FREEiPhone12,3.920.880
+19:39,2,unboxtherapy,1.198.615
+19:39,3,DemirtaşİçinÖzgürlük,13.420
+19:39,4,sınavagelmiyorum,99.149
+19:39,5,JuveNapoli,
+19:39,6,Taylan,
+19:39,7,Boca Rosa,25.475
+19:39,8,Crivella,151.808
+19:39,9,Alex Padilla,
+19:39,10,Seattle,38.341
+20:09,1,100FREEiPhone12,3.211.130
+20:09,2,sınavagelmiyorum,116.109
+20:09,3,DemirtaşİçinÖzgürlük,14.405
+20:09,4,unboxtherapy,1.138.005
+20:09,5,JuveNapoli,
+20:09,6,Lakers,60.376
+20:09,7,Brentford,
+20:09,8,Alex Padilla,10.518
+20:09,9,Boca Rosa,29.511
+20:09,10,Taylan,
+20:39,1,100FREEiPhone12,3.485.264
+20:39,2,NUFC,11.788
+20:39,3,sınavagelmiyorum,134.941
+20:39,4,BruceOut,
+20:39,5,DemirtaşİçinÖzgürlük,15.154
+20:39,6,Brentford,
+20:39,7,YarramınBaşı AdnanOktar,
+20:39,8,Lakers,63.580
+20:39,9,Saliba,
+20:39,10,Safiye,
+21:09,1,100FREEiPhone12,3.663.882
+21:09,2,NUFC,13.823
+21:09,3,MasumlarApartmanı,
+21:09,4,sınavagelmiyorum,152.214
+21:09,5,ARSMCI,
+21:09,6,Mustafi,
+21:09,7,Brentford,
+21:09,8,Lakers,64.886
+21:09,9,Saliba,
+21:09,10,YarramınBaşı AdnanOktar,
+21:39,1,100FREEiPhone12,3.324.265
+21:39,2,Martinelli,14.136
+21:39,3,MasumlarApartmanı,13.457
+21:39,4,ARSMCI,
+21:39,5,Mustafi,10.170
+21:39,6,NUFC,14.849
+21:39,7,JuveFiorentina,
+21:39,8,Saliba,10.941
+21:39,9,Lakers,68.244
+21:39,10,Brentford,
+22:09,1,Martinelli,28.362
+22:09,2,MasumlarApartmanı,20.872
+22:09,3,ARSMCI,12.858
+22:09,4,100FREEiPhone12,4.683.518
+22:09,5,JuveFiorentina,11.447
+22:09,6,Mustafi,11.558
+22:09,7,sınavagelmiyorum,189.686
+22:09,8,Safiye,12.377
+22:09,9,Lakers,69.675
+22:09,10,Saliba,11.478
+22:39,1,ARSMCI,18.955
+22:39,2,MasumlarApartmanı,23.473
+22:39,3,Martinelli,33.091
+22:39,4,JuveFiorentina,17.122
+22:39,5,Mustafi,14.388
+22:39,6,sınavagelmiyorum,211.638
+22:39,7,100FREEiPhone12,
+22:39,8,Foden,
+22:39,9,Runarsson,
+22:39,10,Safiye,13.990
+23:09,1,ARSMCI,23.597
+23:09,2,JuveFiorentina,23.668
+23:09,3,MasumlarApartmanı,24.846
+23:09,4,Martinelli,36.065
+23:09,5,Arteta,47.107
+23:09,6,Mustafi,17.742
+23:09,7,sınavagelmiyorum,230.260
+23:09,8,Foden,
+23:09,9,Runarsson,11.833
+23:09,10,harrypottereidonidellamorte,
+23:39,1,Arsenal,220.070
+23:39,2,ARSMCI,25.562
+23:39,3,JuveFiorentina,25.712
+23:39,4,Martinelli,37.821
+23:39,5,MasumlarApartmanı,25.496
+23:39,6,Pedri,21.277
+23:39,7,Arteta,54.392
+23:39,8,Mustafi,19.168
+23:39,9,harrypottereidonidellamorte,
+23:39,10,Bianca,39.552

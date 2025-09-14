@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,TemptationIsland,114.142
+00:10,2,LoveIsland,170.874
+00:10,3,Bill Cosby,314.554
+00:10,4,Donald Rumsfeld,85.343
+00:10,5,Andy Murray,25.758
+00:10,6,Bruno Gomes,
+00:10,7,MaskSinger6,
+00:10,8,TierraDeNadie12,19.572
+00:10,9,elektrik,18.828
+00:10,10,Shannon,48.826
+00:41,1,Bill Cosby,331.987
+00:41,2,TemptationIsland,124.677
+00:41,3,LoveIsland,173.936
+00:41,4,Donald Rumsfeld,93.414
+00:41,5,Bruno Gomes,
+00:41,6,MaskSinger6,11.680
+00:41,7,Nicky Jam,18.779
+00:41,8,Andy Murray,27.643
+00:41,9,TierraDeNadie12,27.414
+00:41,10,elektrik,20.359
+01:10,1,Bill Cosby,346.886
+01:10,2,TemptationIsland,130.324
+01:10,3,Nicky Jam,23.724
+01:10,4,MaskSinger6,15.854
+01:10,5,Donald Rumsfeld,100.869
+01:10,6,Bruno Gomes,
+01:10,7,LoveIsland,173.607
+01:10,8,TierraDeNadie12,33.022
+01:10,9,Andy Murray,28.613
+01:10,10,elektrik,21.312
+01:41,1,Bill Cosby,360.881
+01:41,2,Nicky Jam,27.921
+01:41,3,TemptationIsland,131.034
+01:41,4,Donald Rumsfeld,107.262
+01:41,5,MaskSinger6,16.408
+01:41,6,Bruno Gomes,
+01:41,7,LoveIsland,175.024
+01:41,8,TierraDeNadie12,36.762
+01:41,9,Biza,20.392
+01:41,10,elektrik,21.872
+02:10,1,Bill Cosby,372.740
+02:10,2,Nicky Jam,30.505
+02:10,3,Bruno Gomes,10.787
+02:10,4,Donald Rumsfeld,112.681
+02:10,5,Gilberto,10.228
+02:10,6,TemptationIsland,131.342
+02:10,7,MaskSinger6,16.561
+02:10,8,Deyverson,
+02:10,9,TierraDeNadie12,38.943
+02:10,10,Biza,21.381
+02:41,1,Bill Cosby,384.356
+02:41,2,Nicky Jam,33.197
+02:41,3,Bruno Gomes,11.449
+02:41,4,AEWDynamite,14.372
+02:41,5,Gilberto,11.027
+02:41,6,Donald Rumsfeld,117.867
+02:41,7,Abel,27.247
+02:41,8,MaskSinger6,16.703
+02:41,9,Deyverson,
+02:41,10,私が聴きたいジャニーズの曲,13.586
+03:10,1,FranjaElectoral,
+03:10,2,AEWDynamite,21.057
+03:10,3,Bill Cosby,394.617
+03:10,4,Nicky Jam,34.829
+03:10,5,Bruno Gomes,11.705
+03:10,6,Matheus Henrique,
+03:10,7,Donald Rumsfeld,122.922
+03:10,8,Gilberto,10.820
+03:10,9,Briones,10.004
+03:10,10,Abel,27.736
+03:41,1,FranjaElectoral,
+03:41,2,AEWDynamite,27.910
+03:41,3,Matheus Henrique,
+03:41,4,Corinthians,50.510
+03:41,5,Bill Cosby,405.621
+03:41,6,Nicky Jam,36.897
+03:41,7,โรลเลอร์ท่าไหนก็อร่อย,59.957
+03:41,8,Briones,12.763
+03:41,9,Tiago Nunes,
+03:41,10,Donald Rumsfeld,128.407
+04:10,1,AEWDynamite,36.000
+04:10,2,Pat Bev,11.385
+04:10,3,FranjaElectoral,11.158
+04:10,4,Corinthians,55.543
+04:10,5,Matheus Henrique,
+04:10,6,HailState,18.493
+04:10,7,WWE Dynamite,
+04:10,8,โรลเลอร์ท่าไหนก็อร่อย,105.761
+04:10,9,Briones,13.937
+04:10,10,Bill Cosby,412.984
+04:41,1,Corinthians,66.353
+04:41,2,Pat Bev,16.684
+04:41,3,Tiago Nunes,
+04:41,4,Paulo Miranda,
+04:41,5,AEWDynamite,38.701
+04:41,6,FranjaElectoral,13.648
+04:41,7,HailState,24.488
+04:41,8,Juventude,15.046
+04:41,9,DRPowerCouple,10.402
+04:41,10,LaVozArgentina,30.524
+05:10,1,Corinthians,66.606
+05:10,2,Pat Bev,17.437
+05:10,3,DRPowerCouple,17.452
+05:10,4,Tiago Nunes,11.331
+05:10,5,Paulo Miranda,
+05:10,6,HailState,26.130
+05:10,7,FranjaElectoral,15.606
+05:10,8,LaVozArgentina,31.254
+05:10,9,AEWDynamite,40.054
+05:10,10,Juventude,15.688
+05:41,1,Chris Paul,61.080
+05:41,2,Pat Bev,44.171
+05:41,3,Clippers,62.158
+05:41,4,DRPowerCouple,26.552
+05:41,5,PHXvsLAC,
+05:41,6,Tiago Nunes,13.391
+05:41,7,Corinthians,68.532
+05:41,8,Point God,
+05:41,9,ShareMewGOLD,124.439
+05:41,10,FranjaElectoral,17.355
+06:10,1,Chris Paul,117.693
+06:10,2,Pat Bev,
+06:10,3,Clippers,95.159
+06:10,4,Finals,157.952
+06:10,5,RallyTheValley,18.632
+06:10,6,Paul George,29.803
+06:10,7,PHXvsLAC,
+06:10,8,DRPowerCouple,27.593
+06:10,9,Point God,17.783
+06:10,10,ElAnuarioMV,
+06:41,1,Chris Paul,137.103
+06:41,2,Pat Bev,69.457
+06:41,3,Clippers,105.870
+06:41,4,Finals,183.726
+06:41,5,RallyTheValley,21.649
+06:41,6,Biz Markie,21.349
+06:41,7,Paul George,33.718
+06:41,8,PHXvsLAC,
+06:41,9,Kawhi,31.006
+06:41,10,NationalDoctorsDay,35.757
+07:10,1,Chris Paul,145.837
+07:10,2,Pat Bev,71.966
+07:10,3,Clippers,111.189
+07:10,4,Biz Markie,22.022
+07:10,5,Finals,191.801
+07:10,6,RallyTheValley,23.247
+07:10,7,DoctorsDay,19.268
+07:10,8,Paul George,35.170
+07:10,9,Chapman,
+07:10,10,PHXvsLAC,
+07:41,1,Chris Paul,151.296
+07:41,2,Pat Bev,
+07:41,3,Clippers,114.897
+07:41,4,Biz Markie,23.558
+07:41,5,DoctorsDay,25.269
+07:41,6,Finals,199.651
+07:41,7,RallyTheValley,24.538
+07:41,8,Chapman,
+07:41,9,TheDevilJudge_PressCon,30.437
+07:41,10,Paul George,36.629
+08:10,1,Chris Paul,154.977
+08:10,2,Pat Bev,74.976
+08:10,3,Clippers,117.663
+08:10,4,DoctorsDay,30.061
+08:10,5,Biz Markie,23.818
+08:10,6,Finals,202.980
+08:10,7,RallyTheValley,25.555
+08:10,8,TheDevilJudge_PressCon,47.128
+08:10,9,Chapman,
+08:10,10,악마판사_제작발표회,42.789
+08:41,1,Chris Paul,159.014
+08:41,2,Pat Bev,
+08:41,3,Clippers,120.204
+08:41,4,DoctorsDay,34.461
+08:41,5,Biz Markie,24.462
+08:41,6,Finals,207.639
+08:41,7,KapamilyaForever,69.119
+08:41,8,TheDevilJudge_PressCon,56.955
+08:41,9,zamcık,
+08:41,10,有名なタイトルを少し弱くする,22.272
+09:10,1,Chris Paul,161.861
+09:10,2,Pat Bev,76.861
+09:10,3,Clippers,121.915
+09:10,4,DoctorsDay,37.321
+09:10,5,cheol,19.312
+09:10,6,KapamilyaForever,82.495
+09:10,7,zamcık,
+09:10,8,Biz Markie,24.990
+09:10,9,有名なタイトルを少し弱くする,23.573
+09:10,10,TheDevilJudge_PressCon,63.866
+09:41,1,cheol,34.683
+09:41,2,Chris Paul,164.241
+09:41,3,GetWellSoonScoups,11.205
+09:41,4,DoctorsDay,40.241
+09:41,5,Pat Bev,77.463
+09:41,6,Clippers,123.507
+09:41,7,KapamilyaForever,96.402
+09:41,8,zamcık,
+09:41,9,CathyDollXGulf,130.052
+09:41,10,Happy New Month,31.359
+10:10,1,GetWellSoonScoups,52.653
+10:10,2,cheol,40.473
+10:10,3,Chris Paul,166.002
+10:10,4,DoctorsDay2021,24.696
+10:10,5,zamcık,
+10:10,6,KapamilyaForever,106.962
+10:10,7,Pat Bev,77.894
+10:10,8,Happy New Month,36.460
+10:10,9,Clippers,124.506
+10:10,10,CathyDollXGulf,167.978
+10:41,1,GetWellSoonScoups,62.158
+10:41,2,cheol,43.752
+10:41,3,DoctorsDay,45.709
+10:41,4,Chris Paul,167.655
+10:41,5,Bang PD,59.365
+10:41,6,zamcık,
+10:41,7,KapamilyaForever,116.020
+10:41,8,有名なタイトルを少し弱くする,28.294
+10:41,9,Happy New Month,41.718
+10:41,10,Pat Bev,78.349
+11:10,1,GetWellSoonScoups,65.380
+11:10,2,cheol,44.866
+11:10,3,Bang PD,80.986
+11:10,4,DoctorsDay,47.894
+11:10,5,zamcık,
+11:10,6,Taal,32.099
+11:10,7,有名なタイトルを少し弱くする,30.296
+11:10,8,メルカリで買ったもの自慢,
+11:10,9,Chris Paul,169.019
+11:10,10,Happy New Month,45.429
+11:41,1,GetWellSoonScoups,68.368
+11:41,2,Bang PD,98.192
+11:41,3,cheol,46.593
+11:41,4,Taal,43.955
+11:41,5,ウラ嵐BEST,10.995
+11:41,6,CR17BankStatements,15.227
+11:41,7,zamcık,
+11:41,8,いいねかRTで気になった人フォローする,13.286
+11:41,9,プロゲーマー,21.690
+11:41,10,Happy New Month,48.665
+12:10,1,VS魂,21.234
+12:10,2,GetWellSoonScoups,70.555
+12:10,3,ウラ嵐BEST,14.476
+12:10,4,Bang PD,112.322
+12:10,5,Taal,50.189
+12:10,6,いいねかRTで気になった人フォローする,17.868
+12:10,7,CR17BankStatements,17.066
+12:10,8,cheol,47.733
+12:10,9,全員SSR,
+12:10,10,登場作品の中の私の推しマンガ,17.470
+12:41,1,VS魂,40.532
+12:41,2,ウラ嵐BEST,16.984
+12:41,3,GetWellSoonScoups,72.244
+12:41,4,MalDeğilCan,
+12:41,5,有名なタイトルを少し弱くする,36.227
+12:41,6,Bang PD,124.904
+12:41,7,Taal,55.591
+12:41,8,勝利くん,10.184
+12:41,9,登場作品の中の私の推しマンガ,21.944
+12:41,10,全員SSR,
+13:10,1,桐生ココ卒業LIVE,50.952
+13:10,2,ReadytoLove3rdWin,71.320
+13:10,3,VS魂,55.146
+13:10,4,GoodbyeCoco,46.925
+13:10,5,QandA,
+13:10,6,勝利くん,13.537
+13:10,7,Bang PD,135.436
+13:10,8,Taal,59.267
+13:10,9,cheol,53.382
+13:10,10,登場作品の中の私の推しマンガ,25.377
+13:41,1,桐生ココ卒業LIVE,103.161
+13:41,2,GoodbyeCoco,67.592
+13:41,3,Readytolove3rdwin,122.831
+13:41,4,VS魂,58.523
+13:41,5,QandA,10.773
+13:41,6,スアレス,
+13:41,7,れおほー,
+13:41,8,Varane,41.289
+13:41,9,Gizlenen SırAçıklandı,
+13:41,10,勝利くん,15.013
+14:10,1,桐生ココ卒業LIVE,148.617
+14:10,2,GoodbyeCoco,85.846
+14:10,3,ReadytoLove3rdWin,140.677
+14:10,4,素のまんま,17.258
+14:10,5,VS魂,59.679
+14:10,6,すわほー,
+14:10,7,スアレス,10.460
+14:10,8,れおほー,
+14:10,9,Varane,45.423
+14:10,10,なべラウ,
+14:41,1,桐生ココ卒業LIVE,205.804
+14:41,2,GoodbyeCoco,110.438
+14:41,3,素のまんま,54.329
+14:41,4,ReadyToLove3rdWin,149.826
+14:41,5,AFLSunsTigers,
+14:41,6,すわほー,
+14:41,7,スアレス,11.622
+14:41,8,れおほー,
+14:41,9,Bobby Bonilla,13.032
+14:41,10,Varane,49.086
+15:10,1,桐生ココ卒業LIVE,318.843
+15:10,2,GoodbyeCoco,172.952
+15:10,3,素のまんま,58.186
+15:10,4,ReadyToLove3rdWin,155.267
+15:10,5,ConneXion先行プレミア配信,11.109
+15:10,6,ココ会長,66.285
+15:10,7,すわほー,
+15:10,8,スアレス,12.116
+15:10,9,Bobby Bonilla,15.717
+15:10,10,Tuğra Yangın Var,
+15:41,1,桐生ココ卒業LIVE,386.133
+15:41,2,GoodbyeCoco,219.566
+15:41,3,素のまんま,59.728
+15:41,4,ConneXion先行プレミア配信,19.420
+15:41,5,ReadyToLove3rdWin,159.929
+15:41,6,ココ会長,78.904
+15:41,7,Kaichou,56.190
+15:41,8,Bobby Bonilla,18.214
+15:41,9,すわほー,
+15:41,10,NOW LOVE HOJE,34.702
+16:10,1,桐生ココ卒業LIVE,405.164
+16:10,2,GoodbyeCoco,240.817
+16:10,3,素のまんま,60.525
+16:10,4,ConneXion先行プレミア配信,21.295
+16:10,5,ココ会長,82.629
+16:10,6,ReadyToLove3rdWin,163.505
+16:10,7,Bobby Bonilla,20.503
+16:10,8,Kaichou,61.054
+16:10,9,Canada,446.326
+16:10,10,NOW LOVE HOJE,40.283
+16:41,1,桐生ココ卒業LIVE,416.511
+16:41,2,GoodbyeCoco,256.371
+16:41,3,Canada,462.384
+16:41,4,ひぐらし卒,20.953
+16:41,5,Bobby Bonilla,22.759
+16:41,6,ConneXion先行プレミア配信,22.122
+16:41,7,DhoniBdayFestBegins,78.931
+16:41,8,ココ会長,85.425
+16:41,9,NOW LOVE HOJE,43.239
+16:41,10,Kaichou,65.313
+17:10,1,桐生ココ卒業LIVE,424.035
+17:10,2,GoodbyeCoco,265.787
+17:10,3,PermissiontoDance,279.477
+17:10,4,ひぐらし卒,30.749
+17:10,5,オメギド,
+17:10,6,Canada,456.574
+17:10,7,Bobby Bonilla,24.595
+17:10,8,Dominguetti,21.685
+17:10,9,The View,151.709
+17:10,10,NOW LOVE HOJE,44.795
+17:41,1,PermissiontoDance,539.096
+17:41,2,桐生ココ卒業LIVE,429.338
+17:41,3,GoodbyeCoco,272.683
+17:41,4,ひぐらし卒,40.751
+17:41,5,LUBA,12.523
+17:41,6,LisaAndamJury,120.411
+17:41,7,LALISA FASHION ICON,118.502
+17:41,8,Canada,475.962
+17:41,9,The View,160.407
+17:41,10,Dominguetti,31.623
+18:10,1,PermissiontoDance,613.787
+18:10,2,LUBA,20.862
+18:10,3,GoodbyeCoco,278.205
+18:10,4,桐生ココ卒業LIVE,433.688
+18:10,5,ひぐらし卒,47.634
+18:10,6,Canada,471.778
+18:10,7,LisaAndamJury,185.409
+18:10,8,シンデレラガール,10.268
+18:10,9,LALISA FASHION ICON,184.835
+18:10,10,The View,160.231
+18:41,1,PERMISSIONTODANCE,672.764
+18:41,2,LUBA,27.961
+18:41,3,シンデレラガール,18.972
+18:41,4,Canada,489.885
+18:41,5,BuNasılVizyonAliBaşkan,
+18:41,6,ひぐらし卒,52.738
+18:41,7,GoodbyeCoco,283.362
+18:41,8,LisaAndamJury,232.983
+18:41,9,LALISA FASHION ICON,231.594
+18:41,10,ファンタスティポ,13.386
+19:10,1,PERMISSIONTODANCE,703.821
+19:10,2,LUBA,32.661
+19:10,3,Canada,483.484
+19:10,4,BuNasılVizyonAliBaşkan,
+19:10,5,シンデレラガール,21.553
+19:10,6,LisaAndamJury,260.534
+19:10,7,ひぐらし卒,54.016
+19:10,8,LALISA FASHION ICON,260.300
+19:10,9,GoodbyeCoco,287.244
+19:10,10,ファンタスティポ,15.381
+19:41,1,PERMISSIONTODANCE,734.652
+19:41,2,BuNasılVizyonAliBaşkan,10.941
+19:41,3,Canada,500.308
+19:41,4,LUBA,37.585
+19:41,5,シンデレラガール,22.732
+19:41,6,LisaAndamJury,277.405
+19:41,7,LALISA FASHION ICON,277.100
+19:41,8,ひぐらし卒,54.748
+19:41,9,The View,172.886
+19:41,10,Ramos,111.534
+20:10,1,PERMISSIONTODANCE,177.321
+20:10,2,BuNasılVizyonAliBaşkan,12.487
+20:10,3,Canada,492.340
+20:10,4,NowLove,32.023
+20:10,5,LUBA,40.327
+20:10,6,シンデレラガール,23.387
+20:10,7,Ümit Kantarcılar,
+20:10,8,GüçlüGençlik GüçlüMuş,
+20:10,9,YüzüncüYılMarşı,
+20:10,10,LisaAndamJury,286.791
+20:41,1,PERMISSIONTODANCE,768.592
+20:41,2,NowLove,47.031
+20:41,3,Canada,507.717
+20:41,4,BuNasılVizyonAliBaşkan,14.055
+20:41,5,Luba,42.564
+20:41,6,SahteSaç Ekimciler,
+20:41,7,FelipeNetoResponde,
+20:41,8,MebGüvenlik OkulunaDönsün,
+20:41,9,GETTR,11.583
+20:41,10,シンデレラガール,23.970
+21:10,1,PERMISSIONTODANCE,779.082
+21:10,2,NowLove,66.145
+21:10,3,Canada,501.706
+21:10,4,BuNasılVizyonAliBaşkan,15.184
+21:10,5,YüzüncüYılMarşı,
+21:10,6,GETTR,15.943
+21:10,7,LUBA,44.082
+21:10,8,sahtesaç ekimciler,
+21:10,9,FelipeNetoResponde,
+21:10,10,TehlikeGittikçe Büyüyor,
+21:41,1,PERMISSIONTODANCE,792.495
+21:41,2,NowLove,78.893
+21:41,3,Canada,515.961
+21:41,4,BuNasılVizyonAliBaşkan,16.053
+21:41,5,GETTR,19.860
+21:41,6,haberler33,
+21:41,7,قناه_218_من_برشلونه,
+21:41,8,LUBA,45.772
+21:41,9,sahtesaç ekimciler,
+21:41,10,Flávio Bolsonaro,26.467
+22:10,1,PERMISSIONTODANCE,797.763
+22:10,2,NowLove,85.391
+22:10,3,Canada,508.303
+22:10,4,BuNasılVizyonAliBaşkan,16.768
+22:10,5,GETTR,24.002
+22:10,6,pasapalabra298,
+22:10,7,ZilletRaydanÇıktı,25.569
+22:10,8,SahteSaç Ekimciler,
+22:10,9,Luba,47.127
+22:10,10,Flávio Bolsonaro,30.587
+22:41,1,PERMISSIONTODANCE,807.747
+22:41,2,LoveIsland,120.236
+22:41,3,NowLove,89.194
+22:41,4,Canada,521.526
+22:41,5,pasapalabra298,
+22:41,6,SVGala13,
+22:41,7,GETTR,28.000
+22:41,8,Ashli Babbitt,27.953
+22:41,9,Luba,48.411
+22:41,10,Tabitha Brown,
+23:10,1,pasapalabra298,14.269
+23:10,2,LoveIsland,118.258
+23:10,3,unutMADIMAKlımda,
+23:10,4,PERMISSIONTODANCE,813.954
+23:10,5,SVGala13,12.222
+23:10,6,Canada,492.841
+23:10,7,Hugo,62.173
+23:10,8,GETTR,31.301
+23:10,9,كهربا,
+23:10,10,Faye,16.956
+23:41,1,pasapalabra298,17.979
+23:41,2,unutMADIMAKlımda,
+23:41,3,LoveIsland,122.449
+23:41,4,SVGala13,17.224
+23:41,5,PERMISSIONTODANCE,823.471
+23:41,6,Canada,504.691
+23:41,7,Hugo,64.257
+23:41,8,GETTR,34.550
+23:41,9,الشناوي,10.604
+23:41,10,JULIETTE NO GE,32.490

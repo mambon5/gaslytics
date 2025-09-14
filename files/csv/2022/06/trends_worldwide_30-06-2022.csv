@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Hawks,43.883
+00:10,2,Spurs,73.774
+00:10,3,Danica,59.494
+00:10,4,R Kelly,112.817
+00:10,5,Murray,86.677
+00:10,6,Survivor2022AllStar,154.776
+00:10,7,SalvameMediafest,12.884
+00:10,8,Davide,35.854
+00:10,9,nisabolukbasi,26.265
+00:10,10,Karmaland,244.697
+00:40,1,Hawks,47.798
+00:40,2,Spurs,79.751
+00:40,3,R Kelly,119.985
+00:40,4,Murray,92.987
+00:40,5,Danica,61.051
+00:40,6,Survivor2022AllStar,162.599
+00:40,7,SalvameMediafest,14.747
+00:40,8,マツケンサンブレイク,15.723
+00:40,9,nisabolukbasi,28.407
+00:40,10,Davide,36.721
+01:10,1,Hawks,49.840
+01:10,2,Spurs,82.521
+01:10,3,R Kelly,125.796
+01:10,4,Murray,95.902
+01:10,5,Danica,61.537
+01:10,6,Survivor2022AllStar,163.514
+01:10,7,SalvameMediafest,17.409
+01:10,8,マツケンサンブレイク,23.373
+01:10,9,Made_inグッズ,
+01:10,10,発売記念MV,13.889
+01:40,1,Hawks,51.795
+01:40,2,Spurs,85.520
+01:40,3,R Kelly,131.139
+01:40,4,Murray,99.433
+01:40,5,マツケンサンブレイク,30.874
+01:40,6,Scarpa,
+01:40,7,Danica,62.650
+01:40,8,SalvameMediafest,19.832
+01:40,9,Survivor2022AllStar,166.760
+01:40,10,Trae,37.728
+02:10,1,Rony,15.097
+02:10,2,AEWDynamite,12.137
+02:10,3,Hawks,52.961
+02:10,4,Spurs,87.244
+02:10,5,R Kelly,135.829
+02:10,6,Scarpa,
+02:10,7,マツケンサンブレイク,36.519
+02:10,8,Murray,101.377
+02:10,9,Danica,63.058
+02:10,10,SalvameMediafest,20.695
+02:40,1,AEWDynamite,24.445
+02:40,2,Rony,19.477
+02:40,3,Hawks,54.358
+02:40,4,Spurs,89.211
+02:40,5,Scarpa,
+02:40,6,マツケンサンブレイク,41.423
+02:40,7,R Kelly,139.640
+02:40,8,BloodAndGuts,10.053
+02:40,9,Murray,103.789
+02:40,10,Luchasaurus,
+03:10,1,Andreas,42.791
+03:10,2,AEWDynamite,35.243
+03:10,3,RHOBH,
+03:10,4,Rony,20.901
+03:10,5,BloodAndGuts,13.934
+03:10,6,Léo Pereira,
+03:10,7,Diego Ribas,15.881
+03:10,8,Pitico,13.390
+03:10,9,colunadofla,
+03:10,10,マツケンサンブレイク,47.101
+03:40,1,Andreas,54.097
+03:40,2,AEWDynamite,46.021
+03:40,3,Diego Ribas,25.743
+03:40,4,Rodinei,
+03:40,5,BloodAndGuts,18.844
+03:40,6,RHOBH,10.283
+03:40,7,Léo Pereira,
+03:40,8,Thiago Maia,
+03:40,9,colunadofla,
+03:40,10,Rony,21.986
+04:10,1,AEWDynamite,60.819
+04:10,2,Andreas,56.719
+04:10,3,Pratto,
+04:10,4,Diego Ribas,26.870
+04:10,5,BloodAndGuts,26.207
+04:10,6,River,151.297
+04:10,7,Léo Pereira,12.040
+04:10,8,Rodinei,
+04:10,9,RHOBH,11.585
+04:10,10,Vélez,38.476
+04:40,1,Andreas,67.410
+04:40,2,River,167.215
+04:40,3,AEWDynamite,65.034
+04:40,4,Pratto,12.153
+04:40,5,Léo Pereira,19.644
+04:40,6,Vélez,49.835
+04:40,7,Armani,13.250
+04:40,8,Rodinei,
+04:40,9,Diego Ribas,28.606
+04:40,10,Arrascaeta,
+05:10,1,River,166.851
+05:10,2,Andreas,73.345
+05:10,3,AEWDynamite,66.484
+05:10,4,Pratto,13.503
+05:10,5,Léo Pereira,22.132
+05:10,6,Vélez,53.437
+05:10,7,Armani,14.621
+05:10,8,DRPowerCouple,
+05:10,9,Rodinei,
+05:10,10,Arrascaeta,
+05:40,1,River,172.367
+05:40,2,Andreas,77.807
+05:40,3,Pratto,14.286
+05:40,4,Vélez,55.933
+05:40,5,Léo Pereira,22.941
+05:40,6,AEWDynamite,68.022
+05:40,7,DRPowerCouple,10.338
+05:40,8,Armani,15.455
+05:40,9,TOM HIDDLESTON,12.716
+05:40,10,Rodinei,
+06:10,1,River,170.202
+06:10,2,Andreas,79.709
+06:10,3,Vélez,56.909
+06:10,4,Pratto,14.634
+06:10,5,AEWDynamite,68.823
+06:10,6,Léo Pereira,23.234
+06:10,7,DRPowerCouple,11.236
+06:10,8,Armani,15.553
+06:10,9,TOM HIDDLESTON,14.784
+06:10,10,RHOBH,15.582
+06:40,1,River,172.896
+06:40,2,Andreas,80.839
+06:40,3,VenmoMe,
+06:40,4,Vélez,57.830
+06:40,5,Miles Bridges,
+06:40,6,Léo Pereira,23.409
+06:40,7,Pratto,14.862
+06:40,8,AEWDynamite,69.891
+06:40,9,DRPowerCouple,11.701
+06:40,10,TOM HIDDLESTON,16.306
+07:10,1,Guatemala,37.316
+07:10,2,VenmoMe,
+07:10,3,Moreno,69.123
+07:10,4,River,171.442
+07:10,5,Miles Bridges,11.519
+07:10,6,Andreas,81.389
+07:10,7,Léo Pereira,23.481
+07:10,8,Vélez,58.210
+07:10,9,AEWDynamite,70.647
+07:10,10,Pratto,14.966
+07:40,1,Guatemala,41.880
+07:40,2,VenmoMe,
+07:40,3,Moreno,71.956
+07:40,4,Miles Bridges,13.003
+07:40,5,River,173.232
+07:40,6,Andreas,82.061
+07:40,7,TOM HIDDLESTON,18.783
+07:40,8,Léo Pereira,23.612
+07:40,9,Vélez,58.644
+07:40,10,Pratto,15.086
+08:10,1,Guatemala,43.743
+08:10,2,VenmoMe,
+08:10,3,Moreno,72.422
+08:10,4,Miles Bridges,14.126
+08:10,5,TOM HIDDLESTON,19.814
+08:10,6,OurPresidentMarcosJr,32.763
+08:10,7,River,171.585
+08:10,8,kızlar parayaaşıktır,
+08:10,9,Andreas,82.179
+08:10,10,Vélez,58.701
+08:40,1,Guatemala,44.989
+08:40,2,VenmoMe,
+08:40,3,Miles Bridges,15.078
+08:40,4,Moreno,73.327
+08:40,5,この夏瞬間移動したい場所,
+08:40,6,lgs2022,
+08:40,7,Tom Hiddleston,20.726
+08:40,8,OurPresidentMarcosJr,34.112
+08:40,9,好きなアニメをつまらなさそうに紹介する,16.613
+08:40,10,Léo Pereira,23.660
+09:10,1,Bernie Ecclestone,
+09:10,2,Guatemala,45.506
+09:10,3,VenmoMe,
+09:10,4,lgs2022,
+09:10,5,maymunçiçeği,
+09:10,6,Miles Bridges,15.845
+09:10,7,この夏瞬間移動したい場所,
+09:10,8,Moreno,72.960
+09:10,9,SocialMediaDay,
+09:10,10,Tom Hiddleston,21.604
+09:40,1,maymunçiçeği,
+09:40,2,Bernie Ecclestone,
+09:40,3,lgs2022,
+09:40,4,Guatemala,46.039
+09:40,5,VenmoMe,
+09:40,6,SocialMediaDay,
+09:40,7,この夏瞬間移動したい場所,
+09:40,8,Shola,23.747
+09:40,9,TINA,42.461
+09:40,10,柴犬マウント,
+10:10,1,maymunçiçeği,
+10:10,2,Bernie Ecclestone,
+10:10,3,柴犬マウント,
+10:10,4,lgs2022,
+10:10,5,Shola,28.498
+10:10,6,SocialMediaDay,
+10:10,7,VenmoMe,
+10:10,8,Guatemala,46.189
+10:10,9,この夏瞬間移動したい場所,
+10:10,10,4SHADOW WITH ENHYPEN MANIFESTO,
+10:40,1,maymunçiçeği,
+10:40,2,Bernie Ecclestone,
+10:40,3,柴犬マウント,11.183
+10:40,4,Shola,34.858
+10:40,5,4SHADOW WITH ENHYPEN MANIFESTO,25.902
+10:40,6,lgs2022,
+10:40,7,選挙特番は投票日の前に放送を,
+10:40,8,SocialMediaDay,
+10:40,9,ENHYPEN4thComeback_Day4,23.486
+10:40,10,緊急署名,
+11:10,1,maymunçiçeği,
+11:10,2,Bernie Ecclestone,
+11:10,3,柴犬マウント,15.713
+11:10,4,Shola,39.343
+11:10,5,選挙特番は投票日の前に放送を,
+11:10,6,lgs2022,
+11:10,7,4SHADOW WITH ENHYPEN MANIFESTO,28.964
+11:10,8,DemoLIVEALIVE,
+11:10,9,SocialMediaDay,
+11:10,10,Funke,
+11:40,1,maymunçiçeği,
+11:40,2,Bernie Ecclestone,
+11:40,3,柴犬マウント,19.336
+11:40,4,LahoreHighCourt,
+11:40,5,Shola,45.091
+11:40,6,Snake Island,
+11:40,7,無料10連,
+11:40,8,クラブウェア,
+11:40,9,選挙特番は投票日の前に放送を,
+11:40,10,DemoLIVEALIVE,
+12:10,1,maymunçiçeği,
+12:10,2,LahoreHighCourt,
+12:10,3,Bernie Ecclestone,
+12:10,4,柴犬マウント,23.327
+12:10,5,Snake Island,12.090
+12:10,6,無料10連,
+12:10,7,Shola,48.393
+12:10,8,クラブウェア,
+12:10,9,選挙特番は投票日の前に放送を,
+12:10,10,Richarlison,56.800
+12:40,1,LahoreHighCourt,
+12:40,2,maymunçiçeği,
+12:40,3,プレバト,
+12:40,4,クラフィ7周年,10.027
+12:40,5,VS魂,
+12:40,6,Snake Island,16.048
+12:40,7,Bernie Ecclestone,
+12:40,8,柴犬マウント,26.970
+12:40,9,無料10連,
+12:40,10,ヤスタケさん,
+13:10,1,SSholoX,10.448
+13:10,2,今月描いた絵を晒そう,146.698
+13:10,3,LahoreHighCourt,11.024
+13:10,4,VS魂,10.661
+13:10,5,プレバト,
+13:10,6,Snake Island,19.796
+13:10,7,Timeless Love,
+13:10,8,ヤスタケさん,
+13:10,9,無料10連,
+13:10,10,青春アミーゴ,
+13:40,1,青春アミーゴ,10.502
+13:40,2,เท่าไหร่ก็ไม่พอMV,82.484
+13:40,3,EknathShinde,18.709
+13:40,4,SSholoX,21.974
+13:40,5,今月描いた絵を晒そう,156.007
+13:40,6,ジャニーズシャッフルメドレー,13.351
+13:40,7,ガラスの十代,
+13:40,8,A・RA・SHI,
+13:40,9,Snake Island,23.059
+13:40,10,Timeless Love,
+14:10,1,SSholoX,34.080
+14:10,2,EknathShinde,26.281
+14:10,3,青春アミーゴ,14.860
+14:10,4,FHMeetAndGreetxMileAPO,52.051
+14:10,5,เท่าไหร่ก็ไม่พอMV,113.737
+14:10,6,素のまんま,12.439
+14:10,7,A・RA・SHI,
+14:10,8,ガラスの十代,
+14:10,9,ギンギラギン,
+14:10,10,Snake Island,26.469
+14:40,1,素のまんま,38.089
+14:40,2,SSholoX,38.389
+14:40,3,真夏の全国ツアー2022,
+14:40,4,EknathShinde,32.204
+14:40,5,モニタリング,16.006
+14:40,6,青春アミーゴ,17.603
+14:40,7,A・RA・SHI,10.139
+14:40,8,ガラスの十代,
+14:40,9,Snake Island,30.667
+14:40,10,ギンギラギン,
+15:10,1,素のまんま,43.461
+15:10,2,真夏の全国ツアー2022,
+15:10,3,花丸特番配信中,22.680
+15:10,4,横浜優勝,
+15:10,5,SSholoX,40.710
+15:10,6,FHMeetAndGreetxMileAPO,147.084
+15:10,7,青春アミーゴ,19.575
+15:10,8,すわほー,
+15:10,9,丸山くん,
+15:10,10,A・RA・SHI,11.546
+15:40,1,横浜優勝,
+15:40,2,花丸特番配信中,25.018
+15:40,3,真夏の全国ツアー2022,
+15:40,4,FHMeetAndGreetxMileAPO,183.791
+15:40,5,素のまんま,44.991
+15:40,6,EknathShinde,40.320
+15:40,7,青春アミーゴ,21.003
+15:40,8,すわほー,
+15:40,9,星之所向,16.741
+15:40,10,大田泰示,
+16:10,1,やんごとなき一族,29.152
+16:10,2,คืนนับดาวEP9,104.600
+16:10,3,横浜優勝,
+16:10,4,真夏の全国ツアー2022,
+16:10,5,FHMeetAndGreetxMileAPO,212.613
+16:10,6,花丸特番配信中,25.681
+16:10,7,星之所向,22.439
+16:10,8,青春アミーゴ,22.025
+16:10,9,すわほー,
+16:10,10,大田泰示,
+16:40,1,やんごとなき一族,31.595
+16:40,2,คืนนับดาวEP9,150.320
+16:40,3,FUTURE PERFECT TEASER 1,34.146
+16:40,4,LovelyFairyTAEYONGDay,103.481
+16:40,5,EknathShinde,48.443
+16:40,6,ใต้หล้าตอนจบ,28.068
+16:40,7,星之所向,27.120
+16:40,8,横浜優勝,
+16:40,9,BEST LEADER TAEYONG DAY,82.495
+16:40,10,CHECKMATE TRACK LIST,20.717
+17:10,1,LovelyFairyTAEYONGDay,195.577
+17:10,2,FUTURE PERFECT TEASER 1,121.567
+17:10,3,태용아_패밀리레스토랑_가자,24.803
+17:10,4,やんごとなき一族,32.975
+17:10,5,ใต้หล้าตอนจบ,46.987
+17:10,6,MANIFESTO_DAY1,227.280
+17:10,7,CHECKMATE TRACK LIST,35.113
+17:10,8,星之所向,30.045
+17:10,9,神ちゃん,14.237
+17:10,10,横浜優勝,
+17:40,1,LovelyFairyTAEYONGDay,267.619
+17:40,2,태용아_패밀리레스토랑_가자,61.699
+17:40,3,FUTURE PERFECT TEASER 1,144.952
+17:40,4,WAKEUPWORLD,43.468
+17:40,5,ATEEZ THE MOVEMENT,60.399
+17:40,6,MANIFESTO_DAY1,249.325
+17:40,7,ใต้หล้าตอนจบ,74.847
+17:40,8,神ちゃん,16.978
+17:40,9,CHECKMATE TRACK LIST,40.521
+17:40,10,第161回,
+18:10,1,LovelyFairyTAEYONGDay,309.185
+18:10,2,태용아_패밀리레스토랑_가자,82.415
+18:10,3,WAKEUPWORLD,67.953
+18:10,4,ATEEZ THE MOVEMENT,86.280
+18:10,5,FUTURE PERFECT TEASER 1,153.599
+18:10,6,에이티즈,158.637
+18:10,7,MANIFESTO_DAY1,253.535
+18:10,8,神ちゃん,17.674
+18:10,9,第161回,
+18:10,10,CHECKMATE TRACK LIST,43.625
+18:40,1,LovelyFairyTAEYONGDay,331.657
+18:40,2,태용아_패밀리레스토랑_가자,93.513
+18:40,3,WAKEUPWORLD,78.425
+18:40,4,ATEEZ THE MOVEMENT,97.681
+18:40,5,FUTURE PERFECT TEASER 1,156.954
+18:40,6,에이티즈,173.379
+18:40,7,누구보다_빠른_7월_최애_선점,
+18:40,8,第161回,
+18:40,9,神ちゃん,18.180
+18:40,10,Usher,21.015
+19:10,1,LovelyFairyTAEYONGDay,345.680
+19:10,2,Usher,28.465
+19:10,3,태용아_패밀리레스토랑_가자,100.307
+19:10,4,WAKEUPWORLD,83.879
+19:10,5,ATEEZ THE MOVEMENT,103.913
+19:10,6,FUTURE PERFECT TEASER 1,158.920
+19:10,7,에이티즈,180.097
+19:10,8,KetanjiBrownJackson,
+19:10,9,第161回,
+19:10,10,Justice Jackson,83.553
+19:40,1,Usher,36.474
+19:40,2,LovelyFairyTAEYONGDay,356.486
+19:40,3,KenyaKwanzaManifestoLaunch,
+19:40,4,태용아_패밀리레스토랑_가자,105.338
+19:40,5,WAKEUPWORLD,87.390
+19:40,6,UCLA,
+19:40,7,ATEEZ THE MOVEMENT,108.060
+19:40,8,Fernando del Solar,
+19:40,9,KetanjiBrownJackson,
+19:40,10,FUTURE PERFECT TEASER 1,160.180
+20:10,1,UCLA,13.723
+20:10,2,Usher,42.536
+20:10,3,Big Ten,13.299
+20:10,4,Fernando del Solar,10.934
+20:10,5,LovelyFairyTAEYONGDay,363.898
+20:10,6,KenyaKwanzaManifestoLaunch,12.621
+20:10,7,Rutgers,
+20:10,8,Big 10,26.518
+20:10,9,Pac-12,
+20:10,10,태용아_패밀리레스토랑_가자,108.975
+20:40,1,UCLA,19.862
+20:40,2,Usher,49.329
+20:40,3,Big Ten,18.824
+20:40,4,Fernando del Solar,15.868
+20:40,5,Big 10,28.752
+20:40,6,Pac-12,
+20:40,7,Rutgers,
+20:40,8,LovelyFairyTAEYONGDay,368.549
+20:40,9,KenyaKwanzaManifestoLaunch,14.432
+20:40,10,Lincoln Riley,
+21:10,1,UCLA,26.238
+21:10,2,Usher,54.968
+21:10,3,Kevin Durant,51.784
+21:10,4,Big Ten,24.705
+21:10,5,Fernando del Solar,19.595
+21:10,6,Big 10,30.164
+21:10,7,Pac-12,11.763
+21:10,8,Rutgers,
+21:10,9,LovelyFairyTAEYONGDay,372.262
+21:10,10,KenyaKwanzaManifestoLaunch,15.766
+21:40,1,UCLA,29.988
+21:40,2,Kevin Durant,90.778
+21:40,3,Nets,80.436
+21:40,4,Ben Simmons,11.374
+21:40,5,Usher,60.790
+21:40,6,Big Ten,27.699
+21:40,7,Suns,34.494
+21:40,8,Big 10,31.942
+21:40,9,Fernando del Solar,22.035
+21:40,10,Pac-12,13.785
+22:10,1,Kyrie,85.082
+22:10,2,Nets,102.995
+22:10,3,Kevin Durant,115.126
+22:10,4,UCLA,32.897
+22:10,5,Ben Simmons,15.149
+22:10,6,Usher,65.355
+22:10,7,Suns,39.179
+22:10,8,Big Ten,30.433
+22:10,9,Big 10,32.806
+22:10,10,Bo Cruz,
+22:40,1,Kyrie,103.899
+22:40,2,Nets,119.424
+22:40,3,Kevin Durant,130.343
+22:40,4,UCLA,35.973
+22:40,5,Ben Simmons,17.415
+22:40,6,Usher,69.984
+22:40,7,Suns,42.755
+22:40,8,Big Ten,33.112
+22:40,9,Big 10,34.241
+22:40,10,Bo Cruz,
+23:10,1,Kyrie,118.728
+23:10,2,Nets,131.574
+23:10,3,Kevin Durant,142.127
+23:10,4,UCLA,38.661
+23:10,5,Ben Simmons,19.189
+23:10,6,Davide,36.253
+23:10,7,Usher,73.564
+23:10,8,Suns,46.528
+23:10,9,SVGala11,
+23:10,10,Big Ten,35.405
+23:40,1,Kyrie,131.526
+23:40,2,Nets,143.652
+23:40,3,Kevin Durant,151.170
+23:40,4,UCLA,41.743
+23:40,5,Tasha,26.017
+23:40,6,Ben Simmons,20.594
+23:40,7,Davide,39.616
+23:40,8,SVGala11,
+23:40,9,Usher,77.342
+23:40,10,Suns,50.006

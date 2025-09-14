@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,CashAppFriday,31.880
+00:10,2,COAC2022Final,
+00:10,3,TheBürsinBirthday,118.032
+00:10,4,Dinamarca,18.399
+00:10,5,BELNED,11.859
+00:10,6,FRADAN,21.450
+00:10,7,França,23.646
+00:10,8,Cornelius,16.025
+00:10,9,Saliba,12.516
+00:10,10,Belgium,28.109
+00:40,1,CashAppFriday,33.273
+00:40,2,COAC2022Final,
+00:40,3,TheBürsinBirthday,144.515
+00:40,4,Dinamarca,19.613
+00:40,5,BBNReunion,15.369
+00:40,6,BELNED,12.013
+00:40,7,França,24.526
+00:40,8,Cornelius,16.809
+00:40,9,Navarro,216.276
+00:40,10,Saliba,13.097
+01:10,1,CashAppFriday,34.406
+01:10,2,COAC2022Final,10.566
+01:10,3,TheBürsinBirthday,163.386
+01:10,4,deprem,
+01:10,5,Dinamarca,20.349
+01:10,6,BBNReunion,15.961
+01:10,7,França,24.377
+01:10,8,Navarro,218.736
+01:10,9,Breno,10.551
+01:10,10,Cornelius,17.259
+01:40,1,deprem,
+01:40,2,COAC2022Final,12.002
+01:40,3,TheBürsinBirthday,177.349
+01:40,4,CashAppFriday,35.024
+01:40,5,Dinamarca,21.219
+01:40,6,Balıkesir,
+01:40,7,BBNReunion,16.858
+01:40,8,Navarro,228.904
+01:40,9,França,25.150
+01:40,10,Breno,11.616
+02:10,1,deprem,
+02:10,2,COAC2022Final,13.095
+02:10,3,TheBürsinBirthday,189.654
+02:10,4,CashAppFriday,35.613
+02:10,5,Dinamarca,21.751
+02:10,6,بعد_منتصف_الليل,
+02:10,7,Balıkesir,
+02:10,8,Breno,12.552
+02:10,9,Navarro,232.504
+02:10,10,França,24.651
+02:40,1,deprem,
+02:40,2,SmackDown,
+02:40,3,旅サラダ,
+02:40,4,COAC2022Final,14.090
+02:40,5,بعد_منتصف_الليل,
+02:40,6,Dinamarca,22.307
+02:40,7,Breno,13.771
+02:40,8,中丸くん,
+02:40,9,Navarro,241.554
+02:40,10,Fetterman,13.359
+03:10,1,SmackDown,13.922
+03:10,2,ダイの大冒険,13.273
+03:10,3,deprem,
+03:10,4,TheLastDriveIn,
+03:10,5,COAC2022Final,15.238
+03:10,6,Breno,14.759
+03:10,7,ヒュンケル,
+03:10,8,Dinamarca,22.639
+03:10,9,ラーハルト,
+03:10,10,Fetterman,14.579
+03:40,1,هزه_ارضيه,
+03:40,2,SmackDown,19.148
+03:40,3,TheLastDriveIn,
+03:40,4,الهزه الارضيه,
+03:40,5,ワルイコあつまれ,12.139
+03:40,6,ダイの大冒険,15.499
+03:40,7,Tadeu,
+03:40,8,Guta,
+03:40,9,Breno,15.810
+03:40,10,Gerrit Cole,
+04:10,1,هزه_ارضيه,15.585
+04:10,2,SmackDown,23.271
+04:10,3,الهزه_الارضيه,
+04:10,4,TheLastDriveIn,
+04:10,5,Cruzeiro,30.949
+04:10,6,AEWRampage,
+04:10,7,الكويت,50.070
+04:10,8,Tadeu,
+04:10,9,Guta,
+04:10,10,Breno,16.633
+04:40,1,هزه_ارضيه,24.684
+04:40,2,AEWRampage,15.547
+04:40,3,Cruzeiro,39.673
+04:40,4,الهزه_الارضيه,
+04:40,5,TheLastDriveIn,
+04:40,6,SmackDown,24.606
+04:40,7,الكويت,55.346
+04:40,8,Breno,17.688
+04:40,9,Tadeu,
+04:40,10,Guta,
+05:10,1,AEWRampage,25.248
+05:10,2,هزه_ارضيه,29.254
+05:10,3,Cruzeiro,45.362
+05:10,4,TheLastDriveIn,11.241
+05:10,5,الهزه_الارضيه,11.145
+05:10,6,NoQuitInNY,
+05:10,7,الكويت,58.152
+05:10,8,CM Punk,
+05:10,9,ランドセル,33.152
+05:10,10,Breno,18.440
+05:40,1,AEWRampage,26.988
+05:40,2,هزه_ارضيه,32.535
+05:40,3,NONTEP01ทะเยอทะยานConcert,15.326
+05:40,4,Cruzeiro,48.039
+05:40,5,TheLastDriveIn,13.261
+05:40,6,الهزه_الارضيه,11.826
+05:40,7,الكويت,60.677
+05:40,8,Punk,49.306
+05:40,9,ダイヤモンドハンズ,
+05:40,10,Forbidden Door,
+06:10,1,AEWRampage,28.172
+06:10,2,هزه_ارضيه,34.609
+06:10,3,NONTEP01ทะเยอทะยานConcert,19.390
+06:10,4,Cruzeiro,48.985
+06:10,5,TheLastDriveIn,14.873
+06:10,6,الكويت,61.576
+06:10,7,الهزه_الارضيه,12.398
+06:10,8,Punk,49.279
+06:10,9,ダイヤモンドハンズ,
+06:10,10,Forbidden Door,
+06:40,1,AEWRampage,29.046
+06:40,2,هزه_ارضيه,36.373
+06:40,3,NONTEP01ทะเยอทะยานConcert,21.228
+06:40,4,Cruzeiro,49.573
+06:40,5,キンプる,40.093
+06:40,6,TheLastDriveIn,15.935
+06:40,7,الكويت,62.924
+06:40,8,Punk,50.395
+06:40,9,ダイヤモンドハンズ,
+06:40,10,ランドセル,41.104
+07:10,1,AEWRampage,29.619
+07:10,2,キンプる,55.680
+07:10,3,هزه_ارضيه,37.965
+07:10,4,NONTEP01ทะเยอทะยานConcert,22.490
+07:10,5,Cruzeiro,49.945
+07:10,6,TheLastDriveIn,17.012
+07:10,7,الكويت,63.452
+07:10,8,サリエラ,
+07:10,9,ランドセル,43.084
+07:10,10,Punk,50.442
+07:40,1,キンプる,66.887
+07:40,2,NONTEP01ทะเยอทะยานConcert,24.247
+07:40,3,AEWRampage,30.140
+07:40,4,هزه_ارضيه,39.665
+07:40,5,PokemonGOFest2022,13.297
+07:40,6,الكويت,64.807
+07:40,7,Cruzeiro,50.218
+07:40,8,aron piper,
+07:40,9,ランドセル,45.359
+07:40,10,CALUM,
+08:10,1,BEFIRSTTV,26.484
+08:10,2,キンプる,70.235
+08:10,3,NONTEP01ทะเยอทะยานConcert,25.398
+08:10,4,هزه_ارضيه,41.444
+08:10,5,AEWRampage,30.545
+08:10,6,Aron Piper,
+08:10,7,الكويت,65.268
+08:10,8,ランドセル,47.141
+08:10,9,鳴尾記念,40.669
+08:10,10,CALUM,
+08:40,1,BEFIRSTTV,34.900
+08:40,2,鳴尾記念,47.444
+08:40,3,キンプる,72.652
+08:40,4,NONTEP01ทะเยอทะยานConcert,26.455
+08:40,5,هزه_ارضيه,43.334
+08:40,6,ヴェルトライゼンデ,
+08:40,7,Cumartesi,
+08:40,8,サンレイポケット,
+08:40,9,小梅ちゃん,
+08:40,10,aron piper,
+09:10,1,BEFIRSTTV,39.570
+09:10,2,ヴェルトライゼンデ,
+09:10,3,鳴尾記念,49.425
+09:10,4,キンプる,76.994
+09:10,5,NONTEP01ทะเยอทะยานConcert,27.032
+09:10,6,PRIMALS,
+09:10,7,Cumartesi,
+09:10,8,小梅ちゃん,
+09:10,9,サンレイポケット,
+09:10,10,ジェラルディーナ,
+09:40,1,BEFIRSTTV,43.969
+09:40,2,UpsideDown1stWin,14.328
+09:40,3,ヴェルトライゼンデ,10.357
+09:40,4,PRIMALS,11.341
+09:40,5,鳴尾記念,50.011
+09:40,6,LactasoyxTayNew,58.402
+09:40,7,キンプる,79.953
+09:40,8,SEVEN NIGHTS TIL BELLE DAY,28.047
+09:40,9,小梅ちゃん,10.615
+09:40,10,DEPRESSION IS NOT A JOKE,33.005
+10:10,1,UpsideDown1stWin,31.644
+10:10,2,BEFIRSTTV,47.206
+10:10,3,PRIMALS,14.048
+10:10,4,สเก็ตเชอร์สxมิว,38.593
+10:10,5,SKECHERS OPENING X MEW,38.064
+10:10,6,ヴェルトライゼンデ,11.308
+10:10,7,강다니엘_음악중심1위축하해,14.821
+10:10,8,鳴尾記念,50.366
+10:10,9,SEVEN NIGHTS TIL BELLE DAY,46.109
+10:10,10,DEPRESSION IS NOT A JOKE,40.597
+10:40,1,どらほー,
+10:40,2,สเก็ตเชอร์สxมิว,82.137
+10:40,3,BEFIRSTTV,50.124
+10:40,4,横浜優勝,
+10:40,5,UpsideDown1stWin,38.159
+10:40,6,SKECHERS OPENING X MEW,79.448
+10:40,7,PRIMALS,16.190
+10:40,8,JakartaEPrix,36.823
+10:40,9,ヴェルトライゼンデ,12.096
+10:40,10,青柳さん,
+11:10,1,สเก็ตเชอร์สxมิว,124.340
+11:10,2,Liella_2nd_大阪Day1,10.436
+11:10,3,横浜優勝,
+11:10,4,どらほー,
+11:10,5,JakartaEPrix,39.364
+11:10,6,SKECHERS OPENING X MEW,117.514
+11:10,7,BEFIRSTTV,52.413
+11:10,8,PRIMALS,17.968
+11:10,9,İsmail Kartal,
+11:10,10,DEPRESSION IS NOT A JOKE,52.776
+11:40,1,MUSICFAIR,12.550
+11:40,2,JakartaEPrix,43.360
+11:40,3,สเก็ตเชอร์สxมิว,153.249
+11:40,4,Liella_2nd_大阪Day1,12.695
+11:40,5,横浜優勝,
+11:40,6,どらほー,
+11:40,7,İsmail Kartal,
+11:40,8,SKECHERS OPENING X MEW,143.653
+11:40,9,PRIMALS,20.197
+11:40,10,DEPRESSION IS NOT A JOKE,57.600
+12:10,1,PRIMALS,23.417
+12:10,2,MUSICFAIR,14.885
+12:10,3,JakartaEPrix,45.419
+12:10,4,สเก็ตเชอร์สxมิว,177.065
+12:10,5,İsmail Kartal,
+12:10,6,Liella_2nd_大阪Day1,14.579
+12:10,7,どらほー,
+12:10,8,横浜優勝,
+12:10,9,SKECHERS OPENING X MEW,164.364
+12:10,10,DEPRESSION IS NOT A JOKE,61.428
+12:40,1,PRIMALS,28.147
+12:40,2,MUSICFAIR,16.192
+12:40,3,JakartaEPrix,48.102
+12:40,4,Butterfly,94.363
+12:40,5,真剣乱舞祭2022,21.766
+12:40,6,İsmail Kartal,
+12:40,7,สเก็ตเชอร์สxมิว,192.879
+12:40,8,どらほー,
+12:40,9,横浜優勝,
+12:40,10,SKECHERS OPENING X MEW,176.105
+13:10,1,PRIMALS,29.922
+13:10,2,วอลเลย์บอลหญิง,62.356
+13:10,3,MUSICFAIR,17.122
+13:10,4,CRカップ,
+13:10,5,Butterfly,110.092
+13:10,6,ドッキリGP,
+13:10,7,İsmail Kartal,
+13:10,8,AM I WRONG,42.590
+13:10,9,プレワン,
+13:10,10,Stuart Broad,
+13:40,1,วอลเลย์บอลหญิง,80.604
+13:40,2,nhkらじらー,
+13:40,3,Am I Wrong,66.478
+13:40,4,ドッキリGP,
+13:40,5,待てムリ,13.166
+13:40,6,PRIMALS,31.312
+13:40,7,CRカップ,73.820
+13:40,8,Butterfly,122.897
+13:40,9,プレワン,
+13:40,10,うさほー,
+14:10,1,วอลเลย์บอลหญิง,102.090
+14:10,2,AFLDeesSwans,
+14:10,3,Liella_2nd_大阪Day1,22.990
+14:10,4,nhkらじらー,15.514
+14:10,5,Am I Wrong,79.378
+14:10,6,ドッキリGP,
+14:10,7,Butterfly,131.730
+14:10,8,CRカップ,76.659
+14:10,9,プレワン,
+14:10,10,aron piper,
+14:40,1,วอลเลย์บอลหญิง,132.592
+14:40,2,世界一受けたい授業,
+14:40,3,BNK48หมกกบ_MV,66.896
+14:40,4,AFLDeesSwans,
+14:40,5,Liella_2nd_大阪Day1,24.920
+14:40,6,Am I Wrong,105.853
+14:40,7,SWAG LEADER TENLEE,55.369
+14:40,8,aron piper,
+14:40,9,Butterfly,143.953
+14:40,10,シティポップ,
+15:10,1,虹ヶ咲,61.454
+15:10,2,วอลเลย์บอลหญิง,142.527
+15:10,3,nhkらじらー,24.135
+15:10,4,BNK48หมกกบ_MV,96.998
+15:10,5,世界一受けたい授業,
+15:10,6,Am I Wrong,119.421
+15:10,7,Menangkan Voucher Belanja,
+15:10,8,aron piper,11.415
+15:10,9,誓ウェディング,
+15:10,10,SWAG LEADER TENLEE,81.881
+15:40,1,虹ヶ咲,114.824
+15:40,2,UAAPSeason84,25.684
+15:40,3,แบนgymandswim,112.795
+15:40,4,nhkらじらー,34.175
+15:40,5,วอลเลย์บอลหญิง,149.795
+15:40,6,Menangkan Voucher Belanja,
+15:40,7,aron piper,13.578
+15:40,8,Am I Wrong,131.568
+15:40,9,Ateneo,15.127
+15:40,10,誓ウェディング,
+16:10,1,虹ヶ咲,124.754
+16:10,2,Venue101,17.296
+16:10,3,แบนgymandswim,165.110
+16:10,4,SZ_レトロ,
+16:10,5,UAAPSeason84,31.245
+16:10,6,aron piper,15.833
+16:10,7,Menangkan Voucher Belanja,
+16:10,8,Am I Wrong,140.523
+16:10,9,PSN障害,
+16:10,10,Ateneo,20.396
+16:40,1,虹ヶ咲,130.203
+16:40,2,Venue101,34.855
+16:40,3,SixTONESANN,23.618
+16:40,4,SPY_FAMILY,128.447
+16:40,5,SZ_レトロ,20.329
+16:40,6,PSN障害,
+16:40,7,aron piper,18.686
+16:40,8,FOREVER WITH CHAERYEONG,17.399
+16:40,9,Iga Swiatek,23.733
+16:40,10,Coco,79.160
+17:10,1,SixTONESANN,61.251
+17:10,2,俺かわ,25.897
+17:10,3,SunshineCHAERYEONGDay,45.634
+17:10,4,Venue101,42.493
+17:10,5,虹ヶ咲,132.733
+17:10,6,PSN障害,
+17:10,7,aron piper,21.695
+17:10,8,Iga Swiatek,36.703
+17:10,9,Coco,79.838
+17:10,10,Menangkan Voucher Belanja,
+17:40,1,SixTONESANN,114.886
+17:40,2,SunshineCHAERYEONGDay,61.994
+17:40,3,생일자_채령나간다_길좀따까죠,56.445
+17:40,4,俺かわ,30.522
+17:40,5,僕の大好きな妻,23.026
+17:40,6,PSN障害,
+17:40,7,aron piper,25.175
+17:40,8,第135回,
+17:40,9,Iga Swiatek,43.239
+17:40,10,Dua Lipa,49.607
+18:10,1,KinnPorscheEP9,148.556
+18:10,2,SixTONESANN,146.276
+18:10,3,SunshineChaeryeongDay,69.448
+18:10,4,생일자_채령나간다_길좀따까죠,62.879
+18:10,5,僕の大好きな妻,24.303
+18:10,6,aron piper,28.711
+18:10,7,第135回,
+18:10,8,Desert Crown,
+18:10,9,PSN障害,
+18:10,10,Dua Lipa,51.638
+18:40,1,KinnPorscheEP9,296.834
+18:40,2,SixTONESANN,149.219
+18:40,3,HUNENG,
+18:40,4,SunshineCHAERYEONGDay,73.879
+18:40,5,생일자_채령나간다_길좀따까죠,66.772
+18:40,6,aron piper,32.365
+18:40,7,第135回,
+18:40,8,Dua Lipa,55.702
+18:40,9,Desert Crown,
+18:40,10,PSN障害,
+19:10,1,KinnPorscheEP9,589.234
+19:10,2,HUNENG,10.533
+19:10,3,SixTONESANN,150.036
+19:10,4,SunshineCHAERYEONGDay,77.079
+19:10,5,aron piper,35.748
+19:10,6,แบนgymandswim,444.267
+19:10,7,第135回,
+19:10,8,Dua Lipa,57.408
+19:10,9,Southgate,
+19:10,10,Hungary,35.740
+19:40,1,KinnPorscheEP9,867.319
+19:40,2,HUNENG,13.624
+19:40,3,Southgate,
+19:40,4,Hungary,41.029
+19:40,5,aron piper,38.828
+19:40,6,SixTONESANN,150.621
+19:40,7,SunshineCHAERYEONGDay,79.421
+19:40,8,方言でだからダメって言ったでしょ,
+19:40,9,England,133.788
+19:40,10,Reece James,
+20:10,1,KinnPorscheEP9,1.054.966
+20:10,2,HUNENG,14.741
+20:10,3,Southgate,13.705
+20:10,4,England,144.680
+20:10,5,Hungary,44.261
+20:10,6,Reece James,
+20:10,7,Kulfas,
+20:10,8,aron piper,41.959
+20:10,9,Bowen,11.586
+20:10,10,SunshineCHAERYEONGDay,81.140
+20:40,1,KinnPorscheEP9,1.232.765
+20:40,2,HUNENG,15.327
+20:40,3,Southgate,15.880
+20:40,4,England,153.844
+20:40,5,Hungary,47.636
+20:40,6,Kulfas,
+20:40,7,UFCVegas56,
+20:40,8,Reece James,
+20:40,9,aron piper,45.101
+20:40,10,Bowen,12.452
+21:10,1,KinnPorscheEP9,1.328.998
+21:10,2,HUNENG,15.687
+21:10,3,Southgate,16.930
+21:10,4,England,155.385
+21:10,5,Hungary,49.073
+21:10,6,PlatinumPartyatthePalace,
+21:10,7,Kulfas,11.071
+21:10,8,UFCVegas56,
+21:10,9,ItaliaGermania,
+21:10,10,aron piper,47.963
+21:40,1,PlatinumPartyatthePalace,16.474
+21:40,2,KinnPorscheEP9,1.237.254
+21:40,3,HUNENG,15.763
+21:40,4,England,159.854
+21:40,5,Southgate,17.797
+21:40,6,ItaliaGermania,
+21:40,7,Hungary,50.162
+21:40,8,ITAGER,
+21:40,9,Craig David,
+21:40,10,Kulfas,13.922
+22:10,1,PlatinumPartyatthePalace,31.268
+22:10,2,KinnPorscheEP9,1.374.614
+22:10,3,Craig David,
+22:10,4,FortniteCollision,
+22:10,5,ItaliaGermania,
+22:10,6,Southgate,18.443
+22:10,7,England,159.971
+22:10,8,Sam Ryder,
+22:10,9,PlatinumJubileeconcert,
+22:10,10,Paddington,16.122
+22:40,1,PlatinumPartyatthePalace,49.397
+22:40,2,FortniteCollision,17.681
+22:40,3,KinnPorscheEP9,1.356.711
+22:40,4,Rod Stewart,
+22:40,5,ItaliaGermania,
+22:40,6,Sweet Caroline,
+22:40,7,jubileeconcert,
+22:40,8,Craig David,
+22:40,9,Sam Ryder,
+22:40,10,Slone,
+23:10,1,PlatinumPartyatthePalace,67.252
+23:10,2,FortniteCollision,22.577
+23:10,3,KinnPorscheEP9,1.411.010
+23:10,4,Rod Stewart,
+23:10,5,ItaliaGermania,
+23:10,6,jubileeconcert,
+23:10,7,Sweet Caroline,
+23:10,8,Slone,
+23:10,9,Paddington,27.161
+23:10,10,Duran Duran,24.495
+23:40,1,PlatinumPartyatthePalace,88.551
+23:40,2,Diana Ross,
+23:40,3,FortniteCollision,25.093
+23:40,4,Rod Stewart,
+23:40,5,KinnPorscheEP9,1.415.368
+23:40,6,PlatinumJubileeconcert,
+23:40,7,ItaliaGermania,
+23:40,8,Paddington,32.708
+23:40,9,Sweet Caroline,
+23:40,10,Slone,

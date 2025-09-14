@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,KohLanta2021,115.095
+00:10,2,BecasEdomex,19.122
+00:10,3,Leeds,73.810
+00:10,4,LacrimVsTwitter,30.136
+00:10,5,Claude,61.250
+00:10,6,بندنها_اكثر,
+00:10,7,CoinMarketCap,24.213
+00:10,8,Bielsa,17.206
+00:10,9,Laurent,35.823
+00:10,10,José Juan,
+00:40,1,KohLanta2021,118.682
+00:40,2,BecasEdomex,20.577
+00:40,3,Leeds,75.909
+00:40,4,LacrimVsTwitter,30.245
+00:40,5,بندنها_اكثر,10.221
+00:40,6,Claude,63.715
+00:40,7,CoinMarketCap,25.356
+00:40,8,Bielsa,18.271
+00:40,9,Laurent,36.711
+00:40,10,José Juan,
+01:10,1,KohLanta2021,120.223
+01:10,2,BecasEdomex,21.644
+01:10,3,Leeds,77.054
+01:10,4,FinalCorridaDasBlogueiras,
+01:10,5,LacrimVsTwitter,30.177
+01:10,6,بندنها_اكثر,11.582
+01:10,7,Claude,64.370
+01:10,8,Bielsa,18.911
+01:10,9,PRATIQUE FLAMENGO ARTHURPICOLI,84.023
+01:10,10,Laurent,37.043
+01:40,1,KohLanta2021,121.364
+01:40,2,BecasEdomex,22.682
+01:40,3,FinalCorridaDasBlogueiras,11.685
+01:40,4,IAMPABLLO,19.443
+01:40,5,Leeds,78.095
+01:40,6,LacrimVsTwitter,30.114
+01:40,7,Curry,101.701
+01:40,8,Claude,65.106
+01:40,9,Bielsa,19.471
+01:40,10,PRATIQUE FLAMENGO ARTHURPICOLI,99.559
+02:10,1,Curry,227.821
+02:10,2,BecasEdomex,26.823
+02:10,3,IAMPABLLO,25.180
+02:10,4,Ray Allen,68.004
+02:10,5,KohLanta2021,122.101
+02:10,6,FinalCorridaDasBlogueiras,13.507
+02:10,7,BadBoysProgramaBoric,45.793
+02:10,8,Leeds,78.684
+02:10,9,Knicks,29.701
+02:10,10,Diego Alonso,
+02:40,1,Curry,264.148
+02:40,2,IAMPABLLO,40.643
+02:40,3,BecasEdomex,32.277
+02:40,4,BadBoysProgramaBoric,68.688
+02:40,5,Ray Allen,78.972
+02:40,6,KohLanta2021,122.534
+02:40,7,FinalCorridaDasBlogueiras,14.684
+02:40,8,Knicks,32.520
+02:40,9,Diego Alonso,
+02:40,10,Leeds,79.289
+03:10,1,IAMPABLLO,52.958
+03:10,2,Curry,278.314
+03:10,3,MasterChefBR,
+03:10,4,BecasEdomex,37.210
+03:10,5,BadBoysProgramaBoric,93.770
+03:10,6,TheBachelorette,
+03:10,7,Ray Allen,83.970
+03:10,8,Knicks,32.305
+03:10,9,Isabella,11.548
+03:10,10,Diego Alonso,
+03:40,1,IAMPABLLO,62.945
+03:40,2,MasterChefBR,17.516
+03:40,3,Curry,294.540
+03:40,4,BecasEdomex,40.877
+03:40,5,BadBoysProgramaBoric,119.500
+03:40,6,TheBachelorette,10.526
+03:40,7,Ray Allen,88.508
+03:40,8,Isabella,13.195
+03:40,9,Knicks,34.204
+03:40,10,Eduardo,32.273
+04:10,1,MasterChefBR,24.531
+04:10,2,IAMPABLLO,65.455
+04:10,3,Curry,306.408
+04:10,4,BecasEdomex,43.575
+04:10,5,TheBachelorette,15.707
+04:10,6,BadBoysProgramaBoric,141.561
+04:10,7,Ray Allen,92.509
+04:10,8,Isabella,14.159
+04:10,9,Knicks,35.357
+04:10,10,Eduardo,32.731
+04:40,1,MasterChefBR,34.288
+04:40,2,IAMPABLLO,66.940
+04:40,3,EliminaçãoAFazenda,81.616
+04:40,4,BecasEdomex,45.788
+04:40,5,Curry,319.069
+04:40,6,Dynho,43.458
+04:40,7,TheBachelorette,16.474
+04:40,8,Ray Allen,96.591
+04:40,9,Isabella,15.819
+04:40,10,Eduardo,34.760
+05:10,1,MasterChefBR,52.932
+05:10,2,Isabella,23.046
+05:10,3,EliminaçãoAFazenda,82.125
+05:10,4,IAMPABLLO,67.595
+05:10,5,BecasEdomex,47.593
+05:10,6,Dynho,48.860
+05:10,7,Curry,326.276
+05:10,8,Eduardo,37.139
+05:10,9,TheBachelorette,17.000
+05:10,10,Ray Allen,98.943
+05:40,1,MasterChefBR,54.817
+05:40,2,Isabella,24.332
+05:40,3,EliminaçãoAFazenda,84.705
+05:40,4,BecasEdomex,48.981
+05:40,5,Dynho,56.452
+05:40,6,IAMPABLLO,68.060
+05:40,7,Curry,334.891
+05:40,8,Eduardo,37.849
+05:40,9,TheVoice,18.601
+05:40,10,CHRISTMAS TREE BY V IS COMING,38.555
+06:10,1,MasterChefBR,55.271
+06:10,2,Chansung,15.472
+06:10,3,Dynho,66.018
+06:10,4,Isabella,24.300
+06:10,5,BecasEdomex,50.020
+06:10,6,EliminaçãoAFazenda,85.696
+06:10,7,IAMPABLLO,68.456
+06:10,8,Curry,340.231
+06:10,9,JENNIE5THVLOG,59.492
+06:10,10,Motagua,
+06:40,1,MasterChefBR,55.493
+06:40,2,Chansung,25.523
+06:40,3,Dynho,73.218
+06:40,4,JENNIE5THVLOG,78.744
+06:40,5,Isabella,24.585
+06:40,6,WELCOME BACK JENTUBE,68.484
+06:40,7,BecasEdomex,
+06:40,8,EliminaçãoAFazenda,87.356
+06:40,9,IAMPABLLO,68.779
+06:40,10,Curry,346.241
+07:10,1,MasterChefBR,55.644
+07:10,2,Chansung,33.800
+07:10,3,JENNIE5THVLOG,96.574
+07:10,4,Dynho,76.282
+07:10,5,WELCOME BACK JENTUBE,82.891
+07:10,6,Isabella,24.536
+07:10,7,AFazenda,94.276
+07:10,8,BecasEdomex,50.928
+07:10,9,IAMPABLLO,68.914
+07:10,10,Lora,27.469
+07:40,1,Chansung,40.579
+07:40,2,MasterChefBR,55.776
+07:40,3,JENNIE5THVLOG,107.125
+07:40,4,Dynho,81.193
+07:40,5,WELCOME BACK JENTUBE,11.214
+07:40,6,シャニマス流行語大賞,
+07:40,7,プロスピ交換会,
+07:40,8,AFazenda,99.995
+07:40,9,Lora,31.455
+07:40,10,Isabella,24.767
+08:10,1,Chansung,45.946
+08:10,2,MasterChefBR,55.846
+08:10,3,JENNIE5THVLOG,112.934
+08:10,4,プロスピ交換会,
+08:10,5,Dynho,82.015
+08:10,6,シャニマス流行語大賞,10.110
+08:10,7,WELCOME BACK JENTUBE,95.339
+08:10,8,ジョジョの奇妙な冒険キャラ診断,
+08:10,9,冒険のキャラ中マッチ,
+08:10,10,キャラとマッチ,
+08:40,1,Chansung,50.294
+08:40,2,mcddrive,
+08:40,3,JENNIE5THVLOG,117.086
+08:40,4,ジョジョの奇妙な冒険キャラ診断,
+08:40,5,冒険のキャラ中マッチ,
+08:40,6,キャラとマッチ,
+08:40,7,プロスピ交換会,
+08:40,8,MasterChefBR,55.901
+08:40,9,ディライトワークス,11.058
+08:40,10,Dynho,83.080
+09:10,1,mcddrive,
+09:10,2,Chansung,53.451
+09:10,3,ジョジョの奇妙な冒険キャラ診断,
+09:10,4,VarunSingh,
+09:10,5,冒険のキャラ中マッチ,
+09:10,6,キャラとマッチ,
+09:10,7,LaurierxBrightWin,91.121
+09:10,8,プロスピ交換会,
+09:10,9,ディライトワークス,14.376
+09:10,10,赤木さん,
+09:40,1,mcddrive,
+09:40,2,新人特別賞,
+09:40,3,VarunSingh,
+09:40,4,ジョジョの奇妙な冒険キャラ診断,
+09:40,5,LaurierxBrightWin,144.305
+09:40,6,NPBAWARDS,
+09:40,7,冒険のキャラ中マッチ,
+09:40,8,キャラとマッチ,
+09:40,9,Chansung,56.259
+09:40,10,ディライトワークス,17.268
+10:10,1,生田絵梨花卒業コンサートDay2,16.500
+10:10,2,新人特別賞,11.469
+10:10,3,NPBAWARDS,14.216
+10:10,4,mcddrive,
+10:10,5,ジョジョの奇妙な冒険キャラ診断,
+10:10,6,VarunSingh,10.299
+10:10,7,冒険のキャラ中マッチ,
+10:10,8,キャラとマッチ,
+10:10,9,Chansung,58.604
+10:10,10,WALK WITH ME OUT NOW,
+10:40,1,生田絵梨花卒業コンサートDay2,21.990
+10:40,2,WalkWithYoungjae,16.170
+10:40,3,新人特別賞,13.903
+10:40,4,twitchrecap,
+10:40,5,ジョジョの奇妙な冒険キャラ診断,
+10:40,6,mcddrive,
+10:40,7,冒険のキャラ中マッチ,
+10:40,8,キャラとマッチ,
+10:40,9,WALK WITH ME OUT NOW,12.439
+10:40,10,赤木さん,18.918
+11:10,1,生田絵梨花卒業コンサートDay2,29.269
+11:10,2,twitchrecap,
+11:10,3,WalkWithYoungjae,22.390
+11:10,4,ジョジョの奇妙な冒険キャラ診断,
+11:10,5,新人特別賞,15.670
+11:10,6,冒険のキャラ中マッチ,
+11:10,7,ELEVEN3rdWin,12.879
+11:10,8,キャラとマッチ,
+11:10,9,赤木さん,22.633
+11:10,10,WALK WITH ME OUT NOW,15.730
+11:40,1,Hawkeye,36.327
+11:40,2,生田絵梨花卒業コンサートDay2,35.567
+11:40,3,TwitchRecap,
+11:40,4,njbosj,
+11:40,5,njwtl,
+11:40,6,冒険のキャラ中マッチ,
+11:40,7,キャラとマッチ,
+11:40,8,TangingDahilan MusicVideo,39.909
+11:40,9,新人特別賞,16.896
+11:40,10,赤木さん,26.849
+12:10,1,Hawkeye,40.315
+12:10,2,TwitchRecap,
+12:10,3,生田絵梨花卒業コンサートDay2,39.261
+12:10,4,BelleTangingDahilanMV,81.391
+12:10,5,njbosj,
+12:10,6,TangingDahilan MusicVideo,62.907
+12:10,7,冒険のキャラ中マッチ,
+12:10,8,キャラとマッチ,
+12:10,9,GO FOR IT PATRICK,77.279
+12:10,10,新人特別賞,19.118
+12:40,1,Hawkeye,44.749
+12:40,2,TwitchRecap,
+12:40,3,BelleTangingDahilanMV,107.466
+12:40,4,生田絵梨花卒業コンサートDay2,43.188
+12:40,5,平成フラミンゴ200万名様ご来店,
+12:40,6,TangingDahilan MusicVideo,83.628
+12:40,7,冒険のキャラ中マッチ,10.709
+12:40,8,キャラとマッチ,10.765
+12:40,9,ドライスタウト,
+12:40,10,全日本2歳優駿,13.879
+13:10,1,生田絵梨花卒業コンサートDay2,51.552
+13:10,2,Hawkeye,49.388
+13:10,3,TwitchRecap,
+13:10,4,lvlEVV,39.415
+13:10,5,Aguero,50.931
+13:10,6,平成フラミンゴ200万名様ご来店,
+13:10,7,TangingDahilan MusicVideo,92.222
+13:10,8,いくちゃん,27.504
+13:10,9,冒険のキャラ中マッチ,11.372
+13:10,10,キャラとマッチ,11.381
+13:40,1,生田絵梨花卒業コンサートDay2,54.995
+13:40,2,Hawkeye,54.449
+13:40,3,lvlEVV,102.316
+13:40,4,njbosj,17.948
+13:40,5,Aguero,67.923
+13:40,6,TwitchRecap,
+13:40,7,いくちゃん,30.626
+13:40,8,TangingDahilan MusicVideo,96.321
+13:40,9,t.A.T.u,78.985
+13:40,10,シェーン,
+14:10,1,生田絵梨花卒業コンサートDay2,59.051
+14:10,2,ぺこらいぶ,11.195
+14:10,3,Hawkeye,59.531
+14:10,4,lvlEVV,143.031
+14:10,5,Aぇヤンタン,
+14:10,6,Aguero,80.929
+14:10,7,いくちゃん,30.334
+14:10,8,Yelena,29.550
+14:10,9,Sir Lewis Hamilton,26.869
+14:10,10,シェーン,
+14:40,1,恋です,40.811
+14:40,2,生田絵梨花卒業コンサートDay2,62.162
+14:40,3,Hawkeye,65.580
+14:40,4,Aguero,93.243
+14:40,5,ぺこらいぶ,13.097
+14:40,6,Aぇヤンタン,16.437
+14:40,7,Yelena,32.538
+14:40,8,Sir Lewis Hamilton,33.415
+14:40,9,BiSH,16.636
+14:40,10,いくちゃん,32.256
+15:10,1,恋です,61.224
+15:10,2,Hawkeye,71.984
+15:10,3,Aguero,102.785
+15:10,4,水曜日のダウンタウン,
+15:10,5,生田絵梨花卒業コンサートDay2,66.662
+15:10,6,twitchrecap,
+15:10,7,BiSH,16.752
+15:10,8,Yelena,35.709
+15:10,9,Sir Lewis Hamilton,39.417
+15:10,10,Ciro,42.347
+15:40,1,恋です,69.313
+15:40,2,SNSDOH_GGTeaser,39.785
+15:40,3,Hawkeye,78.839
+15:40,4,GG4EVA,39.470
+15:40,5,uominiedonne,
+15:40,6,GG IS BACK,45.866
+15:40,7,Aguero,112.966
+15:40,8,Yelena,39.304
+15:40,9,Ciro,50.649
+15:40,10,BiSH,17.331
+16:10,1,SNSDOH_GGTeaser,97.267
+16:10,2,GG4EVA,97.896
+16:10,3,恋です,72.480
+16:10,4,GG IS BACK,97.131
+16:10,5,Paulinho,20.836
+16:10,6,Hawkeye,85.445
+16:10,7,TwitchRecap,
+16:10,8,Aguero,121.498
+16:10,9,Ciro,58.752
+16:10,10,Yelena,42.724
+16:40,1,SNSDOH_GGTeaser,146.823
+16:40,2,GG4EVA,148.043
+16:40,3,GG IS BACK,139.271
+16:40,4,PSN障害,
+16:40,5,TwitchRecap,10.869
+16:40,6,恋です,74.578
+16:40,7,Paulinho,26.055
+16:40,8,近江彼方生誕祭2021,22.535
+16:40,9,Aguero,130.048
+16:40,10,Ciro,65.633
+17:10,1,SNSDOH_GGTeaser,168.777
+17:10,2,PSN障害,
+17:10,3,GG4EVA,170.602
+17:10,4,GG IS BACK,156.070
+17:10,5,Twitch,404.317
+17:10,6,Paulinho,29.875
+17:10,7,Hawkeye,98.433
+17:10,8,近江彼方生誕祭2021,29.243
+17:10,9,恋です,75.558
+17:10,10,Aguero,137.248
+17:40,1,SNSDOH_GGTeaser,181.219
+17:40,2,PSN障害,
+17:40,3,GG4EVA,182.671
+17:40,4,TwitchRecap,13.850
+17:40,5,GG IS BACK,165.143
+17:40,6,Paulinho,32.147
+17:40,7,Hawkeye,104.423
+17:40,8,近江彼方生誕祭2021,32.959
+17:40,9,مروان,13.634
+17:40,10,Aguero,144.141
+18:10,1,LiveDoEliminado,15.041
+18:10,2,مصر_تونس,19.826
+18:10,3,TwitchRecap,15.069
+18:10,4,SNSDOH_GGTeaser,187.194
+18:10,5,GG4EVA,188.738
+18:10,6,PSN障害,
+18:10,7,Deion,
+18:10,8,GG IS BACK,169.498
+18:10,9,مروان,17.224
+18:10,10,Paulinho,33.998
+18:40,1,LiveDoEliminado,24.288
+18:40,2,Deion,18.652
+18:40,3,Bell Hooks,47.743
+18:40,4,مصر_تونس,23.562
+18:40,5,TwitchRecap,16.445
+18:40,6,Travis Hunter,18.061
+18:40,7,Jackson State,19.391
+18:40,8,SNSDOH_GGTeaser,191.483
+18:40,9,GG4EVA,193.219
+18:40,10,PSN障害,
+19:10,1,Bell Hooks,78.336
+19:10,2,Deion,24.077
+19:10,3,LiveDoEliminado,27.034
+19:10,4,بكره_نولعها_بمدل_بيست,
+19:10,5,TwitchRecap,17.676
+19:10,6,Jackson State,25.404
+19:10,7,Travis Hunter,24.683
+19:10,8,تونس,71.328
+19:10,9,HBCU,11.688
+19:10,10,TheMatrix,17.334
+19:40,1,Bell Hooks,104.798
+19:40,2,Deion,28.131
+19:40,3,TwitchRecap,18.884
+19:40,4,LiveDoEliminado,28.043
+19:40,5,TheMatrix,22.501
+19:40,6,Jackson State,29.598
+19:40,7,بكره_نولعها_بمدل_بيست,
+19:40,8,Travis Hunter,29.176
+19:40,9,HBCU,13.693
+19:40,10,SpiderManNoWayHome,245.482
+20:10,1,Bell Hooks,126.468
+20:10,2,Deion,31.324
+20:10,3,TheMatrix,26.415
+20:10,4,TwitchRecap,19.907
+20:10,5,Jackson State,32.458
+20:10,6,SpiderManNoWayHome,237.150
+20:10,7,HBCU,15.310
+20:10,8,Travis Hunter,32.199
+20:10,9,LiveDoEliminado,28.736
+20:10,10,بكره_نولعها_بمدل_بيست,
+20:40,1,Bell Hooks,146.265
+20:40,2,Deion,33.743
+20:40,3,SpiderManNoWayHome,244.131
+20:40,4,TheMatrix,30.025
+20:40,5,TwitchRecap,20.884
+20:40,6,VitorPereiraİleDevam,
+20:40,7,Ibai,24.633
+20:40,8,jackson state,34.755
+20:40,9,HBCU,16.731
+20:40,10,BMGSGE,
+21:10,1,Bell Hooks,164.350
+21:10,2,SpiderManNoWayHome,239.614
+21:10,3,TheMatrix,33.894
+21:10,4,VitorPereiraİleDevam,
+21:10,5,Deion,35.715
+21:10,6,Ibai,25.192
+21:10,7,TwitchRecap,21.751
+21:10,8,OBRIGADA DAYANE MELLO,73.021
+21:10,9,HBCU,17.954
+21:10,10,ÖzürDileAkşener,
+21:40,1,Bell Hooks,180.947
+21:40,2,ARSWHU,15.045
+21:40,3,SpiderManNoWayHome,247.256
+21:40,4,TheMatrix,37.857
+21:40,5,VitorPereiraİleDevam,
+21:40,6,KCORP,31.955
+21:40,7,Ibai,27.722
+21:40,8,الجزائر,72.041
+21:40,9,Deion,37.641
+21:40,10,OBRIGADA DAYANE MELLO,90.336
+22:10,1,ARSWHU,20.108
+22:10,2,قطر_الجزاير,32.202
+22:10,3,Martinelli,13.117
+22:10,4,SanremoGiovani,
+22:10,5,SpiderManNoWayHome,244.683
+22:10,6,macron20h,14.667
+22:10,7,Bell Hooks,195.654
+22:10,8,Saka,34.174
+22:10,9,Ibai,27.368
+22:10,10,OBRIGADA DAYANE MELLO,101.525
+22:40,1,ARSWHU,25.921
+22:40,2,الجزائر,117.103
+22:40,3,Martinelli,17.916
+22:40,4,SanremoGiovani,12.071
+22:40,5,Lacazette,14.912
+22:40,6,Anthony Taylor,
+22:40,7,macron20h,21.685
+22:40,8,SpiderManNoWayHome,252.214
+22:40,9,West Ham,29.868
+22:40,10,Saka,36.659
+23:10,1,ARSWHU,37.002
+23:10,2,Arsenal,128.632
+23:10,3,Martinelli,24.495
+23:10,4,SanremoGiovani,17.033
+23:10,5,West Ham,36.930
+23:10,6,الجزائر,125.781
+23:10,7,LaIslaDeLasTentaciones6,
+23:10,8,Saka,42.298
+23:10,9,Lacazette,16.755
+23:10,10,macron20h,28.794
+23:40,1,ARSWHU,43.562
+23:40,2,Arsenal,146.773
+23:40,3,SanremoGiovani,22.110
+23:40,4,Martinelli,29.808
+23:40,5,LaIslaDeLasTentaciones6,13.866
+23:40,6,SpiderManNoWayHome,262.204
+23:40,7,West Ham,42.258
+23:40,8,الجزائر,131.943
+23:40,9,Saka,46.486
+23:40,10,macron20h,35.316

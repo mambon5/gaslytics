@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:10,1,Eurovision,544.760
+00:10,2,Arsenal,336.897
+00:10,3,Temblor,15.571
+00:10,4,TOTARS,80.993
+00:10,5,Levante,54.272
+00:10,6,San Marino,37.090
+00:10,7,ESC2022,98.294
+00:10,8,SVGala4,16.875
+00:10,9,Spurs,88.984
+00:10,10,Arteta,37.052
+00:40,1,Eurovision,556.616
+00:40,2,Temblor,26.322
+00:40,3,Arsenal,342.300
+00:40,4,bbcqt,11.100
+00:40,5,TOTARS,81.708
+00:40,6,SVGala4,20.003
+00:40,7,Levante,57.385
+00:40,8,San Marino,37.846
+00:40,9,Spurs,90.879
+00:40,10,Arteta,39.406
+01:10,1,Eurovision,562.296
+01:10,2,Temblor,28.930
+01:10,3,Arsenal,344.653
+01:10,4,bbcqt,16.223
+01:10,5,SVGala4,23.505
+01:10,6,My Chemical Romance,36.397
+01:10,7,TOTARS,82.264
+01:10,8,Levante,59.936
+01:10,9,San Marino,38.316
+01:10,10,Gerard,17.903
+01:40,1,Eurovision,565.927
+01:40,2,My Chemical Romance,54.632
+01:40,3,Temblor,29.972
+01:40,4,Arsenal,347.869
+01:40,5,bbcqt,18.546
+01:40,6,SVGala4,26.438
+01:40,7,Gerard,19.309
+01:40,8,New MCR,16.622
+01:40,9,Levante,62.400
+01:40,10,TOTARS,82.603
+02:10,1,Eurovision,570.193
+02:10,2,My Chemical Romance,69.285
+02:10,3,Temblor,30.790
+02:10,4,Gerard,20.092
+02:10,5,SVGala4,29.385
+02:10,6,Danny Green,
+02:10,7,bbcqt,19.668
+02:10,8,Arsenal,348.563
+02:10,9,New MCR,19.438
+02:10,10,Rand Paul,51.218
+02:40,1,My Chemical Romance,81.903
+02:40,2,Cruzeiro,41.541
+02:40,3,Eurovision,575.036
+02:40,4,Gerard,21.102
+02:40,5,Temblor,31.342
+02:40,6,SVGala4,29.827
+02:40,7,Danny Green,
+02:40,8,あさイチ,
+02:40,9,Rand Paul,59.268
+02:40,10,New MCR,21.620
+03:10,1,Cruzeiro,75.584
+03:10,2,RAFAEL CABRAL,12.818
+03:10,3,Sixers,29.494
+03:10,4,My Chemical Romance,91.355
+03:10,5,Chargers,42.779
+03:10,6,Gerard,21.574
+03:10,7,Remo,15.367
+03:10,8,Eurovision,576.897
+03:10,9,Aldrete,
+03:10,10,Rand Paul,67.758
+03:40,1,Harden,55.353
+03:40,2,Sixers,49.721
+03:40,3,Cruzeiro,90.932
+03:40,4,Embiid,36.946
+03:40,5,Rafael Cabral,15.253
+03:40,6,Doc Rivers,
+03:40,7,Philly,33.907
+03:40,8,76ers,16.053
+03:40,9,My Chemical Romance,99.984
+03:40,10,HEATCulture,
+04:10,1,Harden,87.371
+04:10,2,Sixers,65.104
+04:10,3,Cruzeiro,98.986
+04:10,4,Embiid,45.025
+04:10,5,Doc Rivers,10.751
+04:10,6,76ers,20.312
+04:10,7,Philly,41.644
+04:10,8,Rafael Cabral,16.542
+04:10,9,HEATCulture,10.537
+04:10,10,Maxey,
+04:40,1,Harden,102.591
+04:40,2,Sixers,71.832
+04:40,3,Cruzeiro,104.645
+04:40,4,Embiid,49.460
+04:40,5,Doc Rivers,12.832
+04:40,6,Philly,45.374
+04:40,7,76ers,22.334
+04:40,8,bucciovertimechallenge,
+04:40,9,NoLimite,
+04:40,10,Rafael Cabral,17.361
+05:10,1,Harden,111.939
+05:10,2,Sixers,75.698
+05:10,3,Cruzeiro,107.222
+05:10,4,Embiid,53.505
+05:10,5,NoLimite,11.743
+05:10,6,Leafs,32.182
+05:10,7,Doc Rivers,14.112
+05:10,8,Game 7,45.632
+05:10,9,Philly,46.785
+05:10,10,76ers,23.390
+05:40,1,Harden,120.629
+05:40,2,Sixers,79.404
+05:40,3,Leafs,36.604
+05:40,4,Game 7,51.169
+05:40,5,Embiid,58.309
+05:40,6,Cruzeiro,110.615
+05:40,7,NoLimite,12.417
+05:40,8,レトさん,
+05:40,9,楽天モバイル,18.602
+05:40,10,Doc Rivers,15.305
+06:10,1,Kendrick,184.070
+06:10,2,Harden,127.461
+06:10,3,Luka,76.022
+06:10,4,Game 7,55.788
+06:10,5,MrMoraleAndTheBigSteppers,
+06:10,6,Sixers,81.585
+06:10,7,楽天モバイル,24.780
+06:10,8,レトさん,
+06:10,9,Leafs,38.166
+06:10,10,Embiid,62.130
+06:40,1,Kendrick,239.867
+06:40,2,MrMoraleAndTheBigSteppers,17.488
+06:40,3,Harden,133.744
+06:40,4,We Cry Together,
+06:40,5,Luka,85.350
+06:40,6,Game 7,64.328
+06:40,7,Kodak,15.196
+06:40,8,Father Time,16.816
+06:40,9,Sampha,
+06:40,10,Mavs,31.159
+07:10,1,Kendrick,284.875
+07:10,2,MrMoraleAndTheBigSteppers,25.407
+07:10,3,We Cry Together,17.680
+07:10,4,Kodak,20.856
+07:10,5,Harden,137.138
+07:10,6,Father Time,18.996
+07:10,7,Game 7,67.929
+07:10,8,Sampha,
+07:10,9,Luka,89.092
+07:10,10,Mavs,33.034
+07:40,1,Kendrick,323.178
+07:40,2,MrMoraleAndTheBigSteppers,32.600
+07:40,3,We Cry Together,21.821
+07:40,4,Kodak,23.433
+07:40,5,Father Time,20.845
+07:40,6,Game 7,71.625
+07:40,7,Apple Music,178.939
+07:40,8,Harden,140.198
+07:40,9,Auntie Diaries,
+07:40,10,Sampha,
+08:10,1,Kendrick,348.058
+08:10,2,MrMoraleAndTheBigSteppers,36.113
+08:10,3,We Cry Together,25.045
+08:10,4,Kodak,24.943
+08:10,5,Father Time,22.310
+08:10,6,MyBTSTracks,60.572
+08:10,7,Auntie Diaries,
+08:10,8,Mother I Sober,
+08:10,9,Apple Music,178.472
+08:10,10,Game 7,
+08:40,1,Kendrick,368.678
+08:40,2,MrMoraleAndTheBigSteppers,39.017
+08:40,3,We Cry Together,27.741
+08:40,4,Kodak,26.221
+08:40,5,Father Time,23.578
+08:40,6,MyBTSTracks,68.550
+08:40,7,Auntie Diaries,
+08:40,8,Mother I Sober,
+08:40,9,楽天モバイル,40.589
+08:40,10,Sampha,
+09:10,1,Kendrick,383.684
+09:10,2,MrMoraleAndTheBigSteppers,41.872
+09:10,3,We Cry Together,29.950
+09:10,4,Kodak,27.215
+09:10,5,MyBTSTracks,74.182
+09:10,6,Father Time,24.411
+09:10,7,Auntie Diaries,10.264
+09:10,8,楽天モバイル,42.555
+09:10,9,Mother I Sober,
+09:10,10,Friday the 13th,75.199
+09:40,1,Kendrick,399.271
+09:40,2,MrMoraleAndTheBigSteppers,44.214
+09:40,3,We Cry Together,32.301
+09:40,4,Kodak,28.141
+09:40,5,MyBTSTracks,78.554
+09:40,6,Father Time,25.331
+09:40,7,Friday the 13th,78.993
+09:40,8,Auntie Diaries,10.957
+09:40,9,楽天モバイル,44.428
+09:40,10,Mother I Sober,
+10:10,1,Kendrick,412.120
+10:10,2,MrMoraleAndTheBigSteppers,46.197
+10:10,3,We Cry Together,34.526
+10:10,4,Friday the 13th,81.677
+10:10,5,MyBTSTracks,82.328
+10:10,6,Kodak,28.939
+10:10,7,Father Time,26.119
+10:10,8,レトさん,15.513
+10:10,9,楽天モバイル,45.932
+10:10,10,Auntie Diaries,11.491
+10:40,1,Kendrick,425.127
+10:40,2,MrMoraleAndTheBigSteppers,47.856
+10:40,3,We Cry Together,36.505
+10:40,4,FridayThe13th,16.604
+10:40,5,レトさん,17.427
+10:40,6,オンキヨー,10.847
+10:40,7,Father Time,27.053
+10:40,8,楽天モバイル,48.621
+10:40,9,MyBTStracks,85.623
+10:40,10,Kodak,29.829
+11:10,1,Kendrick,434.334
+11:10,2,MrMoraleAndTheBigSteppers,49.543
+11:10,3,オンキヨー,15.414
+11:10,4,We Cry Together,38.184
+11:10,5,FridayThe13th,18.234
+11:10,6,レトさん,19.096
+11:10,7,SatriaDewaGatotkaca,
+11:10,8,IniJagoanKita,
+11:10,9,ONKYO,
+11:10,10,Soma,
+11:40,1,Kendrick,446.031
+11:40,2,MrMoraleAndTheBigSteppers,51.000
+11:40,3,FEARLESS2ndWin,10.269
+11:40,4,オンキヨー,19.177
+11:40,5,LESSERAFIM2ndWin,
+11:40,6,FridayThe13th,19.918
+11:40,7,We Cry Together,39.938
+11:40,8,レトさん,20.984
+11:40,9,少クラ,14.566
+11:40,10,ONKYO,
+12:10,1,Kendrick,453.498
+12:10,2,FEARLESS2ndWin,21.586
+12:10,3,少クラ,22.814
+12:10,4,LESSERAFIM2ndWin,17.130
+12:10,5,オンキヨー,22.406
+12:10,6,FridayThe13th,21.816
+12:10,7,MrMoraleAndTheBigSteppers,52.283
+12:10,8,レトさん,22.510
+12:10,9,ONKYO,
+12:10,10,We Cry Together,41.451
+12:40,1,خليفه_بن_زايد,34.557
+12:40,2,Kendrick,464.831
+12:40,3,LeniKikoPasasalamat,
+12:40,4,FEARLESS2ndWin,32.816
+12:40,5,少クラ,25.451
+12:40,6,LESSERAFIM2ndWin,22.636
+12:40,7,オンキヨー,25.069
+12:40,8,ONKYO,
+12:40,9,レトさん,23.798
+12:40,10,الامارات,64.254
+13:10,1,خليفه_بن_زايد,74.628
+13:10,2,LeniKikoPasasalamat,16.199
+13:10,3,TayoAngLiwanag,15.131
+13:10,4,Kendrick,474.141
+13:10,5,Mステ,15.159
+13:10,6,FridayThe13th,25.646
+13:10,7,الامارات,118.482
+13:10,8,オンキヨー,27.278
+13:10,9,ONKYO,
+13:10,10,レトさん,24.940
+13:40,1,خليفه_بن_زايد,101.559
+13:40,2,LeniKikoPasasalamat,29.462
+13:40,3,Mステ,26.185
+13:40,4,TayoAngLiwanag,23.371
+13:40,5,Angat Buhay NGO,
+13:40,6,Kendrick,486.744
+13:40,7,Lilかんさい,
+13:40,8,Friday the 13th,115.141
+13:40,9,الامارات,170.558
+13:40,10,YUKIちゃん,
+14:10,1,LeniKikoPasasalamat,46.323
+14:10,2,خليفه_بن_زايد,118.695
+14:10,3,Mステ,32.482
+14:10,4,TayoAngLiwanag,32.996
+14:10,5,Angat Buhay NGO,22.738
+14:10,6,Friday the 13th,120.706
+14:10,7,ローマの休日,18.830
+14:10,8,Kendrick,497.178
+14:10,9,Lilかんさい,11.149
+14:10,10,れおほー,
+14:40,1,Mステ,40.596
+14:40,2,LeniKikoPasasalamat,58.269
+14:40,3,خليفه_بن_زايد,134.359
+14:40,4,ローマの休日,27.779
+14:40,5,UAAPFinals,
+14:40,6,Angat Buhay NGO,32.484
+14:40,7,TayoAngLiwanag,40.024
+14:40,8,Friday the 13th,128.289
+14:40,9,Congrats UP,
+14:40,10,Kendrick,512.528
+15:10,1,Mステ,52.111
+15:10,2,ローマの休日,31.536
+15:10,3,LeniKikoPasasalamat,68.387
+15:10,4,خليفه_بن_زايد,148.685
+15:10,5,UPFight,22.182
+15:10,6,Friday the 13th,135.576
+15:10,7,Congrats UP,11.739
+15:10,8,Angat Buhay NGO,39.423
+15:10,9,Kendrick,522.831
+15:10,10,ミスチル,25.531
+15:40,1,ローマの休日,46.566
+15:40,2,Mステ,58.864
+15:40,3,LeniKikoPasasalamat,77.216
+15:40,4,Friday the 13th,144.581
+15:40,5,خليفه_بن_زايد,161.651
+15:40,6,UPFight,27.088
+15:40,7,Angat Buhay NGO,44.841
+15:40,8,Congrats UP,13.094
+15:40,9,Kendrick,538.946
+15:40,10,ミスチル,26.612
+16:10,1,ローマの休日,56.272
+16:10,2,Friday the 13th,152.084
+16:10,3,Mステ,62.513
+16:10,4,LeniKikoPasasalamat,84.132
+16:10,5,خليفه_بن_زايد,173.014
+16:10,6,UPFight,30.296
+16:10,7,弦月藤士郎3D,76.283
+16:10,8,Angat Buhay NGO,49.550
+16:10,9,Kendrick,550.892
+16:10,10,Congrats UP,14.542
+16:40,1,ローマの休日,64.335
+16:40,2,Friday the 13th,162.077
+16:40,3,Mステ,65.136
+16:40,4,StarInMyMindEP6,137.980
+16:40,5,LeniKikoPasasalamat,89.251
+16:40,6,خليفه_بن_زايد,182.090
+16:40,7,Kendrick,568.847
+16:40,8,UPFight,32.502
+16:40,9,Angat Buhay NGO,53.107
+16:40,10,Viernes 13,81.542
+17:10,1,Friday the 13th,165.718
+17:10,2,ローマの休日,68.081
+17:10,3,StarInMyMindEP6,173.563
+17:10,4,몬스타엑스7주년,19.152
+17:10,5,Kendrick,580.382
+17:10,6,Mステ,66.718
+17:10,7,LeniKikoPasasalamat,93.948
+17:10,8,خليفه_بن_زايد,191.950
+17:10,9,Viernes 13,86.683
+17:10,10,Angat Buhay NGO,56.168
+17:40,1,Friday the 13th,176.218
+17:40,2,몬스타엑스7주년,29.957
+17:40,3,ローマの休日,70.480
+17:40,4,7YearsWithMONSTAX,30.245
+17:40,5,StarInMyMindEP6,195.347
+17:40,6,Kendrick,598.161
+17:40,7,Viernes 13,93.614
+17:40,8,LeniKikoPasasalamat,97.662
+17:40,9,خليفه_بن_زايد,201.018
+17:40,10,Fred Ward,
+18:10,1,Friday the 13th,184.002
+18:10,2,몬스타엑스7주년,39.601
+18:10,3,7YearsWithMONSTAX,40.432
+18:10,4,ローマの休日,71.959
+18:10,5,Kendrick,608.596
+18:10,6,StarInMyMindEP6,208.616
+18:10,7,Viernes 13,99.135
+18:10,8,Fred Ward,
+18:10,9,第113回,
+18:10,10,RCBvsPBKS,
+18:40,1,Friday the 13th,193.842
+18:40,2,몬스타엑스7주년,44.458
+18:40,3,Kendrick,628.310
+18:40,4,7YearsWithMONSTAX,45.629
+18:40,5,Fred Ward,
+18:40,6,StarInMyMindEP6,224.525
+18:40,7,RCBvsPBKS,
+18:40,8,ローマの休日,73.117
+18:40,9,フロイニ,29.993
+18:40,10,Viernes 13,105.460
+19:10,1,Friday the 13th,201.341
+19:10,2,Kendrick,637.867
+19:10,3,몬스타엑스7주년,47.587
+19:10,4,Fred Ward,12.207
+19:10,5,7YearsWithMONSTAX,49.176
+19:10,6,RCBvsPBKS,
+19:10,7,Remo Williams,
+19:10,8,StarInMyMindEP6,236.412
+19:10,9,フロイニ,49.912
+19:10,10,Viernes 13,110.464
+19:40,1,Friday the 13th,210.341
+19:40,2,Kendrick,654.526
+19:40,3,Fred Ward,15.030
+19:40,4,몬스타엑스7주년,49.981
+19:40,5,Vito,49.391
+19:40,6,7YearsWithMONSTAX,51.967
+19:40,7,Remo Williams,
+19:40,8,RCBvsPBKS,
+19:40,9,フロイニ,62.242
+19:40,10,Viernes 13,116.111
+20:10,1,Friday the 13th,217.571
+20:10,2,Kendrick,659.479
+20:10,3,Fred Ward,17.268
+20:10,4,bananamoon,16.253
+20:10,5,RCBvsPBKS,10.714
+20:10,6,Remo Williams,
+20:10,7,몬스타엑스7주년,51.680
+20:10,8,Vito,53.487
+20:10,9,7YearsWithMONSTAX,53.842
+20:10,10,Viernes 13,120.161
+20:40,1,Friday the 13th,225.913
+20:40,2,Kendrick,674.571
+20:40,3,Fred Ward,19.275
+20:40,4,Remo Williams,
+20:40,5,RCBvsPBKS,11.485
+20:40,6,Israel,379.703
+20:40,7,bananamoon,16.782
+20:40,8,Viernes 13,125.245
+20:40,9,몬스타엑스7주년,53.133
+20:40,10,7YearsWithMONSTAX,55.454
+21:10,1,Friday the 13th,231.641
+21:10,2,Kendrick,678.810
+21:10,3,freecodefridaycontest,
+21:10,4,Fred Ward,20.801
+21:10,5,PMSScheduleRelease,
+21:10,6,Remo Williams,
+21:10,7,Israel,375.858
+21:10,8,HaramiDüzen,
+21:10,9,1989TaylorsVersion,
+21:10,10,Viernes 13,129.414
+21:40,1,Friday the 13th,239.308
+21:40,2,freecodefridaycontest,
+21:40,3,PMSScheduleRelease,
+21:40,4,Kendrick,693.819
+21:40,5,خلك_نبيه,
+21:40,6,Fred Ward,22.331
+21:40,7,totp,
+21:40,8,Israel,390.938
+21:40,9,1989TaylorsVersion,
+21:40,10,Remo Williams,
+22:10,1,Friday the 13th,244.774
+22:10,2,freecodefridaycontest,
+22:10,3,PMSScheduleRelease,
+22:10,4,خلك_نبيه,
+22:10,5,Kendrick,697.906
+22:10,6,totp,
+22:10,7,Fred Ward,23.972
+22:10,8,Israel,389.119
+22:10,9,QuestaECasaMia,
+22:10,10,Henrique Araújo,
+22:40,1,FreeCodeFridayContest,
+22:40,2,Friday the 13th,251.886
+22:40,3,خلك_نبيه,
+22:40,4,PMSScheduleRelease,
+22:40,5,Kendrick,711.981
+22:40,6,Israel,403.933
+22:40,7,QuestaECasaMia,13.180
+22:40,8,totp,
+22:40,9,Fred Ward,25.454
+22:40,10,Henrique Araújo,
+23:10,1,FreeCodeFridayContest,
+23:10,2,Friday the 13th,256.508
+23:10,3,Bellator281,
+23:10,4,خلك_نبيه,11.251
+23:10,5,MaskSinger,
+23:10,6,Saints,42.835
+23:10,7,PMSScheduleRelease,
+23:10,8,Kendrick,714.557
+23:10,9,Willie Collum,
+23:10,10,Israel,402.162
+23:40,1,Friday the 13th,264.671
+23:40,2,MaskSinger,
+23:40,3,isola,10.054
+23:40,4,FreeCodeFridayContest,
+23:40,5,Bellator281,
+23:40,6,Willie Collum,
+23:40,7,خلك_نبيه,12.784
+23:40,8,Saints,47.289
+23:40,9,Arbroath,
+23:40,10,Israel,416.521

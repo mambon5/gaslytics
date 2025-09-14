@@ -1,0 +1,481 @@
+hora,posicio,trend,volum
+00:01,1,jungkook,2.220.000
+00:01,2,Bitcoin,599.000
+00:01,3,King,497.000
+00:01,4,GM GM,463.000
+00:01,5,HappyBirthdayJungkook,404.000
+00:01,6,UCLdraw,395.000
+00:01,7,Gabon,371.000
+00:01,8,Gabón,366.000
+00:01,9,Taylor,362.000
+00:01,10,HAPPYJKDAY,353.000
+00:31,1,jungkook,2.240.000
+00:31,2,Bitcoin,619.000
+00:31,3,King,497.000
+00:31,4,GM GM,463.000
+00:31,5,HappyBirthdayJungkook,411.000
+00:31,6,UCLdraw,396.000
+00:31,7,Gabon,371.000
+00:31,8,Taylor,370.000
+00:31,9,HAPPYJKDAY,357.000
+00:31,10,Gabón,350.000
+01:01,1,jungkook,2.300.000
+01:01,2,Bitcoin,642.000
+01:01,3,King,497.000
+01:01,4,GM GM,463.000
+01:01,5,محمد,438.000
+01:01,6,HappyBirthdayJungkook,418.000
+01:01,7,UCLdraw,400.000
+01:01,8,Taylor,378.000
+01:01,9,HAPPYJKDAY,361.000
+01:01,10,Gabon,354.000
+01:31,1,jungkook,2.320.000
+01:31,2,Bitcoin,642.000
+01:31,3,King,497.000
+01:31,4,GM GM,463.000
+01:31,5,محمد,438.000
+01:31,6,HappyBirthdayJungkook,427.000
+01:31,7,UCLdraw,400.000
+01:31,8,Taylor,378.000
+01:31,9,HAPPYJKDAY,366.000
+01:31,10,Gabon,354.000
+02:01,1,jungkook,2.360.000
+02:01,2,Bitcoin,642.000
+02:01,3,King,488.000
+02:01,4,GM GM,462.000
+02:01,5,محمد,445.000
+02:01,6,HappyBirthdayJungkook,434.000
+02:01,7,UCLdraw,405.000
+02:01,8,Taylor,381.000
+02:01,9,HAPPYJKDAY,372.000
+02:01,10,WinkwhitexCharlotteAustin,348.000
+02:31,1,jungkook,2.400.000
+02:31,2,Bitcoin,648.000
+02:31,3,GM GM,462.000
+02:31,4,محمد,445.000
+02:31,5,HappyBirthdayJungkook,442.000
+02:31,6,UCLdraw,406.000
+02:31,7,Taylor,381.000
+02:31,8,HAPPYJKDAY,377.000
+02:31,9,WinkwhitexCharlotteAustin,351.000
+02:31,10,Gabon,341.000
+03:01,1,jungkook,2.480.000
+03:01,2,Bitcoin,684.000
+03:01,3,GM GM,462.000
+03:01,4,HappyBirthdayJungkook,449.000
+03:01,5,محمد,445.000
+03:01,6,UCLdraw,408.000
+03:01,7,HAPPYJKDAY,381.000
+03:01,8,Taylor,375.000
+03:01,9,WinkwhitexCharlotteAustin,354.000
+03:01,10,Ukraine,352.000
+03:31,1,jungkook,2.480.000
+03:31,2,Bitcoin,684.000
+03:31,3,GM GM,457.000
+03:31,4,HappyBirthdayJungkook,455.000
+03:31,5,محمد,445.000
+03:31,6,UCLdraw,409.000
+03:31,7,HAPPYJKDAY,386.000
+03:31,8,Taylor,379.000
+03:31,9,WinkwhitexCharlotteAustin,357.000
+03:31,10,Ukraine,352.000
+04:01,1,jungkook,2.540.000
+04:01,2,Bitcoin,684.000
+04:01,3,HappyBirthdayJungkook,463.000
+04:01,4,GM GM,460.000
+04:01,5,محمد,450.000
+04:01,6,UCLdraw,410.000
+04:01,7,HAPPYJKDAY,390.000
+04:01,8,Taylor,379.000
+04:01,9,WinkwhitexCharlotteAustin,360.000
+04:01,10,Ukraine,352.000
+04:31,1,jungkook,2.540.000
+04:31,2,Trump,1.220.000
+04:31,3,Bitcoin,684.000
+04:31,4,HappyBirthdayJungkook,470.000
+04:31,5,GM GM,460.000
+04:31,6,محمد,450.000
+04:31,7,UCLdraw,411.000
+04:31,8,HAPPYJKDAY,393.000
+04:31,9,Taylor,382.000
+04:31,10,WinkwhitexCharlotteAustin,360.000
+05:01,1,jungkook,2.540.000
+05:01,2,Trump,1.220.000
+05:01,3,Bitcoin,686.000
+05:01,4,HappyBirthdayJungkook,477.000
+05:01,5,King,471.000
+05:01,6,GM GM,460.000
+05:01,7,محمد,456.000
+05:01,8,UCLdraw,413.000
+05:01,9,HAPPYJKDAY,397.000
+05:01,10,Taylor,389.000
+05:31,1,jungkook,2.680.000
+05:31,2,Trump,1.220.000
+05:31,3,Bitcoin,686.000
+05:31,4,HappyBirthdayJungkook,486.000
+05:31,5,King,471.000
+05:31,6,GM GM,460.000
+05:31,7,محمد,456.000
+05:31,8,UCLdraw,413.000
+05:31,9,HAPPYJKDAY,401.000
+05:31,10,Taylor,389.000
+06:01,1,jungkook,2.780.000
+06:01,2,Trump,1.200.000
+06:01,3,Bitcoin,686.000
+06:01,4,HappyBirthdayJungkook,493.000
+06:01,5,America,484.000
+06:01,6,King,471.000
+06:01,7,محمد,460.000
+06:01,8,GM GM,452.000
+06:01,9,UCLdraw,414.000
+06:01,10,HAPPYJKDAY,404.000
+06:31,1,jungkook,2.800.000
+06:31,2,Trump,1.200.000
+06:31,3,Bitcoin,686.000
+06:31,4,HappyBirthdayJungkook,498.000
+06:31,5,America,484.000
+06:31,6,King,471.000
+06:31,7,محمد,460.000
+06:31,8,GM GM,452.000
+06:31,9,UCLdraw,414.000
+06:31,10,HAPPYJKDAY,404.000
+07:01,1,jungkook,2.820.000
+07:01,2,Trump,1.200.000
+07:01,3,Bitcoin,689.000
+07:01,4,HappyBirthdayJungkook,505.000
+07:01,5,America,484.000
+07:01,6,محمد,460.000
+07:01,7,GM GM,456.000
+07:01,8,UCLdraw,414.000
+07:01,9,HAPPYJKDAY,410.000
+07:01,10,Taylor,394.000
+07:31,1,jungkook,2.860.000
+07:31,2,Trump,1.200.000
+07:31,3,Bitcoin,689.000
+07:31,4,HappyBirthdayJungkook,510.000
+07:31,5,America,484.000
+07:31,6,محمد,460.000
+07:31,7,GM GM,456.000
+07:31,8,UCLdraw,414.000
+07:31,9,HAPPYJKDAY,410.000
+07:31,10,Taylor,394.000
+08:01,1,jungkook,2.900.000
+08:01,2,Trump,1.120.000
+08:01,3,Bitcoin,689.000
+08:01,4,HappyBirthdayJungkook,515.000
+08:01,5,America,482.000
+08:01,6,محمد,453.000
+08:01,7,GM GM,446.000
+08:01,8,HAPPYJKDAY,416.000
+08:01,9,UCLdraw,414.000
+08:01,10,80thVenicexZeeNuNew,396.000
+08:31,1,jungkook,2.920.000
+08:31,2,Bitcoin,689.000
+08:31,3,HappyBirthdayJungkook,519.000
+08:31,4,America,482.000
+08:31,5,محمد,453.000
+08:31,6,GM GM,446.000
+08:31,7,HAPPYJKDAY,418.000
+08:31,8,UCLdraw,414.000
+08:31,9,80thVenicexZeeNuNew,396.000
+08:31,10,Taylor,394.000
+09:01,1,jungkook,2.960.000
+09:01,2,Bitcoin,689.000
+09:01,3,HappyBirthdayJungkook,524.000
+09:01,4,America,477.000
+09:01,5,محمد,458.000
+09:01,6,GM GM,446.000
+09:01,7,HAPPYJKDAY,421.000
+09:01,8,UCLdraw,413.000
+09:01,9,80thVenicexZeeNuNew,402.000
+09:01,10,Taylor,393.000
+09:31,1,jungkook,2.960.000
+09:31,2,Bitcoin,689.000
+09:31,3,HappyBirthdayJungkook,527.000
+09:31,4,محمد,458.000
+09:31,5,GM GM,437.000
+09:31,6,HAPPYJKDAY,422.000
+09:31,7,UCLdraw,413.000
+09:31,8,80thVenicexZeeNuNew,406.000
+09:31,9,Taylor,394.000
+09:31,10,WinkwhitexCharlotteAustin,385.000
+10:01,1,jungkook,2.980.000
+10:01,2,Bitcoin,701.000
+10:01,3,HappyBirthdayJungkook,532.000
+10:01,4,محمد,466.000
+10:01,5,GM GM,451.000
+10:01,6,HAPPYJKDAY,422.000
+10:01,7,UCLdraw,413.000
+10:01,8,80thVenicexZeeNuNew,410.000
+10:01,9,Taylor,398.000
+10:01,10,WinkwhitexCharlotteAustin,385.000
+10:31,1,jungkook,2.980.000
+10:31,2,Bitcoin,703.000
+10:31,3,HappyBirthdayJungkook,535.000
+10:31,4,محمد,466.000
+10:31,5,GM GM,451.000
+10:31,6,HAPPYJKDAY,422.000
+10:31,7,80thVenicexZeeNuNew,413.000
+10:31,8,UCLdraw,412.000
+10:31,9,Taylor,398.000
+10:31,10,ImranKhanNeedsJustice,309.000
+11:01,1,jungkook,2.980.000
+11:01,2,Bitcoin,713.000
+11:01,3,HappyBirthdayJungkook,539.000
+11:01,4,محمد,479.000
+11:01,5,GM GM,451.000
+11:01,6,HAPPYJKDAY,428.000
+11:01,7,80thVenicexZeeNuNew,416.000
+11:01,8,UCLdraw,412.000
+11:01,9,Taylor,398.000
+11:01,10,ImranKhanNeedsJustice,316.000
+11:31,1,jungkook,2.980.000
+11:31,2,Bitcoin,713.000
+11:31,3,HappyBirthdayJungkook,542.000
+11:31,4,محمد,479.000
+11:31,5,GM GM,451.000
+11:31,6,HAPPYJKDAY,429.000
+11:31,7,80thVenicexZeeNuNew,418.000
+11:31,8,UCLdraw,412.000
+11:31,9,ImranKhanNeedsJustice,325.000
+11:31,10,Bayern,286.000
+12:01,1,jungkook,2.980.000
+12:01,2,Jungkook,2.059.999
+12:01,3,Bitcoin,726.000
+12:01,4,HappyBirthdayJungkook,546.000
+12:01,5,محمد,501.000
+12:01,6,GM GM,451.000
+12:01,7,HAPPYJKDAY,432.000
+12:01,8,80thVenicexZeeNuNew,421.000
+12:01,9,UCLdraw,407.000
+12:01,10,ImranKhanNeedsJustice,332.000
+12:31,1,jungkook,2.980.000
+12:31,2,Jungkook,2.059.999
+12:31,3,Bitcoin,726.000
+12:31,4,HappyBirthdayJungkook,549.000
+12:31,5,محمد,507.000
+12:31,6,GM GM,451.000
+12:31,7,HAPPYJKDAY,434.000
+12:31,8,80thVenicexZeeNuNew,425.000
+12:31,9,UCLdraw,407.000
+12:31,10,Taylor,396.000
+13:01,1,Jungkook,2.099.999
+13:01,2,jungkook,2.019.999
+13:01,3,Bitcoin,729.000
+13:01,4,HappyBirthdayJungkook,553.000
+13:01,5,محمد,521.000
+13:01,6,GM GM,449.000
+13:01,7,HAPPYJKDAY,436.000
+13:01,8,80thVenicexZeeNuNew,428.000
+13:01,9,UCLdraw,400.000
+13:01,10,Taylor,396.000
+13:31,1,Jungkook,2.099.999
+13:31,2,Bitcoin,736.000
+13:31,3,HappyBirthdayJungkook,557.000
+13:31,4,محمد,521.000
+13:31,5,GM GM,449.000
+13:31,6,HAPPYJKDAY,437.000
+13:31,7,80thVenicexZeeNuNew,430.000
+13:31,8,UCLdraw,400.000
+13:31,9,Taylor,396.000
+13:31,10,ImranKhanNeedsJustice,348.000
+14:01,1,Jungkook,2.139.999
+14:01,2,Bitcoin,756.000
+14:01,3,HappyBirthdayJungkook,561.000
+14:01,4,محمد,536.000
+14:01,5,GM GM,446.000
+14:01,6,HAPPYJKDAY,440.000
+14:01,7,80thVenicexZeeNuNew,432.000
+14:01,8,Taylor,400.000
+14:01,9,UCLdraw,390.000
+14:01,10,ImranKhanNeedsJustice,354.000
+14:31,1,Jungkook,2.139.999
+14:31,2,Bitcoin,756.000
+14:31,3,HappyBirthdayJungkook,564.000
+14:31,4,محمد,536.000
+14:31,5,GM GM,446.000
+14:31,6,HAPPYJKDAY,440.000
+14:31,7,80thVenicexZeeNuNew,434.000
+14:31,8,Taylor,400.000
+14:31,9,UCLdraw,390.000
+14:31,10,Champions,367.000
+15:01,1,Jungkook,2.240.000
+15:01,2,Bitcoin,756.000
+15:01,3,HappyBirthdayJungkook,568.000
+15:01,4,محمد,546.000
+15:01,5,GM GM,446.000
+15:01,6,HAPPYJKDAY,441.000
+15:01,7,80thVenicexZeeNuNew,436.000
+15:01,8,Taylor,394.000
+15:01,9,UCLdraw,380.000
+15:01,10,Champions,371.000
+15:31,1,Jungkook,2.240.000
+15:31,2,Besiktas,1.200.000
+15:31,3,Bitcoin,756.000
+15:31,4,HappyBirthdayJungkook,570.000
+15:31,5,محمد,546.000
+15:31,6,GM GM,446.000
+15:31,7,HAPPYJKDAY,441.000
+15:31,8,80thVenicexZeeNuNew,438.000
+15:31,9,UCLdraw,380.000
+15:31,10,Champions,371.000
+16:01,1,Jungkook,2.300.000
+16:01,2,Besiktas,1.220.000
+16:01,3,Bitcoin,749.000
+16:01,4,HappyBirthdayJungkook,574.000
+16:01,5,محمد,556.000
+16:01,6,GM GM,444.000
+16:01,7,HAPPYJKDAY,442.000
+16:01,8,80thVenicexZeeNuNew,440.000
+16:01,9,Champions,371.000
+16:01,10,UCLdraw,370.000
+16:31,1,Jungkook,2.300.000
+16:31,2,Besiktas,1.220.000
+16:31,3,Bitcoin,749.000
+16:31,4,HappyBirthdayJungkook,574.000
+16:31,5,محمد,556.000
+16:31,6,GM GM,444.000
+16:31,7,HAPPYJKDAY,442.000
+16:31,8,80thVenicexZeeNuNew,440.000
+16:31,9,ImranKhanNeedsJustice,372.000
+16:31,10,Champions,371.000
+17:01,1,Jungkook,2.300.000
+17:01,2,Besiktas,1.240.000
+17:01,3,Bitcoin,730.000
+17:01,4,HappyBirthdayJungkook,574.000
+17:01,5,محمد,565.000
+17:01,6,80thVenicexZeeNuNew,442.000
+17:01,7,GM GM,441.000
+17:01,8,ImranKhanNeedsJustice,377.000
+17:01,9,HAPPYJKDAY,364.000
+17:01,10,UCLdraw,361.000
+17:31,1,Jungkook,2.300.000
+17:31,2,Besiktas,1.240.000
+17:31,3,Bitcoin,730.000
+17:31,4,HappyBirthdayJungkook,574.000
+17:31,5,محمد,565.000
+17:31,6,80thVenicexZeeNuNew,442.000
+17:31,7,GM GM,441.000
+17:31,8,ImranKhanNeedsJustice,377.000
+17:31,9,HAPPYJKDAY,364.000
+17:31,10,UCLdraw,361.000
+18:01,1,jungkook,2.120.000
+18:01,2,Jungkook,2.080.000
+18:01,3,Besiktas,1.240.000
+18:01,4,Bitcoin,708.000
+18:01,5,محمد,566.000
+18:01,6,HappyBirthdayJungkook,522.000
+18:01,7,80thVenicexZeeNuNew,442.000
+18:01,8,GM GM,441.000
+18:01,9,ImranKhanNeedsJustice,377.000
+18:01,10,HAPPYJKDAY,364.000
+18:31,1,jungkook,2.120.000
+18:31,2,Jungkook,2.080.000
+18:31,3,Besiktas,1.240.000
+18:31,4,Bitcoin,707.000
+18:31,5,محمد,566.000
+18:31,6,HappyBirthdayJungkook,522.000
+18:31,7,80thVenicexZeeNuNew,442.000
+18:31,8,GM GM,441.000
+18:31,9,ImranKhanNeedsJustice,377.000
+18:31,10,HAPPYJKDAY,364.000
+19:01,1,jungkook,2.120.000
+19:01,2,Jungkook,2.080.000
+19:01,3,Besiktas,1.220.000
+19:01,4,Bitcoin,707.000
+19:01,5,محمد,566.000
+19:01,6,GM GM,439.000
+19:01,7,80thVenicexZeeNuNew,417.000
+19:01,8,ImranKhanNeedsJustice,376.000
+19:01,9,Champions,352.000
+19:01,10,HappyBirthdayJungkook,342.000
+19:31,1,jungkook,2.120.000
+19:31,2,Jungkook,1.700.000
+19:31,3,Bitcoin,707.000
+19:31,4,محمد,566.000
+19:31,5,GM GM,439.000
+19:31,6,ImranKhanNeedsJustice,376.000
+19:31,7,99ShopeeENGFA,354.000
+19:31,8,Champions,352.000
+19:31,9,HappyBirthdayJungkook,342.000
+19:31,10,UCLdraw,335.000
+20:01,1,Jungkook,1.700.000
+20:01,2,jungkook,1.600.000
+20:01,3,Bitcoin,705.000
+20:01,4,محمد,566.000
+20:01,5,GM GM,437.000
+20:01,6,99ShopeeENGFA,369.000
+20:01,7,الهلال,342.000
+20:01,8,तीन_दिवसीय_विशाल_भंडारा,329.000
+20:01,9,Amrabat,318.000
+20:01,10,80thVenicexZeeNuNew,307.000
+20:31,1,Jungkook,1.700.000
+20:31,2,jungkook,1.520.000
+20:31,3,Bitcoin,705.000
+20:31,4,محمد,566.000
+20:31,5,GM GM,437.000
+20:31,6,99ShopeeENGFA,380.000
+20:31,7,الهلال,365.000
+20:31,8,तीन_दिवसीय_विशाल_भंडारा,333.000
+20:31,9,الاتحاد,321.000
+20:31,10,Amrabat,320.000
+21:01,1,jungkook,1.520.000
+21:01,2,Jungkook,1.500.000
+21:01,3,Besiktas,1.339.999
+21:01,4,President,750.000
+21:01,5,Bitcoin,705.000
+21:01,6,محمد,562.000
+21:01,7,GM GM,437.000
+21:01,8,الهلال,423.000
+21:01,9,99ShopeeENGFA,390.000
+21:01,10,तीन_दिवसीय_विशाल_भंडारा,333.000
+21:31,1,jungkook,1.520.000
+21:31,2,Besiktas,1.339.999
+21:31,3,Jungkook,1.259.999
+21:31,4,President,750.000
+21:31,5,Bitcoin,705.000
+21:31,6,محمد,562.000
+21:31,7,الهلال,476.000
+21:31,8,GM GM,437.000
+21:31,9,99ShopeeENGFA,399.000
+21:31,10,तीन_दिवसीय_विशाल_भंडारा,333.000
+22:01,1,jungkook,1.400.000
+22:01,2,Besiktas,1.339.999
+22:01,3,Jungkook,1.259.999
+22:01,4,President,750.000
+22:01,5,Bitcoin,693.000
+22:01,6,الهلال,547.000
+22:01,7,محمد,545.000
+22:01,8,GM GM,437.000
+22:01,9,99ShopeeENGFA,399.000
+22:01,10,तीन_दिवसीय_विशाल_भंडारा,333.000
+22:31,1,Besiktas,1.339.999
+22:31,2,jungkook,1.279.999
+22:31,3,Jungkook,1.259.999
+22:31,4,Bitcoin,692.000
+22:31,5,الهلال,647.000
+22:31,6,GM GM,437.000
+22:31,7,99ShopeeENGFA,399.000
+22:31,8,Amrabat,330.000
+22:31,9,Bank,318.000
+22:31,10,HBDJanaSenaniPawanKalyan,309.000
+23:01,1,jungkook,1.279.999
+23:01,2,Besiktas,1.259.999
+23:01,3,الهلال,754.000
+23:01,4,Bitcoin,692.000
+23:01,5,GM GM,437.000
+23:01,6,Amrabat,333.000
+23:01,7,Bank,315.000
+23:01,8,HBDJanaSenaniPawanKalyan,314.000
+23:01,9,Joao,313.000
+23:01,10,الاتحاد_الهلال,265.000
+23:31,1,Besiktas,1.259.999
+23:31,2,الهلال,808.000
+23:31,3,Bitcoin,692.000
+23:31,4,GM GM,437.000
+23:31,5,99ShopeeENGFA,411.000
+23:31,6,Joao,339.000
+23:31,7,Amrabat,333.000
+23:31,8,HBDJanaSenaniPawanKalyan,316.000
+23:31,9,Bank,307.000
+23:31,10,الاتحاد_الهلال,284.000
