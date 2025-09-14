@@ -49,6 +49,8 @@ resp = requests.get(url, headers=headers)
 resp.encoding = "utf-8"
 soup = BeautifulSoup(resp.text, "html.parser")
 
+# webs del gas
+
 timestamps = []
 timestamps_epoch = []
 trend_names = []
@@ -99,6 +101,7 @@ df = pd.DataFrame({
     "link": trend_links,
     "tweet_count": tweet_counts
 })
+
 
 # Assegura't que siguin strings i treu els parèntesis finals
 df['timestamp_clean'] = df['timestamp'].astype(str).str.strip()

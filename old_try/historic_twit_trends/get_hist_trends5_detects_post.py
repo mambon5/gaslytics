@@ -13,6 +13,7 @@ with sync_playwright() as p:
         if "tablo_request.php" in request.url and request.method == "POST":
             print("POST detectat!")
             print("Payload:", request.post_data)
+            print("Resposta:", request.response)
         route.continue_()
 
     page.route("**/*", handle_request)
