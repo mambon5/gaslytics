@@ -34,7 +34,7 @@ clustering = DBSCAN(eps=0.3, min_samples=2, metric="cosine").fit(embeddings)
 df["cluster_id"] = clustering.labels_
 
 # === 6. Desa resultats en CSV ===
-df.to_csv("noticies_clusteritzades.csv", index=False, encoding="utf-8")
+df.to_csv("noticies_clusteritzades_eps_03.csv", index=False, encoding="utf-8")
 
 print("\n✅ Fitxer 'noticies_clusteritzades.csv' creat amb columnes:")
 print(df.columns)
