@@ -42,3 +42,8 @@ seguir cuentas que hablen solo del gas.
 Hacer la confusion matrix.
 
 
+## Next steps:
+
+1. descargar todas las noticias de newsapi. Todas de los últimos 5 años. Usando tu código usando los filtros de dani. 700 por 5 días. 
+2. Semantic similarity de las palabras clave.
+3. Descargar las noticias de kepler.
