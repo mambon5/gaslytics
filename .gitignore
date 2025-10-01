@@ -1,3 +1,14 @@
 envi/
 envi3.11/
 .env
+# Environments (en qualsevol subcarpeta)
+**/venv/
+**/.venv/
+**/envi/
+**/.envi/
+**/env/
+**/.env/
+
+# Byte-compiled / cache
+**/__pycache__/
+*.py[cod]

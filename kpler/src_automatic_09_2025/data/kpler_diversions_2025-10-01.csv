@@ -1,0 +1,1453 @@
+Vessel,Diversion date,Origin,Origin Date,Diverted from,New Destination,New Destination Date,Vessel State,Charterer
+British Achiever,2025-09-30 16:19,Freeport,2025-09-27 12:39,Revithoussa,Bilbao,2025-10-09 01:00,Loaded,BP
+Elisa Aquila,2025-09-30 11:13,Freeport,2025-09-21 14:19,Dunkerque,Southern Europe,2025-10-03 15:49,Loaded,Edison
+Nohshu Maru,2025-09-29 15:59,Cameron (Liqu.),2025-09-16 15:38,Piombino LNG,Dunkerque,2025-10-03 13:00,Loaded,JERA
+Rias Baixas Knutsen,2025-09-29 10:16,Calcasieu Pass,2025-09-16 11:57,Ain Sukhna,Zeebrugge,2025-10-08 00:01,Loaded,Shell
+LNGShips Athena,2025-09-27 16:22,Calcasieu Pass,2025-08-19 01:39,Japan,Samcheok,2025-09-29 00:00,Loaded,JERA
+Al Kharrarah,2025-09-27 13:12,Sabine Pass,2025-09-25 07:39,Brazil,Sagunto,2025-10-09 19:42,Loaded,QatarEnergy
+Marvel Kite,2025-09-26 21:19,Cameron (Liqu.),2025-09-25 11:37,Inkoo,Asia,2025-10-25 00:00,Loaded,Mitsui
+Adamastos,2025-09-26 12:19,Corpus Christi,2025-09-05 00:59,Fos Cavaou,El Musel,2025-10-03 00:01,Loaded,Engie
+LNG Dubhe,2025-09-26 09:38,Yamal,2025-09-18 01:28,Montoir,Mugardos,2025-09-29 20:19,Loaded,OAO Yamal LNG
+Seri Cemara,2025-09-26 00:39,PFLNG 1 Sabah,2025-09-17 00:00,Pengerang,Rayong MTP,2025-09-28 02:59,Loaded,Petronas
+BW Pavilion Aranthera,2025-09-25 18:58,Peru LNG,2025-09-21 19:00,EemsEnergyTerminal,Milford Haven,2025-10-27 23:01,Loaded,Shell
+Maran Gas Agamemnon,2025-09-24 05:58,Sabine Pass,2025-09-09 21:59,South Coast Egypt,Ravenna,2025-10-02 22:00,Loaded,Shell
+BW Magnolia,2025-09-23 05:58,Freeport,2025-09-16 08:19,Port Açu,Revithoussa,2025-10-10 21:00,Loaded,BP
+Minerva Amorgos,2025-09-23 03:17,Idku,2025-09-20 05:16,Fos Cavaou,Sagunto,2025-09-26 02:39,Loaded,TotalEnergies
+Cheikh Bouamama,2025-09-22 15:39,Skikda,2025-09-11 09:34,Fos Cavaou,Barcelona,2025-09-23 12:19,Loaded,Sonatrach
+Amore Mio I,2025-09-22 14:59,Plaquemines,2025-08-21 09:19,China,Nagoya,2025-10-06 09:30,Loaded,QatarEnergy
+Assos,2025-09-22 12:00,Cove Point,2025-09-09 12:39,South Coast Egypt,Fos Cavaou,2025-09-28 17:19,Loaded,Tokyo Gas
+Maran Gas Kimolos,2025-09-19 17:38,Freeport,2025-08-28 04:58,Fos Cavaou,Barcelona,2025-09-22 01:38,Loaded,TotalEnergies
+Castillo De Villalba,2025-09-17 16:55,Bintulu,2025-09-05 00:00,Eastern Asia,Rayong MTP,2025-09-24 00:19,Loaded,Naturgy
+Celsius Granada,2025-09-15 20:17,Freeport,2025-09-11 03:39,Port Açu,EemsEnergyTerminal,2025-09-27 13:59,Loaded,BP
+Gaslog Genoa,2025-09-15 02:36,QCLNG,2025-08-31 08:39,Incheon,SLNG,2025-09-22 12:18,Loaded,Shell
+Fedor Litke,2025-09-11 13:18,Yamal,2025-09-11 00:00,Montoir,Samcheok,2025-09-23 11:00,Loaded,OAO Yamal LNG
+British Mentor,2025-09-08 13:19,GTA FLNG,2025-09-04 09:38,Europe,Kochi,2025-10-01 05:18,Loaded,BP
+Flex Constellation,2025-09-08 04:54,Calcasieu Pass,2025-08-21 13:58,Revithoussa,Ain Sukhna 3,2025-09-19 11:39,Loaded,Flex LNG Limited
+Adriano Knutsen,2025-09-05 03:58,Corpus Christi,2025-08-27 08:58,El Musel,Sines,2025-09-13 06:39,Loaded,Endesa
+Seapeak Vancouver,2025-09-04 11:59,GTA FLNG,2025-08-06 00:30,Ain Sukhna,Ravenna FSRU,2025-09-13 07:18,Loaded,Seapeak
+BW Lesmes,2025-09-04 10:39,Calcasieu Pass,2025-09-01 09:17,Brazil,Ain Sukhna 2,2025-09-29 21:13,Loaded,BP
+LNG Prosperity,2025-09-02 19:18,Freeport,2025-08-25 05:59,South Coast Egypt,Sagunto,2025-09-10 05:19,Loaded,Shell
+Apostolos,2025-09-02 18:57,Freeport,2025-08-30 00:39,France,Asia,2025-10-02 12:00,Loaded,JERA
+Aktoras,2025-09-02 18:36,Sabine Pass,2025-08-27 14:59,Ain Sukhna,EemsEnergyTerminal,2025-09-20 10:39,Loaded,NLNG
+Cesi Gladstone,2025-09-02 06:36,APLNG,2025-09-03 02:39,Tianjin,Futtsu,2025-09-16 02:00,Loaded,Sinopec
+Amadi,2025-08-29 14:14,Lumut I,2025-08-22 14:37,Taiwan,Joetsu Chubu,2025-09-04 00:38,Loaded,Brunei LNG
+Celsius Glarus,2025-08-27 00:18,Cove Point,2025-08-19 12:58,Osaka,Incheon,2025-09-29 23:39,Loaded,Gunvor
+Kool Crystal,2025-08-26 04:19,Sabine Pass,2025-07-31 07:18,Japan,Dahej,2025-09-03 21:17,Loaded,CoolCo
+Gaslog Wales,2025-08-25 20:17,Cameron (Liqu.),2025-08-15 21:19,Nagoya,Incheon,2025-10-02 06:00,Loaded,JERA
+Venture Gator,2025-08-23 14:27,Plaquemines,2025-08-18 14:59,Germany,Montoir,2025-09-03 23:19,Loaded,Venture Global LNG
+Kongtong,2025-08-22 03:34,Corpus Christi,2025-08-16 19:59,Chittagong,Bahia,2025-08-28 15:39,Loaded,PetroChina
+Yiannis,2025-08-21 21:18,Freeport,2025-08-18 07:59,Japan,Revithoussa,2025-09-07 04:59,Loaded,JERA
+Orion Jessica,2025-08-21 12:42,QCLNG,2025-08-21 08:59,China,Dhamra,2025-09-04 02:35,Loaded,Shell
+Grace Freesia,2025-08-19 20:18,Freeport,2025-07-23 22:59,Osaka,Taichung,2025-09-11 22:18,Loaded,Osaka Gas
+Puteri Mayang,2025-08-17 23:37,LNG Canada,2025-08-11 03:39,Nihonku,Yung An,2025-09-09 00:59,Loaded,Petronas
+LNG Imo,2025-08-15 16:39,Bonny LNG,2025-08-08 00:59,Montoir,Barcelona,2025-08-30 04:18,Loaded,NLNG
+LNG Sakura,2025-08-15 16:38,Sabine Pass,2025-08-08 14:39,Wilhelmshaven,Sagunto,2025-08-24 15:38,Loaded,KEPCO JP
+Flex Volunteer,2025-08-14 21:32,Congo FLNG,2025-07-25 18:19,China,Samcheok,2025-08-20 04:30,Loaded,Cheniere
+Maran Gas Ithaca,2025-08-14 18:59,Calcasieu Pass,2025-08-06 13:59,Cartagena (COL),Toscana,2025-08-31 11:59,Loaded,BP
+LNG River Niger,2025-08-14 15:18,Bonny LNG,2025-08-08 18:59,Japan,Dahej,2025-09-09 23:15,Loaded,NLNG
+Palu LNG,2025-08-10 05:18,Sabine Pass,2025-07-20 12:18,Jebel Ali,Summit LNG,2025-08-30 02:33,Loaded,Vitol
+Maran Gas Roxana,2025-08-09 11:18,Calcasieu Pass,2025-08-04 15:15,Acajutla LNG Terminal,Summit LNG,2025-09-11 01:02,Loaded,Shell
+Malaga Knutsen,2025-08-09 05:18,Bonny LNG,2025-07-30 10:39,Incheon,Senboku,2025-09-05 23:18,Loaded,Shell
+Clean Mistral,2025-08-08 12:05,Corpus Christi,2025-07-28 08:53,Netherlands,Swinoujscie LNG,2025-08-25 08:44,Loaded,Cheniere
+Celsius Giza,2025-08-06 17:19,Freeport,2025-08-03 14:39,Fos,Mukran,2025-08-25 05:39,Loaded,Gunvor
+Puteri Saadong,2025-07-31 16:39,Freeport,2025-07-29 18:39,Ravenna,Port Açu,2025-08-12 13:39,Loaded,Mercuria
+Aamira,2025-07-30 16:13,Ras Laffan,2025-07-19 22:36,Europe,Kawagoe,2025-08-18 01:38,Loaded,QatarEnergy
+Amani,2025-07-30 02:54,Lumut I,2025-07-27 14:19,Japan,PipeChina Beihai,2025-08-04 04:39,Loaded,Brunei LNG
+Kita LNG,2025-07-30 01:37,Ras Laffan,2025-07-22 09:59,Bahrain LNG,Jebel Ali,2025-08-02 06:19,Loaded,Trafigura
+BW Lesmes,2025-07-29 19:19,GTA FLNG,2025-07-24 10:52,Ravenna,Aqaba,2025-08-07 14:54,Loaded,BP
+British Mentor,2025-07-29 12:59,Atlantic LNG,2025-07-17 16:02,Gate,Ravenna FSRU,2025-08-05 07:19,Loaded,BP
+Energy Fortitude,2025-07-29 05:38,Cameron (Liqu.),2025-06-17 02:19,Japan,Samcheok,2025-08-01 01:38,Loaded,TotalEnergies
+New Nature,2025-07-29 00:00,Peru LNG,2025-07-19 04:58,Spain,Dunkerque,2025-08-13 16:58,Loaded,Shell
+Al Karaana,2025-07-24 23:19,Ras Laffan,2025-07-21 22:59,China,Swinoujscie LNG,2025-08-29 07:18,Loaded,QatarEnergy
+LNG Prosperity,2025-07-24 18:02,Peru LNG,2025-07-07 14:03,Huelva,EemsEnergyTerminal,2025-08-02 16:19,Loaded,Shell
+Gaslog Seattle,2025-07-23 14:12,Plaquemines,2025-07-14 17:17,Fos Cavaou,Andres,2025-07-30 11:38,Loaded,TotalEnergies
+Hua Shan,2025-07-22 18:29,Corpus Christi,2025-07-13 12:41,Montoir,EemsEnergyTerminal,2025-07-30 02:39,Loaded,PetroChina
+Seapeak Magellan,2025-07-22 13:36,Freeport,2025-07-21 04:00,Montoir,Barcarena,2025-07-31 16:39,Loaded,TotalEnergies
+Rex Tillerson,2025-07-22 08:17,Ras Laffan,2025-07-15 20:19,Boryeong,Nong Fab,2025-08-08 23:39,Loaded,QatarEnergy
+BU Fintas,2025-07-18 11:36,Plaquemines,2025-07-15 13:00,Netherlands,Bahrain LNG,2025-08-15 04:39,Loaded,QatarEnergy
+Flex Constellation,2025-07-11 16:13,Corpus Christi,2025-07-10 12:59,Piombino,Mejillones,2025-07-22 11:13,Loaded,Flex LNG Limited
+Qogir,2025-07-11 15:35,Cameron (Liqu.),2025-06-28 13:58,Escobar,Fos Cavaou,2025-07-25 03:39,Loaded,TotalEnergies
+Lalla Fatma N'Soumer,2025-07-10 20:00,Bethioua,2025-07-10 08:42,Cartagena (ESP),Krk LNG FSRU,2025-07-16 14:59,Loaded,Itochu
+BW Enn Snow Lotus,2025-07-10 14:59,GTA FLNG,2025-07-06 20:32,Bilbao,Piombino LNG,2025-07-24 21:38,Loaded,ENN
+Al Bidda,2025-07-09 14:20,Ras Laffan,2025-06-30 00:39,Zeebrugge,SLNG,2025-07-23 00:19,Loaded,QatarEnergy
+Puteri Sabah,2025-07-08 00:39,Bintulu,2025-06-21 00:12,Sodeshi,Tongyeong,2025-08-01 01:19,Loaded,Petronas
+Milaha Ras Laffan,2025-07-07 08:00,Ras Laffan,2025-07-07 09:00,Dahej,Caofeidian,2025-08-06 00:39,Loaded,QatarEnergy
+Limail,2025-07-07 02:36,Ras Laffan,2025-07-01 03:37,Singapore,Dhamra,2025-07-14 01:08,Loaded,QatarEnergy
+Al Kharrarah,2025-07-06 02:39,Plaquemines,2025-07-02 10:18,PipeChina Tianjin,Incheon,2025-08-16 00:59,Loaded,QatarEnergy
+Doha,2025-07-06 01:31,Ras Laffan,2025-07-04 06:19,Zeebrugge,Kawagoe,2025-07-29 01:38,Loaded,QatarEnergy
+Cool Explorer,2025-07-03 14:13,Freeport,2025-06-26 00:39,Dunkerque,Barcarena,2025-07-13 15:18,Loaded,TotalEnergies
+Flex Ranger,2025-07-03 04:37,Freeport,2025-05-29 03:59,China,Rayong MTP,2025-07-18 02:37,Loaded,Cheniere
+Energy Universe,2025-06-29 00:43,Cove Point,2025-06-19 21:20,EemsEnergyTerminal,Wilhelmshaven GasPort,2025-06-30 01:57,Loaded,Tokyo Gas
+Celsius Giza,2025-06-28 19:17,Freeport,2025-06-15 08:01,Montoir,Gate,2025-07-14 21:40,Loaded,Gunvor
+Gaslog Geneva,2025-06-27 13:39,Sabine Pass,2025-06-16 14:00,Ain Sukhna 2,Toscana,2025-07-02 06:00,Loaded,Shell
+Flex Endeavour,2025-06-27 06:29,Freeport,2025-06-16 19:38,Montoir,EemsEnergyTerminal,2025-07-08 20:17,Loaded,Cheniere
+Maran Gas Ithaca,2025-06-26 17:57,Calcasieu Pass,2025-06-25 14:01,Toscana,Port Açu,2025-07-11 14:00,Loaded,BP
+LNG Endeavour,2025-06-26 07:46,Freeport,2025-05-18 12:00,China,Ohgishima,2025-07-03 00:59,Loaded,TotalEnergies
+Al Shelila,2025-06-25 15:28,Sabine Pass,2025-06-17 21:59,Egypt,Moheshkhali,2025-07-29 06:32,Loaded,ADNOC
+Arctic Voyager,2025-06-25 12:00,Snohvit,2025-04-18 16:50,Aqaba,Cartagena (ESP),2025-07-02 05:58,Loaded,Equinor
+BW Pavilion Vanda,2025-06-25 01:23,Peru LNG,2025-06-17 19:13,PipeChina Tianjin,Tongyeong,2025-07-14 01:17,Loaded,TotalEnergies
+Maran Gas Spetses,2025-06-24 12:48,Plaquemines,2025-06-22 14:19,Netherlands,Revithoussa,2025-07-14 05:40,Loaded,SEFE M&T
+Kool Blizzard,2025-06-23 11:37,Bintulu,2025-06-23 10:37,Japan,Nong Fab,2025-06-28 23:39,Loaded,Petronas
+Pearl LNG,2025-06-20 07:19,Elba Island Liq.,2025-06-11 21:19,Grain,Delimara,2025-06-26 04:59,Loaded,KOGAS International
+Gaslog Seattle,2025-06-19 06:29,Plaquemines,2025-06-06 06:00,Wilhelmshaven,EemsEnergyTerminal,2025-06-25 22:22,Loaded,TotalEnergies
+Marvel Pelican,2025-06-18 21:41,Cameron (Liqu.),2025-05-27 17:20,Himeji,Rayong MTP,2025-07-18 00:00,Loaded,Mitsui
+Kun Lun,2025-06-17 00:32,Corpus Christi,2025-06-15 06:40,Gibraltar,Moheshkhali,2025-07-17 14:57,Loaded,PetroChina
+Gaslog Genoa,2025-06-13 19:30,Calcasieu Pass,2025-06-11 16:06,Port Said,Acajutla LNG Terminal,2025-07-12 15:01,Loaded,Shell
+Gaslog Gladstone,2025-06-10 16:02,Sabine Pass,2025-06-06 12:37,Ain Sukhna 2,Quintero,2025-07-04 04:37,Loaded,Shell
+LNG Borno,2025-06-10 09:39,Bonny LNG,2025-06-08 08:21,Bangladesh,Kochi,2025-07-06 08:00,Loaded,NLNG
+Gail Urja,2025-06-05 07:52,Cove Point,2025-05-22 11:01,Dahej,Gate,2025-06-28 20:37,Loaded,GAIL
+Kool Blizzard,2025-06-03 13:03,Bintulu,2025-05-28 00:35,Boryeong,Soma,2025-06-11 23:59,Loaded,Petronas
+Maran Gas Andros,2025-06-03 00:59,Sabine Pass,2025-04-30 20:47,Japan,Boryeong,2025-06-15 00:57,Loaded,JERA
+Marvel Falcon,2025-06-02 07:47,Cameron (Liqu.),2025-04-27 19:29,China,Sodegaura,2025-06-08 01:59,Loaded,Mitsui
+Kool Orca,2025-05-31 10:36,Sabine Pass,2025-05-25 19:59,Ravenna,Klaipeda,2025-06-14 04:37,Loaded,Shell
+Milaha Ras Laffan,2025-05-30 13:20,Ras Laffan,2025-05-30 12:59,Dahej,Rudong,2025-06-16 08:22,Loaded,QatarEnergy
+Pacific Notus,2025-05-30 07:47,Wheatstone,2025-05-24 05:40,Yung An,Futtsu,2025-06-06 01:58,Loaded,JERA
+Pan Americas,2025-05-29 19:47,Atlantic LNG,2025-05-17 18:38,Quintero,Mundra,2025-06-20 02:38,Loaded,Shell
+Energy Atlantic,2025-05-29 01:17,Qalhat,2025-05-25 11:17,PipeChina Tianjin,Incheon,2025-06-16 06:37,Loaded,Alpha Tankers
+British Partner,2025-05-28 13:39,Calcasieu Pass,2025-05-27 02:39,Bilbao,Cartagena (COL),2025-06-04 12:17,Loaded,BP
+Methane Becki Anne,2025-05-24 06:28,Corpus Christi,2025-05-19 03:59,Zeebrugge,EemsEnergyTerminal,2025-06-07 08:17,Loaded,Shell
+Murex,2025-05-23 18:34,Sabine Pass,2025-05-23 04:40,Rotterdam,Incheon,2025-07-04 01:19,Loaded,Shell
+Puteri Saadong,2025-05-23 01:59,Calcasieu Pass,2025-05-12 18:33,Gate,Huelva,2025-06-03 08:00,Loaded,Mercuria
+Rex Tillerson,2025-05-22 13:27,Plaquemines,2025-05-03 21:50,Hazira,Bahrain LNG,2025-06-05 20:16,Loaded,QatarEnergy
+Al Ghashamiya,2025-05-20 20:44,Ras Laffan,2025-05-04 19:46,China,Tongyeong,2025-05-23 12:41,Loaded,QatarEnergy
+Marvel Hawk,2025-05-19 12:36,Freeport,2025-05-13 16:00,Gate,Fos Cavaou,2025-06-08 03:59,Loaded,Mitsui
+Seri Daya,2025-05-18 16:40,Plaquemines,2025-05-16 18:02,Zeebrugge,Piombino LNG,2025-06-04 21:39,Loaded,ExxonMobil
+Palu LNG,2025-05-17 03:00,Freeport,2025-05-16 22:17,Montoir,Mukran,2025-06-07 14:35,Loaded,Vitol
+Orion Bohemia,2025-05-14 07:53,Peru LNG,2025-05-12 20:29,Spain,Samcheok,2025-06-12 05:59,Loaded,Shell
+Venture Bayou,2025-05-14 06:28,Calcasieu Pass,2025-05-04 21:27,France,EemsEnergyTerminal,2025-05-21 04:00,Loaded,Venture Global LNG
+Flex Artemis,2025-05-13 15:10,Sabine Pass,2025-04-22 15:47,Chittagong,Ulsan LNG,2025-06-19 01:20,Loaded,RWE
+Kool Ice,2025-05-12 10:27,Atlantic LNG,2025-04-19 13:27,Escobar,Port Açu,2025-05-18 10:01,Loaded,Gunvor
+Aristos I,2025-05-12 02:13,Ras Laffan,2025-05-10 06:27,Hazira,Kawagoe,2025-05-28 13:40,Loaded,BP
+LNG Port-Harcourt Ii,2025-05-10 15:47,Soyo,2025-05-06 13:07,Europe,Summit LNG,2025-06-18 20:55,Loaded,NLNG
+Puteri Sejinjang,2025-05-10 14:09,Bintulu,2025-04-26 00:20,Caofeidian,Yung An,2025-05-12 00:08,Loaded,Petronas
+Seapeak Glasgow,2025-05-09 17:27,Freeport,2025-05-03 16:47,PipeChina Tianjin,Gate,2025-05-24 20:38,Loaded,BP
+British Listener,2025-05-06 10:37,Sabine Pass,2025-04-26 10:49,Escobar,Cartagena (COL),2025-05-19 12:20,Loaded,BP
+Asklipios,2025-05-05 02:28,Sabine Pass,2025-04-23 17:49,France,Swinoujscie LNG,2025-05-19 17:21,Loaded,Cheniere
+Apostolos,2025-05-04 02:29,Freeport,2025-04-23 01:47,Japan,Boryeong,2025-06-05 00:39,Loaded,JERA
+LNG Sokoto,2025-05-02 06:29,Bonny LNG,2025-05-02 04:09,Barcelona,Dahej,2025-05-29 23:56,Loaded,NLNG
+British Contributor,2025-04-29 21:29,Sabine Pass,2025-04-14 21:47,Brunsbuttel Port,Barcelona,2025-05-13 10:00,Loaded,BP
+Santander Knutsen,2025-04-29 17:49,Idku,2025-04-20 23:47,Incheon,Yung An,2025-05-26 23:59,Loaded,Shell
+La Mancha Knutsen,2025-04-29 00:00,Corpus Christi,2025-04-21 09:07,EemsEnergyTerminal,Wilhelmshaven GasPort,2025-05-10 09:46,Loaded,Naturgy
+Maran Gas Spetses,2025-04-28 07:48,Plaquemines,2025-04-14 13:49,Dunkerque,Aqaba,2025-05-23 00:00,Loaded,SEFE M&T
+New Nature,2025-04-25 10:00,Sabine Pass,2025-04-16 11:07,Dragon,Jebel Ali,2025-05-23 01:21,Loaded,Shell
+New Green,2025-04-21 16:28,Sabine Pass,2025-04-13 22:29,North West Europe Zone,Ain Sukhna 2,2025-05-08 13:22,Loaded,Shell
+Vivit Americas LNG,2025-04-17 16:09,Cove Point,2025-04-05 11:28,PipeChina Tianjin,Sodegaura,2025-05-18 06:17,Loaded,KEPCO JP
+Seri Anggun,2025-04-16 20:04,GLNG,2025-04-11 07:49,Pengerang,Caofeidian,2025-04-25 02:09,Loaded,MISC
+Shinshu Maru,2025-04-16 19:29,Freeport,2025-04-11 05:07,Futtsu,Nong Fab,2025-05-16 23:37,Loaded,JERA
+Energy Innovator,2025-04-16 16:19,Freeport,2025-04-07 12:27,Dunkerque,Boryeong,2025-05-22 02:11,Loaded,RWE
+Orion Spirit,2025-04-13 21:09,Plaquemines,2025-04-10 11:05,Dunkerque,Summit LNG,2025-05-15 05:10,Loaded,TotalEnergies
+Gaslog Houston,2025-04-12 20:37,QCLNG,2025-04-05 04:27,Ningbo,SLNG,2025-04-16 01:09,Loaded,Shell
+Gaslog Westminster,2025-04-12 00:49,Sabine Pass,2025-04-12 00:27,United Kingdom,Dunkerque,2025-04-28 17:07,Loaded,Centrica Plc
+Seri Daya,2025-04-10 22:04,Sabine Pass,2025-04-09 14:28,Dunkerque,Barcarena,2025-04-19 16:47,Loaded,ExxonMobil
+Maran Gas Nice,2025-04-09 07:12,Cameron (Liqu.),2025-04-05 18:08,Fos Cavaou,Klaipeda,2025-04-20 14:26,Loaded,TotalEnergies
+Celsius Glarus,2025-04-08 11:08,Corpus Christi,2025-04-02 08:09,Brunsbüttel FSRU,Cartagena (COL),2025-04-15 11:29,Loaded,Gunvor
+Flex Courageous,2025-04-08 01:08,Coral South FLNG,2025-03-15 13:30,Gaolan,SLNG,2025-04-14 00:29,Loaded,BP
+Clean Resolution,2025-04-07 17:29,Corpus Christi,2025-04-07 17:27,Gate,Incheon,2025-05-23 00:17,Loaded,Cheniere
+Flex Constellation,2025-04-07 12:47,NFE Altamira,2025-04-01 02:47,Europe,Chhara,2025-05-04 02:37,Loaded,Flex LNG Limited
+Celsius Granada,2025-04-04 17:09,Freeport,2025-03-25 03:09,Italy,Port Açu,2025-04-12 17:47,Loaded,BP
+BW Enn Snow Lotus,2025-04-04 00:00,Sabine Pass,2025-03-27 13:47,Barcelona,Sines,2025-04-12 06:26,Loaded,ENN
+Paris Knutsen,2025-04-03 15:37,Peru LNG,2025-03-29 21:48,Ulsan LNG,Gate,2025-05-03 05:10,Loaded,Shell
+Seapeak Marib,2025-04-02 15:40,Plaquemines,2025-03-29 23:47,Montoir,Zeebrugge,2025-04-11 02:47,Loaded,TotalEnergies
+SK Audace,2025-04-02 07:45,Freeport,2025-03-16 02:09,Ain Sukhna 2,Ereglisi,2025-04-05 13:26,Loaded,TotalEnergies
+Hellas Diana,2025-04-02 06:28,Freeport,2025-03-23 10:49,Montoir,EemsEnergyTerminal,2025-04-07 06:45,Loaded,Trafigura
+Palu LNG,2025-03-30 13:17,Calcasieu Pass,2025-03-26 02:47,Eemshaven,Barcelona,2025-04-13 00:29,Loaded,Vitol
+LNG Endeavour,2025-03-29 19:33,Freeport,2025-03-27 20:48,Zeebrugge,Mejillones,2025-04-18 20:11,Loaded,TotalEnergies
+Seri Bijaksana,2025-03-28 10:09,Bintulu,2025-03-24 03:08,Japan,Yangshan,2025-04-15 05:48,Loaded,Petronas
+Alicante Knutsen,2025-03-26 04:29,Peru LNG,2025-03-23 12:46,Boryeong,Caofeidian,2025-04-20 02:48,Loaded,Shell
+Orion Sea,2025-03-25 20:56,Freeport,2025-03-14 13:47,Montoir,Barcelona,2025-03-31 01:48,Loaded,Trafigura
+Diamond Gas Crystal,2025-03-25 03:46,Snohvit,2025-03-17 05:09,Klaipeda,Sagunto,2025-04-03 05:09,Loaded,Mitsubishi
+Gaslog Warsaw,2025-03-24 21:43,Calcasieu Pass,2025-03-15 20:41,Wilhelmshaven,Cartagena (ESP),2025-03-28 10:45,Loaded,Endesa
+Cool Discoverer,2025-03-23 17:10,Corpus Christi,2025-03-14 12:28,Sines,Cartagena (ESP),2025-03-27 03:49,Loaded,EDP
+Flex Artemis,2025-03-21 17:28,Calcasieu Pass,2025-03-05 16:48,Fos Cavaou,Ravenna FSRU,2025-03-27 18:26,Loaded,Gunvor
+Isabella,2025-03-20 12:49,Sabine Pass,2025-03-09 16:07,EemsEnergyTerminal,Klaipeda,2025-03-24 08:27,Loaded,Equinor
+LNG Rosenrot,2025-03-19 06:49,Freeport,2025-03-13 00:07,Sagunto,Grain,2025-03-27 08:29,Loaded,Uniper
+Al Ghuwairiya,2025-03-18 18:29,Ras Laffan,2025-03-10 11:47,Milford Haven,Caofeidian,2025-04-06 01:26,Loaded,QatarEnergy
+Minerva Limnos,2025-03-15 13:21,Sabine Pass,2025-03-11 19:07,Montoir,Khor Fakkan Anchorage,2025-04-13 06:23,Loaded,TotalEnergies
+Energy Glory,2025-03-14 05:08,Freeport,2025-03-01 18:51,Gate,Mugardos,2025-03-16 05:10,Loaded,Tokyo Gas
+BW Pavilion Aranthera,2025-03-12 14:09,Cameron (Liqu.),2025-03-03 18:27,Barcelona,Gate,2025-03-17 08:28,Loaded,Pavilion Gas
+LNG Kolt,2025-03-11 07:49,Sabine Pass,2025-02-20 16:08,Pyeong Taek,Nong Fab,2025-03-30 05:47,Loaded,KOGAS
+Gaslog Hong Kong,2025-03-11 07:47,Sabine Pass,2025-02-27 21:49,Dragon,Revithoussa,2025-03-20 06:47,Loaded,TotalEnergies
+Pacific Success,2025-03-10 14:39,Cameron (Liqu.),2025-03-05 14:47,Fos,Dragon,2025-03-17 18:07,Loaded,TotalEnergies
+Energy Innovator,2025-03-07 14:25,Sabine Pass,2025-02-27 22:28,Gate,Barcelona,2025-03-14 02:09,Loaded,RWE
+Energy Confidence,2025-03-07 03:09,Gorgon,2025-02-24 10:49,Negishi,Taichung,2025-03-12 23:47,Loaded,Tokyo Gas
+Ejnan,2025-03-06 03:09,Ras Laffan,2025-03-03 22:31,Zeebrugge,Mundra,2025-04-10 02:07,Loaded,QatarEnergy
+BW Clear Sky,2025-03-05 14:27,Bonny LNG,2025-03-03 14:09,Europe,Joetsu Chubu,2025-04-06 00:28,Loaded,TotalEnergies
+Umm Ghuwailina,2025-03-05 00:28,Sabine Pass,2025-02-23 20:07,Zeebrugge,Etki,2025-03-20 04:47,Loaded,QatarEnergy
+Maran Gas Nice,2025-03-04 14:27,Freeport,2025-02-09 23:09,Ain Sukhna 2,Revithoussa,2025-03-05 06:48,Loaded,TotalEnergies
+Gaslog Winchester,2025-03-02 21:13,Corpus Christi,2025-02-25 04:28,Swinoujscie LNG,Dortyol FSRU,2025-03-17 04:09,Loaded,Cheniere
+Maran Gas Delphi,2025-02-27 11:29,QCLNG,2025-02-15 17:47,Ningbo,Rayong MTP,2025-03-01 23:47,Loaded,Shell
+Seapeak Magellan,2025-02-26 15:09,Sabine Pass,2025-02-20 00:08,Revithoussa,Summit LNG,2025-04-01 06:07,Loaded,TotalEnergies
+Ribera Del Duero Knutsen,2025-02-26 14:40,Corpus Christi,2025-02-16 17:27,Grain,Dortyol FSRU,2025-03-06 05:09,Loaded,Naturgy
+Gaslog Houston,2025-02-26 13:09,Peru LNG,2025-02-23 18:43,China,Tongyeong,2025-03-20 00:28,Loaded,Shell
+Kool Frost,2025-02-21 21:17,Bintulu,2025-02-11 03:27,Qingdao,Boryeong,2025-02-24 04:36,Loaded,CNOOC
+Saint Barbara,2025-02-21 16:48,Qalhat,2025-02-11 09:04,Europe,Samcheok,2025-03-15 09:55,Loaded,PKN Orlen
+SM Kestrel,2025-02-21 08:49,Sabine Pass,2025-02-21 09:09,Klaipeda,Krk LNG FSRU,2025-03-09 13:27,Loaded,Shell
+Umm Slal,2025-02-20 14:18,Ras Laffan,2025-02-15 00:08,Milford Haven,Al Zour,2025-02-28 22:22,Loaded,QatarEnergy
+Kool Baltic,2025-02-19 15:43,Peru LNG,2025-01-26 17:19,South Korea,Senboku,2025-02-20 23:27,Loaded,Shell
+Kool Tiger,2025-02-18 14:13,Freeport,2025-02-05 19:30,Southern Europe,Grain,2025-02-25 08:05,Loaded,Trafigura
+SK Resolute,2025-02-18 01:49,Cameron (Liqu.),2025-01-31 00:15,Turkey,Revithoussa,2025-02-18 10:07,Loaded,TotalEnergies
+Prism Agility,2025-02-15 09:29,Freeport,2025-01-31 23:28,Mukran,Zeebrugge,2025-02-24 19:06,Loaded,SK
+Gaslog Westminster,2025-02-14 07:56,Sabine Pass,2025-02-10 16:08,United Kingdom,Aliaga,2025-02-28 05:09,Loaded,Centrica Plc
+Al Rekayyat,2025-02-14 07:46,Ras Laffan,2025-01-31 19:09,Caofeidian,Futtsu,2025-02-21 00:06,Loaded,QatarEnergy
+Patris,2025-02-14 03:46,Coral South FLNG,2025-02-13 14:41,Dahej,Moheshkhali,2025-03-11 02:27,Loaded,BP
+BW Pavilion Vanda,2025-02-12 11:27,Sabine Pass,2025-02-05 21:48,Germany,Dortyol FSRU,2025-02-23 04:29,Loaded,TotalEnergies
+La Mancha Knutsen,2025-02-11 15:38,Calcasieu Pass,2025-02-06 15:45,Brunsbüttel FSRU,South Hook,2025-02-18 13:26,Loaded,EnBW Energie Baden-Württemberg AG
+Greenergy Pearl,2025-02-11 03:21,Qalhat,2025-02-03 00:00,Fos Cavaou,Futtsu,2025-03-11 01:46,Loaded,CNOOC
+Maran Gas Antibes,2025-02-11 00:49,Freeport,2025-01-30 15:47,Ain Sukhna 2,Ereglisi,2025-02-15 22:47,Loaded,TotalEnergies
+Gaslog Savannah,2025-02-09 16:49,Calcasieu Pass,2025-01-23 20:28,Greece,Ereglisi,2025-02-10 21:06,Loaded,Venture Global LNG
+SK Audace,2025-02-09 07:49,Bioko,2025-02-08 12:29,Port Said,Toscana,2025-02-22 08:04,Loaded,TotalEnergies
+Clean Copano,2025-02-08 00:09,Corpus Christi,2025-02-08 00:29,Rayong,South Hook,2025-02-25 07:27,Loaded,ExxonMobil
+Seri Amanah,2025-02-06 13:29,Bintulu,2025-01-28 04:40,Nagoya,Pyeong Taek,2025-02-12 08:05,Loaded,Petronas
+Rias Baixas Knutsen,2025-02-06 13:29,Cameron (Liqu.),2025-01-26 03:09,Gate,Brunsbüttel FSRU,2025-02-12 14:06,Loaded,Pavilion Gas
+Clean Vitality,2025-02-05 06:27,Corpus Christi,2025-01-31 05:49,Netherlands,Etki,2025-02-19 05:29,Loaded,Cheniere
+Diamond Gas Metropolis,2025-02-05 03:29,Plaquemines,2025-01-30 15:47,Brunsbüttel FSRU,Piombino LNG,2025-02-14 22:45,Loaded,EnBW Energie Baden-Württemberg AG
+Wudang,2025-02-04 17:36,Calcasieu Pass,2025-01-08 00:45,China,Summit LNG,2025-02-07 05:45,Loaded,PetroChina
+Pacific Success,2025-02-04 09:10,Freeport,2025-01-19 03:46,Aliaga,Aqaba,2025-02-08 09:47,Loaded,TotalEnergies
+Energy Innovator,2025-02-04 07:29,Freeport,2025-01-17 14:27,Huelva,Gate,2025-02-10 14:00,Loaded,RWE
+Adriano Knutsen,2025-02-03 06:29,Corpus Christi,2025-01-21 18:47,Gijon,Toscana,2025-02-07 08:29,Loaded,Endesa
+British Contributor,2025-01-31 12:09,Atlantic LNG,2025-01-25 19:08,Krk LNG FSRU,Saros FSRU,2025-02-12 17:07,Loaded,BP
+Umm Ghuwailina,2025-01-31 04:09,Plaquemines,2025-01-23 19:06,Montoir,Gate,2025-02-05 07:07,Loaded,QatarEnergy
+Puteri Ledang,2025-01-31 00:00,Bonny LNG,2025-01-19 00:07,Fos Cavaou,Aliaga,2025-02-06 06:07,Loaded,Petronas
+Puteri Saadong,2025-01-30 18:09,Sabine Pass,2025-01-18 12:30,Livorno,El Musel,2025-02-06 08:49,Loaded,Mercuria
+Maran Gas Hector,2025-01-30 00:00,Sabine Pass,2025-01-20 15:47,Dragon,Dunkerque,2025-02-05 06:28,Loaded,Shell
+Asterix I,2025-01-29 01:09,Bioko,2025-01-28 11:07,South Hook,Ain Sukhna 2,2025-02-20 07:43,Loaded,Glencore
+BW Lilac,2025-01-28 20:09,Plaquemines,2025-01-26 14:00,Gate,South Hook,2025-02-08 20:26,Loaded,Glencore
+LNG Juno,2025-01-28 15:20,Freeport,2025-01-20 10:29,Osaka,Revithoussa,2025-02-12 06:09,Loaded,Osaka Gas
+Extremadura Knutsen,2025-01-26 15:49,Sabine Pass,2025-01-26 16:27,Gate,Aliaga,2025-02-12 10:07,Loaded,Shell
+Santander Knutsen,2025-01-25 19:29,Sabine Pass,2025-01-25 20:09,Rotterdam,Toscana,2025-02-15 07:48,Loaded,Shell
+British Mentor,2025-01-25 16:09,Freeport,2025-01-15 21:15,Aliaga,South Hook,2025-02-03 01:29,Loaded,BP
+Celsius Giza,2025-01-25 08:09,Sabine Pass,2025-01-17 21:07,Klaipeda,Ereglisi,2025-02-03 19:05,Loaded,ENN
+LNG Adventure,2025-01-23 12:29,Corpus Christi,2025-01-08 16:27,Ain Sukhna 2,Aliaga,2025-01-29 05:29,Loaded,TotalEnergies
+Flex Constellation,2025-01-21 10:45,Corpus Christi,2025-01-11 14:35,Japan,Dunkerque,2025-02-13 14:47,Loaded,JERA
+Gaslog Sydney,2025-01-20 10:29,Bintulu,2025-01-18 00:00,Gwangyang,PipeChina Beihai,2025-01-27 03:49,Loaded,Petronas
+Al Sheehaniya,2025-01-19 13:29,Ras Laffan,2025-01-11 06:46,Shenzhen Gas,Incheon,2025-01-31 05:27,Loaded,QatarEnergy
+Gaslog Hong Kong,2025-01-18 01:42,Calcasieu Pass,2025-01-04 09:00,Fos Cavaou,Ain Sukhna 2,2025-01-30 11:07,Loaded,TotalEnergies
+LNG River Niger,2025-01-16 16:12,Bonny LNG,2024-12-31 21:49,Hazira,Incheon,2025-02-09 07:17,Loaded,NLNG
+Asia Endeavour,2025-01-16 04:45,Wheatstone,2025-01-08 23:27,Taiwan,Ishikari,2025-01-21 01:07,Loaded,Chevron
+Celsius Canberra,2025-01-16 00:00,Ras Laffan,2024-12-23 12:30,Zeebrugge,South Hook,2025-01-25 11:10,Loaded,QatarEnergy
+Al Khattiya,2025-01-15 18:49,Ras Laffan,2025-01-16 05:47,Port Qasim FSRU,Al Zour,2025-01-18 05:18,Loaded,QatarEnergy
+Aristidis I,2025-01-15 15:29,Sabine Pass,2025-01-06 15:00,Milford Haven,Rovigo,2025-01-26 08:48,Loaded,BP
+Orion Sinead,2025-01-14 17:19,Peru LNG,2024-12-20 11:37,PipeChina Tianjin,Tongyeong,2025-01-16 01:29,Loaded,Shell
+Gaslog Georgetown,2025-01-14 15:18,Sabine Pass,2025-01-01 19:09,China,Ereglisi,2025-01-27 20:04,Loaded,Cheniere
+LNG Enugu,2025-01-14 11:29,Bonny LNG,2024-12-29 01:00,PipeChina Tianjin,Ulsan LNG,2025-02-02 01:49,Loaded,NLNG
+SM Kestrel,2025-01-14 00:00,Sabine Pass,2025-01-10 19:47,Milford Haven,EemsEnergyTerminal,2025-01-31 00:06,Loaded,Shell
+Al Dafna,2025-01-13 21:49,Ras Laffan,2025-01-13 21:29,Caofeidian,Rayong MTP,2025-01-28 23:49,Loaded,QatarEnergy
+LNGShips Athena,2025-01-13 20:47,Calcasieu Pass,2025-01-06 20:31,Wilhelmshaven GasPort,South Hook,2025-01-29 10:46,Loaded,EnBW Energie Baden-Württemberg AG
+LNG River Orashi,2025-01-13 16:49,Bonny LNG,2025-01-08 00:47,Japan,Hong Kong LNG Terminal,2025-02-20 05:06,Loaded,NLNG
+Gaslog Galveston,2025-01-12 18:29,Sabine Pass,2025-01-09 00:00,Gate,Swinoujscie LNG,2025-01-26 07:49,Loaded,Cheniere
+Diamond Gas Crystal,2025-01-12 13:35,Cameron (Liqu.),2025-01-03 09:06,Sodegaura,Gate,2025-01-26 07:49,Loaded,Mitsubishi
+Hellas Athina,2025-01-11 14:14,Freeport,2025-01-03 18:45,Montoir,Barcelona,2025-01-18 02:49,Loaded,Trafigura
+Flex Vigilant,2025-01-11 03:46,Freeport,2025-01-05 05:07,Rayong,Fos Cavaou,2025-01-24 07:10,Loaded,CNOOC
+Maran Gas Efessos,2025-01-10 16:44,Qalhat,2024-12-26 04:30,Rudong,Incheon,2025-01-14 14:30,Loaded,Shell
+Maran Gas Sparta,2025-01-10 13:35,Sabine Pass,2024-12-25 09:15,Singapore,Fos Cavaou,2025-01-31 09:47,Loaded,Glencore
+Seri Cenderawasih,2025-01-09 06:30,PFLNG 1 Sabah,2025-01-04 13:57,PipeChina Tianjin,Futtsu,2025-01-17 00:29,Loaded,Petronas
+Grace Dahlia,2025-01-08 09:43,Calcasieu Pass,2024-12-25 20:17,PipeChina Tianjin,Saros FSRU,2025-01-23 13:57,Loaded,Glencore
+Bushu Maru,2025-01-08 02:14,Freeport,2024-12-31 14:47,Futtsu,Dunkerque,2025-01-23 08:45,Loaded,JERA
+BW Pavilion Vanda,2025-01-07 09:13,Cameron (Liqu.),2025-01-06 15:00,South Korea,Montoir,2025-01-19 17:29,Loaded,TotalEnergies
+Clean Cajun,2025-01-07 03:49,Corpus Christi,2024-12-31 14:30,Netherlands,Dortyol FSRU,2025-01-20 05:29,Loaded,Cheniere
+Celsius Geneva,2025-01-07 02:48,Sabine Pass,2024-12-30 05:29,Cartagena (COL),Aliaga,2025-01-25 05:45,Loaded,BP
+Hua Shan,2025-01-06 07:49,Sabine Pass,2024-12-14 07:49,Futtsu,Summit LNG,2025-01-16 05:45,Loaded,PetroChina
+Seri Camar,2025-01-04 00:00,PFLNG 2,2025-01-02 03:07,Futtsu,PipeChina Tianjin,2025-01-12 02:29,Loaded,Petronas
+Maran Gas Agamemnon,2025-01-03 22:48,QCLNG,2024-12-26 14:49,Ningbo,Pyeong Taek,2025-01-08 00:56,Loaded,Shell
+Qogir,2025-01-01 14:09,Cameron (Liqu.),2024-12-20 02:12,France,Revithoussa,2025-01-04 08:29,Loaded,TotalEnergies
+Prism Brilliance,2025-01-01 14:00,Freeport,2024-12-28 16:29,Milford Haven,Cartagena (ESP),2025-01-15 08:22,Loaded,SK
+BW Cassia,2024-12-28 10:49,Freeport,2024-12-25 18:47,Krk LNG FSRU,Dortyol FSRU,2025-01-14 05:26,Loaded,Mitsui
+Gaslog Gibraltar,2024-12-27 20:47,Sabine Pass,2024-12-20 04:30,South Coast Egypt,Dragon,2025-01-04 19:08,Loaded,Shell
+Myrina,2024-12-27 12:56,Sabine Pass,2024-12-26 06:15,Quintero,Ain Sukhna 2,2025-01-17 00:00,Loaded,Shell
+Kool Baltic,2024-12-27 12:15,Sabine Pass,2024-12-20 21:45,Dragon,Quintero,2025-01-18 11:47,Loaded,Shell
+Gaslog Windsor,2024-12-26 23:49,Sabine Pass,2024-12-24 15:47,Aliaga,Grain,2025-01-08 04:10,Loaded,Centrica Plc
+BW Clear Sky,2024-12-26 23:09,Cameron (Liqu.),2024-12-01 09:10,Taiwan,Arun,2025-01-05 12:00,Loaded,TotalEnergies
+Fuji LNG,2024-12-26 20:09,Bintulu,2024-12-25 17:20,Haikou,Hig. Ohgishima,2025-01-03 01:06,Loaded,Petronas
+British Contributor,2024-12-25 05:49,Freeport,2024-12-22 20:47,Rio,Grain,2025-01-10 05:47,Loaded,BP
+Id'Asah,2024-12-24 18:29,Ras Laffan,2024-12-15 20:44,Zeebrugge,Piombino LNG,2025-01-13 22:28,Loaded,QatarEnergy
+Al Thakhira,2024-12-24 06:52,Ras Laffan,2024-12-21 07:29,Zeebrugge,Dahej,2024-12-29 21:07,Loaded,QatarEnergy
+Cadiz Knutsen,2024-12-22 14:49,Sabine Pass,2024-12-13 02:30,Isle of Grain,Barcelona,2025-01-01 03:15,Loaded,Naturgy
+Corcovado LNG,2024-12-21 17:10,Ichthys,2024-12-14 06:07,Ningbo,Senboku,2024-12-25 02:06,Loaded,Cardiff Marine
+Kumul,2024-12-21 05:53,PNG LNG,2024-12-15 02:10,Hong Kong LNG Terminal,Yung An,2024-12-24 03:00,Loaded,PNG LNG
+Tenergy,2024-12-20 14:48,Freeport,2024-12-13 13:47,Montoir,Sagunto,2024-12-26 18:46,Loaded,Trafigura
+Cool Runner,2024-12-20 09:07,Sabine Pass,2024-12-18 09:48,Gate,Klaipeda,2025-01-05 08:30,Loaded,Glencore
+Prism Courage,2024-12-19 17:30,Freeport,2024-12-18 03:50,Incheon,Huelva,2025-01-03 03:28,Loaded,RWE
+Seri Alam,2024-12-19 07:46,Bintulu,2024-12-16 00:00,Tongyeong,Chita,2024-12-24 01:29,Loaded,Petronas
+Milaha Qatar,2024-12-18 23:00,Ras Laffan,2024-12-17 00:08,Zeebrugge,Dhamra,2024-12-28 02:43,Loaded,QatarEnergy
+Point Fortin,2024-12-18 14:29,Corpus Christi,2024-12-09 18:06,Fos Cavaou,Ereglisi,2025-01-02 18:47,Loaded,TotalEnergies
+Global Star,2024-12-18 13:29,Sabine Pass,2024-12-04 19:15,Toscana,Krk LNG FSRU,2025-01-03 13:09,Loaded,Sinochem
+Maran Gas Asclepius,2024-12-16 12:43,Ras Laffan,2024-12-15 02:25,GasPort LNG,Moheshkhali,2024-12-27 07:49,Loaded,QatarEnergy
+Seapeak Arwa,2024-12-13 11:47,Freeport,2024-12-06 02:46,Alexandroupolis,Summit LNG,2025-01-11 02:07,Loaded,TotalEnergies
+Bishu Maru,2024-12-12 07:46,Wheatstone,2024-12-03 00:11,Caofeidian,Futtsu,2024-12-19 00:27,Loaded,JERA
+BW Pavilion Vanda,2024-12-10 17:07,Cove Point,2024-12-08 11:07,Europe,Barcarena,2024-12-26 10:25,Loaded,TotalEnergies
+Diamond Gas Rose,2024-12-10 05:06,Cameron (Liqu.),2024-11-22 21:08,Dunkerque,Kawagoe,2025-01-11 02:48,Loaded,JERA
+Maran Gas Marseille,2024-12-09 19:27,Calcasieu Pass,2024-11-22 03:09,Aqaba,Alexandroupolis,2024-12-21 16:07,Loaded,TotalEnergies
+New Brave,2024-12-07 07:47,QCLNG,2024-11-30 05:08,Ningbo,Chita,2024-12-14 02:04,Loaded,Shell
+Gordon Waters Knutsen,2024-12-07 06:09,Freeport,2024-11-30 19:49,Sagunto,Ain Sukhna 2,2024-12-23 11:57,Loaded,RWE
+Celsius Granada,2024-12-07 00:09,Freeport,2024-12-04 13:47,Port Açu,Krk LNG FSRU,2024-12-21 14:27,Loaded,BP
+Energy Fidelity,2024-12-06 02:06,Freeport,2024-11-07 04:25,Japan,Dahej,2024-12-19 00:09,Loaded,JERA
+Vladimir Voronin,2024-12-04 15:40,Yamal,2024-12-04 13:28,Bilbao,Zeebrugge,2024-12-11 17:45,Loaded,OAO Yamal LNG
+Gaslog Wales,2024-12-03 23:29,Calcasieu Pass,2024-11-29 13:29,South Korea,Futtsu,2025-01-23 00:28,Loaded,JERA
+Sk Stellar,2024-12-02 20:29,Ras Laffan,2024-11-30 05:25,Pudong,Tongyeong,2024-12-18 04:27,Loaded,KOGAS
+Minerva Limnos,2024-12-02 17:25,Cameron (Liqu.),2024-11-24 08:04,Fos Cavaou,Klaipeda,2024-12-11 05:27,Loaded,TotalEnergies
+Al Thakhira,2024-12-02 11:46,Ras Laffan,2024-11-28 08:36,Zeebrugge,Ennore,2024-12-11 02:07,Loaded,QatarEnergy
+Kool Crystal,2024-12-01 18:27,Cameron (Liqu.),2024-10-26 22:15,Japan,Rayong MTP,2024-12-03 23:44,Loaded,Marubeni
+SK Resolute,2024-11-30 01:09,Ras Laffan,2024-11-07 05:09,Zeebrugge,Piombino LNG,2024-12-05 00:26,Loaded,TotalEnergies
+Pearl,2024-11-29 13:49,Portovaya,2024-11-18 06:45,Egypt,Ereglisi,2024-12-02 06:41,Loaded,Gazprom
+BW Magnolia,2024-11-28 05:09,Freeport,2024-11-12 08:45,Aliaga,Toscana,2024-12-10 09:10,Loaded,BP
+Cool Rider,2024-11-28 00:00,Calcasieu Pass,2024-11-13 01:30,Bahia,South Hook,2024-12-16 17:07,Loaded,Petrobras
+LNG Kano,2024-11-23 09:29,Bonny LNG,2024-11-19 13:07,Dabhol,Pyeong Taek,2024-12-23 11:56,Loaded,NLNG
+Diamond Gas Victoria,2024-11-22 15:47,Cameron (Liqu.),2024-11-17 12:15,Krk LNG FSRU,Taichung,2025-01-01 05:00,Loaded,Mitsubishi
+SM Albatross,2024-11-22 02:06,Sabine Pass,2024-11-19 03:07,Marmara  Ereglisi,Ain Sukhna 2,2025-01-11 12:26,Loaded,Shell
+Maran Gas Posidonia,2024-11-20 11:17,Bintulu,2024-11-13 23:43,Shenzhen Gas,Rayong MTP,2024-12-10 00:05,Loaded,CNOOC
+Myrina,2024-11-19 13:39,Sabine Pass,2024-10-31 03:47,Yung An,Ereglisi,2024-12-04 20:46,Loaded,Shell
+Global Energy,2024-11-18 18:37,Sabine Pass,2024-11-14 04:08,China,Mukran,2024-12-01 12:29,Loaded,Sinochem
+Diamond Gas Crystal,2024-11-16 06:46,Sabine Pass,2024-11-08 05:00,Incheon Port,Gate,2024-12-04 22:10,Loaded,Mitsubishi
+Energy Progress,2024-11-15 13:14,NWS,2024-11-09 07:49,Ulsan LNG,Negishi,2024-11-23 02:27,Loaded,Tokyo Gas
+Vivirt City LNG,2024-11-15 11:28,Bioko,2024-11-10 10:19,Chittagong,South Hook,2024-11-30 01:45,Loaded,Vitol
+Gaslog Windsor,2024-11-15 11:25,Sabine Pass,2024-10-29 15:27,PipeChina Tianjin,Aliaga,2024-12-01 05:47,Loaded,Centrica Plc
+LNG Harmony,2024-11-14 17:41,Sabine Pass,2024-11-01 20:09,Ain Sukhna 2,Dragon,2024-11-19 21:49,Loaded,Shell
+Axios II,2024-11-14 15:26,Calcasieu Pass,2024-11-05 19:47,Ain Sukhna 2,Gate,2024-11-26 19:07,Loaded,Glencore
+Flex Vigilant,2024-11-14 15:22,Sabine Pass,2024-11-09 00:07,China,Revithoussa,2024-11-28 06:26,Loaded,Centrica Plc
+BW Lesmes,2024-11-14 15:17,Bonny LNG,2024-11-11 16:00,PipeChina Tianjin,Krk LNG FSRU,2024-12-07 01:29,Loaded,BP
+Maran Gas Kimolos,2024-11-09 09:13,Sabine Pass,2024-10-26 20:57,France,Aliaga,2024-11-14 06:07,Loaded,TotalEnergies
+Flex Artemis,2024-11-08 16:09,Freeport,2024-11-02 09:48,Asia,Etki,2024-12-01 05:29,Loaded,Gunvor
+Pacific Success,2024-11-08 15:03,Calcasieu Pass,2024-10-10 02:29,Aqaba,Revithoussa,2024-11-21 11:48,Loaded,TotalEnergies
+LNG Adventure,2024-11-06 18:36,Freeport,2024-10-28 13:08,Suez Canal,Fos Cavaou,2024-11-11 07:48,Loaded,TotalEnergies
+Pearl LNG,2024-11-06 17:19,Sabine Pass,2024-11-03 14:00,Europe,Cartagena (COL),2024-11-11 11:28,Loaded,Cardiff Gas
+Arrow Spirit,2024-11-05 13:09,Bintulu,2024-10-31 02:02,PipeChina Tianjin,Pyeong Taek,2024-11-15 16:30,Loaded,Jovo
+Hua Shan,2024-11-04 20:00,Corpus Christi,2024-09-28 20:09,China,Moheshkhali,2024-11-12 01:20,Loaded,PetroChina
+LNG Finima Ii,2024-11-03 16:49,Sabine Pass,2024-09-30 10:19,PipeChina Tianjin,Senboku,2024-11-15 23:48,Loaded,NLNG
+LNG Lagos Ii,2024-11-03 08:09,Corpus Christi,2024-10-31 09:29,Ain Sukhna 2,Moheshkhali,2024-12-04 06:09,Loaded,Gunvor
+LNG Adamawa,2024-11-03 07:09,Bonny LNG,2024-10-28 20:00,Japan,Dahej,2024-11-20 07:28,Loaded,Shell
+Methane Becki Anne,2024-11-02 06:29,Sabine Pass,2024-10-19 09:10,Incheon,Mundra,2024-11-23 03:27,Loaded,Shell
+Puteri Saadong,2024-11-02 05:09,Sabine Pass,2024-10-21 19:48,Huizhou LNG,Nong Fab,2024-12-04 00:10,Loaded,Mercuria
+Qogir,2024-11-01 15:45,Calcasieu Pass,2024-09-29 05:50,Shenzhen Gas,Summit LNG,2024-11-11 00:20,Loaded,TotalEnergies
+British Listener,2024-11-01 12:29,Freeport,2024-10-29 23:30,Port Açu,Ereglisi,2024-11-18 12:49,Loaded,BP
+Adriano Knutsen,2024-10-30 20:09,Corpus Christi,2024-10-18 03:09,PipeChina Tianjin,Oita,2024-12-02 01:08,Loaded,Endesa
+Shinshu Maru,2024-10-30 15:32,Corpus Christi,2024-10-24 19:00,Nagoya,Aliaga,2024-11-18 05:47,Loaded,JERA
+Castillo De Caldelas,2024-10-28 21:29,Corpus Christi,2024-10-16 12:45,Sines,Gate,2024-11-01 07:09,Loaded,Naturgy
+Nohshu Maru,2024-10-24 09:51,Calcasieu Pass,2024-10-23 05:49,Dunkerque,Zhoushan,2024-12-08 08:09,Loaded,JERA
+Castillo De Villalba,2024-10-23 12:41,Cove Point,2024-10-19 14:23,Sagunto,Gate,2024-11-02 10:08,Loaded,Naturgy
+Orion Sea,2024-10-22 01:16,Calcasieu Pass,2024-10-13 01:49,Wilhelmshaven GasPort,Montoir,2024-11-01 02:48,Loaded,EnBW Energie Baden-Württemberg AG
+LNGShips Manhattan,2024-10-21 09:48,Freeport,2024-10-05 02:00,Montoir,Gate,2024-10-24 23:47,Loaded,Uniper
+Lech Kaczynski,2024-10-21 09:09,Freeport,2024-10-10 04:48,Rovigo,Huelva,2024-10-21 16:29,Loaded,PKN Orlen
+Sk Stellar,2024-10-20 02:09,Ras Laffan,2024-10-16 17:08,Pudong,Tongyeong,2024-11-08 00:08,Loaded,KOGAS
+LNG Endurance,2024-10-19 02:49,Sabine Pass,2024-09-17 06:23,Dhamra,Tianjin Nangang LNG,2024-10-31 03:09,Loaded,TotalEnergies
+Sk Splendor,2024-10-18 11:49,Qalhat,2024-10-05 09:45,Ningbo Area,Pyeong Taek,2024-10-21 22:21,Loaded,KOGAS
+SM Albatross,2024-10-17 19:29,Sabine Pass,2024-10-13 17:31,EemsEnergyTerminal,Bahia,2024-10-31 12:09,Loaded,Sinopec
+Vivit Americas LNG,2024-10-16 17:09,Sabine Pass,2024-10-09 02:00,Ain Sukhna 2,Krk LNG FSRU,2024-10-29 16:09,Loaded,KEPCO JP
+LNG Cross River,2024-10-14 13:29,Bonny LNG,2024-10-10 00:00,Japan,Ulsan LNG,2024-11-11 01:28,Loaded,NLNG
+Seapeak Marib,2024-10-10 13:43,Freeport,2024-10-08 02:45,Dragon,Naoetsu INPEX,2024-11-14 23:30,Loaded,TotalEnergies
+Aamira,2024-10-09 07:09,Ras Laffan,2024-09-14 17:27,Milford Haven,Zeebrugge,2024-10-25 17:47,Loaded,QatarEnergy
+Minerva Amorgos,2024-10-08 08:27,Sabine Pass,2024-10-08 06:45,Montoir,Cartagena (COL),2024-10-16 12:27,Loaded,TotalEnergies
+BW Brussels,2024-10-07 09:57,Freeport,2024-09-27 23:30,Asia,Montoir,2024-10-15 13:08,Loaded,TotalEnergies
+LNG Endeavour,2024-10-04 17:15,Cameron (Liqu.),2024-09-14 17:34,China,Rovigo,2024-10-30 10:55,Loaded,TotalEnergies
+Marvel Dove,2024-10-04 16:58,Cameron (Liqu.),2024-10-01 21:07,Boryeong,Dunkerque,2024-10-29 00:05,Loaded,Mitsui
+Myrina,2024-10-03 17:37,Elba Island Liq.,2024-09-30 20:45,Revithoussa,Dunkerque,2024-10-10 17:10,Loaded,Shell
+LNG Abuja Ii,2024-10-03 03:49,Bonny LNG,2024-09-29 16:45,Boryeong,PipeChina Yangpu,2024-10-30 23:05,Loaded,NLNG
+Diamond Gas Rose,2024-10-03 02:29,Freeport,2024-08-20 17:31,Sodegaura,Tongyeong,2024-10-07 04:26,Loaded,JERA
+Vivit Arabia LNG,2024-10-02 17:29,Sabine Pass,2024-09-26 01:27,Chittagong,South Hook,2024-10-14 21:25,Loaded,Vitol
+Maran Gas Sparta,2024-10-01 14:04,Sabine Pass,2024-09-21 19:07,Dabhol,Zeebrugge,2024-11-06 06:28,Loaded,GAIL
+Aristidis I,2024-10-01 09:00,Freeport,2024-09-24 19:09,Suez Canal,Cartagena (COL),2024-10-07 00:17,Loaded,BP
+LNG Imo,2024-09-27 12:38,Bonny LNG,2024-09-23 02:29,Barcelona,Fos Cavaou,2024-10-05 05:50,Loaded,NLNG
+SM Bluebird,2024-09-26 07:29,Peru LNG,2024-09-21 01:09,Incheon,Yung An,2024-10-16 00:08,Loaded,Shell
+Diamond Gas Crystal,2024-09-25 08:37,Cameron (Liqu.),2024-09-19 22:23,Incheon,Swinoujscie LNG,2024-10-12 07:29,Loaded,Mitsubishi
+Hls Cartagena,2024-09-24 18:15,Cameron (Liqu.),2024-09-18 01:45,Barcelona,Dhamra,2024-10-20 11:01,Loaded,Repsol
+Gui Ying,2024-09-19 11:59,Cove Point,2024-09-18 11:47,Krk LNG FSRU,Barcarena,2024-10-04 14:27,Loaded,Gunvor
+Aristos I,2024-09-19 10:29,Freeport,2024-09-09 21:00,MED Sea,Klaipeda,2024-09-26 07:45,Loaded,BP
+Maran Gas Leto,2024-09-18 15:32,Sabine Pass,2024-09-15 08:05,Gate,Cartagena (COL),2024-09-26 12:10,Loaded,Glencore
+Valencia Knutsen,2024-09-18 06:49,Peru LNG,2024-09-02 23:55,Zhu Hai,Himeji,2024-09-27 04:25,Loaded,Shell
+Shaolin,2024-09-18 04:47,Calcasieu Pass,2024-09-16 15:22,China,Ain Sukhna 2,2024-10-09 05:07,Loaded,Glencore
+Spirit Of Hela,2024-09-15 06:25,PNG LNG,2024-09-05 22:48,Gwangyang,Futtsu,2024-09-19 03:27,Loaded,PNG LNG
+SM Albatross,2024-09-14 13:09,Sabine Pass,2024-09-03 07:29,EemsEnergyTerminal,Swinoujscie LNG,2024-09-22 07:09,Loaded,Shell
+Emei,2024-09-13 01:09,Sabine Pass,2024-08-31 13:09,Rudong,Tongyeong,2024-10-11 04:06,Loaded,PetroChina
+LNG Rosenrot,2024-09-12 14:52,Freeport,2024-09-08 05:30,Gate,Chaozhou LNG,2024-10-21 04:28,Loaded,Uniper
+Bushu Maru,2024-09-12 05:29,Cameron (Liqu.),2024-08-29 21:44,Naoetsu,Qidong,2024-10-21 06:50,Loaded,JERA
+Kita LNG,2024-09-10 16:54,Freeport,2024-09-03 17:28,Europe,Gaolan,2024-10-23 09:29,Loaded,Trafigura
+Assos,2024-09-10 10:49,Gorgon,2024-08-22 23:11,Yung An,Incheon,2024-09-13 01:08,Loaded,Tokyo Gas
+LNG Akwa Ibom,2024-09-07 14:09,Bonny LNG,2024-09-04 16:28,Barcelona,Montoir,2024-09-19 04:25,Loaded,NLNG
+Trinity Glory,2024-09-07 12:00,Tangguh,2024-08-31 02:00,Gwangyang,Futtsu,2024-09-12 00:25,Loaded,K-Line
+Yiannis,2024-09-07 11:47,Freeport,2024-08-06 01:28,Japan,Boryeong,2024-09-14 03:22,Loaded,JERA
+Gaslog Seattle,2024-09-05 23:49,Atlantic LNG,2024-08-25 12:30,Nantong Port,Joetsu Chubu,2024-10-06 00:30,Loaded,GasLog
+Sk Summit,2024-09-05 14:09,Ras Laffan,2024-08-30 21:00,Shenzhen Gas,Pyeong Taek,2024-09-19 08:05,Loaded,KOGAS
+Sk Stellar,2024-09-04 17:29,Ras Laffan,2024-09-03 17:30,Pudong,Pyeong Taek,2024-09-22 09:48,Loaded,KOGAS
+Energy Endeavour,2024-09-04 13:28,Sabine Pass,2024-09-01 15:28,Sagunto,Hazira,2024-10-05 11:44,Loaded,Shell
+Elisa Aquila,2024-09-03 18:49,Freeport,2024-09-01 23:08,Dunkerque,Sodegaura,2024-10-16 01:47,Loaded,Edison
+Paris Knutsen,2024-09-03 15:14,Peru LNG,2024-08-30 06:01,Japan,Gate,2024-10-10 23:08,Loaded,Shell
+Zarga,2024-09-02 15:49,Ras Laffan,2024-08-25 17:25,Rudong Island,Rayong MTP,2024-09-07 23:47,Loaded,QatarEnergy
+Maran Gas Apollonia,2024-09-02 08:53,Freeport,2024-08-30 08:29,Ain Sukhna 2,PipeChina Tianjin,2024-10-20 02:27,Loaded,TotalEnergies
+LNG Port-Harcourt Ii,2024-09-02 02:09,Corpus Christi,2024-08-25 07:45,China,Sagunto,2024-09-16 16:50,Loaded,Gunvor
+Global Energy,2024-08-28 17:49,Freeport,2024-08-25 17:27,Netherlands,Port Açu,2024-09-15 17:47,Loaded,BP
+Southern Cross,2024-08-26 08:29,Gorgon,2024-08-13 23:26,Gwangyang,Tianjin LNG Sinopec,2024-09-02 05:06,Loaded,ExxonMobil
+Papua,2024-08-22 11:49,PNG LNG,2024-08-18 22:09,Gwangyang,Qingdao,2024-09-03 05:02,Loaded,PNG LNG
+Seapeak Magellan,2024-08-22 06:46,Sabine Pass,2024-08-12 18:45,Aqaba,Fos Cavaou,2024-09-01 07:50,Loaded,Cheniere
+Diamond Gas Metropolis,2024-08-21 06:49,Sabine Pass,2024-08-11 00:07,Incheon Port,Chita,2024-09-23 00:27,Loaded,Mitsubishi
+Global Sealine,2024-08-19 17:45,Cameron (Liqu.),2024-08-17 18:03,Gate,Cartagena (COL),2024-08-23 11:09,Loaded,BP
+Kool Crystal,2024-08-17 22:18,Cameron (Liqu.),2024-07-15 08:49,Rayong MTP,Ningbo,2024-08-25 02:27,Loaded,CoolCo
+Sk Supreme,2024-08-17 16:29,Ras Laffan,2024-08-01 09:14,Qingdao,Tongyeong,2024-08-22 01:26,Loaded,KOGAS
+Mol Hestia,2024-08-16 14:09,Sabine Pass,2024-07-30 02:06,PipeChina Tianjin,Himeji,2024-09-14 04:47,Loaded,Sinochem
+Gaslog Westminster,2024-08-13 22:32,Sabine Pass,2024-08-06 01:15,MAAGP,Dahej,2024-09-15 07:27,Loaded,Centrica Plc
+Shaolin,2024-08-12 11:17,Calcasieu Pass,2024-07-22 19:50,China,Montoir,2024-08-28 11:09,Loaded,Glencore
+Maran Gas Hector,2024-08-10 19:02,Elba Island Liq.,2024-08-02 08:27,Quintero,Hazira,2024-09-02 10:47,Loaded,Shell
+Methane Patricia Camila,2024-08-09 12:00,Prelude,2024-08-02 03:10,Gwangyang,Ohgishima,2024-08-17 07:09,Loaded,Shell
+Gaslog Seattle,2024-08-06 11:32,Atlantic LNG,2024-08-02 05:27,Escobar,Cartagena (ESP),2024-08-14 17:09,Loaded,GasLog
+Beidou Star,2024-08-05 14:00,Gorgon,2024-07-25 06:26,Gwangyang,Rudong,2024-08-07 06:08,Loaded,ExxonMobil
+Seapeak Bahrain,2024-08-03 00:00,Sabine Pass,2024-07-15 09:00,Escobar,Cartagena (ESP),2024-08-12 05:49,Loaded,Glencore
+Sk Summit,2024-07-31 14:49,Ras Laffan,2024-07-23 18:48,Bao'an Shenzhen,Pyeong Taek,2024-08-09 22:22,Loaded,KOGAS
+Kool Orca,2024-07-30 08:27,Corpus Christi,2024-07-27 17:55,Dunkerque,Incheon,2024-09-03 04:29,Loaded,Trafigura
+Al Dafna,2024-07-30 07:09,Ras Laffan,2024-07-28 16:10,Gaolan,Incheon,2024-08-16 00:45,Loaded,QatarEnergy
+Shandong Juniper,2024-07-29 10:20,Atlantic LNG,2024-07-13 00:33,South America,SLNG,2024-08-31 00:48,Loaded,Shell
+LNG Ogun,2024-07-27 15:49,Bonny LNG,2024-07-23 16:07,Chittagong,Dhamra,2024-08-26 03:41,Loaded,Shell
+Maran Gas Mystras,2024-07-26 04:29,Ras Laffan,2024-07-16 20:15,Gwangyang,Nong Fab,2024-08-15 23:49,Loaded,QatarEnergy
+Arctic Princess,2024-07-25 11:09,Snohvit,2024-07-23 18:27,Gate,Klaipeda,2024-08-01 04:32,Loaded,Equinor
+Castillo De Santisteban,2024-07-24 21:09,Peru LNG,2024-07-14 07:25,Montoir,Gate,2024-08-08 02:45,Loaded,Shell
+Asterix I,2024-07-23 14:09,Calcasieu Pass,2024-07-12 18:45,Piombino LNG,Ain Sukhna 2,2024-07-31 06:40,Loaded,Mitsubishi
+Santander Knutsen,2024-07-16 07:00,Sabine Pass,2024-07-10 10:09,Huelva,Cartagena (ESP),2024-07-23 05:45,Loaded,Naturgy
+Spirit Of Hela,2024-07-15 17:00,PNG LNG,2024-07-06 18:09,Gwangyang,Qingdao,2024-07-18 01:46,Loaded,PNG LNG
+Fraiha,2024-07-14 18:00,Ras Laffan,2024-06-24 19:27,Sines,Swinoujscie LNG,2024-08-01 06:58,Loaded,QatarEnergy
+Hls Bilbao,2024-07-13 00:00,Cameron (Liqu.),2024-07-11 01:50,Bilbao,Dahej,2024-08-10 01:07,Loaded,Repsol
+Al Kharaitiyat,2024-07-12 23:00,Ras Laffan,2024-07-10 20:16,Shenzhen Gas,Rovigo,2024-08-12 14:09,Loaded,QatarEnergy
+Al Areesh,2024-07-08 06:00,Ras Laffan,2024-06-17 13:45,Shenzhen Gas,Fujian,2024-07-09 01:32,Loaded,QatarEnergy
+Methane Becki Anne,2024-06-30 07:26,Peru LNG,2024-06-22 03:58,PipeChina Yuedong,Gate,2024-07-18 21:07,Loaded,Shell
+Aristidis I,2024-06-28 22:00,Freeport,2024-06-21 12:15,Argentina,Arun,2024-07-28 09:21,Loaded,BP
+Maran Gas Vergina,2024-06-26 13:45,Cove Point,2024-06-14 11:07,MED Sea,EemsEnergyTerminal,2024-07-05 23:07,Loaded,RWE
+Pan Africa,2024-06-22 03:56,Sabine Pass,2024-06-08 21:00,Dhamra,Mejillones,2024-07-08 19:44,Loaded,Shell
+Diamond Gas Rose,2024-06-22 00:00,Freeport,2024-05-18 11:50,Joetsu Chubu,PipeChina Fangchenggang,2024-07-01 21:01,Loaded,JERA
+LNG Prosperity,2024-06-21 13:00,Sabine Pass,2024-06-13 20:47,Mejillones,Europe,2024-07-04 00:00,Loaded,Shell
+Seapeak Arwa,2024-06-21 00:00,Cameron (Liqu.),2024-06-18 09:08,Andres,Europe,2024-07-02 00:00,Loaded,TotalEnergies
+Maran Gas Lindos,2024-06-21 00:00,Ras Laffan,2024-06-10 04:00,PipeChina Beihai,Rayong MTP,2024-06-25 00:25,Loaded,QatarEnergy
+LNG Enterprise,2024-06-19 01:32,Calcasieu Pass,2024-06-03 14:28,Argentina,Costa Norte LNG,2024-07-02 12:49,Loaded,TotalEnergies
+Gaslog Genoa,2024-06-18 00:00,Gorgon,2024-06-08 00:49,Gwangyang,Himeji,2024-06-23 21:07,Loaded,Shell
+Pacific Success,2024-06-05 00:00,Calcasieu Pass,2024-06-02 20:06,Kuwait,Mejillones,2024-06-14 13:45,Loaded,TotalEnergies
+Alto Acrux,2024-06-03 07:46,Sakhalin 2,2024-05-20 01:29,Busan,Kawagoe,2024-06-10 01:05,Loaded,JERA
+Adam LNG,2024-06-02 07:09,Bioko,2024-05-19 11:19,Chittagong,Dahej,2024-06-29 03:47,Loaded,Shell
+Gaslog Shanghai,2024-06-02 00:00,Pluto,2024-06-26 06:09,PipeChina Yuedong,PipeChina Yangpu,2024-07-06 00:00,Loaded,Woodside Energy
+Beidou Star,2024-06-01 00:00,Gorgon,2024-06-21 11:27,Rudong,Zhoushan,2024-07-12 05:49,Loaded,ExxonMobil
+Maran Gas Achilles,2024-05-30 17:00,Sabine Pass,2024-05-25 22:48,Europe,Asia,2024-06-23 00:00,Loaded,Shell
+LNG Adventure,2024-05-30 16:00,Sabine Pass,2024-05-20 17:28,Mejillones,Cape of Good Hope,2024-06-08 00:00,Loaded,TotalEnergies
+Castillo De Santisteban,2024-05-30 00:00,Sabine Pass,2024-05-27 16:15,EemsEnergyTerminal,Quintero,2024-06-26 18:00,Loaded,Shell
+Tangguh Palung,2024-05-29 05:59,Sabine Pass,2024-05-07 06:09,Chittagong,Rayong,2024-06-08 23:00,Loaded,Tangguh PSC
+SM Bluebird,2024-05-23 01:49,Elba Island Liq.,2024-05-19 22:29,Acajutla LNG Terminal,Dahej,2024-06-17 06:47,Loaded,Shell
+Castillo De Caldelas,2024-05-19 23:29,Corpus Christi,2024-05-11 08:29,Montoir,Fos Cavaou,2024-05-24 09:09,Loaded,Naturgy
+LNG Schneeweisschen,2024-05-15 04:00,Freeport,2024-05-10 13:15,Gate,Revithoussa,2024-05-26 05:48,Loaded,Uniper
+Southern Cross,2024-05-14 07:47,PNG LNG,2024-05-08 19:47,Gwangyang,Sodegaura,2024-05-21 01:10,Loaded,ExxonMobil
+Diamond Gas Victoria,2024-05-14 05:09,Cameron (Liqu.),2024-04-23 15:27,Japan,Boryeong,2024-06-05 23:45,Loaded,Mitsubishi
+LNG River Orashi,2024-05-11 17:09,Bonny LNG,2024-05-08 03:45,Kuwait,Huelva,2024-05-17 21:47,Loaded,NLNG
+Point Fortin,2024-05-11 00:27,Bontang,2024-05-05 10:43,Singapore,Thi Vai,2024-05-13 01:55,Loaded,TotalEnergies
+LNG Kano,2024-05-10 21:09,Bonny LNG,2024-05-06 23:00,Huelva,Al Zour,2024-05-28 21:43,Loaded,NLNG
+LNG Akwa Ibom,2024-05-09 14:09,Bonny LNG,2024-05-02 16:29,South Korea,Chita,2024-06-03 01:28,Loaded,NLNG
+Bishu Maru,2024-05-09 11:09,Kawagoe,2024-04-22 00:27,Wheatstone,Freeport,2024-06-11 09:48,Ballast,JERA
+Adamastos,2024-05-09 06:39,Corpus Christi,2024-04-27 00:02,Mundra,EemsEnergyTerminal,2024-05-11 13:29,Loaded,Engie
+Trader Ii,2024-05-07 14:29,Qalhat,2024-04-21 06:49,PEBG,Dabhol,2024-05-20 09:00,Loaded,Lloyds Ind. Leasing
+Gaslog Seattle,2024-05-05 15:39,Cove Point,2024-04-25 11:47,Gibraltar,Bilbao,2024-05-11 04:45,Loaded,GasLog
+Wilforce,2024-05-05 11:49,Freeport,2024-05-01 10:08,Huelva,Montoir,2024-05-19 23:29,Loaded,Osaka Gas
+Elisa Larus,2024-05-05 04:09,Freeport,2024-03-30 13:09,PEBG,Kawagoe,2024-05-13 01:57,Loaded,JERA
+LNG Enterprise,2024-04-20 03:38,Cameron (Liqu.),2024-04-10 21:36,Montoir,MED Sea,2024-04-24 00:00,Loaded,TotalEnergies
+BW Tulip,2024-04-20 03:04,Calcasieu Pass,2024-04-18 19:06,Montoir,S. Atlantic,2024-04-30 00:00,Loaded,TotalEnergies
+Simaisma,2024-04-11 21:29,Ras Laffan,2024-03-08 17:07,Zeebrugge,South Hook,2024-04-13 09:46,Loaded,QatarEnergy
+Grand Mereya,2024-04-10 15:09,Sakhalin 2,2024-04-08 01:29,Shenzhen Gas,Ulsan,2024-04-19 07:00,Loaded,Sakhalin Energy
+Minerva Psara,2024-04-09 12:00,Sabine Pass,2024-04-04 05:29,Zeebrugge,Dhamra,2024-05-08 04:47,Loaded,Shell
+Gail Urja,2024-04-05 12:59,Cove Point,2024-03-24 16:09,Cape of Good Hope,Fos Cavaou,2024-04-19 08:07,Loaded,GAIL
+Asia Energy,2024-04-04 14:49,Wheatstone,2024-04-02 23:00,Boryeong,Mizushima,2024-04-13 01:00,Loaded,Chevron
+Celsius Geneva,2024-03-14 22:22,Freeport,2024-02-23 04:07,Grain,Adriatic Sea,2024-03-17 00:00,Loaded,BP
+Prism Courage,2024-03-13 09:29,Freeport,2024-03-11 22:00,Bilbao,Zeebrugge,2024-03-30 12:06,Loaded,SK
+American Energy,2024-03-11 10:09,Bintulu,2024-03-11 08:46,Shanghai,Rayong MTP,2024-03-14 00:47,Loaded,Petronas
+La Mancha Knutsen,2024-03-02 23:01,Sabine Pass,2024-02-25 04:00,Gate,Grain,2024-04-29 17:31,Loaded,Naturgy
+Arctic Princess,2024-03-01 10:09,Snohvit,2024-02-27 11:45,Barcelona,Skagen,2024-03-16 18:00,Loaded,Equinor
+La Seine,2024-03-01 00:00,Sabine Pass,2024-02-28 20:50,Fos Cavaou,S. Atlantic,2024-03-15 00:00,Loaded,TotalEnergies
+Megara,2024-02-21 15:09,Pyeong Taek,2024-02-09 02:30,Bonny LNG,Peru LNG,2024-03-08 20:47,Ballast,Shell
+LNG Akwa Ibom,2024-02-21 03:49,Bonny LNG,2024-02-06 08:00,Dahej,Al Zour,2024-03-07 22:02,Loaded,NLNG
+Celsius Giza,2024-02-18 16:36,Freeport,2024-02-02 20:28,Zeebrugge,N. Atlantic,2024-02-22 00:00,Loaded,Gunvor
+Prism Agility,2024-02-17 21:19,Freeport,2024-02-09 15:29,Cartagena (ESP),Zhoushan,2024-04-09 02:48,Loaded,SK
+LNG Adamawa,2024-02-17 11:09,Bonny LNG,2024-01-26 12:07,Japan,Dapeng,2024-03-07 07:08,Loaded,NLNG
+Barcelona Knutsen,2024-02-14 15:26,Atlantic LNG,2024-02-06 17:10,Bahia,Acajutla LNG Terminal,2024-03-09 20:29,Loaded,Shell
+Rias Baixas Knutsen,2024-02-02 20:09,Corpus Christi,2024-01-21 00:00,Grain,Rovigo,2024-02-09 07:08,Loaded,Pavilion Gas
+Seapeak Glasgow,2024-02-01 13:20,Atlantic LNG,2024-01-08 15:09,Rayong,Gibraltar,2024-02-08 09:00,Loaded,BP
+Malaga Knutsen,2024-01-30 18:34,Sabine Pass,2024-01-25 09:37,Milford Haven,Mejillones,2024-02-20 14:23,Loaded,Shell
+Fedor Litke,2024-01-23 14:26,Yamal,2024-01-19 15:22,Zeebrugge,Montoir,2024-01-27 15:45,Loaded,OAO Yamal LNG
+Adamastos,2024-01-22 23:39,Corpus Christi,2024-01-15 00:09,EemsEnergyTerminal,Fos Cavaou,2024-01-29 16:37,Loaded,Engie
+Al Gharrafa,2024-01-18 13:01,Swinoujscie LNG,2024-01-13 06:06,Port Said,Cape of Good Hope,2024-01-28 00:00,Ballast,QatarEnergy
+Mesaimeer,2024-01-17 22:20,Ras Laffan,2024-01-16 01:10,Suez Canal,Cape of Good Hope,2024-01-25 00:00,Loaded,QatarEnergy
+Al Gattara,2024-01-17 09:35,Ras Laffan,2023-12-28 18:05,Zeebrugge,Rovigo,2024-01-26 14:36,Loaded,QatarEnergy
+Umm Bab,2024-01-16 15:32,South Hook,2024-01-09 15:45,Suez Canal,Cape of Good Hope,2024-01-28 00:00,Ballast,QatarEnergy
+Al Thakhira,2024-01-16 14:07,Zeebrugge,2024-01-10 19:30,Port Said,Cape of Good Hope,2024-01-28 00:00,Ballast,QatarEnergy
+LNG Geneva,2024-01-16 00:09,Murmansk Light.,2024-01-08 00:00,Suez Canal,Cape of Good Hope,2024-01-23 00:00,Loaded,OAO Yamal LNG
+Al Ghariya,2024-01-15 19:35,Ras Laffan,2024-01-11 17:09,Suez Canal,Cape of Good Hope,2024-01-24 00:00,Loaded,QatarEnergy
+Al Nuaman,2024-01-15 17:37,Ras Laffan,2024-01-11 07:10,Suez Canal,Cape of Good Hope,2024-01-24 00:00,Loaded,QatarEnergy
+Al Huwaila,2024-01-15 15:10,Ras Laffan,2024-01-09 00:37,Suez Canal,Cape of Good Hope,2024-01-24 00:00,Loaded,QatarEnergy
+Trader Ii,2024-01-15 14:07,Zeebrugge,2024-01-03 05:39,Suez Canal,Gibraltar,2024-01-19 00:00,Loaded,Lloyds Ind. Leasing
+Patris,2024-01-14 14:09,Sabine Pass,2024-01-01 18:00,Pyeong Taek,Rayong MTP,2024-02-04 01:07,Loaded,BP
+Wen Cheng,2024-01-14 08:04,PipeChina Tianjin,2024-01-02 00:39,Suez Canal,Cape Town,2024-01-24 15:00,Ballast,PetroChina
+LNG Kano,2024-01-13 08:09,Bonny LNG,2024-01-02 00:45,Port Qasim,Rayong MTP,2024-01-24 01:06,Loaded,NLNG
+Bishu Maru,2024-01-12 02:09,PNG LNG,2023-12-25 21:00,Futtsu,SLNG,2024-02-07 22:30,Loaded,JERA
+Attalos,2024-01-11 11:39,Freeport,2024-01-03 21:30,Ereglisi,Cartagena (COL),2024-01-16 10:15,Loaded,BP
+Maran Gas Achilles,2024-01-10 09:30,Bioko,2024-01-07 09:34,Asia,Latin America,2024-01-19 00:00,Loaded,Shell
+Maria Energy,2024-01-04 06:47,Bonny LNG,2023-12-30 12:30,Asia,Grain,2024-01-21 06:16,Loaded,Uniper
+Seri Balhaf,2024-01-03 18:51,PipeChina Beihai,2023-12-24 09:09,Idku,Arun,2024-01-15 22:09,Ballast,TotalEnergies
+Marvel Hawk,2024-01-02 22:32,Cameron (Liqu.),2023-12-28 09:45,France,Rovigo,2024-01-12 06:00,Loaded,Mitsui
+Maran Gas Sparta,2023-12-31 07:03,Sabine Pass,2023-12-24 05:45,Belgium,S. Atlantic,2024-01-10 00:00,Loaded,QatarEnergy
+Flex Vigilant,2023-12-29 04:24,Sabine Pass,2023-11-09 23:15,Shenzhen Gas,Tongyeong,2024-01-02 04:29,Loaded,Cheniere
+LNGShips Manhattan,2023-12-28 02:01,Sabine Pass,2023-12-15 15:58,Dragon,Aliaga,2024-01-04 06:05,Loaded,Shell
+Amur River,2023-12-23 22:33,Calcasieu Pass,2023-12-19 11:30,Finland,Dunkerque,2024-01-05 02:05,Loaded,SEFE M&T
+Orion Monet,2023-12-22 18:58,Freeport,2023-12-14 08:09,Pecem,Gibraltar,2023-12-31 15:00,Loaded,BP
+Gaslog Georgetown,2023-12-22 03:06,Sabine Pass,2023-12-06 21:11,Japan,Zeebrugge,2023-12-22 11:00,Loaded,Vitol
+Seapeak Meridian,2023-12-20 16:53,Corpus Christi,2023-12-18 14:15,Andres,Atlantic Ocean,2024-01-07 00:00,Loaded,TotalEnergies
+Maran Gas Troy,2023-12-20 13:47,Sabine Pass,2023-12-08 17:45,Belgium,Etki,2023-12-26 05:37,Loaded,GAIL
+LNG Abuja Ii,2023-12-20 01:00,SLNG,2023-12-13 10:38,Suez Canal,Cape of Good Hope,2023-12-25 00:00,Ballast,Shell
+Vivit Americas LNG,2023-12-19 03:59,Cove Point,2023-12-16 16:40,Suez Canal,S. Atlantic,2023-12-23 00:00,Loaded,KEPCO JP
+Hellas Diana,2023-12-18 20:58,FGEN Batangas,2023-12-07 06:28,Suez Canal,Cape of Good Hope,2023-12-23 00:00,Ballast,Trafigura
+Celsius Charlotte,2023-12-18 10:28,Yung An,2023-12-07 00:24,Suez Canal,N. Pacific,2024-01-10 06:00,Ballast,Cheniere
+Prism Courage,2023-12-18 02:20,Freeport,2023-12-16 13:40,Suez Canal,Cape of Good Hope,2024-01-04 00:00,Loaded,SK
+Hyundai Peacepia,2023-12-17 02:09,Sabine Pass,2023-12-16 22:37,Port Said,Cape of Good Hope,2024-01-04 00:00,Loaded,KOGAS
+Kool Frost,2023-12-16 10:29,Sabine Pass,2023-11-07 07:16,Shenzhen,Rayong MTP,2023-12-17 08:09,Loaded,CNOOC
+Isabella,2023-12-16 09:09,Sabine Pass,2023-12-04 05:37,Rotterdam,Toscana,2023-12-24 13:37,Loaded,Equinor
+Celsius Copenhagen,2023-12-15 20:42,Freeport,2023-11-26 13:45,Incheon,Kalamata Light.,2023-12-22 12:00,Loaded,BP
+Celsius Geneva,2023-12-15 20:39,Tongyeong,2023-12-02 04:44,Suez Canal,Cape Town,2023-12-26 15:00,Ballast,BP
+Paris Knutsen,2023-12-13 00:49,Elba Island Liq.,2023-12-08 05:29,Milford Haven,Aliaga,2023-12-24 05:37,Loaded,Shell
+Elisa Aquila,2023-12-11 14:13,Sabine Pass,2023-12-07 10:00,Milford Haven,Aliaga,2023-12-27 06:09,Loaded,RWE
+Cool Discoverer,2023-12-08 23:13,Corpus Christi,2023-12-06 18:57,Sines,Singapore,2024-01-15 16:00,Loaded,EDP
+Al Mafyar,2023-12-07 16:08,Ras Laffan,2023-12-01 09:46,Europe,Tongyeong,2023-12-31 01:35,Loaded,QatarEnergy
+Ibra LNG,2023-12-07 05:13,Qalhat,2023-12-06 04:41,Barcelona,PipeChina Diefu,2023-12-22 04:08,Loaded,Oman LNG
+Southern Cross,2023-12-03 23:37,Gorgon,2023-11-17 03:07,Hong Kong LNG Terminal,Chita,2023-12-13 00:09,Loaded,ExxonMobil
+Energy Universe,2023-12-03 11:43,Sabine Pass,2023-11-22 15:00,Gate,Aliaga,2023-12-07 12:09,Loaded,Tokyo Gas
+Al Wajbah,2023-12-03 08:09,Ras Laffan,2023-11-23 02:00,Rayong MTP,Ningbo,2023-12-13 04:00,Loaded,QatarEnergy
+Kool Firn,2023-11-30 19:09,QCLNG,2023-11-18 11:38,Sodegaura,Ningbo,2023-12-31 07:00,Loaded,Shell
+LNG Lagos Ii,2023-11-30 08:09,Corpus Christi,2023-11-18 02:12,Piombino LNG,Tongyeong,2023-12-27 04:32,Loaded,Trafigura
+Gaslog Geneva,2023-11-30 02:16,Bioko,2023-11-24 09:30,Piombino,SLNG,2023-12-21 01:08,Loaded,Shell
+Symphonic Breeze,2023-11-28 11:13,Naoetsu INPEX,2023-11-23 01:04,Prelude,Bintulu,2023-12-13 14:39,Ballast,INPEX
+Kool Orca,2023-11-28 09:08,Freeport,2023-11-23 20:00,Gate,Ningbo,2024-01-02 02:01,Loaded,Trafigura
+Iberica Knutsen,2023-11-27 21:09,Corpus Christi,2023-11-11 17:00,Barcelona,Grain,2023-12-02 00:29,Loaded,Naturgy
+Minerva Limnos,2023-11-27 00:09,Cameron (Liqu.),2023-11-14 12:30,Zeebrugge,Summit LNG,2023-12-12 22:07,Loaded,TotalEnergies
+Marvel Pelican,2023-11-26 07:09,Cameron (Liqu.),2023-11-10 13:57,Ningbo Area,Chita,2023-12-10 01:37,Loaded,Mitsui
+Energy Atlantic,2023-11-24 23:39,Freeport,2023-11-06 20:10,Osaka,Fos Cavaou,2023-12-05 07:07,Loaded,Alpha Tankers
+Seri Alam,2023-11-24 07:43,Bintulu,2023-11-17 00:27,Sodegaura,Tianjin LNG Sinopec,2023-11-28 03:07,Loaded,Petronas
+LNGShips Athena,2023-11-23 23:13,Freeport,2023-11-09 22:00,Aliaga,Dunkerque,2023-12-01 04:21,Loaded,JERA
+Pan Africa,2023-11-22 00:43,QCLNG,2023-11-23 16:08,SLNG,PipeChina Tianjin,2023-12-07 02:07,Loaded,Shell
+Barcelona Knutsen,2023-11-21 03:37,Sabine Pass,2023-11-11 20:37,Port Qasim,Gate,2023-11-26 00:07,Loaded,Shell
+Malaga Knutsen,2023-11-20 17:22,Sabine Pass,2023-11-13 20:28,Gate,Rio,2023-11-30 09:58,Loaded,Shell
+Murex,2023-11-19 14:08,Elba Island Liq.,2023-11-18 17:09,Panama Canal,Gate,2023-12-01 12:38,Loaded,Shell
+LNG Alliance,2023-11-18 15:29,Sabine Pass,2023-11-06 11:29,Isle of Grain,Pecem,2023-11-28 12:28,Loaded,TotalEnergies
+Gaslog Santiago,2023-11-18 11:09,Bethioua,2023-11-13 15:11,Rayong,Incheon,2023-12-24 02:56,Loaded,Trafigura
+Gaslog Sydney,2023-11-17 10:43,Sabine Pass,2023-10-26 10:53,Al Zour,SLNG,2024-01-01 00:37,Loaded,Cheniere
+Celsius Carolina,2023-11-17 00:39,Sabine Pass,2023-11-09 05:37,China,Fos Cavaou,2023-11-24 06:52,Loaded,Cheniere
+Global Sealine,2023-11-16 09:07,Corpus Christi,2023-10-22 05:09,Swinoujscie LNG,Bahia,2023-11-24 15:29,Loaded,Cheniere
+Celsius Geneva,2023-11-13 04:09,Qalhat,2023-11-02 05:22,Pudong,Incheon,2023-12-04 03:02,Loaded,BP
+Celsius Charlotte,2023-11-12 11:24,Corpus Christi,2023-10-30 21:22,Dunkerque,China,2024-01-10 06:01,Loaded,Cheniere
+Arctic Aurora,2023-11-05 14:43,Snohvit,2023-11-02 14:00,Aliaga,Klaipeda,2023-12-06 00:05,Loaded,Equinor
+SK Resolute,2023-11-05 14:41,Cameron (Liqu.),2023-10-29 21:51,Montoir,Zeebrugge,2023-11-13 08:45,Loaded,TotalEnergies
+Nova Energy,2023-11-03 00:00,Shin-Sendai,2023-10-10 23:37,Damietta,Cove Point,2023-11-18 12:37,Ballast,Gunvor
+Nohshu Maru,2023-11-01 05:00,Freeport,2023-10-13 00:29,MED Sea,Dunkerque,2023-11-22 16:20,Loaded,JERA
+BW Pavilion Leeara,2023-10-31 07:13,Sabine Pass,2023-10-21 08:37,Fos,Dahej,2023-11-23 19:09,Loaded,TotalEnergies
+Macoma,2023-10-31 04:09,QCLNG,2023-10-15 23:30,Tianjin,Ningbo,2023-11-01 06:08,Loaded,Shell
+Kool Orca,2023-10-29 12:38,Corpus Christi,2023-09-02 09:25,Asia,Piombino LNG,2023-11-06 00:38,Loaded,Trafigura
+BW Pavilion Vanda,2023-10-28 06:53,Calcasieu Pass,2023-09-21 19:45,Yung An,Futtsu,2023-11-08 04:26,Loaded,TotalEnergies
+Vivit Africa LNG,2023-10-26 18:49,Sabine Pass,2023-10-20 09:28,Milford Haven,Tianjin,2023-11-30 16:01,Loaded,Vitol
+Alicante Knutsen,2023-10-24 21:30,Peru LNG,2023-09-23 18:57,Milford Haven,Gate,2023-10-29 13:28,Loaded,Shell
+Minerva Limnos,2023-10-24 09:09,Sakai,2023-10-05 03:37,Idku,Cameron (Liqu.),2023-11-12 18:08,Ballast,TotalEnergies
+Hellas Athina,2023-10-24 00:30,Corpus Christi,2023-08-02 02:49,South Korea,South China Sea,2023-10-29 00:00,Loaded,Trafigura
+Al Wakrah,2023-10-15 15:19,Ras Laffan,2023-10-11 23:09,Europe,PipeChina Yangpu,2023-11-04 00:16,Loaded,QatarEnergy
+Tangguh Foja,2023-10-14 07:15,Tangguh,2023-10-08 11:57,Yung An,Himeji,2023-10-28 00:39,Loaded,Tangguh PSC
+Tangguh Palung,2023-10-11 04:43,Bethioua,2023-09-28 16:30,Dahej,Senboku,2023-11-07 23:07,Loaded,Tangguh PSC
+Celsius Charlotte,2023-10-07 09:45,Corpus Christi,2023-09-22 17:19,Gate,Dunkerque,2023-10-08 03:57,Loaded,Cheniere
+Shandong Juniper,2023-10-05 12:57,Atlantic LNG,2023-09-27 16:29,Acajutla LNG Terminal,EemsEnergyTerminal,2023-11-04 14:31,Loaded,Shell
+Energy Innovator,2023-10-04 23:09,Cove Point,2023-08-23 15:43,Grain,Sodegaura,2023-10-28 03:36,Loaded,Tokyo Gas
+BW Brussels,2023-10-04 17:58,Cameron (Liqu.),2023-09-24 01:15,Tianjin,Pyeong Taek,2023-11-08 04:18,Loaded,TotalEnergies
+Celsius Copenhagen,2023-10-04 16:13,Freeport,2023-09-23 15:30,Isle of Grain,South Hook,2023-11-07 23:59,Loaded,BP
+Al Jasra,2023-10-04 11:00,Ras Laffan,2023-10-01 02:00,Mundra,Rayong MTP,2023-10-18 00:08,Loaded,QatarEnergy
+LNG Benue,2023-10-03 20:30,Bonny LNG,2023-09-05 13:38,Cartagena (ESP),Zeebrugge,2023-10-08 11:00,Loaded,NLNG
+Maran Gas Roxana,2023-10-02 18:09,Peru LNG,2023-09-05 21:13,Grain,Dunkerque,2023-10-05 20:36,Loaded,Shell
+Gaslog Georgetown,2023-09-30 07:29,Calcasieu Pass,2023-09-26 16:51,United Kingdom,Dhamra,2023-11-04 02:12,Loaded,Vitol
+Al Areesh,2023-09-25 22:39,Ras Laffan,2023-09-17 17:38,Zeebrugge,Cartagena (ESP),2023-10-04 05:08,Loaded,QatarEnergy
+Maran Gas Troy,2023-09-22 13:02,Ras Laffan,2023-09-20 06:08,Al Zour,West Coast UAE,2023-10-01 16:00,Loaded,QatarEnergy
+Methane Becki Anne,2023-09-21 06:13,QCLNG,2023-09-13 10:38,Ningbo Area,SLNG,2023-10-25 00:37,Loaded,Shell
+LNGShips Manhattan,2023-09-20 09:57,QCLNG,2023-09-05 08:05,Ningbo Area,SLNG,2023-10-07 01:07,Loaded,Shell
+BW Pavilion Leeara,2023-09-19 23:28,Sabine Pass,2023-09-15 05:15,Revithoussa,Montoir,2023-09-28 14:40,Loaded,TotalEnergies
+Aristidis I,2023-09-16 03:13,Freeport,2023-09-04 03:57,Livorno,Aliaga,2023-09-22 05:09,Loaded,BP
+Energy Atlantic,2023-09-15 22:39,Freeport,2023-09-01 08:37,Gate,Dunkerque,2023-10-16 15:36,Loaded,Alpha Tankers
+Methane Julia Louise,2023-09-14 00:43,Peru LNG,2023-08-28 15:55,Milford Haven,Dragon,2023-10-06 20:37,Loaded,Shell
+BW Clear Sky,2023-09-12 12:13,Calcasieu Pass,2023-09-03 16:03,Caofeidian,Himeji,2023-10-09 04:36,Loaded,TotalEnergies
+Seapeak Madrid,2023-09-11 18:52,Elba Island Liq.,2023-09-05 16:46,Europe,Acajutla LNG Terminal,2023-10-04 00:00,Loaded,Shell
+Gaslog Houston,2023-09-09 13:28,Atlantic LNG,2023-08-31 19:38,EemsEnergyTerminal,Al Zour,2023-09-23 22:22,Loaded,Shell
+Ferrol Knutsen,2023-09-08 20:43,Elba Island Liq.,2023-09-01 12:16,Krk LNG FSRU,EemsEnergyTerminal,2023-09-16 12:07,Loaded,Shell
+Lalla Fatma N'Soumer,2023-09-05 13:43,Bethioua,2023-09-05 14:48,Fos Cavaou,Aliaga,2023-09-10 05:30,Loaded,Sonatrach
+Puteri Mutiara Satu,2023-09-05 10:39,Bintulu,2023-08-26 02:20,Yangshan,Yokkaichi,2023-09-25 02:37,Loaded,Petronas
+Orion Bohemia,2023-09-04 15:29,Atlantic LNG,2023-08-26 02:58,Europe,Dahej,2023-09-22 14:07,Loaded,Shell
+Seapeak Bahrain,2023-09-04 12:28,Cameron (Liqu.),2023-08-17 13:57,Tianjin,Moheshkhali,2023-09-23 02:51,Loaded,TotalEnergies
+Cool Rider,2023-09-02 00:34,Cameron (Liqu.),2023-08-18 19:15,North Brazil,Montoir,2023-09-30 04:08,Loaded,Petrobras
+SM Albatross,2023-09-01 09:09,Bonny LNG,2023-07-31 21:30,Incheon,PipeChina Yangpu,2023-09-11 02:36,Loaded,Shell
+Vivit Africa LNG,2023-08-24 20:43,Bioko,2023-08-20 19:58,China,Dahej,2023-09-11 20:58,Loaded,Vitol
+Lech Kaczynski,2023-08-22 06:13,Freeport,2023-08-20 02:07,Gate,Grain,2023-09-04 00:37,Loaded,BP
+Extremadura Knutsen,2023-08-21 06:37,QCLNG,2023-08-11 10:30,Incheon,SLNG,2023-09-07 01:09,Loaded,Shell
+LNG Lagos Ii,2023-08-18 19:57,Freeport,2023-08-07 17:06,Boryeong,Zeebrugge,2023-08-30 09:08,Loaded,Trafigura
+BW Cassia,2023-08-17 17:00,Atlantic LNG,2023-07-17 15:56,Escobar,Quintero,2023-08-27 18:59,Loaded,BP
+Energy Fidelity,2023-08-15 08:07,Freeport,2023-08-02 20:07,Gate,Gwangyang,2023-09-09 01:05,Loaded,JERA
+Energy Pacific,2023-08-13 18:07,Sabine Pass,2023-07-30 11:15,Fos Cavaou,Naoetsu INPEX,2023-09-07 00:00,Loaded,Cheniere
+Grand Cosmos,2023-08-09 18:13,Wheatstone,2023-08-10 06:12,Hitachi,Yung An,2023-09-11 00:10,Loaded,Kyushu Electric
+LNG Endurance,2023-08-09 15:49,Cameron (Liqu.),2023-07-26 15:24,Bahia Blanca,Montoir,2023-08-21 05:27,Loaded,TotalEnergies
+Methane Mickie Harper,2023-08-09 00:43,QCLNG,2023-08-08 21:29,Ningbo Area,Sodegaura,2023-08-20 06:23,Loaded,Shell
+SM Bluebird,2023-08-04 00:43,Peru LNG,2023-07-25 12:07,Japan,Montoir,2023-08-28 00:08,Loaded,Shell
+Gaslog Westminster,2023-07-29 14:39,Calcasieu Pass,2023-07-29 14:22,Gate,Dahej,2023-08-28 19:55,Loaded,TotalEnergies
+Methane Julia Louise,2023-07-29 14:09,Bioko,2023-07-10 17:46,Quintero,Acajutla LNG Terminal,2023-08-11 15:36,Loaded,Shell
+Kmarin Diamond,2023-07-27 17:25,APLNG,2023-07-15 04:27,Ningbo,Boryeong,2023-08-07 04:07,Loaded,BP
+Pan Asia,2023-07-26 09:47,Elba Island Liq.,2023-07-21 22:29,Panama Canal,Quintero,2023-08-14 16:00,Loaded,Shell
+Maran Gas Lindos,2023-07-25 15:56,Sabine Pass,2023-07-17 05:00,Klaipeda,Gate,2023-08-05 21:06,Loaded,QatarEnergy
+Adriano Knutsen,2023-07-24 17:23,Corpus Christi,2023-07-20 23:37,Dunkerque,Gate,2023-08-11 19:06,Loaded,Endesa
+Sohshu Maru,2023-07-20 00:00,Corpus Christi,2023-07-14 19:38,Dunkerque,Futtsu,2023-08-29 01:38,Loaded,JERA
+Flex Artemis,2023-07-18 00:00,Montoir,2023-06-26 16:57,Argentina,Sagunto,2023-08-01 05:49,Loaded,Gunvor
+Hoegh Gandria,2023-07-16 00:00,Cove Point,2023-06-24 09:39,India,Al Zour,2023-07-19 20:07,Loaded,RWE
+Seapeak Vancouver,2023-07-14 17:09,Cameron (Liqu.),2023-07-14 17:41,Turkey,Toscana,2023-07-28 12:04,Loaded,Petrobras
+Methane Nile Eagle,2023-07-11 11:07,NWS,2023-07-02 13:38,Hong Kong LNG Terminal,Dapeng,2023-07-14 03:08,Loaded,Shell
+Cheikh El Mokrani,2023-07-11 08:09,Skikda,2023-07-08 16:57,Aliaga,Fos Cavaou,2023-07-11 15:27,Loaded,Sonatrach
+Bonito LNG,2023-07-11 00:00,Corpus Christi,2023-06-28 16:56,Swinoujscie LNG,Zeebrugge,2023-07-17 09:37,Loaded,Cheniere
+Salalah LNG,2023-07-11 00:00,Qalhat,2023-07-07 19:15,Europe,Dhamra,2023-08-03 12:22,Loaded,Oman LNG
+BW Enn Crystal Sky,2023-07-07 05:39,Sabine Pass,2023-06-27 03:00,Grain,Gate,2023-07-09 23:38,Loaded,ENN
+Pan Americas,2023-06-26 00:00,Wheatstone,2023-06-15 11:26,PipeChina Tianjin,Binhai LNG,2023-07-31 01:05,Loaded,Shell
+Shandong Juniper,2023-06-25 20:28,Peru LNG,2023-06-16 12:58,Taiwan,Altamira,2023-07-08 13:22,Loaded,Shell
+LNG Alliance,2023-06-23 09:07,Corpus Christi,2023-06-05 17:27,Fos Cavaou,Toscana,2023-06-25 05:24,Loaded,TotalEnergies
+Cool Runner,2023-06-23 00:00,Cove Point,2023-06-08 10:38,Grain,Bilbao,2023-06-29 05:00,Loaded,BP
+Macoma,2023-06-20 00:00,Prelude,2023-06-12 11:00,Hong Kong LNG Terminal,Ohgishima,2023-06-27 00:37,Loaded,Shell
+Arctic Voyager,2023-06-14 00:00,Snohvit,2023-05-29 07:30,Inkoo,Dunkerque,2023-06-22 18:07,Loaded,Equinor
+LNG Enterprise,2023-06-13 00:00,Sellin Light.,2023-06-03 00:00,Snohvit,Freeport,2023-07-03 16:08,Ballast,TotalEnergies
+BW Magnolia,2023-06-06 02:38,Sabine Pass,2023-05-22 16:28,Milford Haven,Klaipeda,2023-06-10 22:28,Loaded,BP
+Alicante Knutsen,2023-06-05 20:37,Elba Island Liq.,2023-05-22 00:07,Milford Haven,Dunkerque,2023-06-08 00:07,Loaded,Shell
+Al Rayyan,2023-06-01 00:00,Ras Laffan,2023-05-27 20:11,Europe,PipeChina Yangpu,2023-06-18 00:08,Loaded,QatarEnergy
+Malaga Knutsen,2023-05-30 10:01,Bonny LNG,2023-05-23 22:31,Europe,Port Esquivel,2023-06-12 12:28,Loaded,Shell
+Maran Gas Amphipolis,2023-05-29 10:30,Peru LNG,2023-04-30 16:21,Grain,Cartagena (ESP),2023-06-01 05:33,Loaded,Shell
+Minerva Amorgos,2023-05-18 00:00,Cameron (Liqu.),2023-05-09 18:30,Dunkerque,Fos Cavaou,2023-05-29 06:22,Loaded,TotalEnergies
+LNG Imo,2023-05-16 15:43,Bonny LNG,2023-05-01 13:30,Chittagong,Dahej,2023-05-31 19:27,Loaded,NLNG
+Karadeniz LNGt Powership Anatolia,2023-05-16 00:00,Kaliningrad,2023-05-02 16:28,Dakar FSRU,Sepetiba LNG,2023-06-03 12:35,Loaded,Karpowership
+Maria Energy,2023-05-13 22:13,Sabine Pass,2023-05-07 14:36,Milford Haven,Pecem,2023-05-21 10:08,Loaded,Vitol
+Iberica Knutsen,2023-05-10 20:13,Sabine Pass,2023-05-09 20:15,Mugardos,Dunkerque,2023-06-03 20:41,Loaded,Naturgy
+LNG Abuja Ii,2023-05-07 19:37,Corpus Christi,2023-04-23 13:00,Germany,Ereglisi,2023-05-25 13:04,Loaded,Shell
+LNG Enterprise,2023-05-06 22:13,Freeport,2023-04-30 12:45,Marmara  Ereglisi,Sellin Light.,2023-05-30 04:00,Loaded,TotalEnergies
+Elisa Aquila,2023-05-04 06:04,Sabine Pass,2023-04-16 08:36,Wilhelmshaven,South Hook,2023-05-09 19:04,Loaded,RWE
+Bishu Maru,2023-05-02 11:43,Cameron (Liqu.),2023-04-22 18:54,Dunkerque,Grain,2023-05-15 05:36,Loaded,JERA
+Clean Copano,2023-04-29 22:40,Sabine Pass,2023-03-24 18:37,Taichung,Rayong MTP,2023-05-02 00:09,Loaded,Cheniere
+LNG Kano,2023-04-29 17:37,Bonny LNG,2023-04-16 00:45,Dragon,Dahej,2023-05-15 19:07,Loaded,NLNG
+Attalos,2023-04-28 03:43,Freeport,2023-04-22 23:00,Gate,Bahia Blanca,2023-05-29 03:00,Loaded,BP
+Arctic Aurora,2023-04-27 18:43,Snohvit,2023-04-27 10:56,Inkoo,Klaipeda,2023-05-13 17:24,Loaded,Equinor
+LNG Bonny II,2023-04-26 16:43,Sabine Pass,2023-04-25 03:15,Fos Cavaou,Ereglisi,2023-05-20 19:06,Loaded,TotalEnergies
+LNG Prosperity,2023-04-25 21:25,Idku,2023-04-14 04:27,Milford Haven,Incheon,2023-05-29 04:28,Loaded,Shell
+BW Pavilion Aranthera,2023-04-25 15:39,Corpus Christi,2023-04-15 03:39,Grain,Gate,2023-05-08 21:41,Loaded,Pavilion Gas
+SK Audace,2023-04-22 04:13,Cameron (Liqu.),2023-04-20 18:39,Grain,Montoir,2023-05-04 14:10,Loaded,TotalEnergies
+Maran Gas Andros,2023-04-22 03:58,Freeport,2023-04-12 18:34,Sodegaura,Dunkerque,2023-04-25 12:04,Loaded,JERA
+Rias Baixas Knutsen,2023-04-21 15:43,Freeport,2023-04-09 12:59,Europe,Dabhol,2023-05-08 10:44,Loaded,Gunvor
+La Seine,2023-04-19 18:09,Freeport,2023-04-19 10:38,Fos Cavaou,Ereglisi,2023-05-05 23:26,Loaded,TotalEnergies
+Gaslog Seattle,2023-04-19 07:13,Bethioua,2023-04-05 10:46,United Kingdom,Dunkerque,2023-04-23 16:08,Loaded,Vitol
+Hellas Athina,2023-04-19 00:00,Sabine Pass,2023-04-06 03:20,Gate,South Hook,2023-04-25 00:56,Loaded,Trafigura
+LNG Adventure,2023-04-18 21:13,Calcasieu Pass,2023-04-06 12:00,Sellin Light.,Dragon,2023-04-19 22:24,Loaded,TotalEnergies
+Seishu Maru,2023-04-18 21:13,Wheatstone,2023-03-25 00:29,Ohgishima,PipeChina Tianjin,2023-04-20 02:02,Loaded,JERA
+Aristos I,2023-04-17 14:09,Freeport,2023-04-04 17:30,Cartagena,Fos Cavaou,2023-04-22 12:59,Loaded,BP
+Orion Monet,2023-04-17 00:00,Freeport,2023-04-10 20:27,Bahia Blanca,Grain,2023-04-28 02:35,Loaded,BP
+Cool Explorer,2023-04-16 05:27,Freeport,2023-04-14 08:00,Gate,Bahia Blanca,2023-05-04 20:00,Loaded,BP
+Al Ghashamiya,2023-04-12 19:07,Ras Laffan,2023-03-08 08:00,Fos Cavaou,South Hook,2023-04-17 16:30,Loaded,QatarEnergy
+Lalla Fatma N'Soumer,2023-04-12 14:26,Bethioua,2023-04-10 10:59,Fos Cavaou,Cartagena (ESP),2023-04-16 21:29,Loaded,Sonatrach
+Tessala,2023-04-11 00:00,Bethioua,2023-04-09 11:12,Fos Cavaou,Dortyol FSRU,2023-04-16 09:53,Loaded,Sonatrach
+Valera,2023-04-10 00:00,Portovaya,2023-03-30 16:08,Suez Canal,Ereglisi,2023-04-15 21:30,Loaded,Gazprom
+Pearl LNG,2023-04-09 22:09,QCLNG,2023-03-25 13:37,Qingdao,Rayong MTP,2023-04-23 23:55,Loaded,Shell
+Solaris,2023-04-09 12:09,Corpus Christi,2023-03-25 13:30,Ereglisi,Inkoo,2023-04-19 11:35,Loaded,TotalEnergies
+Kool Firn,2023-04-08 02:43,Sabine Pass,2023-03-22 21:15,Kochi,Rovigo,2023-04-09 17:36,Loaded,Shell
+Vladimir Voronin,2023-04-07 22:25,Yamal,2023-03-28 11:26,Montoir,Murmansk Light.,2023-04-12 10:57,Loaded,OAO Yamal LNG
+BW Pavilion Leeara,2023-04-07 15:39,Freeport,2023-04-07 15:38,Fos Cavaou,Zeebrugge,2023-04-25 13:30,Loaded,TotalEnergies
+Minerva Amorgos,2023-04-05 20:13,Sabine Pass,2023-04-03 20:29,Montoir,Grain,2023-04-18 09:02,Loaded,TotalEnergies
+Seri Balqis,2023-04-04 18:58,Bonny LNG,2023-04-01 17:59,Zeebrugge,Dabhol,2023-05-02 23:23,Loaded,QatarEnergy
+Wilpride,2023-04-04 12:41,Calcasieu Pass,2023-03-30 12:57,Dunkerque,Zeebrugge,2023-04-12 13:40,Loaded,SEFE M&T
+BW Brussels,2023-04-03 13:39,Calcasieu Pass,2023-03-11 12:59,Revithoussa,Bilbao,2023-04-08 12:22,Loaded,TotalEnergies
+LNG Alliance,2023-04-03 11:27,Qalhat,2023-03-29 10:41,Arun,Fos Cavaou,2023-04-24 06:27,Loaded,TotalEnergies
+BW Enn Crystal Sky,2023-04-03 00:00,Sabine Pass,2023-03-23 19:45,Montoir,South Hook,2023-04-08 12:01,Loaded,EnBW Energie Baden-Württemberg AG
+Maran Gas Alexandria,2023-03-31 23:07,Bethioua,2023-03-27 06:27,Fos Cavaou,Huelva,2023-04-05 13:37,Loaded,TotalEnergies
+Georgiy Brusilov,2023-03-31 13:41,Yamal,2023-03-25 01:21,Montoir,Zeebrugge,2023-04-04 21:25,Loaded,OAO Yamal LNG
+Cheikh El Mokrani,2023-03-31 04:20,Skikda,2023-03-23 16:21,Fos,Cartagena (ESP),2023-04-03 07:00,Loaded,Sonatrach
+Eduard Toll,2023-03-30 13:43,Yamal,2023-03-22 10:22,Montoir,Mugardos,2023-04-02 14:07,Loaded,OAO Yamal LNG
+British Contributor,2023-03-30 00:00,Freeport,2023-03-25 17:45,Mugardos,Grain,2023-04-07 10:45,Loaded,BP
+LNG Abalamabie,2023-03-30 00:00,Sabine Pass,2023-03-18 02:57,Gate,Dragon,2023-04-02 16:26,Loaded,TotalEnergies
+LNG River Orashi,2023-03-29 15:28,Bonny LNG,2023-03-03 12:45,Boryeong,Nong Fab,2023-04-10 00:22,Loaded,NLNG
+Attalos,2023-03-29 11:23,Freeport,2023-03-16 10:40,Italy,Gate,2023-04-05 21:30,Loaded,BP
+Arctic Lady,2023-03-29 08:09,Snohvit,2023-03-07 18:45,Montoir,Grain,2023-04-01 07:15,Loaded,TotalEnergies
+Kool Boreas,2023-03-29 07:39,Dragon,2023-03-09 19:07,Montoir,Atlantic LNG,2023-04-14 10:19,Ballast,Shell
+Macoma,2023-03-28 00:42,QCLNG,2023-03-28 10:07,Ningbo Area,Sodegaura,2023-04-08 05:00,Loaded,Shell
+Extremadura Knutsen,2023-03-27 00:13,Peru LNG,2023-03-27 23:55,South Korea,Dragon,2023-04-24 09:40,Loaded,Shell
+Cheikh Bouamama,2023-03-23 14:43,Skikda,2023-03-20 05:29,Fos,Revithoussa,2023-03-29 10:40,Loaded,Sonatrach
+SM Bluebird,2023-03-23 01:00,Atlantic LNG,2023-03-18 05:07,Milford Haven,Mejillones,2023-04-14 19:29,Loaded,Shell
+LNG Endurance,2023-03-22 15:58,Sabine Pass,2023-03-18 22:47,Grain,Sellin Light.,2023-04-14 00:00,Loaded,TotalEnergies
+Asia Integrity,2023-03-22 14:41,Calcasieu Pass,2023-03-18 00:56,Dunkerque,Zeebrugge,2023-03-31 17:30,Loaded,Chevron
+BW Tulip,2023-03-22 14:09,Cameron (Liqu.),2023-03-10 21:59,Montoir,Sellin Light.,2023-03-28 06:00,Loaded,TotalEnergies
+La Seine,2023-03-22 10:28,Cameron (Liqu.),2023-03-06 23:23,Fos Cavaou,Ereglisi,2023-03-28 18:26,Loaded,TotalEnergies
+Cool Voyager,2023-03-22 09:39,Freeport,2023-03-03 23:28,Montoir,Dunkerque,2023-03-24 03:35,Loaded,TotalEnergies
+LNG Bonny II,2023-03-20 23:58,Sabine Pass,2023-03-13 14:05,Fos Cavaou,Revithoussa,2023-04-07 07:37,Loaded,TotalEnergies
+Al Sheehaniya,2023-03-20 21:13,Ras Laffan,2023-03-15 04:30,Ningbo,Tongyeong,2023-04-06 01:11,Loaded,QatarEnergy
+LNG Endeavour,2023-03-20 16:13,Freeport,2023-03-18 20:29,Isle of Grain,Gate,2023-03-31 07:36,Loaded,TotalEnergies
+Tessala,2023-03-18 13:43,Bethioua,2023-03-14 07:25,Fos Cavaou,Barcelona,2023-03-22 03:36,Loaded,Sonatrach
+Boris Davydov,2023-03-17 16:08,Yamal,2023-03-10 19:58,Zeebrugge,Bilbao,2023-03-19 04:04,Loaded,OAO Yamal LNG
+Arctic Voyager,2023-03-16 10:59,Gate,2023-03-01 21:42,Freeport,Snohvit,2023-04-10 15:30,Ballast,Equinor
+Seapeak Bahrain,2023-03-16 01:13,Sabine Pass,2023-03-05 23:38,Dunkerque,Grain,2023-03-22 22:37,Loaded,TotalEnergies
+Vladimir Rusanov,2023-03-15 15:41,Yamal,2023-03-17 01:30,Zeebrugge,Dunkerque,2023-03-27 13:32,Loaded,OAO Yamal LNG
+Global Energy,2023-03-14 00:00,Sabine Pass,2023-03-02 02:15,Fos Cavaou,Grain,2023-03-18 06:05,Loaded,Cheniere
+BW Cassia,2023-03-13 00:00,Freeport,2023-03-01 01:58,Grain,Bilbao,2023-03-15 09:19,Loaded,BP
+Sonangol Sambizanga,2023-03-13 00:00,Soyo,2023-03-07 16:31,Donges,Barcelona,2023-04-07 04:30,Loaded,Angola LNG
+LNG Enterprise,2023-03-12 09:13,Cameron (Liqu.),2023-02-25 16:58,Milford Haven,Revithoussa,2023-03-13 09:07,Loaded,TotalEnergies
+Celsius Carolina,2023-03-12 00:00,Corpus Christi,2023-02-24 16:45,Gate,South Hook,2023-03-15 10:27,Loaded,Cheniere
+Gaslog Seattle,2023-03-09 19:13,Sabine Pass,2023-03-03 23:24,Dunkerque,South Hook,2023-03-26 15:24,Loaded,TotalEnergies
+Orion Bohemia,2023-03-08 03:37,Bonny LNG,2023-02-25 22:30,Montoir,Bilbao,2023-03-10 18:19,Loaded,Shell
+Fedor Litke,2023-03-08 00:00,Yamal,2023-03-01 14:25,Montoir,Dunkerque,2023-03-17 03:50,Loaded,OAO Yamal LNG
+Energy Universe,2023-03-07 00:00,Calcasieu Pass,2023-02-24 17:08,Germany,Cartagena (ESP),2023-03-26 01:37,Loaded,Tokyo Gas
+Minerva Amorgos,2023-03-07 00:00,Calcasieu Pass,2023-02-23 01:03,Fos,South Hook,2023-03-11 22:48,Loaded,TotalEnergies
+Maran Gas Olympias,2023-03-07 00:00,Calcasieu Pass,2023-02-20 00:39,Montoir,Wilhelmshaven GasPort,2023-03-11 00:30,Loaded,Shell
+Energy Spirit,2023-03-07 00:00,Skikda,2023-03-05 14:45,Fos Cavaou,Barcelona,2023-03-11 00:07,Loaded,Sonatrach
+Gaslog Gladstone,2023-03-04 00:00,Sabine Pass,2023-03-04 16:15,Milford Haven,Krk LNG FSRU,2023-03-21 08:06,Loaded,Shell
+LNG Sokoto,2023-03-04 00:00,Bonny LNG,2023-02-26 13:06,Fos Cavaou,Grain,2023-03-14 02:00,Loaded,NLNG
+Kool Crystal,2023-03-02 00:00,Ras Laffan,2023-02-28 05:52,Taiwan,Barcelona,2023-03-16 02:07,Loaded,CoolCo
+Seapeak Meridian,2023-02-20 00:00,Sabine Pass,2023-02-14 14:25,Revithoussa,Lubmin FSRU,2023-03-01 07:00,Loaded,TotalEnergies
+Minerva Limnos,2023-02-16 00:00,Cameron (Liqu.),2023-02-10 17:59,Sellin Light.,Fos Cavaou,2023-02-26 22:03,Loaded,TotalEnergies
+Seapeak Bahrain,2023-02-16 00:00,Gibraltar,2023-01-28 00:00,Freeport,Sabine Pass,2023-03-04 04:30,Ballast,TotalEnergies
+Gaslog Gibraltar,2023-02-11 10:28,Elba Island Liq.,2023-02-03 08:27,Rotterdam,Rovigo,2023-02-23 09:36,Loaded,Shell
+Al Hamra,2023-02-11 00:56,Das Island,2023-01-29 11:00,Kawasaki,Dabhol,2023-02-24 03:37,Loaded,ADNOC Gas
+British Achiever,2023-02-07 00:00,Toscana,2023-02-01 19:38,Freeport,Atlantic LNG,2023-03-11 09:07,Ballast,BP
+Celsius Canberra,2023-02-03 11:56,Sabine Pass,2023-01-19 16:29,Gate,Rayong MTP,2023-02-24 11:02,Loaded,Cheniere
+Hoegh Galleon,2023-02-02 00:00,Cameron (Liqu.),2023-01-25 14:37,Gwangyang,Gate,2023-02-11 23:00,Loaded,Glencore
+Mu Lan,2023-02-01 18:58,Sabine Pass,2023-01-18 19:30,Yangpu,Futtsu,2023-02-22 04:04,Loaded,PetroChina
+Alicante Knutsen,2023-01-30 22:31,Elba Island Liq.,2023-01-25 15:36,Milford Haven,Aliaga,2023-02-12 09:38,Loaded,Shell
+Ougarta,2023-01-26 00:00,Bethioua,2023-01-25 16:55,Fos Cavaou,Ereglisi,2023-01-30 19:24,Loaded,Sonatrach
+Maran Gas Ulysses,2023-01-24 19:09,Sabine Pass,2023-01-11 22:00,Milford Haven,Aliaga,2023-01-30 06:06,Loaded,Shell
+Aristarchos,2023-01-24 00:00,Sabine Pass,2023-01-03 20:57,United Kingdom,Swinoujscie LNG,2023-02-03 07:51,Loaded,Cheniere
+Prism Diversity,2023-01-23 22:39,Samcheok,2022-09-18 01:21,Freeport,Calcasieu Pass,2023-01-26 08:37,Ballast,SK
+Maran Gas Mystras,2023-01-20 11:07,Cove Point,2023-01-11 21:25,Milford Haven,Revithoussa,2023-02-01 07:07,Loaded,Mitsui
+Gaslog Galveston,2023-01-20 09:00,Corpus Christi,2023-01-07 16:00,Gate,Aliaga,2023-01-25 05:38,Loaded,Cheniere
+LNGShips Athena,2023-01-19 20:54,Sabine Pass,2023-01-05 08:57,Gate,Montoir,2023-01-22 03:57,Loaded,Shell
+Grace Dahlia,2023-01-17 19:26,Bonny LNG,2023-01-12 21:27,Aliaga,Incheon,2023-02-14 01:31,Loaded,NYK Line
+Al Jassasiya,2023-01-17 00:00,Ras Laffan,2023-01-14 23:10,Chittagong,Zeebrugge,2023-02-01 19:55,Loaded,QatarEnergy
+LNG Abalamabie,2023-01-17 00:00,Cameron (Liqu.),2022-12-29 21:10,Aliaga,Arun,2023-02-06 03:25,Loaded,TotalEnergies
+Santander Knutsen,2023-01-15 19:28,Peru LNG,2023-01-15 19:30,South Korea,Dragon,2023-02-13 11:36,Loaded,Shell
+Seapeak Bahrain,2023-01-15 00:00,Sabine Pass,2023-01-06 19:24,Isle of Grain,Fos Cavaou,2023-01-22 07:06,Loaded,TotalEnergies
+Magdala,2023-01-15 00:00,Elba Island Liq.,2023-01-08 00:30,Rotterdam,Dragon,2023-01-24 14:30,Loaded,Shell
+Gaslog Wellington,2023-01-13 00:00,Sabine Pass,2023-01-09 04:34,South Hook,Yung An,2023-02-18 04:39,Loaded,Cheniere
+Maran Gas Achilles,2023-01-11 00:00,Cameron (Liqu.),2022-12-31 21:31,South Hook,Aliaga,2023-01-18 06:06,Loaded,Shell
+Elisa Larus,2023-01-09 13:43,Aliaga,2022-12-03 12:00,Freeport,Corpus Christi,2023-02-06 18:37,Ballast,JERA
+La Seine,2023-01-07 10:39,Sabine Pass,2022-12-24 21:45,South Hook,Aliaga,2023-01-13 05:36,Loaded,TotalEnergies
+Maran Gas Troy,2023-01-06 22:19,Ras Laffan,2023-01-03 08:24,Europe,Rayong MTP,2023-01-17 23:45,Loaded,QatarEnergy
+Malaga Knutsen,2023-01-06 06:25,Dragon,2022-12-26 23:28,Sabine Pass,Atlantic LNG,2023-01-10 10:00,Ballast,Shell
+Flex Volunteer,2023-01-06 00:38,Corpus Christi,2022-12-23 16:37,Netherlands,Revithoussa,2023-01-14 08:34,Loaded,Cheniere
+Rioja Knutsen,2023-01-06 00:00,Sabine Pass,2022-12-25 21:15,Huelva,Sines,2023-01-11 08:29,Loaded,Naturgy
+Flex Vigilant,2023-01-05 10:38,Sabine Pass,2022-12-26 20:07,Revithoussa,Gate,2023-01-10 15:07,Loaded,Cheniere
+Vivirt City LNG,2023-01-04 14:43,Toscana,2022-12-28 22:27,Bonny LNG,Calcasieu Pass,2023-01-11 16:00,Ballast,Vitol
+Hyundai Princepia,2023-01-01 06:13,Sabine Pass,2023-06-16 19:30,Pyeongtaek,Dunkerque,2023-07-01 19:35,Loaded,KOGAS
+Gaslog Hong Kong,2022-12-30 00:09,Cameron (Liqu.),2022-12-17 08:34,Grain,Toscana,2023-01-03 07:45,Loaded,TotalEnergies
+Cool Explorer,2022-12-26 00:22,Goteborg,2022-10-21 07:00,Grain,Toscana,2023-01-11 13:23,Loaded,Glencore
+LNG Bonny II,2022-12-25 15:39,Cove Point,2022-12-13 14:08,Milford Haven,Ereglisi,2023-01-02 05:23,Loaded,NLNG
+Al Jassasiya,2022-12-25 10:51,Ras Laffan,2022-12-21 16:02,Port Qasim FSRU,Moheshkhali,2022-12-30 03:33,Loaded,QatarEnergy
+Maran Gas Ulysses,2022-12-25 06:09,Sabine Pass,2022-12-10 20:15,Gate,Dunkerque,2022-12-25 04:08,Loaded,Shell
+LNG Adamawa,2022-12-23 08:13,Bonny LNG,2022-11-28 18:05,Naoetsu,Yung An,2022-12-29 01:37,Loaded,NLNG
+BW Magnolia,2022-12-21 13:09,Dragon,2022-12-21 15:37,Freeport,Sabine Pass,2023-01-19 07:56,Ballast,BP
+Point Fortin,2022-12-20 13:58,Gaolan,2022-11-25 09:07,Freeport,Corpus Christi,2023-01-11 00:03,Ballast,TotalEnergies
+Dorado LNG,2022-12-20 12:39,Sabine Pass,2022-12-02 16:28,India,Zeebrugge,2022-12-27 00:07,Loaded,Cheniere
+BW Pavilion Vanda,2022-12-20 10:13,Cameron (Liqu.),2022-12-19 18:10,Isle of Grain,Fos Cavaou,2023-01-05 07:24,Loaded,TotalEnergies
+Hellas Athina,2022-12-20 00:00,Corpus Christi,2022-12-05 17:45,Dunkerque,Incheon,2023-01-28 03:25,Loaded,Trafigura
+Celsius Charlotte,2022-12-17 21:31,Corpus Christi,2022-11-07 13:30,Turkey,South Hook,2022-12-21 18:35,Loaded,Cheniere
+Macoma,2022-12-15 03:25,Peru LNG,2022-12-09 18:17,Spain,Incheon,2023-01-12 02:03,Loaded,Shell
+Energos Celsius,2022-12-14 22:09,Idku,2022-11-18 00:54,Swinoujscie Area,Toscana,2022-12-13 12:08,Loaded,Uniper
+Flex Endeavour,2022-12-14 18:38,Sabine Pass,2022-11-23 00:58,EemsEnergyTerminal,Aliaga,2022-12-22 10:59,Loaded,Cheniere
+Gaslog Sydney,2022-12-13 00:43,Sabine Pass,2022-12-08 04:06,Huelva,Swinoujscie LNG,2022-12-26 09:53,Loaded,Naturgy
+BW Batangas,2022-12-12 03:43,Bontang,2022-11-14 05:39,Zeebrugge,Etki,2022-12-17 06:09,Loaded,TotalEnergies
+Trinity Glory,2022-12-10 06:09,Tangguh,2022-11-25 18:28,Futtsu,Qingdao,2022-12-21 01:08,Loaded,JERA
+BW Tulip,2022-12-09 09:39,Sabine Pass,2022-12-02 10:29,China,Incheon,2023-01-05 04:08,Loaded,TotalEnergies
+Global Energy,2022-12-08 17:39,Ras Laffan,2022-11-23 04:34,Dalian,Joetsu Chubu,2022-12-09 03:00,Loaded,Cheniere
+Seapeak Yamal,2022-12-08 08:20,Zeebrugge,2022-11-30 07:56,Aliaga,Caofeidian,2022-12-28 02:35,Loaded,OAO Yamal LNG
+Gaslog Geneva,2022-12-08 06:29,Sabine Pass,2022-11-27 16:27,France,Bilbao,2023-01-14 09:36,Loaded,Shell
+Kmarin Diamond,2022-12-06 03:43,Sabine Pass,2022-11-27 13:58,Grain,Krk LNG FSRU,2022-12-17 05:34,Loaded,BP
+Rias Baixas Knutsen,2022-12-06 00:00,Corpus Christi,2022-11-27 02:09,Huelva,South Hook,2022-12-11 11:35,Loaded,Pavilion Gas
+Magdala,2022-11-28 21:20,Sabine Pass,2022-11-22 03:39,Chile,Fos Cavaou,2022-12-18 18:32,Loaded,Shell
+Yiannis,2022-11-28 14:35,Corpus Christi,2022-10-11 11:45,Europe,Futtsu,2023-01-11 00:34,Loaded,Shell
+Shinshu Maru,2022-11-27 16:28,Dunkerque,2022-11-17 16:45,Freeport,Corpus Christi,2022-12-19 23:08,Ballast,JERA
+Cool Runner,2022-11-25 19:09,South Hook,2022-10-18 18:15,Freeport,Calcasieu Pass,2022-12-01 16:55,Ballast,Equinor
+Seapeak Vancouver,2022-11-25 00:00,Bahia,2022-11-08 09:37,Freeport Texas,Bahia,2022-12-20 10:36,Loaded,Petrobras
+LNG Akwa Ibom,2022-11-24 15:43,Bonny LNG,2022-10-26 02:40,Yung An,Rayong MTP,2022-12-01 00:59,Loaded,NLNG
+Hyundai Cosmopia,2022-11-24 01:43,Ras Laffan,2022-11-19 01:05,PipeChina Tianjin,Tongyeong,2022-12-05 02:06,Loaded,KOGAS
+Castillo De Caldelas,2022-11-23 18:43,Corpus Christi,2022-11-16 08:47,Huelva,Toscana,2022-12-01 13:07,Loaded,Naturgy
+Seapeak Oak,2022-11-21 18:13,Sabine Pass,2022-11-18 12:07,Tianjin,Revithoussa,2022-12-05 10:07,Loaded,PetroChina
+SK Resolute,2022-11-17 23:22,Cameron (Liqu.),2022-11-09 06:30,Grain,Costa Norte LNG,2022-11-26 13:29,Loaded,TotalEnergies
+Clean Energy,2022-11-17 00:00,Bethioua,2022-10-24 13:28,Fos Cavaou,Gate,2022-11-19 01:26,Loaded,SEFE M&T
+LNG Rosenrot,2022-11-15 00:00,Gate,2022-11-05 00:43,Freeport,Bethioua,2022-11-25 16:31,Ballast,Uniper
+LNG Alliance,2022-11-14 01:43,Das Island,2022-10-18 23:08,Europe,Hazira,2022-11-23 10:07,Loaded,TotalEnergies
+Seapeak Bahrain,2022-11-10 10:43,Sabine Pass,2022-11-07 21:07,Grain,Aliaga,2022-11-23 12:02,Loaded,TotalEnergies
+Seapeak Hispania,2022-11-10 05:43,Idku,2022-10-29 20:40,Gate,Fos Cavaou,2022-11-26 20:57,Loaded,Glencore
+Elisa Aquila,2022-11-07 14:43,Snohvit,2022-10-27 04:43,Grain,Fos Cavaou,2022-11-20 20:37,Loaded,Edison
+Maran Gas Achilles,2022-11-07 08:40,Sabine Pass,2022-10-23 13:09,Bilbao,EemsEnergyTerminal,2022-11-09 00:00,Loaded,Shell
+Kinisis,2022-11-06 01:13,Qalhat,2022-11-01 16:37,Incheon,Chita,2022-12-02 01:38,Loaded,BP
+Gaslog Santiago,2022-11-06 00:00,Idku,2022-09-26 10:37,Yangshan,Chita,2022-11-13 01:12,Loaded,Trafigura
+Wilforce,2022-11-05 20:43,Atlantic LNG,2022-09-22 22:28,Yung An,Rayong MTP,2022-11-13 02:00,Loaded,Awilco AS
+Energy Glory,2022-11-03 00:00,Cameron (Liqu.),2022-10-20 22:09,Cartagena,Gate,2022-11-09 01:34,Loaded,Marubeni
+Seri Camar,2022-11-01 07:13,GLNG,2022-11-01 12:01,Pengerang LNG,Yangshan,2022-11-14 07:37,Loaded,Petronas
+Gaslog Warsaw,2022-10-31 20:13,Corpus Christi,2022-10-17 12:05,Huelva,Fos Cavaou,2022-11-04 07:05,Loaded,Endesa
+Woodside Rees Withers,2022-10-31 02:26,NWS,2022-10-29 01:00,Quanzhou,Gate,2022-11-26 21:08,Loaded,Woodside Energy
+Palu LNG,2022-10-29 15:39,Calcasieu Pass,2022-10-03 07:55,France,Pyeong Taek,2023-01-01 03:00,Loaded,Trafigura
+Energos Force,2022-10-29 12:27,Sabine Pass,2022-10-11 23:07,Gate,Cartagena (COL),2022-11-08 11:54,Loaded,Glencore
+British Mentor,2022-10-29 06:43,Damietta,2022-10-05 16:37,Milford Haven,Krk LNG FSRU,2022-11-04 00:08,Loaded,BP
+BW Tulip,2022-10-28 15:29,Cameron (Liqu.),2022-10-15 12:07,Grain,Fos Cavaou,2022-11-16 18:29,Loaded,TotalEnergies
+Tenergy,2022-10-28 10:35,Corpus Christi,2022-09-13 18:10,Milford Haven,Dunkerque,2022-10-28 10:35,Loaded,Trafigura
+Vivit Americas LNG,2022-10-28 00:00,Sabine Pass,2022-09-24 23:37,Netherlands,South Hook,2022-11-04 10:36,Loaded,Vitol
+Kool Glacier,2022-10-27 19:40,Calcasieu Pass,2022-10-16 21:15,Rotterdam,Bilbao,2022-11-12 05:35,Loaded,Vitol
+Nfe Penguin,2022-10-27 06:43,Sabine Pass,2022-10-13 14:25,Netherlands,SLNG,2022-11-19 00:56,Loaded,Shell
+Adriano Knutsen,2022-10-24 04:20,Cameron (Liqu.),2022-10-06 15:37,Gate,Fujian,2022-11-14 02:07,Loaded,Endesa
+Vivit Arabia LNG,2022-10-23 11:45,Bioko,2022-10-01 06:21,Rotterdam,Toscana,2022-11-19 12:28,Loaded,Vitol
+Kool Frost,2022-10-23 08:38,Bintulu,2022-09-28 11:30,Ningbo,Nihonku,2022-10-26 01:27,Loaded,CNOOC
+Seri Begawan,2022-10-20 22:00,GLNG,2022-10-07 06:07,Pengerang LNG,Ohgishima,2022-10-23 00:25,Loaded,Petronas
+Maran Gas Amorgos,2022-10-20 06:23,Bethioua,2022-10-08 06:21,Gate,Rudong,2022-11-16 06:04,Loaded,Uniper
+Global Energy,2022-10-20 00:00,Sabine Pass,2022-09-11 07:49,Netherlands,Swinoujscie LNG,2022-10-30 08:37,Loaded,Cheniere
+Flex Vigilant,2022-10-19 06:29,Sabine Pass,2022-10-07 12:25,France,EemsEnergyTerminal,2022-10-27 00:07,Loaded,Cheniere
+Maran Gas Chios,2022-10-18 15:37,Elba Island Liq.,2022-10-04 07:06,Gate,Dunkerque,2022-10-18 15:37,Loaded,Shell
+Kmarin Diamond,2022-10-18 07:43,Damietta,2022-09-30 17:37,Toscana,Bilbao,2022-11-09 15:36,Loaded,BP
+Maran Gas Andros,2022-10-16 01:04,Gorgon,2022-10-01 05:22,Qingdao,Futtsu,2022-10-20 00:36,Loaded,JERA
+BW Brussels,2022-10-16 00:32,Cameron (Liqu.),2022-09-24 13:36,Dunkerque,Zeebrugge,2022-10-16 00:32,Loaded,TotalEnergies
+Kool Kelvin,2022-10-15 12:20,Wheatstone,2022-10-03 05:30,Fujian,Tongyeong,2022-10-17 04:07,Loaded,JERA
+La Seine,2022-10-15 11:43,Cameron (Liqu.),2022-09-28 12:29,Rotterdam,Yung An,2022-11-17 00:36,Loaded,TotalEnergies
+LNGShips Athena,2022-10-14 03:57,Calcasieu Pass,2022-09-26 17:39,Zeebrugge,Al Zour,2022-10-27 22:18,Loaded,Shell
+Wilpride,2022-10-12 23:09,Bioko,2022-09-23 16:09,Gate,Saint John LNG,2022-11-14 23:39,Loaded,Cheniere
+BW Clear Sky,2022-10-12 08:02,Calcasieu Pass,2022-10-05 16:36,Brazil,Revithoussa,2022-10-21 17:09,Loaded,TotalEnergies
+Global Sea Spirit,2022-10-11 19:41,Sabine Pass,2022-09-04 00:00,France,Yung An,2022-11-01 01:00,Loaded,Cheniere
+Asklipios,2022-10-11 17:23,Corpus Christi,2022-09-17 20:15,Gate,Fujian,2022-11-05 08:53,Loaded,Cheniere
+Seri Balqis,2022-10-11 12:43,Bioko,2022-10-07 20:46,PipeChina Tianjin,Aliaga,2022-11-01 05:28,Loaded,Yemen LNG
+Maran Gas Agamemnon,2022-10-10 01:39,QCLNG,2022-09-28 14:29,Ningbo Chuanshan,SLNG,2022-10-10 03:09,Loaded,Shell
+Kool Firn,2022-10-08 00:00,Sabine Pass,2022-09-01 19:55,Argentina,South Hook,2022-10-10 06:30,Loaded,Shell
+Global Sealine,2022-10-07 14:23,Sabine Pass,2022-09-30 04:30,Taiwan,Dunkerque,2022-10-14 05:00,Loaded,Cheniere
+Puteri Firus Satu,2022-10-06 00:43,Bintulu,2022-10-01 13:00,Japan,Rayong MTP,2022-10-12 00:00,Loaded,Petronas
+Maran Gas Hydra,2022-10-04 23:28,Atlantic LNG,2022-09-07 00:37,Asia,Sagunto,2022-10-08 05:00,Loaded,Shell
+LNG Fukurokuju,2022-10-04 15:43,Ereglisi,2022-09-20 17:30,Arun,Hazira,2022-10-19 12:03,Loaded,TotalEnergies
+Gaslog Gladstone,2022-10-03 15:43,Atlantic LNG,2022-09-18 11:39,Eemshaven,Al Zour,2022-10-19 23:07,Loaded,Shell
+Pan Europe,2022-10-03 13:41,QCLNG,2022-09-23 22:57,PipeChina Beihai,SLNG,2022-10-04 01:50,Loaded,Shell
+Amberjack LNG,2022-10-01 00:09,Sabine Pass,2022-09-02 21:28,Gate,Rayong MTP,2022-10-21 05:50,Loaded,Cheniere
+Maran Gas Roxana,2022-09-30 06:29,Sabine Pass,2022-09-28 06:00,Dunkerque,Klaipeda,2022-11-13 06:04,Loaded,Shell
+Castillo De Merida,2022-09-29 23:28,Sabine Pass,2022-09-07 21:07,Futtsu,Incheon,2022-10-14 01:25,Loaded,Naturgy
+Castillo De Santisteban,2022-09-27 23:37,QCLNG,2022-09-16 01:01,Ningbo,Boryeong,2022-10-01 02:25,Loaded,Shell
+Gaslog Greece,2022-09-27 03:26,Sabine Pass,2022-08-30 04:26,Rovigo,EemsEnergyTerminal,2022-10-09 23:45,Loaded,Shell
+Bilbao Knutsen,2022-09-27 00:00,Peru LNG,2022-09-20 06:02,Acajutla LNG Terminal,Dragon,2022-11-14 14:37,Loaded,Shell
+Energos Power,2022-09-26 21:28,Sabine Pass,2022-09-21 12:36,Grain,Zeebrugge,2022-10-08 14:33,Loaded,TotalEnergies
+Sk Supreme,2022-09-26 00:13,Ras Laffan,2022-09-24 03:38,Port of Suez,Pyeong Taek,2022-10-09 05:50,Loaded,KOGAS
+Diamond Gas Victoria,2022-09-24 09:07,Calcasieu Pass,2022-08-12 22:56,China,Samcheok,2022-09-21 01:29,Loaded,Mitsubishi
+LNG Endurance,2022-09-22 09:43,Cameron (Liqu.),2022-09-22 14:20,Europe,Arun,2022-10-22 03:59,Loaded,TotalEnergies
+Marvel Heron,2022-09-22 09:00,Cameron (Liqu.),2022-09-18 11:37,Osaka,Boryeong,2022-10-22 04:31,Loaded,Mitsui
+BW Enn Crystal Sky,2022-09-21 21:13,Sabine Pass,2022-09-18 23:30,Tianjin,Dunkerque,2022-10-03 01:07,Loaded,ENN
+Methane Patricia Camila,2022-09-14 06:31,QCLNG,2022-09-07 10:45,Ningbo,SLNG,2022-09-28 01:34,Loaded,Shell
+Kool Baltic,2022-09-12 13:32,Elba Island Liq.,2022-08-20 04:09,Rotterdam,Rovigo,2022-09-25 16:20,Loaded,Shell
+Gaslog Geneva,2022-09-04 18:04,QCLNG,2022-09-03 00:45,Ningbo,SLNG,2022-09-15 03:35,Loaded,Shell
+LNG Endeavour,2022-09-03 16:13,Corpus Christi,2022-08-22 23:58,Grain,Revithoussa,2022-09-18 06:51,Loaded,TotalEnergies
+Pan Africa,2022-09-02 00:28,QCLNG,2022-08-24 03:37,Ningbo,Sodegaura,2022-09-09 02:37,Loaded,Shell
+Maran Gas Coronis,2022-09-02 00:00,Bethioua,2022-08-27 07:37,Gate,Dahej,2022-10-03 09:37,Loaded,Gazprom
+Energy Endeavour,2022-09-01 07:15,Sabine Pass,2022-07-19 22:37,Gate,Grain,2022-09-01 13:00,Loaded,Cheniere
+Nfe Penguin,2022-08-30 13:44,Sabine Pass,2022-08-15 19:53,South Korea,Dragon,2022-09-22 04:39,Loaded,Shell
+Maran Gas Hector,2022-08-29 19:39,Sabine Pass,2022-07-26 07:05,China,Tongyeong,2022-08-30 04:18,Loaded,Shell
+Seri Balhaf,2022-08-29 16:58,Bioko,2022-08-13 11:24,PipeChina Tianjin,Ohgishima,2022-09-16 01:24,Loaded,TotalEnergies
+Maran Gas Alexandria,2022-08-28 17:13,Cameron (Liqu.),2022-08-15 03:37,Zeebrugge,Al Zour,2022-09-11 04:38,Loaded,TotalEnergies
+Energos Power,2022-08-28 04:13,Cameron (Liqu.),2022-08-21 02:16,Asia,Zeebrugge,2022-09-05 09:37,Loaded,TotalEnergies
+Aristidis I,2022-08-27 14:28,Cove Point,2022-07-21 05:59,Escobar,Andres,2022-08-07 11:31,Loaded,BP
+Pan Asia,2022-08-26 22:43,QCLNG,2022-08-16 02:58,Ningbo,Tongyeong,2022-08-27 04:09,Loaded,Shell
+British Mentor,2022-08-26 15:40,Escobar,2022-08-07 20:30,Coral South FLNG,Qalhat,2022-09-05 11:55,Ballast,BP
+Bu Samra,2022-08-22 21:09,Ras Laffan,2022-08-21 23:37,Rudong,Tongyeong,2022-09-09 02:42,Loaded,QatarEnergy
+Maran Gas Achilles,2022-08-21 03:31,Elba Island Liq.,2022-08-10 08:30,Escobar,Atlantic LNG,2022-08-23 10:59,Loaded,Shell
+Castillo De Caldelas,2022-08-17 00:00,Corpus Christi,2022-08-03 03:30,Bahia Blanca,Montoir,2022-09-01 05:38,Loaded,Naturgy
+Flex Rainbow,2022-08-13 12:58,Bonny LNG,2022-08-06 08:15,Bahia Blanca,Dunkerque,2022-08-30 04:07,Loaded,Gunvor
+Cntic Vpower Global,2022-08-13 00:00,Barcelona,2022-07-31 14:00,Rio,Zeebrugge,2022-09-03 05:05,Loaded,China National Technical Import & Export Corporation
+LNG Abalamabie,2022-08-12 00:00,Cameron (Liqu.),2022-08-07 23:27,Montoir,Revithoussa,2022-08-23 07:38,Loaded,TotalEnergies
+LNG Endurance,2022-08-11 17:11,Calcasieu Pass,2022-08-10 04:40,Montoir,Krk LNG FSRU,2022-08-30 05:13,Loaded,TotalEnergies
+Maran Gas Spetses,2022-08-11 08:00,Sabine Pass,2022-08-04 09:30,Quintero,Rayong MTP,2022-10-05 06:00,Loaded,Shell
+Marvel Eagle,2022-08-11 00:00,Qalhat,2022-08-10 11:45,Port Qasim,Al Zour,2022-08-14 22:07,Loaded,Mitsui
+Rasheeda,2022-08-09 23:39,Ras Laffan,2022-08-09 16:00,Rudong,Tongyeong,2022-08-25 02:31,Loaded,QatarEnergy
+Merchant,2022-08-08 09:58,NWS,2022-08-08 09:03,Quanzhou,Arun,2022-08-16 18:31,Loaded,NFE
+Minerva Limnos,2022-08-08 03:09,Sabine Pass,2022-08-06 09:37,France,Yanai,2022-09-07 01:51,Loaded,TotalEnergies
+Methane Julia Louise,2022-08-08 00:00,Gorgon,2022-08-04 02:03,SLNG,Hachinohe II,2022-08-19 00:52,Loaded,Shell
+Al Aamriya,2022-08-05 17:39,Ras Laffan,2022-08-05 18:45,Shenzhen,Futtsu,2022-08-27 02:55,Loaded,QatarEnergy
+Maran Gas Amphipolis,2022-08-03 01:58,QCLNG,2022-08-03 01:30,Ningbo,Sodegaura,2022-08-17 02:06,Loaded,Shell
+Prism Brilliance,2022-08-03 00:00,Bioko,2022-07-31 09:30,Gate,Sines,2022-08-31 18:09,Loaded,SK
+Gaslog Houston,2022-07-30 13:39,Atlantic LNG,2022-07-27 17:01,Bilbao,Ningbo,2022-09-07 07:45,Loaded,Shell
+Gaslog Hong Kong,2022-07-28 10:58,Sabine Pass,2022-07-09 17:15,Escobar,Dunkerque,2022-08-13 21:37,Loaded,TotalEnergies
+Marvel Swan,2022-07-26 00:38,Cameron (Liqu.),2022-06-27 22:29,Japan,Gaolan,2022-08-01 02:33,Loaded,Mitsui
+Solaris,2022-07-24 21:28,Cameron (Liqu.),2022-07-16 14:45,United Kingdom,SLNG,2022-08-22 01:32,Loaded,Mitsubishi
+LNG Bonny II,2022-07-24 09:28,Atlantic LNG,2022-07-01 00:34,Rayong,Dapeng,2022-08-15 06:39,Loaded,NLNG
+Diamond Gas Crystal,2022-07-22 08:39,Sabine Pass,2022-07-22 09:01,Gate,Samcheok,2022-08-19 03:55,Loaded,BP
+LNG Sakura,2022-07-19 10:41,Sabine Pass,2022-07-05 06:01,Zeebrugge,Montoir,2022-07-27 02:30,Loaded,Cheniere
+Seapeak Galicia,2022-07-18 11:28,Bontang,2022-06-27 19:31,Dapeng,Soma,2022-07-26 23:05,Loaded,Eni
+Clean Ocean,2022-07-17 17:08,Zeebrugge,2022-06-26 01:34,China,SLNG,2022-07-18 00:36,Loaded,OAO Yamal LNG
+Maran Gas Ulysses,2022-07-13 01:25,Sabine Pass,2022-07-03 11:30,Gate,Dahej,2022-07-29 22:36,Loaded,GAIL
+Global Sealine,2022-07-12 17:00,Sabine Pass,2022-07-02 15:43,Swinoujscie LNG,Taichung,2022-08-07 22:44,Loaded,Cheniere
+Ibra LNG,2022-07-12 13:05,Qalhat,2022-07-08 07:33,Europe,Dahej,2022-07-31 23:37,Loaded,Oman LNG
+Gaslog Galveston,2022-07-08 17:37,Sabine Pass,2022-06-29 06:15,Barcelona,Montoir,2022-07-20 19:00,Loaded,Cheniere
+Al Rekayyat,2022-07-07 10:19,Ras Laffan,2022-06-30 04:01,Suez Canal,Hazira,2022-07-16 06:04,Loaded,QatarEnergy
+Maran Gas Hector,2022-07-07 00:00,Sabine Pass,2022-06-26 18:30,Bilbao,Gate,2022-07-09 02:08,Loaded,Shell
+Celsius Canberra,2022-07-05 14:32,Corpus Christi,2022-07-02 08:02,Yung An,Swinoujscie LNG,2022-07-30 07:38,Loaded,Cheniere
+BW Tulip,2022-07-04 21:19,Cameron (Liqu.),2022-06-18 21:27,Montoir,Klaipeda,2022-07-09 05:00,Loaded,TotalEnergies
+Seapeak Madrid,2022-07-02 01:46,Peru LNG,2022-06-11 23:03,United Kingdom,Boryeong,2022-08-01 02:37,Loaded,Shell
+LNGShips Empress,2022-07-01 03:16,Peru LNG,2022-06-01 03:33,United Kingdom,Dapeng,2022-07-24 05:57,Loaded,Shell
+Minerva Psara,2022-06-26 16:31,Peru LNG,2022-05-26 19:03,United Kingdom,Pyeong Taek,2022-07-23 00:45,Loaded,Shell
+Maran Gas Roxana,2022-06-24 00:00,Peru LNG,2022-06-08 16:56,United Kingdom,Incheon,2022-07-20 04:06,Loaded,Shell
+Methane Becki Anne,2022-06-24 00:00,Peru LNG,2022-05-19 18:08,Milford Haven,PipeChina Yuedong,2022-07-19 04:04,Loaded,Shell
+Gaslog Georgetown,2022-06-21 14:47,Sabine Pass,2022-06-11 11:14,Poland,Hig. Ohgishima,2022-07-20 00:36,Loaded,Cheniere
+Flex Ranger,2022-06-20 11:45,Sabine Pass,2022-06-08 07:34,Grain,Dunkerque,2022-06-20 18:44,Loaded,Cheniere
+Arctic Aurora,2022-06-14 21:45,Snohvit,2022-06-11 18:06,Klaipeda,Fos Cavaou,2022-07-08 06:04,Loaded,Equinor
+Global Star,2022-06-10 01:15,APLNG,2022-06-10 03:56,Qingdao,Incheon,2022-06-20 04:30,Loaded,TotalEnergies
+Energos Power,2022-06-09 22:15,Freeport,2022-05-29 14:58,Grain,Klaipeda,2022-06-21 07:14,Loaded,TotalEnergies
+LNG Enterprise,2022-06-07 19:31,Cove Point,2022-05-20 15:04,Toscana,Hazira,2022-06-21 04:15,Loaded,Shell
+BW Pavilion Aranthera,2022-06-07 12:45,Freeport,2022-06-03 14:29,Grain,Rayong MTP,2022-07-14 06:54,Loaded,Pavilion Gas
+Energy Liberty,2022-06-05 08:15,Cove Point,2022-04-28 20:57,Swinoujscie LNG,Grain,2022-06-22 05:30,Loaded,Tokyo Gas
+Maran Gas Achilles,2022-06-04 22:15,QCLNG,2022-06-04 22:17,Shenzhen,Quintero,2022-06-24 19:42,Loaded,Shell
+Marvel Hawk,2022-06-04 01:50,Cameron (Liqu.),2022-06-01 16:28,Huelva,Boryeong,2022-07-01 01:30,Loaded,Mitsui
+Gaslog Gibraltar,2022-06-03 01:15,Sabine Pass,2022-05-28 00:31,Gate,Rayong MTP,2022-07-01 06:45,Loaded,Shell
+Barcelona Knutsen,2022-06-01 15:33,QCLNG,2022-05-26 18:59,Ningbo,SLNG,2022-06-08 01:31,Loaded,Shell
+Mu Lan,2022-05-29 13:01,Sabine Pass,2022-05-25 03:59,Shanghai,Sagunto,2022-06-08 04:45,Loaded,PetroChina
+Methane Patricia Camila,2022-05-27 17:50,Gorgon,2022-05-18 23:01,Tangshan,Sakai,2022-06-01 02:22,Loaded,Shell
+Maran Gas Coronis,2022-05-25 16:31,Das Island,2022-04-27 00:03,Hazira,GasPort LNG,2022-06-02 07:36,Loaded,PetroChina
+Nfe Penguin,2022-05-25 14:50,Sabine Pass,2022-04-30 13:15,Incheon,Dahej,2022-05-27 20:32,Loaded,Shell
+British Partner,2022-05-25 13:01,Gorgon,2022-05-21 11:01,Osaka,Dapeng,2022-06-08 02:45,Loaded,BP
+LNG Schneeweisschen,2022-05-25 00:00,Freeport,2022-05-13 16:13,Grain,Rio,2022-06-07 10:59,Loaded,Uniper
+Al Hamla,2022-05-22 01:10,Ras Laffan,2022-05-12 21:29,Europe,Dapeng,2022-05-26 02:45,Loaded,QatarEnergy
+LNG Abalamabie,2022-05-20 21:01,Sabine Pass,2022-05-18 10:01,Rovigo,Al Zour,2022-06-15 22:15,Loaded,NLNG
+Gaslog Gladstone,2022-05-19 01:09,Sabine Pass,2022-05-11 13:15,Bilbao,Swinoujscie LNG,2022-05-26 11:57,Loaded,Shell
+Duhail,2022-05-16 03:40,Ras Laffan,2022-05-08 20:16,Ningbo Area,Swinoujscie LNG,2022-06-07 07:05,Loaded,QatarEnergy
+Energy Intelligence,2022-05-15 01:20,Cameroon FLNG Terminal,2022-05-05 17:30,Asia,Gate,2022-06-06 00:56,Loaded,SEFE M&T
+Hoegh Gandria,2022-05-12 20:43,Elba Island Liq.,2022-05-03 02:32,Swinoujscie Area,Gate,2022-05-13 01:13,Loaded,Shell
+Hoegh Esperanza,2022-05-11 23:03,Calcasieu Pass,2022-05-04 21:01,Milford Haven,Bahia,2022-05-27 11:28,Loaded,Hoegh
+Valencia Knutsen,2022-05-06 11:30,Peru LNG,2022-05-02 00:00,South Korea,Yung An,2022-08-28 00:07,Loaded,Shell
+Cool Runner,2022-05-05 16:01,Freeport,2022-04-26 23:03,Klaipeda,Fos Cavaou,2022-05-19 06:42,Loaded,Equinor
+Arrow Spirit,2022-05-05 00:05,Bethioua,2022-04-29 08:18,Montoir,GasPort LNG,2022-05-17 06:14,Loaded,Vitol
+SK Resolute,2022-05-02 15:02,Sabine Pass,2022-04-10 22:14,Aliaga,Rovigo,2022-05-04 08:29,Loaded,TotalEnergies
+Aristarchos,2022-05-01 09:04,Sabine Pass,2022-04-04 22:30,Taiwan,Dahej,2022-05-03 17:57,Loaded,Cheniere
+Gaslog Shanghai,2022-05-01 07:04,Freeport,2022-03-27 13:05,PipeChina Tianjin,Arun,2022-05-09 02:19,Loaded,TotalEnergies
+Marvel Hawk,2022-04-29 00:00,Corpus Christi,2022-04-24 10:30,Milford Haven,Huelva,2022-05-06 04:31,Loaded,Cheniere
+LNG Adamawa,2022-04-23 14:15,Bonny LNG,2022-04-18 04:01,China,Mundra,2022-05-12 06:29,Loaded,NLNG
+Maria Energy,2022-04-21 00:00,Corpus Christi,2022-04-11 15:15,Grain,Ereglisi,2022-05-11 14:45,Loaded,Cheniere
+Al Khuwair,2022-04-20 12:01,Ras Laffan,2022-04-18 16:31,Mundra,Zeebrugge,2022-05-06 19:28,Loaded,QatarEnergy
+Sohar LNG,2022-04-18 00:30,Qalhat,2022-04-17 22:31,Kawasaki,Ningbo,2022-05-14 02:19,Loaded,Oman LNG
+Methane Mickie Harper,2022-04-18 00:00,Peru LNG,2022-04-15 18:37,South Korea,Bilbao,2022-05-24 00:41,Loaded,Shell
+Amadi,2022-04-17 15:01,Lumut I,2022-04-15 22:13,Yokohama,Rayong MTP,2022-04-22 00:19,Loaded,Brunei LNG
+Gaslog Gibraltar,2022-04-16 16:10,Sabine Pass,2022-04-17 04:19,United Kingdom,Dunkerque,2022-05-04 23:00,Loaded,Shell
+Gaslog Westminster,2022-04-15 03:01,Sabine Pass,2022-04-09 10:35,Gate,Grain,2022-04-27 08:13,Loaded,Centrica Plc
+Salalah LNG,2022-04-15 00:01,Qalhat,2022-04-14 00:00,Futtsu,Sagunto,2022-04-26 08:00,Loaded,Oman LNG
+LNG Endurance,2022-04-14 20:50,Cameron (Liqu.),2022-04-14 21:18,Gate,Montoir,2022-04-29 01:48,Loaded,TotalEnergies
+Flex Courageous,2022-04-13 12:01,Bintulu,2022-04-10 12:57,Rayong MTP,Yung An,2022-04-22 00:15,Loaded,Shell
+LNG Abalamabie,2022-04-13 11:45,Bonny LNG,2022-04-06 07:01,Montoir,Barcelona,2022-04-18 09:29,Loaded,NLNG
+La Seine,2022-04-12 14:03,Damietta,2022-04-08 00:11,Barcelona,Zeebrugge,2022-04-17 04:03,Loaded,TotalEnergies
+Gaslog Galveston,2022-04-12 12:15,Sabine Pass,2022-03-29 14:30,Milford Haven,Ningbo,2022-05-12 01:18,Loaded,Cheniere
+Maran Gas Mystras,2022-04-07 02:53,Bioko,2022-04-03 09:47,Europe,Dahej,2022-05-07 01:33,Loaded,Shell
+LNG Adventure,2022-04-05 01:31,Bintulu,2022-04-01 13:25,Fos Cavaou,Moheshkhali,2022-04-07 08:19,Loaded,TotalEnergies
+Maran Gas Roxana,2022-04-04 21:34,Peru LNG,2022-04-03 01:21,Far East,Dragon,2022-04-29 22:10,Loaded,Shell
+Sohshu Maru,2022-04-04 09:20,Corpus Christi,2022-04-04 09:15,Panama Canal,Dunkerque,2022-04-16 16:13,Loaded,JERA
+BW Tulip,2022-04-04 00:00,Idku,2022-03-30 12:00,Sagunto,Fos Cavaou,2022-04-06 06:03,Loaded,TotalEnergies
+Merchant,2022-04-03 09:10,Corpus Christi,2022-03-31 16:00,La Paz,Fos Cavaou,2022-04-17 17:25,Loaded,NFE
+Energy Intelligence,2022-04-02 06:21,Cameroon FLNG Terminal,2022-03-30 17:52,Asia,Sagunto,2022-04-17 05:27,Loaded,SEFE M&T
+British Listener,2022-04-02 05:47,Freeport,2022-03-21 23:09,Turkey,Zeebrugge,2022-05-01 03:29,Loaded,BP
+Prism Brilliance,2022-03-31 00:00,Freeport,2022-03-20 18:47,Panama Canal,South Hook,2022-04-21 13:16,Loaded,SK
+Elisa Larus,2022-03-30 00:01,Calcasieu Pass,2022-03-30 00:20,Panama Canal,Dunkerque,2022-04-12 07:01,Loaded,JERA
+Energos Force,2022-03-29 08:45,Freeport,2022-03-29 08:01,Panama Canal,Grain,2022-04-11 17:30,Loaded,JERA
+Marvel Hawk,2022-03-29 00:00,Cameron (Liqu.),2022-03-22 19:56,Gate,South Hook,2022-04-03 04:15,Loaded,Mitsui
+Clean Vision,2022-03-18 00:00,Murmansk Light.,2022-03-13 03:00,Zeebrugge,Rudong,2022-04-18 05:28,Loaded,OAO Yamal LNG
+Al Mafyar,2022-03-18 00:00,Ras Laffan,2022-03-18 12:43,Eastern Asia,South Hook,2022-04-04 10:41,Loaded,QatarEnergy
+LNG Endurance,2022-03-16 21:20,Cameron (Liqu.),2022-03-14 21:07,Sagunto,South Hook,2022-03-29 18:15,Loaded,TotalEnergies
+Nikolay Yevgenov,2022-03-16 00:00,Yamal,2022-03-09 05:00,Montoir,Bilbao,2022-03-18 06:22,Loaded,OAO Yamal LNG
+Kool Boreas,2022-03-15 05:51,Atlantic LNG,2022-03-11 13:47,Quintero,PipeChina Yangpu,2022-04-23 00:29,Loaded,Shell
+Celsius Charlotte,2022-03-13 16:03,Sabine Pass,2022-03-10 22:46,Milford Haven,Swinoujscie LNG,2022-03-28 07:13,Loaded,Cheniere
+Diamond Gas Sakura,2022-03-12 16:45,Cameron (Liqu.),2022-03-04 15:48,Sagunto,Grain,2022-03-20 23:48,Loaded,Mitsubishi
+Gaslog Glasgow,2022-03-12 08:40,Sabine Pass,2022-02-26 00:29,Aliaga,Grain,2022-03-24 01:07,Loaded,Shell
+Nikolay Zubov,2022-03-11 16:33,Yamal,2022-03-10 09:46,Montoir,Zeebrugge,2022-03-18 10:42,Loaded,OAO Yamal LNG
+Pan Americas,2022-03-11 00:00,Sabine Pass,2022-02-26 14:46,Aliaga,Mugardos,2022-03-18 03:44,Loaded,Shell
+Traiano Knutsen,2022-03-10 02:31,Corpus Christi,2022-03-02 17:23,United Kingdom,Dunkerque,2022-03-18 10:15,Loaded,Endesa
+Nohshu Maru,2022-03-09 15:30,Calcasieu Pass,2022-03-17 10:46,Dunkerque,Futtsu,2022-04-15 02:40,Loaded,JERA
+Shinshu Maru,2022-03-09 13:32,Freeport,2022-03-09 13:31,Panama Canal,Dortyol FSRU,2022-03-30 05:08,Loaded,JERA
+Celsius Canberra,2022-03-09 12:40,Sabine Pass,2022-03-01 21:04,Zeebrugge,Bilbao,2022-03-15 09:28,Loaded,Cheniere
+British Mentor,2022-03-07 21:01,Qalhat,2022-02-13 13:29,Yung An,Oita,2022-03-19 01:15,Loaded,BP
+Sonangol Sambizanga,2022-03-07 00:00,Soyo,2022-03-03 11:33,Rayong MTP,Grain,2022-03-16 09:06,Loaded,Angola LNG
+Adam LNG,2022-03-06 16:38,Sabine Pass,2022-03-03 06:27,India,Toscana,2022-03-22 06:07,Loaded,Gunvor
+Coral Energy,2022-03-04 00:00,Vysotsk,2022-03-01 23:00,Klaipeda,Gate,2022-03-10 15:45,Loaded,Gasum Oy
+Fedor Litke,2022-03-03 00:00,Yamal,2022-02-27 20:16,Grain,Zeebrugge,2022-03-06 18:29,Loaded,OAO Yamal LNG
+Rudolf Samoylovich,2022-03-02 15:38,Yamal,2022-03-01 04:22,Zeebrugge,Montoir,2022-03-10 06:34,Loaded,OAO Yamal LNG
+Hoegh Esperanza,2022-03-02 14:45,Sabine Pass,2022-02-22 09:45,Milford Haven,Dortyol FSRU,2022-03-12 08:05,Loaded,Hoegh
+Gaslog Gladstone,2022-02-28 18:40,Bonny LNG,2022-02-21 06:45,Aliaga,Swinoujscie LNG,2022-03-10 08:30,Loaded,Shell
+Hoegh Gannet,2022-02-28 12:26,Sabine Pass,2022-02-18 17:47,Milford Haven,Zeebrugge,2022-03-07 12:56,Loaded,Trafigura
+Christophe De Margerie,2022-02-28 00:00,Yamal,2022-02-26 02:45,Grain,Gate,2022-03-04 21:46,Loaded,OAO Yamal LNG
+Attalos,2022-02-22 22:18,Freeport,2022-02-17 13:31,Krk LNG FSRU,Incheon,2022-03-21 01:00,Loaded,BP
+Gaslog Wellington,2022-02-22 15:30,Freeport,2022-02-22 15:21,Panama Canal,Dunkerque,2022-03-09 07:06,Loaded,JERA
+Gaslog Hong Kong,2022-02-22 00:00,Cameron (Liqu.),2022-02-09 16:31,Gate,Ereglisi,2022-03-02 14:15,Loaded,TotalEnergies
+Methane Patricia Camila,2022-02-20 00:00,Peru LNG,2022-02-13 15:32,Japan,Dragon,2022-03-10 11:01,Loaded,Shell
+Seapeak Meridian,2022-02-17 17:01,Freeport,2022-02-14 04:29,Montoir,Huelva,2022-02-27 11:07,Loaded,TotalEnergies
+Celsius Charlotte,2022-02-15 02:00,Corpus Christi,2022-02-07 00:31,Turkey,Dunkerque,2022-02-22 13:28,Loaded,Cheniere
+Corcovado LNG,2022-02-14 23:15,Freeport,2022-02-14 15:41,Sendai,Gate,2022-03-01 08:15,Loaded,Cardiff Marine
+Seapeak Creole,2022-02-13 17:30,Freeport,2022-02-06 16:16,Milford Haven,Pyeong Taek,2022-03-07 08:48,Loaded,SK
+Rioja Knutsen,2022-02-13 10:04,Sabine Pass,2022-02-09 13:32,Bilbao,Gate,2022-02-22 00:27,Loaded,Naturgy
+Palu LNG,2022-02-13 07:03,Freeport,2022-02-09 15:45,Dunkerque,Incheon,2022-03-09 03:45,Loaded,Trafigura
+Seapeak Magellan,2022-02-12 12:00,Cameron (Liqu.),2022-02-12 20:15,Huelva,Rio,2022-03-23 11:11,Loaded,Petrobras
+Lena River,2022-02-11 19:04,Zeebrugge,2022-01-27 02:25,China,Boryeong,2022-03-01 04:50,Loaded,OAO Yamal LNG
+BW Lesmes,2022-02-09 00:00,Atlantic LNG,2022-02-05 15:29,Suez Canal,Rayong MTP,2022-03-11 00:00,Loaded,BP
+Flex Courageous,2022-02-07 02:06,QCLNG,2022-02-05 09:14,Sodegaura,PipeChina Tianjin,2022-02-19 03:02,Loaded,Shell
+Asklipios,2022-02-06 18:02,Cameron (Liqu.),2022-01-21 14:32,Turkey,Sagunto,2022-02-07 06:35,Loaded,Mitsui
+Gaslog Georgetown,2022-02-06 00:48,Sabine Pass,2022-01-23 03:01,Sagunto,Aliaga,2022-02-10 13:34,Loaded,Cheniere
+LNG Endeavour,2022-02-05 02:01,Cameron (Liqu.),2022-01-30 21:03,Dunkerque,Sagunto,2022-02-12 19:45,Loaded,TotalEnergies
+Flex Freedom,2022-02-03 06:02,Bonny LNG,2022-01-14 17:19,Eastern Asia,Al Zour,2022-02-06 05:09,Loaded,Vitol
+BW Pavilion Leeara,2022-02-03 05:45,Corpus Christi,2022-01-14 05:06,Grain,Grain,2022-02-11 04:34,Loaded,Pavilion Gas
+Qogir,2022-02-03 02:49,Sabine Pass,2022-01-26 13:44,Zeebrugge,Revithoussa,2022-02-12 07:26,Loaded,TotalEnergies
+Maran Gas Vergina,2022-02-01 13:16,Cove Point,2022-01-24 16:09,Cartagena (ESP),Rayong MTP,2022-02-23 00:18,Loaded,Maran Gas Maritime Inc.
+Gaslog Shanghai,2022-01-31 18:31,Freeport,2022-01-28 16:32,Milford Haven,Mejillones,2022-02-22 12:10,Loaded,Gunvor
+Al Safliya,2022-01-31 03:01,Ras Laffan,2022-01-04 16:58,Caofeidian,Incheon,2022-02-02 00:00,Loaded,QatarEnergy
+Duhail,2022-01-31 00:00,Ras Laffan,2022-01-05 08:43,Latin America,Zeebrugge,2022-02-16 10:01,Loaded,QatarEnergy
+LNG Enugu,2022-01-28 23:15,Bonny LNG,2022-01-24 07:04,China,Rayong MTP,2022-02-15 23:50,Loaded,NLNG
+Kool Baltic,2022-01-27 21:01,Bioko,2022-01-20 13:50,Tianjin,Senboku,2022-02-18 02:12,Loaded,Shell
+Maran Gas Ithaca,2022-01-26 22:01,Sabine Pass,2022-01-20 01:34,Grain,Gate,2022-02-03 02:29,Loaded,Cheniere
+British Partner,2022-01-24 00:00,Freeport,2022-01-20 21:28,Grain,Port Açu,2022-02-09 19:04,Loaded,BP
+Iberica Knutsen,2022-01-21 18:30,Sabine Pass,2022-01-21 19:41,Aliaga,Sines,2022-02-05 08:13,Loaded,Naturgy
+Gigira Laitebo,2022-01-20 14:01,PNG LNG,2022-01-14 11:53,Qingdao,Himeji,2022-01-31 01:31,Loaded,PNG LNG
+Woodside Chaney,2022-01-20 00:00,Corpus Christi,2022-01-07 09:19,Gate,Futtsu,2022-02-17 05:01,Loaded,Woodside Energy
+Castillo De Merida,2022-01-19 00:00,Sabine Pass,2022-01-10 02:30,Huelva,Zeebrugge,2022-01-27 10:46,Loaded,Naturgy
+Maria Energy,2022-01-19 00:00,Cove Point,2022-01-12 16:01,Gate,Gate,2022-01-27 01:44,Loaded,TEN
+Bushu Maru,2022-01-18 15:15,Freeport,2022-01-18 15:58,Dunkerque,Hig. Ohgishima,2022-02-12 01:33,Loaded,JERA
+Methane Mickie Harper,2022-01-18 14:31,Peru LNG,2022-01-14 18:50,United Kingdom,Futtsu,2022-02-08 23:16,Loaded,Shell
+Kool Glacier,2022-01-18 00:00,Sabine Pass,2022-01-13 14:59,Gate,South Hook,2022-01-26 07:59,Loaded,Gunvor
+LNG Endurance,2022-01-17 17:04,Freeport,2022-01-07 20:34,Grain,Fos Cavaou,2022-01-22 11:46,Loaded,TotalEnergies
+British Listener,2022-01-14 19:30,Freeport,2022-01-01 21:27,Barcelona,Gate,2022-01-17 08:45,Loaded,BP
+Hoegh Esperanza,2022-01-13 09:15,Bonny LNG,2022-01-02 16:12,Aliaga,Revithoussa,2022-01-15 16:28,Loaded,Vitol
+Merchant,2022-01-13 05:31,Corpus Christi,2022-01-10 13:02,Sines,Bilbao,2022-01-22 17:34,Loaded,Naturgy
+Seapeak Glasgow,2022-01-13 00:00,Freeport,2022-01-04 16:34,Gate,Krk LNG FSRU,2022-01-20 02:37,Loaded,BP
+Diamond Gas Crystal,2022-01-12 17:31,Cameron (Liqu.),2022-01-12 18:31,Panama Canal,Montoir,2022-01-27 23:08,Loaded,Mitsubishi
+Marvel Heron,2022-01-11 19:05,Corpus Christi,2022-01-09 17:45,Grain,Boryeong,2022-02-06 03:17,Loaded,Mitsui
+Qogir,2022-01-10 17:01,Cameron (Liqu.),2022-01-10 18:31,Incheon,Costa Norte LNG,2022-01-14 14:42,Loaded,TotalEnergies
+Murwab,2022-01-09 21:15,Ras Laffan,2022-01-09 21:13,Shenzhen,Futtsu,2022-01-27 23:59,Loaded,QatarEnergy
+Celsius Carolina,2022-01-09 05:36,Sabine Pass,2021-12-24 19:37,Yung An,Grain,2022-01-15 20:12,Loaded,Cheniere
+LNG Borno,2022-01-08 06:15,Bonny LNG,2022-01-01 04:22,Taiwan,Nihonku,2022-02-12 02:54,Loaded,NLNG
+Maran Gas Pericles,2022-01-07 03:46,Elba Island Liq.,2021-12-31 06:34,Bilbao,Gate,2022-01-19 11:00,Loaded,Shell
+Shinshu Maru,2022-01-04 23:44,Corpus Christi,2022-12-22 00:08,Dunkerque,Suez Canal,2023-01-11 22:00,Loaded,JERA
+Nohshu Maru,2022-01-04 15:30,Corpus Christi,2021-12-12 04:32,Japan,Dunkerque,2022-01-11 08:44,Loaded,JERA
+LNG Lagos Ii,2022-01-01 12:45,Bonny LNG,2021-12-16 05:33,Taiwan,Tongyeong,2022-01-20 04:00,Loaded,NLNG
+Neptune,2022-01-01 08:45,Ras Laffan,2021-12-23 04:01,Tianjin,PipeChina Yangpu,2022-01-09 23:27,Loaded,TotalEnergies
+LNG Rosenrot,2021-12-29 21:01,Freeport,2021-12-19 14:44,Zhoushan,Gate,2022-01-02 09:01,Loaded,Uniper
+Al Marrouna,2021-12-28 00:40,Ras Laffan,2021-12-14 11:14,Tianjin,PipeChina Yuedong,2022-01-01 03:20,Loaded,QatarEnergy
+Karadeniz LNGt Powership Black Sea (Kps 89),2021-12-27 12:15,Bontang,2021-12-16 07:11,Shenzhen,Rayong MTP,2022-01-08 00:49,Loaded,Eni
+Rioja Knutsen,2021-12-27 11:34,Sabine Pass,2021-11-22 22:59,Tianjin,SLNG,2022-01-01 07:59,Loaded,Naturgy
+British Achiever,2021-12-26 11:45,Freeport,2021-12-04 20:31,Gate,Port Açu,2022-01-07 12:54,Loaded,BP
+Malanje,2021-12-25 00:01,Soyo,2021-12-23 13:33,Huelva,Dunkerque,2022-01-05 11:13,Loaded,Angola LNG
+Gaslog Greece,2021-12-24 23:15,Sabine Pass,2021-12-22 19:22,Gate,Grain,2022-01-04 11:35,Loaded,Shell
+Grace Emilia,2021-12-24 01:01,Cameron (Liqu.),2021-12-07 19:17,Tianjin,Tongyeong,2022-01-05 04:12,Loaded,Mitsubishi
+BW Lilac,2021-12-24 00:00,Cameron (Liqu.),2021-12-22 04:31,Bilbao,Barcelona,2022-01-04 01:17,Loaded,Repsol
+LNG Oyo,2021-12-24 00:00,Bonny LNG,2021-12-20 16:31,Dahej,Dabhol,2022-01-09 03:02,Loaded,Shell
+Ribera Del Duero Knutsen,2021-12-23 18:15,Sabine Pass,2021-12-17 19:59,Tianjin,Pyeong Taek,2022-01-19 08:10,Loaded,Naturgy
+Hellas Diana,2021-12-23 15:07,Corpus Christi,2021-11-28 16:29,Tianjin,South Hook,2022-01-18 21:07,Loaded,Trafigura
+Bauhinia Spirit,2021-12-22 00:00,Sabine Pass,2021-12-10 17:22,Aliaga,Barcelona,2021-12-27 03:42,Loaded,Cheniere
+Cool Runner,2021-12-21 05:05,Freeport,2021-12-14 22:31,Panama Canal,Pecem,2021-12-31 09:31,Loaded,Equinor
+Maran Gas Sparta,2021-12-20 17:59,Bioko,2021-12-15 10:19,Asia,Bilbao,2022-01-13 08:55,Loaded,Shell
+Maran Gas Mystras,2021-12-20 16:31,Freeport,2021-12-03 15:29,Tianjin,Dortyol FSRU,2021-12-25 04:27,Loaded,Shell
+Maran Gas Amphipolis,2021-12-20 10:15,Peru LNG,2021-12-19 03:46,Panama Canal,Pyeong Taek,2022-01-14 03:49,Loaded,Shell
+Valencia Knutsen,2021-12-20 00:00,Peru LNG,2021-11-22 02:07,Gate,Dragon,2021-12-20 23:11,Loaded,Shell
+Sevilla Knutsen,2021-12-19 23:24,QCLNG,2021-12-11 19:58,Ningbo,SLNG,2021-12-24 01:00,Loaded,Shell
+Marvel Crane,2021-12-19 22:30,Cameron (Liqu.),2021-12-12 14:40,China,Sagunto,2022-01-09 17:30,Loaded,Mitsui
+Shinshu Maru,2021-12-19 19:00,Freeport,2021-12-01 17:44,Barcelona,Incheon,2022-01-12 02:37,Loaded,JERA
+Seapeak Arwa,2021-12-19 00:00,Corpus Christi,2021-12-16 16:01,Yeosu,South Hook,2021-12-27 13:29,Loaded,Trafigura
+LNG Bayelsa,2021-12-18 14:36,Bonny LNG,2021-12-13 12:36,Barcelona,Montoir,2021-12-29 10:44,Loaded,NLNG
+LNG Alliance,2021-12-18 11:30,Bonny LNG,2021-12-17 19:00,Yung An,Fos Cavaou,2021-12-31 07:01,Loaded,TotalEnergies
+Maran Gas Vergina,2021-12-18 00:24,Cove Point,2021-11-24 17:33,Sodegaura,Ereglisi,2021-12-29 14:49,Loaded,Maran Gas Maritime Inc.
+LNG Imo,2021-12-17 11:15,Bonny LNG,2021-12-04 20:32,Dahej,Pyeong Taek,2022-01-12 15:15,Loaded,NLNG
+LNGShips Manhattan,2021-12-16 05:08,Sabine Pass,2021-12-07 14:00,Tianjin,Gate,2021-12-20 07:17,Loaded,Shell
+LNG Finima Ii,2021-12-15 15:29,Bonny LNG,2021-12-01 06:05,China,Cartagena (ESP),2022-01-06 07:00,Loaded,NLNG
+Minerva Chios,2021-12-15 00:00,Sabine Pass,2021-11-20 02:01,Tianjin,Aliaga,2021-12-30 05:44,Loaded,Shell
+LNG Sokoto,2021-12-12 11:01,Bonny LNG,2021-11-28 21:25,Dahej,Yung An,2021-12-29 00:42,Loaded,NLNG
+British Contributor,2021-12-09 01:03,Freeport,2021-12-09 17:46,Brazil,Ereglisi,2022-01-01 23:06,Loaded,BP
+Kool Blizzard,2021-12-07 05:22,Cove Point,2021-12-05 19:14,Rio,Incheon,2022-01-06 07:09,Loaded,Cool Pool
+BW Pavilion Aranthera,2021-12-06 04:01,Sabine Pass,2021-12-06 05:41,Incheon,Yung An,2022-01-06 01:09,Loaded,TotalEnergies
+Attalos,2021-12-03 16:30,Corpus Christi,2021-11-17 18:31,Swinoujscie LNG,Sagunto,2021-12-05 01:15,Loaded,Engie
+Sonangol Sambizanga,2021-12-03 11:45,Soyo,2021-12-02 13:20,Ereglisi,Huelva,2021-12-28 08:15,Loaded,Angola LNG
+Rudolf Samoylovich,2021-12-01 15:02,Yamal,2021-11-29 03:20,Montoir,Gate,2021-12-05 08:01,Loaded,OAO Yamal LNG
+Maran Gas Andros,2021-12-01 00:00,Freeport,2021-11-20 17:31,Dunkerque,Gate,2021-12-03 13:31,Loaded,JERA
+Flex Ranger,2021-11-27 19:30,Sabine Pass,2021-10-30 02:29,Japan,Incheon,2021-12-05 04:42,Loaded,Flex LNG Limited
+Milaha Qatar,2021-11-25 09:01,Ras Laffan,2021-11-24 14:00,Europe,Incheon,2021-12-11 04:03,Loaded,QatarEnergy
+Maran Gas Roxana,2021-11-23 00:00,Peru LNG,2021-11-18 12:03,United Kingdom,Dunkerque,2021-12-10 00:55,Loaded,Shell
+Seapeak Meridian,2021-11-23 00:00,Sabine Pass,2021-11-16 18:09,Rio,Fos Cavaou,2021-12-02 07:00,Loaded,GAIL
+LNG Schneeweisschen,2021-11-21 14:15,Cameron (Liqu.),2021-11-12 17:04,Shenzhen,Ohgishima,2021-12-24 00:19,Loaded,Mitsui
+LNG Adventure,2021-11-19 00:00,Cove Point,2021-11-15 04:49,Huelva,Sines,2021-11-27 08:19,Loaded,TotalEnergies
+Bilbao Knutsen,2021-11-17 00:00,Peru LNG,2021-10-23 19:41,Spain,Gate,2021-11-21 08:31,Loaded,Shell
+Maran Gas Posidonia,2021-11-15 14:02,Cameron (Liqu.),2021-10-14 20:34,Tianjin,Joetsu Chubu,2021-11-17 04:53,Loaded,Shell
+Al Sahla,2021-11-14 18:01,Ras Laffan,2021-11-07 11:47,Europe,PipeChina Dalian,2021-12-03 23:19,Loaded,QatarEnergy
+Flex Freedom,2021-11-14 16:31,Sabine Pass,2021-11-03 12:59,Milford Haven,Chita,2021-12-09 01:35,Loaded,Shell
+Clean Vision,2021-11-12 16:01,Yamal,2021-11-03 18:04,Tianjin,Yung An,2021-12-10 02:12,Loaded,OAO Yamal LNG
+Elisa Larus,2021-11-10 19:45,Freeport,2021-10-29 19:30,Rio,Grain,2021-11-30 05:14,Loaded,JERA
+Seri Cenderawasih,2021-11-10 09:48,GLNG,2021-10-30 12:01,Pengerang LNG,Ohgishima,2021-11-15 00:31,Loaded,Petronas
+Nohshu Maru,2021-11-09 05:31,Corpus Christi,2021-11-09 05:31,Japan,Rio,2021-11-23 10:16,Loaded,Woodside Energy
+Bonito LNG,2021-11-08 00:00,Corpus Christi,2021-10-29 18:42,Barcelona,Sines,2021-11-17 07:46,Loaded,Cheniere
+Qogir,2021-11-07 00:00,Cameron (Liqu.),2021-10-26 18:37,Fos Cavaou,Incheon,2021-12-06 07:10,Loaded,TotalEnergies
+Cadiz Knutsen,2021-11-02 01:15,Sabine Pass,2021-10-26 13:29,Aliaga,Bilbao,2021-11-11 17:31,Loaded,Naturgy
+Global Energy,2021-10-27 22:00,Freeport,2021-10-15 12:59,Tianjin,Gate,2021-11-03 20:27,Loaded,TotalEnergies
+Cool Runner,2021-10-26 07:12,Freeport,2021-10-04 17:45,Japan,GasPort LNG,2021-10-28 08:03,Loaded,Vitol
+Dukhan,2021-10-25 17:45,Ichthys,2021-10-16 02:53,PipeChina Tianjin,Himeji,2021-10-28 05:27,Loaded,Tokyo Gas
+Corcovado LNG,2021-10-22 10:02,Freeport,2021-10-22 13:45,Tokyo Bay,Swinoujscie LNG,2021-11-05 15:24,Loaded,BP
+Prism Agility,2021-10-22 02:01,Freeport,2021-10-18 18:50,Zhoushan,Boryeong,2021-12-06 01:20,Loaded,SK
+Attalos,2021-10-21 11:31,Corpus Christi,2021-10-13 18:12,Aliaga,Rio,2021-10-31 10:42,Loaded,BP
+Shandong Juniper,2021-10-17 21:30,Atlantic LNG,2021-10-02 17:29,Bilbao,Klaipeda,2021-10-25 10:45,Loaded,Shell
+Marshal Vasilevskiy,2021-10-14 00:00,Yamal,2021-09-23 10:07,Eastern Asia,Dabhol,2021-10-23 02:28,Loaded,Gazprom
+Maran Gas Hector,2021-10-13 18:43,Atlantic LNG,2021-10-10 18:43,Europe,Dapeng,2021-11-24 02:59,Loaded,Shell
+Bishu Maru,2021-10-13 00:00,Freeport,2021-09-01 12:30,Sodegaura,Zhoushan,2021-10-13 07:00,Loaded,JERA
+Hellas Diana,2021-10-13 00:00,Corpus Christi,2021-09-11 20:30,PipeChina Tianjin,Pyeong Taek,2021-10-12 23:49,Loaded,Trafigura
+Prachi,2021-10-12 21:55,Gorgon,2021-10-07 03:52,Jiangsu Province,Rayong MTP,2021-10-19 08:19,Loaded,ExxonMobil
+LNG Cross River,2021-10-11 10:01,Bonny LNG,2021-10-03 04:04,Mina Al-Ahmadi,Hazira,2021-10-29 10:01,Loaded,NLNG
+Maran Gas Achilles,2021-10-11 07:47,QCLNG,2021-10-04 18:47,Ningbo,SLNG,2021-10-20 23:24,Loaded,Shell
+Maran Gas Pericles,2021-10-11 00:00,Sabine Pass,2021-09-25 01:13,Tianjin,Aliaga,2021-10-12 04:42,Loaded,Shell
+Point Fortin,2021-10-09 15:00,Cameron (Liqu.),2021-09-25 23:30,Mejillones,Bahia,2021-10-15 10:57,Loaded,TotalEnergies
+Seri Camar,2021-10-09 05:15,GLNG,2021-10-09 10:15,Pengerang LNG,Tongyeong,2021-11-01 04:28,Loaded,Petronas
+Seapeak Oak,2021-10-08 04:30,Idku,2021-09-10 00:40,Fos Cavaou,GasPort LNG,2021-10-19 03:59,Loaded,Teekay
+Celsius Canberra,2021-10-04 00:00,Corpus Christi,2021-09-26 19:29,Taiwan,Rio,2021-10-13 10:29,Loaded,Cheniere
+Celsius Carolina,2021-10-04 00:00,Corpus Christi,2021-09-30 18:31,Brazil,Pyeong Taek,2021-11-11 00:41,Loaded,Cheniere
+Arctic Vostok,2021-10-02 14:59,Bonny LNG,2021-09-11 17:41,Arabian Sea,Rayong MTP,2021-10-12 02:12,Loaded,NLNG
+Al Khuwair,2021-10-01 00:00,Ras Laffan,2021-09-28 10:29,Latin America,Incheon,2021-11-02 07:00,Loaded,QatarEnergy
+Al Mafyar,2021-09-30 18:00,Ras Laffan,2021-09-22 12:59,Port of Suez,Incheon,2021-10-12 00:28,Loaded,QatarEnergy
+Energy Navigator,2021-09-28 05:15,Gorgon,2021-09-13 00:14,Tobata,Taichung,2021-10-02 22:34,Loaded,Tokyo Gas
+LNG River Niger,2021-09-26 00:00,Bonny LNG,2021-09-15 23:51,Dunkerque,Grain,2021-09-29 14:48,Loaded,NLNG
+Qogir,2021-09-25 19:45,Sabine Pass,2021-09-25 20:04,Taichung,Barcelona,2021-10-10 03:42,Loaded,TotalEnergies
+British Sponsor,2021-09-25 16:00,Corpus Christi,2021-09-22 19:20,Rio,Barcelona,2021-10-06 09:43,Loaded,BP
+LNG Enugu,2021-09-24 00:00,Bonny LNG,2021-09-23 12:15,Montoir,Sines,2021-10-02 02:52,Loaded,NLNG
+Myrina,2021-09-23 00:00,Montoir,2021-09-21 04:15,Asia,Bilbao,2021-10-07 05:11,Loaded,Shell
+LNG Dubhe,2021-09-22 16:00,Yamal,2021-09-21 00:10,Grain,Dunkerque,2021-09-28 13:42,Loaded,OAO Yamal LNG
+Energos Grand,2021-09-18 04:13,Sabine Pass,2021-09-10 20:13,La Paz,Fos Cavaou,2021-10-01 05:51,Loaded,NFE
+Energy Atlantic,2021-09-17 08:14,Corpus Christi,2021-09-03 14:59,Gate,Bilbao,2021-09-29 04:59,Loaded,Glencore
+Bilbao Knutsen,2021-09-15 12:40,Elba Island Liq.,2021-09-11 02:43,Europe,Quintero,2021-10-18 14:23,Loaded,Shell
+Pan Africa,2021-09-15 05:20,QCLNG,2021-09-08 09:30,Gaolan,SLNG,2021-09-20 00:15,Loaded,Shell
+Prachi,2021-09-10 02:31,Gorgon,2021-09-10 01:35,Caofeidian,Dahej,2021-09-21 22:26,Loaded,ExxonMobil
+Isabella,2021-09-10 00:00,Atlantic LNG,2021-09-07 16:45,Europe,PipeChina Tianjin,2021-10-19 04:47,Loaded,Equinor
+Energos Maria,2021-09-09 05:12,Ras Laffan,2021-09-06 19:44,Kawasaki,Rovigo,2021-09-21 16:29,Loaded,Cheniere
+Maria Energy,2021-08-31 14:45,Freeport,2021-08-16 16:00,Caofeidian,Summit LNG,2021-09-25 06:18,Loaded,TEN
+LNG Rosenrot,2021-08-31 03:20,Freeport,2021-08-01 17:18,Tianjin,Tianjin,2021-09-17 15:35,Loaded,Uniper
+Patris,2021-08-30 05:01,Freeport,2021-08-30 15:27,Singapore,Rio,2021-09-12 12:01,Loaded,BP
+Cool Racer,2021-08-27 14:32,Sabine Pass,2021-08-21 03:40,Montoir,Summit LNG,2021-10-01 07:19,Loaded,Cheniere
+Condor LNG,2021-08-25 12:00,Cartagena (ESP),2021-08-16 13:13,Revithoussa,Bilbao,2021-09-02 04:42,Loaded,Shell
+Minerva Psara,2021-08-24 10:53,Sabine Pass,2021-08-12 20:34,Quintero,Dahej,2021-09-12 01:13,Loaded,Shell
+Gaslog Singapore,2021-08-23 22:22,Corpus Christi,2021-08-14 10:43,PipeChina Dalian,Quintero,2021-09-15 16:21,Loaded,RWE
+Global Energy,2021-08-21 08:34,Sabine Pass,2021-08-11 11:14,Tianjin,Rio,2021-08-26 11:03,Loaded,Cheniere
+LNG Fukurokuju,2021-08-20 22:15,Cove Point,2021-08-06 12:16,Bilbao,Revithoussa,2021-08-29 06:16,Loaded,KEPCO JP
+Gaslog Wales,2021-08-17 09:30,Freeport,2021-08-12 15:37,Japan,Gate,2021-08-28 23:17,Loaded,JERA
+BW Helios,2021-08-15 21:00,Freeport,2021-08-06 23:00,Suez Canal,Panama Canal,2021-08-21 16:00,Loaded,BP
+Celsius Canberra,2021-08-15 19:14,Sabine Pass,2021-08-07 15:29,China,Quintero,2021-08-30 13:43,Loaded,Cheniere
+Seapeak Meridian,2021-08-12 11:30,Cameron (Liqu.),2021-07-25 17:31,Chittagong,GasPort LNG,2021-08-27 08:00,Loaded,TotalEnergies
+Flex Rainbow,2021-08-11 19:31,Freeport,2021-08-05 14:16,Brazil,Fos Cavaou,2021-08-22 07:00,Loaded,Gunvor
+Pan Asia,2021-08-11 06:47,Prelude,2021-08-02 15:45,Ningbo,Joetsu Chubu,2021-08-23 00:50,Loaded,Shell
+Karadeniz LNGt Powership Anatolia,2021-08-09 00:00,Cameron (Liqu.),2021-07-29 19:45,Fos,Aliaga,2021-08-26 07:42,Loaded,TotalEnergies
+Methane Patricia Camila,2021-08-07 00:48,Atlantic LNG,2021-08-04 23:53,Suez Canal,Panama Canal,2021-08-12 11:19,Loaded,Shell
+Asia Energy,2021-08-05 06:15,Gorgon,2021-07-04 05:15,Zhoushan,SLNG,2021-09-11 01:59,Loaded,Chevron
+Alexandroupolis,2021-07-29 08:15,Cove Point,2021-07-17 02:17,Bahia Blanca,PipeChina Yuedong,2021-08-23 03:21,Loaded,Glencore
+Castillo De Caldelas,2021-07-28 15:00,Sabine Pass,2021-07-21 13:45,Dunkerque,Bilbao,2021-08-02 04:45,Loaded,Naturgy
+Al Aamriya,2021-07-15 10:29,Ras Laffan,2021-07-11 05:29,Zeebrugge,Incheon,2021-08-03 01:57,Loaded,QatarEnergy
+Nova Energy,2021-07-15 03:16,Bioko,2021-06-30 14:46,Dahej,Caofeidian,2021-07-31 05:30,Loaded,Gunvor
+Al Deebel,2021-07-11 10:01,Ras Laffan,2021-07-05 18:59,Kochi,Summit LNG,2021-07-16 09:18,Loaded,QatarEnergy
+Cool Discoverer,2021-07-10 05:15,Corpus Christi,2021-07-04 16:45,MED Sea,PipeChina Yuedong,2021-08-10 04:26,Loaded,EDP
+Sputnik Energy,2021-07-02 10:35,Bintulu,2021-07-02 02:32,Dapeng,Dahej,2021-07-16 02:03,Loaded,Jovo
+Clean Planet,2021-06-29 23:30,Zeebrugge,2021-06-04 10:19,PipeChina Tianjin,SLNG,2021-07-02 00:13,Loaded,OAO Yamal LNG
+Clean Ocean,2021-06-19 06:31,Zeebrugge,2021-06-10 03:00,Tangshan,Dahej,2021-06-28 00:14,Loaded,OAO Yamal LNG
+Fedor Litke,2021-06-12 11:15,Yamal,2021-06-09 04:31,Montoir,Huelva,2021-06-20 09:45,Loaded,OAO Yamal LNG
+Cool Rover,2021-06-11 11:30,Freeport,2021-06-02 21:41,Grain,Barcelona,2021-06-19 03:55,Loaded,BP
+Arctic Princess,2021-06-09 11:15,Sabine Pass,2021-05-31 22:31,Osaka,Qingdao,2021-06-30 02:28,Loaded,Equinor
+Al Sahla,2021-06-01 02:45,Ras Laffan,2021-05-24 08:44,Sodegaura,Rayong MTP,2021-06-06 07:14,Loaded,QatarEnergy
+BW Lilac,2021-05-27 11:57,Cameron (Liqu.),2021-05-21 18:13,Huelva,Gate,2021-06-02 18:58,Loaded,Repsol
+Gigira Laitebo,2021-05-26 14:45,PNG LNG,2021-05-20 23:45,Gwangyang,Qingdao,2021-06-01 03:14,Loaded,PNG LNG
+Al Mayeda,2021-05-26 11:17,Ras Laffan,2021-05-23 13:07,Suez Canal,Incheon,2021-06-08 04:00,Loaded,QatarEnergy
+Puteri Delima Satu,2021-05-26 02:34,Bintulu,2021-05-22 11:47,Nagoya,Yangshan,2021-06-01 08:12,Loaded,Petronas
+Hellas Diana,2021-05-25 00:29,Freeport,2021-05-17 19:03,Rio,Boryeong,2021-06-17 04:50,Loaded,Trafigura
+Malanje,2021-05-24 18:43,Soyo,2021-04-29 07:45,Jebel Ali,Dahej,2021-06-21 06:45,Loaded,Angola LNG
+Marvel Falcon,2021-05-24 12:12,Cameron (Liqu.),2021-05-06 21:34,MAAGP,Hazira,2021-06-05 07:11,Loaded,Mitsui
+Flex Endeavour,2021-05-23 17:03,Corpus Christi,2021-05-15 13:30,Gate,Swinoujscie LNG,2021-05-30 07:13,Loaded,Cheniere
+LNG Lokoja,2021-05-19 00:00,Bonny LNG,2021-05-09 22:01,Klaipeda,Sines,2021-05-25 05:59,Loaded,NLNG
+Seri Bijaksana,2021-05-17 09:27,GLNG,2021-05-10 19:05,Pengerang LNG,PipeChina Yuedong,2021-05-26 03:15,Loaded,Petronas
+LNG Jamal,2021-05-17 01:02,Qalhat,2021-05-16 06:30,Jebel Ali,Senboku,2021-05-30 01:30,Loaded,Osaka Gas
+Hl Ras Laffan,2021-05-15 04:14,Ras Laffan,2021-05-15 06:43,Dahej,Tongyeong,2021-05-31 04:04,Loaded,KOGAS
+Al Nuaman,2021-05-12 03:33,Ras Laffan,2021-04-27 06:51,Yeosu,Ningbo,2021-05-17 02:13,Loaded,QatarEnergy
+LNG Finima Ii,2021-05-11 13:36,Bonny LNG,2021-04-20 10:43,PipeChina Tianjin,Yung An,2021-05-16 01:15,Loaded,NLNG
+Beidou Star,2021-05-09 12:45,Bioko,2021-04-20 13:08,Taichung,Rayong MTP,2021-05-11 23:16,Loaded,Shell
+Asia Vision,2021-05-09 10:14,Wheatstone,2021-05-07 08:04,Benoa,Zhoushan,2021-05-17 05:29,Loaded,Chevron
+Al Gattara,2021-05-07 08:37,Ras Laffan,2021-05-05 06:14,Jebel Ali,Rayong MTP,2021-05-22 23:58,Loaded,QatarEnergy
+LNG Port-Harcourt Ii,2021-05-07 08:26,Bonny LNG,2021-04-30 09:29,Rotterdam,Gate,2021-05-12 06:45,Loaded,NLNG
+LNG Ogun,2021-05-06 09:57,Bonny LNG,2021-04-28 09:00,Montoir,Fos Cavaou,2021-05-12 08:13,Loaded,NLNG
+Maran Gas Chios,2021-05-05 13:15,Sabine Pass,2021-04-07 14:00,India,MAAGP,2021-05-06 11:53,Loaded,Shell
+Global Energy,2021-04-30 14:52,Corpus Christi,2021-04-18 12:20,Singapore,Fos Cavaou,2021-05-09 09:29,Loaded,Cheniere
+Shagra,2021-04-30 14:38,Ras Laffan,2021-04-27 05:12,Dahej,Incheon,2021-05-13 00:15,Loaded,QatarEnergy
+Cubal,2021-04-28 17:31,Soyo,2021-04-12 10:30,Dahej,Fujian,2021-05-10 10:29,Loaded,Angola LNG
+Ejnan,2021-04-26 15:19,Ras Laffan,2021-04-26 01:28,Mundra,Rovigo,2021-05-12 16:00,Loaded,QatarEnergy
+Lusail,2021-04-24 16:30,Ras Laffan,2021-04-15 07:01,Mundra,Rovigo,2021-04-29 13:32,Loaded,QatarEnergy
+La Perouse,2021-04-24 11:10,Sabine Pass,2021-04-17 13:03,Zeebrugge,Gate,2021-05-05 00:44,Loaded,TotalEnergies
+Sonangol Etosha,2021-04-22 16:26,Soyo,2021-04-22 12:37,Dahej,Gate,2021-05-06 23:13,Loaded,Angola LNG
+Energy Innovator,2021-04-21 00:00,Cove Point,2021-03-31 22:18,Negishi,PipeChina Beihai,2021-05-12 04:30,Loaded,Tokyo Gas
+Gail Bhuwan,2021-04-20 13:25,Cove Point,2021-03-24 23:49,Dahej,MAAGP,2021-04-30 21:41,Loaded,GAIL
+Diamond Gas Metropolis,2021-04-16 13:38,Cameron (Liqu.),2021-04-09 21:59,PipeChina Tianjin,PipeChina Beihai,2021-05-18 04:41,Loaded,Mitsubishi
+Flex Resolute,2021-04-15 19:14,Sabine Pass,2021-04-10 00:31,Huelva,Nihonku,2021-05-18 01:16,Loaded,Naturgy
+British Sponsor,2021-04-13 19:12,Corpus Christi,2021-04-13 17:43,PipeChina Tianjin,Rayong MTP,2021-05-27 09:01,Loaded,BP
+Puteri Delima,2021-04-10 13:56,Bintulu,2021-04-06 11:31,Sodegaura,Yangshan,2021-04-16 06:27,Loaded,Petronas
+British Achiever,2021-04-07 19:11,Freeport,2021-04-03 12:59,Argentina,Sakai,2021-05-13 01:59,Loaded,BP
+BW Magnolia,2021-04-06 19:09,Freeport,2021-04-06 18:29,Argentina,Senboku,2021-05-13 22:43,Loaded,BP
+Arctic Vostok,2021-03-28 12:22,Bonny LNG,2021-03-23 13:42,Dahej,Hazira,2021-04-12 03:56,Loaded,NLNG
+LNG Megrez,2021-03-28 00:00,Murmansk Light.,2021-03-27 00:00,Dunkerque,Tongyeong,2021-04-29 04:20,Loaded,OAO Yamal LNG
+LNG Borno,2021-03-26 00:00,Bonny LNG,2021-03-18 22:39,Dahej,Mundra,2021-04-05 10:13,Loaded,NLNG
+Al Samriya,2021-03-25 16:57,Ras Laffan,2021-03-23 16:29,Suez Canal,South Hook,2021-04-21 10:01,Loaded,QatarEnergy
+Maran Gas Andros,2021-03-25 13:32,Corpus Christi,2021-03-19 05:20,Europe,Futtsu,2021-05-03 02:03,Loaded,JERA
+Kool Crystal,2021-03-18 18:06,Sabine Pass,2021-03-09 08:29,Cape of Good Hope,Toscana,2021-03-31 06:15,Loaded,Gunvor
+La Mancha Knutsen,2021-02-27 17:28,Sabine Pass,2021-02-13 19:02,Grain,Chita,2021-03-26 00:12,Loaded,Cheniere
+British Listener,2021-02-26 14:33,Sabine Pass,2021-02-23 17:20,Pecem,Gate,2021-03-15 01:17,Loaded,BP
+Seri Balhaf,2021-02-25 16:18,Corpus Christi,2021-02-24 03:42,Panama,South Hook,2021-03-14 17:31,Loaded,TotalEnergies
+Al Khaznah,2021-02-23 00:00,Das Island,2021-02-16 12:55,PipeChina Tianjin,Dahej,2021-03-08 05:40,Loaded,ADNOC Gas
+LNG Alliance,2021-02-22 00:00,Cameron (Liqu.),2021-02-12 08:43,Montoir,Rio,2021-03-06 10:40,Loaded,TotalEnergies
+LNG Kano,2021-02-17 13:57,Bonny LNG,2021-02-12 16:01,Montoir,Sagunto,2021-02-27 10:41,Loaded,NLNG
+Georgiy Ushakov,2021-02-17 13:54,Yamal,2021-02-12 07:14,Grain,Gate,2021-02-19 05:59,Loaded,OAO Yamal LNG
+BW Magnolia,2021-02-17 00:00,Cove Point,2021-02-13 23:15,Revithoussa,Manzanillo,2021-03-03 14:13,Loaded,BP
+Flex Courageous,2021-02-15 15:38,Sabine Pass,2021-02-02 21:50,Far East,Manzanillo,2021-02-19 13:53,Loaded,Shell
+Hoegh Galleon,2021-02-13 16:05,Corpus Christi,2021-02-01 23:31,Yung An,Gate,2021-02-20 01:59,Loaded,Cheniere
+Shinshu Maru,2021-02-02 15:57,Freeport,2021-01-28 20:43,Dunkerque,Chita,2021-03-18 01:41,Loaded,JERA
+Boris Vilkitsky,2021-01-28 10:58,Yamal,2021-01-24 04:58,Montoir,Zeebrugge,2021-01-31 11:27,Loaded,OAO Yamal LNG
+Georgiy Brusilov,2021-01-28 10:48,Yamal,2021-01-25 14:34,Zeebrugge,Montoir,2021-02-03 18:44,Loaded,Novatek
+Vladimir Rusanov,2021-01-27 15:48,Yamal,2021-01-22 11:36,Bilbao,Grain,2021-01-29 23:13,Loaded,OAO Yamal LNG
+Qogir,2021-01-27 15:48,Sabine Pass,2021-01-21 15:37,S. Atlantic,Dunkerque,2021-02-05 07:27,Loaded,TotalEnergies
+Gaslog Hong Kong,2021-01-27 14:39,Freeport,2021-01-11 13:58,Yung An,PipeChina Diefu,2021-02-15 03:59,Loaded,TotalEnergies
+Gaslog Georgetown,2021-01-26 14:28,Corpus Christi,2021-01-16 23:04,S. Atlantic,South Hook,2021-02-05 01:13,Loaded,Cheniere
+Marvel Eagle,2021-01-22 16:23,Cameron (Liqu.),2021-01-19 19:43,Suez Canal,Panama Canal,2021-01-26 11:13,Loaded,Mitsui
+BW Magnolia,2021-01-22 16:20,Freeport,2021-01-15 18:31,Suez Canal,Grain,2021-02-02 00:42,Loaded,BP
+Nikolay Yevgenov,2021-01-21 16:17,Yamal,2021-01-06 16:15,PipeChina Tianjin,Pyeong Taek,2021-01-27 23:56,Loaded,OAO Yamal LNG
+LNG Merak,2021-01-20 14:21,Zeebrugge,2021-01-01 04:24,Caofeidian,PipeChina Dalian,2021-01-29 02:30,Loaded,OAO Yamal LNG
+Cesi Tianjin,2021-01-18 15:09,APLNG,2021-01-10 16:18,Taichung,Qingdao,2021-01-23 06:13,Loaded,Sinopec
+Cesi Lianyungang,2021-01-17 15:33,APLNG,2021-01-14 07:13,Qingdao,PipeChina Beihai,2021-01-24 07:46,Loaded,Sinopec
+Duhail,2021-01-15 15:28,Ras Laffan,2021-01-06 21:40,Tianjin,Ningbo,2021-01-23 07:10,Loaded,QatarEnergy
+Arctic Voyager,2021-01-14 00:00,Sabine Pass,2021-01-05 21:29,Klaipeda,Incheon,2021-02-10 07:00,Loaded,Equinor
+La Seine,2021-01-13 15:07,Sabine Pass,2021-01-13 10:45,Atlantic Ocean,Mejillones,2021-01-28 23:10,Loaded,TotalEnergies
+Georgiy Brusilov,2021-01-07 14:55,Yamal,2021-01-02 05:56,Grain,Sines,2021-01-12 08:30,Loaded,OAO Yamal LNG
+Gaslog Santiago,2021-01-07 00:00,Corpus Christi,2020-12-25 09:29,Fos Cavaou,Barcelona,2021-01-08 15:57,Loaded,Trafigura
+LNG Bayelsa,2021-01-06 10:19,Bonny LNG,2021-01-03 12:12,Fos Cavaou,Huelva,2021-01-16 03:45,Loaded,NLNG
+Rudolf Samoylovich,2021-01-04 10:48,Yamal,2020-12-28 07:44,Bilbao,Dragon,2021-01-06 16:45,Loaded,OAO Yamal LNG
+LNG Port-Harcourt Ii,2020-12-29 16:17,Bonny LNG,2020-12-29 20:00,Mina Al-Ahmadi,Caofeidian,2021-01-31 03:01,Loaded,NLNG
+Seapeak Hispania,2020-12-23 15:31,Sabine Pass,2020-12-17 08:57,Dragon,Rio,2021-01-11 11:27,Loaded,Shell
+Gaslog Skagen,2020-11-30 00:00,Sabine Pass,2020-11-25 16:31,Dragon,Bahia,2020-12-06 16:01,Loaded,RWE
+Gaslog Greece,2020-11-25 00:00,Atlantic LNG,2020-11-23 07:31,MED Sea,Panama Canal,2020-12-02 12:00,Loaded,Shell
+LNG Lagos Ii,2020-11-22 00:00,Bonny LNG,2020-11-23 02:05,Sines,Sagunto,2020-12-05 06:01,Loaded,NLNG
+Cesi Beihai,2020-11-11 09:45,APLNG,2020-11-01 07:12,PipeChina Beihai,PipeChina Diefu,2020-11-12 03:15,Loaded,Sinopec
+Seri Camellia,2020-11-10 11:29,GLNG,2020-10-26 16:05,Pengerang LNG,Yangshan,2020-11-09 23:52,Loaded,Petronas
+Energy Navigator,2020-11-10 11:26,Sakhalin 2,2020-10-27 11:57,PipeChina Beihai,PipeChina Yuedong,2020-11-10 01:31,Loaded,Tokyo Gas
+Duhail,2020-11-09 10:19,Ras Laffan,2020-11-06 01:30,Europe,PipeChina Dalian,2020-11-26 00:14,Loaded,QatarEnergy
+Solaris,2020-11-06 00:00,Atlantic LNG,2020-11-03 11:15,Grain,Dunkerque,2020-11-13 07:27,Loaded,Shell
+Al Hamla,2020-10-24 14:58,Ras Laffan,2020-10-22 07:12,Zeebrugge,Summit LNG,2020-10-31 23:52,Loaded,QatarEnergy
+Elisa Larus,2020-10-23 10:12,Freeport,2020-10-13 12:50,Dunkerque,Futtsu,2020-11-21 00:01,Loaded,FLS
+BW Clear Sky,2020-10-21 11:30,Sabine Pass,2020-10-21 19:22,Montoir,GasPort LNG,2020-11-15 04:21,Loaded,Gunvor
+Fraiha,2020-10-20 15:21,Ras Laffan,2020-10-05 09:55,South Hook,Caofeidian,2020-11-09 06:38,Loaded,QatarEnergy
+Al Ruwais,2020-10-20 13:34,Montoir,2020-10-18 04:29,Europe,Dahej,2020-11-30 04:11,Loaded,QatarEnergy
+BW Lilac,2020-10-16 16:23,Soyo,2020-10-09 12:36,Cartagena (ESP),Rio,2020-10-23 18:13,Loaded,Repsol
+Clean Vision,2020-10-09 00:00,Yamal,2020-09-27 08:13,Spain,Gaolan,2020-11-15 00:44,Loaded,OAO Yamal LNG
+Castillo De Merida,2020-10-07 00:00,Corpus Christi,2020-10-02 12:31,Gate,Bahia,2020-10-16 12:13,Loaded,Naturgy
+Marvel Pelican,2020-10-04 00:00,Atlantic LNG,2020-09-27 14:29,MAAGP,Bahia,2020-10-12 11:42,Loaded,Shell
+Lena River,2020-09-28 00:00,Yamal,2020-09-21 19:04,Gate,Bilbao,2020-10-08 04:43,Loaded,OAO Yamal LNG
+Seapeak Hispania,2020-09-15 14:46,Atlantic LNG,2020-09-12 13:37,Europe,Peñuelas,2020-09-20 16:05,Loaded,Shell
+Nova Energy,2020-09-09 11:04,Atlantic LNG,2020-09-06 14:36,Bilbao,Manzanillo,2020-09-22 12:57,Loaded,TEN
+BW Pavilion Vanda,2020-08-27 10:54,Cameron (Liqu.),2020-07-19 20:12,Singapore,Sagunto,2020-09-21 10:43,Loaded,IOC
+Hoegh Gallant,2020-08-04 14:04,Cameron (Liqu.),2020-07-21 06:43,Toscana,Sagunto,2020-08-21 05:29,Loaded,Hoegh
+SM Seahawk,2020-07-18 17:04,Sabine Pass,2020-06-28 03:29,Incheon,Samcheok,2020-07-26 18:59,Loaded,KOGAS
+Boris Davydov,2020-06-28 14:57,Yamal,2020-06-21 23:39,Montoir,Dunkerque,2020-07-02 23:42,Loaded,OAO Yamal LNG
+LNG Sokoto,2020-06-24 17:05,Bonny LNG,2020-06-25 06:05,Bilbao,Swinoujscie LNG,2020-07-13 17:14,Loaded,NLNG
+Maran Gas Roxana,2020-06-18 15:54,Bioko,2020-06-12 09:01,Europe,Quintero,2020-07-07 12:57,Loaded,Shell
+Kinisis,2020-06-10 14:31,Cove Point,2020-06-08 22:29,Tianjin,Revithoussa,2020-06-27 06:02,Loaded,BP
+Mozah,2020-06-01 16:26,Ras Laffan,2020-05-12 22:56,Pyeong Taek,Incheon,2020-06-04 03:59,Loaded,QatarEnergy
+Maran Gas Andros,2020-05-31 13:37,Corpus Christi,2020-05-18 14:14,Dunkerque,Futtsu,2020-07-02 01:28,Loaded,JERA
+Kmarin Diamond,2020-05-31 10:27,Zeebrugge,2020-05-30 09:55,Sabine Pass,Toscana,2020-06-07 11:56,Loaded,BP
+Georgiy Brusilov,2020-05-28 10:37,Yamal,2020-05-21 20:02,Bilbao,Zeebrugge,2020-05-31 04:01,Loaded,OAO Yamal LNG
+Lena River,2020-05-27 12:05,Zeebrugge,2020-04-25 04:52,Qidong,Zhoushan,2020-05-31 02:43,Loaded,OAO Yamal LNG
+Al Huwaila,2020-05-26 13:23,Ras Laffan,2020-05-15 11:20,South Hook,Fos Cavaou,2020-05-31 10:29,Loaded,QatarEnergy
+Valera,2020-05-26 13:18,Sabine Pass,2020-05-18 13:25,Cartagena (ESP),Bilbao,2020-06-09 04:55,Loaded,Gazprom
+Boris Vilkitsky,2020-05-26 11:02,Yamal,2020-05-20 13:57,Zeebrugge,Montoir,2020-06-05 15:11,Loaded,OAO Yamal LNG
+Maran Gas Pericles,2020-05-20 12:31,Gorgon,2020-05-10 23:34,Pyeong Taek,Rayong MTP,2020-05-25 10:45,Loaded,Shell
+La Seine,2020-05-19 00:00,Sabine Pass,2020-05-09 23:32,Etki,Zeebrugge,2020-05-24 16:43,Loaded,TotalEnergies
+Nohshu Maru,2020-05-18 16:30,Freeport,2020-05-01 18:59,Zeebrugge,Zhoushan,2020-06-22 09:13,Loaded,JERA
+Asia Vision,2020-05-17 15:20,Wheatstone,2020-05-10 04:02,Rayong MTP,Caofeidian,2020-05-29 05:51,Loaded,Chevron
+Al Shamal,2020-05-13 16:27,Ras Laffan,2020-04-26 18:29,Ereglisi,Aliaga,2020-05-15 03:47,Loaded,QatarEnergy
+Fedor Litke,2020-05-04 11:41,Yamal,2020-04-21 05:58,Dunkerque,Gate,2020-05-05 21:59,Loaded,OAO Yamal LNG
+Nfe Penguin,2020-04-21 00:00,Corpus Christi,2020-04-15 22:03,Japan,Cartagena (ESP),2020-05-05 06:27,Loaded,RWE
+Seapeak Creole,2020-04-21 00:00,Cameron (Liqu.),2020-04-15 18:06,S. Atlantic,Cartagena (ESP),2020-05-07 05:59,Loaded,Cheniere
+Clean Ocean,2020-04-20 00:00,Honningsvag Light.,2020-04-17 20:25,Zeebrugge,Fujian,2020-05-25 00:31,Loaded,OAO Yamal LNG
+Energy Spirit,2020-04-14 09:35,Bethioua,2020-04-08 13:39,Fos Tonkin,La Spezia,2020-04-10 08:38,Loaded,Sonatrach
+Soyo,2020-04-14 00:00,Soyo,2020-04-05 12:23,Fos Cavaou,Gate,2020-04-18 01:17,Loaded,Angola LNG
+Kool Crystal,2020-04-09 00:00,Atlantic LNG,2020-03-31 21:35,Europe,Jebel Ali,2020-05-09 04:38,Loaded,Shell
+Iberica Knutsen,2020-04-08 00:00,Bonny LNG,2020-03-30 07:29,Sines,Etki,2020-04-12 04:05,Loaded,Naturgy
+LNG Benue,2020-04-08 00:00,Bonny LNG,2020-04-04 12:49,Taiwan,Cartagena (ESP),2020-04-25 05:34,Loaded,NLNG
+LNG Abuja Ii,2020-04-08 00:00,Bonny LNG,2020-03-14 23:40,Dabhol,Aqaba,2020-04-16 05:35,Loaded,NLNG
+Methane Becki Anne,2020-04-06 00:00,Peru LNG,2020-03-28 18:02,PipeChina Dalian,Incheon,2020-04-26 00:26,Loaded,Shell
+Malanje,2020-04-06 00:00,Soyo,2020-03-13 15:02,Hazira,MAAGP,2020-04-13 22:17,Loaded,Angola LNG
+Hoegh Giant,2020-04-04 00:00,Sabine Pass,2020-03-27 20:25,Naoetsu,PipeChina Yuedong,2020-05-08 03:02,Loaded,Naturgy
+LNG River Orashi,2020-04-03 00:00,Bonny LNG,2020-03-22 11:01,Barcelona,Sagunto,2020-04-29 08:00,Loaded,NLNG
+Solaris,2020-04-02 00:00,Bioko,2020-03-31 11:31,Cape of Good Hope,Manzanillo,2020-04-24 13:00,Loaded,Shell
+LNG Sokoto,2020-04-02 00:00,Bonny LNG,2020-03-31 21:02,Asia,Fos Cavaou,2020-04-22 18:27,Loaded,NLNG
+LNG Adamawa,2020-04-01 00:00,Bonny LNG,2020-03-28 09:42,South America,Sines,2020-04-29 06:28,Loaded,NLNG
+Exemplar,2020-03-31 05:54,Sabine Pass,2020-03-29 02:35,Montoir,Etki,2020-04-15 04:00,Loaded,TotalEnergies
+BW Lilac,2020-03-30 00:00,Sabine Pass,2020-03-23 18:21,Dahej,Dragon,2020-04-07 21:58,Loaded,Repsol
+Seri Camar,2020-03-29 00:00,GLNG,2020-03-19 17:11,Pengerang LNG,Zhoushan,2020-04-14 00:55,Loaded,Petronas
+Grace Acacia,2020-03-28 00:00,APLNG,2020-03-24 19:54,Qingdao,Tianjin LNG Sinopec,2020-04-05 02:49,Loaded,Sinopec
+SK Resolute,2020-03-27 00:00,Cameron (Liqu.),2020-03-22 23:06,Panama Canal,Tianjin LNG Sinopec,2020-04-30 02:27,Loaded,TotalEnergies
+Seapeak Magellan,2020-03-26 00:00,Corpus Christi,2020-03-13 10:49,Pecem,Dunkerque,2020-04-08 21:08,Loaded,Petrobras
+Grace Barleria,2020-03-20 00:00,Wheatstone,2020-03-10 04:03,Japan,Dapeng,2020-03-23 03:19,Loaded,Kyushu Electric
+BW Brussels,2020-03-12 06:49,Sabine Pass,2020-02-28 23:43,Fos Cavaou,Rayong MTP,2020-03-29 12:28,Loaded,TotalEnergies
+Gaslog Houston,2020-03-10 02:45,QCLNG,2020-02-29 01:05,PipeChina Tianjin,SLNG,2020-03-20 02:42,Loaded,Shell
+Yenisei River,2020-03-09 02:56,Zeebrugge,2020-03-01 07:08,Dapeng,Boryeong,2020-03-29 16:19,Loaded,OAO Yamal LNG
+Trader Iii,2020-03-08 00:00,Bintulu,2020-03-12 01:40,Sodeshi,Incheon,2020-03-24 04:31,Loaded,Petronas
+Maran Gas Ulysses,2020-03-05 00:00,Sabine Pass,2020-03-01 07:02,MED Sea,Quintero,2020-06-05 16:42,Loaded,Shell
+Min Lu,2020-03-02 00:00,Tangguh,2020-02-15 01:25,Hong Kong,Fujian,2020-03-04 05:29,Loaded,CNOOC
+Clean Planet,2020-02-27 00:00,Zeebrugge,2020-01-30 21:33,Tangshan,Rudong,2020-02-29 07:22,Loaded,OAO Yamal LNG
+Energy Frontier,2020-02-23 00:00,Gorgon,2020-02-14 00:56,PipeChina Tianjin,SLNG,2020-03-12 01:53,Loaded,Tokyo Gas
+Gaslog Glasgow,2020-02-20 00:00,Atlantic LNG,2020-02-18 15:49,Dragon,Hazira,2020-03-27 09:59,Loaded,Shell
+LNG Bonny II,2020-02-20 00:00,Bonny LNG,2020-02-17 21:52,Incheon,Rayong MTP,2020-03-19 22:48,Loaded,NLNG
+Gaslog Sydney,2020-02-20 00:00,Grain,2020-02-08 07:18,Sabine Pass,Corpus Christi,2020-02-23 16:53,Ballast,BP
+Patris,2020-02-18 06:03,Zeebrugge,2020-01-29 05:53,PipeChina Beihai,Yung An,2020-03-05 02:07,Loaded,OAO Yamal LNG
+Maran Gas Chios,2020-02-18 00:00,QCLNG,2020-02-05 15:23,PipeChina Yangpu,PipeChina Dalian,2020-03-05 03:29,Loaded,Shell
+LNG Fukurokuju,2020-02-17 00:00,APLNG,2020-02-10 19:05,Tianjin,PipeChina Beihai,2020-02-23 04:16,Loaded,KEPCO JP
+Seapeak Glasgow,2020-02-15 00:00,Freeport,2020-02-09 20:08,Pecem,Bahia,2020-02-23 12:38,Loaded,BP
+Seapeak Magellan,2020-02-15 00:00,Corpus Christi,2020-01-31 06:39,Bahia,Pecem,2020-02-20 13:12,Loaded,Petrobras
+Nikolay Zubov,2020-02-13 00:00,Yamal,2020-02-06 04:22,Zeebrugge,Sines,2020-02-19 09:40,Loaded,OAO Yamal LNG
+Nikolay Urvantsev,2020-02-13 00:00,Yamal,2020-02-13 18:23,Montoir,Gate,2020-02-22 23:28,Loaded,OAO Yamal LNG
+Marvel Pelican,2020-02-12 00:00,QCLNG,2020-01-26 18:20,Ningbo,Dahej,2020-02-29 19:48,Loaded,Shell
+Georgiy Brusilov,2020-02-12 00:00,Yamal,2020-02-07 03:02,Sines,Zeebrugge,2020-02-15 07:53,Loaded,OAO Yamal LNG
+Salalah LNG,2020-02-11 03:44,Qalhat,2020-02-09 03:42,Qidong,MAAGP,2020-02-25 06:11,Loaded,Oman LNG
+LNG Jupiter,2020-02-11 00:00,Gorgon,2020-02-04 15:03,PipeChina Tianjin,Incheon,2020-02-19 04:03,Loaded,Osaka Gas
+BW Lilac,2020-02-11 00:00,Corpus Christi,2020-01-29 17:37,Cape of Good Hope,Montoir,2020-02-28 05:08,Loaded,Trafigura
+Diamond Gas Orchid,2020-02-11 00:00,Cameron (Liqu.),2020-02-07 09:09,Panama Canal,Dunkerque,2020-02-23 21:30,Loaded,Mitsubishi
+Seapeak Meridian,2020-02-11 00:00,Cove Point,2020-02-04 20:56,Northern Europe,Fos Cavaou,2020-02-20 02:09,Loaded,GAIL
+Mekaines,2020-02-10 04:57,Ras Laffan,2020-02-06 14:30,Far East,South Hook,2020-03-05 18:30,Loaded,QatarEnergy
+LNG Ondo,2020-02-10 00:00,Bonny LNG,2020-02-10 01:01,Bilbao,Cartagena (ESP),2020-02-21 07:11,Loaded,NLNG
+Umm Slal,2020-02-10 00:00,Ras Laffan,2020-02-09 01:53,Far East,South Hook,2020-03-02 11:31,Loaded,QatarEnergy
+Al Dafna,2020-02-10 00:00,Ras Laffan,2020-02-09 15:53,Far East,South Hook,2020-03-03 11:37,Loaded,QatarEnergy
+Castillo De Merida,2020-02-09 06:20,Sabine Pass,2020-02-09 07:49,Incheon,Ereglisi,2020-02-25 14:55,Loaded,Naturgy
+Clean Vision,2020-02-09 04:17,Zeebrugge,2020-01-22 07:36,PipeChina Tianjin,Summit LNG,2020-02-13 02:04,Loaded,OAO Yamal LNG
+Hoegh Giant,2020-02-07 00:00,Bonny LNG,2020-02-05 21:19,Dahej,Aqaba,2020-03-05 05:33,Loaded,Naturgy
+Hoegh Gannet,2020-02-07 00:00,Bonny LNG,2020-01-26 08:49,Rudong,Caofeidian,2020-03-01 01:03,Loaded,Hoegh
+Oceanic Breeze,2020-02-07 00:00,Ichthys,2020-01-30 05:49,Tangshan,Rudong,2020-02-19 07:28,Loaded,INPEX
+Papua,2020-02-06 06:52,PNG LNG,2020-01-27 21:49,Hong Kong,Yung An,2020-02-08 01:19,Loaded,PNG LNG
+Puteri Delima,2020-02-06 06:49,Bintulu,2020-02-02 17:53,PipeChina Dalian,Hachinohe II,2020-02-11 01:32,Loaded,Petronas
+Asia Venture,2020-02-06 06:24,Wheatstone,2020-02-05 04:44,Nagoya,Chita,2020-02-18 01:45,Loaded,Chevron
+Malanje,2020-02-04 00:00,Soyo,2020-02-01 14:37,Pengerang LNG,Hazira,2020-02-24 09:33,Loaded,Angola LNG
+Al Kharsaah,2020-02-01 06:31,Ras Laffan,2020-01-25 13:55,PipeChina Tianjin,Rayong MTP,2020-02-11 06:47,Loaded,QatarEnergy
+Shinshu Maru,2020-01-30 17:13,Freeport,2020-01-23 22:21,Panama Canal,South Hook,2020-02-26 17:34,Loaded,JERA
+Flex Ranger,2020-01-27 02:39,Cameron (Liqu.),2020-01-18 01:13,Fos Cavaou,Cartagena (ESP),2020-01-29 17:34,Loaded,Endesa
+Neptune,2020-01-23 22:50,Dapeng,2020-01-14 03:36,Cameron (Liqu.),Ras Laffan,2020-01-31 23:07,Ballast,TotalEnergies
+LNG Bonny II,2020-01-23 22:41,Bonny LNG,2020-01-03 20:32,Montoir,Ereglisi,2020-01-31 15:00,Loaded,NLNG
+LNG Cross River,2020-01-23 00:00,Bonny LNG,2020-01-10 13:19,Fos Cavaou,Aliaga,2020-01-26 12:03,Loaded,NLNG
+La Mancha Knutsen,2020-01-22 22:33,Corpus Christi,2019-12-15 15:04,Panama Canal,Yung An,2020-01-19 04:16,Loaded,BP
+Georgiy Brusilov,2020-01-22 00:00,Yamal,2020-01-19 01:43,Zeebrugge,Dunkerque,2020-01-28 11:26,Loaded,OAO Yamal LNG
+LNG Abalamabie,2020-01-22 00:00,Bonny LNG,2020-01-18 13:38,Nihonku,Yangshan,2020-02-20 02:18,Loaded,NLNG
+Boris Davydov,2020-01-18 00:00,Yamal,2020-01-11 06:13,Montoir,Zeebrugge,2020-01-22 14:16,Loaded,OAO Yamal LNG
+Maran Gas Sparta,2020-01-17 09:20,Sabine Pass,2020-01-05 02:29,Gate,Dragon,2020-01-23 06:10,Loaded,Shell
+Arctic Lady,2020-01-17 00:00,Snohvit,2020-01-10 14:33,Fos Cavaou,Grain,2020-01-22 08:25,Loaded,TotalEnergies
+Georgiy Ushakov,2020-01-15 08:56,Yamal,2020-01-04 11:43,Montoir,Zeebrugge,2020-01-19 23:19,Loaded,OAO Yamal LNG
+LNG Ogun,2020-01-12 09:00,Bonny LNG,2020-01-07 12:21,Aliaga,Montoir,2020-01-29 17:01,Loaded,NLNG
+Hoegh Gallant,2020-01-11 14:15,Cameron (Liqu.),2020-01-08 01:51,Montoir,Futtsu,2020-02-11 05:11,Loaded,Mitsubishi
+Megara,2020-01-11 12:17,Corpus Christi,2019-12-31 17:29,Gate,SLNG,2020-01-31 18:30,Loaded,Shell
+LNG Juno,2020-01-11 10:52,Montoir,2020-01-01 18:53,Dragon,Dunkerque,2020-01-05 21:08,Loaded,Osaka Gas
+Vladimir Voronin,2020-01-10 12:38,Yamal,2020-01-03 09:02,Montoir,Zeebrugge,2020-01-13 16:52,Loaded,OAO Yamal LNG
+Seapeak Meridian,2020-01-09 03:32,Cove Point,2019-12-20 15:24,Hazira,Dabhol,2020-01-09 03:29,Loaded,GAIL
+BW Pavilion Aranda,2020-01-07 00:00,Bonny LNG,2020-01-06 06:17,Dahej,Aliaga,2020-01-19 06:25,Loaded,NLNG
+Gaslog Shanghai,2020-01-06 00:00,Gaolan,2019-12-17 08:10,Sabine Pass,Bonny LNG,2020-01-17 16:21,Ballast,Gunvor
+Flex Rainbow,2020-01-02 17:37,Sabine Pass,2019-12-15 22:00,South Hook,Toscana,2020-01-09 08:13,Loaded,Gunvor
+Merchant,2019-12-31 13:09,Atlantic LNG,2019-12-30 03:55,Zeebrugge,Peñuelas,2020-01-06 11:14,Loaded,BP
+Seapeak Oak,2019-12-28 00:00,Sabine Pass,2019-12-06 22:19,Oita,Incheon,2020-01-09 22:29,Loaded,Cheniere
+Patris,2019-12-27 10:19,Zeebrugge,2019-12-04 20:23,Caofeidian,PipeChina Dalian,2020-01-01 00:14,Loaded,OAO Yamal LNG
+Marvel Heron,2019-12-24 10:56,Chita,2019-11-27 00:23,Sabine Pass,Corpus Christi,2019-12-24 18:30,Ballast,Mitsui
+LNG River Orashi,2019-12-22 10:48,Bonny LNG,2019-12-16 02:50,Port Qasim,Nihonku,2020-01-23 01:16,Loaded,NLNG
+Ribera Del Duero Knutsen,2019-12-20 00:00,Sabine Pass,2019-12-07 20:07,Port Qasim,Grain,2020-01-03 02:12,Loaded,Naturgy
+Hoegh Gannet,2019-12-18 00:00,Bonny LNG,2019-12-01 21:42,PipeChina Tianjin,GasPort LNG,2019-12-26 03:53,Loaded,Naturgy
+Cool Runner,2019-12-17 00:00,Sabine Pass,2019-12-02 20:15,South Hook,Summit LNG,2020-01-02 04:43,Loaded,Cheniere
+LNG Adamawa,2019-12-15 00:00,Bonny LNG,2019-12-10 21:41,Sines,Montoir,2019-12-29 04:06,Loaded,NLNG
+LNG Enugu,2019-12-13 00:00,Bonny LNG,2019-12-04 10:42,Montoir,Sines,2019-12-17 16:38,Loaded,NLNG
+Hoegh Gandria,2019-12-13 00:00,Cameron (Liqu.),2019-12-05 21:30,Fos Cavaou,Bahia,2020-11-04 18:58,Loaded,TotalEnergies
+Gaslog Skagen,2019-12-11 00:00,Sabine Pass,2019-11-27 19:41,Grain,Zeebrugge,2019-12-15 23:38,Loaded,Centrica Plc
+LNG Port-Harcourt Ii,2019-12-11 00:00,Bonny LNG,2019-12-07 15:37,Port Qasim FSRU,PipeChina Beihai,2020-01-03 05:04,Loaded,NLNG
+Al Sadd,2019-12-11 00:00,Ras Laffan,2019-12-07 15:12,Zeebrugge,Hazira,2019-12-25 00:11,Loaded,QatarEnergy
+Clean Planet,2019-12-09 03:38,Zeebrugge,2019-11-22 09:48,PipeChina Tianjin,Summit LNG,2019-12-16 16:59,Loaded,OAO Yamal LNG
+Maran Gas Hector,2019-12-09 00:00,Cameron (Liqu.),2019-11-25 09:20,Fos Cavaou,Ereglisi,2019-12-13 13:37,Loaded,Shell
+Gaslog Greece,2019-12-09 00:00,Sabine Pass,2019-12-04 07:53,Suez Canal,Swinoujscie LNG,2019-12-20 06:46,Loaded,Shell
+Wilpride,2019-12-06 00:00,Snohvit,2019-12-01 04:29,Montoir,Dahej,2019-12-21 18:19,Loaded,TotalEnergies
+Seapeak Catalunya,2019-12-05 10:18,Sabine Pass,2019-12-01 04:09,Mejillones,Dunkerque,2019-12-22 05:29,Loaded,Naturgy
+LNG Lokoja,2019-11-30 10:55,Bonny LNG,2019-11-25 12:38,Montoir,Dunkerque,2019-12-11 16:05,Loaded,NLNG
+Sovereign,2019-11-27 07:21,GLNG,2019-11-14 12:05,Tongyeong,Incheon,2019-12-03 03:21,Loaded,KOGAS
+Woodside Rogers,2019-11-25 10:18,Pluto,2019-11-20 15:41,PipeChina Tianjin,Sodegaura,2019-12-03 04:32,Loaded,Woodside Energy
+Pacific Arcadia,2019-11-24 00:00,Ichthys,2019-11-14 16:04,Kawasaki,Dapeng,2019-12-05 05:57,Loaded,JERA
+Kool Baltic,2019-11-21 09:45,Sabine Pass,2019-11-22 19:48,South Hook,Dahej,2019-12-18 20:59,Loaded,Shell
+Seapeak Madrid,2019-11-20 09:46,Peru LNG,2019-11-15 20:16,Gate,Grain,2019-12-13 10:44,Loaded,Shell
+Yenisei River,2019-11-19 03:20,Zeebrugge,2019-10-27 12:13,Dapeng,Summit LNG,2019-11-25 04:05,Loaded,OAO Yamal LNG
+Cool Rover,2019-11-19 00:00,Idku,2019-11-02 06:45,Himeji,Samcheok,2019-12-10 01:00,Loaded,TotalEnergies
+Hoegh Gallant,2019-11-17 14:49,Montoir,2019-10-09 13:53,Rayong,Dahej,2019-11-29 11:27,Loaded,Gunvor
+British Listener,2019-11-14 00:00,Atlantic LNG,2019-10-12 02:48,Yung An,Grain,2019-12-18 01:35,Loaded,BP
+Seishu Maru,2019-11-14 00:00,Ichthys,2019-11-07 04:09,Incheon,Sakai,2019-11-27 01:28,Loaded,JERA
+BW Batangas,2019-11-12 00:00,Corpus Christi,2019-11-01 18:49,South Hook,Huelva,2019-11-24 11:48,Loaded,Trafigura
+BW Lilac,2019-11-12 00:00,Cove Point,2019-11-03 23:45,Huelva,South Hook,2019-11-16 22:18,Loaded,Trafigura
+Arctic Metagaz,2019-11-09 00:00,Idku,2019-10-17 20:22,Dunkerque,Gwangyang,2019-12-09 12:48,Loaded,TotalEnergies
+Gaslog Geneva,2019-11-09 00:00,Sabine Pass,2019-11-05 14:29,Panama,Pengerang LNG,2019-12-09 01:42,Loaded,Shell
+Point Fortin,2019-11-09 00:00,Cove Point,2019-11-05 07:31,S. Atlantic,Himeji,2019-12-02 23:19,Loaded,TotalEnergies
+Adam LNG,2019-11-08 00:00,Sabine Pass,2019-11-04 01:18,Panama Canal,Futtsu,2019-12-18 02:49,Loaded,BP
+Trinity Glory,2019-11-06 00:00,Bonny LNG,2019-10-23 10:02,Singapore,Hazira,2019-11-13 03:49,Loaded,Mitsui
+Marigold,2019-11-02 00:00,Bonny LNG,2019-11-02 15:20,Cape of Good Hope,Montoir,2019-11-15 04:25,Loaded,TotalEnergies
+Cool Explorer,2019-10-28 18:51,Sabine Pass,2019-10-26 17:39,Mexico,Grain,2019-11-08 06:35,Loaded,Cheniere
+Rudolf Samoylovich,2019-10-28 18:48,Yamal,2019-10-20 10:37,Zeebrugge,Dunkerque,2019-11-05 08:29,Loaded,OAO Yamal LNG
+Nikolay Yevgenov,2019-10-27 09:50,Yamal,2019-10-25 22:41,Montoir,Grain,2019-11-10 08:29,Loaded,OAO Yamal LNG
+Macoma,2019-10-23 00:00,Sabine Pass,2019-10-03 23:06,Incheon,SLNG,2019-11-05 03:50,Loaded,Shell
+Cadiz Knutsen,2019-10-18 00:00,Bonny LNG,2019-10-07 10:05,Cape of Good Hope,Fos Cavaou,2019-11-10 07:17,Loaded,TotalEnergies
+Italis LNG,2019-10-16 00:00,Cove Point,2019-09-16 13:35,South Hook,Zeebrugge,2019-10-19 18:39,Loaded,Trafigura
+BW Lilac,2019-10-16 00:00,Corpus Christi,2019-10-07 18:12,Zeebrugge,South Hook,2019-10-20 17:43,Loaded,Trafigura
+Clean Ocean,2019-10-08 00:00,Corpus Christi,2019-09-20 20:34,S. Atlantic,Gate,2019-11-01 01:37,Loaded,Cheniere
+Gaslog Shanghai,2019-10-08 00:00,Sabine Pass,2019-09-25 17:30,Italy,Rayong MTP,2019-11-11 00:09,Loaded,Gunvor
+Clean Planet,2019-10-05 00:00,Yamal,2019-10-01 08:31,Montoir,Bilbao,2019-10-09 07:04,Loaded,OAO Yamal LNG
+Gaslog Hong Kong,2019-10-04 04:09,Sabine Pass,2019-09-24 20:51,Gwangyang,Senboku,2019-11-14 05:48,Loaded,TotalEnergies
+Boris Vilkitsky,2019-10-03 00:00,Yamal,2019-09-25 14:32,Bilbao,Montoir,2019-10-08 00:42,Loaded,OAO Yamal LNG
+Maran Gas Hector,2019-09-30 00:00,Sabine Pass,2019-09-22 22:33,Zeebrugge,Fos Cavaou,2019-11-08 14:24,Loaded,Shell
+Maran Gas Sparta,2019-09-30 00:00,Cove Point,2019-09-19 13:45,Europe,Dahej,2019-10-31 18:42,Loaded,Shell
+Patris,2019-09-25 00:00,Sabine Pass,2019-09-19 22:14,Swinoujscie LNG,Bahia,2019-10-06 11:21,Loaded,Cheniere
+Maran Gas Roxana,2019-09-18 00:00,Sabine Pass,2019-09-12 18:02,Gibraltar,Hazira,2019-10-18 15:36,Loaded,Shell
+Yari LNG,2019-09-17 07:05,Sabine Pass,2019-08-26 15:12,Singapore,Boryeong,2019-10-25 04:16,Loaded,Cheniere
+Gaslog Seattle,2019-09-17 00:00,Bioko,2019-09-13 10:27,Asia,Manzanillo,2019-10-16 14:21,Loaded,Shell
+Excelerate Shenandoah,2019-09-13 07:03,Bonny LNG,2019-09-10 04:31,Europe,Hazira,2019-10-08 12:18,Loaded,Shell
+Gaslog Saratoga,2019-09-13 03:06,Cove Point,2019-09-09 22:02,Toscana,Port Qasim FSRU,2019-10-07 08:53,Loaded,Shell
+LNG Ondo,2019-09-13 00:00,Bonny LNG,2019-09-04 15:10,Montoir,Fos Cavaou,2019-09-18 19:22,Loaded,NLNG
+Solaris,2019-09-12 00:00,Sabine Pass,2019-09-09 19:35,Dahej,GasPort LNG,2019-10-06 09:09,Loaded,Shell
+Energy Liberty,2019-09-10 17:37,Cove Point,2019-08-31 14:48,Barcelona,Ohgishima,2019-10-16 00:48,Loaded,Tokyo Gas
+Maran Gas Roxana,2019-08-27 15:42,Atlantic LNG,2019-08-25 13:39,Gibraltar,Altamira,2019-09-07 13:03,Loaded,Shell
+Diamond Gas Sakura,2019-08-23 13:06,Cameron (Liqu.),2019-08-18 10:42,Gibraltar,Yung An,2019-11-11 00:45,Loaded,Mitsubishi
+Fuji LNG,2019-08-21 00:00,Sabine Pass,2019-08-02 16:53,Panama Canal,Toscana,2019-09-02 08:49,Loaded,Cheniere
+Shinshu Maru,2019-08-08 00:00,Gate,2019-07-03 20:58,PipeChina Dalian,Rayong MTP,2019-08-15 20:40,Loaded,Novatek
+SK Resolute,2019-08-08 00:00,Cameron (Liqu.),2019-08-05 13:30,Dunkerque,Joetsu Chubu,2019-09-14 02:24,Loaded,TotalEnergies
+Arctic Metagaz,2019-08-07 00:00,Mejillones,2019-07-25 15:41,Montoir,Bonny LNG,2019-08-17 12:13,Ballast,TotalEnergies
+Magdala,2019-07-29 00:00,Sabine Pass,2019-07-18 13:59,Quintero,Incheon,2019-08-22 07:48,Loaded,Shell
+LNG Juno,2019-07-27 00:00,Gorgon,2019-07-20 15:01,PipeChina Tianjin,Jebel Ali,2019-08-16 04:43,Loaded,Shell
+Fuwairit,2019-07-25 00:00,Ras Laffan,2019-07-25 09:03,Port Qasim,Taichung,2019-08-06 22:35,Loaded,QatarEnergy
+Gaslog Hong Kong,2019-07-22 00:00,Fos Cavaou,2019-07-11 08:29,Jebel Ali,Gaolan,2019-08-07 02:15,Loaded,TotalEnergies
+LNG Juno,2019-07-11 00:00,Dapeng,2019-07-07 05:48,QCLNG,Gorgon,2019-07-19 14:31,Ballast,Shell
+Gaslog Saratoga,2019-07-10 16:29,Gate,2019-07-07 00:28,Cove Point,Gate,2019-07-14 00:31,Ballast,Shell
+Seri Bijaksana,2019-07-05 00:00,Pengerang LNG,2019-06-24 01:45,Bintulu,GLNG,2019-07-19 18:01,Ballast,Petronas
+LNG Juno,2019-07-05 00:00,Gorgon,2019-06-22 02:28,Ningbo,Dapeng,2019-07-06 03:06,Loaded,Shell
+Kmarin Diamond,2019-07-03 10:21,Honningsvag Light.,2019-06-21 04:48,Zeebrugge,Hadera,2019-07-14 02:49,Loaded,OAO Yamal LNG
+British Sponsor,2019-07-03 00:00,Rovigo,2019-06-26 12:33,Zeebrugge,Atlantic LNG,2019-07-20 06:05,Ballast,BP
+Marvel Crane,2019-07-01 15:39,Dunkerque,2019-06-19 18:27,Gate,Cameron (Liqu.),2019-07-16 16:44,Ballast,Mitsui
+Kita LNG,2019-06-29 15:25,Bonny LNG,2019-06-04 05:01,PipeChina Tianjin,PipeChina Beihai,2019-07-10 04:29,Loaded,BP
+Flex Rainbow,2019-06-29 00:00,Escobar,2019-06-23 18:10,Montoir,Sabine Pass,2019-07-09 13:04,Ballast,Gunvor
+Marvel Falcon,2019-06-25 00:00,Sabine Pass,2019-06-18 05:29,Gate,Barcelona,2019-07-02 07:29,Loaded,Cheniere
+LNG Abalamabie,2019-06-25 00:00,Huelva,2019-05-06 14:52,Bonny LNG,Montoir,2019-07-06 16:59,Ballast,NLNG
+Mekaines,2019-06-18 00:00,Ras Laffan,2019-06-18 13:45,South Hook,Dunkerque,2019-07-08 18:38,Loaded,QatarEnergy
+Gaslog Gibraltar,2019-06-16 16:40,Atlantic LNG,2019-05-30 04:01,Quintero,PipeChina Tianjin,2019-07-12 02:14,Loaded,Shell
+LNG Bonny II,2019-06-16 00:00,Bonny LNG,2019-06-05 23:23,India,Jebel Ali,2019-06-27 13:39,Loaded,NLNG
+Gaslog Hong Kong,2019-06-10 16:43,Sabine Pass,2019-05-31 14:51,Fos Cavaou,Dahej,2019-06-25 04:25,Loaded,TotalEnergies
+Patris,2019-06-04 00:00,Honningsvag Light.,2019-05-31 05:00,Dunkerque,Grain,2019-06-08 00:59,Loaded,Vitol
+Shinshu Maru,2019-06-04 00:00,Zeebrugge,2019-05-24 17:18,Cameron (Liqu.),Gate,2019-07-02 08:49,Ballast,JERA
+Energy Atlantic,2019-05-17 07:29,Dunkerque,2019-05-06 09:29,Sabine Pass,Atlantic LNG,2019-05-28 00:04,Ballast,Cheniere
+Cool Runner,2019-05-17 00:00,Sabine Pass,2019-05-06 20:23,Pecem,Bahia,2019-05-30 10:58,Loaded,Petrobras
+LNG Sokoto,2019-05-03 09:22,Bonny LNG,2019-04-12 00:15,Dragon,Gate,2019-05-07 08:18,Loaded,NLNG
+Pan Africa,2019-04-29 16:36,Sabine Pass,2019-04-22 01:39,Gate,Altamira,2019-05-06 12:55,Loaded,Shell
+Marvel Kite,2019-04-28 08:39,Sabine Pass,2019-04-27 09:41,Gate,Manzanillo,2019-05-07 12:34,Loaded,Shell
+Gaslog Santiago,2019-04-24 00:00,Sabine Pass,2019-04-15 01:15,Bilbao,SLNG,2019-05-19 19:38,Loaded,Shell
+Iberica Knutsen,2019-04-16 00:00,Sabine Pass,2019-04-10 13:58,Bilbao,Taichung,2019-05-15 22:17,Loaded,Naturgy
+BW Pavilion Leeara,2019-04-08 00:00,Bethioua,2019-03-22 14:30,Panama Canal,Moheshkhali,2019-04-25 06:00,Loaded,Vitol
+Corcovado LNG,2019-04-03 00:00,Honningsvag Light.,2019-04-03 08:43,Dunkerque,Montoir,2019-04-09 16:42,Loaded,OAO Yamal LNG
+Vladimir Rusanov,2019-04-02 00:00,Yamal,2019-03-30 11:04,Honningsvag Light.,Gate,2019-04-06 08:13,Loaded,OAO Yamal LNG
+Boris Davydov,2019-04-02 00:00,Yamal,2019-03-23 05:00,Montoir,Dragon,2019-04-04 16:56,Loaded,OAO Yamal LNG
+Eduard Toll,2019-03-30 00:00,Yamal,2019-03-24 07:17,Honningsvag Light.,Dunkerque,2019-04-03 12:53,Loaded,OAO Yamal LNG
+SM Eagle,2019-03-27 00:00,Sabine Pass,2019-03-03 21:45,Tongyeong,Samcheok,2019-04-01 23:00,Loaded,KOGAS
+Maran Gas Agamemnon,2019-03-27 00:00,Sabine Pass,2019-03-22 12:57,Europe,Dahej,2019-04-23 00:13,Loaded,Trafigura
+Seapeak Meridian,2019-03-26 00:00,Cove Point,2019-03-21 12:58,Port Said,Zeebrugge,2019-03-31 12:59,Loaded,GAIL
+Patris,2019-03-23 00:00,Honningsvag Light.,2019-03-19 16:45,Zeebrugge,Dunkerque,2019-03-27 09:08,Loaded,Vitol
+Seapeak Oak,2019-03-22 00:00,Sabine Pass,2019-03-21 18:20,Panama Canal,Montoir,2019-04-06 15:39,Loaded,Cheniere
+Malanje,2019-03-18 00:00,Soyo,2019-03-14 06:05,Grain,Fos Cavaou,2019-03-26 07:58,Loaded,Angola LNG
+Clean Vision,2019-03-11 06:00,Honningsvag Light.,2019-03-03 19:52,Montoir,Gate,2019-03-11 23:33,Loaded,OAO Yamal LNG
+Karadeniz LNGt Powership Anatolia,2019-03-08 04:31,Costa Norte LNG,2019-02-24 16:53,Montoir,Cove Point,2019-03-27 16:53,Ballast,TotalEnergies
+Clean Horizon,2019-03-05 00:00,Honningsvag Light.,2019-03-03 06:00,Zeebrugge,Montoir,2019-03-10 16:29,Loaded,OAO Yamal LNG
+Asia Endeavour,2019-02-28 14:52,Pyeong Taek,2019-01-16 00:21,Wheatstone,Bontang,2019-03-04 16:45,Ballast,Chevron
+Solaris,2019-02-26 17:53,Peru LNG,2019-01-15 14:22,China,Rayong MTP,2019-02-27 00:38,Loaded,Shell
+Cubal,2019-02-20 10:01,Soyo,2019-01-25 12:54,PipeChina Tianjin,Gaolan,2019-02-21 02:47,Loaded,Angola LNG
+Seri Camellia,2019-02-19 17:50,Cameroon FLNG Terminal,2019-02-10 03:52,Dahej,Caofeidian,2019-03-12 05:39,Loaded,Gazprom
+Puteri Delima,2019-02-18 00:00,Bintulu,2019-02-12 09:53,Negishi,Boryeong,2019-02-24 03:08,Loaded,Petronas
+LNG Bayelsa,2019-02-13 00:00,Bonny LNG,2019-02-13 16:23,Montoir,Barcelona,2019-02-24 22:59,Loaded,NLNG
+Marvel Falcon,2019-02-09 11:41,Sabine Pass,2019-01-24 00:23,MED Sea,Toscana,2019-02-22 08:07,Loaded,Gunvor
+Salalah LNG,2019-02-07 00:00,Qalhat,2019-02-04 04:45,PipeChina Tianjin,Moheshkhali,2019-02-15 06:14,Loaded,Oman LNG
+Clean Energy,2019-01-31 00:00,Cameroon FLNG Terminal,2019-01-25 14:54,Cape of Good Hope,Grain,2019-02-16 05:53,Loaded,Gazprom
+Seapeak Magellan,2019-01-26 00:00,Gate,2019-01-12 08:53,Cove Point,Sabine Pass,2019-02-10 06:06,Ballast,Trafigura
+Maria Energy,2019-01-12 00:00,Revithoussa,2018-12-31 19:07,Sabine Pass,Bonny LNG,2019-01-25 17:35,Ballast,Cheniere
+Sevilla Knutsen,2018-12-31 00:00,Atlantic LNG,2018-12-27 19:27,Gibraltar,Yangshan,2019-02-01 01:48,Loaded,Shell
+Exemplar,2018-12-23 00:00,Montoir,2018-12-14 16:49,Saint John LNG,Northeast Gateway,2018-12-30 12:52,Loaded,Excelerate Energy
+Castillo De Caldelas,2018-12-11 00:00,Sabine Pass,2018-12-07 19:29,Far East,Dahej,2019-01-02 19:33,Loaded,Gunvor
