@@ -105,3 +105,7 @@ print(f"✅ Data updated to {output_path}")
 ```
 
 El fitxer de python que descarrega totes les dades es diu `kpler_fetch_all_auto.py`.
+
+## Permisos pel servidor
+
+Recordeu posar totes les carpetes de `/var/www/gaslytics/kpler/` i del virtual environment, amb permisos poc restrictius perquè el servei Apache les pugui obrir i executar!
