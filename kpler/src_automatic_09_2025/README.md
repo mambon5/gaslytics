@@ -127,7 +127,7 @@ After=network.target
 [Service]
 User=roma
 WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
-ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0 --server.enableCORS false
 Restart=always
 
 [Install]
@@ -164,5 +164,4 @@ Farem el següent virtual host per poder conectar els visitants al router que vi
     ErrorLog ${APACHE_LOG_DIR}/gaslytics-error.log
     CustomLog ${APACHE_LOG_DIR}/gaslytics-access.log combined
 </VirtualHost>
-
 ```
