@@ -108,4 +108,39 @@ El fitxer de python que descarrega totes les dades es diu `kpler_fetch_all_auto.
 
 ## Permisos pel servidor
 
-Recordeu posar totes les carpetes de `/var/www/gaslytics/kpler/` i del virtual environment, amb permisos poc restrictius perquè el servei Apache les pugui obrir i executar!
+Recordeu posar totes les carpetes de `/var/www/gaslytics/kpler/` i del virtual environment, amb permisos poc restrictius perquè el servei Apache les pugui obrir i executar!ç
+
+
+## Servei per mostrar les dades descaregades
+
+Farem una app amb Streamlit que permeti mostrar, navegar i descarregar els csv guardats.
+
+Servei hauria de ser quelcom així: `kpler_show_css.service`
+
+amb el codi:
+
+```
+[Unit]
+Description=Streamlit App - Gaslytics
+After=network.target
+
+[Service]
+User=roma
+WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+executar el servei:
+
+```
+sudo systemctl daemon-reload
+sudo systemctl restart kpler_show_css.service
+sudo systemctl status kpler_show_css.service
+
+```
+url local per veure la app: `http://localhost:8501`
