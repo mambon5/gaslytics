@@ -1,0 +1,9 @@
+[Unit]
+Description=Descàrrega diària de dades Kpler
+
+[Service]
+Type=oneshot
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 /var/www/gaslytics/kpler/src_automatic_09_2025/kpler_fetch_all.py
+WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
+StandardOutput=journal
+StandardError=journal

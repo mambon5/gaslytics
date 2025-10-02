@@ -211,7 +211,6 @@ SPA,Oman LNG,BP,1.0,,FOB/DES,2026-01-01 00:00,2035-01-01 00:00,World,World
 Tender,GAIL,,,12.0,FOB,2026-01-01 00:00,2026-12-31 00:00,United States,World
 Tender,,GAIL,,12.0,DES,2026-01-01 00:00,2026-12-31 00:00,World,India
 Tender,GAIL,,,12.0,FOB,2026-01-01 00:00,,United States,World
-Tender,,GAIL,,12.0,DES,2026-01-01 00:00,2026-12-31 00:00,World,India
 SPA,Glencore,Shenzhen Energy Group,0.5,,DES,2026-01-01 00:00,2036-12-31 00:00,World,China
 SPA,Shell,MET,0.8,,FOB,2026-01-01 00:00,2036-12-31 00:00,World,World
 SPA,Woodside Energy,Shell,3.0,,FOB,2026-01-01 00:00,2035-12-31 00:00,World,World
@@ -222,8 +221,6 @@ Tender,Shell,,,4.0,DES,2026-01-01 00:00,2026-12-31 00:00,World,World
 SPA,Oman LNG,KEPCO JP,0.4,,FOB/DES,2026-01-01 00:00,2030-12-31 00:00,World,World
 SPA,TotalEnergies,GSPC,0.4,,DES,2026-01-01 00:00,2031-01-01 00:00,World,World
 SPA,Angola LNG,SEFE M&T,0.5,,DES,2026-01-01 00:00,2030-12-31 00:00,Angola,World
-Tender,,GAIL,,12.0,DES,2026-01-01 00:00,2026-12-31 00:00,World,India
-Tender,GAIL,,,12.0,FOB,2026-01-01 00:00,2026-12-31 00:00,United States,World
 Tender,Pertamina,,,18.0,FOB,2026-01-01 00:00,2028-12-31 00:00,United States,World
 SPA,ADNOC Gas,JERA,0.5,,FOB/DES,2026-01-01 00:00,2028-12-31 00:00,Middle East,World
 SPA,Trafigura,IOC,2.5,,DES,2026-01-01 00:00,2031-01-01 00:00,World,World
@@ -368,7 +365,6 @@ SPA,Mitsubishi,JERA,1.2,,DES,2025-07-01 00:00,2040-06-30 00:00,Canada,Japan
 SPA,Petronas,CNOOC,2.2,,DES,2025-07-01 00:00,2035-06-30 00:00,Canada,China
 SPA,Petronas,PetroChina,0.6,,DES,2025-07-01 00:00,2030-06-30 00:00,Canada,China
 Tender,Angola LNG,,,4.0,DES,2025-07-01 00:00,2026-12-31 00:00,Angola,World
-Tender,Angola LNG,,,4.0,DES,2025-07-01 00:00,2026-12-31 00:00,Angola,World
 Tender,,GAIL,,6.0,DES,2025-07-01 00:00,2025-12-31 00:00,World,India
 Tender,,CPC Corporation,,8.0,DES,2025-07-01 00:00,2025-09-30 00:00,World,Taiwan
 Tender,,GAIL,,6.0,FOB,2025-07-01 00:00,2025-12-10 00:00,United States,World
@@ -393,7 +389,6 @@ Tender,,KOMIPO,,1.0,DES,2025-06-12 00:00,2025-06-23 00:00,World,South Korea
 Tender,Oman LNG,,,1.0,DES,2025-06-10 00:00,2025-06-22 00:00,Oman,World
 Tender,,IEASA,,8.0,DES,2025-06-10 00:00,2025-07-01 00:00,World,Argentina
 Tender,Angola LNG,,,1.0,DES,2025-06-10 00:00,2025-06-30 00:00,Angola,World
-Tender,Oman LNG,,,1.0,DES,2025-06-10 00:00,2025-06-22 00:00,Oman,World
 Tender,ADNOC Gas,,,1.0,DES,2025-06-09 00:00,2025-06-21 00:00,Middle East,India
 Tender,Oman LNG,,,1.0,DES,2025-06-09 00:00,2025-06-11 00:00,Oman,World
 Tender,Kyushu Electric,,,1.0,DES,2025-06-09 00:00,2025-06-11 00:00,Australia,World
@@ -480,7 +475,6 @@ Tender,,Gulf Energy Development Public Company,,2.0,DES,2025-04-01 00:00,2025-04
 Tender,,KOGAS,,3.0,DES,2025-04-01 00:00,2025-04-30 00:00,World,World
 Tender,,Centrica Plc,,,DES,2025-03-31 00:00,2025-07-07 00:00,World,United Kingdom
 Tender,Sonatrach,,,1.0,FOB,2025-03-31 00:00,2025-04-10 00:00,Algeria,World
-Tender,Oman LNG,,,1.0,FOB,2025-03-29 00:00,2025-03-31 00:00,Oman,World
 Tender,Oman LNG,,,1.0,FOB,2025-03-29 00:00,2025-03-31 00:00,Oman,World
 Tender,Angola LNG,,,2.0,DES,2025-03-26 00:00,2025-04-12 00:00,Angola,World
 Tender,,PetroBangla,,1.0,DES,2025-03-25 00:00,2025-03-31 00:00,World,Bangladesh
@@ -596,13 +590,10 @@ TUA,Gastrade,Venture Global LNG,1.0,,,2025-01-01 00:00,2030-01-01 00:00,Greece,W
 Tender,GAIL,,,24.0,FOB,2025-01-01 00:00,2025-12-31 00:00,United States,World
 SPA,Titan LNG,Brittany Ferries,,,DES,2025-01-01 00:00,,World,World
 SPA,Repsol,Centrica Plc,1.0,,DES,2025-01-01 00:00,2027-01-01 00:00,World,United Kingdom
-Tender,GAIL,,,24.0,FOB,2025-01-01 00:00,2025-12-31 00:00,United States,World
 SPA,Sinochem,Beijing Gas Group,,,DES,2025-01-01 00:00,,World,China
 Tender,,GAIL,,24.0,DES,2025-01-01 00:00,2025-12-31 00:00,World,India
 SPA,ADNOC Gas,JAPEX,0.2,,DES,2025-01-01 00:00,2030-01-01 00:00,Middle East,Japan
 SPA,Venture Global LNG,D.TRADING,1.0,,FOB/DES,2025-01-01 00:00,2026-12-31 00:00,United States,World
-Tender,,GAIL,,12.0,DES,2025-01-01 00:00,2025-12-31 00:00,World,India
-Tender,GAIL,,,12.0,DES,2025-01-01 00:00,2025-12-31 00:00,United States,World
 SPA,Sinopec,Senton Energy,0.57,,DES,2025-01-01 00:00,2029-01-01 00:00,World,China
 Tender,Angola LNG,,,2.0,DES,2025-01-01 00:00,2025-02-10 00:00,Angola,World
 Tender,,GAIL,,2.0,DES,2025-01-01 00:00,2025-01-13 00:00,World,India
@@ -611,7 +602,6 @@ SPA,Vitol,AG&P,0.8,,DES,2025-01-01 00:00,,World,Philippines
 SPA,China Gas & Vitol JV,China Gas,2.0,,DES,2025-01-01 00:00,2026-01-01 00:00,World,China
 Tender,ADNOC Gas,,,1.0,FOB,2024-12-31 00:00,2025-01-02 00:00,Middle East,World
 Tender,GAIL,,,2.0,DES,2024-12-31 00:00,2025-01-30 00:00,United States,World
-Tender,,PetroBangla,,,DES,2024-12-30 00:00,2024-12-31 00:00,World,Bangladesh
 Tender,,PetroBangla,,,DES,2024-12-30 00:00,2024-12-31 00:00,World,Bangladesh
 Tender,,PetroBangla,,3.0,DES,2024-12-30 00:00,2025-01-10 00:00,World,Bangladesh
 Tender,,GSPC,,1.0,DES,2024-12-29 00:00,2025-01-31 00:00,World,World
@@ -794,9 +784,7 @@ Tender,QatarEnergy,,,1.0,FOB,2024-08-13 00:00,2024-08-13 00:00,Qatar,World
 Tender,,EGPC,,5.0,DES,2024-08-13 00:00,2024-09-22 00:00,World,Jordan
 Tender,Angola LNG,,,1.0,DES,2024-08-12 00:00,2024-09-02 00:00,Angola,World
 Tender,GAIL,,,1.0,FOB,2024-08-09 00:00,2024-08-09 00:00,United States,World
-Tender,GAIL,,,1.0,FOB,2024-08-09 00:00,2024-08-09 00:00,United States,World
 Tender,GAIL,,,,FOB,2024-08-09 00:00,2024-08-09 00:00,United States,World
-Tender,GAIL,,,1.0,FOB,2024-08-09 00:00,2024-08-09 00:00,United States,World
 Tender,,KOMIPO,,1.0,DES,2024-08-07 00:00,2024-08-09 00:00,World,World
 Tender,Angola LNG,,,1.0,DES,2024-08-07 00:00,2024-08-27 00:00,Angola,World
 Tender,Santos,,,1.0,DES,2024-08-05 00:00,2024-08-07 00:00,Papua New Guinea,World
@@ -844,7 +832,6 @@ Tender,,Tohoku Electric,,1.0,DES,2024-07-01 00:00,2024-07-31 00:00,World,Japan
 Tender,,First Gen Corp,,1.0,DES,2024-07-01 00:00,2024-07-05 00:00,World,Philippines
 Tender,,Guangdong Energy,,4.0,DES,2024-07-01 00:00,2025-06-30 00:00,World,World
 Tender,,PTT LNG,,3.0,DES,2024-07-01 00:00,2024-07-11 00:00,World,Thailand
-Tender,,PTT LNG,,3.0,DES,2024-07-01 00:00,2024-07-11 00:00,World,Thailand
 Tender,,CPC Corporation,,6.0,DES,2024-07-01 00:00,2024-12-31 00:00,World,Taiwan
 Tender,,EGAS,,21.0,DES,2024-07-01 00:00,2024-09-30 00:00,World,Northern Africa
 SPA,Woodside Energy,CPC Corporation,0.6,,DES,2024-07-01 00:00,2034-07-01 00:00,World,Taiwan
@@ -881,7 +868,6 @@ Tender,BASF,,,1.0,FOB,2024-05-30 00:00,2024-06-02 00:00,Norway,World
 Tender,,EGAS,,1.0,DES,2024-05-29 00:00,2024-05-30 00:00,World,Jordan
 Tender,,KPC,,1.0,DES,2024-05-27 00:00,2024-06-30 00:00,World,Kuwait
 Tender,Oman LNG,,,1.0,FOB,2024-05-27 00:00,2024-05-29 00:00,Oman,World
-Tender,Oman LNG,,,1.0,FOB,2024-05-27 00:00,2024-05-29 00:00,Oman,World
 Tender,Petronas,,,,DES,2024-05-26 00:00,2024-05-28 00:00,Malaysia,World
 Tender,,First Gen Corp,,1.0,DES,2024-05-25 00:00,2024-05-31 00:00,World,Philippines
 Tender,,PV Gas,,1.0,DES,2024-05-25 00:00,2024-06-05 00:00,World,Vietnam
@@ -914,7 +900,6 @@ Tender,ConocoPhillips,,,,FOB,2024-05-02 00:00,2024-05-03 00:00,Australia,World
 Tender,,GSPC,,1.0,DES,2024-05-01 00:00,2024-05-15 00:00,World,India
 Tender,,PTT LNG,,1.0,DES,2024-05-01 00:00,2024-05-02 00:00,World,Thailand
 Tender,,GSPC,,,DES,2024-05-01 00:00,2024-05-07 00:00,World,India
-Tender,,GSPC,,1.0,DES,2024-05-01 00:00,2024-05-15 00:00,World,India
 Tender,,Beijing Gas Group,,7.0,DES,2024-05-01 00:00,2024-11-30 00:00,World,China
 TUA,PipeChina,CNOOC,,,,2024-05-01 00:00,2025-12-31 00:00,China,World
 Tender,Oman LNG,,,2.0,FOB,2024-04-29 00:00,2024-05-18 00:00,Oman,World
@@ -1073,13 +1058,11 @@ Tender,Pertamina,,,3.0,FOB,2024-01-01 00:00,2026-12-31 00:00,Indonesia,World
 Tender,Pertamina,,,10.0,FOB,2024-01-01 00:00,2026-12-31 00:00,World,World
 LTA,Delfin Midstream,Devon Energy,1.0,,,2024-01-01 00:00,,United States,World
 Tender,Pertamina,TotalEnergies,,10.0,FOB,2024-01-01 00:00,2026-01-01 00:00,Indonesia,World
-LTA,Delfin Midstream,Devon Energy,1.0,,,2024-01-01 00:00,,United States,World
 SPA,Cheniere,Kospo,0.4,,DES,2024-01-01 00:00,2046-12-31 00:00,United States,South Korea
 Tender,GAIL,,,12.0,FOB,2024-01-01 00:00,2024-12-08 00:00,United States,World
 Tender,Angola LNG,,,12.0,DES,2024-01-01 00:00,2024-12-31 00:00,Angola,World
 Tender,,IOC,,,DES,2024-01-01 00:00,2024-12-31 00:00,World,India
 Tender,Pertamina,Vitol,,24.0,DES,2024-01-01 00:00,2026-12-31 00:00,Indonesia,World
-TUA,PipeChina,CNOOC,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 TUA,PipeChina,CNOOC,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 Tender,,Bulgargaz,,2.0,DES,2024-01-01 00:00,2024-02-29 00:00,World,Turkey
 SPA,Novatek,Glencore,0.5,,DES,2024-01-01 00:00,,Russian Federation,World
@@ -1097,19 +1080,9 @@ Tender,Gunvor,GSPC,,1.0,DES,2024-01-01 00:00,2024-01-31 00:00,World,India
 Tender,Equinor,Latvenergo,,6.0,DES,2024-01-01 00:00,2026-01-01 00:00,World,Lithuania
 SPA,Merakes LNG,Eni,,,FOB,2024-01-01 00:00,2027-01-01 00:00,Indonesia,World
 TUA,PipeChina,Sinopec,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 TUA,PipeChina,PetroChina,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 TUA,PipeChina,PetroChina,,,,2024-01-01 00:00,2024-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 TUA,PipeChina,ENN,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2024-01-01 00:00,2025-12-31 00:00,China,World
 TUA,Gate,Uniper,0.8,,DES,2024-01-01 00:00,,Netherlands,World
 SPA,China Gas & Vitol JV,China Gas,1.0,,DES,2024-01-01 00:00,2025-01-01 00:00,World,China
 Tender,NNPC,,,1.0,FOB,2023-12-27 00:00,2023-12-31 00:00,Nigeria,World
@@ -1214,26 +1187,12 @@ Tender,,Tohoku Electric,,1.0,DES,2023-10-01 00:00,2023-10-10 00:00,World,Japan
 TUA,PipeChina,Sinopec,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,PetroChina,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,Foran Energy Gas Group,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,Shenzhen Gas Corporation,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,Shenzhen Energy Group,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 Tender,,KEPCO JP,,1.0,DES,2023-10-01 00:00,2023-10-15 00:00,World,World
-TUA,PipeChina,Sinopec,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 Tender,,PetroBangla,,,DES,2023-10-01 00:00,2023-10-02 00:00,World,Bangladesh
 Tender,,GAIL,,1.0,DES,2023-10-01 00:00,2023-10-10 00:00,World,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,Sinopec,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
-TUA,PipeChina,PetroChina,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,Jovo,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 TUA,PipeChina,Beijing Gas Group,,,,2023-10-01 00:00,2023-12-31 00:00,China,World
 SPA,Cheniere,PetroChina,0.9,,FOB,2023-10-01 00:00,2043-12-31 00:00,United States,World
@@ -1355,7 +1314,6 @@ TUA,PipeChina,Ganghua International Energy Trading,0.043093,,,2023-07-01 00:00,2
 TUA,PipeChina,Beijing Gas Group,0.06506,,,2023-07-01 00:00,2023-09-30 00:00,China,World
 TUA,PipeChina,Jovo,0.052612,,,2023-07-01 00:00,2023-09-30 00:00,China,World
 TUA,PipeChina,Shenzhen Energy Group,0.043687,,,2023-07-01 00:00,2023-09-30 00:00,China,World
-TUA,PipeChina,Jovo,0.052612,,,2023-07-01 00:00,2023-09-30 00:00,China,World
 Tender,,PTT LNG,,2.0,DES,2023-06-28 00:00,2023-07-31 00:00,World,Thailand
 Tender,Angola LNG,,,1.0,DES,2023-06-27 00:00,2023-07-16 00:00,Angola,World
 Tender,Angola LNG,,,1.0,DES,2023-06-24 00:00,2023-07-10 00:00,Angola,World
@@ -1563,7 +1521,6 @@ Tender,EGAS,,,1.0,FOB,2023-02-03 00:00,2023-02-04 00:00,Northern Africa,World
 Tender,,CNOOC,,,DES,2023-02-01 00:00,2023-12-31 00:00,World,China
 Tender,,GAIL,,1.0,DES,2023-02-01 00:00,2023-02-28 00:00,World,India
 Tender,,INPEX,,1.0,DES,2023-02-01 00:00,2023-02-06 00:00,World,Japan
-Tender,,GAIL,,1.0,DES,2023-02-01 00:00,2023-02-28 00:00,World,India
 Tender,,CFE,,1.0,DES,2023-02-01 00:00,2023-02-10 00:00,World,Mexico
 Tender,,GAIL,,,DES,2023-02-01 00:00,2023-02-28 00:00,World,India
 Tender,,Achema,,6.0,DES,2023-02-01 00:00,2023-12-31 00:00,World,Lithuania
@@ -1581,7 +1538,6 @@ Tender,,PTT LNG,,12.0,DES,2023-01-16 00:00,2023-04-21 00:00,World,Thailand
 Tender,GAIL,,,2.0,FOB,2023-01-15 00:00,2023-02-05 00:00,United States,World
 Tender,,Botas,,2.0,DES,2023-01-14 00:00,2023-02-05 00:00,World,Turkey
 Tender,Angola LNG,,,1.0,DES,2023-01-13 00:00,2023-01-29 00:00,Angola,World
-Tender,,PTT LNG,,,DES,2023-01-11 00:00,2023-02-27 00:00,World,Thailand
 Tender,,PTT LNG,,,DES,2023-01-11 00:00,2023-02-27 00:00,World,Thailand
 Tender,,PTT LNG,,1.0,DES,2023-01-11 00:00,2023-02-27 00:00,World,Thailand
 Tender,,Uniper,,1.0,DES,2023-01-11 00:00,2023-02-12 00:00,World,Netherlands
@@ -1665,7 +1621,6 @@ Tender,KEPCO JP,,,1.0,DES,2022-12-10 00:00,2022-12-15 00:00,Papua New Guinea,Wor
 Tender,Mitsubishi,,,1.0,FOB,2022-12-09 00:00,2022-12-10 00:00,United States,World
 Tender,Angola LNG,,,1.0,DES,2022-12-08 00:00,2022-12-25 00:00,Angola,World
 Tender,EGAS,,,2.0,FOB,2022-12-06 00:00,2022-12-11 00:00,Northern Africa,World
-Tender,EGAS,,,2.0,FOB,2022-12-06 00:00,2022-12-11 00:00,Northern Africa,World
 Tender,GAIL,,,1.0,FOB,2022-12-06 00:00,2022-12-07 00:00,United States,World
 Tender,,Tohoku Electric,,1.0,DES,2022-12-05 00:00,2022-12-12 00:00,World,World
 Tender,,INPEX,,1.0,DES,2022-12-04 00:00,2022-12-09 00:00,World,Japan
@@ -1682,7 +1637,6 @@ Tender,EGAS,,,1.0,FOB,2022-11-24 00:00,2022-11-25 00:00,Northern Africa,World
 Tender,,GAIL,,2.0,DES,2022-11-24 00:00,2023-01-10 00:00,World,India
 Tender,Angola LNG,,,1.0,DES,2022-11-22 00:00,2022-12-11 00:00,Angola,World
 Tender,Oman LNG,,,1.0,FOB,2022-11-22 00:00,2022-11-24 00:00,Oman,World
-Tender,,PTT LNG,,1.0,DES,2022-11-21 00:00,2022-11-25 00:00,World,Thailand
 Tender,,PTT LNG,,1.0,DES,2022-11-21 00:00,2022-11-25 00:00,World,Thailand
 Tender,,Petronet,,1.0,DES,2022-11-21 00:00,2022-11-30 00:00,World,India
 Tender,EGAS,,,2.0,FOB,2022-11-17 00:00,2022-11-18 00:00,Northern Africa,World
@@ -1783,7 +1737,6 @@ Tender,,Uniper,,1.0,DES,2022-09-03 00:00,2022-09-04 00:00,World,Netherlands
 Tender,,GSPC,,1.0,DES,2022-09-02 00:00,2022-09-03 00:00,World,World
 Tender,,GSPC,,1.0,DES,2022-09-02 00:00,2022-09-03 00:00,World,India
 Tender,,Nippon Steel,,1.0,DES,2022-09-01 00:00,2022-09-20 00:00,World,Japan
-Tender,,Nippon Steel,,1.0,DES,2022-09-01 00:00,2022-09-20 00:00,World,Japan
 Tender,EGAS,,,2.0,FOB,2022-09-01 00:00,2022-09-08 00:00,Northern Africa,World
 TUA,N.V. Nederlandse Gasunie,Engie,0.7,,,2022-09-01 00:00,,Netherlands,World
 TUA,N.V. Nederlandse Gasunie,Shell,2.6,,,2022-09-01 00:00,,Netherlands,World
@@ -1825,7 +1778,6 @@ Tender,,GAIL,,1.0,DES,2022-08-01 00:00,2022-08-02 00:00,World,India
 Tender,,PTT LNG,,4.0,DES,2022-08-01 00:00,2022-08-30 00:00,World,Thailand
 Tender,,INPEX,,1.0,DES,2022-08-01 00:00,2022-08-05 00:00,World,Japan
 TUA,DEPA,Bulgargaz,,,,2022-08-01 00:00,2023-01-01 00:00,Greece,World
-Tender,,GAIL,,1.0,DES,2022-08-01 00:00,2022-08-02 00:00,World,India
 Tender,ADNOC Gas,,,1.0,DES,2022-07-29 00:00,2022-07-31 00:00,Middle East,World
 Tender,,GAIL,,1.0,DES,2022-07-28 00:00,2022-07-30 00:00,World,India
 Tender,,KPC,,1.0,DES,2022-07-27 00:00,2022-07-31 00:00,World,Kuwait
@@ -1843,7 +1795,6 @@ Tender,,GSPC,,1.0,DES,2022-07-16 00:00,2022-07-30 00:00,World,India
 Tender,GAIL,,,3.0,FOB,2022-07-16 00:00,2022-09-27 00:00,United States,World
 Tender,GAIL,,,1.0,FOB,2022-07-15 00:00,2022-07-16 00:00,United States,World
 Tender,,GAIL,,1.0,DES,2022-07-15 00:00,2022-07-17 00:00,World,India
-Tender,,GAIL,,1.0,DES,2022-07-15 00:00,2022-07-17 00:00,World,India
 Tender,EGAS,,,1.0,FOB,2022-07-14 00:00,2022-07-15 00:00,Northern Africa,World
 Tender,ExxonMobil,,,1.0,DES,2022-07-13 00:00,2022-07-16 00:00,Australia,World
 Tender,CNOOC,,,1.0,FOB,2022-07-10 00:00,2022-07-12 00:00,Australia,World
@@ -1857,7 +1808,6 @@ Tender,,GAIL,,3.0,DES,2022-07-04 00:00,2022-09-10 00:00,World,India
 Tender,Petronas,,,1.0,FOB/DES,2022-07-04 00:00,2022-07-06 00:00,Malaysia,World
 Tender,,Pakistan LNG,,4.0,DES,2022-07-03 00:00,2022-07-31 00:00,World,Pakistan
 Tender,EGAS,,,,FOB,2022-07-03 00:00,2022-07-04 00:00,Northern Africa,World
-Tender,,Pakistan LNG,,1.0,DES,2022-07-03 00:00,2022-07-04 00:00,World,Pakistan
 Tender,,Pakistan LNG,,1.0,DES,2022-07-03 00:00,2022-07-04 00:00,World,Pakistan
 TUA,ATPL,IOC,3.0,,,2022-07-01 00:00,2042-07-01 00:00,India,World
 TUA,ATPL,GAIL,1.5,,,2022-07-01 00:00,2042-07-01 00:00,India,World
@@ -1905,8 +1855,6 @@ Tender,,EGAT,,1.0,DES,2022-06-25 00:00,2022-06-29 00:00,World,Thailand
 Tender,,Hokkaido Electric Power Co.,,1.0,DES,2022-06-24 00:00,2022-07-31 00:00,World,World
 Tender,EGAS,,,1.0,FOB,2022-06-23 00:00,2022-06-24 00:00,Northern Africa,World
 Tender,,PetroBangla,,1.0,DES,2022-06-22 00:00,2022-06-23 00:00,World,Bangladesh
-Tender,,GAIL,,1.0,DES,2022-06-21 00:00,2022-06-23 00:00,World,India
-Tender,,GAIL,,1.0,DES,2022-06-21 00:00,2022-06-23 00:00,World,India
 Tender,,GAIL,,1.0,DES,2022-06-21 00:00,2022-06-23 00:00,World,India
 Tender,,Tohoku Electric,,1.0,DES,2022-06-20 00:00,2022-06-30 00:00,World,Japan
 Tender,,EGAT,,1.0,DES,2022-06-19 00:00,2022-06-22 00:00,World,Thailand
@@ -1960,10 +1908,8 @@ Tender,Angola LNG,,,1.0,DES,2022-05-12 00:00,2022-06-23 00:00,Angola,World
 Tender,QatarEnergy,Pakistan LNG,,2.0,DES,2022-05-12 00:00,2022-06-07 00:00,World,Pakistan
 Tender,,PetroBangla,,1.0,DES,2022-05-11 00:00,2022-05-12 00:00,World,Bangladesh
 Tender,Angola LNG,,,1.0,DES,2022-05-11 00:00,2022-07-08 00:00,Angola,World
-Tender,,PetroBangla,,1.0,DES,2022-05-11 00:00,2022-05-12 00:00,World,Bangladesh
 Tender,,Torrent Power,,1.0,DES,2022-05-11 00:00,2022-05-26 00:00,World,India
 Tender,,Kyushu Electric,,1.0,DES,2022-05-10 00:00,2022-05-13 00:00,World,World
-Tender,,GAIL,,1.0,DES,2022-05-10 00:00,2022-05-12 00:00,World,India
 Tender,,GAIL,,1.0,DES,2022-05-10 00:00,2022-05-12 00:00,World,India
 Tender,Santos,,,1.0,FOB,2022-05-08 00:00,2022-05-10 00:00,Australia,World
 Tender,EGAS,,,3.0,FOB,2022-05-08 00:00,2022-05-31 00:00,Northern Africa,World
@@ -1975,12 +1921,10 @@ Tender,APLNG,,,1.0,FOB,2022-05-06 00:00,2022-05-07 00:00,Australia,World
 Tender,,GAIL,,1.0,DES,2022-05-05 00:00,2022-05-07 00:00,World,India
 Tender,,PetroBangla,,1.0,DES,2022-05-04 00:00,2022-05-05 00:00,World,Bangladesh
 Tender,,PetroBangla,,1.0,DES,2022-05-03 00:00,2022-05-04 00:00,World,Bangladesh
-Tender,,PetroBangla,,1.0,DES,2022-05-03 00:00,2022-05-04 00:00,World,Bangladesh
 Tender,EGAS,,,1.0,FOB,2022-05-03 00:00,2022-05-04 00:00,Northern Africa,World
 Tender,,IEASA,,8.0,DES,2022-05-02 00:00,2022-06-05 00:00,World,Argentina
 Tender,,GAIL,,1.0,DES,2022-05-02 00:00,2022-05-04 00:00,World,India
 Tender,,PTT LNG,,3.0,DES,2022-05-02 00:00,2022-05-30 00:00,World,Thailand
-Tender,,GAIL,,1.0,DES,2022-05-02 00:00,2022-05-04 00:00,World,India
 TUA,LITGAS,PGNiG,0.725,,,2022-05-01 00:00,2032-05-01 00:00,Lithuania,World
 Tender,CNOOC,,,10.0,DES,2022-05-01 00:00,2022-11-30 00:00,World,World
 Tender,TotalEnergies,Pakistan LNG,,1.0,DES,2022-05-01 00:00,2022-05-02 00:00,World,Pakistan
@@ -2184,7 +2128,6 @@ SPA,NFE,Hydro,0.5,,DES,2022-01-01 00:00,2036-12-31 00:00,World,Brazil
 SPA,QatarEnergy,CNOOC,0.0,,DES,2022-01-01 00:00,2036-01-01 00:00,World,China
 Tender,,GAIL,,1.0,DES,2022-01-01 00:00,2022-01-03 00:00,World,India
 Tender,Angola LNG,,,1.0,DES,2022-01-01 00:00,2022-01-21 00:00,Angola,World
-Tender,,PTT LNG,,4.0,DES,2022-01-01 00:00,2022-02-28 00:00,World,Thailand
 SPA,Sonatrach,DEPA,0.72,,DES,2022-01-01 00:00,,Algeria,Greece
 Tender,,Torrent Power,,,DES,2022-01-01 00:00,2026-01-01 00:00,World,India
 Tender,,ENN,,26.0,DES,2022-01-01 00:00,2023-12-31 00:00,World,China
@@ -2477,7 +2420,6 @@ Tender,Freeport LNG,,,1.0,FOB,2021-07-11 00:00,2021-07-11 00:00,United States,Wo
 Tender,Vitol,Pakistan LNG,,1.0,DES,2021-07-11 00:00,2021-07-13 00:00,World,Pakistan
 Tender,KPC,,,1.0,FOB,2021-07-09 00:00,2021-07-13 00:00,Australia,World
 Tender,ADNOC Gas,,,1.0,FOB/DES,2021-07-07 00:00,2021-07-16 00:00,Middle East,World
-Tender,ADNOC Gas,,,1.0,FOB/DES,2021-07-07 00:00,2021-07-16 00:00,Middle East,World
 Tender,,IOC,,1.0,DES,2021-07-06 00:00,2021-07-08 00:00,World,World
 Tender,Petronas,,,1.0,DES,2021-07-05 00:00,2021-07-06 00:00,Malaysia,World
 Tender,Pertamina,,,1.0,FOB,2021-07-05 00:00,2021-07-07 00:00,Indonesia,World
@@ -2533,7 +2475,6 @@ Tender,ADNOC Gas,,,1.0,FOB,2021-07-01 00:00,2021-07-07 00:00,Middle East,World
 SPA,TotalEnergies,Shenergy Group Ltd.,1.4,,DES,2021-07-01 00:00,2041-07-01 00:00,World,China
 Tender,,Petronet,,1.0,DES,2021-06-29 00:00,2021-07-01 00:00,World,India
 Tender,Pertamina,,,1.0,FOB,2021-06-28 00:00,2021-06-30 00:00,United States,World
-Tender,Pertamina,,,1.0,FOB,2021-06-28 00:00,2021-06-30 00:00,United States,World
 Tender,Oman LNG,,,1.0,FOB,2021-06-28 00:00,2021-07-02 00:00,Oman,World
 Tender,Petronas,,,2.0,FOB/DES,2021-06-25 00:00,2021-07-15 00:00,Australia,World
 Tender,EGAS,Gunvor,,1.0,FOB/DES,2021-06-24 00:00,2021-06-26 00:00,Northern Africa,World
@@ -2541,7 +2482,6 @@ Tender,,Guangzhou Gas,,1.0,DES,2021-06-24 00:00,2021-06-30 00:00,World,China
 Tender,QatarEnergy,PTT LNG,,1.0,DES,2021-06-23 00:00,2021-06-28 00:00,Qatar,Thailand
 SPA,Cheniere,Engie,0.9,,FOB,2021-06-23 00:00,2041-06-23 00:00,United States,World
 Tender,GAIL,,,3.0,FOB,2021-06-22 00:00,2021-08-05 00:00,United States,World
-Tender,Pertamina,,,1.0,FOB/DES,2021-06-22 00:00,2021-06-24 00:00,Indonesia,World
 Tender,Pertamina,,,1.0,FOB/DES,2021-06-22 00:00,2021-06-24 00:00,Indonesia,World
 Tender,Petronas,Uniper,,1.0,DES,2021-06-21 00:00,2021-06-22 00:00,Malaysia,World
 Tender,Novatek,,,1.0,DES,2021-06-21 00:00,2021-07-19 00:00,Russian Federation,World
@@ -2710,7 +2650,6 @@ Tender,,Pakistan LNG,,2.0,DES,2021-04-05 00:00,2021-04-20 00:00,World,Pakistan
 Tender,Petronas,,,1.0,FOB/DES,2021-04-05 00:00,2021-04-18 00:00,Australia,World
 Tender,,Guangzhou Gas,,1.0,DES,2021-04-05 00:00,2021-04-11 00:00,World,China
 Tender,,IOC,,1.0,DES,2021-04-03 00:00,,World,India
-Tender,,Equinor,,1.0,DES,2021-04-01 00:00,2021-04-11 00:00,World,Norway
 Tender,,Equinor,,1.0,DES,2021-04-01 00:00,2021-04-11 00:00,World,Norway
 Tender,,Foran Energy Gas Group,,,DES,2021-04-01 00:00,2021-04-30 00:00,World,World
 Tender,,Osaka Gas,,1.0,DES,2021-04-01 00:00,2021-04-30 00:00,World,World
@@ -2904,7 +2843,6 @@ Tender,,CPC Corporation,,12.0,DES,2021-01-01 00:00,2021-12-31 00:00,World,Taiwan
 Tender,Sakhalin Energy,,,1.0,FOB/DES,2021-01-01 00:00,2021-01-03 00:00,Russian Federation,World
 Tender,QatarEnergy,CPC Corporation,,2.0,DES,2021-01-01 00:00,2021-01-31 00:00,World,Taiwan
 Tender,Pertamina,,,30.0,FOB,2021-01-01 00:00,2023-12-31 00:00,Indonesia,World
-Tender,Pertamina,,,30.0,FOB,2021-01-01 00:00,2023-12-31 00:00,Indonesia,World
 Tender,Woodside Energy,,,1.0,FOB,2021-01-01 00:00,2021-01-02 00:00,United States,World
 SPA,ADNOC Gas,TotalEnergies,0.75,,DES,2021-01-01 00:00,2022-12-31 00:00,Middle East,World
 Tender,,PetroChina,,1.0,DES,2021-01-01 00:00,2021-01-31 00:00,World,World
@@ -2920,7 +2858,6 @@ TUA,LNG Croatia,MGFK Croatia,0.49,,,2021-01-01 00:00,2027-12-31 00:00,Croatia,Wo
 Tender,,Torrent Power,,12.0,DES,2021-01-01 00:00,2021-12-31 00:00,World,India
 SPA,Shell,,,,FOB/DES,2021-01-01 00:00,2025-12-31 00:00,World,World
 SPA,Shell,KPC,1.5,,DES,2021-01-01 00:00,2036-12-31 00:00,World,World
-SPA,Shell,,,,FOB/DES,2021-01-01 00:00,2025-12-31 00:00,World,World
 Tender,,GNL Chile,,5.0,DES,2021-01-01 00:00,2021-06-30 00:00,World,Chile
 Tender,Cheniere,,,12.0,FOB,2021-01-01 00:00,2021-12-31 00:00,United States,World
 SPA,Shell,Uniper,,,DES,2021-01-01 00:00,2025-12-31 00:00,World,World
@@ -2937,14 +2874,10 @@ TUA,Enagás,Pavilion Gas,,,,2021-01-01 00:00,,Spain,World
 TUA,Enagás,Repsol,,,,2021-01-01 00:00,,Spain,World
 TUA,Enagás,RWE,,,,2021-01-01 00:00,,Spain,World
 TUA,Enagás,Eni,,,,2021-01-01 00:00,,Spain,World
-TUA,Enagás,Repsol,,,,2021-01-01 00:00,,Spain,World
 SPA,Petronas,Mercuria,0.36,,DES,2021-01-01 00:00,,Malaysia,World
 SPA,Pertamina,Shell,0.5,,FOB,2021-01-01 00:00,2024-12-31 00:00,Indonesia,World
-TUA,Enagás,Eni,,,,2021-01-01 00:00,,Spain,World
 TUA,Enagás,DXT,,,,2021-01-01 00:00,,Spain,World
 TUA,Enagás,Axpo,,,,2021-01-01 00:00,,Spain,World
-TUA,Enagás,RWE,,,,2021-01-01 00:00,,Spain,World
-TUA,Enagás,Naturgy,,,,2021-01-01 00:00,,Spain,World
 SPA,Pertamina,TotalEnergies,1.06,,FOB,2021-01-01 00:00,2024-01-01 00:00,Indonesia,World
 SPA,CNOOC,Guangdong Energy,,,DES,2021-01-01 00:00,,World,World
 SPA,Shell,MFGK Croatia,0.2,,DES,2021-01-01 00:00,2027-12-31 00:00,World,Croatia
@@ -2967,7 +2900,6 @@ Tender,Darwin LNG,,,1.0,FOB/DES,2020-12-23 00:00,2020-12-25 00:00,Australia,Worl
 Tender,Trafigura,Vitol,,1.0,FOB/DES,2020-12-22 00:00,2020-12-26 00:00,World,China
 Tender,,PetroBangla,,1.0,DES,2020-12-22 00:00,2020-12-26 00:00,World,Bangladesh
 Tender,BP,PetroChina,,1.0,DES,2020-12-22 00:00,2020-12-24 00:00,World,World
-Tender,,PetroBangla,,1.0,DES,2020-12-22 00:00,2020-12-26 00:00,World,Bangladesh
 Tender,Oman LNG,,,1.0,FOB,2020-12-21 00:00,2020-12-23 00:00,Oman,World
 Tender,Oman LNG,,,1.0,FOB/DES,2020-12-21 00:00,2020-12-23 00:00,Oman,World
 Tender,Glencore,GDLNG,,1.0,DES,2020-12-20 00:00,2020-12-26 00:00,World,China
@@ -3092,7 +3024,6 @@ Tender,Novatek,,,1.0,DES,2020-10-01 00:00,2020-10-15 00:00,World,World
 Tender,GAIL,,,1.0,FOB,2020-10-01 00:00,2020-10-03 00:00,United States,World
 SPA,Naturgy,PREPA,1.47,,DES,2020-10-01 00:00,2032-09-30 00:00,World,World
 TUA,PipeChina,CNOOC,,,,2020-10-01 00:00,2021-03-31 00:00,China,World
-TUA,PipeChina,CNOOC,,,,2020-10-01 00:00,2021-03-31 00:00,China,World
 Tender,,GSPC,,3.0,DES,2020-10-01 00:00,2020-12-31 00:00,World,India
 Tender,Novatek,,,1.0,DES,2020-10-01 00:00,2020-10-31 00:00,Russian Federation,World
 TUA,ENN,Zhejiang Energy,,,,2020-10-01 00:00,,China,World
@@ -3128,7 +3059,6 @@ Tender,,CFE,,2.0,DES,2020-09-01 00:00,2020-09-14 00:00,World,Mexico
 Tender,Angola LNG,,,1.0,DES,2020-09-01 00:00,2020-10-31 00:00,Angola,World
 Tender,Novatek,,,4.0,DES,2020-09-01 00:00,2020-12-31 00:00,Russian Federation,World
 Tender,,CFE,,1.0,DES,2020-09-01 00:00,2020-09-02 00:00,World,Mexico
-Tender,Angola LNG,,,1.0,DES,2020-09-01 00:00,2020-10-31 00:00,Angola,World
 Tender,Chevron,,,1.0,DES,2020-08-31 00:00,2020-09-04 00:00,Australia,World
 Tender,Angola LNG,,,1.0,FOB,2020-08-30 00:00,2020-09-04 00:00,Angola,World
 Tender,,RIL,,2.0,DES,2020-08-29 00:00,2020-08-31 00:00,World,India
@@ -3171,7 +3101,6 @@ Tender,Darwin LNG,,,2.0,FOB/DES,2020-08-01 00:00,2020-09-30 00:00,Australia,Worl
 Tender,Novatek,,,1.0,DES,2020-08-01 00:00,2020-08-31 00:00,Russian Federation,World
 Tender,INPEX,,,2.0,FOB/DES,2020-08-01 00:00,2020-09-30 00:00,Australia,World
 Tender,Noble,Guangzhou Gas,,2.0,DES,2020-08-01 00:00,2020-10-01 00:00,World,World
-Tender,Sakhalin Energy,,,1.0,FOB/DES,2020-07-30 00:00,2020-08-01 00:00,Russian Federation,World
 Tender,Sakhalin Energy,,,1.0,FOB/DES,2020-07-30 00:00,2020-08-01 00:00,Russian Federation,World
 Tender,,RIL,,1.0,DES,2020-07-28 00:00,2020-07-30 00:00,World,India
 Tender,Angola LNG,,,1.0,FOB,2020-07-25 00:00,2020-07-30 00:00,Angola,World
@@ -3245,7 +3174,6 @@ Tender,Cheniere,IEASA,,4.0,DES,2020-06-01 00:00,2020-07-31 00:00,World,World
 Tender,Trafigura,IEASA,,4.0,DES,2020-06-01 00:00,2020-07-31 00:00,World,World
 Tender,,EDP,,1.0,DES,2020-06-01 00:00,2020-07-31 00:00,World,Portugal
 Tender,,Botas,,9.0,DES,2020-06-01 00:00,2020-09-30 00:00,World,Turkey
-Tender,Angola LNG,,,1.0,DES,2020-06-01 00:00,2020-07-31 00:00,Angola,World
 Tender,Trafigura,IEASA,,7.0,DES,2020-06-01 00:00,2020-08-31 00:00,World,Argentina
 Tender,,CPC Corporation,,1.0,DES,2020-06-01 00:00,2020-12-31 00:00,World,Taiwan
 Tender,Pertamina,,,1.0,FOB,2020-06-01 00:00,2020-06-15 00:00,Indonesia,World
@@ -3345,7 +3273,6 @@ Tender,,RIL,,1.0,DES,2020-04-01 00:00,2020-04-05 00:00,World,India
 Tender,,GSPC,,5.0,DES,2020-04-01 00:00,2021-01-31 00:00,World,India
 Tender,,RIL,,1.0,DES,2020-04-01 00:00,2020-06-30 00:00,World,India
 Tender,,RIL,,5.0,DES,2020-04-01 00:00,2020-06-30 00:00,World,India
-Tender,,RIL,,5.0,DES,2020-04-01 00:00,2020-06-30 00:00,World,India
 Tender,,GSPC,,7.0,DES,2020-04-01 00:00,2020-10-31 00:00,World,India
 Tender,,Torrent Power,,4.0,DES,2020-04-01 00:00,2020-12-31 00:00,World,India
 Tender,Tangguh PSC,,,5.0,FOB/DES,2020-04-01 00:00,2020-06-30 00:00,Indonesia,World
@@ -3362,7 +3289,6 @@ Tender,,CFE,,1.0,DES,2020-03-23 00:00,2020-03-26 00:00,World,Mexico
 Tender,,GSPC,,1.0,,2020-03-23 00:00,2020-03-31 00:00,World,India
 Tender,Petronas,TotalEnergies,,1.0,FOB,2020-03-21 00:00,2020-03-23 00:00,Malaysia,World
 Tender,,IOC,,1.0,DES,2020-03-20 00:00,2020-04-20 00:00,World,India
-Tender,,IOC,,1.0,DES,2020-03-20 00:00,2020-04-20 00:00,World,India
 Tender,,IOC,,1.0,DES,2020-03-19 00:00,2020-03-21 00:00,World,India
 Tender,INPEX,,,1.0,FOB,2020-03-17 00:00,2020-03-19 00:00,Australia,World
 Tender,GAIL,,,1.0,FOB,2020-03-15 00:00,2020-03-31 00:00,United States,World
@@ -3378,7 +3304,6 @@ Tender,Pertamina,Mitsui,,1.0,FOB/DES,2020-03-10 00:00,2020-03-12 00:00,Indonesia
 Tender,,IOC,,1.0,DES,2020-03-08 00:00,2020-03-10 00:00,World,India
 Tender,,Calamari LNG,,1.0,DES,2020-03-06 00:00,2020-03-12 00:00,World,Colombia
 Tender,,GSPC,,2.0,DES,2020-03-05 00:00,2020-03-16 00:00,World,India
-Tender,,GSPC,,1.0,DES,2020-03-05 00:00,2020-03-11 00:00,World,India
 Tender,,GSPC,,1.0,DES,2020-03-05 00:00,2020-03-11 00:00,World,India
 Tender,,POSCO International,,1.0,DES,2020-03-04 00:00,2020-03-06 00:00,World,South Korea
 Tender,Ichthys LNG,PetroChina,,1.0,FOB,2020-03-04 00:00,2020-03-06 00:00,Australia,World
@@ -3451,7 +3376,6 @@ Tender,,GSPC,,1.0,FOB/DES,2020-01-15 00:00,2020-01-31 00:00,World,India
 Tender,,BPCL,,1.0,DES,2020-01-15 00:00,2020-01-17 00:00,World,India
 Tender,APLNG,TotalEnergies,,1.0,DES,2020-01-11 00:00,2020-01-13 00:00,Australia,World
 Tender,Mitsubishi,Trafigura,,1.0,DES,2020-01-10 00:00,2020-01-20 00:00,Oman,World
-Tender,Mitsubishi,Trafigura,,1.0,DES,2020-01-10 00:00,2020-01-20 00:00,Oman,World
 Tender,Vitol,RIL,,1.0,DES,2020-01-10 00:00,2020-01-15 00:00,World,World
 Tender,Sakhalin Energy,Mitsubishi,,1.0,FOB/DES,2020-01-07 00:00,2020-01-09 00:00,Russian Federation,World
 Tender,,GSPC,,1.0,DES,2020-01-06 00:00,2020-01-15 00:00,World,India
@@ -3475,7 +3399,6 @@ Tender,,JAPEX,,30.0,DES,2020-01-01 00:00,2025-12-31 00:00,World,Japan
 Tender,,EGAT,1.5,,DES,2020-01-01 00:00,2028-12-31 00:00,World,Thailand
 Tender,,Guangdong Energy,,12.0,DES,2020-01-01 00:00,2023-12-31 00:00,World,China
 SPA,ADNOC Gas,TotalEnergies,1.25,,FOB/DES,2020-01-01 00:00,2025-03-31 00:00,Middle East,World
-Tender,,CPC Corporation,,12.0,DES,2020-01-01 00:00,2020-12-31 00:00,World,Taiwan
 Tender,,CPC Corporation,,12.0,DES,2020-01-01 00:00,2020-12-31 00:00,World,Taiwan
 Tender,,GSPC,,1.0,DES,2020-01-01 00:00,2020-01-15 00:00,World,India
 Tender,,GSPC,,1.0,DES,2020-01-01 00:00,2020-01-31 00:00,World,India
@@ -3621,12 +3544,10 @@ Tender,PetroChina,Shenzhen Gas Corporation,,1.0,DES,2019-10-20 00:00,2019-10-31 
 Tender,Ichthys LNG,,,1.0,FOB/DES,2019-10-20 00:00,2019-10-31 00:00,Australia,World
 Tender,Angola LNG,Gunvor,,1.0,DES,2019-10-19 00:00,2019-10-21 00:00,Angola,World
 Tender,Angola LNG,,,1.0,DES,2019-10-19 00:00,2019-10-26 00:00,Angola,World
-Tender,Angola LNG,,,1.0,DES,2019-10-19 00:00,2019-10-26 00:00,Angola,World
 Tender,,POSCO International,,,DES,2019-10-19 00:00,2019-10-25 00:00,World,South Korea
 Tender,,GAIL,,1.0,DES,2019-10-17 00:00,2019-10-25 00:00,World,India
 Tender,,Tohoku Electric,,1.0,DES,2019-10-16 00:00,2019-11-15 00:00,World,Japan
 Tender,,GSPC,,1.0,DES,2019-10-15 00:00,2019-10-23 00:00,World,India
-Tender,,Tohoku Electric,,1.0,DES,2019-10-15 00:00,2019-10-21 00:00,World,Japan
 Tender,,Tohoku Electric,,1.0,DES,2019-10-15 00:00,2019-10-21 00:00,World,Japan
 Tender,,GSPC,,1.0,DES,2019-10-15 00:00,,World,India
 Tender,,GSPC,,1.0,DES,2019-10-15 00:00,2019-10-30 00:00,World,India
@@ -3862,7 +3783,6 @@ SPA,ADNOC Gas,EDF,0.5,,FOB/DES,2019-04-01 00:00,2022-03-31 00:00,Middle East,Wor
 SPA,ADNOC Gas,Trafigura,0.5,,FOB/DES,2019-04-01 00:00,2022-03-31 00:00,Middle East,World
 Tender,,RIL,,12.0,DES,2019-04-01 00:00,2020-03-31 00:00,World,India
 Tender,Gunvor,ENOC,,4.0,DES,2019-04-01 00:00,2019-07-31 00:00,World,India
-Tender,Gunvor,ENOC,,4.0,DES,2019-04-01 00:00,2019-07-31 00:00,World,India
 SPA,PNG LNG,Sinopec,0.45,,FOB/DES,2019-04-01 00:00,2024-03-31 00:00,Papua New Guinea,World
 Tender,EGAS,Gunvor,,4.0,FOB,2019-04-01 00:00,2019-04-30 00:00,Northern Africa,World
 Tender,Glencore,GSPC,,4.0,DES,2019-04-01 00:00,2020-03-31 00:00,World,India
@@ -3924,7 +3844,6 @@ Tender,Oman LNG,,,1.0,DES,2019-01-20 00:00,2019-01-30 00:00,Oman,World
 Tender,,GSPC,,1.0,DES,2019-01-20 00:00,2019-01-30 00:00,World,India
 Tender,,GAIL,,1.0,DES,2019-01-20 00:00,2019-02-05 00:00,World,India
 Tender,,IOC,,1.0,DES,2019-01-20 00:00,2019-02-08 00:00,World,India
-Tender,,GAIL,,1.0,DES,2019-01-20 00:00,2019-02-05 00:00,World,India
 Tender,KPC,BP,,1.0,FOB,2019-01-18 00:00,2019-01-23 00:00,Australia,World
 Tender,POSCO International,Essar,,1.0,DES,2019-01-17 00:00,2019-01-31 00:00,Angola,India
 Tender,ADNOC Gas,Bapco Energies,,1.0,,2019-01-15 00:00,2019-02-15 00:00,Middle East,Bahrain
@@ -4231,7 +4150,6 @@ Tender,,CFE,,1.0,DES,2018-06-01 00:00,2018-06-09 00:00,World,Mexico
 Tender,Petronas,,,1.0,DES,2018-06-01 00:00,2018-06-30 00:00,Malaysia,World
 SPA,Gunvor,GAIL,0.6,,DES,2018-06-01 00:00,2019-05-31 00:00,World,India
 SPA,GAIL,GAIL,0.6,,DES,2018-06-01 00:00,2019-05-31 00:00,World,India
-SPA,Gunvor,GAIL,0.6,,DES,2018-06-01 00:00,2019-05-31 00:00,World,India
 Tender,Shell,IEASA,,1.0,DES,2018-06-01 00:00,2018-06-30 00:00,World,Argentina
 SPA,Titan LNG,AM&S,,,DES,2018-06-01 00:00,,World,World
 Tender,,Nippon Steel,,1.0,DES,2018-05-30 00:00,2018-06-03 00:00,World,South Korea
@@ -4422,7 +4340,6 @@ Tender,,GAIL,,1.0,DES,2018-01-01 00:00,2018-01-16 00:00,World,India
 Tender,,ENOC,,13.0,,2018-01-01 00:00,2019-11-30 00:00,World,India
 Tender,Glencore,EGAS,,1.0,DES,2018-01-01 00:00,2018-03-31 00:00,World,Jordan
 Tender,Shell,Torrent Power,,6.0,DES,2018-01-01 00:00,2021-12-31 00:00,World,India
-Tender,Shell,Torrent Power,,6.0,DES,2018-01-01 00:00,2021-12-31 00:00,World,India
 SPA,Oman LNG,BP,1.13,,FOB,2018-01-01 00:00,2024-12-31 00:00,Oman,World
 SPA,Origin Energy,ENN,0.28,,DES,2018-01-01 00:00,2028-12-31 00:00,Australia,China
 Tender,,NEPCO,,16.0,DES,2018-01-01 00:00,2018-12-31 00:00,World,Jordan
@@ -4450,7 +4367,6 @@ Tender,APLNG,KEPCO JP,,1.0,FOB,2017-12-24 00:00,2017-12-25 00:00,Australia,World
 Tender,Angola LNG,PetroChina,,1.0,DES,2017-12-23 00:00,2017-12-25 00:00,Angola,World
 Tender,Sakhalin Energy,Gazprom,,1.0,DES,2017-12-18 00:00,2017-12-20 00:00,Russian Federation,World
 Tender,,GAIL,,1.0,DES,2017-12-16 00:00,2018-01-15 00:00,World,India
-Tender,,GSPC,,1.0,DES,2017-12-15 00:00,2017-12-31 00:00,World,India
 Tender,,GSPC,,1.0,DES,2017-12-15 00:00,2017-12-31 00:00,World,India
 Tender,,IOC,,1.0,DES,2017-12-14 00:00,2017-12-16 00:00,World,India
 Tender,Angola LNG,CNOOC,,1.0,DES,2017-12-11 00:00,2017-12-12 00:00,Angola,World
@@ -4577,8 +4493,6 @@ Tender,,IOC,,1.0,DES,2017-08-01 00:00,2017-09-01 00:00,World,India
 Tender,,EDP,,1.0,DES,2017-08-01 00:00,2017-08-31 00:00,World,Portugal
 Tender,Pertamina,,,1.0,DES,2017-08-01 00:00,2017-08-31 00:00,Indonesia,World
 Tender,Pertamina,,,2.0,FOB/DES,2017-08-01 00:00,2017-09-30 00:00,Indonesia,World
-Tender,Pertamina,,,2.0,FOB/DES,2017-08-01 00:00,2017-09-30 00:00,Indonesia,World
-Tender,,YPF,,1.0,DES,2017-08-01 00:00,2017-08-31 00:00,World,Argentina
 Tender,Pertamina,,,1.0,FOB,2017-08-01 00:00,2017-08-31 00:00,Indonesia,World
 Tender,,OLT Toscana,,2.0,DES,2017-08-01 00:00,2017-08-31 00:00,World,Italy
 SPA,Gasum Oy,ESL Shipping,,,DES,2017-08-01 00:00,,World,World
@@ -4679,13 +4593,11 @@ SPA,Sabine Pass LLC,KOGAS,3.5,,FOB,2017-05-01 00:00,2037-05-01 00:00,United Stat
 Tender,Angola LNG,,,1.0,DES,2017-04-30 00:00,2017-05-03 00:00,Angola,World
 Tender,Angola LNG,BP,,1.0,FOB,2017-04-26 00:00,2017-05-05 00:00,Angola,South Korea
 Tender,,PTT LNG,,1.0,DES,2017-04-21 00:00,2017-05-02 00:00,World,Thailand
-Tender,,PTT LNG,,1.0,DES,2017-04-21 00:00,2017-05-02 00:00,World,Thailand
 Tender,,PTT LNG,,1.0,DES,2017-04-20 00:00,2017-05-10 00:00,World,Thailand
 Tender,Equinor,OLT Toscana,,1.0,,2017-04-18 00:00,2017-04-22 00:00,Norway,Italy
 Tender,Angola LNG,Shell,,1.0,DES,2017-04-17 00:00,2017-04-19 00:00,Angola,World
 Tender,,GSPC,,1.0,DES,2017-04-16 00:00,2017-04-30 00:00,World,India
 Tender,,GAIL,,2.0,DES,2017-04-16 00:00,2017-04-30 00:00,World,India
-Tender,,Petronet,,1.0,DES,2017-04-15 00:00,2017-04-30 00:00,World,India
 Tender,,Petronet,,1.0,DES,2017-04-15 00:00,2017-04-30 00:00,World,India
 Tender,Shell,CFE,,1.0,DES,2017-04-14 00:00,2017-04-25 00:00,World,Mexico
 Tender,Qatargas 1,OLT Toscana,,1.0,DES,2017-04-06 00:00,2017-04-08 00:00,Qatar,Italy
@@ -4710,7 +4622,6 @@ Tender,Cheniere,CFE,,2.0,DES,2017-04-01 00:00,2017-04-30 00:00,World,Mexico
 Tender,,GAIL,,2.0,DES,2017-04-01 00:00,2017-04-30 00:00,World,India
 Tender,PNG LNG,,,6.0,DES,2017-04-01 00:00,2017-10-31 00:00,Papua New Guinea,World
 Tender,Trafigura,KPC,,1.0,DES,2017-04-01 00:00,2017-04-15 00:00,World,Kuwait
-Tender,,GAIL,,1.0,DES,2017-04-01 00:00,2017-04-15 00:00,World,India
 Tender,Engie LNG,IEASA,,1.0,DES,2017-04-01 00:00,2017-05-31 00:00,World,Argentina
 Tender,BP,YPF,,1.0,DES,2017-04-01 00:00,2017-05-31 00:00,World,Argentina
 Tender,Cheniere,YPF,,1.0,DES,2017-04-01 00:00,2017-05-31 00:00,World,Argentina
@@ -4749,7 +4660,6 @@ Tender,,IOC,,1.0,DES,2017-02-01 00:00,2017-02-28 00:00,World,India
 Tender,Qatargas 1,PTT LNG,,1.0,DES,2017-02-01 00:00,2017-02-08 00:00,World,Thailand
 Tender,CNOOC,Glencore,,1.0,DES,2017-02-01 00:00,2017-02-28 00:00,Australia,World
 Tender,Shell,CFE,,2.0,DES,2017-02-01 00:00,2017-02-28 00:00,World,Mexico
-Tender,,GAIL,,1.0,DES,2017-02-01 00:00,2017-02-28 00:00,World,India
 SPA,Shell,VAN DER KAMP,,,DES,2017-02-01 00:00,,World,World
 Tender,Angola LNG,,,1.0,DES,2017-01-30 00:00,2017-02-01 00:00,Angola,World
 Tender,,CFE,,1.0,DES,2017-01-28 00:00,2017-01-30 00:00,World,Mexico
@@ -4880,7 +4790,6 @@ Tender,BHP,TotalEnergies,,1.0,FOB,2016-10-07 00:00,2016-10-11 00:00,Australia,Wo
 Tender,ADNOC Gas,Itochu,,1.0,DES,2016-10-07 00:00,2016-10-10 00:00,Middle East,World
 Tender,,IOC,,2.0,DES,2016-10-05 00:00,2016-10-21 00:00,World,India
 Tender,,GAIL,,1.0,DES,2016-10-05 00:00,2016-10-15 00:00,World,India
-Tender,,GAIL,,1.0,DES,2016-10-05 00:00,2016-10-15 00:00,World,India
 Tender,Angola LNG,Vitol,,1.0,DES,2016-10-03 00:00,2016-10-05 00:00,Angola,World
 Tender,,CFE,,1.0,DES,2016-10-02 00:00,2016-10-06 00:00,World,Mexico
 Tender,Galp,,,6.0,FOB,2016-10-01 00:00,2021-09-30 00:00,Nigeria,World
@@ -4910,7 +4819,6 @@ Tender,BP,YPF,,1.0,DES,2016-09-01 00:00,2016-10-31 00:00,World,Argentina
 Tender,,YPF,,4.0,DES,2016-09-01 00:00,2016-09-30 00:00,World,Argentina
 Tender,PNG LNG,,,3.0,DES,2016-09-01 00:00,2017-03-31 00:00,Papua New Guinea,World
 Tender,,GAIL,,3.0,DES,2016-09-01 00:00,2016-10-31 00:00,World,India
-Tender,PNG LNG,,,3.0,DES,2016-09-01 00:00,2017-03-31 00:00,Papua New Guinea,World
 Tender,,IEASA,,4.0,DES,2016-09-01 00:00,2016-09-30 00:00,World,Argentina
 Tender,Vitol,IEASA,,1.0,DES,2016-09-01 00:00,2016-10-31 00:00,World,Argentina
 Tender,Shell,IEASA,,1.0,DES,2016-09-01 00:00,2016-10-31 00:00,World,Argentina
@@ -5006,12 +4914,9 @@ Tender,Shell,EGAS,,3.0,DES,2016-06-01 00:00,2016-08-31 00:00,World,Northern Afri
 Tender,,KOGAS,,6.0,DES,2016-06-01 00:00,2017-02-28 00:00,World,South Korea
 Tender,Centrica Plc,DUSUP,,3.0,DES,2016-06-01 00:00,2016-08-31 00:00,World,Middle East
 Tender,Pertamina,,,4.0,DES,2016-06-01 00:00,2016-12-31 00:00,Indonesia,World
-Tender,,GAIL,,1.0,DES,2016-06-01 00:00,2016-06-30 00:00,World,India
 Tender,,IEASA,,4.0,,2016-06-01 00:00,2016-08-31 00:00,World,Argentina
-Tender,,GAIL,,1.0,DES,2016-06-01 00:00,2016-06-30 00:00,World,India
 Tender,PetroChina,EGAS,,1.0,DES,2016-06-01 00:00,2016-08-31 00:00,World,Northern Africa
 Tender,Gazprom,GSPC,,4.0,DES,2016-06-01 00:00,2017-03-31 00:00,World,India
-Tender,Pertamina,,,5.0,FOB,2016-06-01 00:00,2016-09-30 00:00,Indonesia,World
 Tender,,PGNiG,,4.0,DES,2016-06-01 00:00,2016-06-30 00:00,World,Poland
 Tender,,ENEOS Holdings,,5.0,DES,2016-06-01 00:00,2017-02-28 00:00,World,Japan
 Tender,,IEASA,,9.0,DES,2016-06-01 00:00,2016-08-31 00:00,World,Argentina
@@ -5240,7 +5145,6 @@ Tender,,Petronet,,1.0,DES,2015-10-01 00:00,2015-10-31 00:00,World,India
 Tender,Gunvor,GAIL,,1.0,DES,2015-10-01 00:00,2015-10-31 00:00,World,India
 TUA,Gate,Shell,1.4,,,2015-10-01 00:00,,Netherlands,World
 Tender,Santos GLNG,,,3.0,FOB,2015-10-01 00:00,2015-12-31 00:00,Australia,World
-Tender,Gunvor,GAIL,,1.0,DES,2015-10-01 00:00,2015-10-31 00:00,World,India
 Tender,BG,GAIL,,5.0,DES,2015-09-30 00:00,2015-12-30 00:00,World,India
 Tender,NLNG,Petrobras,,1.0,FOB,2015-09-22 00:00,2015-09-25 00:00,Nigeria,World
 Tender,Trafigura,NEPCO,,1.0,DES,2015-09-20 00:00,2015-09-24 00:00,World,Jordan
@@ -5561,7 +5465,6 @@ SPA,Shell,Repsol,0.1,,DES,2013-02-27 00:00,2023-02-26 00:00,World,Canada
 SPA,Atlantic 4,Shell,1.15,,FOB,2013-02-26 00:00,2026-12-31 00:00,Trinidad and Tobago,World
 TUA,Petronet,GSPC,2.3,,,2013-01-06 00:00,2033-01-06 00:00,India,World
 TUA,Petronet,GAIL,2.5,,,2013-01-06 00:00,2036-01-06 00:00,India,World
-TUA,Petronet,GAIL,2.5,,,2013-01-06 00:00,2036-01-06 00:00,India,World
 SPA,BG,GNL Chile,0.55,,DES,2013-01-01 00:00,2036-01-02 00:00,Equatorial Guinea,Chile
 SPA,Engie LNG,GAIL,0.4,,DES,2013-01-01 00:00,2014-12-31 00:00,World,India
 SPA,Engie LNG,KOGAS,1.6,,DES,2013-01-01 00:00,2014-12-31 00:00,World,South Korea
@@ -5577,7 +5480,6 @@ Tender,Vitol,YPF,0.4,11.0,DES,2013-01-01 00:00,2013-12-31 00:00,World,Argentina
 Tender,Naturgy,YPF,0.8,25.0,DES,2013-01-01 00:00,2013-12-31 00:00,World,Argentina
 SPA,Galp,Petronas,,,,2013-01-01 00:00,2014-12-31 00:00,Nigeria,United Kingdom
 TUA,Petronet,BPCL,1.0,,,2013-01-01 00:00,2033-01-01 00:00,India,World
-Tender,Petrobras,YPF,0.05,2.0,DES,2013-01-01 00:00,2013-12-31 00:00,World,Argentina
 SPA,Shell,Petronet,,,DES,2013-01-01 00:00,2013-12-31 00:00,World,India
 Tender,Eni,YPF,2.0,10.0,DES,2013-01-01 00:00,2013-12-31 00:00,World,Argentina
 TUA,GNLM,Engie,0.3,,,2013-01-01 00:00,2013-12-31 00:00,Chile,World
@@ -5788,8 +5690,6 @@ SPA,Snohvit Cons.,Equinor,1.75,,FOB,2007-01-01 00:00,2021-12-31 00:00,Norway,Wor
 SPA,Snohvit Cons.,TotalEnergies,0.7,,FOB,2007-01-01 00:00,,Norway,World
 TUA,Enagás,Engie LNG,0.4,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
 TUA,Enagás,Union Fenosa,,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
-TUA,Enagás,Union Fenosa,,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
-TUA,Enagás,Naturgy,,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
 TUA,Enagás,Naturgy,,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
 TUA,Enagás,Moeve,0.82,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
 TUA,Enagás,Shell,0.9,,,2007-01-01 00:00,2020-12-31 00:00,Spain,World
@@ -5909,7 +5809,6 @@ SPA,Petronas,KOGAS,2.0,,DES,2003-01-01 00:00,2010-12-31 00:00,Malaysia,South Kor
 SPA,Petronas,TEPCO,0.54,,DES,2003-01-01 00:00,2004-12-31 00:00,Malaysia,World
 SPA,Atlantic 2/3,Shell,1.7,,FOB,2003-01-01 00:00,2023-12-31 00:00,Trinidad and Tobago,World
 SPA,Atlantic 2/3,BG,2.2,,FOB/DES,2003-01-01 00:00,2022-12-31 00:00,Trinidad and Tobago,World
-SPA,Petronas,TEPCO,0.54,,DES,2003-01-01 00:00,2004-12-31 00:00,Malaysia,World
 SPA,Oman LNG,Engie LNG,0.6,,FOB,2003-01-01 00:00,2004-12-31 00:00,Oman,World
 SPA,Petronet,GAIL,4.5,,DES,2003-01-01 00:00,2023-12-31 00:00,Qatar,India
 SPA,Atlantic 2/3,EDP,0.74,,FOB,2003-01-01 00:00,2023-12-31 00:00,Trinidad and Tobago,World
@@ -6033,57 +5932,29 @@ SPA,Sonatrach,TotalEnergies,2.0,,DES,1972-01-01 00:00,2025-12-31 00:00,Algeria,F
 SPA,ConocoPhillips,Tokyo Gas,0.7,,,1969-04-01 00:00,2011-03-31 00:00,United States,Japan
 SPA,ConocoPhillips,TEPCO,,,DES,1969-01-01 00:00,2009-01-01 00:00,United States,Japan
 TUA,,,,,,,,United Kingdom,World
-TUA,,,,,,,,United Kingdom,World
 TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,World,World
 TUA,,,,,,,,World,World
 TUA,,,1.1,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,United Kingdom,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
 TUA,,,0.4,,,,,Spain,World
-TUA,,,,,,,,Spain,World
 TUA,,,6.3,,,,,Japan,World
 TUA,,,1.19,,,,,Japan,World
 TUA,,,1.8,,,,,Israel,World
-TUA,,,,,,,,World,World
 TUA,,,4.6,,,,,Japan,World
 TUA,,,0.7,,,,,China,World
 TUA,,,1.03,,,,,China,World
 TUA,,,0.5,,,,2013-12-26 00:00,Spain,World
-TUA,,,,,,,,Spain,World
 TUA,,,2.83,,,,,Japan,World
 TUA,,,5.5,,,,,Japan,World
 TUA,,,1.0,,,,,Japan,World
-TUA,,,1.0,,,,,Japan,World
 TUA,,,3.0,,,,,China,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,,,,,,Spain,World
 TUA,,,0.3,,,,,Spain,World
-TUA,,,,,,,,United Kingdom,World
-TUA,,,,,,,,United Kingdom,World
-TUA,,,0.4,,,,,Spain,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,,,,,,World,World
-TUA,,,0.4,,,,,Spain,World
-TUA,,,,,,,,Spain,World
-TUA,,,3.0,,,,,China,World
-TUA,,,,,,,,World,World
+Tender,Oman LNG,,,1.0,DES,2025-11-16 00:00,2025-11-18 00:00,Oman,World
+Tender,,PTT,,1.0,DES,2025-11-10 00:00,2025-11-11 00:00,World,Thailand
+Tender,Gunvor,PetroBangla,,1.0,DES,2023-07-12 00:00,2023-07-13 00:00,World,Morocco
+SPA,Shell,NFE,0.53,,DES,2019-11-01 00:00,2027-11-01 00:00,Trinidad and Tobago,Puerto Rico
+SPA,TotalEnergies,Shell,0.5,,DES,2019-01-01 00:00,2024-12-31 00:00,World,Pakistan
+SPA,JERA,EDF,1.5,,FOB/DES,2018-06-01 00:00,2020-12-31 00:00,World,France
+SPA,BG,GAIL,0.3,,DES,2015-01-01 00:00,2015-12-31 00:00,Trinidad and Tobago,India
+SPA,BG,GNL Chile,0.55,,DES,2013-06-05 00:00,2033-06-05 00:00,Trinidad and Tobago,Chile
+SPA,BG,GNL Chile,0.55,,DES,2013-01-01 00:00,2036-01-02 00:00,Trinidad and Tobago,Chile
+SPA,BG,GNL Chile,0.55,,DES,2009-01-01 00:00,2030-12-31 00:00,Trinidad and Tobago,Chile
