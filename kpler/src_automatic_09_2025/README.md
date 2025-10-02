@@ -144,3 +144,25 @@ sudo systemctl status kpler_show_css.service
 
 ```
 url local per veure la app: `http://localhost:8501`
+
+## Virtual host en apache per fer accessible la app desde fora 
+
+Farem el següent virtual host per poder conectar els visitants al router que vinguin per un domini en concret, al port local on està la app al servidor.
+
+```
+<VirtualHost *:80>
+    ServerName gaslytics.nescolam.com
+
+    # Preserve the original host header
+    ProxyPreserveHost On
+
+    # Redirigeix tot el tràfic al servei Streamlit
+    ProxyPass / http://127.0.0.1:8501/
+    ProxyPassReverse / http://127.0.0.1:8501/
+
+    # Logs opcionals
+    ErrorLog ${APACHE_LOG_DIR}/gaslytics-error.log
+    CustomLog ${APACHE_LOG_DIR}/gaslytics-access.log combined
+</VirtualHost>
+
+```
