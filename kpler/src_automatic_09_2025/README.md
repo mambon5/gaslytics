@@ -125,9 +125,13 @@ Description=Streamlit App - Gaslytics
 After=network.target
 
 [Service]
-User=roma
+User=romanov
 WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
-ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0 --server.enableCORS false
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 -m streamlit run app.py \
+  --server.port 8501 \
+  --server.address 0.0.0.0 \
+  --server.enableCORS false \
+  --server.enableXsrfProtection false
 Restart=always
 
 [Install]
