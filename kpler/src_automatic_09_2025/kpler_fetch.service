@@ -2,8 +2,14 @@
 Description=Descàrrega diària de dades Kpler
 
 [Service]
-Type=oneshot
-ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 /var/www/gaslytics/kpler/src_automatic_09_2025/kpler_fetch_all.py
+Type=simple
 WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
-StandardOutput=journal
-StandardError=journal
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 /var/www/gaslytics/kpler/src_automatic_09_2025/kpler_
+fetch_all_auto.py
+User=romanov
+Group=romanov
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+

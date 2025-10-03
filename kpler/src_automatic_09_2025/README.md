@@ -26,12 +26,16 @@ Exemple senzill:
 Description=Descàrrega diària de dades Kpler
 
 [Service]
-Type=oneshot
-ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 /var/www/gaslytics/kpler/src_automatic_09_2025/kpler_fetch_all.py
+Type=simple
 WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
-StandardOutput=journal
-StandardError=journal
+ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 /var/www/gaslytics/kpler/src_automatic_09_2025/kpler_
+fetch_all_auto.py
+User=romanov
+Group=romanov
+Restart=on-failure
 
+[Install]
+WantedBy=multi-user.target
 
 ```
 
@@ -168,4 +172,18 @@ Farem el següent virtual host per poder conectar els visitants al router que vi
     ErrorLog ${APACHE_LOG_DIR}/gaslytics-error.log
     CustomLog ${APACHE_LOG_DIR}/gaslytics-access.log combined
 </VirtualHost>
+```
+
+
+## si el servei kpler_fetch.service dona errors:
+
+recrear el virtual env de nou:
+
+```
+cd /var/www/gaslytics/kpler/src_automatic_09_2025
+sudo rm -rf venv
+sudo python3 -m venv venv
+source venv/bin/activate
+pip3 install --upgrade pip
+pip3 install pandas requests
 ```
