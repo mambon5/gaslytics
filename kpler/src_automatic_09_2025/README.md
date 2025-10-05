@@ -132,6 +132,7 @@ After=network.target
 User=romanov
 WorkingDirectory=/var/www/gaslytics/kpler/src_automatic_09_2025
 ExecStart=/var/www/gaslytics/kpler/src_automatic_09_2025/venv/bin/python3 -m streamlit run app.py \
+  --server.headless true \
   --server.port 8501 \
   --server.address 0.0.0.0 \
   --server.enableCORS false \
@@ -140,8 +141,8 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
-
 ```
+lu de `headless true`, es important per dir-li a streamlit que no demani el email per la terminal al executar-se la aplicació ja que això donaria error.
 
 executar el servei:
 
@@ -149,8 +150,13 @@ executar el servei:
 sudo systemctl daemon-reload
 sudo systemctl restart kpler_show_css.service
 sudo systemctl status kpler_show_css.service
-
 ```
+Podem dir-li al servidor que executi de forma automàtica aquest servei al fer boot, amb la instrucció:
+```
+sudo systemctl enable kpler_show_css.service
+```
+
+
 url local per veure la app: `http://localhost:8501`
 
 ## Virtual host en apache per fer accessible la app desde fora 
@@ -164,25 +170,23 @@ El fitxer està en aquesta carpeta i es diu `gaslytics_css.conf` i té el següe
 
     ProxyPreserveHost On
     ProxyRequests Off
+    RewriteEngine On
 
-    # WebSocket de Streamlit (per HTTP es ws://)
-    ProxyPass /_stcore/stream ws://127.0.0.1:8501/_stcore/stream
-    ProxyPassReverse /_stcore/stream ws://127.0.0.1:8501/_stcore/stream
+    # WebSockets
+    RewriteCond %{HTTP:Upgrade} websocket [NC]
+    RewriteRule ^/(.*) ws://localhost:8501/$1 [P,L]
 
-    # Resta del tràfic via HTTP normal cap a Streamlit
-    ProxyPass / http://127.0.0.1:8501/ retry=0
-    ProxyPassReverse / http://127.0.0.1:8501/
+    # HTTP normal
+    RewriteCond %{HTTP:Upgrade} !websocket [NC]
+    RewriteRule ^/(.*) http://localhost:8501/$1 [P,L]
 
-    # Si vols permetre explícitament proxy cap a aquest backend:
-    <Proxy "http://127.0.0.1:8501/">
+    ProxyPassReverse / http://localhost:8501/
+    <Proxy "http://localhost:8501/">
         Require all granted
     </Proxy>
 
-    RequestHeader set X-Forwarded-Proto "http"
-    RequestHeader set X-Forwarded-Port "80"
-
-    ErrorLog ${APACHE_LOG_DIR}/gaslytics-error.log
-    CustomLog ${APACHE_LOG_DIR}/gaslytics-access.log combined
+    ErrorLog ${APACHE_LOG_DIR}/gaslytics_error.log
+    CustomLog ${APACHE_LOG_DIR}/gaslytics_access.log combined
 </VirtualHost>
 
 ```
@@ -206,3 +210,11 @@ pip3 install pandas requests
 Error que `illegal instruction` que trobo tot el rato indica que el CPU del meu servidor és massa antic per fer correr les dependències de Streamlit. És a dir, no puc usar Streamlit. Farem una flask app millor.
 
 Això passa perquè usem la llibreria pandas que depen de numpy i té instruccions precompliades amb C que usen el processador modern AVX que el meu pc potser no suporta.
+
+## Sense pandas i numpy el servidor antic funciona  
+
+Recopilació de com ha de funcionar els serveis:
+
+
+## visualització de les dades de kpler descarregades
+S'han de poder veure les dades de kpler aqui `http://gaslytics.nescolam.com/`
