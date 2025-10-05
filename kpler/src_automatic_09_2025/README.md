@@ -156,22 +156,35 @@ url local per veure la app: `http://localhost:8501`
 ## Virtual host en apache per fer accessible la app desde fora 
 
 Farem el següent virtual host per poder conectar els visitants al router que vinguin per un domini en concret, al port local on està la app al servidor.
+El fitxer està en aquesta carpeta i es diu `gaslytics_css.conf` i té el següent contigut:
 
 ```
 <VirtualHost *:80>
     ServerName gaslytics.nescolam.com
 
-    # Preserve the original host header
     ProxyPreserveHost On
+    ProxyRequests Off
 
-    # Redirigeix tot el tràfic al servei Streamlit
-    ProxyPass / http://127.0.0.1:8501/
+    # WebSocket de Streamlit (per HTTP es ws://)
+    ProxyPass /_stcore/stream ws://127.0.0.1:8501/_stcore/stream
+    ProxyPassReverse /_stcore/stream ws://127.0.0.1:8501/_stcore/stream
+
+    # Resta del tràfic via HTTP normal cap a Streamlit
+    ProxyPass / http://127.0.0.1:8501/ retry=0
     ProxyPassReverse / http://127.0.0.1:8501/
 
-    # Logs opcionals
+    # Si vols permetre explícitament proxy cap a aquest backend:
+    <Proxy "http://127.0.0.1:8501/">
+        Require all granted
+    </Proxy>
+
+    RequestHeader set X-Forwarded-Proto "http"
+    RequestHeader set X-Forwarded-Port "80"
+
     ErrorLog ${APACHE_LOG_DIR}/gaslytics-error.log
     CustomLog ${APACHE_LOG_DIR}/gaslytics-access.log combined
 </VirtualHost>
+
 ```
 
 
@@ -187,3 +200,9 @@ source venv/bin/activate
 pip3 install --upgrade pip
 pip3 install pandas requests
 ```
+
+## Error al executar la streamlit app al meu servidor de mireia 77
+
+Error que `illegal instruction` que trobo tot el rato indica que el CPU del meu servidor és massa antic per fer correr les dependències de Streamlit. És a dir, no puc usar Streamlit. Farem una flask app millor.
+
+Això passa perquè usem la llibreria pandas que depen de numpy i té instruccions precompliades amb C que usen el processador modern AVX que el meu pc potser no suporta.
