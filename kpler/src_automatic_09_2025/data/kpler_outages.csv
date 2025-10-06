@@ -4,7 +4,6 @@ Unplanned,Soyo,Angola,2016-01-01 00:00,2016-06-30 00:00,Inactive,3565
 Unplanned,Peru LNG,Peru,2016-01-16 00:00,2016-02-20 00:00,,3547
 Unplanned,Sakhalin 2,Russian Federation,2016-01-20 00:00,2016-03-04 00:00,Force Majeur,3549
 Unplanned,Skikda,Algeria,2016-01-21 00:00,2016-02-08 00:00,Unconfirmed Outage,3531
-Unplanned,Skikda,Algeria,2016-01-21 00:00,2016-02-08 00:00,Unconfirmed Outage,3531
 Planned,Bonny LNG,Nigeria,2016-01-22 00:00,2016-03-01 00:00,Train 1,3543
 Planned,Ras Laffan,Qatar,2016-02-01 00:00,2016-02-29 00:00,QG Train 1 & 2 Shutdown,3548
 Unplanned,Snohvit,Norway,2016-02-01 00:00,2016-02-29 00:00,Unconfirmed Outage,1961
@@ -85,8 +84,6 @@ Planned,Gorgon,Australia,2017-09-15 00:00,2017-10-23 00:00,Train 1,3581
 Planned,Dragon,United Kingdom,2017-09-16 00:00,2017-09-17 00:00,100% reduction.,3512
 Planned,Fos Tonkin,France,2017-09-16 00:00,2017-09-23 00:00,Jetty Unavailable - 0% Capacity Reduction,3447
 Planned,Dragon,United Kingdom,2017-09-16 00:00,2017-09-17 00:00,100% Reduced Prod Cap,3512
-Planned,Dragon,United Kingdom,2017-09-16 00:00,2017-09-17 00:00,100% reduction.,3512
-Planned,Dragon,United Kingdom,2017-09-16 00:00,2017-09-17 00:00,100% reduction.,3512
 Planned,NWS,Australia,2017-09-20 00:00,2017-09-30 00:00,partial maintenance,3534
 Planned,Toscana,Italy,2017-09-27 00:00,2017-09-30 00:00,,3455
 Planned,Revithoussa,Greece,2017-10-01 00:00,2017-10-30 00:00,Scheduled annual maintenance - 100% affected,3449
@@ -496,7 +493,6 @@ Planned,Corpus Christi,United States,2021-07-21 00:00,2021-07-22 00:00,Maintenan
 Unplanned,Bintulu,Malaysia,2021-07-21 00:00,2021-08-04 00:00,"Production issue, Liquefied Impacted: 3.6 mtpa",3542
 Planned,NWS,Australia,2021-07-26 00:00,2021-08-15 00:00,"LNG Train 2 will be shutdown in Q3 2021, aligned with North Rankin Complex train shutdowns, Liquefied Impacted: 2.5 mtpa",3534
 Planned,APLNG,Australia,2021-07-28 00:00,2021-08-24 00:00,APNG 1 Train outage - Planned Maintenance,3583
-Planned,APLNG,Australia,2021-07-28 00:00,2021-08-24 00:00,APNG 1 Train outage - Planned Maintenance,3583
 Unplanned,PNG LNG,Papua New Guinea,2021-07-29 00:00,2021-08-04 00:00,Decreased production of LNG due to power trip,3601
 Planned,Bilbao,Spain,2021-07-29 00:00,2021-07-30 00:00,"Annual Review of relicuador, Regas Impacted: 10.32 GWh/d",3497
 Planned,Yamal,Russian Federation,2021-08-01 00:00,2021-08-20 00:00,"First LNG liquefaction train will undergo planned maintenance, Liquefied Impacted: 5.5 mtpa",3602
@@ -541,7 +537,6 @@ Planned,Cove Point,United States,2021-09-20 00:00,2021-10-12 00:00,"Engine Stati
 Unplanned,Tangguh,Indonesia,2021-09-20 00:00,2021-09-30 00:00,"Issues with acid gas removal unit at Tangguh, Liquefied Impacted: 3.8 mtpa",3554
 Planned,Swinoujscie LNG,Poland,2021-09-20 00:00,2021-10-02 00:00,"total limitation of LNG Terminal unloading capacities, limitation: no unloading",3491
 Planned,Swinoujscie LNG,Poland,2021-09-21 00:00,2021-10-02 00:00,"Planned Maintanence, limit regasification capacities, Regas Impacted: 162.751 GWh/d",3491
-Planned,Cartagena (ESP),Spain,2021-09-22 00:00,2021-09-25 00:00,"Maintenance, Maximum emission 300,000 Nm3/h, Regas Impacted: 289.75 GWh/d, limitation: no unloading",3498
 Planned,Cartagena (ESP),Spain,2021-09-22 00:00,2021-09-25 00:00,"Maintenance, Maximum emission 300,000 Nm3/h, Regas Impacted: 289.75 GWh/d, limitation: no unloading",3498
 Planned,Toscana,Italy,2021-09-24 00:00,2021-10-02 00:00,"Planned Service Reduction resulting in a total reduction of the Services provided by the Terminal, Regas Impacted: 166.5 GWh/d",3455
 Planned,Barcelona,Spain,2021-09-25 00:00,2021-10-03 00:00,"Maintenance, Maximum emission 1.050.000 Nm3/h, Regas Impacted: 241.7 GWh/d",3500
@@ -1643,3 +1638,4 @@ Planned,EemsEnergyTerminal,Netherlands,2026-11-22 00:00,2026-11-29 00:00,Planned
 Planned,Montoir,France,2026-11-26 00:00,2026-11-26 00:00,Terminal shutdown and no ship at berth,3448
 Planned,Mugardos,Spain,2026-12-14 00:00,2026-12-18 00:00,Maintenance of Unloading Arms & Gangway. No ship loading & unloading activities (Jetty unavailability),3504
 Planned,Mugardos,Spain,2026-12-15 00:00,2026-12-17 00:00,"Maintenance of ORVs E-410 & E-420 Thickness Measurement. Annual Legal Inspection. Maximum emissions limited to 210,000 Nm³/hr during the entire period (from 05:00 on 12/15 to 17:00 on 12/17)",3504
+Unplanned,Zeebrugge,Belgium,2025-10-01 00:00,2025-10-02 00:00,Blockade at the terminal by green peace activists.  ,3430

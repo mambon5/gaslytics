@@ -1,0 +1,605 @@
+Continent,Subcontinent,Country,Port,Installation,Installation Type,Continent Id,Subcontinent Id,Country Id,Port Id,Installation Id,Operator,Owners,Status,LNG Storage Capacity (cbm),Nominal Annual Capacity (Mtpa),Number Trains,Number Tanks,Start Year,Startup
+Europe,Northern Europe,United Kingdom,Isle of Grain,Grain,Import,313,653,945,3885,3513,Grain LNG Ltd.,"Energy Capital Partners, Centrica Plc",Active,1000000,1.43E7,14,8,,2005-01-01
+Europe,Western Europe,Belgium,Zeebrugge,Zeebrugge,Import,313,991,113,3959,3430,Fluxys,Fluxys,Active,566000,1.13E7,12,5,,1987-01-01
+Asia,Eastern Asia,Taiwan,Taichung,Taichung,Import,61,289,899,2447,3507,CPC Corporation,CPC Corporation,Active,960000,6000000.0,10,6,,2009-04-23
+Europe,Southern Europe,Spain,Huelva,Huelva,Import,313,869,877,1046,3503,Enagás,Enagás,Active,619500,8700000.0,9,5,,1988-01-01
+Europe,Southern Europe,Spain,Bilbao,Bilbao,Import,313,869,877,1049,3497,BBG,"Enagás, BBG",Active,450000,5100000.0,4,3,,2003-01-01
+Europe,Southern Europe,Spain,Cartagena,Cartagena (ESP),Import,313,869,877,1043,3498,,Enagás,Active,587000,8700000.0,9,5,,1989-01-01
+Europe,Southern Europe,Spain,Barcelona,Barcelona,Import,313,869,877,1041,3500,Enagás,Enagás,Active,760000,1.26E7,13,6,,1968-01-01
+Europe,Western Europe,Netherlands,Rotterdam,Gate,Import,313,991,627,2573,3490,Gate,Gate,Active,540000,9900000.0,8,3,,2011-06-13
+Europe,Western Europe,France,Fos,Fos Tonkin,Import,313,991,325,1069,3447,Elengy,Elengy,Active,80000,1200000.0,6,1,,1972-01-01
+Europe,Western Europe,France,Dunkerque,Dunkerque,Import,313,991,325,1073,3445,Gaz-Opale,Dunkerque LNG,Active,600000,9600000.0,10,3,,2016-09-01
+Europe,Western Europe,France,Donges,Montoir,Import,313,991,325,2357,3448,Elengy,Elengy,Active,360000,8000000.0,11,3,,1980-01-01
+Asia,Eastern Asia,Japan,MHI Nagasaki,MHI Nagasaki,Shipyard,61,289,477,3976,3668,MHI,,Active,,,0,0,,
+Africa,Western Africa,Angola,Soyo,Soyo,Export,7,987,35,1521,3565,Angola LNG,"Chevron, SONANGOL, Eni, TotalEnergies, BP",Active,360000,5200000.0,1,1,,2013-10-01
+Europe,Southern Europe,Greece,Syros,Neorion Shipyard,Shipyard,313,869,353,3787,3368,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Changzhou,Garson Jiangyin Terminal,Import,61,289,213,3080,9812,,Hanas Group,Under Construction,360000,1000000.0,1,3,,
+Asia,Eastern Asia,Japan,Nagoya,Yokkaichi,Import,61,289,477,2550,3485,,"Chubu Electric LNG, Toho Gas",Active,480000,8500000.0,14,6,,1987-01-01
+Asia,South-East Asia,Brunei,Seria,Lumut I,Export,61,865,149,2409,3535,Brunei LNG,Brunei LNG,Active,195000,7200000.0,5,3,,1973-01-01
+Asia,Eastern Asia,Japan,Hachinohe,Hachinohe I,Import,61,289,477,3530,3688,ENEOS,ENEOS,Active,4500,1000000.0,0,1,,2007-01-01
+Asia,Middle East,United Arab Emirates,Das Island,Das Island,Export,61,593,943,1117,3552,,ADNOC Gas,Active,240000,5800000.0,3,3,,1977-01-01
+Americas,Northern America,United States,Commonwealth,Commonwealth,Export,23,649,947,107056,7073,,,Planned and Proposed,300000,9500000.0,6,6,,2028-10-01
+Asia,Middle East,Kuwait,Al Zour,Al Zour,Import,61,593,505,110756,8235,KPC,KNPC,Active,900000,2.2E7,0,8,,
+Asia,South-Central Asia,India,Mundra,Mundra,Import,61,859,447,1385,3612,GLL,"Adani, GLL",Active,320000,5000000.0,5,2,,2020-01-01
+Asia,Eastern Asia,South Korea,Pyeongtaek,Pyeong Taek,Import,61,289,873,1380,3495,KOGAS,KOGAS,Active,3360000,3.01E7,38,23,,1986-01-01
+Asia,Eastern Asia,Japan,Kanda,Kanda Power Station,Multi-Purpose Import Terminal,61,289,477,2234,12286,,,Active,,,0,0,,
+Americas,Northern America,United States,Cameron,Cameron (Reg.),Import,23,649,947,3854,3516,,Sempra,Decommissioned,480000,1.1304E7,10,3,,2008-07-01
+Europe,Southern Europe,Croatia,Omisalj,Krk LNG FSRU,Import,313,869,235,1096,3851,,Hrvatska Elektroprivreda,Active,140000,2130000.0,0,2,,2021-01-01
+Asia,South-East Asia,Singapore Republic,Sembawang,Sembawang Shipyard,Shipyard,61,865,833,1518,1820,Sembawang Shipyard Private Ltd.,,Active,,,0,0,,
+Europe,Northern Europe,Norway,Farsund,Farsund Lista LNG,Import,313,653,665,112199,11659,,,Active,,,0,0,,2022-01-01
+Europe,Southern Europe,Spain,Ferrol,Ferrol Shipyard II,Shipyard,313,869,877,1051,2121,,,Active,,,0,0,,
+Europe,Northern Europe,United Kingdom,Kyleakin,Kyleakin Mowi LNG,Import,313,653,945,116323,11666,,,Active,2000,,0,0,,2021-03-16
+Asia,Eastern Asia,Japan,Tokushima,Tokushima LNG,Import,61,289,477,107523,10726,,Shikoku Gas,Active,5000,,0,1,,2018-12-21
+Asia,Eastern Asia,South Korea,Boryeong,Boryeong,Import,61,289,873,4114,3715,,"GS Caltex, SK",Active,1400000,1.09E7,0,7,,2016-01-01
+Asia,Eastern Asia,Japan,Yanai,Yanai,Import,61,289,477,3953,3484,Chugoku Electric,Chugoku Electric,Active,480000,2300000.0,5,6,,1990-01-01
+Oceania,Australia and New Zealand,Australia,Geelong,Geelong LNG,Import,675,67,65,1088,10675,,VIVA,Planned and Proposed,,2500000.0,1,0,,2028-01-01
+Americas,Northern America,United States,Alaska LNG,Alaska LNG,Export,23,649,947,107061,7080,,,Planned and Proposed,,2.01E7,3,0,,2030-01-01
+Americas,Caribbean Islands,Jamaica,Esquivel,Port Esquivel,Import,23,177,473,1639,3622,,NFE,Active,125000,3600000.0,0,0,,2016-01-01
+Europe,Southern Europe,Italy,Genoa,Zincaf Genoa,Shipyard,313,869,467,1070,11611,,,Active,,,0,0,,
+Americas,Caribbean Islands,Curacao,Willemstad,Curacao Shipyard,Shipyard,23,177,239,1388,1802,PDVSA,PDVSA,Active,,,0,0,,
+Asia,Middle East,Iran,Assaluyeh,Pars FLNG,Import,61,593,455,2813,3876,NIOC,,Suspended,,1100000.0,0,0,,
+Americas,Caribbean Islands,Antigua and Barbuda,Parham,Crabbs LNG,Import,23,177,41,113305,10956,Eagle LNG,,Under Construction,4000,,1,4,,2025-09-01
+Asia,Eastern Asia,China,Yangjiang,Yangjiang LNG,Import,61,289,213,1960,10995,,,Under Construction,320000,2800000.0,1,2,,2025-12-01
+Asia,South-Central Asia,India,Alang,Alang,Shipyard,61,859,447,4064,3823,,,Active,,,0,0,,
+Oceania,Australia and New Zealand,Australia,Dampier,NWS,Export,675,67,65,2755,3534,NWSSSC,NWS Venture,Active,260000,1.44E7,5,4,,1989-01-01
+Americas,Caribbean Islands,Cuba,Guantanamo Bay,Naval Station Guantanamo Bay LNG,Import,23,177,237,116129,11709,,,Active,4000,,0,4,,
+Europe,Northern Europe,Norway,Halhjem,Halhjem LNG,Import,313,653,665,116311,11661,,,Active,,,0,0,,2023-08-10
+Americas,Northern America,United States,Neptune LNG,Neptune,Import,23,649,947,3914,3524,Neptune LNG LLC,Neptune LNG LLC,Decommissioned,290000,3120000.0,0,2,,2010-01-01
+Americas,South America,Brazil,Aratu,Bahia,Import,23,855,141,1254,3433,Petrobras,Petrobras,Active,137000,5600000.0,0,0,,2014-01-01
+Asia,Eastern Asia,China,Yinyang,Zhenghua Qidong Shipyard,Shipyard,61,289,213,3803,7245,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Quanzhou,Meizhouwan LNG,Import,61,289,213,2460,10814,,,Under Construction,400000,5650000.0,0,2,,
+Asia,Eastern Asia,South Korea,Hosan,Samcheok,Import,61,289,873,2084,3562,KOGAS,KOGAS,Active,2610000,8500000.0,8,12,,2014-01-01
+Asia,Eastern Asia,South Korea,Mokpo New Port,Samho Shipyard,Shipyard,61,289,873,1876,3685,,Hyundai SHI,Active,,,0,0,,
+Europe,Northern Europe,United Kingdom,Teesside,Teesside,Import,313,653,945,1268,3515,Excelerate Energy,Excelerate Energy,Decommissioned,138000,3000000.0,0,1,,2007-02-01
+Africa,Western Africa,Nigeria,Escravos Terminal,Escravos,Export,7,987,637,4432,11982,,,Planned and Proposed,,3000000.0,0,0,,
+Europe,Southern Europe,Italy,Ravenna,Ravenna LNG,Import,313,869,467,1586,9842,,DIG,Active,20000,700000.0,0,2,,2021-10-01
+Americas,Northern America,United States,Delfin FLNG,Delfin FLNG,Export,23,649,947,107054,7071,,Delfin Midstream,Planned and Proposed,,3250000.0,1,0,,2028-07-01
+Americas,Northern America,United States,Freeport Texas,Freeport,Export,23,649,947,1355,3604,,Freeport LNG Expansion,Active,480000,1.5E7,3,3,,2019-08-30
+Asia,South-Central Asia,India,Cochin,Kochi,Import,61,859,447,1065,3452,,Petronet,Active,368000,5000000.0,5,2,,2013-07-01
+Asia,South-East Asia,Philippines,Pagbilao,Pagbilao LNG,Import,61,865,723,2097,3824,Energy World Corporation Limited,Energy World Corporation Limited,Under Construction,130000,3000000.0,1,1,,2026-01-01
+Europe,Northern Europe,Norway,Melkoya,Snohvit,Export,313,653,665,1447,1961,Equinor,Snohvit Cons.,Active,250000,4200000.0,1,2,,2007-09-01
+Europe,Eastern Europe,Russian Federation,Vysotsk,Portovaya,Export,313,291,757,2604,8420,Gazprom,Gazprom,Active,,1500000.0,0,0,,2022-01-01
+Europe,Western Europe,Germany,Stade,HEH Stade,Import,313,991,339,4724,12122,,,Planned and Proposed,,,0,0,,2027-01-01
+Asia,Eastern Asia,Taiwan,Keelung,Xiehe LNG Terminal,Import,61,289,899,3115,10130,,Taipower,Planned and Proposed,,900000.0,0,0,,2028-01-01
+Europe,Western Europe,France,Brest,Damen Shiprepair Brest,Shipyard,313,991,325,1420,3569,Damen Shiprepair Brest,,Active,,,0,0,,
+Asia,Eastern Asia,China,Maojia Port,Qidong,Import,61,289,213,2228,3859,,Guanghui Energy,Active,420000,3000000.0,0,3,,2017-06-01
+Americas,Northern America,United States,Corpus Christi,Corpus Christi,Export,23,649,947,1284,3706,,Cheniere,Active,480000,1.5E7,3,3,,2018-12-01
+Oceania,Australia and New Zealand,Australia,Adelaide,Outer Harbor LNG,Import,675,67,65,3242,10696,,Venice Energy,Planned and Proposed,150000,1700000.0,1,0,,2027-07-01
+Americas,Northern America,Canada,Saint John,Saint John LNG,Import,23,649,167,1242,3434,Repsol,Repsol,Active,480000,7400000.0,8,3,,2009-06-01
+Asia,Middle East,United Arab Emirates,Hamriya,Al Hamriyah,Import,61,593,943,1121,3852,SNOC,SNOC,Suspended,,1600000.0,0,0,,
+Americas,Northern America,Mexico,Topolobampo,Vista Pacifico LNG,Export,23,649,589,1602,10683,,Sempra,Planned and Proposed,,4000000.0,0,0,,
+Europe,Southern Europe,Italy,Santa Giusta,HIGAS,Import,313,869,467,3670,8727,,"Gas and Heat, CPL Concordia, Avenir LNG",Active,10800,180000.0,0,6,,2021-05-01
+Asia,South-Central Asia,Bangladesh,Chittagong,Summit LNG,Import,61,859,91,1375,6701,Excelerate Energy,Summit LNG,Active,138000,3800000.0,6,4,,2019-01-01
+Europe,Northern Europe,Lithuania,Klaipeda,Klaipeda LNG Reloading Terminal,Import,313,653,537,1165,11630,,,Active,5000,,0,5,,
+Oceania,Australia and New Zealand,Australia,Gladstone,Arrow Energy,Export,675,67,65,3401,3588,Arrow Energy,Arrow Energy,Suspended,,8800000.0,0,0,,2017-01-01
+Asia,Eastern Asia,China,Zhu Hai,Gaolan,Import,61,289,213,2453,3608,CNOOC,"Guangdong Zhuhai Jinwan LNG Co., Ltd",Active,480000,3500000.0,0,3,,2013-06-01
+Europe,Western Europe,France,Marseille,Marseille Drydock,Shipyard,313,991,325,3905,11725,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Nan'ao Island,Guangdong-Shantou,Import,61,289,213,4191,3696,,"ShanTou SinoEnergy Co., Ltd",Planned and Proposed,,3000000.0,0,0,,
+Asia,South-East Asia,Indonesia,Bontang,Bontang,Export,61,865,451,1794,3541,,Badak NGL,Active,630000,1.15E7,4,6,,1990-01-01
+Europe,Northern Europe,Finland,Inkoo,Inkoo,Import,313,653,319,3603,3564,Gasgrid,Gasgrid,Active,170000,4800000.0,0,0,,2023-01-01
+Africa,Northern Africa,Egypt,Damietta,Damietta,Export,7,647,299,3636,3536,SEGAS,"EGPC, Eni, EGAS",Active,300000,5000000.0,1,2,,2005-01-01
+Americas,Northern America,United States,Golden Pass,Golden Pass Liq.,Export,23,649,947,3884,3861,GPLNG,"QatarEnergy, ExxonMobil",Under Construction,,1.8E7,3,0,,2026-07-01
+Europe,Eastern Europe,Turkey,Yalova,Besiktas Shipyard,Shipyard,313,291,935,5374,1451,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Toyama Bay,Toyama,Import,61,289,477,1904,3834,,Hokuriku,Active,180000,1800000.0,4,1,,2018-03-01
+Asia,Eastern Asia,Taiwan,Datan,Taoyuan,Import,61,289,899,112942,10220,,CPC Corporation,Active,,3000000.0,0,0,,2025-04-07
+Asia,Eastern Asia,China,Caofeidian,Xintian Tangshan LNG,Import,61,289,213,2500,11556,,China Suntien Green Energy,Active,800000,5000000.0,0,4,,2023-06-18
+Oceania,Australia and New Zealand,Australia,Barrow Island,Gorgon,Export,675,67,65,1454,3581,Chevron,Gorgon LNG,Active,360000,1.56E7,3,2,,2016-01-01
+Americas,South America,Chile,Mejillones,Mejillones,Import,23,855,209,3357,3436,GNLM,GNLM,Active,187000,1500000.0,3,1,,2010-02-15
+Europe,Southern Europe,Greece,Alexandroupoli,Thrace INGS FSRU,Import,313,869,353,107013,10864,,,Planned and Proposed,170000,4080000.0,0,0,,2028-01-01
+Africa,Northern Africa,Algeria,Arzew,Camel,Export,7,647,17,2327,3529,Sonatrach,Sonatrach,Decommissioned,33000,1200000.0,3,3,,1964-01-01
+Americas,Northern America,United States,Grand Isle,NFE Grand Isle,Export,23,649,947,113859,10924,,,Planned and Proposed,310000,2800000.0,2,0,,2029-01-01
+Europe,Central Europe,Poland,Swinoujscie Area,Swinoujscie LNG,Import,313,199,727,1020,3491,Polskie LNG,Polskie LNG,Active,500000,6100000.0,9,3,,2016-04-01
+Europe,Northern Europe,Norway,Heroya,Heroya LNG,Import,313,653,665,4718,3875,,Naturgy,Active,5000,300000.0,0,5,,
+Asia,Eastern Asia,Japan,Sasebo,Sasebo Shipyard,Shipyard,61,289,477,3535,6700,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Guangzhou,Miaoshawei Shipyard,Shipyard,61,289,213,3017,4786,Zhong Xing Sea Land Engineering Co Ltd,,Active,,,0,0,,
+Americas,Northern America,Canada,Kitimat,LNG Canada,Export,23,649,167,3378,3796,LNG Canada,"Shell, KOGAS, Mitsubishi, PetroChina, Petronas, MidOcean",Active,225000,1.4E7,2,1,,2025-07-01
+Americas,Northern America,Canada,Vancouver,Vancouver Drydock,Shipyard,23,649,167,2555,7992,,,Active,,,0,0,,
+Europe,Southern Europe,Greece,Volos,Argo FSRU,Import,313,869,353,107444,11028,,,Planned and Proposed,170000,3860000.0,1,0,,2028-03-01
+Asia,South-Central Asia,India,Gangavaram,Gangavaram,Import,61,859,447,1822,3813,Petronet,Petronet,Planned and Proposed,,5000000.0,0,0,,
+Asia,Eastern Asia,South Korea,Geoje,DSME Geoje,Shipyard,61,289,873,1208,3807,,,Active,,,0,0,,
+Europe,Eastern Europe,Russian Federation,Ust Luga,Ust Luga LNG,Export,313,291,757,2601,11625,,,Planned and Proposed,,6500000.0,2,0,,2029-01-01
+Africa,Eastern Africa,Mozambique,Mozambique Port,Mozambique LNG,Export,7,287,611,4163,3853,,"TotalEnergies, ENH, Mitsui, ONGC, Carigali-PTTEP Operating Company, Mozambique LNG",Under Construction,,1.288E7,2,0,,2029-01-01
+Asia,Middle East,Oman,Duqm,Duqm Shipyard,Shipyard,61,593,677,1125,1358,OOC,"OOC, IPC",Active,,,0,0,,
+Asia,Eastern Asia,China,Dalian,Dalian COSCO KHI Shipyard,Shipyard,61,289,213,2512,11061,,,Active,,,0,0,,
+Asia,South-East Asia,Philippines,Batangas,FGEN Batangas,Import,61,865,723,5317,10206,,"First Gen Corp, Tokyo Gas",Active,,5260000.0,0,0,,2023-10-30
+Asia,Eastern Asia,Japan,Oshima Shipyard,Oshima,Shipyard,61,289,477,4314,3826,,,Active,,,0,0,,
+Asia,South-East Asia,Malaysia,Kebabangan Cluster Field,PFLNG 1 Sabah,Export,61,865,557,6748,6693,,Petronas,Active,180000,1200000.0,1,1,,2017-03-01
+Europe,Western Europe,Netherlands,Eemshaven,EemsEnergyTerminal,Import,313,991,627,1944,10872,EemsEnergyTerminal,EemsEnergyTerminal,Active,,5900000.0,0,0,,2022-09-01
+Americas,Northern America,United States,Port Arthur LNG,Port Arthur LNG,Export,23,649,947,107055,7072,,,Under Construction,,1.3E7,2,2,,2027-12-01
+Americas,Northern America,United States,,Bienville,Import,23,649,947,0,3639,,TORP Technology,Suspended,,9920000.0,0,0,,2014-01-01
+Asia,Middle East,United Arab Emirates,Ruwais,Ruwais Liq.,Export,61,593,943,2420,11567,,,Planned and Proposed,,9600000.0,2,0,,2028-04-01
+Africa,Northern Africa,Egypt,Ain Sukhna,Ain Sokhna FSRU 1,Import,7,647,299,2338,3825,,EGAS,Active,340000,6100000.0,1,0,,2015-03-01
+Europe,Eastern Europe,Turkey,Marmara  Ereglisi,Ereglisi,Import,313,291,935,3872,3511,Botas,Botas,Active,255000,4600000.0,7,3,,1994-01-01
+Asia,Eastern Asia,China,Yangshan,Yangshan,Import,61,289,213,1197,3441,,Shanghai LNG,Active,895000,6000000.0,0,5,,2009-09-01
+Asia,South-East Asia,Timor-Leste,Sunrise,Sunrise FLNG,Export,61,865,917,116474,11889,,,Planned and Proposed,,,0,0,,
+Asia,Eastern Asia,Japan,Chiba,Sodegaura,Import,61,289,477,3027,3481,Tokyo Gas,"TEPCO LNG, Tokyo Gas",Active,2540000,3.44E7,38,33,,1973-01-01
+Asia,Eastern Asia,China,Shenzhen,Shenzhen Gas,Import,61,289,213,1548,7069,Shenzhen SB,Shenzhen Gas Corporation,Active,80000,800000.0,0,1,,2019-08-01
+Americas,Northern America,United States,Sabine Pass Liq.,Sabine Pass,Export,23,649,947,4134,3605,,Sabine Pass LLC,Active,800000,3.0E7,6,5,,2016-02-21
+Europe,Eastern Europe,Russian Federation,St Petersburg,Kanonersky Shipyard,Shipyard,313,291,757,1028,10646,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Soma,Soma,Import,61,289,477,1901,3832,,JAPEX,Active,460000,1500000.0,0,2,,2018-03-01
+Americas,Northern America,United States,Calcasieu Ship Channel,G2 LNG,Export,23,649,947,113170,10704,,G2 Net-Zero,Suspended,,1.3E7,0,0,,
+Asia,Eastern Asia,South Korea,Ulsan,Ulsan Shipyard,Shipyard,61,289,873,2527,2983,,,Active,,,0,0,,
+Asia,South-East Asia,Indonesia,Surabaya,Teluk Lamong LNG,Import,61,865,451,3521,11895,,,Under Construction,,300000.0,1,0,,2026-01-01
+Asia,Eastern Asia,Japan,Nobeoka,Himuka LNG,Import,61,289,477,113156,10663,Himuka LNG,Himuka LNG,Active,6500,,0,1,,2021-12-01
+Asia,South-East Asia,Vietnam,La Gi,Son My,Import,61,865,963,112803,3820,PetroVietnam,PetroVietnam,Planned and Proposed,,3200000.0,0,0,,2027-04-01
+Africa,Northern Africa,Algeria,Skikda,Skikda,Export,7,647,17,1034,3531,Sonatrach,Sonatrach,Active,308000,4500000.0,4,5,,1972-01-01
+Africa,Eastern Africa,Djibouti,Djibouti Port,Damerjog,Export,7,287,261,1389,11603,,,Planned and Proposed,,3000000.0,1,0,,
+Asia,Eastern Asia,China,Dongjiakou,Qingdao,Import,61,289,213,1409,3556,,"Sinopec, China Huaneng",Active,960000,1.1E7,0,7,,2014-11-14
+Americas,South America,Chile,Quintero,Quintero,Import,23,855,209,1189,3435,GNL Quintero,GNL Quintero,Active,334000,3800000.0,4,3,,2009-06-30
+Asia,Eastern Asia,China,Zhoushan,Zhoushan,Import,61,289,213,5892,3566,ENN,"ENN, SK",Active,1520000,1.0E7,0,8,,2018-08-01
+Asia,Eastern Asia,Japan,Sakaide,KHI Sakaide,Shipyard,61,289,477,1894,3669,Kawasaki Heavy Industries Ltd.,,Active,,,0,0,,
+Europe,Northern Europe,Lithuania,Klaipeda,Klaipeda,Import,313,653,537,1165,3729,KN Energies,LITGAS,Active,170000,2900000.0,4,4,,2014-10-01
+Asia,South-East Asia,Vietnam,Tien Lang,Tien LNG,Import,61,865,963,113259,10831,,,Planned and Proposed,,6000000.0,0,0,,2028-06-01
+Oceania,Australia and New Zealand,Australia,Chevron Wheatstone,Wheatstone,Export,675,67,65,3743,3587,Chevron,Wheatstone LNG,Active,300000,8900000.0,2,2,,2017-08-01
+Europe,Southern Europe,Spain,,Canarios,Shipyard,313,869,877,0,1484,,,Active,,,0,0,,
+Europe,Western Europe,Netherlands,Vlissingen,Vlissingen Shipyard,Shipyard,313,991,627,1368,1776,,Damen,Active,,,0,0,,
+Europe,Eastern Europe,Russian Federation,Vysotsk,Vysotsk,Export,313,291,757,2604,6643,Cryogas,Cryogas,Active,42000,660000.0,1,1,,2019-03-01
+Americas,Northern America,United States,Jacksonville,Eagle LNG Jacksonville,Export,23,649,947,1562,10957,Eagle LNG,,Planned and Proposed,48000,950000.0,1,0,,2028-07-01
+Americas,Northern America,United States,Lake Charles,Magnolia,Export,23,649,947,1245,3779,LNG Ltd,LNG Ltd,Planned and Proposed,360000,8800000.0,4,2,,2030-01-01
+Europe,Southern Europe,Malta,Marsaxlokk,Delimara,Import,313,869,561,1419,3847,,ElectroGas Malta,Active,125000,500000.0,0,0,,2017-01-01
+Europe,Southern Europe,Gibraltar,Los Barrios LNG Tank,Endesa LNG,Multi-Purpose Import Terminal,313,869,343,116739,12591,,,Active,4080,,0,4,,2025-05-01
+Americas,South America,Argentina,Escobar,Escobar,Import,23,855,55,3873,3429,Excelerate Energy,"YPF, IEASA",Active,151000,6100000.0,6,1,,2011-06-01
+Americas,Northern America,United States,Cove Point,Cove Point (Reg.),Import,23,649,947,3859,3517,,Dominion,Decommissioned,700000,1.3564E7,25,7,,1978-06-01
+Americas,South America,Brazil,Pecem,Pecem,Import,23,855,141,1874,3432,Petrobras,Petrobras,Active,137000,3800000.0,2,1,,2009-01-01
+Americas,Northern America,United States,Gulf Gateway Deepwater Port,Gulf Gateway,Import,23,649,947,116256,3521,Excelerate Energy,Excelerate Energy,Decommissioned,,3280000.0,0,0,,2005-01-01
+Asia,Eastern Asia,Japan,Nakagusuku,Okinawa,Import,61,289,477,3997,3471,OKIDEN,OKIDEN,Active,280000,800000.0,3,2,,2012-01-01
+Europe,Northern Europe,Norway,Spjelkavik,Alesund LNG,Import,313,653,665,110175,11712,,,Active,1200,,0,0,,2020-03-23
+Asia,Eastern Asia,Japan,Osaka,Sakai,Import,61,289,477,5417,3477,Sakai LNG,Sakai LNG,Active,560000,6400000.0,6,4,,2006-01-01
+Oceania,Australia and New Zealand,Australia,Gladstone,QCLNG,Export,675,67,65,3401,3582,QGC,QGC,Active,280000,8500000.0,2,2,,2015-01-01
+Asia,Middle East,Oman,Qalhat,Qalhat,Export,61,593,677,3921,3546,,Oman LNG,Active,240000,1.14E7,3,2,,2000-01-01
+Americas,South America,Brazil,Santos,São Paulo,Import,23,855,141,1427,10701,,Compass Gas & Energy,Active,150000,3800000.0,1,0,,2024-02-29
+Asia,South-East Asia,Myanmar,Yangon,Thanlyin LNG-Power,Import,61,865,615,5073,8472,VPower,VPower,Active,127500,500000.0,0,0,,2020-01-01
+Americas,South America,Uruguay,Montevideo,GNL del Plata,Import,23,855,951,1665,3713,,"Engie, GNLS",Suspended,,2698000.0,1,1,,2015-03-01
+Americas,Northern America,Mexico,NFE Altamira FLNG Terminal,NFE Altamira,Export,23,649,589,113862,11125,,NFE,Active,,1400000.0,1,0,,2024-08-08
+Asia,Middle East,Jordan,Aqaba,Aqaba,Import,61,593,487,2654,3782,,ADC,Active,160000,3800000.0,0,0,,2015-03-01
+Africa,Western Africa,Republic of the Congo,Marine XII,Congo FLNG,Export,7,987,743,113278,10879,Eni,,Active,,700000.0,1,0,,2024-02-26
+Asia,Eastern Asia,China,Guanghui Yueyang,Yueyang LNG,Import,61,289,213,112810,9810,,"China Huadian, Guanghui Energy",Under Construction,80000,500000.0,0,4,,
+Asia,Eastern Asia,Hong Kong,Hong Kong Port,Hong Kong LNG Terminal,Import,61,289,435,2455,10157,,Hong Kong LNG Terminal Limited,Active,263000,4000000.0,0,0,,2023-06-01
+Asia,South-East Asia,Indonesia,Lhokseumawe,Arun,Import,61,865,451,1532,3673,,PT Arun Gas,Active,508000,3000000.0,0,4,,2015-02-01
+Americas,Northern America,United States,Lake Charles,Trunkline Regas,Import,23,649,947,1245,3523,Trunkline LNG,Trunkline LNG,Decommissioned,425000,1.79E7,14,4,,1982-07-01
+Asia,Eastern Asia,South Korea,Gyeongsangnam,Tongyeong,Import,61,289,873,3514,3496,,KOGAS,Active,2620000,1.95E7,20,17,,2002-01-01
+Europe,Southern Europe,Spain,Arinaga,Gran Canaria,Import,313,869,877,4122,3502,Gascan ,Gascan ,Suspended,150000,1040000.0,0,1,,2027-01-01
+Europe,Northern Europe,Norway,Agotnes Truck Loading,Agotnes Truck loading,Multi-Purpose Import Terminal,313,653,665,116695,12592,,,Active,,,0,0,,2020-01-01
+Americas,South America,Argentina,Southern Cone LNG,Southern Cone Hub,Import,23,855,55,116076,3637,,IEASA,Suspended,,,0,0,,2014-01-01
+Americas,Caribbean Islands,Dominican Republic,Andres,Andres,Import,23,177,265,3842,3443,AES,AES,Active,160000,1700000.0,3,1,,2003-02-01
+Europe,Southern Europe,Cyprus,Vasiliko,Vasilikos FLNG,Export,313,869,241,1330,11170,,,Planned and Proposed,,2000000.0,1,0,,
+Asia,Eastern Asia,China,Maoming,Maoming LNG,Import,61,289,213,2452,10863,,,Planned and Proposed,500000,6100000.0,0,1,,
+Africa,Western Africa,Nigeria,Yoho,Yoho FLNG,Export,7,987,637,2688,11883,,,Planned and Proposed,,1500000.0,1,0,,2028-07-01
+Asia,Middle East,Iran,Assaluyeh,Iran LNG,Export,61,593,455,2813,11886,,,Planned and Proposed,,1.08E7,2,0,,
+Asia,Eastern Asia,China,Houshawan,Zhoushan Xinya Shipyard,Shipyard,61,289,213,4948,4636,,"Zhoushan Xinya Shipyard Co.,Ltd.",Active,,,0,0,,
+Oceania,Australia and New Zealand,Australia,Kembla,Port Kembla Energy Terminal,Import,675,67,65,6264,10656,AIE,AIE,Under Construction,170000,2270000.0,1,0,,2026-03-01
+Asia,South-East Asia,Malaysia,Tanjung Bin,Sembcorp Tuas,Shipyard,61,865,557,2658,1342,Sembcorp Industries Ltd,Sembcorp Industries Ltd,Active,,,0,0,,
+Europe,Western Europe,France,Le Havre,Le Havre FSRU,Import,313,991,325,2363,10907,TELSF,TotalEnergies,Active,145000,3630000.0,1,1,,2023-09-15
+Americas,Northern America,United States,Annova LNG,Annova LNG,Export,23,649,947,107060,7079,,,Suspended,,6000000.0,0,0,,
+Europe,Western Europe,Germany,Stade,Stade,Import,313,991,339,4724,10837,,DET,Under Construction,480000,3700000.0,0,2,,2026-04-01
+Americas,Northern America,United States,Elba Island,Elba Island (Reg.),Import,23,649,947,3947,3528,Kinder Morgan,Kinder Morgan,Decommissioned,535000,1.2E7,11,5,,1978-01-01
+Asia,South-East Asia,Indonesia,Tangguh,Tangguh,Export,61,865,451,3949,3554,BP,Tangguh PSC,Active,340000,1.14E7,3,2,,2009-01-01
+Asia,Middle East,United Arab Emirates,Jebel Ali,Jebel Ali,Import,61,593,943,1120,3444,DUSUP,DUSUP,Active,150900,6000000.0,6,0,,2010-01-01
+Asia,Eastern Asia,Japan,Niihama,Niihama,Import,61,289,477,1896,10217,,Niihama LNG Co.Ltd,Active,230000,1000000.0,0,1,,2022-02-01
+Americas,Northern America,Mexico,Manzanillo,Manzanillo,Import,23,649,589,1425,3489,KMS,KMS,Active,300000,3800000.0,0,2,,2012-01-01
+Asia,Eastern Asia,China,Guangzhou,Nansha LNG,Import,61,289,213,3017,10943,,Guangzhou Gas,Active,320000,1000000.0,0,2,,2023-08-08
+Americas,Northern America,Canada,Tilbury Island,FortisBC Tilbury,Export,23,649,167,116472,11887,,,Active,,250000.0,1,0,,2018-01-01
+,,,Pearse Island,Wil Milit,Export,0,0,0,116473,11888,,Ksi Lisims LNG,Planned and Proposed,450000,1.2E7,1,0,,2029-07-01
+Asia,Eastern Asia,China,Zhoushan,Zhejiang Zengzhou Shipyard,Shipyard,61,289,213,5892,3662,Cosco Shipyard,,Active,,,0,0,,
+Americas,Northern America,United States,Avocet FLNG,Avocet FLNG,Export,23,649,947,113169,10703,,Delfin Midstream,Planned and Proposed,,8000000.0,0,0,,
+Asia,Eastern Asia,Japan,Oita,Oita,Import,61,289,477,2533,3476,Oita LNG,Oita LNG,Active,460000,5400000.0,7,5,,1990-01-01
+Europe,Western Europe,Netherlands,Rotterdam,Damen Shiprepair Rotterdam,Shipyard,313,991,627,2573,4638,,Damen Shipyards Group,Active,,,0,0,,
+Asia,South-Central Asia,India,Dabhol,Dabhol,Import,61,859,447,3860,3453,,RGPPL,Active,480000,5000000.0,6,3,,2013-01-01
+Asia,Eastern Asia,China,Dalian,Beishidong Shipyard,Shipyard,61,289,213,2512,11912,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Tomakomai,Yufutsu,Import,61,289,477,1236,3701,,JAPEX,Active,5000,160000.0,0,1,,2012-09-01
+Europe,Southern Europe,Italy,Rovigo,Rovigo,Import,313,869,467,3917,3456,Adriatic LNG,Adriatic LNG,Active,250000,6600000.0,5,2,,2009-01-01
+Asia,South-East Asia,Malaysia,Anjung Kecil,PFLNG 1,Export,61,865,557,3224,3815,,Petronas,Decommissioned,,1200000.0,0,0,,2016-01-01
+Europe,Southern Europe,Croatia,Rijeka Port,Rijeka Shipyard,Shipyard,313,869,235,4684,1646,,,Active,,,0,0,,
+Europe,Northern Europe,United Kingdom,Flyde,Port Meridian,Import,313,653,945,116078,3627,Hoegh,LNG Holdings,Suspended,,6640000.0,0,0,,
+Americas,Northern America,Canada,Kitimat,Cedar LNG,Export,23,649,167,3378,10688,,Cedar LNG,Under Construction,,3300000.0,0,0,,2028-12-01
+Americas,Northern America,Mexico,Ensenada,Costa Azul,Import,23,649,589,4958,3488,Sempra,"Shell, Sempra",Active,320000,7600000.0,6,2,,2008-05-01
+Asia,South-East Asia,Singapore Republic,,SLNG,Import,61,865,833,0,3567,Singapore LNG,Singapore LNG,Active,800000,1.1E7,5,4,,2013-05-01
+Europe,Northern Europe,Norway,Lokkemyra,Lokkemyra LNG,Import,313,653,665,116336,11671,,,Active,,,0,0,,2018-01-16
+Europe,Eastern Europe,Russian Federation,Murmansk,Murmansk STS,Export,313,291,757,5501,9753,Murmansk LNG,Novatek,Active,360000,,0,0,,2023-07-01
+Europe,Eastern Europe,Russian Federation,Murmansk,Murmansk LNG,Export,313,291,757,5501,11896,Novatek,Novatek,Suspended,,2.04E7,3,0,,
+Americas,South America,Chile,Concepcion Bay,Penco Lirquen,Import,23,855,209,4117,3788,Octopus LNG,Octopus LNG,Suspended,,1160000.0,0,0,,
+Asia,Eastern Asia,Japan,Kisarazu,Futtsu,Import,61,289,477,1887,3460,TEPCO LNG,TEPCO LNG,Active,1360000,2.29E7,13,12,,1985-01-01
+Asia,Eastern Asia,China,Tianjin LNG Sinopec Zone,Tianjin LNG Sinopec,Import,61,289,213,4197,3873,,Sinopec,Active,1883595,6000000.0,0,9,,2018-12-01
+Americas,Northern America,Mexico,Altamira,Altamira,Import,23,649,589,1696,3487,Shell,TLA,Active,300000,5700000.0,5,2,,2006-08-01
+Americas,Central America,Nicaragua,Puerto Sandino,Puerto Sandino FSRU,Import,23,195,635,1426,9825,,NFE,Under Construction,,400000.0,1,0,,2025-09-01
+Americas,Central America,Honduras,Puerto Cortes,Honduras LNG,Multi-Purpose Import Terminal,23,195,433,1393,12684,,,Under Construction,138000,,0,0,,2026-04-01
+Asia,South-East Asia,Indonesia,Lampung,Lampung,Import,61,865,451,4070,3787,Hoegh,PT PGN,Active,170000,2700000.0,3,4,,2014-06-01
+Americas,Caribbean Islands,Trinidad and Tobago,Point Fortin,Atlantic LNG,Export,23,177,929,3821,3550,Atlantic LNG Co.,"Atlantic 4, PFLE, Atlantic 1",Active,524000,1.48E7,4,4,,1999-01-01
+Americas,Central America,El Salvador,El Salvador Port,Acajutla LNG Terminal,Import,23,195,303,1251,10257,,EDP (El Salvador),Active,137000,500000.0,0,0,,2021-01-01
+Asia,Eastern Asia,Russian Federation,De Kastri,Sakhalin 1,Export,61,289,757,1126,3790,ExxonMobil,"Rosneft, ONGC, Sodeco, ExxonMobil",Planned and Proposed,,6200000.0,1,0,,
+Asia,South-Central Asia,Pakistan,Gwadar,Gwadar,Import,61,859,701,110177,10974,,,Planned and Proposed,,2500000.0,1,0,,
+Asia,Eastern Asia,China,Binhai,Binhai LNG,Import,61,289,213,6769,6718,,CNOOC,Active,2300000,3000000.0,0,10,,2022-09-25
+Asia,Eastern Asia,China,Shanghai,Pudong,Import,61,289,213,2900,3799,,Shanghai LNG,Active,320000,1500000.0,3,5,,2008-11-01
+Europe,Northern Europe,Sweden,Nynashamn,Nynashamn,Import,313,653,893,1104,4563,AGA Gas,Nynäshamns Gasterminal AB,Active,20000,400000.0,0,1,,2011-01-01
+Asia,South-East Asia,Malaysia,PFLNG 3,PFLNG 3,Export,61,865,557,113364,11021,,,Under Construction,,2000000.0,1,0,,2027-12-01
+Asia,Eastern Asia,Japan,Tsu Shipyard,Tsu Shipyard,Shipyard,61,289,477,5147,3672,Universal Shipbuilding Corporation,,Active,,,0,0,,
+Africa,Northern Africa,Libya,Marsa Al Brega,Marsa El Brega,Export,7,647,529,2335,3539,Sirte Oil Corporation,Sirte Oil Corporation,Decommissioned,96000,3520000.0,4,2,,1970-01-01
+Asia,Eastern Asia,China,Jieyang,PipeChina Yuedong,Import,61,289,213,4167,3610,PipeChina,PipeChina,Active,480000,4200000.0,0,3,,2017-01-01
+Europe,Southern Europe,Montenegro,Bar,Montenegro LNG,Import,313,869,605,2021,10702,,,Planned and Proposed,,540000.0,0,0,,2028-06-01
+Asia,Eastern Asia,China,Tianjin,PipeChina Tianjin,Import,61,289,213,1183,3607,PipeChina,PipeChina,Active,390000,6000000.0,3,4,,2013-07-01
+Europe,Southern Europe,Spain,Santander,Santander,Import,313,869,877,4727,11948,,,Active,1000,,0,1,,
+Europe,Southern Europe,Spain,,Cernaval Shipyard,Shipyard,313,869,877,0,4599,,Cernaval Group Shipyards,Active,,,0,0,,
+Asia,South-East Asia,Malaysia,Malacca,Melaka,Import,61,865,557,2418,3624,,PGB,Active,260000,3800000.0,3,0,,2013-01-01
+Asia,South-East Asia,Indonesia,"Maleo, Gorontalo",PLTG Maleo,Import,61,865,451,113242,10786,,PT Pelindo III,Active,,100000.0,0,0,,2022-01-01
+Asia,Eastern Asia,South Korea,Jeju Aewol Port,Jeju LNG,Import,61,289,873,107231,7235,,KOGAS,Active,90000,800000.0,5,2,,2019-01-01
+Africa,Northern Africa,Morocco,Mohammedia,Mohammedia,Import,7,647,609,2326,10745,,ANP,Planned and Proposed,,2230000.0,0,0,,
+Africa,Western Africa,Ghana,Tema Port,Tema LNG,Import,7,987,341,4151,3789,,WAGL,Under Construction,170000,3400000.0,0,0,,2025-12-01
+Americas,Northern America,United States,Lake Charles,Louisiana LNG,Export,23,649,947,1245,12146,,,Under Construction,705000,2.75E7,5,3,,2029-01-01
+Europe,Central Europe,Poland,Gdansk,Gdansk FSRU,Import,313,199,727,1166,10915,Gaz-System,Gaz-System,Under Construction,,8900000.0,0,0,,2028-01-01
+Africa,Northern Africa,Egypt,Damietta,Damietta Import,Multi-Purpose Import Terminal,7,647,299,3636,12419,,,Active,,,0,0,,2025-06-01
+Asia,Eastern Asia,Russian Federation,Prigorodnoye,Sakhalin 2,Export,61,289,757,1122,3549,Sakhalin Energy,Sakhalin Energy,Active,200000,1.08E7,2,2,,2009-01-01
+Asia,Eastern Asia,Japan,Himeji,Himeji,Import,61,289,477,1892,3464,KEPCO JP,"Osaka Gas, KEPCO JP",Active,1260000,1.5E7,14,15,,1979-01-01
+Europe,Northern Europe,Sweden,Brofjorden,Lysekil,Import,313,653,893,1129,3780,SKANGAS AS,SKANGAS AS,Active,30000,200000.0,0,1,,2014-09-01
+Asia,Eastern Asia,China,Shanghai,Hudong-Zhonghua Shipbuilding Yard,Shipyard,61,289,213,2900,3829,H-Z Ship,H-Z Ship,Active,,,0,0,,
+Americas,Caribbean Islands,United States Virgin Islands,Saint Croix,NFE Saint Croix,Import,23,177,949,1326,12136,NFE,NFE,Active,,,0,0,,
+Asia,South-East Asia,Vietnam,Vung Tau,Long Son,Import,61,865,963,2736,11894,,,Planned and Proposed,,4400000.0,0,0,,2033-01-01
+Europe,Western Europe,France,Dunkerque,ARNO,Shipyard,313,991,325,1073,3580,ARNO Dunkerque,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Naoetsu,Naoetsu INPEX,Import,61,289,477,4655,3466,INPEX,INPEX,Active,360000,2100000.0,4,2,,2013-12-01
+Americas,South America,Argentina,Bahia Blanca,Tango FLNG,Export,23,855,55,2623,3879,YPF,Export LNG Ltd,Suspended,,500000.0,0,0,,2019-01-01
+Europe,Eastern Europe,Turkey,Nemrut,Etki,Import,313,291,935,4166,3856,Pardus Energy,Pardus Energy,Active,170000,5700000.0,0,0,,2016-01-01
+Europe,Western Europe,Germany,Hamburg,Blohm+Voss,Shipyard,313,991,339,1209,3677,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Sendai,Shin-Sendai,Import,61,289,477,1234,3752,,Tohoku Electric,Active,320000,1700000.0,3,2,,2015-01-01
+Americas,Caribbean Islands,Puerto Rico,San Juan,NFE San Juan,Import,23,177,735,1371,8473,,NFE,Active,,1100000.0,0,0,,2020-01-01
+Americas,Northern America,Canada,Point Tupper,AC LNG,Export,23,649,167,1243,3649,,Hiranandani Electricity Generation Company,Planned and Proposed,,1.35E7,3,0,,
+Asia,South-Central Asia,India,Hazira,Hazira,Import,61,859,447,2954,3451,,Hazira LNG,Active,320000,5000000.0,5,2,,2005-03-01
+Europe,Northern Europe,Norway,Mosjoen,Mosjoen,Import,313,653,665,4112,3836,,Gasnor,Active,6500,400000.0,4,8,,2007-01-01
+Europe,Western Europe,Germany,Emden,EWD Nordseewerke,Multi-Purpose Import Terminal,313,991,339,3671,12548,,,Active,,,0,0,,1903-01-01
+Africa,Northern Africa,Egypt,Idku,Idku,Export,7,647,299,3893,3537,ELNG,"ELNG T2, ELNG T1",Active,280000,7200000.0,2,2,,2005-01-01
+Americas,Northern America,United States,Pascagoula,Gulfstream LNG,Export,23,649,947,1128,7026,,,Planned and Proposed,320000,1.086E7,2,2,,
+Americas,Central America,Panama,Colon,Costa Norte LNG,Import,23,195,707,4235,3877,,"AES, Bahia Inversiones",Active,180000,1500000.0,0,1,,2018-04-01
+Americas,Northern America,Canada,,Goldboro,Import,23,649,167,0,3731,,Pieridae Energy Canada (Goldboro LNG),Suspended,480000,7200000.0,0,3,,2014-01-01
+Americas,Northern America,United States,CP2 LNG,CP2,Export,23,649,947,113277,10878,Venture Global LNG,Venture Global LNG,Under Construction,800000,2.25E7,18,4,,2027-12-01
+Europe,Northern Europe,Lithuania,Klaipeda,Western Shipyard,Shipyard,313,653,537,1165,3347,,,Active,,,0,0,,
+Europe,Southern Europe,Portugal,Setubal,Setubal Shipyard,Shipyard,313,869,729,1056,1260,,,Active,,,0,0,,
+Europe,Western Europe,Germany,Wilhelmshaven,Wilhelmshaven GasPort,Import,313,991,339,2579,3636,Uniper,DET,Active,,7400000.0,0,0,,2022-12-23
+Asia,South-East Asia,Indonesia,DSLNG,DSLNG,Export,61,865,451,4087,3568,,DSLNG,Active,170000,2000000.0,1,1,,2015-07-01
+Asia,South-Central Asia,Pakistan,Port Qasim,Port Qasim FSRU,Import,61,859,701,1356,3764,,Engro,Active,150900,4800000.0,6,1,,2015-01-01
+Asia,South-East Asia,Indonesia,Benete Port,Amman Nusantara,Multi-Purpose Import Terminal,61,865,451,106974,12216,,PT Amman Nusantara Gas,Active,,260000.0,0,1,,2025-09-01
+Asia,Eastern Asia,China,Bayuquan,Yingkou,Import,61,289,213,2510,11968,,,Under Construction,800000,,0,4,,2026-04-01
+Asia,Eastern Asia,China,Zhoushan,Xiaoqian Shipyard,Shipyard,61,289,213,5892,1404,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Niigata,Nihonku,Import,61,289,477,1609,3473,Nihonkai,Nihonkai,Active,720000,8500000.0,13,8,,1984-01-01
+Europe,Northern Europe,Finland,Hamina,Hamina,Import,313,653,319,6167,3265,Hamina LNG Oy,NEOT,Active,,100000.0,0,0,,
+Asia,Eastern Asia,South Korea,Ulsan,Hyundai Heavy Industries Ulsan Shipyard,Shipyard,61,289,873,2527,7503,,,Active,,,0,0,,
+Americas,Northern America,United States,Lake Charles,Lake Charles LNG,Export,23,649,947,1245,3791,,"EIG Partners, Energy Transfer",Planned and Proposed,425000,1.65E7,3,4,,2029-07-01
+Asia,Eastern Asia,South Korea,Yeosu,Gwangyang,Import,61,289,873,2524,3493,,POSCO International,Active,930000,5200000.0,2,6,,2005-01-01
+Americas,Northern America,United States,Plaquemines Parish,Pointe LNG,Export,23,649,947,113857,7081,,,Suspended,320000,6000000.0,0,2,,
+Africa,Western Africa,Mauritania,Banda,NFE Banda,Export,7,987,575,113164,10689,,NFE,Planned and Proposed,,,1,0,,
+Oceania,Australia and New Zealand,Australia,Gladstone,GLNG,Export,675,67,65,3401,3584,Santos GLNG,Santos GLNG,Active,280000,7800000.0,2,2,,2015-08-01
+Asia,Eastern Asia,Japan,Kagoshima,Kagoshima,Import,61,289,477,1214,3467,Nippon Gas,Nippon Gas,Active,86000,200000.0,4,2,,1996-01-01
+Asia,Eastern Asia,China,Yueqing Bay,Damaiyu LNG,Import,61,289,213,1775,10862,,,Under Construction,400000,1000000.0,0,3,,2025-12-01
+Oceania,Australia and New Zealand,Australia,Gladstone,APLNG,Export,675,67,65,3401,3583,APLNG,APLNG,Active,320000,9000000.0,2,3,,2016-08-01
+Asia,Eastern Asia,South Korea,Pyeongtaek,Dangjin,Multi-Purpose Import Terminal,61,289,873,1380,12349,,,Under Construction,540000,,0,2,,2027-06-01
+Africa,Western Africa,Nigeria,Twon-Brass,Brass LNG,Export,7,987,637,113316,10952,,,Planned and Proposed,,1.0E7,2,0,,
+Asia,Eastern Asia,China,Jinshan Caojing,Jiaxing LNG Terminal,Import,61,289,213,1704,10564,,"JiaXing Gas, Hangzhou Gas",Active,200000,1000000.0,0,2,,2021-10-01
+Asia,Eastern Asia,China,Ningbo Chuanshan,Ningbo,Import,61,289,213,1777,3442,CNOOC,Ningbo JV,Active,960000,6000000.0,0,6,,2013-01-01
+Americas,Northern America,Mexico,Manzanillo,Gato Negro,Export,23,649,589,1425,12102,,,Planned and Proposed,,4000000.0,0,0,,
+Asia,South-Central Asia,India,Mangalore,Mangalore,Import,61,859,447,2360,10732,,New Mangalore Port Trust,Planned and Proposed,,4400000.0,0,0,,
+Europe,Eastern Europe,Russian Federation,Sabetta Seaport,Yamal,Export,313,291,757,6329,3602,Novatek,OAO Yamal LNG,Active,640000,1.74E7,4,4,,2017-09-01
+Americas,South America,Peru,Melchorita,Peru LNG,Export,23,855,721,3926,3547,PLNG,PLNG,Active,260000,4450000.0,1,2,,2010-06-01
+Asia,South-Central Asia,Bangladesh,Patuakhali,Payra LNG,Import,61,859,91,105359,11549,,,Planned and Proposed,,4000000.0,0,0,,2028-01-01
+Oceania,Australia and New Zealand,Australia,,Pilbara,Export,675,67,65,0,3592,,"BHP, ExxonMobil",Suspended,,6640000.0,0,0,,
+Americas,South America,Brazil,Rio de Janeiro,Rio,Import,23,855,141,2657,3431,Petrobras,Petrobras,Active,173400,6000000.0,6,1,,2009-03-01
+Asia,Eastern Asia,Japan,Kobe,KHI Kobe,Shipyard,61,289,477,1891,3670,Kawasaki Heavy Industries Ltd.,,Active,,,0,0,,
+Europe,Western Europe,France,Antifer,Antifer,Import,313,991,325,2989,3748,,Gaz de Normandie SAS,Suspended,480000,6563000.0,0,0,,
+Americas,Caribbean Islands,Haiti,Lafiteau,Titanyen,Import,23,177,425,107555,3783,,"GasEner, Promigaz, Haytrac Power and Gas S.A., Andinat",Suspended,15000,,0,0,,2017-06-01
+Americas,Northern America,United States,Boston,Everett,Import,23,649,947,1653,3518,DOMAC,Exelon Corporation,Active,155000,5100000.0,4,2,,1971-01-01
+Asia,Eastern Asia,Japan,Onomichi,Onomichi Shipyard,Shipyard,61,289,477,5129,7715,,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Gioia Tauro,Gioia Tauro,Import,313,869,467,107240,10980,,MedGas LNG,Planned and Proposed,,8800000.0,0,0,,2029-06-01
+Asia,Eastern Asia,Japan,Takamatsu,Takamatsu,Import,61,289,477,4026,3800,,Shikoku Gas,Active,10000,80000.0,0,1,,2003-08-01
+Africa,Western Africa,Nigeria,Bonny Island,Bonny LNG,Export,7,987,637,1701,3543,NLNG,NLNG,Active,336800,2.22E7,6,4,,1999-01-01
+Africa,Western Africa,Republic of the Congo,Pointe Noire,MGS CONGO,Shipyard,7,987,743,1625,11946,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Mizushima,Mizushima,Import,61,289,477,2542,3469,Mizushima LNG,Mizushima LNG,Active,320000,4300000.0,6,2,,2006-01-01
+Oceania,Australia and New Zealand,Australia,Darwin,Tamboran,Export,675,67,65,1492,11637,,,Planned and Proposed,,6600000.0,3,0,,2030-01-01
+Asia,South-East Asia,Thailand,Rayong,Nong Fab,Import,61,865,911,1134,10216,,PTT LNG,Active,500000,7500000.0,0,2,,2022-05-01
+Americas,Northern America,United States,Cove Point,Cove Point,Export,23,649,947,3859,3786,Berkshire Hathaway,"Brookfield Infrastructure, Berkshire Hathaway",Active,700000,5250000.0,1,7,,2018-02-28
+Asia,Eastern Asia,South Korea,Yeosu,Yeosu LNG,Multi-Purpose Import Terminal,61,289,873,2524,12346,,,Under Construction,800000,,0,4,,2027-09-01
+Americas,Northern America,United States,Sabine Pass Liq.,Sabine Pass (Reg.),Import,23,649,947,4134,3527,,Cheniere,Decommissioned,800000,3.04E7,24,5,,2008-04-01
+Asia,South-East Asia,Indonesia,Pantai Amurang,Amurang LNG-Power,Import,61,865,451,112114,8702,Karpowership,Pertamina,Active,14000,100000.0,0,0,,2020-01-01
+Asia,South-East Asia,Vietnam,Cam Pha,Cai Trap LNG,Import,61,865,963,1908,10832,,,Planned and Proposed,200000,1800000.0,0,1,,2028-06-01
+Asia,Middle East,United Arab Emirates,,Fujairah LNG,Export,61,593,943,0,10989,,,Planned and Proposed,,9600000.0,2,0,,2028-01-01
+Africa,Western Africa,Senegal,Dakar,Dakar FSRU,Import,7,987,815,4567,9796,,,Active,,4000000.0,0,0,,2021-01-01
+Americas,Northern America,Mexico,Altamira,Altamira (Liq.),Export,23,649,589,1696,11568,,,Planned and Proposed,,1400000.0,1,0,,2026-11-01
+Asia,South-East Asia,Vietnam,Bac Lieu,Bac Lieu LNG,Import,61,865,963,113258,10830,,,Planned and Proposed,,2000000.0,1,0,,2027-12-01
+Asia,South-East Asia,Brunei,Seria,Lumut II,Export,61,865,149,2409,3595,,Brunei LNG,Planned and Proposed,,4496000.0,1,0,,
+Asia,Middle East,Kuwait,Mina Al-Ahmadi,MAAGP,Import,61,593,505,2367,3486,Excelerate Energy,KPC,Active,170000,5800000.0,0,0,,2014-08-01
+Europe,Northern Europe,United Kingdom,Milford Haven,South Hook,Import,313,653,945,1276,3514,South Hook Gas,South Hook LNG,Active,775000,1.54E7,15,5,,2009-01-01
+Americas,South America,Ecuador,Guayaquil,Jambeli,Import,23,855,297,3321,11353,,Sycar LLC,Planned and Proposed,,380000.0,1,0,,2026-01-01
+Americas,Northern America,United States,Galveston LNG Berth,Galveston Truck,Multi-Purpose Import Terminal,23,649,947,116721,12594,,,Active,,,0,0,,
+Europe,Northern Europe,Norway,Hoyanger,Hoyanger LNG,Import,313,653,665,112808,11657,,,Active,,,0,0,,2019-04-09
+Asia,Eastern Asia,China,Xiaomenyu Port,Wenzhou LNG,Import,61,289,213,3811,3751,,Wenzhou LNG JV,Active,800000,3240000.0,0,4,,2023-08-07
+Asia,South-East Asia,Indonesia,Benoa,Benoa,Import,61,865,451,4141,3845,PT PEL,"PT Pelindo III, JSK",Active,,300000.0,0,0,,2016-04-01
+Europe,Southern Europe,Spain,Cadiz,Cadiz Shipyard,Shipyard,313,869,877,3083,3571,Navantia,,Active,,,0,0,,
+Europe,Eastern Europe,Russian Federation,Utrennyi port,Arctic LNG 2,Export,313,291,757,6784,6757,,"Novatek, TotalEnergies, CNPC, Japan Arctic LNG, CNOOC",Active,,1.98E7,3,0,,2024-08-01
+Europe,Southern Europe,Spain,Sagunto,Sagunto,Import,313,869,877,1970,3499,Saggas,Saggas,Active,600000,6400000.0,5,4,,2006-01-01
+Europe,Western Europe,France,Fos,Fos Cavaou,Import,313,991,325,1069,3446,Elengy,Fosmax LNG,Active,330000,8000000.0,4,3,,2009-01-01
+Europe,Northern Europe,United Kingdom,Milford Haven,Dragon,Import,313,653,945,1276,3512,,Dragon LNG,Active,320000,5600000.0,6,2,,2009-01-01
+Europe,Southern Europe,Spain,Ferrol,Mugardos,Import,313,869,877,1051,3504,Reganosa,Reganosa,Active,300000,2600000.0,3,2,,2007-10-01
+Asia,South-Central Asia,India,Chhara,Chhara,Import,61,859,447,116475,11890,,HPCL,Active,400000,5000000.0,0,2,,2025-01-01
+Asia,South-East Asia,Indonesia,Surabaya,JIIPE LNG,Import,61,865,451,3521,11932,,,Planned and Proposed,,,0,0,,
+Asia,South-Central Asia,India,Dhamra,Dhamra,Import,61,859,447,1823,3871,DLTPL,DLTPL,Active,360000,5000000.0,0,2,,2023-04-03
+Africa,Eastern Africa,Tanzania,Lindi,Tanzania LNG,Export,7,287,903,112802,3674,,"Equinor, BG",Planned and Proposed,,1.0E7,2,0,,
+Africa,Eastern Africa,Mozambique,Mozambique Port,Rovuma LNG,Export,7,287,611,4163,11082,,,Planned and Proposed,,1.8E7,12,0,,2030-01-01
+Asia,Eastern Asia,China,Yangpu,PipeChina Yangpu,Import,61,289,213,2449,3611,PipeChina,"Guodian Haikong, PipeChina",Active,320000,3000000.0,0,2,,2014-01-01
+Americas,South America,Argentina,Bahia Blanca,Punta Alta,Import,23,855,55,2623,3732,,ENARSA PDV S.A.,Suspended,138000,2920000.0,0,0,,
+Asia,Middle East,Israel,Leviathan Gas Field,East Med FLNG,Export,61,593,465,116224,11460,,Chevron,Planned and Proposed,,,1,0,,
+Americas,Northern America,United States,Freeport Texas,Freeport (Reg.),Import,23,649,947,1355,3519,Freeport LNG,Freeport LNG,Decommissioned,480000,1.32E7,7,3,,2008-06-01
+Asia,Eastern Asia,China,Zhifu,Shandong,Import,61,289,213,1171,3805,,CNOOC,Under Construction,,5000000.0,0,0,,
+Europe,Eastern Europe,Russian Federation,St Petersburg,Baltic Shipyard,Shipyard,313,291,757,1028,11731,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Tokuyama,Tokuyama Shūnan,Import,61,289,477,1450,3828,,,Active,,,0,0,,2014-10-12
+Asia,Eastern Asia,China,Diefu,PipeChina Diefu,Import,61,289,213,4092,3771,PipeChina,"Shenzhen Energy Group, PipeChina",Active,640000,4000000.0,0,4,,2018-08-01
+Asia,Eastern Asia,China,Fangcheng Port,PipeChina Fangchenggang,Import,61,289,213,3527,6644,PipeChina,"PipeChina, Fangchenggang Port Group",Active,60000,600000.0,0,2,,2019-01-01
+Americas,South America,Brazil,Pecem,Portocem FSRU,Import,23,855,141,1874,11068,,,Planned and Proposed,138000,180000.0,0,0,,2026-07-01
+Europe,Northern Europe,Sweden,Loudden,Stockholm LNG Truck-Ship Terminal,Export,313,653,893,3805,11776,,,Active,,,0,0,,2013-06-01
+Europe,Western Europe,Germany,Lubmin,Lubmin FSRU,Import,313,991,339,113827,11062,Deutsche ReGas,Deutsche ReGas,Active,,3310000.0,0,0,,2022-12-15
+Asia,Eastern Asia,Russian Federation,Bechevinskaya Bay,Kamchatka STS,Export,61,289,757,113135,10579,,Novatek,Active,360000,,0,0,,2023-07-20
+Europe,Northern Europe,Norway,Floro,Ewos Florø LNG,Import,313,653,665,107544,11662,,,Active,250,,0,0,,2018-08-14
+Asia,Middle East,Oman,,Marsa,Export,61,593,677,0,12073,,"OQT, TotalEnergies",Planned and Proposed,,1000000.0,0,0,,2028-03-01
+Americas,Northern America,United States,Jordan Cove,Jordan Cove,Export,23,649,947,4105,3640,,Veresen Inc.,Suspended,320000,6560000.0,0,2,,
+Oceania,Australia and New Zealand,Australia,Gladstone,Fisherman's Landing,Export,675,67,65,3401,3590,LNG Ltd,LNG Ltd,Suspended,200000,3360000.0,1,0,,2017-01-01
+Europe,Northern Europe,Denmark,Lindø Industrial Park,Fayard Shipyard,Shipyard,313,653,257,1400,4562,,FAYARD,Active,,,0,0,,
+Asia,Eastern Asia,South Korea,Jinhae,STX Jinhae,Shipyard,61,289,873,4035,3808,,,Active,,,0,0,,
+Oceania,Australia and New Zealand,Australia,Darwin,Ichthys,Export,675,67,65,1492,3586,INPEX,Ichthys LNG,Active,330000,8900000.0,2,2,,2018-09-29
+Europe,Northern Europe,Norway,Bjugn,Valsneset LNG,Import,313,653,665,116158,11665,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Kitakyushu,Tobata,Import,61,289,477,1462,3483,,Kitakyushu LNG,Active,480000,7600000.0,9,8,,1977-01-01
+Asia,Eastern Asia,Japan,Matsuyama,Matsuyama,Import,61,289,477,3534,3803,,Shikoku Gas,Active,10000,20000.0,0,1,,2008-11-01
+Europe,Southern Europe,Italy,La Spezia,La Spezia,Import,313,869,467,1957,3457,GNL Italia,GNL Italia,Active,100000,2500000.0,4,2,,1971-01-01
+Asia,South-East Asia,Philippines,llijan,PHLNG,Import,61,865,723,113255,10822,,AG&P,Active,137000,3000000.0,0,0,,2023-04-27
+Europe,Eastern Europe,Russian Federation,Sabetta Seaport,Obsky,Export,313,291,757,6329,11881,,,Planned and Proposed,,4800000.0,1,0,,2030-01-01
+Europe,Western Europe,Germany,Wilhelmshaven,TES Wilhelmshaven,Import,313,991,339,2579,10978,,Tree Energy Solution,Under Construction,1600000,3700000.0,1,8,,2027-01-01
+Asia,Eastern Asia,Japan,Fukuoka,Fukuoka,Import,61,289,477,1918,3459,Saibu Gas,Saibu Gas,Decommissioned,70000,880000.0,7,2,,1993-01-01
+Asia,Eastern Asia,Japan,Shimizu,Sodeshi,Import,61,289,477,1888,3482,,Shimizu LNG,Active,337200,2900000.0,8,3,,1996-01-01
+Africa,Southern Africa,South Africa,Richards Bay,Richards Bay,Import,7,867,853,3173,10965,,,Planned and Proposed,,1000000.0,0,0,,2028-01-01
+Asia,South-East Asia,Thailand,Rayong,Rayong MTP,Import,61,865,911,1134,3509,,PTT LNG,Active,640000,1.15E7,9,4,,2011-09-01
+Asia,Eastern Asia,China,Zhoushan,Dinghai Shipyard,Shipyard,61,289,213,5892,3387,,,Active,,,0,0,,
+Europe,Northern Europe,Sweden,Goteborg,GO4LNG,Import,313,653,893,1106,3781,Swedegas,"Vopak LNG, Swedegas",Active,10000,320000.0,1,1,,2015-07-01
+Asia,South-East Asia,Vietnam,Cam Pha,Quang Ninh LNG,Import,61,865,963,1908,10829,,,Planned and Proposed,,2400000.0,0,0,,2029-09-01
+Americas,Northern America,United States,Point Thomson,Alaska North Slope,Export,23,649,947,116243,11514,,,Suspended,,,0,0,,
+Europe,Eastern Europe,Turkey,Saros,Saros FSRU,Import,313,291,935,116205,11450,,Botas,Active,,,0,0,,
+Europe,Southern Europe,Greece,Alexandroupolis Port FSRU,Alexandroupolis,Import,313,869,353,116524,3810,,Gastrade,Active,153600,4040000.0,1,4,,2024-02-18
+Asia,South-East Asia,Philippines,Batangas,SEPH LNG,Import,61,865,723,5317,10823,,,Planned and Proposed,,3800000.0,0,0,,2026-12-01
+Asia,Eastern Asia,China,Shanghai,Jiangnan Shipyard,Shipyard,61,289,213,2900,4469,,Jiangnan Shipyard Group,Active,,,0,0,,
+Europe,Southern Europe,Spain,,Astican,Shipyard,313,869,877,0,4275,,,Active,,,0,0,,
+Africa,Western Africa,Republic of the Congo,Marine XII,Congo FLNG II,Export,7,987,743,113278,11458,,,Under Construction,180000,2400000.0,1,0,,2026-03-01
+Africa,Western Africa,Gabon,Port Gentil,Cap Lopez Gas,Export,7,987,333,1269,11884,Perenco,Perenco,Under Construction,,700000.0,1,0,,2026-08-01
+Asia,Middle East,Yemen,Balhaf,Balhaf,Export,61,593,999,3954,3553,Yemen LNG,Yemen LNG,Suspended,280000,7200000.0,2,2,,2009-11-01
+Americas,Northern America,Mexico,Puerto Libertad,Amigo LNG,Export,23,649,589,3352,10685,,,Planned and Proposed,,7800000.0,2,0,,2029-07-01
+Asia,South-Central Asia,Pakistan,Channwaddo Creek,GEIL LNG FSRU,Import,61,859,701,4170,3858,,GEIL,Suspended,170000,5300000.0,0,0,,
+Asia,South-East Asia,Singapore Republic,,Jurong,Shipyard,61,865,833,0,3844,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Okayama,Okayama,Import,61,289,477,4027,3801,,Okayama Gas,Active,7000,50000.0,0,1,,2003-08-01
+Europe,Southern Europe,Italy,Palermo,Fincantieri Palermo,Shipyard,313,869,467,3454,11512,,,Active,,,0,0,,
+Americas,Central America,Panama,Panama LNG,Panama LNG,Import,23,195,707,116266,8376,Sinolam Smarter Energy,,Suspended,,,0,0,,2020-06-01
+Europe,Southern Europe,Gibraltar,Gibraltar LNG Terminal,Gibraltar LNG Terminal,Import,313,869,343,4152,3850,Gasnor,"Gibraltar Gov, Shell",Active,5000,100000.0,3,5,,2019-01-01
+Asia,Eastern Asia,Japan,Yura Dockyard,MES Yura,Shipyard,61,289,477,1007,3579,MES,,Active,,,0,0,,
+Asia,Eastern Asia,China,Haikou,Haikou,Import,61,289,213,4150,3849,,"PetroChina, Beijing Gas Group",Active,40000,600000.0,0,2,,2014-01-01
+Europe,Eastern Europe,Turkey,Aliaga,Aliaga,Import,313,291,935,1151,3510,Ege Gaz A.S.,Ege Gaz A.S.,Active,280000,1.07E7,11,2,,2006-01-01
+Asia,South-Central Asia,India,Dahej,Dahej,Import,61,859,447,6154,3450,Petronet,Petronet,Active,932000,1.75E7,21,6,,2004-02-01
+Asia,Eastern Asia,China,Zhuangyuan Ao,Huagang LNG terminal,Multi-Purpose Import Terminal,61,289,213,1988,12326,,Huafon,Under Construction,320000,3000000.0,0,2,,2025-12-01
+Oceania,Australia and New Zealand,Australia,Browse LNG,Browse,Export,675,67,65,4051,3589,Woodside Energy,Browse Joint Venture,Suspended,280000,1.32E7,0,0,,
+Asia,Eastern Asia,Japan,Hiroshima,Hatsukaichi,Import,61,289,477,3890,3463,Hiroshima Gas,Hiroshima Gas,Active,170000,800000.0,4,2,,1996-01-01
+Americas,Northern America,United States,Plaquemines Parish,Plaquemines,Export,23,649,947,113857,7077,,Venture Global LNG,Active,800000,2.72E7,36,4,,2024-12-26
+Americas,Northern America,United States,Texas LNG,Texas LNG,Export,23,649,947,107059,7078,,,Planned and Proposed,,4000000.0,2,0,,2029-07-01
+Asia,Eastern Asia,South Korea,Gunsan,Gunsan Shipyard,Shipyard,61,289,873,1537,2108,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Sakaide,Sakaide,Import,61,289,477,1894,3478,Sakaide LNG,Sakaide LNG,Active,180000,1200000.0,3,1,,2010-01-01
+Asia,Eastern Asia,China,Dapeng,Dapeng,Import,61,289,213,3865,3439,,GDLNG,Active,640000,6800000.0,7,4,,2006-06-01
+Asia,Eastern Asia,China,Bao'an Shenzhen,Yiulian Shipyard,Shipyard,61,289,213,3539,1389,,Shekou Shipyard,Active,,,0,0,,
+Asia,South-East Asia,Vietnam,Nha Trang,Van Phong LNG,Import,61,865,963,113260,10834,,,Planned and Proposed,,3000000.0,0,0,,2028-06-01
+Americas,South America,Brazil,Porto Itaguai,Sepetiba LNG,Import,23,855,141,1873,11207,,,Active,,2700000.0,1,0,,2022-10-26
+Europe,Southern Europe,Spain,Ferrol,Ferrol Shipyard I,Shipyard,313,869,877,1051,1251,Navantia,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Nagasaki Works,Nagasaki Works,Import,61,289,477,3912,3470,Saibu Gas,Saibu Gas,Active,35000,160000.0,3,1,,2003-01-01
+Asia,Eastern Asia,Japan,Ishikari,Ishikari,Import,61,289,477,3982,3465,,"Hokkaido Electric Power, Hokkaido Gas",Active,840000,4600000.0,7,4,,2012-12-01
+Americas,Caribbean Islands,Jamaica,Montego,Montego Bay,Import,23,177,473,1746,3857,,NFE,Active,7000,500000.0,0,7,,2016-01-01
+Asia,South-East Asia,Indonesia,Amamapare,Amamapare FSRU,Import,61,865,451,2160,11183,,,Planned and Proposed,,,0,0,,
+Asia,Eastern Asia,South Korea,Ulsan,Ulsan LNG,Import,61,289,873,2527,11096,,KET,Active,430000,1000000.0,1,2,,2024-04-05
+Asia,South-Central Asia,India,Haripur,Gopalpur FSRU,Import,61,859,447,2241,10811,,Petronet,Planned and Proposed,,4000000.0,0,0,,2026-01-01
+Europe,Eastern Europe,Russian Federation,Kaliningrad,Kaliningrad,Import,313,291,757,4239,3703,,Gazprom,Active,,1887000.0,0,0,,2018-12-01
+Oceania,Australia and New Zealand,Australia,Dampier,Pluto,Export,675,67,65,2755,3533,Woodside Energy,Pluto LNG,Active,240000,4900000.0,1,2,,2012-05-01
+Asia,Eastern Asia,South Korea,Gyeongsangnam,Goseong Shipyard,Shipyard,61,289,873,3514,6275,,,Active,,,0,0,,
+Americas,Northern America,Canada,Whiffen Head,Grassy Point FLNG,Export,23,649,167,1247,10914,,,Planned and Proposed,,4000000.0,1,0,,
+Asia,Eastern Asia,Japan,Kawasaki,Ohgishima,Import,61,289,477,2281,3475,Tokyo Gas,Tokyo Gas,Active,850000,1.02E7,12,4,,1998-01-01
+Americas,Northern America,United States,Port Fourchon,Port Fourchon,Export,23,649,947,116471,11885,,,Planned and Proposed,,1.0E7,4,0,,2030-01-01
+Americas,Northern America,Canada,Point Tupper,Bear Head LNG,Export,23,649,167,1243,3768,,Bear Head,Planned and Proposed,360000,1.2E7,3,2,,
+Asia,South-East Asia,Vietnam,Vung Tau,Thi Vai,Import,61,865,963,2736,3819,PetroVietnam,PetroVietnam,Active,,1080000.0,0,0,,2023-07-10
+Americas,South America,Brazil,Sao Francisco do Sul,TGS,Import,23,855,141,2872,10189,,NFE,Active,160000,6000000.0,1,0,,2024-03-20
+Asia,Eastern Asia,China,Yantai,Yantai LNG,Import,61,289,213,5893,10994,,,Under Construction,1000000,5900000.0,1,5,,2026-05-01
+Asia,South-East Asia,Thailand,Rayong,SGP LNG,Import,61,865,911,1134,10613,,Siamgas,Planned and Proposed,220000,3000000.0,0,0,,2028-01-01
+Europe,Southern Europe,Portugal,Sines,Sines,Import,313,869,729,1058,3492,REN,REN,Active,390000,5600000.0,7,3,,2004-01-01
+Europe,Western Europe,Germany,Brunsbuttel Port,Brunsbuettel LNG,Import,313,991,339,4526,10836,,"RWE, Gasunie Trade & Supply, KfW",Planned and Proposed,330000,6000000.0,0,2,,2026-12-01
+Europe,Northern Europe,Norway,Fredrikstad,Fredrikstad,Import,313,653,665,3876,3544,SKANGAS AS,SKANGAS AS,Active,5900,100000.0,0,9,,2011-07-01
+Europe,Southern Europe,Spain,Gijon,Astilleros Armon Shipyard,Shipyard,313,869,877,1978,11911,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Chaotoumen,Chaotoumen,Shipyard,61,289,213,2466,1414,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Zhelin Bay,Chaozhou LNG,Import,61,289,213,3542,6735,,"Sinopec, Huaying Natural Gas",Active,600000,6000000.0,1,3,,2024-09-08
+Asia,South-Central Asia,India,Ennore Port,Ennore,Import,61,859,447,4324,3837,IOC,"IOC, TIDCO",Active,360000,5000000.0,0,2,,2019-02-01
+Europe,Southern Europe,Greece,Thessaloniki,Thessaloniki FSRU,Import,313,869,353,1097,10944,,,Planned and Proposed,170000,3290000.0,0,0,,2028-01-01
+Europe,Eastern Europe,Turkey,Tuzla,Tuzla Shipyard,Shipyard,313,291,935,1187,1453,,Tersan Shipyard,Active,,,0,0,,
+Asia,Eastern Asia,China,Zhangzhou,Pipechina Zhangzhou,Import,61,289,213,113266,10839,,PipeChina,Active,360000,3000000.0,1,2,,2024-05-26
+Asia,Eastern Asia,Japan,Naoetsu,Joetsu Chubu,Import,61,289,477,4655,3687,,Chubu Electric LNG,Active,540000,3200000.0,8,3,,2011-07-01
+Asia,Eastern Asia,South Korea,Jangjwa-ri,Samkang S&C,Shipyard,61,289,873,116408,11775,,,Active,,,0,0,,
+Africa,Western Africa,Guinea,Kamsar,Kamsar LNG,Export,7,987,375,1890,11132,,,Planned and Proposed,,,1,0,,
+Americas,Northern America,United States,Calcasieu Pass,Calcasieu Pass,Export,23,649,947,4135,3842,,Venture Global LNG,Active,400000,1.1268E7,18,2,,2022-02-08
+Europe,Northern Europe,Finland,Port of Roytta,Tornio Manga,Import,313,653,319,4143,3846,,Gasum Oy,Active,50000,400000.0,0,1,,2018-01-01
+Europe,Western Europe,Germany,Wilhelmshaven,Wilhelmshaven 2,Multi-Purpose Import Terminal,313,991,339,2579,12400,,,Active,138000,,0,0,,2025-05-15
+Americas,Northern America,United States,Northeast Gateway,Northeast Gateway,Import,23,649,947,3918,3525,MARAD ,Excelerate Energy,Decommissioned,151000,3000000.0,6,1,,2008-05-19
+Asia,South-East Asia,Indonesia,Nusantara,Nusantara,Import,61,865,451,3919,3454,PT Nusantara,PT Nusantara,Active,125000,3000000.0,6,6,,2012-01-01
+Americas,South America,Brazil,Acu,Port Açu,Import,23,855,141,1540,6969,Gas Natural Acu,,Active,173400,5600000.0,0,0,,2021-01-01
+Asia,Eastern Asia,China,Shanghai,Hudong Zhonghua Shipbuilding,Shipyard,61,289,213,2900,11479,,,Active,,,0,0,,
+Americas,Northern America,United States,Monkey Island,Monkey Island,Export,23,649,947,107058,7076,,,Planned and Proposed,,1.575E7,0,0,,
+Asia,Middle East,Qatar,Ras Laffan,N-KOM,Shipyard,61,593,739,2414,1357,N-KOM,QatarEnergy,Active,,,0,0,,
+Asia,Eastern Asia,China,Lanqiao,Ganyu LNG,Import,61,289,213,1167,11026,,,Under Construction,660000,3000000.0,1,3,,2027-10-01
+Americas,South America,Colombia,Tolu,Caribbean FLNG,Export,23,855,219,2523,3793,,Frontera,Suspended,16100,400000.0,0,0,,2016-07-01
+Americas,Caribbean Islands,Bahamas,Freeport Bahamas,Grand Bahama Shipyard,Shipyard,23,177,75,1192,1460,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Osaka,Senboku,Import,61,289,477,5417,3479,Osaka Gas,Osaka Gas,Active,1710000,1.19E7,21,18,,1972-01-01
+Asia,Eastern Asia,South Korea,Ulsan,Hyundai Heavy Industries 2,Shipyard,61,289,873,2527,11908,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Nagoya,Chita,Import,61,289,477,2550,3458,Chita LNG,"Chubu Electric LNG, Toho Gas",Active,1560000,2.61E7,33,14,,1978-01-01
+Americas,Northern America,Canada,Woodfibre LNG,Woodfibre LNG,Export,23,649,167,4180,3862,Woodfibre LNG Limited,Woodfibre LNG Limited,Under Construction,250000,2100000.0,1,0,,2027-01-01
+Americas,Northern America,United States,Cameron,Cameron (Liqu.),Export,23,649,947,3854,3663,,Cameron LNG Venture,Active,480000,1.35E7,3,3,,2019-05-28
+Asia,Eastern Asia,Taiwan,Yong An,Yung An,Import,61,289,899,1909,3508,CPC Corporation,CPC Corporation,Active,690000,1.05E7,18,6,,1990-01-01
+Asia,Middle East,United Arab Emirates,Dubai Industrial Port,DDW-D,Shipyard,61,593,943,1304,3572,Drydocks World,,Active,,,0,0,,
+Africa,Northern Africa,Algeria,Arzew,Bethioua,Export,7,647,17,2327,3530,Sonatrach,Sonatrach,Active,920000,2.08E7,13,8,,1978-01-01
+Asia,South-East Asia,Malaysia,Pasir Gudang,MMH Engineering Shipyard,Shipyard,61,865,557,2976,1819,MMHE,,Active,,,0,0,,
+Asia,South-East Asia,Vietnam,Hai Phong,Nam Dinh Vu LNG,Import,61,865,963,107112,10833,,,Planned and Proposed,50000,650000.0,0,1,,2030-01-01
+Asia,Eastern Asia,China,Guangzhou,Longxuecun Shipyard,Shipyard,61,289,213,3017,38,Guangzhou Shipyard International Co Ltd,,Active,,,0,0,,
+Americas,Northern America,Mexico,Salina Cruz,Salina Cruz FLNG Terminal,Export,23,649,589,1225,10684,,CFE,Suspended,,,0,0,,
+Asia,South-Central Asia,Sri Lanka,Colombo Port,Colombo LNG,Import,61,859,881,2749,10585,,NFE,Suspended,,800000.0,1,0,,
+Europe,Northern Europe,Ireland,Tarbert,Shannon,Import,313,653,459,110732,3614,,"Hess LNG, LLC",Planned and Proposed,800000,5790000.0,0,0,,2027-07-01
+Asia,Middle East,United Arab Emirates,Sharjah,Port Khalid,Shipyard,61,593,943,1303,1663,ENOC,,Active,,,0,0,,
+Asia,Eastern Asia,South Korea,Gyeongsangnam,HSG Shipyard,Shipyard,61,289,873,3514,11360,,,Active,,,0,0,,
+Asia,Eastern Asia,Japan,Wakayama,Wakayama,Import,61,289,477,2549,3623,KEPCO JP,KEPCO JP,Suspended,840000,2240000.0,0,0,,2030-01-01
+Asia,South-East Asia,Indonesia,Cilamaya Wetan,Jawa Satu FSRU,Import,61,865,451,112736,9743,JSR,JSR,Active,,2400000.0,4,0,,2021-04-01
+Asia,South-East Asia,Vietnam,Hải Lăng,Hải Lăng,Import,61,865,963,113205,10752,,"Hanwha, T&T Group, KOGAS, Kospo",Under Construction,,1500000.0,0,0,,2027-01-01
+Africa,Western Africa,Mauritania,Tortue FLNG,GTA FLNG,Export,7,987,575,105358,6901,BP,Greater Tortue FLNG Group,Active,,2500000.0,1,0,,2025-02-01
+Asia,Eastern Asia,China,Longkou,Pipechina Longkou,Import,61,289,213,1172,10666,,PipeChina,Under Construction,1320000,5000000.0,1,4,,2026-01-01
+Oceania,Australia and New Zealand,Australia,Darwin,Darwin,Export,675,67,65,1492,3532,Santos,Darwin LNG,Active,188000,3700000.0,1,1,,2006-01-01
+Asia,Eastern Asia,China,Longtou Aoshanzui,Longtou Aoshanzui,Shipyard,61,289,213,2089,903,,,Active,,,0,0,,
+Asia,South-East Asia,Philippines,Bataan,Mariveles LNG,Import,61,865,723,2444,11893,,,Planned and Proposed,,400000.0,1,0,,
+Europe,Northern Europe,Finland,Porvoo,Porvoo,Export,313,653,319,1027,3754,Gasum Oy,Gasum Oy,Active,2100,16000.0,0,3,,2010-01-01
+Europe,Northern Europe,Norway,Polarbase,Polarbase LNG,Import,313,653,665,116324,11668,,,Active,1250,,0,0,,2017-05-18
+Asia,Eastern Asia,China,Jiangyin-Jingjiang,Jiangyin-Jingjiang Shipyard,Shipyard,61,289,213,107699,8216,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Shanghai,Changxingxiang Shipyard,Shipyard,61,289,213,2900,1415,COSCO,,Active,,,0,0,,
+Africa,Northern Africa,Egypt,Ain Sukhna,Ain Sukhna 2,Import,7,647,299,2338,4813,EGAS,EGAS,Active,170000,5700000.0,4,1,,2015-01-01
+Americas,Northern America,United States,Pascagoula,Pascagoula,Import,23,649,947,1128,3522,El Paso,Gulf LNG,Decommissioned,320000,8800000.0,10,2,,2011-11-01
+Europe,Northern Europe,Norway,Havnen,Havnen LNG,Import,313,653,665,116317,11664,,,Active,,,0,0,,2021-06-03
+Europe,Southern Europe,Greece,Corinth,Dioriga Gas FSRU,Import,313,869,353,4706,10865,,Dioriga Gas,Planned and Proposed,210000,1860000.0,1,0,,2026-01-01
+Asia,South-Central Asia,India,Kakinada,Kakinada FSRU,Import,61,859,447,1612,11000,,ECPL,Suspended,,4000000.0,1,0,,
+Europe,Northern Europe,Estonia,Paldiski,Paldiski,Import,313,653,311,1399,3746,,ESPA,Suspended,320000,1800000.0,1,0,,
+Europe,Western Europe,Netherlands,Vlissingen,ZET,Import,313,991,627,1368,11931,,"Hoegh, VTTI",Planned and Proposed,,5900000.0,0,0,,2028-06-01
+Africa,Western Africa,Cameroon,Cameroon Kribi FLNG,Cameroon FLNG Terminal,Export,7,987,163,4188,3596,,"Black & Veatch, Keppel Offshore & Marine, GOLAR LNG LTD",Active,125000,2400000.0,4,1,,2018-04-01
+Europe,Northern Europe,Norway,Sunndalsora,Sunndalsora LNG,Import,313,653,665,110112,11658,,,Active,,,0,0,,2023-08-04
+Europe,Southern Europe,Greece,Revithoussa,Revithoussa,Import,313,869,353,3932,3449,Desfa SA,"Hellenic, DEPA",Active,225000,5100000.0,6,3,,2000-01-01
+Europe,Northern Europe,Norway,Risavika,Stavanger,Export,313,653,665,3933,3661,SKANGAS AS,SKANGAS AS,Active,30000,330000.0,1,1,,2010-01-01
+Asia,Eastern Asia,China,Caofeidian,Caofeidian,Import,61,289,213,2500,3742,,"Beijing Enterprises, PetroChina, Hebei Natural Gas",Active,1280000,1.0E7,0,8,,2013-01-01
+Americas,Northern America,Canada,Kitimat,Kitimat,Export,23,649,167,3378,3555,Kitimat LNG,Kitimat LNG,Suspended,420000,1.12E7,0,0,,
+Americas,Caribbean Islands,Puerto Rico,Guayanilla,Peñuelas,Import,23,177,735,1321,3526,EcoElectrica,EcoElectrica,Active,160000,2000000.0,4,1,,2000-01-01
+Asia,Eastern Asia,South Korea,Geoje Samsung,SHI Geoje,Shipyard,61,289,873,4033,3806,,,Active,,,0,0,,
+Europe,Southern Europe,Spain,Gijon,El Musel,Import,313,869,877,1978,3501,Enagás,"Reganosa, Enagás",Active,300000,5100000.0,4,2,,2023-07-01
+Asia,Eastern Asia,China,Chongming,HRDD Chong Ming Island Shipyard,Shipyard,61,289,213,2468,3675,,,Active,,,0,0,,
+Europe,Northern Europe,Latvia,Zvejniekciems,Skulte,Import,313,653,517,113178,11171,,,Suspended,,,1,0,,
+Asia,Eastern Asia,Japan,Yokohama,Negishi,Import,61,289,477,1008,3472,Tokyo Gas,"TEPCO LNG, Tokyo Gas",Active,990000,1.08E7,14,12,,1969-01-01
+Asia,Eastern Asia,Japan,Hitachi,Hitachi,Import,61,289,477,4107,3833,Tokyo Gas,Tokyo Gas,Active,230000,5300000.0,5,1,,2016-03-01
+Americas,Northern America,United States,Brookhaven,Penn LNG,Export,23,649,947,116402,11340,,,Planned and Proposed,,7200000.0,1,0,,2030-01-01
+Africa,Northern Africa,Egypt,Ain Sukhna,Ain Sukhna 3,Multi-Purpose Import Terminal,7,647,299,2338,12533,EGAS,EGAS,Active,160000,3800000.0,4,1,,2025-07-15
+Americas,Northern America,United States,Kenai,Kenai,Export,23,649,947,1240,3551,,ConocoPhillips,Decommissioned,,1500000.0,1,3,,1969-01-01
+Europe,Southern Europe,Spain,,Granadilla LNG,Import,313,869,877,0,3505,Gascan ,Gascan ,Suspended,150000,1040000.0,0,1,,2021-01-01
+Asia,Eastern Asia,China,Kaisha Island,Kaisha Shipyard,Shipyard,61,289,213,3650,3219,,,Active,,,0,0,,
+Europe,Northern Europe,Finland,Pori,Pori,Import,313,653,319,3388,3818,,Gasum Oy,Active,28500,100000.0,0,1,,2016-09-01
+Asia,Eastern Asia,China,Yangshan,Yangshan II,Multi-Purpose Import Terminal,61,289,213,1197,12615,,,Under Construction,880000,,0,4,,2025-12-01
+Europe,Eastern Europe,Romania,Constanta,Constanta,Import,313,291,751,1173,3737,,Romgaz,Suspended,,4000000.0,0,0,,
+Asia,South-Central Asia,India,Karaikal LNG,Karaikal,Import,61,859,447,116476,11891,,AG&P,Under Construction,,1000000.0,0,0,,2027-04-01
+Asia,Eastern Asia,China,Huizhou,Huizhou LNG,Import,61,289,213,1546,10993,,,Active,600000,6200000.0,0,3,,2024-08-29
+Asia,Eastern Asia,Japan,Kawasaki,Hig. Ohgishima,Import,61,289,477,2281,3474,TEPCO LNG,TEPCO LNG,Active,540000,1.32E7,9,9,,1984-01-01
+Asia,Eastern Asia,Japan,Hibiki,Hibiki,Import,61,289,477,4076,3557,,"Saibu Gas, Kyushu Electric",Active,360000,2400000.0,5,2,,2014-11-01
+Asia,South-East Asia,Malaysia,Bintulu,Bintulu,Export,61,865,557,2767,3542,,"MLNG Tiga, MLNG Dua, MLNG Satu",Active,390000,2.93E7,9,6,,1983-01-01
+Americas,Northern America,United States,Golden Pass,Golden Pass,Import,23,649,947,3884,3520,GPLNG,GPLNG,Decommissioned,775000,1.57E7,8,5,,2010-07-01
+Americas,Northern America,United States,Jacksonville,JAX LNG,Export,23,649,947,1562,11602,,,Active,7570,180000.0,1,1,,2018-11-01
+Americas,Northern America,Mexico,NFE Altamira FLNG Terminal,NFE Lakach FLNG,Export,23,649,589,113862,11126,,NFE,Planned and Proposed,,1400000.0,1,0,,2028-07-01
+Africa,Eastern Africa,Mozambique,Rovuma Basin,Coral South FLNG,Export,7,287,611,113201,3597,,"Eni, CNPC, Galp, KOGAS, ENH",Active,,3400000.0,1,0,,2022-10-05
+Asia,Eastern Asia,China,Yinyang,Jisheng Shipyard,Shipyard,61,289,213,3803,11951,,,Active,,,0,0,,
+Asia,Eastern Asia,China,Dalian,PipeChina Dalian,Import,61,289,213,2512,3437,PipeChina,"Dalian Port Company, Dalian Construction investment, PipeChina",Active,480000,6000000.0,3,3,,2011-04-01
+Asia,South-East Asia,Malaysia,PFLNG 2 Rotan Gas Field,PFLNG 2,Export,61,865,557,4183,3816,Petronas,Petronas,Active,,1500000.0,0,0,,2020-01-01
+Europe,Western Europe,Netherlands,Zijkanaal B,Scheepswerf De Schroef Shipyard,Shipyard,313,991,627,116333,11742,,,Active,,,0,0,,
+Asia,South-East Asia,Philippines,Batangas,VEC LNG,Import,61,865,723,5317,10824,,,Planned and Proposed,162400,3000000.0,0,0,,2027-01-01
+Europe,Western Europe,France,Marseille,Marseille,Shipyard,313,991,325,3905,3578,CNdM,,Active,,,0,0,,
+Europe,Southern Europe,Spain,Cadiz,Puerto Real Shipyard,Shipyard,313,869,877,3083,11909,,,Active,,,0,0,,
+Asia,South-Central Asia,India,Bhankodar,Jafrabad FSRU,Import,61,859,447,112969,10272,,"GLL, Mitsui, GMB, Swan Energy Ltd.",Under Construction,,5000000.0,1,0,,2025-09-01
+Europe,Southern Europe,Italy,Ravenna,Ravenna FSRU,Import,313,869,467,1586,11341,SNAM,,Active,170000,3900000.0,1,0,,2025-04-01
+Americas,South America,Colombia,Buenaventura,Buenaventura LNG,Multi-Purpose Import Terminal,23,855,219,1833,12654,,,Planned and Proposed,,400000.0,0,0,,2027-06-01
+Asia,South-East Asia,Indonesia,Bojonegara,PT SMI,Shipyard,61,865,451,3729,6041,,,Active,,,0,0,,
+Asia,South-Central Asia,India,Kukrahati,Kukrahati,Import,61,859,447,116477,11892,,,Planned and Proposed,,3000000.0,0,0,,
+Asia,Eastern Asia,Russian Federation,Vladivostok,Vladivostok,Export,61,289,757,3473,3785,,Gazprom,Planned and Proposed,,1000000.0,1,0,,
+Europe,Southern Europe,Italy,Monfalcone,Fincantieri Shipyard,Shipyard,313,869,467,107243,11938,,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Porto Empedocle,Porto Empedocle,Import,313,869,467,3720,3617,,Enel SpA,Planned and Proposed,320000,6400000.0,0,0,,2030-01-01
+Europe,Southern Europe,Albania,Vlore Port,Vlora,Import,313,869,13,4682,11016,,,Planned and Proposed,,3500000.0,1,0,,
+Europe,Western Europe,Germany,Brunsbuttel Port,Brunsbüttel FSRU,Import,313,991,339,4526,10979,German Government,DET,Active,,5700000.0,4,0,,2023-02-14
+Asia,South-East Asia,Malaysia,Pengerang,Pengerang LNG,Import,61,865,557,1239,3874,,Petronas,Active,400000,3500000.0,0,2,,2017-10-01
+Asia,Eastern Asia,Japan,Tomakomai,Tomakomai LNG Terminal,Multi-Purpose Import Terminal,61,289,477,1236,12415,,,Planned and Proposed,,,0,0,,2030-12-31
+Europe,Northern Europe,United Kingdom,Belfast,Belfast Shipyard,Shipyard,313,653,945,1277,1604,,,Active,,,0,0,,
+Europe,Southern Europe,Spain,Bilbao,Bilbao LNG Storage,Import,313,869,877,1049,11949,,,Active,1000,,0,1,,
+Americas,South America,Brazil,Suape,Suape LNG,Import,23,855,141,2576,10188,,NFE,Under Construction,,5400000.0,1,0,,2028-01-01
+Americas,South America,Argentina,Bahia Blanca,Bahia Blanca,Import,23,855,55,2623,3428,Excelerate Energy,YPF,Active,138000,3700000.0,6,1,,2008-06-01
+Asia,Eastern Asia,Japan,Hachinohe,Hachinohe II,Import,61,289,477,3530,3461,ENEOS,ENEOS,Active,280000,1000000.0,5,2,,2015-01-01
+Oceania,Australia and New Zealand,Australia,Prelude Area,Prelude,Export,675,67,65,4234,3591,,"Shell, INPEX, CPC Corporation, KOGAS",Active,220000,3600000.0,1,1,,2019-07-01
+Americas,South America,Brazil,Aracaju,Sergipe,Import,23,855,141,6750,3855,NFE,CELSE,Active,170000,5600000.0,0,0,,2020-02-01
+Asia,South-East Asia,Indonesia,Sulawesi-Maluku,Sulawesi-Maluku FSRU,Export,61,865,451,116568,12054,,,Planned and Proposed,,,0,0,,2026-06-01
+Europe,Eastern Europe,Turkey,Aliaga,Aliaga Demolition Yard,Shipyard,313,291,935,1151,8194,,,Active,,,0,0,,
+Europe,Eastern Europe,Azerbaijan,Port of Turkmenbashi,Turkmenbashi LNG Terminal,Import,313,291,107029,110388,8432,,,Suspended,,,0,0,,
+Europe,Western Europe,Germany,Rostock,Rostock,Import,313,991,339,1553,3735,,Vopak LNG,Planned and Proposed,360000,800000.0,0,0,,
+Europe,Western Europe,Germany,Hamburg,Blohm Voss Shipyard,Shipyard,313,991,339,1209,1481,Blohm+Voss,,Active,,,0,0,,
+Europe,Northern Europe,Norway,Floro,Saga Fjordbase LNG,Import,313,653,665,107544,11660,,,Active,500,,0,0,,2018-04-02
+Asia,Eastern Asia,China,Tangjia He,Tianjin Nangang LNG,Import,61,289,213,2220,10992,Beijing Gas Group,Beijing Gas Group,Active,2040000,1.2E7,0,10,,2023-09-15
+Africa,Western Africa,Nigeria,Pennington,Pennington,Export,7,987,637,2886,11981,,,Planned and Proposed,,3000000.0,0,0,,
+Americas,South America,Argentina,Sierra Grande,Argentina LNG,Multi-Purpose Import Terminal,23,855,55,116673,12293,,,Planned and Proposed,,,0,0,,2027-01-01
+Europe,Northern Europe,Norway,Bergen,Skalevik LNG,Import,313,653,665,110176,11663,,,Active,,,0,0,,2018-06-18
+Asia,Eastern Asia,Japan,Hakodate,Hakodate,Import,61,289,477,4032,3462,Hokkaido Gas,Hokkaido Gas,Active,5000,45000.0,0,0,,2006-02-01
+Asia,Eastern Asia,Japan,Akita,Akita LNG,Import,61,289,477,107517,8827,Tobu Gas,Tobu Gas,Active,12000,,0,1,,2015-01-01
+Asia,South-Central Asia,Bangladesh,Chittagong,Moheshkhali,Import,61,859,91,1375,3695,Excelerate Energy,PetroBangla,Active,138000,4500000.0,6,4,,2018-04-01
+Asia,Eastern Asia,China,Quanzhou,Fujian,Import,61,289,213,2460,3438,CNOOC,Fujian LNG,Active,960000,6300000.0,0,6,,2008-08-01
+Asia,Eastern Asia,China,Tianjin,Tianjin Shipyard,Shipyard,61,289,213,1183,3676,,,Active,,,0,0,,
+Asia,South-East Asia,Indonesia,Lhokseumawe,Arun Liq.,Export,61,865,451,1532,3540,Arun NGL,Arun NGL,Decommissioned,636000,4640000.0,3,5,,1984-01-01
+Oceania,Pacific Islands,Papua New Guinea,Port Moresby,Papua LNG,Export,675,114962,709,2857,10686,,"Santos, TotalEnergies, ExxonMobil",Planned and Proposed,,5600000.0,2,0,,2029-01-01
+Europe,Southern Europe,Spain,Vigo,Metalships & Docks Shipyard,Shipyard,313,869,877,3712,4637,,,Active,,,0,0,,
+Americas,South America,Suriname,Nickerie,Firebird LNG,Export,23,855,891,113861,11120,,,Planned and Proposed,,2700000.0,1,0,,2030-01-01
+Europe,Eastern Europe,Turkey,Ceyhan,Dortyol FSRU,Import,313,291,935,2457,3872,Botas,Botas,Active,263000,4099999.9999999995,0,0,,2018-01-01
+Asia,Eastern Asia,China,Nantong Port,Keppel Nantong Shipyard,Shipyard,61,289,213,4821,11910,,,Active,,,0,0,,
+Asia,South-East Asia,Indonesia,Masela,Abadi LNG,Export,61,865,451,111957,8673,INPEX,"INPEX, Shell",Planned and Proposed,,9500000.0,1,0,,2030-01-01
+Asia,Eastern Asia,China,Rudong Island,Rudong,Import,61,289,213,3895,3440,CNPC,Jiangsu Rudong,Active,680000,1.0E7,3,3,,2011-11-01
+Europe,Western Europe,Netherlands,Rotterdam,Rotterdam Keppel Shipyard,Shipyard,313,991,627,2573,1559,,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Genoa,Amici shipyard,Shipyard,313,869,467,1070,11724,,,Active,,,0,0,,
+Americas,Northern America,Mexico,Puerto Libertad,Saguaro LNG,Export,23,649,589,3352,3625,,"DKRW Energy, LLC",Planned and Proposed,540000,1.0E7,2,0,,2028-07-01
+Americas,Northern America,Mexico,Topolobampo,Topolobampo,Import,23,649,589,1602,3744,,"Repsol, TransCanada",Suspended,,4160000.0,0,0,,2025-01-01
+Asia,South-East Asia,Thailand,Rayong,Gulf MTP LNG Terminal,Multi-Purpose Import Terminal,61,865,911,1134,12414,,,Planned and Proposed,,,0,0,,2028-01-01
+Europe,Eastern Europe,Turkey,Yalova,Hat-San Shipyard,Shipyard,313,291,935,5374,3397,,,Active,,,0,0,,
+Europe,Southern Europe,Spain,Santander,Astander Santander Shipyard,Shipyard,313,869,877,4727,8809,,,Active,,,0,0,,
+Africa,Eastern Africa,Mozambique,Maputo,Matola,Import,7,287,611,1574,10964,,,Speculative,,5000000.0,0,0,,2026-07-01
+Americas,Northern America,United States,Plaquemines Parish,Delta LNG,Export,23,649,947,113857,11882,,,Planned and Proposed,,2.25E7,36,0,,2030-01-01
+Asia,South-East Asia,Philippines,Batangas,Luzon LNG Terminal,Import,61,865,723,5317,10825,,,Planned and Proposed,,4400000.0,0,0,,2027-06-01
+Americas,Northern America,United States,Plaquemines Parish,Main Pass,Export,23,649,947,113857,3645,,United LNG,Suspended,125000,2.64E7,0,0,,
+Asia,Eastern Asia,China,Longkou,Sinopec Longkou,Multi-Purpose Import Terminal,61,289,213,1172,12512,,,Under Construction,880000,6500000.0,0,4,,2025-08-01
+Americas,Northern America,United States,Rio Grande LNG,RGLNG,Export,23,649,947,4193,3870,NextDecade,NextDecade,Under Construction,,2.7E7,5,0,,2027-01-01
+Asia,Eastern Asia,China,Yangtou Bay,Yangtou Shipyard,Shipyard,61,289,213,107488,7673,,,Active,,,0,0,,
+Asia,Middle East,Israel,Hadera,Hadera,Import,61,593,465,3967,3563,INGL,INGL,Active,138000,3500000.0,6,0,,2013-01-01
+Americas,Northern America,United States,Elba Island,Elba Island Liq.,Export,23,649,947,3947,3878,Southern LNG Inc.,ELC,Active,550000,2500000.0,10,5,,2019-12-09
+Asia,South-East Asia,Singapore Republic,,SLNG II,Import,61,865,833,0,11847,Singapore LNG,Singapore LNG,Planned and Proposed,,5000000.0,0,0,,2030-12-01
+Asia,Eastern Asia,Japan,Nagoya,Kawagoe,Import,61,289,477,2550,3468,Chubu Electric LNG,Chubu Electric LNG,Active,840000,8700000.0,7,6,,1997-01-01
+Asia,South-East Asia,Philippines,Subic Bay,Subic Shipyard,Shipyard,61,865,723,1723,3868,Keppel Shipyard,,Active,,,0,0,,
+Europe,Southern Europe,Cyprus,Vasiliko,Vasilikos FSRU,Import,313,869,241,1330,10669,,Cyprus Govt,Under Construction,136000,2000000.0,1,0,,2026-01-01
+Asia,Eastern Asia,Japan,Kushiro,Kushiro,Import,61,289,477,1902,3821,ENEOS,ENEOS,Active,10000,40000.0,0,1,,2015-04-01
+Oceania,Pacific Islands,Papua New Guinea,Port Moresby,PNG LNG,Export,675,114962,709,2857,3601,ExxonMobil,PNG LNG,Active,320000,8300000.000000001,2,2,,2014-05-01
+Asia,South-Central Asia,India,Jaigarh,Jaigarh FSRU,Import,61,859,447,1818,3864,H-Energy,H-Energy,Under Construction,,4000000.0,0,0,,2027-04-01
+Americas,Caribbean Islands,Aruba,Aruba Harbour,Aruba LNG,Import,23,177,59,1302,10677,,WEB Aruba,Planned and Proposed,,,0,0,,
+Americas,Northern America,Mexico,Ensenada,ECA LNG,Export,23,649,589,4958,10129,,ECA LNG,Under Construction,320000,3250000.0,1,2,,2026-04-01
+Asia,South-Central Asia,India,Digha Offshore Area,Digha,Import,61,859,447,4185,3865,H-Energy,H-Energy,Under Construction,,3000000.0,0,0,,
+Asia,Eastern Asia,South Korea,Ulsan,Hyundai Ulsan Shipyard,Shipyard,61,289,873,2527,3822,,,Active,,,0,0,,
+Asia,Eastern Asia,South Korea,Dangjin,Dangjin LNG,Import,61,289,873,1827,10967,,KOGAS,Under Construction,1400000,3500000.0,0,7,,2025-12-01
+Asia,South-East Asia,Indonesia,Pattirolokka,Sengkang LNG,Export,61,865,451,113363,11020,,,Under Construction,,2000000.0,4,0,,
+Asia,South-Central Asia,Bangladesh,Chittagong,Chittagong Shipbreaking,Shipyard,61,859,91,1375,11108,,,Active,,,0,0,,
+Europe,Northern Europe,Norway,Kollsnes,Kollsnes,Export,313,653,665,4082,3827,Gasnor,Gasnor,Active,,120000.0,1,0,,2003-01-01
+Americas,Northern America,United States,Rio Grande LNG,Rio Grande,Import,23,649,947,4193,3698,,Tergas,Suspended,300000,1760000.0,0,0,,2018-01-01
+Americas,Northern America,Mexico,La Paz,Pichilingue LNG,Import,23,649,589,1745,9780,,CFE,Active,,800000.0,0,0,,2021-06-01
+Asia,Eastern Asia,China,Tieshan Gang,PipeChina Beihai,Import,61,289,213,1958,3609,,,Active,640000,6000000.0,0,4,,2016-01-01
+Europe,Western Europe,Germany,Sassnitz,Mukran,Import,313,991,339,107524,11558,,Deutsche ReGas,Active,145130,3800000.0,0,0,,2024-02-24
+Asia,Eastern Asia,China,Haihe Wuhu,Wuhu LNG,Import,61,289,213,112809,9811,,"Anhui Wanjiang Logistics (Group) Co.,Ltd, CNOOC",Under Construction,600000,1500000.0,0,3,,
+Asia,Middle East,United Arab Emirates,Ruwais,Ruwais,Import,61,593,943,2420,3848,ADNOC Gas,GASCO,Active,151000,3800000.0,0,0,,2016-08-01
+Asia,Middle East,Bahrain,Sitra,Bahrain LNG,Import,61,593,77,2372,3694,Bahrain LNG,"Teekay LNG, Samsung HI, Bapco Energies, GIC",Active,,6100000.0,0,0,,2020-01-27
+Asia,Eastern Asia,Japan,Yokohama,MHI Yokohama,Shipyard,61,289,477,1008,3664,MHI,,Active,,,0,0,,
+Asia,Eastern Asia,China,Yantai,Yantai Raffles Shipyard,Multi-Purpose Import Terminal,61,289,213,5893,12630,,,Active,,,0,0,,
+Americas,South America,Brazil,Barcarena,Barcarena,Import,23,855,141,1739,10280,Golar,NFE,Active,,6000000.0,1,0,,2024-02-23
+Americas,South America,Colombia,Cartagena (Colombia),Cartagena (COL),Import,23,855,219,1205,3831,SPEC,SPEC,Active,170000,3800000.0,3,4,,2016-06-01
+Asia,Eastern Asia,Japan,Ariake Shipyard,Ariake Shipyard,Shipyard,61,289,477,5146,3671,Universal Shipbuilding Corporation,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Genoa,Genova Shipyard,Shipyard,313,869,467,1070,3659,ITALCANTIERI,ITALCANTIERI,Active,,,0,0,,
+Asia,Eastern Asia,South Korea,Incheon Port,Incheon,Import,61,289,873,4436,3494,,KOGAS,Active,3480000,4.0E7,52,23,,1996-01-01
+Asia,South-East Asia,Singapore Republic,,Keppel Shipyard Singapore,Shipyard,61,865,833,0,3574,Keppel Offshore & Marine,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Portovesme,Portovesme FSRU,Import,313,869,467,110188,11058,,,Planned and Proposed,140000,,0,0,,2029-01-01
+Africa,Eastern Africa,Mozambique,Rovuma Basin,Coral North FLNG,Export,7,287,611,113201,12075,,,Planned and Proposed,,3500000.0,0,0,,2027-01-01
+Asia,Eastern Asia,China,Dalian,Dalian Shipyard,Shipyard,61,289,213,2512,1466,,,Active,,,0,0,,
+Europe,Southern Europe,Italy,Piombino,Piombino LNG,Import,313,869,467,107239,11163,SNAM,,Active,,3700000.0,6,0,,2023-05-04
+Europe,Western Europe,Germany,Bremerhaven,Lloyd Werft Bremerhaven GmbH,Shipyard,313,991,339,4779,11953,,,Active,,,0,0,,
+Asia,Middle East,Qatar,Ras Laffan,Ras Laffan,Export,61,593,739,2414,3548,"QG Opco, RG Opco","Qatargas 1, Qatargas 2 T4, Qatargas 2 T5, Qatargas 3, Qatargas 4, RasGas 1, RasGas 2, RasGas 3",Active,2000000,7.7E7,14,18,,1996-12-01
+Asia,Eastern Asia,Japan,Sendai,Shin-Minato,Import,61,289,477,1234,3480,SCGB,SCGB,Active,80000,300000.0,3,1,,1997-01-01
+Europe,Southern Europe,Italy,Livorno,Toscana,Import,313,869,467,1072,3455,OLT Toscana,"SNAM, Igneo Infrastructure Partners, GOLAR LNG LTD",Active,137500,2800000.0,3,4,,2013-07-01
+Americas,Northern America,United States,Pascagoula,Bollinger Mississippi Repair,Multi-Purpose Import Terminal,23,649,947,1128,12561,,,Active,,,0,0,,
+Asia,South-Central Asia,Pakistan,Port Qasim,GasPort LNG,Import,61,859,701,1356,3692,PGPC,PGPC,Active,170000,5000000.0,0,0,,2018-01-01
+Asia,Eastern Asia,China,Guangzhou,Jovo,Import,61,289,213,3017,3797,Jovo,Jovo,Active,160000,1500000.0,4,2,,2012-12-01
+Europe,Northern Europe,United Kingdom,Hound Point,Rosyth Dockyard,Shipyard,313,653,945,1270,11642,,,Active,,,0,0,,
+Asia,South-East Asia,Vietnam,Vung Tau,Cai Mep,Import,61,865,963,2736,8832,Hai Linh,"Hai Linh, AG&P",Active,219000,3000000.0,0,3,,2025-06-01
+Asia,South-Central Asia,India,Haldia,Haldia,Import,61,859,447,2787,3762,,Hiranandani Electricity Generation Company,Planned and Proposed,,1000000.0,0,0,,
+Africa,Western Africa,Equatorial Guinea,AMPCO,Bioko,Export,7,987,307,2532,3538,,EG LNG,Active,272000,3700000.0,1,2,,2007-01-01
+Americas,Northern America,United States,Jaxport,Talleyrand LNG Bunker,Export,23,649,947,116413,11954,,,Active,,,0,0,,2019-01-09

@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 import os
-import pandas as pd
+import csv
 import requests
 from io import StringIO
 from datetime import datetime
 from Access_token import get_token
 import time
 import subprocess
-
+# fa el mateix que l'altre fetch all pero sense pandas ni cap llibreria
+# que no sigui estàndard de python per permetre l'execució en entorns
+# amb pocs recursos com la CPU del meu servidor 
 # -----------------------------
 # Temps d'inici
 # -----------------------------
@@ -31,23 +33,48 @@ def fetch_save_daily_and_consolidated(endpoint, daily_prefix, params=None):
         print(f"❌ Error a l'endpoint {endpoint}: {response.status_code}")
         return
     
-    df_new = pd.read_csv(StringIO(response.text), sep=";")
+    # Llegim CSV del text rebut
+    csv_text = response.text.strip()
+    if not csv_text:
+        print(f"⚠️ CSV buit per {endpoint}")
+        return
     
+    csv_reader = csv.reader(StringIO(csv_text), delimiter=';')
+    rows = list(csv_reader)
+    if not rows:
+        print(f"⚠️ Sense dades per {endpoint}")
+        return
+
     # CSV diari
     today_str = datetime.today().strftime("%Y-%m-%d")
     daily_csv_path = os.path.join(DATA_DIR, f"{daily_prefix}_{today_str}.csv")
-    df_new.to_csv(daily_csv_path, index=False)
+    with open(daily_csv_path, "w", newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerows(rows)
     print(f"✅ CSV diari desat: {daily_csv_path}")
-    
+
     # CSV consolidat
     consolidated_csv_path = os.path.join(DATA_DIR, f"{daily_prefix}.csv")
+
+    # Llegim l'antic si existeix
+    old_rows = []
     if os.path.exists(consolidated_csv_path):
-        df_old = pd.read_csv(consolidated_csv_path)
-        df_combined = pd.concat([df_old, df_new])
-        df_combined.drop_duplicates(inplace=True)
-    else:
-        df_combined = df_new
-    df_combined.to_csv(consolidated_csv_path, index=False)
+        with open(consolidated_csv_path, newline='', encoding='utf-8') as f:
+            old_rows = list(csv.reader(f))
+    
+    # Combina i treu duplicats (basat en files senceres)
+    combined = old_rows + rows[1:] if old_rows else rows
+    unique = []
+    seen = set()
+    for r in combined:
+        t = tuple(r)
+        if t not in seen:
+            unique.append(r)
+            seen.add(t)
+
+    with open(consolidated_csv_path, "w", newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerows(unique)
     print(f"✅ CSV consolidat actualitzat: {consolidated_csv_path}")
 
 # -----------------------------
