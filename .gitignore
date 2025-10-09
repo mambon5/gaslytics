@@ -1,6 +1,8 @@
 envi/
 envi3.11/
 .env
+**/.env
+
 # Environments (en qualsevol subcarpeta)
 **/venv/
 **/.venv/

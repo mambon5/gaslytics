@@ -1,3 +1,16 @@
+
+- [Plan](#plan)
+- [Vista precisa](#vista-precisa)
+  - [Plan](#plan-1)
+  - [Permisos pel servidor](#permisos-pel-servidor)
+  - [Servei per mostrar les dades descaregades](#servei-per-mostrar-les-dades-descaregades)
+  - [Virtual host en apache per fer accessible la app desde fora](#virtual-host-en-apache-per-fer-accessible-la-app-desde-fora)
+  - [si el servei kpler\_fetch.service dona errors:](#si-el-servei-kpler_fetchservice-dona-errors)
+  - [Error al executar la streamlit app al meu servidor de mireia 77](#error-al-executar-la-streamlit-app-al-meu-servidor-de-mireia-77)
+  - [Sense pandas i numpy el servidor antic funciona](#sense-pandas-i-numpy-el-servidor-antic-funciona)
+  - [visualització de les dades de kpler descarregades](#visualització-de-les-dades-de-kpler-descarregades)
+- [Dades de kpler guardades:](#dades-de-kpler-guardades)
+
 # Plan
 
 Crear un servei de linyx `systemd`, és a dir un fitxer `.service` i un timer `.timer` que cridi el servei cada dia a els 2 am. I el servei ha de fer dues coses:
@@ -218,3 +231,43 @@ Recopilació de com ha de funcionar els serveis:
 
 ## visualització de les dades de kpler descarregades
 S'han de poder veure les dades de kpler aqui `http://gaslytics.nescolam.com/`
+
+
+# Dades de kpler guardades:
+
+Estem guardant aquesta informació:
+
+| Taula                          | Descripció                                                                                              | Relacions clau                                                                                                                     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **contracts**                  | Contractes de subministrament de LNG entre *sellers* i *buyers* (capacitat, durada, origen/destinació). | ↔️ `installations` (zones d’origen i destinació) <br>↔️ `flows` (moviments reals de gas)                                           |
+| **diversions**                 | Vaixells que canvien destí o rumb en un viatge LNG.                                                     | ↔️ `installations` (ports o plantes d’origen i destí) <br>↔️ `trades` (moviment comercial original)                                |
+| **flows**                      | Fluxos diaris d’LNG per país (importacions/exportacions).                                               | ↔️ `contracts` (per identificar acords que expliquen els fluxos) <br>↔️ `storages` (part dels fluxos pot acabar en emmagatzematge) |
+| **installations**              | Llista de plantes i terminals LNG (import/export, país, operador, capacitat).                           | ↔️ `contracts`, `diversions`, `outages`, `storages inv installations`                                                              |
+| **outages**                    | Parades planificades o no planificades de plantes LNG.                                                  | 🔗 `installation name` → `installations.installation`                                                                              |
+| **storages inv countries**     | Volums totals d’emmagatzematge per país.                                                                | ↔️ `flows` (entrades/sortides de gas)                                                                                              |
+| **storages inv installations** | Mateixa informació, però per instal·lació concreta.                                                     | 🔗 `installation` → `installations.installation`                                                                                   |
+| **trades**                     | Moviments comercials de LNG entre països (origen/destinació).                                           | ↔️ `contracts` (si provenen d’un acord) <br>↔️ `diversions` (si un vaixell canvia de destí)                                        |
+
+
+👉 En resum:
+installations és el nucli físic (infraestructura),
+contracts i trades són la part comercial,
+flows i storages la part operativa,
+diversions i outages els esdeveniments que afecten el flux normal.
+
+per fer això farem dos arxius en python per guardar els csv en una base de dades mysql relacional. L'estructura del arbre de fitxers seria la següent:
+```
+gaslytics/
+│
+├── data/
+│   ├── kpler_contracts.csv
+│   ├── kpler_installations.csv
+│   ├── kpler_flows.csv
+│   ├── kpler_outages.csv
+│   ├── kpler_trades.csv
+│   ├── kpler_diversions.csv
+│   └── kpler_storages_inv_installations.csv
+├──database/
+│   ├── models.py          # models SQLAlchemy
+│   └── load_data.py       # script per carregar CSVs
+```
