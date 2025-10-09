@@ -1,11 +1,10 @@
-import csv
-import os
-from datetime import datetime
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
-from models import *
-
+from models import Base, Installation, Contract, Diversion, Flow, Outage, StorageCountry, StorageInstallation, Trade
 from dotenv import load_dotenv
+import os
+import csv
+from datetime import datetime
 
 # Carrega el fitxer .env
 load_dotenv()
@@ -21,11 +20,16 @@ DB_URL = f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
 DATA_DIR = "../data"
 
 engine = create_engine(DB_URL)
+
+# Crear taules si no existeixen
+print(Base.metadata.tables.keys())
+Base.metadata.create_all(engine)
+
+
 Session = sessionmaker(bind=engine)
 session = Session()
 
-# Crear taules si no existeixen
-Base.metadata.create_all(engine)
+
 
 def safe_float(v):
     try: return float(v)
@@ -46,23 +50,47 @@ def load_generic(model, csv_path, unique_fields=None):
     if not os.path.exists(csv_path):
         print(f"⚠️  Fitxer no trobat: {csv_path}")
         return
+
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
+        # 🧹 Normalitzar els noms de les columnes, treiem simbols extranys, convertim esapsi a _ i posem e
+        # tot a minúscules
+        reader.fieldnames = [
+            k.lower()
+             .replace(" ", "_")
+             .replace("(", "")
+             .replace(")", "")
+             .replace(".", "")
+             .replace("/", "_")
+             for k in reader.fieldnames
+        ]
+
         count_new = 0
         for row in reader:
+            # Converteix strings buides a None
+            clean_row = {k: (v if v.strip() != "" else None) for k, v in row.items()}
+            row = clean_row
+            # Evitar duplicats si s’indiquen
             if unique_fields:
-                filters = [getattr(model, uf) == row.get(uf) for uf in unique_fields]
+                filters = []
+                for uf in unique_fields:
+                    attr_name = uf.lower().replace(" ", "_")
+                    if attr_name in row:
+                        filters.append(getattr(model, attr_name) == row[attr_name])
                 exists = session.execute(select(model).where(*filters)).scalar_one_or_none()
                 if exists:
                     continue
+
             try:
-                obj = model(**{k.lower().replace(" ", "_"): v for k, v in row.items()})
+                obj = model(**row)
                 session.add(obj)
                 count_new += 1
             except Exception as e:
                 print(f"Error fila {row}: {e}")
+
         session.commit()
         print(f"✅ {model.__tablename__}: {count_new} files noves carregades.")
+
 
 # ------------------------------------------------------
 # Carregar totes les taules
